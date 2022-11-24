@@ -1,56 +1,4 @@
 
-# Note
-model: zh-hanzi-eng-audio
-deck: hsk1
-tags: daily-life
-
-## Hanzi
-新
-## Pinyin
-xin1
-## English
-abbr. for Xinjiang 新疆, new, newly, meso- (chemistry)
-## Audio
-[sound:hsk1-daily-life_7b8a6bebd3076cdffaf2193f397d4d9fa399c148.mp3]
-## Components
-Components:
-<br/>亲 = parent,  one's own (flesh and blood),  relative, parents-in-law of one's offspring<br/>斤 = catty,  (PRC) weight equal to 500 g,  (Tw) weight equal to 600 g<br/><br/>
-## Kangxi
-Kangxi:
-<br/>斤 = catty, (PRC) weight equal to 500 g, (Tw) weight equal to 600 g, (HK, Malaysia, Singapore) slightly over 604 g<br/><br/>
-## Equivalents
-Equivalents: 
-## Traditional
-Traditional: 新, 新
-## Example
-Example: 新年号！
-
-# Note
-model: zh-hanzi-eng-audio
-deck: hsk1
-tags: daily-life
-
-## Hanzi
-年
-## Pinyin
-nian2
-## English
-grain, harvest (old), variant of 年, surname Nian, year, CL:個|个
-## Audio
-[sound:hsk1-daily-life_6f14c2641c259cd65bcfe5ba57a7a0aa34468fe7.mp3]
-## Components
-Components:
-
-## Kangxi
-Kangxi:
-
-## Equivalents
-Equivalents: 
-## Traditional
-Traditional: 秊, 年, 年
-## Example
-Example: 新年号！
-
 
 # Note
 model: zh-hanzi-eng-audio
@@ -117,32 +65,6 @@ Components:
 ## Traditional
 ## Example
 
-# Note
-model: zh-hanzi-eng-audio
-deck: hsk1
-tags: daily-life
-
-## Hanzi
-中午
-## Pinyin
-zhong1, wu3
-## English
-noon, midday, CL:個|个
-## Audio
-[sound:hsk1-daily-life_0c5382c1dbbbfc9ea638ff80a2743a40ec4f9320.mp3]
-## Components
-Components:
-<br/>中 = China,  Chinese,  surname Zhong, to hit (the mark),  to be hit by,  to suffer, within,  among,  in<br/>午 = 7th earthly branch: 11 a.m.-1 p.m.,  noon,  5th solar month (6th June-6th July)<br/><br/>
-## Kangxi
-Kangxi:
-<br/><br/>
-## Equivalents
-Equivalents: 
-## Traditional
-Traditional: 中午
-## Example
-Example: 我们明天中午看电影。
-
 
 # Note
 model: zh-hanzi-eng-audio
@@ -164,32 +86,6 @@ Components:
 ## Equivalents
 ## Traditional
 ## Example
-
-# Note
-model: zh-hanzi-eng-audio
-deck: hsk1
-tags: daily-life
-
-## Hanzi
-今年
-## Pinyin
-jin1, nian2
-## English
-this year
-## Audio
-[sound:hsk1-daily-life_fe9ea3f07077f7a6ca6dcb107bc2eeda3b6d3682.mp3]
-## Components
-Components:
-<br/>今 = now,  the present time,  current<br/>年 = grain,  harvest (old),  variant of 年, surname Nian, year,  CL:個|个<br/><br/>
-## Kangxi
-Kangxi:
-<br/><br/>
-## Equivalents
-Equivalents: 
-## Traditional
-Traditional: 今年
-## Example
-Example: 他今年回美国。
 
 
 # Note
@@ -235,32 +131,6 @@ Components:
 ## Traditional
 ## Example
 
-# Note
-model: zh-hanzi-eng-audio
-deck: hsk1
-tags: daily-life
-
-## Hanzi
-饭
-## Pinyin
-fan4
-## English
-cooked rice, CL:碗
-## Audio
-[sound:hsk1-daily-life_cded745e113ab659989b7d1f147899c5f9eb8a68.mp3]
-## Components
-Components:
-<br/>饣 = "to eat" or "food" radical in Chinese characters (Kangxi radical 184)<br/>反 = contrary,  in reverse,  inside out or upside down<br/><br/>
-## Kangxi
-Kangxi:
-<br/>饣 = "to eat" or "food" radical in Chinese characters (Kangxi radical 184)<br/><br/>
-## Equivalents
-Equivalents: 
-## Traditional
-Traditional: 飯
-## Example
-Example: 我们中午十二点吃饭。
-
 
 # Note
 model: zh-hanzi-eng-audio
@@ -304,32 +174,6 @@ Components:
 ## Equivalents
 ## Traditional
 ## Example
-
-# Note
-model: zh-hanzi-eng-audio
-deck: hsk1
-tags: daily-life
-
-## Hanzi
-快
-## Pinyin
-kuai4
-## English
-rapid, quick, speed, rate, soon, almost, to make haste, clever, sharp (of knives or wits), forthright, plainspoken, gratified, pleased, pleasant
-## Audio
-[sound:hsk1-daily-life_e6e99d0e57a6ae9b8aceb69a0020e74763b92687.mp3]
-## Components
-Components:
-<br/>忄 = Kangxi radical 61 (心) as a vertical side element<br/>夬 = decisive<br/><br/>
-## Kangxi
-Kangxi:
-<br/>忄 = Kangxi radical 61 (心) as a vertical side element<br/><br/>
-## Equivalents
-Equivalents: 
-## Traditional
-Traditional: 快
-## Example
-Example: 你快来！
 
 
 # Note
@@ -485,58 +329,6 @@ Components:
 ## Traditional
 ## Example
 
-# Note
-model: zh-hanzi-eng-audio
-deck: hsk1
-tags: daily-life
-
-## Hanzi
-十七
-## Pinyin
-shi2, qi1
-## English
-seventeen, 17
-## Audio
-[sound:hsk1-daily-life_b3b7e3e2a07a6189e128c1be5821c2e7223074ec.mp3]
-## Components
-Components:
-<br/>十 = ten,  10<br/>七 = seven,  7<br/><br/>
-## Kangxi
-Kangxi:
-<br/>十 = ten, 10<br/><br/>
-## Equivalents
-Equivalents: 
-## Traditional
-Traditional: 十七
-## Example
-Example: 十七号下午一点五十五分
-
-# Note
-model: zh-hanzi-eng-audio
-deck: hsk1
-tags: daily-life
-
-## Hanzi
-一点
-## Pinyin
-yi1, dian3
-## English
-a bit, a little, one dot, one point
-## Audio
-[sound:hsk1-daily-life_6cd7ceb40116098c0423038600046b7714fefe08.mp3]
-## Components
-Components:
-<br/>一 = one,  1,  single<br/>点 = point,  dot,  drop<br/><br/>
-## Kangxi
-Kangxi:
-<br/>一 = one, 1, single, a (article), as soon as, entire, whole, all, throughout, "one" radical in Chinese characters (Kangxi radical 1), also pr.<br/><br/>
-## Equivalents
-Equivalents: 
-## Traditional
-Traditional: 一點
-## Example
-Example: 十七号下午一点五十五分
-
 
 # Note
 model: zh-hanzi-eng-audio
@@ -546,14 +338,14 @@ tags: daily-life
 ## Hanzi
 十七号下午一点五十五分
 ## Pinyin
-shi2qi1 hao4 xia4wu3 yi1dian3 wu3shi2wu3 fen1
+shi2qi1 hao4 xia4wu3 yi1dian3 wu3 shi2 wu3 fen1
 ## English
 1:55pm on the 17th
 ## Audio
 [sound:hsk1-daily-life_50f6effec08b7aed5e273214d3b4dff2b7af1aaf.mp3]
 ## Components
 Components:
-<br/>十七 = seventeen, 17<br/>号 = ordinal number,  day of a month,  mark, roar,  cry,  CL:個|个<br/>下午 = afternoon, CL:個|个<br/>一点 = a bit, a little, one dot, one point<br/>分 = part,  share,  ingredient, to divide,  to separate,  to distribute<br/><br/>
+<br/>十七 = seventeen, 17<br/>十 = ten,  10<br/>号 = ordinal number,  day of a month,  mark, roar,  cry,  CL:個|个<br/>下午 = afternoon, CL:個|个<br/>一点 = a bit, a little, one dot, one point<br/>五 = five,  5<br/>十 = ten,  10<br/>五 = five,  5<br/>分 = part,  share,  ingredient, to divide,  to separate,  to distribute<br/><br/>
 ## Kangxi
 ## Equivalents
 ## Traditional
@@ -566,46 +358,20 @@ deck: hsk1
 tags: daily-life
 
 ## Hanzi
-8月19号上午10点20分
+八月十几号上午十点二十分
 ## Pinyin
 ba1yue4 shi2jiu3 hao4 shang4wu3 shi2 dian3 er4shi2 fen1
 ## English
 August 19th at 10:20am
 ## Audio
-[sound:hsk1-daily-life_b479e32f0cbf11fe0b7f2a9811ebb2b89aa3234b.mp3]
+[sound:hsk1-daily-life_2796539ba200c7357b76734f771dc915a10b95ca.mp3]
 ## Components
 Components:
-<br/>号 = ordinal number,  day of a month,  mark, roar,  cry,  CL:個|个<br/>上午 = morning, CL:個|个<br/><br/>
+<br/>八月 = August, eighth month (of the lunar year)<br/>十几 = more than ten, a dozen or more<br/>十 = ten,  10<br/>号 = ordinal number,  day of a month,  mark, roar,  cry,  CL:個|个<br/>上午 = morning, CL:個|个<br/>十 = ten,  10<br/>点 = point,  dot,  drop<br/>二十 = twenty, 20<br/>十 = ten,  10<br/>分 = part,  share,  ingredient, to divide,  to separate,  to distribute<br/><br/>
 ## Kangxi
 ## Equivalents
 ## Traditional
 ## Example
-
-# Note
-model: zh-hanzi-eng-audio
-deck: hsk1
-tags: daily-life
-
-## Hanzi
-十月
-## Pinyin
-shi2, yue4
-## English
-October, tenth month (of the lunar year)
-## Audio
-[sound:hsk1-daily-life_5b17a06153593eb010726643670eee09ea018c24.mp3]
-## Components
-Components:
-<br/>十 = ten,  10<br/>月 = moon,  month,  monthly<br/><br/>
-## Kangxi
-Kangxi:
-<br/>十 = ten, 10<br/>月 = moon, month, monthly, CL:個|个<br/><br/>
-## Equivalents
-Equivalents: 
-## Traditional
-Traditional: 十月
-## Example
-Example: 十月二十四号上午八点四十五分
 
 
 # Note
@@ -616,14 +382,14 @@ tags: daily-life
 ## Hanzi
 十月二十四号上午八点四十五分
 ## Pinyin
-shi2yue4 er4shi2si4 hao4 shang4wu3 ba1 dian3 si4shi2wu3 fen1
+shi2yue4 er4 shi2 si4 hao4 shang4wu3 ba1 dian3 si4 shi2 wu3 fen1
 ## English
 October 24th at 8:45am
 ## Audio
 [sound:hsk1-daily-life_7041bace314707fd72ad307d02dadcb5b9dfa460.mp3]
 ## Components
 Components:
-<br/>十月 = October, tenth month (of the lunar year)<br/>号 = ordinal number,  day of a month,  mark, roar,  cry,  CL:個|个<br/>上午 = morning, CL:個|个<br/>八 = eight,  8<br/>点 = point,  dot,  drop<br/>分 = part,  share,  ingredient, to divide,  to separate,  to distribute<br/>八 = eight,  8<br/><br/>
+<br/>十月 = October, tenth month (of the lunar year)<br/>十 = ten,  10<br/>二 = two,  2,  (Beijing dialect) stupid<br/>十 = ten,  10<br/>四 = four,  4<br/>号 = ordinal number,  day of a month,  mark, roar,  cry,  CL:個|个<br/>上午 = morning, CL:個|个<br/>八 = eight,  8<br/>点 = point,  dot,  drop<br/>四 = four,  4<br/>十 = ten,  10<br/>五 = five,  5<br/>分 = part,  share,  ingredient, to divide,  to separate,  to distribute<br/>八 = eight,  8<br/><br/>
 ## Kangxi
 ## Equivalents
 ## Traditional
@@ -658,16 +424,764 @@ deck: hsk1
 tags: daily-life
 
 ## Hanzi
-星期天上午10点30分
+星期天上午十点三十分
 ## Pinyin
 xing1qi1tian1 shang4wu3 shi2 dian3 san1shi2 fen1
 ## English
 Sunday at 10:30 am
 ## Audio
-[sound:hsk1-daily-life_ae09b189a3ed69b775209b8677f778e7dd5067b8.mp3]
+[sound:hsk1-daily-life_d23644b1a6ed81f93ac24f9046a830216752750f.mp3]
 ## Components
 Components:
-<br/>星期天 = Sunday, CL:個|个<br/>上午 = morning, CL:個|个<br/><br/>
+<br/>星期天 = Sunday, CL:個|个<br/>上午 = morning, CL:個|个<br/>十 = ten,  10<br/>点 = point,  dot,  drop<br/>三十 = thirty, 30<br/>十 = ten,  10<br/>分 = part,  share,  ingredient, to divide,  to separate,  to distribute<br/><br/>
+## Kangxi
+## Equivalents
+## Traditional
+## Example
+
+
+# Note
+model: zh-hanzi-eng-audio
+deck: hsk1
+tags: daily-life
+
+## Hanzi
+王老师来了。
+## Pinyin
+Wang2 lao3shi1 lai2 le5.
+## English
+Teacher Wang came.
+## Audio
+[sound:hsk1-daily-life_22d04f5333e825d76268a5996b2f537e0411c235.mp3]
+## Components
+Components:
+<br/>王 = king or monarch,  best or strongest of its type,  grand, surname Wang, to rule,  to reign over<br/>老师 = teacher, CL:個|个<br/>来 = to come,  to arrive,  to come round<br/>了 = (completed action marker),  (modal particle indicating change of state,  situation now), (of eyes) bright,  clear-sighted,  to understand clearly, to finish,  to achieve,  variant of 瞭|了, unofficial variant of 瞭<br/><br/>
+## Kangxi
+## Equivalents
+## Traditional
+## Example
+
+
+# Note
+model: zh-hanzi-eng-audio
+deck: hsk1
+tags: daily-life
+
+## Hanzi
+我吃了。
+## Pinyin
+wo3 chi4 le5.
+## English
+I ate.
+## Audio
+[sound:hsk1-daily-life_6e6770069ffc05524bc55c6187955a867e0ce5e4.mp3]
+## Components
+Components:
+<br/>我 = I,  me,  my<br/>吃 = to eat,  to consume,  to eat at (a cafeteria etc), variant of 吃<br/>了 = (completed action marker),  (modal particle indicating change of state,  situation now), (of eyes) bright,  clear-sighted,  to understand clearly, to finish,  to achieve,  variant of 瞭|了, unofficial variant of 瞭<br/><br/>
+## Kangxi
+## Equivalents
+## Traditional
+## Example
+
+
+# Note
+model: zh-hanzi-eng-audio
+deck: hsk1
+tags: daily-life
+
+## Hanzi
+我同学买了一本书。
+## Pinyin
+wo3 tong2xue2 mai3 le5 yi4 ben3 shu1.
+## English
+My classmate bought a book.
+## Audio
+[sound:hsk1-daily-life_d277f77bbf8e20b2e3059ff53f94235ed52d26a5.mp3]
+## Components
+Components:
+<br/>我 = I,  me,  my<br/>同学 = to study at the same school, fellow student, classmate, CL:位<br/>买 = to buy,  to purchase<br/>了 = (completed action marker),  (modal particle indicating change of state,  situation now), (of eyes) bright,  clear-sighted,  to understand clearly, to finish,  to achieve,  variant of 瞭|了, unofficial variant of 瞭<br/>一 = one,  1,  single<br/>本 = root,  stem,  origin<br/>书 = abbr. for 書經|书经, book,  letter,  document<br/><br/>
+## Kangxi
+## Equivalents
+## Traditional
+## Example
+
+
+# Note
+model: zh-hanzi-eng-audio
+deck: hsk1
+tags: daily-life
+
+## Hanzi
+他吃了我的饭。
+## Pinyin
+ta1 chi1 le5 wo3 de5 fan4.
+## English
+He ate my food.
+## Audio
+[sound:hsk1-daily-life_8091e9481c1dd3f632ddbc5ebd552db93d5881a0.mp3]
+## Components
+Components:
+<br/>他 = he or him,  (used for either sex when the sex is unknown or unimportant),  (used before sb's name for emphasis)<br/>吃 = to eat,  to consume,  to eat at (a cafeteria etc), variant of 吃<br/>了 = (completed action marker),  (modal particle indicating change of state,  situation now), (of eyes) bright,  clear-sighted,  to understand clearly, to finish,  to achieve,  variant of 瞭|了, unofficial variant of 瞭<br/>我 = I,  me,  my<br/>的 = aim,  clear, of,  ~'s (possessive particle),  (used after an attribute), really and truly, see 的士<br/>饭 = cooked rice,  CL:碗<br/><br/>
+## Kangxi
+## Equivalents
+## Traditional
+## Example
+
+
+# Note
+model: zh-hanzi-eng-audio
+deck: hsk1
+tags: daily-life
+
+## Hanzi
+你吃了吗？我吃了。
+## Pinyin
+ni3 chi1 le5 ma5? wo3 chi1 le5.
+## English
+Did you eat? I ate.
+## Audio
+[sound:hsk1-daily-life_e4427503554b9db820a80794b20e588bf3f3fd02.mp3]
+## Components
+Components:
+<br/>你 = you (informal,  as opposed to courteous 您<br/>吃 = to eat,  to consume,  to eat at (a cafeteria etc), variant of 吃<br/>了 = (completed action marker),  (modal particle indicating change of state,  situation now), (of eyes) bright,  clear-sighted,  to understand clearly, to finish,  to achieve,  variant of 瞭|了, unofficial variant of 瞭<br/>吗 = (question particle for "yes-no" questions), see 嗎啡|吗啡,  morphine<br/>我 = I,  me,  my<br/>吃 = to eat,  to consume,  to eat at (a cafeteria etc), variant of 吃<br/>了 = (completed action marker),  (modal particle indicating change of state,  situation now), (of eyes) bright,  clear-sighted,  to understand clearly, to finish,  to achieve,  variant of 瞭|了, unofficial variant of 瞭<br/><br/>
+## Kangxi
+## Equivalents
+## Traditional
+## Example
+
+
+# Note
+model: zh-hanzi-eng-audio
+deck: hsk1
+tags: daily-life
+
+## Hanzi
+你吃了吗？我没有吃。
+## Pinyin
+ni3 chi1 le5 ma5? wo3 mei2you3 chi1.
+## English
+Did you eat? I didn't eat.
+## Audio
+[sound:hsk1-daily-life_fd7df2dff41cd9d5702f3924367a2142dbf7b98d.mp3]
+## Components
+Components:
+<br/>你 = you (informal,  as opposed to courteous 您<br/>吃 = to eat,  to consume,  to eat at (a cafeteria etc), variant of 吃<br/>了 = (completed action marker),  (modal particle indicating change of state,  situation now), (of eyes) bright,  clear-sighted,  to understand clearly, to finish,  to achieve,  variant of 瞭|了, unofficial variant of 瞭<br/>吗 = (question particle for "yes-no" questions), see 嗎啡|吗啡,  morphine<br/>我 = I,  me,  my<br/>没有 = haven't, hasn't, doesn't exist, to not have, to not be<br/>吃 = to eat,  to consume,  to eat at (a cafeteria etc), variant of 吃<br/><br/>
+## Kangxi
+## Equivalents
+## Traditional
+## Example
+
+
+# Note
+model: zh-hanzi-eng-audio
+deck: hsk1
+tags: daily-life
+
+## Hanzi
+他去了学校。
+## Pinyin
+ta1 qu4 le5 xue2xioa4.
+## English
+He went to school.
+## Audio
+[sound:hsk1-daily-life_fb4ebe249f53552feee99dd58f23a90c0325cbac.mp3]
+## Components
+Components:
+<br/>他 = he or him,  (used for either sex when the sex is unknown or unimportant),  (used before sb's name for emphasis)<br/>去 = to go,  to go to (a place),  (of a time etc) last<br/>了 = (completed action marker),  (modal particle indicating change of state,  situation now), (of eyes) bright,  clear-sighted,  to understand clearly, to finish,  to achieve,  variant of 瞭|了, unofficial variant of 瞭<br/>学校 = school, CL:所<br/><br/>
+## Kangxi
+## Equivalents
+## Traditional
+## Example
+
+
+# Note
+model: zh-hanzi-eng-audio
+deck: hsk1
+tags: daily-life
+
+## Hanzi
+朋友来了我的家。
+## Pinyin
+peng2you5 lai2 le5 wo3 de5 jia1.
+## English
+A friend came to my house.
+## Audio
+[sound:hsk1-daily-life_03e49cd65705a631a29a5e873e43ab299cce6027.mp3]
+## Components
+Components:
+<br/>朋友 = friend, CL:個|个<br/>来 = to come,  to arrive,  to come round<br/>了 = (completed action marker),  (modal particle indicating change of state,  situation now), (of eyes) bright,  clear-sighted,  to understand clearly, to finish,  to achieve,  variant of 瞭|了, unofficial variant of 瞭<br/>我 = I,  me,  my<br/>的 = aim,  clear, of,  ~'s (possessive particle),  (used after an attribute), really and truly, see 的士<br/>家 = home,  family,  (polite) my (sister, see 傢伙|家伙<br/><br/>
+## Kangxi
+## Equivalents
+## Traditional
+## Example
+
+
+# Note
+model: zh-hanzi-eng-audio
+deck: hsk1
+tags: daily-life
+
+## Hanzi
+妈妈去了北京吗？
+## Pinyin
+ma1ma5 qu4 le5 Bei3jing1 ma5?
+## English
+Did mother go to Beijing?
+## Audio
+[sound:hsk1-daily-life_05b6493364dadebd062127c2a7f63a6122d31548.mp3]
+## Components
+Components:
+<br/>妈妈 = mama, mommy, mother, CL:個|个<br/>去 = to go,  to go to (a place),  (of a time etc) last<br/>了 = (completed action marker),  (modal particle indicating change of state,  situation now), (of eyes) bright,  clear-sighted,  to understand clearly, to finish,  to achieve,  variant of 瞭|了, unofficial variant of 瞭<br/>北京 = Beijing,  capital of People's Republic of China, Peking, PRC government<br/>吗 = (question particle for "yes-no" questions), see 嗎啡|吗啡,  morphine<br/><br/>
+## Kangxi
+## Equivalents
+## Traditional
+## Example
+
+
+# Note
+model: zh-hanzi-eng-audio
+deck: hsk1
+tags: daily-life
+
+## Hanzi
+你昨天去了什么？
+## Pinyin
+ni3 zuo2tian1 chi1 le5 shen2me5?
+## English
+What did you eat yesterday?
+## Audio
+[sound:hsk1-daily-life_1698f313b7fdff0c27ce99086d809ed71cf91040.mp3]
+## Components
+Components:
+<br/>你 = you (informal,  as opposed to courteous 您<br/>昨天 = yesterday<br/>去 = to go,  to go to (a place),  (of a time etc) last<br/>了 = (completed action marker),  (modal particle indicating change of state,  situation now), (of eyes) bright,  clear-sighted,  to understand clearly, to finish,  to achieve,  variant of 瞭|了, unofficial variant of 瞭<br/>什么 = what?, something, anything<br/><br/>
+## Kangxi
+## Equivalents
+## Traditional
+## Example
+
+
+# Note
+model: zh-hanzi-eng-audio
+deck: hsk1
+tags: daily-life
+
+## Hanzi
+我昨天去了学校。
+## Pinyin
+wo3 zuo2tian1 qu4 le5 xue2xiao4.
+## English
+I went to school yesterday.
+## Audio
+[sound:hsk1-daily-life_5ee03b8c9d15b3da85d256e3174df279da615fcf.mp3]
+## Components
+Components:
+<br/>我 = I,  me,  my<br/>昨天 = yesterday<br/>去 = to go,  to go to (a place),  (of a time etc) last<br/>了 = (completed action marker),  (modal particle indicating change of state,  situation now), (of eyes) bright,  clear-sighted,  to understand clearly, to finish,  to achieve,  variant of 瞭|了, unofficial variant of 瞭<br/>学校 = school, CL:所<br/><br/>
+## Kangxi
+## Equivalents
+## Traditional
+## Example
+
+
+# Note
+model: zh-hanzi-eng-audio
+deck: hsk1
+tags: daily-life
+
+## Hanzi
+你昨天做了什么？我昨天看了一个电影。
+## Pinyin
+ni3 zuo2tian1 zuo4 le5 shen2me5? wo3 zuo2tian1 kan4 le5 yi2 ge5 dian4ying3.
+## English
+What did you do yesterday? I watched a movie yesterday.
+## Audio
+[sound:hsk1-daily-life_d68ae9b65f28f5e11db861e7b9ae336cd7910ef9.mp3]
+## Components
+Components:
+<br/>你 = you (informal,  as opposed to courteous 您<br/>昨天 = yesterday<br/>做 = to make; to produce,  to write; to compose,  to do; to engage in; to hold (a party etc)<br/>了 = (completed action marker),  (modal particle indicating change of state,  situation now), (of eyes) bright,  clear-sighted,  to understand clearly, to finish,  to achieve,  variant of 瞭|了, unofficial variant of 瞭<br/>什么 = what?, something, anything<br/>我 = I,  me,  my<br/>昨天 = yesterday<br/>看 = to look after,  to take care of,  to watch, to see,  to look at,  to read<br/>了 = (completed action marker),  (modal particle indicating change of state,  situation now), (of eyes) bright,  clear-sighted,  to understand clearly, to finish,  to achieve,  variant of 瞭|了, unofficial variant of 瞭<br/>一 = one,  1,  single<br/>个 = individual,  this,  that, used in 自個兒|自个儿, variant of 個|个<br/>电影 = movie, film, CL:部<br/><br/>
+## Kangxi
+## Equivalents
+## Traditional
+## Example
+
+
+# Note
+model: zh-hanzi-eng-audio
+deck: hsk1
+tags: daily-life
+
+## Hanzi
+我昨天去了小名家。
+## Pinyin
+wo3 zuo2tian1 qu4 le5 Xiao3ming2 jia1.
+## English
+I went to Xiaoming's house yesterday.
+## Audio
+[sound:hsk1-daily-life_546e82757e9f9bfe451e153eb3a1a65616b6d772.mp3]
+## Components
+Components:
+<br/>我 = I,  me,  my<br/>昨天 = yesterday<br/>去 = to go,  to go to (a place),  (of a time etc) last<br/>了 = (completed action marker),  (modal particle indicating change of state,  situation now), (of eyes) bright,  clear-sighted,  to understand clearly, to finish,  to achieve,  variant of 瞭|了, unofficial variant of 瞭<br/>小名 = pet name for a child, childhood name<br/>家 = home,  family,  (polite) my (sister, see 傢伙|家伙<br/><br/>
+## Kangxi
+## Equivalents
+## Traditional
+## Example
+
+
+# Note
+model: zh-hanzi-eng-audio
+deck: hsk1
+tags: daily-life
+
+## Hanzi
+我昨天看了一个电影。
+## Pinyin
+wo3 zuo2tian1 kan4 le5 yi2 ge5 dian4ying3.
+## English
+I watched a movie yesterday.
+## Audio
+[sound:hsk1-daily-life_d6ecc58c418e31595e478db1c272cd8a31c561a0.mp3]
+## Components
+Components:
+<br/>我 = I,  me,  my<br/>昨天 = yesterday<br/>看 = to look after,  to take care of,  to watch, to see,  to look at,  to read<br/>了 = (completed action marker),  (modal particle indicating change of state,  situation now), (of eyes) bright,  clear-sighted,  to understand clearly, to finish,  to achieve,  variant of 瞭|了, unofficial variant of 瞭<br/>一 = one,  1,  single<br/>个 = individual,  this,  that, used in 自個兒|自个儿, variant of 個|个<br/>电影 = movie, film, CL:部<br/><br/>
+## Kangxi
+## Equivalents
+## Traditional
+## Example
+
+
+# Note
+model: zh-hanzi-eng-audio
+deck: hsk1
+tags: daily-life
+
+## Hanzi
+他在家看书。
+## Pinyin
+ta1 zai2 jia1 kan4 shu1.
+## English
+He is reading a book at home.
+## Audio
+[sound:hsk1-daily-life_3f757dec38b32bb57c3209721c44b8370f739b71.mp3]
+## Components
+Components:
+<br/>他 = he or him,  (used for either sex when the sex is unknown or unimportant),  (used before sb's name for emphasis)<br/>在 = (located) at,  (to be) in,  to exist<br/>家 = home,  family,  (polite) my (sister, see 傢伙|家伙<br/>看 = to look after,  to take care of,  to watch, to see,  to look at,  to read<br/>书 = abbr. for 書經|书经, book,  letter,  document<br/><br/>
+## Kangxi
+## Equivalents
+## Traditional
+## Example
+
+
+# Note
+model: zh-hanzi-eng-audio
+deck: hsk1
+tags: daily-life
+
+## Hanzi
+赵老师在学校吃饭吗？赵老师在学校吃饭。
+## Pinyin
+Zhao4 lao2shi1 zai4 xue2xiao4 chi1 fan4 ma? Zhao4 lao2shi1 zai4 xue2xiao4 chi1 fan4 .
+## English
+Does teacher Zhao eat at school? Teacher Zhao eats at school.
+## Audio
+[sound:hsk1-daily-life_d3d0274ef1e3970cd5d1096b28141ff201f8dda5.mp3]
+## Components
+Components:
+<br/>赵 = surname Zhao,  one of the seven states during the Warring States Period (476-220 BC),  the Former Zhao 前趙, to surpass (old)<br/>老师 = teacher, CL:個|个<br/>在 = (located) at,  (to be) in,  to exist<br/>学校 = school, CL:所<br/>吃 = to eat,  to consume,  to eat at (a cafeteria etc), variant of 吃<br/>饭 = cooked rice,  CL:碗<br/>吗 = (question particle for "yes-no" questions), see 嗎啡|吗啡,  morphine<br/>赵 = surname Zhao,  one of the seven states during the Warring States Period (476-220 BC),  the Former Zhao 前趙, to surpass (old)<br/>老师 = teacher, CL:個|个<br/>在 = (located) at,  (to be) in,  to exist<br/>学校 = school, CL:所<br/>吃 = to eat,  to consume,  to eat at (a cafeteria etc), variant of 吃<br/>饭 = cooked rice,  CL:碗<br/><br/>
+## Kangxi
+## Equivalents
+## Traditional
+## Example
+
+
+# Note
+model: zh-hanzi-eng-audio
+deck: hsk1
+tags: daily-life
+
+## Hanzi
+他在家看电影。
+## Pinyin
+ta1 zai2 jia1 kan4 dian4ying3.
+## English
+He is watchnig a movie at home.
+## Audio
+[sound:hsk1-daily-life_90036bac2e4ffb7fcce927a52e0eeb47dfef08b2.mp3]
+## Components
+Components:
+<br/>他 = he or him,  (used for either sex when the sex is unknown or unimportant),  (used before sb's name for emphasis)<br/>在 = (located) at,  (to be) in,  to exist<br/>家 = home,  family,  (polite) my (sister, see 傢伙|家伙<br/>看 = to look after,  to take care of,  to watch, to see,  to look at,  to read<br/>电影 = movie, film, CL:部<br/><br/>
+## Kangxi
+## Equivalents
+## Traditional
+## Example
+
+
+# Note
+model: zh-hanzi-eng-audio
+deck: hsk1
+tags: daily-life
+
+## Hanzi
+学生在学校做运动。
+## Pinyin
+xue2shen1 zai4 xue2xiao4 zuo4 yun4dong4.
+## English
+Pupils are doing excercise in school.
+## Audio
+[sound:hsk1-daily-life_94b484c008bc35ecf1e79952c4fe1b189d0a9919.mp3]
+## Components
+Components:
+<br/>学生 = student, schoolchild<br/>在 = (located) at,  (to be) in,  to exist<br/>学校 = school, CL:所<br/>做 = to make; to produce,  to write; to compose,  to do; to engage in; to hold (a party etc)<br/>运动 = to move, to exercise, sports, exercise, motion, movement, campaign, CL:場|场<br/><br/>
+## Kangxi
+## Equivalents
+## Traditional
+## Example
+
+
+# Note
+model: zh-hanzi-eng-audio
+deck: hsk1
+tags: daily-life
+
+## Hanzi
+学生在学校学汉语。
+## Pinyin
+xue2shen1 zai4 xue2xiao4 xue2 han4yu3.
+## English
+Pupils are learning Chinese in school.
+## Audio
+[sound:hsk1-daily-life_db7c45f69314db3f26c4a931b2d93185a391d573.mp3]
+## Components
+Components:
+<br/>学生 = student, schoolchild<br/>学 = to learn,  to study,  to imitate<br/>在 = (located) at,  (to be) in,  to exist<br/>学校 = school, CL:所<br/>学 = to learn,  to study,  to imitate<br/>学 = to learn,  to study,  to imitate<br/>汉语 = Chinese language, CL:門|门<br/><br/>
+## Kangxi
+## Equivalents
+## Traditional
+## Example
+
+
+# Note
+model: zh-hanzi-eng-audio
+deck: hsk1
+tags: daily-life
+
+## Hanzi
+星期天你在家做什么？
+## Pinyin
+xing1qi1tian1 ni3 zai4 jia1 zuo4 shen2me5?
+## English
+On Sunday, what are you doing at home?
+## Audio
+[sound:hsk1-daily-life_d94efddd8b52cd135a803795d715ac4e4984de3c.mp3]
+## Components
+Components:
+<br/>星期天 = Sunday, CL:個|个<br/>你 = you (informal,  as opposed to courteous 您<br/>在 = (located) at,  (to be) in,  to exist<br/>家 = home,  family,  (polite) my (sister, see 傢伙|家伙<br/>做 = to make; to produce,  to write; to compose,  to do; to engage in; to hold (a party etc)<br/>什么 = what?, something, anything<br/><br/>
+## Kangxi
+## Equivalents
+## Traditional
+## Example
+
+
+# Note
+model: zh-hanzi-eng-audio
+deck: hsk1
+tags: daily-life
+
+## Hanzi
+星期天你在家看了什么电影？
+## Pinyin
+xing1qi1tian1 ni3 zai4 zuo4 kan4 le5 shen2me5 dian4ying3?
+## English
+On Sunday, which movie did you watch at home?
+## Audio
+[sound:hsk1-daily-life_e7e95993122919de620fb5dab9228d9764002321.mp3]
+## Components
+Components:
+<br/>星期天 = Sunday, CL:個|个<br/>你 = you (informal,  as opposed to courteous 您<br/>在 = (located) at,  (to be) in,  to exist<br/>家 = home,  family,  (polite) my (sister, see 傢伙|家伙<br/>看 = to look after,  to take care of,  to watch, to see,  to look at,  to read<br/>了 = (completed action marker),  (modal particle indicating change of state,  situation now), (of eyes) bright,  clear-sighted,  to understand clearly, to finish,  to achieve,  variant of 瞭|了, unofficial variant of 瞭<br/>什么 = what?, something, anything<br/>电影 = movie, film, CL:部<br/><br/>
+## Kangxi
+## Equivalents
+## Traditional
+## Example
+
+
+# Note
+model: zh-hanzi-eng-audio
+deck: hsk1
+tags: daily-life
+
+## Hanzi
+你今天中午在家吃了饭吗？我今天中午不在家吃饭。
+## Pinyin
+ni3 jin1tian1 zhong1wu3 zai4 jia1 chi1 fan4 ma5?
+## English
+wo3 jin1tian1 zhong1wu3 bu2 zai4 jia1 chi1 fan4.
+## Audio
+[sound:hsk1-daily-life_a9de89ccd366046d1d33a68f4fc01de694af89eb.mp3]
+## Components
+Components:
+<br/>你 = you (informal,  as opposed to courteous 您<br/>今天 = today, at the present, now<br/>中午 = noon, midday, CL:個|个<br/>在 = (located) at,  (to be) in,  to exist<br/>家 = home,  family,  (polite) my (sister, see 傢伙|家伙<br/>吃 = to eat,  to consume,  to eat at (a cafeteria etc), variant of 吃<br/>了 = (completed action marker),  (modal particle indicating change of state,  situation now), (of eyes) bright,  clear-sighted,  to understand clearly, to finish,  to achieve,  variant of 瞭|了, unofficial variant of 瞭<br/>饭 = cooked rice,  CL:碗<br/>吗 = (question particle for "yes-no" questions), see 嗎啡|吗啡,  morphine<br/><br/>
+## Kangxi
+## Equivalents
+## Traditional
+## Example
+
+
+# Note
+model: zh-hanzi-eng-audio
+deck: hsk1
+tags: daily-life
+
+## Hanzi
+我的同学在家学汉语。
+## Pinyin
+wo3 de5 tong2xue2 zai4 jia1 xue2 han4yu3.
+## English
+My classmates are at home learning Chinese.
+## Audio
+[sound:hsk1-daily-life_e6f4a4eb1151a9cd55a6e8228a1206c7feef69ae.mp3]
+## Components
+Components:
+<br/>我 = I,  me,  my<br/>的 = aim,  clear, of,  ~'s (possessive particle),  (used after an attribute), really and truly, see 的士<br/>同学 = to study at the same school, fellow student, classmate, CL:位<br/>学 = to learn,  to study,  to imitate<br/>在 = (located) at,  (to be) in,  to exist<br/>家 = home,  family,  (polite) my (sister, see 傢伙|家伙<br/>学 = to learn,  to study,  to imitate<br/>汉语 = Chinese language, CL:門|门<br/><br/>
+## Kangxi
+## Equivalents
+## Traditional
+## Example
+
+
+# Note
+model: zh-hanzi-eng-audio
+deck: hsk1
+tags: daily-life
+
+## Hanzi
+爸爸不在家不运动。
+## Pinyin
+Ba4ba5 bu2 zai4 jia1 zuo4 yun4dong4.
+## English
+Dad doesn't do sports at home.
+## Audio
+[sound:hsk1-daily-life_a6f9384dde896c1f6a04b0a839feafb0042ff9de.mp3]
+## Components
+Components:
+<br/>爸爸 = (informal) father, CL:個|个<br/>不 = (negative prefix),  not,  no<br/>在 = (located) at,  (to be) in,  to exist<br/>家 = home,  family,  (polite) my (sister, see 傢伙|家伙<br/>不 = (negative prefix),  not,  no<br/>运动 = to move, to exercise, sports, exercise, motion, movement, campaign, CL:場|场<br/><br/>
+## Kangxi
+## Equivalents
+## Traditional
+## Example
+
+
+# Note
+model: zh-hanzi-eng-audio
+deck: hsk1
+tags: daily-life
+
+## Hanzi
+他的学生都是中国人。
+## Pinyin
+ta1 de5 xue3sheng1 dou1 shi4 zhong1guo2ren2.
+## English
+His students are all Chinese.
+## Audio
+[sound:hsk1-daily-life_ce4b58bef61d4f06419ef1452066cc3c60e6f30c.mp3]
+## Components
+Components:
+<br/>他 = he or him,  (used for either sex when the sex is unknown or unimportant),  (used before sb's name for emphasis)<br/>的 = aim,  clear, of,  ~'s (possessive particle),  (used after an attribute), really and truly, see 的士<br/>学生 = student, schoolchild<br/>都 = all,  both,  entirely, capital city,  metropolis, surname Du<br/>是 = is,  are,  am, variant of 是<br/>中国人 = Chinese person<br/><br/>
+## Kangxi
+## Equivalents
+## Traditional
+## Example
+
+
+# Note
+model: zh-hanzi-eng-audio
+deck: hsk1
+tags: daily-life
+
+## Hanzi
+你们都是工程师吗？
+## Pinyin
+Ni3men5 dou1 shi4 gong1cheng2shi1 ma5?
+## English
+Are you all engineers?
+## Audio
+[sound:hsk1-daily-life_c8fcc203a6ffde7068aaef3d3c5026f8a2f2ef72.mp3]
+## Components
+Components:
+<br/>你们 = you (plural)<br/>都 = all,  both,  entirely, capital city,  metropolis, surname Du<br/>是 = is,  are,  am, variant of 是<br/>工程师 = engineer, CL:個|个<br/>吗 = (question particle for "yes-no" questions), see 嗎啡|吗啡,  morphine<br/><br/>
+## Kangxi
+## Equivalents
+## Traditional
+## Example
+
+
+# Note
+model: zh-hanzi-eng-audio
+deck: hsk1
+tags: daily-life
+
+## Hanzi
+我的朋友都会说英语。
+## Pinyin
+Wo3 de5 peng2you5 dou1 hui4 shuo1 ying1yu3.
+## English
+My friends all speak English.
+## Audio
+[sound:hsk1-daily-life_b5f09e38476471c7c28c948427561a7611ff877a.mp3]
+## Components
+Components:
+<br/>我 = I,  me,  my<br/>的 = aim,  clear, of,  ~'s (possessive particle),  (used after an attribute), really and truly, see 的士<br/>朋友 = friend, CL:個|个<br/>都 = all,  both,  entirely, capital city,  metropolis, surname Du<br/>会 = can (i.e. have the skill,  know how to),  likely to, to balance an account,  accountancy,  accounting<br/>说 = to persuade, to speak,  to say,  to explain, variant of 說|说<br/>英语 = English (language)<br/><br/>
+## Kangxi
+## Equivalents
+## Traditional
+## Example
+
+
+# Note
+model: zh-hanzi-eng-audio
+deck: hsk1
+tags: daily-life
+
+## Hanzi
+我的老师都是中国人。
+## Pinyin
+wo3 de5 lao3shi1 dou1 shi4 zhong1gu2 ren2.
+## English
+My teachers are all Chinese.
+## Audio
+[sound:hsk1-daily-life_68401afbd958a3b509b9e0c8571ad75593e0d995.mp3]
+## Components
+Components:
+<br/>我 = I,  me,  my<br/>的 = aim,  clear, of,  ~'s (possessive particle),  (used after an attribute), really and truly, see 的士<br/>老师 = teacher, CL:個|个<br/>都 = all,  both,  entirely, capital city,  metropolis, surname Du<br/>是 = is,  are,  am, variant of 是<br/>中国 = China<br/>人 = person,  people,  CL:個|个<br/><br/>
+## Kangxi
+## Equivalents
+## Traditional
+## Example
+
+
+# Note
+model: zh-hanzi-eng-audio
+deck: hsk1
+tags: daily-life
+
+## Hanzi
+我的同学都不是美国人。wo3 de5 tong2xue2 dou1 bu2 shi4 Mei3guo2 ren2.
+## Pinyin
+None of my classmates is American.
+## English
+
+## Audio
+[sound:hsk1-daily-life_05dd4546e1be78759d60e2c24c0328d862b83f38.mp3]
+## Components
+Components:
+<br/>我 = I,  me,  my<br/>的 = aim,  clear, of,  ~'s (possessive particle),  (used after an attribute), really and truly, see 的士<br/>同 = like,  same,  similar, see 衚衕|胡同<br/>学 = to learn,  to study,  to imitate<br/>都 = all,  both,  entirely, capital city,  metropolis, surname Du<br/>不 = (negative prefix),  not,  no<br/>是 = is,  are,  am, variant of 是<br/><br/>
+## Kangxi
+## Equivalents
+## Traditional
+## Example
+
+
+# Note
+model: zh-hanzi-eng-audio
+deck: hsk1
+tags: daily-life
+
+## Hanzi
+同学门都回家了。
+## Pinyin
+tong2xue2 men5 dou1 hui2 jia1 le5.
+## English
+My classmates all went home.
+## Audio
+[sound:hsk1-daily-life_e915cfcd56530db366a33e2ce99bf7cccdaed707.mp3]
+## Components
+Components:
+<br/>同学 = to study at the same school, fellow student, classmate, CL:位<br/>门 = gate,  door,  CL:扇, surname Men<br/>都 = all,  both,  entirely, capital city,  metropolis, surname Du<br/>回 = to circle,  to go back,  to turn around, to curve,  to return,  to revolve, variant of 迴|回<br/>家 = home,  family,  (polite) my (sister, see 傢伙|家伙<br/>了 = (completed action marker),  (modal particle indicating change of state,  situation now), (of eyes) bright,  clear-sighted,  to understand clearly, to finish,  to achieve,  variant of 瞭|了, unofficial variant of 瞭<br/><br/>
+## Kangxi
+## Equivalents
+## Traditional
+## Example
+
+
+# Note
+model: zh-hanzi-eng-audio
+deck: hsk1
+tags: daily-life
+
+## Hanzi
+你们都会说英语吗？
+## Pinyin
+ni3men5 dou1 hui2 shuo1 ying1yu3 ma5?
+## English
+Do you all speak English?
+## Audio
+[sound:hsk1-daily-life_b179fe55c37ac39c850915c94de796ecdc2d61df.mp3]
+## Components
+Components:
+<br/>你们 = you (plural)<br/>都 = all,  both,  entirely, capital city,  metropolis, surname Du<br/>会 = can (i.e. have the skill,  know how to),  likely to, to balance an account,  accountancy,  accounting<br/>说 = to persuade, to speak,  to say,  to explain, variant of 說|说<br/>英语 = English (language)<br/>吗 = (question particle for "yes-no" questions), see 嗎啡|吗啡,  morphine<br/><br/>
+## Kangxi
+## Equivalents
+## Traditional
+## Example
+
+
+# Note
+model: zh-hanzi-eng-audio
+deck: hsk1
+tags: daily-life
+
+## Hanzi
+我的朋友门都想去。
+## Pinyin
+wo3 de5 peng2you5 men5 dou1 xiang3 qu4.
+## English
+All my friends want to go.
+## Audio
+[sound:hsk1-daily-life_22e1608be965d4be696e1e60f62118310b43c018.mp3]
+## Components
+Components:
+<br/>我 = I,  me,  my<br/>的 = aim,  clear, of,  ~'s (possessive particle),  (used after an attribute), really and truly, see 的士<br/>朋友 = friend, CL:個|个<br/>门 = gate,  door,  CL:扇, surname Men<br/>都 = all,  both,  entirely, capital city,  metropolis, surname Du<br/>想 = to think,  to believe,  to suppose<br/>去 = to go,  to go to (a place),  (of a time etc) last<br/><br/>
+## Kangxi
+## Equivalents
+## Traditional
+## Example
+
+
+# Note
+model: zh-hanzi-eng-audio
+deck: hsk1
+tags: daily-life
+
+## Hanzi
+爸爸和妈妈都在家。
+## Pinyin
+ba4ba5 he2 ma1ma5 dou1 zai4 jia1.
+## English
+Papa and Mama are at home.
+## Audio
+[sound:hsk1-daily-life_d2345e07b6fe031c0abd5e7331e55c4d375c4908.mp3]
+## Components
+Components:
+<br/>爸爸 = (informal) father, CL:個|个<br/>和 = and,  together with,  with, old variant of 和, surname He,  Japanese (food,  clothes etc), to combine a powdery substance (flour,  plaster etc) with water,  Taiwan pr., to complete a set in mahjong or playing cards, to compose a poem in reply (to sb's poem) using the same rhyme sequence,  to join in the singing,  to chime in with others, to mix (ingredients) together,  to blend,  classifier for rinses of clothes<br/>妈妈 = mama, mommy, mother, CL:個|个<br/>都 = all,  both,  entirely, capital city,  metropolis, surname Du<br/>在 = (located) at,  (to be) in,  to exist<br/>家 = home,  family,  (polite) my (sister, see 傢伙|家伙<br/><br/>
+## Kangxi
+## Equivalents
+## Traditional
+## Example
+
+
+# Note
+model: zh-hanzi-eng-audio
+deck: hsk1
+tags: daily-life
+
+## Hanzi
+麦克二零一七年十一月来了中国。现在他在一个学校做英语老师。他的学生都是中国人。麦克上午八点三十分去学校。中午十二点在学校吃饭。下午五点去运动。麦克星期六星期天都不去学校。他在家做饭，看书，看电影。
+## Pinyin
+
+## English
+Mai4ke4 er4 ling2 yi1 qi1 nian2 shi2yi1yue4 lai2 le5 zhong1guo2. Xian4zai4 ta1 zai4 yi2 ge5 xue2xioa4 zuo4 ying1yu3 lao3shi1. Ta1 de5 xue3sheng1 dou1 shi4 zhong1guo2 ren2. Mai4ke4 shang4wu3 ba1 dian3 san1 shi2 fen1 qu4 xue2xiao4. Zhong1wu3 shi2 er2 dian3 zai2 xue3xioa2 chi1 fan4. Xia3wu3 wu3 dian3 qu4 yun4dong4. Mai4ke4 xing1qi1liu4 xing1qi1tian1 dou1 bu2 qu4 xue2xiao4. Ta1 zai2 jia1 zuo4 fan4, kan4 shu1, kan4 dian4ying3.
+## Audio
+[sound:hsk1-daily-life_558553ee011bfc0e1ca896a00dcbd70c3fe7f39c.mp3]
+## Components
+Components:
+
 ## Kangxi
 ## Equivalents
 ## Traditional
