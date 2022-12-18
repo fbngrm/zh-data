@@ -1,0 +1,14 @@
+- header: "grammar 1: 的 (de5)"
+  explanation: "N1 can be a personal pronoun or a noun"
+  syntax: "N1 +  的 + N2"
+  examples:
+  -
+    ch: 我的名字
+    pinyin: wo3 de5 ming2zi5
+    eng: My name
+  -
+    ch: 爸爸的朋友
+    pinyin: ba4ba5 de5 peng2you
+    eng: Father's friend
+  note: "If 的 descriminates a relationship, it can be omitted."
+

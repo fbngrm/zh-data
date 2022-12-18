@@ -1,0 +1,31 @@
+- header: "grammar 1: 有 (you3)"
+  explanation: "Indicates that in a certain place someone or something exists."
+  syntax: "place + 有 + noun"
+  note: ""
+  examples:
+  -
+    ch: 家里有一个西瓜。
+    pinyin: jia1 li5 you3 yi1 ge5 xi1gua1.
+    eng: There is one watermelon at home.
+- header: "grammar 2: 有 (you3)"
+  explanation: "没有 indicates that in a certain place someone or something does not exists."
+  syntax: "place + 没有 + noun"
+  note: ""
+  examples:
+  -
+    ch: 今天家里没有人
+    pinyin: jin1tian1 jia1 li5 mei2you3 ren2.
+    eng: There is no one home today.
+- header: "grammar 1: 一点 (yi1dian3)"
+  explanation: "一点or 一点儿 indicates a small quantity or to a low degree; 一 is often omitted; 一点儿 (yi1dian3er) is nothern dialect."
+  syntax: "place + 没有 + noun"
+  note: "can be a stand alone sentence.; can also be used before a noun to act as attribute."
+  examples:
+  -
+    ch: 你们都吃一点。
+    pinyin: ni3men5 dou1 chi1 yi1dian3.
+    eng: We all ate a little.
+  -
+    ch: 他喝了一点茶。
+    pinyin: ta1 he1 le5 yi1dian3 cha2.
+    eng: He drank a little tea.

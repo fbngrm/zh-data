@@ -1,0 +1,22 @@
+- header: "grammar 1: 什么 (shen2me5)"
+  explanation: ""
+  syntax: "S + V + 什么"
+  note: ""
+  examples:
+  -
+    ch: 你要什么？
+    pinyin: ni3 yao4 shen2me5?
+    eng: What do you want?
+  -
+    ch: 这是什么？
+    pinyin: zhe4 shi4 shen2m5?
+    eng: What is this?
+- header: "grammar 2: 什么 (shen2me5)"
+  explanation: ""
+  syntax: "S + V + 什么 + N"
+  note: "In Chinese the sentence order of declaratives and questions are the same."
+  examples:
+  -
+    ch: 你叫什么名字？
+    pinyin: ni3 jiao4 shen2me ming2zi?
+    eng: What's his name?

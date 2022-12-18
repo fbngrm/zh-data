@@ -1,0 +1,35 @@
+- header: "在 (zài)"
+  explanation: "can be used as a verb to indicate the location of a person or object."
+  syntax: "在 + place"
+  note: ""
+  examples:
+  -
+    ch: 我的狗在桌子下。
+    pinyin: Wo de gou zài zhuōzi xià
+    eng: My dog is under the table.
+- header: "能 (néng)"
+  explanation: "能 indicates possibility or permission; It is often used in negative sentences or interrogative sentence."
+  syntax: "在 + place"
+  note: "能 indicates possibility"
+  examples:
+  -
+    ch: 你六点能回家吗? 我六点能回家。
+    pinyin: Ni liù diăn néng huí jiā ma? Wõ liu diăn néng huí jiā
+    eng: Can you come home at 6? I can be come home at 6.
+  -
+    ch: 妈妈,我能看电影吗?
+    pinyin: Māma, wŏ néng kàn diànying ma
+    eng: Mom, can I watch a movie?
+- header: "怎么 (zěnme)"
+  explanation: "is used to ask for reasons or methods. It is generally placed before the verb."
+  syntax: "怎么 + verb"
+  note: "ask for methods; ask for reasons"
+  examples:
+  -
+    ch: 你怎么去学校? 我走路去学校 。
+    pinyin: Ni zěnme gù xuéxiào? Wŏ zõulù qù xuéxiào.
+    eng: How do you go to school? I walk to school.
+  -
+    ch: 她怎么没去 学校? 她感冒了。
+    pinyin: Tā zěnme méi qù xuéxiào? Tā gănmào le.
+    eng: How (why) did she not go to school? She has a cold.

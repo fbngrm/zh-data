@@ -1,0 +1,67 @@
+- header: "grammar 1: 几 (ji)"
+  explanation: "ji is used to ask about a quantity below 10."
+  syntax: ""
+  note: "We normally use 几岁 to ask young children their age."
+  examples:
+  -
+    ch: 他几岁? 他七岁。
+    pinyin: Tā ji suì? Tā qi suì
+    eng: How old is he? He is 7.
+- header: "grammar 2: 几 (ji)"
+  explanation: "ji is used to ask about a quantity below 10."
+  syntax: ""
+  note: "To ask for the date we normally use: ji yuè ji hào"
+  examples:
+  -
+    ch: 今天几月几号? 今天六月九号。
+    pinyin: Jīntiān ji yuè ji hào? Jīntiān liu yuè jiu hào.
+    eng: What's the date today? (Which month and day is it today?) Today is the 9th of June.
+- header: "grammar 3: 几 (ji)"
+  explanation: "ji is used to ask about a quantity below 10."
+  syntax: ""
+  note: "To ask someone a quantity we say: ji ge"
+  examples:
+  -
+    ch: 你有几个好朋友? 我有三个好朋友。
+    pinyin: Ni you ji ge hǎo péngyou? Wô vău sān ge hảo péngyou
+    eng: how many good friends do you have? I have three good friends.
+- header: "grammar 1: 呢 (ne)"
+  explanation: "呢 is used as an omitted form in the interrogative sentence to avoid repeating the question."
+  syntax: ""
+  note: ""
+  examples:
+  -
+    ch: 我是中国人,你呢?
+    pinyin: Wõ shì Zhīngguó rén, ni ne?
+    eng: I am Chinese. What about you?
+  -
+    ch: 我六号去,王老师呢? 他八号去。
+    pinyin: Wõ liù hào qù, Wáng lăoshi ne? Tā bã hào qu
+    eng: I am going on the 6th, what about teacher Wang? He will go on the 8th.
+- header: "grammar 1: 名词谓语句 (míngcí wèiyu jù)"
+  explanation: "If the noun is used as the predicate in the sentence to form a noun-predicate statement, it is generally used to express age, time or dates."
+  syntax: ""
+  note: "To express age"
+  examples:
+  -
+    ch: 小明十岁。
+    pinyin: Xiǎomíng shí suì
+    eng: Xiaoming is ten years old.
+- header: "grammar 2: 名词谓语句 (míngcí wèiyu jù)"
+  explanation: "If the noun is used as the predicate in the sentence to form a noun-predicate statement, it is generally used to express age, time or dates."
+  syntax: ""
+  note: "To express time"
+  examples:
+  -
+    ch: 现在五点。
+    pinyin: Xiànzài wũ dian.
+    eng: It's 5 o'clock now.
+- header: "grammar 3: 名词谓语句 (míngcí wèiyu jù)"
+  explanation: "If the noun is used as the predicate in the sentence to form a noun-predicate statement, it is generally used to express age, time or dates."
+  syntax: ""
+  note: "To express the date"
+  examples:
+  -
+    ch: 今天三号。
+    pinyin: Jīntiān sān hào.
+    eng: Today is the third (day of the month)

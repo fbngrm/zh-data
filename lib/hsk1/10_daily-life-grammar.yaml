@@ -1,0 +1,124 @@
+- header: "grammar: Time point and time period"
+  explanation: "Time is expressed starting from big to small units"
+  syntax: ""
+  note: ""
+  examples:
+  -
+    ch: 一九九八年
+    pinyin: yi1 jiu3 jiu3 ba1 nian2
+    eng: The year of 1988
+  -
+    ch: 两年
+    pinyin: liang3 nian2
+    eng: 2 years
+  -
+    ch: 十六年
+    pinyin: shi2 liu4 nian2
+    eng: 16 years
+  -
+    ch: 一月
+    pinyin: yi1yue4
+    eng: January
+  -
+    ch: 十一月
+    pinyin: shi3yi1yue4
+    eng: November
+  -
+    ch: 一个月
+    pinyin: yi2 ge5 yue4
+    eng: 1 month
+  -
+    ch: 十一个月
+    pinyin: shi2 yi1 ge5 yue4
+    eng: 11 month
+  -
+    ch: 一号
+    pinyin: yi1 hao4
+    eng: 1st of the month
+  -
+    ch: 三十一号
+    pinyin: san1shi3yi1 hao4
+    eng: 31th of the month
+  -
+    ch: 一天
+    pinyin: yi1 tian1
+    eng: 1 day
+  -
+    ch: 三十一天
+    pinyin: san1shi2yi1 tian1
+    eng: 31 days
+  -
+    ch: 星期一
+    pinyin: xing1qi1yi1
+    eng: Monday
+  -
+    ch: 星期日
+    pinyin: xing1qi1lri4
+    eng: Sunday
+  -
+    ch: 星期天
+    pinyin: xing1qi1ltian4
+    eng: Sunday
+  -
+    ch: 一个星期
+    pinyin: yi1 ge5 xing1qi1
+    eng: One week
+  -
+    ch: 七个星期
+    pinyin: qi1 ge5 xing1qi1
+    eng: Seven week
+- header: "grammar 1: 了 (le)"
+  explanation: "Verb + 了 indicates that this action has already happened."
+  syntax: ""
+  note: ""
+  examples:
+  -
+    ch: 王老师来了。
+    pinyin: Wang2 lao3shi1 lai2 le5.
+    eng: Teacher Wang came.
+  -
+    ch: 我吃了。
+    pinyin: wo3 chi4 le5.
+    eng: I ate.
+- header: "grammar 2: 了 (le)"
+  explanation: "Verb + 了 indicates that this action has already happened."
+  syntax: ""
+  note: "If 了 is followed by an object, a measure word, adjective or pronoun needs to come before the object."
+  examples:
+  -
+    ch: 我同学买了一本书。
+    pinyin: wo3 tong2xue2 mai3 le5 yi4 ben3 shu1.
+    eng: My classmate bought a book.
+  -
+    ch: 他吃了我的饭。
+    pinyin: ta1 chi1 le5 wo3 de5 fan4.
+    eng: He ate my food.
+- header: "grammar 1: 在 (zai4)"
+  explanation: "在 is a preposition used to indicate a place."
+  syntax: "在 + place + verb"
+  note: ""
+  examples:
+  -
+    ch: 他在家看书。
+    pinyin: ta1 zai2 jia1 kan4 shu1.
+    eng: He is reading a book at home.
+- header: "grammar 1: 都 (dou1)"
+  explanation: "都means all; all components that are included come before 都"
+  syntax: ""
+  note: ""
+  examples:
+  -
+    ch: 他的学生都是中国人。
+    pinyin: ta1 de5 xue3sheng1 dou1 shi4 zhong1guo2ren2.
+    eng: His students are all Chinese.
+  -
+    ch: 你们都是工程师吗？
+    pinyin: Ni3men5 dou1 shi4 gong1cheng2shi1 ma5?
+    eng: Are you all engineers?
+  -
+    ch: 我的同学都不是美国人。
+    pinyin: wo3 de5 tong2xue2 dou1 bu2 shi4 Mei3guo2 ren2.
+    eng: None of my classmates is American.
+
+
+

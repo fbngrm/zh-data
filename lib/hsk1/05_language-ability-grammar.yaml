@@ -1,0 +1,35 @@
+- header: "grammar 1: 会 (hui4)"
+  explanation: "会 refers to an ability that can be aquired by learning."
+  syntax: "(不)会 + verb"
+  note: ""
+  examples:
+  -
+    ch: 我会说汉语
+    pinyin: wo3 hui4 shuo1 han4yu3.
+    eng: I can speak Chinese.
+  -
+    ch: 我不会说汉语
+    pinyin: wo3 bu2 hui4 shuo1 han4yu3.
+    eng: I can not speak Chinese.
+- header: "grammar 2: 哪 (na3)"
+  explanation: ""
+  syntax: "哪 + measure word + noun"
+  note: "哪国人 means 哪个国家的人, the measure word 个has been omitted."
+  examples:
+  -
+    ch: 哪个人
+    pinyin: na3 ge5 ren2
+    eng: which person?
+  -
+    ch: 哪国人
+    pinyin: na3 guo2 ren2
+    eng: which country?
+  -
+    ch: 哪个人是你的同学？
+    pinyin: Na3 ge ren2 shi4 ni3 de tong2xue2?
+    eng: Which one is your classmate?
+  -
+    ch: 他是那国人？
+    pinyin: ta1 shi4 na3 guo2 ren2?
+    eng: Where does he come from?
+

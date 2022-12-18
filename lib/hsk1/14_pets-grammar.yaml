@@ -1,0 +1,31 @@
+- header: "grammar 1: 形容词谓语句 (xíngróng cí wèi yũ jù)"
+  explanation: "In Chinese, adjectives can be used directly as predicate in sentences; the adverb hěn, (very) is often added before the adjective. To negate an adjective as predicate sentence, we can add 不 before the adjective."
+  syntax: "subject + 很 (or) 不 + adjective"
+  note: ""
+  examples:
+  -
+    ch: 你的小猫很漂亮 。
+    pinyin: Nĭ de xião mão hěn piàoliang .
+    eng: Your cat is very beautiful.
+  -
+    ch: 我们 学校的老师不多。
+    pinyin: Women xuéxiào de lăoshỉ bù duō .
+    eng: There are not many teachers in our school.
+- header: "grammar 1: 多 (duō)"
+  explanation: "When we use 多 as adjective it refers to many or a high quantity. Its antonym is 少(little/few)."
+  syntax: ""
+  note: ""
+  examples:
+  -
+    ch: 我有很多朋友 。
+    pinyin: Wõ you hěn duīpéngyšu .
+    eng: I have a lot of friends.
+- header: "grammar 2: 多 (duō)"
+  explanation: "can be used to ask about both age and measurements."
+  syntax: ""
+  note: ""
+  examples:
+  -
+    ch: 你的家多大？
+    pinyin: Ni de jià duō dà?
+    eng: How big is your house?
