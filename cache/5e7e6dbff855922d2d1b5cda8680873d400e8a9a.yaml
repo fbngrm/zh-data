@@ -1,0 +1,32 @@
+{
+  "chinese": "我上午九点到公司。",
+  "english": "I arrived at the company at nine o'clock in the morning.",
+  "pinyin": "wǒ shàngwǔ jiǔ diǎn dào gōngsī.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "上午",
+      "en": "morning",
+      "pi": "shàngwǔ"
+    },
+    {
+      "ch": "九点",
+      "en": "nine o'clock",
+      "pi": "jiǔ diǎn"
+    },
+    {
+      "ch": "到达",
+      "en": "arrive",
+      "pi": "dào"
+    },
+    {
+      "ch": "公司",
+      "en": "company",
+      "pi": "gōngsī"
+    }
+  ]
+}

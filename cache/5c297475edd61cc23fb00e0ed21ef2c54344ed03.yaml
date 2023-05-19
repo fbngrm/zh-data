@@ -1,0 +1,13 @@
+{
+  "chinese": "你们公司离地铁站远吗？",
+  "english": "Is your company far from the subway station?",
+  "pinyin": "nǐ men gōng sī lí dì tiě zhàn yuǎn ma?",
+  "words": [
+    {"ch": "你们", "en": "you", "pi": "nǐ men"},
+    {"ch": "公司", "en": "company", "pi": "gōng sī"},
+    {"ch": "离", "en": "away from", "pi": "lí"},
+    {"ch": "地铁站", "en": "subway station", "pi": "dì tiě zhàn"},
+    {"ch": "远", "en": "far", "pi": "yuǎn"},
+    {"ch": "吗", "en": "question marker", "pi": "ma"}
+  ]
+}

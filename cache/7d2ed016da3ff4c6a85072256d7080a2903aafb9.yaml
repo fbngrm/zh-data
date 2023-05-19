@@ -1,0 +1,32 @@
+{
+    "chinese": "你喝的是什么？",
+    "english": "What are you drinking?",
+    "pinyin": "nǐ hē de shì shén me?",
+    "words": [
+        {
+            "ch": "你",
+            "en": "you",
+            "pi": "nǐ"
+        },
+        {
+            "ch": "喝",
+            "en": "to drink",
+            "pi": "hē"
+        },
+        {
+            "ch": "的",
+            "en": "particle indicating possession",
+            "pi": "de"
+        },
+        {
+            "ch": "是",
+            "en": "to be",
+            "pi": "shì"
+        },
+        {
+            "ch": "什么",
+            "en": "what",
+            "pi": "shén me"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "sentences": [
+    {
+      "chinese": "你看右边。你看左边。",
+      "english": "Look to the right. Look to the left.",
+      "pinyin": "nǐ kàn yòubiān. nǐ kàn zuǒbiān.",
+      "words": [
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "看", "en": "look", "pi": "kàn"},
+        {"ch": "右边", "en": "right side", "pi": "yòubiān"},
+        {"ch": "。", "en": ".", "pi": ""},
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "看", "en": "look", "pi": "kàn"},
+        {"ch": "左边", "en": "left side", "pi": "zuǒbiān"},
+        {"ch": "。", "en": ".", "pi": ""}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "今天比昨天冷。",
+  "english": "Today is colder than yesterday.",
+  "pinyin": "jīn tiān bǐ zuó tiān lěng。",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "比",
+      "en": "compared to",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "冷",
+      "en": "cold",
+      "pi": "lěng"
+    }
+  ]
+}

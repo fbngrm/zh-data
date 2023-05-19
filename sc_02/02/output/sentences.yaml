@@ -1,0 +1,6361 @@
+- chinese: 请 等 一下！
+  pinyin: qing3 deng3 yi1xia4！
+  english: Please wait!
+  audio: c72ccc409237da22a8106589c5e60b4d65948f8e.mp3
+  newWords:
+    - chinese: 等
+      pinyin:
+        - deng3
+      english: wait
+      audio: 3d3e17a162e710c76fbf40198cb24246ffb78a81.mp3
+      newChars: []
+      allChars:
+        - chinese: 等
+          pinyin:
+            - deng3
+          english: wait
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+  allWords:
+    - chinese: 请
+      pinyin:
+        - qing3
+      english: please
+      audio: 18f5d6e11ca7690b5776789f9a330410523d4474
+      newChars: []
+      allChars:
+        - chinese: 请
+          pinyin:
+            - qing3
+          english: please
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 等
+      pinyin:
+        - deng3
+      english: wait
+      audio: 3d3e17a162e710c76fbf40198cb24246ffb78a81
+      newChars: []
+      allChars:
+        - chinese: 等
+          pinyin:
+            - deng3
+          english: wait
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 一下
+      pinyin:
+        - yi1
+        - xia4
+      english: one time
+      audio: a682cf4c9cd887e492081559efc97e3742d97be5
+      newChars: []
+      allChars:
+        - chinese: 一
+          pinyin:
+            - yi1
+          english: one
+          audio: ""
+          isSingleRune: true
+        - chinese: 下
+          pinyin:
+            - xia4
+          english: Down
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+  isSingleRune: false
+- chinese: 你 等 我 五 分钟，好 吗。
+  pinyin: ni3 deng3 wo3 wu3 fen1zhong1 hao3 ma5。
+  english: You wait for me for five minutes, okay?
+  audio: 2597e774d2429939fe8bbe80cf6630b1fc35b355.mp3
+  newWords: []
+  allWords:
+    - chinese: 你
+      pinyin:
+        - ni3
+      english: you
+      audio: 5630b886f9cd31702e7c1606eb1f62ab0c759063
+      newChars: []
+      allChars:
+        - chinese: 你
+          pinyin:
+            - ni3
+          english: you
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 等
+      pinyin:
+        - deng3
+      english: wait
+      audio: 3d3e17a162e710c76fbf40198cb24246ffb78a81
+      newChars: []
+      allChars:
+        - chinese: 等
+          pinyin:
+            - deng3
+          english: wait
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 我
+      pinyin:
+        - wo3
+      english: I
+      audio: 34f201bc507e33caaef736de328bf041234d1138
+      newChars: []
+      allChars:
+        - chinese: 我
+          pinyin:
+            - wo3
+          english: I
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 五
+      pinyin:
+        - wu3
+      english: five
+      audio: 8f07f53d63e166c78821aba2e482990e6674bb17
+      newChars: []
+      allChars:
+        - chinese: 五
+          pinyin:
+            - wu3
+          english: five
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 分钟
+      pinyin:
+        - fen1
+        - zhong1
+      english: minute
+      audio: 28bf227b9bf77d7be07a37686bd3dc3b9138dc1f
+      newChars: []
+      allChars:
+        - chinese: 分
+          pinyin:
+            - fen1
+            - fen4
+          english: point
+          audio: ""
+          isSingleRune: true
+        - chinese: 钟
+          pinyin:
+            - zhong1
+          english: bell
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 好
+      pinyin:
+        - hao3
+        - hao4
+      english: good
+      audio: 27e4fe4c3fe24958872b1402e401d5e97cfb582d
+      newChars: []
+      allChars:
+        - chinese: 好
+          pinyin:
+            - hao3
+            - hao4
+          english: good
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 吗
+      pinyin:
+        - ma3
+        - ma5
+      english: Question particle for yes/no questions
+      audio: 8c49e4b3edb7f0239ec632f9766042bb19569fd1
+      newChars: []
+      allChars:
+        - chinese: 吗
+          pinyin:
+            - ma3
+            - ma5
+          english: Question particle for yes/no questions
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+  isSingleRune: false
+- chinese: 你 的 新 衣服 很 漂亮。
+  pinyin: ni3 de5 xin1 yi1fu5 hen3 liang5piao4。
+  english: Your new clothes are beautiful.
+  audio: 1cf67e1b1cb5d1d420f99e8b8a5605a49b3828e4.mp3
+  newWords: []
+  allWords:
+    - chinese: 你
+      pinyin:
+        - ni3
+      english: you
+      audio: 5630b886f9cd31702e7c1606eb1f62ab0c759063
+      newChars: []
+      allChars:
+        - chinese: 你
+          pinyin:
+            - ni3
+          english: you
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 的
+      pinyin:
+        - de5
+        - di1
+        - di2
+        - di4
+      english: of
+      audio: 0746bd624955e27081c6419ac31b592d6b683e95
+      newChars: []
+      allChars:
+        - chinese: 的
+          pinyin:
+            - de5
+            - di1
+            - di2
+            - di4
+          english: of
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 新
+      pinyin:
+        - xin1
+      english: new
+      audio: 7b8a6bebd3076cdffaf2193f397d4d9fa399c148
+      newChars: []
+      allChars:
+        - chinese: 新
+          pinyin:
+            - xin1
+          english: new
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 衣服
+      pinyin:
+        - yi1
+        - fu5
+      english: clothing
+      audio: 2e34963bf893fa1446ff07eb0b3e438ea2756711
+      newChars: []
+      allChars:
+        - chinese: 衣
+          pinyin:
+            - yi1
+            - yi4
+          english: Clothes
+          audio: ""
+          isSingleRune: true
+        - chinese: 服
+          pinyin:
+            - fu2
+            - fu4
+          english: Clothes
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 很
+      pinyin:
+        - hen3
+      english: very
+      audio: 74a04cc4bf3ac133a6abd449c12c878eb50b0f69
+      newChars: []
+      allChars:
+        - chinese: 很
+          pinyin:
+            - hen3
+          english: very
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 漂亮
+      pinyin:
+        - piao4
+        - liang5
+      english: pretty
+      audio: 9c7fd1442d097a7f258061b0c7114c73a63eea6a
+      newChars: []
+      allChars:
+        - chinese: 漂
+          pinyin:
+            - piao1
+            - piao3
+            - piao4
+          english: drift
+          audio: ""
+          isSingleRune: true
+        - chinese: 亮
+          pinyin:
+            - liang4
+          english: Bright
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+  isSingleRune: false
+- chinese: 这 是 我 新 买 的 衣服。
+  pinyin: zhe4 shi4 wo3 xin1 mai3 de5 yi1fu5。
+  english: This is my new clothes.
+  audio: 986cf537953b527f73c8d08b07f177131b8d948a.mp3
+  newWords: []
+  allWords:
+    - chinese: 这
+      pinyin:
+        - zhe4
+      english: this
+      audio: 542523173c3e3439bd490fff653d2ee678407604
+      newChars: []
+      allChars:
+        - chinese: 这
+          pinyin:
+            - zhe4
+          english: this
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 是
+      pinyin:
+        - shi4
+      english: is, are, to be
+      audio: 30160a21b92a049fc2befcdb70039ed5099df41f
+      newChars: []
+      allChars:
+        - chinese: 是
+          pinyin:
+            - shi4
+          english: is, are, to be
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 我
+      pinyin:
+        - wo3
+      english: I
+      audio: 34f201bc507e33caaef736de328bf041234d1138
+      newChars: []
+      allChars:
+        - chinese: 我
+          pinyin:
+            - wo3
+          english: I
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 新
+      pinyin:
+        - xin1
+      english: new
+      audio: 7b8a6bebd3076cdffaf2193f397d4d9fa399c148
+      newChars: []
+      allChars:
+        - chinese: 新
+          pinyin:
+            - xin1
+          english: new
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 买
+      pinyin:
+        - mai3
+      english: purchase
+      audio: b6c5a7139fda72f84f17a62bd71928e84f096332
+      newChars: []
+      allChars:
+        - chinese: 买
+          pinyin:
+            - mai3
+          english: purchase
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 的
+      pinyin:
+        - di1
+        - di2
+        - di4
+        - de5
+      english: of
+      audio: 0746bd624955e27081c6419ac31b592d6b683e95
+      newChars: []
+      allChars:
+        - chinese: 的
+          pinyin:
+            - de5
+            - di1
+            - di2
+            - di4
+          english: of
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 衣服
+      pinyin:
+        - fu5
+        - yi1
+      english: clothing
+      audio: 2e34963bf893fa1446ff07eb0b3e438ea2756711
+      newChars: []
+      allChars:
+        - chinese: 衣
+          pinyin:
+            - yi1
+            - yi4
+          english: Clothes
+          audio: ""
+          isSingleRune: true
+        - chinese: 服
+          pinyin:
+            - fu2
+            - fu4
+          english: Clothes
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+  isSingleRune: false
+- chinese: 她 十二 点 吃 午饭。
+  pinyin: ta1 shi2er4 dian3 chi1 wu3fan4。
+  english: She has lunch at twelve o'clock.
+  audio: ff28be5f5c1b80b0e69b9ec3f94e705bf6733ca8.mp3
+  newWords:
+    - chinese: 午饭
+      pinyin:
+        - wu3
+        - fan4
+      english: lunch
+      audio: b530790b35faf534c1090b02512cbb3bb25444e0.mp3
+      newChars: []
+      allChars:
+        - chinese: 午
+          pinyin:
+            - wu3
+          english: noon
+          audio: ""
+          isSingleRune: true
+        - chinese: 饭
+          pinyin:
+            - fan4
+          english: meal
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+  allWords:
+    - chinese: 她
+      pinyin:
+        - ta1
+      english: she
+      audio: 7f2fa5ddbee2c384a554f6ab18cbca5706a4a4ea
+      newChars: []
+      allChars:
+        - chinese: 她
+          pinyin:
+            - ta1
+          english: she
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 十二
+      pinyin:
+        - shi2
+        - er4
+      english: twelve
+      audio: 08fdd3fc42431152118e2444967172a6f651a808
+      newChars: []
+      allChars:
+        - chinese: 十
+          pinyin:
+            - shi2
+          english: ten
+          audio: ""
+          isSingleRune: true
+        - chinese: 二
+          pinyin:
+            - er4
+          english: two
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 点
+      pinyin:
+        - dian3
+      english: point
+      audio: 1d59ea7cbbee668712898e376a415569ef9dfa09
+      newChars: []
+      allChars:
+        - chinese: 点
+          pinyin:
+            - dian3
+          english: point
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 吃
+      pinyin:
+        - chi1
+      english: eat
+      audio: a10d4d5a63e66defe4c65fdb35ff27652902c2f8
+      newChars: []
+      allChars:
+        - chinese: 吃
+          pinyin:
+            - chi1
+          english: eat
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 午饭
+      pinyin:
+        - wu3
+        - fan4
+      english: lunch
+      audio: b530790b35faf534c1090b02512cbb3bb25444e0
+      newChars: []
+      allChars:
+        - chinese: 午
+          pinyin:
+            - wu3
+          english: noon
+          audio: ""
+          isSingleRune: true
+        - chinese: 饭
+          pinyin:
+            - fan4
+          english: meal
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+  isSingleRune: false
+- chinese: 医院 的 午饭 怎么样。
+  pinyin: yi1yuan4 de5 wu3fan4 yang4zen3me5。
+  english: How about lunch at the hospital.
+  audio: aa9000e3dcf640187970226d186d7b1e66da165e.mp3
+  newWords: []
+  allWords:
+    - chinese: 医院
+      pinyin:
+        - yuan4
+        - yi1
+      english: Hospital
+      audio: 41deb734126905ecfd6701e52ef1c36d097cb4c4
+      newChars: []
+      allChars:
+        - chinese: 医
+          pinyin:
+            - yi1
+          english: medical
+          audio: ""
+          isSingleRune: true
+        - chinese: 院
+          pinyin:
+            - yuan4
+          english: hospital
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 的
+      pinyin:
+        - de5
+        - di1
+        - di2
+        - di4
+      english: of
+      audio: 0746bd624955e27081c6419ac31b592d6b683e95
+      newChars: []
+      allChars:
+        - chinese: 的
+          pinyin:
+            - di2
+            - di4
+            - de5
+            - di1
+          english: of
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 午饭
+      pinyin:
+        - wu3
+        - fan4
+      english: lunch
+      audio: b530790b35faf534c1090b02512cbb3bb25444e0
+      newChars: []
+      allChars:
+        - chinese: 午
+          pinyin:
+            - wu3
+          english: noon
+          audio: ""
+          isSingleRune: true
+        - chinese: 饭
+          pinyin:
+            - fan4
+          english: meal
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 怎么样
+      pinyin:
+        - zen3
+        - me5
+        - yang4
+      english: How about it
+      audio: 91e31a915f0168e5e5ae1a28aaddacae9b67a5fb
+      newChars: []
+      allChars:
+        - chinese: 怎
+          pinyin:
+            - zen3
+          english: How
+          audio: ""
+          isSingleRune: true
+        - chinese: 么
+          pinyin:
+            - ma2
+            - ma5
+            - me5
+          english: What?
+          audio: ""
+          isSingleRune: true
+        - chinese: 样
+          pinyin:
+            - yang4
+          english: Sample
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+  isSingleRune: false
+- chinese: 现在 商场 里 没有 人。
+  pinyin: xian4zai4 shang1chang3 li3 mei2you3 ren2。
+  english: There is no one in the mall right now.
+  audio: b661ea78507737ef20bdec09dfc03295683a94b6.mp3
+  newWords:
+    - chinese: 商场
+      pinyin:
+        - shang1
+        - chang3
+      english: shopping mall
+      audio: ef59bf58fa0e3cadd06fac2ed835d1b83f0ec42e.mp3
+      newChars: []
+      allChars:
+        - chinese: 商
+          pinyin:
+            - shang1
+          english: business
+          audio: ""
+          isSingleRune: true
+        - chinese: 场
+          pinyin:
+            - chang2
+            - chang3
+          english: field
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+  allWords:
+    - chinese: 现在
+      pinyin:
+        - xian4
+        - zai4
+      english: Now
+      audio: a511e8442ff2ce982c0b6193e9ce76783831420c
+      newChars: []
+      allChars:
+        - chinese: 现
+          pinyin:
+            - xian4
+          english: now
+          audio: ""
+          isSingleRune: true
+        - chinese: 在
+          pinyin:
+            - zai4
+          english: exist
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 商场
+      pinyin:
+        - shang1
+        - chang3
+      english: shopping mall
+      audio: ef59bf58fa0e3cadd06fac2ed835d1b83f0ec42e
+      newChars: []
+      allChars:
+        - chinese: 商
+          pinyin:
+            - shang1
+          english: business
+          audio: ""
+          isSingleRune: true
+        - chinese: 场
+          pinyin:
+            - chang2
+            - chang3
+          english: field
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 里
+      pinyin:
+        - li3
+      english: inside
+      audio: c5a8f40bc028c0a7c4439dde983f165a48c388da
+      newChars: []
+      allChars:
+        - chinese: 里
+          pinyin:
+            - li3
+          english: inside
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 没有
+      pinyin:
+        - mei2
+        - you3
+      english: "No"
+      audio: 8dcff1ebe3337ec442505591882999abdceb4926
+      newChars: []
+      allChars:
+        - chinese: 没
+          pinyin:
+            - mei2
+            - mo4
+          english: without
+          audio: ""
+          isSingleRune: true
+        - chinese: 有
+          pinyin:
+            - you3
+          english: have
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 人
+      pinyin:
+        - ren2
+      english: people
+      audio: 4912771a4216d897b1f3c71bb0e4994e86410815
+      newChars: []
+      allChars:
+        - chinese: 人
+          pinyin:
+            - ren2
+          english: people
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+  isSingleRune: false
+- chinese: 我 喜欢 去 商场 买 衣服。
+  pinyin: wo3 xi3huan5 qu4 shang1chang3 mai3 yi1fu5。
+  english: I like going to the mall to buy clothes.
+  audio: 45312cf3aa9e004c3e6cf75aff65d52b05c7538f.mp3
+  newWords: []
+  allWords:
+    - chinese: 我
+      pinyin:
+        - wo3
+      english: I
+      audio: 34f201bc507e33caaef736de328bf041234d1138
+      newChars: []
+      allChars:
+        - chinese: 我
+          pinyin:
+            - wo3
+          english: I
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 喜欢
+      pinyin:
+        - huan5
+        - xi3
+      english: like
+      audio: 28aa475a79f26b22a04a41191bb05056c4c8e9a9
+      newChars: []
+      allChars:
+        - chinese: 喜
+          pinyin:
+            - xi3
+          english: happiness
+          audio: ""
+          isSingleRune: true
+        - chinese: 欢
+          pinyin:
+            - huan1
+          english: joyous
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 去
+      pinyin:
+        - qu4
+      english: go
+      audio: 033fd274f014aec08c2dfb1902e6090cbbb2c295
+      newChars: []
+      allChars:
+        - chinese: 去
+          pinyin:
+            - qu4
+          english: go
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 商场
+      pinyin:
+        - shang1
+        - chang3
+      english: shopping mall
+      audio: ef59bf58fa0e3cadd06fac2ed835d1b83f0ec42e
+      newChars: []
+      allChars:
+        - chinese: 商
+          pinyin:
+            - shang1
+          english: business
+          audio: ""
+          isSingleRune: true
+        - chinese: 场
+          pinyin:
+            - chang2
+            - chang3
+          english: field
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 买
+      pinyin:
+        - mai3
+      english: purchase
+      audio: b6c5a7139fda72f84f17a62bd71928e84f096332
+      newChars: []
+      allChars:
+        - chinese: 买
+          pinyin:
+            - mai3
+          english: purchase
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 衣服
+      pinyin:
+        - yi1
+        - fu5
+      english: clothing
+      audio: 2e34963bf893fa1446ff07eb0b3e438ea2756711
+      newChars: []
+      allChars:
+        - chinese: 衣
+          pinyin:
+            - yi1
+            - yi4
+          english: Clothes
+          audio: ""
+          isSingleRune: true
+        - chinese: 服
+          pinyin:
+            - fu2
+            - fu4
+          english: Clothes
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+  isSingleRune: false
+- chinese: 你 昨天 是 几点 吃 午饭 的？
+  pinyin: ni3 zuo2tian1 shi4 ji3dian3 chi1 wu3fan4 de5？
+  english: What time did you have lunch yesterday?
+  audio: c6cdfdf581ffac53ae24fb64b9609e10b9138ece.mp3
+  newWords:
+    - chinese: 几点
+      pinyin:
+        - ji3
+        - dian3
+      english: What time is it?
+      audio: b2edc79a8a6a3f2400b9465b4e93b654dbb86e5b.mp3
+      newChars: []
+      allChars:
+        - chinese: 几
+          pinyin:
+            - ji1
+            - ji3
+          english: Several
+          audio: ""
+          isSingleRune: true
+        - chinese: 点
+          pinyin:
+            - dian3
+          english: point
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+  allWords:
+    - chinese: 你
+      pinyin:
+        - ni3
+      english: you
+      audio: 5630b886f9cd31702e7c1606eb1f62ab0c759063
+      newChars: []
+      allChars:
+        - chinese: 你
+          pinyin:
+            - ni3
+          english: you
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 昨天
+      pinyin:
+        - zuo2
+        - tian1
+      english: yesterday
+      audio: 59c4fcb09e276fac1191534b05678f6f4ba7f7b4
+      newChars: []
+      allChars:
+        - chinese: 昨
+          pinyin:
+            - zuo2
+          english: Yesterday
+          audio: ""
+          isSingleRune: true
+        - chinese: 天
+          pinyin:
+            - tian1
+          english: sky
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 是
+      pinyin:
+        - shi4
+      english: is, are, to be
+      audio: 30160a21b92a049fc2befcdb70039ed5099df41f
+      newChars: []
+      allChars:
+        - chinese: 是
+          pinyin:
+            - shi4
+          english: is, are, to be
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 几点
+      pinyin:
+        - ji3
+        - dian3
+      english: What time is it?
+      audio: b2edc79a8a6a3f2400b9465b4e93b654dbb86e5b
+      newChars: []
+      allChars:
+        - chinese: 几
+          pinyin:
+            - ji1
+            - ji3
+          english: Several
+          audio: ""
+          isSingleRune: true
+        - chinese: 点
+          pinyin:
+            - dian3
+          english: point
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 吃
+      pinyin:
+        - chi1
+      english: eat
+      audio: a10d4d5a63e66defe4c65fdb35ff27652902c2f8
+      newChars: []
+      allChars:
+        - chinese: 吃
+          pinyin:
+            - chi1
+          english: eat
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 午饭
+      pinyin:
+        - fan4
+        - wu3
+      english: lunch
+      audio: b530790b35faf534c1090b02512cbb3bb25444e0
+      newChars: []
+      allChars:
+        - chinese: 午
+          pinyin:
+            - wu3
+          english: noon
+          audio: ""
+          isSingleRune: true
+        - chinese: 饭
+          pinyin:
+            - fan4
+          english: meal
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 的
+      pinyin:
+        - di1
+        - di2
+        - di4
+        - de5
+      english: of
+      audio: 0746bd624955e27081c6419ac31b592d6b683e95
+      newChars: []
+      allChars:
+        - chinese: 的
+          pinyin:
+            - di4
+            - de5
+            - di1
+            - di2
+          english: of
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+  isSingleRune: false
+- chinese: 我 的 新 电脑 是 昨天 买 的。
+  pinyin: wo3 de5 xin1 dian4nao3 shi4 tian1zuo2 mai3 de5。
+  english: I bought my new computer yesterday.
+  audio: 24d226f5aeb67c08400b43f270f38b796e8cf19a.mp3
+  newWords: []
+  allWords:
+    - chinese: 我
+      pinyin:
+        - wo3
+      english: I
+      audio: 34f201bc507e33caaef736de328bf041234d1138
+      newChars: []
+      allChars:
+        - chinese: 我
+          pinyin:
+            - wo3
+          english: I
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 的
+      pinyin:
+        - di1
+        - di2
+        - di4
+        - de5
+      english: of
+      audio: 0746bd624955e27081c6419ac31b592d6b683e95
+      newChars: []
+      allChars:
+        - chinese: 的
+          pinyin:
+            - de5
+            - di1
+            - di2
+            - di4
+          english: of
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 新
+      pinyin:
+        - xin1
+      english: new
+      audio: 7b8a6bebd3076cdffaf2193f397d4d9fa399c148
+      newChars: []
+      allChars:
+        - chinese: 新
+          pinyin:
+            - xin1
+          english: new
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 电脑
+      pinyin:
+        - dian4
+        - nao3
+      english: computer
+      audio: ec87a4b867093a7d5f15fbb655e9034517a4a9e8
+      newChars: []
+      allChars:
+        - chinese: 电
+          pinyin:
+            - dian4
+          english: electricity
+          audio: ""
+          isSingleRune: true
+        - chinese: 脑
+          pinyin:
+            - nao3
+          english: brain
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 是
+      pinyin:
+        - shi4
+      english: is, are, to be
+      audio: 30160a21b92a049fc2befcdb70039ed5099df41f
+      newChars: []
+      allChars:
+        - chinese: 是
+          pinyin:
+            - shi4
+          english: is, are, to be
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 昨天
+      pinyin:
+        - zuo2
+        - tian1
+      english: yesterday
+      audio: 59c4fcb09e276fac1191534b05678f6f4ba7f7b4
+      newChars: []
+      allChars:
+        - chinese: 昨
+          pinyin:
+            - zuo2
+          english: Yesterday
+          audio: ""
+          isSingleRune: true
+        - chinese: 天
+          pinyin:
+            - tian1
+          english: sky
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 买
+      pinyin:
+        - mai3
+      english: purchase
+      audio: b6c5a7139fda72f84f17a62bd71928e84f096332
+      newChars: []
+      allChars:
+        - chinese: 买
+          pinyin:
+            - mai3
+          english: purchase
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 的
+      pinyin:
+        - di2
+        - di4
+        - de5
+        - di1
+      english: of
+      audio: 0746bd624955e27081c6419ac31b592d6b683e95
+      newChars: []
+      allChars:
+        - chinese: 的
+          pinyin:
+            - de5
+            - di1
+            - di2
+            - di4
+          english: of
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+  isSingleRune: false
+- chinese: 我们 中午 去 那儿 吃 午饭？
+  pinyin: wo3men5 wu3zhong1 qu4 na4r5 chi1 wu3fan4？
+  english: Shall we go there for lunch at noon?
+  audio: a1ca1e7735a97e7e541c4e51bee52edbd880c555.mp3
+  newWords: []
+  allWords:
+    - chinese: 我们
+      pinyin:
+        - wo3
+        - men5
+      english: us
+      audio: 0805949359741ce14fe90402b25e2e023f449748
+      newChars: []
+      allChars:
+        - chinese: 我
+          pinyin:
+            - wo3
+          english: I
+          audio: ""
+          isSingleRune: true
+        - chinese: 们
+          pinyin:
+            - men5
+          english: they
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 中午
+      pinyin:
+        - zhong1
+        - wu3
+      english: noon
+      audio: 0c5382c1dbbbfc9ea638ff80a2743a40ec4f9320
+      newChars: []
+      allChars:
+        - chinese: 中
+          pinyin:
+            - zhong4
+            - zhong1
+          english: middle
+          audio: ""
+          isSingleRune: true
+        - chinese: 午
+          pinyin:
+            - wu3
+          english: noon
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 去
+      pinyin:
+        - qu4
+      english: go
+      audio: 033fd274f014aec08c2dfb1902e6090cbbb2c295
+      newChars: []
+      allChars:
+        - chinese: 去
+          pinyin:
+            - qu4
+          english: go
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 那儿
+      pinyin:
+        - na4
+        - r5
+      english: there
+      audio: 595f74c3ae25bec190bcb84ef072324a5ca6c6e5
+      newChars: []
+      allChars:
+        - chinese: 那
+          pinyin:
+            - na1
+            - nuo2
+            - na3
+            - na4
+          english: That
+          audio: ""
+          isSingleRune: true
+        - chinese: 儿
+          pinyin:
+            - r5
+            - ren2
+            - er2
+          english: Son
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 吃
+      pinyin:
+        - chi1
+      english: eat
+      audio: a10d4d5a63e66defe4c65fdb35ff27652902c2f8
+      newChars: []
+      allChars:
+        - chinese: 吃
+          pinyin:
+            - chi1
+          english: eat
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 午饭
+      pinyin:
+        - wu3
+        - fan4
+      english: lunch
+      audio: b530790b35faf534c1090b02512cbb3bb25444e0
+      newChars: []
+      allChars:
+        - chinese: 午
+          pinyin:
+            - wu3
+          english: noon
+          audio: ""
+          isSingleRune: true
+        - chinese: 饭
+          pinyin:
+            - fan4
+          english: meal
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+  isSingleRune: false
+- chinese: 她 买 了 一 本 新 书。
+  pinyin: ta1 mai3 le5 yi1 ben3 xin1 shu1。
+  english: She bought a new book.
+  audio: 070002e69c0b3e617fec7a553690c086cb35040e.mp3
+  newWords: []
+  allWords:
+    - chinese: 她
+      pinyin:
+        - ta1
+      english: she
+      audio: 7f2fa5ddbee2c384a554f6ab18cbca5706a4a4ea
+      newChars: []
+      allChars:
+        - chinese: 她
+          pinyin:
+            - ta1
+          english: she
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 买
+      pinyin:
+        - mai3
+      english: purchase
+      audio: b6c5a7139fda72f84f17a62bd71928e84f096332
+      newChars: []
+      allChars:
+        - chinese: 买
+          pinyin:
+            - mai3
+          english: purchase
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 了
+      pinyin:
+        - le5
+        - liao3
+        - liao4
+      english: up
+      audio: a5933e2a9e71d8f6bf5bbf52e659ccbcc5643bea
+      newChars: []
+      allChars:
+        - chinese: 了
+          pinyin:
+            - le5
+            - liao3
+            - liao4
+          english: up
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 一
+      pinyin:
+        - yi1
+      english: one
+      audio: d274eee8a175062ac04a45821689db93da5ccfae
+      newChars: []
+      allChars:
+        - chinese: 一
+          pinyin:
+            - yi1
+          english: one
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 本
+      pinyin:
+        - ben3
+      english: Book
+      audio: d3cc0cab9c6384f4b1d996132970f0e608061fd6
+      newChars: []
+      allChars:
+        - chinese: 本
+          pinyin:
+            - ben3
+          english: Book
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 新
+      pinyin:
+        - xin1
+      english: new
+      audio: 7b8a6bebd3076cdffaf2193f397d4d9fa399c148
+      newChars: []
+      allChars:
+        - chinese: 新
+          pinyin:
+            - xin1
+          english: new
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 书
+      pinyin:
+        - shu1
+      english: Book
+      audio: fe04274ceff3059706d742eaa9e9db3368ab0949
+      newChars: []
+      allChars:
+        - chinese: 书
+          pinyin:
+            - shu1
+          english: Book
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+  isSingleRune: false
+- chinese: 你 等 我 一下。
+  pinyin: ni3 deng3 wo3 yi1xia4。
+  english: wait for me a while.
+  audio: 40cf764edeeb33cabb7b1b7d3cd170f7597f7fca.mp3
+  newWords: []
+  allWords:
+    - chinese: 你
+      pinyin:
+        - ni3
+      english: you
+      audio: 5630b886f9cd31702e7c1606eb1f62ab0c759063
+      newChars: []
+      allChars:
+        - chinese: 你
+          pinyin:
+            - ni3
+          english: you
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 等
+      pinyin:
+        - deng3
+      english: wait
+      audio: 3d3e17a162e710c76fbf40198cb24246ffb78a81
+      newChars: []
+      allChars:
+        - chinese: 等
+          pinyin:
+            - deng3
+          english: wait
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 我
+      pinyin:
+        - wo3
+      english: I
+      audio: 34f201bc507e33caaef736de328bf041234d1138
+      newChars: []
+      allChars:
+        - chinese: 我
+          pinyin:
+            - wo3
+          english: I
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 一下
+      pinyin:
+        - yi1
+        - xia4
+      english: one time
+      audio: a682cf4c9cd887e492081559efc97e3742d97be5
+      newChars: []
+      allChars:
+        - chinese: 一
+          pinyin:
+            - yi1
+          english: one
+          audio: ""
+          isSingleRune: true
+        - chinese: 下
+          pinyin:
+            - xia4
+          english: Down
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+  isSingleRune: false
+- chinese: 我 昨天 在 商场 吃 午饭 的 时候 看见 你 朋友 了。
+  pinyin: wo3 zuo2tian1 zai4 shang1chang3 chi1 wu3fan4 de5 shi2hou5 kan4jian4 ni3 peng2you5 le5。
+  english: I saw your friend yesterday when I was having lunch at the mall.
+  audio: fd1678368536b47ce436606646dc2b3d4f27443a.mp3
+  newWords: []
+  allWords:
+    - chinese: 我
+      pinyin:
+        - wo3
+      english: I
+      audio: 34f201bc507e33caaef736de328bf041234d1138
+      newChars: []
+      allChars:
+        - chinese: 我
+          pinyin:
+            - wo3
+          english: I
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 昨天
+      pinyin:
+        - zuo2
+        - tian1
+      english: yesterday
+      audio: 59c4fcb09e276fac1191534b05678f6f4ba7f7b4
+      newChars: []
+      allChars:
+        - chinese: 昨
+          pinyin:
+            - zuo2
+          english: Yesterday
+          audio: ""
+          isSingleRune: true
+        - chinese: 天
+          pinyin:
+            - tian1
+          english: sky
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 在
+      pinyin:
+        - zai4
+      english: exist
+      audio: 686b703f41f3d5f33b3f36dc2444e59469326078
+      newChars: []
+      allChars:
+        - chinese: 在
+          pinyin:
+            - zai4
+          english: exist
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 商场
+      pinyin:
+        - shang1
+        - chang3
+      english: shopping mall
+      audio: ef59bf58fa0e3cadd06fac2ed835d1b83f0ec42e
+      newChars: []
+      allChars:
+        - chinese: 商
+          pinyin:
+            - shang1
+          english: business
+          audio: ""
+          isSingleRune: true
+        - chinese: 场
+          pinyin:
+            - chang2
+            - chang3
+          english: field
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 吃
+      pinyin:
+        - chi1
+      english: eat
+      audio: a10d4d5a63e66defe4c65fdb35ff27652902c2f8
+      newChars: []
+      allChars:
+        - chinese: 吃
+          pinyin:
+            - chi1
+          english: eat
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 午饭
+      pinyin:
+        - wu3
+        - fan4
+      english: lunch
+      audio: b530790b35faf534c1090b02512cbb3bb25444e0
+      newChars: []
+      allChars:
+        - chinese: 午
+          pinyin:
+            - wu3
+          english: noon
+          audio: ""
+          isSingleRune: true
+        - chinese: 饭
+          pinyin:
+            - fan4
+          english: meal
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 的
+      pinyin:
+        - de5
+        - di1
+        - di2
+        - di4
+      english: of
+      audio: 0746bd624955e27081c6419ac31b592d6b683e95
+      newChars: []
+      allChars:
+        - chinese: 的
+          pinyin:
+            - de5
+            - di1
+            - di2
+            - di4
+          english: of
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 时候
+      pinyin:
+        - shi2
+        - hou5
+      english: when
+      audio: dd26b2b687a3df078196d7b63e43532734c48259
+      newChars: []
+      allChars:
+        - chinese: 时
+          pinyin:
+            - shi2
+          english: hour
+          audio: ""
+          isSingleRune: true
+        - chinese: 候
+          pinyin:
+            - hou4
+          english: waiting
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 看见
+      pinyin:
+        - kan4
+        - jian4
+      english: see
+      audio: 7fd3df7ebc7835f43732f35f73ab81a16b8b4693
+      newChars: []
+      allChars:
+        - chinese: 看
+          pinyin:
+            - kan1
+            - kan4
+          english: look
+          audio: ""
+          isSingleRune: true
+        - chinese: 见
+          pinyin:
+            - jian4
+            - xian4
+          english: See
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 你
+      pinyin:
+        - ni3
+      english: you
+      audio: 5630b886f9cd31702e7c1606eb1f62ab0c759063
+      newChars: []
+      allChars:
+        - chinese: 你
+          pinyin:
+            - ni3
+          english: you
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 朋友
+      pinyin:
+        - peng2
+        - you5
+      english: friend
+      audio: d490b5fd608ecbf4d4ca4d6bfeca63819e2f79a1
+      newChars: []
+      allChars:
+        - chinese: 朋
+          pinyin:
+            - peng2
+          english: friend
+          audio: ""
+          isSingleRune: true
+        - chinese: 友
+          pinyin:
+            - you3
+          english: friend
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 了
+      pinyin:
+        - liao3
+        - liao4
+        - le5
+      english: up
+      audio: a5933e2a9e71d8f6bf5bbf52e659ccbcc5643bea
+      newChars: []
+      allChars:
+        - chinese: 了
+          pinyin:
+            - le5
+            - liao3
+            - liao4
+          english: up
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+  isSingleRune: false
+- chinese: 你 看， 这 是 我 新 买 的 车。
+  pinyin: ni3 kan4 zhe4 shi4 wo3 xin1 mai3 de5 che1。
+  english: Look, this is my new car.
+  audio: 2b9574a52950b10875abbac54956e1d3235255a1.mp3
+  newWords: []
+  allWords:
+    - chinese: 你
+      pinyin:
+        - ni3
+      english: you
+      audio: 5630b886f9cd31702e7c1606eb1f62ab0c759063
+      newChars: []
+      allChars:
+        - chinese: 你
+          pinyin:
+            - ni3
+          english: you
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 看
+      pinyin:
+        - kan1
+        - kan4
+      english: look
+      audio: 5f386ebdbb5c625d91efda6339fc24fe7ccd92be
+      newChars: []
+      allChars:
+        - chinese: 看
+          pinyin:
+            - kan1
+            - kan4
+          english: look
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 这
+      pinyin:
+        - zhe4
+      english: this
+      audio: 542523173c3e3439bd490fff653d2ee678407604
+      newChars: []
+      allChars:
+        - chinese: 这
+          pinyin:
+            - zhe4
+          english: this
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 是
+      pinyin:
+        - shi4
+      english: is, are, to be
+      audio: 30160a21b92a049fc2befcdb70039ed5099df41f
+      newChars: []
+      allChars:
+        - chinese: 是
+          pinyin:
+            - shi4
+          english: is, are, to be
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 我
+      pinyin:
+        - wo3
+      english: I
+      audio: 34f201bc507e33caaef736de328bf041234d1138
+      newChars: []
+      allChars:
+        - chinese: 我
+          pinyin:
+            - wo3
+          english: I
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 新
+      pinyin:
+        - xin1
+      english: new
+      audio: 7b8a6bebd3076cdffaf2193f397d4d9fa399c148
+      newChars: []
+      allChars:
+        - chinese: 新
+          pinyin:
+            - xin1
+          english: new
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 买
+      pinyin:
+        - mai3
+      english: purchase
+      audio: b6c5a7139fda72f84f17a62bd71928e84f096332
+      newChars: []
+      allChars:
+        - chinese: 买
+          pinyin:
+            - mai3
+          english: purchase
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 的
+      pinyin:
+        - di1
+        - di2
+        - di4
+        - de5
+      english: of
+      audio: 0746bd624955e27081c6419ac31b592d6b683e95
+      newChars: []
+      allChars:
+        - chinese: 的
+          pinyin:
+            - de5
+            - di1
+            - di2
+            - di4
+          english: of
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 车
+      pinyin:
+        - che1
+        - ju1
+      english: car
+      audio: 7c852e1d837cb4f3704ae5f83ea16926a47a5666
+      newChars: []
+      allChars:
+        - chinese: 车
+          pinyin:
+            - che1
+            - ju1
+          english: car
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+  isSingleRune: false
+- chinese: 我 已经 到 了。
+  pinyin: wo3 yi3jing1 dao4 le5。
+  english: I've already arrived.
+  audio: 25af1eb02442d8be5eeb44355ddab307c31b2c11.mp3
+  newWords:
+    - chinese: 已经
+      pinyin:
+        - yi3
+        - jing1
+      english: already
+      audio: 0328a7a6bcbea973ea254b00cb55152f14a3afaa.mp3
+      newChars:
+        - chinese: 已
+          pinyin:
+            - yi3
+          english: already
+          audio: 4232e87944c47ef602c045804e282e9158cb2d81.mp3
+          isSingleRune: true
+        - chinese: 经
+          pinyin:
+            - jing1
+          english: through
+          audio: 7cd8fab441ee8f8dc78852a7cb8a97980011680f.mp3
+          isSingleRune: true
+      allChars:
+        - chinese: 已
+          pinyin:
+            - yi3
+          english: already
+          audio: ""
+          isSingleRune: true
+        - chinese: 经
+          pinyin:
+            - jing1
+          english: through
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+  allWords:
+    - chinese: 我
+      pinyin:
+        - wo3
+      english: I
+      audio: 34f201bc507e33caaef736de328bf041234d1138
+      newChars: []
+      allChars:
+        - chinese: 我
+          pinyin:
+            - wo3
+          english: I
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 已经
+      pinyin:
+        - yi3
+        - jing1
+      english: already
+      audio: 0328a7a6bcbea973ea254b00cb55152f14a3afaa
+      newChars: []
+      allChars:
+        - chinese: 已
+          pinyin:
+            - yi3
+          english: already
+          audio: ""
+          isSingleRune: true
+        - chinese: 经
+          pinyin:
+            - jing1
+          english: through
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 到
+      pinyin:
+        - dao4
+      english: arrive
+      audio: 792bbe6e08f5c43c0c78a7793523f994c4d532ed
+      newChars: []
+      allChars:
+        - chinese: 到
+          pinyin:
+            - dao4
+          english: arrive
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 了
+      pinyin:
+        - le5
+        - liao3
+        - liao4
+      english: up
+      audio: a5933e2a9e71d8f6bf5bbf52e659ccbcc5643bea
+      newChars: []
+      allChars:
+        - chinese: 了
+          pinyin:
+            - le5
+            - liao3
+            - liao4
+          english: up
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+  isSingleRune: false
+- chinese: 现在 已经 十二 点 了。
+  pinyin: xian4zai4 jing1yi3 shi2er4 dian3 le5。
+  english: It is already twelve o'clock.
+  audio: e91009775e527c16e6abed356bdaa43f18d4b0a5.mp3
+  newWords: []
+  allWords:
+    - chinese: 现在
+      pinyin:
+        - zai4
+        - xian4
+      english: Now
+      audio: a511e8442ff2ce982c0b6193e9ce76783831420c
+      newChars: []
+      allChars:
+        - chinese: 现
+          pinyin:
+            - xian4
+          english: now
+          audio: ""
+          isSingleRune: true
+        - chinese: 在
+          pinyin:
+            - zai4
+          english: exist
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 已经
+      pinyin:
+        - yi3
+        - jing1
+      english: already
+      audio: 0328a7a6bcbea973ea254b00cb55152f14a3afaa
+      newChars: []
+      allChars:
+        - chinese: 已
+          pinyin:
+            - yi3
+          english: already
+          audio: ""
+          isSingleRune: true
+        - chinese: 经
+          pinyin:
+            - jing1
+          english: through
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 十二
+      pinyin:
+        - shi2
+        - er4
+      english: twelve
+      audio: 08fdd3fc42431152118e2444967172a6f651a808
+      newChars: []
+      allChars:
+        - chinese: 十
+          pinyin:
+            - shi2
+          english: ten
+          audio: ""
+          isSingleRune: true
+        - chinese: 二
+          pinyin:
+            - er4
+          english: two
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 点
+      pinyin:
+        - dian3
+      english: point
+      audio: 1d59ea7cbbee668712898e376a415569ef9dfa09
+      newChars: []
+      allChars:
+        - chinese: 点
+          pinyin:
+            - dian3
+          english: point
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 了
+      pinyin:
+        - le5
+        - liao3
+        - liao4
+      english: up
+      audio: a5933e2a9e71d8f6bf5bbf52e659ccbcc5643bea
+      newChars: []
+      allChars:
+        - chinese: 了
+          pinyin:
+            - le5
+            - liao3
+            - liao4
+          english: up
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+  isSingleRune: false
+- chinese: 我 已经 看 完 这 本 书 了。
+  pinyin: wo3 yi3jing1 kan4 wan2 zhe4 ben3 shu1 le5。
+  english: I have finished reading this book.
+  audio: 8cd493193253bf81a2f0b8b0fc4c774fbf1933d3.mp3
+  newWords:
+    - chinese: 完
+      pinyin:
+        - wan2
+      english: over
+      audio: 08300957760bf693052d622aa3a78d001dc6e2f7.mp3
+      newChars: []
+      allChars:
+        - chinese: 完
+          pinyin:
+            - wan2
+          english: over
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+  allWords:
+    - chinese: 我
+      pinyin:
+        - wo3
+      english: I
+      audio: 34f201bc507e33caaef736de328bf041234d1138
+      newChars: []
+      allChars:
+        - chinese: 我
+          pinyin:
+            - wo3
+          english: I
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 已经
+      pinyin:
+        - yi3
+        - jing1
+      english: already
+      audio: 0328a7a6bcbea973ea254b00cb55152f14a3afaa
+      newChars: []
+      allChars:
+        - chinese: 已
+          pinyin:
+            - yi3
+          english: already
+          audio: ""
+          isSingleRune: true
+        - chinese: 经
+          pinyin:
+            - jing1
+          english: through
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 看
+      pinyin:
+        - kan4
+        - kan1
+      english: look
+      audio: 5f386ebdbb5c625d91efda6339fc24fe7ccd92be
+      newChars: []
+      allChars:
+        - chinese: 看
+          pinyin:
+            - kan1
+            - kan4
+          english: look
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 完
+      pinyin:
+        - wan2
+      english: over
+      audio: 08300957760bf693052d622aa3a78d001dc6e2f7
+      newChars: []
+      allChars:
+        - chinese: 完
+          pinyin:
+            - wan2
+          english: over
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 这
+      pinyin:
+        - zhe4
+      english: this
+      audio: 542523173c3e3439bd490fff653d2ee678407604
+      newChars: []
+      allChars:
+        - chinese: 这
+          pinyin:
+            - zhe4
+          english: this
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 本
+      pinyin:
+        - ben3
+      english: Book
+      audio: d3cc0cab9c6384f4b1d996132970f0e608061fd6
+      newChars: []
+      allChars:
+        - chinese: 本
+          pinyin:
+            - ben3
+          english: Book
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 书
+      pinyin:
+        - shu1
+      english: Book
+      audio: fe04274ceff3059706d742eaa9e9db3368ab0949
+      newChars: []
+      allChars:
+        - chinese: 书
+          pinyin:
+            - shu1
+          english: Book
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 了
+      pinyin:
+        - le5
+        - liao3
+        - liao4
+      english: up
+      audio: a5933e2a9e71d8f6bf5bbf52e659ccbcc5643bea
+      newChars: []
+      allChars:
+        - chinese: 了
+          pinyin:
+            - le5
+            - liao3
+            - liao4
+          english: up
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+  isSingleRune: false
+- chinese: 已经 两 点 了， 你 怎么 还 没 吃饭。
+  pinyin: jing1yi3 liang3 dian3 le5 ni3 zen3me5 hai2 mei2 chi1fan4。
+  english: It's already two o'clock, why haven't you eaten yet?
+  audio: 7da42d8fd810d51dd76c5babb3e1d5e9ed48331f.mp3
+  newWords:
+    - chinese: 还
+      pinyin:
+        - huan2
+        - hai2
+      english: return
+      audio: 08819c1294b19204284107c28e0ed652f6d9fa27.mp3
+      newChars: []
+      allChars:
+        - chinese: 还
+          pinyin:
+            - huan2
+            - hai2
+          english: return
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 吃饭
+      pinyin:
+        - chi1
+        - fan4
+      english: Have a meal
+      audio: ebc6addab85eb82c6785ed757d7c0c6e34279189.mp3
+      newChars: []
+      allChars:
+        - chinese: 吃
+          pinyin:
+            - chi1
+          english: eat
+          audio: ""
+          isSingleRune: true
+        - chinese: 饭
+          pinyin:
+            - fan4
+          english: meal
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+  allWords:
+    - chinese: 已经
+      pinyin:
+        - yi3
+        - jing1
+      english: already
+      audio: 0328a7a6bcbea973ea254b00cb55152f14a3afaa
+      newChars: []
+      allChars:
+        - chinese: 已
+          pinyin:
+            - yi3
+          english: already
+          audio: ""
+          isSingleRune: true
+        - chinese: 经
+          pinyin:
+            - jing1
+          english: through
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 两
+      pinyin:
+        - liang3
+      english: two
+      audio: aaaf4cd73842ff7a03d420ca90cd8f4ade599b2e
+      newChars: []
+      allChars:
+        - chinese: 两
+          pinyin:
+            - liang3
+          english: two
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 点
+      pinyin:
+        - dian3
+      english: point
+      audio: 1d59ea7cbbee668712898e376a415569ef9dfa09
+      newChars: []
+      allChars:
+        - chinese: 点
+          pinyin:
+            - dian3
+          english: point
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 了
+      pinyin:
+        - le5
+        - liao3
+        - liao4
+      english: up
+      audio: a5933e2a9e71d8f6bf5bbf52e659ccbcc5643bea
+      newChars: []
+      allChars:
+        - chinese: 了
+          pinyin:
+            - le5
+            - liao3
+            - liao4
+          english: up
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 你
+      pinyin:
+        - ni3
+      english: you
+      audio: 5630b886f9cd31702e7c1606eb1f62ab0c759063
+      newChars: []
+      allChars:
+        - chinese: 你
+          pinyin:
+            - ni3
+          english: you
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 怎么
+      pinyin:
+        - zen3
+        - me5
+      english: how
+      audio: 6f409884bb8c2e40c5086ee04a2d4356173864a4
+      newChars: []
+      allChars:
+        - chinese: 怎
+          pinyin:
+            - zen3
+          english: How
+          audio: ""
+          isSingleRune: true
+        - chinese: 么
+          pinyin:
+            - ma2
+            - ma5
+            - me5
+          english: What?
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 还
+      pinyin:
+        - huan2
+        - hai2
+      english: return
+      audio: 08819c1294b19204284107c28e0ed652f6d9fa27
+      newChars: []
+      allChars:
+        - chinese: 还
+          pinyin:
+            - huan2
+            - hai2
+          english: return
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 没
+      pinyin:
+        - mei2
+        - mo4
+      english: without
+      audio: ca0bc5e27c656c19f02757ac8b3014816bb65683
+      newChars: []
+      allChars:
+        - chinese: 没
+          pinyin:
+            - mei2
+            - mo4
+          english: without
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 吃饭
+      pinyin:
+        - chi1
+        - fan4
+      english: Have a meal
+      audio: ebc6addab85eb82c6785ed757d7c0c6e34279189
+      newChars: []
+      allChars:
+        - chinese: 吃
+          pinyin:
+            - chi1
+          english: eat
+          audio: ""
+          isSingleRune: true
+        - chinese: 饭
+          pinyin:
+            - fan4
+          english: meal
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+  isSingleRune: false
+- chinese: 儿子 已经 睡觉 了。
+  pinyin: er2zi5 yi3jing1 jiao4shui4 le5。
+  english: The son is already asleep.
+  audio: f9f6b0e841aa3663b300eaae36bc7c1f8b52e016.mp3
+  newWords: []
+  allWords:
+    - chinese: 儿子
+      pinyin:
+        - er2
+        - zi5
+      english: son
+      audio: 7b47d70bc78d2ff7e4227ad4949608d7ff9a6a8c
+      newChars: []
+      allChars:
+        - chinese: 儿
+          pinyin:
+            - r5
+            - ren2
+            - er2
+          english: Son
+          audio: ""
+          isSingleRune: true
+        - chinese: 子
+          pinyin:
+            - zi3
+            - zi5
+          english: Child
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 已经
+      pinyin:
+        - yi3
+        - jing1
+      english: already
+      audio: 0328a7a6bcbea973ea254b00cb55152f14a3afaa
+      newChars: []
+      allChars:
+        - chinese: 已
+          pinyin:
+            - yi3
+          english: already
+          audio: ""
+          isSingleRune: true
+        - chinese: 经
+          pinyin:
+            - jing1
+          english: through
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 睡觉
+      pinyin:
+        - shui4
+        - jiao4
+      english: sleep
+      audio: 6380260a652b9e4edbe63a9893ba7b77c9963e89
+      newChars: []
+      allChars:
+        - chinese: 睡
+          pinyin:
+            - shui4
+          english: sleep
+          audio: ""
+          isSingleRune: true
+        - chinese: 觉
+          pinyin:
+            - jiao4
+            - jue2
+          english: Sleep
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 了
+      pinyin:
+        - le5
+        - liao3
+        - liao4
+      english: up
+      audio: a5933e2a9e71d8f6bf5bbf52e659ccbcc5643bea
+      newChars: []
+      allChars:
+        - chinese: 了
+          pinyin:
+            - liao3
+            - liao4
+            - le5
+          english: up
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+  isSingleRune: false
+- chinese: 今天 的 工作 已经 做 完 了。
+  pinyin: jin1tian1 de5 gong1zuo4 yi3jing1 zuo4 wan2 le5。
+  english: Today's work is done.
+  audio: 2806346282bb96ca8e6c9610731a911e7c31bd77.mp3
+  newWords: []
+  allWords:
+    - chinese: 今天
+      pinyin:
+        - jin1
+        - tian1
+      english: today
+      audio: 17e83cc25e229b05c4c91b60fba8d5cc7c0ef931
+      newChars: []
+      allChars:
+        - chinese: 今
+          pinyin:
+            - jin1
+          english: now
+          audio: ""
+          isSingleRune: true
+        - chinese: 天
+          pinyin:
+            - tian1
+          english: sky
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 的
+      pinyin:
+        - de5
+        - di1
+        - di2
+        - di4
+      english: of
+      audio: 0746bd624955e27081c6419ac31b592d6b683e95
+      newChars: []
+      allChars:
+        - chinese: 的
+          pinyin:
+            - di1
+            - di2
+            - di4
+            - de5
+          english: of
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 工作
+      pinyin:
+        - gong1
+        - zuo4
+      english: Work
+      audio: dd9fc2c0a1aa4ca55cb6e8110dac0e26fc65e537
+      newChars: []
+      allChars:
+        - chinese: 工
+          pinyin:
+            - gong1
+          english: work
+          audio: ""
+          isSingleRune: true
+        - chinese: 作
+          pinyin:
+            - zuo1
+            - zuo4
+          english: do
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 已经
+      pinyin:
+        - yi3
+        - jing1
+      english: already
+      audio: 0328a7a6bcbea973ea254b00cb55152f14a3afaa
+      newChars: []
+      allChars:
+        - chinese: 已
+          pinyin:
+            - yi3
+          english: already
+          audio: ""
+          isSingleRune: true
+        - chinese: 经
+          pinyin:
+            - jing1
+          english: through
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 做
+      pinyin:
+        - zuo4
+      english: Do
+      audio: 715fb2c0eff542392f12d6a423618bd84978654c
+      newChars: []
+      allChars:
+        - chinese: 做
+          pinyin:
+            - zuo4
+          english: Do
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 完
+      pinyin:
+        - wan2
+      english: over
+      audio: 08300957760bf693052d622aa3a78d001dc6e2f7
+      newChars: []
+      allChars:
+        - chinese: 完
+          pinyin:
+            - wan2
+          english: over
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 了
+      pinyin:
+        - liao3
+        - liao4
+        - le5
+      english: up
+      audio: a5933e2a9e71d8f6bf5bbf52e659ccbcc5643bea
+      newChars: []
+      allChars:
+        - chinese: 了
+          pinyin:
+            - liao3
+            - liao4
+            - le5
+          english: up
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+  isSingleRune: false
+- chinese: 我 已经 到 学校 了。我 已经 到 了 学校。
+  pinyin: wo3 jing1yi3 dao4 xue2xiao4 le5 wo3 yi3jing1 dao4 le5 xue2xiao4。
+  english: I'm already at school. I have arrived at school.
+  audio: 5b709def1a7b3661c8c2ca3521e77793489493ca.mp3
+  newWords: []
+  allWords:
+    - chinese: 我
+      pinyin:
+        - wo3
+      english: I
+      audio: 34f201bc507e33caaef736de328bf041234d1138
+      newChars: []
+      allChars:
+        - chinese: 我
+          pinyin:
+            - wo3
+          english: I
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 已经
+      pinyin:
+        - yi3
+        - jing1
+      english: already
+      audio: 0328a7a6bcbea973ea254b00cb55152f14a3afaa
+      newChars: []
+      allChars:
+        - chinese: 已
+          pinyin:
+            - yi3
+          english: already
+          audio: ""
+          isSingleRune: true
+        - chinese: 经
+          pinyin:
+            - jing1
+          english: through
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 到
+      pinyin:
+        - dao4
+      english: arrive
+      audio: 792bbe6e08f5c43c0c78a7793523f994c4d532ed
+      newChars: []
+      allChars:
+        - chinese: 到
+          pinyin:
+            - dao4
+          english: arrive
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 学校
+      pinyin:
+        - xue2
+        - xiao4
+      english: School
+      audio: 08610a85a1b50b73fc799df32d0c8dd386dd586b
+      newChars: []
+      allChars:
+        - chinese: 学
+          pinyin:
+            - xue2
+          english: study
+          audio: ""
+          isSingleRune: true
+        - chinese: 校
+          pinyin:
+            - jiao4
+            - xiao4
+          english: school
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 了
+      pinyin:
+        - liao4
+        - le5
+        - liao3
+      english: up
+      audio: a5933e2a9e71d8f6bf5bbf52e659ccbcc5643bea
+      newChars: []
+      allChars:
+        - chinese: 了
+          pinyin:
+            - le5
+            - liao3
+            - liao4
+          english: up
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 我
+      pinyin:
+        - wo3
+      english: I
+      audio: 34f201bc507e33caaef736de328bf041234d1138
+      newChars: []
+      allChars:
+        - chinese: 我
+          pinyin:
+            - wo3
+          english: I
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 已经
+      pinyin:
+        - yi3
+        - jing1
+      english: already
+      audio: 0328a7a6bcbea973ea254b00cb55152f14a3afaa
+      newChars: []
+      allChars:
+        - chinese: 已
+          pinyin:
+            - yi3
+          english: already
+          audio: ""
+          isSingleRune: true
+        - chinese: 经
+          pinyin:
+            - jing1
+          english: through
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 到
+      pinyin:
+        - dao4
+      english: arrive
+      audio: 792bbe6e08f5c43c0c78a7793523f994c4d532ed
+      newChars: []
+      allChars:
+        - chinese: 到
+          pinyin:
+            - dao4
+          english: arrive
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 了
+      pinyin:
+        - le5
+        - liao3
+        - liao4
+      english: up
+      audio: a5933e2a9e71d8f6bf5bbf52e659ccbcc5643bea
+      newChars: []
+      allChars:
+        - chinese: 了
+          pinyin:
+            - liao4
+            - le5
+            - liao3
+          english: up
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 学校
+      pinyin:
+        - xue2
+        - xiao4
+      english: School
+      audio: 08610a85a1b50b73fc799df32d0c8dd386dd586b
+      newChars: []
+      allChars:
+        - chinese: 学
+          pinyin:
+            - xue2
+          english: study
+          audio: ""
+          isSingleRune: true
+        - chinese: 校
+          pinyin:
+            - jiao4
+            - xiao4
+          english: school
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+  isSingleRune: false
+- chinese: 我们 去 商场 吧。
+  pinyin: wo3men5 qu4 chang3shang1 ba5。
+  english: Let's go to the mall.
+  audio: 004fcbe862154cd2eefd64dd06b6b299deb4c38e.mp3
+  newWords:
+    - chinese: 吧
+      pinyin:
+        - ba1
+        - ba5
+        - bia1
+      english: Bar
+      audio: 01afc04c9ad64b8ae93bb8657ada47d765350702.mp3
+      newChars: []
+      allChars:
+        - chinese: 吧
+          pinyin:
+            - ba1
+            - ba5
+            - bia1
+          english: Bar
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+  allWords:
+    - chinese: 我们
+      pinyin:
+        - wo3
+        - men5
+      english: us
+      audio: 0805949359741ce14fe90402b25e2e023f449748
+      newChars: []
+      allChars:
+        - chinese: 我
+          pinyin:
+            - wo3
+          english: I
+          audio: ""
+          isSingleRune: true
+        - chinese: 们
+          pinyin:
+            - men5
+          english: they
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 去
+      pinyin:
+        - qu4
+      english: go
+      audio: 033fd274f014aec08c2dfb1902e6090cbbb2c295
+      newChars: []
+      allChars:
+        - chinese: 去
+          pinyin:
+            - qu4
+          english: go
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 商场
+      pinyin:
+        - shang1
+        - chang3
+      english: shopping mall
+      audio: ef59bf58fa0e3cadd06fac2ed835d1b83f0ec42e
+      newChars: []
+      allChars:
+        - chinese: 商
+          pinyin:
+            - shang1
+          english: business
+          audio: ""
+          isSingleRune: true
+        - chinese: 场
+          pinyin:
+            - chang2
+            - chang3
+          english: field
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 吧
+      pinyin:
+        - ba1
+        - ba5
+        - bia1
+      english: Bar
+      audio: 01afc04c9ad64b8ae93bb8657ada47d765350702
+      newChars: []
+      allChars:
+        - chinese: 吧
+          pinyin:
+            - ba1
+            - ba5
+            - bia1
+          english: Bar
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+  isSingleRune: false
+- chinese: 我们 去 吃 午饭 吧。
+  pinyin: wo3men5 qu4 chi1 wu3fan4 ba5。
+  english: Let's go to lunch.
+  audio: 30b4ceabd94e8a48175c43ec3d3710fb01daabaf.mp3
+  newWords: []
+  allWords:
+    - chinese: 我们
+      pinyin:
+        - men5
+        - wo3
+      english: us
+      audio: 0805949359741ce14fe90402b25e2e023f449748
+      newChars: []
+      allChars:
+        - chinese: 我
+          pinyin:
+            - wo3
+          english: I
+          audio: ""
+          isSingleRune: true
+        - chinese: 们
+          pinyin:
+            - men5
+          english: they
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 去
+      pinyin:
+        - qu4
+      english: go
+      audio: 033fd274f014aec08c2dfb1902e6090cbbb2c295
+      newChars: []
+      allChars:
+        - chinese: 去
+          pinyin:
+            - qu4
+          english: go
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 吃
+      pinyin:
+        - chi1
+      english: eat
+      audio: a10d4d5a63e66defe4c65fdb35ff27652902c2f8
+      newChars: []
+      allChars:
+        - chinese: 吃
+          pinyin:
+            - chi1
+          english: eat
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 午饭
+      pinyin:
+        - wu3
+        - fan4
+      english: lunch
+      audio: b530790b35faf534c1090b02512cbb3bb25444e0
+      newChars: []
+      allChars:
+        - chinese: 午
+          pinyin:
+            - wu3
+          english: noon
+          audio: ""
+          isSingleRune: true
+        - chinese: 饭
+          pinyin:
+            - fan4
+          english: meal
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 吧
+      pinyin:
+        - ba1
+        - ba5
+        - bia1
+      english: Bar
+      audio: 01afc04c9ad64b8ae93bb8657ada47d765350702
+      newChars: []
+      allChars:
+        - chinese: 吧
+          pinyin:
+            - ba1
+            - ba5
+            - bia1
+          english: Bar
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+  isSingleRune: false
+- chinese: 今天 买 一个 西瓜 吧。
+  pinyin: jin1tian1 mai3 yi1ge4 xi1gua1 ba5。
+  english: Buy a watermelon today.
+  audio: 9f532c7da759624f618910f2f591ce69e1d18f21.mp3
+  newWords:
+    - chinese: 一个
+      pinyin: []
+      english: one
+      audio: d8e3ae229f05643b9e5564410de4d290ae42fca4.mp3
+      newChars: []
+      allChars:
+        - chinese: 一
+          pinyin:
+            - yi1
+          english: one
+          audio: ""
+          isSingleRune: true
+        - chinese: 个
+          pinyin:
+            - ge3
+            - ge4
+          english: indivual
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+  allWords:
+    - chinese: 今天
+      pinyin:
+        - jin1
+        - tian1
+      english: today
+      audio: 17e83cc25e229b05c4c91b60fba8d5cc7c0ef931
+      newChars: []
+      allChars:
+        - chinese: 今
+          pinyin:
+            - jin1
+          english: now
+          audio: ""
+          isSingleRune: true
+        - chinese: 天
+          pinyin:
+            - tian1
+          english: sky
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 买
+      pinyin:
+        - mai3
+      english: purchase
+      audio: b6c5a7139fda72f84f17a62bd71928e84f096332
+      newChars: []
+      allChars:
+        - chinese: 买
+          pinyin:
+            - mai3
+          english: purchase
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 一个
+      pinyin: []
+      english: one
+      audio: d8e3ae229f05643b9e5564410de4d290ae42fca4
+      newChars: []
+      allChars:
+        - chinese: 一
+          pinyin:
+            - yi1
+          english: one
+          audio: ""
+          isSingleRune: true
+        - chinese: 个
+          pinyin:
+            - ge3
+            - ge4
+          english: indivual
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 西瓜
+      pinyin:
+        - xi1
+        - gua1
+      english: watermelon
+      audio: 6a589fa617df5e3337e051f98e1c650849af2372
+      newChars: []
+      allChars:
+        - chinese: 西
+          pinyin:
+            - xi1
+          english: West
+          audio: ""
+          isSingleRune: true
+        - chinese: 瓜
+          pinyin:
+            - gua1
+          english: melon
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 吧
+      pinyin:
+        - bia1
+        - ba1
+        - ba5
+      english: Bar
+      audio: 01afc04c9ad64b8ae93bb8657ada47d765350702
+      newChars: []
+      allChars:
+        - chinese: 吧
+          pinyin:
+            - ba1
+            - ba5
+            - bia1
+          english: Bar
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+  isSingleRune: false
+- chinese: 我们 今天 在 家 做饭 吧。
+  pinyin: men5wo3 jin1tian1 zai4 jia1 fan4zuo4 ba5。
+  english: Let's cook at home today.
+  audio: bb2ec02779646158b666686afba3a085ac288452.mp3
+  newWords: []
+  allWords:
+    - chinese: 我们
+      pinyin:
+        - wo3
+        - men5
+      english: us
+      audio: 0805949359741ce14fe90402b25e2e023f449748
+      newChars: []
+      allChars:
+        - chinese: 我
+          pinyin:
+            - wo3
+          english: I
+          audio: ""
+          isSingleRune: true
+        - chinese: 们
+          pinyin:
+            - men5
+          english: they
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 今天
+      pinyin:
+        - jin1
+        - tian1
+      english: today
+      audio: 17e83cc25e229b05c4c91b60fba8d5cc7c0ef931
+      newChars: []
+      allChars:
+        - chinese: 今
+          pinyin:
+            - jin1
+          english: now
+          audio: ""
+          isSingleRune: true
+        - chinese: 天
+          pinyin:
+            - tian1
+          english: sky
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 在
+      pinyin:
+        - zai4
+      english: exist
+      audio: 686b703f41f3d5f33b3f36dc2444e59469326078
+      newChars: []
+      allChars:
+        - chinese: 在
+          pinyin:
+            - zai4
+          english: exist
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 家
+      pinyin:
+        - jia1
+      english: Home
+      audio: 7de8177ce74b123ce9744fd680804140ceee9abc
+      newChars: []
+      allChars:
+        - chinese: 家
+          pinyin:
+            - jia1
+          english: Home
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 做饭
+      pinyin:
+        - zuo4
+        - fan4
+      english: Cook
+      audio: da2ad6fb7f9cc9a754b8f5d168502b2b0cb1fd2c
+      newChars: []
+      allChars:
+        - chinese: 做
+          pinyin:
+            - zuo4
+          english: Do
+          audio: ""
+          isSingleRune: true
+        - chinese: 饭
+          pinyin:
+            - fan4
+          english: meal
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 吧
+      pinyin:
+        - ba1
+        - ba5
+        - bia1
+      english: Bar
+      audio: 01afc04c9ad64b8ae93bb8657ada47d765350702
+      newChars: []
+      allChars:
+        - chinese: 吧
+          pinyin:
+            - ba1
+            - ba5
+            - bia1
+          english: Bar
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+  isSingleRune: false
+- chinese: 我们 做 出租车 去 机场 吧。
+  pinyin: wo3men5 zuo4 chu1zu1che1 qu4 ji1chang3 ba5。
+  english: Let's take a taxi to the airport.
+  audio: 206e9dd3f387277ff3e7679bf4fa87271d040c07.mp3
+  newWords: []
+  allWords:
+    - chinese: 我们
+      pinyin:
+        - wo3
+        - men5
+      english: us
+      audio: 0805949359741ce14fe90402b25e2e023f449748
+      newChars: []
+      allChars:
+        - chinese: 我
+          pinyin:
+            - wo3
+          english: I
+          audio: ""
+          isSingleRune: true
+        - chinese: 们
+          pinyin:
+            - men5
+          english: they
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 做
+      pinyin:
+        - zuo4
+      english: Do
+      audio: 715fb2c0eff542392f12d6a423618bd84978654c
+      newChars: []
+      allChars:
+        - chinese: 做
+          pinyin:
+            - zuo4
+          english: Do
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 出租车
+      pinyin:
+        - chu1
+        - zu1
+        - che1
+      english: taxi
+      audio: 14534d703d56e8e8e3571229eafee057dbfa6553
+      newChars: []
+      allChars:
+        - chinese: 出
+          pinyin:
+            - chu1
+          english: out
+          audio: ""
+          isSingleRune: true
+        - chinese: 租
+          pinyin:
+            - zu1
+          english: rent
+          audio: ""
+          isSingleRune: true
+        - chinese: 车
+          pinyin:
+            - ju1
+            - che1
+          english: car
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 去
+      pinyin:
+        - qu4
+      english: go
+      audio: 033fd274f014aec08c2dfb1902e6090cbbb2c295
+      newChars: []
+      allChars:
+        - chinese: 去
+          pinyin:
+            - qu4
+          english: go
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 机场
+      pinyin:
+        - ji1
+        - chang3
+      english: Airport
+      audio: dde7f973f79bd67fc8f966fb5f4b315078fa736c
+      newChars: []
+      allChars:
+        - chinese: 机
+          pinyin:
+            - ji1
+          english: machine
+          audio: ""
+          isSingleRune: true
+        - chinese: 场
+          pinyin:
+            - chang2
+            - chang3
+          english: field
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 吧
+      pinyin:
+        - ba1
+        - ba5
+        - bia1
+      english: Bar
+      audio: 01afc04c9ad64b8ae93bb8657ada47d765350702
+      newChars: []
+      allChars:
+        - chinese: 吧
+          pinyin:
+            - ba1
+            - ba5
+            - bia1
+          english: Bar
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+  isSingleRune: false
+- chinese: 你 看 一下 菜单 吧。
+  pinyin: ni3 kan4 yi1xia4 cai4dan1 ba5。
+  english: Just look at the menu.
+  audio: 9eae24da87bb3c0a12b34f8b78f7527ad7d0e958.mp3
+  newWords: []
+  allWords:
+    - chinese: 你
+      pinyin:
+        - ni3
+      english: you
+      audio: 5630b886f9cd31702e7c1606eb1f62ab0c759063
+      newChars: []
+      allChars:
+        - chinese: 你
+          pinyin:
+            - ni3
+          english: you
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 看
+      pinyin:
+        - kan1
+        - kan4
+      english: look
+      audio: 5f386ebdbb5c625d91efda6339fc24fe7ccd92be
+      newChars: []
+      allChars:
+        - chinese: 看
+          pinyin:
+            - kan1
+            - kan4
+          english: look
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 一下
+      pinyin:
+        - xia4
+        - yi1
+      english: one time
+      audio: a682cf4c9cd887e492081559efc97e3742d97be5
+      newChars: []
+      allChars:
+        - chinese: 一
+          pinyin:
+            - yi1
+          english: one
+          audio: ""
+          isSingleRune: true
+        - chinese: 下
+          pinyin:
+            - xia4
+          english: Down
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 菜单
+      pinyin:
+        - cai4
+        - dan1
+      english: menu
+      audio: 70824562078a4ebe4758957d126931acfaef5f46
+      newChars: []
+      allChars:
+        - chinese: 菜
+          pinyin:
+            - cai4
+          english: vegetable
+          audio: ""
+          isSingleRune: true
+        - chinese: 单
+          pinyin:
+            - shan4
+            - dan1
+          english: one
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 吧
+      pinyin:
+        - ba1
+        - ba5
+        - bia1
+      english: Bar
+      audio: 01afc04c9ad64b8ae93bb8657ada47d765350702
+      newChars: []
+      allChars:
+        - chinese: 吧
+          pinyin:
+            - ba1
+            - ba5
+            - bia1
+          english: Bar
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+  isSingleRune: false
+- chinese: 星期天 我们 去 看 电影 吧。
+  pinyin: xing1qi1tian1 wo3men5 qu4 kan4 dian4ying3 ba5。
+  english: Let's go to the movies on Sunday.
+  audio: fdab79f0339a74460b0ce3661bb8e3d4792744c5.mp3
+  newWords: []
+  allWords:
+    - chinese: 星期天
+      pinyin:
+        - xing1
+        - qi1
+        - tian1
+      english: Sunday
+      audio: c25143d15d8f56ad05fcab90713f5e3ac668d903
+      newChars: []
+      allChars:
+        - chinese: 星
+          pinyin:
+            - xing1
+          english: star
+          audio: ""
+          isSingleRune: true
+        - chinese: 期
+          pinyin:
+            - qi1
+          english: Expect
+          audio: ""
+          isSingleRune: true
+        - chinese: 天
+          pinyin:
+            - tian1
+          english: sky
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 我们
+      pinyin:
+        - wo3
+        - men5
+      english: us
+      audio: 0805949359741ce14fe90402b25e2e023f449748
+      newChars: []
+      allChars:
+        - chinese: 我
+          pinyin:
+            - wo3
+          english: I
+          audio: ""
+          isSingleRune: true
+        - chinese: 们
+          pinyin:
+            - men5
+          english: they
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 去
+      pinyin:
+        - qu4
+      english: go
+      audio: 033fd274f014aec08c2dfb1902e6090cbbb2c295
+      newChars: []
+      allChars:
+        - chinese: 去
+          pinyin:
+            - qu4
+          english: go
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 看
+      pinyin:
+        - kan4
+        - kan1
+      english: look
+      audio: 5f386ebdbb5c625d91efda6339fc24fe7ccd92be
+      newChars: []
+      allChars:
+        - chinese: 看
+          pinyin:
+            - kan1
+            - kan4
+          english: look
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 电影
+      pinyin:
+        - dian4
+        - ying3
+      english: Movie
+      audio: ba723f5f1db568ccb07b5b8923e84ecbe55c7494
+      newChars: []
+      allChars:
+        - chinese: 电
+          pinyin:
+            - dian4
+          english: electricity
+          audio: ""
+          isSingleRune: true
+        - chinese: 影
+          pinyin:
+            - ying3
+          english: Shadow
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 吧
+      pinyin:
+        - ba1
+        - ba5
+        - bia1
+      english: Bar
+      audio: 01afc04c9ad64b8ae93bb8657ada47d765350702
+      newChars: []
+      allChars:
+        - chinese: 吧
+          pinyin:
+            - ba1
+            - ba5
+            - bia1
+          english: Bar
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+  isSingleRune: false
+- chinese: 她 还 在 医院。
+  pinyin: ta1 hai2 zai4 yi1yuan4。
+  english: She is still in the hospital.
+  audio: 7b9ad82a954b0aaa623303fa87d4c40181f8f39f.mp3
+  newWords: []
+  allWords:
+    - chinese: 她
+      pinyin:
+        - ta1
+      english: she
+      audio: 7f2fa5ddbee2c384a554f6ab18cbca5706a4a4ea
+      newChars: []
+      allChars:
+        - chinese: 她
+          pinyin:
+            - ta1
+          english: she
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 还
+      pinyin:
+        - huan2
+        - hai2
+      english: return
+      audio: 08819c1294b19204284107c28e0ed652f6d9fa27
+      newChars: []
+      allChars:
+        - chinese: 还
+          pinyin:
+            - huan2
+            - hai2
+          english: return
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 在
+      pinyin:
+        - zai4
+      english: exist
+      audio: 686b703f41f3d5f33b3f36dc2444e59469326078
+      newChars: []
+      allChars:
+        - chinese: 在
+          pinyin:
+            - zai4
+          english: exist
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 医院
+      pinyin:
+        - yi1
+        - yuan4
+      english: Hospital
+      audio: 41deb734126905ecfd6701e52ef1c36d097cb4c4
+      newChars: []
+      allChars:
+        - chinese: 医
+          pinyin:
+            - yi1
+          english: medical
+          audio: ""
+          isSingleRune: true
+        - chinese: 院
+          pinyin:
+            - yuan4
+          english: hospital
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+  isSingleRune: false
+- chinese: 我 还 有 一点儿 工作。
+  pinyin: wo3 hai2 you3 yi1dian3r5 gong1zuo4。
+  english: I still have a little work to do.
+  audio: bf62b950c5ac6c3601ff09bbe98aa095142401c9.mp3
+  newWords: []
+  allWords:
+    - chinese: 我
+      pinyin:
+        - wo3
+      english: I
+      audio: 34f201bc507e33caaef736de328bf041234d1138
+      newChars: []
+      allChars:
+        - chinese: 我
+          pinyin:
+            - wo3
+          english: I
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 还
+      pinyin:
+        - huan2
+        - hai2
+      english: return
+      audio: 08819c1294b19204284107c28e0ed652f6d9fa27
+      newChars: []
+      allChars:
+        - chinese: 还
+          pinyin:
+            - hai2
+            - huan2
+          english: return
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 有
+      pinyin:
+        - you3
+      english: have
+      audio: fbd5b75066a6dc39a3d486bfbcda44c9b9774a47
+      newChars: []
+      allChars:
+        - chinese: 有
+          pinyin:
+            - you3
+          english: have
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 一点儿
+      pinyin:
+        - yi1
+        - dian3
+        - r5
+      english: a little
+      audio: b34e4ca73460f59e2a484700f4b8b08519509641
+      newChars: []
+      allChars:
+        - chinese: 一
+          pinyin:
+            - yi1
+          english: one
+          audio: ""
+          isSingleRune: true
+        - chinese: 点
+          pinyin:
+            - dian3
+          english: point
+          audio: ""
+          isSingleRune: true
+        - chinese: 儿
+          pinyin:
+            - ren2
+            - er2
+            - r5
+          english: Son
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 工作
+      pinyin:
+        - gong1
+        - zuo4
+      english: Work
+      audio: dd9fc2c0a1aa4ca55cb6e8110dac0e26fc65e537
+      newChars: []
+      allChars:
+        - chinese: 工
+          pinyin:
+            - gong1
+          english: work
+          audio: ""
+          isSingleRune: true
+        - chinese: 作
+          pinyin:
+            - zuo1
+            - zuo4
+          english: do
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+  isSingleRune: false
+- chinese: 她 还 主 在 上海。
+  pinyin: ta1 hai2 zhu3 zai4 shang4hai3。
+  english: She is still in Shanghai.
+  audio: 7c387f28e38e214bd9a26e0133864442005b70c3.mp3
+  newWords:
+    - chinese: 主
+      pinyin:
+        - zhu3
+      english: host
+      audio: fbf71355e95cdcc513efef339ca8481c068f8b0e.mp3
+      newChars: []
+      allChars:
+        - chinese: 主
+          pinyin:
+            - zhu3
+          english: host
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+  allWords:
+    - chinese: 她
+      pinyin:
+        - ta1
+      english: she
+      audio: 7f2fa5ddbee2c384a554f6ab18cbca5706a4a4ea
+      newChars: []
+      allChars:
+        - chinese: 她
+          pinyin:
+            - ta1
+          english: she
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 还
+      pinyin:
+        - hai2
+        - huan2
+      english: return
+      audio: 08819c1294b19204284107c28e0ed652f6d9fa27
+      newChars: []
+      allChars:
+        - chinese: 还
+          pinyin:
+            - hai2
+            - huan2
+          english: return
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 主
+      pinyin:
+        - zhu3
+      english: host
+      audio: fbf71355e95cdcc513efef339ca8481c068f8b0e
+      newChars: []
+      allChars:
+        - chinese: 主
+          pinyin:
+            - zhu3
+          english: host
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 在
+      pinyin:
+        - zai4
+      english: exist
+      audio: 686b703f41f3d5f33b3f36dc2444e59469326078
+      newChars: []
+      allChars:
+        - chinese: 在
+          pinyin:
+            - zai4
+          english: exist
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 上海
+      pinyin:
+        - shang4
+        - hai3
+      english: Shanghai
+      audio: 99f1e46974c65e07664e0df1fd6267b3236789b2
+      newChars: []
+      allChars:
+        - chinese: 上
+          pinyin:
+            - shang4
+            - shang3
+          english: superior
+          audio: ""
+          isSingleRune: true
+        - chinese: 海
+          pinyin:
+            - hai3
+          english: Ocean
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+  isSingleRune: false
+- chinese: 我 还 不 认识 她。
+  pinyin: wo3 hai2 bu4 ren4shi5 ta1。
+  english: I don't know her yet.
+  audio: 16f88b32dbe2ed863e1d803a5881456cee2c5b02.mp3
+  newWords: []
+  allWords:
+    - chinese: 我
+      pinyin:
+        - wo3
+      english: I
+      audio: 34f201bc507e33caaef736de328bf041234d1138
+      newChars: []
+      allChars:
+        - chinese: 我
+          pinyin:
+            - wo3
+          english: I
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 还
+      pinyin:
+        - huan2
+        - hai2
+      english: return
+      audio: 08819c1294b19204284107c28e0ed652f6d9fa27
+      newChars: []
+      allChars:
+        - chinese: 还
+          pinyin:
+            - huan2
+            - hai2
+          english: return
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 不
+      pinyin:
+        - bu4
+      english: "No"
+      audio: 8fa7401e9077e3abfd81e15b9ffa8fb30893b969
+      newChars: []
+      allChars:
+        - chinese: 不
+          pinyin:
+            - bu4
+          english: "No"
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 认识
+      pinyin:
+        - ren4
+        - shi5
+      english: know
+      audio: b79cb26e1cea8a6d2e4c6fc127a1855d42fab8af
+      newChars: []
+      allChars:
+        - chinese: 认
+          pinyin:
+            - ren4
+          english: recognize
+          audio: ""
+          isSingleRune: true
+        - chinese: 识
+          pinyin:
+            - shi2
+            - zhi4
+          english: knowledge
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 她
+      pinyin:
+        - ta1
+      english: she
+      audio: 7f2fa5ddbee2c384a554f6ab18cbca5706a4a4ea
+      newChars: []
+      allChars:
+        - chinese: 她
+          pinyin:
+            - ta1
+          english: she
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+  isSingleRune: false
+- chinese: 我 还 想 吃 点儿 东西。
+  pinyin: wo3 hai2 xiang3 chi1 dian3r5 dong1xi1。
+  english: I also want to eat something.
+  audio: 60fb556fc3cb967bbace70eca23bd2c7cbf139fd.mp3
+  newWords: []
+  allWords:
+    - chinese: 我
+      pinyin:
+        - wo3
+      english: I
+      audio: 34f201bc507e33caaef736de328bf041234d1138
+      newChars: []
+      allChars:
+        - chinese: 我
+          pinyin:
+            - wo3
+          english: I
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 还
+      pinyin:
+        - huan2
+        - hai2
+      english: return
+      audio: 08819c1294b19204284107c28e0ed652f6d9fa27
+      newChars: []
+      allChars:
+        - chinese: 还
+          pinyin:
+            - huan2
+            - hai2
+          english: return
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 想
+      pinyin:
+        - xiang3
+      english: think
+      audio: a48f3ad06d5e695cb56d3b37a67939b87fb36851
+      newChars: []
+      allChars:
+        - chinese: 想
+          pinyin:
+            - xiang3
+          english: think
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 吃
+      pinyin:
+        - chi1
+      english: eat
+      audio: a10d4d5a63e66defe4c65fdb35ff27652902c2f8
+      newChars: []
+      allChars:
+        - chinese: 吃
+          pinyin:
+            - chi1
+          english: eat
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 点儿
+      pinyin:
+        - dian3
+        - r5
+      english: a bit
+      audio: dc17d87be639410ffd5411bb5d97a79e3ac91277
+      newChars: []
+      allChars:
+        - chinese: 点
+          pinyin:
+            - dian3
+          english: point
+          audio: ""
+          isSingleRune: true
+        - chinese: 儿
+          pinyin:
+            - ren2
+            - er2
+            - r5
+          english: Son
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 东西
+      pinyin:
+        - dong1
+        - xi1
+        - xi5
+      english: thing
+      audio: 949fb2e91418505af569083f71b3360532a3eead
+      newChars: []
+      allChars:
+        - chinese: 东
+          pinyin:
+            - dong1
+          english: East
+          audio: ""
+          isSingleRune: true
+        - chinese: 西
+          pinyin:
+            - xi1
+          english: West
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+  isSingleRune: false
+- chinese: 我 还 没 看 完 这 本 书。
+  pinyin: wo3 hai2 mei2 kan4 wan2 zhe4 ben3 shu1。
+  english: I haven't finished the book yet.
+  audio: 516c772973b4fe8cb4391b5a9820fc08769ec4c9.mp3
+  newWords: []
+  allWords:
+    - chinese: 我
+      pinyin:
+        - wo3
+      english: I
+      audio: 34f201bc507e33caaef736de328bf041234d1138
+      newChars: []
+      allChars:
+        - chinese: 我
+          pinyin:
+            - wo3
+          english: I
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 还
+      pinyin:
+        - huan2
+        - hai2
+      english: return
+      audio: 08819c1294b19204284107c28e0ed652f6d9fa27
+      newChars: []
+      allChars:
+        - chinese: 还
+          pinyin:
+            - huan2
+            - hai2
+          english: return
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 没
+      pinyin:
+        - mei2
+        - mo4
+      english: without
+      audio: ca0bc5e27c656c19f02757ac8b3014816bb65683
+      newChars: []
+      allChars:
+        - chinese: 没
+          pinyin:
+            - mei2
+            - mo4
+          english: without
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 看
+      pinyin:
+        - kan1
+        - kan4
+      english: look
+      audio: 5f386ebdbb5c625d91efda6339fc24fe7ccd92be
+      newChars: []
+      allChars:
+        - chinese: 看
+          pinyin:
+            - kan1
+            - kan4
+          english: look
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 完
+      pinyin:
+        - wan2
+      english: over
+      audio: 08300957760bf693052d622aa3a78d001dc6e2f7
+      newChars: []
+      allChars:
+        - chinese: 完
+          pinyin:
+            - wan2
+          english: over
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 这
+      pinyin:
+        - zhe4
+      english: this
+      audio: 542523173c3e3439bd490fff653d2ee678407604
+      newChars: []
+      allChars:
+        - chinese: 这
+          pinyin:
+            - zhe4
+          english: this
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 本
+      pinyin:
+        - ben3
+      english: Book
+      audio: d3cc0cab9c6384f4b1d996132970f0e608061fd6
+      newChars: []
+      allChars:
+        - chinese: 本
+          pinyin:
+            - ben3
+          english: Book
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 书
+      pinyin:
+        - shu1
+      english: Book
+      audio: fe04274ceff3059706d742eaa9e9db3368ab0949
+      newChars: []
+      allChars:
+        - chinese: 书
+          pinyin:
+            - shu1
+          english: Book
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+  isSingleRune: false
+- chinese: 她 还 没 回 家。
+  pinyin: ta1 hai2 mei2 hui2 jia1。
+  english: She hasn't come home yet.
+  audio: 5876080cb08a929445365571205c685b4ae1152d.mp3
+  newWords: []
+  allWords:
+    - chinese: 她
+      pinyin:
+        - ta1
+      english: she
+      audio: 7f2fa5ddbee2c384a554f6ab18cbca5706a4a4ea
+      newChars: []
+      allChars:
+        - chinese: 她
+          pinyin:
+            - ta1
+          english: she
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 还
+      pinyin:
+        - huan2
+        - hai2
+      english: return
+      audio: 08819c1294b19204284107c28e0ed652f6d9fa27
+      newChars: []
+      allChars:
+        - chinese: 还
+          pinyin:
+            - huan2
+            - hai2
+          english: return
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 没
+      pinyin:
+        - mei2
+        - mo4
+      english: without
+      audio: ca0bc5e27c656c19f02757ac8b3014816bb65683
+      newChars: []
+      allChars:
+        - chinese: 没
+          pinyin:
+            - mei2
+            - mo4
+          english: without
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 回
+      pinyin:
+        - hui2
+      english: times
+      audio: 5b722ab4152c046f9d7a9b075028537bfe537d1a
+      newChars: []
+      allChars:
+        - chinese: 回
+          pinyin:
+            - hui2
+          english: times
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 家
+      pinyin:
+        - jia1
+      english: Home
+      audio: 7de8177ce74b123ce9744fd680804140ceee9abc
+      newChars: []
+      allChars:
+        - chinese: 家
+          pinyin:
+            - jia1
+          english: Home
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+  isSingleRune: false
+- chinese: 你 还 在 酒店 吗？
+  pinyin: ni3 hai2 zai4 jiu3dian4 ma5？
+  english: Are you still in the hotel?
+  audio: c370343d2177ba11fcbdaaeaf00be568a1fa32a7.mp3
+  newWords: []
+  allWords:
+    - chinese: 你
+      pinyin:
+        - ni3
+      english: you
+      audio: 5630b886f9cd31702e7c1606eb1f62ab0c759063
+      newChars: []
+      allChars:
+        - chinese: 你
+          pinyin:
+            - ni3
+          english: you
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 还
+      pinyin:
+        - huan2
+        - hai2
+      english: return
+      audio: 08819c1294b19204284107c28e0ed652f6d9fa27
+      newChars: []
+      allChars:
+        - chinese: 还
+          pinyin:
+            - huan2
+            - hai2
+          english: return
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 在
+      pinyin:
+        - zai4
+      english: exist
+      audio: 686b703f41f3d5f33b3f36dc2444e59469326078
+      newChars: []
+      allChars:
+        - chinese: 在
+          pinyin:
+            - zai4
+          english: exist
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 酒店
+      pinyin:
+        - dian4
+        - jiu3
+      english: hotel
+      audio: f01540c8a609b0063245d68baa895bfbb932f7ce
+      newChars: []
+      allChars:
+        - chinese: 酒
+          pinyin:
+            - jiu3
+          english: liquor
+          audio: ""
+          isSingleRune: true
+        - chinese: 店
+          pinyin:
+            - dian4
+          english: shop
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 吗
+      pinyin:
+        - ma3
+        - ma5
+      english: Question particle for yes/no questions
+      audio: 8c49e4b3edb7f0239ec632f9766042bb19569fd1
+      newChars: []
+      allChars:
+        - chinese: 吗
+          pinyin:
+            - ma3
+            - ma5
+          english: Question particle for yes/no questions
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+  isSingleRune: false
+- chinese: 现在 还 没 下雨。
+  pinyin: xian4zai4 hai2 mei2 xia4yu3。
+  english: It hasn't rained yet.
+  audio: e693e008d5aba8f35d5e85b5466f9fb4f11430b2.mp3
+  newWords: []
+  allWords:
+    - chinese: 现在
+      pinyin:
+        - xian4
+        - zai4
+      english: Now
+      audio: a511e8442ff2ce982c0b6193e9ce76783831420c
+      newChars: []
+      allChars:
+        - chinese: 现
+          pinyin:
+            - xian4
+          english: now
+          audio: ""
+          isSingleRune: true
+        - chinese: 在
+          pinyin:
+            - zai4
+          english: exist
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 还
+      pinyin:
+        - huan2
+        - hai2
+      english: return
+      audio: 08819c1294b19204284107c28e0ed652f6d9fa27
+      newChars: []
+      allChars:
+        - chinese: 还
+          pinyin:
+            - huan2
+            - hai2
+          english: return
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 没
+      pinyin:
+        - mo4
+        - mei2
+      english: without
+      audio: ca0bc5e27c656c19f02757ac8b3014816bb65683
+      newChars: []
+      allChars:
+        - chinese: 没
+          pinyin:
+            - mei2
+            - mo4
+          english: without
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 下雨
+      pinyin:
+        - xia4
+        - yu3
+      english: rain
+      audio: b94ed83e391b4749ef316bc874104aa8af8ed2cf
+      newChars: []
+      allChars:
+        - chinese: 下
+          pinyin:
+            - xia4
+          english: Down
+          audio: ""
+          isSingleRune: true
+        - chinese: 雨
+          pinyin:
+            - yu3
+            - yu4
+          english: rain
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+  isSingleRune: false
+- chinese: 我 还 在 学校。
+  pinyin: wo3 hai2 zai4 xue2xiao4。
+  english: I'm still in school.
+  audio: 2fdb57e97c2d913e9e71405ab486c37355818037.mp3
+  newWords: []
+  allWords:
+    - chinese: 我
+      pinyin:
+        - wo3
+      english: I
+      audio: 34f201bc507e33caaef736de328bf041234d1138
+      newChars: []
+      allChars:
+        - chinese: 我
+          pinyin:
+            - wo3
+          english: I
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 还
+      pinyin:
+        - huan2
+        - hai2
+      english: return
+      audio: 08819c1294b19204284107c28e0ed652f6d9fa27
+      newChars: []
+      allChars:
+        - chinese: 还
+          pinyin:
+            - huan2
+            - hai2
+          english: return
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 在
+      pinyin:
+        - zai4
+      english: exist
+      audio: 686b703f41f3d5f33b3f36dc2444e59469326078
+      newChars: []
+      allChars:
+        - chinese: 在
+          pinyin:
+            - zai4
+          english: exist
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 学校
+      pinyin:
+        - xue2
+        - xiao4
+      english: School
+      audio: 08610a85a1b50b73fc799df32d0c8dd386dd586b
+      newChars: []
+      allChars:
+        - chinese: 学
+          pinyin:
+            - xue2
+          english: study
+          audio: ""
+          isSingleRune: true
+        - chinese: 校
+          pinyin:
+            - xiao4
+            - jiao4
+          english: school
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+  isSingleRune: false
+- chinese: 一 杯 咖啡 要 二十 八 快 钱。
+  pinyin: yi1 bei1 ka1fei1 yao4 er4shi2 ba1 kuai4 qian2。
+  english: Twenty-eight bucks for a cup of coffee.
+  audio: 9ee1379c756baef79243273c23e415b067baa69a.mp3
+  newWords: []
+  allWords:
+    - chinese: 一
+      pinyin:
+        - yi1
+      english: one
+      audio: d274eee8a175062ac04a45821689db93da5ccfae
+      newChars: []
+      allChars:
+        - chinese: 一
+          pinyin:
+            - yi1
+          english: one
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 杯
+      pinyin:
+        - bei1
+      english: cup
+      audio: 2535fb0654f7ed40c0cd5883c522ff5567ac4a98
+      newChars: []
+      allChars:
+        - chinese: 杯
+          pinyin:
+            - bei1
+          english: cup
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 咖啡
+      pinyin:
+        - ka1
+        - fei1
+      english: coffee
+      audio: db42244090b714eacd2860b1ba546d3c569d019c
+      newChars: []
+      allChars:
+        - chinese: 咖
+          pinyin:
+            - ka1
+          english: coffee
+          audio: ""
+          isSingleRune: true
+        - chinese: 啡
+          pinyin:
+            - fei1
+          english: coffee
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 要
+      pinyin:
+        - yao4
+        - yao1
+      english: want
+      audio: 93e27107a133fb3ec777db55264b19f9b3fce67a
+      newChars: []
+      allChars:
+        - chinese: 要
+          pinyin:
+            - yao1
+            - yao4
+          english: want
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 二十
+      pinyin:
+        - er4
+        - shi2
+      english: twenty
+      audio: 64545f0c2fbaebd5cebc0bf6228a375d88a561b9
+      newChars: []
+      allChars:
+        - chinese: 二
+          pinyin:
+            - er4
+          english: two
+          audio: ""
+          isSingleRune: true
+        - chinese: 十
+          pinyin:
+            - shi2
+          english: ten
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 八
+      pinyin:
+        - ba1
+      english: eight
+      audio: 2142fb62fd47115cc6b5717e6426ebc88bce6c68
+      newChars: []
+      allChars:
+        - chinese: 八
+          pinyin:
+            - ba1
+          english: eight
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 快
+      pinyin:
+        - kuai4
+      english: quick
+      audio: e6e99d0e57a6ae9b8aceb69a0020e74763b92687
+      newChars: []
+      allChars:
+        - chinese: 快
+          pinyin:
+            - kuai4
+          english: quick
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 钱
+      pinyin:
+        - qian2
+      english: money
+      audio: db4be6187513206218088a2558b912671d636aa9
+      newChars: []
+      allChars:
+        - chinese: 钱
+          pinyin:
+            - qian2
+          english: money
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+  isSingleRune: false
+- chinese: 你 感冒 了， 要 多 喝 水。
+  pinyin: ni3 gan3mao4 le5 yao4 duo1 he4 shui3。
+  english: You have a cold, drink plenty of water.
+  audio: 8c97318a878cbb68a4ac5bd4937d82a1539236e7.mp3
+  newWords: []
+  allWords:
+    - chinese: 你
+      pinyin:
+        - ni3
+      english: you
+      audio: 5630b886f9cd31702e7c1606eb1f62ab0c759063
+      newChars: []
+      allChars:
+        - chinese: 你
+          pinyin:
+            - ni3
+          english: you
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 感冒
+      pinyin:
+        - gan3
+        - mao4
+      english: cold
+      audio: 226a6d45b021fe0fc22fb652eb35bc4b51c763a4
+      newChars: []
+      allChars:
+        - chinese: 感
+          pinyin:
+            - gan3
+          english: feeling
+          audio: ""
+          isSingleRune: true
+        - chinese: 冒
+          pinyin:
+            - mao4
+          english: risk
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 了
+      pinyin:
+        - le5
+        - liao3
+        - liao4
+      english: up
+      audio: a5933e2a9e71d8f6bf5bbf52e659ccbcc5643bea
+      newChars: []
+      allChars:
+        - chinese: 了
+          pinyin:
+            - le5
+            - liao3
+            - liao4
+          english: up
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 要
+      pinyin:
+        - yao1
+        - yao4
+      english: want
+      audio: 93e27107a133fb3ec777db55264b19f9b3fce67a
+      newChars: []
+      allChars:
+        - chinese: 要
+          pinyin:
+            - yao1
+            - yao4
+          english: want
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 多
+      pinyin:
+        - duo1
+      english: many
+      audio: 451b1366afa68d537b072c922072340325dde575
+      newChars: []
+      allChars:
+        - chinese: 多
+          pinyin:
+            - duo1
+          english: many
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 喝
+      pinyin:
+        - he1
+        - he4
+      english: drink
+      audio: 9982c5ced19aecc477798431becbb345a62efdc0
+      newChars: []
+      allChars:
+        - chinese: 喝
+          pinyin:
+            - he1
+            - he4
+          english: drink
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 水
+      pinyin:
+        - shui3
+      english: water
+      audio: 8ffbf192934ab70cfcd0ebfc589758044ceeb74b
+      newChars: []
+      allChars:
+        - chinese: 水
+          pinyin:
+            - shui3
+          english: water
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+  isSingleRune: false
+- chinese: 你 要 谢谢 王 老师。
+  pinyin: ni3 yao4 xie4xie5 wang2 lao3shi1。
+  english: You have to thank Teacher Wang.
+  audio: 4a17f9da6894e863bfef6e1c1a6d97a3f99169ca.mp3
+  newWords: []
+  allWords:
+    - chinese: 你
+      pinyin:
+        - ni3
+      english: you
+      audio: 5630b886f9cd31702e7c1606eb1f62ab0c759063
+      newChars: []
+      allChars:
+        - chinese: 你
+          pinyin:
+            - ni3
+          english: you
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 要
+      pinyin:
+        - yao4
+        - yao1
+      english: want
+      audio: 93e27107a133fb3ec777db55264b19f9b3fce67a
+      newChars: []
+      allChars:
+        - chinese: 要
+          pinyin:
+            - yao1
+            - yao4
+          english: want
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 谢谢
+      pinyin:
+        - xie4
+        - xie5
+      english: Thanks
+      audio: 3d43bc74a646df3b623d40725d6b0a3bccd46fb0
+      newChars: []
+      allChars:
+        - chinese: 谢
+          pinyin:
+            - xie4
+          english: Thanks
+          audio: ""
+          isSingleRune: true
+        - chinese: 谢
+          pinyin:
+            - xie4
+          english: Thanks
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 王
+      pinyin:
+        - wang2
+        - wang4
+      english: king
+      audio: c7b16c7c468cd413352500bdc9d032dd7e972aa7
+      newChars: []
+      allChars:
+        - chinese: 王
+          pinyin:
+            - wang2
+            - wang4
+          english: king
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 老师
+      pinyin:
+        - lao3
+        - shi1
+      english: teacher
+      audio: 494f23d624bb3f7d6149c3a2cc282b443cab2b10
+      newChars: []
+      allChars:
+        - chinese: 老
+          pinyin:
+            - lao3
+          english: old
+          audio: ""
+          isSingleRune: true
+        - chinese: 师
+          pinyin:
+            - shi1
+          english: division
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+  isSingleRune: false
+- chinese: 走 路 去 学校 要 多 长 时间？
+  pinyin: zou3 lu4 qu4 xue2xiao4 yao4 duo1 chang2 shi2jian1？
+  english: How long does it take to walk to school?
+  audio: d37593d5edec8be10f056bec8c706ff5da9d3304.mp3
+  newWords:
+    - chinese: 长
+      pinyin:
+        - chang2
+        - zhang3
+      english: long
+      audio: d98a0a68afcdf95a57f1b2234657cccd5b9eff05.mp3
+      newChars: []
+      allChars:
+        - chinese: 长
+          pinyin:
+            - zhang3
+            - chang2
+          english: long
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+  allWords:
+    - chinese: 走
+      pinyin:
+        - zou3
+      english: Walk
+      audio: 0851681d6802b6abfbee9e2ca1e7dfd1eead3b82
+      newChars: []
+      allChars:
+        - chinese: 走
+          pinyin:
+            - zou3
+          english: Walk
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 路
+      pinyin:
+        - lu4
+      english: road
+      audio: de80bdbd702a59a6e3d6045e8c2bf8f0f7bce4f0
+      newChars: []
+      allChars:
+        - chinese: 路
+          pinyin:
+            - lu4
+          english: road
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 去
+      pinyin:
+        - qu4
+      english: go
+      audio: 033fd274f014aec08c2dfb1902e6090cbbb2c295
+      newChars: []
+      allChars:
+        - chinese: 去
+          pinyin:
+            - qu4
+          english: go
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 学校
+      pinyin:
+        - xue2
+        - xiao4
+      english: School
+      audio: 08610a85a1b50b73fc799df32d0c8dd386dd586b
+      newChars: []
+      allChars:
+        - chinese: 学
+          pinyin:
+            - xue2
+          english: study
+          audio: ""
+          isSingleRune: true
+        - chinese: 校
+          pinyin:
+            - xiao4
+            - jiao4
+          english: school
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 要
+      pinyin:
+        - yao1
+        - yao4
+      english: want
+      audio: 93e27107a133fb3ec777db55264b19f9b3fce67a
+      newChars: []
+      allChars:
+        - chinese: 要
+          pinyin:
+            - yao1
+            - yao4
+          english: want
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 多
+      pinyin:
+        - duo1
+      english: many
+      audio: 451b1366afa68d537b072c922072340325dde575
+      newChars: []
+      allChars:
+        - chinese: 多
+          pinyin:
+            - duo1
+          english: many
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 长
+      pinyin:
+        - chang2
+        - zhang3
+      english: long
+      audio: d98a0a68afcdf95a57f1b2234657cccd5b9eff05
+      newChars: []
+      allChars:
+        - chinese: 长
+          pinyin:
+            - zhang3
+            - chang2
+          english: long
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 时间
+      pinyin:
+        - shi2
+        - jian1
+      english: time
+      audio: 89b4aa6364ce3c4a0d1eebc1f6c90e2073eb37ca
+      newChars: []
+      allChars:
+        - chinese: 时
+          pinyin:
+            - shi2
+          english: hour
+          audio: ""
+          isSingleRune: true
+        - chinese: 间
+          pinyin:
+            - jian1
+            - jian4
+          english: between
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+  isSingleRune: false
+- chinese: 这 个 电脑 要 多少 钱？
+  pinyin: zhe4 ge4 dian4nao3 yao4 duo1shao3 qian2？
+  english: How much does this computer cost?
+  audio: e0a64138cfb2ca820ceba533ce09310b1375e2cf.mp3
+  newWords: []
+  allWords:
+    - chinese: 这
+      pinyin:
+        - zhe4
+      english: this
+      audio: 542523173c3e3439bd490fff653d2ee678407604
+      newChars: []
+      allChars:
+        - chinese: 这
+          pinyin:
+            - zhe4
+          english: this
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 个
+      pinyin:
+        - ge4
+        - ge3
+      english: indivual
+      audio: f7b2a6ee68ec1aff82f710f27fd2dcb710ddc457
+      newChars: []
+      allChars:
+        - chinese: 个
+          pinyin:
+            - ge3
+            - ge4
+          english: indivual
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 电脑
+      pinyin:
+        - dian4
+        - nao3
+      english: computer
+      audio: ec87a4b867093a7d5f15fbb655e9034517a4a9e8
+      newChars: []
+      allChars:
+        - chinese: 电
+          pinyin:
+            - dian4
+          english: electricity
+          audio: ""
+          isSingleRune: true
+        - chinese: 脑
+          pinyin:
+            - nao3
+          english: brain
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 要
+      pinyin:
+        - yao1
+        - yao4
+      english: want
+      audio: 93e27107a133fb3ec777db55264b19f9b3fce67a
+      newChars: []
+      allChars:
+        - chinese: 要
+          pinyin:
+            - yao1
+            - yao4
+          english: want
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 多少
+      pinyin:
+        - duo1
+        - shao3
+        - shao5
+      english: How many
+      audio: 6c999d484a3a2ad686cccc959583e2329884a333
+      newChars: []
+      allChars:
+        - chinese: 多
+          pinyin:
+            - duo1
+          english: many
+          audio: ""
+          isSingleRune: true
+        - chinese: 少
+          pinyin:
+            - shao3
+            - shao4
+          english: few
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 钱
+      pinyin:
+        - qian2
+      english: money
+      audio: db4be6187513206218088a2558b912671d636aa9
+      newChars: []
+      allChars:
+        - chinese: 钱
+          pinyin:
+            - qian2
+          english: money
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+  isSingleRune: false
+- chinese: 你 要 等 一下。
+  pinyin: ni3 yao4 deng3 yi1xia4。
+  english: You have to wait.
+  audio: 505c01f2b374822d2752ef8c6289867dcabd0472.mp3
+  newWords: []
+  allWords:
+    - chinese: 你
+      pinyin:
+        - ni3
+      english: you
+      audio: 5630b886f9cd31702e7c1606eb1f62ab0c759063
+      newChars: []
+      allChars:
+        - chinese: 你
+          pinyin:
+            - ni3
+          english: you
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 要
+      pinyin:
+        - yao1
+        - yao4
+      english: want
+      audio: 93e27107a133fb3ec777db55264b19f9b3fce67a
+      newChars: []
+      allChars:
+        - chinese: 要
+          pinyin:
+            - yao1
+            - yao4
+          english: want
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 等
+      pinyin:
+        - deng3
+      english: wait
+      audio: 3d3e17a162e710c76fbf40198cb24246ffb78a81
+      newChars: []
+      allChars:
+        - chinese: 等
+          pinyin:
+            - deng3
+          english: wait
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 一下
+      pinyin:
+        - yi1
+        - xia4
+      english: one time
+      audio: a682cf4c9cd887e492081559efc97e3742d97be5
+      newChars: []
+      allChars:
+        - chinese: 一
+          pinyin:
+            - yi1
+          english: one
+          audio: ""
+          isSingleRune: true
+        - chinese: 下
+          pinyin:
+            - xia4
+          english: Down
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+  isSingleRune: false
+- chinese: 她 就 是 麦克。
+  pinyin: ta1 jiu4 shi4 mai4ke4。
+  english: She is Mike.
+  audio: ee4aa354b944a40ef90abf13c493bc3288766ec4.mp3
+  newWords:
+    - chinese: 就
+      pinyin:
+        - jiu4
+      english: At once
+      audio: cc4858af41b5ce3e08aa3667b434c710ce49a9a3.mp3
+      newChars: []
+      allChars:
+        - chinese: 就
+          pinyin:
+            - jiu4
+          english: At once
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+  allWords:
+    - chinese: 她
+      pinyin:
+        - ta1
+      english: she
+      audio: 7f2fa5ddbee2c384a554f6ab18cbca5706a4a4ea
+      newChars: []
+      allChars:
+        - chinese: 她
+          pinyin:
+            - ta1
+          english: she
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 就
+      pinyin:
+        - jiu4
+      english: At once
+      audio: cc4858af41b5ce3e08aa3667b434c710ce49a9a3
+      newChars: []
+      allChars:
+        - chinese: 就
+          pinyin:
+            - jiu4
+          english: At once
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 是
+      pinyin:
+        - shi4
+      english: is, are, to be
+      audio: 30160a21b92a049fc2befcdb70039ed5099df41f
+      newChars: []
+      allChars:
+        - chinese: 是
+          pinyin:
+            - shi4
+          english: is, are, to be
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 麦克
+      pinyin:
+        - ke4
+        - mai4
+      english: mike
+      audio: 2fa15eaa707a980e9d02912a3c7b92a851de4a37
+      newChars: []
+      allChars:
+        - chinese: 麦
+          pinyin:
+            - mai4
+          english: wheat
+          audio: ""
+          isSingleRune: true
+        - chinese: 克
+          pinyin:
+            - ke4
+          english: gram
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+  isSingleRune: false
+- chinese: 我们 就 车 茶。
+  pinyin: wo3men5 jiu4 che1 cha2。
+  english: Let's have tea.
+  audio: ea2211022287fc250e425ecf7a9a242400641a10.mp3
+  newWords: []
+  allWords:
+    - chinese: 我们
+      pinyin:
+        - wo3
+        - men5
+      english: us
+      audio: 0805949359741ce14fe90402b25e2e023f449748
+      newChars: []
+      allChars:
+        - chinese: 我
+          pinyin:
+            - wo3
+          english: I
+          audio: ""
+          isSingleRune: true
+        - chinese: 们
+          pinyin:
+            - men5
+          english: they
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 就
+      pinyin:
+        - jiu4
+      english: At once
+      audio: cc4858af41b5ce3e08aa3667b434c710ce49a9a3
+      newChars: []
+      allChars:
+        - chinese: 就
+          pinyin:
+            - jiu4
+          english: At once
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 车
+      pinyin:
+        - che1
+        - ju1
+      english: car
+      audio: 7c852e1d837cb4f3704ae5f83ea16926a47a5666
+      newChars: []
+      allChars:
+        - chinese: 车
+          pinyin:
+            - che1
+            - ju1
+          english: car
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 茶
+      pinyin:
+        - cha2
+      english: Tea
+      audio: 97a08c17dc8fc36749bea0c086858e8f57b2cfe5
+      newChars: []
+      allChars:
+        - chinese: 茶
+          pinyin:
+            - cha2
+          english: Tea
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+  isSingleRune: false
+- chinese: 她 就 要 买 这 个。
+  pinyin: ta1 jiu4 yao4 mai3 zhe4 ge4。
+  english: She is going to buy this.
+  audio: 34ed72daadd8c40e74e8b2a9fe8825929b56501b.mp3
+  newWords: []
+  allWords:
+    - chinese: 她
+      pinyin:
+        - ta1
+      english: she
+      audio: 7f2fa5ddbee2c384a554f6ab18cbca5706a4a4ea
+      newChars: []
+      allChars:
+        - chinese: 她
+          pinyin:
+            - ta1
+          english: she
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 就
+      pinyin:
+        - jiu4
+      english: At once
+      audio: cc4858af41b5ce3e08aa3667b434c710ce49a9a3
+      newChars: []
+      allChars:
+        - chinese: 就
+          pinyin:
+            - jiu4
+          english: At once
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 要
+      pinyin:
+        - yao1
+        - yao4
+      english: want
+      audio: 93e27107a133fb3ec777db55264b19f9b3fce67a
+      newChars: []
+      allChars:
+        - chinese: 要
+          pinyin:
+            - yao1
+            - yao4
+          english: want
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 买
+      pinyin:
+        - mai3
+      english: purchase
+      audio: b6c5a7139fda72f84f17a62bd71928e84f096332
+      newChars: []
+      allChars:
+        - chinese: 买
+          pinyin:
+            - mai3
+          english: purchase
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 这
+      pinyin:
+        - zhe4
+      english: this
+      audio: 542523173c3e3439bd490fff653d2ee678407604
+      newChars: []
+      allChars:
+        - chinese: 这
+          pinyin:
+            - zhe4
+          english: this
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 个
+      pinyin:
+        - ge3
+        - ge4
+      english: indivual
+      audio: f7b2a6ee68ec1aff82f710f27fd2dcb710ddc457
+      newChars: []
+      allChars:
+        - chinese: 个
+          pinyin:
+            - ge3
+            - ge4
+          english: indivual
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+  isSingleRune: false
+- chinese: 我 就 介绍 一下 她 的 名字。
+  pinyin: wo3 jiu4 jie4shao4 yi1xia4 ta1 de5 ming2zi5。
+  english: I'll just introduce her name.
+  audio: fd9b917418ec72eb17fa1149e8e768644cb13026.mp3
+  newWords: []
+  allWords:
+    - chinese: 我
+      pinyin:
+        - wo3
+      english: I
+      audio: 34f201bc507e33caaef736de328bf041234d1138
+      newChars: []
+      allChars:
+        - chinese: 我
+          pinyin:
+            - wo3
+          english: I
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 就
+      pinyin:
+        - jiu4
+      english: At once
+      audio: cc4858af41b5ce3e08aa3667b434c710ce49a9a3
+      newChars: []
+      allChars:
+        - chinese: 就
+          pinyin:
+            - jiu4
+          english: At once
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 介绍
+      pinyin:
+        - jie4
+        - shao4
+      english: introduce
+      audio: 45fa4e00db7e36a7ba8e93d7a3ee8976c889c114
+      newChars: []
+      allChars:
+        - chinese: 介
+          pinyin:
+            - jie4
+          english: between
+          audio: ""
+          isSingleRune: true
+        - chinese: 绍
+          pinyin:
+            - shao4
+          english: introduce
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 一下
+      pinyin:
+        - yi1
+        - xia4
+      english: one time
+      audio: a682cf4c9cd887e492081559efc97e3742d97be5
+      newChars: []
+      allChars:
+        - chinese: 一
+          pinyin:
+            - yi1
+          english: one
+          audio: ""
+          isSingleRune: true
+        - chinese: 下
+          pinyin:
+            - xia4
+          english: Down
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 她
+      pinyin:
+        - ta1
+      english: she
+      audio: 7f2fa5ddbee2c384a554f6ab18cbca5706a4a4ea
+      newChars: []
+      allChars:
+        - chinese: 她
+          pinyin:
+            - ta1
+          english: she
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 的
+      pinyin:
+        - de5
+        - di1
+        - di2
+        - di4
+      english: of
+      audio: 0746bd624955e27081c6419ac31b592d6b683e95
+      newChars: []
+      allChars:
+        - chinese: 的
+          pinyin:
+            - di2
+            - di4
+            - de5
+            - di1
+          english: of
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 名字
+      pinyin:
+        - ming2
+        - zi5
+      english: name
+      audio: 364bd1bf0580d2328e475cdd0ab24d0516a970a7
+      newChars: []
+      allChars:
+        - chinese: 名
+          pinyin:
+            - ming2
+          english: name
+          audio: ""
+          isSingleRune: true
+        - chinese: 字
+          pinyin:
+            - zi4
+          english: Character
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+  isSingleRune: false
+- chinese: 我 就 打 一个 电话。
+  pinyin: wo3 jiu4 da2 yi1ge4 dian4hua4。
+  english: I'll just make a phone call.
+  audio: 02549279f6faf95b8be9941c6f15c365000c8766.mp3
+  newWords:
+    - chinese: 电话
+      pinyin:
+        - dian4
+        - hua4
+      english: Telephone
+      audio: f39c6b629f80ddea924ad0d8a6be71ae528c17e2.mp3
+      newChars: []
+      allChars:
+        - chinese: 电
+          pinyin:
+            - dian4
+          english: electricity
+          audio: ""
+          isSingleRune: true
+        - chinese: 话
+          pinyin:
+            - hua4
+          english: talk
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+  allWords:
+    - chinese: 我
+      pinyin:
+        - wo3
+      english: I
+      audio: 34f201bc507e33caaef736de328bf041234d1138
+      newChars: []
+      allChars:
+        - chinese: 我
+          pinyin:
+            - wo3
+          english: I
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 就
+      pinyin:
+        - jiu4
+      english: At once
+      audio: cc4858af41b5ce3e08aa3667b434c710ce49a9a3
+      newChars: []
+      allChars:
+        - chinese: 就
+          pinyin:
+            - jiu4
+          english: At once
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 打
+      pinyin:
+        - da2
+        - da3
+      english: beat
+      audio: 6919d5be906e36aa9b9bd5593f3720aca1084eec
+      newChars: []
+      allChars:
+        - chinese: 打
+          pinyin:
+            - da2
+            - da3
+          english: beat
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 一个
+      pinyin: []
+      english: one
+      audio: d8e3ae229f05643b9e5564410de4d290ae42fca4
+      newChars: []
+      allChars:
+        - chinese: 一
+          pinyin:
+            - yi1
+          english: one
+          audio: ""
+          isSingleRune: true
+        - chinese: 个
+          pinyin:
+            - ge3
+            - ge4
+          english: indivual
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 电话
+      pinyin:
+        - dian4
+        - hua4
+      english: Telephone
+      audio: f39c6b629f80ddea924ad0d8a6be71ae528c17e2
+      newChars: []
+      allChars:
+        - chinese: 电
+          pinyin:
+            - dian4
+          english: electricity
+          audio: ""
+          isSingleRune: true
+        - chinese: 话
+          pinyin:
+            - hua4
+          english: talk
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+  isSingleRune: false
+- chinese: 我 就 买 一个 蛋糕。
+  pinyin: wo3 jiu4 mai3 yi1ge4 dan4gao1。
+  english: I'll just buy a cake.
+  audio: 5b55f58fb4c49300bfaf97035ab7d4f458e0c838.mp3
+  newWords: []
+  allWords:
+    - chinese: 我
+      pinyin:
+        - wo3
+      english: I
+      audio: 34f201bc507e33caaef736de328bf041234d1138
+      newChars: []
+      allChars:
+        - chinese: 我
+          pinyin:
+            - wo3
+          english: I
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 就
+      pinyin:
+        - jiu4
+      english: At once
+      audio: cc4858af41b5ce3e08aa3667b434c710ce49a9a3
+      newChars: []
+      allChars:
+        - chinese: 就
+          pinyin:
+            - jiu4
+          english: At once
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 买
+      pinyin:
+        - mai3
+      english: purchase
+      audio: b6c5a7139fda72f84f17a62bd71928e84f096332
+      newChars: []
+      allChars:
+        - chinese: 买
+          pinyin:
+            - mai3
+          english: purchase
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 一个
+      pinyin: []
+      english: one
+      audio: d8e3ae229f05643b9e5564410de4d290ae42fca4
+      newChars: []
+      allChars:
+        - chinese: 一
+          pinyin:
+            - yi1
+          english: one
+          audio: ""
+          isSingleRune: true
+        - chinese: 个
+          pinyin:
+            - ge3
+            - ge4
+          english: indivual
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 蛋糕
+      pinyin:
+        - dan4
+        - gao1
+      english: cake
+      audio: 9418e34854620a7a3452746bf40c17320894c292
+      newChars: []
+      allChars:
+        - chinese: 蛋
+          pinyin:
+            - dan4
+          english: Egg
+          audio: ""
+          isSingleRune: true
+        - chinese: 糕
+          pinyin:
+            - gao1
+          english: cake
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+  isSingleRune: false
+- chinese: 那 个 女孩 就 是 我 女儿。
+  pinyin: na4 ge4 nu:3hai2 jiu4 shi4 wo3 nu:3er2。
+  english: That girl is my daughter.
+  audio: 90271a62ca8fcb8cfa763d572c426879f14637ac.mp3
+  newWords: []
+  allWords:
+    - chinese: 那
+      pinyin:
+        - na4
+        - na1
+        - nuo2
+        - na3
+      english: That
+      audio: 327049aa373876eec212b8fdbf25a3808ca308b4
+      newChars: []
+      allChars:
+        - chinese: 那
+          pinyin:
+            - na1
+            - nuo2
+            - na3
+            - na4
+          english: That
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 个
+      pinyin:
+        - ge4
+        - ge3
+      english: indivual
+      audio: f7b2a6ee68ec1aff82f710f27fd2dcb710ddc457
+      newChars: []
+      allChars:
+        - chinese: 个
+          pinyin:
+            - ge3
+            - ge4
+          english: indivual
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 女孩
+      pinyin:
+        - hai2
+        - nu:3
+      english: girl
+      audio: 20f6b35b7720808509330e2c261a6cae24ec5cbe
+      newChars: []
+      allChars:
+        - chinese: 女
+          pinyin:
+            - nu:3
+            - ru3
+          english: female
+          audio: ""
+          isSingleRune: true
+        - chinese: 孩
+          pinyin:
+            - hai2
+          english: child
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 就
+      pinyin:
+        - jiu4
+      english: At once
+      audio: cc4858af41b5ce3e08aa3667b434c710ce49a9a3
+      newChars: []
+      allChars:
+        - chinese: 就
+          pinyin:
+            - jiu4
+          english: At once
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 是
+      pinyin:
+        - shi4
+      english: is, are, to be
+      audio: 30160a21b92a049fc2befcdb70039ed5099df41f
+      newChars: []
+      allChars:
+        - chinese: 是
+          pinyin:
+            - shi4
+          english: is, are, to be
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 我
+      pinyin:
+        - wo3
+      english: I
+      audio: 34f201bc507e33caaef736de328bf041234d1138
+      newChars: []
+      allChars:
+        - chinese: 我
+          pinyin:
+            - wo3
+          english: I
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 女儿
+      pinyin:
+        - nu:3
+        - er2
+      english: daughter
+      audio: 310c28d3183d7bba6b0b0bf51015b827eecd38a7
+      newChars: []
+      allChars:
+        - chinese: 女
+          pinyin:
+            - nu:3
+            - ru3
+          english: female
+          audio: ""
+          isSingleRune: true
+        - chinese: 儿
+          pinyin:
+            - ren2
+            - er2
+            - r5
+          english: Son
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+  isSingleRune: false
+- chinese: 她 就 喜欢 吃 菜。
+  pinyin: ta1 jiu4 xi3huan5 chi1 cai4。
+  english: She just likes to eat vegetables.
+  audio: aef902e7106f6c46197fde5e0a0347bc1593772f.mp3
+  newWords: []
+  allWords:
+    - chinese: 她
+      pinyin:
+        - ta1
+      english: she
+      audio: 7f2fa5ddbee2c384a554f6ab18cbca5706a4a4ea
+      newChars: []
+      allChars:
+        - chinese: 她
+          pinyin:
+            - ta1
+          english: she
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 就
+      pinyin:
+        - jiu4
+      english: At once
+      audio: cc4858af41b5ce3e08aa3667b434c710ce49a9a3
+      newChars: []
+      allChars:
+        - chinese: 就
+          pinyin:
+            - jiu4
+          english: At once
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 喜欢
+      pinyin:
+        - xi3
+        - huan5
+      english: like
+      audio: 28aa475a79f26b22a04a41191bb05056c4c8e9a9
+      newChars: []
+      allChars:
+        - chinese: 喜
+          pinyin:
+            - xi3
+          english: happiness
+          audio: ""
+          isSingleRune: true
+        - chinese: 欢
+          pinyin:
+            - huan1
+          english: joyous
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 吃
+      pinyin:
+        - chi1
+      english: eat
+      audio: a10d4d5a63e66defe4c65fdb35ff27652902c2f8
+      newChars: []
+      allChars:
+        - chinese: 吃
+          pinyin:
+            - chi1
+          english: eat
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 菜
+      pinyin:
+        - cai4
+      english: vegetable
+      audio: 7b4bb888fb65cd5d55a18d7b3f0c43da1ea1565e
+      newChars: []
+      allChars:
+        - chinese: 菜
+          pinyin:
+            - cai4
+          english: vegetable
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+  isSingleRune: false
+- chinese: 你 的 新 鞋子 很 漂亮。
+  pinyin: ni3 de5 xin1 zi5xie2 hen3 piao4liang5。
+  english: Your new shoes are beautiful.
+  audio: 9c93471a18d41123705665e61fcbaca8c3f3659d.mp3
+  newWords:
+    - chinese: 鞋子
+      pinyin:
+        - xie2
+        - zi5
+      english: shoe
+      audio: 6ff5d6338c7c79d70309c2801aa3f4d931bc4bb5.mp3
+      newChars:
+        - chinese: 鞋
+          pinyin:
+            - xie2
+          english: shoe
+          audio: 010642fdeb65ac8f471e89e9fa076d0f8b9f6c4a.mp3
+          isSingleRune: true
+      allChars:
+        - chinese: 鞋
+          pinyin:
+            - xie2
+          english: shoe
+          audio: ""
+          isSingleRune: true
+        - chinese: 子
+          pinyin:
+            - zi5
+            - zi3
+          english: Child
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+  allWords:
+    - chinese: 你
+      pinyin:
+        - ni3
+      english: you
+      audio: 5630b886f9cd31702e7c1606eb1f62ab0c759063
+      newChars: []
+      allChars:
+        - chinese: 你
+          pinyin:
+            - ni3
+          english: you
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 的
+      pinyin:
+        - de5
+        - di1
+        - di2
+        - di4
+      english: of
+      audio: 0746bd624955e27081c6419ac31b592d6b683e95
+      newChars: []
+      allChars:
+        - chinese: 的
+          pinyin:
+            - de5
+            - di1
+            - di2
+            - di4
+          english: of
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 新
+      pinyin:
+        - xin1
+      english: new
+      audio: 7b8a6bebd3076cdffaf2193f397d4d9fa399c148
+      newChars: []
+      allChars:
+        - chinese: 新
+          pinyin:
+            - xin1
+          english: new
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 鞋子
+      pinyin:
+        - xie2
+        - zi5
+      english: shoe
+      audio: 6ff5d6338c7c79d70309c2801aa3f4d931bc4bb5
+      newChars: []
+      allChars:
+        - chinese: 鞋
+          pinyin:
+            - xie2
+          english: shoe
+          audio: ""
+          isSingleRune: true
+        - chinese: 子
+          pinyin:
+            - zi5
+            - zi3
+          english: Child
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 很
+      pinyin:
+        - hen3
+      english: very
+      audio: 74a04cc4bf3ac133a6abd449c12c878eb50b0f69
+      newChars: []
+      allChars:
+        - chinese: 很
+          pinyin:
+            - hen3
+          english: very
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 漂亮
+      pinyin:
+        - piao4
+        - liang5
+      english: pretty
+      audio: 9c7fd1442d097a7f258061b0c7114c73a63eea6a
+      newChars: []
+      allChars:
+        - chinese: 漂
+          pinyin:
+            - piao1
+            - piao3
+            - piao4
+          english: drift
+          audio: ""
+          isSingleRune: true
+        - chinese: 亮
+          pinyin:
+            - liang4
+          english: Bright
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+  isSingleRune: false
+- chinese: 现在 已经 十二 点 了， 我们 就 在 家 吃 饭 吧。
+  pinyin: xian4zai4 yi3jing1 shi2er4 dian3 le5 wo3men5 jiu4 zai4 jia1 chi1 fan4 ba5。
+  english: It's twelve o'clock now, let's have dinner at home.
+  audio: 432a8ee394c5dfcfc8b6792800f34c12fae95925.mp3
+  newWords: []
+  allWords:
+    - chinese: 现在
+      pinyin:
+        - xian4
+        - zai4
+      english: Now
+      audio: a511e8442ff2ce982c0b6193e9ce76783831420c
+      newChars: []
+      allChars:
+        - chinese: 现
+          pinyin:
+            - xian4
+          english: now
+          audio: ""
+          isSingleRune: true
+        - chinese: 在
+          pinyin:
+            - zai4
+          english: exist
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 已经
+      pinyin:
+        - yi3
+        - jing1
+      english: already
+      audio: 0328a7a6bcbea973ea254b00cb55152f14a3afaa
+      newChars: []
+      allChars:
+        - chinese: 已
+          pinyin:
+            - yi3
+          english: already
+          audio: ""
+          isSingleRune: true
+        - chinese: 经
+          pinyin:
+            - jing1
+          english: through
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 十二
+      pinyin:
+        - shi2
+        - er4
+      english: twelve
+      audio: 08fdd3fc42431152118e2444967172a6f651a808
+      newChars: []
+      allChars:
+        - chinese: 十
+          pinyin:
+            - shi2
+          english: ten
+          audio: ""
+          isSingleRune: true
+        - chinese: 二
+          pinyin:
+            - er4
+          english: two
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 点
+      pinyin:
+        - dian3
+      english: point
+      audio: 1d59ea7cbbee668712898e376a415569ef9dfa09
+      newChars: []
+      allChars:
+        - chinese: 点
+          pinyin:
+            - dian3
+          english: point
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 了
+      pinyin:
+        - le5
+        - liao3
+        - liao4
+      english: up
+      audio: a5933e2a9e71d8f6bf5bbf52e659ccbcc5643bea
+      newChars: []
+      allChars:
+        - chinese: 了
+          pinyin:
+            - le5
+            - liao3
+            - liao4
+          english: up
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 我们
+      pinyin:
+        - wo3
+        - men5
+      english: us
+      audio: 0805949359741ce14fe90402b25e2e023f449748
+      newChars: []
+      allChars:
+        - chinese: 我
+          pinyin:
+            - wo3
+          english: I
+          audio: ""
+          isSingleRune: true
+        - chinese: 们
+          pinyin:
+            - men5
+          english: they
+          audio: ""
+          isSingleRune: true
+      isSingleRune: false
+    - chinese: 就
+      pinyin:
+        - jiu4
+      english: At once
+      audio: cc4858af41b5ce3e08aa3667b434c710ce49a9a3
+      newChars: []
+      allChars:
+        - chinese: 就
+          pinyin:
+            - jiu4
+          english: At once
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 在
+      pinyin:
+        - zai4
+      english: exist
+      audio: 686b703f41f3d5f33b3f36dc2444e59469326078
+      newChars: []
+      allChars:
+        - chinese: 在
+          pinyin:
+            - zai4
+          english: exist
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 家
+      pinyin:
+        - jia1
+      english: Home
+      audio: 7de8177ce74b123ce9744fd680804140ceee9abc
+      newChars: []
+      allChars:
+        - chinese: 家
+          pinyin:
+            - jia1
+          english: Home
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 吃
+      pinyin:
+        - chi1
+      english: eat
+      audio: a10d4d5a63e66defe4c65fdb35ff27652902c2f8
+      newChars: []
+      allChars:
+        - chinese: 吃
+          pinyin:
+            - chi1
+          english: eat
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 饭
+      pinyin:
+        - fan4
+      english: meal
+      audio: cded745e113ab659989b7d1f147899c5f9eb8a68
+      newChars: []
+      allChars:
+        - chinese: 饭
+          pinyin:
+            - fan4
+          english: meal
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+    - chinese: 吧
+      pinyin:
+        - ba1
+        - ba5
+        - bia1
+      english: Bar
+      audio: 01afc04c9ad64b8ae93bb8657ada47d765350702
+      newChars: []
+      allChars:
+        - chinese: 吧
+          pinyin:
+            - ba1
+            - ba5
+            - bia1
+          english: Bar
+          audio: ""
+          isSingleRune: true
+      isSingleRune: true
+  isSingleRune: false

@@ -1,0 +1,25 @@
+{
+  "sentences": [
+    {
+      "chinese": "力波，那是谁？那是我们老师。他是哪国人？他是中国人。我们老师都是中国人。",
+      "english": "Who is Li Bo? He is our teacher. What is his nationality? He is Chinese. All of our teachers are Chinese.",
+      "pinyin": "lì bō, nà shì shuí? nà shì wǒ men lǎo shī. tā shì nǎ guó rén? tā shì zhōng guó rén. wǒ men lǎo shī dōu shì zhōng guó rén.",
+      "words": [
+        {"ch": "力波", "en": "Li Bo", "pi": "lì bō"},
+        {"ch": "那", "en": "that", "pi": "nà"},
+        {"ch": "是", "en": "is", "pi": "shì"},
+        {"ch": "谁", "en": "who", "pi": "shuí"},
+        {"ch": "？", "en": "?", "pi": ""},
+        {"ch": "我们", "en": "our", "pi": "wǒ men"},
+        {"ch": "老师", "en": "teacher", "pi": "lǎo shī"},
+        {"ch": "他", "en": "he", "pi": "tā"},
+        {"ch": "哪", "en": "where/which", "pi": "nǎ"},
+        {"ch": "国", "en": "country", "pi": "guó"},
+        {"ch": "人", "en": "person", "pi": "rén"},
+        {"ch": "中国", "en": "China", "pi": "zhōng guó"},
+        {"ch": "都", "en": "all", "pi": "dōu"},
+        {"ch": "。", "en": ".", "pi": ""}
+      ]
+    }
+  ]
+}

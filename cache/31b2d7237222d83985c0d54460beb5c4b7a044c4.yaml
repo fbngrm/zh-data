@@ -1,0 +1,15 @@
+{
+  "chinese": "今天的西瓜比昨天的大。",
+  "english": "Today's watermelon is bigger than yesterday's.",
+  "pinyin": "jīn tiān de xī guā bǐ zuó tiān de dà。",
+  "words": [
+    {"ch": "今天", "en": "today", "pi": "jīn tiān"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "西瓜", "en": "watermelon", "pi": "xī guā"},
+    {"ch": "比", "en": "than", "pi": "bǐ"},
+    {"ch": "昨天", "en": "yesterday", "pi": "zuó tiān"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "大", "en": "big", "pi": "dà"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

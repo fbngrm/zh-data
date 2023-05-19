@@ -1,0 +1,32 @@
+{
+  "chinese": "他的电脑比我的新。",
+  "english": "His computer is newer than mine.",
+  "pinyin": "tā de diàn nǎo bǐ wǒ de xīn。",
+  "words": [
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "电脑",
+      "en": "computer",
+      "pi": "diàn nǎo"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "我的",
+      "en": "mine",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "新",
+      "en": "new",
+      "pi": "xīn"
+    }
+  ]
+}

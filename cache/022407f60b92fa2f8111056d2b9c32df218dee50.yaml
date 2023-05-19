@@ -1,0 +1,32 @@
+{
+  "chinese": "长的铅笔是他的。",
+  "english": "The long pencil is his.",
+  "pinyin": "cháng de qiānbǐ shì tā de.",
+  "words": [
+    {
+      "ch": "长",
+      "en": "long",
+      "pi": "cháng"
+    },
+    {
+      "ch": "的",
+      "en": "de (possessive particle)",
+      "pi": "de"
+    },
+    {
+      "ch": "铅笔",
+      "en": "pencil",
+      "pi": "qiān bǐ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    }
+  ]
+}

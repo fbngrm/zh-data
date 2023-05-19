@@ -1,0 +1,56 @@
+{
+  "sentences": [
+    {
+      "chinese": "琳娜，你好吗？我很好，你呢？也很好。",
+      "english": "Lina, how are you? I'm very good, how about you? Also very good.",
+      "pinyin": "Lín nà, nǐ hǎo ma? Wǒ hěn hǎo, nǐ ne? Yě hěn hǎo。",
+      "words": [
+        {
+          "ch": "琳娜",
+          "en": "Lina",
+          "pi": "Lín nà"
+        },
+        {
+          "ch": "你好",
+          "en": "hello",
+          "pi": "nǐ hǎo"
+        },
+        {
+          "ch": "吗",
+          "en": "",
+          "pi": "ma"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "很",
+          "en": "very",
+          "pi": "hěn"
+        },
+        {
+          "ch": "好",
+          "en": "good",
+          "pi": "hǎo"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "呢",
+          "en": "",
+          "pi": "ne"
+        },
+        {
+          "ch": "也",
+          "en": "also",
+          "pi": "yě"
+        }
+      ]
+    }
+  ]
+}

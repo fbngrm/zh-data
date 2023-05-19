@@ -1,0 +1,14 @@
+{
+  "chinese": "吃了药就会好一点儿。",
+  "english": "Taking medicine will make you feel a little better.",
+  "pinyin": "chī le yào jiù huì hǎo yī diǎn ér.",
+  "words": [
+    {"ch": "吃", "en": "eat", "pi": "chī"},
+    {"ch": "了", "en": "particle indicating a completed action", "pi": "le"},
+    {"ch": "药", "en": "medicine", "pi": "yào"},
+    {"ch": "就", "en": "just, only", "pi": "jiù"},
+    {"ch": "会", "en": "will, be likely to", "pi": "huì"},
+    {"ch": "好", "en": "good, well", "pi": "hǎo"},
+    {"ch": "一点儿", "en": "a little bit", "pi": "yī diǎn ér"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我运动了一个小时。",
+  "english": "I exercised for one hour.",
+  "pinyin": "wǒ yùndòng le yí gè xiǎoshí。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "运动",
+      "en": "exercise",
+      "pi": "yùndòng"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating a completed or resolved action",
+      "pi": "le"
+    },
+    {
+      "ch": "一个",
+      "en": "one",
+      "pi": "yí gè"
+    },
+    {
+      "ch": "小时",
+      "en": "hour",
+      "pi": "xiǎoshí"
+    }
+  ]
+}

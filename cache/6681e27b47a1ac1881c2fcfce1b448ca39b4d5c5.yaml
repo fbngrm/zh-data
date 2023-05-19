@@ -1,0 +1,37 @@
+{
+  "chinese": "对不对？对了。",
+  "english": "Right or not? Correct.",
+  "pinyin": "duì bù duì？duì le.",
+  "words": [
+    {
+      "ch": "对",
+      "en": "right/correct",
+      "pi": "duì"
+    },
+    {
+      "ch": "不对",
+      "en": "wrong/incorrect",
+      "pi": "bù duì"
+    },
+    {
+      "ch": "？",
+      "en": "",
+      "pi": ""
+    },
+    {
+      "ch": "对",
+      "en": "right/correct",
+      "pi": "duì"
+    },
+    {
+      "ch": "了",
+      "en": "an auxiliary word",
+      "pi": "le"
+    },
+    {
+      "ch": "。",
+      "en": "",
+      "pi": ""
+    }
+  ]
+}

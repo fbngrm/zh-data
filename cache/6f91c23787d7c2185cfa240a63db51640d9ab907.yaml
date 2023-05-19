@@ -1,0 +1,37 @@
+{
+  "chinese": "这个酒店离机场非常远。",
+  "english": "This hotel is very far from the airport.",
+  "pinyin": "Zhège jiǔdiàn lí jīchǎng fēicháng yuǎn.",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "酒店",
+      "en": "hotel",
+      "pi": "jiǔ diàn"
+    },
+    {
+      "ch": "离",
+      "en": "from",
+      "pi": "lí"
+    },
+    {
+      "ch": "机场",
+      "en": "airport",
+      "pi": "jī chǎng"
+    },
+    {
+      "ch": "非常",
+      "en": "very",
+      "pi": "fēi cháng"
+    },
+    {
+      "ch": "远",
+      "en": "far",
+      "pi": "yuǎn"
+    }
+  ]
+}

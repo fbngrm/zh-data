@@ -1,0 +1,37 @@
+{
+  "chinese": "你的书在铅笔旁边。",
+  "english": "Your book is next to the pencil.",
+  "pinyin": "Nǐ de shū zài qiān bǐ pángbiān.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "de (possessive particle)",
+      "pi": "de"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    },
+    {
+      "ch": "在",
+      "en": "at, in, on",
+      "pi": "zài"
+    },
+    {
+      "ch": "铅笔",
+      "en": "pencil",
+      "pi": "qiān bǐ"
+    },
+    {
+      "ch": "旁边",
+      "en": "next to, beside",
+      "pi": "pángbiān"
+    }
+  ]
+}

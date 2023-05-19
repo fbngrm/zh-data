@@ -1,0 +1,32 @@
+{
+    "chinese": "深圳的天气怎么样？",
+    "english": "How's the weather in Shenzhen?",
+    "pinyin": "shēn zhèn de tiān qì zěn me yàng?",
+    "words": [
+        {
+            "ch": "深圳",
+            "en": "Shenzhen",
+            "pi": "shēn zhèn"
+        },
+        {
+            "ch": "的",
+            "en": "of",
+            "pi": "de"
+        },
+        {
+            "ch": "天气",
+            "en": "weather",
+            "pi": "tiān qì"
+        },
+        {
+            "ch": "怎么样",
+            "en": "how's",
+            "pi": "zěn me yàng"
+        },
+        {
+            "ch": "？",
+            "en": "?",
+            "pi": "？"
+        }
+    ]
+}

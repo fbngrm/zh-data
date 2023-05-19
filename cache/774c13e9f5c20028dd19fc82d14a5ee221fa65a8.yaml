@@ -1,0 +1,42 @@
+{
+  "chinese": "回家的时候我会买一个蛋糕。",
+  "english": "I will buy a cake when I go home.",
+  "pinyin": "huí jiā de shí hòu wǒ huì mǎi yí gè dàn gāo.",
+  "words": [
+    {
+      "ch": "回家",
+      "en": "go home",
+      "pi": "huí jiā"
+    },
+    {
+      "ch": "的时候",
+      "en": "when",
+      "pi": "de shí hòu"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "买",
+      "en": "buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yí gè"
+    },
+    {
+      "ch": "蛋糕",
+      "en": "cake",
+      "pi": "dàn gāo"
+    }
+  ]
+}

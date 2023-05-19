@@ -1,0 +1,202 @@
+{
+  "sentences": [
+    {
+      "chinese": "我9个月前开始学习中文。",
+      "english": "I started learning Chinese 9 months ago.",
+      "pinyin": "wǒ jiǔ gè yuè qián kāi shǐ xué xí zhōng wén.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "9",
+          "en": "9",
+          "pi": "jiǔ"
+        },
+        {
+          "ch": "个",
+          "en": "measure word for months",
+          "pi": "gè"
+        },
+        {
+          "ch": "月",
+          "en": "month",
+          "pi": "yuè"
+        },
+        {
+          "ch": "前",
+          "en": "ago",
+          "pi": "qián"
+        },
+        {
+          "ch": "开始",
+          "en": "started",
+          "pi": "kāi shǐ"
+        },
+        {
+          "ch": "学习",
+          "en": "learning",
+          "pi": "xué xí"
+        },
+        {
+          "ch": "中文",
+          "en": "Chinese language",
+          "pi": "zhōng wén"
+        }
+      ]
+    },
+    {
+      "chinese": "我的汉语读和写比较好，听和说不好。",
+      "english": "My reading and writing in Chinese are quite good, but my listening and speaking aren't good.",
+      "pinyin": "wǒ de hàn yǔ dú hé xiě bǐ jiào hǎo, tīng hé shuō bù hǎo.",
+      "words": [
+        {
+          "ch": "我的",
+          "en": "my",
+          "pi": "wǒ de"
+        },
+        {
+          "ch": "汉语",
+          "en": "Chinese language",
+          "pi": "hàn yǔ"
+        },
+        {
+          "ch": "读",
+          "en": "reading",
+          "pi": "dú"
+        },
+        {
+          "ch": "和",
+          "en": "and",
+          "pi": "hé"
+        },
+        {
+          "ch": "写",
+          "en": "writing",
+          "pi": "xiě"
+        },
+        {
+          "ch": "比较",
+          "en": "quite",
+          "pi": "bǐ jiào"
+        },
+        {
+          "ch": "好",
+          "en": "good",
+          "pi": "hǎo"
+        },
+        {
+          "ch": "听",
+          "en": "listening",
+          "pi": "tīng"
+        },
+        {
+          "ch": "和",
+          "en": "and",
+          "pi": "hé"
+        },
+        {
+          "ch": "说",
+          "en": "speaking",
+          "pi": "shuō"
+        },
+        {
+          "ch": "不",
+          "en": "not",
+          "pi": "bù"
+        },
+        {
+          "ch": "好",
+          "en": "good",
+          "pi": "hǎo"
+        }
+      ]
+    },
+    {
+      "chinese": "我想和你一起练习听说。",
+      "english": "I want to practice listening and speaking with you.",
+      "pinyin": "wǒ xiǎng hé nǐ yī qǐ liàn xí tīng shuō.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "想",
+          "en": "want to",
+          "pi": "xiǎng"
+        },
+        {
+          "ch": "和",
+          "en": "with",
+          "pi": "hé"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "一起",
+          "en": "together",
+          "pi": "yī qǐ"
+        },
+        {
+          "ch": "练习",
+          "en": "practice",
+          "pi": "liàn xí"
+        },
+        {
+          "ch": "听",
+          "en": "listening",
+          "pi": "tīng"
+        },
+        {
+          "ch": "说",
+          "en": "speaking",
+          "pi": "shuō"
+        }
+      ]
+    },
+    {
+      "chinese": "我过了汉语水平考试二级。",
+      "english": "I passed the HSK level 2 exam.",
+      "pinyin": "wǒ guò le hàn yǔ shuǐ píng kǎo shì èr jí.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "过了",
+          "en": "passed",
+          "pi": "guò le"
+        },
+        {
+          "ch": "汉语",
+          "en": "Chinese language",
+          "pi": "hàn yǔ"
+        },
+        {
+          "ch": "水平",
+          "en": "level",
+          "pi": "shuǐ píng"
+        },
+        {
+          "ch": "考试",
+          "en": "exam",
+          "pi": "kǎo shì"
+        },
+        {
+          "ch": "二级",
+          "en": "level 2",
+          "pi": "èr jí"
+        }
+      ]
+    }
+  ]
+}

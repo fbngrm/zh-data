@@ -1,0 +1,32 @@
+{
+  "chinese": "公共汽车上有很多人。",
+  "english": "There are many people on the bus.",
+  "pinyin": "gōng gòng qì chē shàng yǒu hěn duō rén.",
+  "words": [
+    {
+      "ch": "公共汽车",
+      "en": "bus",
+      "pi": "gōng gòng qì chē"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "很多",
+      "en": "many",
+      "pi": "hěn duō"
+    },
+    {
+      "ch": "人",
+      "en": "people",
+      "pi": "rén"
+    }
+  ]
+}

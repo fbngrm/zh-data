@@ -1,0 +1,47 @@
+{
+  "chinese": "那本新的书是我的。",
+  "english": "That new book is mine.",
+  "pinyin": "nà běn xīn de shū shì wǒ de.",
+  "words": [
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "本",
+      "en": "(measure word for books)",
+      "pi": "běn"
+    },
+    {
+      "ch": "新",
+      "en": "new",
+      "pi": "xīn"
+    },
+    {
+      "ch": "的",
+      "en": "of/mine",
+      "pi": "de"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我",
+      "en": "I/my",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "的",
+      "en": "of/mine",
+      "pi": "de"
+    }
+  ]
+}

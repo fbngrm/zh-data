@@ -1,0 +1,32 @@
+{
+  "chinese": "他介绍了十五分钟。",
+  "english": "He talked for 15 minutes.",
+  "pinyin": "tā jièshào le shíwǔ fēnzhōng.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "介绍",
+      "en": "introduce",
+      "pi": "jièshào"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "十五",
+      "en": "fifteen",
+      "pi": "shíwǔ"
+    },
+    {
+      "ch": "分钟",
+      "en": "minute",
+      "pi": "fēnzhōng"
+    }
+  ]
+}

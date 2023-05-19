@@ -1,0 +1,83 @@
+{
+  "sentences": [
+    {
+      "chinese": "女儿下午学习了多长时间？",
+      "english": "How long did the daughter study in the afternoon?",
+      "pinyin": "Nǚ'ér xiàwǔ xuéxíle duō cháng shíjiān?",
+      "words": [
+        {
+          "ch": "女儿",
+          "en": "daughter",
+          "pi": "nǚ'ér"
+        },
+        {
+          "ch": "下午",
+          "en": "afternoon",
+          "pi": "xiàwǔ"
+        },
+        {
+          "ch": "学习",
+          "en": "study",
+          "pi": "xuéxí"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        },
+        {
+          "ch": "多长时间",
+          "en": "how long",
+          "pi": "duō cháng shíjiān"
+        },
+        {
+          "ch": "？",
+          "en": "",
+          "pi": "？"
+        }
+      ]
+    },
+    {
+      "chinese": "女儿下午学习了两个小时。",
+      "english": "The daughter studied for two hours in the afternoon.",
+      "pinyin": "Nǚ'ér xiàwǔ xuéxíle liǎng gè xiǎoshí.",
+      "words": [
+        {
+          "ch": "女儿",
+          "en": "daughter",
+          "pi": "nǚ'ér"
+        },
+        {
+          "ch": "下午",
+          "en": "afternoon",
+          "pi": "xiàwǔ"
+        },
+        {
+          "ch": "学习",
+          "en": "study",
+          "pi": "xuéxí"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        },
+        {
+          "ch": "两个",
+          "en": "two",
+          "pi": "liǎng gè"
+        },
+        {
+          "ch": "小时",
+          "en": "hour",
+          "pi": "xiǎoshí"
+        },
+        {
+          "ch": "。",
+          "en": "",
+          "pi": "。"
+        }
+      ]
+    }
+  ]
+}

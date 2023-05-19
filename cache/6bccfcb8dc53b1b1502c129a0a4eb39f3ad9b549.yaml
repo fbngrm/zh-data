@@ -1,0 +1,47 @@
+{
+  "chinese": "我昨天看了很长时间的电影。",
+  "english": "Yesterday, I watched a movie for a very long time.",
+  "pinyin": "wǒ zuótiān kànle hěn cháng shíjiān de diànyǐng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I/me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "看",
+      "en": "to watch",
+      "pi": "kàn"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "长时间",
+      "en": "for a long time",
+      "pi": "cháng shíjiān"
+    },
+    {
+      "ch": "的",
+      "en": "marker of adjectival modifier",
+      "pi": "de"
+    },
+    {
+      "ch": "电影",
+      "en": "movie",
+      "pi": "diànyǐng"
+    }
+  ]
+}

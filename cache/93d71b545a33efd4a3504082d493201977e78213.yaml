@@ -1,0 +1,67 @@
+{
+    "sentences": [
+        {
+            "chinese": "我去了那家中餐馆，食物一点也不辣。",
+            "english": "I went to that Chinese restaurant, the food was not spicy at all.",
+            "pinyin": "Wǒ qùle nà jiā zhōngcānguǎn, shíwù yìdiǎn yě bù là.",
+            "words": [
+                {"ch": "我", "en": "I", "pi": "wǒ"},
+                {"ch": "去", "en": "went", "pi": "qù"},
+                {"ch": "了", "en": "already", "pi": "le"},
+                {"ch": "那", "en": "that", "pi": "nà"},
+                {"ch": "家", "en": "family", "pi": "jiā"},
+                {"ch": "中餐馆", "en": "Chinese restaurant", "pi": "zhōngcānguǎn"},
+                {"ch": "，", "en": ",", "pi": "，"},
+                {"ch": "食物", "en": "food", "pi": "shíwù"},
+                {"ch": "一点", "en": "a little", "pi": "yìdiǎn"},
+                {"ch": "也", "en": "also", "pi": "yě"},
+                {"ch": "不", "en": "not", "pi": "bù"},
+                {"ch": "辣", "en": "spicy", "pi": "là"},
+                {"ch": "。", "en": ".", "pi": "。"}
+            ]
+        },
+        {
+            "chinese": "味道还可以，但不是非常好。",
+            "english": "The taste was okay, but not very good.",
+            "pinyin": "Wèidào hái kěyǐ, dàn bù shì fēicháng hǎo.",
+            "words": [
+                {"ch": "味道", "en": "taste", "pi": "wèidào"},
+                {"ch": "还", "en": "still", "pi": "hái"},
+                {"ch": "可以", "en": "okay", "pi": "kěyǐ"},
+                {"ch": "，", "en": ",", "pi": "，"},
+                {"ch": "但", "en": "but", "pi": "dàn"},
+                {"ch": "不", "en": "not", "pi": "bù"},
+                {"ch": "是", "en": "is", "pi": "shì"},
+                {"ch": "非常", "en": "very", "pi": "fēicháng"},
+                {"ch": "好", "en": "good", "pi": "hǎo"},
+                {"ch": "。", "en": ".", "pi": "。"}
+            ]
+        },
+        {
+            "chinese": "在弗里德里希大街上的那家餐馆要好得多，那是我最喜欢的中餐馆。",
+            "english": "The restaurant on Friedrichstrasse is much better, that's my favorite Chinese restaurant.",
+            "pinyin": "Zài fú lǐ dé lǐ xī dàjiē shàng de nà jiā cānguǎn yào hǎo de duō, nà shì wǒ zuì xǐhuān de zhōngcānguǎn.",
+            "words": [
+                {"ch": "在", "en": "at", "pi": "zài"},
+                {"ch": "弗里德里希大街", "en": "Friedrichstrasse", "pi": "fú lǐ dé lǐ xī dàjiē"},
+                {"ch": "上", "en": "on", "pi": "shàng"},
+                {"ch": "的", "en": "of", "pi": "de"},
+                {"ch": "那", "en": "that", "pi": "nà"},
+                {"ch": "家", "en": "family", "pi": "jiā"},
+                {"ch": "餐馆", "en": "restaurant", "pi": "cānguǎn"},
+                {"ch": "要", "en": "must", "pi": "yào"},
+                {"ch": "好", "en": "good", "pi": "hǎo"},
+                {"ch": "得多", "en": "much", "pi": "de duō"},
+                {"ch": "，", "en": ",", "pi": "，"},
+                {"ch": "那", "en": "that", "pi": "nà"},
+                {"ch": "是", "en": "is", "pi": "shì"},
+                {"ch": "我", "en": "my", "pi": "wǒ"},
+                {"ch": "最", "en": "most", "pi": "zuì"},
+                {"ch": "喜欢", "en": "favorite", "pi": "xǐhuān"},
+                {"ch": "的", "en": "of", "pi": "de"},
+                {"ch": "中餐馆", "en": "Chinese restaurant", "pi": "zhōngcānguǎn"},
+                {"ch": "。", "en": ".", "pi": "。"}
+            ]
+        }
+    ]
+}

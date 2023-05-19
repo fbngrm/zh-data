@@ -1,0 +1,27 @@
+{
+  "chinese": "明天不会下雨。",
+  "english": "It will not rain tomorrow.",
+  "pinyin": "míng tiān bú huì xià yǔ。",
+  "words": [
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "下雨",
+      "en": "rain",
+      "pi": "xià yǔ"
+    }
+  ]
+}

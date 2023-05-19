@@ -1,0 +1,13 @@
+{
+    "chinese": "考试的时间太长了！",
+    "english": "The exam time is too long!",
+    "pinyin": "Kǎo shì de shí jiān tài cháng le!",
+    "words": [
+        { "ch": "考试", "en": "exam", "pi": "Kǎo shì" },
+        { "ch": "的", "en": "of", "pi": "de" },
+        { "ch": "时间", "en": "time", "pi": "shí jiān" },
+        { "ch": "太", "en": "too", "pi": "tài" },
+        { "ch": "长", "en": "long", "pi": "cháng" },
+        { "ch": "了", "en": "particle indicating completed action", "pi": "le" }
+    ]
+}

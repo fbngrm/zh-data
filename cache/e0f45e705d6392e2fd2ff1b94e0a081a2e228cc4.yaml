@@ -1,0 +1,32 @@
+{
+  "chinese": "我的衣服太长了！",
+  "english": "My clothes are too long!",
+  "pinyin": "Wǒ de yīfú tài cháng le!",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "衣服",
+      "en": "clothes",
+      "pi": "yīfú"
+    },
+    {
+      "ch": "太",
+      "en": "too",
+      "pi": "tài"
+    },
+    {
+      "ch": "长",
+      "en": "long",
+      "pi": "cháng"
+    },
+    {
+      "ch": "了",
+      "en": "!",
+      "pi": "le"
+    }
+  ]
+}

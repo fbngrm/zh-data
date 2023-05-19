@@ -1,0 +1,76 @@
+{
+  "sentences": [
+    {
+      "chinese": "你还要去多长时间可以到？我还要25分钟。",
+      "english": "How much longer do you need to get there? I need another 25 minutes.",
+      "pinyin": "Nǐ hái yào qù duō cháng shíjiān kěyǐ dào? Wǒ hái yào èrshí wǔ fēnzhōng.",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "还",
+          "en": "still",
+          "pi": "hái"
+        },
+        {
+          "ch": "要",
+          "en": "need",
+          "pi": "yào"
+        },
+        {
+          "ch": "去",
+          "en": "go",
+          "pi": "qù"
+        },
+        {
+          "ch": "多长时间",
+          "en": "how much longer",
+          "pi": "duō cháng shíjiān"
+        },
+        {
+          "ch": "可以",
+          "en": "can",
+          "pi": "kěyǐ"
+        },
+        {
+          "ch": "到",
+          "en": "reach",
+          "pi": "dào"
+        },
+        {
+          "ch": "？",
+          "en": "?",
+          "pi": "?"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "还要",
+          "en": "need another",
+          "pi": "hái yào"
+        },
+        {
+          "ch": "25",
+          "en": "25",
+          "pi": "èrshí wǔ"
+        },
+        {
+          "ch": "分钟",
+          "en": "minutes",
+          "pi": "fēnzhōng"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "."
+        }
+      ]
+    }
+  ]
+}

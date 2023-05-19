@@ -1,0 +1,32 @@
+{
+  "chinese": "这件衣服大一点儿。",
+  "english": "This piece of clothing is a bit big.",
+  "pinyin": "zhè jiàn yīfú dà yìdiǎnr.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "件",
+      "en": "piece",
+      "pi": "jiàn"
+    },
+    {
+      "ch": "衣服",
+      "en": "clothing",
+      "pi": "yīfú"
+    },
+    {
+      "ch": "大",
+      "en": "big",
+      "pi": "dà"
+    },
+    {
+      "ch": "一点儿",
+      "en": "a bit",
+      "pi": "yìdiǎnr"
+    }
+  ]
+}

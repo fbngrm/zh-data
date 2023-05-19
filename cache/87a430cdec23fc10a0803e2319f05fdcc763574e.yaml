@@ -1,0 +1,32 @@
+{
+    "chinese": "他不会来了。",
+    "english": "He won't come.",
+    "pinyin": "tā bù huì lái le.",
+    "words": [
+        {
+            "ch": "他",
+            "en": "he",
+            "pi": "tā"
+        },
+        {
+            "ch": "不",
+            "en": "not",
+            "pi": "bù"
+        },
+        {
+            "ch": "会",
+            "en": "will",
+            "pi": "huì"
+        },
+        {
+            "ch": "来",
+            "en": "come",
+            "pi": "lái"
+        },
+        {
+            "ch": "了",
+            "en": "an auxiliary word indicating the completion of an action",
+            "pi": "le"
+        }
+    ]
+}

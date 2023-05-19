@@ -1,0 +1,47 @@
+{
+  "chinese": "我的儿子比他的女儿大。",
+  "english": "My son is older than his daughter.",
+  "pinyin": "wǒ de érzi bǐ tā de nǚ'ér dà.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I, me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "的",
+      "en": "of, ~'s",
+      "pi": "de"
+    },
+    {
+      "ch": "儿子",
+      "en": "son",
+      "pi": "érzi"
+    },
+    {
+      "ch": "比",
+      "en": "compared to, than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "他",
+      "en": "he, him",
+      "pi": "tā"
+    },
+    {
+      "ch": "的",
+      "en": "of, ~'s",
+      "pi": "de"
+    },
+    {
+      "ch": "女儿",
+      "en": "daughter",
+      "pi": "nǚ'ér"
+    },
+    {
+      "ch": "大",
+      "en": "big, large",
+      "pi": "dà"
+    }
+  ]
+}

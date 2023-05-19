@@ -1,0 +1,15 @@
+{
+  "chinese": "你快一点儿，时间不多了。",
+  "english": "Hurry up, we don't have much time left.",
+  "pinyin": "nǐ kuài yīdiǎnr, shíjiān bù duō le.",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "快", "en": "quick, fast", "pi": "kuài"},
+    {"ch": "一点儿", "en": "a little bit", "pi": "yīdiǎnr"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "时间", "en": "time", "pi": "shíjiān"},
+    {"ch": "不多", "en": "not much", "pi": "bù duō"},
+    {"ch": "了", "en": "particle indicating a change of situation or state", "pi": "le"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}

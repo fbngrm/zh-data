@@ -1,0 +1,32 @@
+{
+  "chinese": "你快去吃饭吧。",
+  "english": "Go eat now.",
+  "pinyin": "nǐ kuài qù chīfàn ba.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "快",
+      "en": "quick",
+      "pi": "kuài"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "吃饭",
+      "en": "eat",
+      "pi": "chīfàn"
+    },
+    {
+      "ch": "吧",
+      "en": "particle indicating suggestion or surmise",
+      "pi": "ba"
+    }
+  ]
+}

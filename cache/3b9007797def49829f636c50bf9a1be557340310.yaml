@@ -1,0 +1,15 @@
+{
+  "chinese": "他能在地铁上吃东西吗？",
+  "english": "Can he eat on the subway?",
+  "pinyin": "tā néng zài dì tiě shàng chī dōng xī ma?",
+  "words": [
+    { "ch": "他", "en": "he", "pi": "tā" },
+    { "ch": "能", "en": "can", "pi": "néng" },
+    { "ch": "在", "en": "on", "pi": "zài" },
+    { "ch": "地铁", "en": "subway", "pi": "dì tiě" },
+    { "ch": "上", "en": "above", "pi": "shàng" },
+    { "ch": "吃", "en": "eat", "pi": "chī" },
+    { "ch": "东西", "en": "food", "pi": "dōng xī" },
+    { "ch": "吗", "en": "question particle", "pi": "ma" }
+  ]
+}

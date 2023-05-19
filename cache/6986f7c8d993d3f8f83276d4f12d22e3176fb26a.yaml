@@ -1,0 +1,32 @@
+{
+  "chinese": "这儿离饭店很远。",
+  "english": "The restaurant is far away from here.",
+  "pinyin": "zhè'er lí fàndiàn hěn yuǎn.",
+  "words": [
+    {
+      "ch": "这儿",
+      "en": "here",
+      "pi": "zhè'er"
+    },
+    {
+      "ch": "离",
+      "en": "away from",
+      "pi": "lí"
+    },
+    {
+      "ch": "饭店",
+      "en": "restaurant",
+      "pi": "fàndiàn"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "远",
+      "en": "far",
+      "pi": "yuǎn"
+    }
+  ]
+}

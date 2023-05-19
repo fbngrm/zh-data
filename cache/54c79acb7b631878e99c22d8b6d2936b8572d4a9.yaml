@@ -1,0 +1,13 @@
+{
+  "chinese": "我每天坐地铁去公司。",
+  "english": "I take the subway to work every day.",
+  "pinyin": "wǒ měi tiān zuò dì tiě qù gōng sī.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "每天", "en": "every day", "pi": "měi tiān"},
+    {"ch": "坐", "en": "take", "pi": "zuò"},
+    {"ch": "地铁", "en": "subway", "pi": "dì tiě"},
+    {"ch": "去", "en": "to", "pi": "qù"},
+    {"ch": "公司", "en": "work", "pi": "gōng sī"}
+  ]
+}

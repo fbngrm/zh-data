@@ -1,0 +1,151 @@
+```json
+[
+  {
+    "chinese": "陆雨平，你好吗？我很好。",
+    "english": "Lu Yuping, how are you? I'm fine.",
+    "pinyin": "Lù Yǔpíng, nǐ hǎo ma? Wǒ hěn hǎo.",
+    "words": [
+      {
+        "ch": "陆雨平",
+        "en": "Lu Yuping",
+        "pi": "Lù Yǔpíng"
+      },
+      {
+        "ch": "你好吗",
+        "en": "how are you",
+        "pi": "nǐ hǎo ma"
+      },
+      {
+        "ch": "我",
+        "en": "I",
+        "pi": "wǒ"
+      },
+      {
+        "ch": "很",
+        "en": "very",
+        "pi": "hěn"
+      },
+      {
+        "ch": "好",
+        "en": "good",
+        "pi": "hǎo"
+      }
+    ]
+  },
+  {
+    "chinese": "你爸爸，妈妈好吗？他们都很好。",
+    "english": "How are your parents? They're both doing well.",
+    "pinyin": "Nǐ bàba, māma hǎo ma? Tāmen dōu hěn hǎo.",
+    "words": [
+      {
+        "ch": "你",
+        "en": "you",
+        "pi": "nǐ"
+      },
+      {
+        "ch": "爸爸",
+        "en": "father",
+        "pi": "bàba"
+      },
+      {
+        "ch": "妈妈",
+        "en": "mother",
+        "pi": "māma"
+      },
+      {
+        "ch": "好吗",
+        "en": "how are you",
+        "pi": "hǎo ma"
+      },
+      {
+        "ch": "他们",
+        "en": "they",
+        "pi": "tāmen"
+      },
+      {
+        "ch": "都",
+        "en": "both",
+        "pi": "dōu"
+      },
+      {
+        "ch": "很",
+        "en": "very",
+        "pi": "hěn"
+      },
+      {
+        "ch": "好",
+        "en": "good",
+        "pi": "hǎo"
+      }
+    ]
+  },
+  {
+    "chinese": "你忙吗？我不忙。",
+    "english": "Are you busy? I'm not busy.",
+    "pinyin": "Nǐ máng ma? Wǒ bù máng.",
+    "words": [
+      {
+        "ch": "你",
+        "en": "you",
+        "pi": "nǐ"
+      },
+      {
+        "ch": "忙吗",
+        "en": "are you busy",
+        "pi": "máng ma"
+      },
+      {
+        "ch": "我",
+        "en": "I",
+        "pi": "wǒ"
+      },
+      {
+        "ch": "不",
+        "en": "not",
+        "pi": "bù"
+      },
+      {
+        "ch": "忙",
+        "en": "busy",
+        "pi": "máng"
+      }
+    ]
+  },
+  {
+    "chinese": "你男朋友呢？他很忙。",
+    "english": "How about your boyfriend? He's very busy.",
+    "pinyin": "Nǐ nán péngyǒu ne? Tā hěn máng.",
+    "words": [
+      {
+        "ch": "你",
+        "en": "you",
+        "pi": "nǐ"
+      },
+      {
+        "ch": "男朋友",
+        "en": "boyfriend",
+        "pi": "nán péngyǒu"
+      },
+      {
+        "ch": "呢",
+        "en": "how about",
+        "pi": "ne"
+      },
+      {
+        "ch": "他",
+        "en": "he",
+        "pi": "tā"
+      },
+      {
+        "ch": "很",
+        "en": "very",
+        "pi": "hěn"
+      },
+      {
+        "ch": "忙",
+        "en": "busy",
+        "pi": "máng"
+      }
+    ]
+  }
+]

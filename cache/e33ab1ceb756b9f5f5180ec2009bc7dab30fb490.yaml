@@ -1,0 +1,47 @@
+{
+  "chinese": "这儿的天气比那儿的好。",
+  "english": "The weather here is better than there.",
+  "pinyin": "zhèr de tiān qì bǐ nàr de hǎo.",
+  "words": [
+    {
+      "ch": "这儿",
+      "en": "here",
+      "pi": "zhèr"
+    },
+    {
+      "ch": "的",
+      "en": "of; 's",
+      "pi": "de"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiān qì"
+    },
+    {
+      "ch": "比",
+      "en": "comparison marker (to compare)",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "那儿",
+      "en": "there",
+      "pi": "nàr"
+    },
+    {
+      "ch": "的",
+      "en": "of; 's",
+      "pi": "de"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "。"
+    }
+  ]
+}

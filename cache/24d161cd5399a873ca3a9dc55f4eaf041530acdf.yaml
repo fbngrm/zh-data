@@ -1,0 +1,13 @@
+{
+  "chinese": "这个酒店比那个酒店好。",
+  "english": "This hotel is better than that hotel.",
+  "pinyin": "Zhège jiǔdiàn bǐ nàgè jiǔdiàn hǎo.",
+  "words": [
+    {"ch": "这个", "en": "this", "pi": "zhè ge"},
+    {"ch": "酒店", "en": "hotel", "pi": "jiǔ diàn"},
+    {"ch": "比", "en": "than", "pi": "bǐ"},
+    {"ch": "那个", "en": "that", "pi": "nà gè"},
+    {"ch": "酒店", "en": "hotel", "pi": "jiǔ diàn"},
+    {"ch": "好", "en": "good", "pi": "hǎo"}
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "chinese": "我要去看书了，明天就要考试了。",
+  "english": "I'm going to read now, I have an exam tomorrow.",
+  "pinyin": "wǒ yào qù kàn shū le, míng tiān jiù yào kǎo shì le.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "要", "en": "want", "pi": "yào" },
+    { "ch": "去", "en": "go", "pi": "qù" },
+    { "ch": "看书", "en": "read", "pi": "kàn shū" },
+    { "ch": "了", "en": "particle indicating a completed or finished action", "pi": "le" },
+    { "ch": "，", "en": ",", "pi": "，" },
+    { "ch": "明天", "en": "tomorrow", "pi": "míng tiān" },
+    { "ch": "就要", "en": "will", "pi": "jiù yào" },
+    { "ch": "考试", "en": "exam", "pi": "kǎo shì" },
+    { "ch": "了", "en": "particle indicating a completed or finished action", "pi": "le" },
+    { "ch": "。", "en": ".", "pi": "。" }
+  ]
+}

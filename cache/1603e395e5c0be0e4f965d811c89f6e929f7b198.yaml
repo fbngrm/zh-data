@@ -1,0 +1,37 @@
+{
+  "chinese": "我很喜欢吃韩式烤肉。",
+  "english": "I really like to eat Korean barbecue.",
+  "pinyin": "wǒ hěn xǐ huān chī hán shì kǎo ròu.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐ huān"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "韩式",
+      "en": "Korean-style",
+      "pi": "hán shì"
+    },
+    {
+      "ch": "烤肉",
+      "en": "barbecue",
+      "pi": "kǎo ròu"
+    }
+  ]
+}

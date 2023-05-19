@@ -1,0 +1,32 @@
+{
+  "chinese": "你今年去中国吗？",
+  "english": "Are you going to China this year?",
+  "pinyin": "nǐ jīnnián qù zhōngguó ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "今年",
+      "en": "this year",
+      "pi": "jīnnián"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "中国",
+      "en": "China",
+      "pi": "zhōngguó"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我的杯子比他的小。",
+  "english": "My cup is smaller than his.",
+  "pinyin": "wǒ de bēi zi bǐ tā de xiǎo。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I; me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "的",
+      "en": "of; -'s",
+      "pi": "de"
+    },
+    {
+      "ch": "杯子",
+      "en": "cup",
+      "pi": "bēi zi"
+    },
+    {
+      "ch": "比",
+      "en": "compared to; than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "他",
+      "en": "he; him",
+      "pi": "tā"
+    },
+    {
+      "ch": "的",
+      "en": "of; -'s",
+      "pi": "de"
+    },
+    {
+      "ch": "小",
+      "en": "small",
+      "pi": "xiǎo"
+    }
+  ]
+}

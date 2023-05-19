@@ -1,0 +1,37 @@
+{
+  "chinese": "下个星期他会去北京。",
+  "english": "He will go to Beijing next week.",
+  "pinyin": "xià gè xīng qī tā huì qù běi jīng.",
+  "words": [
+    {
+      "ch": "下个",
+      "en": "next",
+      "pi": "xià gè"
+    },
+    {
+      "ch": "星期",
+      "en": "week",
+      "pi": "xīng qī"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "北京",
+      "en": "Beijing",
+      "pi": "běi jīng"
+    },
+  ]
+}

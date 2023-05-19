@@ -1,0 +1,42 @@
+{
+  "chinese": "今天的天气比昨天的好。",
+  "english": "Today's weather is better than yesterday's.",
+  "pinyin": "jīn tiān de tiān qì bǐ zuó tiān de hǎo.",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiān qì"
+    },
+    {
+      "ch": "比",
+      "en": "compared to",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "好",
+      "en": "good/better",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "。"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "明天我就去看医生。",
+  "english": "Tomorrow I will go see the doctor.",
+  "pinyin": "míng tiān wǒ jiù qù kàn yī shēng.",
+  "words": [
+    {"ch": "明天", "en": "tomorrow", "pi": "míng tiān"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "就", "en": "just", "pi": "jiù"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "看", "en": "see", "pi": "kàn"},
+    {"ch": "医生", "en": "doctor", "pi": "yī shēng"}
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "sentences": [
+    {
+      "chinese": "后面的是弟弟，弟弟高。",
+      "english": "The one behind is younger brother, younger brother is tall.",
+      "pinyin": "hòu miàn de shì dì dì, dì dì gāo.",
+      "words": [
+        {
+          "ch": "后面",
+          "en": "behind",
+          "pi": "hòu miàn"
+        },
+        {
+          "ch": "的",
+          "en": "'s",
+          "pi": "de"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "弟弟",
+          "en": "younger brother",
+          "pi": "dì dì"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": ""
+        },
+        {
+          "ch": "弟弟",
+          "en": "younger brother",
+          "pi": "dì dì"
+        },
+        {
+          "ch": "高",
+          "en": "tall",
+          "pi": "gāo"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": ""
+        }
+      ]
+    },
+    {
+      "chinese": "前面的是姐姐，姐姐矮。",
+      "english": "The one in front is elder sister, elder sister is short.",
+      "pinyin": "qián miàn de shì jiě jiě, jiě jiě ǎi.",
+      "words": [
+        {
+          "ch": "前面",
+          "en": "in front",
+          "pi": "qián miàn"
+        },
+        {
+          "ch": "的",
+          "en": "'s",
+          "pi": "de"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "姐姐",
+          "en": "elder sister",
+          "pi": "jiě jiě"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": ""
+        },
+        {
+          "ch": "姐姐",
+          "en": "elder sister",
+          "pi": "jiě jiě"
+        },
+        {
+          "ch": "矮",
+          "en": "short",
+          "pi": "ǎi"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": ""
+        }
+      ]
+    },
+    {
+      "chinese": "弟弟比姐姐高。",
+      "english": "Younger brother is taller than elder sister.",
+      "pinyin": "dì dì bǐ jiě jiě gāo.",
+      "words": [
+        {
+          "ch": "弟弟",
+          "en": "younger brother",
+          "pi": "dì dì"
+        },
+        {
+          "ch": "比",
+          "en": "than",
+          "pi": "bǐ"
+        },
+        {
+          "ch": "姐姐",
+          "en": "elder sister",
+          "pi": "jiě jiě"
+        },
+        {
+          "ch": "高",
+          "en": "tall",
+          "pi": "gāo"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": ""
+        }
+      ]
+    },
+    {
+      "chinese": "姐姐比弟弟矮。",
+      "english": "Elder sister is shorter than younger brother.",
+      "pinyin": "jiě jiě bǐ dì dì ǎi.",
+      "words": [
+        {
+          "ch": "姐姐",
+          "en": "elder sister",
+          "pi": "jiě jiě"
+        },
+        {
+          "ch": "比",
+          "en": "than",
+          "pi": "bǐ"
+        },
+        {
+          "ch": "弟弟",
+          "en": "younger brother",
+          "pi": "dì dì"
+        },
+        {
+          "ch": "矮",
+          "en": "short",
+          "pi": "ǎi"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": ""
+        }
+      ]
+    }
+  ]
+}
