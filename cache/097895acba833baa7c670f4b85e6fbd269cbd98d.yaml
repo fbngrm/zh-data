@@ -1,0 +1,32 @@
+{
+  "chinese": "我不可以喝啤酒。",
+  "english": "I cannot drink beer.",
+  "pinyin": "wǒ bù kě yǐ hē pí jiǔ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kě yǐ"
+    },
+    {
+      "ch": "喝",
+      "en": "drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "啤酒",
+      "en": "beer",
+      "pi": "pí jiǔ"
+    }
+  ]
+}

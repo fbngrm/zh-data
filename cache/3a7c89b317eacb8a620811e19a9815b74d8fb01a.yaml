@@ -1,0 +1,15 @@
+{
+  "chinese": "很可能他不知道这件事。",
+  "english": "It's very likely that he doesn't know about this.",
+  "pinyin": "hěn kěnéng tā bù zhīdào zhè jiàn shì.",
+  "words": [
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "可能", "en": "possibly", "pi": "kěnéng"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "知道", "en": "know", "pi": "zhīdào"},
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "件", "en": "matter", "pi": "jiàn"},
+    {"ch": "事", "en": "thing", "pi": "shì"}
+  ]
+}

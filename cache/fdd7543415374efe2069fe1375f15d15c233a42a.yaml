@@ -1,0 +1,42 @@
+{
+  "chinese": "我吃晚饭以后会看电视。",
+  "english": "I will watch TV after dinner.",
+  "pinyin": "Wǒ chī wǎnfàn yǐhòu huì kàn diànshì.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "晚饭",
+      "en": "dinner",
+      "pi": "wǎnfàn"
+    },
+    {
+      "ch": "以后",
+      "en": "after",
+      "pi": "yǐhòu"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "看",
+      "en": "watch",
+      "pi": "kàn"
+    },
+    {
+      "ch": "电视",
+      "en": "TV",
+      "pi": "diànshì"
+    }
+  ]
+}

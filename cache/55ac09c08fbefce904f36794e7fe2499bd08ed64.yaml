@@ -1,0 +1,11 @@
+{
+  "chinese": "这个手机太贵了。",
+  "english": "This phone is too expensive.",
+  "pinyin": "Zhège shǒujī tài guìle.",
+  "words": [
+    {"ch":"这个", "en":"this", "pi":"zhè gè"},
+    {"ch":"手机", "en":"phone", "pi":"shǒujī"},
+    {"ch":"太", "en":"too", "pi":"tài"},
+    {"ch":"贵了", "en":"expensive", "pi":"guìle"}
+  ]
+}

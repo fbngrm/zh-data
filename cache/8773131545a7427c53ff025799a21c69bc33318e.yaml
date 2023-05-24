@@ -1,0 +1,37 @@
+{
+  "chinese": "先吃饭再看电影，好吗?",
+  "english": "Shall we eat before watching the movie?",
+  "pinyin": "Xiān chīfàn zài kàn diànyǐng, hǎo ma?",
+  "words": [
+    {
+      "ch": "先",
+      "en": "first",
+      "pi": "xiān"
+    },
+    {
+      "ch": "吃饭",
+      "en": "eat",
+      "pi": "chīfàn"
+    },
+    {
+      "ch": "再",
+      "en": "then",
+      "pi": "zài"
+    },
+    {
+      "ch": "看",
+      "en": "watch",
+      "pi": "kàn"
+    },
+    {
+      "ch": "电影",
+      "en": "movie",
+      "pi": "diànyǐng"
+    },
+    {
+      "ch": "好吗",
+      "en": "okay?",
+      "pi": "hǎo ma"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "你的生日是什么时候？",
+  "english": "When is your birthday?",
+  "pinyin": "nǐ de shēngrì shì shénme shíhòu?",
+  "words": [
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "生日",
+      "en": "birthday",
+      "pi": "shēngrì"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "时候",
+      "en": "time",
+      "pi": "shíhòu"
+    }
+  ]
+}

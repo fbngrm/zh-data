@@ -1,0 +1,32 @@
+{
+  "chinese": "你怎么写这个汉字？",
+  "english": "How do you write this Chinese character?",
+  "pinyin": "Nǐ zěn me xiě zhè ge Hànzì?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "Nǐ"
+    },
+    {
+      "ch": "怎么",
+      "en": "how",
+      "pi": "zěn me"
+    },
+    {
+      "ch": "写",
+      "en": "write",
+      "pi": "xiě"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè ge"
+    },
+    {
+      "ch": "汉字",
+      "en": "Chinese character",
+      "pi": "Hànzì"
+    }
+  ]
+}
