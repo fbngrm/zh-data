@@ -1,0 +1,68 @@
+{
+  "sentences": [
+    {
+      "chinese": "一共有几只鸭子？",
+      "english": "How many ducks are there in total?",
+      "pinyin": "yī gòng yǒu jǐ zhī yā zi?",
+      "words": [
+        {
+          "ch": "一共",
+          "en": "in total",
+          "pi": "yī gòng"
+        },
+        {
+          "ch": "有",
+          "en": "have, there is",
+          "pi": "yǒu"
+        },
+        {
+          "ch": "几",
+          "en": "how many",
+          "pi": "jǐ"
+        },
+        {
+          "ch": "只",
+          "en": "measure word for certain animals",
+          "pi": "zhī"
+        },
+        {
+          "ch": "鸭子",
+          "en": "duck",
+          "pi": "yā zi"
+        }
+      ]
+    },
+    {
+      "chinese": "一共有多少只鸭子？",
+      "english": "How many ducks are there in total?",
+      "pinyin": "yī gòng yǒu duō shǎo zhī yā zi?",
+      "words": [
+        {
+          "ch": "一共",
+          "en": "in total",
+          "pi": "yī gòng"
+        },
+        {
+          "ch": "有",
+          "en": "have, there is",
+          "pi": "yǒu"
+        },
+        {
+          "ch": "多少",
+          "en": "how many",
+          "pi": "duō shǎo"
+        },
+        {
+          "ch": "只",
+          "en": "measure word for certain animals",
+          "pi": "zhī"
+        },
+        {
+          "ch": "鸭子",
+          "en": "duck",
+          "pi": "yā zi"
+        }
+      ]
+    }
+  ]
+}

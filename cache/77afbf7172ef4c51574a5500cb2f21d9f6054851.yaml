@@ -1,0 +1,16 @@
+{
+  "chinese": "不好意思请你再说一遍我没听懂。",
+  "english": "Sorry, can you please repeat? I didn't understand.",
+  "pinyin": "bù hǎo yì sī qǐng nǐ zài shuō yī biàn wǒ méi tīng dǒng。",
+  "words": [
+    {"ch": "不好意思", "en": "Sorry", "pi": "bù hǎo yì sī"},
+    {"ch": "请", "en": "can you please", "pi": "qǐng"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "再", "en": "repeat", "pi": "zài"},
+    {"ch": "说", "en": "say", "pi": "shuō"},
+    {"ch": "一遍", "en": "one more time", "pi": "yī biàn"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "没", "en": "didn't", "pi": "méi"},
+    {"ch": "听懂", "en": "understand", "pi": "tīng dǒng"}
+  ]
+}

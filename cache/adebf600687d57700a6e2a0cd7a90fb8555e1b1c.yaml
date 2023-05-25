@@ -1,0 +1,42 @@
+{
+  "chinese": "从上海到北京有多远？",
+  "english": "How far is it from Shanghai to Beijing?",
+  "pinyin": "Cóng Shànghǎi dào Běijīng yǒu duō yuǎn?",
+  "words": [
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "上海",
+      "en": "Shanghai",
+      "pi": "shànghǎi"
+    },
+    {
+      "ch": "到",
+      "en": "to",
+      "pi": "dào"
+    },
+    {
+      "ch": "北京",
+      "en": "Beijing",
+      "pi": "běijīng"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "多远",
+      "en": "how far",
+      "pi": "duō yuǎn"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "？"
+    }
+  ]
+}
