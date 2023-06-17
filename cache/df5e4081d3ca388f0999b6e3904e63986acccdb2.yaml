@@ -1,0 +1,180 @@
+```json
+[
+  {
+    "chinese": "你想喝点什么？",
+    "english": "What would you like to drink?",
+    "pinyin": "nǐ xiǎng hē diǎn shén me?",
+    "words": [
+      {
+        "ch": "你",
+        "en": "you",
+        "pi": "nǐ"
+      },
+      {
+        "ch": "想",
+        "en": "to want",
+        "pi": "xiǎng"
+      },
+      {
+        "ch": "喝",
+        "en": "to drink",
+        "pi": "hē"
+      },
+      {
+        "ch": "点",
+        "en": "a little, some",
+        "pi": "diǎn"
+      },
+      {
+        "ch": "什么",
+        "en": "what",
+        "pi": "shén me"
+      },
+      {
+        "ch": "？",
+        "en": "?",
+        "pi": "?"
+      }
+    ]
+  },
+  {
+    "chinese": "我要一个茶。",
+    "english": "I want a tea.",
+    "pinyin": "wǒ yào yī gè chá.",
+    "words": [
+      {
+        "ch": "我",
+        "en": "I, me",
+        "pi": "wǒ"
+      },
+      {
+        "ch": "要",
+        "en": "to want",
+        "pi": "yào"
+      },
+      {
+        "ch": "一个",
+        "en": "one",
+        "pi": "yī gè"
+      },
+      {
+        "ch": "茶",
+        "en": "tea",
+        "pi": "chá"
+      },
+      {
+        "ch": "。",
+        "en": ".",
+        "pi": "."
+      }
+    ]
+  },
+  {
+    "chinese": "我要一个咖啡。",
+    "english": "I want a coffee.",
+    "pinyin": "wǒ yào yī gè kā fēi.",
+    "words": [
+      {
+        "ch": "我",
+        "en": "I, me",
+        "pi": "wǒ"
+      },
+      {
+        "ch": "要",
+        "en": "to want",
+        "pi": "yào"
+      },
+      {
+        "ch": "一个",
+        "en": "one",
+        "pi": "yī gè"
+      },
+      {
+        "ch": "咖啡",
+        "en": "coffee",
+        "pi": "kā fēi"
+      },
+      {
+        "ch": "。",
+        "en": ".",
+        "pi": "."
+      }
+    ]
+  },
+  {
+    "chinese": "你好.",
+    "english": "Hello.",
+    "pinyin": "nǐ hǎo.",
+    "words": [
+      {
+        "ch": "你",
+        "en": "you",
+        "pi": "nǐ"
+      },
+      {
+        "ch": "好",
+        "en": "good",
+        "pi": "hǎo"
+      },
+      {
+        "ch": ".",
+        "en": ".",
+        "pi": "."
+      }
+    ]
+  },
+  {
+    "chinese": "我姓王！",
+    "english": "My last name is Wang!",
+    "pinyin": "wǒ xìng wáng!",
+    "words": [
+      {
+        "ch": "我",
+        "en": "I, me",
+        "pi": "wǒ"
+      },
+      {
+        "ch": "姓",
+        "en": "last name",
+        "pi": "xìng"
+      },
+      {
+        "ch": "王",
+        "en": "Wang",
+        "pi": "wáng"
+      },
+      {
+        "ch": "！",
+        "en": "!",
+        "pi": "!"
+      }
+    ]
+  },
+  {
+    "chinese": "您好吗？",
+    "english": "How are you?",
+    "pinyin": "nín hǎo ma?",
+    "words": [
+      {
+        "ch": "您",
+        "en": "you (polite)",
+        "pi": "nín"
+      },
+      {
+        "ch": "好",
+        "en": "good",
+        "pi": "hǎo"
+      },
+      {
+        "ch": "吗",
+        "en": "? (question particle)",
+        "pi": "ma"
+      },
+      {
+        "ch": "？",
+        "en": "?",
+        "pi": "?"
+      }
+    ]
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "chinese": "你想吃点什么？",
+    "english": "What do you want to eat?",
+    "pinyin": "nǐ xiǎng chī diǎn shén me?",
+    "words": [
+      {
+        "ch": "你",
+        "en": "you",
+        "pi": "nǐ"
+      },
+      {
+        "ch": "想",
+        "en": "want",
+        "pi": "xiǎng"
+      },
+      {
+        "ch": "吃",
+        "en": "to eat",
+        "pi": "chī"
+      },
+      {
+        "ch": "点",
+        "en": "a bit",
+        "pi": "diǎn"
+      },
+      {
+        "ch": "什么",
+        "en": "what",
+        "pi": "shén me"
+      }
+    ]
+  },
+  {
+    "chinese": "我要一个凉菜和一个宫爆鸡丁。",
+    "english": "I want a cold dish and a Kung Pao chicken.",
+    "pinyin": "wǒ yào yī gè liáng cài hé yī gè gōng bào jī dīng.",
+    "words": [
+      {
+        "ch": "我",
+        "en": "I",
+        "pi": "wǒ"
+      },
+      {
+        "ch": "要",
+        "en": "want",
+        "pi": "yào"
+      },
+      {
+        "ch": "一个",
+        "en": "a",
+        "pi": "yī gè"
+      },
+      {
+        "ch": "凉菜",
+        "en": "cold dish",
+        "pi": "liáng cài"
+      },
+      {
+        "ch": "和",
+        "en": "and",
+        "pi": "hé"
+      },
+      {
+        "ch": "一个",
+        "en": "a",
+        "pi": "yī gè"
+      },
+      {
+        "ch": "宫爆鸡丁",
+        "en": "Kung Pao chicken",
+        "pi": "gōng bào jī dīng"
+      }
+    ]
+  },
+  {
+    "chinese": "我要一个菜。",
+    "english": "I want a dish.",
+    "pinyin": "wǒ yào yī gè cài.",
+    "words": [
+      {
+        "ch": "我",
+        "en": "I",
+        "pi": "wǒ"
+      },
+      {
+        "ch": "要",
+        "en": "want",
+        "pi": "yào"
+      },
+      {
+        "ch": "一个",
+        "en": "a",
+        "pi": "yī gè"
+      },
+      {
+        "ch": "菜",
+        "en": "dish",
+        "pi": "cài"
+      }
+    ]
+  },
+  {
+    "chinese": "你好吗？",
+    "english": "How are you?",
+    "pinyin": "nǐ hǎo ma?",
+    "words": [
+      {
+        "ch": "你",
+        "en": "you",
+        "pi": "nǐ"
+      },
+      {
+        "ch": "好",
+        "en": "good",
+        "pi": "hǎo"
+      },
+      {
+        "ch": "吗",
+        "en": "particle indicating a question",
+        "pi": "ma"
+      }
+    ]
+  },
+  {
+    "chinese": "我很好！",
+    "english": "I am very well!",
+    "pinyin": "wǒ hěn hǎo!",
+    "words": [
+      {
+        "ch": "我",
+        "en": "I",
+        "pi": "wǒ"
+      },
+      {
+        "ch": "很",
+        "en": "very",
+        "pi": "hěn"
+      },
+      {
+        "ch": "好",
+        "en": "good",
+        "pi": "hǎo"
+      }
+    ]
+  },
+  {
+    "chinese": "您好！",
+    "english": "Hello!",
+    "pinyin": "nín hǎo!",
+    "words": [
+      {
+        "ch": "您",
+        "en": "you (formal)",
+        "pi": "nín"
+      },
+      {
+        "ch": "好",
+        "en": "good",
+        "pi": "hǎo"
+      }
+    ]
+  }
+]

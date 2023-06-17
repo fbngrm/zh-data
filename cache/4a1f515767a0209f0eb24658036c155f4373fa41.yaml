@@ -1,0 +1,78 @@
+{
+  "sentences": [
+    {
+      "chinese": "你想吃点什么？",
+      "english": "What do you want to eat?",
+      "pinyin": "nǐ xiǎng chī diǎn shén me?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "想",
+          "en": "want",
+          "pi": "xiǎng"
+        },
+        {
+          "ch": "吃",
+          "en": "to eat",
+          "pi": "chī"
+        },
+        {
+          "ch": "点",
+          "en": "something",
+          "pi": "diǎn"
+        },
+        {
+          "ch": "什么",
+          "en": "what",
+          "pi": "shén me"
+        }
+      ]
+    },
+    {
+      "chinese": "我要一个凉菜和一个宫爆鸡丁。",
+      "english": "I want a cold dish and a spicy diced chicken.",
+      "pinyin": "wǒ yào yī gè liáng cài hé yī gè gōng bào jī dīng.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "要",
+          "en": "want",
+          "pi": "yào"
+        },
+        {
+          "ch": "一个",
+          "en": "a",
+          "pi": "yī gè"
+        },
+        {
+          "ch": "凉菜",
+          "en": "cold dish",
+          "pi": "liáng cài"
+        },
+        {
+          "ch": "和",
+          "en": "and",
+          "pi": "hé"
+        },
+        {
+          "ch": "一个",
+          "en": "a",
+          "pi": "yī gè"
+        },
+        {
+          "ch": "宫爆鸡丁",
+          "en": "spicy diced chicken",
+          "pi": "gōng bào jī dīng"
+        }
+      ]
+    }
+  ]
+}

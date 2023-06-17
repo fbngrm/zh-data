@@ -1,0 +1,39 @@
+[
+  {
+    "chinese": "你想吃点什么？",
+    "english": "What do you want to eat?",
+    "pinyin": "nǐ xiǎng chī diǎn shén me?",
+    "words": [
+      {"ch": "你", "en": "you", "pi": "nǐ"},
+      {"ch": "想", "en": "to want", "pi": "xiǎng"},
+      {"ch": "吃", "en": "to eat", "pi": "chī"},
+      {"ch": "点", "en": "some", "pi": "diǎn"},
+      {"ch": "什么", "en": "what", "pi": "shén me"}
+    ]
+  },
+  {
+    "chinese": "我要一个凉菜和一个宫爆鸡丁。",
+    "english": "I want a cold dish and a Kung Pao Chicken.",
+    "pinyin": "wǒ yào yī gè liáng cài hé yī gè gōng bào jī dīng。",
+    "words": [
+      {"ch": "我", "en": "I", "pi": "wǒ"},
+      {"ch": "要", "en": "to want", "pi": "yào"},
+      {"ch": "一个", "en": "one", "pi": "yī gè"},
+      {"ch": "凉菜", "en": "cold dish", "pi": "liáng cài"},
+      {"ch": "和", "en": "and", "pi": "hé"},
+      {"ch": "一个", "en": "one", "pi": "yī gè"},
+      {"ch": "宫爆鸡丁", "en": "Kung Pao Chicken", "pi": "gōng bào jī dīng"}
+    ]
+  },
+  {
+    "chinese": "我要一个菜。",
+    "english": "I want a dish.",
+    "pinyin": "wǒ yào yī gè cài。",
+    "words": [
+      {"ch": "我", "en": "I", "pi": "wǒ"},
+      {"ch": "要", "en": "to want", "pi": "yào"},
+      {"ch": "一个", "en": "one", "pi": "yī gè"},
+      {"ch": "菜", "en": "dish", "pi": "cài"}
+    ]
+  }
+]
