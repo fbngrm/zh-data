@@ -1,0 +1,14 @@
+{
+  "chinese": "我喜欢睡觉前和朋友打电话。",
+  "english": "I like to call my friends before going to bed.",
+  "pinyin": "wǒ xǐ huān shuì jiào qián hé péng yǒu dǎ diàn huà。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "喜欢", "en": "like", "pi": "xǐ huān"},
+    {"ch": "睡觉", "en": "sleep", "pi": "shuì jiào"},
+    {"ch": "前", "en": "before", "pi": "qián"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "朋友", "en": "friend", "pi": "péng yǒu"},
+    {"ch": "打电话", "en": "make a call", "pi": "dǎ diàn huà"}
+  ]
+}

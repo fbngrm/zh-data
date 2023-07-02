@@ -1,0 +1,12 @@
+{
+  "chinese": "你的房间脏死了。",
+  "english": "Your room is so dirty.",
+  "pinyin": "nǐ de fángjiān zāng sǐ le.",
+  "words": [
+    {"ch": "你的", "en": "your", "pi": "nǐ de"},
+    {"ch": "房间", "en": "room", "pi": "fángjiān"},
+    {"ch": "脏", "en": "dirty", "pi": "zāng"},
+    {"ch": "死", "en": "so", "pi": "sǐ"},
+    {"ch": "了", "en": "", "pi": "le"}
+  ]
+}

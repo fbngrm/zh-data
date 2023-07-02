@@ -1,0 +1,27 @@
+{
+  "chinese": "家里有鸡蛋吗？",
+  "english": "Do we have eggs at home?",
+  "pinyin": "jiā lǐ yǒu jī dàn ma?",
+  "words": [
+    {
+      "ch": "家里",
+      "en": "home",
+      "pi": "jiā lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "鸡蛋",
+      "en": "eggs",
+      "pi": "jī dàn"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

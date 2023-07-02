@@ -1,0 +1,37 @@
+{
+  "chinese": "我想再吃一个鸡蛋。",
+  "english": "I want to eat another egg.",
+  "pinyin": "wǒ xiǎng zài chī yī gè jī dàn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "再",
+      "en": "another",
+      "pi": "zài"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "一个",
+      "en": "one",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "鸡蛋",
+      "en": "egg",
+      "pi": "jī dàn"
+    }
+  ]
+}

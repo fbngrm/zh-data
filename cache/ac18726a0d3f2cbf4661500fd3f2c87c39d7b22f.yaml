@@ -1,0 +1,14 @@
+{
+  "chinese": "学习汉语要多听多说。",
+  "english": "To learn Chinese, you need to listen and speak more.",
+  "pinyin": "xué xí hàn yǔ yào duō tīng duō shuō.",
+  "words": [
+    {"ch": "学习", "en": "to learn", "pi": "xué xí"},
+    {"ch": "汉语", "en": "Chinese language", "pi": "hàn yǔ"},
+    {"ch": "要", "en": "need to", "pi": "yào"},
+    {"ch": "多", "en": "more", "pi": "duō"},
+    {"ch": "听", "en": "listen", "pi": "tīng"},
+    {"ch": "多", "en": "more", "pi": "duō"},
+    {"ch": "说", "en": "speak", "pi": "shuō"}
+  ]
+}

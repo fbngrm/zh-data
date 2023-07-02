@@ -1,0 +1,13 @@
+{
+  "chinese": "桌子上的牛奶是我的。",
+  "english": "The milk on the table is mine.",
+  "pinyin": "Zhuōzi shàng de niúnǎi shì wǒ de.",
+  "words": [
+    {"ch": "桌子上", "en": "on the table", "pi": "zhuō zi shàng"},
+    {"ch": "的", "en": "is", "pi": "de"},
+    {"ch": "牛奶", "en": "milk", "pi": "niú nǎi"},
+    {"ch": "是", "en": "mine", "pi": "shì"},
+    {"ch": "我", "en": "mine", "pi": "wǒ"},
+    {"ch": "的", "en": "", "pi": "de"}
+  ]
+}

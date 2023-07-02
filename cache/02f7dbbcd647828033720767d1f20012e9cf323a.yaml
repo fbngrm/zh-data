@@ -1,0 +1,32 @@
+{
+  "chinese": "我的咖啡里不要牛奶。",
+  "english": "I don't want milk in my coffee.",
+  "pinyin": "wǒ de kāfēi lǐ bù yào niúnǎi.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kāfēi"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "不要",
+      "en": "don't want",
+      "pi": "bù yào"
+    },
+    {
+      "ch": "牛奶",
+      "en": "milk",
+      "pi": "niúnǎi"
+    }
+  ]
+}

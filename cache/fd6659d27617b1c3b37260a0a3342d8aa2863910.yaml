@@ -1,0 +1,57 @@
+{
+  "chinese": "你从这儿往左走十分钟就到了。",
+  "english": "If you go left from here, it takes ten minutes to arrive.",
+  "pinyin": "nǐ cóng zhè'er wǎng zuǒ zǒu shí fēnzhōng jiù dàole.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "这儿",
+      "en": "here",
+      "pi": "zhè'er"
+    },
+    {
+      "ch": "往",
+      "en": "towards",
+      "pi": "wǎng"
+    },
+    {
+      "ch": "左",
+      "en": "left",
+      "pi": "zuǒ"
+    },
+    {
+      "ch": "走",
+      "en": "walk",
+      "pi": "zǒu"
+    },
+    {
+      "ch": "十",
+      "en": "ten",
+      "pi": "shí"
+    },
+    {
+      "ch": "分钟",
+      "en": "minutes",
+      "pi": "fēnzhōng"
+    },
+    {
+      "ch": "就",
+      "en": "just",
+      "pi": "jiù"
+    },
+    {
+      "ch": "到了",
+      "en": "arrive",
+      "pi": "dàole"
+    }
+  ]
+}

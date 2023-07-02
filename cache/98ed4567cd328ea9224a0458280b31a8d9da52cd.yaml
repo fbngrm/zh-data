@@ -1,0 +1,42 @@
+{
+  "chinese": "这是蔬菜还是水果？",
+  "english": "Is this a vegetable or a fruit?",
+  "pinyin": "zhè shì shūcài háishì shuǐguǒ?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "蔬菜",
+      "en": "vegetable",
+      "pi": "shūcài"
+    },
+    {
+      "ch": "还",
+      "en": "or",
+      "pi": "hái"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "水果",
+      "en": "fruit",
+      "pi": "shuǐguǒ"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": ""
+    }
+  ]
+}

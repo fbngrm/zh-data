@@ -1,0 +1,15 @@
+{
+  "chinese": "那本书你看完了吗？",
+  "english": "Have you finished reading that book?",
+  "pinyin": "nà běn shū nǐ kàn wán le ma?",
+  "words": [
+    { "ch": "那", "en": "that", "pi": "nà" },
+    { "ch": "本", "en": "book; volume", "pi": "běn" },
+    { "ch": "书", "en": "book", "pi": "shū" },
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "看", "en": "to read; to see; to watch", "pi": "kàn" },
+    { "ch": "完", "en": "to finish", "pi": "wán" },
+    { "ch": "了", "en": "particle indicating a completed or finished action", "pi": "le" },
+    { "ch": "吗", "en": "question particle for yes/no questions", "pi": "ma" }
+  ]
+}

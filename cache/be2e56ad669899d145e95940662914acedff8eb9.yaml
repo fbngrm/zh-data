@@ -1,0 +1,32 @@
+{
+  "chinese": "请问，去商场怎么走？",
+  "english": "Excuse me, how do I get to the mall?",
+  "pinyin": "Qǐngwèn, qù shāngchǎng zěnme zǒu?",
+  "words": [
+    {
+      "ch": "请问",
+      "en": "Excuse me",
+      "pi": "qǐngwèn"
+    },
+    {
+      "ch": "去",
+      "en": "go to",
+      "pi": "qù"
+    },
+    {
+      "ch": "商场",
+      "en": "mall",
+      "pi": "shāngchǎng"
+    },
+    {
+      "ch": "怎么",
+      "en": "how",
+      "pi": "zěnme"
+    },
+    {
+      "ch": "走",
+      "en": "walk",
+      "pi": "zǒu"
+    }
+  ]
+}

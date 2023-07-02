@@ -1,0 +1,125 @@
+[
+  {
+    "chinese": "这是菜单。",
+    "english": "This is the menu.",
+    "pinyin": "zhè shì càidān.",
+    "words": [
+      {"ch": "这", "en": "this", "pi": "zhè"},
+      {"ch": "是", "en": "is", "pi": "shì"},
+      {"ch": "菜单", "en": "menu", "pi": "càidān"},
+      {"ch": "。", "en": "", "pi": ""}]
+  },
+  {
+    "chinese": "好的。",
+    "english": "Okay.",
+    "pinyin": "hǎo de.",
+    "words": [
+      {"ch": "好的", "en": "okay", "pi": "hǎo de"},
+      {"ch": "。", "en": "", "pi": ""}]
+  },
+  {
+    "chinese": "请问，现在点菜马？",
+    "english": "Excuse me, are we ready to order now?",
+    "pinyin": "qǐng wèn, xiànzài diǎn cài ma?",
+    "words": [
+      {"ch": "请问", "en": "Excuse me", "pi": "qǐng wèn"},
+      {"ch": "，", "en": "", "pi": ""},
+      {"ch": "现在", "en": "now", "pi": "xiànzài"},
+      {"ch": "点菜", "en": "to order food", "pi": "diǎn cài"},
+      {"ch": "马", "en": "", "pi": "ma"},
+      {"ch": "？", "en": "", "pi": ""}]
+  },
+  {
+    "chinese": "你们有什么推荐马？",
+    "english": "What do you recommend?",
+    "pinyin": "nǐmen yǒu shénme tuījiàn ma?",
+    "words": [
+      {"ch": "你们", "en": "you (plural)", "pi": "nǐmen"},
+      {"ch": "有", "en": "have", "pi": "yǒu"},
+      {"ch": "什么", "en": "what", "pi": "shénme"},
+      {"ch": "推荐", "en": "recommend", "pi": "tuījiàn"},
+      {"ch": "马", "en": "", "pi": "ma"},
+      {"ch": "？", "en": "", "pi": ""}]
+  },
+  {
+    "chinese": "糖醋排骨，酸菜鱼，宫保鸡丁。",
+    "english": "Sweet and sour pork ribs, fish with pickled vegetables, kung pao chicken.",
+    "pinyin": "táng cù páigǔ, suāncài yú, gōngbǎo jīdīng.",
+    "words": [
+      {"ch": "糖醋", "en": "sweet and sour", "pi": "táng cù"},
+      {"ch": "排骨", "en": "pork ribs", "pi": "páigǔ"},
+      {"ch": "，", "en": "", "pi": ""},
+      {"ch": "酸菜", "en": "pickled vegetables", "pi": "suāncài"},
+      {"ch": "鱼", "en": "fish", "pi": "yú"},
+      {"ch": "，", "en": "", "pi": ""},
+      {"ch": "宫保鸡丁", "en": "kung pao chicken", "pi": "gōngbǎo jīdīng"},
+      {"ch": "。", "en": "", "pi": ""}]
+  },
+  {
+    "chinese": "我要一个糖醋排骨，一个宫保鸡丁，一个小白菜，再来两碗米饭。",
+    "english": "I'll have one sweet and sour pork ribs, one kung pao chicken, one bok choy and two bowls of rice.",
+    "pinyin": "wǒ yào yīgè táng cù páigǔ, yīgè gōngbǎo jīdīng, yīgè xiǎo báicài, zài lái liǎng wǎn mǐfàn.",
+    "words": [
+      {"ch": "我", "en": "I, me", "pi": "wǒ"},
+      {"ch": "要", "en": "want", "pi": "yào"},
+      {"ch": "一个", "en": "one", "pi": "yīgè"},
+      {"ch": "糖醋", "en": "sweet and sour", "pi": "táng cù"},
+      {"ch": "排骨", "en": "pork ribs", "pi": "páigǔ"},
+      {"ch": "，", "en": "", "pi": ""},
+      {"ch": "一个", "en": "one", "pi": "yīgè"},
+      {"ch": "宫保鸡丁", "en": "kung pao chicken", "pi": "gōngbǎo jīdīng"},
+      {"ch": "，", "en": "", "pi": ""},
+      {"ch": "一个", "en": "one", "pi": "yīgè"},
+      {"ch": "小白菜", "en": "bok choy", "pi": "xiǎo báicài"},
+      {"ch": "，", "en": "", "pi": ""},
+      {"ch": "再来", "en": "also", "pi": "zài lái"},
+      {"ch": "两", "en": "two", "pi": "liǎng"},
+      {"ch": "碗", "en": "bowls", "pi": "wǎn"},
+      {"ch": "米饭", "en": "rice", "pi": "mǐfàn"},
+      {"ch": "。", "en": "", "pi": ""}]
+  },
+  {
+    "chinese": "喝的要马？",
+    "english": "What would you like to drink?",
+    "pinyin": "hē de yào ma?",
+    "words": [
+      {"ch": "喝的", "en": "drink", "pi": "hē de"},
+      {"ch": "要", "en": "want", "pi": "yào"},
+      {"ch": "马", "en": "", "pi": "ma"},
+      {"ch": "？", "en": "", "pi": ""}
+    ]
+  },
+  {
+    "chinese": "两杯橙汁。",
+    "english": "Two glasses of orange juice.",
+    "pinyin": "liǎng bēi chéngzhī.",
+    "words": [
+      {"ch": "两", "en": "two", "pi": "liǎng"},
+      {"ch": "杯", "en": "glasses", "pi": "bēi"},
+      {"ch": "橙汁", "en": "orange juice", "pi": "chéngzhī"},
+      {"ch": "。", "en": "", "pi": ""}
+    ]
+  },
+  {
+    "chinese": "就这些马？",
+    "english": "Is that all?",
+    "pinyin": "jiù zhèxiē ma?",
+    "words": [
+      {"ch": "就", "en": "just", "pi": "jiù"},
+      {"ch": "这些", "en": "these", "pi": "zhèxiē"},
+      {"ch": "马", "en": "", "pi": "ma"},
+      {"ch": "？", "en": "", "pi": ""}
+    ]
+  },
+  {
+    "chinese": "好的，稍等。",
+    "english": "Okay, please wait a moment.",
+    "pinyin": "hǎo de, shāo děng.",
+    "words": [
+      {"ch": "好的", "en": "okay", "pi": "hǎo de"},
+      {"ch": "，", "en": "", "pi": ""},
+      {"ch": "稍等", "en": "wait a moment", "pi": "shāo děng"},
+      {"ch": "。", "en": "", "pi": ""}
+    ]
+  }
+]

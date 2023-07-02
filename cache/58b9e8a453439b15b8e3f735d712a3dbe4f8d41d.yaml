@@ -1,0 +1,37 @@
+{
+  "chinese": "从这儿到地铁站怎么走？",
+  "english": "How do I get from here to the subway station?",
+  "pinyin": "cóng zhèr dào dìtiě zhàn zěnme zǒu?",
+  "words": [
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "这儿",
+      "en": "here",
+      "pi": "zhèr"
+    },
+    {
+      "ch": "到",
+      "en": "to",
+      "pi": "dào"
+    },
+    {
+      "ch": "地铁站",
+      "en": "subway station",
+      "pi": "dìtiě zhàn"
+    },
+    {
+      "ch": "怎么",
+      "en": "how",
+      "pi": "zěnme"
+    },
+    {
+      "ch": "走",
+      "en": "go",
+      "pi": "zǒu"
+    }
+  ]
+}

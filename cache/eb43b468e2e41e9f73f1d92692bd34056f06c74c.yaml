@@ -1,0 +1,42 @@
+{
+  "chinese": "这儿是地铁几号线？",
+  "english": "Which subway line is this?",
+  "pinyin": "zhèr shì dìtiě jǐ hào xiàn?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "儿",
+      "en": "",
+      "pi": "r"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "地铁",
+      "en": "subway",
+      "pi": "dìtiě"
+    },
+    {
+      "ch": "几",
+      "en": "which",
+      "pi": "jǐ"
+    },
+    {
+      "ch": "号线",
+      "en": "line",
+      "pi": "hào xiàn"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "？"
+    }
+  ]
+}

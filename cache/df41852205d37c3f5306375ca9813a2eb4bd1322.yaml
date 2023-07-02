@@ -1,0 +1,52 @@
+{
+  "chinese": "我的公司离地铁站有点远，走路要二十分钟。",
+  "english": "My company is a bit far from the subway station, taking a 20-minute walk.",
+  "pinyin": "wǒ de gōng sī lí dì tiě zhàn yǒu diǎn yuǎn, zǒu lù yào èr shí fēn zhōng.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "公司",
+      "en": "company",
+      "pi": "gōng sī"
+    },
+    {
+      "ch": "离",
+      "en": "from",
+      "pi": "lí"
+    },
+    {
+      "ch": "地铁站",
+      "en": "subway station",
+      "pi": "dì tiě zhàn"
+    },
+    {
+      "ch": "有点",
+      "en": "a bit",
+      "pi": "yǒu diǎn"
+    },
+    {
+      "ch": "远",
+      "en": "far",
+      "pi": "yuǎn"
+    },
+    {
+      "ch": "走路",
+      "en": "walking",
+      "pi": "zǒu lù"
+    },
+    {
+      "ch": "要",
+      "en": "require",
+      "pi": "yào"
+    },
+    {
+      "ch": "二十分钟",
+      "en": "20 minutes",
+      "pi": "èr shí fēn zhōng"
+    }
+  ]
+}

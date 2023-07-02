@@ -1,0 +1,27 @@
+{
+  "chinese": "这个蛋糕好吃死了。",
+  "english": "This cake is delicious to die for.",
+  "pinyin": "zhè gè dàngāo hǎochī sǐle.",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "This",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "蛋糕",
+      "en": "cake",
+      "pi": "dàngāo"
+    },
+    {
+      "ch": "好吃",
+      "en": "delicious",
+      "pi": "hǎochī"
+    },
+    {
+      "ch": "死了",
+      "en": "to die for",
+      "pi": "sǐle"
+    }
+  ]
+}

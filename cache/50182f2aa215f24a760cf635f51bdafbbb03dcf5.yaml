@@ -1,0 +1,70 @@
+{
+  "sentences": [
+    {
+      "chinese": "您好，欢迎光临。",
+      "english": "Hello, welcome.",
+      "pinyin": "nín hǎo, huān yíng guāng lín.",
+      "words": [
+        {"ch": "您", "en": "you", "pi": "nín"},
+        {"ch": "好", "en": "good", "pi": "hǎo"},
+        {"ch": "，", "en": ",", "pi": ""},
+        {"ch": "欢迎", "en": "welcome", "pi": "huān yíng"},
+        {"ch": "光临", "en": "visit", "pi": "guāng lín"},
+        {"ch": "。", "en": ".", "pi": ""}
+      ]
+    },
+    {
+      "chinese": "两位马？",
+      "english": "Two people with the name Ma?",
+      "pinyin": "liǎng wèi mǎ?",
+      "words": [
+        {"ch": "两", "en": "two", "pi": "liǎng"},
+        {"ch": "位", "en": "people", "pi": "wèi"},
+        {"ch": "马", "en": "Ma", "pi": "mǎ"},
+        {"ch": "？", "en": "?", "pi": ""}
+      ]
+    },
+    {
+      "chinese": "对，我们有预定。",
+      "english": "Yes, we have a reservation.",
+      "pinyin": "duì, wǒ men yǒu yù dìng.",
+      "words": [
+        {"ch": "对", "en": "yes", "pi": "duì"},
+        {"ch": "，", "en": ",", "pi": ""},
+        {"ch": "我们", "en": "we", "pi": "wǒ men"},
+        {"ch": "有", "en": "have", "pi": "yǒu"},
+        {"ch": "预定", "en": "reservation", "pi": "yù dìng"},
+        {"ch": "。", "en": ".", "pi": ""}
+      ]
+    },
+    {
+      "chinese": "您贵姓？",
+      "english": "What is your surname?",
+      "pinyin": "nín guì xìng?",
+      "words": [
+        {"ch": "您", "en": "you", "pi": "nín"},
+        {"ch": "贵姓", "en": "surname", "pi": "guì xìng"},
+        {"ch": "？", "en": "?", "pi": ""}
+      ]
+    },
+    {
+      "chinese": "李。",
+      "english": "Li.",
+      "pinyin": "lǐ.",
+      "words": [
+        {"ch": "李", "en": "Li", "pi": "lǐ"},
+        {"ch": "。", "en": ".", "pi": ""}
+      ]
+    },
+    {
+      "chinese": "这边请。",
+      "english": "Please come this way.",
+      "pinyin": "zhè biān qǐng.",
+      "words": [
+        {"ch": "这边", "en": "this way", "pi": "zhè biān"},
+        {"ch": "请", "en": "please", "pi": "qǐng"},
+        {"ch": "。", "en": ".", "pi": ""}
+      ]
+    }
+  ]
+}

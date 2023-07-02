@@ -1,0 +1,42 @@
+{
+    "chinese": "你往前再走五分钟就到了。",
+    "english": "If you walk five more minutes, you will arrive.",
+    "pinyin": "nǐ wǎng qián zài zǒu wǔ fēn zhōng jiù dào le.",
+    "words": [
+        {
+            "ch": "你",
+            "en": "you",
+            "pi": "nǐ"
+        },
+        {
+            "ch": "往前",
+            "en": "forward",
+            "pi": "wǎng qián"
+        },
+        {
+            "ch": "再",
+            "en": "again",
+            "pi": "zài"
+        },
+        {
+            "ch": "走",
+            "en": "walk",
+            "pi": "zǒu"
+        },
+        {
+            "ch": "五分钟",
+            "en": "five minutes",
+            "pi": "wǔ fēn zhōng"
+        },
+        {
+            "ch": "就",
+            "en": "just",
+            "pi": "jiù"
+        },
+        {
+            "ch": "到了",
+            "en": "arrive",
+            "pi": "dào le"
+        }
+    ]
+}

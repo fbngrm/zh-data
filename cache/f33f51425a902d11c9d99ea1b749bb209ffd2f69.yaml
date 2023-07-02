@@ -1,0 +1,32 @@
+{
+  "chinese": "你再写这个汉字。",
+  "english": "You write this character again.",
+  "pinyin": "nǐ zài xiě zhège hànzì.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "再",
+      "en": "again",
+      "pi": "zài"
+    },
+    {
+      "ch": "写",
+      "en": "write",
+      "pi": "xiě"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhège"
+    },
+    {
+      "ch": "汉字",
+      "en": "Chinese character",
+      "pi": "hànzì"
+    }
+  ]
+}

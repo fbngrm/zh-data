@@ -1,0 +1,27 @@
+{
+  "chinese": "我不要吃羊肉。",
+  "english": "I don't want to eat lamb.",
+  "pinyin": "wǒ bù yào chī yáng ròu.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不要",
+      "en": "don't want",
+      "pi": "bù yào"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "羊肉",
+      "en": "lamb",
+      "pi": "yáng ròu"
+    }
+  ]
+}

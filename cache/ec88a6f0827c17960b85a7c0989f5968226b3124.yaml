@@ -1,0 +1,47 @@
+{
+  "chinese": "上面的线比下面的短。",
+  "english": "The line on top is shorter than the one on the bottom.",
+  "pinyin": "Shàngmiàn de xiàn bǐ xiàmiàn de duǎn.",
+  "words": [
+    {
+      "ch": "上面",
+      "en": "on top",
+      "pi": "Shàngmiàn"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "线",
+      "en": "line",
+      "pi": "xiàn"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "下面",
+      "en": "on the bottom",
+      "pi": "xiàmiàn"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "短",
+      "en": "short",
+      "pi": "duǎn"
+    },
+    {
+      "ch": "。",
+      "en": "",
+      "pi": "。"
+    }
+  ]
+}

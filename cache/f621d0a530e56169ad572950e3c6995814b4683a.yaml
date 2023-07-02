@@ -1,0 +1,32 @@
+{
+  "chinese": "今天爸爸买了羊肉。",
+  "english": "Today dad bought lamb.",
+  "pinyin": "jīn tiān bà ba mǎi le yáng ròu.",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "爸爸",
+      "en": "dad",
+      "pi": "bà ba"
+    },
+    {
+      "ch": "买",
+      "en": "bought",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "羊肉",
+      "en": "lamb",
+      "pi": "yáng ròu"
+    }
+  ]
+}

@@ -1,0 +1,537 @@
+[
+  {
+    "chinese": "家里还有鸡蛋和牛奶吗？",
+    "english": "Do we still have eggs and milk at home?",
+    "pinyin": "jiā lǐ hái yǒu jī dàn hé niú nǎi ma?",
+    "words": [
+      {
+        "ch": "家里",
+        "en": "home",
+        "pi": "jiā lǐ"
+      },
+      {
+        "ch": "还有",
+        "en": "still have",
+        "pi": "hái yǒu"
+      },
+      {
+        "ch": "鸡蛋",
+        "en": "eggs",
+        "pi": "jī dàn"
+      },
+      {
+        "ch": "和",
+        "en": "and",
+        "pi": "hé"
+      },
+      {
+        "ch": "牛奶",
+        "en": "milk",
+        "pi": "niú nǎi"
+      },
+      {
+        "ch": "吗",
+        "en": "question particle",
+        "pi": "ma"
+      }
+    ]
+  },
+  {
+    "chinese": "鸡蛋昨天都吃完了。",
+    "english": "We finished all the eggs yesterday.",
+    "pinyin": "jī dàn zuó tiān dōu chī wán le.",
+    "words": [
+      {
+        "ch": "鸡蛋",
+        "en": "eggs",
+        "pi": "jī dàn"
+      },
+      {
+        "ch": "昨天",
+        "en": "yesterday",
+        "pi": "zuó tiān"
+      },
+      {
+        "ch": "都",
+        "en": "all",
+        "pi": "dōu"
+      },
+      {
+        "ch": "吃完了",
+        "en": "finished eating",
+        "pi": "chī wán le"
+      },
+      {
+        "ch": "。",
+        "en": ".",
+        "pi": "。"
+      }
+    ]
+  },
+  {
+    "chinese": "牛奶还有一点。",
+    "english": "There is still a little milk left.",
+    "pinyin": "niú nǎi hái yǒu yī diǎn.",
+    "words": [
+      {
+        "ch": "牛奶",
+        "en": "milk",
+        "pi": "niú nǎi"
+      },
+      {
+        "ch": "还有",
+        "en": "still have",
+        "pi": "hái yǒu"
+      },
+      {
+        "ch": "一点",
+        "en": "a little",
+        "pi": "yī diǎn"
+      },
+      {
+        "ch": "。",
+        "en": ".",
+        "pi": "。"
+      }
+    ]
+  },
+  {
+    "chinese": "今天我们多买点牛奶和鸡蛋。牛奶在上面，你看哪个牛奶好？",
+    "english": "Let's buy some more milk and eggs today. The milk is on the top shelf. Which one do you think is good?",
+    "pinyin": "jīn tiān wǒ men duō mǎi diǎn niú nǎi hé jī dàn. niú nǎi zài shàng miàn, nǐ kàn nǎ ge niú nǎi hǎo?",
+    "words": [
+      {
+        "ch": "今天",
+        "en": "today",
+        "pi": "jīn tiān"
+      },
+      {
+        "ch": "我们",
+        "en": "we",
+        "pi": "wǒ men"
+      },
+      {
+        "ch": "多",
+        "en": "more",
+        "pi": "duō"
+      },
+      {
+        "ch": "买",
+        "en": "buy",
+        "pi": "mǎi"
+      },
+      {
+        "ch": "点",
+        "en": "some",
+        "pi": "diǎn"
+      },
+      {
+        "ch": "牛奶",
+        "en": "milk",
+        "pi": "niú nǎi"
+      },
+      {
+        "ch": "和",
+        "en": "and",
+        "pi": "hé"
+      },
+      {
+        "ch": "鸡蛋",
+        "en": "eggs",
+        "pi": "jī dàn"
+      },
+      {
+        "ch": "在",
+        "en": "at/on",
+        "pi": "zài"
+      },
+      {
+        "ch": "上面",
+        "en": "top shelf",
+        "pi": "shàng miàn"
+      },
+      {
+        "ch": "你",
+        "en": "you",
+        "pi": "nǐ"
+      },
+      {
+        "ch": "看",
+        "en": "look",
+        "pi": "kàn"
+      },
+      {
+        "ch": "哪个",
+        "en": "which",
+        "pi": "nǎ ge"
+      },
+      {
+        "ch": "好",
+        "en": "good",
+        "pi": "hǎo"
+      },
+      {
+        "ch": "？",
+        "en": "?",
+        "pi": "？"
+      }
+    ]
+  },
+  {
+    "chinese": "你看这个怎么样？",
+    "english": "What about this one?",
+    "pinyin": "nǐ kàn zhè ge zěn me yàng?",
+    "words": [
+      {
+        "ch": "你",
+        "en": "you",
+        "pi": "nǐ"
+      },
+      {
+        "ch": "看",
+        "en": "look",
+        "pi": "kàn"
+      },
+      {
+        "ch": "这个",
+        "en": "this one",
+        "pi": "zhè ge"
+      },
+      {
+        "ch": "怎么样",
+        "en": "how about",
+        "pi": "zěn me yàng"
+      },
+      {
+        "ch": "？",
+        "en": "?",
+        "pi": "？"
+      }
+    ]
+  },
+  {
+    "chinese": "水果再哪里？家里的水果也吃完了。",
+    "english": "Where are the fruits? We finished all the fruits at home.",
+    "pinyin": "shuǐ guǒ zài nǎ lǐ? jiā lǐ de shuǐ guǒ yě chī wán le.",
+    "words": [
+      {
+        "ch": "水果",
+        "en": "fruits",
+        "pi": "shuǐ guǒ"
+      },
+      {
+        "ch": "再",
+        "en": "where",
+        "pi": "zài"
+      },
+      {
+        "ch": "哪里",
+        "en": "at where",
+        "pi": "nǎ lǐ"
+      },
+      {
+        "ch": "家里",
+        "en": "at home",
+        "pi": "jiā lǐ"
+      },
+      {
+        "ch": "的",
+        "en": "of",
+        "pi": "de"
+      },
+      {
+        "ch": "也",
+        "en": "also",
+        "pi": "yě"
+      },
+      {
+        "ch": "吃完了",
+        "en": "finished eating",
+        "pi": "chī wán le"
+      },
+      {
+        "ch": "。",
+        "en": ".",
+        "pi": "。"
+      }
+    ]
+  },
+  {
+    "chinese": "水果在前面。往前走，在大门的旁边。",
+    "english": "The fruits are in front. Go straight and they are next to the door.",
+    "pinyin": "shuǐ guǒ zài qián miàn. wǎng qián zǒu, zài dà mén de páng biān.",
+    "words": [
+      {
+        "ch": "水果",
+        "en": "fruits",
+        "pi": "shuǐ guǒ"
+      },
+      {
+        "ch": "在",
+        "en": "at/on",
+        "pi": "zài"
+      },
+      {
+        "ch": "前面",
+        "en": "in front",
+        "pi": "qián miàn"
+      },
+      {
+        "ch": "往",
+        "en": "go",
+        "pi": "wǎng"
+      },
+      {
+        "ch": "前",
+        "en": "straight",
+        "pi": "qián"
+      },
+      {
+        "ch": "走",
+        "en": "walk",
+        "pi": "zǒu"
+      },
+      {
+        "ch": "在",
+        "en": "at/on",
+        "pi": "zài"
+      },
+      {
+        "ch": "大门",
+        "en": "door",
+        "pi": "dà mén"
+      },
+      {
+        "ch": "的",
+        "en": "of",
+        "pi": "de"
+      },
+      {
+        "ch": "旁边",
+        "en": "next to",
+        "pi": "páng biān"
+      },
+      {
+        "ch": "。",
+        "en": ".",
+        "pi": "。"
+      }
+    ]
+  },
+  {
+    "chinese": "我们买什么水果？",
+    "english": "What fruits should we buy?",
+    "pinyin": "wǒ men mǎi shén me shuǐ guǒ?",
+    "words": [
+      {
+        "ch": "我们",
+        "en": "we",
+        "pi": "wǒ men"
+      },
+      {
+        "ch": "买",
+        "en": "buy",
+        "pi": "mǎi"
+      },
+      {
+        "ch": "什么",
+        "en": "what",
+        "pi": "shén me"
+      },
+      {
+        "ch": "水果",
+        "en": "fruits",
+        "pi": "shuǐ guǒ"
+      },
+      {
+        "ch": "？",
+        "en": "?",
+        "pi": "？"
+      }
+    ]
+  },
+  {
+    "chinese": "买一个西瓜吧。",
+    "english": "Buy a watermelon.",
+    "pinyin": "mǎi yī gè xī guā ba.",
+    "words": [
+      {
+        "ch": "买",
+        "en": "buy",
+        "pi": "mǎi"
+      },
+      {
+        "ch": "一个",
+        "en": "a",
+        "pi": "yī gè"
+      },
+      {
+        "ch": "西瓜",
+        "en": "watermelon",
+        "pi": "xī guā"
+      },
+      {
+        "ch": "吧",
+        "en": "partical",
+        "pi": "ba"
+      },
+      {
+        "ch": "。",
+        "en": ".",
+        "pi": "。"
+      }
+    ]
+  },
+  {
+    "chinese": "今天晚上我们吃什么？",
+    "english": "What are we going to eat tonight?",
+    "pinyin": "jīn tiān wǎn shàng wǒ men chī shén me?",
+    "words": [
+      {
+        "ch": "今天",
+        "en": "today",
+        "pi": "jīn tiān"
+      },
+      {
+        "ch": "晚上",
+        "en": "tonight",
+        "pi": "wǎn shàng"
+      },
+      {
+        "ch": "我们",
+        "en": "we",
+        "pi": "wǒ men"
+      },
+      {
+        "ch": "吃",
+        "en": "eat",
+        "pi": "chī"
+      },
+      {
+        "ch": "什么",
+        "en": "what",
+        "pi": "shén me"
+      },
+      {
+        "ch": "？",
+        "en": "?",
+        "pi": "？"
+      }
+    ]
+  },
+  {
+    "chinese": "小明喜欢吃羊肉。丽丽喜欢吃鱼。我做两个菜怎么样？",
+    "english": "Xiaoming likes to eat mutton. Lili likes fish. How about I cook two dishes?",
+    "pinyin": "xiǎo míng xǐ huān chī yáng ròu. lì lì xǐ huān chī yú. wǒ zuò liǎng gè cài zěn me yàng?",
+    "words": [
+      {
+        "ch": "小明",
+        "en": "Xiaoming",
+        "pi": "xiǎo míng"
+      },
+      {
+        "ch": "喜欢",
+        "en": "like",
+        "pi": "xǐ huān"
+      },
+      {
+        "ch": "吃",
+        "en": "eat",
+        "pi": "chī"
+      },
+      {
+        "ch": "羊肉",
+        "en": "mutton",
+        "pi": "yáng ròu"
+      },
+      {
+        "ch": "丽丽",
+        "en": "Lili",
+        "pi": "lì lì"
+      },
+      {
+        "ch": "鱼",
+        "en": "fish",
+        "pi": "yú"
+      },
+      {
+        "ch": "我",
+        "en": "I",
+        "pi": "wǒ"
+      },
+      {
+        "ch": "做",
+        "en": "cook",
+        "pi": "zuò"
+      },
+      {
+        "ch": "两个",
+        "en": "two",
+        "pi": "liǎng gè"
+      },
+      {
+        "ch": "菜",
+        "en": "dishes",
+        "pi": "cài"
+      },
+      {
+        "ch": "怎么样",
+        "en": "how about",
+        "pi": "zěn me yàng"
+      },
+      {
+        "ch": "？",
+        "en": "?",
+        "pi": "？"
+      }
+    ]
+  },
+  {
+    "chinese": "我想吃点儿蔬菜，再做个蔬菜吧？",
+    "english": "I want to eat some vegetables. How about we cook another vegetable dish?",
+    "pinyin": "wǒ xiǎng chī diǎn er shū cài, zài zuò gè shū cài ba?",
+    "words": [
+      {
+        "ch": "我",
+        "en": "I",
+        "pi": "wǒ"
+      },
+      {
+        "ch": "想",
+        "en": "want",
+        "pi": "xiǎng"
+      },
+      {
+        "ch": "吃",
+        "en": "eat",
+        "pi": "chī"
+      },
+      {
+        "ch": "点儿",
+        "en": "some",
+        "pi": "diǎn er"
+      },
+      {
+        "ch": "蔬菜",
+        "en": "vegetables",
+        "pi": "shū cài"
+      },
+      {
+        "ch": "再",
+        "en": "another",
+        "pi": "zài"
+      },
+      {
+        "ch": "做",
+        "en": "cook",
+        "pi": "zuò"
+      },
+      {
+        "ch": "个",
+        "en": "a",
+        "pi": "gè"
+      }
+    ]
+  }
+]
+

@@ -1,0 +1,113 @@
+{
+  "sentences": [
+    {
+      "chinese": "你好，宝牛餐厅。",
+      "english": "Hello, Bao Niu Restaurant.",
+      "pinyin": "nǐ hǎo，bǎo niú cān tīng。",
+      "words": [
+        {"ch": "你好", "en": "hello", "pi": "nǐ hǎo"},
+        {"ch": "，", "en": ",", "pi": "，"},
+        {"ch": "宝牛", "en": "Bao Niu", "pi": "bǎo niú"},
+        {"ch": "餐厅", "en": "Restaurant", "pi": "cān tīng"},
+        {"ch": "。", "en": ".", "pi": "。"}
+      ]
+    },
+    {
+      "chinese": "你好，我想预定今天晚上的位子。",
+      "english": "Hello, I would like to reserve a table for tonight.",
+      "pinyin": "nǐ hǎo，wǒ xiǎng yù dìng jīn tiān wǎn shàng de wèi zi。",
+      "words": [
+        {"ch": "你好", "en": "hello", "pi": "nǐ hǎo"},
+        {"ch": "，", "en": ",", "pi": "，"},
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "想", "en": "would like to", "pi": "xiǎng"},
+        {"ch": "预定", "en": "reserve", "pi": "yù dìng"},
+        {"ch": "今天", "en": "today", "pi": "jīn tiān"},
+        {"ch": "晚上", "en": "tonight", "pi": "wǎn shàng"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "位子", "en": "table", "pi": "wèi zi"},
+        {"ch": "。", "en": ".", "pi": "。"}
+      ]
+    },
+    {
+      "chinese": "好的，请问几位？",
+      "english": "Okay, may I know how many people?",
+      "pinyin": "hǎo de，qǐng wèn jǐ wèi？",
+      "words": [
+        {"ch": "好的", "en": "okay", "pi": "hǎo de"},
+        {"ch": "，", "en": ",", "pi": "，"},
+        {"ch": "请问", "en": "may I know", "pi": "qǐng wèn"},
+        {"ch": "几", "en": "how many", "pi": "jǐ"},
+        {"ch": "位", "en": "people (measure word)", "pi": "wèi"},
+        {"ch": "？", "en": "?", "pi": "？"}
+      ]
+    },
+    {
+      "chinese": "两位。",
+      "english": "Two people.",
+      "pinyin": "liǎng wèi。",
+      "words": [
+        {"ch": "两", "en": "two", "pi": "liǎng"},
+        {"ch": "位", "en": "people (measure word)", "pi": "wèi"},
+        {"ch": "。", "en": ".", "pi": "。"}
+      ]
+    },
+    {
+      "chinese": "你几点过来？",
+      "english": "What time will you come?",
+      "pinyin": "nǐ jǐ diǎn guò lái？",
+      "words": [
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "几点", "en": "what time", "pi": "jǐ diǎn"},
+        {"ch": "过来", "en": "come", "pi": "guò lái"},
+        {"ch": "？", "en": "?", "pi": "？"}
+      ]
+    },
+    {
+      "chinese": "您贵姓？",
+      "english": "May I know your surname?",
+      "pinyin": "nín guì xìng？",
+      "words": [
+        {"ch": "您", "en": "you (polite)", "pi": "nín"},
+        {"ch": "贵姓", "en": "your surname", "pi": "guì xìng"},
+        {"ch": "？", "en": "?", "pi": "？"}
+      ]
+    },
+    {
+      "chinese": "免贵，姓李。",
+      "english": "My surname is Li.",
+      "pinyin": "miǎn guì，xìng lǐ。",
+      "words": [
+        {"ch": "免贵", "en": "my dear (polite)", "pi": "miǎn guì"},
+        {"ch": "，", "en": ",", "pi": "，"},
+        {"ch": "姓", "en": "surname is", "pi": "xìng"},
+        {"ch": "李", "en": "Li", "pi": "lǐ"},
+        {"ch": "。", "en": ".", "pi": "。"}
+      ]
+    },
+    {
+      "chinese": "李小姐，帮您订好了。",
+      "english": "Miss Li, I have booked a table for you.",
+      "pinyin": "lǐ xiǎo jiě，bāng nín dìng hǎo le。",
+      "words": [
+        {"ch": "李", "en": "Li", "pi": "lǐ "},
+        {"ch": "小姐", "en": "Miss", "pi": "xiǎo jiě"},
+        {"ch": "，", "en": ",", "pi": "，"},
+        {"ch": "帮", "en": "help", "pi": "bāng"},
+        {"ch": "您", "en": "you (polite)", "pi": "nín"},
+        {"ch": "订", "en": "reserve", "pi": "dìng"},
+        {"ch": "好了", "en": "booked", "pi": "hǎo le"},
+        {"ch": "。", "en": ".", "pi": "。"}
+      ]
+    },
+    {
+      "chinese": "谢谢。",
+      "english": "Thank you.",
+      "pinyin": "xiè xie。",
+      "words": [
+        {"ch": "谢谢", "en": "thank you", "pi": "xiè xie"},
+        {"ch": "。", "en": ".", "pi": "。"}
+      ]
+    }
+  ]
+}
