@@ -1,0 +1,37 @@
+{
+  "chinese": "这里的天气跟台湾的天气差不多。",
+  "english": "The weather here is similar to the weather in Taiwan.",
+  "pinyin": "zhè lǐ de tiān qì gēn tái wān de tiān qì chà bù duō。",
+  "words": [
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiān qì"
+    },
+    {
+      "ch": "跟",
+      "en": "and",
+      "pi": "gēn"
+    },
+    {
+      "ch": "台湾",
+      "en": "Taiwan",
+      "pi": "tái wān"
+    },
+    {
+      "ch": "差不多",
+      "en": "similar",
+      "pi": "chà bù duō"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "请给我来一个四川鸡。",
+  "english": "Please give me a Sichuan chicken.",
+  "pinyin": "Qǐng gěi wǒ lái yī gè Sìchuān jī。",
+  "words": [
+    { "ch": "请", "en": "please", "pi": "qǐng" },
+    { "ch": "给", "en": "give", "pi": "gěi" },
+    { "ch": "我", "en": "me", "pi": "wǒ" },
+    { "ch": "来", "en": "come", "pi": "lái" },
+    { "ch": "一个", "en": "a", "pi": "yī gè" },
+    { "ch": "四川鸡", "en": "Sichuan chicken", "pi": "Sìchuān jī" }
+  ]
+}

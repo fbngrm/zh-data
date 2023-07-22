@@ -1,0 +1,27 @@
+{
+  "chinese": "我要一个可口可乐。",
+  "english": "I want a Coca-Cola.",
+  "pinyin": "wǒ yào yī gè kě kǒu kě lè。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "可口可乐",
+      "en": "Coca-Cola",
+      "pi": "kě kǒu kě lè"
+    }
+  ]
+}

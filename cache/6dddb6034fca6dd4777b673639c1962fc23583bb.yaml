@@ -1,0 +1,37 @@
+{
+  "chinese": "很多美国人都喜欢喝咖啡。",
+  "english": "Many Americans like to drink coffee.",
+  "pinyin": "Hěn duō měiguó rén dōu xǐhuān hē kāfēi.",
+  "words": [
+    {
+      "ch": "很多",
+      "en": "many",
+      "pi": "hěn duō"
+    },
+    {
+      "ch": "美国人",
+      "en": "Americans",
+      "pi": "měiguó rén"
+    },
+    {
+      "ch": "都",
+      "en": "like",
+      "pi": "dōu"
+    },
+    {
+      "ch": "喜欢",
+      "en": "to",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "喝",
+      "en": "drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kāfēi"
+    }
+  ]
+}

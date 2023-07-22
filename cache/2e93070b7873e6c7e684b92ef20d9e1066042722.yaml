@@ -1,0 +1,37 @@
+{
+  "chinese": "我的学生都喜欢问问题。",
+  "english": "My students all like to ask questions.",
+  "pinyin": "Wǒ de xuéshēng dōu xǐhuān wèn wèntí.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "学生",
+      "en": "students",
+      "pi": "xuéshēng"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "问",
+      "en": "to ask",
+      "pi": "wèn"
+    },
+    {
+      "ch": "问题",
+      "en": "questions",
+      "pi": "wèntí"
+    }
+  ]
+}

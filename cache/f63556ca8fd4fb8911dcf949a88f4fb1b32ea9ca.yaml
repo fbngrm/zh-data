@@ -1,0 +1,32 @@
+{
+  "chinese": "你们的中文水平差不多。",
+  "english": "Your Chinese proficiency is similar.",
+  "pinyin": "nǐ men de zhōng wén shuǐ píng chà bù duō。",
+  "words": [
+    {
+      "ch": "你们",
+      "en": "you (plural)",
+      "pi": "nǐ men"
+    },
+    {
+      "ch": "的",
+      "en": "indicates possession or attribution",
+      "pi": "de"
+    },
+    {
+      "ch": "中文",
+      "en": "Chinese language",
+      "pi": "zhōng wén"
+    },
+    {
+      "ch": "水平",
+      "en": "proficiency",
+      "pi": "shuǐ píng"
+    },
+    {
+      "ch": "差不多",
+      "en": "similar",
+      "pi": "chà bù duō"
+    }
+  ]
+}

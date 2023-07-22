@@ -1,0 +1,42 @@
+{
+  "chinese": "这位先生，你要吃点儿什么？",
+  "english": "Sir, what would you like to eat?",
+  "pinyin": "zhè wèi xiān shēng, nǐ yào chī diǎn er shén me?",
+  "words": [
+    {
+      "ch": "这位",
+      "en": "Sir",
+      "pi": "zhè wèi"
+    },
+    {
+      "ch": "先生",
+      "en": "mister",
+      "pi": "xiān shēng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "点儿",
+      "en": "some",
+      "pi": "diǎn er"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shén me"
+    }
+  ]
+}

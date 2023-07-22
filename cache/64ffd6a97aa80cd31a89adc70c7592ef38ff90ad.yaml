@@ -1,0 +1,13 @@
+{
+  "chinese": "她每天都不吃早饭。",
+  "english": "She doesn't eat breakfast every day.",
+  "pinyin": "tā měi tiān dōu bù chī zǎo fàn.",
+  "words": [
+    {"ch": "她", "en": "she", "pi": "tā"},
+    {"ch": "每天", "en": "every day", "pi": "měi tiān"},
+    {"ch": "都", "en": "don't", "pi": "dōu"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "吃", "en": "eat", "pi": "chī"},
+    {"ch": "早饭", "en": "breakfast", "pi": "zǎo fàn"}
+  ]
+}

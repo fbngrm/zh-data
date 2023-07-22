@@ -1,0 +1,32 @@
+{
+  "chinese": "我每天都要上班。",
+  "english": "I have to go to work every day.",
+  "pinyin": "wǒ měi tiān dōu yào shàng bān.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "都",
+      "en": "always",
+      "pi": "dōu"
+    },
+    {
+      "ch": "要",
+      "en": "have to",
+      "pi": "yào"
+    },
+    {
+      "ch": "上班",
+      "en": "go to work",
+      "pi": "shàng bān"
+    }
+  ]
+}

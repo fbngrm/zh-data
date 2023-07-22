@@ -1,0 +1,13 @@
+{
+  "chinese": "请坐，请坐，这是菜单。",
+  "english": "Please have a seat, please have a seat, this is the menu.",
+  "pinyin": "qǐng zuò, qǐng zuò, zhè shì càidān.",
+  "words": [
+    { "ch": "请", "en": "please", "pi": "qǐng" },
+    { "ch": "坐", "en": "have a seat", "pi": "zuò" },
+    { "ch": "，请", "en": "please", "pi": "qǐng" },
+    { "ch": "坐", "en": "have a seat", "pi": "zuò" },
+    { "ch": "这是", "en": "this is", "pi": "zhè shì" },
+    { "ch": "菜单", "en": "menu", "pi": "càidān" }
+  ]
+}

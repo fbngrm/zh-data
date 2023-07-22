@@ -1,0 +1,32 @@
+{
+  "chinese": "小姐，你喝点儿什么？",
+  "english": "Miss, what would you like to drink?",
+  "pinyin": "Xiǎo jiě, nǐ hē diǎn er shénme?",
+  "words": [
+    {
+      "ch": "小姐",
+      "en": "Miss",
+      "pi": "xiǎo jiě"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "喝",
+      "en": "to drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "点儿",
+      "en": "a bit",
+      "pi": "diǎn er"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    }
+  ]
+}

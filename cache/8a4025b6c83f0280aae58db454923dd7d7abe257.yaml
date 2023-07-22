@@ -1,0 +1,103 @@
+{
+  "sentences": [
+    {
+      "chinese": "不要别的了，这些够了。",
+      "english": "No need for anything else, this is enough.",
+      "pinyin": "bú yào bié de le, zhè xiē gòu le.",
+      "words": [
+        {
+          "ch": "不要",
+          "en": "No need",
+          "pi": "bú yào"
+        },
+        {
+          "ch": "别的",
+          "en": "anything else",
+          "pi": "bié de"
+        },
+        {
+          "ch": "了",
+          "en": "anymore",
+          "pi": "le"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": null
+        },
+        {
+          "ch": "这些",
+          "en": "these",
+          "pi": "zhè xiē"
+        },
+        {
+          "ch": "够了",
+          "en": "is enough",
+          "pi": "gòu le"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": null
+        }
+      ]
+    },
+    {
+      "chinese": "小姐，我们都饿了，请快点上菜。",
+      "english": "Miss, we are all hungry, please serve the dishes quickly.",
+      "pinyin": "xiǎo jiě, wǒ men dōu è le, qǐng kuài diǎn shàng cài.",
+      "words": [
+        {
+          "ch": "小姐",
+          "en": "Miss",
+          "pi": "xiǎo jiě"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": null
+        },
+        {
+          "ch": "我们",
+          "en": "we",
+          "pi": "wǒ men"
+        },
+        {
+          "ch": "都",
+          "en": "all",
+          "pi": "dōu"
+        },
+        {
+          "ch": "饿了",
+          "en": "hungry",
+          "pi": "è le"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": null
+        },
+        {
+          "ch": "请",
+          "en": "please",
+          "pi": "qǐng"
+        },
+        {
+          "ch": "快点",
+          "en": "quickly",
+          "pi": "kuài diǎn"
+        },
+        {
+          "ch": "上菜",
+          "en": "serve the dishes",
+          "pi": "shàng cài"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": null
+        }
+      ]
+    }
+  ]
+}
