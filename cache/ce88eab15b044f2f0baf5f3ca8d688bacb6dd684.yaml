@@ -1,0 +1,27 @@
+{
+  "chinese": "先生，请问，肯德基在哪儿？",
+  "english": "Excuse me, where is KFC?",
+  "pinyin": "xiān shēng, qǐng wèn, kěn dé jī zài nǎ er?",
+  "words": [
+    {
+      "ch": "先生",
+      "en": "Mr.",
+      "pi": "xiān shēng"
+    },
+    {
+      "ch": "请问",
+      "en": "Excuse me",
+      "pi": "qǐng wèn"
+    },
+    {
+      "ch": "肯德基",
+      "en": "KFC",
+      "pi": "kěn dé jī"
+    },
+    {
+      "ch": "在哪儿",
+      "en": "where is",
+      "pi": "zài nǎ er"
+    }
+  ]
+}

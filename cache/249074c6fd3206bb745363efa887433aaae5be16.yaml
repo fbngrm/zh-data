@@ -1,0 +1,16 @@
+{
+  "chinese": "从这儿往右拐，你就会看到中山公园。",
+  "english": "Turn right here and you will see Zhongshan Park.",
+  "pinyin": "Cóng zhèr wǎng yòu guǎi, nǐ jiù huì kàn dào Zhōngshān Gōngyuán.",
+  "words": [
+    {"ch": "从", "en": "from", "pi": "cóng"},
+    {"ch": "这儿", "en": "here", "pi": "zhèr"},
+    {"ch": "往", "en": "towards", "pi": "wǎng"},
+    {"ch": "右拐", "en": "turn right", "pi": "yòu guǎi"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "就", "en": "will", "pi": "jiù"},
+    {"ch": "会", "en": "see", "pi": "huì"},
+    {"ch": "看到", "en": "see", "pi": "kàn dào"},
+    {"ch": "中山公园", "en": "Zhongshan Park", "pi": "Zhōngshān Gōngyuán"}
+  ]
+}

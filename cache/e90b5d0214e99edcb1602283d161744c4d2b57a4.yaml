@@ -1,0 +1,54 @@
+{
+  "sentences": [
+    {
+      "chinese": "从这儿一直往前走，过两个十字路口，再向右拐，然后再走几步，你会看到在左边有一个231路公交车站牌。",
+      "english": "Keep going straight from here, pass two intersections, then turn right, and walk a few more steps. You will see a bus stop for bus route 231 on the left side.",
+      "pinyin": "cóng zhèr yīzhí wǎng qián zǒu, guò liǎng gè shízì lùkǒu, zài xiàng yòu guǎi, ránhòu zài zǒu jǐ bù, nǐ huì kàndào zài zuǒ biān yǒu yīgè 231 lù gōngjiāo chē zhàn pái."
+    },
+    {
+      "chinese": "在那儿上车，坐两站，在体育广场下车。",
+      "english": "Get on the bus there and ride for two stops, then get off at the Sports Square.",
+      "pinyin": "zài nàr shàng chē, zuò liǎng zhàn, zài tǐyù guǎngchǎng xiàchē."
+    },
+    {
+      "chinese": "肯德基就在体育广场车站的后边。",
+      "english": "KFC is right behind the Sports Square bus station.",
+      "pinyin": "kěndéjī jiù zài tǐyù guǎngchǎng chēzhàn de hòubiān."
+    }
+  ],
+  "words": [
+    {"ch": "从这儿", "en": "From here", "pi": "cóng zhèr"},
+    {"ch": "一直", "en": "straight", "pi": "yīzhí"},
+    {"ch": "往前走", "en": "go straight", "pi": "wǎng qián zǒu"},
+    {"ch": "过", "en": "pass", "pi": "guò"},
+    {"ch": "两个", "en": "two", "pi": "liǎng gè"},
+    {"ch": "十字路口", "en": "intersections", "pi": "shízì lùkǒu"},
+    {"ch": "再", "en": "then", "pi": "zài"},
+    {"ch": "向右拐", "en": "turn right", "pi": "xiàng yòu guǎi"},
+    {"ch": "然后", "en": "and then", "pi": "ránhòu"},
+    {"ch": "走", "en": "walk", "pi": "zǒu"},
+    {"ch": "几步", "en": "a few steps", "pi": "jǐ bù"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "看到", "en": "see", "pi": "kàndào"},
+    {"ch": "在", "en": "on", "pi": "zài"},
+    {"ch": "左边", "en": "left side", "pi": "zuǒ biān"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "一个", "en": "one", "pi": "yīgè"},
+    {"ch": "231路", "en": "route 231", "pi": "231 lù"},
+    {"ch": "公交车", "en": "bus", "pi": "gōngjiāo chē"},
+    {"ch": "站牌", "en": "bus stop", "pi": "zhàn pái"},
+    {"ch": "那儿", "en": "there", "pi": "nàr"},
+    {"ch": "上车", "en": "get on the bus", "pi": "shàng chē"},
+    {"ch": "坐", "en": "ride", "pi": "zuò"},
+    {"ch": "两站", "en": "two stops", "pi": "liǎng zhàn"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "体育广场", "en": "Sports Square", "pi": "tǐyù guǎngchǎng"},
+    {"ch": "下车", "en": "get off", "pi": "xiàchē"},
+    {"ch": "肯德基", "en": "KFC", "pi": "kěndéjī"},
+    {"ch": "就在", "en": "right at", "pi": "jiù zài"},
+    {"ch": "车站", "en": "bus station", "pi": "chēzhàn"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "后边", "en": "behind", "pi": "hòubiān"}
+  ]
+}

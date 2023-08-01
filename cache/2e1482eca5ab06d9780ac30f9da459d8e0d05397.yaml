@@ -1,0 +1,21 @@
+{
+  "chinese": "从这儿往左拐，你就会看见257路公交车站站牌。",
+  "english": "Turn left from here, and you will see the bus stop sign for route 257.",
+  "pinyin": "Cóng zhè'er wǎng zuǒ guǎi, nǐ jiù huì kàn jiàn 257 lù gōngjiāo chē zhàn zhàn pái.",
+  "words": [
+    {"ch": "从", "en": "from", "pi": "cóng"},
+    {"ch": "这儿", "en": "here", "pi": "zhè'er"},
+    {"ch": "往", "en": "towards", "pi": "wǎng"},
+    {"ch": "左", "en": "left", "pi": "zuǒ"},
+    {"ch": "拐", "en": "turn", "pi": "guǎi"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "就", "en": "will", "pi": "jiù"},
+    {"ch": "会", "en": "see", "pi": "huì"},
+    {"ch": "看见", "en": "see", "pi": "kàn jiàn"},
+    {"ch": "257路", "en": "route 257", "pi": "257 lù"},
+    {"ch": "公交车站", "en": "bus stop", "pi": "gōngjiāo chē zhàn"},
+    {"ch": "站牌", "en": "sign", "pi": "zhàn pái"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}
