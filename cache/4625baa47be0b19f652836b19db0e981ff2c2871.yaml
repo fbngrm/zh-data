@@ -1,0 +1,37 @@
+{
+  "chinese": "我不知道这件事。",
+  "english": "I don't know about this.",
+  "pinyin": "wǒ bù zhīdào zhè jiàn shì。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "这",
+      "en": "about",
+      "pi": "zhè"
+    },
+    {
+      "ch": "件",
+      "en": "this",
+      "pi": "jiàn"
+    },
+    {
+      "ch": "事",
+      "en": "thing",
+      "pi": "shì"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "北京不是在中国的南方。",
+  "english": "Beijing is not in the south of China.",
+  "pinyin": "Běijīng bù shì zài zhōngguó de nánfāng.",
+  "words": [
+    {
+      "ch": "北京",
+      "en": "Beijing",
+      "pi": "Běijīng"
+    },
+    {
+      "ch": "不是",
+      "en": "is not",
+      "pi": "bù shì"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "中国",
+      "en": "China",
+      "pi": "zhōngguó"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "南方",
+      "en": "south",
+      "pi": "nánfāng"
+    }
+  ]
+}

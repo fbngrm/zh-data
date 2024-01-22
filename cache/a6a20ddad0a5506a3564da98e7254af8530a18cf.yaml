@@ -1,0 +1,83 @@
+{
+  "sentences": [
+    {
+      "chinese": "你在看书吗?",
+      "english": "Are you reading a book?",
+      "pinyin": "nǐ zài kàn shū ma?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "在",
+          "en": "at",
+          "pi": "zài"
+        },
+        {
+          "ch": "看书",
+          "en": "reading a book",
+          "pi": "kàn shū"
+        },
+        {
+          "ch": "吗?",
+          "en": "?",
+          "pi": "ma?"
+        }
+      ]
+    },
+    {
+      "chinese": "我没在看书，在听音乐。",
+      "english": "I am not reading a book, I am listening to music.",
+      "pinyin": "wǒ méi zài kàn shū, zài tīng yīn yuè.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "没",
+          "en": "not",
+          "pi": "méi"
+        },
+        {
+          "ch": "在",
+          "en": "at",
+          "pi": "zài"
+        },
+        {
+          "ch": "看书",
+          "en": "reading a book",
+          "pi": "kàn shū"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": ","
+        },
+        {
+          "ch": "在",
+          "en": "at",
+          "pi": "zài"
+        },
+        {
+          "ch": "听",
+          "en": "listening",
+          "pi": "tīng"
+        },
+        {
+          "ch": "音乐",
+          "en": "music",
+          "pi": "yīn yuè"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "."
+        }
+      ]
+    }
+  ]
+}

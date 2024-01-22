@@ -1,0 +1,32 @@
+{
+  "chinese": "门没关，进来吧",
+  "english": "The door is not closed, come in",
+  "pinyin": "mén méi guān, jìn lái ba",
+  "words": [
+    {
+      "ch": "门",
+      "en": "door",
+      "pi": "mén"
+    },
+    {
+      "ch": "没",
+      "en": "not",
+      "pi": "méi"
+    },
+    {
+      "ch": "关",
+      "en": "close",
+      "pi": "guān"
+    },
+    {
+      "ch": "进来",
+      "en": "come in",
+      "pi": "jìn lái"
+    },
+    {
+      "ch": "吧",
+      "en": "please",
+      "pi": "ba"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我从来没见过这个人。",
+  "english": "I have never seen this person before.",
+  "pinyin": "wǒ cóng lái méi jiàn guò zhè ge rén.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "从来",
+      "en": "never",
+      "pi": "cóng lái"
+    },
+    {
+      "ch": "没见过",
+      "en": "have not seen",
+      "pi": "méi jiàn guò"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè ge"
+    },
+    {
+      "ch": "人",
+      "en": "person",
+      "pi": "rén"
+    }
+  ]
+}
