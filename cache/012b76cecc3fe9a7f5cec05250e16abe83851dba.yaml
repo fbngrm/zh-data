@@ -1,0 +1,13 @@
+{
+  "chinese": "湯姆和我沒有相似之處。",
+  "english": "Tom and I have no similarities.",
+  "pinyin": "tāng mǔ hé wǒ méiyǒu xiāngsì zhī chù.",
+  "words": [
+    {"ch": "湯姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "沒有", "en": "have no", "pi": "méiyǒu"},
+    {"ch": "相似", "en": "similarities", "pi": "xiāngsì"},
+    {"ch": "之處", "en": "place", "pi": "zhī chù"}
+  ]
+}

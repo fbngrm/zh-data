@@ -1,0 +1,27 @@
+{
+  "chinese": "这些苹果宜于烹饪。",
+  "english": "These apples are suitable for cooking.",
+  "pinyin": "zhè xiē píng guǒ yí yú pēng rèn.",
+  "words": [
+    {
+      "ch": "这些",
+      "en": "these",
+      "pi": "zhè xiē"
+    },
+    {
+      "ch": "苹果",
+      "en": "apples",
+      "pi": "píng guǒ"
+    },
+    {
+      "ch": "宜于",
+      "en": "suitable for",
+      "pi": "yí yú"
+    },
+    {
+      "ch": "烹饪",
+      "en": "cooking",
+      "pi": "pēng rèn"
+    }
+  ]
+}

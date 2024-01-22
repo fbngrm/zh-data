@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆欠玛丽许多钱。",
+  "english": "Tom owes Mary a lot of money.",
+  "pinyin": "Tāng mǔ qiàn Mǎ lì xǔ duō qián.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "欠",
+      "en": "owes",
+      "pi": "qiàn"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎ lì"
+    },
+    {
+      "ch": "许多",
+      "en": "a lot of",
+      "pi": "xǔ duō"
+    },
+    {
+      "ch": "钱",
+      "en": "money",
+      "pi": "qián"
+    }
+  ]
+}

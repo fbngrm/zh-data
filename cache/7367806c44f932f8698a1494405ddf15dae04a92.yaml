@@ -1,0 +1,35 @@
+{
+  "sentences": [
+    {
+      "chinese": "我昨天梦到了你。",
+      "english": "I dreamt about you yesterday.",
+      "pinyin": "Wǒ zuótiān mèng dào le nǐ.",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "昨天", "en": "yesterday", "pi": "zuótiān"},
+        {"ch": "梦到", "en": "dreamt", "pi": "mèng dào"},
+        {"ch": "了", "en": "about", "pi": "le"},
+        {"ch": "你", "en": "you", "pi": "nǐ"}
+      ]
+    },
+    {
+      "chinese": "当真？那我（在你梦中）在做什么？",
+      "english": "Really? What was I doing in your dream?",
+      "pinyin": "Dāngzhēn? Nà wǒ (zài nǐ mèng zhōng) zài zuò shénme?",
+      "words": [
+        {"ch": "当真", "en": "Really", "pi": "dāng zhēn"},
+        {"ch": "？", "en": "?" },
+        {"ch": "那", "en": "What", "pi": "nà"},
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "（", "en": "("},
+        {"ch": "在", "en": "in", "pi": "zài"},
+        {"ch": "你", "en": "your", "pi": "nǐ"},
+        {"ch": "梦中", "en": "dream", "pi": "mèng zhōng"},
+        {"ch": "）", "en": ")"},
+        {"ch": "在", "en": "doing", "pi": "zài"},
+        {"ch": "做什么", "en": "what", "pi": "zuò shénme"},
+        {"ch": "？", "en": "?"}
+      ]
+    }
+  ]
+}

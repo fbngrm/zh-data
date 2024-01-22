@@ -1,0 +1,42 @@
+{
+  "chinese": "我的家与他的隔着一条江。",
+  "english": "There is a river between my house and his.",
+  "pinyin": "wǒ de jiā yǔ tā de gézhe yī tiáo jiāng。",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "家",
+      "en": "house",
+      "pi": "jiā"
+    },
+    {
+      "ch": "与",
+      "en": "and",
+      "pi": "yǔ"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "隔着",
+      "en": "between",
+      "pi": "gézhe"
+    },
+    {
+      "ch": "一条",
+      "en": "a",
+      "pi": "yī tiáo"
+    },
+    {
+      "ch": "江",
+      "en": "river",
+      "pi": "jiāng"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "你每周上几天班？",
+  "english": "How many days do you work per week?",
+  "pinyin": "Nǐ měi zhōu shàng jǐ tiān bān?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "每周",
+      "en": "per week",
+      "pi": "měi zhōu"
+    },
+    {
+      "ch": "上",
+      "en": "to work",
+      "pi": "shàng"
+    },
+    {
+      "ch": "几",
+      "en": "how many",
+      "pi": "jǐ"
+    },
+    {
+      "ch": "天",
+      "en": "days",
+      "pi": "tiān"
+    },
+    {
+      "ch": "班",
+      "en": "work",
+      "pi": "bān"
+    }
+  ]
+}

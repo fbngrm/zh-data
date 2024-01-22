@@ -1,0 +1,42 @@
+{
+  "chinese": "玛丽和约翰两人都不会游泳。",
+  "english": "Neither Mary nor John knows how to swim.",
+  "pinyin": "Mǎlì hé Yuēhàn liǎng rén dōu bù huì yóuyǒng.",
+  "words": [
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎlì"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "约翰",
+      "en": "John",
+      "pi": "Yuēhàn"
+    },
+    {
+      "ch": "两人",
+      "en": "both",
+      "pi": "liǎng rén"
+    },
+    {
+      "ch": "都",
+      "en": "neither",
+      "pi": "dōu"
+    },
+    {
+      "ch": "不会",
+      "en": "does not know how to",
+      "pi": "bù huì"
+    },
+    {
+      "ch": "游泳",
+      "en": "swim",
+      "pi": "yóuyǒng"
+    }
+  ]
+}

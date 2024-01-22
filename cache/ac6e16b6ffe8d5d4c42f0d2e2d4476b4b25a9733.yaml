@@ -1,0 +1,42 @@
+{
+  "chinese": "我本来应该读一下这本书。",
+  "english": "I should have read this book.",
+  "pinyin": "wǒ běn lái yīng gāi dú yī xià zhè běn shū。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "本来",
+      "en": "should have",
+      "pi": "běn lái"
+    },
+    {
+      "ch": "应该",
+      "en": "should",
+      "pi": "yīng gāi"
+    },
+    {
+      "ch": "读",
+      "en": "read",
+      "pi": "dú"
+    },
+    {
+      "ch": "一下",
+      "en": "this",
+      "pi": "yī xià"
+    },
+    {
+      "ch": "这",
+      "en": "book",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本书",
+      "en": "book",
+      "pi": "běn shū"
+    }
+  ]
+}

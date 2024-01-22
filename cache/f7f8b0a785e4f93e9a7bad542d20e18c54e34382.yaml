@@ -1,0 +1,42 @@
+{
+  "chinese": "明天我去买一只狗。",
+  "english": "Tomorrow I will go to buy a dog.",
+  "pinyin": "míng tiān wǒ qù mǎi yī zhī gǒu.",
+  "words": [
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "去",
+      "en": "to go",
+      "pi": "qù"
+    },
+    {
+      "ch": "买",
+      "en": "to buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "一",
+      "en": "one",
+      "pi": "yī"
+    },
+    {
+      "ch": "只",
+      "en": "measure word for animals",
+      "pi": "zhī"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    }
+  ]
+}

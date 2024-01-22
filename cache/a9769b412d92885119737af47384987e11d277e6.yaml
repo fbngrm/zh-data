@@ -1,0 +1,32 @@
+{
+  "chinese": "我想要的就是这个。",
+  "english": "This is what I want.",
+  "pinyin": "wǒ xiǎng yào de jiù shì zhè ge。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想要",
+      "en": "want",
+      "pi": "xiǎng yào"
+    },
+    {
+      "ch": "的",
+      "en": "is",
+      "pi": "de"
+    },
+    {
+      "ch": "就是",
+      "en": "just",
+      "pi": "jiù shì"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè ge"
+    }
+  ]
+}

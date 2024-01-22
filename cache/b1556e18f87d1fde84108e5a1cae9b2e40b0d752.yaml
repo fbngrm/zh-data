@@ -1,0 +1,37 @@
+{
+  "chinese": "我爸爸会在七点钟回家。",
+  "english": "My father will come home at seven o'clock.",
+  "pinyin": "wǒ bàba huì zài qī diǎn zhōng huí jiā.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "爸爸",
+      "en": "father",
+      "pi": "bà ba"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "七点钟",
+      "en": "seven o'clock",
+      "pi": "qī diǎn zhōng"
+    },
+    {
+      "ch": "回家",
+      "en": "come home",
+      "pi": "huí jiā"
+    }
+  ]
+}

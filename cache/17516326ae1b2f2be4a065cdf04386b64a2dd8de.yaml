@@ -1,0 +1,37 @@
+{
+  "chinese": "我对汤姆知道得很少。",
+  "english": "I know very little about Tom.",
+  "pinyin": "wǒ duì tāng mǔ zhī dào dé hěn shǎo。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "对",
+      "en": "about",
+      "pi": "duì"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "得",
+      "en": "very",
+      "pi": "dé"
+    },
+    {
+      "ch": "很少",
+      "en": "little",
+      "pi": "hěn shǎo"
+    }
+  ]
+}

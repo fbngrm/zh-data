@@ -1,0 +1,27 @@
+{
+  "chinese": "时钟已经停止了。",
+  "english": "The clock has stopped.",
+  "pinyin": "shí zhōng yǐ jīng tíng zhǐ le.",
+  "words": [
+    {
+      "ch": "时钟",
+      "en": "clock",
+      "pi": "shí zhōng"
+    },
+    {
+      "ch": "已经",
+      "en": "has",
+      "pi": "yǐ jīng"
+    },
+    {
+      "ch": "停止",
+      "en": "stopped",
+      "pi": "tíng zhǐ"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

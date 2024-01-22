@@ -1,0 +1,47 @@
+{
+  "chinese": "那只狐狸杀了一只母鸡。",
+  "english": "The fox killed a hen.",
+  "pinyin": "nà zhī húli shā le yī zhī mǔjī。",
+  "words": [
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "只",
+      "en": "measure word for animals",
+      "pi": "zhī"
+    },
+    {
+      "ch": "狐狸",
+      "en": "fox",
+      "pi": "húli"
+    },
+    {
+      "ch": "杀",
+      "en": "to kill",
+      "pi": "shā"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "一",
+      "en": "one",
+      "pi": "yī"
+    },
+    {
+      "ch": "只",
+      "en": "measure word for animals",
+      "pi": "zhī"
+    },
+    {
+      "ch": "母鸡",
+      "en": "hen",
+      "pi": "mǔjī"
+    }
+  ]
+}

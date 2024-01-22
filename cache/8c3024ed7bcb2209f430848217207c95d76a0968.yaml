@@ -1,0 +1,10 @@
+{
+  "chinese": "公交车迟到了。",
+  "english": "The bus is late.",
+  "pinyin": "gōng jiāo chē chí dào le.",
+  "words": [
+    {"ch": "公交车", "en": "bus", "pi": "gōng jiāo chē"},
+    {"ch": "迟到", "en": "late", "pi": "chí dào"},
+    {"ch": "了", "en": "is", "pi":"le"}
+  ]
+}

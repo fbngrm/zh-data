@@ -1,0 +1,57 @@
+{
+  "chinese": "开启野战手电筒不会帮助你在黑暗中看得到。",
+  "english": "Turning on a flashlight won't help you see in the dark.",
+  "pinyin": "kāi qǐ yě zhàn shǒu diàn tǒng bù huì bāng zhù nǐ zài hēi àn zhōng kàn dé dào。",
+  "words": [
+    {
+      "ch": "开启",
+      "en": "Turning on",
+      "pi": "kāi qǐ"
+    },
+    {
+      "ch": "野战",
+      "en": "flashlight",
+      "pi": "yě zhàn"
+    },
+    {
+      "ch": "手电筒",
+      "en": "won't help",
+      "pi": "shǒu diàn tǒng"
+    },
+    {
+      "ch": "不会",
+      "en": "you",
+      "pi": "bù huì"
+    },
+    {
+      "ch": "帮助",
+      "en": "see",
+      "pi": "bāng zhù"
+    },
+    {
+      "ch": "你",
+      "en": "in",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "在",
+      "en": "the dark",
+      "pi": "zài"
+    },
+    {
+      "ch": "黑暗",
+      "en": "can't",
+      "pi": "hēi àn"
+    },
+    {
+      "ch": "中",
+      "en": "help you",
+      "pi": "zhōng"
+    },
+    {
+      "ch": "看得到",
+      "en": "visible.",
+      "pi": "kàn dé dào"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "這間房子要維修了。",
+  "english": "This house needs to be repaired.",
+  "pinyin": "zhè jiān fáng zi yào wéi xiū le。",
+  "words": [
+    {
+      "ch": "這間",
+      "en": "This",
+      "pi": "zhè jiān"
+    },
+    {
+      "ch": "房子",
+      "en": "house",
+      "pi": "fáng zi"
+    },
+    {
+      "ch": "要",
+      "en": "needs",
+      "pi": "yào"
+    },
+    {
+      "ch": "維修",
+      "en": "to be repaired",
+      "pi": "wéi xiū"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

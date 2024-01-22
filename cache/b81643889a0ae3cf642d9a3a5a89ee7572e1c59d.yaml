@@ -1,0 +1,14 @@
+{
+  "chinese": "我很长时间没写字了。",
+  "english": "I haven't written characters for a long time.",
+  "pinyin": "wǒ hěn cháng shí jiān méi xiě zì le.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "长时间", "en": "long time", "pi": "cháng shí jiān"},
+    {"ch": "没", "en": "haven't", "pi": "méi"},
+    {"ch": "写", "en": "written", "pi": "xiě"},
+    {"ch": "字", "en": "characters", "pi": "zì"},
+    {"ch": "了", "en": "particle indicating completed action", "pi": "le"}
+  ]
+}

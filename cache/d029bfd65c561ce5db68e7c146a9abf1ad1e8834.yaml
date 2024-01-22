@@ -1,0 +1,13 @@
+{
+  "chinese": "我们每个週末都一起出去。",
+  "english": "We go out together every weekend.",
+  "pinyin": "wǒ men měi gè zhōu mò dōu yī qǐ chū qù。",
+  "words": [
+    { "ch": "我们", "en": "We", "pi": "wǒ men" },
+    { "ch": "每个", "en": "every", "pi": "měi gè" },
+    { "ch": "週末", "en": "weekend", "pi": "zhōu mò" },
+    { "ch": "都", "en": "together", "pi": "dōu" },
+    { "ch": "一起", "en": "go out", "pi": "yī qǐ" },
+    { "ch": "出去", "en": "out", "pi": "chū qù" }
+  ]
+}

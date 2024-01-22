@@ -1,0 +1,17 @@
+{
+  "chinese": "我本来想走的，但后来忘了。",
+  "english": "I originally wanted to leave, but later I forgot.",
+  "pinyin": "wǒ běnlái xiǎng zǒu de, dàn hòulái wàng le.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "本来", "en": "originally", "pi": "běnlái"},
+    {"ch": "想", "en": "want", "pi": "xiǎng"},
+    {"ch": "走", "en": "to leave", "pi": "zǒu"},
+    {"ch": "的", "en": "particle indicating possession", "pi": "de"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "但", "en": "but", "pi": "dàn"},
+    {"ch": "后来", "en": "later", "pi": "hòulái"},
+    {"ch": "忘了", "en": "forgot", "pi": "wàng le"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

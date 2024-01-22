@@ -1,0 +1,11 @@
+{ 
+  "chinese": "他家离这儿不远。",
+  "english": "His home is not far from here.",
+  "pinyin": "tā jiā lí zhè'er bù yuǎn.",
+  "words": [
+    { "ch": "他家", "en": "his home", "pi": "tā jiā" },
+    { "ch": "离", "en": "is far from", "pi": "lí" },
+    { "ch": "这儿", "en": "here", "pi": "zhè'er" },
+    { "ch": "不远", "en": "not far", "pi": "bù yuǎn" }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chinese": "我无法想象另一个星球上的生物。",
+  "english": "I can't imagine the creatures on another planet.",
+  "pinyin": "wǒ wúfǎ xiǎngxiàng lìng yīgè xīngqiú shàng de shēngwù.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "无法", "en": "can't", "pi": "wúfǎ"},
+    {"ch": "想象", "en": "imagine", "pi": "xiǎngxiàng"},
+    {"ch": "另一个", "en": "another", "pi": "lìng yīgè"},
+    {"ch": "星球", "en": "planet", "pi": "xīngqiú"},
+    {"ch": "上", "en": "on", "pi": "shàng"},
+    {"ch": "的", "en": "", "pi": "de"},
+    {"ch": "生物", "en": "creatures", "pi": "shēngwù"}
+  ]
+}

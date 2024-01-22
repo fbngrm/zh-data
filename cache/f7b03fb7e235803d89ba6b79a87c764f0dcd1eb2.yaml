@@ -1,0 +1,13 @@
+{
+  "chinese": "我們在學校有一個早午餐。",
+  "english": "We have a breakfast and lunch at school.",
+  "pinyin": "wǒmen zài xuéxiào yǒu yī gè zǎo wǔcān。",
+  "words": [
+    {"ch": "我們", "en": "We", "pi": "wǒmen"},
+    {"ch": "在", "en": "have/at/in", "pi": "zài"},
+    {"ch": "學校", "en": "school", "pi": "xuéxiào"},
+    {"ch": "有", "en": "have/has", "pi": "yǒu"},
+    {"ch": "一個", "en": "a", "pi": "yī gè"},
+    {"ch": "早午餐", "en": "breakfast and lunch", "pi": "zǎo wǔcān"}
+  ]
+}

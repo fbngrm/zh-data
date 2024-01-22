@@ -1,0 +1,14 @@
+{
+  "chinese": "我不习惯在公众场合说话。",
+  "english": "I am not used to speaking in public.",
+  "pinyin": "wǒ bù xíguàn zài gōngzhòng chǎnghé shuōhuà。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "习惯", "en": "used to", "pi": "xíguàn"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "公众", "en": "public", "pi": "gōngzhòng"},
+    {"ch": "场合", "en": "occasion", "pi": "chǎnghé"},
+    {"ch": "说话", "en": "speaking", "pi": "shuōhuà"}
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chinese": "我确定汤姆找到我们没有任何问题。",
+  "english": "I'm sure that Tom finding us is not a problem.",
+  "pinyin": "wǒ quèdìng tāng mǔ zhǎodào wǒmen méiyǒu rènhé wèntí.",
+  "words" : [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "确定", "en": "sure", "pi": "quèdìng"},
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "找到", "en": "find", "pi": "zhǎodào"},
+    {"ch": "我们", "en": "us", "pi": "wǒmen"},
+    {"ch": "没有", "en": "not", "pi": "méiyǒu"},
+    {"ch": "任何", "en": "any", "pi": "rènhé"},
+    {"ch": "问题", "en": "problem", "pi": "wèntí"}
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "邮局在图书馆旁边。",
+  "english": "The post office is next to the library.",
+  "pinyin": "yóu jú zài tú shū guǎn páng biān.",
+  "words": [
+    {
+      "ch": "邮局",
+      "en": "post office",
+      "pi": "yóu jú"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "图书馆",
+      "en": "library",
+      "pi": "tú shū guǎn"
+    },
+    {
+      "ch": "旁边",
+      "en": "next to",
+      "pi": "páng biān"
+    }
+  ]
+}

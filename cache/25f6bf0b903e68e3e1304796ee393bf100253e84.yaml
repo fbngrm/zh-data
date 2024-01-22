@@ -1,0 +1,32 @@
+{
+  "chinese": "不要在这里打棒球。",
+  "english": "Don't play baseball here.",
+  "pinyin": "bú yào zài zhè lǐ dǎ bàng qiú.",
+  "words": [
+    {
+      "ch": "不要",
+      "en": "Don't",
+      "pi": "bú yào"
+    },
+    {
+      "ch": "在",
+      "en": "here",
+      "pi": "zài"
+    },
+    {
+      "ch": "这里",
+      "en": "play",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "打",
+      "en": "baseball",
+      "pi": "dǎ"
+    },
+    {
+      "ch": "棒球",
+      "en": "baseball",
+      "pi": "bàng qiú"
+    }
+  ]
+}

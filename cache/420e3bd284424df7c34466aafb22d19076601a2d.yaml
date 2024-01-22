@@ -1,0 +1,42 @@
+{
+  "chinese": "你在派对上玩得开心吗?",
+  "english": "Did you have fun at the party?",
+  "pinyin": "nǐ zài pàiduì shàng wán dé kāixīn ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "派对",
+      "en": "party",
+      "pi": "pàiduì"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "玩得",
+      "en": "had fun",
+      "pi": "wán dé"
+    },
+    {
+      "ch": "开心",
+      "en": "happy",
+      "pi": "kāixīn"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

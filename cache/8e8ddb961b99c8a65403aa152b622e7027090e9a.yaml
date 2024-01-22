@@ -1,0 +1,37 @@
+{
+  "chinese": "John比我大两岁。",
+  "english": "John is two years older than me.",
+  "pinyin": "John bǐ wǒ dà liǎng suì.",
+  "words": [
+    {
+      "ch": "John",
+      "en": "John",
+      "pi": "John"
+    },
+    {
+      "ch": "比",
+      "en": "is",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "大",
+      "en": "older",
+      "pi": "dà"
+    },
+    {
+      "ch": "两",
+      "en": "two",
+      "pi": "liǎng"
+    },
+    {
+      "ch": "岁",
+      "en": "years",
+      "pi": "suì"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "我写了一封信。",
+  "english": "I wrote a letter.",
+  "pinyin": "wǒ xiě le yī fēng xìn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "写",
+      "en": "wrote",
+      "pi": "xiě"
+    },
+    {
+      "ch": "了",
+      "en": "a",
+      "pi": "le"
+    },
+    {
+      "ch": "一",
+      "en": "letter",
+      "pi": "yī"
+    },
+    {
+      "ch": "封",
+      "en": "one",
+      "pi": "fēng"
+    },
+    {
+      "ch": "信",
+      "en": "letter",
+      "pi": "xìn"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "好吧，让我们出发吧!",
+  "english": "Okay, let's go!",
+  "pinyin": "hǎo ba, ràng wǒmen chūfā ba!",
+  "words": [
+    {
+      "ch": "好吧",
+      "en": "Okay",
+      "pi": "hǎo ba"
+    },
+    {
+      "ch": "让",
+      "en": "let",
+      "pi": "ràng"
+    },
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "出发",
+      "en": "go",
+      "pi": "chūfā"
+    },
+    {
+      "ch": "吧",
+      "en": "let's",
+      "pi": "ba"
+    }
+  ]
+}

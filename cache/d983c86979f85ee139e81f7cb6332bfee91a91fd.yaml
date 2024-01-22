@@ -1,0 +1,42 @@
+{
+  "chinese": "这本书每一句句子都很重要。",
+  "english": "Every sentence in this book is important.",
+  "pinyin": "zhè běn shū měi yī jù jù zi dōu hěn zhòng yào。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本书",
+      "en": "book",
+      "pi": "běn shū"
+    },
+    {
+      "ch": "每一句",
+      "en": "every sentence",
+      "pi": "měi yī jù"
+    },
+    {
+      "ch": "句子",
+      "en": "sentence",
+      "pi": "jù zi"
+    },
+    {
+      "ch": "都",
+      "en": "every",
+      "pi": "dōu"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "重要",
+      "en": "important",
+      "pi": "zhòng yào"
+    }
+  ]
+}

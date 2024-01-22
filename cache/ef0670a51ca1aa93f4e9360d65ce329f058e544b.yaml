@@ -1,0 +1,15 @@
+{
+  "chinese": "我们去年夏天在一个农场上工作。",
+  "english": "We worked on a farm last summer.",
+  "pinyin": "wǒmen qùnián xiàtiān zài yīgè nóngchǎng shàng gōngzuò.",
+  "words": [
+    {"ch": "我们", "en": "We", "pi": "wǒmen"},
+    {"ch": "去年", "en": "last year", "pi": "qùnián"},
+    {"ch": "夏天", "en": "summer", "pi": "xiàtiān"},
+    {"ch": "在", "en": "on", "pi": "zài"},
+    {"ch": "一个", "en": "a", "pi": "yīgè"},
+    {"ch": "农场", "en": "farm", "pi": "nóngchǎng"},
+    {"ch": "上", "en": "on", "pi": "shàng"},
+    {"ch": "工作", "en": "work", "pi": "gōngzuò"}
+  ]
+}

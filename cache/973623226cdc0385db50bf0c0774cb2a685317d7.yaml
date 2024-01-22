@@ -1,0 +1,32 @@
+{
+  "chinese": "她对音乐有兴趣。",
+  "english": "She is interested in music.",
+  "pinyin": "tā duì yīn yuè yǒu xìng qù.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "对",
+      "en": "is interested in",
+      "pi": "duì"
+    },
+    {
+      "ch": "音乐",
+      "en": "music",
+      "pi": "yīn yuè"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "兴趣",
+      "en": "interest",
+      "pi": "xìng qù"
+    }
+  ]
+}

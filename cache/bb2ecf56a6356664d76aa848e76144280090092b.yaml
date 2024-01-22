@@ -1,0 +1,16 @@
+{
+  "chinese": "你覺得氣候會不會影響人的性格呢？",
+  "english": "Do you think climate will affect a person's personality?",
+  "pinyin": "nǐ juéde qìhòu huì bù huì yǐngxiǎng rén de xìnggé ne?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "覺得", "en": "think/feel", "pi": "juéde"},
+    {"ch": "氣候", "en": "climate", "pi": "qìhòu"},
+    {"ch": "會不會", "en": "will/will not", "pi": "huì bù huì"},
+    {"ch": "影響", "en": "affect", "pi": "yǐngxiǎng"},
+    {"ch": "人", "en": "person", "pi": "rén"},
+    {"ch": "的", "en": "possessive particle", "pi": "de"},
+    {"ch": "性格", "en": "personality", "pi": "xìnggé"},
+    {"ch": "呢", "en": "interrogative particle", "pi": "ne"}
+  ]
+}

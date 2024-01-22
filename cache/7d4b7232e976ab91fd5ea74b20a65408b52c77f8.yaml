@@ -1,0 +1,37 @@
+{
+  "chinese": "请在7、8点之间打给我。",
+  "english": "Please call me between 7 and 8 o'clock.",
+  "pinyin": "qǐng zài qī, bā diǎn zhī jiān dǎ gěi wǒ。",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "在",
+      "en": "between",
+      "pi": "zài"
+    },
+    {
+      "ch": "7、8点",
+      "en": "7 and 8 o'clock",
+      "pi": "qī, bā diǎn"
+    },
+    {
+      "ch": "之间",
+      "en": "between",
+      "pi": "zhī jiān"
+    },
+    {
+      "ch": "打给",
+      "en": "call",
+      "pi": "dǎ gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    }
+  ]
+}

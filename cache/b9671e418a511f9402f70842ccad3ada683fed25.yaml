@@ -1,0 +1,26 @@
+{
+  "sentences": [
+    {
+      "chinese": "我来翻译。",
+      "english": "I will translate.",
+      "pinyin": "wǒ lái fānyì.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "来",
+          "en": "will",
+          "pi": "lái"
+        },
+        {
+          "ch": "翻译",
+          "en": "translate",
+          "pi": "fānyì"
+        }
+      ]
+    }
+  ]
+}

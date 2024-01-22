@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆吓得说不出话。",
+  "english": "Tom was so scared that he couldn't speak.",
+  "pinyin": "Tāng mǔ xià dé shuō bù chū huà.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "吓得",
+      "en": "so scared that",
+      "pi": "xià dé"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "不出",
+      "en": "couldn't",
+      "pi": "bù chū"
+    },
+    {
+      "ch": "话",
+      "en": "word",
+      "pi": "huà"
+    }
+  ]
+}

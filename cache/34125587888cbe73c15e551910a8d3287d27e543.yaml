@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆不能原谅玛丽。",
+  "english": "Tom cannot forgive Mary.",
+  "pinyin": "tāng mǔ bù néng yuán liàng mǎ lì。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "不能",
+      "en": "cannot",
+      "pi": "bù néng"
+    },
+    {
+      "ch": "原谅",
+      "en": "forgive",
+      "pi": "yuán liàng"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    }
+  ]
+}

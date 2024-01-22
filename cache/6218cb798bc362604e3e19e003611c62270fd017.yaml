@@ -1,0 +1,37 @@
+{
+  "chinese": "我们坐在房间的正中间。",
+  "english": "We are sitting in the middle of the room.",
+  "pinyin": "wǒmen zuò zài fángjiān de zhèng zhōngjiān。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "坐",
+      "en": "sit",
+      "pi": "zuò"
+    },
+    {
+      "ch": "在",
+      "en":"in/on/at",
+      "pi":"zài"
+    },
+    {
+      "ch": "房间",
+      "en": "room",
+      "pi": "fángjiān"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "正中间",
+      "en": "middle",
+      "pi": "zhèng zhōngjiān"
+    }
+  ]
+}

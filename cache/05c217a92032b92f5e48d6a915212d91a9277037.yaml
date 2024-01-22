@@ -1,0 +1,42 @@
+{
+  "chinese": "你要用这辆车干嘛？",
+  "english": "What do you want to use this car for?",
+  "pinyin": "nǐ yào yòng zhè liàng chē gàn má?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "用",
+      "en": "use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "辆",
+      "en": "car",
+      "pi": "liàng"
+    },
+    {
+      "ch": "车",
+      "en": "car",
+      "pi": "chē"
+    },
+    {
+      "ch": "干嘛",
+      "en": "for",
+      "pi": "gàn má"
+    }
+  ]
+}

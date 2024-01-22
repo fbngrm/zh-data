@@ -1,0 +1,32 @@
+{
+  "chinese": "我想到了一个主意。",
+  "english": "I came up with an idea.",
+  "pinyin": "wǒ xiǎng dào le yī gè zhǔ yi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想到",
+      "en": "came up with",
+      "pi": "xiǎng dào"
+    },
+    {
+      "ch": "了",
+      "en": "a particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "一个",
+      "en": "one",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "主意",
+      "en": "idea",
+      "pi": "zhǔ yi"
+    }
+  ]
+}

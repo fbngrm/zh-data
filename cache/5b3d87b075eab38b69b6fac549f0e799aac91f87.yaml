@@ -1,0 +1,32 @@
+{
+  "chinese": "这里以前有个商店。",
+  "english": "There used to be a store here.",
+  "pinyin": "zhè lǐ yǐ qián yǒu gè shāng diàn.",
+  "words": [
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "以前",
+      "en": "used to",
+      "pi": "yǐ qián"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "商店",
+      "en": "store",
+      "pi": "shāng diàn"
+    }
+  ]
+}

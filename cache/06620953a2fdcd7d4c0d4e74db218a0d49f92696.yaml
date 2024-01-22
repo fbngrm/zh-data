@@ -1,0 +1,47 @@
+{
+  "chinese": "这只狐狸和这只熊一起生活了。",
+  "english": "This fox and this bear have been living together.",
+  "pinyin": "zhè zhī húli hé zhè zhī xióng yìqǐ shēnghuó le.",
+  "words": [
+    {
+      "ch": "这只",
+      "en": "This",
+      "pi": "zhè zhī"
+    },
+    {
+      "ch": "狐狸",
+      "en": "fox",
+      "pi": "húli"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "这只",
+      "en": "this",
+      "pi": "zhè zhī"
+    },
+    {
+      "ch": "熊",
+      "en": "bear",
+      "pi": "xióng"
+    },
+    {
+      "ch": "一起",
+      "en": "together",
+      "pi": "yìqǐ"
+    },
+    {
+      "ch": "生活",
+      "en": "live",
+      "pi": "shēnghuó"
+    },
+    {
+      "ch": "了",
+      "en": "have been",
+      "pi": "le"
+    }
+  ]
+}

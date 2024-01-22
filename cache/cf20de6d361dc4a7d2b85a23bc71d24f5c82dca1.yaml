@@ -1,0 +1,32 @@
+{
+  "chinese": "东京是日本的首都。",
+  "english": "Tokyo is the capital of Japan.",
+  "pinyin": "Dōngjīng shì Rìběn de shǒudū.",
+  "words": [
+    {
+      "ch": "东京",
+      "en": "Tokyo",
+      "pi": "Dōngjīng"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "日本",
+      "en": "Japan",
+      "pi": "Rìběn"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "首都",
+      "en": "capital",
+      "pi": "shǒudū"
+    }
+  ]
+}

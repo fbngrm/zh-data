@@ -1,0 +1,32 @@
+{
+  "chinese": "我們買了一磅的茶。",
+  "english": "We bought one pound of tea.",
+  "pinyin": "wǒ men mǎi le yī bàng de chá.",
+  "words": [
+    {
+      "ch": "我們",
+      "en": "we",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "買了",
+      "en": "bought",
+      "pi": "mǎi le"
+    },
+    {
+      "ch": "一磅",
+      "en": "one pound",
+      "pi": "yī bàng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "茶",
+      "en": "tea",
+      "pi": "chá"
+    }
+  ]
+}

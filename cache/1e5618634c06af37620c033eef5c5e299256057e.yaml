@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆是玛丽的一个好朋友。",
+  "english": "Tom is a good friend of Mary.",
+  "pinyin": "Tāng mǔ shì mǎ lì de yī gè hǎo péngyǒu.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "朋友",
+      "en": "friend",
+      "pi": "péngyǒu"
+    }
+  ]
+}

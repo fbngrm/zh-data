@@ -1,0 +1,16 @@
+{
+  "chinese": "他们中的一些人身体健康，但是其他人不是。",
+  "english": "Some of them are healthy, but others are not.",
+  "pinyin": "Tāmen zhōng de yīxiē rén shēntǐ jiànkāng, dànshì qítā rén bùshì。",
+  "words": [
+    {"ch": "他们", "en": "They", "pi": "Tāmen"},
+    {"ch": "中", "en": "of", "pi": "zhōng"},
+    {"ch": "的", "en": "some", "pi": "de"},
+    {"ch": "一些人", "en": "people", "pi": "yīxiē rén"},
+    {"ch": "身体", "en": "body", "pi": "shēntǐ"},
+    {"ch": "健康", "en": "healthy", "pi": "jiànkāng"},
+    {"ch": "但是", "en": "but", "pi": "dànshì"},
+    {"ch": "其他人", "en": "others", "pi": "qítā rén"},
+    {"ch": "不是", "en": "not", "pi": "bùshì"}
+  ]
+}

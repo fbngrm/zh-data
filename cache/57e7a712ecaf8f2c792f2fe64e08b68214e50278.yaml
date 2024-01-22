@@ -1,0 +1,42 @@
+{
+  "chinese": "我们在外面可以有一张桌子吗？",
+  "english": "Can we have a table outside?",
+  "pinyin": "wǒmen zài wàimiàn kěyǐ yǒu yī zhāng zhuōzi ma?",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "在外面",
+      "en": "outside",
+      "pi": "zài wàimiàn"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kěyǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一张",
+      "en": "a table",
+      "pi": "yī zhāng"
+    },
+    {
+      "ch": "桌子",
+      "en": "table",
+      "pi": "zhuōzi"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

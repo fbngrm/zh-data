@@ -1,0 +1,32 @@
+{
+  "chinese": "这是你的收音机吗？",
+  "english": "Is this your radio?",
+  "pinyin": "zhè shì nǐ de shōu yīn jī ma?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "收音机",
+      "en": "radio",
+      "pi": "shōu yīn jī"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

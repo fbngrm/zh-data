@@ -1,0 +1,43 @@
+{
+  "sentences": [
+    {
+      "chinese": "我很愿意。",
+      "english": "I am willing.",
+      "pinyin": "wǒ hěn yuànyì。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "很",
+          "en": "am",
+          "pi": "hěn"
+        },
+        {
+          "ch": "愿意",
+          "en": "willing",
+          "pi": "yuànyì"
+        }
+      ]
+    },
+    {
+      "chinese": "谢谢你。",
+      "english": "Thank you.",
+      "pinyin": "xièxie nǐ。",
+      "words": [
+        {
+          "ch": "谢谢",
+          "en": "Thank you",
+          "pi": "xièxie"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        }
+      ]
+    }
+  ]
+}

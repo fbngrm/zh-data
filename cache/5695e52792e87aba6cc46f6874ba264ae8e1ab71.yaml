@@ -1,0 +1,42 @@
+{
+  "chinese": "他的工资是我的两倍。",
+  "english": "His salary is double mine.",
+  "pinyin": "tā de gōngzī shì wǒ de liǎng bèi。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "工资",
+      "en": "salary",
+      "pi": "gōngzī"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我",
+      "en": "my",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "两倍",
+      "en": "double",
+      "pi": "liǎng bèi"
+    }
+  ]
+}

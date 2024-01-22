@@ -1,0 +1,32 @@
+{
+  "chinese": "法国在英国的南边。",
+  "english": "France is to the south of England.",
+  "pinyin": "fǎ guó zài yīng guó de nán biān.",
+  "words": [
+    {
+      "ch": "法国",
+      "en": "France",
+      "pi": "fǎ guó"
+    },
+    {
+      "ch": "在",
+      "en": "is located",
+      "pi": "zài"
+    },
+    {
+      "ch": "英国",
+      "en": "England",
+      "pi": "yīng guó"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "南边",
+      "en": "south",
+      "pi": "nán biān"
+    }
+  ]
+}

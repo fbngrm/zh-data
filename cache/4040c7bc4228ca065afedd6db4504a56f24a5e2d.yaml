@@ -1,0 +1,32 @@
+{
+  "chinese": "1000美元是个大数目。",
+  "english": "1000 dollars is a large amount.",
+  "pinyin": "yī qiān měi yuán shì gè dà shùmù。",
+  "words": [
+    {
+      "ch": "1000",
+      "en": "1000",
+      "pi": "yī qiān"
+    },
+    {
+      "ch": "美元",
+      "en": "dollars",
+      "pi": "měi yuán"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "大数目",
+      "en": "large amount",
+      "pi": "dà shùmù"
+    }
+  ]
+}

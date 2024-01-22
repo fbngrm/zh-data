@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆的支票被退票了。",
+  "english": "Tom's check was returned.",
+  "pinyin": "Tāng mǔ de zhīpiào bèi tuìpiào le.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "的",
+      "en": "possession; really and truly",
+      "pi": "de"
+    },
+    {
+      "ch": "支票",
+      "en": "check",
+      "pi": "zhīpiào"
+    },
+    {
+      "ch": "被",
+      "en": "by; indicating passive voice",
+      "pi": "bèi"
+    },
+    {
+      "ch": "退票",
+      "en": "returned check",
+      "pi": "tuìpiào"
+    },
+    {
+      "ch": "了",
+      "en": "already; indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

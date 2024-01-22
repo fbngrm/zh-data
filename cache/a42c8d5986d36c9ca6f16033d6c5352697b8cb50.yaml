@@ -1,0 +1,73 @@
+{
+  "sentences": [
+    {
+      "chinese": "這輛有點怪的車讓我脫口而出",
+      "english": "This strange car made me blurt out",
+      "pinyin": "zhè liàng yǒu diǎn guài de chē ràng wǒ tuō kǒu ér chū",
+      "words": [
+        {
+          "ch": "這輛",
+          "en": "This",
+          "pi": "zhè liàng"
+        },
+        {
+          "ch": "有點",
+          "en": "strange",
+          "pi": "yǒu diǎn"
+        },
+        {
+          "ch": "怪的",
+          "en": "car",
+          "pi": "guài de"
+        },
+        {
+          "ch": "車",
+          "en": "made",
+          "pi": "chē"
+        },
+        {
+          "ch": "讓",
+          "en": "me",
+          "pi": "ràng"
+        },
+        {
+          "ch": "我",
+          "en": "blurt out",
+          "pi": "tuō kǒu"
+        },
+        {
+          "ch": "脫口而出",
+          "en": "",
+          "pi": "ér chū"
+        }
+      ]
+    },
+    {
+      "chinese": "那是什麼鬼東西啊?",
+      "english": "What on earth is that?",
+      "pinyin": "nà shì shén me guǐ dōng xī ā",
+      "words": [
+        {
+          "ch": "那是",
+          "en": "What",
+          "pi": "nà shì"
+        },
+        {
+          "ch": "什麼",
+          "en": "on earth",
+          "pi": "shén me"
+        },
+        {
+          "ch": "鬼東西",
+          "en": "is that",
+          "pi": "guǐ dōng xī"
+        },
+        {
+          "ch": "啊?",
+          "en": "",
+          "pi": "ā"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "sentences": [
+    {
+      "chinese": "不要哭。",
+      "english": "Don't cry.",
+      "pinyin": "bú yào kū.",
+      "words": [
+        {
+          "ch": "不要",
+          "en": "Don't",
+          "pi": "bú yào"
+        },
+        {
+          "ch": "哭",
+          "en": "cry",
+          "pi": "kū"
+        }
+      ]
+    },
+    {
+      "chinese": "我爱你。",
+      "english": "I love you.",
+      "pinyin": "wǒ ài nǐ.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "爱",
+          "en": "love",
+          "pi": "ài"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        }
+      ]
+    }
+  ]
+}

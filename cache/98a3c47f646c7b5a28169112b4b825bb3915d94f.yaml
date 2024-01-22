@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆以前跟玛丽住得近。",
+  "english": "Tom used to live close to Mary.",
+  "pinyin": "tāng mǔ yǐ qián gēn mǎ lì zhù de jìn。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "以前",
+      "en": "used to",
+      "pi": "yǐ qián"
+    },
+    {
+      "ch": "跟",
+      "en": "live",
+      "pi": "gēn"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "住",
+      "en": "close",
+      "pi": "zhù"
+    },
+    {
+      "ch": "得",
+      "en": "to",
+      "pi": "de"
+    },
+    {
+      "ch": "近",
+      "en": "near",
+      "pi": "jìn"
+    }
+  ]
+}

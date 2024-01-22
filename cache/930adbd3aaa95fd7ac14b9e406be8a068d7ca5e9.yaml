@@ -1,0 +1,51 @@
+{
+  "sentences": [
+    {
+      "chinese": "狗追猫，猫追鼠。",
+      "english": "Dogs chase cats, cats chase mice.",
+      "pinyin": "gǒu zhuī māo, māo zhuī shǔ。",
+      "words": [
+        {
+          "ch": "狗",
+          "en": "dog",
+          "pi": "gǒu"
+        },
+        {
+          "ch": "追",
+          "en": "chase",
+          "pi": "zhuī"
+        },
+        {
+          "ch": "猫",
+          "en": "cat",
+          "pi": "māo"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": "，"
+        },
+        {
+          "ch": "猫",
+          "en": "cat",
+          "pi": "māo"
+        },
+        {
+          "ch": "追",
+          "en": "chase",
+          "pi": "zhuī"
+        },
+        {
+          "ch": "鼠",
+          "en": "mouse",
+          "pi": "shǔ"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    }
+  ]
+}

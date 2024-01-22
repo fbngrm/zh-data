@@ -1,0 +1,14 @@
+{
+  "chinese": "箱子里面的鸡蛋全都破掉了。",
+  "english": "All the eggs inside the box are broken.",
+  "pinyin": "xiāng zi lǐ miàn de jī dàn quán dōu pò diào le.",
+  "words": [
+    {"ch": "箱子", "en": "box", "pi": "xiāng zi"},
+    {"ch": "里面", "en": "inside", "pi": "lǐ miàn"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "鸡蛋", "en": "eggs", "pi": "jī dàn"},
+    {"ch": "全都", "en": "all", "pi": "quán dōu"},
+    {"ch": "破掉", "en": "broken", "pi": "pò diào"},
+    {"ch": "了", "en": "are", "pi": "le"}
+  ]
+}

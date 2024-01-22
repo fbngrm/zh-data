@@ -1,0 +1,42 @@
+{
+  "chinese": "我把我的手枪指向了目标。",
+  "english": "I pointed my gun at the target.",
+  "pinyin": "wǒ bǎ wǒ de shǒu qiāng zhǐ xiàng le mù biāo。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "把",
+      "en": "pointed",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "手枪",
+      "en": "gun",
+      "pi": "shǒu qiāng"
+    },
+    {
+      "ch": "指向",
+      "en": "at",
+      "pi": "zhǐ xiàng"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "目标",
+      "en": "target",
+      "pi": "mù biāo"
+    }
+  ]
+}

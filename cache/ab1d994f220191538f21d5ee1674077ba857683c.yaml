@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆是这个班级里唯一的男生。",
+  "english": "Tom is the only boy in this class.",
+  "pinyin": "Tāngmǔ shì zhège bānjí lǐ wéiyī de nánshēng。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhège"
+    },
+    {
+      "ch": "班级",
+      "en": "class",
+      "pi": "bānjí"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "唯一的",
+      "en": "only",
+      "pi": "wéiyī de"
+    },
+    {
+      "ch": "男生",
+      "en": "boy",
+      "pi": "nánshēng"
+    }
+  ]
+}

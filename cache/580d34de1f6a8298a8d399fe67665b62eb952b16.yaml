@@ -1,0 +1,13 @@
+{
+  "chinese": "往前走就到地铁站了。",
+  "english": "If you walk forward, you will arrive at the subway station.",
+  "pinyin": "wǎng qián zǒu jiù dào dì tiě zhàn le.",
+  "words": [
+    { "ch": "往前", "en": "forward", "pi": "wǎng qián" },
+    { "ch": "走", "en": "walk", "pi": "zǒu" },
+    { "ch": "就", "en": "just", "pi": "jiù" },
+    { "ch": "到", "en": "arrive", "pi": "dào" },
+    { "ch": "地铁站", "en": "subway station", "pi": "dì tiě zhàn" },
+    { "ch": "了", "en": "particle of a completed action", "pi": "le" }
+  ]
+}

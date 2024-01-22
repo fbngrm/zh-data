@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆在小时候有点超重。",
+  "english": "Tom was overweight when he was a child.",
+  "pinyin": "Tāng mǔ zài xiǎo shíhòu yǒu diǎn chāozhòng.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "在",
+      "en": "was",
+      "pi": "zài"
+    },
+    {
+      "ch": "小时候",
+      "en": "when he was a child",
+      "pi": "xiǎo shíhòu"
+    },
+    {
+      "ch": "有点",
+      "en": "a little",
+      "pi": "yǒu diǎn"
+    },
+    {
+      "ch": "超重",
+      "en": "overweight",
+      "pi": "chāozhòng"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "你想要甚么类型的书？",
+  "english": "What type of book do you want?",
+  "pinyin": "nǐ xiǎng yào shénme lèi xíng de shū?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "想要",
+      "en": "want",
+      "pi": "xiǎng yào"
+    },
+    {
+      "ch": "甚么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "类型",
+      "en": "type",
+      "pi": "lèi xíng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    }
+  ]
+}

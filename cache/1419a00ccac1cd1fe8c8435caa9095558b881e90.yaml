@@ -1,0 +1,42 @@
+{
+  "chinese": "我答应汤姆我会到那里。",
+  "english": "I promised Tom that I will go there.",
+  "pinyin": "wǒ dāyìng tāng mǔ wǒ huì dào nàlǐ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "答应",
+      "en": "promised",
+      "pi": "dāyìng"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "我",
+      "en": "that",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "到",
+      "en": "go",
+      "pi": "dào"
+    },
+    {
+      "ch": "那里",
+      "en": "there",
+      "pi": "nà lǐ"
+    }
+  ]
+}

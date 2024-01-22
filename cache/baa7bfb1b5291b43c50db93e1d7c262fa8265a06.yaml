@@ -1,0 +1,32 @@
+{
+  "chinese": "这是839号房间。",
+  "english": "This is room number 839.",
+  "pinyin": "zhè shì bā sān jiǔ hào fángjiān.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "839",
+      "en": "839",
+      "pi": "bā sān jiǔ"
+    },
+    {
+      "ch": "号",
+      "en": "number",
+      "pi": "hào"
+    },
+    {
+      "ch": "房间",
+      "en": "room",
+      "pi": "fángjiān"
+    }
+  ]
+}

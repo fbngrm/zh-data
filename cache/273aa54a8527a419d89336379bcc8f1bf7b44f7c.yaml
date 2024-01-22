@@ -1,0 +1,42 @@
+{
+  "chinese": "因为下雨了，所以我们就待在家里面。",
+  "english": "Because it's raining, we stayed at home.",
+  "pinyin": "yīnwèi xiàyǔle, suǒyǐ wǒmen jiù dāi zài jiā lǐmiàn。",
+  "words": [
+    {
+      "ch": "因为",
+      "en": "Because",
+      "pi": "yīnwèi"
+    },
+    {
+      "ch": "下雨了",
+      "en": "it's raining",
+      "pi": "xiàyǔle"
+    },
+    {
+      "ch": "所以",
+      "en": "so",
+      "pi": "suǒyǐ"
+    },
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "就",
+      "en": "just",
+      "pi": "jiù"
+    },
+    {
+      "ch": "待在",
+      "en": "stayed",
+      "pi": "dāi zài"
+    },
+    {
+      "ch": "家里面",
+      "en": "at home",
+      "pi": "jiā lǐmiàn"
+    }
+  ]
+}

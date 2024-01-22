@@ -1,0 +1,16 @@
+{
+  "chinese": "我爸爸参加了料理竞赛并得了第一名。",
+  "english": "My dad participated in a cooking competition and won first place.",
+  "pinyin": "wǒ bàba cānjiā le liàolǐ jìngsài bìng dé le dì yī míng。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "爸爸", "en": "dad", "pi": "bàba"},
+    {"ch": "参加", "en": "participate", "pi": "cānjiā"},
+    {"ch": "了", "en": "in", "pi": "le"},
+    {"ch": "料理", "en": "cooking", "pi": "liàolǐ"},
+    {"ch": "竞赛", "en": "competition", "pi": "jìngsài"},
+    {"ch": "并", "en": "and", "pi": "bìng"},
+    {"ch": "得", "en": "obtained", "pi": "dé"},
+    {"ch": "第一名", "en": "first place", "pi": "dì yī míng"}
+  ]
+}

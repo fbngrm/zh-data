@@ -1,0 +1,37 @@
+{
+  "chinese": "我已经读完了这本书。",
+  "english": "I have finished reading this book.",
+  "pinyin": "wǒ yǐjīng dú wánle zhè běn shū。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "已经",
+      "en": "have",
+      "pi": "yǐjīng"
+    },
+    {
+      "ch": "读完",
+      "en": "finished reading",
+      "pi": "dú wán"
+    },
+    {
+      "ch": "了",
+      "en": "了",
+      "pi": "le"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本书",
+      "en": "book",
+      "pi": "běn shū"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我记得我母亲教我认字。",
+  "english": "I remember my mother teaching me how to read.",
+  "pinyin": "wǒ jìde wǒ mǔqīn jiāo wǒ rèn zì。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "记得",
+      "en": "remember",
+      "pi": "jìde"
+    },
+    {
+      "ch": "我",
+      "en": "my",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "母亲",
+      "en": "mother",
+      "pi": "mǔqīn"
+    },
+    {
+      "ch": "教",
+      "en": "teach",
+      "pi": "jiāo"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "认字",
+      "en": "how to read",
+      "pi": "rèn zì"
+    }
+  ]
+}

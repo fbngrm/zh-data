@@ -1,0 +1,37 @@
+{
+  "chinese": "她用苹果来做果酱。",
+  "english": "She uses apples to make jam.",
+  "pinyin": "Tā yòng píngguǒ lái zuò guǒjiàng。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "用",
+      "en": "uses",
+      "pi": "yòng"
+    },
+    {
+      "ch": "苹果",
+      "en": "apples",
+      "pi": "píngguǒ"
+    },
+    {
+      "ch": "来",
+      "en": "to",
+      "pi": "lái"
+    },
+    {
+      "ch": "做",
+      "en": "make",
+      "pi": "zuò"
+    },
+    {
+      "ch": "果酱",
+      "en": "jam",
+      "pi": "guǒjiàng"
+    }
+  ]
+}

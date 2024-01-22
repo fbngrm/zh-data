@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆，你留在这里比较好。",
+  "english": "Tom, it's better for you to stay here.",
+  "pinyin": "Tāng mǔ, nǐ liú zài zhèlǐ bǐjiào hǎo.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "留",
+      "en": "to stay",
+      "pi": "liú"
+    },
+    {
+      "ch": "在",
+      "en": "here",
+      "pi": "zài"
+    },
+    {
+      "ch": "这里",
+      "en": "this place",
+      "pi": "zhèlǐ"
+    },
+    {
+      "ch": "比较",
+      "en": "comparatively",
+      "pi": "bǐjiào"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    }
+  ]
+}

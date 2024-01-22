@@ -1,0 +1,32 @@
+{
+  "chinese": "英语在日本被学习。",
+  "english": "English is being studied in Japan.",
+  "pinyin": "Yīngyǔ zài Rìběn bèi xuéxí.",
+  "words": [
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "Yīngyǔ"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "日本",
+      "en": "Japan",
+      "pi": "Rìběn"
+    },
+    {
+      "ch": "被",
+      "en": "is being",
+      "pi": "bèi"
+    },
+    {
+      "ch": "学习",
+      "en": "studied",
+      "pi": "xuéxí"
+    }
+  ]
+}

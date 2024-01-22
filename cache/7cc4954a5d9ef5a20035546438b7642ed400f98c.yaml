@@ -1,0 +1,19 @@
+{
+  "chinese": "如果你知道这个问题的答案的话,就请告诉我。",
+  "english": "If you know the answer to this question, please tell me.",
+  "pinyin": "rú guǒ nǐ zhī dào zhè gè wèn tí de dá'àn de huà, jiù qǐng gào su wǒ。",
+  "words": [
+    {"ch": "如果", "en": "if", "pi": "rú guǒ"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "知道", "en": "know", "pi": "zhī dào"},
+    {"ch": "这个", "en": "this", "pi": "zhè gè"},
+    {"ch": "问题", "en": "question", "pi": "wèn tí"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "答案", "en": "answer", "pi": "dá'àn"},
+    {"ch": "的话", "en": "if", "pi": "de huà"},
+    {"ch": "就", "en": "please", "pi": "jiù"},
+    {"ch": "请", "en": "tell", "pi": "qǐng"},
+    {"ch": "告诉", "en": "me", "pi": "gào su"},
+    {"ch": "我", "en": "me", "pi": "wǒ"}
+  ]
+}

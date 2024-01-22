@@ -1,0 +1,19 @@
+{
+  "chinese": "话虽如此,他和他的妻子一起离开了。",
+  "english": "That being said, he left with his wife.",
+  "pinyin": "huà suī rú cǐ, tā hé tā de qī zi yī qǐ lí kāi le.",
+  "words": [
+    {"ch": "话", "en": "that", "pi": "huà"},
+    {"ch": "虽", "en": "although", "pi": "suī"},
+    {"ch": "如此", "en": "like this", "pi": "rú cǐ"},
+    {"ch": ",", "en": ",", "pi": ","},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "他的", "en": "his", "pi": "tā de"},
+    {"ch": "妻子", "en": "wife", "pi": "qī zi"},
+    {"ch": "一起", "en": "together", "pi": "yī qǐ"},
+    {"ch": "离开", "en": "leave", "pi": "lí kāi"},
+    {"ch": "了", "en": "le", "pi": "le"},
+    {"ch": "。", "en": ".", "pi": "."}
+  ]
+}

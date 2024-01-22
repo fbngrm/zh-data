@@ -1,0 +1,15 @@
+{
+  "chinese": "今天的气温升高到摄氏三十度。",
+  "english": "Today's temperature will rise to 30 degrees Celsius.",
+  "pinyin": "jīn tiān de qì wēn shēng gāo dào shè shì sān shí dù。",
+  "words": [
+    {"ch": "今天", "en": "Today", "pi": "jīn tiān"},
+    {"ch": "的", "en": "possessive particle", "pi": "de"},
+    {"ch": "气温", "en": "temperature", "pi": "qì wēn"},
+    {"ch": "升高", "en": "rise", "pi": "shēng gāo"},
+    {"ch": "到", "en": "to", "pi": "dào"},
+    {"ch": "摄氏", "en": "Celsius", "pi": "shè shì"},
+    {"ch": "三十", "en": "thirty", "pi": "sān shí"},
+    {"ch": "度", "en": "degrees", "pi": "dù"}
+  ]
+}

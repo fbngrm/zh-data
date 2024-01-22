@@ -1,0 +1,37 @@
+{
+  "chinese": "你必须把桌子清理干净。",
+  "english": "You must clean the table.",
+  "pinyin": "Nǐ bìxū bǎ zhuōzi qīnglǐ gānjìng。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "Nǐ"
+    },
+    {
+      "ch": "必须",
+      "en": "must",
+      "pi": "bìxū"
+    },
+    {
+      "ch": "把",
+      "en": "the",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "桌子",
+      "en": "table",
+      "pi": "zhuōzi"
+    },
+    {
+      "ch": "清理",
+      "en": "clean",
+      "pi": "qīnglǐ"
+    },
+    {
+      "ch": "干净",
+      "en": "clean",
+      "pi": "gānjìng"
+    }
+  ]
+}

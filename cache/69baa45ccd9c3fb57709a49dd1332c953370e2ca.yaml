@@ -1,0 +1,32 @@
+{
+  "chinese": "你该打扫你的房间。",
+  "english": "You should clean your room.",
+  "pinyin": "nǐ gāi dǎsǎo nǐ de fángjiān.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "该",
+      "en": "should",
+      "pi": "gāi"
+    },
+    {
+      "ch": "打扫",
+      "en": "clean",
+      "pi": "dǎsǎo"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐde"
+    },
+    {
+      "ch": "房间",
+      "en": "room",
+      "pi": "fángjiān"
+    }
+  ]
+}

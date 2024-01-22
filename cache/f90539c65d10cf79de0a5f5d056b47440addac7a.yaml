@@ -1,0 +1,37 @@
+{
+  "chinese": "你怎么读这个汉字？",
+  "english": "How do you pronounce this Chinese character?",
+  "pinyin": "nǐ zěn me dú zhè gè hàn zì?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "怎么",
+      "en": "how",
+      "pi": "zěn me"
+    },
+    {
+      "ch": "读",
+      "en": "to read",
+      "pi": "dú"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "汉字",
+      "en": "Chinese character",
+      "pi": "hàn zì"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": null
+    }
+  ]
+}

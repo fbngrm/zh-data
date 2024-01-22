@@ -1,0 +1,27 @@
+{
+  "chinese": "你迷路了吗？",
+  "english": "Are you lost?",
+  "pinyin": "nǐ mí lù le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "迷路",
+      "en": "lost",
+      "pi": "mí lù"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

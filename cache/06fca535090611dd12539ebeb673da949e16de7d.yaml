@@ -1,0 +1,47 @@
+{
+  "chinese": "你有聽過那首歌的法文版本嗎？",
+  "english": "Have you heard the French version of that song?",
+  "pinyin": "nǐ yǒu tīngguò nà shǒu gē de fǎwén bǎnběn ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "聽過",
+      "en": "heard",
+      "pi": "tīngguò"
+    },
+    {
+      "ch": "那首歌",
+      "en": "that song",
+      "pi": "nà shǒu gē"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "法文",
+      "en": "French",
+      "pi": "fǎwén"
+    },
+    {
+      "ch": "版本",
+      "en": "version",
+      "pi": "bǎnběn"
+    },
+    {
+      "ch": "嗎",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

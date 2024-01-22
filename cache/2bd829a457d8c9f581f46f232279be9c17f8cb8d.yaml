@@ -1,0 +1,37 @@
+{
+  "chinese": "这是他不喜欢的。",
+  "english": "This is what he doesn't like.",
+  "pinyin": "zhè shì tā bù xǐhuān de.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "的",
+      "en": "what",
+      "pi": "de"
+    }
+  ]
+}

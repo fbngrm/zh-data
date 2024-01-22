@@ -1,0 +1,37 @@
+{
+  "chinese": "这家工厂生产汽车配件。",
+  "english": "This factory produces automotive parts.",
+  "pinyin": "zhè jiā gōng chǎng shēng chǎn qì chē pèi jiàn.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "家",
+      "en": "factory",
+      "pi": "jiā"
+    },
+    {
+      "ch": "工厂",
+      "en": "factory",
+      "pi": "gōng chǎng"
+    },
+    {
+      "ch": "生产",
+      "en": "produce",
+      "pi": "shēng chǎn"
+    },
+    {
+      "ch": "汽车",
+      "en": "automobile",
+      "pi": "qì chē"
+    },
+    {
+      "ch": "配件",
+      "en": "parts",
+      "pi": "pèi jiàn"
+    }
+  ]
+}

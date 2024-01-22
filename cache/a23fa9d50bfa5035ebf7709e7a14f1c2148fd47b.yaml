@@ -1,0 +1,37 @@
+{
+  "chinese": "你在日本的哪里长大？",
+  "english": "Where did you grow up in Japan?",
+  "pinyin": "Nǐ zài Rìběn de nǎlǐ zhǎngdà?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "日本",
+      "en": "Japan",
+      "pi": "Rìběn"
+    },
+    {
+      "ch": "的",
+      "en": "('s)",
+      "pi": "de"
+    },
+    {
+      "ch": "哪里",
+      "en": "where",
+      "pi": "nǎlǐ"
+    },
+    {
+      "ch": "长大",
+      "en": "grow up",
+      "pi": "zhǎngdà"
+    }
+  ]
+}

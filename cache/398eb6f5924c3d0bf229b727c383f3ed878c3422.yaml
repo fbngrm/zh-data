@@ -1,0 +1,25 @@
+{
+  "chinese": "我在我的行李上附上了有我名字的标签,但是它很快就剥落了。",
+  "english": "I attached a label with my name on my luggage, but it quickly peeled off.",
+  "pinyin": "Wǒ zài wǒ de xínglǐ shàng fù shàng le yǒu wǒ míngzì de biāoqiān, dànshì tā hěn kuài jiù bāoluò le.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "在", "en": "at", "pi": "zài" },
+    { "ch": "我的", "en": "my", "pi": "wǒ de" },
+    { "ch": "行李", "en": "luggage", "pi": "xínglǐ" },
+    { "ch": "上", "en": "on", "pi": "shàng" },
+    { "ch": "附上", "en": "attach", "pi": "fù shàng" },
+    { "ch": "了", "en": "a", "pi": "le" },
+    { "ch": "有", "en": "with", "pi": "yǒu" },
+    { "ch": "我", "en": "my", "pi": "wǒ" },
+    { "ch": "名字", "en": "name", "pi": "míngzì" },
+    { "ch": "的", "en": "label", "pi": "de" },
+    { "ch": "标签", "en": "but", "pi": "biāoqiān" },
+    { "ch": "但是", "en": "it", "pi": "dànshì" },
+    { "ch": "它", "en": "quickly", "pi": "tā" },
+    { "ch": "很快", "en": "peeled off", "pi": "hěn kuài" },
+    { "ch": "就", "en": "off", "pi": "jiù" },
+    { "ch": "剥落", "en": ".", "pi": "bāoluò" },
+    { "ch": "了", "en": ".", "pi": "le" }
+  ]
+}

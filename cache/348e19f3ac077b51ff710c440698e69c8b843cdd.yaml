@@ -1,0 +1,15 @@
+{
+  "chinese": "４在日本是一个不幸的数字。",
+  "english": "The number 4 is considered unlucky in Japan.",
+  "pinyin": "sì zài rìběn shì yī gè bùxìng de shùzì.",
+  "words": [
+    {"ch": "４", "en": "4", "pi": "sì"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "日本", "en": "Japan", "pi": "rìběn"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "一个", "en": "a", "pi": "yī gè"},
+    {"ch": "不幸", "en": "unlucky", "pi": "bùxìng"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "数字", "en": "number", "pi": "shùzì"}
+  ]
+}

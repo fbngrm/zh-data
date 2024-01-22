@@ -1,0 +1,42 @@
+{
+  "chinese": "你会讲中文或俄语吗？",
+  "english": "Can you speak Chinese or Russian?",
+  "pinyin": "nǐ huì jiǎng zhōngwén huò éyǔ ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "讲",
+      "en": "speak",
+      "pi": "jiǎng"
+    },
+    {
+      "ch": "中文",
+      "en": "Chinese",
+      "pi": "zhōngwén"
+    },
+    {
+      "ch": "或",
+      "en": "or",
+      "pi": "huò"
+    },
+    {
+      "ch": "俄语",
+      "en": "Russian",
+      "pi": "éyǔ"
+    },
+    {
+      "ch": "吗",
+      "en": "do",
+      "pi": "ma"
+    }
+  ]
+}

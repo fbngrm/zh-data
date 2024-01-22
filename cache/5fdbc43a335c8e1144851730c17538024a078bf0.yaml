@@ -1,0 +1,32 @@
+{
+  "chinese": "我搞砸了第一個音符。",
+  "english": "I messed up the first note.",
+  "pinyin": "wǒ gǎo zá le dì yī gè yīn fú。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "搞砸",
+      "en": "messed up",
+      "pi": "gǎo zá"
+    },
+    {
+      "ch": "了",
+      "en": "the",
+      "pi": "le"
+    },
+    {
+      "ch": "第一個",
+      "en": "first",
+      "pi": "dì yī gè"
+    },
+    {
+      "ch": "音符",
+      "en": "note",
+      "pi": "yīn fú"
+    }
+  ]
+}

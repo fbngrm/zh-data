@@ -1,0 +1,37 @@
+{
+  "chinese": "我们和简交了朋友。",
+  "english": "We made friends with Jane.",
+  "pinyin": "wǒmen hé jiǎn jiāo le péngyǒu.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "简",
+      "en": "Jane",
+      "pi": "jiǎn"
+    },
+    {
+      "ch": "交",
+      "en": "make",
+      "pi": "jiāo"
+    },
+    {
+      "ch": "了",
+      "en": "past tense particle",
+      "pi": "le"
+    },
+    {
+      "ch": "朋友",
+      "en": "friends",
+      "pi": "péngyǒu"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "chinese": "如果天气情况允许的话，我明天就去割草坪。",
+  "english": "If the weather permits, I will mow the lawn tomorrow.",
+  "pinyin": "Rúguǒ tiānqì qíngkuàng yǔnxǔ de huà, wǒ míngtiān jiù qù gē cǎopíng.",
+  "words": [
+    {"ch": "如果", "en": "If", "pi": "rúguǒ"},
+    {"ch": "天气", "en": "weather", "pi": "tiānqì"},
+    {"ch": "情况", "en": "permits", "pi": "qíngkuàng"},
+    {"ch": "允许", "en": "allows", "pi": "yǔnxǔ"},
+    {"ch": "的话", "en": "if", "pi": "de huà"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "明天", "en": "tomorrow", "pi": "míngtiān"},
+    {"ch": "就", "en": "will", "pi": "jiù"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "割草坪", "en": "mow the lawn", "pi": "gē cǎopíng"}
+  ]
+}

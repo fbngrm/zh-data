@@ -1,0 +1,19 @@
+{
+  "chinese": "我认为电脑会帮助学生以高效方式使学得更好。",
+  "english": "I think computers will help students learn better in an efficient way.",
+  "pinyin": "wǒ rèn wéi diàn nǎo huì bāng zhù xué shēng yǐ gāo xiào fāng shì shǐ xué dé gèng hǎo",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "认为", "en": "think", "pi": "rèn wéi"},
+    {"ch": "电脑", "en": "computers", "pi": "diàn nǎo"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "帮助", "en": "help", "pi": "bāng zhù"},
+    {"ch": "学生", "en": "students", "pi": "xué shēng"},
+    {"ch": "以", "en": "in", "pi": "yǐ"},
+    {"ch": "高效", "en": "efficient", "pi": "gāo xiào"},
+    {"ch": "方式", "en": "way", "pi": "fāng shì"},
+    {"ch": "使", "en": "make", "pi": "shǐ"},
+    {"ch": "学得", "en": "learn", "pi": "xué dé"},
+    {"ch": "更好", "en": "better", "pi": "gèng hǎo"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "他的父親去年過世了。",
+  "english": "His father passed away last year.",
+  "pinyin": "tā de fùqīn qùnián guòshì le.",
+  "words": [
+    {
+      "ch": "他的",
+      "en": "His",
+      "pi": "tā de"
+    },
+    {
+      "ch": "父親",
+      "en": "father",
+      "pi": "fùqīn"
+    },
+    {
+      "ch": "去年",
+      "en": "last year",
+      "pi": "qùnián"
+    },
+    {
+      "ch": "過世",
+      "en": "passed away",
+      "pi": "guòshì"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

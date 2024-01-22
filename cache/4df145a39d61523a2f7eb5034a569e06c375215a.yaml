@@ -1,0 +1,42 @@
+{
+  "chinese": "我把袋子还给了肯。",
+  "english": "I returned the bag to Ken.",
+  "pinyin": "wǒ bǎ dàizi huán gěi le kěn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "把",
+      "en": "take",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "袋子",
+      "en": "bag",
+      "pi": "dàizi"
+    },
+    {
+      "ch": "还",
+      "en": "return",
+      "pi": "huán"
+    },
+    {
+      "ch": "给",
+      "en": "to",
+      "pi": "gěi"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "肯",
+      "en": "Ken",
+      "pi": "kěn"
+    }
+  ]
+}

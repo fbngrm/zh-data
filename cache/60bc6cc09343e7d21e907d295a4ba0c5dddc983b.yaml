@@ -1,0 +1,42 @@
+{
+  "chinese": "请您给我指一指路好吗？",
+  "english": "Can you please give me directions?",
+  "pinyin": "Qǐng nín gěi wǒ zhǐ yī zhǐ lù hǎo ma?",
+  "words": [
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "您",
+      "en": "you (polite)",
+      "pi": "nín"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "指一指",
+      "en": "direct",
+      "pi": "zhǐ yī zhǐ"
+    },
+    {
+      "ch": "路",
+      "en": "road",
+      "pi": "lù"
+    },
+    {
+      "ch": "好吗",
+      "en": "ok?",
+      "pi": "hǎo ma"
+    }
+  ]
+}

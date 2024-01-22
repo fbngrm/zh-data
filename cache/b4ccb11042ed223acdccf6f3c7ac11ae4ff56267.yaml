@@ -1,0 +1,32 @@
+{
+  "chinese": "你会说阿拉伯语吗？",
+  "english": "Can you speak Arabic?",
+  "pinyin": "nǐ huì shuō ālābóyǔ ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "阿拉伯语",
+      "en": "Arabic",
+      "pi": "ālābóyǔ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

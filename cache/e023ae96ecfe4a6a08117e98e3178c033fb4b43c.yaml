@@ -1,0 +1,17 @@
+{
+  "chinese": "今天晚上我先用一下，争取明天还给你。",
+  "english": "I will use it tonight and try to return it to you tomorrow.",
+  "pinyin": "jīntiān wǎnshàng wǒ xiān yòng yīxià, zhēngqǔ míngtiān hái gěi nǐ.",
+  "words": [
+    {"ch": "今天", "en": "today", "pi": "jīntiān"},
+    {"ch": "晚上", "en": "tonight", "pi": "wǎnshàng"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "先", "en": "first", "pi": "xiān"},
+    {"ch": "用", "en": "use", "pi": "yòng"},
+    {"ch": "一下", "en": "for a bit", "pi": "yīxià"},
+    {"ch": "争取", "en": "strive for", "pi": "zhēngqǔ"},
+    {"ch": "明天", "en": "tomorrow", "pi": "míngtiān"},
+    {"ch": "还给", "en": "return", "pi": "hái gěi"},
+    {"ch": "你", "en": "you", "pi": "nǐ"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我正在学如何打字。",
+  "english": "I am learning how to type.",
+  "pinyin": "wǒ zhèng zài xué rúhé dǎzì.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "正在",
+      "en": "am",
+      "pi": "zhèng zài"
+    },
+    {
+      "ch": "学",
+      "en": "learning",
+      "pi": "xué"
+    },
+    {
+      "ch": "如何",
+      "en": "how to",
+      "pi": "rúhé"
+    },
+    {
+      "ch": "打字",
+      "en": "type",
+      "pi": "dǎzì"
+    }
+  ]
+}

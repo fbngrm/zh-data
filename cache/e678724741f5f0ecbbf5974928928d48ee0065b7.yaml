@@ -1,0 +1,52 @@
+{
+  "chinese": "Ｔｏｍ汞中毒，因为他每天吃罐装鲔鱼。",
+  "english": "Tom got mercury poisoning because he eats canned tuna every day.",
+  "pinyin": "Tōm gǒng zhòngdú, yīnwèi tā měitiān chī guànzhuāng wèiyú.",
+  "words": [
+    {
+      "ch": "Ｔｏｍ",
+      "en": "Tom",
+      "pi": "Tōm"
+    },
+    {
+      "ch": "汞",
+      "en": "mercury",
+      "pi": "gǒng"
+    },
+    {
+      "ch": "中毒",
+      "en": "poisoning",
+      "pi": "zhòngdú"
+    },
+    {
+      "ch": "因为",
+      "en": "because",
+      "pi": "yīnwèi"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měitiān"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "罐装",
+      "en": "canned",
+      "pi": "guànzhuāng"
+    },
+    {
+      "ch": "鲔鱼",
+      "en": "tuna",
+      "pi": "wèiyú"
+    }
+  ]
+}

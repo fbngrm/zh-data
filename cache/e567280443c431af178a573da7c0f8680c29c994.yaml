@@ -1,0 +1,37 @@
+{
+  "chinese": "昨天天气不是很好。",
+  "english": "The weather was not very good yesterday.",
+  "pinyin": "zuó tiān tiān qì bú shì hěn hǎo.",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiān qì"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "这是你的菜单。",
+  "english": "This is your menu.",
+  "pinyin": "zhè shì nǐ de cài dān.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "菜单",
+      "en": "menu",
+      "pi": "cài dān"
+    }
+  ]
+}

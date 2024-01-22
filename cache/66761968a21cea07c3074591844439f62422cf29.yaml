@@ -1,0 +1,13 @@
+{
+  "chinese": "今天电视有什么好节目？",
+  "english": "What good programs are on TV today?",
+  "pinyin": "Jīntiān diànshì yǒu shénme hǎo jiémù?",
+  "words": [
+    { "ch": "今天", "en": "today", "pi": "jīntiān" },
+    { "ch": "电视", "en": "TV", "pi": "diànshì" },
+    { "ch": "有", "en": "have", "pi": "yǒu" },
+    { "ch": "什么", "en": "what", "pi": "shénme" },
+    { "ch": "好", "en": "good", "pi": "hǎo" },
+    { "ch": "节目", "en": "program", "pi": "jiémù" }
+  ]
+}

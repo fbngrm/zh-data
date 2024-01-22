@@ -1,0 +1,42 @@
+{
+  "chinese": "欧先生来日本是为了学日语。",
+  "english": "Mr. Ou came to Japan to learn Japanese.",
+  "pinyin": "Ōu xiānshēng lái Rìběn shì wèile xué rìyǔ.",
+  "words": [
+    {
+      "ch": "欧先生",
+      "en": "Mr. Ou",
+      "pi": "Ōu xiānshēng"
+    },
+    {
+      "ch": "来",
+      "en": "came",
+      "pi": "lái"
+    },
+    {
+      "ch": "日本",
+      "en": "Japan",
+      "pi": "Rìběn"
+    },
+    {
+      "ch": "是",
+      "en": "to",
+      "pi": "shì"
+    },
+    {
+      "ch": "为了",
+      "en": "for",
+      "pi": "wèile"
+    },
+    {
+      "ch": "学",
+      "en": "learn",
+      "pi": "xué"
+    },
+    {
+      "ch": "日语",
+      "en": "Japanese",
+      "pi": "rìyǔ"
+    }
+  ]
+}

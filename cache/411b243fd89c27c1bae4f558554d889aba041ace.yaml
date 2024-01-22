@@ -1,0 +1,32 @@
+{
+  "chinese": "我知道你喜欢咖啡",
+  "english": "I know you like coffee",
+  "pinyin": "wǒ zhīdào nǐ xǐhuān kāfēi",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kāfēi"
+    }
+  ]
+}

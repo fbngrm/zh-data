@@ -1,0 +1,37 @@
+{
+  "chinese": "他在他的花园种番茄。",
+  "english": "He is planting tomatoes in his garden.",
+  "pinyin": "Tā zài tā de huāyuán zhòng fānqié.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "Tā"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "花园",
+      "en": "garden",
+      "pi": "huāyuán"
+    },
+    {
+      "ch": "种",
+      "en": "planting",
+      "pi": "zhòng"
+    },
+    {
+      "ch": "番茄",
+      "en": "tomatoes",
+      "pi": "fānqié"
+    }
+  ]
+}

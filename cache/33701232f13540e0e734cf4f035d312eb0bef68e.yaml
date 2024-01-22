@@ -1,0 +1,13 @@
+{
+  "chinese": "我稍后会打电话给你。",
+  "english": "I will call you later.",
+  "pinyin": "wǒ shāo hòu huì dǎ diàn huà gěi nǐ.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "稍后", "en": "later", "pi": "shāo hòu"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "打电话", "en": "call", "pi": "dǎ diàn huà"},
+    {"ch": "给", "en": "you", "pi": "gěi"},
+    {"ch": "你", "en": "you", "pi": "nǐ"}
+  ]
+}

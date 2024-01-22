@@ -1,0 +1,32 @@
+{
+  "chinese": "你上午有时间吗?",
+  "english": "Do you have time in the morning?",
+  "pinyin": "nǐ shàngwǔ yǒu shíjiān ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "上午",
+      "en": "morning",
+      "pi": "shàngwǔ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "时间",
+      "en": "time",
+      "pi": "shíjiān"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

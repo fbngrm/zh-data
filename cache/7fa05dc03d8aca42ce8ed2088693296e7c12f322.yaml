@@ -1,0 +1,27 @@
+{
+  "chinese": "Jack会说法语。",
+  "english": "Jack can speak French.",
+  "pinyin": "Jack huì shuō fǎyǔ.",
+  "words": [
+    {
+      "ch": "Jack",
+      "en": "Jack",
+      "pi": "Jack"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎyǔ"
+    }
+  ]
+}

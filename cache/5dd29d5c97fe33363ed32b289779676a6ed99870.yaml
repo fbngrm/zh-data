@@ -1,0 +1,37 @@
+{
+  "chinese": "晚上我们去吃饺子，好吗？",
+  "english": "Shall we go eat dumplings tonight?",
+  "pinyin": "Wǎnshàng wǒmen qù chī jiǎozi, hǎo ma?",
+  "words": [
+    {
+      "ch": "晚上",
+      "en": "night",
+      "pi": "wǎnshàng"
+    },
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "饺子",
+      "en": "dumplings",
+      "pi": "jiǎozi"
+    },
+    {
+      "ch": "好吗",
+      "en": "shall we",
+      "pi": "hǎo ma"
+    }
+  ]
+}

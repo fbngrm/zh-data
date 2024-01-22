@@ -1,0 +1,13 @@
+{
+  "chinese": "我昨天看了两个小时电视。",
+  "english": "I watched TV for two hours yesterday.",
+  "pinyin": "Wǒ zuótiān kànle liǎng gè xiǎoshí diànshì.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "昨天", "en": "yesterday", "pi": "zuótiān"},
+    {"ch": "看了", "en": "watched", "pi": "kànle"},
+    {"ch": "两个", "en": "two", "pi": "liǎng gè"},
+    {"ch": "小时", "en": "hours", "pi": "xiǎoshí"},
+    {"ch": "电视", "en": "TV", "pi": "diànshì"}
+  ]
+}

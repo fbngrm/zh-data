@@ -1,0 +1,37 @@
+{
+  "chinese": "我今天下午会看到玛丽。",
+  "english": "I will see Mary this afternoon.",
+  "pinyin": "wǒ jīntiān xiàwǔ huì kàndào mǎlì.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "下午",
+      "en": "afternoon",
+      "pi": "xiàwǔ"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "看到",
+      "en": "see",
+      "pi": "kàndào"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎlì"
+    }
+  ]
+}

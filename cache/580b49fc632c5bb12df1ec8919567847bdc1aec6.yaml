@@ -1,0 +1,19 @@
+{
+  "chinese": "据我所知，他从来没有犯过这样的错。",
+  "english": "As far as I know, he has never made such a mistake.",
+  "pinyin": "jù wǒ suǒ zhī, tā cóng lái méi yǒu fàn guò zhè yàng de cuò.",
+  "words": [
+    {"ch": "据", "en": "According to", "pi": "jù"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "所知", "en": "know", "pi": "suǒ zhī"},
+    {"ch": "，", "en": ","},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "从来", "en": "never", "pi": "cóng lái"},
+    {"ch": "没有", "en": "not have", "pi": "méi yǒu"},
+    {"ch": "犯过", "en": "made", "pi": "fàn guò"},
+    {"ch": "这样", "en": "such", "pi": "zhè yàng"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "错", "en": "mistake", "pi": "cuò"},
+    {"ch": "。", "en": "."}
+  ]
+}

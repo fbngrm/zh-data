@@ -1,0 +1,13 @@
+{
+  "chinese": "这里的人不说英语。",
+  "english": "The people here do not speak English.",
+  "pinyin": "zhè lǐ de rén bù shuō yīng yǔ。",
+  "words": [
+    {"ch": "这里", "en": "here", "pi": "zhè lǐ"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "人", "en": "people", "pi": "rén"},
+    {"ch": "不", "en": "do not", "pi": "bù"},
+    {"ch": "说", "en": "speak", "pi": "shuō"},
+    {"ch": "英语", "en": "English", "pi": "yīng yǔ"}
+  ]
+}

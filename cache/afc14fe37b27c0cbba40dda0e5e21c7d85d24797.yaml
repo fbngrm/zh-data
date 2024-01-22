@@ -1,0 +1,22 @@
+{
+  "chinese": "他说中文。",
+  "english": "He speaks Chinese.",
+  "pinyin": "tā shuō zhōng wén.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "说",
+      "en": "speaks",
+      "pi": "shuō"
+    },
+    {
+      "ch": "中文",
+      "en": "Chinese",
+      "pi": "zhōng wén"
+    }
+  ]
+}

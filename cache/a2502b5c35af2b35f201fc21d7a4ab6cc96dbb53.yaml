@@ -1,0 +1,32 @@
+{
+  "chinese": "我请迈克帮助我。",
+  "english": "I ask Mike for help.",
+  "pinyin": "wǒ qǐng mài kè bāng zhù wǒ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "请",
+      "en": "ask",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "迈克",
+      "en": "Mike",
+      "pi": "mài kè"
+    },
+    {
+      "ch": "帮助",
+      "en": "help",
+      "pi": "bāng zhù"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    }
+  ]
+}

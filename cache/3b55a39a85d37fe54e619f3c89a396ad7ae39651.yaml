@@ -1,0 +1,32 @@
+{
+  "chinese": "比尔是一名棒球运动员。",
+  "english": "Bill is a baseball player.",
+  "pinyin": "Bǐ'ěr shì yī míng bàng qiú yùn dòng yuán。",
+  "words": [
+    {
+      "ch": "比尔",
+      "en": "Bill",
+      "pi": "Bǐ'ěr"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "一名",
+      "en": "a",
+      "pi": "yī míng"
+    },
+    {
+      "ch": "棒球",
+      "en": "baseball",
+      "pi": "bàng qiú"
+    },
+    {
+      "ch": "运动员",
+      "en": "player",
+      "pi": "yùn dòng yuán"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "我今天跟他吃午饭。",
+  "english": "I had lunch with him today.",
+  "pinyin": "wǒ jīn tiān gēn tā chī wǔ fàn。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "跟",
+      "en": "with",
+      "pi": "gēn"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "午饭",
+      "en": "lunch",
+      "pi": "wǔ fàn"
+    }
+  ]
+}

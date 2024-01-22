@@ -1,0 +1,32 @@
+{
+    "chinese": "中央公园在哪个方向？",
+    "english": "In which direction is Central Park?",
+    "pinyin": "Zhōngyāng gōngyuán zài nǎge fāngxiàng?",
+    "words": [
+        {
+            "ch": "中央",
+            "en": "Central",
+            "pi": "zhōng yāng"
+        },
+        {
+            "ch": "公园",
+            "en": "Park",
+            "pi": "gōng yuán"
+        },
+        {
+            "ch": "在",
+            "en": "is",
+            "pi": "zài"
+        },
+        {
+            "ch": "哪个",
+            "en": "which",
+            "pi": "nǎ ge"
+        },
+        {
+            "ch": "方向",
+            "en": "direction",
+            "pi": "fāng xiàng"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆砍了他门前的树。",
+  "english": "Tom cut down the tree in front of his house.",
+  "pinyin": "Tāng mǔ kǎn le tā ménqián de shù.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "砍了",
+      "en": "cut down",
+      "pi": "kǎn le"
+    },
+    {
+      "ch": "他",
+      "en": "his",
+      "pi": "tā"
+    },
+    {
+      "ch": "门前",
+      "en": "in front of",
+      "pi": "mén qián"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "树",
+      "en": "tree",
+      "pi": "shù"
+    }
+  ]
+}

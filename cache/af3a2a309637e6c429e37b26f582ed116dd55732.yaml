@@ -1,0 +1,14 @@
+{
+  "chinese": "这封信是珍自己写的。",
+  "english": "This letter was written by Jane herself.",
+  "pinyin": "zhè fēng xìn shì zhēn zìjǐ xiě de。",
+  "words": [
+    {"ch": "这", "en": "This", "pi": "zhè"},
+    {"ch": "封信", "en": "letter", "pi": "fēng xìn"},
+    {"ch": "是", "en": "was", "pi": "shì"},
+    {"ch": "珍", "en": "Jane", "pi": "zhēn"},
+    {"ch": "自己", "en": "herself", "pi": "zìjǐ"},
+    {"ch": "写", "en": "written", "pi": "xiě"},
+    {"ch": "的", "en": "by", "pi": "de"}
+  ]
+}

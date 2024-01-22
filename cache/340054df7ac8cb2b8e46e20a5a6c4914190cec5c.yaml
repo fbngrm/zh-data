@@ -1,0 +1,57 @@
+{
+  "chinese": "我父亲为我做了一顿美味的午餐。",
+  "english": "My father made a delicious lunch for me.",
+  "pinyin": "wǒ fù qīn wèi wǒ zuò le yī dùn měi wèi de wǔ cān。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "父亲",
+      "en": "father",
+      "pi": "fù qīn"
+    },
+    {
+      "ch": "为",
+      "en": "for",
+      "pi": "wèi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "做",
+      "en": "made",
+      "pi": "zuò"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "一顿",
+      "en": "a",
+      "pi": "yī dùn"
+    },
+    {
+      "ch": "美味",
+      "en": "delicious",
+      "pi": "měi wèi"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "午餐",
+      "en": "lunch",
+      "pi": "wǔ cān"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "我有一个问题得问你。",
+  "english": "I have a question to ask you.",
+  "pinyin": "Wǒ yǒu yīgè wèntí dé wèn nǐ.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "有", "en": "have", "pi": "yǒu" },
+    { "ch": "一个", "en": "a", "pi": "yīgè" },
+    { "ch": "问题", "en": "question", "pi": "wèntí" },
+    { "ch": "得", "en": "to", "pi": "dé" },
+    { "ch": "问", "en": "ask", "pi": "wèn" },
+    { "ch": "你", "en": "you", "pi": "nǐ" }
+  ]
+}

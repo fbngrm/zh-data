@@ -1,0 +1,32 @@
+{
+  "chinese": "谁来了这里？",
+  "english": "Who came here?",
+  "pinyin": "shéi lái le zhè lǐ?",
+  "words": [
+    {
+      "ch": "谁",
+      "en": "who",
+      "pi": "shéi"
+    },
+    {
+      "ch": "来",
+      "en": "came",
+      "pi": "lái"
+    },
+    {
+      "ch": "了",
+      "en": "here",
+      "pi": "le"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "里",
+      "en": "here",
+      "pi": "lǐ"
+    }
+  ]
+}

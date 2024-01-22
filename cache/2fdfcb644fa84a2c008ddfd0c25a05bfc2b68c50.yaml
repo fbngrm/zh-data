@@ -1,0 +1,32 @@
+{
+  "chinese": "他同我说德语。",
+  "english": "He speaks German to me.",
+  "pinyin": "tā tóng wǒ shuō dé yǔ.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "同",
+      "en": "together",
+      "pi": "tóng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "德语",
+      "en": "German",
+      "pi": "dé yǔ"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "医生在观察X光片。",
+  "english": "The doctor is examining X-rays.",
+  "pinyin": "yī shēng zài guān chá X guāng piān.",
+  "words": [
+    {
+      "ch": "医生",
+      "en": "doctor",
+      "pi": "yī shēng"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "观察",
+      "en": "examining",
+      "pi": "guān chá"
+    },
+    {
+      "ch": "X",
+      "en": "X",
+      "pi": "X"
+    },
+    {
+      "ch": "光片",
+      "en": "X-rays",
+      "pi": "guāng piān"
+    }
+  ]
+}

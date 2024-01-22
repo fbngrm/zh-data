@@ -1,0 +1,32 @@
+{
+  "chinese": "这张椅子很舒服。",
+  "english": "This chair is very comfortable.",
+  "pinyin": "zhè zhāng yǐ zi hěn shū fú.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "张",
+      "en": "chair",
+      "pi": "zhāng"
+    },
+    {
+      "ch": "椅子",
+      "en": "is",
+      "pi": "yǐ zi"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "舒服",
+      "en": "comfortable",
+      "pi": "shū fú"
+    }
+  ]
+}

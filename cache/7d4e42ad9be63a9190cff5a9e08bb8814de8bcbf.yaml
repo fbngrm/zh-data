@@ -1,0 +1,57 @@
+{
+  "chinese": "这本书对你来说读起来太难了。",
+  "english": "This book is too difficult for you to read.",
+  "pinyin": "zhè běn shū duì nǐ lái shuō dú qǐlái tài nánle.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本书",
+      "en": "book",
+      "pi": "běn shū"
+    },
+    {
+      "ch": "对",
+      "en": "for",
+      "pi": "duì"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "来说",
+      "en": "to",
+      "pi": "lái shuō"
+    },
+    {
+      "ch": "读",
+      "en": "read",
+      "pi": "dú"
+    },
+    {
+      "ch": "起来",
+      "en": "difficult",
+      "pi": "qǐlái"
+    },
+    {
+      "ch": "太",
+      "en": "too",
+      "pi": "tài"
+    },
+    {
+      "ch": "难",
+      "en": "difficult",
+      "pi": "nán"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action or change of state",
+      "pi": "le"
+    }
+  ]
+}

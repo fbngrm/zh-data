@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆现在会以我为傲。",
+  "english": "Tom is proud of me now.",
+  "pinyin": "Tāngmǔ xiànzài huì yǐ wǒ wéi ào.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiànzài"
+    },
+    {
+      "ch": "会",
+      "en": "is able to",
+      "pi": "huì"
+    },
+    {
+      "ch": "以",
+      "en": "of",
+      "pi": "yǐ"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "为",
+      "en": "as",
+      "pi": "wéi"
+    },
+    {
+      "ch": "傲",
+      "en": "proud",
+      "pi": "ào"
+    }
+  ]
+}

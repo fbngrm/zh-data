@@ -1,0 +1,27 @@
+{
+  "chinese": "床下有一只猫。",
+  "english": "There is a cat under the bed.",
+  "pinyin": "chuáng xià yǒu yī zhī māo.",
+  "words": [
+    {
+      "ch": "床下",
+      "en": "under the bed",
+      "pi": "chuáng xià"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一只",
+      "en": "a",
+      "pi": "yī zhī"
+    },
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    }
+  ]
+}

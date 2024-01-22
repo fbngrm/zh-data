@@ -1,0 +1,19 @@
+{
+  "chinese": "我本来很想走走，但是天太热了。",
+  "english": "I really wanted to take a walk, but the weather is too hot.",
+  "pinyin": "wǒ běnlái hěn xiǎng zǒuzǒu, dànshì tiān tài rèle.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "本来", "en": "really", "pi": "běnlái"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "想", "en": "want", "pi": "xiǎng"},
+    {"ch": "走走", "en": "take a walk", "pi": "zǒuzǒu"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "但是", "en": "but", "pi": "dànshì"},
+    {"ch": "天", "en": "weather", "pi": "tiān"},
+    {"ch": "太", "en": "too", "pi": "tài"},
+    {"ch": "热", "en": "hot", "pi": "rè"},
+    {"ch": "了", "en": "is", "pi": "le"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

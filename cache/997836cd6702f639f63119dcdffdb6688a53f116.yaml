@@ -1,0 +1,37 @@
+{
+  "chinese": "你知道怎么煮肉吗?",
+  "english": "Do you know how to cook meat?",
+  "pinyin": "nǐ zhīdào zěnme zhǔ ròu ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "怎么",
+      "en": "how",
+      "pi": "zěnme"
+    },
+    {
+      "ch": "煮",
+      "en": "cook",
+      "pi": "zhǔ"
+    },
+    {
+      "ch": "肉",
+      "en": "meat",
+      "pi": "ròu"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

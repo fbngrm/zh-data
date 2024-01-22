@@ -1,0 +1,32 @@
+{
+  "chinese": "这台电视很重。",
+  "english": "This TV is very heavy.",
+  "pinyin": "zhè tái diànshì hěn zhòng。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "台",
+      "en": "TV",
+      "pi": "tái"
+    },
+    {
+      "ch": "电视",
+      "en": "television",
+      "pi": "diànshì"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "重",
+      "en": "heavy",
+      "pi": "zhòng"
+    }
+  ]
+}

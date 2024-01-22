@@ -1,0 +1,58 @@
+{
+  "sentences": [
+    {
+      "chinese": "告訴我你的故事。",
+      "english": "Tell me your story.",
+      "pinyin": "gào sù wǒ nǐ de gù shi。",
+      "words": [
+        {
+          "ch": "告訴",
+          "en": "tell",
+          "pi": "gào sù"
+        },
+        {
+          "ch": "我",
+          "en": "me",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "你的",
+          "en": "your",
+          "pi": "nǐ de"
+        },
+        {
+          "ch": "故事",
+          "en": "story",
+          "pi": "gù shi"
+        }
+      ]
+    },
+    {
+      "chinese": "我會注意聽。",
+      "english": "I will listen carefully.",
+      "pinyin": "wǒ huì zhù yì tīng。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "會",
+          "en": "will",
+          "pi": "huì"
+        },
+        {
+          "ch": "注意",
+          "en": "carefully",
+          "pi": "zhù yì"
+        },
+        {
+          "ch": "聽",
+          "en": "listen",
+          "pi": "tīng"
+        }
+      ]
+    }
+  ]
+}

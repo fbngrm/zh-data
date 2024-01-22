@@ -1,0 +1,32 @@
+{
+  "chinese": "你看起来什么都知道。",
+  "english": "You seem to know everything.",
+  "pinyin": "Nǐ kàn qǐlái shénme dōu zhīdào.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "Nǐ"
+    },
+    {
+      "ch": "看起来",
+      "en": "seem",
+      "pi": "kàn qǐlái"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    }
+  ]
+}

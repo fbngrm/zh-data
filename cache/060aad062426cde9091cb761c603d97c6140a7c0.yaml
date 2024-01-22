@@ -1,0 +1,32 @@
+{
+  "chinese": "湯姆搭公車去市區。",
+  "english": "Tom takes the bus to downtown.",
+  "pinyin": "Tāng mǔ dā gōngchē qù shìqū.",
+  "words": [
+    {
+      "ch": "湯姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "搭",
+      "en": "takes",
+      "pi": "dā"
+    },
+    {
+      "ch": "公車",
+      "en": "bus",
+      "pi": "gōngchē"
+    },
+    {
+      "ch": "去",
+      "en": "to",
+      "pi": "qù"
+    },
+    {
+      "ch": "市區",
+      "en": "downtown",
+      "pi": "shìqū"
+    }
+  ]
+}

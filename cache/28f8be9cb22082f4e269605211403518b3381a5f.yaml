@@ -1,0 +1,32 @@
+{
+  "chinese": "店前排起了长龙。",
+  "english": "There is a long queue in front of the store.",
+  "pinyin": "diàn qián pái qǐ le cháng lóng.",
+  "words": [
+    {
+      "ch": "店前",
+      "en": "in front of the store",
+      "pi": "diàn qián"
+    },
+    {
+      "ch": "排",
+      "en": "queue",
+      "pi": "pái"
+    },
+    {
+      "ch": "起",
+      "en": "start",
+      "pi": "qǐ"
+    },
+    {
+      "ch": "了",
+      "en": "indicating completion",
+      "pi": "le"
+    },
+    {
+      "ch": "长龙",
+      "en": "long dragon (metaphor for long queue)",
+      "pi": "cháng lóng"
+    }
+  ]
+}

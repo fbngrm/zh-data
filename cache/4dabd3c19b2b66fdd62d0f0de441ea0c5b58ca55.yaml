@@ -1,0 +1,37 @@
+{
+  "chinese": "我家附近有一个公园。",
+  "english": "There is a park near my house.",
+  "pinyin": "Wǒ jiā fùjìn yǒu yī gè gōngyuán.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "Wǒ"
+    },
+    {
+      "ch": "家",
+      "en": "home",
+      "pi": "jiā"
+    },
+    {
+      "ch": "附近",
+      "en": "nearby",
+      "pi": "fùjìn"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "公园",
+      "en": "park",
+      "pi": "gōngyuán"
+    }
+  ]
+}

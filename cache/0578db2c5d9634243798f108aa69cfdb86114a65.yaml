@@ -1,0 +1,57 @@
+{
+  "chinese": "她会说中文，却不会说普通话。",
+  "english": "She can speak Chinese, but can't speak Mandarin.",
+  "pinyin": "tā huì shuō zhōngwén, què bù huì shuō pǔtōnghuà.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "中文",
+      "en": "Chinese",
+      "pi": "zhōngwén"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": ","
+    },
+    {
+      "ch": "却",
+      "en": "but",
+      "pi": "què"
+    },
+    {
+      "ch": "不会",
+      "en": "can't",
+      "pi": "bù huì"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "普通话",
+      "en": "Mandarin",
+      "pi": "pǔtōnghuà"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "."
+    }
+  ]
+}

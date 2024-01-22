@@ -1,0 +1,47 @@
+{
+  "chinese": "汤姆说他会考虑我的问题。",
+  "english": "Tom said he will consider my question.",
+  "pinyin": "Tāng mǔ shuō tā huì kǎo lǜ wǒ de wèn tí.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "说",
+      "en": "said",
+      "pi": "shuō"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "考虑",
+      "en": "consider",
+      "pi": "kǎo lǜ"
+    },
+    {
+      "ch": "我",
+      "en": "my",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "的",
+      "en": "question",
+      "pi": "de"
+    },
+    {
+      "ch": "问题",
+      "en": "problem",
+      "pi": "wèn tí"
+    }
+  ]
+}

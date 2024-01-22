@@ -1,0 +1,32 @@
+{
+  "chinese": "这本书非常厚。",
+  "english": "This book is very thick.",
+  "pinyin": "zhè běn shū fēicháng hòu。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "书",
+      "en": "is",
+      "pi": "shū"
+    },
+    {
+      "ch": "非常",
+      "en": "very",
+      "pi": "fēicháng"
+    },
+    {
+      "ch": "厚",
+      "en": "thick",
+      "pi": "hòu"
+    }
+  ]
+}

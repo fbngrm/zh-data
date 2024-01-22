@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆和约翰关系很好。",
+  "english": "Tom and John have a good relationship.",
+  "pinyin": "tāng mǔ hé yāo háng guān xì hěn hǎo.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "约翰",
+      "en": "John",
+      "pi": "yāo háng"
+    },
+    {
+      "ch": "关系",
+      "en": "relationship",
+      "pi": "guān xì"
+    },
+    {
+      "ch": "很好",
+      "en": "good",
+      "pi": "hěn hǎo"
+    }
+  ]
+}

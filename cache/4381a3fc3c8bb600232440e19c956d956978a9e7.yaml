@@ -1,0 +1,57 @@
+{
+  "chinese": "我给她买了一个不错的圣诞礼物。",
+  "english": "I bought her a nice Christmas gift.",
+  "pinyin": "wǒ gěi tā mǎi le yī gè bùcuò de shèngdàn lǐwù。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "她",
+      "en": "her",
+      "pi": "tā"
+    },
+    {
+      "ch": "买",
+      "en": "buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "了",
+      "en": "past tense marker",
+      "pi": "le"
+    },
+    {
+      "ch": "一个",
+      "en": "one",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "不错",
+      "en": "good",
+      "pi": "bùcuò"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "圣诞",
+      "en": "Christmas",
+      "pi": "shèngdàn"
+    },
+    {
+      "ch": "礼物",
+      "en": "gift",
+      "pi": "lǐwù"
+    }
+  ]
+}

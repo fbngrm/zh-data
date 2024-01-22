@@ -1,0 +1,37 @@
+{
+  "chinese": "我问了医生一些问题。",
+  "english": "I asked the doctor some questions.",
+  "pinyin": "wǒ wèn le yīshēng yīxiē wèntí.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "问",
+      "en": "ask",
+      "pi": "wèn"
+    },
+    {
+      "ch": "了",
+      "en": "past tense particle",
+      "pi": "le"
+    },
+    {
+      "ch": "医生",
+      "en": "doctor",
+      "pi": "yīshēng"
+    },
+    {
+      "ch": "一些",
+      "en": "some",
+      "pi": "yīxiē"
+    },
+    {
+      "ch": "问题",
+      "en": "questions",
+      "pi": "wèntí"
+    }
+  ]
+}

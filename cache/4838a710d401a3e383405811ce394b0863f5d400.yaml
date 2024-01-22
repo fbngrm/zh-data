@@ -1,0 +1,32 @@
+{
+  "chinese": "他的医生建议他戒烟。",
+  "english": "His doctor advised him to quit smoking.",
+  "pinyin": "tā de yīshēng jiànyì tā jièyān。",
+  "words": [
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "医生",
+      "en": "doctor",
+      "pi": "yīshēng"
+    },
+    {
+      "ch": "建议",
+      "en": "advised",
+      "pi": "jiànyì"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    },
+    {
+      "ch": "戒烟",
+      "en": "to quit smoking",
+      "pi": "jièyān"
+    }
+  ]
+}

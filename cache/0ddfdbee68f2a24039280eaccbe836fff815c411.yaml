@@ -1,0 +1,37 @@
+{
+  "chinese": "请你告诉我详细地址。",
+  "english": "Please tell me the detailed address.",
+  "pinyin": "qǐng nǐ gàosu wǒ xiángxì dìzhǐ.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "告诉",
+      "en": "tell",
+      "pi": "gàosu"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "详细",
+      "en": "detailed",
+      "pi": "xiángxì"
+    },
+    {
+      "ch": "地址",
+      "en": "address",
+      "pi": "dìzhǐ"
+    }
+  ]
+}

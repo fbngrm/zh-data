@@ -1,0 +1,32 @@
+{
+  "chinese": "商店卖水果和蔬菜。",
+  "english": "The store sells fruits and vegetables.",
+  "pinyin": "shāng diàn mài shuǐ guǒ hé shū cài.",
+  "words": [
+    {
+      "ch": "商店",
+      "en": "store",
+      "pi": "shāng diàn"
+    },
+    {
+      "ch": "卖",
+      "en": "sell",
+      "pi": "mài"
+    },
+    {
+      "ch": "水果",
+      "en": "fruits",
+      "pi": "shuǐ guǒ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "蔬菜",
+      "en": "vegetables",
+      "pi": "shū cài"
+    }
+  ]
+}

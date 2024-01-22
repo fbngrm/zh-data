@@ -1,0 +1,32 @@
+{
+  "chinese": "我是一名工程师。",
+  "english": "I am an engineer.",
+  "pinyin": "Wǒ shì yī míng gōngchéngshī.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "Wǒ"
+    },
+    {
+      "ch": "是",
+      "en": "am",
+      "pi": "shì"
+    },
+    {
+      "ch": "一",
+      "en": "an",
+      "pi": "yī"
+    },
+    {
+      "ch": "名",
+      "en": "engineer",
+      "pi": "míng"
+    },
+    {
+      "ch": "工程师",
+      "en": "engineer",
+      "pi": "gōngchéngshī"
+    }
+  ]
+}

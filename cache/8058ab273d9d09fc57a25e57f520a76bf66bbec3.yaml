@@ -1,0 +1,32 @@
+{
+  "chinese": "桌子底下有一个篮子。",
+  "english": "There is a basket under the table.",
+  "pinyin": "Zhuōzi dǐxià yǒu yīgè lánzi.",
+  "words": [
+    {
+      "ch": "桌子",
+      "en": "table",
+      "pi": "zhuōzi"
+    },
+    {
+      "ch": "底下",
+      "en": "under",
+      "pi": "dǐxià"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yīgè"
+    },
+    {
+      "ch": "篮子",
+      "en": "basket",
+      "pi": "lánzi"
+    }
+  ]
+}

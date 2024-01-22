@@ -1,0 +1,13 @@
+{
+  "chinese": "我每天坐公车来大学。",
+  "english": "I take the bus to the university every day.",
+  "pinyin": "wǒ měi tiān zuò gōng chē lái dà xué。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "每天", "en": "every day", "pi": "měi tiān"},
+    {"ch": "坐", "en": "take", "pi": "zuò"},
+    {"ch": "公车", "en": "bus", "pi": "gōng chē"},
+    {"ch": "来", "en": "to", "pi": "lái"},
+    {"ch": "大学", "en": "university", "pi": "dà xué"}
+  ]
+}

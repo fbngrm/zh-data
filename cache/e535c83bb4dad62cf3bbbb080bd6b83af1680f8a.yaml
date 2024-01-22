@@ -1,0 +1,32 @@
+{
+  "chinese": "我想买辆新车。",
+  "english": "I want to buy a new car.",
+  "pinyin": "wǒ xiǎng mǎi liàng xīn chē。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "买",
+      "en": "to buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "辆",
+      "en": "a measure word for vehicles",
+      "pi": "liàng"
+    },
+    {
+      "ch": "新车",
+      "en": "new car",
+      "pi": "xīn chē"
+    }
+  ]
+}

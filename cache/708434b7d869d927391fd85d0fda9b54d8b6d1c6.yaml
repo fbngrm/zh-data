@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆喜欢玛利亚吗？",
+  "english": "Does Tom like Maria?",
+  "pinyin": "Tāng mǔ xǐhuān Mǎlìyǎ ma?",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "玛利亚",
+      "en": "Maria",
+      "pi": "Mǎlìyǎ"
+    },
+    {
+      "ch": "吗",
+      "en": "do",
+      "pi": "ma"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "?"
+    }
+  ]
+}

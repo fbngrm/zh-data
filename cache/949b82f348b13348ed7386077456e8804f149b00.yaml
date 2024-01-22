@@ -1,0 +1,37 @@
+{
+  "chinese": "你想吃点午饭吗？",
+  "english": "Do you want to have some lunch?",
+  "pinyin": "nǐ xiǎng chī diǎn wǔfàn ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "点",
+      "en": "some",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "午饭",
+      "en": "lunch",
+      "pi": "wǔfàn"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

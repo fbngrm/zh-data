@@ -1,0 +1,27 @@
+{
+  "chinese": "这只狗穿过街道。",
+  "english": "The dog crosses the street.",
+  "pinyin": "zhè zhī gǒu chuān guò jiē dào.",
+  "words": [
+    {
+      "ch": "这只",
+      "en": "this",
+      "pi": "zhè zhī"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "穿过",
+      "en": "cross",
+      "pi": "chuān guò"
+    },
+    {
+      "ch": "街道",
+      "en": "street",
+      "pi": "jiē dào"
+    }
+  ]
+}

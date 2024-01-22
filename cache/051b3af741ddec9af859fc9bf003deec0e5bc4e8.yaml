@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆买了张机票。",
+  "english": "Tom bought a plane ticket.",
+  "pinyin": "Tāngmǔ mǎi le zhāng jīpiào.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "买",
+      "en": "bought",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "张",
+      "en": "a",
+      "pi": "zhāng"
+    },
+    {
+      "ch": "机票",
+      "en": "plane ticket",
+      "pi": "jīpiào"
+    }
+  ]
+}

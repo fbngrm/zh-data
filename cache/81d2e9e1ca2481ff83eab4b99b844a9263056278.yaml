@@ -1,0 +1,32 @@
+{
+  "chinese": "我是汤姆的老婆。",
+  "english": "I am Tom's wife.",
+  "pinyin": "wǒ shì tāng mǔ de lǎo pó.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "是",
+      "en": "am",
+      "pi": "shì"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "的",
+      "en": "'s",
+      "pi": "de"
+    },
+    {
+      "ch": "老婆",
+      "en": "wife",
+      "pi": "lǎo pó"
+    }
+  ]
+}

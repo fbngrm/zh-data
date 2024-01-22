@@ -1,0 +1,42 @@
+{
+  "chinese": "你能在放学后帮助我们吗？",
+  "english": "Can you help us after school?",
+  "pinyin": "Nǐ néng zài fàng xué hòu bāngzhù wǒmen ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "放学后",
+      "en": "after school",
+      "pi": "fàng xué hòu"
+    },
+    {
+      "ch": "帮助",
+      "en": "help",
+      "pi": "bāngzhù"
+    },
+    {
+      "ch": "我们",
+      "en": "us",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

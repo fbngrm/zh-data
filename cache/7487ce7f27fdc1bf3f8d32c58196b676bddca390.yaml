@@ -1,0 +1,32 @@
+{
+  "chinese": "你要参加会议吗？",
+  "english": "Do you want to attend the meeting?",
+  "pinyin": "nǐ yào cān jiā huì yì ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "参加",
+      "en": "to attend",
+      "pi": "cān jiā"
+    },
+    {
+      "ch": "会议",
+      "en": "meeting",
+      "pi": "huì yì"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

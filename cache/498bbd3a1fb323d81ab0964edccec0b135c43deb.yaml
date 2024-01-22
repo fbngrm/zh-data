@@ -1,0 +1,32 @@
+{
+  "chinese": "他们的苹果没有我们的好。",
+  "english": "Their apples are not as good as ours.",
+  "pinyin": "tā men de píng guǒ méi yǒu wǒ men de hǎo.",
+  "words": [
+    {
+      "ch": "他们的",
+      "en": "Their",
+      "pi": "tā men de"
+    },
+    {
+      "ch": "苹果",
+      "en": "apples",
+      "pi": "píng guǒ"
+    },
+    {
+      "ch": "没有",
+      "en": "not",
+      "pi": "méi yǒu"
+    },
+    {
+      "ch": "我们的",
+      "en": "ours",
+      "pi": "wǒ men de"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    }
+  ]
+}

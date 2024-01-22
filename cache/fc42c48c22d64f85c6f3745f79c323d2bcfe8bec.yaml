@@ -1,0 +1,14 @@
+{
+  "chinese": "这只狗救了这个小女孩的命。",
+  "english": "This dog saved the life of the little girl.",
+  "pinyin": "zhè zhī gǒu jiù le zhè ge xiǎo nǚ hái de mìng。",
+  "words": [
+    {"ch": "这只", "en": "this", "pi": "zhè zhī"},
+    {"ch": "狗", "en": "dog", "pi": "gǒu"},
+    {"ch": "救了", "en": "saved", "pi": "jiù le"},
+    {"ch": "这个", "en": "the", "pi": "zhè ge"},
+    {"ch": "小女孩", "en": "little girl", "pi": "xiǎo nǚ hái"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "命", "en": "life", "pi": "mìng"}
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "这个沙拉有柠檬的味道。",
+  "english": "This salad has a lemon flavor.",
+  "pinyin": "zhè gè shālā yǒu níngméng de wèidào.",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "沙拉",
+      "en": "salad",
+      "pi": "shālā"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "柠檬",
+      "en": "lemon",
+      "pi": "níngméng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "味道",
+      "en": "flavor",
+      "pi": "wèidào"
+    }
+  ]
+}

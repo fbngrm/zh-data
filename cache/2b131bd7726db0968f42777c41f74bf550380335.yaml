@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆可能错过了最后一班列车。",
+  "english": "Tom may have missed the last train.",
+  "pinyin": "Tāng mǔ kěnéng cuòguòle zuìhòu yī bān lièchē.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "可能",
+      "en": "may",
+      "pi": "kěnéng"
+    },
+    {
+      "ch": "错过",
+      "en": "missed",
+      "pi": "cuòguò"
+    },
+    {
+      "ch": "了",
+      "en": "have",
+      "pi": "le"
+    },
+    {
+      "ch": "最后",
+      "en": "last",
+      "pi": "zuìhòu"
+    },
+    {
+      "ch": "一班",
+      "en": "train",
+      "pi": "yī bān"
+    },
+    {
+      "ch": "列车",
+      "en": "train",
+      "pi": "lièchē"
+    }
+  ]
+}

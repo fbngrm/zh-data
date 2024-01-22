@@ -1,0 +1,14 @@
+{
+  "chinese": "你和汤姆之间发生了什么？",
+  "english": "What happened between you and Tom?",
+  "pinyin": "Nǐ hé Tāng mǔ zhī jiān fā shēng le shén me?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ"},
+    {"ch": "之间", "en": "between", "pi": "zhī jiān"},
+    {"ch": "发生", "en": "happen", "pi": "fā shēng"},
+    {"ch": "了", "en": "what", "pi": "le"},
+    {"ch": "什么", "en": "something", "pi": "shén me"}
+  ]
+}

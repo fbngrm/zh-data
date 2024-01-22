@@ -1,0 +1,37 @@
+{
+  "chinese": "我明天可以打電話給你嗎？",
+  "english": "Can I call you tomorrow?",
+  "pinyin": "wǒ míngtiān kěyǐ dǎ diànhuà gěi nǐ ma?",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kěyǐ"
+    },
+    {
+      "ch": "打電話",
+      "en": "call",
+      "pi": "dǎ diànhuà"
+    },
+    {
+      "ch": "給",
+      "en": "you",
+      "pi": "gěi"
+    },
+    {
+      "ch": "嗎",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

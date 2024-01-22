@@ -1,0 +1,13 @@
+{
+  "chinese": "汤姆在这栋房子里。",
+  "english": "Tom is in this house.",
+  "pinyin": "Tāng mǔ zài zhè dòng fáng zi lǐ.",
+  "words": [
+    { "ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ" },
+    { "ch": "在", "en": "is", "pi": "zài" },
+    { "ch": "这", "en": "this", "pi": "zhè" },
+    { "ch": "栋", "en": "house", "pi": "dòng" },
+    { "ch": "房子", "en": "in", "pi": "fáng zi" },
+    { "ch": "里", "en": "inside", "pi": "lǐ" }
+  ]
+}

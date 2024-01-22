@@ -1,0 +1,45 @@
+{
+  "sentences": [
+    {
+      "chinese": "而且要記住，從此後不要再到海邊去。",
+      "english": "And remember, never go to the seaside again from now on.",
+      "pinyin": "Érqiě yào jìzhù, cóng cǐhòu bùyào zài dào hǎibiān qù."
+    },
+    {
+      "chinese": "永遠相信，我已經找到最大、最好、最適合我的那一顆。",
+      "english": "Always believe that I have found the biggest, best, and most suitable one for me.",
+      "pinyin": "Yǒngyuǎn xiāngxìn, wǒ yǐjīng zhǎodào zuìdà, zuìhǎo, zuì shìhé wǒ de nà yī kē."
+    }
+  ],
+  "words": [
+    [
+      { "ch": "而且", "en": "And", "pi": "Érqiě" },
+      { "ch": "要", "en": "want", "pi": "Yào" },
+      { "ch": "記住", "en": "remember", "pi": "Jìzhù" },
+      { "ch": "，", "en": ",", "pi": "，" },
+      { "ch": "從此後", "en": "from now on", "pi": "Cóng cǐhòu" },
+      { "ch": "不要", "en": "do not", "pi": "Bùyào" },
+      { "ch": "再", "en": "again", "pi": "Zài" },
+      { "ch": "到", "en": "to", "pi": "Dào" },
+      { "ch": "海邊", "en": "seaside", "pi": "Hǎibiān" },
+      { "ch": "去", "en": "go", "pi": "Qù" },
+      { "ch": "。", "en": ".", "pi": "。" }
+    ],
+    [
+      { "ch": "永遠", "en": "always", "pi": "Yǒngyuǎn" },
+      { "ch": "相信", "en": "believe", "pi": "Xiāngxìn" },
+      { "ch": "，", "en": ",", "pi": "，" },
+      { "ch": "我", "en": "I", "pi": "Wǒ" },
+      { "ch": "已經", "en": "already", "pi": "Yǐjīng" },
+      { "ch": "找到", "en": "found", "pi": "Zhǎodào" },
+      { "ch": "最大", "en": "biggest", "pi": "Zuìdà" },
+      { "ch": "、", "en": ",", "pi": "、" },
+      { "ch": "最好", "en": "best", "pi": "Zuìhǎo" },
+      { "ch": "、", "en": ",", "pi": "、" },
+      { "ch": "最適合", "en": "most suitable", "pi": "Zuì shìhé" },
+      { "ch": "我的", "en": "my", "pi": "Wǒ de" },
+      { "ch": "那一顆", "en": "one", "pi": "Nà yī kē" },
+      { "ch": "。", "en": ".", "pi": "。" }
+    ]
+  ]
+}

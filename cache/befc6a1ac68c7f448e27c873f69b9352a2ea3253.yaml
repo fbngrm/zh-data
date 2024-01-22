@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆不会打网球。",
+  "english": "Tom doesn't know how to play tennis.",
+  "pinyin": "Tāng mǔ bù huì dǎ wǎngqiú.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "不会",
+      "en": "don't know how to",
+      "pi": "bù huì"
+    },
+    {
+      "ch": "打",
+      "en": "play",
+      "pi": "dǎ"
+    },
+    {
+      "ch": "网球",
+      "en": "tennis",
+      "pi": "wǎngqiú"
+    }
+  ]
+}

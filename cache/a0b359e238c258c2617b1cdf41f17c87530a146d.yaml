@@ -1,0 +1,58 @@
+{
+  "sentences": [
+    {
+      "chinese": "快１１点了。",
+      "english": "It's almost 11 o'clock.",
+      "pinyin": "kuài shí yī diǎn le。",
+      "words": [
+        {
+          "ch": "快",
+          "en": "almost",
+          "pi": "kuài"
+        },
+        {
+          "ch": "１１点",
+          "en": "11 o'clock",
+          "pi": "shí yī diǎn"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        }
+      ]
+    },
+    {
+      "chinese": "我们该上床睡觉了。",
+      "english": "We should go to bed now.",
+      "pinyin": "wǒ men gāi shàng chuáng shuì jiào le。",
+      "words": [
+        {
+          "ch": "我们",
+          "en": "we",
+          "pi": "wǒ men"
+        },
+        {
+          "ch": "该",
+          "en": "should",
+          "pi": "gāi"
+        },
+        {
+          "ch": "上床",
+          "en": "go to bed",
+          "pi": "shàng chuáng"
+        },
+        {
+          "ch": "睡觉",
+          "en": "sleep",
+          "pi": "shuì jiào"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        }
+      ]
+    }
+  ]
+}

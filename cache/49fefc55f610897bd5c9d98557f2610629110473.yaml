@@ -1,0 +1,19 @@
+{
+  "chinese": "我想试试这件。请问哪里是试衣间？",
+  "english": "I want to try this. May I ask where is the fitting room?",
+  "pinyin": "wǒ xiǎng shì shì zhè jiàn. qǐng wèn nǎ lǐ shì shì yī jiān?",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "想", "en": "want", "pi": "xiǎng" },
+    { "ch": "试", "en": "to try", "pi": "shì" },
+    { "ch": "试", "en": "to try", "pi": "shì" },
+    { "ch": "这", "en": "this", "pi": "zhè" },
+    { "ch": "件", "en": "item", "pi": "jiàn" },
+    { "ch": "。", "en": ".", "pi": "" },
+    { "ch": "请问", "en": "May I ask", "pi": "qǐng wèn" },
+    { "ch": "哪里", "en": "where", "pi": "nǎ lǐ" },
+    { "ch": "是", "en": "is", "pi": "shì" },
+    { "ch": "试衣间", "en": "fitting room", "pi": "shì yī jiān" },
+    { "ch": "？", "en": "?", "pi": "" }
+  ]
+}

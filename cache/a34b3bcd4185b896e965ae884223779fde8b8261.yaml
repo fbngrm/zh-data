@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆努力工作挣了好多钱。",
+  "english": "Tom worked hard and earned a lot of money.",
+  "pinyin": "Tāng mù nǔ lì gōng zuò zhèng le hǎo duō qián.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mù"
+    },
+    {
+      "ch": "努力",
+      "en": "work hard",
+      "pi": "nǔ lì"
+    },
+    {
+      "ch": "工作",
+      "en": "work",
+      "pi": "gōng zuò"
+    },
+    {
+      "ch": "挣",
+      "en": "earn",
+      "pi": "zhèng"
+    },
+    {
+      "ch": "了",
+      "en": "completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "好多",
+      "en": "a lot",
+      "pi": "hǎo duō"
+    },
+    {
+      "ch": "钱",
+      "en": "money",
+      "pi": "qián"
+    }
+  ]
+}

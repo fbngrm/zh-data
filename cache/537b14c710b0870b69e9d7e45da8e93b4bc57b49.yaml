@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆明天会来我们的学校。",
+  "english": "Tom will come to our school tomorrow.",
+  "pinyin": "Tāng mǔ míngtiān huì lái wǒmen de xuéxiào.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    },
+    {
+      "ch": "我们",
+      "en": "our",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "学校",
+      "en": "school",
+      "pi": "xuéxiào"
+    }
+  ]
+}

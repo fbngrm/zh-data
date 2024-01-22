@@ -1,0 +1,27 @@
+{
+  "chinese": "Tom有两个孩子。",
+  "english": "Tom has two children.",
+  "pinyin": "Tóm yǒu liǎng gè háizǐ.",
+  "words": [
+    {
+      "ch": "Tom",
+      "en": "Tom",
+      "pi": "Tóm"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "两个",
+      "en": "two",
+      "pi": "liǎng gè"
+    },
+    {
+      "ch": "孩子",
+      "en": "children",
+      "pi": "háizǐ"
+    }
+  ]
+}

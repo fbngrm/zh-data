@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆现在没在电视。",
+  "english": "Tom is not on TV now.",
+  "pinyin": "Tāng mǔ xiànzài méi zài diànshì.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiànzài"
+    },
+    {
+      "ch": "没",
+      "en": "not",
+      "pi": "méi"
+    },
+    {
+      "ch": "在",
+      "en": "on",
+      "pi": "zài"
+    },
+    {
+      "ch": "电视",
+      "en": "TV",
+      "pi": "diànshì"
+    }
+  ]
+}

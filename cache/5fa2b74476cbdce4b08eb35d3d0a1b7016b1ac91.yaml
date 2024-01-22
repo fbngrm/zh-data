@@ -1,0 +1,32 @@
+{
+  "chinese": "我家附近有一所学校。",
+  "english": "There is a school near my house.",
+  "pinyin": "wǒ jiā fù jìn yǒu yī suǒ xué xiào.",
+  "words": [
+    {
+      "ch": "我家",
+      "en": "my house",
+      "pi": "wǒ jiā"
+    },
+    {
+      "ch": "附近",
+      "en": "near",
+      "pi": "fù jìn"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一所",
+      "en": "a",
+      "pi": "yī suǒ"
+    },
+    {
+      "ch": "学校",
+      "en": "school",
+      "pi": "xué xiào"
+    }
+  ]
+}

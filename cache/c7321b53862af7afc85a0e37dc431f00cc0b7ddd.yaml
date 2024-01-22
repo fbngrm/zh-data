@@ -1,0 +1,28 @@
+{
+  "sentences": [
+    {
+      "chinese": "他会来吗？",
+      "english": "Will he come?",
+      "pinyin": "tā huì lái ma?",
+      "words": [
+        {"ch": "他", "en": "he", "pi": "tā"},
+        {"ch": "会", "en": "will", "pi": "huì"},
+        {"ch": "来", "en": "come", "pi": "lái"},
+        {"ch": "吗", "en": "question particle", "pi": "ma"}
+      ]
+    },
+    {
+      "chinese": "我看不会了。",
+      "english": "I don't think so.",
+      "pinyin": "wǒ kàn bù huì le.",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "看", "en": "look", "pi": "kàn"},
+        {"ch": "不", "en": "not", "pi": "bù"},
+        {"ch": "会", "en": "think", "pi": "huì"},
+        {"ch": "了", "en": "anymore", "pi": "le"},
+        {"ch": "。", "en": ".", "pi": "."}
+      ]
+    }
+  ]
+}

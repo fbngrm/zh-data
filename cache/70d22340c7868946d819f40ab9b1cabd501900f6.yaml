@@ -1,0 +1,27 @@
+{
+  "chinese": "我的中文说得不好。",
+  "english": "I'm not good at speaking Chinese.",
+  "pinyin": "Wǒ de zhōngwén shuō dé bù hǎo.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "中文",
+      "en": "Chinese",
+      "pi": "zhōngwén"
+    },
+    {
+      "ch": "说得",
+      "en": "speak",
+      "pi": "shuō dé"
+    },
+    {
+      "ch": "不好",
+      "en": "not good",
+      "pi": "bù hǎo"
+    }
+  ]
+}

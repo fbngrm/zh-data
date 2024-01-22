@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆叔叔是我妈妈的兄弟。",
+  "english": "Uncle Tom is my mother's brother.",
+  "pinyin": "Tāng mǔ shū shì wǒ māmā de xiōng dì。",
+  "words": [
+    {
+      "ch": "汤姆叔叔",
+      "en": "Uncle Tom",
+      "pi": "Tāng mǔ shū shu"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "妈妈",
+      "en": "mother",
+      "pi": "māmā"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "兄弟",
+      "en": "brother",
+      "pi": "xiōng dì"
+    }
+  ]
+}

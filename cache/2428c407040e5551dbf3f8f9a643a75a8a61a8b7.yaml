@@ -1,0 +1,32 @@
+{
+  "chinese": "我正在写我的新书。",
+  "english": "I am writing my new book.",
+  "pinyin": "Wǒ zhèngzài xiě wǒ de xīnshū.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "正在",
+      "en": "am",
+      "pi": "zhèngzài"
+    },
+    {
+      "ch": "写",
+      "en": "writing",
+      "pi": "xiě"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "新书",
+      "en": "new book",
+      "pi": "xīnshū"
+    }
+  ]
+}

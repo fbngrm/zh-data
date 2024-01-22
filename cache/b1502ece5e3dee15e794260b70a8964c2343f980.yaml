@@ -1,0 +1,32 @@
+{
+  "chinese": "我从来没有上学迟到。",
+  "english": "I have never been late for school.",
+  "pinyin": "wǒ cóng lái méiyǒu shàng xué chídào.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "从来",
+      "en": "never",
+      "pi": "cóng lái"
+    },
+    {
+      "ch": "没有",
+      "en": "have not",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "上学",
+      "en": "go to school",
+      "pi": "shàng xué"
+    },
+    {
+      "ch": "迟到",
+      "en": "be late",
+      "pi": "chídào"
+    }
+  ]
+}

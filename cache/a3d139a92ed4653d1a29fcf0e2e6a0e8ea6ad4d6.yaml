@@ -1,0 +1,42 @@
+{
+  "chinese": "你至少该说声”谢谢“吧。",
+  "english": "You should at least say \"thank you\".",
+  "pinyin": "Nǐ zhìshǎo gāi shuō shēng \"xièxiè\" ba.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "Nǐ"
+    },
+    {
+      "ch": "至少",
+      "en": "at least",
+      "pi": "zhìshǎo"
+    },
+    {
+      "ch": "该",
+      "en": "should",
+      "pi": "gāi"
+    },
+    {
+      "ch": "说",
+      "en": "say",
+      "pi": "shuō"
+    },
+    {
+      "ch": "声",
+      "en": "sound",
+      "pi": "shēng"
+    },
+    {
+      "ch": "谢谢",
+      "en": "thank you",
+      "pi": "xièxiè"
+    },
+    {
+      "ch": "吧",
+      "en": "particle indicating suggestion or surmise",
+      "pi": "ba"
+    }
+  ]
+}

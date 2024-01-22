@@ -1,0 +1,32 @@
+{
+  "chinese": "他的身体很好。",
+  "english": "His body is very healthy.",
+  "pinyin": "Tā de shēntǐ hěn hǎo.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "身体",
+      "en": "body",
+      "pi": "shēntǐ"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    }
+  ]
+}

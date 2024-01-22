@@ -1,0 +1,42 @@
+{
+  "chinese": "我不认为这是你的座位。",
+  "english": "I don't think this is your seat.",
+  "pinyin": "wǒ bù rèn wéi zhè shì nǐ de zuò wèi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "认为",
+      "en": "think",
+      "pi": "rèn wéi"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "座位",
+      "en": "seat",
+      "pi": "zuò wèi"
+    }
+  ]
+}

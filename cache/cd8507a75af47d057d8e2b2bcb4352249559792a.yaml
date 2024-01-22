@@ -1,0 +1,11 @@
+{
+  "chinese": "那个肉是鸡肉。",
+  "english": "That meat is chicken.",
+  "pinyin": "nà gè ròu shì jī ròu.",
+  "words": [
+    { "ch": "那个", "en": "that", "pi": "nà gè" },
+    { "ch": "肉", "en": "meat", "pi": "ròu" },
+    { "ch": "是", "en": "is", "pi": "shì" },
+    { "ch": "鸡肉", "en": "chicken", "pi": "jī ròu" }
+  ]
+}

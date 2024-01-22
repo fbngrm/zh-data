@@ -1,0 +1,47 @@
+{
+  "chinese": "这是我的错，不是你的错。",
+  "english": "This is my fault, not yours.",
+  "pinyin": "zhè shì wǒ de cuò, bú shì nǐ de cuò。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "错",
+      "en": "fault",
+      "pi": "cuò"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": ""
+    },
+    {
+      "ch": "不是",
+      "en": "not",
+      "pi": "bú shì"
+    },
+    {
+      "ch": "你的",
+      "en": "yours",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": ""
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "他似乎无法理解那首诗。",
+  "english": "He seems unable to understand that poem.",
+  "pinyin": "tā sìhū wúfǎ lǐjiě nà shǒu shī。",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "似乎", "en": "seems", "pi": "sìhū"},
+    {"ch": "无法", "en": "unable", "pi": "wúfǎ"},
+    {"ch":"理解", "en":"to understand", "pi":"lǐjiě"},
+    {"ch": "那", "en": "that", "pi": "nà"},
+    {"ch": "首", "en": "poem", "pi": "shǒu"},
+    {"ch": "诗", "en": "poem", "pi": "shī"}
+  ]
+}

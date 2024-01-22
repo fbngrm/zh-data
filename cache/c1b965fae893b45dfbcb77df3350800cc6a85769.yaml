@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆不吃肉，玛丽也是。",
+  "english": "Tom doesn't eat meat, and neither does Mary.",
+  "pinyin": "Tāng mǔ bù chī ròu, Mǎ lì yě shì.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "不吃肉",
+      "en": "doesn't eat meat",
+      "pi": "bù chī ròu"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎ lì"
+    },
+    {
+      "ch": "也是",
+      "en": "neither does",
+      "pi": "yě shì"
+    }
+  ]
+}

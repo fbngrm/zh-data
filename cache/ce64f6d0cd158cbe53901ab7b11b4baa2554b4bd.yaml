@@ -1,0 +1,17 @@
+{
+  "chinese": "前面的是姐姐，后面的是弟弟。",
+  "english": "The one in front is the older sister and the one in the back is the younger brother.",
+  "pinyin": "Qiánmiàn de shì jiějie, hòumian de shì dìdi.",
+  "words": [
+    {"ch": "前面", "en": "in front", "pi": "qiánmiàn"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "姐姐", "en": "older sister", "pi": "jiějie"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "后面", "en": "in the back", "pi": "hòumian"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "弟弟", "en": "younger brother", "pi": "dìdi"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}

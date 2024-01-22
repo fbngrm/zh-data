@@ -1,0 +1,32 @@
+{
+  "chinese": "这个单词法语没有的。",
+  "english": "This word is not in French.",
+  "pinyin": "zhè gè dān cí fǎ yǔ méi yǒu de.",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "This",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "单词",
+      "en": "word",
+      "pi": "dān cí"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎ yǔ"
+    },
+    {
+      "ch": "没有",
+      "en": "not have",
+      "pi": "méi yǒu"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    }
+  ]
+}

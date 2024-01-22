@@ -1,0 +1,16 @@
+{
+  "chinese": "他们送他们的儿子到欧洲去学习文化。",
+  "english": "They send their son to Europe to study culture.",
+  "pinyin": "tā men sòng tā men de ér zi dào ōu zhōu qù xué xí wén huà。",
+  "words": [
+    {"ch": "他们", "en": "They", "pi": "tā men"},
+    {"ch": "送", "en": "send", "pi": "sòng"},
+    {"ch": "他们的", "en": "their", "pi": "tā men de"},
+    {"ch": "儿子", "en": "son", "pi": "ér zi"},
+    {"ch": "到", "en": "to", "pi": "dào"},
+    {"ch": "欧洲", "en": "Europe", "pi": "ōu zhōu"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "学习", "en": "study", "pi": "xué xí"},
+    {"ch": "文化", "en": "culture", "pi": "wén huà"}
+  ]
+}

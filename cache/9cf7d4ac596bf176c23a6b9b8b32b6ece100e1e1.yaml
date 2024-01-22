@@ -1,0 +1,12 @@
+{
+  "chinese": "今天跟昨天一樣熱。",
+  "english": "Today is as hot as yesterday.",
+  "pinyin": "jīn tiān gēn zuó tiān yī yàng rè.",
+  "words": [
+    {"ch": "今天", "en": "Today", "pi": "jīn tiān"},
+    {"ch": "跟", "en": "is as", "pi": "gēn"},
+    {"ch": "昨天", "en": "yesterday", "pi": "zuó tiān"},
+    {"ch": "一樣", "en": "as", "pi": "yī yàng"},
+    {"ch": "熱", "en": "hot", "pi": "rè"}
+  ]
+}

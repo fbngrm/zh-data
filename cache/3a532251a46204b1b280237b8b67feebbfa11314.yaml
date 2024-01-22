@@ -1,0 +1,14 @@
+{
+  "chinese": "汤姆是在下个星期一回来吗？",
+  "english": "Is Tom coming back next Monday?",
+  "pinyin": "tāng mǔ shì zài xià gè xīng qī yī huí lái ma?",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "下个", "en": "next", "pi": "xià gè"},
+    {"ch": "星期一", "en": "Monday", "pi": "xīng qī yī"},
+    {"ch": "回来", "en": "come back", "pi": "huí lái"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

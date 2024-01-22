@@ -1,0 +1,42 @@
+{
+  "chinese": "他把他的狗带到学校去了。",
+  "english": "He brought his dog to the school.",
+  "pinyin": "tā bǎ tā de gǒu dài dào xuéxiào qùle.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "把",
+      "en": "bring",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "带到",
+      "en": "to",
+      "pi": "dài dào"
+    },
+    {
+      "ch": "学校",
+      "en": "school",
+      "pi": "xuéxiào"
+    },
+    {
+      "ch": "去了",
+      "en": "go",
+      "pi": "qùle"
+    }
+  ]
+}

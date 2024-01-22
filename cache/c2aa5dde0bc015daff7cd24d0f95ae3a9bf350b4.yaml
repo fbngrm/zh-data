@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆住得离公司并不近。",
+  "english": "Tom does not live close to the company.",
+  "pinyin": "Tāng mǔ zhù de lí gōngsī bìng bù jìn.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "住得",
+      "en": "live/dwelling",
+      "pi": "zhù de"
+    },
+    {
+      "ch": "离",
+      "en": "from",
+      "pi": "lí"
+    },
+    {
+      "ch": "公司",
+      "en": "company",
+      "pi": "gōngsī"
+    },
+    {
+      "ch": "并",
+      "en": "not",
+      "pi": "bìng"
+    },
+    {
+      "ch": "不",
+      "en": "near/close",
+      "pi": "bù"
+    },
+    {
+      "ch": "近",
+      "en": "close",
+      "pi": "jìn"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "他被他的叔叔抚养长大。",
+  "english": "He was raised by his uncle.",
+  "pinyin": "tā bèi tā de shūshu fǔyǎng zhǎngdà.",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "被", "en": "by", "pi": "bèi"},
+    {"ch": "他的", "en": "his", "pi": "tā de"},
+    {"ch": "叔叔", "en": "uncle", "pi": "shūshu"},
+    {"ch": "抚养", "en": "raised", "pi": "fǔyǎng"},
+    {"ch": "长大", "en": "grew up", "pi": "zhǎngdà"}
+  ]
+}

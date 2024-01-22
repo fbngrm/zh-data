@@ -1,0 +1,47 @@
+{
+  "chinese": "这本书是用英文写的。",
+  "english": "This book is written in English.",
+  "pinyin": "zhè běn shū shì yòng yīng wén xiě de.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "书",
+      "en": "is",
+      "pi": "shū"
+    },
+    {
+      "ch": "是",
+      "en": "written",
+      "pi": "shì"
+    },
+    {
+      "ch": "用",
+      "en": "in",
+      "pi": "yòng"
+    },
+    {
+      "ch": "英文",
+      "en": "English",
+      "pi": "yīng wén"
+    },
+    {
+      "ch": "写",
+      "en": "written",
+      "pi": "xiě"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    }
+  ]
+}

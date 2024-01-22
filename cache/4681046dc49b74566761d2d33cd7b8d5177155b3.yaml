@@ -1,0 +1,37 @@
+{
+  "chinese": "我认为我的法语不太好。",
+  "english": "I think my French is not very good.",
+  "pinyin": "wǒ rèn wéi wǒ de fǎ yǔ bú tài hǎo。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "认为",
+      "en": "think",
+      "pi": "rèn wéi"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎ yǔ"
+    },
+    {
+      "ch": "不太",
+      "en": "not very",
+      "pi": "bú tài"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    }
+  ]
+}

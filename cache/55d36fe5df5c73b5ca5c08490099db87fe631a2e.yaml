@@ -1,0 +1,32 @@
+{
+  "chinese": "明天您想作什么？",
+  "english": "What do you want to do tomorrow?",
+  "pinyin": "míng tiān nín xiǎng zuò shén me?",
+  "words": [
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "作",
+      "en": "do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shén me"
+    }
+  ]
+}

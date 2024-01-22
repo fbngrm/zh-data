@@ -1,0 +1,37 @@
+{
+  "chinese": "你应该在天黑之前回家。",
+  "english": "You should go home before it gets dark.",
+  "pinyin": "nǐ yīng gāi zài tiān hēi zhī qián huí jiā。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "应该",
+      "en": "should",
+      "pi": "yīng gāi"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "天黑",
+      "en": "it gets dark",
+      "pi": "tiān hēi"
+    },
+    {
+      "ch": "之前",
+      "en": "before",
+      "pi": "zhī qián"
+    },
+    {
+      "ch": "回家",
+      "en": "go home",
+      "pi": "huí jiā"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "最近的藥房在哪裡?",
+  "english": "Where is the nearest pharmacy?",
+  "pinyin": "zuì jìn de yào fáng zài nǎ lǐ?",
+  "words": [
+    {
+      "ch": "最近",
+      "en": "nearest",
+      "pi": "zuì jìn"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "藥房",
+      "en": "pharmacy",
+      "pi": "yào fáng"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪裡",
+      "en": "where",
+      "pi": "nǎ lǐ"
+    }
+  ]
+}

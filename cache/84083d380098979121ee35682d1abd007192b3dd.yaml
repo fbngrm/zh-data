@@ -1,0 +1,47 @@
+{
+  "chinese": "您不想再喝点茶吗？",
+  "english": "Don't you want to have some more tea?",
+  "pinyin": "nín bù xiǎng zài hē diǎn chá ma?",
+  "words": [
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "不",
+      "en": "do not",
+      "pi": "bù"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "再",
+      "en": "again",
+      "pi": "zài"
+    },
+    {
+      "ch": "喝",
+      "en": "drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "点",
+      "en": "some",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "茶",
+      "en": "tea",
+      "pi": "chá"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

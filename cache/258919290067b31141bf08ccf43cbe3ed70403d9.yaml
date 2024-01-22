@@ -1,0 +1,42 @@
+{
+  "chinese": "他因为这些树而看不见森林。",
+  "english": "He can't see the forest for the trees.",
+  "pinyin": "tā yīnwèi zhèxiē shù ér kàn bùjiàn sēnlín.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "因为",
+      "en": "because",
+      "pi": "yīnwèi"
+    },
+    {
+      "ch": "这些",
+      "en": "these",
+      "pi": "zhèxiē"
+    },
+    {
+      "ch": "树",
+      "en": "trees",
+      "pi": "shù"
+    },
+    {
+      "ch": "而",
+      "en": "for",
+      "pi": "ér"
+    },
+    {
+      "ch": "看不见",
+      "en": "can't see",
+      "pi": "kàn bùjiàn"
+    },
+    {
+      "ch": "森林",
+      "en": "forest",
+      "pi": "sēnlín"
+    }
+  ]
+}

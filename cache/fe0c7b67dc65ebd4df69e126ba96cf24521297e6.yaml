@@ -1,0 +1,47 @@
+{
+  "chinese": "我是日本人，但不住在日本。",
+  "english": "I am Japanese, but I don't live in Japan.",
+  "pinyin": "Wǒ shì rìběn rén, dàn bù zhù zài rìběn。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "Wǒ"
+    },
+    {
+      "ch": "是",
+      "en": "am",
+      "pi": "shì"
+    },
+    {
+      "ch": "日本人",
+      "en": "Japanese",
+      "pi": "rìběn rén"
+    },
+    {
+      "ch": "但",
+      "en": "but",
+      "pi": "dàn"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "住",
+      "en": "live",
+      "pi": "zhù"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "日本",
+      "en": "Japan",
+      "pi": "rìběn"
+    }
+  ]
+}

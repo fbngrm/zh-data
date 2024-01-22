@@ -1,0 +1,32 @@
+{
+  "chinese": "这有那么难吗？",
+  "english": "Is it so difficult?",
+  "pinyin": "zhè yǒu nàme nán ma?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "那么",
+      "en": "so",
+      "pi": "nàme"
+    },
+    {
+      "ch": "难",
+      "en": "difficult",
+      "pi": "nán"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

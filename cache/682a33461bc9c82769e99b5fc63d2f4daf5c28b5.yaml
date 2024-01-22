@@ -1,0 +1,14 @@
+{
+  "chinese": "她把她的孩子抱在怀里。",
+  "english": "She holds her child in her arms.",
+  "pinyin": "Tā bǎ tā de háizi bào zài huái lǐ.",
+  "words": [
+    {"ch": "她", "en": "she", "pi": "Tā"},
+    {"ch": "把", "en": "holds", "pi": "bǎ"},
+    {"ch": "她的", "en": "her", "pi": "tā de"},
+    {"ch": "孩子", "en": "child", "pi": "háizi"},
+    {"ch": "抱", "en": "in", "pi": "bào"},
+    {"ch": "在", "en": "arms", "pi": "zài"},
+    {"ch": "怀里", "en": "her", "pi": "huái lǐ"}
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "sentences": [
+    {
+      "chinese": "这是什么歌？",
+      "english": "What song is this?",
+      "pinyin": "zhè shì shénme gē?",
+      "words": [
+        {"ch": "这", "en": "this", "pi": "zhè"},
+        {"ch": "是", "en": "is", "pi": "shì"},
+        {"ch": "什么", "en": "what", "pi": "shénme"},
+        {"ch": "歌", "en": "song", "pi": "gē"}
+      ]
+    },
+    {
+      "chinese": "我以前听过，但是我想不起歌名了。",
+      "english": "I have heard it before, but I cannot remember the song name.",
+      "pinyin": "wǒ yǐqián tīngguò, dànshì wǒ xiǎngbùqǐ gēmíng le。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "以前", "en": "before", "pi": "yǐqián"},
+        {"ch": "听过", "en": "have heard", "pi": "tīngguò"},
+        {"ch": "，", "en": "but", "pi": "dànshì"},
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "想不起", "en": "cannot remember", "pi": "xiǎngbùqǐ"},
+        {"ch": "歌名", "en": "song name", "pi": "gēmíng"},
+        {"ch": "了", "en": "anymore", "pi": "le"},
+        {"ch": "。", "en": ".", "pi": ""}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chinese": "奶油和乳酪是由牛奶做成的。",
+  "english": "Butter and cheese are made from milk.",
+  "pinyin": "nǎi yóu hé rǔ lào shì yóu niú nǎi zuò chéng de.",
+  "words": [
+    {"ch": "奶油", "en": "butter", "pi": "nǎi yóu"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "乳酪", "en": "cheese", "pi": "rǔ lào"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "由", "en": "from", "pi": "yóu"},
+    {"ch": "牛奶", "en": "milk", "pi": "niú nǎi"},
+    {"ch": "做成", "en": "made", "pi": "zuò chéng"},
+    {"ch": "的", "en": "of", "pi": "de"}
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "我们应该进行测试。",
+  "english": "We should conduct a test.",
+  "pinyin": "wǒmen yīnggāi jìnxíng cèshì。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "应该",
+      "en": "should",
+      "pi": "yīnggāi"
+    },
+    {
+      "ch": "进行",
+      "en": "conduct",
+      "pi": "jìnxíng"
+    },
+    {
+      "ch": "测试",
+      "en": "a test",
+      "pi": "cèshì"
+    }
+  ]
+}

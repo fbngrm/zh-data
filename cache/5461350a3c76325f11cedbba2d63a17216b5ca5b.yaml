@@ -1,0 +1,47 @@
+{
+  "chinese": "这些狗中的其中一只是活的。",
+  "english": "One of these dogs is alive.",
+  "pinyin": "zhè xiē gǒu zhōng de qízhōng yī zhī shì huó de。",
+  "words": [
+    {
+      "ch": "这些",
+      "en": "these",
+      "pi": "zhè xiē"
+    },
+    {
+      "ch": "狗",
+      "en": "dogs",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "中",
+      "en": "among",
+      "pi": "zhōng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "其中",
+      "en": "one of",
+      "pi": "qí zhōng"
+    },
+    {
+      "ch": "一只",
+      "en": "one",
+      "pi": "yī zhī"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "活的",
+      "en": "alive",
+      "pi": "huó de"
+    }
+  ]
+}

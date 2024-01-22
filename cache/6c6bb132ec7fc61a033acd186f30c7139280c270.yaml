@@ -1,0 +1,32 @@
+{
+  "chinese": "你不可以看电视。",
+  "english": "You cannot watch TV.",
+  "pinyin": "nǐ bù kě yǐ kàn diàn shì.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kě yǐ"
+    },
+    {
+      "ch": "看",
+      "en": "watch",
+      "pi": "kàn"
+    },
+    {
+      "ch": "电视",
+      "en": "TV",
+      "pi": "diàn shì"
+    }
+  ]
+}

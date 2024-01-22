@@ -1,0 +1,42 @@
+{
+  "chinese": "这些巴士中没有一辆去新宿。",
+  "english": "None of these buses go to Shinjuku.",
+  "pinyin": "zhè xiē bā shì zhōng méi yǒu yī liàng qù xīn shù.",
+  "words": [
+    {
+      "ch": "这些",
+      "en": "these",
+      "pi": "zhè xiē"
+    },
+    {
+      "ch": "巴士",
+      "en": "buses",
+      "pi": "bā shì"
+    },
+    {
+      "ch": "中",
+      "en": "of",
+      "pi": "zhōng"
+    },
+    {
+      "ch": "没有",
+      "en": "no",
+      "pi": "méi yǒu"
+    },
+    {
+      "ch": "一辆",
+      "en": "a",
+      "pi": "yī liàng"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "新宿",
+      "en": "Shinjuku",
+      "pi": "xīn shù"
+    }
+  ]
+}

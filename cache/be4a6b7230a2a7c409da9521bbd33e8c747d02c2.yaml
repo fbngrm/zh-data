@@ -1,0 +1,15 @@
+{
+  "chinese": "一年四季，我最喜欢夏天，你呢？",
+  "english": "Throughout the year, I like summer the most. How about you?",
+  "pinyin": "Yī nián sì jì, wǒ zuì xǐhuān xiàtiān, nǐ ne?",
+  "words": [
+    {"ch": "一年", "en": "Throughout the year", "pi": "yī nián"},
+    {"ch": "四季", "en": "four seasons", "pi": "sì jì"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "最", "en": "most", "pi": "zuì"},
+    {"ch": "喜欢", "en": "like", "pi": "xǐhuān"},
+    {"ch": "夏天", "en": "summer", "pi": "xiàtiān"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "呢", "en": "how about", "pi": "ne"}
+  ]
+}

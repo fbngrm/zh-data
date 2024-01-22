@@ -1,0 +1,42 @@
+{
+  "chinese": "河内的天气比西贡冷一点。",
+  "english": "The weather in Hanoi is slightly colder than in Saigon.",
+  "pinyin": "Hénèi de tiānqì bǐ Xīgòng lěng yīdiǎn.",
+  "words": [
+    {
+      "ch": "河内",
+      "en": "Hanoi",
+      "pi": "Hénèi"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiānqì"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "西贡",
+      "en": "Saigon",
+      "pi": "Xīgòng"
+    },
+    {
+      "ch": "冷",
+      "en": "cold",
+      "pi": "lěng"
+    },
+    {
+      "ch": "一点",
+      "en": "slightly",
+      "pi": "yīdiǎn"
+    }
+  ]
+}

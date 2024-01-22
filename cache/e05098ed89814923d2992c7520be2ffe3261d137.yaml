@@ -1,0 +1,37 @@
+{
+  "chinese": "他在家休息一个小时。",
+  "english": "He is resting at home for one hour.",
+  "pinyin": "Tā zài jiā xiūxí yī gè xiǎoshí。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "家",
+      "en": "home",
+      "pi": "jiā"
+    },
+    {
+      "ch": "休息",
+      "en": "rest",
+      "pi": "xiūxí"
+    },
+    {
+      "ch": "一个",
+      "en": "one",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "小时",
+      "en": "hour",
+      "pi": "xiǎoshí"
+    }
+  ]
+}

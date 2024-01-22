@@ -1,0 +1,37 @@
+{
+  "chinese": "谁告诉了你这个消息？",
+  "english": "Who told you this news?",
+  "pinyin": "Shuí gàosù le nǐ zhè ge xiāoxi?",
+  "words": [
+    {
+      "ch": "谁",
+      "en": "Who",
+      "pi": "Shuí"
+    },
+    {
+      "ch": "告诉",
+      "en": "told",
+      "pi": "gàosù"
+    },
+    {
+      "ch": "了",
+      "en": "you",
+      "pi": "le"
+    },
+    {
+      "ch": "你",
+      "en": "this",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "个",
+      "en": "news",
+      "pi": "zhè ge"
+    },
+    {
+      "ch": "消息",
+      "en": "?",
+      "pi": "xiāoxi"
+    }
+  ]
+}

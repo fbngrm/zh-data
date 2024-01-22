@@ -1,0 +1,16 @@
+{
+  "chinese": "他妈的，哪个傻子敢在半夜打我电话?!",
+  "english": "Damn it, who the hell dares to call me in the middle of the night?!",
+  "pinyin": "tā mā de, nǎ gè shǎ zi gǎn zài bàn yè dǎ wǒ diàn huà?!",
+  "words": [
+    {"ch": "他妈的", "en": "damn it", "pi": "tā mā de"},
+    {"ch": "哪个", "en": "who", "pi": "nǎ gè"},
+    {"ch": "傻子", "en": "idiot", "pi": "shǎ zi"},
+    {"ch": "敢", "en": "dare", "pi": "gǎn"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "半夜", "en": "middle of the night", "pi": "bàn yè"},
+    {"ch": "打", "en": "to call", "pi": "dǎ"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "电话", "en": "phone call", "pi": "diàn huà"}
+  ]
+}

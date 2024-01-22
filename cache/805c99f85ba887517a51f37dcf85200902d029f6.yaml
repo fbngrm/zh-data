@@ -1,0 +1,13 @@
+{
+  "chinese": "她问了我们好几个问题。",
+  "english": "She asked us several questions.",
+  "pinyin": "Tā wèn le wǒmen hǎojǐ gè wèntí.",
+  "words": [
+    { "ch": "她", "en": "She", "pi": "tā" },
+    { "ch": "问", "en": "ask", "pi": "wèn" },
+    { "ch": "了", "en": "past tense marker", "pi": "le" },
+    { "ch": "我们", "en": "us", "pi": "wǒmen" },
+    { "ch": "好几个", "en": "several", "pi": "hǎojǐ gè" },
+    { "ch": "问题", "en": "questions", "pi": "wèntí" }
+  ]
+}

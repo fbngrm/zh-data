@@ -1,0 +1,17 @@
+{
+  "chinese": "他的父亲去世了，所以他很伤心。",
+  "english": "His father passed away, so he is very sad.",
+  "pinyin": "Tā de fùqīn qùshìle, suǒyǐ tā hěn shāngxīn.",
+  "words": [
+    {"ch": "他的", "en": "His", "pi": "tā de"},
+    {"ch": "父亲", "en": "father", "pi": "fùqīn"},
+    {"ch": "去世", "en": "passed away", "pi": "qùshì"},
+    {"ch": "了", "en": "", "pi": "le"},
+    {"ch": "，", "en": "", "pi": "，"},
+    {"ch": "所以", "en": "so", "pi": "suǒyǐ"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "伤心", "en": "sad", "pi": "shāngxīn"},
+    {"ch": "。", "en": "", "pi": "。"}
+  ]
+}

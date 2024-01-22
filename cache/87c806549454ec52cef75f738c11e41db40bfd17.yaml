@@ -1,0 +1,32 @@
+{
+  "chinese": "那时你在学校吗?",
+  "english": "Were you at school at that time?",
+  "pinyin": "nà shí nǐ zài xué xiào ma?",
+  "words": [
+    {
+      "ch": "那时",
+      "en": "at that time",
+      "pi": "nà shí"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "学校",
+      "en": "school",
+      "pi": "xué xiào"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

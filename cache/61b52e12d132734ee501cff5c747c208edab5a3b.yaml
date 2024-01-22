@@ -1,0 +1,32 @@
+{
+  "chinese": "我妈妈比我早起。",
+  "english": "My mom gets up earlier than me.",
+  "pinyin": "wǒ māma bǐ wǒ zǎo qǐ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "妈妈",
+      "en": "mom",
+      "pi": "māma"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "早起",
+      "en": "get up early",
+      "pi": "zǎo qǐ"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "這件我想要的夾克花費三百美元。",
+  "english": "This jacket that I want costs three hundred dollars.",
+  "pinyin": "zhè jiàn wǒ xiǎng yào de jiákè huāfèi sān bǎi měiyuán。",
+  "words": [
+    {
+      "ch": "這件",
+      "en": "This",
+      "pi": "zhè jiàn"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想要的",
+      "en": "want",
+      "pi": "xiǎng yào de"
+    },
+    {
+      "ch": "夾克",
+      "en": "jacket",
+      "pi": "jiákè"
+    },
+    {
+      "ch": "花費",
+      "en": "costs",
+      "pi": "huāfèi"
+    },
+    {
+      "ch": "三百",
+      "en": "three hundred",
+      "pi": "sān bǎi"
+    },
+    {
+      "ch": "美元",
+      "en": "dollars",
+      "pi": "měiyuán"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "sentences": [
+    {
+      "chinese": "你吃面条还是吃饭？",
+      "english": "Do you eat noodles or rice?",
+      "pinyin": "Nǐ chī miàntiáo háishì chī fàn?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "吃",
+          "en": "eat",
+          "pi": "chī"
+        },
+        {
+          "ch": "面条",
+          "en": "noodles",
+          "pi": "miàntiáo"
+        },
+        {
+          "ch": "还是",
+          "en": "or",
+          "pi": "háishì"
+        },
+        {
+          "ch": "吃饭",
+          "en": "rice",
+          "pi": "chī fàn"
+        }
+      ]
+    },
+    {
+      "chinese": "喝橙汁还是喝咖啡？",
+      "english": "Do you drink orange juice or coffee?",
+      "pinyin": "Hē chéngzhī háishì hē kāfēi?",
+      "words": [
+        {
+          "ch": "喝",
+          "en": "drink",
+          "pi": "hē"
+        },
+        {
+          "ch": "橙汁",
+          "en": "orange juice",
+          "pi": "chéngzhī"
+        },
+        {
+          "ch": "还是",
+          "en": "or",
+          "pi": "háishì"
+        },
+        {
+          "ch": "喝",
+          "en": "drink",
+          "pi": "hē"
+        },
+        {
+          "ch": "咖啡",
+          "en": "coffee",
+          "pi": "kāfēi"
+        }
+      ]
+    }
+  ]
+}

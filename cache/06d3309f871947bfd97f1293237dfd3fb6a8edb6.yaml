@@ -1,0 +1,14 @@
+{
+  "chinese": "巴士突然在路中心停了下來。",
+  "english": "The bus suddenly stopped in the middle of the road.",
+  "pinyin": "bā shì tū rán zài lù zhōng xīn tíng le xià lái。",
+  "words": [
+    {"ch": "巴士", "en": "bus", "pi": "bā shì"},
+    {"ch": "突然", "en": "suddenly", "pi": "tū rán"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "路中心", "en": "middle of the road", "pi": "lù zhōng xīn"},
+    {"ch": "停", "en": "stopped", "pi": "tíng"},
+    {"ch": "了", "en": "particle indicating completed action", "pi": "le"},
+    {"ch": "下來", "en": "down", "pi": "xià lái"}
+  ]
+}

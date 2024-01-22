@@ -1,0 +1,37 @@
+{
+  "chinese": "您不能使用这台洗衣机。",
+  "english": "You cannot use this washing machine.",
+  "pinyin": "nín bù néng shǐ yòng zhè tái xǐ yī jī。",
+  "words": [
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "不",
+      "en": "cannot",
+      "pi": "bù"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "使用",
+      "en": "use",
+      "pi": "shǐ yòng"
+    },
+    {
+      "ch": "这台",
+      "en": "this",
+      "pi": "zhè tái"
+    },
+    {
+      "ch": "洗衣机",
+      "en": "washing machine",
+      "pi": "xǐ yī jī"
+    }
+  ]
+}

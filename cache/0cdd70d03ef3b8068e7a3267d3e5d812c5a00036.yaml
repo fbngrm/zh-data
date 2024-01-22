@@ -1,0 +1,32 @@
+{
+  "chinese": "他们买果汁了吗？",
+  "english": "Did they buy juice?",
+  "pinyin": "tāmen mǎi guǒzhī le ma?",
+  "words": [
+    {
+      "ch": "他们",
+      "en": "they",
+      "pi": "tāmen"
+    },
+    {
+      "ch": "买",
+      "en": "buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "果汁",
+      "en": "juice",
+      "pi": "guǒzhī"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

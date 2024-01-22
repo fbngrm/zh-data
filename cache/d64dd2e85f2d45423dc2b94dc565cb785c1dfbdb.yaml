@@ -1,0 +1,27 @@
+{
+   "chinese": "汤姆每天２：３０回家。",
+   "english": "Tom goes home every day at 2:30.",
+   "pinyin": "Tāng mǔ měi tiān 2：30 huí jiā.",
+   "words": [
+      {
+         "ch": "汤姆",
+         "en": "Tom",
+         "pi": "Tāng mǔ"
+      },
+      {
+         "ch": "每天",
+         "en": "every day",
+         "pi": "měi tiān"
+      },
+      {
+         "ch": "２：３０",
+         "en": "2:30",
+         "pi": "2：30"
+      },
+      {
+         "ch": "回家",
+         "en": "go home",
+         "pi": "huí jiā"
+      }
+   ]
+}

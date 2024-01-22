@@ -1,0 +1,47 @@
+{
+  "chinese": "溫度計上的溫度跌到了零度以下。",
+  "english": "The temperature on the thermometer dropped below zero degrees.",
+  "pinyin": "wēndù jì shàng de wēndù diē dào le líng dù yǐxià。",
+  "words": [
+    {
+      "ch": "溫度計",
+      "en": "thermometer",
+      "pi": "wēndù jì"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "溫度",
+      "en": "temperature",
+      "pi": "wēndù"
+    },
+    {
+      "ch": "跌",
+      "en": "drop",
+      "pi": "diē"
+    },
+    {
+      "ch": "到了",
+      "en": "reached",
+      "pi": "dào le"
+    },
+    {
+      "ch": "零度",
+      "en": "zero degrees",
+      "pi": "líng dù"
+    },
+    {
+      "ch": "以下",
+      "en": "below",
+      "pi": "yǐxià"
+    }
+  ]
+}

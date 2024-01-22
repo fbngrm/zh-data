@@ -1,0 +1,62 @@
+{
+  "chinese": "我们的孩子喜欢狗，但我更喜欢猫。",
+  "english": "Our child likes dogs, but I prefer cats.",
+  "pinyin": "Wǒmen de háizi xǐhuān gǒu, dàn wǒ gèng xǐhuān māo.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "Our",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "的",
+      "en": "child",
+      "pi": "de"
+    },
+    {
+      "ch": "孩子",
+      "en": "likes",
+      "pi": "háizi"
+    },
+    {
+      "ch": "喜欢",
+      "en": "dogs",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "狗",
+      "en": "but",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "，",
+      "en": "I",
+      "pi": ","
+    },
+    {
+      "ch": "但",
+      "en": "prefer",
+      "pi": "dàn"
+    },
+    {
+      "ch": "我",
+      "en": "cats",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "更",
+      "en": "",
+      "pi": "gèng"
+    },
+    {
+      "ch": "喜欢",
+      "en": "",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "猫",
+      "en": ".",
+      "pi": "māo"
+    }
+  ]
+}

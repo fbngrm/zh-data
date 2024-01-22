@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆、玛丽和约翰都在这里。",
+  "english": "Tom, Mary, and John are all here.",
+  "pinyin": "Tāng mǔ, mǎ lì hé yāo háng dōu zài zhè lǐ.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎ lì"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "约翰",
+      "en": "John",
+      "pi": "yāo háng"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "在",
+      "en": "here",
+      "pi": "zài"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    }
+  ]
+}

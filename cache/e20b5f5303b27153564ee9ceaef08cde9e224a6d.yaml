@@ -1,0 +1,37 @@
+{
+  "chinese": "學校在星期六中午之前放學。",
+  "english": "School finishes before noon on Saturday.",
+  "pinyin": "xué xiào zài xīng qī liù zhōng wǔ zhī qián fàng xué。",
+  "words": [
+    {
+      "ch": "學校",
+      "en": "School",
+      "pi": "xué xiào"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "星期六",
+      "en": "Saturday",
+      "pi": "xīng qī liù"
+    },
+    {
+      "ch": "中午",
+      "en": "noon",
+      "pi": "zhōng wǔ"
+    },
+    {
+      "ch": "之前",
+      "en": "before",
+      "pi": "zhī qián"
+    },
+    {
+      "ch": "放學",
+      "en": "finishes",
+      "pi": "fàng xué"
+    }
+  ]
+}

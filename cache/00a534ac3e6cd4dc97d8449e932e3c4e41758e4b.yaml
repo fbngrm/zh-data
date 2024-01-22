@@ -1,0 +1,108 @@
+{
+  "sentences": [
+    {
+      "chinese": "你能动一下吗？",
+      "english": "Can you move a little?",
+      "pinyin": "nǐ néng dòng yīxià ma?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "能",
+          "en": "can",
+          "pi": "néng"
+        },
+        {
+          "ch": "动",
+          "en": "move",
+          "pi": "dòng"
+        },
+        {
+          "ch": "一下",
+          "en": "a little",
+          "pi": "yīxià"
+        },
+        {
+          "ch": "吗",
+          "en": "?",
+          "pi": "ma?"
+        }
+      ]
+    },
+    {
+      "chinese": "哦，对不起，我不知道自己占了那么多空间。",
+      "english": "Oh, sorry, I didn't realize I was taking up so much space.",
+      "pinyin": "ò, duìbùqǐ, wǒ bù zhīdào zìjǐ zhàn le nàme duō kōngjiān.",
+      "words": [
+        {
+          "ch": "哦",
+          "en": "oh",
+          "pi": "ò"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": ","
+        },
+        {
+          "ch": "对不起",
+          "en": "sorry",
+          "pi": "duìbùqǐ"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": ","
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "不知道",
+          "en": "didn't know",
+          "pi": "bù zhīdào"
+        },
+        {
+          "ch": "自己",
+          "en": "myself",
+          "pi": "zìjǐ"
+        },
+        {
+          "ch": "占",
+          "en": "take up",
+          "pi": "zhàn"
+        },
+        {
+          "ch": "了",
+          "en": "was",
+          "pi": "le"
+        },
+        {
+          "ch": "那么",
+          "en": "so",
+          "pi": "nàme"
+        },
+        {
+          "ch": "多",
+          "en": "much",
+          "pi": "duō"
+        },
+        {
+          "ch": "空间",
+          "en": "space",
+          "pi": "kōngjiān"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "玛丽会讲日语。",
+  "english": "Mary can speak Japanese.",
+  "pinyin": "mǎ lì huì jiǎng rì yǔ。",
+  "words": [
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "讲",
+      "en": "speak",
+      "pi": "jiǎng"
+    },
+    {
+      "ch": "日语",
+      "en": "Japanese",
+      "pi": "rì yǔ"
+    }
+  ]
+}

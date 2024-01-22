@@ -1,0 +1,19 @@
+{
+  "chinese": "当我打开门的时候，我发现他睡着了。",
+  "english": "When I opened the door, I found him sleeping.",
+  "pinyin": "Dāng wǒ dǎkāi mén de shíhòu, wǒ fāxiàn tā shuìzháo le.",
+  "words": [
+    {"ch": "当", "en": "when", "pi": "dāng"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "打开", "en": "opened", "pi": "dǎkāi"},
+    {"ch": "门", "en": "door", "pi": "mén"},
+    {"ch": "的", "en": "the", "pi": "de"},
+    {"ch": "时候", "en": "time", "pi": "shíhòu"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "发现", "en": "found", "pi": "fāxiàn"},
+    {"ch": "他", "en": "him", "pi": "tā"},
+    {"ch": "睡着", "en": "sleeping", "pi": "shuìzháo"},
+    {"ch": "了", "en": "", "pi": "le"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "下了三小时大雨。",
+  "english": "It rained heavily for three hours.",
+  "pinyin": "xià le sān xiǎo shí dà yǔ。",
+  "words": [
+    {
+      "ch": "下",
+      "en": "down",
+      "pi": "xià"
+    },
+    {
+      "ch": "了",
+      "en": "finished",
+      "pi": "le"
+    },
+    {
+      "ch": "三",
+      "en": "three",
+      "pi": "sān"
+    },
+    {
+      "ch": "小时",
+      "en": "hours",
+      "pi": "xiǎo shí"
+    },
+    {
+      "ch": "大雨",
+      "en": "heavy rain",
+      "pi": "dà yǔ"
+    }
+  ]
+}

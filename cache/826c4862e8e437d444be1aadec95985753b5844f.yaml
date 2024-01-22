@@ -1,0 +1,14 @@
+{
+  "chinese": "他们把小偷绑在树上了。",
+  "english": "They tied the thief to a tree.",
+  "pinyin": "tā men bǎ xiǎo tōu bǎng zài shù shàng le.",
+  "words": [
+    {"ch": "他们", "en": "They", "pi": "tā men"},
+    {"ch": "把", "en": "tied", "pi": "bǎ"},
+    {"ch": "小偷", "en": "thief", "pi": "xiǎo tōu"},
+    {"ch": "绑", "en": "to", "pi": "bǎng"},
+    {"ch": "在", "en": "a", "pi": "zài"},
+    {"ch": "树上", "en": "tree", "pi": "shù shàng"},
+    {"ch": "了", "en": "did", "pi": "le"}
+  ]
+}

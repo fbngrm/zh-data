@@ -1,0 +1,42 @@
+{
+  "chinese": "您有事想对我说吗？",
+  "english": "Do you have something to tell me?",
+  "pinyin": "Nín yǒu shì xiǎng duì wǒ shuō ma?",
+  "words": [
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "Nín"
+    },
+    {
+      "ch": "有事",
+      "en": "have something",
+      "pi": "yǒu shì"
+    },
+    {
+      "ch": "想",
+      "en": "to",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "对",
+      "en": "tell",
+      "pi": "duì"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "说",
+      "en": "say",
+      "pi": "shuō"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "Ｔｏｍ正在喝苹果汁。",
+  "english": "Tom is drinking apple juice.",
+  "pinyin": "Tóng zhèngzài hē píngguǒ zhī.",
+  "words": [
+    {
+      "ch": "Ｔｏｍ",
+      "en": "Tom",
+      "pi": "Tóng"
+    },
+    {
+      "ch": "正在",
+      "en": "is",
+      "pi": "zhèngzài"
+    },
+    {
+      "ch": "喝",
+      "en": "drinking",
+      "pi": "hē"
+    },
+    {
+      "ch": "苹果汁",
+      "en": "apple juice",
+      "pi": "píngguǒ zhī"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我有条大狗。",
+  "english": "I have a big dog.",
+  "pinyin": "wǒ yǒu tiáo dà gǒu.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "条",
+      "en": "a",
+      "pi": "tiáo"
+    },
+    {
+      "ch": "大",
+      "en": "big",
+      "pi": "dà"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    }
+  ]
+}

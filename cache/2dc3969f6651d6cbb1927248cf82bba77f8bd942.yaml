@@ -1,0 +1,42 @@
+{
+  "chinese": "猪肉，牛肉，鸡蛋我都不吃。",
+  "english": "I don't eat pork, beef, or eggs.",
+  "pinyin": "zhūròu, niúròu, jīdàn wǒ dōu bù chī.",
+  "words": [
+    {
+      "ch": "猪肉",
+      "en": "pork",
+      "pi": "zhūròu"
+    },
+    {
+      "ch": "牛肉",
+      "en": "beef",
+      "pi": "niúròu"
+    },
+    {
+      "ch": "鸡蛋",
+      "en": "eggs",
+      "pi": "jīdàn"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    }
+  ]
+}

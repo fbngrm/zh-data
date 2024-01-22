@@ -1,0 +1,27 @@
+{
+  "chinese": "我父亲喜欢浓咖啡。",
+  "english": "My father likes strong coffee.",
+  "pinyin": "wǒ fùqīn xǐhuān nóng kāfēi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "父亲",
+      "en": "father",
+      "pi": "fùqīn"
+    },
+    {
+      "ch": "喜欢",
+      "en": "likes",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "浓咖啡",
+      "en": "strong coffee",
+      "pi": "nóng kāfēi"
+    }
+  ]
+}

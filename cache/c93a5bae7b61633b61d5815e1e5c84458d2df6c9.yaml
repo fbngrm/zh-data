@@ -1,0 +1,83 @@
+{
+  "sentences": [
+    {
+      "chinese": "请告诉大家，您究竟为了什么把他杀掉？",
+      "english": "Please tell everyone, what exactly did you kill him for?",
+      "pinyin": "Qǐng gàosù dàjiā, nín jiūjìng wèile shénme bǎ tā shādiào?",
+      "words": [
+        {
+          "ch": "请",
+          "en": "Please",
+          "pi": "qǐng"
+        },
+        {
+          "ch": "告诉",
+          "en": "tell",
+          "pi": "gàosù"
+        },
+        {
+          "ch": "大家",
+          "en": "everyone",
+          "pi": "dàjiā"
+        },
+        {
+          "ch": "您",
+          "en": "you",
+          "pi": "nín"
+        },
+        {
+          "ch": "究竟",
+          "en": "exactly",
+          "pi": "jiūjìng"
+        },
+        {
+          "ch": "为了",
+          "en": "for",
+          "pi": "wèile"
+        },
+        {
+          "ch": "什么",
+          "en": "what",
+          "pi": "shénme"
+        },
+        {
+          "ch": "把",
+          "en": "did",
+          "pi": "bǎ"
+        },
+        {
+          "ch": "他",
+          "en": "him",
+          "pi": "tā"
+        },
+        {
+          "ch": "杀掉",
+          "en": "kill",
+          "pi": "shādiào"
+        }
+      ]
+    },
+    {
+      "chinese": "是为了爱情。",
+      "english": "It's for love.",
+      "pinyin": "Shì wèile àiqíng.",
+      "words": [
+        {
+          "ch": "是",
+          "en": "It's",
+          "pi": "shì"
+        },
+        {
+          "ch": "为了",
+          "en": "for",
+          "pi": "wèile"
+        },
+        {
+          "ch": "爱情",
+          "en": "love",
+          "pi": "àiqíng"
+        }
+      ]
+    }
+  ]
+}

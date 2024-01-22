@@ -1,0 +1,47 @@
+{
+  "chinese": "我昨天放学回家的时候突然下起了大雨。",
+  "english": "Yesterday when I was returning home from school, it suddenly started to rain heavily.",
+  "pinyin": "wǒ zuótiān fàngxué huíjiā de shíhou túrán xià qǐle dàyǔ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "放学",
+      "en": "return from school",
+      "pi": "fàngxué"
+    },
+    {
+      "ch": "回家",
+      "en": "go home",
+      "pi": "huíjiā"
+    },
+    {
+      "ch": "的时候",
+      "en": "when",
+      "pi": "de shíhou"
+    },
+    {
+      "ch": "突然",
+      "en": "suddenly",
+      "pi": "túrán"
+    },
+    {
+      "ch": "下起了",
+      "en": "started to rain",
+      "pi": "xià qǐle"
+    },
+    {
+      "ch": "大雨",
+      "en": "heavy rain",
+      "pi": "dàyǔ"
+    }
+  ]
+}

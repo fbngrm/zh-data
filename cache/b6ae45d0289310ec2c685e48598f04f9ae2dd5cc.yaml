@@ -1,0 +1,27 @@
+{
+  "chinese": "兔子和乌龟赛跑。",
+  "english": "The rabbit and the turtle race.",
+  "pinyin": "Tùzi hé wūguī sàipǎo.",
+  "words": [
+    {
+      "ch": "兔子",
+      "en": "rabbit",
+      "pi": "tùzi"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "乌龟",
+      "en": "turtle",
+      "pi": "wūguī"
+    },
+    {
+      "ch": "赛跑",
+      "en": "race",
+      "pi": "sàipǎo"
+    }
+  ]
+}

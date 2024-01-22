@@ -1,0 +1,14 @@
+{
+  "chinese": "那是一隻有惡意的兔子。",
+  "english": "That is a malicious rabbit.",
+  "pinyin": "nà shì yī zhī yǒu è yì de tù zi.",
+  "words": [
+    { "ch": "那", "en": "That", "pi": "nà" },
+    { "ch": "是", "en": "is", "pi": "shì" },
+    { "ch": "一隻", "en": "a", "pi": "yī zhī" },
+    { "ch": "有", "en": "have", "pi": "yǒu" },
+    { "ch": "惡意", "en": "malicious", "pi": "è yì" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "兔子", "en": "rabbit", "pi": "tù zi" }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "你头疼吃两片阿司匹林吧.",
+  "english": "You have a headache, take two aspirin.",
+  "pinyin": "Nǐ tóu téng chī liǎng piàn ē sī pǐ lín ba.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "Nǐ"
+    },
+    {
+      "ch": "头疼",
+      "en": "headache",
+      "pi": "tóu téng"
+    },
+    {
+      "ch": "吃",
+      "en": "take",
+      "pi": "chī"
+    },
+    {
+      "ch": "两",
+      "en": "two",
+      "pi": "liǎng"
+    },
+    {
+      "ch": "片",
+      "en": "tablets",
+      "pi": "piàn"
+    },
+    {
+      "ch": "阿司匹林",
+      "en": "aspirin",
+      "pi": "ē sī pǐ lín"
+    },
+    {
+      "ch": "吧",
+      "en": "ok",
+      "pi": "ba"
+    }
+  ]
+}

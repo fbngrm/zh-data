@@ -1,0 +1,14 @@
+{
+  "chinese": "你最喜欢哪一种酸奶。",
+  "english": "Which type of yogurt do you like the most?",
+  "pinyin": "nǐ zuì xǐhuān nǎ yī zhǒng suānnǎi.",
+  "words": [
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "最", "en": "most", "pi": "zuì" },
+    { "ch": "喜欢", "en": "like", "pi": "xǐhuān" },
+    { "ch": "哪", "en": "which", "pi": "nǎ" },
+    { "ch": "一", "en": "one", "pi": "yī" },
+    { "ch": "种", "en": "type", "pi": "zhǒng" },
+    { "ch": "酸奶", "en": "yogurt", "pi": "suānnǎi" }
+  ]
+}

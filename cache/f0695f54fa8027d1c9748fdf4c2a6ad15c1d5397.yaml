@@ -1,0 +1,37 @@
+{
+  "chinese": "我是来学中文的。",
+  "english": "I am here to learn Chinese.",
+  "pinyin": "wǒ shì lái xué zhōngwén de.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "是",
+      "en": "am",
+      "pi": "shì"
+    },
+    {
+      "ch": "来",
+      "en": "here",
+      "pi": "lái"
+    },
+    {
+      "ch": "学",
+      "en": "to learn",
+      "pi": "xué"
+    },
+    {
+      "ch": "中文",
+      "en": "Chinese",
+      "pi": "zhōngwén"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    }
+  ]
+}

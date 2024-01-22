@@ -1,0 +1,57 @@
+{
+  "chinese": "甚麼？現在才十一點？還有一個小時才吃飯呢。",
+  "english": "What? It's only eleven o'clock now? There's still an hour before we eat.",
+  "pinyin": "Shénme? Xiànzài cái shíyīdiǎn? Hái yǒu yīgè xiǎoshí cái chīfàn ne.",
+  "words": [
+    {
+      "ch": "甚麼",
+      "en": "What",
+      "pi": "shénme"
+    },
+    {
+      "ch": "現在",
+      "en": "now",
+      "pi": "xiànzài"
+    },
+    {
+      "ch": "才",
+      "en": "only",
+      "pi": "cái"
+    },
+    {
+      "ch": "十一點",
+      "en": "eleven o'clock",
+      "pi": "shíyīdiǎn"
+    },
+    {
+      "ch": "還有",
+      "en": "still have",
+      "pi": "háiyǒu"
+    },
+    {
+      "ch": "一個",
+      "en": "one",
+      "pi": "yīgè"
+    },
+    {
+      "ch": "小時",
+      "en": "hour",
+      "pi": "xiǎoshí"
+    },
+    {
+      "ch": "才",
+      "en": "before",
+      "pi": "cái"
+    },
+    {
+      "ch": "吃飯",
+      "en": "eat",
+      "pi": "chīfàn"
+    },
+    {
+      "ch": "呢",
+      "en": "particle indicating continuation",
+      "pi": "ne"
+    }
+  ]
+}

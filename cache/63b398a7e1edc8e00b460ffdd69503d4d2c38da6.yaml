@@ -1,0 +1,13 @@
+{
+  "chinese": "这个传统在中国诞生了。",
+  "english": "This tradition was born in China.",
+  "pinyin": "zhè gè chuán tǒng zài zhōng guó dàn shēng le。",
+  "words": [
+    {"ch": "这个", "en":"This", "pi": "zhè gè"},
+    {"ch": "传统", "en":"tradition", "pi": "chuán tǒng"},
+    {"ch": "在", "en":"in", "pi": "zài"},
+    {"ch": "中国", "en":"China", "pi": "zhōng guó"},
+    {"ch": "诞生", "en":"born", "pi": "dàn shēng"},
+    {"ch": "了", "en":"was", "pi": "le"}
+  ]
+}

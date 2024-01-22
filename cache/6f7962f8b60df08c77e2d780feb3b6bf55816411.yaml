@@ -1,0 +1,27 @@
+{
+  "chinese": "他在学中文。",
+  "english": "He is learning Chinese.",
+  "pinyin": "tā zài xué zhōng wén.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "学",
+      "en": "learning",
+      "pi": "xué"
+    },
+    {
+      "ch": "中文",
+      "en": "Chinese",
+      "pi": "zhōng wén"
+    }
+  ]
+}

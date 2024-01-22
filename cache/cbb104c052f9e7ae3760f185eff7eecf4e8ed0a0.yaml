@@ -1,0 +1,13 @@
+{
+  "chinese": "我在亚平宁山脉看到了狼。",
+  "english": "I saw a wolf in the Apennine Mountains.",
+  "pinyin": "wǒ zài yà píng níng shān mài kàn dào le láng.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "在", "en": "in; at", "pi": "zài"},
+    {"ch": "亚平宁山脉", "en": "Apennine Mountains", "pi": "yà píng níng shān mài"},
+    {"ch": "看到", "en": "saw", "pi": "kàn dào"},
+    {"ch": "了", "en": "a particle indicating completed action", "pi": "le"},
+    {"ch": "狼", "en": "wolf", "pi": "láng"}
+  ]
+}

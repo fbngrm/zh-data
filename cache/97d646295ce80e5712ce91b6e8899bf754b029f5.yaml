@@ -1,0 +1,42 @@
+{
+  "chinese": "我喝水因为我渴了。",
+  "english": "I drink water because I am thirsty.",
+  "pinyin": "wǒ hē shuǐ yīnwèi wǒ kěle.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "喝",
+      "en": "drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "水",
+      "en": "water",
+      "pi": "shuǐ"
+    },
+    {
+      "ch": "因为",
+      "en": "because",
+      "pi": "yīnwèi"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "渴",
+      "en": "thirsty",
+      "pi": "kě"
+    },
+    {
+      "ch": "了",
+      "en": "am",
+      "pi": "le"
+    }
+  ]
+}

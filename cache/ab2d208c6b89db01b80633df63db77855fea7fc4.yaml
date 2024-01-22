@@ -1,0 +1,16 @@
+{
+  "chinese": "车子经过的时候把泥水溅到了我的身上。",
+  "english": "When the car passed by, it splashed mud on me.",
+  "pinyin": "chē zǐ jīng guò de shí hòu bǎ ní shuǐ jiàn dào le wǒ de shēn shàng。",
+  "words": [
+    {"ch": "车子", "en": "car", "pi": "chē zǐ"},
+    {"ch": "经过", "en": "pass by", "pi": "jīng guò"},
+    {"ch": "的时候", "en": "when", "pi": "de shí hòu"},
+    {"ch": "把", "en": "to", "pi": "bǎ"},
+    {"ch": "泥水", "en": "mud", "pi": "ní shuǐ"},
+    {"ch": "溅到", "en": "splashed on", "pi": "jiàn dào"},
+    {"ch": "了", "en": "indicating a completed action", "pi": "le"},
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "身上", "en": "body", "pi": "shēn shàng"}
+  ]
+}

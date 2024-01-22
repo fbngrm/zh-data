@@ -1,0 +1,15 @@
+{
+  "chinese": "我完全不明白他为甚么会突然辞职。",
+  "english": "I completely don't understand why he suddenly resigned.",
+  "pinyin": "wǒ wán quán bù míng bái tā wèi shén me huì tū rán cí zhí。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "完全", "en": "completely", "pi": "wán quán"},
+    {"ch": "不明白", "en": "don't understand", "pi": "bù míng bái"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "为甚么", "en": "why", "pi": "wèi shén me"},
+    {"ch": "会", "en": "suddenly", "pi": "huì"},
+    {"ch": "突然", "en": "resign", "pi": "tū rán"},
+    {"ch": "辞职", "en": "resigned", "pi": "cí zhí"}
+  ]
+}

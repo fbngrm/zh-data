@@ -1,0 +1,37 @@
+{
+  "chinese": "你在这里必须说英语。",
+  "english": "You must speak English here.",
+  "pinyin": "nǐ zài zhèlǐ bìxū shuō yīngyǔ.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "在",
+      "en": "must",
+      "pi": "zài"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhèlǐ"
+    },
+    {
+      "ch": "必须",
+      "en": "speak",
+      "pi": "bìxū"
+    },
+    {
+      "ch": "说",
+      "en": "English",
+      "pi": "shuō"
+    },
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīngyǔ"
+    }
+  ]
+}

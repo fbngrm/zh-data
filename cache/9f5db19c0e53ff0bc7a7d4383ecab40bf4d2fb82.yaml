@@ -1,0 +1,27 @@
+{
+  "chinese": "我今天不想上班。",
+  "english": "I don't want to go to work today.",
+  "pinyin": "Wǒ jīntiān bùxiǎng shàngbān.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "Wǒ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "不想",
+      "en": "don't want",
+      "pi": "bùxiǎng"
+    },
+    {
+      "ch": "上班",
+      "en": "go to work",
+      "pi": "shàngbān"
+    }
+  ]
+}

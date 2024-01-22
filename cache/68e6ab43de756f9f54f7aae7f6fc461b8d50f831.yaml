@@ -1,0 +1,47 @@
+{
+  "chinese": "这个班有１５个男生和２８个女生。",
+  "english": "There are 15 boys and 28 girls in this class.",
+  "pinyin": "zhè gè bān yǒu 15 gè nánshēng hé 28 gè nǚshēng。",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "班",
+      "en": "class",
+      "pi": "bān"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "１５个",
+      "en": "15",
+      "pi": "15 gè"
+    },
+    {
+      "ch": "男生",
+      "en": "boys",
+      "pi": "nánshēng"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "２８个",
+      "en": "28",
+      "pi": "28 gè"
+    },
+    {
+      "ch": "女生",
+      "en": "girls",
+      "pi": "nǚshēng"
+    }
+  ]
+}

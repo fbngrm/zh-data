@@ -1,0 +1,42 @@
+{
+  "chinese": "他是一个医生和一个作家。",
+  "english": "He is a doctor and a writer.",
+  "pinyin": "tā shì yī gè yī shēng hé yī gè zuò jiā。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "医生",
+      "en": "doctor",
+      "pi": "yī shēng"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "作家",
+      "en": "writer",
+      "pi": "zuò jiā"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我们发现这个男孩睡得很沉。",
+  "english": "We found that this boy sleeps deeply.",
+  "pinyin": "wǒ men fā xiàn zhè gè nán hái shuì de hěn chén。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "发现",
+      "en": "found",
+      "pi": "fā xiàn"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "男孩",
+      "en": "boy",
+      "pi": "nán hái"
+    },
+    {
+      "ch": "睡得",
+      "en": "sleeps",
+      "pi": "shuì de"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "沉",
+      "en": "deeply",
+      "pi": "chén"
+    }
+  ]
+}

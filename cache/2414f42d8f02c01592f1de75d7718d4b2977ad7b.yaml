@@ -1,0 +1,13 @@
+{
+  "chinese": "她能说一口流利的西班牙语。",
+  "english": "She can speak fluent Spanish.",
+  "pinyin": "tā néng shuō yì kǒu liúlì de xībānyáyǔ。",
+  "words": [
+    {"ch": "她", "en": "She", "pi": "tā"},
+    {"ch": "能", "en": "can", "pi": "néng"},
+    {"ch": "说", "en": "speak", "pi": "shuō"},
+    {"ch": "一口", "en": "a", "pi": "yì kǒu"},
+    {"ch": "流利的", "en": "fluent", "pi": "liúlì de"},
+    {"ch": "西班牙语", "en": "Spanish", "pi": "xībānyáyǔ"}
+  ]
+}

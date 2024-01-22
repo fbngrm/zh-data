@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "chinese": "你到哪去？",
+      "english": "Where are you going?",
+      "pinyin": "Nǐ dào nǎ qù?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "到",
+          "en": "to arrive",
+          "pi": "dào"
+        },
+        {
+          "ch": "哪",
+          "en": "where",
+          "pi": "nǎ"
+        },
+        {
+          "ch": "去",
+          "en": "to go",
+          "pi": "qù"
+        }
+      ]
+    },
+    {
+      "chinese": "你去哪？",
+      "english": "Where are you going?",
+      "pinyin": "Nǐ qù nǎ?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "去",
+          "en": "to go",
+          "pi": "qù"
+        },
+        {
+          "ch": "哪",
+          "en": "where",
+          "pi": "nǎ"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "我的房子有两座楼梯。",
+  "english": "My house has two stairs.",
+  "pinyin": "wǒ de fángzi yǒu liǎng zuò lóutī。",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "房子",
+      "en": "house",
+      "pi": "fángzi"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "两",
+      "en": "two",
+      "pi": "liǎng"
+    },
+    {
+      "ch": "座",
+      "en": "measure word for buildings",
+      "pi": "zuò"
+    },
+    {
+      "ch": "楼梯",
+      "en": "stairs",
+      "pi": "lóutī"
+    }
+  ]
+}

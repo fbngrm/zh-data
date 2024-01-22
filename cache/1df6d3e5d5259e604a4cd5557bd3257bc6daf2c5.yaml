@@ -1,0 +1,27 @@
+{
+  "chinese": "我父亲感冒了。",
+  "english": "My father caught a cold.",
+  "pinyin": "wǒ fù qīn gǎn mào le。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "父亲",
+      "en": "father",
+      "pi": "fù qīn"
+    },
+    {
+      "ch": "感冒",
+      "en": "to catch a cold",
+      "pi": "gǎn mào"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "他卖了一台丰田的车。",
+  "english": "He sold a Toyota car.",
+  "pinyin": "tā mài le yī tái fēng tián de chē.",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "卖", "en": "sold", "pi": "mài"},
+    {"ch": "了", "en": "a", "pi": "le"},
+    {"ch": "一台", "en": "Toyota", "pi": "yī tái"},
+    {"ch": "丰田的", "en": "car", "pi": "fēng tián de"},
+    {"ch": "车", "en": "car", "pi": "chē"}
+  ]
+}

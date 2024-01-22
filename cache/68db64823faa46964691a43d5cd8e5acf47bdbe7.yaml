@@ -1,0 +1,32 @@
+{
+  "chinese": "这只狗对着陌生人叫。",
+  "english": "This dog barks at strangers.",
+  "pinyin": "zhè zhī gǒu duì zhe mò shēng rén jiào.",
+  "words": [
+    {
+      "ch": "这只",
+      "en": "This",
+      "pi": "zhè zhī"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "对着",
+      "en": "at",
+      "pi": "duì zhe"
+    },
+    {
+      "ch": "陌生人",
+      "en": "strangers",
+      "pi": "mò shēng rén"
+    },
+    {
+      "ch": "叫",
+      "en": "barks",
+      "pi": "jiào"
+    }
+  ]
+}

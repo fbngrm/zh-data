@@ -1,0 +1,15 @@
+{
+  "chinese": "他扔一块石头到池塘里。",
+  "english": "He threw a stone into the pond.",
+  "pinyin": "tā rēng yī kuài shí tóu dào chí táng lǐ.",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "扔", "en": "throw", "pi": "rēng"},
+    {"ch": "一", "en": "one", "pi": "yī"},
+    {"ch": "块", "en": "piece", "pi": "kuài"},
+    {"ch": "石头", "en": "stone", "pi": "shí tóu"},
+    {"ch": "到", "en": "into", "pi": "dào"},
+    {"ch": "池塘", "en": "pond", "pi": "chí táng"},
+    {"ch": "里", "en": "in", "pi": "lǐ"}
+  ]
+}

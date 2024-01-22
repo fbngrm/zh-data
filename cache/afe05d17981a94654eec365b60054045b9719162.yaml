@@ -1,0 +1,47 @@
+{
+  "chinese": "北京的雾霾天气让我心情不太好。",
+  "english": "The smoggy weather in Beijing makes me feel not so good.",
+  "pinyin": "Běijīng de wùmái tiānqì ràng wǒ xīnqíng bù tài hǎo。",
+  "words": [
+    {
+      "ch": "北京",
+      "en": "Beijing",
+      "pi": "Běijīng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "雾霾",
+      "en": "smog",
+      "pi": "wùmái"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiānqì"
+    },
+    {
+      "ch": "让",
+      "en": "makes",
+      "pi": "ràng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "心情",
+      "en": "feelings",
+      "pi": "xīnqíng"
+    },
+    {
+      "ch": "不太好",
+      "en": "not so good",
+      "pi": "bù tài hǎo"
+    }
+  ]
+}

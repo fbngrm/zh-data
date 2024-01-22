@@ -1,0 +1,32 @@
+{
+  "chinese": "他现在在伦敦洽公。",
+  "english": "He is currently on a business trip in London.",
+  "pinyin": "Tā xiànzài zài lúndūn qiàgōng。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "现在",
+      "en": "currently",
+      "pi": "xiànzài"
+    },
+    {
+      "ch": "在",
+      "en": "on",
+      "pi": "zài"
+    },
+    {
+      "ch": "伦敦",
+      "en": "London",
+      "pi": "lúndūn"
+    },
+    {
+      "ch": "洽公",
+      "en": "business trip",
+      "pi": "qiàgōng"
+    }
+  ]
+}

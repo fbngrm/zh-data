@@ -1,0 +1,37 @@
+{
+  "chinese": "他問了我兩個問題。",
+  "english": "He asked me two questions.",
+  "pinyin": "tā wèn le wǒ liǎng gè wèn tí.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "問",
+      "en": "ask",
+      "pi": "wèn"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "兩個",
+      "en": "two",
+      "pi": "liǎng gè"
+    },
+    {
+      "ch": "問題",
+      "en": "questions",
+      "pi": "wèn tí"
+    }
+  ]
+}

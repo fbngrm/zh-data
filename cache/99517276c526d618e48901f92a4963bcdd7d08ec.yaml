@@ -1,0 +1,13 @@
+{
+  "chinese": "從這裏可以見到那座塔。",
+  "english": "You can see that tower from here.",
+  "pinyin": "cóng zhè lǐ kě yǐ jiàn dào nà zuò tǎ.",
+  "words": [
+    {"ch": "從", "en": "from", "pi": "cóng"},
+    {"ch": "這裏", "en": "here", "pi": "zhè lǐ"},
+    {"ch": "可以", "en": "can", "pi": "kě yǐ"},
+    {"ch": "見到", "en": "see", "pi": "jiàn dào"},
+    {"ch": "那座", "en": "that", "pi": "nà zuò"},
+    {"ch": "塔", "en": "tower", "pi": "tǎ"}
+  ]
+}

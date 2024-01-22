@@ -1,0 +1,13 @@
+{
+  "chinese": "如果你有意见请举手。",
+  "english": "If you have any opinions, please raise your hand.",
+  "pinyin": "rú guǒ nǐ yǒu yì jiàn qǐng jǔ shǒu.",
+  "words": [
+    {"ch": "如果", "en": "if", "pi": "rú guǒ"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "意见", "en": "opinions", "pi": "yì jiàn"},
+    {"ch": "请", "en": "please", "pi": "qǐng"},
+    {"ch": "举手", "en": "raise your hand", "pi": "jǔ shǒu"}
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "chinese": "你能帮我说明一下规则吗？",
+  "english": "Can you help me explain the rules?",
+  "pinyin": "nǐ néng bāng wǒ shuōmíng yīxià guīzé ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "帮",
+      "en": "help",
+      "pi": "bāng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "说明",
+      "en": "explain",
+      "pi": "shuōmíng"
+    },
+    {
+      "ch": "一下",
+      "en": "a bit",
+      "pi": "yīxià"
+    },
+    {
+      "ch": "规则",
+      "en": "rules",
+      "pi": "guīzé"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

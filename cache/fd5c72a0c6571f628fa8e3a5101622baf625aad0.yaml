@@ -1,0 +1,32 @@
+{
+  "chinese": "我在1979年出生。",
+  "english": "I was born in 1979.",
+  "pinyin": "wǒ zài yī jiǔ qī jiǔ nián chū shēng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "1979",
+      "en": "1979",
+      "pi": "yī jiǔ qī jiǔ"
+    },
+    {
+      "ch": "年",
+      "en": "year",
+      "pi": "nián"
+    },
+    {
+      "ch": "出生",
+      "en": "born",
+      "pi": "chū shēng"
+    }
+  ]
+}

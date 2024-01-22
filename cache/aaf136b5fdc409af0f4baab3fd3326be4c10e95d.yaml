@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆意识到他丢了钱包。",
+  "english": "Tom realized that he lost his wallet.",
+  "pinyin": "Tāng mǔ yì shí dào tā diū le qián bāo.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "意识",
+      "en": "realize",
+      "pi": "yì shí"
+    },
+    {
+      "ch": "到",
+      "en": "that",
+      "pi": "dào"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "丢",
+      "en": "lost",
+      "pi": "diū"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "钱包",
+      "en": "wallet",
+      "pi": "qián bāo"
+    }
+  ]
+}

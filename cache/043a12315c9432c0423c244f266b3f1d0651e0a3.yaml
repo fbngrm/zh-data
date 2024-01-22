@@ -1,0 +1,47 @@
+{
+  "chinese": "你进入我的房间之前都要敲门。",
+  "english": "You must knock on the door before entering my room.",
+  "pinyin": "nǐ jìnrù wǒ de fángjiān zhīqián dōu yào qiāomén。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "进入",
+      "en": "enter",
+      "pi": "jìnrù"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "房间",
+      "en": "room",
+      "pi": "fángjiān"
+    },
+    {
+      "ch": "之前",
+      "en": "before",
+      "pi": "zhīqián"
+    },
+    {
+      "ch": "都",
+      "en": "must",
+      "pi": "dōu"
+    },
+    {
+      "ch": "要",
+      "en": "knock",
+      "pi": "yào"
+    },
+    {
+      "ch": "敲门",
+      "en": "door",
+      "pi": "qiāomén"
+    }
+  ]
+}

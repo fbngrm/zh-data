@@ -1,0 +1,27 @@
+{
+  "chinese": "彼得看起来很年轻。",
+  "english": "Peter looks very young.",
+  "pinyin": "bǐ dé kàn qǐ lái hěn nián qīng。",
+  "words": [
+    {
+      "ch": "彼得",
+      "en": "Peter",
+      "pi": "bǐ dé"
+    },
+    {
+      "ch": "看起来",
+      "en": "looks",
+      "pi": "kàn qǐ lái"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "年轻",
+      "en": "young",
+      "pi": "nián qīng"
+    }
+  ]
+}

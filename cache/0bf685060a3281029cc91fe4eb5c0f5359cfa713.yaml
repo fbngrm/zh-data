@@ -1,0 +1,37 @@
+{
+  "chinese": "麵包比鳥的鳴唱好。",
+  "english": "Bread is better than birdsong.",
+  "pinyin": "miàn bāo bǐ niǎo de míng chàng hǎo.",
+  "words": [
+    {
+      "ch": "麵包",
+      "en": "bread",
+      "pi": "miàn bāo"
+    },
+    {
+      "ch": "比",
+      "en": "is better than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "鳥",
+      "en": "bird",
+      "pi": "niǎo"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "鳴唱",
+      "en": "birdsong",
+      "pi": "míng chàng"
+    },
+    {
+      "ch": "好",
+      "en": "better",
+      "pi": "hǎo"
+    }
+  ]
+}

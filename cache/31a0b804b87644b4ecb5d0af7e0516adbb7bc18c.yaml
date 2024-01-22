@@ -1,0 +1,32 @@
+{
+  "chinese": "她给了我一件礼物。",
+  "english": "She gave me a gift.",
+  "pinyin": "tā gěi le wǒ yī jiàn lǐwù。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "给了",
+      "en": "gave",
+      "pi": "gěi le"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "一件",
+      "en": "a",
+      "pi": "yī jiàn"
+    },
+    {
+      "ch": "礼物",
+      "en": "gift",
+      "pi": "lǐwù"
+    }
+  ]
+}

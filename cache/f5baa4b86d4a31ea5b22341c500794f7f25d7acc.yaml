@@ -1,0 +1,57 @@
+{
+  "chinese": "我有两个儿子，一个在东京，另一个在名古屋。",
+  "english": "I have two sons, one is in Tokyo, and the other is in Nagoya.",
+  "pinyin": "wǒ yǒu liǎng gè ér zi ，yī gè zài dōng jīng ，lìng yī gè zài míng gǔ wū 。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "两个",
+      "en": "two",
+      "pi": "liǎng gè"
+    },
+    {
+      "ch": "儿子",
+      "en": "sons",
+      "pi": "ér zi"
+    },
+    {
+      "ch": "一个",
+      "en": "one",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "在",
+      "en": "is in",
+      "pi": "zài"
+    },
+    {
+      "ch": "东京",
+      "en": "Tokyo",
+      "pi": "dōng jīng"
+    },
+    {
+      "ch": "另一个",
+      "en": "the other",
+      "pi": "lìng yī gè"
+    },
+    {
+      "ch": "在",
+      "en": "is in",
+      "pi": "zài"
+    },
+    {
+      "ch": "名古屋",
+      "en": "Nagoya",
+      "pi": "míng gǔ wū"
+    }
+  ]
+}

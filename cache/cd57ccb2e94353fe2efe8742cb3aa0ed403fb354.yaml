@@ -1,0 +1,32 @@
+{
+  "chinese": "你的行李超重了。",
+  "english": "Your luggage is overweight.",
+  "pinyin": "nǐ de xínglǐ chāozhòng le.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "行李",
+      "en": "luggage",
+      "pi": "xínglǐ"
+    },
+    {
+      "ch": "超重",
+      "en": "overweight",
+      "pi": "chāozhòng"
+    },
+    {
+      "ch": "了",
+      "en": "is",
+      "pi": "le"
+    }
+  ]
+}

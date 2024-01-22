@@ -1,0 +1,42 @@
+{
+  "chinese": "這首歌在七十年代很流行。",
+  "english": "This song was very popular in the 1970s.",
+  "pinyin": "zhè shǒu gē zài qī shí nián dài hěn liú xíng。",
+  "words": [
+    {
+      "ch": "這首",
+      "en": "this",
+      "pi": "zhè shǒu"
+    },
+    {
+      "ch": "歌",
+      "en": "song",
+      "pi": "gē"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "七十",
+      "en": "70",
+      "pi": "qī shí"
+    },
+    {
+      "ch": "年代",
+      "en": "years",
+      "pi": "nián dài"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "流行",
+      "en": "popular",
+      "pi": "liú xíng"
+    }
+  ]
+}

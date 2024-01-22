@@ -1,0 +1,42 @@
+{
+  "chinese": "我有一些法语说得好的朋友。",
+  "english": "I have some friends who speak French well.",
+  "pinyin": "wǒ yǒu yīxiē fǎyǔ shuō dé hǎo de péngyǒu.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一些",
+      "en": "some",
+      "pi": "yīxiē"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎyǔ"
+    },
+    {
+      "ch": "说得好",
+      "en": "speak well",
+      "pi": "shuō dé hǎo"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "朋友",
+      "en": "friends",
+      "pi": "péngyǒu"
+    }
+  ]
+}

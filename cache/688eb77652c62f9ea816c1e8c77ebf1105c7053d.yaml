@@ -1,0 +1,100 @@
+{
+  "sentences": [
+    {
+      "chinese": "越多奶酪越多洞。",
+      "english": "The more cheese, the more holes.",
+      "pinyin": "yuè duō nǎi lào yuè duō dòng。",
+      "words": [
+        {
+          "ch": "越多",
+          "en": "the more",
+          "pi": "yuè duō"
+        },
+        {
+          "ch": "奶酪",
+          "en": "cheese",
+          "pi": "nǎi lào"
+        },
+        {
+          "ch": "越多",
+          "en": "the more",
+          "pi": "yuè duō"
+        },
+        {
+          "ch": "洞",
+          "en": "holes",
+          "pi": "dòng"
+        }
+      ]
+    },
+    {
+      "chinese": "洞越多则奶酪越少。",
+      "english": "The more holes, the less cheese.",
+      "pinyin": "dòng yuè duō zé nǎi lào yuè shǎo。",
+      "words": [
+        {
+          "ch": "洞",
+          "en": "holes",
+          "pi": "dòng"
+        },
+        {
+          "ch": "越多",
+          "en": "the more",
+          "pi": "yuè duō"
+        },
+        {
+          "ch": "则",
+          "en": "then",
+          "pi": "zé"
+        },
+        {
+          "ch": "奶酪",
+          "en": "cheese",
+          "pi": "nǎi lào"
+        },
+        {
+          "ch": "越少",
+          "en": "the less",
+          "pi": "yuè shǎo"
+        }
+      ]
+    },
+    {
+      "chinese": "因此:奶酪越多就越少奶酪。",
+      "english": "Therefore, the more cheese, the less cheese.",
+      "pinyin": "yīn cǐ: nǎi lào yuè duō jiù yuè shǎo nǎi lào。",
+      "words": [
+        {
+          "ch": "因此",
+          "en": "therefore",
+          "pi": "yīn cǐ"
+        },
+        {
+          "ch": "奶酪",
+          "en": "cheese",
+          "pi": "nǎi lào"
+        },
+        {
+          "ch": "越多",
+          "en": "the more",
+          "pi": "yuè duō"
+        },
+        {
+          "ch": "就",
+          "en": "then",
+          "pi": "jiù"
+        },
+        {
+          "ch": "越少",
+          "en": "the less",
+          "pi": "yuè shǎo"
+        },
+        {
+          "ch": "奶酪",
+          "en": "cheese",
+          "pi": "nǎi lào"
+        }
+      ]
+    }
+  ]
+}

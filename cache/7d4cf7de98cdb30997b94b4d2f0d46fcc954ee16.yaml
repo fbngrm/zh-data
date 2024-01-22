@@ -1,0 +1,32 @@
+{
+  "chinese": "今天出现了很多问题。",
+  "english": "Many problems arose today.",
+  "pinyin": "Jīntiān chūxiànle hěnduō wèntí.",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "出现",
+      "en": "arose",
+      "pi": "chūxiàn"
+    },
+    {
+      "ch": "了",
+      "en": "many",
+      "pi": "le"
+    },
+    {
+      "ch": "很多",
+      "en": "problems",
+      "pi": "hěnduō"
+    },
+    {
+      "ch": "问题",
+      "en": "problems",
+      "pi": "wèntí"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "今天雾霾很重。",
+  "english": "Today the air pollution is very heavy.",
+  "pinyin": "jīntiān wùmái hěn zhòng.",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "Today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "雾霾",
+      "en": "air pollution",
+      "pi": "wùmái"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "重",
+      "en": "heavy",
+      "pi": "zhòng"
+    }
+  ]
+}

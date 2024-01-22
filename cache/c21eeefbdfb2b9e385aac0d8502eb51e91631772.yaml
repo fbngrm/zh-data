@@ -1,0 +1,32 @@
+{
+  "chinese": "那里有两座桥。",
+  "english": "There are two bridges over there.",
+  "pinyin": "Nàlǐ yǒu liǎng zuò qiáo.",
+  "words": [
+    {
+      "ch": "那里",
+      "en": "there",
+      "pi": "nàlǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "两",
+      "en": "two",
+      "pi": "liǎng"
+    },
+    {
+      "ch": "座",
+      "en": "measure word",
+      "pi": "zuò"
+    },
+    {
+      "ch": "桥",
+      "en": "bridge",
+      "pi": "qiáo"
+    }
+  ]
+}

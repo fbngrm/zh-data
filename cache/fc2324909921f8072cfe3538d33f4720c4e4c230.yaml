@@ -1,0 +1,32 @@
+{
+  "chinese": "下个月他会很忙。",
+  "english": "He will be very busy next month.",
+  "pinyin": "xià gè yuè tā huì hěn máng.",
+  "words": [
+    {
+      "ch": "下个月",
+      "en": "next month",
+      "pi": "xià gè yuè"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "忙",
+      "en": "busy",
+      "pi": "máng"
+    }
+  ]
+}

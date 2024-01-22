@@ -1,0 +1,20 @@
+{
+  "chinese": "因为我这份工作的缘故，我总是要打领带。",
+  "english": "Because of my job, I always have to wear a tie.",
+  "pinyin": "yīn wèi wǒ zhè fèn gōng zuò de yuán gù, wǒ zǒng shì yào dǎ lǐng dài。",
+  "words": [
+    {"ch": "因为", "en": "because", "pi": "yīn wèi"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "这份", "en": "this", "pi": "zhè fèn"},
+    {"ch": "工作", "en": "job", "pi": "gōng zuò"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "缘故", "en": "reason", "pi": "yuán gù"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "总是", "en": "always", "pi": "zǒng shì"},
+    {"ch": "要", "en": "have to", "pi": "yào"},
+    {"ch": "打", "en": "wear", "pi": "dǎ"},
+    {"ch": "领带", "en": "tie", "pi": "lǐng dài"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆问玛丽她妈在哪。",
+  "english": "Tom asked Mary where her mom is.",
+  "pinyin": "Tāng mǔ wèn Mǎlì tā mā zài nǎ.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "问",
+      "en": "ask",
+      "pi": "wèn"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎlì"
+    },
+    {
+      "ch": "她",
+      "en": "her",
+      "pi": "tā"
+    },
+    {
+      "ch": "妈",
+      "en": "mom",
+      "pi": "mā"
+    },
+    {
+      "ch": "在",
+      "en": "where",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪",
+      "en": "is",
+      "pi": "nǎ"
+    }
+  ]
+}

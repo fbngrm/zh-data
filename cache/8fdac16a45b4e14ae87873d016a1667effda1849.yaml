@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆一点也不喜欢玩扑克。",
+  "english": "Tom doesn't like playing poker at all.",
+  "pinyin": "Tāngmǔ yī diǎn yě bù xǐhuān wán pūkè.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "一点",
+      "en": "a little",
+      "pi": "yī diǎn"
+    },
+    {
+      "ch": "也",
+      "en": "also",
+      "pi": "yě"
+    },
+    {
+      "ch": "不喜欢",
+      "en": "don't like",
+      "pi": "bù xǐhuān"
+    },
+    {
+      "ch": "玩",
+      "en": "playing",
+      "pi": "wán"
+    },
+    {
+      "ch": "扑克",
+      "en": "poker",
+      "pi": "pūkè"
+    }
+  ]
+}

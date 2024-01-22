@@ -1,0 +1,47 @@
+{
+  "chinese": "你能帮我找我的钥匙吗？",
+  "english": "Can you help me find my keys?",
+  "pinyin": "nǐ néng bāng wǒ zhǎo wǒ de yàoshi ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "帮",
+      "en": "help",
+      "pi": "bāng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "找",
+      "en": "find",
+      "pi": "zhǎo"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "钥匙",
+      "en": "keys",
+      "pi": "yàoshi"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

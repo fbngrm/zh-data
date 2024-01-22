@@ -1,0 +1,42 @@
+{
+  "chinese": "大家都知道是汤姆做的",
+  "english": "Everyone knows that Tom did it",
+  "pinyin": "dà jiā dōu zhī dào shì tāng mǔ zuò de",
+  "words": [
+    {
+      "ch": "大家",
+      "en": "everyone",
+      "pi": "dà jiā"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "做",
+      "en": "do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "的",
+      "en": "it",
+      "pi": "de"
+    }
+  ]
+}

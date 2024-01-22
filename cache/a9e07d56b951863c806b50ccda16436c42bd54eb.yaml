@@ -1,0 +1,14 @@
+{
+  "chinese": "我希望我没买这东西。",
+  "english": "I hope I didn't buy this thing.",
+  "pinyin": "wǒ xīwàng wǒ méi mǎi zhè dōngxi.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "希望", "en": "hope", "pi": "xīwàng" },
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "没", "en": "didn't", "pi": "méi" },
+    { "ch": "买", "en": "buy", "pi": "mǎi" },
+    { "ch": "这", "en": "this", "pi": "zhè" },
+    { "ch": "东西", "en": "thing", "pi": "dōngxi" }
+  ]
+}

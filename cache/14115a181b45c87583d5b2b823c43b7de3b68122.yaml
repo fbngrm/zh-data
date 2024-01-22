@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆建议我换我的门锁。",
+  "english": "Tom suggests that I change my door lock.",
+  "pinyin": "Tāng mǔ jiànyì wǒ huàn wǒ de mén suǒ。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "建议",
+      "en": "suggest",
+      "pi": "jiàn yì"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "换",
+      "en": "change",
+      "pi": "huàn"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "门锁",
+      "en": "door lock",
+      "pi": "mén suǒ"
+    }
+  ]
+}

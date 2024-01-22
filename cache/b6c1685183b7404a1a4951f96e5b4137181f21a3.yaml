@@ -1,0 +1,16 @@
+{
+  "chinese": "这些是我的书，而那些是他的书。",
+  "english": "These are my books, and those are his books.",
+  "pinyin": "Zhèxiē shì wǒ de shū, ér nàxiē shì tā de shū.",
+  "words": [
+    {"ch": "这些", "en": "these", "pi": "zhèxiē"},
+    {"ch": "是", "en": "are", "pi": "shì"},
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "书", "en": "books", "pi": "shū"},
+    {"ch": "而", "en": "and", "pi": "ér"},
+    {"ch": "那些", "en": "those", "pi": "nàxiē"},
+    {"ch": "是", "en": "are", "pi": "shì"},
+    {"ch": "他的", "en": "his", "pi": "tā de"},
+    {"ch": "书", "en": "books", "pi": "shū"}
+  ]
+}

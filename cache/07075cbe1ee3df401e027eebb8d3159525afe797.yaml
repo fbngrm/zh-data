@@ -1,0 +1,32 @@
+{
+  "chinese": "这不是我的想法。",
+  "english": "This is not my idea.",
+  "pinyin": "zhè bù shì wǒ de xiǎngfǎ.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "想法",
+      "en": "idea",
+      "pi": "xiǎngfǎ"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "他是一个伟大的科学家。",
+  "english": "He is a great scientist.",
+  "pinyin": "tā shì yí gè wěi dà de kē xué jiā。",
+  "words": [
+    { "ch": "他", "en": "He", "pi": "tā" },
+    { "ch": "是", "en": "is", "pi": "shì" },
+    { "ch": "一个", "en": "a", "pi": "yí gè" },
+    { "ch": "伟大", "en": "great", "pi": "wěi dà" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "科学家", "en": "scientist", "pi": "kē xué jiā" }
+  ]
+}

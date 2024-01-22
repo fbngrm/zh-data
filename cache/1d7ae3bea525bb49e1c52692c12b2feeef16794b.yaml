@@ -1,0 +1,20 @@
+{
+  "chinese": "如果我不在的时候有人来找我，麻烦你告诉他我很快回来。",
+  "english": "If someone comes to find me when I'm not here, please tell them I'll be back soon.",
+  "pinyin": "rúguǒ wǒ bù zài de shíhòu yǒurén lái zhǎo wǒ, máfan nǐ gàosù tā wǒ hěnkuài huílái.",
+  "words": [
+    {"ch": "如果", "en": "if", "pi": "rúguǒ"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "不在", "en": "not here", "pi": "bù zài"},
+    {"ch": "的", "en": "'s", "pi": "de"},
+    {"ch": "时候", "en": "time", "pi": "shíhòu"},
+    {"ch": "有人", "en": "someone", "pi": "yǒurén"},
+    {"ch": "来找", "en": "come to find", "pi": "lái zhǎo"},
+    {"ch": "麻烦你", "en": "please", "pi": "máfan nǐ"},
+    {"ch": "告诉", "en": "tell", "pi": "gàosù"},
+    {"ch": "他", "en": "them", "pi": "tā"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "很快", "en": "soon", "pi": "hěnkuài"},
+    {"ch": "回来", "en": "be back", "pi": "huílái"}
+  ]
+}

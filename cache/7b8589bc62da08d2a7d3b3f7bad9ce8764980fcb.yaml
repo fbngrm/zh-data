@@ -1,0 +1,32 @@
+{
+  "chinese": "你是哪里人呢？",
+  "english": "Where are you from?",
+  "pinyin": "nǐ shì nǎ lǐ rén ne?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "哪里",
+      "en": "where",
+      "pi": "nǎ lǐ"
+    },
+    {
+      "ch": "人",
+      "en": "people",
+      "pi": "rén"
+    },
+    {
+      "ch": "呢",
+      "en": "particle indicating a question",
+      "pi": "ne"
+    }
+  ]
+}

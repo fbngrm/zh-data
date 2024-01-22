@@ -1,0 +1,14 @@
+{
+  "chinese": "我要向经理介绍一下Ｍａｒｙ。",
+  "english": "I want to introduce Mary to the manager.",
+  "pinyin": "Wǒ yào xiàng jīnglǐ jièshào yīxià Mary.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "Wǒ"},
+    {"ch": "要", "en": "want", "pi": "yào"},
+    {"ch": "向", "en": "to", "pi": "xiàng"},
+    {"ch": "经理", "en": "manager", "pi": "jīnglǐ"},
+    {"ch": "介绍", "en": "introduce", "pi": "jièshào"},
+    {"ch": "一下", "en": "a bit", "pi": "yīxià"},
+    {"ch": "Ｍａｒｙ", "en": "Mary", "pi": "Mary"}
+  ]
+}

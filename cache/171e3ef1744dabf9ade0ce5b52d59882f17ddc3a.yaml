@@ -1,0 +1,32 @@
+{
+  "chinese": "书桌上有一个包。",
+  "english": "There is a bag on the desk.",
+  "pinyin": "Shūzhuō shàng yǒu yī gè bāo.",
+  "words": [
+    {
+      "ch": "书桌",
+      "en": "desk",
+      "pi": "shūzhuō"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "包",
+      "en": "bag",
+      "pi": "bāo"
+    }
+  ]
+}

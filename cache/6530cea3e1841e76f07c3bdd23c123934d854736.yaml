@@ -1,0 +1,19 @@
+{
+  "chinese": "那輛車子太貴了，我買不起。",
+  "english": "That car is too expensive, I can't afford it.",
+  "pinyin": "Nà liàng chēzi tài guìle, wǒ mǎi bù qǐ.",
+  "words": [
+    {"ch": "那", "en": "that", "pi": "nà"},
+    {"ch": "輛", "en": "car (measure word)", "pi": "liàng"},
+    {"ch": "車子", "en": "car", "pi": "chēzi"},
+    {"ch": "太", "en": "too", "pi": "tài"},
+    {"ch": "貴", "en": "expensive", "pi": "guì"},
+    {"ch": "了", "en": "particle of completed action", "pi": "le"},
+    {"ch": "，", "en": ",", "pi": ","},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "買", "en": "buy", "pi": "mǎi"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "起", "en": "afford", "pi": "qǐ"},
+    {"ch": "。", "en": ".", "pi": "."}
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "她给了他们一些苹果。",
+  "english": "She gave them some apples.",
+  "pinyin": "tā gěi le tā men yī xiē píng guǒ。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "给",
+      "en": "gave",
+      "pi": "gěi"
+    },
+    {
+      "ch": "了",
+      "en": "them",
+      "pi": "le"
+    },
+    {
+      "ch": "他们",
+      "en": "some",
+      "pi": "tā men"
+    },
+    {
+      "ch": "一些",
+      "en": "apples",
+      "pi": "yī xiē"
+    },
+    {
+      "ch": "苹果",
+      "en": "some",
+      "pi": "píng guǒ"
+    }
+  ]
+}

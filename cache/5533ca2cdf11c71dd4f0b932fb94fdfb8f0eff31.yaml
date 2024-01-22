@@ -1,0 +1,32 @@
+{
+  "chinese": "你坐地铁几号线？",
+  "english": "Which subway line are you taking?",
+  "pinyin": "nǐ zuò dì tiě jǐ hào xiàn?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "坐",
+      "en": "take",
+      "pi": "zuò"
+    },
+    {
+      "ch": "地铁",
+      "en": "subway",
+      "pi": "dì tiě"
+    },
+    {
+      "ch": "几",
+      "en": "which",
+      "pi": "jǐ"
+    },
+    {
+      "ch": "号线",
+      "en": "line",
+      "pi": "hào xiàn"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "你有没有红色的铅笔？",
+  "english": "Do you have a red pencil?",
+  "pinyin": "nǐ yǒu méiyǒu hóng sè de qiānbǐ?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "没有",
+      "en": "don't have",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "红色",
+      "en": "red",
+      "pi": "hóng sè"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "铅笔",
+      "en": "pencil",
+      "pi": "qiānbǐ"
+    }
+  ]
+}

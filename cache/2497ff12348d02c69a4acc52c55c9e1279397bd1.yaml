@@ -1,0 +1,32 @@
+{
+  "chinese": "我不想打开窗口。",
+  "english": "I don't want to open the window.",
+  "pinyin": "wǒ bù xiǎng dǎkāi chuāngkǒu.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "打开",
+      "en": "to open",
+      "pi": "dǎkāi"
+    },
+    {
+      "ch": "窗口",
+      "en": "window",
+      "pi": "chuāngkǒu"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我不是加拿大人。",
+  "english": "I am not Canadian.",
+  "pinyin": "wǒ bú shì jiānádà rén.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bú"
+    },
+    {
+      "ch": "是",
+      "en": "am",
+      "pi": "shì"
+    },
+    {
+      "ch": "加拿大",
+      "en": "Canadian",
+      "pi": "jiānádà"
+    },
+    {
+      "ch": "人",
+      "en": "person",
+      "pi": "rén"
+    }
+  ]
+}

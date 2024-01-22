@@ -1,0 +1,32 @@
+{
+  "chinese": "你应该去看牙医。",
+  "english": "You should go see a dentist.",
+  "pinyin": "nǐ yīng gāi qù kàn yá yī。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "应该",
+      "en": "should",
+      "pi": "yīng gāi"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "看",
+      "en": "see",
+      "pi": "kàn"
+    },
+    {
+      "ch": "牙医",
+      "en": "dentist",
+      "pi": "yá yī"
+    }
+  ]
+}

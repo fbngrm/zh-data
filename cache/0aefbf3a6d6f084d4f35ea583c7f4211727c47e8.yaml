@@ -1,0 +1,42 @@
+{
+  "chinese": "法语的元音比日语的多得多。",
+  "english": "French has many more vowels than Japanese.",
+  "pinyin": "fǎ yǔ de yuán yīn bǐ rì yǔ de duō dé duō。",
+  "words": [
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎ yǔ"
+    },
+    {
+      "ch": "的",
+      "en": "has",
+      "pi": "de"
+    },
+    {
+      "ch": "元音",
+      "en": "vowels",
+      "pi": "yuán yīn"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "日语",
+      "en": "Japanese",
+      "pi": "rì yǔ"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "多得多",
+      "en": "many more",
+      "pi": "duō dé duō"
+    }
+  ]
+}

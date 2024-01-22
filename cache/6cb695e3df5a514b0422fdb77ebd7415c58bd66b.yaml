@@ -1,0 +1,32 @@
+{
+  "chinese": "我犯了一个错。",
+  "english": "I made a mistake.",
+  "pinyin": "wǒ fàn le yī gè cuò。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "犯",
+      "en": "make",
+      "pi": "fàn"
+    },
+    {
+      "ch": "了",
+      "en": "a",
+      "pi": "le"
+    },
+    {
+      "ch": "一个",
+      "en": "mistake",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "错",
+      "en": "错",
+      "pi": "cuò"
+    }
+  ]
+}

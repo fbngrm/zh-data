@@ -1,0 +1,32 @@
+{
+  "chinese": "整晚一会下雨，一会停雨。",
+  "english": "It will rain for a while in the evening, then it will stop.",
+  "pinyin": "zhěng wǎn yī huì xià yǔ, yī huì tíng yǔ.",
+  "words": [
+    {
+      "ch": "整晚",
+      "en": "evening",
+      "pi": "zhěng wǎn"
+    },
+    {
+      "ch": "一会",
+      "en": "a while",
+      "pi": "yī huì"
+    },
+    {
+      "ch": "下雨",
+      "en": "rain",
+      "pi": "xià yǔ"
+    },
+    {
+      "ch": "一会",
+      "en": "a while",
+      "pi": "yī huì"
+    },
+    {
+      "ch": "停雨",
+      "en": "stop raining",
+      "pi": "tíng yǔ"
+    }
+  ]
+}

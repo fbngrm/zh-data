@@ -1,0 +1,37 @@
+{
+  "chinese": "有人叫你来这吗？",
+  "english": "Did someone call you here?",
+  "pinyin": "Yǒurén jiào nǐ lái zhè ma?",
+  "words": [
+    {
+      "ch": "有人",
+      "en": "someone",
+      "pi": "yǒurén"
+    },
+    {
+      "ch": "叫",
+      "en": "call",
+      "pi": "jiào"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    },
+    {
+      "ch": "这",
+      "en": "here",
+      "pi": "zhè"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

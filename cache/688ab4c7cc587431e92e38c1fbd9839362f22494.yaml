@@ -1,0 +1,13 @@
+{
+  "chinese": "我买了二十四支铅笔。",
+  "english": "I bought twenty-four pencils.",
+  "pinyin": "wǒ mǎi le èr shí sì zhī qiān bǐ.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "买", "en": "bought", "pi": "mǎi"},
+    {"ch": "了", "en": "", "pi": "le"},
+    {"ch": "二十四", "en": "twenty-four", "pi": "èr shí sì"},
+    {"ch": "支", "en": "", "pi": "zhī"},
+    {"ch": "铅笔", "en": "pencils", "pi": "qiān bǐ"}
+  ]
+}

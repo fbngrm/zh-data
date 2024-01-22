@@ -1,0 +1,32 @@
+{
+  "chinese": "现在的天气怎么样了？",
+  "english": "How is the weather now?",
+  "pinyin": "Xiànzài de tiānqì zěnme yàng le?",
+  "words": [
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiànzài"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiānqì"
+    },
+    {
+      "ch": "怎么样",
+      "en": "how",
+      "pi": "zěnme yàng"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

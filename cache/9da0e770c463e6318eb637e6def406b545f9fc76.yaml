@@ -1,0 +1,20 @@
+{
+  "chinese": "你想用這支筆，我就借給你吧。",
+  "english": "If you want to use this pen, I'll lend it to you.",
+  "pinyin": "nǐ xiǎng yòng zhè zhī bǐ, wǒ jiù jiè gěi nǐ ba.",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "想", "en": "want", "pi": "xiǎng"},
+    {"ch": "用", "en": "to use", "pi": "yòng"},
+    {"ch": "這", "en": "this", "pi": "zhè"},
+    {"ch": "支", "en": "measure word for pens", "pi": "zhī"},
+    {"ch": "筆", "en": "pen", "pi": "bǐ"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "就", "en": "just", "pi": "jiù"},
+    {"ch": "借", "en": "to lend", "pi": "jiè"},
+    {"ch": "給", "en": "to", "pi": "gěi"},
+    {"ch": "吧", "en": "to you", "pi": "ba"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "你是菲律宾人吗？",
+  "english": "Are you Filipino?",
+  "pinyin": "nǐ shì fēi lǜ bīn rén ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "菲律宾",
+      "en": "Filipino",
+      "pi": "fēi lǜ bīn"
+    },
+    {
+      "ch": "人",
+      "en": "person",
+      "pi": "rén"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

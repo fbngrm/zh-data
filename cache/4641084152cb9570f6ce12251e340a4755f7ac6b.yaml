@@ -1,0 +1,47 @@
+{
+  "chinese": "我把雨伞落在这里了吗？",
+  "english": "Did I leave the umbrella here?",
+  "pinyin": "wǒ bǎ yǔ sǎn luò zài zhè lǐ le ma?",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "把",
+      "en": "take",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "雨伞",
+      "en": "umbrella",
+      "pi": "yǔ sǎn"
+    },
+    {
+      "ch": "落",
+      "en": "leave",
+      "pi": "luò"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "了",
+      "en": "did",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

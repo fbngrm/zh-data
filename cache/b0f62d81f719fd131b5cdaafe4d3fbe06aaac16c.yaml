@@ -1,0 +1,32 @@
+{
+  "chinese": "我妹妹比你矮。",
+  "english": "My younger sister is shorter than you.",
+  "pinyin": "wǒ mèi mèi bǐ nǐ ǎi。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "妹妹",
+      "en": "younger sister",
+      "pi": "mèi mèi"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "矮",
+      "en": "short",
+      "pi": "ǎi"
+    }
+  ]
+}

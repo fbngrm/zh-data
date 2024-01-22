@@ -1,0 +1,37 @@
+{
+  "chinese": "北京的空气一直很不好。",
+  "english": "The air in Beijing has always been very bad.",
+  "pinyin": "Běijīng de kōngqì yīzhí hěn bù hǎo.",
+  "words": [
+    {
+      "ch": "北京",
+      "en": "Beijing",
+      "pi": "Běijīng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "空气",
+      "en": "air",
+      "pi": "kōngqì"
+    },
+    {
+      "ch": "一直",
+      "en": "always",
+      "pi": "yīzhí"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "不好",
+      "en": "bad",
+      "pi": "bù hǎo"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "这是花吗？",
+  "english": "Is this a flower?",
+  "pinyin": "zhè shì huā ma?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "花",
+      "en": "flower",
+      "pi": "huā"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

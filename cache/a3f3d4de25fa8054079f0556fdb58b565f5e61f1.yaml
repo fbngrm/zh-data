@@ -1,0 +1,32 @@
+{
+  "chinese": "他的腿被鳄鱼咬了。",
+  "english": "His leg was bitten by a crocodile.",
+  "pinyin": "tā de tuǐ bèi èyú yǎo le。",
+  "words": [
+    {
+      "ch": "他的",
+      "en": "His",
+      "pi": "tā de"
+    },
+    {
+      "ch": "腿",
+      "en": "leg",
+      "pi": "tuǐ"
+    },
+    {
+      "ch": "被",
+      "en": "was",
+      "pi": "bèi"
+    },
+    {
+      "ch": "鳄鱼",
+      "en": "crocodile",
+      "pi": "èyú"
+    },
+    {
+      "ch": "咬了",
+      "en": "bitten",
+      "pi": "yǎo le"
+    }
+  ]
+}

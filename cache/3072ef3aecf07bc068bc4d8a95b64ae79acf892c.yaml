@@ -1,0 +1,57 @@
+{
+  "chinese": "鱼在这里是以磅为单位来出售。",
+  "english": "Fish is sold here by the pound.",
+  "pinyin": "yú zài zhèlǐ shì yǐ bàng wéi dānwèi lái chūshòu。",
+  "words": [
+    {
+      "ch": "鱼",
+      "en": "Fish",
+      "pi": "yú"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhèlǐ"
+    },
+    {
+      "ch": "是",
+      "en": "sold",
+      "pi": "shì"
+    },
+    {
+      "ch": "以",
+      "en": "by",
+      "pi": "yǐ"
+    },
+    {
+      "ch": "磅",
+      "en": "pound",
+      "pi": "bàng"
+    },
+    {
+      "ch": "为",
+      "en": "the",
+      "pi": "wéi"
+    },
+    {
+      "ch": "单位",
+      "en": "unit",
+      "pi": "dānwèi"
+    },
+    {
+      "ch": "来",
+      "en": "sell",
+      "pi": "lái"
+    },
+    {
+      "ch": "出售",
+      "en": "sell",
+      "pi": "chūshòu"
+    }
+  ]
+}

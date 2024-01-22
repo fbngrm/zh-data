@@ -1,0 +1,37 @@
+{
+  "chinese": "公共汽车上发生了什么事？",
+  "english": "What happened on the bus?",
+  "pinyin": "gōng gòng qì chē shàng fā shēng le shén me shì?",
+  "words": [
+    {
+      "ch": "公共汽车",
+      "en": "bus",
+      "pi": "gōng gòng qì chē"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "发生",
+      "en": "happened",
+      "pi": "fā shēng"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "什么事",
+      "en": "what",
+      "pi": "shén me shì"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "？"
+    }
+  ]
+}

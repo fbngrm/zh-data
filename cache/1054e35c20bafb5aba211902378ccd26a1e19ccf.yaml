@@ -1,0 +1,32 @@
+{
+  "chinese": "咖啡將會在餐後供應。",
+  "english": "Coffee will be served after the meal.",
+  "pinyin": "kā fēi jiāng huì zài cān hòu gōng yìng。",
+  "words": [
+    {
+      "ch": "咖啡",
+      "en": "Coffee",
+      "pi": "kā fēi"
+    },
+    {
+      "ch": "將會",
+      "en": "will",
+      "pi": "jiāng huì"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "餐後",
+      "en": "after the meal",
+      "pi": "cān hòu"
+    },
+    {
+      "ch": "供應",
+      "en": "serve",
+      "pi": "gōng yìng"
+    }
+  ]
+}

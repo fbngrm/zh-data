@@ -1,0 +1,20 @@
+{
+  "chinese": "「小说啊？我就讨厌看小说。」缪斯，请原谅她的亵渎行为。",
+  "english": "\"Novel? I just hate reading novels.\" Musa, please forgive her blasphemous behavior.",
+  "pinyin": "\"Xiǎoshuō a? Wǒ jiù tǎoyàn kàn xiǎoshuō.\" Miǔsī, qǐng yuánliàng tā de xièdú xíngwéi.",
+  "words": [
+    {"ch": "小说", "en": "novel", "pi": "xiǎoshuō"},
+    {"ch": "啊", "en": "ah", "pi": "a"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "就", "en": "just", "pi": "jiù"},
+    {"ch": "讨厌", "en": "hate", "pi": "tǎoyàn"},
+    {"ch": "看", "en": "read", "pi": "kàn"},
+    {"ch": "缪斯", "en": "Musa", "pi": "Miǔsī"},
+    {"ch": "请", "en": "please", "pi": "qǐng"},
+    {"ch": "原谅", "en": "forgive", "pi": "yuánliàng"},
+    {"ch": "她", "en": "her", "pi": "tā"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "亵渎", "en": "blasphemous", "pi": "xièdú"},
+    {"ch": "行为", "en": "behavior", "pi": "xíngwéi"}
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "代我向你父亲问好。",
+  "english": "Give my regards to your father for me.",
+  "pinyin": "Dài wǒ xiàng nǐ fùqīn wèn hǎo.",
+  "words": [
+    {
+      "ch": "代",
+      "en": "Give",
+      "pi": "dài"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "向",
+      "en": "to",
+      "pi": "xiàng"
+    },
+    {
+      "ch": "你",
+      "en": "your",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "父亲",
+      "en": "father",
+      "pi": "fùqīn"
+    },
+    {
+      "ch": "问好",
+      "en": "regards",
+      "pi": "wèn hǎo"
+    }
+  ]
+}

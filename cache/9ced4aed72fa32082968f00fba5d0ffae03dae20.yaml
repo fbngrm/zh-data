@@ -1,0 +1,37 @@
+{
+  "chinese": "有些小孩在草地上玩。",
+  "english": "Some children are playing on the grass.",
+  "pinyin": "yǒu xiē xiǎo hái zài cǎo dì shàng wán.",
+  "words": [
+    {
+      "ch": "有些",
+      "en": "Some",
+      "pi": "yǒu xiē"
+    },
+    {
+      "ch": "小孩",
+      "en": "children",
+      "pi": "xiǎo hái"
+    },
+    {
+      "ch": "在",
+      "en": "are",
+      "pi": "zài"
+    },
+    {
+      "ch": "草地",
+      "en": "grass",
+      "pi": "cǎo dì"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "玩",
+      "en": "playing",
+      "pi": "wán"
+    }
+  ]
+}

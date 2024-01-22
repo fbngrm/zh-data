@@ -1,0 +1,27 @@
+{
+  "chinese": "你不应该出门。",
+  "english": "You shouldn't go out.",
+  "pinyin": "Nǐ bù yīng gāi chū mén.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "Nǐ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "应该",
+      "en": "should",
+      "pi": "yīng gāi"
+    },
+    {
+      "ch": "出门",
+      "en": "go out",
+      "pi": "chū mén"
+    }
+  ]
+}

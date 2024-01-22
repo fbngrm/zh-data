@@ -1,0 +1,52 @@
+{
+  "chinese": "我问了汤姆关于他的新书的事。",
+  "english": "I asked Tom about his new book.",
+  "pinyin": "wǒ wèn le tāng mǔ guān yú tā de xīn shū de shì。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "问",
+      "en": "ask",
+      "pi": "wèn"
+    },
+    {
+      "ch": "了",
+      "en": "past tense indicator",
+      "pi": "le"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "关于",
+      "en": "about",
+      "pi": "guān yú"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "新书",
+      "en": "new book",
+      "pi": "xīn shū"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "事",
+      "en": "thing",
+      "pi": "shì"
+    }
+  ]
+}

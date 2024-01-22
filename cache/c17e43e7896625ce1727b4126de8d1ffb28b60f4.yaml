@@ -1,0 +1,15 @@
+{
+  "chinese": "我住在海边所以经常去海滩。",
+  "english": "I live by the seaside so I often go to the beach.",
+  "pinyin": "wǒ zhù zài hǎi biān suǒ yǐ jīng cháng qù hǎi tān。",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "住", "en": "live", "pi": "zhù" },
+    { "ch": "在", "en": "at", "pi": "zài" },
+    { "ch": "海边", "en": "seaside", "pi": "hǎi biān" },
+    { "ch": "所以", "en": "so", "pi": "suǒ yǐ" },
+    { "ch": "经常", "en": "often", "pi": "jīng cháng" },
+    { "ch": "去", "en": "go", "pi": "qù" },
+    { "ch": "海滩", "en": "beach", "pi": "hǎi tān" }
+  ]
+}

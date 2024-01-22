@@ -1,0 +1,47 @@
+{
+  "chinese": "请给我一张餐巾纸好吗？",
+  "english": "Can you give me a napkin, please?",
+  "pinyin": "qǐng gěi wǒ yī zhāng cānjīnzhǐ hǎo ma?",
+  "words": [
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "一",
+      "en": "one",
+      "pi": "yī"
+    },
+    {
+      "ch": "张",
+      "en": "measure word for flat objects",
+      "pi": "zhāng"
+    },
+    {
+      "ch": "餐巾纸",
+      "en": "napkin",
+      "pi": "cānjīnzhǐ"
+    },
+    {
+      "ch": "好",
+      "en": "good; well",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

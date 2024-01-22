@@ -1,0 +1,42 @@
+{
+  "chinese": "昨天打破窗子的人是杰克。",
+  "english": "Yesterday, the person who broke the window was Jack.",
+  "pinyin": "zuó tiān dǎ pò chuāng zi de rén shì jié kè.",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "Yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "打破",
+      "en": "broke",
+      "pi": "dǎ pò"
+    },
+    {
+      "ch": "窗子",
+      "en": "window",
+      "pi": "chuāng zi"
+    },
+    {
+      "ch": "的",
+      "en": "who",
+      "pi": "de"
+    },
+    {
+      "ch": "人",
+      "en": "person",
+      "pi": "rén"
+    },
+    {
+      "ch": "是",
+      "en": "was",
+      "pi": "shì"
+    },
+    {
+      "ch": "杰克",
+      "en": "Jack",
+      "pi": "jié kè"
+    }
+  ]
+}

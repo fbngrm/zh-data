@@ -1,0 +1,32 @@
+{
+  "chinese": "我家里有个果园。",
+  "english": "There is an orchard in my home.",
+  "pinyin": "wǒ jiā lǐ yǒu gè guǒ yuán.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "家里",
+      "en": "in my home",
+      "pi": "jiā lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "果园",
+      "en": "orchard",
+      "pi": "guǒ yuán"
+    }
+  ]
+}

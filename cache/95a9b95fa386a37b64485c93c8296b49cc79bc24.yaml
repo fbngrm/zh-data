@@ -1,0 +1,42 @@
+{
+  "chinese": "我问了汤姆在读什么。",
+  "english": "I asked Tom what he is reading.",
+  "pinyin": "wǒ wèn le tāng mǔ zài dú shén me.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "问",
+      "en": "asked",
+      "pi": "wèn"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "在",
+      "en": "what",
+      "pi": "zài"
+    },
+    {
+      "ch": "读",
+      "en": "read",
+      "pi": "dú"
+    },
+    {
+      "ch": "什么",
+      "en": "he is",
+      "pi": "shén me"
+    }
+  ]
+}

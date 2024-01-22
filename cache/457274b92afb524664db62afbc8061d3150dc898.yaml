@@ -1,0 +1,42 @@
+{
+  "chinese": "这座山有３０００米高。",
+  "english": "This mountain is 3000 meters high.",
+  "pinyin": "zhè zuò shān yǒu sān qiān méi gāo.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "座",
+      "en": "mountain",
+      "pi": "zuò"
+    },
+    {
+      "ch": "山",
+      "en": "is",
+      "pi": "shān"
+    },
+    {
+      "ch": "有",
+      "en": "3000",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "３０００",
+      "en": "meters",
+      "pi": "sān qiān"
+    },
+    {
+      "ch": "米",
+      "en": "high",
+      "pi": "méi"
+    },
+    {
+      "ch": "高",
+      "en": ".",
+      "pi": "gāo"
+    }
+  ]
+}

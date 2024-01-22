@@ -1,0 +1,47 @@
+{
+  "chinese": "我不知道它是好是坏。",
+  "english": "I don't know if it's good or bad.",
+  "pinyin": "wǒ bù zhī dào tā shì hǎo shì huài。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "它",
+      "en": "it",
+      "pi": "tā"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "是",
+      "en": "or",
+      "pi": "shì"
+    },
+    {
+      "ch": "坏",
+      "en": "bad",
+      "pi": "huài"
+    }
+  ]
+}

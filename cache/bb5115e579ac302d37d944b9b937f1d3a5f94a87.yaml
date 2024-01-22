@@ -1,0 +1,42 @@
+{
+  "chinese": "那个日文词汇没有对应的英文。",
+  "english": "That Japanese vocabulary has no equivalent in English.",
+  "pinyin": "nà gè rì wén cí huì méi yǒu duì yìng de yīng wén。",
+  "words": [
+    {
+      "ch": "那个",
+      "en": "That",
+      "pi": "nà gè"
+    },
+    {
+      "ch": "日文",
+      "en": "Japanese",
+      "pi": "rì wén"
+    },
+    {
+      "ch": "词汇",
+      "en": "vocabulary",
+      "pi": "cí huì"
+    },
+    {
+      "ch": "没有",
+      "en": "no",
+      "pi": "méi yǒu"
+    },
+    {
+      "ch": "对应",
+      "en": "equivalent",
+      "pi": "duì yìng"
+    },
+    {
+      "ch": "的",
+      "en": "in",
+      "pi": "de"
+    },
+    {
+      "ch": "英文",
+      "en": "English",
+      "pi": "yīng wén"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "有时我会在图书馆看见他。",
+  "english": "Sometimes I see him at the library.",
+  "pinyin": "yǒu shí wǒ huì zài tú shū guǎn kàn jiàn tā。",
+  "words": [
+    {
+      "ch": "有时",
+      "en": "Sometimes",
+      "pi": "yǒu shí"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "图书馆",
+      "en": "library",
+      "pi": "tú shū guǎn"
+    },
+    {
+      "ch": "看见",
+      "en": "see",
+      "pi": "kàn jiàn"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "玻璃杯內裝滿了牛奶。",
+  "english": "The glass is filled with milk.",
+  "pinyin": "bō lí bēi nèi zhuāng mǎn le niú nǎi.",
+  "words": [
+    {
+      "ch": "玻璃杯",
+      "en": "glass",
+      "pi": "bō lí bēi"
+    },
+    {
+      "ch": "內",
+      "en": "in",
+      "pi": "nèi"
+    },
+    {
+      "ch": "裝滿",
+      "en": "filled with",
+      "pi": "zhuāng mǎn"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "牛奶",
+      "en": "milk",
+      "pi": "niú nǎi"
+    }
+  ]
+}

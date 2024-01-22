@@ -1,0 +1,22 @@
+{
+  "chinese": "猫看着鱼。",
+  "english": "The cat is looking at the fish.",
+  "pinyin": "Māo kàn zhe yú.",
+  "words": [
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "Māo"
+    },
+    {
+      "ch": "看着",
+      "en": "looking at",
+      "pi": "kàn zhe"
+    },
+    {
+      "ch": "鱼",
+      "en": "fish",
+      "pi": "yú"
+    }
+  ]
+}

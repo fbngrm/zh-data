@@ -1,0 +1,32 @@
+{
+  "chinese": "请用挂号寄这个。",
+  "english": "Please send this by registered mail.",
+  "pinyin": "qǐng yòng guàhào jì zhège.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "用",
+      "en": "use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "挂号",
+      "en": "registered mail",
+      "pi": "guàhào"
+    },
+    {
+      "ch": "寄",
+      "en": "send",
+      "pi": "jì"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhège"
+    }
+  ]
+}

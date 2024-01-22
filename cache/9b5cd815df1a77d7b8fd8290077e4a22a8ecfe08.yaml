@@ -1,0 +1,27 @@
+{
+  "chinese": "你有地址吗？",
+  "english": "Do you have an address?",
+  "pinyin": "nǐ yǒu dìzhǐ ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "地址",
+      "en": "address",
+      "pi": "dìzhǐ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

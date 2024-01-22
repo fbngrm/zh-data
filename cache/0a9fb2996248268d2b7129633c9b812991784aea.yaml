@@ -1,0 +1,14 @@
+{
+  "chinese": "Jane年轻时曾做过女乘务员。",
+  "english": "When Jane was young, she worked as a female flight attendant.",
+  "pinyin": "Jane niánqīng shí céng zuòguò nǚ chéngwùyuán.",
+  "words": [
+    {"ch": "Jane", "en": "Jane", "pi": "Jane"},
+    {"ch": "年轻", "en": "young", "pi": "niánqīng"},
+    {"ch": "时", "en": "when", "pi": "shí"},
+    {"ch": "曾", "en": "once", "pi": "céng"},
+    {"ch": "做过", "en": "worked as", "pi": "zuòguò"},
+    {"ch": "女", "en": "female", "pi": "nǚ"},
+    {"ch": "乘务员", "en": "flight attendant", "pi": "chéngwùyuán"}
+  ]
+}

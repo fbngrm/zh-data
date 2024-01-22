@@ -1,0 +1,32 @@
+{
+  "chinese": "你早餐想要吃什么？",
+  "english": "What do you want to eat for breakfast?",
+  "pinyin": "nǐ zǎocān xiǎng yào chī shénme?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "早餐",
+      "en": "breakfast",
+      "pi": "zǎocān"
+    },
+    {
+      "ch": "想要",
+      "en": "want",
+      "pi": "xiǎng yào"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    }
+  ]
+}

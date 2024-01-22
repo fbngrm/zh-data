@@ -1,0 +1,32 @@
+{
+  "chinese": "你知道怎么说吗？",
+  "english": "Do you know how to say it?",
+  "pinyin": "Nǐ zhīdào zěnme shuō ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "Nǐ"
+    },
+    {
+      "ch": "知道",
+      "en": "Know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "怎么",
+      "en": "How",
+      "pi": "zěnme"
+    },
+    {
+      "ch": "说",
+      "en": "to say",
+      "pi": "shuō"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

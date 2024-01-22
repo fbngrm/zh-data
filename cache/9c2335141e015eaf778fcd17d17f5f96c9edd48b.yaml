@@ -1,0 +1,32 @@
+{
+  "chinese": "我乘车去了海边。",
+  "english": "I took a bus to the seaside.",
+  "pinyin": "wǒ chéng chē qù le hǎi biān.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "乘车",
+      "en": "took a bus",
+      "pi": "chéng chē"
+    },
+    {
+      "ch": "去",
+      "en": "to",
+      "pi": "qù"
+    },
+    {
+      "ch": "了",
+      "en": "finished",
+      "pi": "le"
+    },
+    {
+      "ch": "海边",
+      "en": "the seaside",
+      "pi": "hǎi biān"
+    }
+  ]
+}

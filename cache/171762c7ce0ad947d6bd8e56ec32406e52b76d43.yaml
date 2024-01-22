@@ -1,0 +1,32 @@
+{
+  "chinese": "你来这里多久了？",
+  "english": "How long have you been here?",
+  "pinyin": "Nǐ lái zhèlǐ duō jiǔ le?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhèlǐ"
+    },
+    {
+      "ch": "多久",
+      "en": "how long",
+      "pi": "duō jiǔ"
+    },
+    {
+      "ch": "了",
+      "en": "ve particle",
+      "pi": "le"
+    }
+  ]
+}

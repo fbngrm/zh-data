@@ -1,0 +1,12 @@
+{
+  "chinese": "今天下午会下雨吗？",
+  "english": "Will it rain this afternoon?",
+  "pinyin": "jīn tiān xià wǔ huì xià yǔ ma?",
+  "words": [
+    {"ch": "今天", "en": "today", "pi": "jīn tiān"},
+    {"ch": "下午", "en": "afternoon", "pi": "xià wǔ"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "下雨", "en": "rain", "pi": "xià yǔ"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

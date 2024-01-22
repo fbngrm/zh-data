@@ -1,0 +1,17 @@
+{
+  "chinese": "那些葡萄看起来很甜，但其实是酸的。",
+  "english": "Those grapes look sweet but they are actually sour.",
+  "pinyin": "Nà xiē pútáo kàn qǐlai hěn tián, dàn qíshí shì suān de.",
+  "words": [
+    {"ch": "那些", "en": "Those", "pi": "nà xiē"},
+    {"ch": "葡萄", "en": "grapes", "pi": "pútáo"},
+    {"ch": "看起来", "en": "look", "pi": "kàn qǐlai"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "甜", "en": "sweet", "pi": "tián"},
+    {"ch": "但", "en": "but", "pi": "dàn"},
+    {"ch": "其实", "en": "actually", "pi": "qíshí"},
+    {"ch": "是", "en": "are", "pi": "shì"},
+    {"ch": "酸", "en": "sour", "pi": "suān"},
+    {"ch": "的", "en": "", "pi": "de"}
+  ]
+}

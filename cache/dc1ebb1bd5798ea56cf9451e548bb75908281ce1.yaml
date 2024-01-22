@@ -1,0 +1,32 @@
+{
+  "chinese": "在盒子里有些空瓶。",
+  "english": "There are some empty bottles in the box.",
+  "pinyin": "Zài hézi lǐ yǒuxiē kōng píng.",
+  "words": [
+    {
+      "ch": "在",
+      "en": "at, in, on",
+      "pi": "zài"
+    },
+    {
+      "ch": "盒子",
+      "en": "box",
+      "pi": "hézi"
+    },
+    {
+      "ch": "里",
+      "en": "inside",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "有些",
+      "en": "some",
+      "pi": "yǒuxiē"
+    },
+    {
+      "ch": "空瓶",
+      "en": "empty bottles",
+      "pi": "kōng píng"
+    }
+  ]
+}

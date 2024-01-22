@@ -1,0 +1,37 @@
+{
+  "chinese": "我的衣服被油弄脏了。",
+  "english": "My clothes got stained with oil.",
+  "pinyin": "wǒ de yī fú bèi yóu nòng zāng le。",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "衣服",
+      "en": "clothes",
+      "pi": "yī fú"
+    },
+    {
+      "ch": "被",
+      "en": "got",
+      "pi": "bèi"
+    },
+    {
+      "ch": "油",
+      "en": "oil",
+      "pi": "yóu"
+    },
+    {
+      "ch": "弄脏",
+      "en": "stained",
+      "pi": "nòng zāng"
+    },
+    {
+      "ch": "了",
+      "en": "with",
+      "pi": "le"
+    }
+  ]
+}

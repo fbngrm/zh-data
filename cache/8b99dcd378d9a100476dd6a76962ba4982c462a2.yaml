@@ -1,0 +1,37 @@
+{
+  "chinese": "她住在他的隔壁。",
+  "english": "She lives next door to him.",
+  "pinyin": "Tā zhù zài tā de gébì.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "住",
+      "en": "lives",
+      "pi": "zhù"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    },
+    {
+      "ch": "的",
+      "en": "de",
+      "pi": "de"
+    },
+    {
+      "ch": "隔壁",
+      "en": "next door",
+      "pi": "gébì"
+    }
+  ]
+}

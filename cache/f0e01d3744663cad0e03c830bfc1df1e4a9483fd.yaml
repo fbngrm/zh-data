@@ -1,0 +1,42 @@
+{
+  "chinese": "这几枝笔是谁的？",
+  "english": "Whose are these pens?",
+  "pinyin": "zhè jǐ zhī bǐ shì shuí de?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "these",
+      "pi": "zhè"
+    },
+    {
+      "ch": "几",
+      "en": "how many",
+      "pi": "jǐ"
+    },
+    {
+      "ch": "枝",
+      "en": "measure word for pens",
+      "pi": "zhī"
+    },
+    {
+      "ch": "笔",
+      "en": "pen",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "谁",
+      "en": "whose",
+      "pi": "shuí"
+    },
+    {
+      "ch": "的",
+      "en": "particle indicating possession",
+      "pi": "de"
+    }
+  ]
+}

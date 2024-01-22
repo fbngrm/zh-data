@@ -1,0 +1,42 @@
+{
+  "chinese": "你愿意告诉我怎么做吗？",
+  "english": "Would you like to tell me how to do it?",
+  "pinyin": "nǐ yuànyì gàosù wǒ zěnme zuò ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "愿意",
+      "en": "would like to",
+      "pi": "yuànyì"
+    },
+    {
+      "ch": "告诉",
+      "en": "tell",
+      "pi": "gàosù"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "怎么",
+      "en": "how",
+      "pi": "zěnme"
+    },
+    {
+      "ch": "做",
+      "en": "do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

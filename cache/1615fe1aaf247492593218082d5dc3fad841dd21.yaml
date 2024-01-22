@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆在波士顿找了份工作。",
+  "english": "Tom found a job in Boston.",
+  "pinyin": "Tāng mǔ zài bō shì dùn zhǎo le fèn gōng zuò.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "波士顿",
+      "en": "Boston",
+      "pi": "bō shì dùn"
+    },
+    {
+      "ch": "找",
+      "en": "found",
+      "pi": "zhǎo"
+    },
+    {
+      "ch": "了",
+      "en": "a",
+      "pi": "le"
+    },
+    {
+      "ch": "份",
+      "en": "job",
+      "pi": "fèn"
+    },
+    {
+      "ch": "工作",
+      "en": "work",
+      "pi": "gōng zuò"
+    }
+  ]
+}

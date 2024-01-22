@@ -1,0 +1,32 @@
+{
+  "chinese": "你的胃会痛吗?",
+  "english": "Does your stomach hurt?",
+  "pinyin": "Nǐ de wèi huì tòng ma?",
+  "words": [
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "Nǐ de"
+    },
+    {
+      "ch": "胃",
+      "en": "stomach",
+      "pi": "wèi"
+    },
+    {
+      "ch":"会",
+      "en": "will",
+      "pi":"huì"
+    },
+    {
+      "ch": "痛",
+      "en": "hurt",
+      "pi": "tòng"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

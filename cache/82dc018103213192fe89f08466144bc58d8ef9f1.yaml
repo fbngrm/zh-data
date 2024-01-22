@@ -1,0 +1,32 @@
+{
+  "chinese": "我的法语说得不够好。",
+  "english": "My French is not good enough.",
+  "pinyin": "wǒ de fǎyǔ shuō dé bùgòu hǎo。",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎyǔ"
+    },
+    {
+      "ch": "说得",
+      "en": "speak",
+      "pi": "shuō dé"
+    },
+    {
+      "ch": "不够",
+      "en": "not enough",
+      "pi": "bùgòu"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    }
+  ]
+}

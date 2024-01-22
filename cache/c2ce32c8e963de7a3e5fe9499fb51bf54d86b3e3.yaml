@@ -1,0 +1,26 @@
+{
+  "sentences": [
+    { 
+      "chinese": "可以用一下这部电话吗？",
+      "english": "Can I use this phone for a moment?",
+      "pinyin": "kě yǐ yòng yī xià zhè bù diàn huà ma?",
+      "words": [
+        { "ch": "可以", "en": "can", "pi": "kě yǐ" },
+        { "ch": "用", "en": "use", "pi": "yòng" },
+        { "ch": "一下", "en": "for a moment", "pi": "yī xià" },
+        { "ch": "这部", "en": "this", "pi": "zhè bù" },
+        { "ch": "电话", "en": "phone", "pi": "diàn huà" },
+        { "ch": "吗", "en": "?" , "pi": "ma" }
+      ]
+    },
+    { 
+      "chinese": "请随意。",
+      "english": "Please feel free.",
+      "pinyin": "qǐng suí yì。",
+      "words": [
+        { "ch": "请", "en": "please", "pi": "qǐng" },
+        { "ch": "随意", "en": "feel free", "pi": "suí yì" }
+      ]
+    }
+  ]
+}

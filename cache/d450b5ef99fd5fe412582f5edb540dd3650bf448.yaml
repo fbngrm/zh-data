@@ -1,0 +1,32 @@
+{
+  "chinese": "这个盒子没有那个盒子大。",
+  "english": "This box is not as big as that box.",
+  "pinyin": "zhè gè hé zi méi yǒu nà gè hé zi dà。",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "盒子",
+      "en": "box",
+      "pi": "hé zi"
+    },
+    {
+      "ch": "没有",
+      "en": "not have",
+      "pi": "méi yǒu"
+    },
+    {
+      "ch": "那个",
+      "en": "that",
+      "pi": "nà gè"
+    },
+    {
+      "ch": "大",
+      "en": "big",
+      "pi": "dà"
+    }
+  ]
+}

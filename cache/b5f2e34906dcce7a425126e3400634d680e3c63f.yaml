@@ -1,0 +1,27 @@
+{
+  "chinese": "史密斯先生在喝咖啡。",
+  "english": "Mr. Smith is drinking coffee.",
+  "pinyin": "Shǐ mì sī xiān shēng zài hē kā fēi.",
+  "words": [
+    {
+      "ch": "史密斯先生",
+      "en": "Mr. Smith",
+      "pi": "shǐ mì sī xiān shēng"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "喝",
+      "en": "drinking",
+      "pi": "hē"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kā fēi"
+    }
+  ]
+}

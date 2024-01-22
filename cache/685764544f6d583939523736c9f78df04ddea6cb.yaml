@@ -1,0 +1,27 @@
+{
+  "chinese": "我的苹果汁在哪?",
+  "english": "Where is my apple juice?",
+  "pinyin": "Wǒ de píngguǒ zhī zài nǎ?",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "苹果汁",
+      "en": "apple juice",
+      "pi": "píng guǒ zhī"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪",
+      "en": "where",
+      "pi": "nǎ"
+    }
+  ]
+}

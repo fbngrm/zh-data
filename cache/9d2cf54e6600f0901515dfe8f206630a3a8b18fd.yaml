@@ -1,0 +1,42 @@
+{
+  "chinese": "我给了你一本书。",
+  "english": "I gave you a book.",
+  "pinyin": "wǒ gěi le nǐ yī běn shū。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "了",
+      "en": "past tense marker",
+      "pi": "le"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "一",
+      "en": "one",
+      "pi": "yī"
+    },
+    {
+      "ch": "本",
+      "en": "measure word for books",
+      "pi": "běn"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    }
+  ]
+}

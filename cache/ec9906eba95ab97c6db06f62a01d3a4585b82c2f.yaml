@@ -1,0 +1,103 @@
+{
+  "sentences": [
+    {
+      "chinese": "那些自认为讨厌电脑的人就是这么回事。",
+      "english": "These people who think they hate computers are just like this.",
+      "pinyin": "nà xiē zì rèn wéi tǎo yàn diàn nǎo de rén jiù shì zhè me huí shì。",
+      "words": [
+        {
+          "ch": "那些",
+          "en": "these",
+          "pi": "nà xiē"
+        },
+        {
+          "ch": "自认为",
+          "en": "who think",
+          "pi": "zì rèn wéi"
+        },
+        {
+          "ch": "讨厌",
+          "en": "hate",
+          "pi": "tǎo yàn"
+        },
+        {
+          "ch": "电脑",
+          "en": "computers",
+          "pi": "diàn nǎo"
+        },
+        {
+          "ch": "的",
+          "en": "are",
+          "pi": "de"
+        },
+        {
+          "ch": "人",
+          "en": "people",
+          "pi": "rén"
+        },
+        {
+          "ch": "就是",
+          "en": "just",
+          "pi": "jiù shì"
+        },
+        {
+          "ch": "这么",
+          "en": "like this",
+          "pi": "zhè me"
+        },
+        {
+          "ch": "回事",
+          "en": "like this",
+          "pi": "huí shì"
+        }
+      ]
+    },
+    {
+      "chinese": "他们真正讨厌的是差劲的程序员。",
+      "english": "What they really hate are lousy programmers.",
+      "pinyin": "tā men zhēn zhèng tǎo yàn de shì chà jìn de chéng xù yuán。",
+      "words": [
+        {
+          "ch": "他们",
+          "en": "they",
+          "pi": "tā men"
+        },
+        {
+          "ch": "真正",
+          "en": "really",
+          "pi": "zhēn zhèng"
+        },
+        {
+          "ch": "讨厌",
+          "en": "hate",
+          "pi": "tǎo yàn"
+        },
+        {
+          "ch": "的",
+          "en": "are",
+          "pi": "de"
+        },
+        {
+          "ch": "是",
+          "en": "are",
+          "pi": "shì"
+        },
+        {
+          "ch": "差劲",
+          "en": "lousy",
+          "pi": "chà jìn"
+        },
+        {
+          "ch": "的",
+          "en": "are",
+          "pi": "de"
+        },
+        {
+          "ch": "程序员",
+          "en": "programmers",
+          "pi": "chéng xù yuán"
+        }
+      ]
+    }
+  ]
+}

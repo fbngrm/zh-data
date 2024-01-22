@@ -1,0 +1,15 @@
+{
+  "chinese": "法语说得快，我就难以理解。",
+  "english": "French is spoken too quickly, so I find it difficult to understand.",
+  "pinyin": "Fǎyǔ shuō dé kuài, wǒ jiù nányǐ lǐjiě.",
+  "words": [
+    {"ch": "法语", "en": "French", "pi": "fǎyǔ"},
+    {"ch": "说", "en": "spoken", "pi": "shuō"},
+    {"ch": "得", "en": "too", "pi": "dé"},
+    {"ch": "快", "en": "quickly", "pi": "kuài"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "就", "en": "so", "pi": "jiù"},
+    {"ch": "难以", "en": "difficult", "pi": "nányǐ"},
+    {"ch": "理解", "en": "understand", "pi": "lǐjiě"}
+  ]
+}

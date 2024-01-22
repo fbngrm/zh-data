@@ -1,0 +1,27 @@
+{
+"chinese": "在这个社会里一切都是用完即丢,用东西直到它磨损是一种美德。",
+"english": "In this society, everything is disposable. Using something until it wears out is a virtue.",
+"pinyin": "zài zhè gè shè huì lǐ yī qiè dōu shì yòng wán jí diū, yòng dōng xī zhí dào tā mó sǔn shì yī zhǒng měi dé。",
+"words": [
+    {"ch": "在", "en": "In", "pi": "zài"},
+    {"ch": "这个", "en": "this", "pi": "zhè gè"},
+    {"ch": "社会", "en": "society", "pi": "shè huì"},
+    {"ch": "里", "en": "in", "pi": "lǐ"},
+    {"ch": "一切", "en": "everything", "pi": "yī qiè"},
+    {"ch": "都", "en": "is", "pi": "dōu"},
+    {"ch": "是", "en": "use", "pi": "shì"},
+    {"ch": "用完", "en": "disposable", "pi": "yòng wán"},
+    {"ch": "即", "en": "until", "pi": "jí"},
+    {"ch": "丢", "en": "it", "pi": "diū"},
+    {"ch": ",", "en": "", "pi": ""},
+    {"ch": "用", "en": "use", "pi": "yòng"},
+    {"ch": "东西", "en": "something", "pi": "dōng xī"},
+    {"ch": "直到", "en": "until", "pi": "zhí dào"},
+    {"ch": "它", "en": "wears out", "pi": "tā"},
+    {"ch": "磨损", "en": "is", "pi": "mó sǔn"},
+    {"ch": "是", "en": "a", "pi": "shì"},
+    {"ch": "一种", "en": "virtue", "pi": "yī zhǒng"},
+    {"ch": "美德", "en": "", "pi": "měi dé"},
+    {"ch": "。", "en": "", "pi": ""}
+  ]
+}

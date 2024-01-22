@@ -1,0 +1,42 @@
+{
+  "chinese": "我的兄弟和我在一个班级。",
+  "english": "My brother and I are in the same class.",
+  "pinyin": "Wǒ de xiōng dì hé wǒ zài yī gè bān jí.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "兄弟",
+      "en": "brother",
+      "pi": "xiōng dì"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "一个",
+      "en": "same",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "班级",
+      "en": "class",
+      "pi": "bān jí"
+    }
+  ]
+}

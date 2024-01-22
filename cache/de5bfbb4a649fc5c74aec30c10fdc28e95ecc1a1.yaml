@@ -1,0 +1,42 @@
+{
+  "chinese": "这座城堡比那座漂亮。",
+  "english": "This castle is prettier than that one.",
+  "pinyin": "zhè zuò chéngbǎo bǐ nà zuò piàoliang.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "座",
+      "en": "measure word for buildings",
+      "pi": "zuò"
+    },
+    {
+      "ch": "城堡",
+      "en": "castle",
+      "pi": "chéngbǎo"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "座",
+      "en": "measure word for buildings",
+      "pi": "zuò"
+    },
+    {
+      "ch": "漂亮",
+      "en": "pretty",
+      "pi": "piàoliang"
+    }
+  ]
+}

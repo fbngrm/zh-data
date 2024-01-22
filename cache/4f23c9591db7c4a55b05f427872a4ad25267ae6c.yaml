@@ -1,0 +1,42 @@
+{
+  "chinese": "你会说多少种语言?",
+  "english": "How many languages do you speak?",
+  "pinyin": "nǐ huì shuō duōshǎo zhǒng yǔyán?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "会",
+      "en": "know",
+      "pi": "huì"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "多少",
+      "en": "how many",
+      "pi": "duōshǎo"
+    },
+    {
+      "ch": "种",
+      "en": "kinds",
+      "pi": "zhǒng"
+    },
+    {
+      "ch": "语言",
+      "en": "languages",
+      "pi": "yǔyán"
+    },
+    {
+      "ch": "?",
+      "en": "?",
+      "pi": "?"
+    }
+  ]
+}

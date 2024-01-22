@@ -1,0 +1,52 @@
+{
+  "chinese": "有什么你想要但是没有的东西吗？",
+  "english": "Is there anything you want but don't have?",
+  "pinyin": "yǒu shénme nǐ xiǎng yào dànshì méiyǒu de dōngxi ma?",
+  "words": [
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "想要",
+      "en": "want",
+      "pi": "xiǎng yào"
+    },
+    {
+      "ch": "但是",
+      "en": "but",
+      "pi": "dànshì"
+    },
+    {
+      "ch": "没有",
+      "en": "don't have",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "东西",
+      "en": "thing",
+      "pi": "dōngxi"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

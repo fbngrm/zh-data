@@ -1,0 +1,32 @@
+{
+  "chinese": "列车停下前别下车。",
+  "english": "Do not get off the train before it stops.",
+  "pinyin": "liè chē tíng xià qián bié xià chē.",
+  "words": [
+    {
+      "ch": "列车",
+      "en": "train",
+      "pi": "liè chē"
+    },
+    {
+      "ch": "停下",
+      "en": "stop",
+      "pi": "tíng xià"
+    },
+    {
+      "ch": "前",
+      "en": "before",
+      "pi": "qián"
+    },
+    {
+      "ch": "别",
+      "en": "do not",
+      "pi": "bié"
+    },
+    {
+      "ch": "下车",
+      "en": "get off",
+      "pi": "xià chē"
+    }
+  ]
+}

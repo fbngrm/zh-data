@@ -1,0 +1,32 @@
+{
+  "chinese": "我现在居住在北京。",
+  "english": "I currently live in Beijing.",
+  "pinyin": "wǒ xiànzài jūzhù zài běijīng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "现在",
+      "en": "currently",
+      "pi": "xiànzài"
+    },
+    {
+      "ch": "居住",
+      "en": "live",
+      "pi": "jūzhù"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "北京",
+      "en": "Beijing",
+      "pi": "běijīng"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我不是很喜欢那里的商店。",
+  "english": "I don't really like the shops there.",
+  "pinyin": "wǒ bù shì hěn xǐ huān nà lǐ de shāng diàn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不是",
+      "en": "don't",
+      "pi": "bù shì"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐ huān"
+    },
+    {
+      "ch": "那里",
+      "en": "there",
+      "pi": "nà lǐ"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "商店",
+      "en": "shops",
+      "pi": "shāng diàn"
+    }
+  ]
+}

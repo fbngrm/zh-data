@@ -1,0 +1,32 @@
+{
+  "chinese": "罐子里有一些饼干。",
+  "english": "There are some biscuits in the jar.",
+  "pinyin": "guàn zi lǐ yǒu yī xiē bǐng gān。",
+  "words": [
+    {
+      "ch": "罐子",
+      "en": "jar",
+      "pi": "guàn zi"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一些",
+      "en": "some",
+      "pi": "yī xiē"
+    },
+    {
+      "ch": "饼干",
+      "en": "biscuits",
+      "pi": "bǐng gān"
+    }
+  ]
+}

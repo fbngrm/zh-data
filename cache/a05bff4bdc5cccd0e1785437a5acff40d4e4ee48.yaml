@@ -1,0 +1,27 @@
+{
+  "chinese": "有人抓住了我的手臂。",
+  "english": "Someone grabbed my arm.",
+  "pinyin": "yǒu rén zhuā zhù le wǒ de shǒu bì.",
+  "words": [
+    {
+      "ch": "有人",
+      "en": "someone",
+      "pi": "yǒu rén"
+    },
+    {
+      "ch": "抓住了",
+      "en": "grabbed",
+      "pi": "zhuā zhù le"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "手臂",
+      "en": "arm",
+      "pi": "shǒu bì"
+    }
+  ]
+}

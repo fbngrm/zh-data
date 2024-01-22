@@ -1,0 +1,14 @@
+{
+  "chinese": "他给了我们开始的信号。",
+  "english": "He gave us the signal to start.",
+  "pinyin": "tā gěi le wǒ men kāi shǐ de xìn hào。",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "给", "en": "gave", "pi": "gěi"},
+    {"ch": "了", "en": "us", "pi": "le"},
+    {"ch": "我们", "en": "we", "pi": "wǒ men"},
+    {"ch": "开始", "en": "start", "pi": "kāi shǐ"},
+    {"ch": "的", "en": "the", "pi": "de"},
+    {"ch": "信号", "en": "signal", "pi": "xìn hào"}
+  ]
+}

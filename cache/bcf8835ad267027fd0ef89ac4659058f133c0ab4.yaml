@@ -1,0 +1,42 @@
+{
+  "chinese": "这把椅子是塑料做的。",
+  "english": "This chair is made of plastic.",
+  "pinyin": "zhè bǎ yǐ zi shì sù liào zuò de.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "把",
+      "en": "chair",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "椅子",
+      "en": "is",
+      "pi": "yǐ zi"
+    },
+    {
+      "ch": "是",
+      "en": "made of",
+      "pi": "shì"
+    },
+    {
+      "ch": "塑料",
+      "en": "plastic",
+      "pi": "sù liào"
+    },
+    {
+      "ch": "做",
+      "en": "do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    }
+  ]
+}

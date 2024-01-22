@@ -1,0 +1,32 @@
+{
+  "chinese": "昨晚你出去了吗？",
+  "english": "Did you go out last night?",
+  "pinyin": "zuó wǎn nǐ chū qù le ma?",
+  "words": [
+    {
+      "ch": "昨晚",
+      "en": "last night",
+      "pi": "zuó wǎn"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "出去",
+      "en": "go out",
+      "pi": "chū qù"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "",
+      "pi": "ma"
+    }
+  ]
+}

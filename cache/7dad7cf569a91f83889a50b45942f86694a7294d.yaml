@@ -1,0 +1,12 @@
+{
+  "chinese": "星期天我十二点起床。",
+  "english": "On Sunday, I wake up at twelve o'clock.",
+  "pinyin": "Xīngqītiān wǒ shí'èr diǎn qǐchuáng.",
+  "words": [
+    {"ch": "星期天", "en": "On Sunday", "pi": "Xīngqītiān"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "十二", "en": "twelve", "pi": "shí'èr"},
+    {"ch": "点", "en": "o'clock", "pi": "diǎn"},
+    {"ch": "起床", "en": "wake up", "pi": "qǐchuáng"}
+  ]
+}

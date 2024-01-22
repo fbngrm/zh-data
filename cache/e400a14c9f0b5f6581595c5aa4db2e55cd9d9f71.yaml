@@ -1,0 +1,15 @@
+{
+  "chinese": "抱歉，我没能早点回覆你的信。",
+  "english": "Sorry, I couldn't reply to your email earlier.",
+  "pinyin": "bào qiàn, wǒ méi néng zǎo diǎn huífù nǐ de xìn.",
+  "words": [
+    { "ch": "抱歉", "en": "sorry", "pi": "bào qiàn" },
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "没", "en": "not", "pi": "méi" },
+    { "ch": "能", "en": "able to", "pi": "néng" },
+    { "ch": "早点", "en": "earlier", "pi": "zǎo diǎn" },
+    { "ch": "回覆", "en": "reply", "pi": "huífù" },
+    { "ch": "你的", "en": "your", "pi": "nǐ de" },
+    { "ch": "信", "en": "email", "pi": "xìn" }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chinese": "他赚的钱比我多三倍。",
+  "english": "He earns three times as much money as me.",
+  "pinyin": "tā zhuàn de qián bǐ wǒ duō sān bèi.",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "赚", "en": "earn", "pi": "zhuàn"},
+    {"ch": "的", "en": "possessive particle", "pi": "de"},
+    {"ch": "钱", "en": "money", "pi": "qián"},
+    {"ch": "比", "en": "compared to", "pi": "bǐ"},
+    {"ch": "我", "en": "I, me", "pi": "wǒ"},
+    {"ch": "多", "en": "more", "pi": "duō"},
+    {"ch": "三倍", "en": "three times", "pi": "sān bèi"}
+  ]
+}

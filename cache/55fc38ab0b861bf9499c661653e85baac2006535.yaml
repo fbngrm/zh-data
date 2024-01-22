@@ -1,0 +1,32 @@
+{
+  "chinese": "她会十门语言。",
+  "english": "She can speak ten languages.",
+  "pinyin": "tā huì shí mén yǔ yán。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "十",
+      "en": "ten",
+      "pi": "shí"
+    },
+    {
+      "ch": "门",
+      "en": "languages",
+      "pi": "mén"
+    },
+    {
+      "ch": "语言",
+      "en": "speak",
+      "pi": "yǔ yán"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "chinese": "你认为他能够胜任这个任务吗?",
+  "english": "Do you think he is capable of handling this task?",
+  "pinyin": "nǐ rèn wéi tā néng gòu shèng rèn zhè gè rèn wù ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "认为",
+      "en": "think",
+      "pi": "rèn wéi"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "能够",
+      "en": "able to",
+      "pi": "néng gòu"
+    },
+    {
+      "ch": "胜任",
+      "en": "capable",
+      "pi": "shèng rèn"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "任务",
+      "en": "task",
+      "pi": "rèn wù"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

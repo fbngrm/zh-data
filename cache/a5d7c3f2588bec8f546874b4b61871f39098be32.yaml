@@ -1,0 +1,42 @@
+{
+  "chinese": "一些航班由于地震被延误了。",
+  "english": "Some flights were delayed due to an earthquake.",
+  "pinyin": "yī xiē háng bān yóu yú dì zhèn bèi yán wù le.",
+  "words": [
+    {
+      "ch": "一些",
+      "en": "Some",
+      "pi": "yī xiē"
+    },
+    {
+      "ch": "航班",
+      "en": "flights",
+      "pi": "háng bān"
+    },
+    {
+      "ch": "由于",
+      "en": "due to",
+      "pi": "yóu yú"
+    },
+    {
+      "ch": "地震",
+      "en": "earthquake",
+      "pi": "dì zhèn"
+    },
+    {
+      "ch": "被",
+      "en": "were",
+      "pi": "bèi"
+    },
+    {
+      "ch": "延误",
+      "en": "delayed",
+      "pi": "yán wù"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

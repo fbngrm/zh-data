@@ -1,0 +1,47 @@
+{
+    "chinese": "那个学生跑得很快，不是吗？",
+    "english": "That student runs very fast, isn't it?",
+    "pinyin": "nà gè xué shēng pǎo dé hěn kuài, bú shì ma?",
+    "words": [
+        {
+            "ch": "那个",
+            "en": "that",
+            "pi": "nà gè"
+        },
+        {
+            "ch": "学生",
+            "en": "student",
+            "pi": "xué shēng"
+        },
+        {
+            "ch": "跑",
+            "en": "run",
+            "pi": "pǎo"
+        },
+        {
+            "ch": "得",
+            "en": "(particle used to link a verb or an adjective to a complement indicating degree)",
+            "pi": "dé"
+        },
+        {
+            "ch": "很",
+            "en": "very",
+            "pi": "hěn"
+        },
+        {
+            "ch": "快",
+            "en": "fast",
+            "pi": "kuài"
+        },
+        {
+            "ch": "，",
+            "en": ",",
+            "pi": "，"
+        },
+        {
+            "ch": "不是吗",
+            "en": "isn't it?",
+            "pi": "bú shì ma?"
+        }
+    ]
+}

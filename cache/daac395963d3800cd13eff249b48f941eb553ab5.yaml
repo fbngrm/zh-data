@@ -1,0 +1,37 @@
+{
+  "chinese": "昨日我伯伯买了只狗。",
+  "english": "Yesterday my uncle bought a dog.",
+  "pinyin": "zuó rì wǒ bó bó mǎi le zhī gǒu.",
+  "words": [
+    {
+      "ch": "昨日",
+      "en": "Yesterday",
+      "pi": "zuó rì"
+    },
+    {
+      "ch": "我",
+      "en": "my",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "伯伯",
+      "en": "uncle",
+      "pi": "bó bó"
+    },
+    {
+      "ch": "买了",
+      "en": "bought",
+      "pi": "mǎi le"
+    },
+    {
+      "ch": "只",
+      "en": "a",
+      "pi": "zhī"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    }
+  ]
+}

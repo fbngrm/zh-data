@@ -1,0 +1,42 @@
+{
+  "chinese": "我们上个星期去了数学的考试。",
+  "english": "We took the math exam last week.",
+  "pinyin": "wǒ men shàng ge xīng qī qù le shù xué de kǎo shì。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "上个",
+      "en": "last",
+      "pi": "shàng ge"
+    },
+    {
+      "ch": "星期",
+      "en": "week",
+      "pi": "xīng qī"
+    },
+    {
+      "ch": "去了",
+      "en": "went",
+      "pi": "qù le"
+    },
+    {
+      "ch": "数学",
+      "en": "math",
+      "pi": "shù xué"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "考试",
+      "en": "exam",
+      "pi": "kǎo shì"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "你的保险公司叫甚么名字？",
+  "english": "What is the name of your insurance company?",
+  "pinyin": "nǐ de bǎoxiǎn gōngsī jiào shénme míngzì?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "保险公司",
+      "en": "insurance company",
+      "pi": "bǎoxiǎn gōngsī"
+    },
+    {
+      "ch": "叫",
+      "en": "called",
+      "pi": "jiào"
+    },
+    {
+      "ch": "甚么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míngzì"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "?"
+    }
+  ]
+}

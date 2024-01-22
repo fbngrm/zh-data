@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆看见玛丽在哭。",
+  "english": "Tom sees Mary crying.",
+  "pinyin": "tāng mǔ kàn jiàn mǎ lì zài kū。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "看见",
+      "en": "sees",
+      "pi": "kàn jiàn"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "在",
+      "en": "crying",
+      "pi": "zài"
+    },
+    {
+      "ch": "哭",
+      "en": "crying",
+      "pi": "kū"
+    }
+  ]
+}

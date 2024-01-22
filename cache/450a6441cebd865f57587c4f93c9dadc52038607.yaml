@@ -1,0 +1,32 @@
+{
+  "chinese": "这不是一个句子。",
+  "english": "This is not a sentence.",
+  "pinyin": "zhè bù shì yī gè jù zǐ。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "句子",
+      "en": "sentence",
+      "pi": "jù zǐ"
+    }
+  ]
+}

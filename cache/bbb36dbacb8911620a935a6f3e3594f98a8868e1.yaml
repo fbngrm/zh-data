@@ -1,0 +1,83 @@
+{
+  "sentences": [
+    {
+      "chinese": "他一直好好的，却突然死去了。",
+      "english": "He was doing well all along, but suddenly passed away.",
+      "pinyin": "tā yīzhí hǎo hǎo de, què tūrán sǐqù le。",
+      "words": [
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "一直",
+          "en": "all along",
+          "pi": "yīzhí"
+        },
+        {
+          "ch": "好好的",
+          "en": "doing well",
+          "pi": "hǎo hǎo de"
+        },
+        {
+          "ch": "却",
+          "en": "but",
+          "pi": "què"
+        },
+        {
+          "ch": "突然",
+          "en": "suddenly",
+          "pi": "tūrán"
+        },
+        {
+          "ch": "死去了",
+          "en": "passed away",
+          "pi": "sǐqù le"
+        }
+      ]
+    },
+    {
+      "chinese": "未来的事情，实在是无法预知的。",
+      "english": "The future is really unpredictable.",
+      "pinyin": "wèilái de shìqíng, shízài shì wúfǎ yùzhī de。",
+      "words": [
+        {
+          "ch": "未来",
+          "en": "future",
+          "pi": "wèilái"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": "de"
+        },
+        {
+          "ch": "事情",
+          "en": "matter",
+          "pi": "shìqíng"
+        },
+        {
+          "ch": "实在",
+          "en": "really",
+          "pi": "shízài"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "无法",
+          "en": "unpredictable",
+          "pi": "wúfǎ"
+        },
+        {
+          "ch": "预知的",
+          "en": "to predict",
+          "pi": "yùzhī de"
+        }
+      ]
+    }
+  ]
+}

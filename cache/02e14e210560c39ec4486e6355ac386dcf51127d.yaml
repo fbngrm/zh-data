@@ -1,0 +1,42 @@
+{
+  "chinese": "他问她她的母亲在哪里。",
+  "english": "He asked her where her mother is.",
+  "pinyin": "Tā wèn tā tā de mǔqīn zài nǎlǐ.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "问",
+      "en": "ask",
+      "pi": "wèn"
+    },
+    {
+      "ch": "她",
+      "en": "her",
+      "pi": "tā"
+    },
+    {
+      "ch": "她的",
+      "en": "her",
+      "pi": "tā de"
+    },
+    {
+      "ch": "母亲",
+      "en": "mother",
+      "pi": "mǔqīn"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪里",
+      "en": "where",
+      "pi": "nǎlǐ"
+    }
+  ]
+}

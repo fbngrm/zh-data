@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆快该走了。",
+  "english": "Tom should leave soon.",
+  "pinyin": "Tāng mǔ kuài gāi zǒu le.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "快",
+      "en": "should",
+      "pi": "kuài"
+    },
+    {
+      "ch": "该",
+      "en": "leave",
+      "pi": "gāi"
+    },
+    {
+      "ch": "走",
+      "en": "soon",
+      "pi": "zǒu"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

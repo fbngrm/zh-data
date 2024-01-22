@@ -1,0 +1,32 @@
+{
+  "chinese": "我在找我的鑰匙。",
+  "english": "I am looking for my keys.",
+  "pinyin": "wǒ zài zhǎo wǒ de yàoshi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "am",
+      "pi": "zài"
+    },
+    {
+      "ch": "找",
+      "en": "looking",
+      "pi": "zhǎo"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "鑰匙",
+      "en": "keys",
+      "pi": "yàoshi"
+    }
+  ]
+}

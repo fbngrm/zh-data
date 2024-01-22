@@ -1,0 +1,37 @@
+{
+  "chinese": "你们想要吃些什么吗？",
+  "english": "What do you want to eat?",
+  "pinyin": "Nǐmen xiǎng yào chī xiē shénme ma?",
+  "words": [
+    {
+      "ch": "你们",
+      "en": "you",
+      "pi": "nǐmen"
+    },
+    {
+      "ch": "想要",
+      "en": "want",
+      "pi": "xiǎng yào"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "些",
+      "en": "some",
+      "pi": "xiē"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "吗",
+      "en": "",
+      "pi": "ma"
+    }
+  ]
+}

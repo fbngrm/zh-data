@@ -1,0 +1,15 @@
+{
+  "chinese": "汤姆一定想了玛丽不会做那个东西。",
+  "english": "Tom must have thought that Mary wouldn't be able to do that thing.",
+  "pinyin": "tāng mǔ yī dìng xiǎng liǎo mǎ lì bù huì zuò nà gè dōng xī。",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "一定", "en": "must", "pi": "yī dìng"},
+    {"ch": "想了", "en": "have thought", "pi": "xiǎng liǎo"},
+    {"ch": "玛丽", "en": "Mary", "pi": "mǎ lì"},
+    {"ch": "不会", "en": "wouldn't be able to", "pi": "bù huì"},
+    {"ch": "做", "en": "do", "pi": "zuò"},
+    {"ch": "那个", "en": "that", "pi": "nà gè"},
+    {"ch": "东西", "en": "thing", "pi": "dōng xī"}
+  ]
+}

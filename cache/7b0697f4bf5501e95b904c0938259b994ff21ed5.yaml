@@ -1,0 +1,27 @@
+{
+  "chinese": "我的生日在星期日。",
+  "english": "My birthday is on Sunday.",
+  "pinyin": "Wǒ de shēngrì zài xīngqírì。",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "生日",
+      "en": "birthday",
+      "pi": "shēngrì"
+    },
+    {
+      "ch": "在",
+      "en": "is on",
+      "pi": "zài"
+    },
+    {
+      "ch": "星期日",
+      "en": "Sunday",
+      "pi": "xīngqírì"
+    }
+  ]
+}

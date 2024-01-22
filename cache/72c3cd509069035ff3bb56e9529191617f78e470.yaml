@@ -1,0 +1,42 @@
+{
+  "chinese": "我跟你一起去买东西。",
+  "english": "I'll go shopping with you.",
+  "pinyin": "wǒ gēn nǐ yīqǐ qù mǎi dōngxi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "跟",
+      "en": "with",
+      "pi": "gēn"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "一起",
+      "en": "together",
+      "pi": "yīqǐ"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "买",
+      "en": "buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "东西",
+      "en": "things",
+      "pi": "dōngxi"
+    }
+  ]
+}

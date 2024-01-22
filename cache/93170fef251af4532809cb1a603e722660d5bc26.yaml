@@ -1,0 +1,14 @@
+{
+  "chinese": "我用我的旧车换了一辆新的。",
+  "english": "I exchanged my old car for a new one.",
+  "pinyin": "wǒ yòng wǒ de jiù chē huàn le yī liàng xīn de.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "用", "en": "use", "pi": "yòng"},
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "旧车", "en": "old car", "pi": "jiù chē"},
+    {"ch": "换了", "en": "exchanged", "pi": "huàn le"},
+    {"ch": "一辆", "en": "one", "pi": "yī liàng"},
+    {"ch": "新的", "en": "new", "pi": "xīn de"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆知道许多法语歌。",
+  "english": "Tom knows many French songs.",
+  "pinyin": "Tāng mǔ zhī dào xǔ duō fǎ yǔ gē.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "知道",
+      "en": "knows",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "许多",
+      "en": "many",
+      "pi": "xǔ duō"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎ yǔ"
+    },
+    {
+      "ch": "歌",
+      "en": "songs",
+      "pi": "gē"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "一部分钱被偷了。",
+  "english": "Some money was stolen.",
+  "pinyin": "yī bù fèn qián bèi tōu le。",
+  "words": [
+    {
+      "ch": "一部分",
+      "en": "Some",
+      "pi": "yī bù fēn"
+    },
+    {
+      "ch": "钱",
+      "en": "money",
+      "pi": "qián"
+    },
+    {
+      "ch": "被",
+      "en": "was",
+      "pi": "bèi"
+    },
+    {
+      "ch": "偷",
+      "en": "stolen",
+      "pi": "tōu"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

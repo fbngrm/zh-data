@@ -1,0 +1,37 @@
+{
+  "chinese": "所有鸟都会飞吗？",
+  "english": "Can all birds fly?",
+  "pinyin": "suǒ yǒu niǎo dōu huì fēi ma?",
+  "words": [
+    {
+      "ch": "所有",
+      "en": "all",
+      "pi": "suǒ yǒu"
+    },
+    {
+      "ch": "鸟",
+      "en": "birds",
+      "pi": "niǎo"
+    },
+    {
+      "ch": "都",
+      "en": "can",
+      "pi": "dōu"
+    },
+    {
+      "ch": "会",
+      "en": "fly",
+      "pi": "huì"
+    },
+    {
+      "ch": "飞",
+      "en": "fly",
+      "pi": "fēi"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

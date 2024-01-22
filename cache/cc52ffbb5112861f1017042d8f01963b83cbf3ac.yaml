@@ -1,0 +1,42 @@
+{
+  "chinese": "他们的合同在这个月底到期。",
+  "english": "Their contract expires at the end of this month.",
+  "pinyin": "tā men de hé tóng zài zhè ge yuè dǐ dào qī。",
+  "words": [
+    {
+      "ch": "他们",
+      "en": "They",
+      "pi": "tā men"
+    },
+    {
+      "ch": "的",
+      "en": "Their",
+      "pi": "de"
+    },
+    {
+      "ch": "合同",
+      "en": "contract",
+      "pi": "hé tóng"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè ge"
+    },
+    {
+      "ch": "月底",
+      "en": "end of the month",
+      "pi": "yùe dǐ"
+    },
+    {
+      "ch": "到期",
+      "en": "expires",
+      "pi": "dào qī"
+    }
+  ]
+}

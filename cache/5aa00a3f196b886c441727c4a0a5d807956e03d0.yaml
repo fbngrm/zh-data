@@ -1,0 +1,32 @@
+{
+  "chinese": "我正在学习英文戏剧。",
+  "english": "I am studying English drama.",
+  "pinyin": "Wǒ zhèngzài xuéxí yīngwén xìjù。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "正在",
+      "en": "am",
+      "pi": "zhèngzài"
+    },
+    {
+      "ch": "学习",
+      "en": "studying",
+      "pi": "xuéxí"
+    },
+    {
+      "ch": "英文",
+      "en": "English",
+      "pi": "yīngwén"
+    },
+    {
+      "ch": "戏剧",
+      "en": "drama",
+      "pi": "xìjù"
+    }
+  ]
+}

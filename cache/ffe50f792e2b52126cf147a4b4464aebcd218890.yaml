@@ -1,0 +1,37 @@
+{
+  "chinese": "土豆太热，以至于烫到了我的嘴。",
+  "english": "The potato is too hot and it burned my mouth.",
+  "pinyin": "Tǔdòu tài rè, yǐ zhìyú tàng dào le wǒ de zuǐ.",
+  "words": [
+    {
+      "ch": "土豆",
+      "en": "potato",
+      "pi": "tǔdòu"
+    },
+    {
+      "ch": "太热",
+      "en": "too hot",
+      "pi": "tài rè"
+    },
+    {
+      "ch": "以至于",
+      "en": "so that",
+      "pi": "yǐ zhìyú"
+    },
+    {
+      "ch": "烫到",
+      "en": "burned",
+      "pi": "tàng dào"
+    },
+    {
+      "ch": "了",
+      "en": "my",
+      "pi": "le"
+    },
+    {
+      "ch": "我的",
+      "en": "mouth",
+      "pi": "wǒ de zuǐ"
+    }
+  ]
+}

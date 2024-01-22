@@ -1,0 +1,37 @@
+{
+  "chinese": "嘿，你在这做什么？",
+  "english": "Hey, what are you doing here?",
+  "pinyin": "hēi, nǐ zài zhè zuò shénme?",
+  "words": [
+    {
+      "ch": "嘿",
+      "en": "Hey",
+      "pi": "hēi"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "在",
+      "en": "are",
+      "pi": "zài"
+    },
+    {
+      "ch": "这",
+      "en": "here",
+      "pi": "zhè"
+    },
+    {
+      "ch": "做",
+      "en": "doing",
+      "pi": "zuò"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    }
+  ]
+}

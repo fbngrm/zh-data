@@ -1,0 +1,37 @@
+{
+  "chinese": "我在翻译一本书。",
+  "english": "I am translating a book.",
+  "pinyin": "wǒ zài fānyì yī běn shū。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "am",
+      "pi": "zài"
+    },
+    {
+      "ch": "翻译",
+      "en": "translating",
+      "pi": "fānyì"
+    },
+    {
+      "ch": "一",
+      "en": "a",
+      "pi": "yī"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "书",
+      "en": "",
+      "pi": "shū"
+    }
+  ]
+}

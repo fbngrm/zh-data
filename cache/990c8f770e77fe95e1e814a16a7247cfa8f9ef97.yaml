@@ -1,0 +1,37 @@
+{
+  "chinese": "这张木制的椅子六十英镑。",
+  "english": "This wooden chair is sixty pounds.",
+  "pinyin": "zhè zhāng mùzhì de yǐzi liùshí yīngbàng。",
+  "words": [
+    {
+      "ch": "这张",
+      "en": "This",
+      "pi": "zhè zhāng"
+    },
+    {
+      "ch": "木制",
+      "en": "wooden",
+      "pi": "mùzhì"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "椅子",
+      "en": "chair",
+      "pi": "yǐzi"
+    },
+    {
+      "ch": "六十",
+      "en": "sixty",
+      "pi": "liùshí"
+    },
+    {
+      "ch": "英镑",
+      "en": "pounds",
+      "pi": "yīngbàng"
+    }
+  ]
+}

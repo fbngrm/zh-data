@@ -1,0 +1,32 @@
+{
+  "chinese": "你现在有空吗？",
+  "english": "Are you free now?",
+  "pinyin": "nǐ xiànzài yǒu kòng ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiànzài"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "空",
+      "en": "free",
+      "pi": "kòng"
+    },
+    {
+      "ch": "吗",
+      "en": "",
+      "pi": "ma"
+    }
+  ]
+}

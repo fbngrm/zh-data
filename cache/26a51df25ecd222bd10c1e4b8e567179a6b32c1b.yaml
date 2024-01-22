@@ -1,0 +1,27 @@
+{
+  "chinese": "这个男孩戴着眼镜。",
+  "english": "This boy is wearing glasses.",
+  "pinyin": "zhè gè nán hái dài zhe yǎn jìng。",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "男孩",
+      "en": "boy",
+      "pi": "nán hái"
+    },
+    {
+      "ch": "戴着",
+      "en": "is wearing",
+      "pi": "dài zhe"
+    },
+    {
+      "ch": "眼镜",
+      "en": "glasses",
+      "pi": "yǎn jìng"
+    }
+  ]
+}

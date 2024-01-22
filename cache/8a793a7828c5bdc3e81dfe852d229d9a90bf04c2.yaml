@@ -1,0 +1,32 @@
+{
+  "chinese": "她买了两双袜子。",
+  "english": "She bought two pairs of socks.",
+  "pinyin": "tā mǎi le liǎng shuāng wà zi。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "买了",
+      "en": "bought",
+      "pi": "mǎi le"
+    },
+    {
+      "ch": "两",
+      "en": "two",
+      "pi": "liǎng"
+    },
+    {
+      "ch": "双",
+      "en": "pairs",
+      "pi": "shuāng"
+    },
+    {
+      "ch": "袜子",
+      "en": "socks",
+      "pi": "wà zi"
+    }
+  ]
+}

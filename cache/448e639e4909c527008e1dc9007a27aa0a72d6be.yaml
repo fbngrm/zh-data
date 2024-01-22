@@ -1,0 +1,57 @@
+{
+  "chinese": "我只是想写一些没有逗号的小句子。",
+  "english": "I just want to write some small sentences without commas.",
+  "pinyin": "wǒ zhǐshì xiǎng xiě yīxiē méiyǒu dòuhào de xiǎo jùzi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "只是",
+      "en": "just",
+      "pi": "zhǐshì"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "写",
+      "en": "to write",
+      "pi": "xiě"
+    },
+    {
+      "ch": "一些",
+      "en": "some",
+      "pi": "yīxiē"
+    },
+    {
+      "ch": "没有",
+      "en": "without",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "逗号",
+      "en": "commas",
+      "pi": "dòuhào"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "小",
+      "en": "small",
+      "pi": "xiǎo"
+    },
+    {
+      "ch": "句子",
+      "en": "sentences",
+      "pi": "jùzi"
+    }
+  ]
+}

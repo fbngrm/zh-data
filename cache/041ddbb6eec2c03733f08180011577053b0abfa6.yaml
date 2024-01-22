@@ -1,0 +1,17 @@
+{
+  "chinese": "如果是这样的话，我们该做什么？",
+  "english": "If that's the case, what should we do?",
+  "pinyin": "Rúguǒ shì zhèyàng dehuà, wǒmen gāi zuò shénme?",
+  "words": [
+    {"ch": "如果", "en": "If", "pi": "rúguǒ"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "这样", "en": "that's the case", "pi": "zhèyàng"},
+    {"ch": "的话", "en": "if", "pi": "dehuà"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "我们", "en": "we", "pi": "wǒmen"},
+    {"ch": "该", "en": "should", "pi": "gāi"},
+    {"ch": "做", "en": "do", "pi": "zuò"},
+    {"ch": "什么", "en": "what", "pi": "shénme"},
+    {"ch": "？", "en": "?", "pi": ""}
+  ]
+}

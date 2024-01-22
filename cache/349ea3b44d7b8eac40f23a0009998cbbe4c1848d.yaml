@@ -1,0 +1,15 @@
+{
+  "chinese": "这家餐馆的服务没有其它餐馆可以比得上。",
+  "english": "The service at this restaurant is unmatched by any other restaurant.",
+  "pinyin": "zhè jiā cān guǎn de fú wù méi yǒu qí tā cān guǎn kě yǐ bǐ dé shàng。",
+  "words": [
+    {"ch": "这家", "en": "this", "pi": "zhè jiā"},
+    {"ch": "餐馆", "en": "restaurant", "pi": "cān guǎn"},
+    {"ch": "的", "en": "at", "pi": "de"},
+    {"ch": "服务", "en": "service", "pi": "fú wù"},
+    {"ch": "没有", "en": "unmatched", "pi": "méi yǒu"},
+    {"ch": "其它", "en": "any other", "pi": "qí tā"},
+    {"ch": "可以", "en": "can", "pi": "kě yǐ"},
+    {"ch": "比得上", "en": "compare with", "pi": "bǐ dé shàng"}
+  ]
+}

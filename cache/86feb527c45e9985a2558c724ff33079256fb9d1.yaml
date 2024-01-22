@@ -1,0 +1,16 @@
+{
+  "chinese": "那是我买这本书的原因。",
+  "english": "That is the reason I bought this book.",
+  "pinyin": "nà shì wǒ mǎi zhè běn shū de yuán yīn.",
+  "words": [
+    { "ch": "那", "en": "that", "pi": "nà" },
+    { "ch": "是", "en": "is", "pi": "shì" },
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "买", "en": "buy", "pi": "mǎi" },
+    { "ch": "这", "en": "this", "pi": "zhè" },
+    { "ch": "本", "en": "book", "pi": "běn" },
+    { "ch": "书", "en": "book", "pi": "shū" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "原因", "en": "reason", "pi": "yuán yīn" }
+  ]
+}

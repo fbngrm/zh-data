@@ -1,0 +1,32 @@
+{
+  "chinese": "这里的食物不是很好。",
+  "english": "The food here is not very good.",
+  "pinyin": "zhè lǐ de shí wù bú shì hěn hǎo。",
+  "words": [
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "食物",
+      "en": "food",
+      "pi": "shí wù"
+    },
+    {
+      "ch": "不是",
+      "en": "not",
+      "pi": "bú shì"
+    },
+    {
+      "ch": "很好",
+      "en": "very good",
+      "pi": "hěn hǎo"
+    }
+  ]
+}

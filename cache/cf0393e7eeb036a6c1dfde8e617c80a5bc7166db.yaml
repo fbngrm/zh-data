@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆昨天没去那里。",
+  "english": "Tom didn't go there yesterday.",
+  "pinyin": "Tāng mǔ zuó tiān méi qù nà lǐ.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "没",
+      "en": "didn't",
+      "pi": "méi"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "那里",
+      "en": "there",
+      "pi": "nà lǐ"
+    }
+  ]
+}

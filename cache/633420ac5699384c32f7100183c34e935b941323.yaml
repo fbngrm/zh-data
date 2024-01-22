@@ -1,0 +1,47 @@
+{
+  "chinese": "我通过了一个语言的考试。",
+  "english": "I passed a language exam.",
+  "pinyin": "wǒ tōng guò le yī gè yǔ yán de kǎo shì。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "通过",
+      "en": "passed",
+      "pi": "tōng guò"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "语言",
+      "en": "language",
+      "pi": "yǔ yán"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "考试",
+      "en": "exam",
+      "pi": "kǎo shì"
+    },
+    {
+      "ch": "。",
+      "en": "",
+      "pi": "。"
+    }
+  ]
+}

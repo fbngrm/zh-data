@@ -1,0 +1,13 @@
+{
+  "chinese": "他被一颗子弹打死了。",
+  "english": "He was shot and killed by a bullet.",
+  "pinyin": "tā bèi yī kē zǐdàn dǎsǐle。",
+  "words": [
+    { "ch": "他", "en": "He", "pi": "tā" },
+    { "ch": "被", "en": "was", "pi": "bèi" },
+    { "ch": "一", "en": "a", "pi": "yī" },
+    { "ch": "颗", "en": "bullet", "pi": "kē" },
+    { "ch": "子弹", "en": "shot", "pi": "zǐdàn" },
+    { "ch": "打死了", "en": "and killed", "pi": "dǎsǐle" }
+  ]
+}

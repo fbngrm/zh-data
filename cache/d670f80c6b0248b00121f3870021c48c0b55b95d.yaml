@@ -1,0 +1,42 @@
+{
+  "chinese": "医生认为病人的脉搏有点快。",
+  "english": "The doctor thinks the patient's pulse is a bit fast.",
+  "pinyin": "yī shēng rèn wéi bìng rén de mài bó yǒu diǎn kuài.",
+  "words": [
+    {
+      "ch": "医生",
+      "en": "doctor",
+      "pi": "yī shēng"
+    },
+    {
+      "ch": "认为",
+      "en": "thinks",
+      "pi": "rèn wéi"
+    },
+    {
+      "ch": "病人",
+      "en": "patient",
+      "pi": "bìng rén"
+    },
+    {
+      "ch": "的",
+      "en": "the",
+      "pi": "de"
+    },
+    {
+      "ch": "脉搏",
+      "en": "pulse",
+      "pi": "mài bó"
+    },
+    {
+      "ch": "有点",
+      "en": "a bit",
+      "pi": "yǒu diǎn"
+    },
+    {
+      "ch": "快",
+      "en": "fast",
+      "pi": "kuài"
+    }
+  ]
+}

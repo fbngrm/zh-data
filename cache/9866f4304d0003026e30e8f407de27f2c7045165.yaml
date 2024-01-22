@@ -1,0 +1,17 @@
+{
+  "chinese": "现在我们有蓝莓、黑莓、樱桃、草莓、桃子和油桃。",
+  "english": "Now we have blueberries, blackberries, cherries, strawberries, peaches, and nectarines.",
+  "pinyin": "xiàn zài wǒ men yǒu lán méi, hēi méi, yīng táo, cǎo méi, táo zi hé yóu táo.",
+  "words": [
+    {"ch": "现在", "en": "Now", "pi": "xiàn zài"},
+    {"ch": "我们", "en": "we", "pi": "wǒ men"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "蓝莓", "en": "blueberries", "pi": "lán méi"},
+    {"ch": "黑莓", "en": "blackberries", "pi": "hēi méi"},
+    {"ch": "樱桃", "en": "cherries", "pi": "yīng táo"},
+    {"ch": "草莓", "en": "strawberries", "pi": "cǎo méi"},
+    {"ch": "桃子", "en": "peaches", "pi": "táo zi"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "油桃", "en": "nectarines", "pi": "yóu táo"}
+  ]
+}

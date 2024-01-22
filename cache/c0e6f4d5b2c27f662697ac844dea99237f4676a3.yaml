@@ -1,0 +1,14 @@
+{
+  "chinese": "我不知道你不喜欢汤姆的理由。",
+  "english": "I don't know the reason why you don't like Tom.",
+  "pinyin": "wǒ bù zhīdào nǐ bù xǐhuān Tāngmǔ de lǐyóu.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "不知道", "en": "don't know", "pi": "bù zhīdào"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "不喜欢", "en": "don't like", "pi": "bù xǐhuān"},
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāngmǔ"},
+    {"ch": "的", "en": "the", "pi": "de"},
+    {"ch": "理由", "en": "reason", "pi": "lǐyóu"}
+  ]
+}

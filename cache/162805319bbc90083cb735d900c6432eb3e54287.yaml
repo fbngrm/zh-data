@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆甚至不知道我的名字。",
+  "english": "Tom doesn't even know my name.",
+  "pinyin": "Tāng mǔ shènzhì bù zhīdào wǒ de míngzì.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "甚至",
+      "en": "even",
+      "pi": "shènzhì"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míngzì"
+    }
+  ]
+}

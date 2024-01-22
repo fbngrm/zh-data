@@ -1,0 +1,32 @@
+{
+  "chinese": "我吃得太多了。",
+  "english": "I ate too much.",
+  "pinyin": "wǒ chī dé tài duō le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "得",
+      "en": "to",
+      "pi": "dé"
+    },
+    {
+      "ch": "太多",
+      "en": "too much",
+      "pi": "tài duō"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

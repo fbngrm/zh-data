@@ -1,0 +1,27 @@
+{
+  "chinese": "這裏附近有沒有加油站？",
+  "english": "Is there a gas station nearby?",
+  "pinyin": "zhè lǐ fù jìn yǒu méi yǒu jiā yóu zhàn?",
+  "words": [
+    {
+      "ch": "這裏",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "附近",
+      "en": "nearby",
+      "pi": "fù jìn"
+    },
+    {
+      "ch": "有沒有",
+      "en": "is there",
+      "pi": "yǒu méi yǒu"
+    },
+    {
+      "ch": "加油站",
+      "en": "gas station",
+      "pi": "jiā yóu zhàn"
+    }
+  ]
+}

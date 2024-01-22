@@ -1,0 +1,52 @@
+{
+  "chinese": "我在我的院子里种了棵桃树。",
+  "english": "I planted a peach tree in my yard.",
+  "pinyin": "wǒ zài wǒ de yuànzi li zhòng le kē táo shù。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "院子",
+      "en": "yard",
+      "pi": "yuàn zi"
+    },
+    {
+      "ch": "里",
+      "en": "inside",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "种",
+      "en": "plant",
+      "pi": "zhòng"
+    },
+    {
+      "ch": "了",
+      "en": "a",
+      "pi": "le"
+    },
+    {
+      "ch": "棵",
+      "en": "a measure word for trees",
+      "pi": "kē"
+    },
+    {
+      "ch": "桃树",
+      "en": "peach tree",
+      "pi": "táo shù"
+    }
+  ]
+}

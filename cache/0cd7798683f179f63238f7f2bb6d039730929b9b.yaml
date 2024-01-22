@@ -1,0 +1,32 @@
+{
+  "chinese": "今天上午很凉爽，不是吗？",
+  "english": "It's cool this morning, isn't it?",
+  "pinyin": "jīn tiān shàng wǔ hěn liáng shuǎng, bú shì ma?",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "上午",
+      "en": "morning",
+      "pi": "shàng wǔ"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "凉爽",
+      "en": "cool",
+      "pi": "liáng shuǎng"
+    },
+    {
+      "ch": "不是吗",
+      "en": "isn't it?",
+      "pi": "bú shì ma"
+    }
+  ]
+}

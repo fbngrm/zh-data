@@ -1,0 +1,37 @@
+{
+  "chinese": "我在厨房里喝水。",
+  "english": "I drink water in the kitchen.",
+  "pinyin": "wǒ zài chú fáng lǐ hē shuǐ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "in/at",
+      "pi": "zài"
+    },
+    {
+      "ch": "厨房",
+      "en": "kitchen",
+      "pi": "chú fáng"
+    },
+    {
+      "ch": "里",
+      "en": "inside",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "喝",
+      "en": "drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "水",
+      "en": "water",
+      "pi": "shuǐ"
+    }
+  ]
+}

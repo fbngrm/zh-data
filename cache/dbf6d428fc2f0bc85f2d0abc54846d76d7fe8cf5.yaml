@@ -1,0 +1,12 @@
+{
+  "chinese": "我住在这附近。",
+  "english": "I live nearby.",
+  "pinyin": "Wǒ zhù zài zhè fùjìn.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "住", "en": "live", "pi": "zhù"},
+    {"ch": "在", "en": "at/in", "pi": "zài"},
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "附近", "en": "nearby", "pi": "fùjìn"}
+  ]
+}

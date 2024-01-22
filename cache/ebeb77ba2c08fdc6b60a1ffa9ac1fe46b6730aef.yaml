@@ -1,0 +1,15 @@
+{
+  "chinese": "他没有上学，留在了家中。",
+  "english": "He did not go to school, he stayed at home.",
+  "pinyin": "tā méiyǒu shàngxué, liú zài le jiāzhōng。",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "没有", "en": "did not", "pi": "méiyǒu"},
+    {"ch": "上学", "en": "go to school", "pi": "shàngxué"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "留在", "en": "stay at", "pi": "liú zài"},
+    {"ch": "了", "en": "at", "pi": "le"},
+    {"ch": "家中", "en": "home", "pi": "jiāzhōng"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}

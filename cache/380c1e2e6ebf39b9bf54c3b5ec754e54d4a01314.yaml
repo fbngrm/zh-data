@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆让玛丽回家。",
+  "english": "Tom asked Mary to go home.",
+  "pinyin": "Tāng mǔ ràng mǎ lì huí jiā.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "让",
+      "en": "asked",
+      "pi": "ràng"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "回家",
+      "en": "to go home",
+      "pi": "huí jiā"
+    }
+  ]
+}

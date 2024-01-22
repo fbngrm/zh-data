@@ -1,0 +1,16 @@
+{
+  "chinese": "他幾乎從來沒揭開過一本書。",
+  "english": "He almost never opened a book.",
+  "pinyin": "tā jīhū cónglái méi jiēkāi guò yī běn shū。",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "幾乎", "en": "almost", "pi": "jīhū"},
+    {"ch": "從來", "en": "never", "pi": "cónglái"},
+    {"ch": "沒", "en": "never", "pi": "méi"},
+    {"ch": "揭開", "en": "opened", "pi": "jiēkāi"},
+    {"ch": "過", "en": "a", "pi": "guò"},
+    {"ch": "一", "en": "book", "pi": "yī"},
+    {"ch": "本", "en": "book", "pi": "běn"},
+    {"ch": "書", "en": "book", "pi": "shū"}
+  ]
+}

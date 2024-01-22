@@ -1,0 +1,21 @@
+{
+  "chinese": "他是个有才能的人，我们相信他会成功。",
+  "english": "He is a talented person, and we believe he will succeed.",
+  "pinyin": "tā shì gè yǒu cái néng de rén, wǒmen xiāngxìn tā huì chénggōng。",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "个", "en": "a", "pi": "gè"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "才能", "en": "talent", "pi": "cái néng"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "人", "en": "person", "pi": "rén"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "我们", "en": "we", "pi": "wǒmen"},
+    {"ch": "相信", "en": "believe", "pi": "xiāngxìn"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "成功", "en": "succeed", "pi": "chénggōng"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

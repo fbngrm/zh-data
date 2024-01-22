@@ -1,0 +1,20 @@
+{
+  "sentences": [
+    {
+      "chinese": "谢谢。",
+      "english": "Thank you.",
+      "pinyin": "xiè xiè.",
+      "words": [
+        {"ch": "谢谢", "en": "Thank you", "pi": "xiè xiè"}
+      ]
+    },
+    {
+      "chinese": "不用谢。",
+      "english": "You're welcome.",
+      "pinyin": "bù yòng xiè.",
+      "words": [
+        {"ch": "不用谢", "en": "You're welcome", "pi": "bù yòng xiè"}
+      ]
+    }
+  ]
+}

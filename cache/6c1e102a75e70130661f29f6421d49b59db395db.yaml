@@ -1,0 +1,12 @@
+{
+  "chinese": "她和我是同学。",
+  "english": "She and I are classmates.",
+  "pinyin": "tā hé wǒ shì tóng xué.",
+  "words": [
+    {"ch": "她", "en": "She", "pi": "tā"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "是", "en": "are", "pi": "shì"},
+    {"ch": "同学", "en": "classmates", "pi": "tóng xué"}
+  ]
+}

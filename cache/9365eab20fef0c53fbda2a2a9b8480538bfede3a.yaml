@@ -1,0 +1,37 @@
+{
+  "chinese": "动物园里有很多动物吗？",
+  "english": "Are there many animals in the zoo?",
+  "pinyin": "Dòngwùyuán lǐ yǒu hěnduō dòngwù ma?",
+  "words": [
+    {
+      "ch": "动物园",
+      "en": "zoo",
+      "pi": "dòngwùyuán"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "很多",
+      "en": "many",
+      "pi": "hěnduō"
+    },
+    {
+      "ch": "动物",
+      "en": "animal",
+      "pi": "dòngwù"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

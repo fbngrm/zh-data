@@ -1,0 +1,42 @@
+{
+  "chinese": "学校在上午八点三十分开始上课。",
+  "english": "The school starts classes at 8:30 in the morning.",
+  "pinyin": "xuéxiào zài shàngwǔ bā diǎn sānshífēn kāishǐ shàngkè。",
+  "words": [
+    {
+      "ch": "学校",
+      "en": "school",
+      "pi": "xuéxiào"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "上午",
+      "en": "morning",
+      "pi": "shàngwǔ"
+    },
+    {
+      "ch": "八点",
+      "en": "8 o'clock",
+      "pi": "bā diǎn"
+    },
+    {
+      "ch": "三十分",
+      "en": "30 minutes",
+      "pi": "sānshífēn"
+    },
+    {
+      "ch": "开始",
+      "en": "starts",
+      "pi": "kāishǐ"
+    },
+    {
+      "ch": "上课",
+      "en": "classes",
+      "pi": "shàngkè"
+    }
+  ]
+}

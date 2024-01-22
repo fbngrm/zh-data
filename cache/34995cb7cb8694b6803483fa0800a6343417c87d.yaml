@@ -1,0 +1,27 @@
+{
+  "chinese": "你是日本人吗？",
+  "english": "Are you Japanese?",
+  "pinyin": "nǐ shì rìběn rén ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "是",
+      "en": "Are",
+      "pi": "shì"
+    },
+    {
+      "ch": "日本人",
+      "en": "Japanese",
+      "pi": "rìběn rén"
+    },
+    {
+      "ch": "吗",
+      "en": "Question particle",
+      "pi": "ma"
+    }
+  ]
+}

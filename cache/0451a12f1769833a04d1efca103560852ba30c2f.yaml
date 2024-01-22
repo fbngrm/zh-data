@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆看来有点不适。",
+  "english": "Tom seems a little unwell.",
+  "pinyin": "Tāng mǔ kàn lái yǒu diǎn bù shì。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "看来",
+      "en": "seems",
+      "pi": "kàn lái"
+    },
+    {
+      "ch": "有点",
+      "en": "a little",
+      "pi": "yǒu diǎn"
+    },
+    {
+      "ch": "不适",
+      "en": "unwell",
+      "pi": "bù shì"
+    }
+  ]
+}

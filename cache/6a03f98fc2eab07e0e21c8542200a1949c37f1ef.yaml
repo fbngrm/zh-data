@@ -1,0 +1,14 @@
+{
+  "chinese": "我不能离开家，即使是一会儿。",
+  "english": "I can't leave home, even for a while.",
+  "pinyin": "wǒ bù néng líkāi jiā, jíshǐ shì yīhuǐ'er。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "不能", "en": "can't", "pi": "bù néng"},
+    {"ch": "离开", "en": "leave", "pi": "líkāi"},
+    {"ch": "家", "en": "home", "pi": "jiā"},
+    {"ch": "即使", "en": "even", "pi": "jíshǐ"},
+    {"ch": "是", "en": "for", "pi": "shì"},
+    {"ch": "一会儿", "en": "a while", "pi": "yīhuǐ'er"}
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "我被熨斗烫伤了。",
+  "english": "I got burned by the iron.",
+  "pinyin": "Wǒ bèi yùndǒu tàng shāng le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "被",
+      "en": "by",
+      "pi": "bèi"
+    },
+    {
+      "ch": "熨斗",
+      "en": "iron",
+      "pi": "yùndǒu"
+    },
+    {
+      "ch": "烫",
+      "en": "burn",
+      "pi": "tàng"
+    },
+    {
+      "ch": "伤",
+      "en": "hurt",
+      "pi": "shāng"
+    },
+    {
+      "ch": "了",
+      "en": "completed action",
+      "pi": "le"
+    }
+  ]
+}

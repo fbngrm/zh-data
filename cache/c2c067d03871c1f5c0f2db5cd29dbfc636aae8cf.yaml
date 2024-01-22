@@ -1,0 +1,32 @@
+{
+  "chinese": "那棟房子是我的。",
+  "english": "That house is mine.",
+  "pinyin": "Nà dòng fángzi shì wǒ de.",
+  "words": [
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "棟",
+      "en": "house",
+      "pi": "dòng"
+    },
+    {
+      "ch": "房子",
+      "en": "is",
+      "pi": "fángzi"
+    },
+    {
+      "ch": "是",
+      "en": "mine",
+      "pi": "shì"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    }
+  ]
+}

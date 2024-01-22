@@ -1,0 +1,13 @@
+{
+  "chinese": "把你的名字用大写写下来。",
+  "english": "Write your name in capital letters.",
+  "pinyin": "bǎ nǐ de míngzì yòng dàxiě xiě xiàlái。",
+  "words": [
+    { "ch": "把", "en": "write", "pi": "bǎ" },
+    { "ch": "你的", "en": "your", "pi": "nǐ de" },
+    { "ch": "名字", "en": "name", "pi": "míngzì" },
+    { "ch": "用", "en": "in", "pi": "yòng" },
+    { "ch": "大写", "en": "capital letters", "pi": "dàxiě" },
+    { "ch": "写下来", "en": "write down", "pi": "xiě xiàlái" }
+  ]
+}

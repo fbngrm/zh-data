@@ -1,0 +1,27 @@
+{
+  "chinese": "有人偷走了我的铅笔。",
+  "english": "Someone stole my pencil.",
+  "pinyin": "yǒu rén tōu zǒu le wǒ de qiān bǐ。",
+  "words": [
+    {
+      "ch": "有人",
+      "en": "someone",
+      "pi": "yǒu rén"
+    },
+    {
+      "ch": "偷走了",
+      "en": "stole",
+      "pi": "tōu zǒu le"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "铅笔",
+      "en": "pencil",
+      "pi": "qiān bǐ"
+    }
+  ]
+}

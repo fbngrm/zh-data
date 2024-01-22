@@ -1,0 +1,13 @@
+{
+  "chinese": "比较你和汤姆的答案。",
+  "english": "Compare your answer with Tom's.",
+  "pinyin": "bǐ jiào nǐ hé tāng mǔ de dá àn。",
+  "words": [
+    { "ch": "比较", "en": "compare", "pi": "bǐ jiào" },
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "和", "en": "and", "pi": "hé" },
+    { "ch": "汤姆", "en": "Tom", "pi": "tāng mǔ" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "答案", "en": "answer", "pi": "dá àn" }
+  ]
+}

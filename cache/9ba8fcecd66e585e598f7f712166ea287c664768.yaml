@@ -1,0 +1,32 @@
+{
+  "chinese": "我是最快的跑者。",
+  "english": "I am the fastest runner.",
+  "pinyin": "wǒ shì zuì kuài de pǎo zhě。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "是",
+      "en": "am",
+      "pi": "shì"
+    },
+    {
+      "ch": "最快",
+      "en": "fastest",
+      "pi": "zuì kuài"
+    },
+    {
+      "ch": "的",
+      "en": "the",
+      "pi": "de"
+    },
+    {
+      "ch": "跑者",
+      "en": "runner",
+      "pi": "pǎo zhě"
+    }
+  ]
+}

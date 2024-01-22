@@ -1,0 +1,42 @@
+{
+  "chinese": "晚饭时他吃了一些米饭。",
+  "english": "He ate some rice during dinner.",
+  "pinyin": "wǎn fàn shí tā chī le yī xiē mǐ fàn.",
+  "words": [
+    {
+      "ch": "晚饭",
+      "en": "dinner",
+      "pi": "wǎn fàn"
+    },
+    {
+      "ch": "时",
+      "en": "during",
+      "pi": "shí"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "了",
+      "en": "indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "一些",
+      "en": "some",
+      "pi": "yī xiē"
+    },
+    {
+      "ch": "米饭",
+      "en": "rice",
+      "pi": "mǐ fàn"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "chinese": "你在哪儿？我在花园中。",
+  "english": "Where are you? I am in the garden.",
+  "pinyin": "Nǐ zài nǎr? Wǒ zài huāyuán zhōng.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "在",
+      "en": "are",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪儿",
+      "en": "where",
+      "pi": "nǎr"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "？"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "am",
+      "pi": "zài"
+    },
+    {
+      "ch": "花园",
+      "en": "garden",
+      "pi": "huāyuán"
+    },
+    {
+      "ch": "中",
+      "en": "in",
+      "pi": "zhōng"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "。"
+    }
+  ]
+}

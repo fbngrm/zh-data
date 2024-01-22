@@ -1,0 +1,42 @@
+{
+  "chinese": "我想用汉语交换另一种语言.",
+  "english": "I want to exchange languages using Chinese.",
+  "pinyin": "wǒ xiǎng yòng hànyǔ jiāohuàn lìng yī zhǒng yǔyán.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "用",
+      "en": "to use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "汉语",
+      "en": "Chinese",
+      "pi": "hànyǔ"
+    },
+    {
+      "ch": "交换",
+      "en": "exchange",
+      "pi": "jiāohuàn"
+    },
+    {
+      "ch": "另一种",
+      "en": "another kind",
+      "pi": "lìng yī zhǒng"
+    },
+    {
+      "ch": "语言",
+      "en": "language",
+      "pi": "yǔyán"
+    }
+  ]
+}

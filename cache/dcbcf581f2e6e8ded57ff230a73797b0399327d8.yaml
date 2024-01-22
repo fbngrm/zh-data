@@ -1,0 +1,37 @@
+{
+  "chinese": "我不想知道这个！",
+  "english": "I don't want to know this!",
+  "pinyin": "wǒ bùxiǎng zhīdào zhège!",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "知道",
+      "en": "to know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhège"
+    },
+    {
+      "ch": "！",
+      "en": "!",
+      "pi": "!"
+    }
+  ]
+}

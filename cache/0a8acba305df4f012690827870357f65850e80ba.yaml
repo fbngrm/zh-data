@@ -1,0 +1,42 @@
+{
+  "chinese": "闹钟定在了早上５点。",
+  "english": "The alarm clock is set for 5 o'clock in the morning.",
+  "pinyin": "nào zhōng dìng zài le zǎo shàng wǔ diǎn。",
+  "words": [
+    {
+      "ch": "闹钟",
+      "en": "alarm clock",
+      "pi": "nào zhōng"
+    },
+    {
+      "ch": "定",
+      "en": "set",
+      "pi": "dìng"
+    },
+    {
+      "ch": "在",
+      "en": "for",
+      "pi": "zài"
+    },
+    {
+      "ch": "了",
+      "en": "for",
+      "pi": "le"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎo shàng"
+    },
+    {
+      "ch": "５",
+      "en": "5",
+      "pi": "wǔ"
+    },
+    {
+      "ch": "点",
+      "en": "o'clock",
+      "pi": "diǎn"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "chinese": "给我们工具，我们会完成工作。",
+  "english": "Give us the tools and we will finish the job.",
+  "pinyin": "gěi wǒ men gōng jù, wǒ men huì wán chéng gōng zuò。",
+  "words": [
+    {"ch": "给", "en": "give", "pi": "gěi"},
+    {"ch": "我们", "en": "us", "pi": "wǒ men"},
+    {"ch": "工具", "en": "tools", "pi": "gōng jù"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "我们", "en": "we", "pi": "wǒ men"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "完成", "en": "finish", "pi": "wán chéng"},
+    {"ch": "工作", "en": "job", "pi": "gōng zuò"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

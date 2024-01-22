@@ -1,0 +1,42 @@
+{
+  "chinese": "这里有个装满蔬菜的篮子。",
+  "english": "Here is a basket filled with vegetables.",
+  "pinyin": "zhè lǐ yǒu gè zhuāng mǎn shū cài de lán zi。",
+  "words": [
+    {
+      "ch": "这里",
+      "en": "Here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "is",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "装满",
+      "en": "filled with",
+      "pi": "zhuāng mǎn"
+    },
+    {
+      "ch": "蔬菜",
+      "en": "vegetables",
+      "pi": "shū cài"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "篮子",
+      "en": "basket",
+      "pi": "lán zi"
+    }
+  ]
+}

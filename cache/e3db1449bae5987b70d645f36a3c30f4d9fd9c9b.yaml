@@ -1,0 +1,37 @@
+{
+  "chinese": "明天早上6点给我打电话。",
+  "english": "Call me at 6 o'clock tomorrow morning.",
+  "pinyin": "míng tiān zǎo shàng liù diǎn gěi wǒ dǎ diàn huà.",
+  "words": [
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎo shàng"
+    },
+    {
+      "ch": "6点",
+      "en": "6 o'clock",
+      "pi": "liù diǎn"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "打电话",
+      "en": "call",
+      "pi": "dǎ diàn huà"
+    }
+  ]
+}

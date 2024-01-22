@@ -1,0 +1,32 @@
+{
+  "chinese": "我很惊讶约翰死了。",
+  "english": "I am surprised John died.",
+  "pinyin": "wǒ hěn jīngyà yuēhàn sǐle。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "很",
+      "en": "am",
+      "pi": "hěn"
+    },
+    {
+      "ch": "惊讶",
+      "en": "surprised",
+      "pi": "jīngyà"
+    },
+    {
+      "ch": "约翰",
+      "en": "John",
+      "pi": "yuēhàn"
+    },
+    {
+      "ch": "死了",
+      "en": "died",
+      "pi": "sǐle"
+    }
+  ]
+}

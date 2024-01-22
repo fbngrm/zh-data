@@ -1,0 +1,27 @@
+{
+  "chinese": "今天是我的生日。",
+  "english": "Today is my birthday.",
+  "pinyin": "jīn tiān shì wǒ de shēng rì。",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "Today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "生日",
+      "en": "birthday",
+      "pi": "shēng rì"
+    }
+  ]
+}

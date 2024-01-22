@@ -1,0 +1,32 @@
+{
+  "chinese": "他在自助餐厅吃午餐。",
+  "english": "He is having lunch at the buffet restaurant.",
+  "pinyin": "Tā zài zìzhù cāntīng chī wǔcān.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "Tā"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "自助餐厅",
+      "en": "buffet restaurant",
+      "pi": "zìzhù cāntīng"
+    },
+    {
+      "ch": "吃",
+      "en": "having",
+      "pi": "chī"
+    },
+    {
+      "ch": "午餐",
+      "en": "lunch",
+      "pi": "wǔcān"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "我们昨天打网球。",
+  "english": "We played tennis yesterday.",
+  "pinyin": "wǒmen zuótiān dǎ wǎngqiú.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "打",
+      "en": "played",
+      "pi": "dǎ"
+    },
+    {
+      "ch": "网球",
+      "en": "tennis",
+      "pi": "wǎngqiú"
+    }
+  ]
+}

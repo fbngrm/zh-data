@@ -1,0 +1,52 @@
+{
+  "chinese": "今天早上我因为太懒而没有出门。",
+  "english": "I didn't go out this morning because I was too lazy.",
+  "pinyin": "jīn tiān zǎo shàng wǒ yīn wèi tài lǎn ér méi yǒu chū mén.",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎo shàng"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "因为",
+      "en": "because",
+      "pi": "yīn wèi"
+    },
+    {
+      "ch": "太",
+      "en": "too",
+      "pi": "tài"
+    },
+    {
+      "ch": "懒",
+      "en": "lazy",
+      "pi": "lǎn"
+    },
+    {
+      "ch": "而",
+      "en": "and",
+      "pi": "ér"
+    },
+    {
+      "ch": "没有",
+      "en": "did not",
+      "pi": "méi yǒu"
+    },
+    {
+      "ch": "出门",
+      "en": "go out",
+      "pi": "chū mén"
+    }
+  ]
+}

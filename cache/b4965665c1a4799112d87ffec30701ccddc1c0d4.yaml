@@ -1,0 +1,37 @@
+{
+  "chinese": "我们在我的叔叔家过夜。",
+  "english": "We are staying overnight at my uncle's house.",
+  "pinyin": "Wǒmen zài wǒ de shūshu jiā guòyè.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "叔叔",
+      "en": "uncle",
+      "pi": "shūshu"
+    },
+    {
+      "ch": "家",
+      "en": "house",
+      "pi": "jiā"
+    },
+    {
+      "ch": "过夜",
+      "en": "stay overnight",
+      "pi": "guòyè"
+    }
+  ]
+}

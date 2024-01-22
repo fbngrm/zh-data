@@ -1,0 +1,42 @@
+{
+  "chinese": "Bill昨晚打了電話給我。",
+  "english": "Bill called me last night.",
+  "pinyin": "Bill zuó wǎn dǎ le diànhuà gěi wǒ.",
+  "words": [
+    {
+      "ch": "Bill",
+      "en": "Bill",
+      "pi": "Bill"
+    },
+    {
+      "ch": "昨晚",
+      "en": "last night",
+      "pi": "zuó wǎn"
+    },
+    {
+      "ch": "打",
+      "en": "called",
+      "pi": "dǎ"
+    },
+    {
+      "ch": "了",
+      "en": "me",
+      "pi": "le"
+    },
+    {
+      "ch": "電話",
+      "en": "phone",
+      "pi": "diànhuà"
+    },
+    {
+      "ch": "給",
+      "en": "to",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    }
+  ]
+}

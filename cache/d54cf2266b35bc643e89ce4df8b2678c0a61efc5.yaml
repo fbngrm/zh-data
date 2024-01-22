@@ -1,0 +1,32 @@
+{
+  "chinese": "我看到一本书。",
+  "english": "I see a book.",
+  "pinyin": "wǒ kàndào yī běn shū",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "看到",
+      "en": "see",
+      "pi": "kàndào"
+    },
+    {
+      "ch": "一",
+      "en": "a",
+      "pi": "yī"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    }
+  ]
+}

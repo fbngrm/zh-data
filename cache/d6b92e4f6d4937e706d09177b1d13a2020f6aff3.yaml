@@ -1,0 +1,37 @@
+{
+  "chinese": "这是一些十分坏的事情。",
+  "english": "These are some very bad things.",
+  "pinyin": "zhè shì yī xiē shí fēn huài de shì qíng.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "these",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "一些",
+      "en": "some",
+      "pi": "yī xiē"
+    },
+    {
+      "ch": "十分",
+      "en": "very",
+      "pi": "shí fēn"
+    },
+    {
+      "ch": "坏",
+      "en": "bad",
+      "pi": "huài"
+    },
+    {
+      "ch": "的",
+      "en": "things",
+      "pi": "shì qíng"
+    }
+  ]
+}

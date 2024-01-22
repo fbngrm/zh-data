@@ -1,0 +1,47 @@
+{
+  "chinese": "请问你能给我点事做吗？",
+  "english": "Can you give me something to do?",
+  "pinyin": "qǐng wèn nǐ néng gěi wǒ diǎn shì zuò ma?",
+  "words": [
+    {
+      "ch": "请问",
+      "en": "Can I ask",
+      "pi": "qǐng wèn"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "点",
+      "en": "something",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "事做",
+      "en": "to do",
+      "pi": "shì zuò"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

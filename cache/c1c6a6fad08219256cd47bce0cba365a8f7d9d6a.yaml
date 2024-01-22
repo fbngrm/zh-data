@@ -1,0 +1,16 @@
+{
+  "chinese": "我知道，但我没说对。",
+  "english": "I know, but I didn't say it right.",
+  "pinyin": "wǒ zhīdào, dàn wǒ méi shuō duì。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "知道", "en": "know", "pi": "zhīdào"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "但", "en": "but", "pi": "dàn"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "没", "en": "didn't", "pi": "méi"},
+    {"ch": "说", "en": "say", "pi": "shuō"},
+    {"ch": "对", "en": "right", "pi": "duì"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

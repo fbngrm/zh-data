@@ -1,0 +1,10 @@
+{
+  "chinese": "汤姆爱你。",
+  "english": "Tom loves you.",
+  "pinyin": "Tāng mǔ ài nǐ.",
+  "words": [
+    {"ch":"汤姆", "en":"Tom", "pi":"Tāng mǔ"},
+    {"ch":"爱", "en":"love", "pi":"ài"},
+    {"ch":"你", "en":"you", "pi":"nǐ"}
+  ]
+}

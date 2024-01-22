@@ -1,0 +1,16 @@
+{
+  "chinese": "两年前，我去了中国。",
+  "english": "Two years ago, I went to China.",
+  "pinyin": "Liǎng nián qián, wǒ qùle Zhōngguó.",
+  "words": [
+    {"ch": "两", "en": "two", "pi": "liǎng"},
+    {"ch": "年", "en": "year", "pi": "nián"},
+    {"ch": "前", "en": "ago", "pi": "qián"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "去", "en": "went", "pi": "qù"},
+    {"ch": "了", "en": "to", "pi": "le"},
+    {"ch": "中国", "en": "China", "pi": "Zhōngguó"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "chinese": "火车开出的时候，他们都挥手向父母道别。",
+  "english": "When the train started, they all waved to their parents goodbye.",
+  "pinyin": "Huǒchē kāi chū de shíhòu, tāmen dōu huīshǒu xiàng fùmǔ dàobié.",
+  "words": [
+    { "ch": "火车", "en": "train", "pi": "huǒchē" },
+    { "ch": "开出", "en": "started", "pi": "kāi chū" },
+    { "ch": "的时候", "en": "when", "pi": "de shíhòu" },
+    { "ch": "他们", "en": "they", "pi": "tāmen" },
+    { "ch": "都", "en": "all", "pi": "dōu" },
+    { "ch": "挥手", "en": "waved", "pi": "huīshǒu" },
+    { "ch": "向", "en": "to", "pi": "xiàng" },
+    { "ch": "父母", "en": "parents", "pi": "fùmǔ" },
+    { "ch": "道别", "en": "goodbye", "pi": "dàobié" }
+  ]
+}

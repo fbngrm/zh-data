@@ -1,0 +1,37 @@
+{
+  "chinese": "你不應在這裏吸煙。",
+  "english": "You shouldn't smoke here.",
+  "pinyin": "nǐ bù yīng zài zhèlǐ xīyān.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ",
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù",
+    },
+    {
+      "ch": "應",
+      "en": "should",
+      "pi": "yīng",
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài",
+    },
+    {
+      "ch": "這裏",
+      "en": "here",
+      "pi": "zhèlǐ",
+    },
+    {
+      "ch": "吸煙",
+      "en": "smoke",
+      "pi": "xīyān",
+    }
+  ]
+}

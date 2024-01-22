@@ -1,0 +1,15 @@
+{
+  "chinese": "这艘船航行通过了直布罗陀海崃。",
+  "english": "This ship sailed through the Strait of Gibraltar.",
+  "pinyin": "zhè sōu chuán háng xíng tōng guò le zhí bù luó tuō hǎi lài。",
+  "words": [
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "艘", "en": "ship (measure word)", "pi": "sōu"},
+    {"ch": "船", "en": "ship", "pi": "chuán"},
+    {"ch": "航行", "en": "sail", "pi": "háng xíng"},
+    {"ch": "通过", "en": "through", "pi": "tōng guò"},
+    {"ch": "了", "en": "le (past tense marker)", "pi": "le"},
+    {"ch": "直布罗陀", "en": "Strait of Gibraltar", "pi": "zhí bù luó tuō"},
+    {"ch": "海崃", "en": "strait", "pi": "hǎi lài"}
+  ]
+}

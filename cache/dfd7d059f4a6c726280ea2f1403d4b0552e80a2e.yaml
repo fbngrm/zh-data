@@ -1,0 +1,42 @@
+{
+  "chinese": "您有什么事要说吗？",
+  "english": "Do you have something to say?",
+  "pinyin": "nín yǒu shénme shì yào shuō ma?",
+  "words": [
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "什么",
+      "en": "something",
+      "pi": "shénme"
+    },
+    {
+      "ch": "事",
+      "en": "matter",
+      "pi": "shì"
+    },
+    {
+      "ch": "要",
+      "en": "to",
+      "pi": "yào"
+    },
+    {
+      "ch": "说",
+      "en": "say",
+      "pi": "shuō"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

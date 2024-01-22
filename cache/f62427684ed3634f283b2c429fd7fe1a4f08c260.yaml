@@ -1,0 +1,37 @@
+{
+  "chinese": "您将在这里待多久？",
+  "english": "How long will you stay here?",
+  "pinyin": "Nín jiāng zài zhèlǐ dāi duōjiǔ?",
+  "words": [
+    {
+      "ch": "您",
+      "en": "You",
+      "pi": "Nín"
+    },
+    {
+      "ch": "将",
+      "en": "Will",
+      "pi": "jiāng"
+    },
+    {
+      "ch": "在",
+      "en": "In",
+      "pi": "zài"
+    },
+    {
+      "ch": "这里",
+      "en": "Here",
+      "pi": "zhèlǐ"
+    },
+    {
+      "ch": "待",
+      "en": "Stay",
+      "pi": "dāi"
+    },
+    {
+      "ch": "多久",
+      "en": "How long",
+      "pi": "duōjiǔ"
+    }
+  ]
+}

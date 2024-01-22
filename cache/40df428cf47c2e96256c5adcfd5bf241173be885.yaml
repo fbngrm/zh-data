@@ -1,0 +1,32 @@
+{
+  "chinese": "中国与蒙古隔着万里长城。",
+  "english": "China and Mongolia are separated by the Great Wall.",
+  "pinyin": "Zhōngguó yǔ Měnggǔ gézhe wàn lǐ Chángchéng.",
+  "words": [
+    {
+      "ch": "中国",
+      "en": "China",
+      "pi": "Zhōngguó"
+    },
+    {
+      "ch": "与",
+      "en": "and",
+      "pi": "yǔ"
+    },
+    {
+      "ch": "蒙古",
+      "en": "Mongolia",
+      "pi": "Měnggǔ"
+    },
+    {
+      "ch": "隔着",
+      "en": "separated by",
+      "pi": "gézhe"
+    },
+    {
+      "ch": "万里长城",
+      "en": "Great Wall",
+      "pi": "wàn lǐ Chángchéng"
+    }
+  ]
+}

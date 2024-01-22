@@ -1,0 +1,13 @@
+{
+  "chinese": "我迅速地吃了午饭。",
+  "english": "I ate lunch quickly.",
+  "pinyin": "wǒ xùn sù de chī le wǔ fàn.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "迅速", "en": "quickly", "pi": "xùn sù"},
+    {"ch": "地", "en": "adverbial particle", "pi": "de"},
+    {"ch": "吃", "en": "eat", "pi": "chī"},
+    {"ch": "了", "en": "particle indicating a changed situation", "pi": "le"},
+    {"ch": "午饭", "en": "lunch", "pi": "wǔ fàn"}
+  ]
+}

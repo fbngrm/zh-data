@@ -1,0 +1,32 @@
+{
+  "chinese": "你的领带松了。",
+  "english": "Your tie is loose.",
+  "pinyin": "nǐ de lǐngdài sōngle.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "领带",
+      "en": "tie",
+      "pi": "lǐngdài"
+    },
+    {
+      "ch": "松",
+      "en": "loose",
+      "pi": "sōng"
+    },
+    {
+      "ch": "了",
+      "en": "indicating action completed",
+      "pi": "le"
+    }
+  ]
+}

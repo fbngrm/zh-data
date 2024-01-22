@@ -1,0 +1,16 @@
+{
+  "chinese": "汤姆被玛丽说的话给难倒了。",
+  "english": "Tom was puzzled by what Mary said.",
+  "pinyin": "tāng mǔ bèi mǎ lì shuō de huà gěi nán dǎo le。",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "被", "en": "by", "pi": "bèi"},
+    {"ch": "玛丽", "en": "Mary", "pi": "mǎ lì"},
+    {"ch": "说", "en": "said", "pi": "shuō"},
+    {"ch": "的", "en": "what", "pi": "de"},
+    {"ch": "话", "en": "words", "pi": "huà"},
+    {"ch": "给", "en": "gave", "pi": "gěi"},
+    {"ch": "难倒", "en": "puzzled", "pi": "nán dǎo"},
+    {"ch": "了", "en": "by", "pi": "le"}
+  ]
+}

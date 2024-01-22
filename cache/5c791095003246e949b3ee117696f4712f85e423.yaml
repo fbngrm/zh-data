@@ -1,0 +1,15 @@
+{
+  "chinese": "你若安好，便是晴天。",
+  "english": "If you are well, then it is a sunny day.",
+  "pinyin": "nǐ ruò ān hǎo, biàn shì qíng tiān.",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "若", "en": "if", "pi": "ruò"},
+    {"ch": "安好", "en": "well", "pi": "ān hǎo"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "便", "en": "then", "pi": "biàn"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "晴天", "en": "sunny day", "pi": "qíng tiān"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}

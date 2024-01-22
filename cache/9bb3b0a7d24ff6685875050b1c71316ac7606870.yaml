@@ -1,0 +1,32 @@
+{
+  "chinese": "我希望玛丽通过考试。",
+  "english": "I hope Mary passes the exam.",
+  "pinyin": "wǒ xīwàng mǎlì tōngguò kǎoshì。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "希望",
+      "en": "hope",
+      "pi": "xīwàng"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎlì"
+    },
+    {
+      "ch": "通过",
+      "en": "passes",
+      "pi": "tōngguò"
+    },
+    {
+      "ch": "考试",
+      "en": "exam",
+      "pi": "kǎoshì"
+    }
+  ]
+}

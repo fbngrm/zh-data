@@ -1,0 +1,27 @@
+{
+  "chinese": "你打过电话了吗？",
+  "english": "Have you made a phone call?",
+  "pinyin": "nǐ dǎ guò diàn huà le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "打过",
+      "en": "made",
+      "pi": "dǎ guò"
+    },
+    {
+      "ch": "电话",
+      "en": "phone call",
+      "pi": "diàn huà"
+    },
+    {
+      "ch": "了吗",
+      "en": "have you?",
+      "pi": "le ma"
+    }
+  ]
+}

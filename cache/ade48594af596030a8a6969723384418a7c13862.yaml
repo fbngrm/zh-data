@@ -1,0 +1,32 @@
+{
+  "chinese": "你的昵称是甚么？",
+  "english": "What is your nickname?",
+  "pinyin": "nǐ de nì chēn shì shén me?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "昵称",
+      "en": "nickname",
+      "pi": "nì chēn"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "甚么",
+      "en": "what",
+      "pi": "shén me"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "他说的词典图书馆没有.",
+  "english": "The dictionary library he mentioned doesn't exist.",
+  "pinyin": "tā shuō de cídiǎn túshūguǎn méiyǒu.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "词典",
+      "en": "dictionary",
+      "pi": "cídiǎn"
+    },
+    {
+      "ch": "图书馆",
+      "en": "library",
+      "pi": "túshūguǎn"
+    },
+    {
+      "ch": "没有",
+      "en": "no",
+      "pi": "méiyǒu"
+    }
+  ]
+}

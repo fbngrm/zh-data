@@ -1,0 +1,42 @@
+{
+  "chinese": "我昨天拜访了我的朋友汤姆。",
+  "english": "Yesterday I visited my friend Tom.",
+  "pinyin": "Wo zuotian baifang le wo de pengyou Tangmu.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "Wo"
+    },
+    {
+      "ch": "昨天",
+      "en": "Yesterday",
+      "pi": "zuotian"
+    },
+    {
+      "ch": "拜访",
+      "en": "visited",
+      "pi": "baifang"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wo de"
+    },
+    {
+      "ch": "朋友",
+      "en": "friend",
+      "pi": "pengyou"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tangmu"
+    }
+  ]
+}

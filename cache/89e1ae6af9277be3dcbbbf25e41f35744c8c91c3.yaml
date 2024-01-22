@@ -1,0 +1,21 @@
+{
+  "chinese": "他只不过是个普普通通的中学生，不算特别聪明。",
+  "english": "He is just an ordinary high school student, not particularly smart.",
+  "pinyin": "Tā zhǐ bùguò shì gè pǔpǔtōngtōng de zhōngxuéshēng, bù suàn tèbié cōngming。",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "只", "en": "just", "pi": "zhǐ"},
+    {"ch": "不过", "en": "but", "pi": "bùguò"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "个", "en": "a", "pi": "gè"},
+    {"ch": "普普通通", "en": "ordinary", "pi": "pǔpǔtōngtōng"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "中学生", "en": "high school student", "pi": "zhōngxuéshēng"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "算", "en": "particularly", "pi": "suàn"},
+    {"ch": "特别", "en": "special", "pi": "tèbié"},
+    {"ch": "聪明", "en": "smart", "pi": "cōngming"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

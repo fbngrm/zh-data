@@ -1,0 +1,32 @@
+{
+  "chinese": "巴士早了两分钟。",
+  "english": "The bus arrived two minutes early.",
+  "pinyin": "bā shì zǎo le liǎng fēn zhōng.",
+  "words": [
+    {
+      "ch": "巴士",
+      "en": "bus",
+      "pi": "bā shì"
+    },
+    {
+      "ch": "早",
+      "en": "early",
+      "pi": "zǎo"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "两",
+      "en": "two",
+      "pi": "liǎng"
+    },
+    {
+      "ch": "分钟",
+      "en": "minutes",
+      "pi": "fēn zhōng"
+    }
+  ]
+}

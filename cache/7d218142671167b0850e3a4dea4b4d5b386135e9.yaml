@@ -1,0 +1,15 @@
+{
+  "chinese": "汤姆告诉我他明天不来上学。",
+  "english": "Tom told me that he won't come to school tomorrow.",
+  "pinyin": "tāng mǔ gào sù wǒ tā míng tiān bù lái shàng xué。",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "告诉", "en": "told", "pi": "gào sù"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "明天", "en": "tomorrow", "pi": "míng tiān"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "来", "en": "come", "pi": "lái"},
+    {"ch": "上学", "en": "to school", "pi": "shàng xué"}
+  ]
+}

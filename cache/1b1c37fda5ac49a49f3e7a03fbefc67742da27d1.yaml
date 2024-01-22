@@ -1,0 +1,42 @@
+{
+  "chinese": "英语在大部分的国家被教授。",
+  "english": "English is taught in most countries.",
+  "pinyin": "Yīngyǔ zài dà bùfèn de guójiā bèi jiāoshòu。",
+  "words": [
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "Yīngyǔ"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "大部分",
+      "en": "most",
+      "pi": "dà bùfèn"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "国家",
+      "en": "countries",
+      "pi": "guójiā"
+    },
+    {
+      "ch": "被",
+      "en": "is",
+      "pi": "bèi"
+    },
+    {
+      "ch": "教授",
+      "en": "taught",
+      "pi": "jiāoshòu"
+    }
+  ]
+}

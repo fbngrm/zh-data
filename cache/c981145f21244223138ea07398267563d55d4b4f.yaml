@@ -1,0 +1,32 @@
+{
+  "chinese": "你读过这本书吗？",
+  "english": "Have you read this book?",
+  "pinyin": "nǐ dú guò zhè běn shū ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "读过",
+      "en": "read",
+      "pi": "dú guò"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本书",
+      "en": "book",
+      "pi": "běn shū"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "这条街铺上了柏油。",
+  "english": "This street has been paved with asphalt.",
+  "pinyin": "zhè tiáo jiē pū shàng le bǎi yóu。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "条",
+      "en": "measure word for long, narrow objects",
+      "pi": "tiáo"
+    },
+    {
+      "ch": "街",
+      "en": "street",
+      "pi": "jiē"
+    },
+    {
+      "ch": "铺",
+      "en": "to pave",
+      "pi": "pū"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "柏油",
+      "en": "asphalt",
+      "pi": "bǎi yóu"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "这是给你的礼物。",
+  "english": "This is a gift for you.",
+  "pinyin": "Zhè shì gěi nǐ de lǐwù.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "给",
+      "en": "to give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "礼物",
+      "en": "gift",
+      "pi": "lǐwù"
+    }
+  ]
+}

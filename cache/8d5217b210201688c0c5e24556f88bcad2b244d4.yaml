@@ -1,0 +1,37 @@
+{
+  "chinese": "我以前没见过你吗？",
+  "english": "Have I not met you before?",
+  "pinyin": "wǒ yǐqián méi jiànguò nǐ ma?",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "以前",
+      "en": "before",
+      "pi": "yǐqián"
+    },
+    {
+      "ch": "没",
+      "en": "not",
+      "pi": "méi"
+    },
+    {
+      "ch": "见过",
+      "en": "met",
+      "pi": "jiànguò"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

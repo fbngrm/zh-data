@@ -1,0 +1,32 @@
+{
+  "chinese": "你的血型是什么？",
+  "english": "What is your blood type?",
+  "pinyin": "Nǐ de xuèxíng shì shénme?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "血型",
+      "en": "blood type",
+      "pi": "xuèxíng"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    }
+  ]
+}

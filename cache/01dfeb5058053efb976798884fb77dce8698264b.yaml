@@ -1,0 +1,42 @@
+{
+   "chinese":"车发动不了因为电池没电了。",
+   "english":"The car can't start because the battery is dead.",
+   "pinyin":"chē fā dòng bù liǎo yīn wèi diàn chí méi diàn le。",
+   "words":[
+      {
+         "ch":"车",
+         "en":"car",
+         "pi":"chē"
+      },
+      {
+         "ch":"发动",
+         "en":"start",
+         "pi":"fā dòng"
+      },
+      {
+         "ch":"不了",
+         "en":"can't",
+         "pi":"bù liǎo"
+      },
+      {
+         "ch":"因为",
+         "en":"because",
+         "pi":"yīn wèi"
+      },
+      {
+         "ch":"电池",
+         "en":"battery",
+         "pi":"diàn chí"
+      },
+      {
+         "ch":"没电",
+         "en":"dead",
+         "pi":"méi diàn"
+      },
+      {
+         "ch":"了",
+         "en":"",
+         "pi":"le"
+      }
+   ]
+}

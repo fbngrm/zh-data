@@ -1,0 +1,57 @@
+{
+  "chinese": "我叫你的名字的時候，請你把手舉起來。",
+  "english": "When I call your name, please raise your hand.",
+  "pinyin": "wǒ jiào nǐ de míng zì de shí hòu, qǐng nǐ bǎ shǒu jǔ qǐ lái。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "叫",
+      "en": "call",
+      "pi": "jiào"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "your",
+      "pi": "de"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míng zì"
+    },
+    {
+      "ch": "时候",
+      "en": "when",
+      "pi": "shí hòu"
+    },
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "把",
+      "en": "raise",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "手",
+      "en": "hand",
+      "pi": "shǒu"
+    },
+    {
+      "ch": "举起来",
+      "en": "raise",
+      "pi": "jǔ qǐ lái"
+    }
+  ]
+}

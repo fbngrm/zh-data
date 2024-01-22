@@ -1,0 +1,27 @@
+{
+  "chinese": "我的祖父来自大坂。",
+  "english": "My grandfather is from Osaka.",
+  "pinyin": "Wǒ de zǔfù láizì Dàbǎn.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "祖父",
+      "en": "grandfather",
+      "pi": "zǔfù"
+    },
+    {
+      "ch": "来自",
+      "en": "is from",
+      "pi": "láizì"
+    },
+    {
+      "ch": "大坂",
+      "en": "Osaka",
+      "pi": "Dàbǎn"
+    }
+  ]
+}

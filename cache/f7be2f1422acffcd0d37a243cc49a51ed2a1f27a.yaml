@@ -1,0 +1,13 @@
+{
+  "chinese": "你最好不要吃了蛋糕。",
+  "english": "You'd better not eat the cake.",
+  "pinyin": "Nǐ zuìhǎo búyào chī le dàngāo.",
+  "words": [
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "最好", "en": "had better", "pi": "zuìhǎo" },
+    { "ch": "不要", "en": "do not", "pi": "búyào" },
+    { "ch": "吃", "en": "eat", "pi": "chī" },
+    { "ch": "了", "en": "(particle indicating completed action)", "pi": "le" },
+    { "ch": "蛋糕", "en": "cake", "pi": "dàngāo" }
+  ]
+}

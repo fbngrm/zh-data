@@ -1,0 +1,32 @@
+{
+  "chinese": "那本书在哪儿？",
+  "english": "Where is that book?",
+  "pinyin": "Nà běn shū zài nǎ'er?",
+  "words": [
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "书",
+      "en": "is",
+      "pi": "shū"
+    },
+    {
+      "ch": "在",
+      "en": "where",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪儿",
+      "en": "?" ,
+      "pi": "nǎ'er"
+    }
+  ]
+}

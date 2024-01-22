@@ -1,0 +1,47 @@
+{
+  "chinese": "這張照片是我在上星期拍的。",
+  "english": "This photo was taken by me last week.",
+  "pinyin": "zhè zhāng zhào piàn shì wǒ zài shàng xīng qī pāi de.",
+  "words": [
+    {
+      "ch": "這張",
+      "en": "This",
+      "pi": "zhè zhāng"
+    },
+    {
+      "ch": "照片",
+      "en": "photo",
+      "pi": "zhào piàn"
+    },
+    {
+      "ch": "是",
+      "en": "was",
+      "pi": "shì"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "上星期",
+      "en": "last week",
+      "pi": "shàng xīng qī"
+    },
+    {
+      "ch": "拍",
+      "en": "taken",
+      "pi": "pāi"
+    },
+    {
+      "ch": "的",
+      "en": "by",
+      "pi": "de"
+    }
+  ]
+}

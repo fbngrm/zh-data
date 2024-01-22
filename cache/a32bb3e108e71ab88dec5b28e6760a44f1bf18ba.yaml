@@ -1,0 +1,37 @@
+{
+  "chinese": "图像在镜片中呈反向。",
+  "english": "The image is reversed in the lens.",
+  "pinyin": "tú xiàng zài jìng piàn zhōng chéng fǎn xiàng。",
+  "words": [
+    {
+      "ch": "图像",
+      "en": "image",
+      "pi": "tú xiàng"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "镜片",
+      "en": "lens",
+      "pi": "jìng piàn"
+    },
+    {
+      "ch": "中",
+      "en": "in",
+      "pi": "zhōng"
+    },
+    {
+      "ch": "呈",
+      "en": "present",
+      "pi": "chéng"
+    },
+    {
+      "ch": "反向",
+      "en": "reversed",
+      "pi": "fǎn xiàng"
+    }
+  ]
+}

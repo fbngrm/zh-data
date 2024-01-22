@@ -1,0 +1,32 @@
+{
+  "chinese": "他跑得非常快。",
+  "english": "He runs very fast.",
+  "pinyin": "tā pǎo dé fēi cháng kuài.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "跑",
+      "en": "run",
+      "pi": "pǎo"
+    },
+    {
+      "ch": "得",
+      "en": "very",
+      "pi": "dé"
+    },
+    {
+      "ch": "非常",
+      "en": "fast",
+      "pi": "fēi cháng"
+    },
+    {
+      "ch": "快",
+      "en": "fast",
+      "pi": "kuài"
+    }
+  ]
+}

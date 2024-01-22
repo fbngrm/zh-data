@@ -1,0 +1,52 @@
+{
+  "chinese": "你正在开车，不可以玩手机。",
+  "english": "You are driving, you can't play with your phone.",
+  "pinyin": "Nǐ zhèngzài kāichē, bù kěyǐ wán shǒujī.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "Nǐ"
+    },
+    {
+      "ch": "正在",
+      "en": "are",
+      "pi": "zhèngzài"
+    },
+    {
+      "ch": "开车",
+      "en": "driving",
+      "pi": "kāichē"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": ","
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "可以",
+      "en": "can't",
+      "pi": "kěyǐ"
+    },
+    {
+      "ch": "玩",
+      "en": "play",
+      "pi": "wán"
+    },
+    {
+      "ch": "手机",
+      "en": "phone",
+      "pi": "shǒujī"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "."
+    }
+  ]
+}

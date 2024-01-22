@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆在安慰玛丽。",
+  "english": "Tom is consoling Mary.",
+  "pinyin": "Tāng mǔ zài ān wèi mǎ lì.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "安慰",
+      "en": "consoling",
+      "pi": "ān wèi"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "chinese": "我把汤姆和玛丽的鞋系在一起。",
+  "english": "I tied Tom and Mary's shoes together.",
+  "pinyin": "wǒ bǎ tāng mǔ hé mǎ lì de xié xì zài yī qǐ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "把",
+      "en": "tied",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "的",
+      "en": "'s",
+      "pi": "de"
+    },
+    {
+      "ch": "鞋",
+      "en": "shoes",
+      "pi": "xié"
+    },
+    {
+      "ch": "系在",
+      "en": "together",
+      "pi": "xì zài"
+    },
+    {
+      "ch": "一起",
+      "en": "together",
+      "pi": "yī qǐ"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "。"
+    }
+  ]
+}

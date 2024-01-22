@@ -1,0 +1,27 @@
+{
+  "chinese": "看来汤姆在说谎。",
+  "english": "It seems that Tom is lying.",
+  "pinyin": "kàn lái tāng mǔ zài shuō huǎng。",
+  "words": [
+    {
+      "ch": "看来",
+      "en": "It seems",
+      "pi": "kàn lái"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "说谎",
+      "en": "lying",
+      "pi": "shuō huǎng"
+    }
+  ]
+}

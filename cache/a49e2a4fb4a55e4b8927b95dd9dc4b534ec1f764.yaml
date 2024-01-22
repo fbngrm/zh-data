@@ -1,0 +1,47 @@
+{
+  "chinese": "这辆公车会载你去博物馆。",
+  "english": "This bus will take you to the museum.",
+  "pinyin": "zhè liàng gōng chē huì zài nǐ qù bó wù guǎn。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "辆",
+      "en": "vehicle",
+      "pi": "liàng"
+    },
+    {
+      "ch": "公车",
+      "en": "bus",
+      "pi": "gōng chē"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "载",
+      "en": "take",
+      "pi": "zài"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "去",
+      "en": "to",
+      "pi": "qù"
+    },
+    {
+      "ch": "博物馆",
+      "en": "museum",
+      "pi": "bó wù guǎn"
+    }
+  ]
+}

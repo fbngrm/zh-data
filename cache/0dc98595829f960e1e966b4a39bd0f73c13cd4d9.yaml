@@ -1,0 +1,27 @@
+{
+  "chinese": "请问火车站怎么走？",
+  "english": "Excuse me, how can I get to the train station?",
+  "pinyin": "Qǐngwèn huǒchēzhàn zěnme zǒu?",
+  "words": [
+    {
+      "ch": "请问",
+      "en": "Excuse me",
+      "pi": "qǐngwèn"
+    },
+    {
+      "ch": "火车站",
+      "en": "train station",
+      "pi": "huǒchēzhàn"
+    },
+    {
+      "ch": "怎么",
+      "en": "how",
+      "pi": "zěnme"
+    },
+    {
+      "ch": "走",
+      "en": "get to",
+      "pi": "zǒu"
+    }
+  ]
+}

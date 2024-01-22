@@ -1,0 +1,27 @@
+{
+  "chinese": "这个表是我的。",
+  "english": "This watch is mine.",
+  "pinyin": "zhè ge biǎo shì wǒ de。",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè ge"
+    },
+    {
+      "ch": "表",
+      "en": "watch",
+      "pi": "biǎo"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我的",
+      "en": "mine",
+      "pi": "wǒ de"
+    }
+  ]
+}

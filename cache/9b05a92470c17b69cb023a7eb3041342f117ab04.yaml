@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆和玛丽都是加拿大人吗？",
+  "english": "Are Tom and Mary both Canadians?",
+  "pinyin": "Tāng mǔ hé mǎ lì dōu shì jiā ná dà rén ma?",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "都",
+      "en": "both",
+      "pi": "dōu"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "加拿大人",
+      "en": "Canadians",
+      "pi": "jiā ná dà rén"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

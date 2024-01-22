@@ -1,0 +1,42 @@
+{
+  "chinese": "有什么事让你烦心吗？",
+  "english": "Is there anything that is bothering you?",
+  "pinyin": "Yǒu shé me shì ràng nǐ fán xīn ma?",
+  "words": [
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shén me"
+    },
+    {
+      "ch": "事",
+      "en": "thing",
+      "pi": "shì"
+    },
+    {
+      "ch": "让",
+      "en": "let",
+      "pi": "ràng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "烦心",
+      "en": "bother",
+      "pi": "fán xīn"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

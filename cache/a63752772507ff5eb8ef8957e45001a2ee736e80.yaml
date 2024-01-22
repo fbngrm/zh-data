@@ -1,0 +1,37 @@
+{
+  "chinese": "你穿几号的鞋子?",
+  "english": "What shoe size do you wear?",
+  "pinyin": "nǐ chuān jǐ hào de xiézi?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "穿",
+      "en": "wear",
+      "pi": "chuān"
+    },
+    {
+      "ch": "几",
+      "en": "what",
+      "pi": "jǐ"
+    },
+    {
+      "ch": "号",
+      "en": "size",
+      "pi": "hào"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "鞋子",
+      "en": "shoe",
+      "pi": "xiézi"
+    }
+  ]
+}

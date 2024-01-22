@@ -1,0 +1,13 @@
+{
+  "chinese": "她在玻璃杯里装满了酒。",
+  "english": "She filled the glass with wine.",
+  "pinyin": "tā zài bō lí bēi lǐ zhuāng mǎn le jiǔ。",
+  "words": [
+    {"ch": "她", "en": "she", "pi": "tā"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "玻璃杯", "en": "glass", "pi": "bō lí bēi"},
+    {"ch": "里", "en": "with", "pi": "lǐ"},
+    {"ch": "装满了", "en": "filled", "pi": "zhuāng mǎn le"},
+    {"ch": "酒", "en": "wine", "pi": "jiǔ"}
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "sentences": [
+    {
+      "chinese": "我们玩过了。",
+      "english": "We have played.",
+      "pinyin": "wǒmen wán guò le。",
+      "words": [
+        {
+          "ch": "我们",
+          "en": "We",
+          "pi": "wǒmen"
+        },
+        {
+          "ch": "玩过了",
+          "en": "have played",
+          "pi": "wán guò le"
+        }
+      ]
+    },
+    {
+      "chinese": "我们输了。",
+      "english": "We lost.",
+      "pinyin": "wǒmen shū le。",
+      "words": [
+        {
+          "ch": "我们",
+          "en": "We",
+          "pi": "wǒmen"
+        },
+        {
+          "ch": "输了",
+          "en": "lost",
+          "pi": "shū le"
+        }
+      ]
+    },
+    {
+      "chinese": "咱们从新来过吧？",
+      "english": "Let's start over, shall we?",
+      "pinyin": "zánmen cóng xīn lái guò ba？",
+      "words": [
+        {
+          "ch": "咱们",
+          "en": "Let's",
+          "pi": "zánmen"
+        },
+        {
+          "ch": "从新",
+          "en": "start over",
+          "pi": "cóng xīn"
+        },
+        {
+          "ch": "来过",
+          "en": "shall we",
+          "pi": "lái guò"
+        },
+        {
+          "ch": "吧？",
+          "en": "?",
+          "pi": "ba？"
+        }
+      ]
+    }
+  ]
+}

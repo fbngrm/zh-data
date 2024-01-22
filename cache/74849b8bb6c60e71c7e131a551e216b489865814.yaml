@@ -1,0 +1,15 @@
+{
+  "chinese": "有很多科学家住在这个小村里。",
+  "english": "Many scientists live in this small village.",
+  "pinyin": "yǒu hěn duō kē xué jiā zhù zài zhè ge xiǎo cūn lǐ。",
+  "words": [
+    { "ch": "有", "en": "have", "pi": "yǒu" },
+    { "ch": "很多", "en": "many", "pi": "hěn duō" },
+    { "ch": "科学家", "en": "scientist", "pi": "kē xué jiā" },
+    { "ch": "住", "en": "live", "pi": "zhù" },
+    { "ch": "在", "en": "in", "pi": "zài" },
+    { "ch": "这个", "en": "this", "pi": "zhè ge" },
+    { "ch": "小村", "en": "small village", "pi": "xiǎo cūn" },
+    { "ch": "里", "en": "inside", "pi": "lǐ" }
+  ]
+}

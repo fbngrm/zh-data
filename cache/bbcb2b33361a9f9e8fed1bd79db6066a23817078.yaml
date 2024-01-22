@@ -1,0 +1,32 @@
+{
+  "chinese": "我听到窗外有人大叫。",
+  "english": "I heard someone yelling outside the window.",
+  "pinyin": "wǒ tīng dào chuāng wài yǒu rén dà jiào。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "听到",
+      "en": "heard",
+      "pi": "tīng dào"
+    },
+    {
+      "ch": "窗外",
+      "en": "outside the window",
+      "pi": "chuāng wài"
+    },
+    {
+      "ch": "有人",
+      "en": "someone",
+      "pi": "yǒu rén"
+    },
+    {
+      "ch": "大叫",
+      "en": "yelling",
+      "pi": "dà jiào"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{ 
+  "chinese": "玛丽早已出发旅行去了。",
+  "english": "Mary has already left for a trip.",
+  "pinyin": "mǎ lì zǎo yǐ chū fā lǚ xíng qù le。",
+  "words": [
+    { "ch": "玛丽", "en": "Mary", "pi": "mǎ lì" },
+    { "ch": "早已", "en": "already", "pi": "zǎo yǐ" },
+    { "ch": "出发", "en": "leave", "pi": "chū fā" },
+    { "ch": "旅行", "en": "trip", "pi": "lǚ xíng" },
+    { "ch": "去", "en": "go", "pi": "qù" },
+    { "ch": "了", "en": "participle indicating completed action", "pi": "le" }
+  ]
+}

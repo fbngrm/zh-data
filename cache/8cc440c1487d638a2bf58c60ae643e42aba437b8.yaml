@@ -1,0 +1,52 @@
+{
+  "chinese": "嘿，你的狗刚咬了我。",
+  "english": "Hey, your dog just bit me.",
+  "pinyin": "hēi, nǐ de gǒu gāng yǎo le wǒ.",
+  "words": [
+    {
+      "ch": "嘿",
+      "en": "Hey",
+      "pi": "hēi"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": ","
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "刚",
+      "en": "just",
+      "pi": "gāng"
+    },
+    {
+      "ch": "咬",
+      "en": "bite",
+      "pi": "yǎo"
+    },
+    {
+      "ch": "了",
+      "en": "me",
+      "pi": "le"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "."
+    }
+  ]
+}

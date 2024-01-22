@@ -1,0 +1,73 @@
+{
+  "sentences": [
+    {
+      "chinese": "我发现你玩绝对不耽误学习。",
+      "english": "I find that you never get distracted from studying when you play.",
+      "pinyin": "wǒ fāxiàn nǐ wán juéduì bù dān wù xuéxí.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "发现",
+          "en": "find",
+          "pi": "fāxiàn"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "玩",
+          "en": "play",
+          "pi": "wán"
+        },
+        {
+          "ch": "绝对",
+          "en": "never",
+          "pi": "juéduì"
+        },
+        {
+          "ch": "不",
+          "en": "not",
+          "pi": "bù"
+        },
+        {
+          "ch": "耽误",
+          "en": "get distracted",
+          "pi": "dān wù"
+        },
+        {
+          "ch": "学习",
+          "en": "study",
+          "pi": "xuéxí"
+        }
+      ]
+    },
+    {
+      "chinese": "我就不行。",
+      "english": "But I can't do the same.",
+      "pinyin": "wǒ jiù bùxíng.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "就",
+          "en": "but",
+          "pi": "jiù"
+        },
+        {
+          "ch": "不行",
+          "en": "can't do",
+          "pi": "bùxíng"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我每周游一次泳。",
+  "english": "I swim once a week.",
+  "pinyin": "wǒ měi zhōu yóu yī cì yǒng。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "每周",
+      "en": "once a week",
+      "pi": "měi zhōu"
+    },
+    {
+      "ch": "游",
+      "en": "swim",
+      "pi": "yóu"
+    },
+    {
+      "ch": "一次",
+      "en": "once",
+      "pi": "yī cì"
+    },
+    {
+      "ch": "泳",
+      "en": "a week",
+      "pi": "yǒng"
+    }
+  ]
+}

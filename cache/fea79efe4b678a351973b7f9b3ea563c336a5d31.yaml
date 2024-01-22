@@ -1,0 +1,32 @@
+{
+  "chinese": "我给了玛丽一本书。",
+  "english": "I gave Mary a book.",
+  "pinyin": "wǒ gěi le mǎ lì yī běn shū.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "给了",
+      "en": "gave",
+      "pi": "gěi le"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "一本",
+      "en": "a",
+      "pi": "yī běn"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    }
+  ]
+}

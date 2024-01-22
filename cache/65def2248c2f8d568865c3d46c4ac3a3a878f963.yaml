@@ -1,0 +1,37 @@
+{
+  "chinese": "我已经会写汉字了。",
+  "english": "I can already write Chinese characters.",
+  "pinyin": "wǒ yǐjīng huì xiě hànzì le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐjīng"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "写",
+      "en": "write",
+      "pi": "xiě"
+    },
+    {
+      "ch": "汉字",
+      "en": "Chinese characters",
+      "pi": "hànzì"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

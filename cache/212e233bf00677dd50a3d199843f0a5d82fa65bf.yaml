@@ -1,0 +1,47 @@
+{
+  "chinese": "这台机器太重了，我拿不动。",
+  "english": "This machine is too heavy, I cannot lift it.",
+  "pinyin": "zhè tái jī qì tài zhòng le, wǒ ná bù dòng。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "台",
+      "en": "machine",
+      "pi": "tái"
+    },
+    {
+      "ch": "机器",
+      "en": "machine",
+      "pi": "jī qì"
+    },
+    {
+      "ch": "太",
+      "en": "too",
+      "pi": "tài"
+    },
+    {
+      "ch": "重",
+      "en": "heavy",
+      "pi": "zhòng"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "拿不动",
+      "en": "cannot lift",
+      "pi": "ná bù dòng"
+    }
+  ]
+}

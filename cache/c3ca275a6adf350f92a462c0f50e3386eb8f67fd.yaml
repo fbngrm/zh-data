@@ -1,0 +1,37 @@
+{
+  "chinese": "这幢楼以前是医院。",
+  "english": "This building used to be a hospital.",
+  "pinyin": "zhè zhuàng lóu yǐqián shì yīyuàn.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "幢",
+      "en": "building",
+      "pi": "zhuàng"
+    },
+    {
+      "ch": "楼",
+      "en": "floor",
+      "pi": "lóu"
+    },
+    {
+      "ch": "以前",
+      "en": "used to",
+      "pi": "yǐqián"
+    },
+    {
+      "ch": "是",
+      "en": "be",
+      "pi": "shì"
+    },
+    {
+      "ch": "医院",
+      "en": "hospital",
+      "pi": "yīyuàn"
+    }
+  ]
+}

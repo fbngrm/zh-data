@@ -1,0 +1,32 @@
+{
+  "chinese": "你妈妈在家吗？",
+  "english": "Is your mom at home?",
+  "pinyin": "nǐ māmā zài jiā ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "妈妈",
+      "en": "mom",
+      "pi": "māmā"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "家",
+      "en": "home",
+      "pi": "jiā"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

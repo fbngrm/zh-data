@@ -1,0 +1,37 @@
+{
+  "chinese": "我不乘公交去学校。",
+  "english": "I don't take the bus to school.",
+  "pinyin": "wǒ bù chéng gōngjiāo qù xuéxiào.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "乘",
+      "en": "take",
+      "pi": "chéng"
+    },
+    {
+      "ch": "公交",
+      "en": "bus",
+      "pi": "gōngjiāo"
+    },
+    {
+      "ch": "去",
+      "en": "to",
+      "pi": "qù"
+    },
+    {
+      "ch": "学校",
+      "en": "school",
+      "pi": "xuéxiào"
+    }
+  ]
+}

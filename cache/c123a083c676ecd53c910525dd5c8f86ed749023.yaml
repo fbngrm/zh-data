@@ -1,0 +1,13 @@
+{
+  "chinese": "他喝酒醉无法开车回家。",
+  "english": "He is drunk and cannot drive home.",
+  "pinyin": "tā hē jiǔ zuì wú fǎ kāi chē huí jiā。",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "喝酒", "en": "drink alcohol", "pi": "hē jiǔ"},
+    {"ch": "醉", "en": "drunk", "pi": "zuì"},
+    {"ch": "无法", "en": "cannot", "pi": "wú fǎ"},
+    {"ch": "开车", "en": "drive", "pi": "kāi chē"},
+    {"ch": "回家", "en": "go home", "pi": "huí jiā"}
+  ]
+}

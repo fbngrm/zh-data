@@ -1,0 +1,13 @@
+{
+  "chinese": "汤姆再也不会见你了。",
+  "english": "Tom will never see you again.",
+  "pinyin": "Tāng mǔ zài yě bù huì jiàn nǐ le.",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ"},
+    {"ch": "再也", "en": "never", "pi": "zài yě"},
+    {"ch": "不会", "en": "will not", "pi": "bù huì"},
+    {"ch": "见", "en": "see", "pi": "jiàn"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "了", "en": "again", "pi": "le"}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "Tom和John是好朋友。",
+  "english": "Tom and John are good friends.",
+  "pinyin": "Tom hé John shì hǎo péngyǒu.",
+  "words": [
+    {"ch": "Tom", "en": "Tom", "pi": "Tom"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "John", "en": "John", "pi": "John"},
+    {"ch": "是", "en": "are", "pi": "shì"},
+    {"ch": "好", "en": "good", "pi": "hǎo"},
+    {"ch": "朋友", "en": "friend", "pi": "péngyǒu"}
+  ]
+}

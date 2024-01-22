@@ -1,0 +1,27 @@
+{
+  "chinese": "对不起，我没有零钱。",
+  "english": "I'm sorry, I don't have any change.",
+  "pinyin": "duì bù qǐ, wǒ méi yǒu líng qián。",
+  "words": [
+    {
+      "ch": "对不起",
+      "en": "I'm sorry",
+      "pi": "duì bù qǐ"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "没有",
+      "en": "don't have",
+      "pi": "méi yǒu"
+    },
+    {
+      "ch": "零钱",
+      "en": "change",
+      "pi": "líng qián"
+    }
+  ]
+}

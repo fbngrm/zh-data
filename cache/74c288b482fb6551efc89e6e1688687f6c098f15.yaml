@@ -1,0 +1,15 @@
+{
+  "chinese": "我还不知道汤姆生了病。",
+  "english": "I still don't know that Tom is sick.",
+  "pinyin": "wǒ hái bù zhīdào tāngmǔ shēng le bìng.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "还", "en": "still", "pi": "hái" },
+    { "ch": "不", "en": "not", "pi": "bù" },
+    { "ch": "知道", "en": "know", "pi": "zhīdào" },
+    { "ch": "汤姆", "en": "Tom", "pi": "tāngmǔ" },
+    { "ch": "生", "en": "to be born", "pi": "shēng" },
+    { "ch": "了", "en": "indicating a completed action", "pi": "le" },
+    { "ch": "病", "en": "sick", "pi": "bìng" }
+  ]
+}

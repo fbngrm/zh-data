@@ -1,0 +1,38 @@
+{
+  "sentences": [
+    {
+      "chinese": "谢谢你们。",
+      "english": "Thank you.",
+      "pinyin": "xièxiè nǐmen.",
+      "words": [
+        {
+          "ch": "谢谢",
+          "en": "thank you",
+          "pi": "xièxiè"
+        },
+        {
+          "ch": "你们",
+          "en": "you",
+          "pi": "nǐmen"
+        }
+      ]
+    },
+    {
+      "chinese": "不用谢。",
+      "english": "You're welcome.",
+      "pinyin": "bùyòng xiè.",
+      "words": [
+        {
+          "ch": "不用",
+          "en": "you're welcome",
+          "pi": "bùyòng"
+        },
+        {
+          "ch": "谢",
+          "en": "thank",
+          "pi": "xiè"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "你要去哪里度假?",
+  "english": "Where do you want to go on vacation?",
+  "pinyin": "Nǐ yào qù nǎlǐ dùjià?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "哪里",
+      "en": "where",
+      "pi": "nǎlǐ"
+    },
+    {
+      "ch": "度假",
+      "en": "vacation",
+      "pi": "dùjià"
+    },
+    {
+      "ch": "?",
+      "en": "",
+      "pi": ""
+    }
+  ]
+}

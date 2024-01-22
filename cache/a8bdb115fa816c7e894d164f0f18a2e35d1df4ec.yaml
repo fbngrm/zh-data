@@ -1,0 +1,32 @@
+{
+  "chinese": "三的立方是二十七。",
+  "english": "The cube of three is twenty-seven.",
+  "pinyin": "sān de lìfāng shì èrshíqī。",
+  "words": [
+    {
+      "ch": "三",
+      "en": "three",
+      "pi": "sān"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "立方",
+      "en": "cube",
+      "pi": "lìfāng"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "二十七",
+      "en": "twenty-seven",
+      "pi": "èrshíqī"
+    }
+  ]
+}

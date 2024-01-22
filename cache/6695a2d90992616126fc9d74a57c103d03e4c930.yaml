@@ -1,0 +1,32 @@
+{
+  "chinese": "你欠汤姆多少钱？",
+  "english": "How much money do you owe Tom?",
+  "pinyin": "Nǐ qiàn tāng mǔ duōshǎo qián?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "欠",
+      "en": "owe",
+      "pi": "qiàn"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "多少",
+      "en": "how much",
+      "pi": "duōshǎo"
+    },
+    {
+      "ch": "钱",
+      "en": "money",
+      "pi": "qián"
+    }
+  ]
+}

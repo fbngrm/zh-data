@@ -1,0 +1,32 @@
+{
+  "chinese": "请把黄油递给我。",
+  "english": "Please pass me the butter.",
+  "pinyin": "Qǐng bǎ huáng yóu dì gěi wǒ.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "把",
+      "en": "pass",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "黄油",
+      "en": "butter",
+      "pi": "huáng yóu"
+    },
+    {
+      "ch": "递给",
+      "en": "me",
+      "pi": "dì gěi"
+    },
+    {
+      "ch": "我",
+      "en": "the",
+      "pi": "wǒ"
+    }
+  ]
+}

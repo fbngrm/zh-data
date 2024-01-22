@@ -1,0 +1,52 @@
+{
+  "chinese": "灯光太暗了，我没法阅读。",
+  "english": "The lighting is too dim, I can't read.",
+  "pinyin": "Dēngguāng tài àn le, wǒ méi fǎ yuèdú。",
+  "words": [
+    {
+      "ch": "灯光",
+      "en": "lighting",
+      "pi": "dēngguāng"
+    },
+    {
+      "ch": "太",
+      "en": "too",
+      "pi": "tài"
+    },
+    {
+      "ch": "暗",
+      "en": "dim",
+      "pi": "àn"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "，",
+      "en": "",
+      "pi": ","
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "没法",
+      "en": "can't",
+      "pi": "méi fǎ"
+    },
+    {
+      "ch": "阅读",
+      "en": "read",
+      "pi": "yuèdú"
+    },
+    {
+      "ch": "。",
+      "en": "",
+      "pi": "."
+    }
+  ]
+}

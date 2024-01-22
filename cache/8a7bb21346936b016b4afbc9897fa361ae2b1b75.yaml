@@ -1,0 +1,42 @@
+{
+  "chinese": "她从房间里走了出来。",
+  "english": "She walked out of the room.",
+  "pinyin": "tā cóng fángjiān lǐ zǒu le chūlái。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "房间",
+      "en": "room",
+      "pi": "fángjiān"
+    },
+    {
+      "ch": "里",
+      "en": "inside",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "走",
+      "en": "walk",
+      "pi": "zǒu"
+    },
+    {
+      "ch": "了",
+      "en": "completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "出来",
+      "en": "come out",
+      "pi": "chūlái"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我有一台电脑。",
+  "english": "I have a computer.",
+  "pinyin": "wǒ yǒu yī tái diàn nǎo.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一",
+      "en": "a",
+      "pi": "yī"
+    },
+    {
+      "ch": "台",
+      "en": "computer",
+      "pi": "tái"
+    },
+    {
+      "ch": "电脑",
+      "en": "computer",
+      "pi": "diàn nǎo"
+    }
+  ]
+}

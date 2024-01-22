@@ -1,0 +1,37 @@
+{
+  "chinese": "她每天早上都會洗澡。",
+  "english": "She takes a shower every morning.",
+  "pinyin": "tā měi tiān zǎo shàng dū huì xǐ zǎo。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎo shàng"
+    },
+    {
+      "ch": "都",
+      "en": "always",
+      "pi": "dōu"
+    },
+    {
+      "ch": "會",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "洗澡",
+      "en": "take a shower",
+      "pi": "xǐ zǎo"
+    }
+  ]
+}

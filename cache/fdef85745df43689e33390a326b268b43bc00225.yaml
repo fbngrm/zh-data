@@ -1,0 +1,27 @@
+{
+  "chinese": "这是我的车。",
+  "english": "This is my car.",
+  "pinyin": "zhè shì wǒ de chē。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "车",
+      "en": "car",
+      "pi": "chē"
+    }
+  ]
+}

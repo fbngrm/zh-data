@@ -1,0 +1,37 @@
+{
+  "chinese": "这辆自行车是谁的？",
+  "english": "Whose bike is this?",
+  "pinyin": "zhè liàng zìxíngchē shì shéi de?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "辆",
+      "en": "classifier for vehicles",
+      "pi": "liàng"
+    },
+    {
+      "ch": "自行车",
+      "en": "bike",
+      "pi": "zìxíngchē"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "谁",
+      "en": "whose",
+      "pi": "shéi"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    }
+  ]
+}

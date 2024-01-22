@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆的朋友都很喜欢他。",
+  "english": "Tom's friends all like him very much.",
+  "pinyin": "Tāng mǔ de péngyǒu dōu hěn xǐhuān tā.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "的",
+      "en": "'s",
+      "pi": "de"
+    },
+    {
+      "ch": "朋友",
+      "en": "friends",
+      "pi": "péngyǒu"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    }
+  ]
+}

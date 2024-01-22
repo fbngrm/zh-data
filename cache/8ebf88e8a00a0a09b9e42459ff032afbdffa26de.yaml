@@ -1,0 +1,42 @@
+{
+  "chinese": "请让我看一下日程安排！",
+  "english": "Please let me see the schedule!",
+  "pinyin": "qǐng ràng wǒ kàn yí xià rì chéng ān pái!",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "让",
+      "en": "let",
+      "pi": "ràng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "看",
+      "en": "see",
+      "pi": "kàn"
+    },
+    {
+      "ch": "一下",
+      "en": "a bit",
+      "pi": "yí xià"
+    },
+    {
+      "ch": "日程",
+      "en": "schedule",
+      "pi": "rì chéng"
+    },
+    {
+      "ch": "安排",
+      "en": "arrangement",
+      "pi": "ān pái"
+    }
+  ]
+}

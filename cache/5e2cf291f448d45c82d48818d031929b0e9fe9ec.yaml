@@ -1,0 +1,42 @@
+{
+  "chinese": "这是警报，洪水就要来了。",
+  "english": "This is an alert, the flood is coming.",
+  "pinyin": "zhè shì jǐng bào, hóng shuǐ jiù yào lái le.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "警报",
+      "en": "alert",
+      "pi": "jǐng bào"
+    },
+    {
+      "ch": "洪水",
+      "en": "flood",
+      "pi": "hóng shuǐ"
+    },
+    {
+      "ch": "就要",
+      "en": "is about to",
+      "pi": "jiù yào"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

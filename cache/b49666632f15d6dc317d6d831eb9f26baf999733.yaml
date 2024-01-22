@@ -1,0 +1,37 @@
+{
+  "chinese": "我的CD有你的兩倍多。",
+  "english": "I have more than double the number of CDs you have.",
+  "pinyin": "wǒ de CD yǒu nǐ de liǎng bèi duō.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "CD",
+      "en": "CD",
+      "pi": "CD"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "兩倍",
+      "en": "double",
+      "pi": "liǎng bèi"
+    },
+    {
+      "ch": "多",
+      "en": "more",
+      "pi": "duō"
+    }
+  ]
+}

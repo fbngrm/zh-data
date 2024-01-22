@@ -1,0 +1,14 @@
+{
+  "chinese": "你在学校里读哪些科目?",
+  "english": "What subjects do you study at school?",
+  "pinyin": "nǐ zài xuéxiào lǐ dú nǎxiē kēmù?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "学校", "en": "school", "pi": "xuéxiào"},
+    {"ch": "里", "en": "in", "pi": "lǐ"},
+    {"ch": "读", "en": "study", "pi": "dú"},
+    {"ch": "哪些", "en": "which", "pi": "nǎxiē"},
+    {"ch": "科目", "en": "subjects", "pi": "kēmù"}
+  ]
+}

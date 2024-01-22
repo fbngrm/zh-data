@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆对我一直很好。",
+  "english": "Tom has always been good to me.",
+  "pinyin": "tāng mǔ duì wǒ yī zhí hěn hǎo.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "对",
+      "en": "to",
+      "pi": "duì"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "一直",
+      "en": "always",
+      "pi": "yī zhí"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    }
+  ]
+}

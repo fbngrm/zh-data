@@ -1,0 +1,21 @@
+{
+  "chinese": "他以前是我最好的朋友，他现在是我最好的朋友，他以后也会是我最好的朋友。",
+  "english": "He used to be my best friend, he is now my best friend, and he will also be my best friend in the future.",
+  "pinyin": "Tā yǐqián shì wǒ zuìhǎo de péngyǒu, tā xiànzài shì wǒ zuìhǎo de péngyǒu, tā yǐhòu yě huì shì wǒ zuìhǎo de péngyǒu.",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "Tā"},
+    {"ch": "以前", "en": "used to", "pi": "yǐqián"},
+    {"ch": "是", "en": "be", "pi": "shì"},
+    {"ch": "我", "en": "my", "pi": "wǒ"},
+    {"ch": "最好", "en": "best", "pi": "zuìhǎo"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "朋友", "en": "friend", "pi": "péngyǒu"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "现在", "en": "now", "pi": "xiànzài"},
+    {"ch": "也", "en": "also", "pi": "yě"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "以后", "en": "in the future", "pi": "yǐhòu"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "步行到车站要花十分钟。",
+  "english": "It takes ten minutes to walk to the station.",
+  "pinyin": "bù xíng dào chē zhàn yào huā shí fēn zhōng。",
+  "words": [
+    { "ch": "步行", "en": "walk", "pi": "bù xíng" },
+    { "ch": "到", "en": "to", "pi": "dào" },
+    { "ch": "车站", "en": "station", "pi": "chē zhàn" },
+    { "ch": "要", "en": "take", "pi": "yào" },
+    { "ch": "花", "en": "spend", "pi": "huā" },
+    { "ch": "十", "en": "ten", "pi": "shí" },
+    { "ch": "分钟", "en": "minutes", "pi": "fēn zhōng" }
+  ]
+}

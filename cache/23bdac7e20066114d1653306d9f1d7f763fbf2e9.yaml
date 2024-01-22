@@ -1,0 +1,42 @@
+{
+  "chinese": "他是个很好的老师。",
+  "english": "He is a very good teacher.",
+  "pinyin": "tā shì gè hěn hǎo de lǎo shī.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "的",
+      "en": "particle",
+      "pi": "de"
+    },
+    {
+      "ch": "老师",
+      "en": "teacher",
+      "pi": "lǎo shī"
+    }
+  ]
+}

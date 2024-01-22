@@ -1,0 +1,47 @@
+{
+  "chinese": "电影院每个星期一和星期三都有折扣。",
+  "english": "The cinema has discounts every Monday and Wednesday.",
+  "pinyin": "Diànyǐngyuàn měi gè xīngqī yī hé xīngqī sān dōu yǒu zhékòu.",
+  "words": [
+    {
+      "ch": "电影院",
+      "en": "cinema",
+      "pi": "diànyǐngyuàn"
+    },
+    {
+      "ch": "每个",
+      "en": "every",
+      "pi": "měi gè"
+    },
+    {
+      "ch": "星期一",
+      "en": "Monday",
+      "pi": "xīngqī yī"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "星期三",
+      "en": "Wednesday",
+      "pi": "xīngqī sān"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "折扣",
+      "en": "discount",
+      "pi": "zhékòu"
+    }
+  ]
+}

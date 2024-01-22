@@ -1,0 +1,15 @@
+{
+  "chinese": "乔和我昨天看到了一只狮子。",
+  "english": "Joe and I saw a lion yesterday.",
+  "pinyin": "Qiáo hé wǒ zuótiān kàndào le yīzhī shīzi.",
+  "words": [
+    {"ch": "乔", "en": "Joe", "pi": "Qiáo"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "昨天", "en": "yesterday", "pi": "zuótiān"},
+    {"ch": "看到", "en": "saw", "pi": "kàndào"},
+    {"ch": "了", "en": "a", "pi": "le"},
+    {"ch": "一只", "en": "lion", "pi": "yīzhī"},
+    {"ch": "狮子", "en": "lion", "pi": "shīzi"}
+  ]
+}

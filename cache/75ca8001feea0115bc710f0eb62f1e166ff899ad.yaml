@@ -1,0 +1,37 @@
+{
+  "chinese": "这辆车去静安寺吗？",
+  "english": "Does this car go to Jing'an Temple?",
+  "pinyin": "zhè liàng chē qù jìng ān sì ma?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "辆",
+      "en": "vehicle",
+      "pi": "liàng"
+    },
+    {
+      "ch": "车",
+      "en": "car",
+      "pi": "chē"
+    },
+    {
+      "ch": "去",
+      "en": "go to",
+      "pi": "qù"
+    },
+    {
+      "ch": "静安寺",
+      "en": "Jing'an Temple",
+      "pi": "jìng ān sì"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

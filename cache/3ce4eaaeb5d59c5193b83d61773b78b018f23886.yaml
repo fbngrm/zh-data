@@ -1,0 +1,42 @@
+{
+  "chinese": "我喜欢这三件红衣服。",
+  "english": "I like these three red clothes.",
+  "pinyin": "wǒ xǐhuān zhè sān jiàn hóng yīfú.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "这",
+      "en": "these",
+      "pi": "zhè"
+    },
+    {
+      "ch": "三",
+      "en": "three",
+      "pi": "sān"
+    },
+    {
+      "ch": "件",
+      "en": "classifier for clothes",
+      "pi": "jiàn"
+    },
+    {
+      "ch": "红",
+      "en": "red",
+      "pi": "hóng"
+    },
+    {
+      "ch": "衣服",
+      "en": "clothes",
+      "pi": "yīfú"
+    }
+  ]
+}

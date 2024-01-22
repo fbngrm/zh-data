@@ -1,0 +1,16 @@
+{
+  "chinese": "对不起，我并不想对你发火。",
+  "english": "I'm sorry, I didn't mean to get angry at you.",
+  "pinyin": "duì bù qǐ, wǒ bìng bù xiǎng duì nǐ fā huǒ。",
+  "words": [
+    {"ch": "对不起", "en": "I'm sorry", "pi": "duì bù qǐ"}, 
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "我", "en": "I", "pi": "wǒ"}, 
+    {"ch": "并", "en": "don't", "pi": "bìng"}, 
+    {"ch": "不", "en": "not", "pi": "bù"}, 
+    {"ch": "想", "en": "mean", "pi": "xiǎng"}, 
+    {"ch": "对", "en": "to", "pi": "duì"}, 
+    {"ch": "你", "en": "you", "pi": "nǐ"}, 
+    {"ch": "发火", "en": "get angry", "pi": "fā huǒ"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "会议一直持续到５点钟。",
+  "english": "The meeting will last until 5 o'clock.",
+  "pinyin": "huì yì yī zhí chí xù dào wǔ diǎn zhōng.",
+  "words": [
+    {
+      "ch": "会议",
+      "en": "meeting",
+      "pi": "huì yì"
+    },
+    {
+      "ch": "一直",
+      "en": "continuously",
+      "pi": "yī zhí"
+    },
+    {
+      "ch": "持续",
+      "en": "last",
+      "pi": "chí xù"
+    },
+    {
+      "ch": "到",
+      "en": "until",
+      "pi": "dào"
+    },
+    {
+      "ch": "５点钟",
+      "en": "5 o'clock",
+      "pi": "wǔ diǎn zhōng"
+    }
+  ]
+}

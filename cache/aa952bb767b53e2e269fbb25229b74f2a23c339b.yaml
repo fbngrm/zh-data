@@ -1,0 +1,32 @@
+{
+  "chinese": "他用他的球拍击球。",
+  "english": "He hits the ball with his racket.",
+  "pinyin": "tā yòng tā de qiú pāi jī qiú。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "用",
+      "en": "use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "球拍",
+      "en": "racket",
+      "pi": "qiú pāi"
+    },
+    {
+      "ch": "击球",
+      "en": "hit the ball",
+      "pi": "jī qiú"
+    }
+  ]
+}

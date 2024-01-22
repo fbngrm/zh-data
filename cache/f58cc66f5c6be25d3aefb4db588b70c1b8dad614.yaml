@@ -1,0 +1,13 @@
+{
+  "chinese": "明天是2011年二月五号，星期六。",
+  "english": "Tomorrow is February 5th, 2011, Saturday.",
+  "pinyin": "Míngtiān shì 2011 nián èr yuè wǔ hào, xīngqīliù.",
+  "words": [
+    {"ch": "明天", "en": "tomorrow", "pi": "míngtiān"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "2011年", "en": "2011", "pi": "2011 nián"},
+    {"ch": "二月", "en": "February", "pi": "èr yuè"},
+    {"ch": "五号", "en": "fifth", "pi": "wǔ hào"},
+    {"ch": "星期六", "en": "Saturday", "pi": "xīngqīliù"}
+  ]
+}

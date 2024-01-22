@@ -1,0 +1,37 @@
+{
+  "chinese": "你还没洗手，不是吗？",
+  "english": "You haven't washed your hands, have you?",
+  "pinyin": "Nǐ hái méi xǐ shǒu, bù shì ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "还",
+      "en": "still",
+      "pi": "hái"
+    },
+    {
+      "ch": "没",
+      "en": "haven't",
+      "pi": "méi"
+    },
+    {
+      "ch": "洗手",
+      "en": "washed hands",
+      "pi": "xǐ shǒu"
+    },
+    {
+      "ch": "不是",
+      "en": "isn't it",
+      "pi": "bù shì"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

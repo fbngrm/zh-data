@@ -1,0 +1,42 @@
+{
+  "chinese": "这是篇写得很好的文章。",
+  "english": "This is a very well-written article.",
+  "pinyin": "zhè shì piān xiě dé hěn hǎo de wénzhāng.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "篇",
+      "en": "a measure word for articles",
+      "pi": "piān"
+    },
+    {
+      "ch": "写得",
+      "en": "well-written",
+      "pi": "xiě dé"
+    },
+    {
+      "ch": "很好",
+      "en": "very well",
+      "pi": "hěn hǎo"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "文章",
+      "en": "article",
+      "pi": "wénzhāng"
+    }
+  ]
+}

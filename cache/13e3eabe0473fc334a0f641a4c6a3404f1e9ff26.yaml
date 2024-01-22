@@ -1,0 +1,32 @@
+{
+  "chinese": "遗憾的是没有下雪。",
+  "english": "Unfortunately, it didn't snow.",
+  "pinyin": "yí hàn de shì méi yǒu xià xuě.",
+  "words": [
+    {
+      "ch": "遗憾",
+      "en": "unfortunately",
+      "pi": "yí hàn"
+    },
+    {
+      "ch": "的",
+      "en": "is",
+      "pi": "de"
+    },
+    {
+      "ch": "是",
+      "en": "no",
+      "pi": "shì"
+    },
+    {
+      "ch": "没有",
+      "en": "snow",
+      "pi": "méi yǒu"
+    },
+    {
+      "ch": "下雪",
+      "en": "did not",
+      "pi": "xià xuě"
+    }
+  ]
+}

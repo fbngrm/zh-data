@@ -1,0 +1,27 @@
+{
+  "chinese": "这里离东京很远。",
+  "english": "This place is far from Tokyo.",
+  "pinyin": "zhè lǐ lí dōng jīng hěn yuǎn.",
+  "words": [
+    {
+      "ch": "这里",
+      "en": "this place",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "离",
+      "en": "from",
+      "pi": "lí"
+    },
+    {
+      "ch": "东京",
+      "en": "Tokyo",
+      "pi": "dōng jīng"
+    },
+    {
+      "ch": "很远",
+      "en": "far",
+      "pi": "hěn yuǎn"
+    }
+  ]
+}

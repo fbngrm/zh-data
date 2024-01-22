@@ -1,0 +1,32 @@
+{
+  "chinese": "这家公司生产电脑晶片。",
+  "english": "This company produces computer chips.",
+  "pinyin": "zhè jiā gōngsī shēngchǎn diànnǎo jīngpiàn。",
+  "words": [
+    {
+      "ch": "这家",
+      "en": "This company",
+      "pi": "zhè jiā"
+    },
+    {
+      "ch": "公司",
+      "en": "company",
+      "pi": "gōngsī"
+    },
+    {
+      "ch": "生产",
+      "en": "produces",
+      "pi": "shēngchǎn"
+    },
+    {
+      "ch": "电脑",
+      "en": "computer",
+      "pi": "diànnǎo"
+    },
+    {
+      "ch": "晶片",
+      "en": "chips",
+      "pi": "jīngpiàn"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "母亲让我打扫卫生间。",
+  "english": "My mother asked me to clean the bathroom.",
+  "pinyin": "mǔ qīn ràng wǒ dǎ sǎo wèi shēng jiān。",
+  "words": [
+    {
+      "ch": "母亲",
+      "en": "mother",
+      "pi": "mǔ qīn"
+    },
+    {
+      "ch": "让",
+      "en": "ask",
+      "pi": "ràng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "打扫",
+      "en": "clean",
+      "pi": "dǎ sǎo"
+    },
+    {
+      "ch": "卫生间",
+      "en": "bathroom",
+      "pi": "wèi shēng jiān"
+    }
+  ]
+}

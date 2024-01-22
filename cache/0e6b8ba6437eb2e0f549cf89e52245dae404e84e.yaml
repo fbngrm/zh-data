@@ -1,0 +1,32 @@
+{
+  "chinese": "北京是中国的首都。",
+  "english": "Beijing is the capital of China.",
+  "pinyin": "Běijīng shì zhōngguó de shǒudū.",
+  "words": [
+    {
+      "ch": "北京",
+      "en": "Beijing",
+      "pi": "Běijīng"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "中国",
+      "en": "China",
+      "pi": "zhōngguó"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "首都",
+      "en": "capital",
+      "pi": "shǒudū"
+    }
+  ]
+}

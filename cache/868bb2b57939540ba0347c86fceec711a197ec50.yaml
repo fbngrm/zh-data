@@ -1,0 +1,32 @@
+{
+  "chinese": "纽约和伦敦距离多远？",
+  "english": "How far is it between New York and London?",
+  "pinyin": "niǔ yuē hé lún dūn jù lì duō yuǎn?",
+  "words": [
+    {
+      "ch": "纽约",
+      "en": "New York",
+      "pi": "niǔ yuē"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "伦敦",
+      "en": "London",
+      "pi": "lún dūn"
+    },
+    {
+      "ch": "距离",
+      "en": "distance",
+      "pi": "jù lì"
+    },
+    {
+      "ch": "多远",
+      "en": "how far",
+      "pi": "duō yuǎn"
+    }
+  ]
+}

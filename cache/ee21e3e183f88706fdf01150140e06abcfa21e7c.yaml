@@ -1,0 +1,32 @@
+{
+  "chinese": "你只不过是一个学生。",
+  "english": "You are just a student.",
+  "pinyin": "nǐ zhǐ bù guò shì yī gè xué shēng。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "只不过",
+      "en": "just",
+      "pi": "zhǐ bù guò"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "学生",
+      "en": "student",
+      "pi": "xué shēng"
+    }
+  ]
+}

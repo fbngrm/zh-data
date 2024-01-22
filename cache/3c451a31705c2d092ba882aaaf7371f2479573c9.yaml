@@ -1,0 +1,42 @@
+{
+  "chinese": "把你的字典借给我好吗？",
+  "english": "Can you lend me your dictionary?",
+  "pinyin": "bǎ nǐ de zìdiǎn jiè gěi wǒ hǎo ma?",
+  "words": [
+    {
+      "ch": "把",
+      "en": "to",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "字典",
+      "en": "dictionary",
+      "pi": "zìdiǎn"
+    },
+    {
+      "ch": "借",
+      "en": "lend",
+      "pi": "jiè"
+    },
+    {
+      "ch": "给",
+      "en": "me",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "can",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "好吗",
+      "en": "you",
+      "pi": "hǎo ma"
+    }
+  ]
+}

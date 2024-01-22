@@ -1,0 +1,63 @@
+{
+  "sentences": [
+    {
+      "chinese": "爸爸，这是真的剑吗？",
+      "english": "Dad, is this a real sword?",
+      "pinyin": "Bàba, zhè shì zhēn de jiàn ma?",
+      "words": [
+        {
+          "ch": "爸爸",
+          "en": "Dad",
+          "pi": "bàba"
+        },
+        {
+          "ch": "这是",
+          "en": "is this",
+          "pi": "zhè shì"
+        },
+        {
+          "ch": "真的",
+          "en": "real",
+          "pi": "zhēn de"
+        },
+        {
+          "ch": "剑吗",
+          "en": "sword?",
+          "pi": "jiàn ma?"
+        }
+      ]
+    },
+    {
+      "chinese": "当然，毕竟这是一场对决。",
+      "english": "Of course, after all, this is a duel.",
+      "pinyin": "Dāngrán, bìjìng zhè shì yī chǎng duìjué.",
+      "words": [
+        {
+          "ch": "当然",
+          "en": "Of course",
+          "pi": "dāngrán"
+        },
+        {
+          "ch": "毕竟",
+          "en": "after all",
+          "pi": "bìjìng"
+        },
+        {
+          "ch": "这是",
+          "en": "this is",
+          "pi": "zhè shì"
+        },
+        {
+          "ch": "一场",
+          "en": "a",
+          "pi": "yī chǎng"
+        },
+        {
+          "ch": "对决",
+          "en": "duel",
+          "pi": "duìjué"
+        }
+      ]
+    }
+  ]
+}

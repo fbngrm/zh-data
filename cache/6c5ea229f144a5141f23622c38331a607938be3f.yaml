@@ -1,0 +1,27 @@
+{
+  "chinese": "今天不可能下雨。",
+  "english": "It is not possible to rain today.",
+  "pinyin": "jīn tiān bù kě néng xià yǔ。",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "可能",
+      "en": "possible",
+      "pi": "kě néng"
+    },
+    {
+      "ch": "下雨",
+      "en": "to rain",
+      "pi": "xià yǔ"
+    }
+  ]
+}

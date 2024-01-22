@@ -1,0 +1,42 @@
+{
+  "chinese": "你想跟我去野餐吗？",
+  "english": "Do you want to go on a picnic with me?",
+  "pinyin": "Nǐ xiǎng gēn wǒ qù yěcān ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "跟",
+      "en": "with",
+      "pi": "gēn"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "野餐",
+      "en": "picnic",
+      "pi": "yěcān"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "她穿著跟昨天相同的衣服。",
+  "english": "She is wearing the same clothes as yesterday.",
+  "pinyin": "tā chuānzhuó gēn zuótiān xiāngtóng de yīfu.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "穿著",
+      "en": "wearing",
+      "pi": "chuānzhuó"
+    },
+    {
+      "ch": "跟",
+      "en": "the same",
+      "pi": "gēn"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "相同",
+      "en": "same",
+      "pi": "xiāngtóng"
+    },
+    {
+      "ch": "的",
+      "en": "as",
+      "pi": "de"
+    },
+    {
+      "ch": "衣服",
+      "en": "clothes",
+      "pi": "yīfu"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "学生们都在学英语。",
+  "english": "Students are all studying English.",
+  "pinyin": "xuéshengmen dōu zài xué yīngyǔ。",
+  "words": [
+    {
+      "ch": "学生们",
+      "en": "Students",
+      "pi": "xuéshengmen"
+    },
+    {
+      "ch": "都",
+      "en": "All",
+      "pi": "dōu"
+    },
+    {
+      "ch": "在",
+      "en": "are",
+      "pi": "zài"
+    },
+    {
+      "ch": "学",
+      "en": "studying",
+      "pi": "xué"
+    },
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīngyǔ"
+    }
+  ]
+}

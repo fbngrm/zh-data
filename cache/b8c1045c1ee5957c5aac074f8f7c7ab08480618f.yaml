@@ -1,0 +1,32 @@
+{
+  "chinese": "告诉我什么时候开始。",
+  "english": "Tell me when to start.",
+  "pinyin": "gào sù wǒ shén me shí hòu kāi shǐ。",
+  "words": [
+    {
+      "ch": "告诉",
+      "en": "Tell",
+      "pi": "gào sù"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shén me"
+    },
+    {
+      "ch": "时候",
+      "en": "when",
+      "pi": "shí hòu"
+    },
+    {
+      "ch": "开始",
+      "en": "start",
+      "pi": "kāi shǐ"
+    }
+  ]
+}

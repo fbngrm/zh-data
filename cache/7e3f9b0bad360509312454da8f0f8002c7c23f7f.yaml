@@ -1,0 +1,47 @@
+{
+  "chinese": "我希望今天的天气是晴朗的。",
+  "english": "I hope the weather today is sunny.",
+  "pinyin": "wǒ xīwàng jīntiān de tiānqì shì qínglǎng de.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "希望",
+      "en": "hope",
+      "pi": "xīwàng"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "的",
+      "en": "the",
+      "pi": "de"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiānqì"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "晴朗",
+      "en": "sunny",
+      "pi": "qínglǎng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    }
+  ]
+}

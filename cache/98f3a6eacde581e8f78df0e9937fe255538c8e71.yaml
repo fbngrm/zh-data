@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "chinese": "他是我的朋友。",
+      "english": "He is my friend.",
+      "pinyin": "tā shì wǒ de péngyǒu。",
+      "words": [
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "我的",
+          "en": "my",
+          "pi": "wǒ de"
+        },
+        {
+          "ch": "朋友",
+          "en": "friend",
+          "pi": "péngyǒu"
+        }
+      ]
+    },
+    {
+      "chinese": "你们认识吗？",
+      "english": "Do you know each other?",
+      "pinyin": "nǐmen rènshì ma?",
+      "words": [
+        {
+          "ch": "你们",
+          "en": "you",
+          "pi": "nǐmen"
+        },
+        {
+          "ch": "认识",
+          "en": "know",
+          "pi": "rènshì"
+        },
+        {
+          "ch": "吗",
+          "en": "each other",
+          "pi": "ma?"
+        }
+      ]
+    }
+  ]
+}

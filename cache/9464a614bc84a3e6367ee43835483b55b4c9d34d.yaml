@@ -1,0 +1,16 @@
+{
+  "chinese": "会议将会在特意安排的礼堂里举行。",
+  "english": "The meeting will be held in the specially arranged auditorium.",
+  "pinyin": "huì yì jiāng huì zài tè yì ān pái de lǐ táng lǐ jǔ xíng。",
+  "words": [
+    {"ch": "会议", "en": "meeting", "pi": "huì yì"},
+    {"ch": "将会", "en": "will", "pi": "jiāng huì"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "特意", "en": "specially", "pi": "tè yì"},
+    {"ch": "安排", "en": "arranged", "pi": "ān pái"},
+    {"ch": "的", "en": "the", "pi": "de"},
+    {"ch": "礼堂", "en": "auditorium", "pi": "lǐ táng"},
+    {"ch": "里", "en": "in", "pi": "lǐ"},
+    {"ch": "举行", "en": "held", "pi": "jǔ xíng"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我想快要下雨了。",
+  "english": "I think it's going to rain soon.",
+  "pinyin": "wǒ xiǎng kuài yào xià yǔ le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "think",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "快要",
+      "en": "going to",
+      "pi": "kuài yào"
+    },
+    {
+      "ch": "下雨",
+      "en": "rain",
+      "pi": "xià yǔ"
+    },
+    {
+      "ch": "了",
+      "en": "soon",
+      "pi": "le"
+    }
+  ]
+}

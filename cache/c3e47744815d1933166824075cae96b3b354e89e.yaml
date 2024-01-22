@@ -1,0 +1,14 @@
+{
+  "chinese": "这把刀的刀锋很利。",
+  "english": "The blade of this knife is very sharp.",
+  "pinyin": "zhè bǎ dāo de dāo fēng hěn lì.",
+  "words": [
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "把", "en": "measure word for certain objects", "pi": "bǎ"},
+    {"ch": "刀", "en": "knife", "pi": "dāo"},
+    {"ch": "的", "en": "possessive particle", "pi": "de"},
+    {"ch": "刀锋", "en": "blade", "pi": "dāo fēng"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "利", "en": "sharp", "pi": "lì"}
+  ]
+}

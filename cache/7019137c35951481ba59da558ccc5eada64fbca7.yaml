@@ -1,0 +1,27 @@
+{
+   "chinese": "明天会下雨吗？",
+   "english": "Will it rain tomorrow?",
+   "pinyin": "míng tiān huì xià yǔ ma?",
+   "words": [
+      {
+         "ch": "明天",
+         "en": "tomorrow",
+         "pi": "míng tiān"
+      },
+      {
+         "ch": "会",
+         "en": "will",
+         "pi": "huì"
+      },
+      {
+         "ch": "下雨",
+         "en": "rain",
+         "pi": "xià yǔ"
+      },
+      {
+         "ch": "吗",
+         "en": "question particle",
+         "pi": "ma"
+      }
+   ]
+}

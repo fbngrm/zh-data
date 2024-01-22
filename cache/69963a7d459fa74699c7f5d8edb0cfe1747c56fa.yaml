@@ -1,0 +1,42 @@
+{
+  "chinese": "你读那本书需要大量词汇。",
+  "english": "You need a large vocabulary to read that book.",
+  "pinyin": "nǐ dú nà běn shū xūyào dàliàng cíhuì。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "读",
+      "en": "to read",
+      "pi": "dú"
+    },
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "本书",
+      "en": "book",
+      "pi": "běn shū"
+    },
+    {
+      "ch": "需要",
+      "en": "to need",
+      "pi": "xūyào"
+    },
+    {
+      "ch": "大量",
+      "en": "large amount",
+      "pi": "dàliàng"
+    },
+    {
+      "ch": "词汇",
+      "en": "vocabulary",
+      "pi": "cíhuì"
+    }
+  ]
+}

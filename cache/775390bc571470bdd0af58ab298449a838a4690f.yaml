@@ -1,0 +1,37 @@
+{
+  "chinese": "我不喜欢学习不规则动词。",
+  "english": "I don't like studying irregular verbs.",
+  "pinyin": "wǒ bù xǐhuān xuéxí bù guīzé dòngcí。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "学习",
+      "en": "study",
+      "pi": "xuéxí"
+    },
+    {
+      "ch": "不规则",
+      "en": "irregular",
+      "pi": "bù guīzé"
+    },
+    {
+      "ch": "动词",
+      "en": "verbs",
+      "pi": "dòngcí"
+    }
+  ]
+}

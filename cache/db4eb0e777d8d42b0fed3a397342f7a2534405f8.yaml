@@ -1,0 +1,27 @@
+{
+  "chinese": "这台汽车是谁的?",
+  "english": "Whose car is this?",
+  "pinyin": "zhè tái qì chē shì shéi de?",
+  "words": [
+    {
+      "ch": "这台",
+      "en": "this",
+      "pi": "zhè tái"
+    },
+    {
+      "ch": "汽车",
+      "en": "car",
+      "pi": "qì chē"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "谁的",
+      "en": "whose",
+      "pi": "shéi de"
+    }
+  ]
+}

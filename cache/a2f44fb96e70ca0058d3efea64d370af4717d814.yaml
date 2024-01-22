@@ -1,0 +1,37 @@
+{
+  "chinese": "你在车站看见了谁?",
+  "english": "Who did you see at the station?",
+  "pinyin": "nǐ zài chē zhàn kàn jiàn le shuí?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "车站",
+      "en": "station",
+      "pi": "chē zhàn"
+    },
+    {
+      "ch": "看见",
+      "en": "see",
+      "pi": "kàn jiàn"
+    },
+    {
+      "ch": "了",
+      "en": "did",
+      "pi": "le"
+    },
+    {
+      "ch": "谁",
+      "en": "who",
+      "pi": "shuí"
+    }
+  ]
+}

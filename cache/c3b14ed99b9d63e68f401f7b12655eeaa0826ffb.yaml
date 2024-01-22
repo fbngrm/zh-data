@@ -1,0 +1,13 @@
+{
+  "chinese": "我们差一点没赶上这班车。",
+  "english": "We almost missed this bus.",
+  "pinyin": "wǒ men chà yī diǎn méi gǎn shàng zhè bān chē。",
+  "words": [
+    {"ch": "我们", "en": "we", "pi": "wǒ men"},
+    {"ch": "差一点", "en": "almost", "pi": "chà yī diǎn"},
+    {"ch": "没", "en": "did not", "pi": "méi"},
+    {"ch": "赶上", "en": "catch", "pi": "gǎn shàng"},
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "班车", "en": "bus", "pi": "bān chē"}
+  ]
+}

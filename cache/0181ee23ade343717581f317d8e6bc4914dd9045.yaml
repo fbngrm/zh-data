@@ -1,0 +1,32 @@
+{
+  "chinese": "我回家换了衣服。",
+  "english": "I went home and changed clothes.",
+  "pinyin": "wǒ huí jiā huàn le yī fú.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "回家",
+      "en": "go home",
+      "pi": "huí jiā"
+    },
+    {
+      "ch": "换",
+      "en": "change",
+      "pi": "huàn"
+    },
+    {
+      "ch": "了",
+      "en": "past tense",
+      "pi": "le"
+    },
+    {
+      "ch": "衣服",
+      "en": "clothes",
+      "pi": "yī fú"
+    }
+  ]
+}

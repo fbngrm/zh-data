@@ -1,0 +1,47 @@
+{
+  "chinese": "我有一个住在伦敦的朋友。",
+  "english": "I have a friend who lives in London.",
+  "pinyin": "Wǒ yǒu yīgè zhù zài Lúndūn de péngyǒu.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yīgè"
+    },
+    {
+      "ch": "住",
+      "en": "live",
+      "pi": "zhù"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "伦敦",
+      "en": "London",
+      "pi": "Lúndūn"
+    },
+    {
+      "ch": "的",
+      "en": "who",
+      "pi": "de"
+    },
+    {
+      "ch": "朋友",
+      "en": "friend",
+      "pi": "péngyǒu"
+    }
+  ]
+}

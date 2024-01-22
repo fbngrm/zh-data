@@ -1,0 +1,62 @@
+{
+  "chinese": "她的作文作得十分好，只不过有几个字拼错了。",
+  "english": "Her composition is very well-written, but there are a few misspelled words.",
+  "pinyin": "tā de zuò wén zuò dé shí fēn hǎo，zhǐ bù guò yǒu jǐ ge zì pīn cuò le。",
+  "words": [
+    {
+      "ch": "她的",
+      "en": "her",
+      "pi": "tā de"
+    },
+    {
+      "ch": "作文",
+      "en": "composition",
+      "pi": "zuò wén"
+    },
+    {
+      "ch": "作得",
+      "en": "well-written",
+      "pi": "zuò dé"
+    },
+    {
+      "ch": "十分",
+      "en": "very",
+      "pi": "shí fēn"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "只不过",
+      "en": "but",
+      "pi": "zhǐ bù guò"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "几个",
+      "en": "a few",
+      "pi": "jǐ ge"
+    },
+    {
+      "ch": "字",
+      "en": "words",
+      "pi": "zì"
+    },
+    {
+      "ch": "拼错",
+      "en": "misspelled",
+      "pi": "pīn cuò"
+    },
+    {
+      "ch": "了",
+      "en": "end indicator",
+      "pi": "le"
+    }
+  ]
+}

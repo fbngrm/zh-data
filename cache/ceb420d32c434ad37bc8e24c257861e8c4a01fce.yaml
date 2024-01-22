@@ -1,0 +1,15 @@
+{
+  "chinese": "她应该能跟我奶奶相处得来。",
+  "english": "She should be able to get along with my grandmother.",
+  "pinyin": "tā yīng gāi néng gēn wǒ nǎi nai xiāng chǔ dé lái。",
+  "words": [
+    {"ch": "她", "en": "She", "pi": "tā"},
+    {"ch": "应该", "en": "should", "pi": "yīng gāi"},
+    {"ch": "能", "en": "be able to", "pi": "néng"},
+    {"ch": "跟", "en": "with", "pi": "gēn"},
+    {"ch": "我", "en": "my", "pi": "wǒ"},
+    {"ch": "奶奶", "en": "grandmother", "pi": "nǎi nai"},
+    {"ch": "相处", "en": "get along", "pi": "xiāng chǔ"},
+    {"ch": "得来", "en": "well", "pi": "dé lái"}
+  ]
+}

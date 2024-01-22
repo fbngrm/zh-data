@@ -1,0 +1,37 @@
+{
+  "chinese": "带我向你家人问好。",
+  "english": "Take me to say hello to your family.",
+  "pinyin": "dài wǒ xiàng nǐ jiā rén wèn hǎo。",
+  "words": [
+    {
+      "ch": "带",
+      "en": "take",
+      "pi": "dài"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "向",
+      "en": "to",
+      "pi": "xiàng"
+    },
+    {
+      "ch": "你",
+      "en": "your",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "家人",
+      "en": "family",
+      "pi": "jiā rén"
+    },
+    {
+      "ch": "问好",
+      "en": "say hello",
+      "pi": "wèn hǎo"
+    }
+  ]
+}

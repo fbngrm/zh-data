@@ -1,0 +1,27 @@
+{
+  "chinese": "你来自北京,对不对?",
+  "english": "You are from Beijing, right?",
+  "pinyin": "nǐ lái zì běi jīng duì bú duì?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "来自",
+      "en": "are from",
+      "pi": "lái zì"
+    },
+    {
+      "ch": "北京",
+      "en": "Beijing",
+      "pi": "běi jīng"
+    },
+    {
+      "ch": "对不对",
+      "en": "right?",
+      "pi": "duì bú duì"
+    }
+  ]
+}

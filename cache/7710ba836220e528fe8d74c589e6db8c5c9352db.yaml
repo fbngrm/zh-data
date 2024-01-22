@@ -1,0 +1,18 @@
+{
+  "chinese": "「吉他」一字的重音在第二音节。",
+  "english": "The word 'guitar' has the stress on the second syllable.",
+  "pinyin": "「jí tā」yī zì de zhòng yīn zài dì èr yīn jié。",
+  "words": [
+    {"ch": "吉", "en": "guitar", "pi": "jí"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "一", "en": "one", "pi": "yī"},
+    {"ch": "字", "en": "character", "pi": "zì"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "重", "en": "stress", "pi": "zhòng"},
+    {"ch": "音", "en": "tone", "pi": "yīn"},
+    {"ch": "在", "en": "on", "pi": "zài"},
+    {"ch": "第", "en": "second", "pi": "dì"},
+    {"ch": "二", "en": "two", "pi": "èr"},
+    {"ch": "节", "en": "syllable", "pi": "yīn jié"}
+  ]
+}

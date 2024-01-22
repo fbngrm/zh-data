@@ -1,0 +1,37 @@
+{
+  "chinese": "请你在这里签名好吗？",
+  "english": "Could you please sign here?",
+  "pinyin": "qǐng nǐ zài zhèlǐ qiānmíng hǎo ma?",
+  "words": [
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhèlǐ"
+    },
+    {
+      "ch": "签名",
+      "en": "sign",
+      "pi": "qiānmíng"
+    },
+    {
+      "ch": "好吗",
+      "en": "could you",
+      "pi": "hǎo ma"
+    }
+  ]
+}

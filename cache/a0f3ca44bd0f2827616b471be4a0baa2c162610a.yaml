@@ -1,0 +1,42 @@
+{
+  "chinese": "一只狗跟着我到我的学校。",
+  "english": "A dog followed me to my school.",
+  "pinyin": "yī zhī gǒu gēn zhe wǒ dào wǒ de xuéxiào.",
+  "words": [
+    {
+      "ch": "一只",
+      "en": "A",
+      "pi": "yī zhī"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "跟着",
+      "en": "followed",
+      "pi": "gēn zhe"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "到",
+      "en": "to",
+      "pi": "dào"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "学校",
+      "en": "school",
+      "pi": "xuéxiào"
+    }
+  ]
+}

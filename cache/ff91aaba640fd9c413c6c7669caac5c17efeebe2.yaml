@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆不想失去玛丽。",
+  "english": "Tom doesn't want to lose Mary.",
+  "pinyin": "Tāng mǔ bù xiǎng shī qù Mǎ lì.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "不想",
+      "en": "don't want",
+      "pi": "bù xiǎng"
+    },
+    {
+      "ch": "失去",
+      "en": "to lose",
+      "pi": "shī qù"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎ lì"
+    }
+  ]
+}

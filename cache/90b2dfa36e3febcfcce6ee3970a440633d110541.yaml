@@ -1,0 +1,32 @@
+{
+  "chinese": "她照顾了我的狗。",
+  "english": "She took care of my dog.",
+  "pinyin": "Tā zhàogùle wǒ de gǒu.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "照顾",
+      "en": "take care of",
+      "pi": "zhàogù"
+    },
+    {
+      "ch": "了",
+      "en": "of",
+      "pi": "le"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    }
+  ]
+}

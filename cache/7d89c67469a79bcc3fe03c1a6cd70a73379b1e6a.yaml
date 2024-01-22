@@ -1,0 +1,42 @@
+{
+  "chinese": "整晚一会下雨，一会停雨。",
+  "english": "It rained on and off all night.",
+  "pinyin": "zhěng wǎn yīhuì xià yǔ, yīhuì tíng yǔ.",
+  "words": [
+    {
+      "ch": "整晚",
+      "en": "all night",
+      "pi": "zhěng wǎn"
+    },
+    {
+      "ch": "一会",
+      "en": "on and off",
+      "pi": "yīhuì"
+    },
+    {
+      "ch": "下雨",
+      "en": "rained",
+      "pi": "xià yǔ"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": ""
+    },
+    {
+      "ch": "一会",
+      "en": "on and off",
+      "pi": "yīhuì"
+    },
+    {
+      "ch": "停雨",
+      "en": "stopped raining",
+      "pi": "tíng yǔ"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": ""
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "昨天我跟托尼玩。",
+  "english": "Yesterday I played with Tony.",
+  "pinyin": "zuótiān wǒ gēn tuōní wán。",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "Yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "跟",
+      "en": "with",
+      "pi": "gēn"
+    },
+    {
+      "ch": "托尼",
+      "en": "Tony",
+      "pi": "tuōní"
+    },
+    {
+      "ch": "玩",
+      "en": "play",
+      "pi": "wán"
+    }
+  ]
+}

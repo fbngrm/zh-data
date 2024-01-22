@@ -1,0 +1,27 @@
+{
+  "chinese": "我不太喜欢数学。",
+  "english": "I don't really like mathematics.",
+  "pinyin": "Wǒ bù tài xǐhuān shùxué.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不太",
+      "en": "don't really",
+      "pi": "bù tài"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "数学",
+      "en": "mathematics",
+      "pi": "shùxué"
+    }
+  ]
+}

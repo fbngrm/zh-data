@@ -1,0 +1,77 @@
+{
+  "chinese": "當計數器的數值達到預設的「幸運號碼」時，就會顯示一則恭喜訊息。",
+  "english": "When the value of the counter reaches the preset 'lucky number', a congratulatory message will be displayed.",
+  "pinyin": "dāng jì shǔ qì de shù zhí dá dào yù shè dì de xìng yùn hào mǎ shí, jiù huì xiǎn shì yī zé gōng xǐ xùn xī.",
+  "words": [
+    {
+      "ch": "當",
+      "en": "when",
+      "pi": "dāng"
+    },
+    {
+      "ch": "計數器",
+      "en": "counter",
+      "pi": "jì shǔ qì"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "數值",
+      "en": "value",
+      "pi": "shù zhí"
+    },
+    {
+      "ch": "達到",
+      "en": "reaches",
+      "pi": "dá dào"
+    },
+    {
+      "ch": "預設",
+      "en": "preset",
+      "pi": "yù shè"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "「幸運號碼」",
+      "en": "'lucky number'",
+      "pi": "xìng yùn hào mǎ"
+    },
+    {
+      "ch": "時",
+      "en": "when",
+      "pi": "shí"
+    },
+    {
+      "ch": "就",
+      "en": "will",
+      "pi": "jiù"
+    },
+    {
+      "ch": "會",
+      "en": "be",
+      "pi": "huì"
+    },
+    {
+      "ch": "顯示",
+      "en": "displayed",
+      "pi": "xiǎn shì"
+    },
+    {
+      "ch": "一則",
+      "en": "a",
+      "pi": "yī zé"
+    },
+    {
+      "ch": "恭喜訊息",
+      "en": "congratulatory message",
+      "pi": "gōng xǐ xùn xī"
+    }
+  ]
+}

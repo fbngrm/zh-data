@@ -1,0 +1,27 @@
+{
+  "chinese": "上个月我在伦敦。",
+  "english": "Last month I was in London.",
+  "pinyin": "Shàng gè yuè wǒ zài lún dūn.",
+  "words": [
+    {
+      "ch": "上个月",
+      "en": "last month",
+      "pi": "shàng gè yuè"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "伦敦",
+      "en": "London",
+      "pi": "lún dūn"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "chinese": "我学习汉语。",
+  "english": "I study Chinese.",
+  "pinyin": "wǒ xuéxí hànyǔ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "学习",
+      "en": "study",
+      "pi": "xuéxí"
+    },
+    {
+      "ch": "汉语",
+      "en": "Chinese language",
+      "pi": "hànyǔ"
+    }
+  ]
+}

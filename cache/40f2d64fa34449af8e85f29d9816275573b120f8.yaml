@@ -1,0 +1,32 @@
+{
+  "chinese": "你应该六点前回家。",
+  "english": "You should come back home before 6 o'clock.",
+  "pinyin": "nǐ yīng gāi liù diǎn qián huí jiā。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "应该",
+      "en": "should",
+      "pi": "yīng gāi"
+    },
+    {
+      "ch": "六点",
+      "en": "6 o'clock",
+      "pi": "liù diǎn"
+    },
+    {
+      "ch": "前",
+      "en": "before",
+      "pi": "qián"
+    },
+    {
+      "ch": "回家",
+      "en": "come back home",
+      "pi": "huí jiā"
+    }
+  ]
+}

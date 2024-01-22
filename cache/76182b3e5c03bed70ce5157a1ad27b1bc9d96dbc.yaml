@@ -1,0 +1,11 @@
+{
+  "chinese": "汤姆正在拉小提琴。",
+  "english": "Tom is playing the violin.",
+  "pinyin": "Tāng mǔ zhèngzài lā xiǎo tíqín.",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ"},
+    {"ch": "正在", "en": "is", "pi": "zhèngzài"},
+    {"ch": "拉", "en": "playing", "pi": "lā"},
+    {"ch": "小提琴", "en": "violin", "pi": "xiǎo tíqín"}
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆在阁楼里。",
+  "english": "Tom is in the attic.",
+  "pinyin": "Tāng mǔ zài gé lóu lǐ.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "阁楼",
+      "en": "attic",
+      "pi": "gé lóu"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    }
+  ]
+}

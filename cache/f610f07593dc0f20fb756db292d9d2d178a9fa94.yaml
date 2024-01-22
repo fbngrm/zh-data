@@ -1,0 +1,91 @@
+{
+  "sentences": [
+    {
+      "chinese": "我从来不是最有可能获得这一职务的候选人。",
+      "english": "I have never been the most likely candidate to get this position.",
+      "pinyin": "wǒ cóng lái bú shì zuì yǒu kě néng huò dé zhè yī zhí wù de hòu xuǎn rén。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "从来", "en": "never", "pi": "cóng lái"},
+        {"ch": "不是", "en": "not", "pi": "bú shì"},
+        {"ch": "最", "en": "most", "pi": "zuì"},
+        {"ch": "有可能", "en": "likely", "pi": "yǒu kě néng"},
+        {"ch": "获得", "en": "to get", "pi": "huò dé"},
+        {"ch": "这一", "en": "this", "pi": "zhè yī"},
+        {"ch": "职务", "en": "position", "pi": "zhí wù"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "候选人", "en": "candidate", "pi": "hòu xuǎn rén"}
+      ]
+    },
+    {
+      "chinese": "我们刚开始并没有太多资金，也没有得到许多人的支持。",
+      "english": "We didn't have much funding at the beginning, nor did we get much support from people.",
+      "pinyin": "wǒ men gāng kāi shǐ bìng méi yǒu tài duō zī jīn ，yě méi yǒu dé dào xǔ duō rén de zhī chí。",
+      "words": [
+        {"ch": "我们", "en": "we", "pi": "wǒ men"},
+        {"ch": "刚开始", "en": "at the beginning", "pi": "gāng kāi shǐ"},
+        {"ch": "并", "en": "nor", "pi": "bìng"},
+        {"ch": "没有", "en": "did not have", "pi": "méi yǒu"},
+        {"ch": "太多", "en": "much", "pi": "tài duō"},
+        {"ch": "资金", "en": "funding", "pi": "zī jīn"},
+        {"ch": "也", "en": "also", "pi": "yě"},
+        {"ch": "没有", "en": "did not have", "pi": "méi yǒu"},
+        {"ch": "得到", "en": "to get", "pi": "dé dào"},
+        {"ch": "许多", "en": "much", "pi": "xǔ duō"},
+        {"ch": "人的", "en": "people's", "pi": "rén de"},
+        {"ch": "支持", "en": "support", "pi": "zhī chí"}
+      ]
+    },
+    {
+      "chinese": "我们的竞选活动并非始自华盛顿的大厅里，而是始于得梅因、康科德、查尔斯顿这些地方的普通民众家中。",
+      "english": "Our campaign did not start in the halls of Washington, but in the homes of ordinary people in Des Moines, Concord, Charleston, and so on.",
+      "pinyin": "wǒ men de jìng xuǎn huó dòng bìng fēi shǐ zì huá shèng dùn de dà tīng lǐ ，ér shì shǐ yú dé méi yīn 、kāng kē dé 、chá ěr sī dùn zhè xiē dì fāng de pǔ tōng mín zhòng jiā zhōng。",
+      "words": [
+        {"ch": "我们的", "en": "our", "pi": "wǒ men de"},
+        {"ch": "竞选活动", "en": "campaign", "pi": "jìng xuǎn huó dòng"},
+        {"ch": "并非", "en": "not", "pi": "bìng fēi"},
+        {"ch": "始自", "en": "start from", "pi": "shǐ zì"},
+        {"ch": "华盛顿", "en": "Washington", "pi": "huá shèng dùn"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "大厅", "en": "hall", "pi": "dà tīng"},
+        {"ch": "里", "en": "in", "pi": "lǐ"},
+        {"ch": "而是", "en": "but", "pi": "ér shì"},
+        {"ch": "始于", "en": "start from", "pi": "shǐ yú"},
+        {"ch": "得梅因", "en": "Des Moines", "pi": "dé méi yīn"},
+        {"ch": "康科德", "en": "Concord", "pi": "kāng kē dé"},
+        {"ch": "查尔斯顿", "en": "Charleston", "pi": "chá ěr sī dùn"},
+        {"ch": "这些", "en": "these", "pi": "zhè xiē"},
+        {"ch": "地方", "en": "places", "pi": "dì fāng"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "普通", "en": "ordinary", "pi": "pǔ tōng"},
+        {"ch": "民众", "en": "people", "pi": "mín zhòng"},
+        {"ch": "家中", "en": "homes", "pi": "jiā zhōng"}
+      ]
+    },
+    {
+      "chinese": "那些辛勤工作的人们从自己微薄的储蓄中捐出５美元、１０美元、２０美元。",
+      "english": "Those hardworking people donated $5, $10, $20 from their meager savings.",
+      "pinyin": "nà xiē xīn qín gōng zuò de rén men cóng zì jǐ wēi bó de chǔ xù zhōng juān chū 5 měi yuán 、10 měi yuán 、20 měi yuán。",
+      "words": [
+        {"ch": "那些", "en": "those", "pi": "nà xiē"},
+        {"ch": "辛勤", "en": "hardworking", "pi": "xīn qín"},
+        {"ch": "工作", "en": "work", "pi": "gōng zuò"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "人们", "en": "people", "pi": "rén men"},
+        {"ch": "从", "en": "from", "pi": "cóng"},
+        {"ch": "自己", "en": "their own", "pi": "zì jǐ"},
+        {"ch": "微薄", "en": "meager", "pi": "wēi bó"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "储蓄", "en": "savings", "pi": "chǔ xù"},
+        {"ch": "中", "en": "from", "pi": "zhōng"},
+        {"ch": "捐出", "en": "donated", "pi": "juān chū"},
+        {"ch": "５", "en": "5", "pi": "5"},
+        {"ch": "美元", "en": "dollars", "pi": "měi yuán"},
+        {"ch": "１０", "en": "10", "pi": "10"},
+        {"ch": "美元", "en": "dollars", "pi": "měi yuán"},
+        {"ch": "２０", "en": "20", "pi": "20"},
+        {"ch": "美元", "en": "dollars", "pi": "měi yuán"}
+      ]
+    }
+  ]
+}

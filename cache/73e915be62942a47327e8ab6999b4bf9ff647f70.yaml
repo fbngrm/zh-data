@@ -1,0 +1,32 @@
+{
+  "chinese": "我的父亲会驾驶飞机。",
+  "english": "My father can pilot an airplane.",
+  "pinyin": "wǒ de fù qīn huì jià shǐ fēi jī。",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "父亲",
+      "en": "father",
+      "pi": "fù qīn"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "驾驶",
+      "en": "pilot",
+      "pi": "jià shǐ"
+    },
+    {
+      "ch": "飞机",
+      "en": "airplane",
+      "pi": "fēi jī"
+    }
+  ]
+}

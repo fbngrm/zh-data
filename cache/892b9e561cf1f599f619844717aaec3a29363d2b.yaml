@@ -1,0 +1,37 @@
+{
+  "chinese": "你觉得这本书有趣吗？",
+  "english": "Do you think this book is interesting?",
+  "pinyin": "nǐ juéde zhè běn shū yǒuqù ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "觉得",
+      "en": "think",
+      "pi": "juéde"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本书",
+      "en": "book",
+      "pi": "běn shū"
+    },
+    {
+      "ch": "有趣",
+      "en": "interesting",
+      "pi": "yǒuqù"
+    },
+    {
+      "ch": "吗",
+      "en": "is",
+      "pi": "ma"
+    }
+  ]
+}

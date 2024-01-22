@@ -1,0 +1,37 @@
+{
+  "chinese": "你想吃点东西吗？",
+  "english": "Do you want to eat something?",
+  "pinyin": "nǐ xiǎng chī diǎn dōngxi ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "点",
+      "en": "some",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "东西",
+      "en": "something",
+      "pi": "dōngxi"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

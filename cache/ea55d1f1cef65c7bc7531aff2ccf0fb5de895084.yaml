@@ -1,0 +1,32 @@
+{
+  "chinese": "他住在这里吗？",
+  "english": "Does he live here?",
+  "pinyin": "tā zhù zài zhèlǐ ma?",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "住",
+      "en": "live",
+      "pi": "zhù"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhèlǐ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

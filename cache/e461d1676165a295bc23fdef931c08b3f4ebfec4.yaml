@@ -1,0 +1,37 @@
+{
+  "chinese": "你把你的铅笔弄掉了。",
+  "english": "You dropped your pencil.",
+  "pinyin": "nǐ bǎ nǐ de qiān bǐ nòng diào le。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "把",
+      "en": "dropped",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "铅笔",
+      "en": "pencil",
+      "pi": "qiān bǐ"
+    },
+    {
+      "ch": "弄掉",
+      "en": "dropped",
+      "pi": "nòng diào"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆昨晚没吃晚餐。",
+  "english": "Tom didn't have dinner last night.",
+  "pinyin": "Tāng mǔ zuó wǎn méi chī wǎncān.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "昨晚",
+      "en": "last night",
+      "pi": "zuó wǎn"
+    },
+    {
+      "ch": "没",
+      "en": "didn't",
+      "pi": "méi"
+    },
+    {
+      "ch": "吃",
+      "en": "have",
+      "pi": "chī"
+    },
+    {
+      "ch": "晚餐",
+      "en": "dinner",
+      "pi": "wǎncān"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "你有多少支球拍?",
+  "english": "How many rackets do you have?",
+  "pinyin": "Nǐ yǒu duōshǎo zhī qiúpāi?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "多少",
+      "en": "how many",
+      "pi": "duōshǎo"
+    },
+    {
+      "ch": "支",
+      "en": "classifier for long, thin objects",
+      "pi": "zhī"
+    },
+    {
+      "ch": "球拍",
+      "en": "racket",
+      "pi": "qiúpāi"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "这个月有很多工资。",
+  "english": "There are a lot of wages this month.",
+  "pinyin": "zhè gè yuè yǒu hěn duō gōng zī。",
+  "words": [
+    {
+      "ch": "这个月",
+      "en": "this month",
+      "pi": "zhè gè yuè"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "很多",
+      "en": "a lot of",
+      "pi": "hěn duō"
+    },
+    {
+      "ch": "工资",
+      "en": "wages",
+      "pi": "gōng zī"
+    }
+  ]
+}

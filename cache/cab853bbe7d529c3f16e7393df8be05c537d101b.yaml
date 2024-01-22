@@ -1,0 +1,32 @@
+{
+  "chinese": "每一个人都喜欢那个地方。",
+  "english": "Everyone loves that place.",
+  "pinyin": "měi yī gè rén dōu xǐ huān nà gè dì fāng。",
+  "words": [
+    {
+      "ch": "每一个人",
+      "en": "Everyone",
+      "pi": "měi yī gè rén"
+    },
+    {
+      "ch": "都",
+      "en": "always",
+      "pi": "dōu"
+    },
+    {
+      "ch": "喜欢",
+      "en": "love",
+      "pi": "xǐ huān"
+    },
+    {
+      "ch": "那个",
+      "en": "that",
+      "pi": "nà gè"
+    },
+    {
+      "ch": "地方",
+      "en": "place",
+      "pi": "dì fāng"
+    }
+  ]
+}

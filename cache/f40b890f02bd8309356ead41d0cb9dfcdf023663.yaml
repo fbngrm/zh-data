@@ -1,0 +1,32 @@
+{
+  "chinese": "你要吃虾吗？",
+  "english": "Do you want to eat shrimp?",
+  "pinyin": "Nǐ yào chī xiā ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "Nǐ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "虾",
+      "en": "shrimp",
+      "pi": "xiā"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "chinese": "中国重要的宗教是道教、佛教、伊斯兰教和基督教。",
+  "english": "The important religions in China are Taoism, Buddhism, Islam, and Christianity.",
+  "pinyin": "Zhōngguó zhòngyào de zōngjiào shì dàojiào, fójiào, yīsīlánjiào hé jīdūjiào.",
+  "words": [
+    {"ch": "中国", "en": "China", "pi": "Zhōngguó"},
+    {"ch": "重要", "en": "important", "pi": "zhòngyào"},
+    {"ch": "的", "en": "in", "pi": "de"},
+    {"ch": "宗教", "en": "religions", "pi": "zōngjiào"},
+    {"ch": "是", "en": "are", "pi": "shì"},
+    {"ch": "道教", "en": "Taoism", "pi": "dàojiào"},
+    {"ch": "、", "en": ",", "pi": "、"},
+    {"ch": "佛教", "en": "Buddhism", "pi": "fójiào"},
+    {"ch": "、", "en": ",", "pi": "、"},
+    {"ch": "伊斯兰教", "en": "Islam", "pi": "yīsīlánjiào"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "基督教", "en": "Christianity", "pi": "jīdūjiào"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

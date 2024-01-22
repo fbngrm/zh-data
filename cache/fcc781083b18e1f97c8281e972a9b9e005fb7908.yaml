@@ -1,0 +1,47 @@
+{
+  "chinese": "你往前走，然后往右转，过了红绿灯就到了。",
+  "english": "You walk straight, then turn right, and you'll arrive after passing the traffic lights.",
+  "pinyin": "nǐ wǎng qián zǒu, rán hòu wǎng yòu zhuǎn, guò le hóng lǜ dēng jiù dào le。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "往前走",
+      "en": "walk straight",
+      "pi": "wǎng qián zǒu"
+    },
+    {
+      "ch": "然后",
+      "en": "then",
+      "pi": "rán hòu"
+    },
+    {
+      "ch": "往右转",
+      "en": "turn right",
+      "pi": "wǎng yòu zhuǎn"
+    },
+    {
+      "ch": "过了",
+      "en": "after passing",
+      "pi": "guò le"
+    },
+    {
+      "ch": "红绿灯",
+      "en": "traffic lights",
+      "pi": "hóng lǜ dēng"
+    },
+    {
+      "ch": "就",
+      "en": "then",
+      "pi": "jiù"
+    },
+    {
+      "ch": "到了",
+      "en": "arrive",
+      "pi": "dào le"
+    }
+  ]
+}

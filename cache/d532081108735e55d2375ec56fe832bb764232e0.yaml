@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆不知道他能做什么。",
+  "english": "Tom doesn't know what he can do.",
+  "pinyin": "Tāng mǔ bù zhīdào tā néng zuò shénme.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "不知道",
+      "en": "doesn't know",
+      "pi": "bù zhīdào"
+    },
+    {
+      "ch": "他能",
+      "en": "what he can",
+      "pi": "tā néng"
+    },
+    {
+      "ch": "做",
+      "en": "do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    }
+  ]
+}

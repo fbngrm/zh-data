@@ -1,0 +1,57 @@
+{
+  "chinese": "你五点钟还没睡觉！刚从酒吧回来了，是不是？",
+  "english": "You haven't slept yet at five o'clock. Just came back from the bar, right?",
+  "pinyin": "Nǐ wǔ diǎn zhōng hái méi shuì jiào! Gāng cóng jiǔ bā huí lái le, shì bù shì?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "Nǐ"
+    },
+    {
+      "ch": "五点钟",
+      "en": "five o'clock",
+      "pi": "wǔ diǎn zhōng"
+    },
+    {
+      "ch": "还没",
+      "en": "haven't",
+      "pi": "hái méi"
+    },
+    {
+      "ch": "睡觉",
+      "en": "slept",
+      "pi": "shuì jiào"
+    },
+    {
+      "ch": "刚",
+      "en": "just",
+      "pi": "gāng"
+    },
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "酒吧",
+      "en": "bar",
+      "pi": "jiǔ bā"
+    },
+    {
+      "ch": "回来",
+      "en": "came back",
+      "pi": "huí lái"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "le"
+    },
+    {
+      "ch": "是不是",
+      "en": "right?",
+      "pi": "shì bù shì"
+    }
+  ]
+}

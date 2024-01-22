@@ -1,0 +1,32 @@
+{
+  "chinese": "我和我自己来。",
+  "english": "I and myself come.",
+  "pinyin": "wǒ hé wǒ zìjǐ lái.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "自己",
+      "en": "myself",
+      "pi": "zìjǐ"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    }
+  ]
+}

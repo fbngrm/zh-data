@@ -1,0 +1,47 @@
+{
+  "chinese": "外面打雷了，我很害怕！",
+  "english": "It's thundering outside, and I'm scared!",
+  "pinyin": "Wàimiàn dǎléi le, wǒ hěn hàipà!",
+  "words": [
+    {
+      "ch": "外面",
+      "en": "outside",
+      "pi": "wàimiàn"
+    },
+    {
+      "ch": "打雷",
+      "en": "thundering",
+      "pi": "dǎléi"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "，",
+      "en": "",
+      "pi": ","
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "害怕",
+      "en": "scared",
+      "pi": "hàipà"
+    },
+    {
+      "ch": "！",
+      "en": "",
+      "pi": "!"
+    }
+  ]
+}

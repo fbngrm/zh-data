@@ -1,0 +1,32 @@
+{
+  "chinese": "北海道很远，不是吗？",
+  "english": "Hokkaido is far, isn't it?",
+  "pinyin": "Běi hǎi dǎo hěn yuǎn, bù shì ma?",
+  "words": [
+    {
+      "ch": "北海道",
+      "en": "Hokkaido",
+      "pi": "Běi hǎi dǎo"
+    },
+    {
+      "ch": "很",
+      "en": "is",
+      "pi": "hěn"
+    },
+    {
+      "ch": "远",
+      "en": "far",
+      "pi": "yuǎn"
+    },
+    {
+      "ch": "不是",
+      "en": "isn't",
+      "pi": "bù shì"
+    },
+    {
+      "ch": "吗",
+      "en": "it",
+      "pi": "ma"
+    }
+  ]
+}

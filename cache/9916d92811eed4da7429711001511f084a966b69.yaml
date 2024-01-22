@@ -1,0 +1,15 @@
+{
+  "chinese": "这座火山在这年内爆发了两次。",
+  "english": "This volcano erupted twice within this year.",
+  "pinyin": "zhè zuò huǒshān zài zhè nián nèi bàofāle liǎng cì。",
+  "words": [
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "座", "en": "measure word for mountains", "pi": "zuò"},
+    {"ch": "火山", "en": "volcano", "pi": "huǒshān"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "年内", "en": "within this year", "pi": "nián nèi"},
+    {"ch": "爆发", "en": "erupted", "pi": "bàofā"},
+    {"ch": "了", "en": "twice", "pi": "liǎng cì"}
+  ]
+}

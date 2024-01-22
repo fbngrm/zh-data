@@ -1,0 +1,42 @@
+{
+  "chinese": "我在２:３０起床。",
+  "english": "I wake up at 2:30.",
+  "pinyin": "wǒ zài èr diǎn sān shí fēn qǐchuáng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "２",
+      "en": "2",
+      "pi": "èr"
+    },
+    {
+      "ch": ":",
+      "en": ":",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "３",
+      "en": "3",
+      "pi": "sān"
+    },
+    {
+      "ch": "０",
+      "en": "0",
+      "pi": "shí"
+    },
+    {
+      "ch": "起床",
+      "en": "wake up",
+      "pi": "qǐchuáng"
+    }
+  ]
+}

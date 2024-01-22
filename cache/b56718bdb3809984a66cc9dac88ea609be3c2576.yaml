@@ -1,0 +1,16 @@
+{
+  "chinese": "如果狮子是百兽之王的话，鹰就是百鸟之王了。",
+  "english": "If the lion is the king of animals, then the eagle is the king of birds.",
+  "pinyin": "rú guǒ shī zi shì bǎi shòu zhī wáng de huà, yīng jiù shì bǎi niǎo zhī wáng le。",
+  "words": [
+    {"ch": "如果", "en": "If", "pi": "rú guǒ"},
+    {"ch": "狮子", "en": "lion", "pi": "shī zi"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "百兽之王", "en": "king of animals", "pi": "bǎi shòu zhī wáng"},
+    {"ch": "的话", "en": "if", "pi": "de huà"},
+    {"ch": "鹰", "en": "eagle", "pi": "yīng"},
+    {"ch": "就是", "en": "then", "pi": "jiù shì"},
+    {"ch": "百鸟之王", "en": "king of birds", "pi": "bǎi niǎo zhī wáng"},
+    {"ch": "了", "en": "is", "pi": "le"}
+  ]
+}

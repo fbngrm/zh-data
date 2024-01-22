@@ -1,0 +1,37 @@
+{
+  "chinese": "她给我泡了茶。",
+  "english": "She brewed tea for me.",
+  "pinyin": "Tā gěi wǒ pào le chá.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "Tā"
+    },
+    {
+      "ch": "给",
+      "en": "gave",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "泡",
+      "en": "brewed",
+      "pi": "pào"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "茶",
+      "en": "tea",
+      "pi": "chá"
+    }
+  ]
+}

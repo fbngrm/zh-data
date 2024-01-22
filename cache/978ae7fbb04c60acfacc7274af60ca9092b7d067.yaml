@@ -1,0 +1,32 @@
+{
+  "chinese": "这附近有医院吗？",
+  "english": "Is there a hospital nearby?",
+  "pinyin": "zhè fù jìn yǒu yī yuàn ma?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "附近",
+      "en": "nearby",
+      "pi": "fù jìn"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "医院",
+      "en": "hospital",
+      "pi": "yī yuàn"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

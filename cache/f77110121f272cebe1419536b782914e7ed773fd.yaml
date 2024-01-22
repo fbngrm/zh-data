@@ -1,0 +1,32 @@
+{
+  "chinese": "我该上大学吗？",
+  "english": "Should I go to college?",
+  "pinyin": "Wǒ gāi shàng dàxué ma?",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "该",
+      "en": "should",
+      "pi": "gāi"
+    },
+    {
+      "ch": "上",
+      "en": "go",
+      "pi": "shàng"
+    },
+    {
+      "ch": "大学",
+      "en": "college",
+      "pi": "dàxué"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

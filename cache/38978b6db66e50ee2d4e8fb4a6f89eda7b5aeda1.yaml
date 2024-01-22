@@ -1,0 +1,42 @@
+{
+  "chinese": "他是这棒球俱乐部的成员。",
+  "english": "He is a member of this baseball club.",
+  "pinyin": "tā shì zhè bàng qiú jù lè bù de chéng yuán。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "棒球",
+      "en": "baseball",
+      "pi": "bàng qiú"
+    },
+    {
+      "ch": "俱乐部",
+      "en": "club",
+      "pi": "jù lè bù"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "成员",
+      "en": "member",
+      "pi": "chéng yuán"
+    }
+  ]
+}

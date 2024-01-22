@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆告诉我我应该去做。",
+  "english": "Tom told me I should go.",
+  "pinyin": "Tāng mǔ gàosu wǒ wǒ yīnggāi qù zuò.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "告诉",
+      "en": "told",
+      "pi": "gàosu"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "应该",
+      "en": "should",
+      "pi": "yīnggāi"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "做",
+      "en": "do",
+      "pi": "zuò"
+    }
+  ]
+}

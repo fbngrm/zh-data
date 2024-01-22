@@ -1,0 +1,42 @@
+{
+  "chinese": "這條河的水很潔淨。",
+  "english": "The water in this river is very clean.",
+  "pinyin": "zhè tiáo hé de shuǐ hěn jiéjìng。",
+  "words": [
+    {
+      "ch": "這",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "條",
+      "en": "measure word for rivers",
+      "pi": "tiáo"
+    },
+    {
+      "ch": "河",
+      "en": "river",
+      "pi": "hé"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "水",
+      "en": "water",
+      "pi": "shuǐ"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "潔淨",
+      "en": "clean",
+      "pi": "jiéjìng"
+    }
+  ]
+}

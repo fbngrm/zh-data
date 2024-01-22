@@ -1,0 +1,42 @@
+{
+  "chinese": "他尝试了许多不同的方法。",
+  "english": "He tried many different methods.",
+  "pinyin": "tā cháng shì le xǔ duō bù tóng de fāng fǎ。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "尝试",
+      "en": "try",
+      "pi": "cháng shì"
+    },
+    {
+      "ch": "了",
+      "en": "past tense particle",
+      "pi": "le"
+    },
+    {
+      "ch": "许多",
+      "en": "many",
+      "pi": "xǔ duō"
+    },
+    {
+      "ch": "不同",
+      "en": "different",
+      "pi": "bù tóng"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "方法",
+      "en": "method",
+      "pi": "fāng fǎ"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我不喜欢这种糖果。",
+  "english": "I don't like this kind of candy.",
+  "pinyin": "wǒ bù xǐhuān zhè zhǒng tángguǒ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "这种",
+      "en": "this kind of",
+      "pi": "zhè zhǒng"
+    },
+    {
+      "ch": "糖果",
+      "en": "candy",
+      "pi": "tángguǒ"
+    }
+  ]
+}

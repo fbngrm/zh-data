@@ -1,0 +1,12 @@
+{
+  "chinese": "他昨天上学迟到了。",
+  "english": "He was late for school yesterday.",
+  "pinyin": "tā zuótiān shàngxué chídào le。",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "昨天", "en": "yesterday", "pi": "zuótiān"},
+    {"ch": "上学", "en": "go to school", "pi": "shàngxué"},
+    {"ch": "迟到", "en": "be late", "pi": "chídào"},
+    {"ch": "了", "en": "particle indicating completed action", "pi": "le"}
+  ]
+}

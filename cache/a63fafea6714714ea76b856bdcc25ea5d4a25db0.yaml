@@ -1,0 +1,57 @@
+{
+  "chinese": "他問了我的年齡、姓名、地址等等。",
+  "english": "He asked me about my age, name, address, etc.",
+  "pinyin": "tā wèn le wǒ de niánlíng, xìngmíng, dìzhǐ děng děng.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "問了",
+      "en": "asked",
+      "pi": "wèn le"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "年齡",
+      "en": "age",
+      "pi": "niánlíng"
+    },
+    {
+      "ch": "、",
+      "en": ",",
+      "pi": "、"
+    },
+    {
+      "ch": "姓名",
+      "en": "name",
+      "pi": "xìngmíng"
+    },
+    {
+      "ch": "、",
+      "en": ",",
+      "pi": "、"
+    },
+    {
+      "ch": "地址",
+      "en": "address",
+      "pi": "dìzhǐ"
+    },
+    {
+      "ch": "等等",
+      "en": "etc.",
+      "pi": "děng děng"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "。"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我妈妈很喜欢茶。",
+  "english": "My mom really likes tea.",
+  "pinyin": "wǒ māmā hěn xǐhuān chá.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "妈妈",
+      "en": "mom",
+      "pi": "māmā"
+    },
+    {
+      "ch": "很",
+      "en": "really",
+      "pi": "hěn"
+    },
+    {
+      "ch": "喜欢",
+      "en": "likes",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "茶",
+      "en": "tea",
+      "pi": "chá"
+    }
+  ]
+}

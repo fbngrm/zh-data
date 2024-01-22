@@ -1,0 +1,32 @@
+{
+  "chinese": "你听到新闻了吗？",
+  "english": "Did you hear the news?",
+  "pinyin": "Nǐ tīng dào xīnwén le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "听到",
+      "en": "hear",
+      "pi": "tīng dào"
+    },
+    {
+      "ch": "新闻",
+      "en": "news",
+      "pi": "xīnwén"
+    },
+    {
+      "ch": "了",
+      "en": "did",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

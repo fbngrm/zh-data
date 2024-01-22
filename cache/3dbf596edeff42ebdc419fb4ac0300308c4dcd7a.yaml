@@ -1,0 +1,32 @@
+{
+  "chinese": "他站在门后。",
+  "english": "He is standing behind the door.",
+  "pinyin": "tā zhàn zài mén hòu。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "站",
+      "en": "standing",
+      "pi": "zhàn"
+    },
+    {
+      "ch": "在",
+      "en": "behind",
+      "pi": "zài"
+    },
+    {
+      "ch": "门",
+      "en": "door",
+      "pi": "mén"
+    },
+    {
+      "ch": "后",
+      "en": "after",
+      "pi": "hòu"
+    }
+  ]
+}

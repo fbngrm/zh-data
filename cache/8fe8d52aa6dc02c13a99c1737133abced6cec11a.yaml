@@ -1,0 +1,32 @@
+{
+  "chinese": "我家前面有一间书店。",
+  "english": "There is a bookstore in front of my house.",
+  "pinyin": "wǒ jiā qiánmiàn yǒu yī jiàn shūdiàn.",
+  "words": [
+    {
+      "ch": "我家",
+      "en": "my house",
+      "pi": "wǒ jiā"
+    },
+    {
+      "ch": "前面",
+      "en": "in front of",
+      "pi": "qiánmiàn"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一间",
+      "en": "one",
+      "pi": "yī jiàn"
+    },
+    {
+      "ch": "书店",
+      "en": "bookstore",
+      "pi": "shūdiàn"
+    }
+  ]
+}

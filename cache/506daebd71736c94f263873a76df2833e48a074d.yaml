@@ -1,0 +1,42 @@
+{
+  "chinese": "他坐在玛丽和汤姆之间。",
+  "english": "He is sitting between Mary and Tom.",
+  "pinyin": "tā zuò zài mǎ lì hé tāng mǔ zhī jiān。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "坐",
+      "en": "sit",
+      "pi": "zuò"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "之间",
+      "en": "between",
+      "pi": "zhī jiān"
+    }
+  ]
+}

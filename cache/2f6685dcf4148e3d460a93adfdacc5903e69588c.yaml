@@ -1,0 +1,12 @@
+{
+  "chinese": "这衬衫要十元。",
+  "english": "This shirt costs ten yuan.",
+  "pinyin": "zhè chènshān yào shí yuán。",
+  "words": [
+    {"ch": "这", "en": "This", "pi": "zhè"},
+    {"ch": "衬衫", "en": "shirt", "pi": "chènshān"},
+    {"ch": "要", "en": "costs", "pi": "yào"},
+    {"ch": "十", "en": "ten", "pi": "shí"},
+    {"ch": "元", "en": "yuan", "pi": "yuán"}
+  ]
+}

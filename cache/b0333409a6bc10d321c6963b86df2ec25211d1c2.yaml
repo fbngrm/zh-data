@@ -1,0 +1,20 @@
+{
+  "chinese": "要是我很有钱的话，我就会到处去旅游。",
+  "english": "If I were rich, I would travel everywhere.",
+  "pinyin": "yào shì wǒ hěn yǒu qián de huà, wǒ jiù huì dào chù qù lǚ yóu.",
+  "words": [
+    {"ch": "要是", "en": "if", "pi": "yào shì"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "有钱", "en": "rich", "pi": "yǒu qián"},
+    {"ch": "的话", "en": "if", "pi": "de huà"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "就", "en": "would", "pi": "jiù"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "到处", "en": "everywhere", "pi": "dào chù"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "旅游", "en": "travel", "pi": "lǚ yóu"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

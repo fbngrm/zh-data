@@ -1,0 +1,32 @@
+{
+  "chinese": "每个人都知道他的名字。",
+  "english": "Everyone knows his name.",
+  "pinyin": "měi gè rén dōu zhī dào tā de míng zì。",
+  "words": [
+    {
+      "ch": "每个人",
+      "en": "everyone",
+      "pi": "měi gè rén"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míng zì"
+    }
+  ]
+}

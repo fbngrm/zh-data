@@ -1,0 +1,12 @@
+{
+  "chinese": "我看到他过马路。",
+  "english": "I saw him crossing the road.",
+  "pinyin": "wǒ kàn dào tā guò mǎ lù.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "看到", "en": "saw", "pi": "kàn dào" },
+    { "ch": "他", "en": "him", "pi": "tā" },
+    { "ch": "过", "en": "crossing", "pi": "guò" },
+    { "ch": "马路", "en": "road", "pi": "mǎ lù" }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "他昨天干了一天活儿。",
+  "english": "He worked all day yesterday.",
+  "pinyin": "Tā zuótiān gànle yī tiān huór.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "干了",
+      "en": "worked",
+      "pi": "gànle"
+    },
+    {
+      "ch": "一天",
+      "en": "all day",
+      "pi": "yī tiān"
+    },
+    {
+      "ch": "活儿",
+      "en": "job/work",
+      "pi": "huór"
+    }
+  ]
+}

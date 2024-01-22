@@ -1,0 +1,32 @@
+{
+  "chinese": "约翰最近胖了很多。",
+  "english": "John has gained a lot of weight recently.",
+  "pinyin": "Yuēhàn zuìjìn pàng le hěnduō.",
+  "words": [
+    {
+      "ch": "约翰",
+      "en": "John",
+      "pi": "Yuēhàn"
+    },
+    {
+      "ch": "最近",
+      "en": "recently",
+      "pi": "zuìjìn"
+    },
+    {
+      "ch": "胖",
+      "en": "fat",
+      "pi": "pàng"
+    },
+    {
+      "ch": "了",
+      "en": "has",
+      "pi": "le"
+    },
+    {
+      "ch": "很多",
+      "en": "a lot",
+      "pi": "hěnduō"
+    }
+  ]
+}

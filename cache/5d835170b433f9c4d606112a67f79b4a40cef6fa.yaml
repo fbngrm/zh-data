@@ -1,0 +1,42 @@
+{
+  "chinese": "我想知道她去哪儿了。",
+  "english": "I want to know where she went.",
+  "pinyin": "wǒ xiǎng zhīdào tā qù nǎ'er le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "知道",
+      "en": "to know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "去",
+      "en": "went",
+      "pi": "qù"
+    },
+    {
+      "ch": "哪儿",
+      "en": "where",
+      "pi": "nǎ'er"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "chinese": "你有时间跟我吃午饭吗？",
+  "english": "Do you have time to have lunch with me?",
+  "pinyin": "nǐ yǒu shíjiān gēn wǒ chī wǔfàn ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "时间",
+      "en": "time",
+      "pi": "shíjiān"
+    },
+    {
+      "ch": "跟",
+      "en": "with",
+      "pi": "gēn"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "午饭",
+      "en": "lunch",
+      "pi": "wǔfàn"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

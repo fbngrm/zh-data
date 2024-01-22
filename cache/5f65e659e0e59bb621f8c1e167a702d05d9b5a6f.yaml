@@ -1,0 +1,32 @@
+{
+  "chinese": "会议将在下周日召开。",
+  "english": "The meeting will be held next Sunday.",
+  "pinyin": "huìyì jiāng zài xià zhōurì zhàokāi。",
+  "words": [
+    {
+      "ch": "会议",
+      "en": "meeting",
+      "pi": "huìyì"
+    },
+    {
+      "ch": "将",
+      "en": "will",
+      "pi": "jiāng"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "下周日",
+      "en": "next Sunday",
+      "pi": "xià zhōurì"
+    },
+    {
+      "ch": "召开",
+      "en": "be held",
+      "pi": "zhàokāi"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我欠你多少钱？",
+  "english": "How much money do I owe you?",
+  "pinyin": "wǒ qiàn nǐ duōshao qián?",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "欠",
+      "en": "owe",
+      "pi": "qiàn"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "多少",
+      "en": "how much",
+      "pi": "duōshao"
+    },
+    {
+      "ch": "钱",
+      "en": "money",
+      "pi": "qián"
+    }
+  ]
+}

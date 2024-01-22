@@ -1,0 +1,27 @@
+{
+  "chinese": "我昨天去了医院。",
+  "english": "I went to the hospital yesterday.",
+  "pinyin": "Wǒ zuótiān qùle yīyuàn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "Wǒ"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "去了",
+      "en": "went",
+      "pi": "qùle"
+    },
+    {
+      "ch": "医院",
+      "en": "hospital",
+      "pi": "yīyuàn"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "chinese": "他是跟他爸爸去杭州的吗？",
+  "english": "Is he going to Hangzhou with his father?",
+  "pinyin": "tā shì gēn tā bàba qù hángzhōu de ma?",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "跟",
+      "en": "with",
+      "pi": "gēn"
+    },
+    {
+      "ch": "他爸爸",
+      "en": "his father",
+      "pi": "tā bàba"
+    },
+    {
+      "ch": "去",
+      "en": "to go",
+      "pi": "qù"
+    },
+    {
+      "ch": "杭州",
+      "en": "Hangzhou",
+      "pi": "hángzhōu"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

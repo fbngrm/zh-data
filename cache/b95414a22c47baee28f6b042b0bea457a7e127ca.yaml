@@ -1,0 +1,27 @@
+{
+  "chinese": "我喜欢这只狗。",
+  "english": "I like this dog.",
+  "pinyin": "wǒ xǐhuan zhè zhī gǒu.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuan"
+    },
+    {
+      "ch": "这只",
+      "en": "this",
+      "pi": "zhè zhī"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    }
+  ]
+}

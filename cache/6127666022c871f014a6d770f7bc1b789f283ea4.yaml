@@ -1,0 +1,32 @@
+{
+  "chinese": "我的眼睛是蓝色的。",
+  "english": "My eyes are blue.",
+  "pinyin": "Wǒ de yǎnjīng shì lán sè de.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "眼睛",
+      "en": "eyes",
+      "pi": "yǎnjīng"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "蓝色",
+      "en": "blue",
+      "pi": "lán sè"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    }
+  ]
+}

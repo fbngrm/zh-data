@@ -1,0 +1,17 @@
+{
+  "chinese": "比尔不喜欢他父亲抽很多烟的这个事实。",
+  "english": "Bill doesn't like the fact that his father smokes a lot.",
+  "pinyin": "bǐ ěr bù xǐ huān tā fù qīn chōu hěn duō yān de zhè ge shì shí。",
+  "words": [
+    {"ch": "比尔", "en": "Bill", "pi": "bǐ ěr"},
+    {"ch": "不喜欢", "en": "doesn't like", "pi": "bù xǐ huān"},
+    {"ch": "他", "en": "he/him", "pi": "tā"},
+    {"ch": "父亲", "en": "father", "pi": "fù qīn"},
+    {"ch": "抽", "en": "smoke", "pi": "chōu"},
+    {"ch": "很多", "en": "a lot", "pi": "hěn duō"},
+    {"ch": "烟", "en": "cigarette", "pi": "yān"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "这个", "en": "this", "pi": "zhè ge"},
+    {"ch": "事实", "en": "fact", "pi": "shì shí"}
+  ]
+}

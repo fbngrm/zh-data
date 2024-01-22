@@ -1,0 +1,37 @@
+{
+  "chinese": "这件事是谁告诉你的？",
+  "english": "Who told you about this?",
+  "pinyin": "Zhè jiàn shì shì shéi gàosù nǐ de?",
+  "words": [
+    {
+      "ch": "这件事",
+      "en": "this",
+      "pi": "zhè jiàn shì"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "谁",
+      "en": "who",
+      "pi": "shéi"
+    },
+    {
+      "ch": "告诉",
+      "en": "told",
+      "pi": "gàosù"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "about",
+      "pi": "de"
+    }
+  ]
+}

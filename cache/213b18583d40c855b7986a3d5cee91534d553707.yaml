@@ -1,0 +1,32 @@
+{
+  "chinese": "你想先去哪里?",
+  "english": "Where do you want to go first?",
+  "pinyin": "Nǐ xiǎng xiān qù nǎlǐ?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "先",
+      "en": "first",
+      "pi": "xiān"
+    },
+    {
+      "ch": "去",
+      "en": "to go",
+      "pi": "qù"
+    },
+    {
+      "ch": "哪里",
+      "en": "where",
+      "pi": "nǎlǐ"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "给我多一点牛奶！",
+  "english": "Give me a little more milk!",
+  "pinyin": "gěi wǒ duō yīdiǎn niúnǎi!",
+  "words": [
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "多",
+      "en": "more",
+      "pi": "duō"
+    },
+    {
+      "ch": "一点",
+      "en": "a little",
+      "pi": "yīdiǎn"
+    },
+    {
+      "ch": "牛奶",
+      "en": "milk",
+      "pi": "niúnǎi"
+    }
+  ]
+}

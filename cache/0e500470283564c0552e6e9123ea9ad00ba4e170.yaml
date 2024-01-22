@@ -1,0 +1,27 @@
+{
+  "chinese": "警方逮捕了嫌疑人。",
+  "english": "The police arrested the suspect.",
+  "pinyin": "jǐng fāng dài bǔ le xián yí rén.",
+  "words": [
+    {
+      "ch": "警方",
+      "en": "police",
+      "pi": "jǐng fāng"
+    },
+    {
+      "ch": "逮捕",
+      "en": "arrest",
+      "pi": "dài bǔ"
+    },
+    {
+      "ch": "了",
+      "en": "the",
+      "pi": "le"
+    },
+    {
+      "ch": "嫌疑人",
+      "en": "suspect",
+      "pi": "xián yí rén"
+    }
+  ]
+}

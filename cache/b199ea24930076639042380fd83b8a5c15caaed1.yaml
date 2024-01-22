@@ -1,0 +1,32 @@
+{
+  "chinese": "今天看上去是个晴天。",
+  "english": "Today looks like a sunny day.",
+  "pinyin": "jīn tiān kàn shàng qù shì gè qíng tiān。",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "Today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "看上去",
+      "en": "looks like",
+      "pi": "kàn shàng qù"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "晴天",
+      "en": "sunny day",
+      "pi": "qíng tiān"
+    }
+  ]
+}

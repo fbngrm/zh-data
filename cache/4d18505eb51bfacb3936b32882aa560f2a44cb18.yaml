@@ -1,0 +1,27 @@
+{
+  "chinese": "我喜欢乘坐火车。",
+  "english": "I like to travel by train.",
+  "pinyin": "wǒ xǐ huān chéng zuò huǒ chē。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐ huān"
+    },
+    {
+      "ch": "乘坐",
+      "en": "to travel by",
+      "pi": "chéng zuò"
+    },
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒ chē"
+    }
+  ]
+}

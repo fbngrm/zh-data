@@ -1,0 +1,32 @@
+{
+  "chinese": "他明天将离开芝加哥。",
+  "english": "He will leave Chicago tomorrow.",
+  "pinyin": "tā míngtiān jiāng líkāi zhījiāgē.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "将",
+      "en": "will",
+      "pi": "jiāng"
+    },
+    {
+      "ch": "离开",
+      "en": "leave",
+      "pi": "líkāi"
+    },
+    {
+      "ch": "芝加哥",
+      "en": "Chicago",
+      "pi": "zhījiāgē"
+    }
+  ]
+}

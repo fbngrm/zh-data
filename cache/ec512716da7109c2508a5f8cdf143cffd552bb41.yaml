@@ -1,0 +1,37 @@
+{
+  "chinese": "你和肯吵架了吗?",
+  "english": "Did you have a fight with Ken?",
+  "pinyin": "nǐ hé kěn chǎo jià le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "肯",
+      "en": "Ken",
+      "pi": "kěn"
+    },
+    {
+      "ch": "吵架",
+      "en": "fight",
+      "pi": "chǎo jià"
+    },
+    {
+      "ch": "了",
+      "en": "have",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

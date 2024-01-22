@@ -1,0 +1,93 @@
+{
+  "sentences": [
+    {
+      "chinese": "如果你睡在ｋｏｔａｔｓｕ下当然会感冒。",
+      "english": "If you sleep under a kotatsu, you will definitely catch a cold.",
+      "pinyin": "Rúguǒ nǐ shuì zài kǒtatsū xià dāngrán huì gǎnmào。",
+      "words": [
+        {
+          "ch": "如果",
+          "en": "if",
+          "pi": "rúguǒ"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "睡",
+          "en": "sleep",
+          "pi": "shuì"
+        },
+        {
+          "ch": "在",
+          "en": "under",
+          "pi": "zài"
+        },
+        {
+          "ch": "ｋｏｔａｔｓｕ",
+          "en": "kotatsu",
+          "pi": "kǒtatsū"
+        },
+        {
+          "ch": "下",
+          "en": "below",
+          "pi": "xià"
+        },
+        {
+          "ch": "当然",
+          "en": "definitely",
+          "pi": "dāngrán"
+        },
+        {
+          "ch": "会",
+          "en": "will",
+          "pi": "huì"
+        },
+        {
+          "ch": "感冒",
+          "en": "catch a cold",
+          "pi": "gǎnmào"
+        }
+      ]
+    },
+    {
+      "chinese": "你要学会照顾好自己。",
+      "english": "You have to learn how to take care of yourself.",
+      "pinyin": "Nǐ yào xuéhuì zhàogù hǎo zìjǐ。",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "要",
+          "en": "have to",
+          "pi": "yào"
+        },
+        {
+          "ch": "学会",
+          "en": "learn",
+          "pi": "xuéhuì"
+        },
+        {
+          "ch": "照顾",
+          "en": "take care of",
+          "pi": "zhàogù"
+        },
+        {
+          "ch": "好",
+          "en": "good",
+          "pi": "hǎo"
+        },
+        {
+          "ch": "自己",
+          "en": "yourself",
+          "pi": "zìjǐ"
+        }
+      ]
+    }
+  ]
+}

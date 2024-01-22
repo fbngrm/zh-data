@@ -1,0 +1,12 @@
+{
+  "chinese": "这封信是寄给你。",
+  "english": "This letter is sent to you.",
+  "pinyin": "zhè fēng xìn shì jì gěi nǐ。",
+  "words": [
+    {"ch": "这", "en": "This", "pi": "zhè"},
+    {"ch": "封信", "en": "letter", "pi": "fēng xìn"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "寄给", "en": "sent to", "pi": "jì gěi"},
+    {"ch": "你", "en": "you", "pi": "nǐ"}
+  ]
+}

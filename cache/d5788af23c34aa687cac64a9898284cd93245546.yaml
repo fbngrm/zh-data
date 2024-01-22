@@ -1,0 +1,32 @@
+{
+  "chinese": "許多英文單字源自於拉丁文。",
+  "english": "Many English words originate from Latin.",
+  "pinyin": "xǔ duō yīng wén dān zì yuán zì yú lā dīng wén。",
+  "words": [
+    {
+      "ch": "許多",
+      "en": "Many",
+      "pi": "xǔ duō"
+    },
+    {
+      "ch": "英文",
+      "en": "English",
+      "pi": "yīng wén"
+    },
+    {
+      "ch": "單字",
+      "en": "words",
+      "pi": "dān zì"
+    },
+    {
+      "ch": "源自於",
+      "en": "originate from",
+      "pi": "yuán zì yú"
+    },
+    {
+      "ch": "拉丁文",
+      "en": "Latin",
+      "pi": "lā dīng wén"
+    }
+  ]
+}

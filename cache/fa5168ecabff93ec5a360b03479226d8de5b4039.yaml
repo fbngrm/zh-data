@@ -1,0 +1,21 @@
+{
+  "chinese": "你和你妈用上海话聊天的时候，我只听得懂几个词，所以我插不上话。",
+  "english": "When you and your mom were chatting in Shanghainese, I only understood a few words, so I couldn't join the conversation.",
+  "pinyin": "nǐ hé nǐ mā yòng shànghǎi huà liáotiān de shíhòu, wǒ zhǐ tīng de dǒng jǐ gè cí, suǒyǐ wǒ chā bù shàng huà.",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "你妈", "en": "your mom", "pi": "nǐ mā"},
+    {"ch": "用", "en": "use", "pi": "yòng"},
+    {"ch": "上海话", "en": "Shanghainese", "pi": "shàng hǎi huà"},
+    {"ch": "聊天", "en": "chat", "pi": "liáo tiān"},
+    {"ch": "的时候", "en": "when", "pi": "de shí hòu"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "只", "en": "only", "pi": "zhǐ"},
+    {"ch": "听得懂", "en": "understood", "pi": "tīng dé dǒng"},
+    {"ch": "几个", "en": "a few", "pi": "jǐ gè"},
+    {"ch": "词", "en": "words", "pi": "cí"},
+    {"ch": "所以", "en": "so", "pi": "suǒ yǐ"},
+    {"ch": "插不上话", "en": "couldn't join the conversation", "pi": "chā bù shàng huà"}
+  ]
+}

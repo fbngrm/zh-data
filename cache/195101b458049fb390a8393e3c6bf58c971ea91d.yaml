@@ -1,0 +1,32 @@
+{
+  "chinese": "有时候火车没能按时到达。",
+  "english": "Sometimes the train is unable to arrive on time.",
+  "pinyin": "yǒu shí hòu huǒ chē méi néng àn shí dào dá.",
+  "words": [
+    {
+      "ch": "有时候",
+      "en": "Sometimes",
+      "pi": "yǒu shí hòu"
+    },
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒ chē"
+    },
+    {
+      "ch": "没能",
+      "en": "is unable to",
+      "pi": "méi néng"
+    },
+    {
+      "ch": "按时",
+      "en": "on time",
+      "pi": "àn shí"
+    },
+    {
+      "ch": "到达",
+      "en": "arrive",
+      "pi": "dào dá"
+    }
+  ]
+}

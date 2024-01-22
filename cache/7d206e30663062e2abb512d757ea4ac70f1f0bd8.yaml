@@ -1,0 +1,14 @@
+{
+  "sentences": [
+    {
+      "chinese": "我在翻译。",
+      "english": "I am translating.",
+      "pinyin": "wǒ zài fān yì.",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "在", "en": "am", "pi": "zài"},
+        {"ch": "翻译", "en": "translating", "pi": "fān yì"}
+      ]
+    }
+  ]
+}

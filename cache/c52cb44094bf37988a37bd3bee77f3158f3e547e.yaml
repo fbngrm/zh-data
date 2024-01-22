@@ -1,0 +1,27 @@
+{
+  "chinese": "你们公司几点下班?",
+  "english": "What time does your company finish work?",
+  "pinyin": "nǐ men gōng sī jǐ diǎn xià bān?",
+  "words": [
+    {
+      "ch": "你们",
+      "en": "you (plural)",
+      "pi": "nǐ men"
+    },
+    {
+      "ch": "公司",
+      "en": "company",
+      "pi": "gōng sī"
+    },
+    {
+      "ch": "几点",
+      "en": "what time",
+      "pi": "jǐ diǎn"
+    },
+    {
+      "ch": "下班",
+      "en": "finish work",
+      "pi": "xià bān"
+    }
+  ]
+}

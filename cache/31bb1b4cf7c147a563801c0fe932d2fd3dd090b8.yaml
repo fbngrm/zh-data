@@ -1,0 +1,32 @@
+{
+  "chinese": "这个词是什么意思？",
+  "english": "What does this word mean?",
+  "pinyin": "zhè gè cí shì shénme yìsi?",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "词",
+      "en": "word",
+      "pi": "cí"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "意思",
+      "en": "meaning",
+      "pi": "yìsi"
+    }
+  ]
+}

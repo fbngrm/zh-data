@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆和玛丽在打沙滩排球。",
+  "english": "Tom and Mary are playing beach volleyball.",
+  "pinyin": "Tāng mǔ hé Mǎ lì zài dǎ shā tān pái qiú.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎ lì"
+    },
+    {
+      "ch": "在",
+      "en": "are",
+      "pi": "zài"
+    },
+    {
+      "ch": "打",
+      "en": "playing",
+      "pi": "dǎ"
+    },
+    {
+      "ch": "沙滩",
+      "en": "beach",
+      "pi": "shā tān"
+    },
+    {
+      "ch": "排球",
+      "en": "volleyball",
+      "pi": "pái qiú"
+    }
+  ]
+}

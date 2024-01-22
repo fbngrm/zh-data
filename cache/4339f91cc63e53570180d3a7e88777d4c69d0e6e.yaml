@@ -1,0 +1,135 @@
+{
+  "sentences": [
+    {
+      "chinese": "我是警察。你可以到警察局來嗎?",
+      "english": "I am a police officer. Can you come to the police station?",
+      "pinyin": "wǒ shì jǐng chá. nǐ kě yǐ dào jǐng chá jú lái ma?",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "是",
+          "en": "am",
+          "pi": "shì"
+        },
+        {
+          "ch": "警察",
+          "en": "police officer",
+          "pi": "jǐng chá"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": ""
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "可以",
+          "en": "can",
+          "pi": "kě yǐ"
+        },
+        {
+          "ch": "到",
+          "en": "to",
+          "pi": "dào"
+        },
+        {
+          "ch": "警察局",
+          "en": "police station",
+          "pi": "jǐng chá jú"
+        },
+        {
+          "ch": "來",
+          "en": "come",
+          "pi": "lái"
+        },
+        {
+          "ch": "嗎",
+          "en": "?",
+          "pi": "ma"
+        }
+      ]
+    },
+    {
+      "chinese": "為什麼?",
+      "english": "Why?",
+      "pinyin": "wèi shén me?",
+      "words": [
+        {
+          "ch": "為什麼",
+          "en": "why",
+          "pi": "wèi shén me"
+        },
+        {
+          "ch": "?",
+          "en": "",
+          "pi": ""
+        }
+      ]
+    },
+    {
+      "chinese": "你不能認為在市中心開槍射擊不是犯罪行為?!",
+      "english": "You can't think that shooting in the city center is not a criminal act?!",
+      "pinyin": "nǐ bù néng rèn wéi zài shì zhōng xīn kāi qiāng shè jī bú shì fàn zuì xíng wéi?!",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "不能",
+          "en": "can't",
+          "pi": "bù néng"
+        },
+        {
+          "ch": "認為",
+          "en": "think",
+          "pi": "rèn wéi"
+        },
+        {
+          "ch": "在",
+          "en": "in",
+          "pi": "zài"
+        },
+        {
+          "ch": "市中心",
+          "en": "city center",
+          "pi": "shì zhōng xīn"
+        },
+        {
+          "ch": "開槍",
+          "en": "shooting",
+          "pi": "kāi qiāng"
+        },
+        {
+          "ch": "射擊",
+          "en": "shoot",
+          "pi": "shè jī"
+        },
+        {
+          "ch": "不是",
+          "en": "not",
+          "pi": "bú shì"
+        },
+        {
+          "ch": "犯罪行為",
+          "en": "criminal act",
+          "pi": "fàn zuì xíng wéi"
+        },
+        {
+          "ch": "?",
+          "en": "?",
+          "pi": "!"
+        }
+      ]
+    }
+  ]
+}

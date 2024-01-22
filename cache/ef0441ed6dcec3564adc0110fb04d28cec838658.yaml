@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆知道玛丽会来。",
+  "english": "Tom knows Mary will come.",
+  "pinyin": "Tāng mǔ zhī dào Mǎ lì huì lái.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎ lì"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    }
+  ]
+}

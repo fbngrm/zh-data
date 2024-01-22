@@ -1,0 +1,32 @@
+{
+  "chinese": "我的生日马上就要到了。",
+  "english": "My birthday is coming soon.",
+  "pinyin": "wǒ de shēngrì mǎshàng jiù yào dào le。",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "生日",
+      "en": "birthday",
+      "pi": "shēngrì"
+    },
+    {
+      "ch": "马上",
+      "en": "soon",
+      "pi": "mǎshàng"
+    },
+    {
+      "ch": "就要",
+      "en": "is going to",
+      "pi": "jiù yào"
+    },
+    {
+      "ch": "到了",
+      "en": "arrive",
+      "pi": "dào le"
+    }
+  ]
+}

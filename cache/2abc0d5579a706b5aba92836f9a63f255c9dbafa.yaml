@@ -1,0 +1,27 @@
+{
+  "chinese": "您不是医生。",
+  "english": "You are not a doctor.",
+  "pinyin": "nín bù shì yīshēng.",
+  "words": [
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "医生",
+      "en": "doctor",
+      "pi": "yīshēng"
+    }
+  ]
+}

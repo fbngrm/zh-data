@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆看起来很苍白。",
+  "english": "Tom looks very pale.",
+  "pinyin": "Tāng mǔ kàn qǐlái hěn cāngbái.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "看起来",
+      "en": "looks",
+      "pi": "kàn qǐlái"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "苍白",
+      "en": "pale",
+      "pi": "cāngbái"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "这个问题看起来很难。",
+  "english": "This problem looks difficult.",
+  "pinyin": "zhè gè wèn tí kàn qǐ lái hěn nán.",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "问题",
+      "en": "problem",
+      "pi": "wèn tí"
+    },
+    {
+      "ch": "看起来",
+      "en": "looks",
+      "pi": "kàn qǐ lái"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "难",
+      "en": "difficult",
+      "pi": "nán"
+    }
+  ]
+}

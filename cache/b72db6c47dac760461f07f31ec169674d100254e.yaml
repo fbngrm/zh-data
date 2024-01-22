@@ -1,0 +1,32 @@
+{
+  "chinese": "他每天早上八点起床。",
+  "english": "He gets up at eight o'clock every morning.",
+  "pinyin": "tā měi tiān zǎo shàng bā diǎn qǐchuáng.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎo shàng"
+    },
+    {
+      "ch": "八点",
+      "en": "eight o'clock",
+      "pi": "bā diǎn"
+    },
+    {
+      "ch": "起床",
+      "en": "get up",
+      "pi": "qǐchuáng"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "chinese": "今天下午汤姆和玛丽会一起出去。",
+  "english": "Tom and Mary will go out together this afternoon.",
+  "pinyin": "jīn tiān xià wǔ tāng mǔ hé mǎ lì huì yī qǐ chū qù。",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "下午",
+      "en": "afternoon",
+      "pi": "xià wǔ"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "一起",
+      "en": "together",
+      "pi": "yī qǐ"
+    },
+    {
+      "ch": "出去",
+      "en": "go out",
+      "pi": "chū qù"
+    }
+  ]
+}

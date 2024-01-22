@@ -1,0 +1,37 @@
+{
+  "chinese": "你最喜欢的电影是哪部？",
+  "english": "Which is your favorite movie?",
+  "pinyin": "nǐ zuì xǐhuan de diànyǐng shì nǎ bù?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "最喜欢",
+      "en": "favorite",
+      "pi": "zuì xǐhuan"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "电影",
+      "en": "movie",
+      "pi": "diànyǐng"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "哪部",
+      "en": "which",
+      "pi": "nǎ bù"
+    }
+  ]
+}

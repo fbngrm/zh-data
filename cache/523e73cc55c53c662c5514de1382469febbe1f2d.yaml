@@ -1,0 +1,42 @@
+{
+  "chinese": "弗雷德的房子有五间房间。",
+  "english": "Fred's house has five rooms.",
+  "pinyin": "fú léi dé de fáng zi yǒu wǔ jiān fáng jiān。",
+  "words": [
+    {
+      "ch": "弗雷德",
+      "en": "Fred",
+      "pi": "fú léi dé"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "房子",
+      "en": "house",
+      "pi": "fáng zi"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "五",
+      "en": "five",
+      "pi": "wǔ"
+    },
+    {
+      "ch": "间",
+      "en": "measure word for rooms",
+      "pi": "jiān"
+    },
+    {
+      "ch": "房间",
+      "en": "room",
+      "pi": "fáng jiān"
+    }
+  ]
+}

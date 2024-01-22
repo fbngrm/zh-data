@@ -1,0 +1,47 @@
+{
+  "chinese": "他写了很多关于中国的书。",
+  "english": "He has written many books about China.",
+  "pinyin": "Tā xiěle hěnduō guānyú zhōngguó de shū.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "写",
+      "en": "write",
+      "pi": "xiě"
+    },
+    {
+      "ch": "了",
+      "en": "has",
+      "pi": "le"
+    },
+    {
+      "ch": "很多",
+      "en": "many",
+      "pi": "hěnduō"
+    },
+    {
+      "ch": "关于",
+      "en": "about",
+      "pi": "guānyú"
+    },
+    {
+      "ch": "中国",
+      "en": "China",
+      "pi": "zhōngguó"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "书",
+      "en": "books",
+      "pi": "shū"
+    }
+  ]
+}

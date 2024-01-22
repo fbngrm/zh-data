@@ -1,0 +1,37 @@
+{
+  "chinese": "我可以看看你的行李条吗？",
+  "english": "Can I take a look at your baggage claim tag?",
+  "pinyin": "Wǒ kěyǐ kàn kàn nǐ de xínglǐ tiáo ma?",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kěyǐ"
+    },
+    {
+      "ch": "看看",
+      "en": "take a look",
+      "pi": "kàn kàn"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "行李条",
+      "en": "baggage claim tag",
+      "pi": "xínglǐ tiáo"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

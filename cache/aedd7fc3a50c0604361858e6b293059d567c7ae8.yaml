@@ -1,0 +1,42 @@
+{
+  "chinese": "我知道你在学校学法语。",
+  "english": "I know you are studying French at school.",
+  "pinyin": "wǒ zhīdào nǐ zài xuéxiào xué fǎyǔ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "学校",
+      "en": "school",
+      "pi": "xuéxiào"
+    },
+    {
+      "ch": "学",
+      "en": "study",
+      "pi": "xué"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎyǔ"
+    }
+  ]
+}

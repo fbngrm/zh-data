@@ -1,0 +1,32 @@
+{
+  "chinese": "你真的不会游泳吗？",
+  "english": "Can you really not swim?",
+  "pinyin": "nǐ zhēn de bù huì yóu yǒng ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "真的",
+      "en": "really",
+      "pi": "zhēn de"
+    },
+    {
+      "ch": "不会",
+      "en": "can not",
+      "pi": "bù huì"
+    },
+    {
+      "ch": "游泳",
+      "en": "swim",
+      "pi": "yóu yǒng"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

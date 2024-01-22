@@ -1,0 +1,27 @@
+{
+  "chinese": "医生建议我戒烟。",
+  "english": "The doctor advised me to quit smoking.",
+  "pinyin": "yī shēng jiàn yì wǒ jiè yān。",
+  "words": [
+    {
+      "ch": "医生",
+      "en": "doctor",
+      "pi": "yī shēng"
+    },
+    {
+      "ch": "建议",
+      "en": "advice",
+      "pi": "jiàn yì"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "戒烟",
+      "en": "quit smoking",
+      "pi": "jiè yān"
+    }
+  ]
+}

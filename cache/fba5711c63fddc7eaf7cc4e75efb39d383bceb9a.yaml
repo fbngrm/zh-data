@@ -1,0 +1,13 @@
+{
+  "chinese": "你是从哪个国家来的？",
+  "english": "Which country are you from?",
+  "pinyin": "Nǐ shì cóng nǎge guójiā lái de?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "是", "en": "are", "pi": "shì"},
+    {"ch": "从", "en": "from", "pi": "cóng"},
+    {"ch": "哪个", "en": "which", "pi": "nǎge"},
+    {"ch": "国家", "en": "country", "pi": "guójiā"},
+    {"ch": "来的", "en": "come", "pi": "lái de"}
+  ]
+}

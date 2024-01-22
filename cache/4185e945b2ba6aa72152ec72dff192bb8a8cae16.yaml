@@ -1,0 +1,12 @@
+{
+  "chinese": "我的头发比珍的长。",
+  "english": "My hair is longer than Jane's.",
+  "pinyin": "Wǒ de tóufa bǐ Zhēn de zhǎng.",
+  "words": [
+    {"ch": "我的", "en": "My", "pi": "Wǒ de"},
+    {"ch": "头发", "en": "hair", "pi": "tóufa"},
+    {"ch": "比", "en": "than", "pi": "bǐ"},
+    {"ch": "珍的", "en": "Jane's", "pi": "Zhēn de"},
+    {"ch": "长", "en": "long", "pi": "zhǎng"}
+  ]
+}

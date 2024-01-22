@@ -1,0 +1,15 @@
+{
+  "chinese": "他们在这个时候一定已经到家了。",
+  "english": "They must have already arrived home at this time.",
+  "pinyin": "tā men zài zhè ge shí hou yí dìng yǐ jīng dào jiā le。",
+  "words": [
+    {"ch": "他们", "en": "They", "pi": "tā men"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "这个", "en": "this", "pi": "zhè ge"},
+    {"ch": "时候", "en": "time", "pi": "shí hou"},
+    {"ch": "一定", "en": "must", "pi": "yí dìng"},
+    {"ch": "已经", "en": "already", "pi": "yǐ jīng"},
+    {"ch": "到家", "en": "arrived home", "pi": "dào jiā"},
+    {"ch": "了", "en": "le", "pi": "le"}
+  ]
+}

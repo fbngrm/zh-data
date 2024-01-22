@@ -1,0 +1,13 @@
+{
+  "chinese": "在这里见到您真是太好了。",
+  "english": "It's really nice to see you here.",
+  "pinyin": "zài zhèlǐ jiàn dào nín zhēnshi tài hǎo le。",
+  "words": [
+    {"ch": "在", "en": "at/in", "pi": "zài"},
+    {"ch": "这里", "en": "here", "pi": "zhèlǐ"},
+    {"ch": "见到", "en": "see", "pi": "jiàn dào"},
+    {"ch": "您", "en": "you (polite)", "pi": "nín"},
+    {"ch": "真是", "en": "really", "pi": "zhēnshi"},
+    {"ch": "太好了", "en": "nice", "pi": "tài hǎo le"}
+  ]
+}

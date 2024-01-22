@@ -1,0 +1,42 @@
+{
+  "chinese": "请你八点叫我起床。",
+  "english": "Please wake me up at eight o'clock.",
+  "pinyin": "Qǐng nǐ bā diǎn jiào wǒ qǐchuáng.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "八",
+      "en": "eight",
+      "pi": "bā"
+    },
+    {
+      "ch": "点",
+      "en": "o'clock",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "叫",
+      "en": "wake",
+      "pi": "jiào"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "起床",
+      "en": "up",
+      "pi": "qǐchuáng"
+    }
+  ]
+}

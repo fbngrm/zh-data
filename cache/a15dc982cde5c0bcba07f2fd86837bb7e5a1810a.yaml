@@ -1,0 +1,32 @@
+{
+  "chinese": "我有两辆车。",
+  "english": "I have two cars.",
+  "pinyin": "wǒ yǒu liǎng liàng chē.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "两",
+      "en": "two",
+      "pi": "liǎng"
+    },
+    {
+      "ch": "辆",
+      "en": "measure word for vehicles",
+      "pi": "liàng"
+    },
+    {
+      "ch": "车",
+      "en": "car",
+      "pi": "chē"
+    }
+  ]
+}

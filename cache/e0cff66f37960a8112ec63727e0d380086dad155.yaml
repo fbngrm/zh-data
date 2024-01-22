@@ -1,0 +1,32 @@
+{
+  "chinese": "除了汤姆没有人来。",
+  "english": "No one came except Tom.",
+  "pinyin": "Chúle Tāngmǔ méiyǒu rén lái.",
+  "words": [
+    {
+      "ch": "除了",
+      "en": "except",
+      "pi": "chúle"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāngmǔ"
+    },
+    {
+      "ch": "没有",
+      "en": "no",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "人",
+      "en": "person",
+      "pi": "rén"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    }
+  ]
+}

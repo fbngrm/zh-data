@@ -1,0 +1,32 @@
+{
+  "chinese": "這個房間裡沒有椅子。",
+  "english": "There is no chair in this room.",
+  "pinyin": "zhè gè fáng jiān lǐ méi yǒu yǐ zi.",
+  "words": [
+    {
+      "ch": "這個",
+      "en": "This",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "房間",
+      "en": "room",
+      "pi": "fáng jiān"
+    },
+    {
+      "ch": "裡",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "沒有",
+      "en": "no",
+      "pi": "méi yǒu"
+    },
+    {
+      "ch": "椅子",
+      "en": "chair",
+      "pi": "yǐ zi"
+    }
+  ]
+}

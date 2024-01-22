@@ -1,0 +1,37 @@
+{
+  "chinese": "我觉得这本书值得一读。",
+  "english": "I think this book is worth reading.",
+  "pinyin": "wǒ jué de zhè běn shū zhí dé yī dú。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "觉得",
+      "en": "think",
+      "pi": "jué de"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本书",
+      "en": "book",
+      "pi": "běn shū"
+    },
+    {
+      "ch": "值得",
+      "en": "worth",
+      "pi": "zhí dé"
+    },
+    {
+      "ch": "一读",
+      "en": "reading",
+      "pi": "yī dú"
+    }
+  ]
+}

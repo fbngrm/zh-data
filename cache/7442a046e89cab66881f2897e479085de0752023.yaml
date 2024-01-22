@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆的书比玛丽的还多。",
+  "english": "Tom has more books than Mary.",
+  "pinyin": "Tāng mǔ de shū bǐ Mǎ lì de hái duō.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "的",
+      "en": " 's",
+      "pi": "de"
+    },
+    {
+      "ch": "书",
+      "en": "books",
+      "pi": "shū"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎ lì"
+    },
+    {
+      "ch": "的",
+      "en": " 's",
+      "pi": "de"
+    },
+    {
+      "ch": "还多",
+      "en": "more",
+      "pi": "hái duō"
+    }
+  ]
+}

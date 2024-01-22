@@ -1,0 +1,32 @@
+{
+  "chinese": "那个小男孩会走路。",
+  "english": "That little boy can walk.",
+  "pinyin": "Nàgè xiǎo nánhái huì zǒulù.",
+  "words": [
+    {
+      "ch": "那个",
+      "en": "That",
+      "pi": "nàgè"
+    },
+    {
+      "ch": "小",
+      "en": "little",
+      "pi": "xiǎo"
+    },
+    {
+      "ch": "男孩",
+      "en": "boy",
+      "pi": "nánhái"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "走路",
+      "en": "walk",
+      "pi": "zǒulù"
+    }
+  ]
+}

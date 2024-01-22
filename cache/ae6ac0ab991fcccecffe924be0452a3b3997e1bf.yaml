@@ -1,0 +1,32 @@
+{
+  "chinese": "我明天不会去学校。",
+  "english": "I won't go to school tomorrow.",
+  "pinyin": "wǒ míngtiān bù huì qù xuéxiào.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "不会",
+      "en": "won't",
+      "pi": "bù huì"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "学校",
+      "en": "school",
+      "pi": "xuéxiào"
+    }
+  ]
+}

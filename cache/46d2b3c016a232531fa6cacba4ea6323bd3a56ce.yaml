@@ -1,0 +1,14 @@
+{
+  "chinese": "汤姆，发生了什么？为啥哭泣呢？",
+  "english": "Tom, what happened? Why are you crying?",
+  "pinyin": "Tāng mǔ, fā shēngle shénme? Wèishá kūqì ne?",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ"},
+    {"ch": "发生", "en": "happen", "pi": "fā shēng"},
+    {"ch": "了", "en": "what", "pi": "le"},
+    {"ch": "什么", "en": "what", "pi": "shénme"},
+    {"ch": "为啥", "en": "why", "pi": "wèishá"},
+    {"ch": "哭泣", "en": "cry", "pi": "kūqì"},
+    {"ch": "呢", "en": "ne", "pi": "ne"}
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "chinese": "你还有什么事情需要我去做的吗？",
+  "english": "Is there anything else you need me to do?",
+  "pinyin": "nǐ hái yǒu shénme shìqíng xūyào wǒ qù zuò de ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "还", "en": "still", "pi": "hái"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "什么", "en": "what", "pi": "shénme"},
+    {"ch": "事情", "en": "thing", "pi": "shìqíng"},
+    {"ch": "需要", "en": "need", "pi": "xūyào"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "做", "en": "do", "pi": "zuò"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

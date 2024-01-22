@@ -1,0 +1,37 @@
+{
+  "chinese": "月球是地球唯一的卫星。",
+  "english": "The moon is Earth's only satellite.",
+  "pinyin": "Yuè qiú shì dì qiú wéi yī de wèi xīng.",
+  "words": [
+    {
+      "ch": "月球",
+      "en": "moon",
+      "pi": "yuè qiú"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "地球",
+      "en": "Earth",
+      "pi": "dì qiú"
+    },
+    {
+      "ch": "唯一",
+      "en": "only",
+      "pi": "wéi yī"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "卫星",
+      "en": "satellite",
+      "pi": "wèi xīng"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我们去看了比赛。",
+  "english": "We went to watch the game.",
+  "pinyin": "wǒmen qù kàn le bǐsài.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "看",
+      "en": "watch",
+      "pi": "kàn"
+    },
+    {
+      "ch": "了",
+      "en": "past tense marker",
+      "pi": "le"
+    },
+    {
+      "ch": "比赛",
+      "en": "game",
+      "pi": "bǐsài"
+    }
+  ]
+}

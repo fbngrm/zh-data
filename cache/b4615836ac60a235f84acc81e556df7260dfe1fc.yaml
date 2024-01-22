@@ -1,0 +1,42 @@
+{
+  "chinese": "除了洋葱我什么都可以吃。",
+  "english": "I can eat anything except onions.",
+  "pinyin": "chú le yáng cōng wǒ shén me dōu kě yǐ chī。",
+  "words": [
+    {
+      "ch": "除了",
+      "en": "except",
+      "pi": "chú le"
+    },
+    {
+      "ch": "洋葱",
+      "en": "onions",
+      "pi": "yáng cōng"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "什么",
+      "en": "anything",
+      "pi": "shén me"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kě yǐ"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    }
+  ]
+}

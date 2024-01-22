@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆是告诉我们问题的人。",
+  "english": "Tom is the person who tells us the problem.",
+  "pinyin": "Tāng mǔ shì gàosù wǒmen wèntí de rén.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "告诉",
+      "en": "tell",
+      "pi": "gàosù"
+    },
+    {
+      "ch": "我们",
+      "en": "us",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "问题",
+      "en": "problem",
+      "pi": "wèntí"
+    },
+    {
+      "ch": "的",
+      "en": "the",
+      "pi": "de"
+    },
+    {
+      "ch": "人",
+      "en": "person",
+      "pi": "rén"
+    }
+  ]
+}

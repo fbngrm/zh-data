@@ -1,0 +1,48 @@
+{
+  "sentences": [
+    {
+      "chinese": "枪不会杀人。",
+      "english": "Guns don't kill people.",
+      "pinyin": "qiāng bù huì shā rén。",
+      "words": [
+        {
+          "ch": "枪",
+          "en": "gun",
+          "pi": "qiāng"
+        },
+        {
+          "ch": "不会",
+          "en": "don't",
+          "pi": "bù huì"
+        },
+        {
+          "ch": "杀人",
+          "en": "kill people",
+          "pi": "shā rén"
+        }
+      ]
+    },
+    {
+      "chinese": "人才会杀人。",
+      "english": "People kill people.",
+      "pinyin": "rén cái huì shā rén。",
+      "words": [
+        {
+          "ch": "人",
+          "en": "people",
+          "pi": "rén"
+        },
+        {
+          "ch": "才会",
+          "en": "kill",
+          "pi": "cái huì"
+        },
+        {
+          "ch": "杀人",
+          "en": "people",
+          "pi": "shā rén"
+        }
+      ]
+    }
+  ]
+}

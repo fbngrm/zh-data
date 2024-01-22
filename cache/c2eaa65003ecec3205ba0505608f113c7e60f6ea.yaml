@@ -1,0 +1,37 @@
+{
+  "chinese": "我们冰箱里有牛奶吗？",
+  "english": "Do we have milk in our refrigerator?",
+  "pinyin": "wǒmén bīngxiāng lǐ yǒu niúnǎi ma?",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmén"
+    },
+    {
+      "ch": "冰箱",
+      "en": "refrigerator",
+      "pi": "bīngxiāng"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "牛奶",
+      "en": "milk",
+      "pi": "niúnǎi"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chinese": "我們有一間五十美元一晚的單人房。",
+  "english": "We have a single room that costs fifty dollars per night.",
+  "pinyin": "wǒmen yǒu yī jiān wǔshí měiyuán yī wǎn de dānrén fáng.",
+  "words": [
+    {"ch": "我們", "en": "We", "pi": "wǒmen"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "一間", "en": "a", "pi": "yī jiān"},
+    {"ch": "五十", "en": "fifty", "pi": "wǔshí"},
+    {"ch": "美元", "en": "dollars", "pi": "měiyuán"},
+    {"ch": "一晚", "en": "per night", "pi": "yī wǎn"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "單人房", "en": "single room", "pi": "dānrén fáng"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我不知道他的姓。",
+  "english": "I don't know his last name.",
+  "pinyin": "wǒ bù zhīdào tā de xìng。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "姓",
+      "en": "last name",
+      "pi": "xìng"
+    }
+  ]
+}

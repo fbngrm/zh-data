@@ -1,0 +1,37 @@
+{
+  "chinese": "我的车出了点事。",
+  "english": "There's a little problem with my car.",
+  "pinyin": "wǒ de chē chū le diǎn shì.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "车",
+      "en": "car",
+      "pi": "chē"
+    },
+    {
+      "ch": "出",
+      "en": "out",
+      "pi": "chū"
+    },
+    {
+      "ch": "了",
+      "en": "past tense marker",
+      "pi": "le"
+    },
+    {
+      "ch": "点",
+      "en": "a little",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "事",
+      "en": "matter",
+      "pi": "shì"
+    }
+  ]
+}

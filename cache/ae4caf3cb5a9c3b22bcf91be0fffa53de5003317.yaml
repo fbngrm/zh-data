@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆没他哥有钱。",
+  "english": "Tom doesn't have as much money as his brother.",
+  "pinyin": "Tāngmǔ méi tāgē yǒuqián.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "没",
+      "en": "doesn't have",
+      "pi": "méi"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "哥",
+      "en": "brother",
+      "pi": "gē"
+    },
+    {
+      "ch": "有钱",
+      "en": "money",
+      "pi": "yǒuqián"
+    }
+  ]
+}

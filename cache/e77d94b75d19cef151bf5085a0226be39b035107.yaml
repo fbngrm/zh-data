@@ -1,0 +1,42 @@
+{
+  "chinese": "您专攻于中医的什么领域？",
+  "english": "What field of traditional Chinese medicine do you specialize in?",
+  "pinyin": "nín zhuān gōng yú zhōng yī de shén me lǐng yù?",
+  "words": [
+    {
+      "ch": "您",
+      "en": "You",
+      "pi": "nín"
+    },
+    {
+      "ch": "专攻",
+      "en": "Specialize in",
+      "pi": "zhuān gōng"
+    },
+    {
+      "ch": "于",
+      "en": "In",
+      "pi": "yú"
+    },
+    {
+      "ch": "中医",
+      "en": "Traditional Chinese Medicine",
+      "pi": "zhōng yī"
+    },
+    {
+      "ch": "的",
+      "en": "Of",
+      "pi": "de"
+    },
+    {
+      "ch": "什么",
+      "en": "What",
+      "pi": "shén me"
+    },
+    {
+      "ch": "领域",
+      "en": "Field",
+      "pi": "lǐng yù"
+    }
+  ]
+}

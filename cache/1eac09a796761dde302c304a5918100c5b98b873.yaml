@@ -1,0 +1,37 @@
+{
+  "chinese": "她买的东西很昂贵。",
+  "english": "The things she bought are very expensive.",
+  "pinyin": "tā mǎi de dōngxi hěn ángguì.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "买",
+      "en": "buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "的",
+      "en": "particle indicating possession",
+      "pi": "de"
+    },
+    {
+      "ch": "东西",
+      "en": "things",
+      "pi": "dōngxi"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "昂贵",
+      "en": "expensive",
+      "pi": "ángguì"
+    }
+  ]
+}

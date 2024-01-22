@@ -1,0 +1,32 @@
+{
+  "chinese": "你书架上的书太多了。",
+  "english": "You have too many books on your bookshelf.",
+  "pinyin": "nǐ shūjià shàng de shū tài duō le。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "书架上",
+      "en": "on the bookshelf",
+      "pi": "shūjià shàng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "书",
+      "en": "books",
+      "pi": "shū"
+    },
+    {
+      "ch": "太多了",
+      "en": "too many",
+      "pi": "tài duō le"
+    }
+  ]
+}

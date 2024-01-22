@@ -1,0 +1,32 @@
+{
+  "chinese": "我知道汤姆饿了。",
+  "english": "I know Tom is hungry.",
+  "pinyin": "wǒ zhīdào tāng mǔ è le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "饿",
+      "en": "hungry",
+      "pi": "è"
+    },
+    {
+      "ch": "了",
+      "en": "is",
+      "pi": "le"
+    }
+  ]
+}

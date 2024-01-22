@@ -1,0 +1,32 @@
+{
+  "chinese": "我的家在公园南边",
+  "english": "My home is on the south side of the park.",
+  "pinyin": "wǒ de jiā zài gōngyuán nánbiān",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "My",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "家",
+      "en": "home",
+      "pi": "jiā"
+    },
+    {
+      "ch": "在",
+      "en": "is/on",
+      "pi": "zài"
+    },
+    {
+      "ch": "公园",
+      "en": "park",
+      "pi": "gōngyuán"
+    },
+    {
+      "ch": "南边",
+      "en": "south side",
+      "pi": "nánbiān"
+    }
+  ]
+}

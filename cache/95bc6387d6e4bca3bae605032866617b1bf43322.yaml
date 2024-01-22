@@ -1,0 +1,32 @@
+{
+  "chinese": "凯特几乎不会说中文。",
+  "english": "Kate can hardly speak Chinese.",
+  "pinyin": "Kǎi tè jī hū bú huì shuō zhōng wén.",
+  "words": [
+    {
+      "ch": "凯特",
+      "en": "Kate",
+      "pi": "Kǎi tè"
+    },
+    {
+      "ch": "几乎",
+      "en": "hardly",
+      "pi": "jī hū"
+    },
+    {
+      "ch": "不会",
+      "en": "cannot",
+      "pi": "bú huì"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "中文",
+      "en": "Chinese",
+      "pi": "zhōng wén"
+    }
+  ]
+}

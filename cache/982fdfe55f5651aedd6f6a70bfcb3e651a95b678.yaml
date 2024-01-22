@@ -1,0 +1,27 @@
+{
+  "chinese": "一年有十二个月，一个月有四个星期，一个星期有七天。",
+  "english": "There are twelve months in a year, four weeks in a month, and seven days in a week.",
+  "pinyin": "Yī nián yǒu shí'èr gè yuè, yī gè yuè yǒu sì gè xīngqī, yī gè xīngqī yǒu qī tiān.",
+  "words": [
+    {"ch": "一", "en": "one", "pi": "yī"},
+    {"ch": "年", "en": "year", "pi": "nián"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "十二", "en": "twelve", "pi": "shí'èr"},
+    {"ch": "个", "en": "measure word", "pi": "gè"},
+    {"ch": "月", "en": "month", "pi": "yuè"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "一个", "en": "one", "pi": "yī gè"},
+    {"ch": "月", "en": "month", "pi": "yuè"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "四", "en": "four", "pi": "sì"},
+    {"ch": "个", "en": "measure word", "pi": "gè"},
+    {"ch": "星期", "en": "week", "pi": "xīngqī"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "一个", "en": "one", "pi": "yī gè"},
+    {"ch": "星期", "en": "week", "pi": "xīngqī"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "七", "en": "seven", "pi": "qī"},
+    {"ch": "天", "en": "day", "pi": "tiān"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

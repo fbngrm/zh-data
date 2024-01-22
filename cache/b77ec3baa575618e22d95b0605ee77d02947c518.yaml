@@ -1,0 +1,27 @@
+{
+  "chinese": "你有医疗保险吗？",
+  "english": "Do you have medical insurance?",
+  "pinyin": "Nǐ yǒu yīliáo bǎoxiǎn ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "医疗保险",
+      "en": "medical insurance",
+      "pi": "yīliáo bǎoxiǎn"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

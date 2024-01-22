@@ -1,0 +1,32 @@
+{
+  "chinese": "小孩從床上掉了下來。",
+  "english": "The child fell off the bed.",
+  "pinyin": "xiǎo hái cóng chuáng shàng diào le xià lái。",
+  "words": [
+    {
+      "ch": "小孩",
+      "en": "child",
+      "pi": "xiǎo hái"
+    },
+    {
+      "ch": "從",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "床上",
+      "en": "bed",
+      "pi": "chuáng shàng"
+    },
+    {
+      "ch": "掉了",
+      "en": "fell",
+      "pi": "diào le"
+    },
+    {
+      "ch": "下來",
+      "en": "off",
+      "pi": "xià lái"
+    }
+  ]
+}

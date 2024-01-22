@@ -1,0 +1,32 @@
+{
+  "chinese": "你的手表比我的贵。",
+  "english": "Your watch is more expensive than mine.",
+  "pinyin": "nǐ de shǒubiǎo bǐ wǒ de guì.",
+  "words": [
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "手表",
+      "en": "watch",
+      "pi": "shǒubiǎo"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "我的",
+      "en": "mine",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "贵",
+      "en": "expensive",
+      "pi": "guì"
+    }
+  ]
+}

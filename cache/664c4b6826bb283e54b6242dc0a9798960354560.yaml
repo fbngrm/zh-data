@@ -1,0 +1,14 @@
+{
+  "chinese": "请告诉我去ＸＹＺ的路。",
+  "english": "Please tell me the way to XYZ.",
+  "pinyin": "qǐng gàosu wǒ qù XYZ de lù.",
+  "words": [
+    {"ch": "请", "en": "please", "pi": "qǐng"},
+    {"ch": "告诉", "en": "tell", "pi": "gàosu"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "去", "en": "to", "pi": "qù"},
+    {"ch": "ＸＹＺ", "en": "XYZ", "pi": "XYZ"},
+    {"ch": "的", "en": "the", "pi": "de"},
+    {"ch": "路", "en": "way", "pi": "lù"}
+  ]
+}

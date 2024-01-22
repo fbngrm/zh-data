@@ -1,0 +1,32 @@
+{
+  "chinese": "这不算犯错误。",
+  "english": "This doesn't count as a mistake.",
+  "pinyin": "zhè bù suàn fàn cuòwù.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "算",
+      "en": "count",
+      "pi": "suàn"
+    },
+    {
+      "ch": "犯",
+      "en": "commit",
+      "pi": "fàn"
+    },
+    {
+      "ch": "错误",
+      "en": "mistake",
+      "pi": "cuòwù"
+    }
+  ]
+}

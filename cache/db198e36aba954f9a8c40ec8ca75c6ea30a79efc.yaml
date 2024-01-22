@@ -1,0 +1,17 @@
+{
+  "chinese": "他對我說：「請你幫我一個忙。」",
+  "english": "He said to me, 'Please help me out.'",
+  "pinyin": "Tā duì wǒ shuō: 'Qǐng nǐ bāng wǒ yīgè máng.'",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "對", "en": "to", "pi": "duì"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "說", "en": "said", "pi": "shuō"},
+    {"ch": "請", "en": "please", "pi": "qǐng"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "幫", "en": "help", "pi": "bāng"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "一個", "en": "one", "pi": "yīgè"},
+    {"ch": "忙", "en": "favor", "pi": "máng"}
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "你住在東京,不是嗎?",
+  "english": "You live in Tokyo, don't you?",
+  "pinyin": "nǐ zhù zài dōng jīng, bú shì ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "住",
+      "en": "live",
+      "pi": "zhù"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "東京",
+      "en": "Tokyo",
+      "pi": "dōng jīng"
+    },
+    {
+      "ch": "不是",
+      "en": "don't",
+      "pi": "bú shì"
+    },
+    {
+      "ch": "嗎",
+      "en": "do you?",
+      "pi": "ma"
+    }
+  ]
+}

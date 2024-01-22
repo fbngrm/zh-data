@@ -1,0 +1,13 @@
+{
+   "chinese": "你想要一杯茶吗？",
+   "english": "Do you want a cup of tea?",
+   "pinyin": "nǐ xiǎng yào yī bēi chá ma?",
+   "words": [
+      {"ch": "你", "en": "you", "pi": "nǐ"},
+      {"ch": "想要", "en": "want", "pi": "xiǎng yào"},
+      {"ch": "一", "en": "a", "pi": "yī"},
+      {"ch": "杯", "en": "cup", "pi": "bēi"},
+      {"ch": "茶", "en": "tea", "pi": "chá"},
+      {"ch": "吗", "en": "?", "pi": "ma"}
+   ]
+}

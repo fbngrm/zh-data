@@ -1,0 +1,42 @@
+{
+  "chinese": "这只动物比那只大。",
+  "english": "This animal is bigger than that one.",
+  "pinyin": "zhè zhī dòngwù bǐ nà zhī dà.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "只",
+      "en": "animal",
+      "pi": "zhī"
+    },
+    {
+      "ch": "动物",
+      "en": "is",
+      "pi": "dòngwù"
+    },
+    {
+      "ch": "比",
+      "en": "bigger",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "那",
+      "en": "than",
+      "pi": "nà"
+    },
+    {
+      "ch": "只",
+      "en": "that",
+      "pi": "zhī"
+    },
+    {
+      "ch": "大",
+      "en": "one",
+      "pi": "dà"
+    }
+  ]
+}

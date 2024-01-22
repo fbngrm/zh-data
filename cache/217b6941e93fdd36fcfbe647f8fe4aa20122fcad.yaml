@@ -1,0 +1,15 @@
+{
+  "chinese": "他是我太太认识的一个人。",
+  "english": "He is someone that my wife knows.",
+  "pinyin": "Tā shì wǒ tàitai rènshí de yīgè rén。",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "Tā"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "太太", "en": "wife", "pi": "tàitai"},
+    {"ch": "认识", "en": "knows", "pi": "rènshí"},
+    {"ch": "的", "en": "that", "pi": "de"},
+    {"ch": "一个", "en": "someone", "pi": "yīgè"},
+    {"ch": "人", "en": "person", "pi": "rén"}
+  ]
+}

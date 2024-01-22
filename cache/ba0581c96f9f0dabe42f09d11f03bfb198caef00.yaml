@@ -1,0 +1,42 @@
+{
+  "chinese": "你有零钱换一元美金吗？",
+  "english": "Do you have change for one US dollar?",
+  "pinyin": "nǐ yǒu líng qián huàn yī yuán měi jīn ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "零钱",
+      "en": "change",
+      "pi": "líng qián"
+    },
+    {
+      "ch": "换",
+      "en": "exchange",
+      "pi": "huàn"
+    },
+    {
+      "ch": "一元",
+      "en": "one yuan",
+      "pi": "yī yuán"
+    },
+    {
+      "ch": "美金",
+      "en": "US dollar",
+      "pi": "měi jīn"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

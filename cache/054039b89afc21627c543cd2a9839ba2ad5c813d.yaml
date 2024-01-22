@@ -1,0 +1,37 @@
+{
+   "chinese": "这不是汤姆要的吗？",
+   "english": "Isn't this what Tom wants?",
+   "pinyin": "zhè bú shì tāng mǔ yào de ma?",
+   "words": [
+      {
+         "ch": "这",
+         "en": "this",
+         "pi": "zhè"
+      },
+      {
+         "ch": "不是",
+         "en": "isn't",
+         "pi": "bú shì"
+      },
+      {
+         "ch": "汤姆",
+         "en": "Tom",
+         "pi": "tāng mǔ"
+      },
+      {
+         "ch": "要",
+         "en": "want",
+         "pi": "yào"
+      },
+      {
+         "ch": "的",
+         "en": "what",
+         "pi": "de"
+      },
+      {
+         "ch": "吗",
+         "en": "?",
+         "pi": "ma"
+      }
+   ]
+}

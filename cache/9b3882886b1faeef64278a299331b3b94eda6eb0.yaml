@@ -1,0 +1,32 @@
+{
+  "chinese": "我喝了两杯咖啡。",
+  "english": "I drank two cups of coffee.",
+  "pinyin": "Wǒ hēle liǎng bēi kāfēi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "Wǒ"
+    },
+    {
+      "ch": "喝了",
+      "en": "drank",
+      "pi": "hēle"
+    },
+    {
+      "ch": "两",
+      "en": "two",
+      "pi": "liǎng"
+    },
+    {
+      "ch": "杯",
+      "en": "cups",
+      "pi": "bēi"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kāfēi"
+    }
+  ]
+}

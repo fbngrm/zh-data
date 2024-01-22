@@ -1,0 +1,13 @@
+{
+  "chinese": "他试图游过河，但是失败了。",
+  "english": "He tried to swim across the river, but failed.",
+  "pinyin": "tā shìtú yóu guò hé, dànshì shībàile。",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "试图", "en": "tried", "pi": "shìtú"},
+    {"ch": "游过", "en": "to swim across", "pi": "yóu guò"},
+    {"ch": "河", "en": "river", "pi": "hé"},
+    {"ch": "但是", "en": "but", "pi": "dànshì"},
+    {"ch": "失败了", "en": "failed", "pi": "shībàile"}
+  ]
+}

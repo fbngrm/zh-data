@@ -1,0 +1,47 @@
+{
+  "chinese": "他的英语说得真流利啊！",
+  "english": "He speaks English fluently!",
+  "pinyin": "tā de yīngyǔ shuō dé zhēn liúlì a!",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīngyǔ"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "得",
+      "en": "adverbial particle",
+      "pi": "de"
+    },
+    {
+      "ch": "真",
+      "en": "really",
+      "pi": "zhēn"
+    },
+    {
+      "ch": "流利",
+      "en": "fluent",
+      "pi": "liúlì"
+    },
+    {
+      "ch": "啊",
+      "en": "ah",
+      "pi": "a"
+    }
+  ]
+}

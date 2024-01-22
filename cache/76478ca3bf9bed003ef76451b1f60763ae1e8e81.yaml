@@ -1,0 +1,32 @@
+{
+  "chinese": "玛丽长得像她妈妈。",
+  "english": "Mary looks like her mother.",
+  "pinyin": "Mǎlì zhǎng dé xiàng tā māma.",
+  "words": [
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎlì"
+    },
+    {
+      "ch": "长得",
+      "en": "looks like",
+      "pi": "zhǎng dé"
+    },
+    {
+      "ch": "像",
+      "en": "like",
+      "pi": "xiàng"
+    },
+    {
+      "ch": "她",
+      "en": "her",
+      "pi": "tā"
+    },
+    {
+      "ch": "妈妈",
+      "en": "mother",
+      "pi": "māma"
+    }
+  ]
+}

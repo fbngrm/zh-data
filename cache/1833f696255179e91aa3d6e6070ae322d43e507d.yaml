@@ -1,0 +1,13 @@
+{
+  "chinese": "我是这房子的主人。",
+  "english": "I am the owner of this house.",
+  "pinyin": "wǒ shì zhè fángzi de zhǔrén。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "是", "en": "am", "pi": "shì"},
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "房子", "en": "house", "pi": "fángzi"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "主人", "en": "owner", "pi": "zhǔrén"}
+  ]
+}

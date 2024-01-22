@@ -1,0 +1,32 @@
+{
+  "chinese": "他擅长解答数学难题。",
+  "english": "He is good at solving difficult math problems.",
+  "pinyin": "tā shàncháng jiědá shùxué nántí.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "擅长",
+      "en": "good at",
+      "pi": "shàncháng"
+    },
+    {
+      "ch": "解答",
+      "en": "solve",
+      "pi": "jiědá"
+    },
+    {
+      "ch": "数学",
+      "en": "math",
+      "pi": "shùxué"
+    },
+    {
+      "ch": "难题",
+      "en": "difficult problem",
+      "pi": "nántí"
+    }
+  ]
+}

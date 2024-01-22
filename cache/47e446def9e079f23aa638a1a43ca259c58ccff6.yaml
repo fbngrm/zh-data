@@ -1,0 +1,15 @@
+{
+  "chinese": "两碗酸辣汤，不要放味精。",
+  "english": "Two bowls of hot and sour soup, no MSG please.",
+  "pinyin": "liǎng wǎn suān là tāng, bú yào fàng wèi jīng。",
+  "words": [
+    {"ch": "两", "en": "two", "pi": "liǎng"},
+    {"ch": "碗", "en": "bowls", "pi": "wǎn"},
+    {"ch": "酸辣汤", "en": "hot and sour soup", "pi": "suān là tāng"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "不要", "en": "no", "pi": "bú yào"},
+    {"ch": "放", "en": "put", "pi": "fàng"},
+    {"ch": "味精", "en": "MSG", "pi": "wèi jīng"},
+    {"ch": "。", "en": "please", "pi": ""}
+  ]
+}

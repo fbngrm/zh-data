@@ -1,0 +1,37 @@
+{
+  "chinese": "你院子里有桌子吗?",
+  "english": "Do you have a table in your yard?",
+  "pinyin": "nǐ yuànzi lǐ yǒu zhuōzi ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "院子",
+      "en": "yard",
+      "pi": "yuànzi"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "桌子",
+      "en": "table",
+      "pi": "zhuōzi"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

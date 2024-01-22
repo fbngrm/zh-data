@@ -1,0 +1,37 @@
+{
+  "chinese": "这件衬衫跟那条领带不搭。",
+  "english": "This shirt doesn't match that tie.",
+  "pinyin": "zhè jiàn chèn shān gēn nà tiáo lǐng dài bù dā.",
+  "words": [
+    {
+      "ch": "这件",
+      "en": "this",
+      "pi": "zhè jiàn"
+    },
+    {
+      "ch": "衬衫",
+      "en": "shirt",
+      "pi": "chèn shān"
+    },
+    {
+      "ch": "跟",
+      "en": "with",
+      "pi": "gēn"
+    },
+    {
+      "ch": "那条",
+      "en": "that",
+      "pi": "nà tiáo"
+    },
+    {
+      "ch": "领带",
+      "en": "tie",
+      "pi": "lǐng dài"
+    },
+    {
+      "ch": "不搭",
+      "en": "not match",
+      "pi": "bù dā"
+    }
+  ]
+}

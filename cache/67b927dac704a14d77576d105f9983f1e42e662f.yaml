@@ -1,0 +1,37 @@
+{
+  "chinese": "這本字典是誰的？",
+  "english": "Whose dictionary is this?",
+  "pinyin": "zhè běn zì diǎn shì shéi de?",
+  "words": [
+    {
+      "ch": "這",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "字典",
+      "en": "dictionary",
+      "pi": "zì diǎn"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "誰",
+      "en": "whose",
+      "pi": "shéi"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    }
+  ]
+}

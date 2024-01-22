@@ -1,0 +1,15 @@
+{
+  "chinese": "强森先生的房间是一个大房间。",
+  "english": "Mr. Johnson's room is a big room.",
+  "pinyin": "qiáng sēn xiān shēng de fáng jiān shì yī gè dà fáng jiān.",
+  "words": [
+    { "ch": "强森", "en": "Mr. Johnson", "pi": "qiáng sēn" },
+    { "ch": "先生", "en": "Mr.", "pi": "xiān shēng" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "房间", "en": "room", "pi": "fáng jiān" },
+    { "ch": "是", "en": "is", "pi": "shì" },
+    { "ch": "一个", "en": "a", "pi": "yī gè" },
+    { "ch": "大", "en": "big", "pi": "dà" },
+    { "ch": "房间", "en": "room", "pi": "fáng jiān" }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "是我说的吗？",
+  "english": "Is it what I said?",
+  "pinyin": "shì wǒ shuō de ma?",
+  "words": [
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "说",
+      "en": "said",
+      "pi": "shuō"
+    },
+    {
+      "ch": "的",
+      "en": "what",
+      "pi": "de"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

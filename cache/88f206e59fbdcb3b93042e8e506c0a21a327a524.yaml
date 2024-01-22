@@ -1,0 +1,32 @@
+{
+  "chinese": "我记得这张地图。",
+  "english": "I remember this map.",
+  "pinyin": "wǒ jìde zhè zhāng dìtú.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "记得",
+      "en": "remember",
+      "pi": "jìde"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "张",
+      "en": "measure word for flat objects",
+      "pi": "zhāng"
+    },
+    {
+      "ch": "地图",
+      "en": "map",
+      "pi": "dìtú"
+    }
+  ]
+}

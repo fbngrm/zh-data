@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆住在这里。",
+  "english": "Tom lives here.",
+  "pinyin": "Tāng mǔ zhù zài zhèlǐ.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "住",
+      "en": "live",
+      "pi": "zhù"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhèlǐ"
+    }
+  ]
+}

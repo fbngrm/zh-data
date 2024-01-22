@@ -1,0 +1,32 @@
+{
+  "chinese": "你有四只狗。",
+  "english": "You have four dogs.",
+  "pinyin": "nǐ yǒu sì zhī gǒu.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "四",
+      "en": "four",
+      "pi": "sì"
+    },
+    {
+      "ch": "只",
+      "en": "measure word for animals",
+      "pi": "zhī"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    }
+  ]
+}

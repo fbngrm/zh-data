@@ -1,0 +1,32 @@
+{
+  "chinese": "您要什么样的房间?",
+  "english": "What type of room would you like?",
+  "pinyin": "Nín yào shénme yàng de fángjiān?",
+  "words": [
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "什么样",
+      "en": "what type",
+      "pi": "shénme yàng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "房间",
+      "en": "room",
+      "pi": "fángjiān"
+    }
+  ]
+}

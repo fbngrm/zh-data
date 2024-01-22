@@ -1,0 +1,37 @@
+{
+  "chinese": "牛在牧地上吃草。",
+  "english": "The cow is eating grass in the pasture.",
+  "pinyin": "niú zài mù dì shàng chī cǎo.",
+  "words": [
+    {
+      "ch": "牛",
+      "en": "cow",
+      "pi": "niú"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "牧地",
+      "en": "pasture",
+      "pi": "mù dì"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "吃",
+      "en": "eating",
+      "pi": "chī"
+    },
+    {
+      "ch": "草",
+      "en": "grass",
+      "pi": "cǎo"
+    }
+  ]
+}

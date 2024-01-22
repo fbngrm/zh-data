@@ -1,0 +1,37 @@
+{
+  "chinese": "下午的火车不要错过！",
+  "english": "Don't miss the afternoon train!",
+  "pinyin": "xiàwǔ de huǒchē bùyào cuòguò!",
+  "words": [
+    {
+      "ch": "下午",
+      "en": "afternoon",
+      "pi": "xiàwǔ"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒchē"
+    },
+    {
+      "ch": "不要",
+      "en": "don't",
+      "pi": "bùyào"
+    },
+    {
+      "ch": "错过",
+      "en": "miss",
+      "pi": "cuòguò"
+    },
+    {
+      "ch": "！",
+      "en": "!",
+      "pi": ""
+    }
+  ]
+}

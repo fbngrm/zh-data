@@ -1,0 +1,32 @@
+{
+  "chinese": "我的朋友十七岁了。",
+  "english": "My friend is seventeen years old.",
+  "pinyin": "Wǒ de péngyǒu shíqī suì le.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "朋友",
+      "en": "friend",
+      "pi": "péngyǒu"
+    },
+    {
+      "ch": "十七",
+      "en": "seventeen",
+      "pi": "shíqī"
+    },
+    {
+      "ch": "岁",
+      "en": "years old",
+      "pi": "suì"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

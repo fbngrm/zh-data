@@ -1,0 +1,37 @@
+{
+  "chinese": "我今天走了十公里",
+  "english": "I walked ten kilometers today",
+  "pinyin": "wǒ jīntiān zǒule shí gōnglǐ",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "走",
+      "en": "walk",
+      "pi": "zǒu"
+    },
+    {
+      "ch": "了",
+      "en": "past tense particle",
+      "pi": "le"
+    },
+    {
+      "ch": "十",
+      "en": "ten",
+      "pi": "shí"
+    },
+    {
+      "ch": "公里",
+      "en": "kilometers",
+      "pi": "gōnglǐ"
+    }
+  ]
+}

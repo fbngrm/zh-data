@@ -1,0 +1,27 @@
+{
+  "chinese": "昨晚你在家吗？",
+  "english": "Were you at home last night?",
+  "pinyin": "zuó wǎn nǐ zài jiā ma?",
+  "words": [
+    {
+      "ch": "昨晚",
+      "en": "last night",
+      "pi": "zuó wǎn"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "在家",
+      "en": "at home",
+      "pi": "zài jiā"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

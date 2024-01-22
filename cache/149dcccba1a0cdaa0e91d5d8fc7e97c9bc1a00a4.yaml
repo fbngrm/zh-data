@@ -1,0 +1,27 @@
+{
+  "chinese": "有人跟我说这件事。",
+  "english": "Someone told me about this.",
+  "pinyin": "yǒu rén gēn wǒ shuō zhè jiàn shì。",
+  "words": [
+    {
+      "ch": "有人",
+      "en": "Someone",
+      "pi": "yǒu rén"
+    },
+    {
+      "ch": "跟我",
+      "en": "told me",
+      "pi": "gēn wǒ"
+    },
+    {
+      "ch": "说",
+      "en": "about",
+      "pi": "shuō"
+    },
+    {
+      "ch": "这件事",
+      "en": "this",
+      "pi": "zhè jiàn shì"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "她的妈妈给她打电话。",
+  "english": "Her mother called her.",
+  "pinyin": "tā de māmā gěi tā dǎ diànhuà.",
+  "words": [
+    {
+      "ch": "她的",
+      "en": "Her",
+      "pi": "tā de"
+    },
+    {
+      "ch": "妈妈",
+      "en": "mother",
+      "pi": "māmā"
+    },
+    {
+      "ch": "给",
+      "en": "gave",
+      "pi": "gěi"
+    },
+    {
+      "ch": "她",
+      "en": "her",
+      "pi": "tā"
+    },
+    {
+      "ch": "打电话",
+      "en": "called",
+      "pi": "dǎ diànhuà"
+    }
+  ]
+}

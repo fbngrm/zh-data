@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆在哈佛学习。",
+  "english": "Tom is studying at Harvard.",
+  "pinyin": "Tāng mǔ zài Hāfó xuéxí.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "哈佛",
+      "en": "Harvard",
+      "pi": "Hāfó"
+    },
+    {
+      "ch": "学习",
+      "en": "studying",
+      "pi": "xuéxí"
+    }
+  ]
+}

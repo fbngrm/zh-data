@@ -1,0 +1,18 @@
+{
+  "chinese": "很有可能去掉C元素会得出同样的结果。",
+  "english": "It is very likely that removing the element C will yield the same result.",
+  "pinyin": "hěn yǒu kěnéng qù diào C yuánsù huì dé chū tóngyàng de jiéguǒ。",
+  "words": [
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "可能", "en": "likely", "pi": "kěnéng"},
+    {"ch": "去掉", "en": "remove", "pi": "qù diào"},
+    {"ch": "C", "en": "C", "pi": "C"},
+    {"ch": "元素", "en": "element", "pi": "yuánsù"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "得出", "en": "yield", "pi": "dé chū"},
+    {"ch": "同样", "en": "same", "pi": "tóngyàng"},
+    {"ch": "的", "en": "the", "pi": "de"},
+    {"ch": "结果", "en": "result", "pi": "jiéguǒ"}
+  ]
+}

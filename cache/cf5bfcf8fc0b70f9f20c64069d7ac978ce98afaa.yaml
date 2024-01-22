@@ -1,0 +1,37 @@
+{
+  "chinese": "五点以前你必须在车站。",
+  "english": "You must be at the station before five o'clock.",
+  "pinyin": "wǔ diǎn yǐqián nǐ bìxū zài chēzhàn.",
+  "words": [
+    {
+      "ch": "五点",
+      "en": "five o'clock",
+      "pi": "wǔ diǎn"
+    },
+    {
+      "ch": "以前",
+      "en": "before",
+      "pi": "yǐqián"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "必须",
+      "en": "must",
+      "pi": "bìxū"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "车站",
+      "en": "station",
+      "pi": "chēzhàn"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "约翰是我最好朋友。",
+  "english": "John is my best friend.",
+  "pinyin": "Yuēhàn shì wǒ zuì hǎo péngyǒu.",
+  "words": [
+    {
+      "ch": "约翰",
+      "en": "John",
+      "pi": "Yuēhàn"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我",
+      "en": "my",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "最好",
+      "en": "best",
+      "pi": "zuì hǎo"
+    },
+    {
+      "ch": "朋友",
+      "en": "friend",
+      "pi": "péngyǒu"
+    }
+  ]
+}

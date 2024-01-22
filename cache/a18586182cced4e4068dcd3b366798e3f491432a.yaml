@@ -1,0 +1,76 @@
+{
+  "sentences": [
+    {
+      "chinese": "你不介意我关窗吧？我有点着凉了。",
+      "english": "Do you mind if I close the window? I am feeling a little cold.",
+      "pinyin": "Nǐ bù jièyì wǒ guān chuāng ba? Wǒ yǒudiǎn zháo liáng le。",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "不",
+          "en": "not",
+          "pi": "bù"
+        },
+        {
+          "ch": "介意",
+          "en": "mind",
+          "pi": "jièyì"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "关",
+          "en": "close",
+          "pi": "guān"
+        },
+        {
+          "ch": "窗",
+          "en": "window",
+          "pi": "chuāng"
+        },
+        {
+          "ch": "吧",
+          "en": "if",
+          "pi": "ba"
+        },
+        {
+          "ch": "？",
+          "en": "?",
+          "pi": "？"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "有点",
+          "en": "a little",
+          "pi": "yǒudiǎn"
+        },
+        {
+          "ch": "着凉",
+          "en": "cold",
+          "pi": "zháo liáng"
+        },
+        {
+          "ch": "了",
+          "en": "already",
+          "pi": "le"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "汤姆真是愚蠢，是吧？",
+  "english": "Tom is really stupid, isn't he?",
+  "pinyin": "Tāng mǔ zhēn shì yú chǔn, shì ba?",
+  "words": [
+    { "ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ" },
+    { "ch": "真是", "en": "really", "pi": "zhēn shì" },
+    { "ch": "愚蠢", "en": "stupid", "pi": "yú chǔn" },
+    { "ch": "是", "en": "is", "pi": "shì" },
+    { "ch": "吧", "en": "isn't it", "pi": "ba" },
+    { "ch": "？", "en": "?" }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "不用客气，随便坐吧。",
+  "english": "You're welcome, please feel free to sit.",
+  "pinyin": "bù yòng kè qì, suí biàn zuò ba。",
+  "words": [
+    {
+      "ch": "不用",
+      "en": "You're welcome",
+      "pi": "bù yòng"
+    },
+    {
+      "ch": "客气",
+      "en": "polite",
+      "pi": "kè qì"
+    },
+    {
+      "ch": "随便",
+      "en": "feel free",
+      "pi": "suí biàn"
+    },
+    {
+      "ch": "坐",
+      "en": "sit",
+      "pi": "zuò"
+    },
+    {
+      "ch": "吧",
+      "en": "please",
+      "pi": "ba"
+    }
+  ]
+}

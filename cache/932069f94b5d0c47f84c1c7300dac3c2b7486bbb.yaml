@@ -1,0 +1,42 @@
+{
+  "chinese": "请为ImageViewer的界面选择语言。",
+  "english": "Please select the language for the ImageViewer interface.",
+  "pinyin": "qǐng wèi ImageViewer de jièmiàn xuǎnzé yǔyán.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "为",
+      "en": "for",
+      "pi": "wèi"
+    },
+    {
+      "ch": "ImageVieｗer",
+      "en": "ImageViewer",
+      "pi": "ImageViewer"
+    },
+    {
+      "ch": "的",
+      "en": "the",
+      "pi": "de"
+    },
+    {
+      "ch": "界面",
+      "en": "interface",
+      "pi": "jièmiàn"
+    },
+    {
+      "ch": "选择",
+      "en": "select",
+      "pi": "xuǎnzé"
+    },
+    {
+      "ch": "语言",
+      "en": "language",
+      "pi": "yǔyán"
+    }
+  ]
+}

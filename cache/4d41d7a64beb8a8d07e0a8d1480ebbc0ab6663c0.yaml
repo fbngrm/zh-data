@@ -1,0 +1,42 @@
+{
+  "chinese": "我看到了汤姆去他的家。",
+  "english": "I saw Tom go to his house.",
+  "pinyin": "wǒ kàn dào le tāng mǔ qù tā de jiā。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "看到",
+      "en": "saw",
+      "pi": "kàn dào"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "家",
+      "en": "house",
+      "pi": "jiā"
+    }
+  ]
+}

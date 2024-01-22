@@ -1,0 +1,32 @@
+{
+  "chinese": "我想让汤姆赢。",
+  "english": "I want Tom to win.",
+  "pinyin": "wǒ xiǎng ràng tāng mǔ yíng。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "让",
+      "en": "to",
+      "pi": "ràng"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "赢",
+      "en": "win",
+      "pi": "yíng"
+    }
+  ]
+}

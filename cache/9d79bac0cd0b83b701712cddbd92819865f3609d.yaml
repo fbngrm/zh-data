@@ -1,0 +1,32 @@
+{
+  "chinese": "电线被用来运送电力。",
+  "english": "The wires are used to transmit electricity.",
+  "pinyin": "diànxiàn bèi yòng lái yùnsòng diànlì。",
+  "words": [
+    {
+      "ch": "电线",
+      "en": "wires",
+      "pi": "diànxiàn"
+    },
+    {
+      "ch": "被",
+      "en": "are",
+      "pi": "bèi"
+    },
+    {
+      "ch": "用来",
+      "en": "used to",
+      "pi": "yòng lái"
+    },
+    {
+      "ch": "运送",
+      "en": "transmit",
+      "pi": "yùnsòng"
+    },
+    {
+      "ch": "电力",
+      "en": "electricity",
+      "pi": "diànlì"
+    }
+  ]
+}

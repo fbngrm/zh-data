@@ -1,0 +1,37 @@
+{
+  "chinese": "她在数学上不如他。",
+  "english": "She is not as good as him in math.",
+  "pinyin": "tā zài shù xué shàng bù rú tā。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "数学",
+      "en": "math",
+      "pi": "shù xué"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "不如",
+      "en": "not as good as",
+      "pi": "bù rú"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "她现在很忙，不能和你谈话。",
+  "english": "She is busy now and cannot talk to you.",
+  "pinyin": "tā xiàn zài hěn máng，bù néng hé nǐ tán huà。",
+  "words": [
+    {"ch": "她", "en": "She", "pi": "tā"},
+    {"ch": "现在", "en": "now", "pi": "xiàn zài"},
+    {"ch": "很忙", "en": "busy", "pi": "hěn máng"},
+    {"ch": "不能", "en": "cannot", "pi": "bù néng"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "谈话", "en": "talk", "pi": "tán huà"}
+  ]
+}

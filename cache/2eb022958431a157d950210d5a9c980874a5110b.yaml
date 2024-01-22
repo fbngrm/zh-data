@@ -1,0 +1,13 @@
+{
+  "chinese": "每個男孩都有一台自行車。",
+  "english": "Every boy has a bicycle.",
+  "pinyin": "měi gè nán hái dōu yǒu yī tái zì xíng chē。",
+  "words": [
+    {"ch": "每個", "en": "Every", "pi": "měi gè"},
+    {"ch": "男孩", "en": "boy", "pi": "nán hái"},
+    {"ch": "都", "en": "has", "pi": "dōu"},
+    {"ch": "有", "en": "a", "pi": "yǒu"},
+    {"ch": "一台", "en": "bicycle", "pi": "yī tái"},
+    {"ch": "自行車", "en": "bicycle", "pi": "zì xíng chē"}
+  ]
+}

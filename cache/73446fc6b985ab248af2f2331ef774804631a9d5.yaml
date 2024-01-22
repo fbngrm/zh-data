@@ -1,0 +1,15 @@
+{
+  "chinese": "我已经读完了所有哈利波特书。",
+  "english": "I have finished reading all the Harry Potter books.",
+  "pinyin": "wǒ yǐjīng dúwánle suǒyǒu Hālìbōtè shū.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "已经", "en": "have", "pi": "yǐjīng" },
+    { "ch": "读", "en": "read", "pi": "dú" },
+    { "ch": "完", "en": "finished", "pi": "wán" },
+    { "ch": "了", "en": "all", "pi": "le" },
+    { "ch": "所有", "en": "the", "pi": "suǒyǒu" },
+    { "ch": "哈利波特", "en": "Harry Potter", "pi": "Hālìbōtè" },
+    { "ch": "书", "en": "books", "pi": "shū" }
+  ]
+}

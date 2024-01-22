@@ -1,0 +1,32 @@
+{
+  "chinese": "你喜欢喝红酒吗？",
+  "english": "Do you like drinking red wine?",
+  "pinyin": "nǐ xǐhuān hē hóngjiǔ ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "喝",
+      "en": "drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "红酒",
+      "en": "red wine",
+      "pi": "hóngjiǔ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

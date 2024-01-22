@@ -1,0 +1,37 @@
+{
+  "chinese": "对不起，我没有听见你说话。",
+  "english": "Sorry, I didn't hear what you said.",
+  "pinyin": "duì bù qǐ, wǒ méi yǒu tīng jiàn nǐ shuō huà.",
+  "words": [
+    {
+      "ch": "对不起",
+      "en": "Sorry",
+      "pi": "duì bù qǐ"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "没有",
+      "en": "didn't have",
+      "pi": "méi yǒu"
+    },
+    {
+      "ch": "听见",
+      "en": "hear",
+      "pi": "tīng jiàn"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "说话",
+      "en": "say",
+      "pi": "shuō huà"
+    }
+  ]
+}

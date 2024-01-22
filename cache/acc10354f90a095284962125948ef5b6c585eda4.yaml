@@ -1,0 +1,32 @@
+{
+  "chinese": "你六点起床吗？",
+  "english": "Do you wake up at 6 o'clock?",
+  "pinyin": "nǐ liù diǎn qǐ chuáng ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "六",
+      "en": "six",
+      "pi": "liù"
+    },
+    {
+      "ch": "点",
+      "en": "o'clock",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "起床",
+      "en": "wake up",
+      "pi": "qǐ chuáng"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

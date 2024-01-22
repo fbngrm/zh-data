@@ -1,0 +1,32 @@
+{
+  "chinese": "明天我一整天都有空。",
+  "english": "I am free the whole day tomorrow.",
+  "pinyin": "míng tiān wǒ yī zhěng tiān dōu yǒu kòng.",
+  "words": [
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "一整天",
+      "en": "the whole day",
+      "pi": "yī zhěng tiān"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "有空",
+      "en": "be free",
+      "pi": "yǒu kòng"
+    }
+  ]
+}

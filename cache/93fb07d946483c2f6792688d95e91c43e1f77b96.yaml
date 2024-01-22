@@ -1,0 +1,32 @@
+{
+  "chinese": "天气很快就会回暖吧。",
+  "english": "The weather will warm up soon, right?",
+  "pinyin": "tiān qì hěn kuài jiù huì huí nuǎn ba.",
+  "words": [
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiān qì"
+    },
+    {
+      "ch": "很快",
+      "en": "soon",
+      "pi": "hěn kuài"
+    },
+    {
+      "ch": "就会",
+      "en": "will",
+      "pi": "jiù huì"
+    },
+    {
+      "ch": "回暖",
+      "en": "warm up",
+      "pi": "huí nuǎn"
+    },
+    {
+      "ch": "吧",
+      "en": "right?",
+      "pi": "ba"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我计算机的电池没电了。",
+  "english": "The battery of my computer is dead.",
+  "pinyin": "wǒ jìsuànjī de diànchí méi diànle.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "计算机",
+      "en": "computer",
+      "pi": "jìsuànjī"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "电池",
+      "en": "battery",
+      "pi": "diànchí"
+    },
+    {
+      "ch": "没",
+      "en": "no",
+      "pi": "méi"
+    },
+    {
+      "ch": "电",
+      "en": "electricity",
+      "pi": "diàn"
+    },
+    {
+      "ch": "了",
+      "en": "to be finished",
+      "pi": "le"
+    }
+  ]
+}

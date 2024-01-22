@@ -1,0 +1,37 @@
+{
+  "chinese": "我不会弹琴，不过她会。",
+  "english": "I can't play the piano, but she can.",
+  "pinyin": "wǒ bù huì tán qín, bú guò tā huì。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不会",
+      "en": "can't",
+      "pi": "bù huì"
+    },
+    {
+      "ch": "弹琴",
+      "en": "play the piano",
+      "pi": "tán qín"
+    },
+    {
+      "ch": "不过",
+      "en": "but",
+      "pi": "bú guò"
+    },
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    }
+  ]
+}

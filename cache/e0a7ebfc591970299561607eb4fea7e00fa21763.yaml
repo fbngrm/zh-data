@@ -1,0 +1,57 @@
+{
+  "chinese": "这辆车每升油能跑十三公里。",
+  "english": "This car can run thirteen kilometers per liter of fuel.",
+  "pinyin": "zhè liàng chē měi shēng yóu néng pǎo shí sān gōng lǐ。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "辆",
+      "en": "car",
+      "pi": "liàng"
+    },
+    {
+      "ch": "车",
+      "en": "can",
+      "pi": "chē"
+    },
+    {
+      "ch": "每",
+      "en": "per",
+      "pi": "měi"
+    },
+    {
+      "ch": "升",
+      "en": "liter",
+      "pi": "shēng"
+    },
+    {
+      "ch": "油",
+      "en": "fuel",
+      "pi": "yóu"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "跑",
+      "en": "run",
+      "pi": "pǎo"
+    },
+    {
+      "ch": "十三",
+      "en": "thirteen",
+      "pi": "shí sān"
+    },
+    {
+      "ch": "公里",
+      "en": "kilometers",
+      "pi": "gōng lǐ"
+    }
+  ]
+}

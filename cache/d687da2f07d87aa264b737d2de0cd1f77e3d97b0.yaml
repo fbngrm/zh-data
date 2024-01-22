@@ -1,0 +1,42 @@
+{
+  "chinese": "这项工作已经完成了一半。",
+  "english": "This job is already halfway done.",
+  "pinyin": "zhè xiàng gōngzuò yǐjīng wánchéngle yībàn。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "项",
+      "en": "job",
+      "pi": "xiàng"
+    },
+    {
+      "ch": "工作",
+      "en": "work",
+      "pi": "gōngzuò"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐjīng"
+    },
+    {
+      "ch": "完成",
+      "en": "finished",
+      "pi": "wánchéng"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "一半",
+      "en": "half",
+      "pi": "yībàn"
+    }
+  ]
+}

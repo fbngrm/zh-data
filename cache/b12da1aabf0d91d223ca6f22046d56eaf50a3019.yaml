@@ -1,0 +1,37 @@
+{
+  "chinese": "最近都发生了哪些事？",
+  "english": "What has happened recently?",
+  "pinyin": "zuì jìn dōu fā shēng le nǎ xiē shì?",
+  "words": [
+    {
+      "ch": "最近",
+      "en": "recently",
+      "pi": "zuì jìn"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "发生",
+      "en": "happen",
+      "pi": "fā shēng"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "哪些",
+      "en": "which",
+      "pi": "nǎ xiē"
+    },
+    {
+      "ch": "事",
+      "en": "thing",
+      "pi": "shì"
+    }
+  ]
+}

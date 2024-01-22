@@ -1,0 +1,11 @@
+{
+  "chinese": "他抓住了绳子。",
+  "english": "He grabbed the rope.",
+  "pinyin": "tā zhuā zhù le shéng zi。",
+  "words": [
+    { "ch": "他", "en": "he", "pi": "tā" },
+    { "ch": "抓住", "en": "grab", "pi": "zhuā zhù" },
+    { "ch": "了", "en": "past tense marker", "pi": "le" },
+    { "ch": "绳子", "en": "rope", "pi": "shéng zi" }
+  ]
+}

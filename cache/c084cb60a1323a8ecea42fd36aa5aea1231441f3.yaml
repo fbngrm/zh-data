@@ -1,0 +1,37 @@
+{
+  "chinese": "你要喝点茶吗？",
+  "english": "Would you like to have some tea?",
+  "pinyin": "nǐ yào hē diǎn chá ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "喝",
+      "en": "drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "点",
+      "en": "some",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "茶",
+      "en": "tea",
+      "pi": "chá"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

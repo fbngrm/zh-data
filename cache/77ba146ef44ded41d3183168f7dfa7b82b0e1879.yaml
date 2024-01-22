@@ -1,0 +1,32 @@
+{
+  "chinese": "昨晚我的自行车被偷了。",
+  "english": "Last night my bike was stolen.",
+  "pinyin": "Zuówǎn wǒ de zìxíngchē bèi tōule.",
+  "words": [
+    {
+      "ch": "昨晚",
+      "en": "Last night",
+      "pi": "zuówǎn"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "自行车",
+      "en": "bike",
+      "pi": "zìxíngchē"
+    },
+    {
+      "ch": "被",
+      "en": "was",
+      "pi": "bèi"
+    },
+    {
+      "ch": "偷了",
+      "en": "stolen",
+      "pi": "tōule"
+    }
+  ]
+}

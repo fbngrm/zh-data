@@ -1,0 +1,37 @@
+{
+  "chinese": "我刚吃完了早饭。",
+  "english": "I just finished breakfast.",
+  "pinyin": "wǒ gāng chī wán le zǎofàn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "刚",
+      "en": "just",
+      "pi": "gāng"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "完",
+      "en": "finished",
+      "pi": "wán"
+    },
+    {
+      "ch": "了",
+      "en": "了",
+      "pi": "le"
+    },
+    {
+      "ch": "早饭",
+      "en": "breakfast",
+      "pi": "zǎofàn"
+    }
+  ]
+}

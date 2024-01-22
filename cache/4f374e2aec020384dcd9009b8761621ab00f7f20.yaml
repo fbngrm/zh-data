@@ -1,0 +1,32 @@
+{
+  "chinese": "我不记得他的名字。",
+  "english": "I don't remember his name.",
+  "pinyin": "wǒ bù jìdé tā de míngzì.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "记得",
+      "en": "remember",
+      "pi": "jìdé"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míngzì"
+    }
+  ]
+}

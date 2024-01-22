@@ -1,0 +1,27 @@
+{
+  "chinese": "这是你的信。",
+  "english": "This is your letter.",
+  "pinyin": "zhè shì nǐ de xìn.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "信",
+      "en": "letter",
+      "pi": "xìn"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "你今天早上感觉如何？",
+  "english": "How do you feel this morning?",
+  "pinyin": "nǐ jīntiān zǎoshang gǎnjué rúhé?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎoshang"
+    },
+    {
+      "ch": "感觉",
+      "en": "feel",
+      "pi": "gǎnjué"
+    },
+    {
+      "ch": "如何",
+      "en": "how",
+      "pi": "rúhé"
+    }
+  ]
+}

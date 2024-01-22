@@ -1,0 +1,16 @@
+{
+  "chinese": "不要把书放在那张桌子上。",
+  "english": "Don't put the book on that table.",
+  "pinyin": "bù yào bǎ shū fàng zài nà zhāng zhuōzi shàng。",
+  "words": [
+    {"ch": "不要", "en": "Don't", "pi": "bù yào"},
+    {"ch": "把", "en": "put", "pi": "bǎ"},
+    {"ch": "书", "en": "book", "pi": "shū"},
+    {"ch": "放", "en": "on", "pi": "fàng"},
+    {"ch": "在", "en": "that", "pi": "zài"},
+    {"ch": "那", "en": "table", "pi": "nà"},
+    {"ch": "张", "en": "up", "pi": "zhāng"},
+    {"ch": "桌子", "en": "desk", "pi": "zhuōzi"},
+    {"ch": "上", "en": "above", "pi": "shàng"}
+  ]
+}

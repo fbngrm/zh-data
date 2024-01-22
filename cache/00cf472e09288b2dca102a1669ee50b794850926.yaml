@@ -1,0 +1,42 @@
+{
+  "chinese": "我不知道他叫甚麼名字。",
+  "english": "I don't know what his name is.",
+  "pinyin": "Wǒ bù zhīdào tā jiào shénme míngzì.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "叫",
+      "en": "call",
+      "pi": "jiào"
+    },
+    {
+      "ch": "甚麼",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míngzì"
+    }
+  ]
+}

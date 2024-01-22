@@ -1,0 +1,32 @@
+{
+  "chinese": "他小提琴拉得很好。",
+  "english": "He plays the violin very well.",
+  "pinyin": "tā xiǎo tí qín lā dé hěn hǎo。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "小提琴",
+      "en": "violin",
+      "pi": "xiǎo tí qín"
+    },
+    {
+      "ch": "拉",
+      "en": "plays",
+      "pi": "lā"
+    },
+    {
+      "ch": "得",
+      "en": "very",
+      "pi": "dé"
+    },
+    {
+      "ch": "很好",
+      "en": "well",
+      "pi": "hěn hǎo"
+    }
+  ]
+}

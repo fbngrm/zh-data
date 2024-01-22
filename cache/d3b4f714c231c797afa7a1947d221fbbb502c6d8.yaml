@@ -1,0 +1,37 @@
+{
+  "chinese": "这真的是个好天气。",
+  "english": "This is really good weather.",
+  "pinyin": "zhè zhēn de shì gè hǎo tiānqì.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "真的",
+      "en": "really",
+      "pi": "zhēn de"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiānqì"
+    }
+  ]
+}

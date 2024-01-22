@@ -1,0 +1,14 @@
+{
+  "chinese": "我小时候做错事就会被打屁股。",
+  "english": "When I was a child, I would get spanked for doing something wrong.",
+  "pinyin": "wǒ xiǎo shíhou zuò cuòshì jiù huì bèi dǎ pìgu.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "小时候", "en": "when I was a child", "pi": "xiǎo shíhou"},
+    {"ch": "做错事", "en": "doing something wrong", "pi": "zuò cuòshì"},
+    {"ch": "就会", "en": "would", "pi": "jiù huì"},
+    {"ch": "被", "en": "get", "pi": "bèi"},
+    {"ch": "打", "en": "spanked", "pi": "dǎ"},
+    {"ch": "屁股", "en": "butt", "pi": "pìgu"}
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我去车站的路上路过了市政厅。",
+  "english": "I passed the city hall on my way to the train station.",
+  "pinyin": "wǒ qù chē zhàn de lù shàng lùguò le shì zhèng tīng。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "去",
+      "en": "to go",
+      "pi": "qù"
+    },
+    {
+      "ch": "车站",
+      "en": "train station",
+      "pi": "chē zhàn"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "路上",
+      "en": "on the way",
+      "pi": "lù shàng"
+    },
+    {
+      "ch": "路过了",
+      "en": "passed",
+      "pi": "lùguò le"
+    },
+    {
+      "ch": "市政厅",
+      "en": "city hall",
+      "pi": "shì zhèng tīng"
+    }
+  ]
+}

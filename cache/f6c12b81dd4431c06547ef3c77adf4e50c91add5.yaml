@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "chinese": "今天我们去了商城。",
+      "english": "Today we went to the mall.",
+      "pinyin": "jīn tiān wǒ men qù le shāng chéng。",
+      "words": [
+        {
+          "ch": "今天",
+          "en": "Today",
+          "pi": "jīn tiān"
+        },
+        {
+          "ch": "我们",
+          "en": "we",
+          "pi": "wǒ men"
+        },
+        {
+          "ch": "去了",
+          "en": "went",
+          "pi": "qù le"
+        },
+        {
+          "ch": "商城",
+          "en": "mall",
+          "pi": "shāng chéng"
+        }
+      ]
+    },
+    {
+      "chinese": "我很无聊。",
+      "english": "I'm very bored.",
+      "pinyin": "wǒ hěn wú liáo。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "很",
+          "en": "very",
+          "pi": "hěn"
+        },
+        {
+          "ch": "无聊",
+          "en": "bored",
+          "pi": "wú liáo"
+        }
+      ]
+    }
+  ]
+}

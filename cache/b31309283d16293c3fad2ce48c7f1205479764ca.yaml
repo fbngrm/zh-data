@@ -1,0 +1,32 @@
+{
+  "chinese": "这家工厂生产电炉。",
+  "english": "This factory produces electric furnaces.",
+  "pinyin": "zhè jiā gōng chǎng shēng chǎn diàn lú.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "家",
+      "en": "factory",
+      "pi": "jiā"
+    },
+    {
+      "ch": "工厂",
+      "en": "factory",
+      "pi": "gōng chǎng"
+    },
+    {
+      "ch": "生产",
+      "en": "produce",
+      "pi": "shēng chǎn"
+    },
+    {
+      "ch": "电炉",
+      "en": "electric furnace",
+      "pi": "diàn lú"
+    }
+  ]
+}

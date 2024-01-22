@@ -1,0 +1,47 @@
+{
+  "chinese": "我不知道汤姆会不会说法语。",
+  "english": "I don't know if Tom can speak French.",
+  "pinyin": "wǒ bù zhīdào tāng mǔ huì bù huì shuō fǎ yǔ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "不会",
+      "en": "not know how to",
+      "pi": "bù huì"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎ yǔ"
+    }
+  ]
+}

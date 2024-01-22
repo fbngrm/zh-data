@@ -1,0 +1,37 @@
+{
+  "chinese": "我的朋友都不喝咖啡。",
+  "english": "My friends don't drink coffee.",
+  "pinyin": "wǒ de péngyǒu dōu bù hē kāfēi.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "My",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "朋友",
+      "en": "friends",
+      "pi": "péngyǒu"
+    },
+    {
+      "ch": "都",
+      "en": "don't",
+      "pi": "dōu"
+    },
+    {
+      "ch": "不",
+      "en": "do not",
+      "pi": "bù"
+    },
+    {
+      "ch": "喝",
+      "en": "drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kāfēi"
+    }
+  ]
+}

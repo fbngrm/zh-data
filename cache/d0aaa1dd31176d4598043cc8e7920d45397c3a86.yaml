@@ -1,0 +1,42 @@
+{
+  "chinese": "你从汤姆那里学到了吗？",
+  "english": "Did you learn from Tom?",
+  "pinyin": "Nǐ cóng Tāngmǔ nàlǐ xué dào le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "那里",
+      "en": "there",
+      "pi": "nàlǐ"
+    },
+    {
+      "ch": "学到",
+      "en": "learn",
+      "pi": "xué dào"
+    },
+    {
+      "ch": "了",
+      "en": "did",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

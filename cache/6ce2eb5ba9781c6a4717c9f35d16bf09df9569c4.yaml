@@ -1,0 +1,93 @@
+{
+  "sentences": [
+    {
+      "chinese": "你们俩之间是不是出现了什么问题？",
+      "english": "Is there a problem between the two of you?",
+      "pinyin": "nǐ men liǎ zhī jiān shì bú shì chū xiàn le shén me wèn tí？",
+      "words": [
+        {
+          "ch": "你们俩",
+          "en": "between the two of you",
+          "pi": "nǐ men liǎ"
+        },
+        {
+          "ch": "之间",
+          "en": "between",
+          "pi": "zhī jiān"
+        },
+        {
+          "ch": "是不是",
+          "en": "is it",
+          "pi": "shì bú shì"
+        },
+        {
+          "ch": "出现",
+          "en": "appear",
+          "pi": "chū xiàn"
+        },
+        {
+          "ch": "了",
+          "en": "have",
+          "pi": "le"
+        },
+        {
+          "ch": "什么",
+          "en": "what",
+          "pi": "shén me"
+        },
+        {
+          "ch": "问题",
+          "en": "problem",
+          "pi": "wèn tí"
+        }
+      ]
+    },
+    {
+      "chinese": "他怎么最近都不来接你了？",
+      "english": "Why hasn't he been picking you up recently?",
+      "pinyin": "tā zěn me zuì jìn dōu bú lái jiē nǐ le？",
+      "words": [
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "怎么",
+          "en": "why",
+          "pi": "zěn me"
+        },
+        {
+          "ch": "最近",
+          "en": "recently",
+          "pi": "zuì jìn"
+        },
+        {
+          "ch": "都不",
+          "en": "not at all",
+          "pi": "dōu bù"
+        },
+        {
+          "ch": "来",
+          "en": "come",
+          "pi": "lái"
+        },
+        {
+          "ch": "接",
+          "en": "pick up",
+          "pi": "jiē"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "了",
+          "en": "have",
+          "pi": "le"
+        }
+      ]
+    }
+  ]
+}

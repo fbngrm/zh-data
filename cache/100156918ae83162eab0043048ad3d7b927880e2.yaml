@@ -1,0 +1,16 @@
+{
+  "chinese": "你了解多少我寫在這裡的東西?",
+  "english": "How much do you understand about what I wrote here?",
+  "pinyin": "nǐ liǎo jiě duō shǎo wǒ xiě zài zhè lǐ de dōng xī?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "了解", "en": "understand", "pi": "liǎo jiě"},
+    {"ch": "多少", "en": "how much", "pi": "duō shǎo"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "寫", "en": "write", "pi": "xiě"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "這裡", "en": "here", "pi": "zhè lǐ"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "東西", "en": "thing", "pi": "dōng xī"}
+  ]
+}

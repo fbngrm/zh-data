@@ -1,0 +1,32 @@
+{
+  "chinese": "一加二等于三。",
+  "english": "One plus two equals three.",
+  "pinyin": "yī jiā èr děng yú sān.",
+  "words": [
+    {
+      "ch": "一",
+      "en": "one",
+      "pi": "yī"
+    },
+    {
+      "ch": "加",
+      "en": "plus",
+      "pi": "jiā"
+    },
+    {
+      "ch": "二",
+      "en": "two",
+      "pi": "èr"
+    },
+    {
+      "ch": "等于",
+      "en": "equals",
+      "pi": "děng yú"
+    },
+    {
+      "ch": "三",
+      "en": "three",
+      "pi": "sān"
+    }
+  ]
+}

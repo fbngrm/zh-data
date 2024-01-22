@@ -1,0 +1,37 @@
+{
+  "chinese": "这是报纸还是杂志？",
+  "english": "Is this a newspaper or a magazine?",
+  "pinyin": "zhè shì bàozhǐ háishì zázhì?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "报纸",
+      "en": "newspaper",
+      "pi": "bàozhǐ"
+    },
+    {
+      "ch": "还是",
+      "en": "or",
+      "pi": "háishì"
+    },
+    {
+      "ch": "杂志",
+      "en": "magazine",
+      "pi": "zázhì"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": ""
+    }
+  ]
+}

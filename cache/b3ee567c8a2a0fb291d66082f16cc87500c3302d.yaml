@@ -1,0 +1,16 @@
+{
+  "chinese": "如果這是真的，那就太好了。",
+  "english": "If this is true, that would be great.",
+  "pinyin": "rú guǒ zhè shì zhēn de, nà jiù tài hǎo le.",
+  "words": [
+    { "ch": "如果", "en": "if", "pi": "rú guǒ" },
+    { "ch": "這", "en": "this", "pi": "zhè" },
+    { "ch": "是", "en": "is", "pi": "shì" },
+    { "ch": "真的", "en": "true", "pi": "zhēn de" },
+    { "ch": "，", "en": ",", "pi": "，" },
+    { "ch": "那", "en": "that", "pi": "nà" },
+    { "ch": "就", "en": "would", "pi": "jiù" },
+    { "ch": "太好了", "en": "be great", "pi": "tài hǎo le" },
+    { "ch": "。", "en": ".", "pi": "。" }
+  ]
+}

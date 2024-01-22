@@ -1,0 +1,32 @@
+{
+  "chinese": "我们现在能回去吗？",
+  "english": "Can we go back now?",
+  "pinyin": "wǒmen xiànzài néng huíqù ma?",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiànzài"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "回去",
+      "en": "go back",
+      "pi": "huíqù"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

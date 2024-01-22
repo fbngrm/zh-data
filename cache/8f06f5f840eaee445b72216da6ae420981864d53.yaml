@@ -1,0 +1,27 @@
+{
+  "chinese": "你明天几点上课？",
+  "english": "What time do you have class tomorrow?",
+  "pinyin": "Nǐ míngtiān jǐ diǎn shàngkè?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "几点",
+      "en": "what time",
+      "pi": "jǐ diǎn"
+    },
+    {
+      "ch": "上课",
+      "en": "have class",
+      "pi": "shàngkè"
+    }
+  ]
+}

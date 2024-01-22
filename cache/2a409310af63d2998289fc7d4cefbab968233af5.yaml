@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆是小提琴教师。",
+  "english": "Tom is a violin teacher.",
+  "pinyin": "Tāng mǔ shì xiǎo tí qín jiào shī。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "小提琴",
+      "en": "violin",
+      "pi": "xiǎo tí qín"
+    },
+    {
+      "ch": "教师",
+      "en": "teacher",
+      "pi": "jiào shī"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "这对夫妇生了个儿子。",
+  "english": "This couple had a son.",
+  "pinyin": "zhè duì fūfù shēng le gè érzi.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "对",
+      "en": "couple",
+      "pi": "duì"
+    },
+    {
+      "ch": "夫妇",
+      "en": "couple",
+      "pi": "fūfù"
+    },
+    {
+      "ch": "生",
+      "en": "have",
+      "pi": "shēng"
+    },
+    {
+      "ch": "了",
+      "en": "past tense marker",
+      "pi": "le"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "儿子",
+      "en": "son",
+      "pi": "érzi"
+    }
+  ]
+}

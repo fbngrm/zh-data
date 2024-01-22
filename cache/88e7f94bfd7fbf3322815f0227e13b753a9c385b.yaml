@@ -1,0 +1,27 @@
+{
+  "chinese": "你的旅行怎么样?",
+  "english": "How was your trip?",
+  "pinyin": "Nǐ de lǚxíng zěnme yàng?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "旅行",
+      "en": "trip",
+      "pi": "lǚxíng"
+    },
+    {
+      "ch": "怎么样",
+      "en": "how",
+      "pi": "zěnme yàng"
+    }
+  ]
+}

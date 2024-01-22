@@ -1,0 +1,27 @@
+{
+  "chinese": "我喜欢吃苹果。",
+  "english": "I like to eat apples.",
+  "pinyin": "wǒ xǐ huān chī píng guǒ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐ huān"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "苹果",
+      "en": "apples",
+      "pi": "píng guǒ"
+    }
+  ]
+}

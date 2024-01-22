@@ -1,0 +1,42 @@
+{
+  "chinese": "我们买了一磅的茶。",
+  "english": "We bought a pound of tea.",
+  "pinyin": "wǒmen mǎi le yī bàng de chá.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "买",
+      "en": "buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "了",
+      "en": "past tense particle",
+      "pi": "le"
+    },
+    {
+      "ch": "一",
+      "en": "one",
+      "pi": "yī"
+    },
+    {
+      "ch": "磅",
+      "en": "pound",
+      "pi": "bàng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "茶",
+      "en": "tea",
+      "pi": "chá"
+    }
+  ]
+}

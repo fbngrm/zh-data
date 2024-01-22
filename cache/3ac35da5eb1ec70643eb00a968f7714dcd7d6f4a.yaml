@@ -1,0 +1,21 @@
+{
+  "chinese": "我唱卡拉OK，从小时候的歌唱起，一直唱到劲歌金曲最新版。",
+  "english": "I sing karaoke, from childhood songs, all the way to the latest hits.",
+  "pinyin": "wǒ chàng kǎ lā OK, cóng xiǎo shí hòu de gē chàng qǐ, yīzhí chàng dào jìn gē jīn qǔ zuì xīn bǎn。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "唱", "en": "sing", "pi": "chàng"},
+    {"ch": "卡拉OK", "en": "karaoke", "pi": "kǎ lā OK"},
+    {"ch": "从", "en": "from", "pi": "cóng"},
+    {"ch": "小时候", "en": "childhood", "pi": "xiǎo shí hòu"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "歌", "en": "song", "pi": "gē"},
+    {"ch": "唱", "en": "sing", "pi": "chàng"},
+    {"ch": "起", "en": "start", "pi": "qǐ"},
+    {"ch": "一直", "en": "all the way", "pi": "yīzhí"},
+    {"ch": "唱", "en": "sing", "pi": "chàng"},
+    {"ch": "到", "en": "to", "pi": "dào"},
+    {"ch": "劲歌金曲", "en": "hits", "pi": "jìn gē jīn qǔ"},
+    {"ch": "最新版", "en": "latest version", "pi": "zuì xīn bǎn"}
+  ]
+}

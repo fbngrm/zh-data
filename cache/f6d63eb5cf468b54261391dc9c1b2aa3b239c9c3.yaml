@@ -1,0 +1,98 @@
+{
+  "sentences": [
+    {
+      "chinese": "为什么日本人必须学英语？倒应该是外国人需要学习日语！",
+      "english": "Why do Japanese people have to learn English? It should be foreigners who need to learn Japanese!",
+      "pinyin": "Wèishéme Rìběn rén bìxū xué Yīngyǔ? Dǎo yīnggāi shì wàiguó rén xūyào xuéxí Rìyǔ！",
+      "words": [
+        {
+          "ch": "为什么",
+          "en": "Why",
+          "pi": "Wèishéme"
+        },
+        {
+          "ch": "日本人",
+          "en": "Japanese people",
+          "pi": "Rìběn rén"
+        },
+        {
+          "ch": "必须",
+          "en": "have to",
+          "pi": "bìxū"
+        },
+        {
+          "ch": "学",
+          "en": "learn",
+          "pi": "xué"
+        },
+        {
+          "ch": "英语",
+          "en": "English",
+          "pi": "Yīngyǔ"
+        },
+        {
+          "ch": "倒",
+          "en": "should",
+          "pi": "Dǎo"
+        },
+        {
+          "ch": "应该",
+          "en": "should",
+          "pi": "yīnggāi"
+        },
+        {
+          "ch": "是",
+          "en": "be",
+          "pi": "shì"
+        },
+        {
+          "ch": "外国人",
+          "en": "foreigners",
+          "pi": "wàiguó rén"
+        },
+        {
+          "ch": "需要",
+          "en": "need to",
+          "pi": "xūyào"
+        },
+        {
+          "ch": "学习",
+          "en": "learn",
+          "pi": "xuéxí"
+        },
+        {
+          "ch": "日语",
+          "en": "Japanese",
+          "pi": "Rìyǔ"
+        }
+      ]
+    },
+    {
+      "chinese": "你说得有道理！",
+      "english": "You make a valid point!",
+      "pinyin": "Nǐ shuō dé yǒu dàolǐ！",
+      "words": [
+        {
+          "ch": "你",
+          "en": "You",
+          "pi": "Nǐ"
+        },
+        {
+          "ch": "说得",
+          "en": "make",
+          "pi": "shuō dé"
+        },
+        {
+          "ch": "有",
+          "en": "a",
+          "pi": "yǒu"
+        },
+        {
+          "ch": "道理",
+          "en": "valid point",
+          "pi": "dàolǐ"
+        }
+      ]
+    }
+  ]
+}

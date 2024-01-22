@@ -1,0 +1,32 @@
+{
+  "chinese": "我明天去图书馆温习。",
+  "english": "I will go to the library to review tomorrow.",
+  "pinyin": "wǒ míngtiān qù túshūguǎn wēnxí。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "图书馆",
+      "en": "library",
+      "pi": "túshūguǎn"
+    },
+    {
+      "ch": "温习",
+      "en": "review",
+      "pi": "wēnxí"
+    }
+  ]
+}

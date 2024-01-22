@@ -1,0 +1,32 @@
+{
+  "chinese": "猎人射死了狐狸。",
+  "english": "The hunter shot the fox dead.",
+  "pinyin": "Lièrén shè sǐ le húli.",
+  "words": [
+    {
+      "ch": "猎人",
+      "en": "hunter",
+      "pi": "lièrén"
+    },
+    {
+      "ch": "射",
+      "en": "shot",
+      "pi": "shè"
+    },
+    {
+      "ch": "死",
+      "en": "dead",
+      "pi": "sǐ"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "狐狸",
+      "en": "fox",
+      "pi": "húli"
+    }
+  ]
+}

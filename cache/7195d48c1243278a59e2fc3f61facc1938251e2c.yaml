@@ -1,0 +1,32 @@
+{
+  "chinese": "我喜欢橘子胜过苹果。",
+  "english": "I prefer oranges to apples.",
+  "pinyin": "wǒ xǐhuān júzi shèngguò píngguǒ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "prefer",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "橘子",
+      "en": "oranges",
+      "pi": "júzi"
+    },
+    {
+      "ch": "胜过",
+      "en": "to",
+      "pi": "shèngguò"
+    },
+    {
+      "ch": "苹果",
+      "en": "apples",
+      "pi": "píngguǒ"
+    }
+  ]
+}

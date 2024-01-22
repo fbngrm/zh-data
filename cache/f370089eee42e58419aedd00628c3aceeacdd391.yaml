@@ -1,0 +1,47 @@
+{
+  "chinese": "你能自己搬这张桌子吗?",
+  "english": "Can you move this table by yourself?",
+  "pinyin": "Nǐ néng zìjǐ bān zhè zhāng zhuōzi ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "自己",
+      "en": "by oneself",
+      "pi": "zìjǐ"
+    },
+    {
+      "ch": "搬",
+      "en": "move",
+      "pi": "bān"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "张",
+      "en": "measure word for flat objects",
+      "pi": "zhāng"
+    },
+    {
+      "ch": "桌子",
+      "en": "table",
+      "pi": "zhuōzi"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

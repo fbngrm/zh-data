@@ -1,0 +1,16 @@
+{
+  "chinese": "你打电话给你在加拿大的朋友了吗?",
+  "english": "Did you call your friend in Canada?",
+  "pinyin": "Nǐ dǎ diànhuà gěi nǐ zài jiānádà de péngyǒu le ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "打电话", "en": "make a phone call", "pi": "dǎ diànhuà"},
+    {"ch": "给", "en": "to", "pi": "gěi"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "加拿大", "en": "Canada", "pi": "jiānádà"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "朋友", "en": "friend", "pi": "péngyǒu"},
+    {"ch": "了吗", "en": "did?", "pi": "le ma"}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "chinese": "她会说法语。",
+  "english": "She can speak French.",
+  "pinyin": "tā huì shuō fǎyǔ。",
+  "words": [
+    {"ch":"她", "en":"She", "pi":"tā"},
+    {"ch":"会", "en":"can", "pi":"huì"},
+    {"ch":"说", "en":"speak", "pi":"shuō"},
+    {"ch":"法语", "en":"French", "pi":"fǎyǔ"}
+  ]
+}

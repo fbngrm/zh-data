@@ -1,0 +1,13 @@
+{
+  "chinese": "玛丽给了我一个美国娃娃。",
+  "english": "Mary gave me an American doll.",
+  "pinyin": "Mǎlì gěi le wǒ yī gè Měiguó wáwá.",
+  "words": [
+    {"ch": "玛丽", "en": "Mary", "pi": "Mǎlì"},
+    {"ch": "给了", "en": "gave", "pi": "gěi le"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "一个", "en": "an", "pi": "yī gè"},
+    {"ch": "美国", "en": "American", "pi": "Měiguó"},
+    {"ch": "娃娃", "en": "doll", "pi": "wáwá"}
+  ]
+}

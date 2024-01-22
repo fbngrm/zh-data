@@ -1,0 +1,32 @@
+{
+  "chinese": "我上完课很累。",
+  "english": "I'm very tired after class.",
+  "pinyin": "wǒ shàng wán kè hěn lèi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "上完",
+      "en": "after",
+      "pi": "shàng wán"
+    },
+    {
+      "ch": "课",
+      "en": "class",
+      "pi": "kè"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "累",
+      "en": "tired",
+      "pi": "lèi"
+    }
+  ]
+}

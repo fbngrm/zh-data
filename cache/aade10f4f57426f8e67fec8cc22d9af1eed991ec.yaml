@@ -1,0 +1,47 @@
+{
+  "chinese": "请提醒我明天把报告寄了。",
+  "english": "Please remind me to mail the report tomorrow.",
+  "pinyin": "Qǐng tíxǐng wǒ míngtiān bǎ bàogào jìle。",
+  "words": [
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "提醒",
+      "en": "remind",
+      "pi": "tíxǐng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "把",
+      "en": "to",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "报告",
+      "en": "report",
+      "pi": "bàogào"
+    },
+    {
+      "ch": "寄",
+      "en": "mail",
+      "pi": "jì"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

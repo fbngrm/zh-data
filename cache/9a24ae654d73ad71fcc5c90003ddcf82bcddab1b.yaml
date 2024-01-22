@@ -1,0 +1,52 @@
+{
+  "chinese": "因为我们不可能买票了，所以我们没去音乐会。",
+  "english": "Because we couldn't buy tickets, so we didn't go to the concert.",
+  "pinyin": "Yīnwèi wǒmen bù kěnéng mǎi piào le, suǒyǐ wǒmen méi qù yīnyuè huì.",
+  "words": [
+    {
+      "ch": "因为",
+      "en": "because",
+      "pi": "yīnwèi"
+    },
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "可能",
+      "en": "possible",
+      "pi": "kěnéng"
+    },
+    {
+      "ch": "买票",
+      "en": "buy tickets",
+      "pi": "mǎi piào"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "le"
+    },
+    {
+      "ch": "所以",
+      "en": "so",
+      "pi": "suǒyǐ"
+    },
+    {
+      "ch": "没去",
+      "en": "didn't go",
+      "pi": "méi qù"
+    },
+    {
+      "ch": "音乐会",
+      "en": "concert",
+      "pi": "yīnyuè huì"
+    }
+  ]
+}

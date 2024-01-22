@@ -1,0 +1,47 @@
+{
+  "chinese": "不好意思，我想请问去车站怎么走？",
+  "english": "Excuse me, could you please tell me how to get to the train station?",
+  "pinyin": "bù hǎo yì si, wǒ xiǎng qǐng wèn qù chē zhàn zěn me zǒu?",
+  "words": [
+    {
+      "ch": "不好意思",
+      "en": "Excuse me",
+      "pi": "bù hǎo yì si"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "请问",
+      "en": "could you please tell",
+      "pi": "qǐng wèn"
+    },
+    {
+      "ch": "去",
+      "en": "to go",
+      "pi": "qù"
+    },
+    {
+      "ch": "车站",
+      "en": "train station",
+      "pi": "chē zhàn"
+    },
+    {
+      "ch": "怎么",
+      "en": "how",
+      "pi": "zěn me"
+    },
+    {
+      "ch": "走",
+      "en": "to get",
+      "pi": "zǒu"
+    }
+  ]
+}

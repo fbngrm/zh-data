@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆和玛丽在电话里交流。",
+  "english": "Tom and Mary are communicating on the phone.",
+  "pinyin": "Tāng mǔ hé mǎ lì zài diàn huà lǐ jiāo liú。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "在",
+      "en": "on",
+      "pi": "zài"
+    },
+    {
+      "ch": "电话",
+      "en": "phone",
+      "pi": "diàn huà"
+    },
+    {
+      "ch": "里",
+      "en": "inside",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "交流",
+      "en": "communicate",
+      "pi": "jiāo liú"
+    }
+  ]
+}

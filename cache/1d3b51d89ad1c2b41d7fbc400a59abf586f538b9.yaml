@@ -1,0 +1,15 @@
+{
+  "chinese": "她用铅笔在纸上画了一个圈。",
+  "english": "She drew a circle on the paper with a pencil.",
+  "pinyin": "tā yòng qiān bǐ zài zhǐ shàng huà le yī gè quān。",
+  "words": [
+    {"ch": "她", "en": "She", "pi": "tā"},
+    {"ch": "用", "en": "use", "pi": "yòng"},
+    {"ch": "铅笔", "en": "pencil", "pi": "qiān bǐ"},
+    {"ch": "在", "en": "on", "pi": "zài"},
+    {"ch": "纸上", "en": "paper", "pi": "zhǐ shàng"},
+    {"ch": "画了", "en": "drew", "pi": "huà le"},
+    {"ch": "一个", "en": "a", "pi": "yī gè"},
+    {"ch": "圈", "en": "circle", "pi": "quān"}
+  ]
+}

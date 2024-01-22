@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆非常勇敢，不是么？",
+  "english": "Tom is very brave, isn't he?",
+  "pinyin": "tāng mǔ fēi cháng yǒng gǎn, bù shì me?",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "非常",
+      "en": "very",
+      "pi": "fēi cháng"
+    },
+    {
+      "ch": "勇敢",
+      "en": "brave",
+      "pi": "yǒng gǎn"
+    },
+    {
+      "ch": "不是",
+      "en": "isn't",
+      "pi": "bù shì"
+    },
+    {
+      "ch": "么",
+      "en": "he?",
+      "pi": "me?"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chinese": "我妹妹钢琴可以弹得比我好。",
+  "english": "My younger sister can play the piano better than me.",
+  "pinyin": "wǒ mèimei gāngqín kěyǐ tán dé bǐ wǒ hǎo.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "妹妹", "en": "younger sister", "pi": "mèimei"},
+    {"ch": "钢琴", "en": "piano", "pi": "gāngqín"},
+    {"ch": "可以", "en": "can", "pi": "kěyǐ"},
+    {"ch": "弹得", "en": "play (well)", "pi": "tán dé"},
+    {"ch": "比", "en": "than", "pi": "bǐ"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "好", "en": "better", "pi": "hǎo"}
+  ]
+}

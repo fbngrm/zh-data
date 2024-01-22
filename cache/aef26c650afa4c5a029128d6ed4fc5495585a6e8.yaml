@@ -1,0 +1,27 @@
+{
+  "chinese": "今天早上天氣嚴寒。",
+  "english": "The weather is cold this morning.",
+  "pinyin": "jīn tiān zǎo shàng tiān qì yán hán.",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎo shàng"
+    },
+    {
+      "ch": "天氣",
+      "en": "weather",
+      "pi": "tiān qì"
+    },
+    {
+      "ch": "嚴寒",
+      "en": "cold",
+      "pi": "yán hán"
+    }
+  ]
+}

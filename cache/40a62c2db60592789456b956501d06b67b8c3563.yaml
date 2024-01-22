@@ -1,0 +1,15 @@
+{
+  "chinese": "我会帮你找个好医生。",
+  "english": "I will help you find a good doctor.",
+  "pinyin": "wǒ huì bāng nǐ zhǎo gè hǎo yīshēng.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "帮", "en": "help", "pi": "bāng"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "找", "en": "find", "pi": "zhǎo"},
+    {"ch": "个", "en": "a", "pi": "gè"},
+    {"ch": "好", "en": "good", "pi": "hǎo"},
+    {"ch": "医生", "en": "doctor", "pi": "yīshēng"}
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "sentences": [
+    {
+      "chinese": "让我来帮你吧。",
+      "english": "Let me help you.",
+      "pinyin": "ràng wǒ lái bāng nǐ ba.",
+      "words": [
+        {
+          "ch": "让",
+          "en": "Let",
+          "pi": "ràng"
+        },
+        {
+          "ch": "我",
+          "en": "me",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "来",
+          "en": "come",
+          "pi": "lái"
+        },
+        {
+          "ch": "帮",
+          "en": "help",
+          "pi": "bāng"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "吧",
+          "en": "please",
+          "pi": "ba"
+        }
+      ]
+    },
+    {
+      "chinese": "你的包看起来很重。",
+      "english": "Your bag looks heavy.",
+      "pinyin": "nǐ de bāo kàn qǐ lái hěn zhòng.",
+      "words": [
+        {
+          "ch": "你的",
+          "en": "your",
+          "pi": "nǐ de"
+        },
+        {
+          "ch": "包",
+          "en": "bag",
+          "pi": "bāo"
+        },
+        {
+          "ch": "看起来",
+          "en": "looks",
+          "pi": "kàn qǐ lái"
+        },
+        {
+          "ch": "很",
+          "en": "very",
+          "pi": "hěn"
+        },
+        {
+          "ch": "重",
+          "en": "heavy",
+          "pi": "zhòng"
+        }
+      ]
+    }
+  ]
+}

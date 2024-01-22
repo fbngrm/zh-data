@@ -1,0 +1,42 @@
+{
+  "chinese": "我昨天钓了一条大鱼。",
+  "english": "I caught a big fish yesterday.",
+  "pinyin": "wǒ zuótiān diào le yī tiáo dà yú.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "钓",
+      "en": "caught",
+      "pi": "diào"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "一条",
+      "en": "a",
+      "pi": "yī tiáo"
+    },
+    {
+      "ch": "大",
+      "en": "big",
+      "pi": "dà"
+    },
+    {
+      "ch": "鱼",
+      "en": "fish",
+      "pi": "yú"
+    }
+  ]
+}

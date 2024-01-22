@@ -1,0 +1,32 @@
+{
+  "chinese": "比尔不比鲍伯高。",
+  "english": "Bill is not taller than Bob.",
+  "pinyin": "bǐ ěr bù bǐ bào bó gāo.",
+  "words": [
+    {
+      "ch": "比尔",
+      "en": "Bill",
+      "pi": "bǐ ěr"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "鲍伯",
+      "en": "Bob",
+      "pi": "bào bó"
+    },
+    {
+      "ch": "高",
+      "en": "tall",
+      "pi": "gāo"
+    }
+  ]
+}

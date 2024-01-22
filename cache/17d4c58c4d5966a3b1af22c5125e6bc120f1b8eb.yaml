@@ -1,0 +1,42 @@
+{
+  "chinese": "你不能再住在这边了。",
+  "english": "You can't live here anymore.",
+  "pinyin": "nǐ bùnéng zài zhù zài zhè biānle.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "不能",
+      "en": "can't",
+      "pi": "bùnéng"
+    },
+    {
+      "ch": "再",
+      "en": "anymore",
+      "pi": "zài"
+    },
+    {
+      "ch": "住",
+      "en": "live",
+      "pi": "zhù"
+    },
+    {
+      "ch": "在",
+      "en": "here",
+      "pi": "zài"
+    },
+    {
+      "ch": "这边",
+      "en": "here",
+      "pi": "zhè biān"
+    },
+    {
+      "ch": "了",
+      "en": "anymore",
+      "pi": "le"
+    }
+  ]
+}

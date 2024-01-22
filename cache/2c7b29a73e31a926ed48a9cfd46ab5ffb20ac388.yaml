@@ -1,0 +1,15 @@
+{
+  "chinese": "你打算去哪些地方旅行？怎么去？为什么？",
+  "english": "Which places do you plan to travel to? How are you going? Why?",
+  "pinyin": "Nǐ dǎsuàn qù nǎxiē dìfāng lǚxíng? Zěnme qù? Wèishéme?",
+  "words": [
+    {"ch":"你", "en":"you", "pi":"nǐ"},
+    {"ch":"打算", "en":"plan", "pi":"dǎsuàn"},
+    {"ch":"去", "en":"to go", "pi":"qù"},
+    {"ch":"哪些", "en":"which", "pi":"nǎxiē"},
+    {"ch":"地方", "en":"places", "pi":"dìfāng"},
+    {"ch":"旅行", "en":"to travel", "pi":"lǚxíng"},
+    {"ch":"怎么", "en":"how", "pi":"zěnme"},
+    {"ch":"为什么", "en":"why", "pi":"wèishéme"}
+  ]
+}

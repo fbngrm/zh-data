@@ -1,0 +1,27 @@
+{
+  "chinese": "你好，Ｒｏｇｅｒ。我很好！",
+  "english": "Hello, Roger. I'm good!",
+  "pinyin": "nǐ hǎo，Ｒｏｇｅｒ. wǒ hěn hǎo!",
+  "words": [
+    {
+      "ch": "你好",
+      "en": "Hello",
+      "pi": "nǐ hǎo"
+    },
+    {
+      "ch": "Ｒｏｇｅｒ",
+      "en": "Roger",
+      "pi": "Ｒｏｇｅｒ"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "很好",
+      "en": "good",
+      "pi": "hěn hǎo"
+    }
+  ]
+}

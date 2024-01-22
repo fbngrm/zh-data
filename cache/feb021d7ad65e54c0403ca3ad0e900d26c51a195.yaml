@@ -1,0 +1,27 @@
+{
+  "chinese": "我今天在东京。",
+  "english": "I am in Tokyo today.",
+  "pinyin": "wǒ jīntiān zài dōngjīng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "东京",
+      "en": "Tokyo",
+      "pi": "dōngjīng"
+    }
+  ]
+}

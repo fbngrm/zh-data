@@ -1,0 +1,32 @@
+{
+  "chinese": "孩子们应该每天喝牛奶。",
+  "english": "Children should drink milk every day.",
+  "pinyin": "hái zǐ men yīng gāi měi tiān hē niú nǎi.",
+  "words": [
+    {
+      "ch": "孩子们",
+      "en": "Children",
+      "pi": "hái zǐ men"
+    },
+    {
+      "ch": "应该",
+      "en": "should",
+      "pi": "yīng gāi"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "喝",
+      "en": "drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "牛奶",
+      "en": "milk",
+      "pi": "niú nǎi"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "你每天都在家听收音机吗？",
+  "english": "Do you listen to the radio at home every day?",
+  "pinyin": "Nǐ měi tiān dōu zài jiā tīng shōu yīn jī ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "都",
+      "en": "always",
+      "pi": "dōu"
+    },
+    {
+      "ch": "在家",
+      "en": "at home",
+      "pi": "zài jiā"
+    },
+    {
+      "ch": "听",
+      "en": "listen",
+      "pi": "tīng"
+    },
+    {
+      "ch": "收音机",
+      "en": "radio",
+      "pi": "shōu yīn jī"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

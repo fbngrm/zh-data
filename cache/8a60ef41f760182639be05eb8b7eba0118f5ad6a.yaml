@@ -1,0 +1,15 @@
+{
+  "chinese" : "我们的眼睛需要时间来适应黑暗。",
+  "english" : "Our eyes need time to adapt to the darkness.",
+  "pinyin" : "wǒmen de yǎnjīng xūyào shíjiān lái shìyìng hēi'àn。",
+  "words" : [
+    {"ch" : "我们", "en" : "we", "pi" : "wǒmen"},
+    {"ch" : "的", "en" : "possessive particle", "pi" : "de"},
+    {"ch" : "眼睛", "en" : "eyes", "pi" : "yǎnjīng"},
+    {"ch" : "需要", "en" : "need", "pi" : "xūyào"},
+    {"ch" : "时间", "en" : "time", "pi" : "shíjiān"},
+    {"ch" : "来", "en" : "to", "pi" : "lái"},
+    {"ch" : "适应", "en" : "adapt", "pi" : "shìyìng"},
+    {"ch" : "黑暗", "en" : "darkness", "pi" : "hēi'àn"}
+  ]
+}

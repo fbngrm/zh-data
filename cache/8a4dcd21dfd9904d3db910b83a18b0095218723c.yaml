@@ -1,0 +1,37 @@
+{
+  "chinese": "对不起，让您久等了。",
+  "english": "I'm sorry for keeping you waiting.",
+  "pinyin": "duì bù qǐ, ràng nín jiǔ děng le.",
+  "words": [
+    {
+      "ch": "对不起",
+      "en": "I'm sorry",
+      "pi": "duì bù qǐ"
+    },
+    {
+      "ch": "让",
+      "en": "to let",
+      "pi": "ràng"
+    },
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "久",
+      "en": "long",
+      "pi": "jiǔ"
+    },
+    {
+      "ch": "等",
+      "en": "to wait",
+      "pi": "děng"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我不确定那座桥到底有多长。",
+  "english": "I'm not sure how long that bridge is.",
+  "pinyin": "wǒ bù quèdìng nà zuò qiáo dàodǐ yǒu duō zhǎng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不确定",
+      "en": "not sure",
+      "pi": "bù quèdìng"
+    },
+    {
+      "ch": "那座",
+      "en": "that",
+      "pi": "nà zuò"
+    },
+    {
+      "ch": "桥",
+      "en": "bridge",
+      "pi": "qiáo"
+    },
+    {
+      "ch": "到底",
+      "en": "how",
+      "pi": "dàodǐ"
+    },
+    {
+      "ch": "有",
+      "en": "is",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "多长",
+      "en": "long",
+      "pi": "duō zhǎng"
+    }
+  ]
+}

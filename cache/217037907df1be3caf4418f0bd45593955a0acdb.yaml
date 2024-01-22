@@ -1,0 +1,27 @@
+{
+  "chinese": "我的爸爸只有十五岁。",
+  "english": "My father is only fifteen years old.",
+  "pinyin": "Wǒ de bàba zhǐ yǒu shíwǔ suì。",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "爸爸",
+      "en": "father",
+      "pi": "bàba"
+    },
+    {
+      "ch": "只有",
+      "en": "only",
+      "pi": "zhǐ yǒu"
+    },
+    {
+      "ch": "十五岁",
+      "en": "fifteen years old",
+      "pi": "shíwǔ suì"
+    }
+  ]
+}

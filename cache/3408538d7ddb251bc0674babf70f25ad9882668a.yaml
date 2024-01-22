@@ -1,0 +1,15 @@
+{
+  "chinese": "快点，你就能准时搭上公交车了。",
+  "english": "Hurry up, you will be able to catch the bus on time.",
+  "pinyin": "kuài diǎn, nǐ jiù néng zhǔn shí dā shàng gōng jiāo chē le.",
+  "words": [
+    {"ch": "快点", "en": "Hurry up", "pi": "kuài diǎn"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "就", "en": "will", "pi": "jiù"},
+    {"ch": "能", "en": "be able to", "pi": "néng"},
+    {"ch": "准时", "en": "on time", "pi": "zhǔn shí"},
+    {"ch": "搭上", "en": "catch", "pi": "dā shàng"},
+    {"ch": "公交车", "en": "bus", "pi": "gōng jiāo chē"},
+    {"ch": "了", "en": "on time", "pi": "le"}
+  ]
+}

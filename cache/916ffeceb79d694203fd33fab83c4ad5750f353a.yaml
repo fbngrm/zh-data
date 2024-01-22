@@ -1,0 +1,42 @@
+{
+   "chinese": "汤姆不是个多好的人。",
+   "english": "Tom is not a very good person.",
+   "pinyin": "tāng mǔ bú shì gè duō hǎo de rén.",
+   "words": [
+      {
+         "ch": "汤姆",
+         "en": "Tom",
+         "pi": "tāng mǔ"
+      },
+      {
+         "ch": "不是",
+         "en": "not",
+         "pi": "bú shì"
+      },
+      {
+         "ch": "个",
+         "en": "a",
+         "pi": "gè"
+      },
+      {
+         "ch": "多",
+         "en": "very",
+         "pi": "duō"
+      },
+      {
+         "ch": "好",
+         "en": "good",
+         "pi": "hǎo"
+      },
+      {
+         "ch": "的",
+         "en": "of",
+         "pi": "de"
+      },
+      {
+         "ch": "人",
+         "en": "person",
+         "pi": "rén"
+      }
+   ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆不清楚玛丽是否喜欢他。",
+  "english": "Tom is unsure whether Mary likes him.",
+  "pinyin": "tāng mǔ bù qīng chǔ mǎ lì shì fǒu xǐ huān tā.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "清楚",
+      "en": "clear",
+      "pi": "qīng chǔ"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "是否",
+      "en": "whether",
+      "pi": "shì fǒu"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐ huān"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    }
+  ]
+}

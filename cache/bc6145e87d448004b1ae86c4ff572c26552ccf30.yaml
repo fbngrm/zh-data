@@ -1,0 +1,32 @@
+{
+  "chinese": "请不要用我的名字。",
+  "english": "Please do not use my name.",
+  "pinyin": "qǐng bú yào yòng wǒ de míngzì。",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "不要",
+      "en": "do not",
+      "pi": "bú yào"
+    },
+    {
+      "ch": "用",
+      "en": "use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míngzì"
+    }
+  ]
+}

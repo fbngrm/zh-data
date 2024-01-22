@@ -1,0 +1,32 @@
+{
+  "chinese": "我父亲去美国了。",
+  "english": "My father went to the United States.",
+  "pinyin": "wǒ fùqīn qù měiguó le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "父亲",
+      "en": "father",
+      "pi": "fùqīn"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "美国",
+      "en": "United States",
+      "pi": "měiguó"
+    },
+    {
+      "ch": "了",
+      "en": "finished",
+      "pi": "le"
+    }
+  ]
+}

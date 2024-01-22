@@ -1,0 +1,32 @@
+{
+  "chinese": "我得给汤姆打电话。",
+  "english": "I have to call Tom.",
+  "pinyin": "wǒ dé gěi Tāng mǔ dǎ diànhuà.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "得",
+      "en": "have to",
+      "pi": "dé"
+    },
+    {
+      "ch": "给",
+      "en": "to",
+      "pi": "gěi"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "打电话",
+      "en": "call",
+      "pi": "dǎ diànhuà"
+    }
+  ]
+}

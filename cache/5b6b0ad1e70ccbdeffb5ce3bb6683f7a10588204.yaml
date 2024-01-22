@@ -1,0 +1,42 @@
+{
+  "chinese": "请问有没有飞往纽约的不停站航班？",
+  "english": "Excuse me, are there any non-stop flights to New York?",
+  "pinyin": "qǐng wèn yǒu méiyǒu fēi wǎng niǔ yuē de bù tíng zhàn háng bān?",
+  "words": [
+    {
+      "ch": "请问",
+      "en": "Excuse me",
+      "pi": "qǐng wèn"
+    },
+    {
+      "ch": "有没有",
+      "en": "are there any",
+      "pi": "yǒu méiyǒu"
+    },
+    {
+      "ch": "飞往",
+      "en": "fly to",
+      "pi": "fēi wǎng"
+    },
+    {
+      "ch": "纽约",
+      "en": "New York",
+      "pi": "niǔ yuē"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "不停站",
+      "en": "non-stop",
+      "pi": "bù tíng zhàn"
+    },
+    {
+      "ch": "航班",
+      "en": "flights",
+      "pi": "háng bān"
+    }
+  ]
+}

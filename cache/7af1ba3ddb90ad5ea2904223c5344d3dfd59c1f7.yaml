@@ -1,0 +1,19 @@
+{
+  "chinese": "我不是一個大學生,但我比他們更聰明。",
+  "english": "I am not a college student, but I am smarter than them.",
+  "pinyin": "Wǒ bù shì yīgè dàxuéshēng, dàn wǒ bǐ tāmen gèng cōngmíng.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "不是", "en": "am not", "pi": "bù shì" },
+    { "ch": "一個", "en": "a", "pi": "yīgè" },
+    { "ch": "大學生", "en": "college student", "pi": "dàxuéshēng" },
+    { "ch": ",", "en": ",", "pi": "," },
+    { "ch": "但", "en": "but", "pi": "dàn" },
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "比", "en": "am", "pi": "bǐ" },
+    { "ch": "他們", "en": "not", "pi": "tāmen" },
+    { "ch": "更", "en": "than", "pi": "gèng" },
+    { "ch": "聰明", "en": "them", "pi": "cōngmíng" },
+    { "ch": "。", "en": ".", "pi": "。" }
+  ]
+}

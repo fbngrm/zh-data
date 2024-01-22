@@ -1,0 +1,15 @@
+{
+  "chinese": "我有一辆新的红色汽车。",
+  "english": "I have a new red car.",
+  "pinyin": "Wǒ yǒu yī liàng xīn de hóngsè qìchē.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "Wǒ"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "一", "en": "a", "pi": "yī"},
+    {"ch": "辆", "en": "car", "pi": "liàng"},
+    {"ch": "新", "en": "new", "pi": "xīn"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "红色", "en": "red", "pi": "hóngsè"},
+    {"ch": "汽车", "en": "car", "pi": "qìchē"}
+  ]
+}

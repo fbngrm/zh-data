@@ -1,0 +1,52 @@
+{
+  "chinese": "汤姆和玛丽都不会做那件事。",
+  "english": "Tom and Mary both don't know how to do that thing.",
+  "pinyin": "tāng mǔ hé mǎ lì dōu bù huì zuò nà jiàn shì。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "都",
+      "en": "both",
+      "pi": "dōu"
+    },
+    {
+      "ch": "不会",
+      "en": "don't know how to",
+      "pi": "bù huì"
+    },
+    {
+      "ch": "做",
+      "en": "do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "件",
+      "en": "thing",
+      "pi": "jiàn"
+    },
+    {
+      "ch": "事",
+      "en": "",
+      "pi": "shì"
+    }
+  ]
+}

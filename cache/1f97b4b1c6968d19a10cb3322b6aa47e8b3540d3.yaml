@@ -1,0 +1,16 @@
+{
+"chinese": "该由你来决定我们去不去那儿。",
+"english": "It's up to you to decide whether we go there or not.",
+"pinyin": "gāi yóu nǐ lái jué dìng wǒ men qù bù qù nà er.",
+"words": [
+   {"ch": "该", "en": "It's", "pi": "gāi"},
+   {"ch": "由", "en": "up to", "pi": "yóu"},
+   {"ch": "你", "en": "you", "pi": "nǐ"},
+   {"ch": "来", "en": "to", "pi": "lái"},
+   {"ch": "决定", "en": "decide", "pi": "jué dìng"},
+   {"ch": "我们", "en": "we", "pi": "wǒ men"},
+   {"ch": "去", "en": "go", "pi": "qù"},
+   {"ch": "不去", "en": "not go", "pi": "bù qù"},
+   {"ch": "那儿", "en": "there", "pi": "nà er"}
+  ]
+}

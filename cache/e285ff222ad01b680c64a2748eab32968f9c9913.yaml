@@ -1,0 +1,37 @@
+{
+  "chinese": "我即不能确认也不能否定。",
+  "english": "I can neither confirm nor deny.",
+  "pinyin": "wǒ jí bùnéng quèrèn yě bùnéng fǒudìng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "即",
+      "en": "can",
+      "pi": "jí"
+    },
+    {
+      "ch": "不能",
+      "en": "cannot",
+      "pi": "bùnéng"
+    },
+    {
+      "ch": "确认",
+      "en": "confirm",
+      "pi": "quèrèn"
+    },
+    {
+      "ch": "也",
+      "en": "nor",
+      "pi": "yě"
+    },
+    {
+      "ch": "否定",
+      "en": "deny",
+      "pi": "fǒudìng"
+    }
+  ]
+}

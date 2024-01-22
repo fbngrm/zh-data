@@ -1,0 +1,42 @@
+{
+  "chinese": "请沿着这条路一直往前走。",
+  "english": "Please go straight along this road.",
+  "pinyin": "qǐng yánzhe zhè tiáo lù yīzhí wǎngqián zǒu。",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "沿着",
+      "en": "along",
+      "pi": "yánzhe"
+    },
+    {
+      "ch": "这条",
+      "en": "this",
+      "pi": "zhè tiáo"
+    },
+    {
+      "ch": "路",
+      "en": "road",
+      "pi": "lù"
+    },
+    {
+      "ch": "一直",
+      "en": "straight",
+      "pi": "yīzhí"
+    },
+    {
+      "ch": "往前",
+      "en": "go ahead",
+      "pi": "wǎngqián"
+    },
+    {
+      "ch": "走",
+      "en": "walk",
+      "pi": "zǒu"
+    }
+  ]
+}

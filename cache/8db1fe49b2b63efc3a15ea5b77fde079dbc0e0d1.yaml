@@ -1,0 +1,13 @@
+{
+  "chinese": "我们有很多问题要处理。",
+  "english": "We have many problems to deal with.",
+  "pinyin": "wǒ men yǒu hěn duō wèn tí yào chǔ lǐ。",
+  "words": [
+    {"ch": "我们", "en": "we", "pi": "wǒ men"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "很多", "en": "many", "pi": "hěn duō"},
+    {"ch": "问题", "en": "problems", "pi": "wèn tí"},
+    {"ch": "要", "en": "to", "pi": "yào"},
+    {"ch": "处理", "en": "deal with", "pi": "chǔ lǐ"}
+  ]
+}

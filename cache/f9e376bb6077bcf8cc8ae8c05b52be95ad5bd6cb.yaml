@@ -1,0 +1,32 @@
+{
+  "chinese": "你认为哪一个是正确的?",
+  "english": "Which one do you think is correct?",
+  "pinyin": "nǐ rèn wéi nǎ yīgè shì zhèngquè de?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "认为",
+      "en": "think, believe",
+      "pi": "rèn wéi"
+    },
+    {
+      "ch": "哪一个",
+      "en": "which one",
+      "pi": "nǎ yīgè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "正确的",
+      "en": "correct",
+      "pi": "zhèngquè de"
+    }
+  ]
+}

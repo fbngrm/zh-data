@@ -1,0 +1,42 @@
+{
+  "chinese": "你明早7点来接我吗？",
+  "english": "Will you pick me up at 7 tomorrow morning?",
+  "pinyin": "nǐ míng zǎo qī diǎn lái jiē wǒ ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "明早",
+      "en": "tomorrow morning",
+      "pi": "míng zǎo"
+    },
+    {
+      "ch": "7点",
+      "en": "7 o'clock",
+      "pi": "qī diǎn"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    },
+    {
+      "ch": "接",
+      "en": "pick up",
+      "pi": "jiē"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

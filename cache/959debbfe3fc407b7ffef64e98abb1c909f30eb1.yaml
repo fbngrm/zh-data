@@ -1,0 +1,42 @@
+{
+  "chinese": "我比你多１０支钢笔。",
+  "english": "I have 10 more pens than you.",
+  "pinyin": "wǒ bǐ nǐ duō 10 zhī gāngbǐ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "多",
+      "en": "more",
+      "pi": "duō"
+    },
+    {
+      "ch": "１０",
+      "en": "10",
+      "pi": "shí"
+    },
+    {
+      "ch": "支",
+      "en": "measure word for long, thin objects",
+      "pi": "zhī"
+    },
+    {
+      "ch": "钢笔",
+      "en": "pens",
+      "pi": "gāngbǐ"
+    }
+  ]
+}

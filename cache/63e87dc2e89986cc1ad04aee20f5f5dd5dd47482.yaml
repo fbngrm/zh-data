@@ -1,0 +1,32 @@
+{
+  "chinese": "她最晚9点必须回家。",
+  "english": "She must be home no later than 9 pm.",
+  "pinyin": "tā zuì wǎn 9 diǎn bìxū huí jiā。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "最晚",
+      "en": "no later than",
+      "pi": "zuì wǎn"
+    },
+    {
+      "ch": "9点",
+      "en": "9 pm",
+      "pi": "9 diǎn"
+    },
+    {
+      "ch": "必须",
+      "en": "must",
+      "pi": "bìxū"
+    },
+    {
+      "ch": "回家",
+      "en": "be home",
+      "pi": "huí jiā"
+    }
+  ]
+}

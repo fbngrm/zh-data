@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆全都告诉了条子。",
+  "english": "Tom told everything to the police.",
+  "pinyin": "tāng mǔ quán dōu gào sù le tiáo zǐ.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "全都",
+      "en": "everything",
+      "pi": "quán dōu"
+    },
+    {
+      "ch": "告诉",
+      "en": "told",
+      "pi": "gào sù"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "条子",
+      "en": "police",
+      "pi": "tiáo zǐ"
+    }
+  ]
+}

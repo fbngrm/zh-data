@@ -1,0 +1,43 @@
+{
+   "sentences":[
+      {
+         "chinese":"把灯关了。",
+         "english":"Turn off the light.",
+         "pinyin":"bǎ dēng guān le。",
+         "words":[
+            {
+               "ch":"把",
+               "en":"Turn",
+               "pi":"bǎ"
+            },
+            {
+               "ch":"灯",
+               "en":"light",
+               "pi":"dēng"
+            },
+            {
+               "ch":"关了",
+               "en":"off",
+               "pi":"guān le"
+            }
+         ]
+      },
+      {
+         "chinese":"我睡不着。",
+         "english":"I can't sleep.",
+         "pinyin":"wǒ shuì bù zháo。",
+         "words":[
+            {
+               "ch":"我",
+               "en":"I",
+               "pi":"wǒ"
+            },
+            {
+               "ch":"睡不着",
+               "en":"can't sleep",
+               "pi":"shuì bù zháo"
+            }
+         ]
+      }
+   ]
+}

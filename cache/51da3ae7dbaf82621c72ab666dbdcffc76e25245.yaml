@@ -1,0 +1,42 @@
+{
+  "chinese": "她們兩個人都是好學生。",
+  "english": "Both of them are good students.",
+  "pinyin": "tā men liǎng gè rén dōu shì hǎo xué shēng。",
+  "words": [
+    {
+      "ch": "她們",
+      "en": "They",
+      "pi": "tā men"
+    },
+    {
+      "ch": "兩個",
+      "en": "both",
+      "pi": "liǎng gè"
+    },
+    {
+      "ch": "人",
+      "en": "person",
+      "pi": "rén"
+    },
+    {
+      "ch": "都",
+      "en": "are",
+      "pi": "dōu"
+    },
+    {
+      "ch": "是",
+      "en": "good",
+      "pi": "shì"
+    },
+    {
+      "ch": "好",
+      "en": "student",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "學生",
+      "en": "student",
+      "pi": "xué shēng"
+    }
+  ]
+}

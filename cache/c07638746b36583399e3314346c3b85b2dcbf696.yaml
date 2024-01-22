@@ -1,0 +1,37 @@
+{
+  "chinese": "请勿更改没有错误的句子。",
+  "english": "Please do not modify sentences that have no errors.",
+  "pinyin": "qǐng wù gēng gǎi méi yǒu cuò wù de jù zǐ。",
+  "words": [
+    {
+      "ch": "请勿",
+      "en": "Please do not",
+      "pi": "qǐng wù"
+    },
+    {
+      "ch": "更改",
+      "en": "modify",
+      "pi": "gēng gǎi"
+    },
+    {
+      "ch": "没有",
+      "en": "no",
+      "pi": "méi yǒu"
+    },
+    {
+      "ch": "错误",
+      "en": "errors",
+      "pi": "cuò wù"
+    },
+    {
+      "ch": "的",
+      "en": "that",
+      "pi": "de"
+    },
+    {
+      "ch": "句子",
+      "en": "sentences",
+      "pi": "jù zǐ"
+    }
+  ]
+}

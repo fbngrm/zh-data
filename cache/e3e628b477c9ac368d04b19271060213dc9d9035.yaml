@@ -1,0 +1,42 @@
+{
+  "chinese": "这名男子抢走了她的包包。",
+  "english": "The man stole her bag.",
+  "pinyin": "zhè míng nán zǐ qiǎng zǒu le tā de bāo bāo。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "名",
+      "en": "name",
+      "pi": "míng"
+    },
+    {
+      "ch": "男子",
+      "en": "man",
+      "pi": "nán zǐ"
+    },
+    {
+      "ch": "抢走",
+      "en": "stole",
+      "pi": "qiǎng zǒu"
+    },
+    {
+      "ch": "了",
+      "en": "her",
+      "pi": "le"
+    },
+    {
+      "ch": "她的",
+      "en": "bag",
+      "pi": "tā de"
+    },
+    {
+      "ch": "包包",
+      "en": "bag",
+      "pi": "bāo bāo"
+    }
+  ]
+}

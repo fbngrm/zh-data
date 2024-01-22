@@ -1,0 +1,118 @@
+{
+  "sentences": [
+    {
+      "chinese": "鸟的家在森林，鱼的家在江河，蜜蜂的家在花朵，小朋友的家在中国。",
+      "english": "Birds' homes are in the forest, fish's homes are in the rivers, bees' homes are in the flowers, and children's homes are in China.",
+      "pinyin": "Niǎo de jiā zài sēnlín, yú de jiā zài jiānghé, mìfēng de jiā zài huāduǒ, xiǎo péngyǒu de jiā zài zhōngguó.",
+      "words": [
+        {
+          "ch": "鸟的家",
+          "en": "birds' homes",
+          "pi": "niǎo de jiā"
+        },
+        {
+          "ch": "在森林",
+          "en": "are in the forest",
+          "pi": "zài sēnlín"
+        },
+        {
+          "ch": "鱼的家",
+          "en": "fish's homes",
+          "pi": "yú de jiā"
+        },
+        {
+          "ch": "在江河",
+          "en": "are in the rivers",
+          "pi": "zài jiānghé"
+        },
+        {
+          "ch": "蜜蜂的家",
+          "en": "bees' homes",
+          "pi": "mìfēng de jiā"
+        },
+        {
+          "ch": "在花朵",
+          "en": "are in the flowers",
+          "pi": "zài huāduǒ"
+        },
+        {
+          "ch": "小朋友的家",
+          "en": "children's homes",
+          "pi": "xiǎo péngyǒu de jiā"
+        },
+        {
+          "ch": "在中国",
+          "en": "are in China",
+          "pi": "zài zhōngguó"
+        }
+      ]
+    },
+    {
+      "chinese": "我们从小爱祖国，就像鸟儿爱森林，就像鱼儿爱江河，就像蜜蜂爱花朵。",
+      "english": "We love our motherland since we were young, just like birds love the forest, just like fish love the rivers, just like bees love the flowers.",
+      "pinyin": "Wǒmen cóngxiǎo ài zǔguó, jiù xiàng niǎo ér ài sēnlín, jiù xiàng yú ér ài jiānghé, jiù xiàng mìfēng ài huāduǒ.",
+      "words": [
+        {
+          "ch": "我们",
+          "en": "we",
+          "pi": "wǒmen"
+        },
+        {
+          "ch": "从小",
+          "en": "since we were young",
+          "pi": "cóngxiǎo"
+        },
+        {
+          "ch": "爱祖国",
+          "en": "love our motherland",
+          "pi": "ài zǔguó"
+        },
+        {
+          "ch": "就像",
+          "en": "just like",
+          "pi": "jiù xiàng"
+        },
+        {
+          "ch": "鸟儿",
+          "en": "birds",
+          "pi": "niǎo ér"
+        },
+        {
+          "ch": "爱森林",
+          "en": "love the forest",
+          "pi": "ài sēnlín"
+        },
+        {
+          "ch": "就像",
+          "en": "just like",
+          "pi": "jiù xiàng"
+        },
+        {
+          "ch": "鱼儿",
+          "en": "fish",
+          "pi": "yú ér"
+        },
+        {
+          "ch": "爱江河",
+          "en": "love the rivers",
+          "pi": "ài jiānghé"
+        },
+        {
+          "ch": "就像",
+          "en": "just like",
+          "pi": "jiù xiàng"
+        },
+        {
+          "ch": "蜜蜂",
+          "en": "bees",
+          "pi": "mìfēng"
+        },
+        {
+          "ch": "爱花朵",
+          "en": "love the flowers",
+          "pi": "ài huāduǒ"
+        }
+      ]
+    }
+  ]
+}

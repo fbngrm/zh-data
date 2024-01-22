@@ -1,0 +1,13 @@
+{ 
+  "chinese": "他們面帶微笑向我打招呼。",
+  "english": "They greeted me with a smile.",
+  "pinyin": "Tāmen miàndài wēixiào xiàng wǒ dǎzhāohū.",
+  "words": [
+    { "ch": "他們", "en": "They", "pi": "tāmen" },
+    { "ch": "面帶", "en": "with a", "pi": "miàndài" },
+    { "ch": "微笑", "en": "smile", "pi": "wēixiào" },
+    { "ch": "向", "en": "towards", "pi": "xiàng" },
+    { "ch": "我", "en": "me", "pi": "wǒ" },
+    { "ch": "打招呼", "en": "greeted", "pi": "dǎzhāohū" }
+  ]
+}

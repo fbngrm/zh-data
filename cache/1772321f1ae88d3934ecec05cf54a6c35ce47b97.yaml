@@ -1,0 +1,42 @@
+{
+  "chinese": "吉姆的父亲总是很晚才回家。",
+  "english": "Jim's father always comes home late.",
+  "pinyin": "Jí mǔ de fù qin zǒng shì hěn wǎn cái huí jiā。",
+  "words": [
+    {
+      "ch": "吉姆",
+      "en": "Jim",
+      "pi": "Jí mǔ"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "父亲",
+      "en": "father",
+      "pi": "fù qin"
+    },
+    {
+      "ch": "总是",
+      "en": "always",
+      "pi": "zǒng shì"
+    },
+    {
+      "ch": "很晚",
+      "en": "late",
+      "pi": "hěn wǎn"
+    },
+    {
+      "ch": "才",
+      "en": "only",
+      "pi": "cái"
+    },
+    {
+      "ch": "回家",
+      "en": "come home",
+      "pi": "huí jiā"
+    }
+  ]
+}

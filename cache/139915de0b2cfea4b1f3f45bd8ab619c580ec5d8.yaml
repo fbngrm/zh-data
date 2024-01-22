@@ -1,0 +1,13 @@
+{
+  "chinese": "鲍伯把这个壶装满了水。",
+  "english": "Bob filled this pot with water.",
+  "pinyin": "Bào bó bǎ zhè gè hú zhuāng mǎn le shuǐ.",
+  "words": [
+    { "ch": "鲍伯", "en": "Bob", "pi": "Bào bó" },
+    { "ch": "把", "en": "to", "pi": "bǎ" },
+    { "ch": "这个", "en": "this", "pi": "zhè gè" },
+    { "ch": "壶", "en": "pot", "pi": "hú" },
+    { "ch": "装满了", "en": "filled", "pi": "zhuāng mǎn le" },
+    { "ch": "水", "en": "water", "pi": "shuǐ" }
+  ]
+}

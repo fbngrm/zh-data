@@ -1,0 +1,32 @@
+{
+  "chinese": "医生在给病人看病。",
+  "english": "The doctor is treating the patient.",
+  "pinyin": "Yīshēng zài gěi bìngrén kànbìng.",
+  "words": [
+    {
+      "ch": "医生",
+      "en": "doctor",
+      "pi": "yīshēng"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "给",
+      "en": "treating",
+      "pi": "gěi"
+    },
+    {
+      "ch": "病人",
+      "en": "patient",
+      "pi": "bìngrén"
+    },
+    {
+      "ch": "看病",
+      "en": "treating",
+      "pi": "kànbìng"
+    }
+  ]
+}

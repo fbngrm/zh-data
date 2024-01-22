@@ -1,0 +1,27 @@
+{
+  "chinese": "你喜欢果汁吗？",
+  "english": "Do you like fruit juice?",
+  "pinyin": "nǐ xǐhuān guǒzhī ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "果汁",
+      "en": "fruit juice",
+      "pi": "guǒzhī"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆不能骑马。",
+  "english": "Tom can't ride a horse.",
+  "pinyin": "Tāng mǔ bù néng qí mǎ.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "不能",
+      "en": "can't",
+      "pi": "bù néng"
+    },
+    {
+      "ch": "骑",
+      "en": "ride",
+      "pi": "qí"
+    },
+    {
+      "ch": "马",
+      "en": "horse",
+      "pi": "mǎ"
+    }
+  ]
+}

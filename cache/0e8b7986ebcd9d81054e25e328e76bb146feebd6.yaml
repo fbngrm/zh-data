@@ -1,0 +1,32 @@
+{
+  "chinese": "我们星期天要去烧烤。",
+  "english": "We are going to have a barbecue on Sunday.",
+  "pinyin": "wǒmen xīng qī tiān yào qù shāo kǎo.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "星期天",
+      "en": "Sunday",
+      "pi": "xīng qī tiān"
+    },
+    {
+      "ch": "要",
+      "en": "going to",
+      "pi": "yào"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "烧烤",
+      "en": "barbecue",
+      "pi": "shāo kǎo"
+    }
+  ]
+}

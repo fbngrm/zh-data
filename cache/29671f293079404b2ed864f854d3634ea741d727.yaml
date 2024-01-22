@@ -1,0 +1,14 @@
+{
+  "chinese": "我们在一家小咖啡店吃午饭。",
+  "english": "We are having lunch at a small cafe.",
+  "pinyin": "wǒmen zài yī jiā xiǎo kāfēi diàn chī wǔfàn.",
+  "words": [
+    {"ch": "我们", "en": "we", "pi": "wǒmen"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "一家", "en": "a", "pi": "yī jiā"},
+    {"ch": "小", "en": "small", "pi": "xiǎo"},
+    {"ch": "咖啡店", "en": "cafe", "pi": "kāfēi diàn"},
+    {"ch": "吃", "en": "have", "pi": "chī"},
+    {"ch": "午饭", "en": "lunch", "pi": "wǔfàn"}
+  ]
+}

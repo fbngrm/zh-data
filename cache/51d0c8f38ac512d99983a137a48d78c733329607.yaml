@@ -1,0 +1,42 @@
+{
+  "chinese": "火车在今天下午一点半出发。",
+  "english": "The train departs at 1:30 this afternoon.",
+  "pinyin": "huǒ chē zài jīn tiān xià wǔ yī diǎn bàn chū fā。",
+  "words": [
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒ chē"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "下午",
+      "en": "afternoon",
+      "pi": "xià wǔ"
+    },
+    {
+      "ch": "一点",
+      "en": "1:00",
+      "pi": "yī diǎn"
+    },
+    {
+      "ch": "半",
+      "en": "half",
+      "pi": "bàn"
+    },
+    {
+      "ch": "出发",
+      "en": "depart",
+      "pi": "chū fā"
+    }
+  ]
+}

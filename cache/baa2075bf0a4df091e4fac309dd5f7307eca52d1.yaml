@@ -1,0 +1,15 @@
+{
+  "chinese": "我的兄弟住在一个小村庄里。",
+  "english": "My brother lives in a small village.",
+  "pinyin": "Wǒ de xiōngdì zhù zài yīgè xiǎo cūnzhuāng lǐ.",
+  "words": [
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "兄弟", "en": "brother", "pi": "xiōngdì"},
+    {"ch": "住", "en": "live", "pi": "zhù"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "一个", "en": "a", "pi": "yīgè"},
+    {"ch": "小", "en": "small", "pi": "xiǎo"},
+    {"ch": "村庄", "en": "village", "pi": "cūnzhuāng"},
+    {"ch": "里", "en": "inside", "pi": "lǐ"}
+  ]
+}

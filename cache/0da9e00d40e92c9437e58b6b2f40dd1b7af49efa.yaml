@@ -1,0 +1,62 @@
+{
+  "chinese": "每一个函数都应该有描述其目的的注释以避免误解。",
+  "english": "Every function should have comments describing its purpose to avoid misunderstandings.",
+  "pinyin": "měi yī gè hán shù dōu yīng gāi yǒu miáo shù qí mù dì de zhù shì yǐ biàn mì jiě。",
+  "words": [
+    {
+      "ch": "每",
+      "en": "Every",
+      "pi": "měi"
+    },
+    {
+      "ch": "一个",
+      "en": "function",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "函数",
+     "en": "should",
+      "pi": "hán shù"
+    },
+    {
+      "ch": "都",
+      "en": "have",
+      "pi": "dōu"
+    },
+    {
+      "ch": "应该",
+      "en": "comments",
+      "pi": "yīng gāi"
+    },
+    {
+      "ch": "有",
+      "en": "describing",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "描述",
+      "en": "its",
+      "pi": "miáo shù"
+    },
+    {
+      "ch": "其",
+      "en": "purpose",
+      "pi": "qí"
+    },
+    {
+      "ch": "目的",
+      "en": "to",
+      "pi": "mù dì"
+    },
+    {
+      "ch": "的",
+      "en": "avoid",
+      "pi": "de"
+    },
+    {
+      "ch": "注释",
+      "en": "misunderstandings",
+      "pi": "zhù shì"
+    }
+  ]
+}

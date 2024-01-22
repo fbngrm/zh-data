@@ -1,0 +1,16 @@
+{
+  "chinese": "我的朋友全都喝得酩酊大醉，我只好开车把他们送回家。",
+  "english": "All of my friends got drunk, so I had to drive them home.",
+  "pinyin": "wǒ de péngyǒu quándōu hē de míngtǐng dàzuì, wǒ zhǐhǎo kāichē bǎ tāmen sòng huíjiā.",
+  "words": [
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "朋友", "en": "friends", "pi": "péngyǒu"},
+    {"ch": "全都", "en": "all", "pi": "quándōu"},
+    {"ch": "喝得", "en": "got drunk", "pi": "hē de"},
+    {"ch": "酩酊大醉", "en": "very drunk", "pi": "mǐngtǐng dàzuì"},
+    {"ch": "我只好", "en": "I had to", "pi": "wǒ zhǐhǎo"},
+    {"ch": "开车", "en": "drive", "pi": "kāichē"},
+    {"ch": "把他们", "en": "them", "pi": "bǎ tāmen"},
+    {"ch": "送回家", "en": "send them home", "pi": "sòng huíjiā"}
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "放学后我打了网球。",
+  "english": "After school, I played tennis.",
+  "pinyin": "fàng xué hòu wǒ dǎ le wǎng qiú。",
+  "words": [
+    {
+      "ch": "放学后",
+      "en": "After school",
+      "pi": "fàng xué hòu"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "打了",
+      "en": "play",
+      "pi": "dǎ le"
+    },
+    {
+      "ch": "网球",
+      "en": "tennis",
+      "pi": "wǎng qiú"
+    }
+  ]
+}

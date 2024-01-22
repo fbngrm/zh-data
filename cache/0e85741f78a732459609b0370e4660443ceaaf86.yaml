@@ -1,0 +1,42 @@
+{
+  "chinese": "墙上挂着一顶帽子和一件大衣。",
+  "english": "There is a hat and a coat hanging on the wall.",
+  "pinyin": "qiáng shàng guà zhe yī dǐng mào zi hé yī jiàn dà yī。",
+  "words": [
+    {
+      "ch": "墙上",
+      "en": "on the wall",
+      "pi": "qiáng shàng"
+    },
+    {
+      "ch": "挂着",
+      "en": "hanging",
+      "pi": "guà zhe"
+    },
+    {
+      "ch": "一顶",
+      "en": "a",
+      "pi": "yī dǐng"
+    },
+    {
+      "ch": "帽子",
+      "en": "hat",
+      "pi": "mào zi"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "一件",
+      "en": "a",
+      "pi": "yī jiàn"
+    },
+    {
+      "ch": "大衣",
+      "en": "coat",
+      "pi": "dà yī"
+    }
+  ]
+}

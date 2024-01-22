@@ -1,0 +1,27 @@
+{
+  "chinese": "请勿望您的物品。",
+  "english": "Please do not touch your belongings.",
+  "pinyin": "Qǐng wù wàng nín de wùpǐn.",
+  "words": [
+    {
+      "ch": "请勿",
+      "en": "Please do not",
+      "pi": "qǐng wù"
+    },
+    {
+      "ch": "望",
+      "en": "touch",
+      "pi": "wàng"
+    },
+    {
+      "ch": "您的",
+      "en": "your",
+      "pi": "nín de"
+    },
+    {
+      "ch": "物品",
+      "en": "belongings",
+      "pi": "wùpǐn"
+    }
+  ]
+}

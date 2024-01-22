@@ -1,0 +1,42 @@
+{
+  "chinese": "我们必须在五分钟之内离开。",
+  "english": "We must leave within five minutes.",
+  "pinyin": "wǒmen bìxū zài wǔ fēnzhōng zhīnèi líkāi。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "必须",
+      "en": "must",
+      "pi": "bìxū"
+    },
+    {
+      "ch": "在",
+      "en": "within",
+      "pi": "zài"
+    },
+    {
+      "ch": "五",
+      "en": "five",
+      "pi": "wǔ"
+    },
+    {
+      "ch": "分钟",
+      "en": "minutes",
+      "pi": "fēnzhōng"
+    },
+    {
+      "ch": "之内",
+      "en": "within",
+      "pi": "zhīnèi"
+    },
+    {
+      "ch": "离开",
+      "en": "leave",
+      "pi": "líkāi"
+    }
+  ]
+}

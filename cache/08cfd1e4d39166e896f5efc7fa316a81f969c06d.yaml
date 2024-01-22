@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆修好了他的自行车。",
+  "english": "Tom repaired his bicycle.",
+  "pinyin": "Tāng mǔ xiū hǎo le tā de zìxíngchē.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "修好",
+      "en": "repaired",
+      "pi": "xiū hǎo"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "自行车",
+      "en": "bicycle",
+      "pi": "zìxíngchē"
+    }
+  ]
+}

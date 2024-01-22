@@ -1,0 +1,14 @@
+{
+  "chinese": "你知道哪一條路到我家嗎?",
+  "english": "Do you know which way leads to my house?",
+  "pinyin": "nǐ zhīdào nǎ yī tiáo lù dào wǒjiā ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "知道", "en": "know", "pi": "zhīdào"},
+    {"ch": "哪一條", "en": "which way", "pi": "nǎ yī tiáo"},
+    {"ch": "路", "en": "leads", "pi": "lù"},
+    {"ch": "到", "en": "to", "pi": "dào"},
+    {"ch": "我家", "en": "my house", "pi": "wǒjiā"},
+    {"ch": "嗎", "en": "?"}
+  ]
+}

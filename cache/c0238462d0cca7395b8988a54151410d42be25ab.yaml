@@ -1,0 +1,37 @@
+{
+  "chinese": "你想再来些牛肉吗？",
+  "english": "Would you like some more beef?",
+  "pinyin": "Nǐ xiǎng zài lái xiē niúròu ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "再来",
+      "en": "come again",
+      "pi": "zài lái"
+    },
+    {
+      "ch": "些",
+      "en": "some",
+      "pi": "xiē"
+    },
+    {
+      "ch": "牛肉",
+      "en": "beef",
+      "pi": "niúròu"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

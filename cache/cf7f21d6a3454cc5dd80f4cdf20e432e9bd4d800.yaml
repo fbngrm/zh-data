@@ -1,0 +1,57 @@
+{
+  "chinese": "昨晚发生了一场火灾，三栋房屋被烧毁了。",
+  "english": "There was a fire last night, and three houses were burned.",
+  "pinyin": "zuó wǎn fā shēng le yī chǎng huǒ zāi, sān dòng fáng wū bèi shāo huǐ le.",
+  "words": [
+    {
+      "ch": "昨晚",
+      "en": "last night",
+      "pi": "zuó wǎn"
+    },
+    {
+      "ch": "发生",
+      "en": "happen",
+      "pi": "fā shēng"
+    },
+    {
+      "ch": "了",
+      "en": "past tense marker",
+      "pi": "le"
+    },
+    {
+      "ch": "一场",
+      "en": "a",
+      "pi": "yī chǎng"
+    },
+    {
+      "ch": "火灾",
+      "en": "fire",
+      "pi": "huǒ zāi"
+    },
+    {
+      "ch": "三栋",
+      "en": "three",
+      "pi": "sān dòng"
+    },
+    {
+      "ch": "房屋",
+      "en": "houses",
+      "pi": "fáng wū"
+    },
+    {
+      "ch": "被",
+      "en": "passive marker",
+      "pi": "bèi"
+    },
+    {
+      "ch": "烧毁",
+      "en": "burned",
+      "pi": "shāo huǐ"
+    },
+    {
+      "ch": "了",
+      "en": "finished action marker",
+      "pi": "le"
+    }
+  ]
+}

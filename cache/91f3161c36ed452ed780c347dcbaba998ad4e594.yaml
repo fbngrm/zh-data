@@ -1,0 +1,42 @@
+{
+  "chinese": "我租了一间离这里不远的屋子。",
+  "english": "I rented a house not far from here.",
+  "pinyin": "wǒ zū le yī jiān lí zhèlǐ bù yuǎn de wūzi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "租了",
+      "en": "rented",
+      "pi": "zū le"
+    },
+    {
+      "ch": "一间",
+      "en": "a",
+      "pi": "yī jiān"
+    },
+    {
+      "ch": "离",
+      "en": "not far",
+      "pi": "lí"
+    },
+    {
+      "ch": "这里",
+      "en": "from here",
+      "pi": "zhèlǐ"
+    },
+    {
+      "ch": "不远的",
+      "en": "not far",
+      "pi": "bù yuǎn de"
+    },
+    {
+      "ch": "屋子",
+      "en": "house",
+      "pi": "wūzi"
+    }
+  ]
+}

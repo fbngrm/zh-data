@@ -1,0 +1,16 @@
+{
+  "chinese": "玛丽在１６小时横跨大陆的飞行中早产。",
+  "english": "Mary gave birth prematurely during a 16-hour cross-continental flight.",
+  "pinyin": "Mǎ lì zài 16 xiǎo shí héng kuà dà lù de fēi xíng zhōng zǎo chǎn。",
+  "words": [
+    { "ch": "玛丽", "en": "Mary", "pi": "Mǎ lì" },
+    { "ch": "在", "en": "during", "pi": "zài" },
+    { "ch": "１６小时", "en": "16 hours", "pi": "16 xiǎo shí" },
+    { "ch": "横跨", "en": "cross", "pi": "héng kuà" },
+    { "ch": "大陆", "en": "continent", "pi": "dà lù" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "飞行", "en": "flight", "pi": "fēi xíng" },
+    { "ch": "中", "en": "in", "pi": "zhōng" },
+    { "ch": "早产", "en": "premature birth", "pi": "zǎo chǎn" }
+  ]
+}

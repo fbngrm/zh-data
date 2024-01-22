@@ -1,0 +1,37 @@
+{
+  "chinese": "可是你的函数不符合利普希茨条件！",
+  "english": "But your function does not meet the Lipschitz condition!",
+  "pinyin": "kě shì nǐ de hán shù bù fú hé lì pǔ xī cí tiáo jiàn！",
+  "words": [
+    {
+      "ch": "可是",
+      "en": "But",
+      "pi": "kě shì"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "函数",
+      "en": "function",
+      "pi": "hán shù"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "符合",
+      "en": "meet",
+      "pi": "fú hé"
+    },
+    {
+      "ch": "利普希茨条件",
+      "en": "Lipschitz condition",
+      "pi": "lì pǔ xī cí tiáo jiàn"
+    }
+  ]
+}

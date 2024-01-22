@@ -1,0 +1,37 @@
+{
+  "chinese": "这是谁的语法书?",
+  "english": "Whose grammar book is this?",
+  "pinyin": "zhè shì shéi de yǔ fǎ shū?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "谁",
+      "en": "whose",
+      "pi": "shéi"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "语法书",
+      "en": "grammar book",
+      "pi": "yǔ fǎ shū"
+    },
+    {
+      "ch": "?",
+      "en": "",
+      "pi": ""
+    }
+  ]
+}

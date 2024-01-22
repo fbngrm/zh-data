@@ -1,0 +1,52 @@
+{
+  "chinese": "请你告诉我路怎么走好吗？",
+  "english": "Can you tell me how to get there?",
+  "pinyin": "qǐng nǐ gào sù wǒ lù zěn me zǒu hǎo ma?",
+  "words": [
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "告诉",
+      "en": "tell",
+      "pi": "gào sù"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "路",
+      "en": "road",
+      "pi": "lù"
+    },
+    {
+      "ch": "怎么",
+      "en": "how",
+      "pi": "zěn me"
+    },
+    {
+      "ch": "走",
+      "en": "to go",
+      "pi": "zǒu"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

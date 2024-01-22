@@ -1,0 +1,12 @@
+{
+  "chinese": "下一个站叫什么?",
+  "english": "What is the next stop called?",
+  "pinyin": "Xià yīgè zhàn jiào shénme?",
+  "words": [
+    {"ch": "下", "en": "next", "pi": "xià"},
+    {"ch": "一个", "en": "one", "pi": "yīgè"},
+    {"ch": "站", "en": "stop", "pi": "zhàn"},
+    {"ch": "叫", "en": "called", "pi": "jiào"},
+    {"ch": "什么", "en": "what", "pi": "shénme"}
+  ]
+}

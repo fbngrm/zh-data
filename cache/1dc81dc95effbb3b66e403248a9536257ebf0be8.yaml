@@ -1,0 +1,15 @@
+{
+  "chinese": "觀光巴士穿過了一條長長的隧道。",
+  "english": "The sightseeing bus passed through a long tunnel.",
+  "pinyin": "Guānguāng bāshì chuānguòle yī tiáo chángcháng de suìdào.",
+  "words": [
+    {"ch": "觀光", "en": "sightseeing", "pi": "guānguāng"},
+    {"ch": "巴士", "en": "bus", "pi": "bāshì"},
+    {"ch": "穿過", "en": "passed through", "pi": "chuānguò"},
+    {"ch": "了", "en": "", "pi": "le"},
+    {"ch": "一條", "en": "a", "pi": "yī tiáo"},
+    {"ch": "長長", "en": "long", "pi": "chángcháng"},
+    {"ch": "的", "en": "", "pi": "de"},
+    {"ch": "隧道", "en": "tunnel", "pi": "suìdào"}
+  ]
+}

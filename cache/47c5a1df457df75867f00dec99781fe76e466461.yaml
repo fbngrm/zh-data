@@ -1,0 +1,42 @@
+{
+  "chinese": "这个球是那个男孩的宝贝。",
+  "english": "This ball is that boy's treasure.",
+  "pinyin": "zhè gè qiú shì nà gè nán hái de bǎo bèi.",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "球",
+      "en": "ball",
+      "pi": "qiú"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "那个",
+      "en": "that",
+      "pi": "nà gè"
+    },
+    {
+      "ch": "男孩",
+      "en": "boy",
+      "pi": "nán hái"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "宝贝",
+      "en": "treasure",
+      "pi": "bǎo bèi"
+    }
+  ]
+}

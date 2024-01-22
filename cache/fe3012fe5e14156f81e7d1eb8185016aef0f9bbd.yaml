@@ -1,0 +1,32 @@
+{
+  "chinese": "你在那边玩吧。",
+  "english": "You play over there.",
+  "pinyin": "nǐ zài nà biān wán ba.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "那边",
+      "en": "over there",
+      "pi": "nà biān"
+    },
+    {
+      "ch": "玩",
+      "en": "play",
+      "pi": "wán"
+    },
+    {
+      "ch": "吧",
+      "en": "particle indicating suggestion or gentle command",
+      "pi": "ba"
+    }
+  ]
+}

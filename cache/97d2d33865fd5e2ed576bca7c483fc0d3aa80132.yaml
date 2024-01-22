@@ -1,0 +1,37 @@
+{
+  "chinese": "你是哪国人？",
+  "english": "Which country are you from?",
+  "pinyin": "nǐ shì nǎ guó rén?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "哪",
+      "en": "which",
+      "pi": "nǎ"
+    },
+    {
+      "ch": "国",
+      "en": "country",
+      "pi": "guó"
+    },
+    {
+      "ch": "人",
+      "en": "person",
+      "pi": "rén"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "?"
+    }
+  ]
+}

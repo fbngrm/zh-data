@@ -1,0 +1,32 @@
+{
+  "chinese": "她挤上了火车。",
+  "english": "She squeezed onto the train.",
+  "pinyin": "Tā jǐ shàng le huǒchē.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "挤",
+      "en": "squeeze",
+      "pi": "jǐ"
+    },
+    {
+      "ch": "上",
+      "en": "onto",
+      "pi": "shàng"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒchē"
+    }
+  ]
+}

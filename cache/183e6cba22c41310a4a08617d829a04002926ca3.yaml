@@ -1,0 +1,42 @@
+{
+  "chinese": "我母亲会说五种语言。",
+  "english": "My mother can speak five languages.",
+  "pinyin": "wǒ mǔqīn huì shuō wǔ zhǒng yǔyán.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "母亲",
+      "en": "mother",
+      "pi": "mǔqīn"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "五",
+      "en": "five",
+      "pi": "wǔ"
+    },
+    {
+      "ch": "种",
+      "en": "kinds",
+      "pi": "zhǒng"
+    },
+    {
+      "ch": "语言",
+      "en": "languages",
+      "pi": "yǔyán"
+    }
+  ]
+}

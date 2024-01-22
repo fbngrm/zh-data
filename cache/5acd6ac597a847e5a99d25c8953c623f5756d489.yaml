@@ -1,0 +1,42 @@
+{
+  "chinese": "你比较喜欢哪一个，茶还是咖啡?",
+  "english": "Which one do you prefer, tea or coffee?",
+  "pinyin": "Nǐ bǐjiào xǐhuān nǎ yīgè, chá háishì kāfēi?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "比较",
+      "en": "prefer",
+      "pi": "bǐjiào"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "哪一个",
+      "en": "which one",
+      "pi": "nǎ yīgè"
+    },
+    {
+      "ch": "茶",
+      "en": "tea",
+      "pi": "chá"
+    },
+    {
+      "ch": "还是",
+      "en": "or",
+      "pi": "háishì"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kāfēi"
+    }
+  ]
+}

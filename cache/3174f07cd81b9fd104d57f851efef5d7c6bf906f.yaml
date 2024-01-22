@@ -1,0 +1,32 @@
+{
+  "chinese": "我昨天被解雇了。",
+  "english": "I was fired yesterday.",
+  "pinyin": "wǒ zuótiān bèi jiěgù le。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "被",
+      "en": "was",
+      "pi": "bèi"
+    },
+    {
+      "ch": "解雇",
+      "en": "fired",
+      "pi": "jiěgù"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "chinese": "我什么都不需要。。。只要一条新裤子。",
+  "english": "I don't need anything... just a new pair of pants.",
+  "pinyin": "wǒ shénme dōu bù xūyào... zhǐyào yī tiáo xīn kùzi.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "什么", "en": "anything", "pi": "shénme"},
+    {"ch": "都", "en": "all", "pi": "dōu"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "需要", "en": "need", "pi": "xūyào"},
+    {"ch": "只要", "en": "just need", "pi": "zhǐyào"},
+    {"ch": "一条", "en": "a", "pi": "yī tiáo"},
+    {"ch": "新", "en": "new", "pi": "xīn"},
+    {"ch": "裤子", "en": "pair of pants", "pi": "kùzi"}
+  ]
+}

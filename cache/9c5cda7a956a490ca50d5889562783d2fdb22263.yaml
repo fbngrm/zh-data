@@ -1,0 +1,37 @@
+{
+  "chinese": "我们今天将有一个考试。",
+  "english": "We will have an exam today.",
+  "pinyin": "wǒmen jīntiān jiāng yǒu yīgè kǎoshì.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "将",
+      "en": "will",
+      "pi": "jiāng"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一个",
+      "en": "an",
+      "pi": "yīgè"
+    },
+    {
+      "ch": "考试",
+      "en": "exam",
+      "pi": "kǎoshì"
+    }
+  ]
+}

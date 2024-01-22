@@ -1,0 +1,51 @@
+[
+  {
+    "chinese": "我现在得走了。",
+    "pinyin": "Wǒ xiànzài děi zǒu le.",
+    "english": "I have to go now.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "Wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "现在",
+        "Pinyin": "xiànzài",
+        "English": "now, now, at present, at the moment, modern, current, nowadays"
+      },
+      {
+        "Chinese": "得",
+        "Pinyin": "děi",
+        "English": "have to, to obtain, to get, to gain, to catch (a disease), proper, suitable, proud, contented, to allow, to permit, ready, finished, structural particle: used after a verb (or adjective as main verb), linking it to following phrase indicating effect, degree, possibility etc, to have to, must, ought to, to need to"
+      },
+      {
+        "Chinese": "走了",
+        "Pinyin": "zǒu le",
+        "English": "go"
+      }
+    ]
+  },
+  {
+    "chinese": "我回来了！",
+    "pinyin": "wǒ huí lái le!",
+    "english": "I'm back!",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "回来",
+        "Pinyin": "huí lái",
+        "English": "back, to return, to come back"
+      },
+      {
+        "Chinese": "了",
+        "Pinyin": "le",
+        "English": "!, (completed action marker), (modal particle indicating change of state, situation now), (modal particle intensifying preceding clause), to finish, to achieve, variant of 瞭|了, (of eyes) bright, clear-sighted, to understand clearly, unofficial variant of 瞭"
+      }
+    ]
+  }
+]

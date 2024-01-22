@@ -1,0 +1,16 @@
+{
+  "chinese": "这辆他正在开的车不是他的。",
+  "english": "The car he is driving is not his.",
+  "pinyin": "zhè liàng tā zhèngzài kāi de chē bùshì tā de。",
+  "words": [
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "辆", "en": "car", "pi": "liàng"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "正在", "en": "is", "pi": "zhèngzài"},
+    {"ch": "开", "en": "driving", "pi": "kāi"},
+    {"ch": "的", "en": "de", "pi": "de"},
+    {"ch": "车", "en": "car", "pi": "chē"},
+    {"ch": "不是", "en": "not", "pi": "bùshì"},
+    {"ch": "他的", "en": "his", "pi": "tā de"}
+  ]
+}

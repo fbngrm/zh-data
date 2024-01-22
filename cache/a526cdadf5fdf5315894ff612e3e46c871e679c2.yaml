@@ -1,0 +1,13 @@
+{
+  "chinese": "我在笔记本电脑上运行Ｌｉｎｕｘ。",
+  "english": "I run Linux on my laptop.",
+  "pinyin": "wǒ zài bǐ jì běn diàn nǎo shàng yùn xíng Lí nù kè sì."
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "在", "en": "on", "pi": "zài"},
+    {"ch": "笔记本电脑", "en": "laptop", "pi": "bǐ jì běn diàn nǎo"},
+    {"ch": "上", "en": "on", "pi": "shàng"},
+    {"ch": "运行", "en": "run", "pi": "yùn xíng"},
+    {"ch": "Ｌｉｎｕｘ", "en": "Linux", "pi": "Lí nù kè sì"}
+  ]
+}

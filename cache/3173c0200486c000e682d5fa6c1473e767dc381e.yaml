@@ -1,0 +1,27 @@
+{
+  "chinese": "你每天几点起床？",
+  "english": "What time do you get up every day?",
+  "pinyin": "Nǐ měi tiān jǐ diǎn qǐchuáng?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "几点",
+      "en": "what time",
+      "pi": "jǐ diǎn"
+    },
+    {
+      "ch": "起床",
+      "en": "get up",
+      "pi": "qǐchuáng"
+    }
+  ]
+}

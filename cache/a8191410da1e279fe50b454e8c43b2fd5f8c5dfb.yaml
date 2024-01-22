@@ -1,0 +1,32 @@
+{
+  "chinese": "最近的地铁站在哪里？",
+  "english": "Where is the nearest subway station?",
+  "pinyin": "zuì jìn de dì tiě zhàn zài nǎ lǐ?",
+  "words": [
+    {
+      "ch": "最近",
+      "en": "nearest",
+      "pi": "zuì jìn"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "地铁站",
+      "en": "subway station",
+      "pi": "dì tiě zhàn"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪里",
+      "en": "where",
+      "pi": "nǎ lǐ"
+    }
+  ]
+}

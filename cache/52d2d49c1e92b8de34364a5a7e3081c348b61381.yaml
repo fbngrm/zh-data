@@ -1,0 +1,19 @@
+{
+  "chinese": "Ｔｏｍ把除了厨房水槽之外的所有东西都打包了。",
+  "english": "Tom packed everything except the kitchen sink.",
+  "pinyin": "Tōm bǎ chúle chúfáng shuǐcáo zhīwài de suǒyǒu dōngxi dōu dǎbāo le.",
+  "words": [
+    {"ch": "Ｔｏｍ", "en": "Tom", "pi": "Tōm"},
+    {"ch": "把", "en": "to", "pi": "bǎ"},
+    {"ch": "除了", "en": "except", "pi": "chúle"},
+    {"ch": "厨房", "en": "kitchen", "pi": "chúfáng"},
+    {"ch": "水槽", "en": "sink", "pi": "shuǐcáo"},
+    {"ch": "之外", "en": "except", "pi": "zhīwài"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "所有", "en": "all", "pi": "suǒyǒu"},
+    {"ch": "东西", "en": "things", "pi": "dōngxi"},
+    {"ch": "都", "en": "all", "pi": "dōu"},
+    {"ch": "打包", "en": "packed", "pi": "dǎbāo"},
+    {"ch": "了", "en": "", "pi": "le"}
+  ]
+}

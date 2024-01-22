@@ -1,0 +1,68 @@
+{
+  "sentences": [
+    {
+      "chinese": "请送两份早餐过来。",
+      "english": "Please deliver two breakfasts.",
+      "pinyin": "qǐng sòng liǎng fèn zǎo cān guò lái.",
+      "words": [
+        {
+          "ch": "请",
+          "en": "Please",
+          "pi": "qǐng"
+        },
+        {
+          "ch": "送",
+          "en": "deliver",
+          "pi": "sòng"
+        },
+        {
+          "ch": "两份",
+          "en": "two",
+          "pi": "liǎng fèn"
+        },
+        {
+          "ch": "早餐",
+          "en": "breakfast",
+          "pi": "zǎo cān"
+        },
+        {
+          "ch": "过来",
+          "en": "over here",
+          "pi": "guò lái"
+        }
+      ]
+    },
+    {
+      "chinese": "2号餐加两杯奶茶。",
+      "english": "Meal number 2 with two cups of milk tea.",
+      "pinyin": "èr hào cān jiā liǎng bēi nǎi chá.",
+      "words": [
+        {
+          "ch": "2号",
+          "en": "meal number 2",
+          "pi": "èr hào"
+        },
+        {
+          "ch": "餐",
+          "en": "meal",
+          "pi": "cān"
+        },
+        {
+          "ch": "加",
+          "en": "with",
+          "pi": "jiā"
+        },
+        {
+          "ch": "两杯",
+          "en": "two cups",
+          "pi": "liǎng bēi"
+        },
+        {
+          "ch": "奶茶",
+          "en": "milk tea",
+          "pi": "nǎi chá"
+        }
+      ]
+    }
+  ]
+}

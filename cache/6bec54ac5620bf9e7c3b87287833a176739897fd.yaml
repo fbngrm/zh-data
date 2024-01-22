@@ -1,0 +1,27 @@
+{
+  "chinese": "英语很难，不是吗？",
+  "english": "English is difficult, isn't it?",
+  "pinyin": "Yīngyǔ hěn nán, bú shì ma?",
+  "words": [
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "Yīngyǔ"
+    },
+    {
+      "ch": "很难",
+      "en": "difficult",
+      "pi": "hěn nán"
+    },
+    {
+      "ch": "不是",
+      "en": "isn't",
+      "pi": "bú shì"
+    },
+    {
+      "ch": "吗",
+      "en": "it?",
+      "pi": "ma?"
+    }
+  ]
+}

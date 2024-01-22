@@ -1,0 +1,32 @@
+{
+  "chinese": "我已经洗了碗盘。",
+  "english": "I have already washed the dishes.",
+  "pinyin": "wǒ yǐjīng xǐle wǎnpán。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐjīng"
+    },
+    {
+      "ch": "洗",
+      "en": "washed",
+      "pi": "xǐ"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "碗盘",
+      "en": "dishes",
+      "pi": "wǎnpán"
+    }
+  ]
+}

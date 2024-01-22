@@ -1,0 +1,37 @@
+{
+  "chinese": "她请了我吃晚饭。",
+  "english": "She invited me to have dinner.",
+  "pinyin": "tā qǐng le wǒ chī wǎn fàn.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "请",
+      "en": "invite",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "了",
+      "en": "(emphasize completion)",
+      "pi": "le"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "晚饭",
+      "en": "dinner",
+      "pi": "wǎn fàn"
+    }
+  ]
+}

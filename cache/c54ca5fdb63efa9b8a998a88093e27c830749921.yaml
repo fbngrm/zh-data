@@ -1,0 +1,37 @@
+{
+  "chinese": "除非雨停了，我们才会出去。",
+  "english": "We won't go out unless it stops raining.",
+  "pinyin": "Chúfēi yǔ tíng le, wǒmen cái huì chūqù.",
+  "words": [
+    {
+      "ch": "除非",
+      "en": "unless",
+      "pi": "chúfēi"
+    },
+    {
+      "ch": "雨停了",
+      "en": "it stops raining",
+      "pi": "yǔ tíng le"
+    },
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "才",
+      "en": "just",
+      "pi": "cái"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "出去",
+      "en": "go out",
+      "pi": "chūqù"
+    }
+  ]
+}

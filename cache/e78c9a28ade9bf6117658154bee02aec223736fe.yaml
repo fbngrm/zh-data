@@ -1,0 +1,37 @@
+{
+  "chinese": "学生不得在校园范围内吸烟。",
+  "english": "Students are not allowed to smoke within the campus.",
+  "pinyin": "Xuéshēng bùdé zài xiàoyuán fànwéi nèi xīyān.",
+  "words": [
+    {
+      "ch": "学生",
+      "en": "students",
+      "pi": "xuéshēng"
+    },
+    {
+      "ch": "不得",
+      "en": "not allowed",
+      "pi": "bùdé"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "校园",
+      "en": "campus",
+      "pi": "xiàoyuán"
+    },
+    {
+      "ch": "范围内",
+      "en": "within",
+      "pi": "fànwéi nèi"
+    },
+    {
+      "ch": "吸烟",
+      "en": "smoke",
+      "pi": "xīyān"
+    }
+  ]
+}

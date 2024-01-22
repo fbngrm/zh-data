@@ -1,0 +1,27 @@
+{
+  "chinese": "喝杯红茶吗？",
+  "english": "Would you like a cup of black tea?",
+  "pinyin": "hē bēi hóng chá ma?",
+  "words": [
+    {
+      "ch": "喝",
+      "en": "drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "杯",
+      "en": "cup",
+      "pi": "bēi"
+    },
+    {
+      "ch": "红茶",
+      "en": "black tea",
+      "pi": "hóng chá"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "现在已经九点了，你快一点儿。",
+  "english": "It's already nine o'clock now, you need to hurry up a bit.",
+  "pinyin": "Xiàn zài yǐ jīng jiǔ diǎn le, nǐ kuài yī diǎn er.",
+  "words": [
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐ jīng"
+    },
+    {
+      "ch": "九点",
+      "en": "nine o'clock",
+      "pi": "jiǔ diǎn"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "快",
+      "en": "hurry up",
+      "pi": "kuài"
+    },
+    {
+      "ch": "一点儿",
+      "en": "a bit",
+      "pi": "yī diǎn er"
+    }
+  ]
+}

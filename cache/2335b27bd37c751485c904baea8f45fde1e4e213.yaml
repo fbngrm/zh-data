@@ -1,0 +1,42 @@
+{
+  "chinese": "我让我哥修理我的自行车。",
+  "english": "I asked my brother to fix my bicycle.",
+  "pinyin": "wǒ ràng wǒ gē xiūlǐ wǒ de zìxíngchē。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "让",
+      "en": "ask",
+      "pi": "ràng"
+    },
+    {
+      "ch": "我",
+      "en": "my",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "哥",
+      "en": "brother",
+      "pi": "gē"
+    },
+    {
+      "ch": "修理",
+      "en": "to fix",
+      "pi": "xiūlǐ"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "自行车",
+      "en": "bicycle",
+      "pi": "zìxíngchē"
+    }
+  ]
+}

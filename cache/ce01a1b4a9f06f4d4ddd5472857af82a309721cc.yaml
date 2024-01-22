@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆不必今天就完成那工作。",
+  "english": "Tom doesn't have to finish that work today.",
+  "pinyin": "Tāng mǔ bù bì jīntiān jiù wánchéng nà gōngzuò.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "不必",
+      "en": "doesn't have to",
+      "pi": "bù bì"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "就",
+      "en": "just",
+      "pi": "jiù"
+    },
+    {
+      "ch": "完成",
+      "en": "finish",
+      "pi": "wánchéng"
+    },
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "工作",
+      "en": "work",
+      "pi": "gōngzuò"
+    }
+  ]
+}

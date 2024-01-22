@@ -1,0 +1,32 @@
+{
+  "chinese": "我们昨晚有一个聚会。",
+  "english": "We had a party last night.",
+  "pinyin": "wǒ men zuó wǎn yǒu yī gè jù huì。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "昨晚",
+      "en": "last night",
+      "pi": "zuó wǎn"
+    },
+    {
+      "ch": "有",
+      "en": "had",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "聚会",
+      "en": "party",
+      "pi": "jù huì"
+    }
+  ]
+}

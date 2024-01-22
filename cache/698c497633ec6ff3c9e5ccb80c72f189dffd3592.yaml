@@ -1,0 +1,12 @@
+{
+  "chinese": "这看上去像个蛋。",
+  "english": "This looks like an egg.",
+  "pinyin": "zhè kàn shàngqù xiàng gè dàn.",
+  "words": [
+    { "ch": "这", "en": "this", "pi": "zhè" },
+    { "ch": "看上去", "en": "looks like", "pi": "kàn shàngqù" },
+    { "ch": "像", "en": "like", "pi": "xiàng" },
+    { "ch": "个", "en": "an", "pi": "gè" },
+    { "ch": "蛋", "en": "egg", "pi": "dàn" }
+  ]
+}

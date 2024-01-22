@@ -1,0 +1,47 @@
+{
+  "chinese": "我几乎每天都见到那条狗。",
+  "english": "I almost see that dog every day.",
+  "pinyin": "wǒ jīhū měitiān dōu jiàndào nà tiáo gǒu.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "几乎",
+      "en": "almost",
+      "pi": "jīhū"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měitiān"
+    },
+    {
+      "ch": "都",
+      "en": "always",
+      "pi": "dōu"
+    },
+    {
+      "ch": "见到",
+      "en": "see",
+      "pi": "jiàndào"
+    },
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "条",
+      "en": "measure word for long, narrow objects",
+      "pi": "tiáo"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    }
+  ]
+}

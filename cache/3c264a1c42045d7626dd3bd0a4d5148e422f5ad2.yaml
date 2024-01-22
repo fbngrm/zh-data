@@ -1,0 +1,37 @@
+{
+  "chinese": "中午到达那里是不可能的。",
+  "english": "It is impossible to reach there at noon.",
+  "pinyin": "zhōngwǔ dàodá nàlǐ shì bùkěnéng de.",
+  "words": [
+    {
+      "ch": "中午",
+      "en": "noon",
+      "pi": "zhōngwǔ"
+    },
+    {
+      "ch": "到达",
+      "en": "reach",
+      "pi": "dàodá"
+    },
+    {
+      "ch": "那里",
+      "en": "there",
+      "pi": "nàlǐ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "不可能",
+      "en": "impossible",
+      "pi": "bùkěnéng"
+    },
+    {
+      "ch": "的",
+      "en": "particle",
+      "pi": "de"
+    }
+  ]
+}

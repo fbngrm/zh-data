@@ -1,0 +1,14 @@
+{
+  "chinese": "我们把牛奶制成乳酪和奶油。",
+  "english": "We turn milk into cheese and cream.",
+  "pinyin": "wǒ men bǎ niú nǎi zhì chéng rǔ lào hé nǎi yóu.",
+  "words": [
+    {"ch": "我们", "en": "We", "pi": "wǒ men"},
+    {"ch": "把", "en": "turn", "pi": "bǎ"},
+    {"ch": "牛奶", "en": "milk", "pi": "niú nǎi"},
+    {"ch": "制成", "en": "into", "pi": "zhì chéng"},
+    {"ch": "乳酪", "en": "cheese", "pi": "rǔ lào"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "奶油", "en": "cream", "pi": "nǎi yóu"}
+  ]
+}

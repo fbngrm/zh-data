@@ -1,0 +1,42 @@
+{
+  "chinese": "你知道这是甚么意思吗？",
+  "english": "Do you know what this means?",
+  "pinyin": "nǐ zhīdào zhè shì shénme yìsi ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "知道",
+      "en": "to know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "甚么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "意思",
+      "en": "meaning",
+      "pi": "yìsi"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

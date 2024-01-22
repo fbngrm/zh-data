@@ -1,0 +1,32 @@
+{
+  "chinese": "我不知道现在几点钟。",
+  "english": "I don't know what time it is now.",
+  "pinyin": "wǒ bù zhīdào xiànzài jǐdiǎnzhōng。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiànzài"
+    },
+    {
+      "ch": "几点钟",
+      "en": "what time",
+      "pi": "jǐdiǎnzhōng"
+    }
+  ]
+}

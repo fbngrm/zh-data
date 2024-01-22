@@ -1,0 +1,25 @@
+Here is the JSON object for the sentence "我学英文":
+
+```json
+{
+  "chinese": "我学英文",
+  "english": "I study English",
+  "pinyin": "wǒ xué yīngwén",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "学",
+      "en": "study",
+      "pi": "xué"
+    },
+    {
+      "ch": "英文",
+      "en": "English",
+      "pi": "yīngwén"
+    }
+  ]
+}

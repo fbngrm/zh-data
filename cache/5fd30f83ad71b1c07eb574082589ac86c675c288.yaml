@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆因为有很多作业不能外出。",
+  "english": "Tom can't go out because he has a lot of homework.",
+  "pinyin": "tāng mǔ yīn wèi yǒu hěn duō zuò yè bù néng wài chū。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "因为",
+      "en": "because",
+      "pi": "yīn wèi"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "很多",
+      "en": "a lot of",
+      "pi": "hěn duō"
+    },
+    {
+      "ch": "作业",
+      "en": "homework",
+      "pi": "zuò yè"
+    },
+    {
+      "ch": "不能",
+      "en": "cannot",
+      "pi": "bù néng"
+    },
+    {
+      "ch": "外出",
+      "en": "go out",
+      "pi": "wài chū"
+    }
+  ]
+}

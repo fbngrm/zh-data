@@ -1,0 +1,52 @@
+{
+  "chinese": "请你称一下这个的重量好吗？",
+  "english": "Can you please weigh this?",
+  "pinyin": "qǐng nǐ chēng yīxià zhège de zhòngliàng hǎo ma?",
+  "words": [
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "称",
+      "en": "weigh",
+      "pi": "chēng"
+    },
+    {
+      "ch": "一下",
+      "en": "this",
+      "pi": "yīxià"
+    },
+    {
+      "ch": "这个",
+      "en": "the",
+      "pi": "zhège"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "重量",
+      "en": "weight",
+      "pi": "zhòngliàng"
+    },
+    {
+      "ch": "好吗",
+      "en": "please",
+      "pi": "hǎo ma"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "?"
+    }
+  ]
+}

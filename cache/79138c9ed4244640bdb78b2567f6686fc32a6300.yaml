@@ -1,0 +1,42 @@
+{
+  "chinese": "你听见有人叫你的名字吗？",
+  "english": "Did you hear someone call your name?",
+  "pinyin": "nǐ tīng jiàn yǒu rén jiào nǐ de míng zì ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "听见",
+      "en": "hear",
+      "pi": "tīng jiàn"
+    },
+    {
+      "ch": "有人",
+      "en": "someone",
+      "pi": "yǒu rén"
+    },
+    {
+      "ch": "叫",
+      "en": "call",
+      "pi": "jiào"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míng zì"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

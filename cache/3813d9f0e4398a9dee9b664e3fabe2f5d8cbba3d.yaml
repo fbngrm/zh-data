@@ -1,0 +1,13 @@
+{
+  "chinese": "学生在课堂上必须保持安静。",
+  "english": "Students must remain quiet in the classroom.",
+  "pinyin": "Xuéshēng zài kètáng shàng bìxū bǎochí ānjìng。",
+  "words": [
+    { "ch": "学生", "en": "students", "pi": "xuéshēng" },
+    { "ch": "在", "en": "must", "pi": "zài" },
+    { "ch": "课堂上", "en": "in the classroom", "pi": "kètáng shàng" },
+    { "ch": "必须", "en": "must", "pi": "bìxū" },
+    { "ch": "保持", "en": "remain", "pi": "bǎochí" },
+    { "ch": "安静", "en": "quiet", "pi": "ānjìng" }
+  ]
+}

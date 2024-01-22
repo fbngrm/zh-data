@@ -1,0 +1,42 @@
+{
+  "chinese": "露西是一名来自美国的学生。",
+  "english": "Lucy is a student from the United States.",
+  "pinyin": "lù xī shì yī míng lái zì měi guó de xué shēng。",
+  "words": [
+    {
+      "ch": "露西",
+      "en": "Lucy",
+      "pi": "lù xī"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "一名",
+      "en": "a",
+      "pi": "yī míng"
+    },
+    {
+      "ch": "来自",
+      "en": "from",
+      "pi": "lái zì"
+    },
+    {
+      "ch": "美国",
+      "en": "the United States",
+      "pi": "měi guó"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "学生",
+      "en": "student",
+      "pi": "xué shēng"
+    }
+  ]
+}

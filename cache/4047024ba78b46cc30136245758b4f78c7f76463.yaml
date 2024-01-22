@@ -1,0 +1,32 @@
+{
+  "chinese": "这件事情像是电影情节。",
+  "english": "This thing seems like a movie plot.",
+  "pinyin": "zhè jiàn shì qíng xiàng shì diàn yǐng qíng jié。",
+  "words": [
+    {
+      "ch": "这件",
+      "en": "this",
+      "pi": "zhè jiàn"
+    },
+    {
+      "ch": "事情",
+      "en": "thing",
+      "pi": "shì qíng"
+    },
+    {
+      "ch": "像是",
+      "en": "seems like",
+      "pi": "xiàng shì"
+    },
+    {
+      "ch": "电影",
+      "en": "movie",
+      "pi": "diàn yǐng"
+    },
+    {
+      "ch": "情节",
+      "en": "plot",
+      "pi": "qíng jié"
+    }
+  ]
+}

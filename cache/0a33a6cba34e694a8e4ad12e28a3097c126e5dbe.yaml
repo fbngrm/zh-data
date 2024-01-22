@@ -1,0 +1,15 @@
+{
+  "chinese": "我哥哥有时会教我做功课。",
+  "english": "Sometimes my older brother teaches me to do homework.",
+  "pinyin": "wǒ gēgē yǒu shí huì jiào wǒ zuò gōngkè。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "哥哥", "en": "older brother", "pi": "gēgē"},
+    {"ch": "有时", "en": "sometimes", "pi": "yǒu shí"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "教", "en": "teach", "pi": "jiào"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "做", "en": "do", "pi": "zuò"},
+    {"ch": "功课", "en": "homework", "pi": "gōngkè"}
+  ]
+}

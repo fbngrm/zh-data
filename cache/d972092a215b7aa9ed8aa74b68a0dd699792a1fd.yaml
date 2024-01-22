@@ -1,0 +1,93 @@
+{
+  "sentences": [
+    {
+      "chinese": "我们昨晚没有出去。",
+      "english": "We didn't go out last night.",
+      "pinyin": "wǒmen zuó wǎn méiyǒu chūqù。",
+      "words": [
+        {
+          "ch": "我们",
+          "en": "we",
+          "pi": "wǒmen"
+        },
+        {
+          "ch": "昨晚",
+          "en": "last night",
+          "pi": "zuó wǎn"
+        },
+        {
+          "ch": "没有",
+          "en": "didn't",
+          "pi": "méiyǒu"
+        },
+        {
+          "ch": "出去",
+          "en": "go out",
+          "pi": "chūqù"
+        }
+      ]
+    },
+    {
+      "chinese": "我们可以出去看电影的,但是我们决定留在家里。",
+      "english": "We could go out to watch a movie, but we decided to stay home.",
+      "pinyin": "wǒmen kěyǐ chūqù kàn diànyǐng de, dànshì wǒmen juédìng liú zàijiālǐ。",
+      "words": [
+        {
+          "ch": "我们",
+          "en": "we",
+          "pi": "wǒmen"
+        },
+        {
+          "ch": "可以",
+          "en": "could",
+          "pi": "kěyǐ"
+        },
+        {
+          "ch": "出去",
+          "en": "go out",
+          "pi": "chūqù"
+        },
+        {
+          "ch": "看",
+          "en": "watch",
+          "pi": "kàn"
+        },
+        {
+          "ch": "电影",
+          "en": "movie",
+          "pi": "diànyǐng"
+        },
+        {
+          "ch": "的",
+          "en": "to",
+          "pi": "de"
+        },
+        {
+          "ch": "但是",
+          "en": "but",
+          "pi": "dànshì"
+        },
+        {
+          "ch": "我们",
+          "en": "we",
+          "pi": "wǒmen"
+        },
+        {
+          "ch": "决定",
+          "en": "decided",
+          "pi": "juédìng"
+        },
+        {
+          "ch": "留在",
+          "en": "stay",
+          "pi": "liú zài"
+        },
+        {
+          "ch": "家里",
+          "en": "home",
+          "pi": "jiālǐ"
+        }
+      ]
+    }
+  ]
+}

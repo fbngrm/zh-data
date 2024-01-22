@@ -1,0 +1,32 @@
+{
+  "chinese": "昨晚下了一場大雨。",
+  "english": "Last night there was a heavy rain.",
+  "pinyin": "zuó wǎn xià le yī chǎng dà yǔ。",
+  "words": [
+    {
+      "ch": "昨晚",
+      "en": "Last night",
+      "pi": "zuó wǎn"
+    },
+    {
+      "ch": "下",
+      "en": "down",
+      "pi": "xià"
+    },
+    {
+      "ch": "了",
+      "en": "past tense particle",
+      "pi": "le"
+    },
+    {
+      "ch": "一場",
+      "en": "a",
+      "pi": "yī chǎng"
+    },
+    {
+      "ch": "大雨",
+      "en": "heavy rain",
+      "pi": "dà yǔ"
+    }
+  ]
+}

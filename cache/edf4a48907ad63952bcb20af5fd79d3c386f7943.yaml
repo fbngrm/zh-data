@@ -1,0 +1,32 @@
+{
+  "chinese": "她去了意大利学习音乐。",
+  "english": "She went to Italy to study music.",
+  "pinyin": "tā qùle yì dà lì xué xí yīn yuè.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "去了",
+      "en": "went to",
+      "pi": "qùle"
+    },
+    {
+      "ch": "意大利",
+      "en": "Italy",
+      "pi": "yì dà lì"
+    },
+    {
+      "ch": "学习",
+      "en": "study",
+      "pi": "xué xí"
+    },
+    {
+      "ch": "音乐",
+      "en": "music",
+      "pi": "yīn yuè"
+    }
+  ]
+}

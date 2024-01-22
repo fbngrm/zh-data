@@ -1,0 +1,32 @@
+{
+  "chinese": "我还没有找到工作。",
+  "english": "I haven't found a job yet.",
+  "pinyin": "wǒ hái méiyǒu zhǎodào gōngzuò.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "还",
+      "en": "still/yet",
+      "pi": "hái"
+    },
+    {
+      "ch": "没有",
+      "en": "haven't",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "找到",
+      "en": "found",
+      "pi": "zhǎodào"
+    },
+    {
+      "ch": "工作",
+      "en": "job",
+      "pi": "gōngzuò"
+    }
+  ]
+}

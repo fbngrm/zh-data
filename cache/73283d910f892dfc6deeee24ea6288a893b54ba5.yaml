@@ -1,0 +1,15 @@
+{
+  "chinese": "是的，我也是学生。",
+  "english": "Yes, I am also a student.",
+  "pinyin": "shì de, wǒ yě shì xuéshēng.",
+  "words": [
+    {"ch": "是", "en": "yes", "pi": "shì"},
+    {"ch": "的", "en": "de", "pi": "de"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "也", "en": "also", "pi": "yě"},
+    {"ch": "是", "en": "am", "pi": "shì"},
+    {"ch": "学生", "en": "student", "pi": "xuéshēng"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

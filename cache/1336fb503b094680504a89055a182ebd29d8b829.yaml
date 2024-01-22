@@ -1,0 +1,47 @@
+{
+  "chinese": "这条路太窄汽车无法通行。",
+  "english": "This road is too narrow for cars to pass through.",
+  "pinyin": "Zhè tiáo lù tài zhǎ qi chē wúfǎ tōngxíng.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "条",
+      "en": "measure word",
+      "pi": "tiáo"
+    },
+    {
+      "ch": "路",
+      "en": "road",
+      "pi": "lù"
+    },
+    {
+      "ch": "太",
+      "en": "too",
+      "pi": "tài"
+    },
+    {
+      "ch": "窄",
+      "en": "narrow",
+      "pi": "zhǎ"
+    },
+    {
+      "ch": "汽车",
+      "en": "car",
+      "pi": "qi chē"
+    },
+    {
+      "ch": "无法",
+      "en": "unable to",
+      "pi": "wúfǎ"
+    },
+    {
+      "ch": "通行",
+      "en": "pass through",
+      "pi": "tōngxíng"
+    }
+  ]
+}

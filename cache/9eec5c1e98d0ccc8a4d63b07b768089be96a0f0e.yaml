@@ -1,0 +1,32 @@
+{
+  "chinese": "他往右边移了书桌。",
+  "english": "He moved the desk to the right.",
+  "pinyin": "tā wǎng yòubiān yíle shūzhuō。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "往",
+      "en": "move",
+      "pi": "wǎng"
+    },
+    {
+      "ch": "右边",
+      "en": "to the right",
+      "pi": "yòubiān"
+    },
+    {
+      "ch": "移了",
+      "en": "moved",
+      "pi": "yíle"
+    },
+    {
+      "ch": "书桌",
+      "en": "desk",
+      "pi": "shūzhuō"
+    }
+  ]
+}

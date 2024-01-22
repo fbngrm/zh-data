@@ -1,0 +1,32 @@
+{
+  "chinese": "你要去看看醫生。",
+  "english": "You need to go see a doctor.",
+  "pinyin": "nǐ yào qù kàn kàn yīshēng.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "要",
+      "en": "need to",
+      "pi": "yào"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "看看",
+      "en": "see",
+      "pi": "kàn kàn"
+    },
+    {
+      "ch": "醫生",
+      "en": "doctor",
+      "pi": "yīshēng"
+    }
+  ]
+}

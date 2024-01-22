@@ -1,0 +1,27 @@
+{
+  "chinese": "本次列车开往中山公园。",
+  "english": "This train is heading to Zhongshan Park.",
+  "pinyin": "běn cì liè chē kāi wǎng zhōng shān gōng yuán.",
+  "words": [
+    {
+      "ch": "本次",
+      "en": "This",
+      "pi": "běn cì"
+    },
+    {
+      "ch": "列车",
+      "en": "train",
+      "pi": "liè chē"
+    },
+    {
+      "ch": "开往",
+      "en": "heading to",
+      "pi": "kāi wǎng"
+    },
+    {
+      "ch": "中山公园",
+      "en": "Zhongshan Park",
+      "pi": "zhōng shān gōng yuán"
+    }
+  ]
+}

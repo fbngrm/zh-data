@@ -1,0 +1,15 @@
+{
+  "chinese": "我已经不需要父母的钱了。",
+  "english": "I don't need my parents' money anymore.",
+  "pinyin": "Wǒ yǐjīng bù xūyào fùmǔ de qián le.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "已经", "en": "already", "pi": "yǐjīng"},
+    {"ch": "不", "en": "do not", "pi": "bù"},
+    {"ch": "需要", "en": "need", "pi": "xūyào"},
+    {"ch": "父母", "en": "parents", "pi": "fùmǔ"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "钱", "en": "money", "pi": "qián"},
+    {"ch": "了", "en": "anymore", "pi": "le"}
+  ]
+}

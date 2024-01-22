@@ -1,0 +1,27 @@
+{
+  "chinese": "对不起，打扰你了。",
+  "english": "Sorry to bother you.",
+  "pinyin": "duì bù qǐ, dǎ rǎo nǐ le.",
+  "words": [
+    {
+      "ch": "对不起",
+      "en": "Sorry",
+      "pi": "duì bù qǐ"
+    },
+    {
+      "ch": "打扰",
+      "en": "bother",
+      "pi": "dǎ rǎo"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

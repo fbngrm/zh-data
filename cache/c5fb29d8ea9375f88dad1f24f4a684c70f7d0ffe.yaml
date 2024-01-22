@@ -1,0 +1,32 @@
+{
+  "chinese": "我看这不正常。",
+  "english": "I think this is not normal.",
+  "pinyin": "wǒ kàn zhè bù zhèngcháng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "看",
+      "en": "think",
+      "pi": "kàn"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "正常",
+      "en": "normal",
+      "pi": "zhèngcháng"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我以为汤姆今晚有足球比赛。",
+  "english": "I thought Tom had a soccer match tonight.",
+  "pinyin": "wǒ yǐwéi tāng mǔ jīnwǎn yǒu zúqiú bǐsài.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "以为",
+      "en": "thought",
+      "pi": "yǐwéi"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "今晚",
+      "en": "tonight",
+      "pi": "jīnwǎn"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "足球",
+      "en": "soccer",
+      "pi": "zúqiú"
+    },
+    {
+      "ch": "比赛",
+      "en": "match",
+      "pi": "bǐsài"
+    }
+  ]
+}

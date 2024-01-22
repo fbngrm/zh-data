@@ -1,0 +1,42 @@
+{
+  "chinese": "火车上有预订的座位吗？",
+  "english": "Are there reserved seats on the train?",
+  "pinyin": "huǒchē shàng yǒu yùdìng de zuòwèi ma?",
+  "words": [
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒchē"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "预订",
+      "en": "reserved",
+      "pi": "yùdìng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "座位",
+      "en": "seats",
+      "pi": "zuòwèi"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

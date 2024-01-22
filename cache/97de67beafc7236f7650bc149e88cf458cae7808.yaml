@@ -1,0 +1,13 @@
+{
+  "chinese": "他感染了旅行者的痢疾。",
+  "english": "He contracted traveler's diarrhea.",
+  "pinyin": "tā gǎnrǎnle lǚxíngzhě de lìjí.",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "感染", "en": "contracted", "pi": "gǎnrǎn"},
+    {"ch": "了", "en": "-", "pi": "le"},
+    {"ch": "旅行者", "en": "traveler's", "pi": "lǚxíngzhě"},
+    {"ch": "的", "en": "-'", "pi": "de"},
+    {"ch": "痢疾", "en": "diarrhea", "pi": "lìjí"}
+  ]
+}

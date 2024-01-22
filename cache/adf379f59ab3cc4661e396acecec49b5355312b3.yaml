@@ -1,0 +1,32 @@
+{
+  "chinese": "这间房照不到很多阳光。",
+  "english": "This room does not get a lot of sunlight.",
+  "pinyin": "zhè jiān fáng zhào bù dào hěn duō yáng guāng.",
+  "words": [
+    {
+      "ch": "这间",
+      "en": "this room",
+      "pi": "zhè jiān"
+    },
+    {
+      "ch": "房",
+      "en": "house",
+      "pi": "fáng"
+    },
+    {
+      "ch": "照不到",
+      "en": "cannot get",
+      "pi": "zhào bù dào"
+    },
+    {
+      "ch": "很多",
+      "en": "a lot of",
+      "pi": "hěn duō"
+    },
+    {
+      "ch": "阳光",
+      "en": "sunlight",
+      "pi": "yáng guāng"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "sentences": [
+    {
+      "chinese": "您能帮我拨号吗？",
+      "english": "Can you help me make a phone call?",
+      "pinyin": "nín néng bāng wǒ bō hào ma?",
+      "words": [
+        {
+          "ch": "您",
+          "en": "you",
+          "pi": "nín"
+        },
+        {
+          "ch": "能",
+          "en": "can",
+          "pi": "néng"
+        },
+        {
+          "ch": "帮",
+          "en": "help",
+          "pi": "bāng"
+        },
+        {
+          "ch": "我",
+          "en": "me",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "拨号",
+          "en": "make a phone call",
+          "pi": "bō hào"
+        },
+        {
+          "ch": "吗",
+          "en": "question particle",
+          "pi": "ma"
+        }
+      ]
+    },
+    {
+      "chinese": "电话机放得太高了。",
+      "english": "The telephone is placed too high.",
+      "pinyin": "diàn huà jī fàng de tài gāo le.",
+      "words": [
+        {
+          "ch": "电话机",
+          "en": "telephone",
+          "pi": "diàn huà jī"
+        },
+        {
+          "ch": "放",
+          "en": "place",
+          "pi": "fàng"
+        },
+        {
+          "ch": "得",
+          "en": "too",
+          "pi": "de"
+        },
+        {
+          "ch": "太高",
+          "en": "high",
+          "pi": "tài gāo"
+        },
+        {
+          "ch": "了",
+          "en": "particle indicating completed action",
+          "pi": "le"
+        }
+      ]
+    }
+  ]
+}

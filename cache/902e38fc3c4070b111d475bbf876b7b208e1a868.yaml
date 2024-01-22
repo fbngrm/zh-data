@@ -1,0 +1,32 @@
+{
+  "chinese": "工作之后我直接回家。",
+  "english": "After work, I go straight home.",
+  "pinyin": "Gōngzuò zhīhòu wǒ zhíjiē huíjiā.",
+  "words": [
+    {
+      "ch": "工作",
+      "en": "work",
+      "pi": "gōngzuò"
+    },
+    {
+      "ch": "之后",
+      "en": "after",
+      "pi": "zhīhòu"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "直接",
+      "en": "straight",
+      "pi": "zhíjiē"
+    },
+    {
+      "ch": "回家",
+      "en": "home",
+      "pi": "huíjiā"
+    }
+  ]
+}

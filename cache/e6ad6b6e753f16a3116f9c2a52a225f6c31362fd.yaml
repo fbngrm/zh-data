@@ -1,0 +1,32 @@
+{
+  "chinese": "飞机在云层上飞着。",
+  "english": "The airplane is flying above the clouds.",
+  "pinyin": "fēi jī zài yún céng shàng fēi zhe。",
+  "words": [
+    {
+      "ch": "飞机",
+      "en": "airplane",
+      "pi": "fēi jī"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "云层",
+      "en": "clouds",
+      "pi": "yún céng"
+    },
+    {
+      "ch": "上",
+      "en": "above",
+      "pi": "shàng"
+    },
+    {
+      "ch": "飞着",
+      "en": "flying",
+      "pi": "fēi zhe"
+    }
+  ]
+}

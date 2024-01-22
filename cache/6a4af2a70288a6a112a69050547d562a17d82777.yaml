@@ -1,0 +1,32 @@
+{
+  "chinese": "她有五个孩子。",
+  "english": "She has five children.",
+  "pinyin": "Tā yǒu wǔ gè háizi.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "五",
+      "en": "five",
+      "pi": "wǔ"
+    },
+    {
+      "ch": "个",
+      "en": "measure word",
+      "pi": "gè"
+    },
+    {
+      "ch": "孩子",
+      "en": "children",
+      "pi": "háizi"
+    }
+  ]
+}

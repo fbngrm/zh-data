@@ -1,0 +1,32 @@
+{
+  "chinese": "他们四十分钟之后下课。",
+  "english": "They will finish class after forty minutes.",
+  "pinyin": "tāmen sìshí fēnzhōng zhīhòu xiàkè。",
+  "words": [
+    {
+      "ch": "他们",
+      "en": "They",
+      "pi": "tāmen"
+    },
+    {
+      "ch": "四十",
+      "en": "forty",
+      "pi": "sìshí"
+    },
+    {
+      "ch": "分钟",
+      "en": "minutes",
+      "pi": "fēnzhōng"
+    },
+    {
+      "ch": "之后",
+      "en": "after",
+      "pi": "zhīhòu"
+    },
+    {
+      "ch": "下课",
+      "en": "finish class",
+      "pi": "xiàkè"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "她很漂亮，不是吗？",
+  "english": "She's very beautiful, isn't she?",
+  "pinyin": "tā hěn piàoliang, bùshì ma?",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "漂亮",
+      "en": "beautiful",
+      "pi": "piàoliang"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": ","
+    },
+    {
+      "ch": "不是",
+      "en": "isn't",
+      "pi": "bùshì"
+    },
+    {
+      "ch": "吗",
+      "en": "right?",
+      "pi": "ma"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "?"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "chinese": "天气预报说会下三英寸雪。",
+  "english": "The weather forecast says it will snow three inches.",
+  "pinyin": "Tiānqì yùbào shuō huì xià sān yīngcùn xuě.",
+  "words": [
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiānqì"
+    },
+    {
+      "ch": "预报",
+      "en": "forecast",
+      "pi": "yùbào"
+    },
+    {
+      "ch": "说",
+      "en": "says",
+      "pi": "shuō"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "下",
+      "en": "falling",
+      "pi": "xià"
+    },
+    {
+      "ch": "三",
+      "en": "three",
+      "pi": "sān"
+    },
+    {
+      "ch": "英寸",
+      "en": "inches",
+      "pi": "yīngcùn"
+    },
+    {
+      "ch": "雪",
+      "en": "snow",
+      "pi": "xuě"
+    }
+  ]
+}

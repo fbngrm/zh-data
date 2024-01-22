@@ -1,0 +1,52 @@
+{
+  "chinese": "我们走的时候下着雨，到的时候有太阳。",
+  "english": "It was raining when we left, but the sun was shining when we arrived.",
+  "pinyin": "wǒ men zǒu de shí hòu xià zhe yǔ ， dào de shí hòu yǒu tài yáng。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "走",
+      "en": "left",
+      "pi": "zǒu"
+    },
+    {
+      "ch": "的",
+      "en": "when/do",
+      "pi": "de"
+    },
+    {
+      "ch": "时候",
+      "en": "time",
+      "pi": "shí hòu"
+    },
+    {
+      "ch": "下着",
+      "en": "raining",
+      "pi": "xià zhe"
+    },
+    {
+      "ch": "雨",
+      "en": "rain",
+      "pi": "yǔ"
+    },
+    {
+      "ch": "到",
+      "en": "arrived",
+      "pi": "dào"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "太阳",
+      "en": "sun",
+      "pi": "tài yáng"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "法庭宣判被告无罪。",
+  "english": "The court pronounced the defendant not guilty.",
+  "pinyin": "fǎtíng xuānpàn bèigào wúzuì。",
+  "words": [
+    {
+      "ch": "法庭",
+      "en": "court",
+      "pi": "fǎtíng"
+    },
+    {
+      "ch": "宣判",
+      "en": "pronounce a judgment",
+      "pi": "xuānpàn"
+    },
+    {
+      "ch": "被告",
+      "en": "defendant",
+      "pi": "bèigào"
+    },
+    {
+      "ch": "无罪",
+      "en": "not guilty",
+      "pi": "wúzuì"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "我们有一个顾客专用的停车场。",
+  "english": "We have a customer exclusive parking lot.",
+  "pinyin": "wǒmen yǒu yīgè gùkè zhuānyòng de tíngchēchǎng。",
+  "words": [
+    {"ch": "我们", "en": "we", "pi": "wǒmen"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "一个", "en": "a", "pi": "yīgè"},
+    {"ch": "顾客", "en": "customer", "pi": "gùkè"},
+    {"ch": "专用", "en": "exclusive", "pi": "zhuānyòng"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "停车场", "en": "parking lot", "pi": "tíngchēchǎng"}
+  ]
+}

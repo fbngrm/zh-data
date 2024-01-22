@@ -1,0 +1,15 @@
+{
+  "chinese": "请小心月台与车厢之间的空隙。",
+  "english": "Please be careful of the gap between the platform and the train carriage.",
+  "pinyin": "qǐng xiǎo xīn yuè tái yǔ chē xiāng zhī jiān de kōng xi.",
+  "words": [
+    {"ch": "请", "en": "Please", "pi": "qǐng"},
+    {"ch": "小心", "en": "be careful", "pi": "xiǎo xīn"},
+    {"ch": "月台", "en": "platform", "pi": "yuè tái"},
+    {"ch": "与", "en": "and", "pi": "yǔ"},
+    {"ch": "车厢", "en": "train carriage", "pi": "chē xiāng"},
+    {"ch": "之间", "en": "between", "pi": "zhī jiān"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "空隙", "en": "gap", "pi": "kōng xi."}
+  ]
+}

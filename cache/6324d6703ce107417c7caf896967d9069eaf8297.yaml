@@ -1,0 +1,16 @@
+{
+  "chinese": "我不认识他，他是谁？",
+  "english": "I don't know him, who is he?",
+  "pinyin": "wǒ bù rènshí tā, tā shì shéi?",
+  "words": [
+    {"ch": "我", "en": "I, me", "pi": "wǒ"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "认识", "en": "know, recognize", "pi": "rènshí"},
+    {"ch": "他", "en": "he, him", "pi": "tā"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "他", "en": "he, him", "pi": "tā"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "谁", "en": "who", "pi": "shéi"},
+    {"ch": "？", "en": "?", "pi": "？"}
+  ]
+}

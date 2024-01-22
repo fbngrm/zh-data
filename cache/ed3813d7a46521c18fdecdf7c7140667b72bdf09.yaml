@@ -1,0 +1,42 @@
+{
+  "chinese": "你赞成还是反对这个建议？",
+  "english": "Do you agree or disagree with this suggestion?",
+  "pinyin": "nǐ zàn chéng hái shì fǎn duì zhè gè jiàn yì?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "赞成",
+      "en": "agree",
+      "pi": "zàn chéng"
+    },
+    {
+      "ch": "还是",
+      "en": "or",
+      "pi": "hái shì"
+    },
+    {
+      "ch": "反对",
+      "en": "disagree",
+      "pi": "fǎn duì"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "建议",
+      "en": "suggestion",
+      "pi": "jiàn yì"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "?"
+    }
+  ]
+}

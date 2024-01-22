@@ -1,0 +1,37 @@
+{
+  "chinese": "是杰克打破窗户的吗?",
+  "english": "Did Jack break the window?",
+  "pinyin": "shì jié kè dǎ pò chuāng hù de ma?",
+  "words": [
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "杰克",
+      "en": "Jack",
+      "pi": "jié kè"
+    },
+    {
+      "ch": "打破",
+      "en": "break",
+      "pi": "dǎ pò"
+    },
+    {
+      "ch": "窗户",
+      "en": "window",
+      "pi": "chuāng hù"
+    },
+    {
+      "ch": "的",
+      "en": "the",
+      "pi": "de"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

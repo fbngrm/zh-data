@@ -1,0 +1,42 @@
+{
+  "chinese": "今天早饭我吃了些腌鲱鱼。",
+  "english": "I had some marinated herring for breakfast today.",
+  "pinyin": "jīn tiān zǎo fàn wǒ chī le xiē yān yú。",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "早饭",
+      "en": "breakfast",
+      "pi": "zǎo fàn"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating a completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "些",
+      "en": "some",
+      "pi": "xiē"
+    },
+    {
+      "ch": "腌鲱鱼",
+      "en": "marinated herring",
+      "pi": "yān yú"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆可能能参加会议。",
+  "english": "Tom may be able to attend the meeting.",
+  "pinyin": "tāng mǔ kě néng néng cān jiā huì yì。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "可能",
+      "en": "may",
+      "pi": "kě néng"
+    },
+    {
+      "ch": "能",
+      "en": "be able to",
+      "pi": "néng"
+    },
+    {
+      "ch": "参加",
+      "en": "attend",
+      "pi": "cān jiā"
+    },
+    {
+      "ch": "会议",
+      "en": "meeting",
+      "pi": "huì yì"
+    }
+  ]
+}

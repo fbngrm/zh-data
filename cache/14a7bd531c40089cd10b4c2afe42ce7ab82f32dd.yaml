@@ -1,0 +1,47 @@
+{
+  "chinese": "就算明天下雨，我也會去的。",
+  "english": "Even if it rains tomorrow, I will still go.",
+  "pinyin": "jiù suàn míng tiān xià yǔ, wǒ yě huì qù de.",
+  "words": [
+    {
+      "ch": "就算",
+      "en": "Even if",
+      "pi": "jiù suàn"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "下雨",
+      "en": "rain",
+      "pi": "xià yǔ"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "也",
+      "en": "also",
+      "pi": "yě"
+    },
+    {
+      "ch": "會",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "的",
+      "en": "particle indicating completion of action",
+      "pi": "de"
+    }
+  ]
+}

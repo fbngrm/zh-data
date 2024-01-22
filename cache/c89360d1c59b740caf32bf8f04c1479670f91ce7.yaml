@@ -1,0 +1,32 @@
+{
+  "chinese": "警察拘捕了这个窃贼。",
+  "english": "The police arrested the thief.",
+  "pinyin": "jǐng chá jū bǔ le zhè ge qiè zé。",
+  "words": [
+    {
+      "ch": "警察",
+      "en": "police",
+      "pi": "jǐng chá"
+    },
+    {
+      "ch": "拘捕",
+      "en": "arrest",
+      "pi": "jū bǔ"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "这个",
+      "en": "the",
+      "pi": "zhè ge"
+    },
+    {
+      "ch": "窃贼",
+      "en": "thief",
+      "pi": "qiè zé"
+    }
+  ]
+}

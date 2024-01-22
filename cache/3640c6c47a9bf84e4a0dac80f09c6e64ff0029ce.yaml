@@ -1,0 +1,32 @@
+{
+  "chinese": "這個字有兩個意思。",
+  "english": "This word has two meanings.",
+  "pinyin": "zhè gè zì yǒu liǎng gè yìsi。",
+  "words": [
+    {
+      "ch": "這個",
+      "en": "This",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "字",
+      "en": "word",
+      "pi": "zì"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "兩個",
+      "en": "two",
+      "pi": "liǎng gè"
+    },
+    {
+      "ch": "意思",
+      "en": "meanings",
+      "pi": "yìsi"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "她应该中午到那里。",
+  "english": "She should arrive there at noon.",
+  "pinyin": "tā yīng gāi zhōng wǔ dào nà lǐ。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "应该",
+      "en": "should",
+      "pi": "yīng gāi"
+    },
+    {
+      "ch": "中午",
+      "en": "noon",
+      "pi": "zhōng wǔ"
+    },
+    {
+      "ch": "到",
+      "en": "arrive",
+      "pi": "dào"
+    },
+    {
+      "ch": "那里",
+      "en": "there",
+      "pi": "nà lǐ"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆独自吃了半个蛋糕。",
+  "english": "Tom ate half a cake alone.",
+  "pinyin": "tāng mǔ dú zì chī le bàn gè dàn gāo.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "独自",
+      "en": "alone",
+      "pi": "dú zì"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "了",
+      "en": "finished action particle",
+      "pi": "le"
+    },
+    {
+      "ch": "半个",
+      "en": "half",
+      "pi": "bàn gè"
+    },
+    {
+      "ch": "蛋糕",
+      "en": "cake",
+      "pi": "dàn gāo"
+    }
+  ]
+}

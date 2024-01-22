@@ -1,0 +1,42 @@
+{
+  "chinese": "他看起来比他的实际年龄大。",
+  "english": "He looks older than his actual age.",
+  "pinyin": "Tā kàn qǐlái bǐ tā de shíjì niánlíng dà.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "看起来",
+      "en": "looks",
+      "pi": "kàn qǐlái"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "实际",
+      "en": "actual",
+      "pi": "shíjì"
+    },
+    {
+      "ch": "年龄",
+      "en": "age",
+      "pi": "niánlíng"
+    },
+    {
+      "ch": "大",
+      "en": "older",
+      "pi": "dà"
+    }
+  ]
+}

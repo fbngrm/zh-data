@@ -1,0 +1,47 @@
+{
+  "chinese": "我今天总共买了十本书。",
+  "english": "Today I bought a total of ten books.",
+  "pinyin": "wǒ jīntiān zǒnggòng mǎile shí běn shū.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "总共",
+      "en": "total",
+      "pi": "zǒnggòng"
+    },
+    {
+      "ch": "买",
+      "en": "bought",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "了",
+      "en": "a",
+      "pi": "le"
+    },
+    {
+      "ch": "十",
+      "en": "ten",
+      "pi": "shí"
+    },
+    {
+      "ch": "本",
+      "en": "books",
+      "pi": "běn"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    }
+  ]
+}

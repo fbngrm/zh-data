@@ -1,0 +1,21 @@
+{
+  "chinese": "因为现在上海家家都是独生子女，家长对小孩的读书非常重视。",
+  "english": "Because now every family in Shanghai has only one child, parents pay great attention to their children's studying.",
+  "pinyin": "yīnwèi xiànzài Shànghǎi jiājiā dōu shì dúshēng zǐnǚ, jiāzhǎng duì xiǎohái de dúshū fēicháng zhòngshì。",
+  "words": [
+    {"ch": "因为", "en": "because", "pi": "yīnwèi"},
+    {"ch": "现在", "en": "now", "pi": "xiànzài"},
+    {"ch": "上海", "en": "Shanghai", "pi": "Shànghǎi"},
+    {"ch": "家家", "en": "every family", "pi": "jiājiā"},
+    {"ch": "都", "en": "all", "pi": "dōu"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "独生子女", "en": "only child", "pi": "dúshēng zǐnǚ"},
+    {"ch": "家长", "en": "parents", "pi": "jiāzhǎng"},
+    {"ch": "对", "en": "to", "pi": "duì"},
+    {"ch": "小孩", "en": "children", "pi": "xiǎohái"},
+    {"ch": "的", "en": "the", "pi": "de"},
+    {"ch": "读书", "en": "studying", "pi": "dúshū"},
+    {"ch": "非常", "en": "very", "pi": "fēicháng"},
+    {"ch": "重视", "en": "pay attention to", "pi": "zhòngshì"}
+  ]
+}

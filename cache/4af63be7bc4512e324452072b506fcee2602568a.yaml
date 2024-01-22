@@ -1,0 +1,37 @@
+{
+    "chinese": "汤姆或某人说了那事。",
+    "english": "Tom or someone mentioned that.",
+    "pinyin": "Tāng mǔ huò mǒu rén shuō le nà shì。",
+    "words": [
+        {
+            "ch": "汤姆",
+            "en": "Tom",
+            "pi": "tāng mǔ"
+        },
+        {
+            "ch": "或",
+            "en": "or",
+            "pi": "huò"
+        },
+        {
+            "ch": "某人",
+            "en": "someone",
+            "pi": "mǒu rén"
+        },
+        {
+            "ch": "说",
+            "en": "said",
+            "pi": "shuō"
+        },
+        {
+            "ch": "了",
+            "en": "that",
+            "pi": "le"
+        },
+        {
+            "ch": "那事",
+            "en": "matter",
+            "pi": "nà shì"
+        }
+    ]
+}

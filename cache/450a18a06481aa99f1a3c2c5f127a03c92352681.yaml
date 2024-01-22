@@ -1,0 +1,32 @@
+{
+  "chinese" : "她强烈反对我的计画。",
+  "english" : "She strongly opposes my plan.",
+  "pinyin" : "tā qiáng liè fǎn duì wǒ de jì huà。",
+  "words" : [
+    {
+      "ch" : "她",
+      "en" : "She",
+      "pi" : "tā"
+    },
+    {
+      "ch" : "强烈",
+      "en" : "strongly",
+      "pi" : "qiáng liè"
+    },
+    {
+      "ch" : "反对",
+      "en" : "opposes",
+      "pi" : "fǎn duì"
+    },
+    {
+      "ch" : "我的",
+      "en" : "my",
+      "pi" : "wǒ de"
+    },
+    {
+      "ch" : "计画",
+      "en" : "plan",
+      "pi" : "jì huà"
+    }
+  ]
+}

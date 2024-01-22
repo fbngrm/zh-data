@@ -1,0 +1,11 @@
+{
+  "chinese": "你儿子几岁?",
+  "english": "How old is your son?",
+  "pinyin": "Nǐ érzi jǐ suì?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "儿子", "en": "son", "pi": "érzi"},
+    {"ch": "几", "en": "how many", "pi": "jǐ"},
+    {"ch": "岁", "en": "years old", "pi": "suì"}
+  ]
+}

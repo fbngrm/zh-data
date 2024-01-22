@@ -1,0 +1,52 @@
+{
+  "chinese": "我正在读一本关于动物的书。",
+  "english": "I am reading a book about animals.",
+  "pinyin": "Wǒ zhèngzài dú yī běn guānyú dòngwù de shū.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "正在",
+      "en": "am",
+      "pi": "zhèngzài"
+    },
+    {
+      "ch": "读",
+      "en": "reading",
+      "pi": "dú"
+    },
+    {
+      "ch": "一",
+      "en": "a",
+      "pi": "yī"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "关于",
+      "en": "about",
+      "pi": "guānyú"
+    },
+    {
+      "ch": "动物",
+      "en": "animals",
+      "pi": "dòngwù"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    }
+  ]
+}

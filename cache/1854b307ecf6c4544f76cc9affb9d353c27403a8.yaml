@@ -1,0 +1,13 @@
+{ 
+"chinese": "你从什么时候开始学日文？", 
+"english": "When did you start learning Japanese?", 
+"pinyin": "Nǐ cóng shénme shíhòu kāishǐ xué rìwén?", 
+"words": [ 
+{ "ch": "你", "en": "you", "pi": "nǐ" }, 
+{ "ch": "从", "en": "from", "pi": "cóng" }, 
+{ "ch": "什么时候", "en": "when", "pi": "shénme shíhòu" }, 
+{ "ch": "开始", "en": "start", "pi": "kāishǐ" }, 
+{ "ch": "学", "en": "learn", "pi": "xué" }, 
+{ "ch": "日文", "en": "Japanese", "pi": "rìwén" } 
+] 
+}

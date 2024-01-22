@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆发烧了，正躺在床上。",
+  "english": "Tom has a fever and is lying in bed.",
+  "pinyin": "Tāng mǔ fā shāo le, zhèng tǎng zài chuáng shàng.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "发烧",
+      "en": "fever",
+      "pi": "fā shāo"
+    },
+    {
+      "ch": "了",
+      "en": "has",
+      "pi": "le"
+    },
+    {
+      "ch": "正",
+      "en": "and",
+      "pi": "zhèng"
+    },
+    {
+      "ch": "躺",
+      "en": "lying",
+      "pi": "tǎng"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "床上",
+      "en": "bed",
+      "pi": "chuáng shàng"
+    }
+  ]
+}

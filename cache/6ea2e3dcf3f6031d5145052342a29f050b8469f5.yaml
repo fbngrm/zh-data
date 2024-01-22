@@ -1,0 +1,42 @@
+{
+  "chinese": "我不知道要按哪个按钮。",
+  "english": "I don't know which button to press.",
+  "pinyin": "Wǒ bù zhīdào yào àn nǎge ànniú.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "Wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "按",
+      "en": "to press",
+      "pi": "àn"
+    },
+    {
+      "ch": "哪个",
+      "en": "which",
+      "pi": "nǎge"
+    },
+    {
+      "ch": "按钮",
+      "en": "button",
+      "pi": "ànniú"
+    }
+  ]
+}

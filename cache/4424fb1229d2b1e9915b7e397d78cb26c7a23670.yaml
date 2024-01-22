@@ -1,0 +1,32 @@
+{
+  "chinese": "我不想不及格。",
+  "english": "I don't want to fail.",
+  "pinyin": "wǒ bù xiǎng bù jí gé.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "及格",
+      "en": "to fail",
+      "pi": "jí gé"
+    }
+  ]
+}

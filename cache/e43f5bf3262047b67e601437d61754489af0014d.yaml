@@ -1,0 +1,42 @@
+{
+  "chinese": "这台电视是中国制造的。",
+  "english": "This TV is made in China.",
+  "pinyin": "zhè tái diànshì shì zhōngguó zhìzào de.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "台",
+      "en": "TV",
+      "pi": "tái"
+    },
+    {
+      "ch": "电视",
+      "en": "television",
+      "pi": "diànshì"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "中国",
+      "en": "China",
+      "pi": "zhōngguó"
+    },
+    {
+      "ch": "制造",
+      "en": "made",
+      "pi": "zhìzào"
+    },
+    {
+      "ch": "的",
+      "en": "in",
+      "pi": "de"
+    }
+  ]
+}

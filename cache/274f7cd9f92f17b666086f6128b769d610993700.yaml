@@ -1,0 +1,13 @@
+{
+  "chinese": "我不想吃任何东西。",
+  "english": "I don't want to eat anything.",
+  "pinyin": "wǒ bù xiǎng chī rèn hé dōng xī。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "不", "en": "don't", "pi": "bù"},
+    {"ch": "想", "en": "want", "pi": "xiǎng"},
+    {"ch": "吃", "en": "to eat", "pi": "chī"},
+    {"ch": "任何", "en": "any", "pi": "rèn hé"},
+    {"ch": "东西", "en": "thing", "pi": "dōng xī"}
+  ]
+}

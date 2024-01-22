@@ -1,0 +1,32 @@
+{
+  "chinese": "红色的鱼在海里游。",
+  "english": "The red fish swims in the sea.",
+  "pinyin": "Hóngsè de yú zài hǎi lǐ yóu.",
+  "words": [
+    {
+      "ch": "红色的",
+      "en": "red",
+      "pi": "hóngsè de"
+    },
+    {
+      "ch": "鱼",
+      "en": "fish",
+      "pi": "yú"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "海里",
+      "en": "sea",
+      "pi": "hǎi lǐ"
+    },
+    {
+      "ch": "游",
+      "en": "swim",
+      "pi": "yóu"
+    }
+  ]
+}

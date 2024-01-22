@@ -1,0 +1,47 @@
+{
+  "chinese": "他买给我一本新字典。",
+  "english": "He bought me a new dictionary.",
+  "pinyin": "tā mǎi gěi wǒ yī běn xīn zì diǎn。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "买",
+      "en": "bought",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "一",
+      "en": "a",
+      "pi": "yī"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "新",
+      "en": "new",
+      "pi": "xīn"
+    },
+    {
+      "ch": "字典",
+      "en": "dictionary",
+      "pi": "zì diǎn"
+    }
+  ]
+}

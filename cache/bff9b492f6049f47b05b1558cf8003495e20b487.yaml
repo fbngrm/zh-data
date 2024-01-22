@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆没有说谎。",
+  "english": "Tom didn't lie.",
+  "pinyin": "Tāng mǔ méiyǒu shuō huǎng.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "没有",
+      "en": "no",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "谎",
+      "en": "lie",
+      "pi": "huǎng"
+    }
+  ]
+}

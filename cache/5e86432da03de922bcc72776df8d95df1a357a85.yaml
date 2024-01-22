@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆住在日本十年了。",
+  "english": "Tom has been living in Japan for ten years.",
+  "pinyin": "Tāng mǔ zhù zài rìběn shí nián liǎo.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "住",
+      "en": "live",
+      "pi": "zhù"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "日本",
+      "en": "Japan",
+      "pi": "rìběn"
+    },
+    {
+      "ch": "十年",
+      "en": "ten years",
+      "pi": "shí nián"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "liǎo"
+    }
+  ]
+}

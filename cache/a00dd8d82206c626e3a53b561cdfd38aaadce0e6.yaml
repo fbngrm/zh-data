@@ -1,0 +1,32 @@
+{
+  "chinese": "我想要一杯咖啡。",
+  "english": "I would like a cup of coffee.",
+  "pinyin": "wǒ xiǎng yào yī bēi kāfēi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想要",
+      "en": "would like",
+      "pi": "xiǎng yào"
+    },
+    {
+      "ch": "一",
+      "en": "a",
+      "pi": "yī"
+    },
+    {
+      "ch": "杯",
+      "en": "cup",
+      "pi": "bēi"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kāfēi"
+    }
+  ]
+}

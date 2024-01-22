@@ -1,0 +1,42 @@
+{
+  "chinese": "野兔被烏龜拋了在後頭。",
+  "english": "The wild rabbit was thrown behind by the tortoise.",
+  "pinyin": "yětù bèi wūguī pāo le zài hòutóu.",
+  "words": [
+    {
+      "ch": "野兔",
+      "en": "wild rabbit",
+      "pi": "yětù"
+    },
+    {
+      "ch": "被",
+      "en": "by",
+      "pi": "bèi"
+    },
+    {
+      "ch": "烏龜",
+      "en": "tortoise",
+      "pi": "wūguī"
+    },
+    {
+      "ch": "拋",
+      "en": "throw",
+      "pi": "pāo"
+    },
+    {
+      "ch": "了",
+      "en": "past tense marker",
+      "pi": "le"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "後頭",
+      "en": "behind",
+      "pi": "hòutóu"
+    }
+  ]
+}

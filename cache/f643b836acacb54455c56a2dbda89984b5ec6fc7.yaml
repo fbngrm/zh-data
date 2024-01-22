@@ -1,0 +1,27 @@
+{
+  "chinese": "我找不到我的票。",
+  "english": "I can't find my ticket.",
+  "pinyin": "wǒ zhǎo bù dào wǒ de piào。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "找不到",
+      "en": "can't find",
+      "pi": "zhǎo bù dào"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "票",
+      "en": "ticket",
+      "pi": "piào"
+    }
+  ]
+}

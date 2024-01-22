@@ -1,0 +1,42 @@
+{
+  "chinese": "这个饭馆的菜是清真吗？",
+  "english": "Are the dishes in this restaurant halal?",
+  "pinyin": "zhè gè fàn guǎn de cài shì qīng zhēn ma?",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "饭馆",
+      "en": "restaurant",
+      "pi": "fàn guǎn"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "菜",
+      "en": "dishes",
+      "pi": "cài"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "清真",
+      "en": "halal",
+      "pi": "qīng zhēn"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

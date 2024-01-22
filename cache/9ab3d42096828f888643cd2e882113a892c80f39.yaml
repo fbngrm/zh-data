@@ -1,0 +1,12 @@
+{
+  "chinese": "汤姆还没吃完他的晚饭。",
+  "english": "Tom hasn't finished his dinner yet.",
+  "pinyin": "Tāng mǔ hái méi chī wán tā de wǎn fàn.",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "还没", "en": "hasn't", "pi": "hái méi"},
+    {"ch": "吃完", "en": "finished", "pi": "chī wán"},
+    {"ch": "他的", "en": "his", "pi": "tā de"},
+    {"ch": "晚饭", "en": "dinner", "pi": "wǎn fàn"}
+  ]
+}

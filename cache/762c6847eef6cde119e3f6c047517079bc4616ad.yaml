@@ -1,0 +1,42 @@
+{
+  "chinese": "小山后面有个美丽的山谷。",
+  "english": "There is a beautiful valley behind the small mountain.",
+  "pinyin": "xiǎo shān hòumiàn yǒu gè měilì de shāngǔ。",
+  "words": [
+    {
+      "ch": "小山",
+      "en": "small mountain",
+      "pi": "xiǎo shān"
+    },
+    {
+      "ch": "后面",
+      "en": "behind",
+      "pi": "hòumiàn"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "美丽",
+      "en": "beautiful",
+      "pi": "měilì"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "山谷",
+      "en": "valley",
+      "pi": "shāngǔ"
+    }
+  ]
+}

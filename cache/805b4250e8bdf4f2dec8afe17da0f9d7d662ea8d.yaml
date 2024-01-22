@@ -1,0 +1,14 @@
+{
+  "chinese": "汤姆常常一个人去买东西。",
+  "english": "Tom often goes shopping alone.",
+  "pinyin": "Tāng mǔ cháng cháng yī gè rén qù mǎi dōng xī。",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ"},
+    {"ch": "常常", "en": "often", "pi": "cháng cháng"},
+    {"ch": "一个", "en": "one", "pi": "yī gè"},
+    {"ch": "人", "en": "person", "pi": "rén"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "买", "en": "buy", "pi": "mǎi"},
+    {"ch": "东西", "en": "things", "pi": "dōng xī"}
+  ]
+}

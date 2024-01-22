@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆今天太累，不能帮你。",
+  "english": "Tom is too tired today, he can't help you.",
+  "pinyin": "Tāng mǔ jīntiān tài lèi, bùnéng bāng nǐ。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "太",
+      "en": "too",
+      "pi": "tài"
+    },
+    {
+      "ch": "累",
+      "en": "tired",
+      "pi": "lèi"
+    },
+    {
+      "ch": "不能",
+      "en": "cannot",
+      "pi": "bùnéng"
+    },
+    {
+      "ch": "帮",
+      "en": "help",
+      "pi": "bāng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    }
+  ]
+}

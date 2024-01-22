@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆是个真男人。",
+  "english": "Tom is a real man.",
+  "pinyin": "Tāng mǔ shì gè zhēn nánrén.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "真",
+      "en": "real",
+      "pi": "zhēn"
+    },
+    {
+      "ch": "男人",
+      "en": "man",
+      "pi": "nánrén"
+    }
+  ]
+}

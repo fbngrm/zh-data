@@ -1,0 +1,32 @@
+{
+  "chinese": "院子里的是狗屋。",
+  "english": "The one in the yard is a dog house.",
+  "pinyin": "yùn zi lǐ de shì gǒu wū.",
+  "words": [
+    {
+      "ch": "院子",
+      "en": "yard",
+      "pi": "yùn zi"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "狗屋",
+      "en": "dog house",
+      "pi": "gǒu wū"
+    }
+  ]
+}

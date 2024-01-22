@@ -1,0 +1,37 @@
+{
+  "chinese": "今天天气很好，和明天一样。",
+  "english": "The weather is very good today, just like tomorrow.",
+  "pinyin": "Jīntiān tiānqì hěn hǎo, hé míngtiān yíyàng.",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiānqì"
+    },
+    {
+      "ch": "很好",
+      "en": "very good",
+      "pi": "hěn hǎo"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "一样",
+      "en": "the same",
+      "pi": "yíyàng"
+    }
+  ]
+}

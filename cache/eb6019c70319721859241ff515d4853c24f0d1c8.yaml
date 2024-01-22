@@ -1,0 +1,107 @@
+{
+  "chinese": "一些操作系统上有全角字符的文件名会显示为乱码，所以下载时请改成适当的文件名。",
+  "english": "Some operating systems may display garbled characters for file names with full-width characters, so please change them to appropriate file names when downloading.",
+  "pinyin": "Yīxiē cāozuò xìtǒng shàng yǒu quánjiǎo zìfú de wénjiàn míng huì xiǎnshì wéi luànmǎ, suǒyǐ xiàzài shí qǐng gǎi chéng shìdàng de wénjiàn míng.",
+  "words": [
+    {
+      "ch": "一些",
+      "en": "Some",
+      "pi": "yī xiē"
+    },
+    {
+      "ch": "操作系统",
+      "en": "operating systems",
+      "pi": "cāozuò xìtǒng"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "全角字符",
+      "en": "full-width characters",
+      "pi": "quánjiǎo zìfú"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "文件名",
+      "en": "file names",
+      "pi": "wénjiàn míng"
+    },
+    {
+      "ch": "会",
+      "en": "may",
+      "pi": "huì"
+    },
+    {
+      "ch": "显示",
+      "en": "display",
+      "pi": "xiǎnshì"
+    },
+    {
+      "ch": "为",
+      "en": "as",
+      "pi": "wéi"
+    },
+    {
+      "ch": "乱码",
+      "en": "garbled characters",
+      "pi": "luànmǎ"
+    },
+    {
+      "ch": "所以",
+      "en": "so",
+      "pi": "suǒyǐ"
+    },
+    {
+      "ch": "下载",
+      "en": "download",
+      "pi": "xiàzài"
+    },
+    {
+      "ch": "时",
+      "en": "when",
+      "pi": "shí"
+    },
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "改",
+      "en": "change",
+      "pi": "gǎi"
+    },
+    {
+      "ch": "成",
+      "en": "to",
+      "pi": "chéng"
+    },
+    {
+      "ch": "适当",
+      "en": "appropriate",
+      "pi": "shìdàng"
+    },
+    {
+      "ch": "的",
+      "en": "file",
+      "pi": "de"
+    },
+    {
+      "ch": "文件名",
+      "en": "names",
+      "pi": "wénjiàn míng"
+    }
+  ]
+}

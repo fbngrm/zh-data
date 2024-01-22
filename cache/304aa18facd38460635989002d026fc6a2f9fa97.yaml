@@ -1,0 +1,14 @@
+{
+  "chinese": "据说耶稣曾经令一个死人复活。",
+  "english": "It is said that Jesus once raised a dead person back to life.",
+  "pinyin": "jù shuō yē sū céng jīng lìng yī gè sǐ rén fù huó。",
+  "words": [
+    {"ch": "据说", "en": "It is said", "pi": "jù shuō"},
+    {"ch": "耶稣", "en": "Jesus", "pi": "yē sū"},
+    {"ch": "曾经", "en": "once", "pi": "céng jīng"},
+    {"ch": "令", "en": "to", "pi": "lìng"},
+    {"ch": "一个", "en": "a", "pi": "yī gè"},
+    {"ch": "死人", "en": "dead person", "pi": "sǐ rén"},
+    {"ch": "复活", "en": "raise back to life", "pi": "fù huó"}
+  ]
+}

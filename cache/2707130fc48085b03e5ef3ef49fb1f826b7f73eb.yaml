@@ -1,0 +1,27 @@
+{
+  "chinese": "十一点钟来看我。",
+  "english": "Come see me at 11 o'clock.",
+  "pinyin": "shí yī diǎn zhōng lái kàn wǒ。",
+  "words": [
+    {
+      "ch": "十一点钟",
+      "en": "11 o'clock",
+      "pi": "shí yī diǎn zhōng"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    },
+    {
+      "ch": "看",
+      "en": "see",
+      "pi": "kàn"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    }
+  ]
+}

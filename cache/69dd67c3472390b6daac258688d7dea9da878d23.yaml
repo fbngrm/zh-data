@@ -1,0 +1,32 @@
+{
+  "chinese": "玛丽舞跳得很好。",
+  "english": "Mary dances very well.",
+  "pinyin": "Mǎlì wǔ tiào dé hěn hǎo.",
+  "words": [
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎlì"
+    },
+    {
+      "ch": "舞",
+      "en": "dance",
+      "pi": "wǔ"
+    },
+    {
+      "ch": "跳",
+      "en": "jump",
+      "pi": "tiào"
+    },
+    {
+      "ch": "得",
+      "en": "very",
+      "pi": "dé"
+    },
+    {
+      "ch": "很好",
+      "en": "well",
+      "pi": "hǎo"
+    }
+  ]
+}

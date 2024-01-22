@@ -1,0 +1,32 @@
+{
+  "chinese": "我的医生叫什么名字？",
+  "english": "What is the name of my doctor?",
+  "pinyin": "Wǒ de yīshēng jiào shénme míngzì?",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "医生",
+      "en": "doctor",
+      "pi": "yīshēng"
+    },
+    {
+      "ch": "叫",
+      "en": "call",
+      "pi": "jiào"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míngzì"
+    }
+  ]
+}

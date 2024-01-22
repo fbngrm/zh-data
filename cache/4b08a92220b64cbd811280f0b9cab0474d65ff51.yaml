@@ -1,0 +1,22 @@
+{
+  "chinese": "你好，怎么样？",
+  "english": "Hello, how are you?",
+  "pinyin": "nǐ hǎo, zěnme yàng?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "怎么样",
+      "en": "how are you",
+      "pi": "zěnme yàng"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "你几点会到车站？",
+  "english": "What time will you arrive at the station?",
+  "pinyin": "nǐ jǐ diǎn huì dào chē zhàn?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "几点",
+      "en": "what time",
+      "pi": "jǐ diǎn"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "到",
+      "en": "arrive",
+      "pi": "dào"
+    },
+    {
+      "ch": "车站",
+      "en": "station",
+      "pi": "chē zhàn"
+    }
+  ]
+}

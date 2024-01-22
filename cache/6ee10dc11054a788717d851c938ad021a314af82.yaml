@@ -1,0 +1,25 @@
+{
+  "chinese": "如果你想使用中文字符，你应该以ＵＴＦ-８编码来保存你的文件。",
+  "english": "If you want to use Chinese characters, you should save your file with UTF-8 encoding.",
+  "pinyin": "rúguǒ nǐ xiǎng shǐyòng zhōngwén zìfú, nǐ yīnggāi yǐ UTF-8 biānmǎ lái bǎocún nǐ de wénjiàn.",
+  "words": [
+    {"ch": "如果", "en": "If", "pi": "rúguǒ"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "想", "en": "want", "pi": "xiǎng"},
+    {"ch": "使用", "en": "to use", "pi": "shǐyòng"},
+    {"ch": "中文", "en": "Chinese", "pi": "zhōngwén"},
+    {"ch": "字符", "en": "characters", "pi": "zìfú"},
+    {"ch": "，", "en": ","},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "应该", "en": "should", "pi": "yīnggāi"},
+    {"ch": "以", "en": "with", "pi": "yǐ"},
+    {"ch": "ＵＴＦ-８", "en": "UTF-8", "pi": "UTF-8"},
+    {"ch": "编码", "en": "encoding", "pi": "biānmǎ"},
+    {"ch": "来", "en": "to", "pi": "lái"},
+    {"ch": "保存", "en": "save", "pi": "bǎocún"},
+    {"ch": "你", "en": "your", "pi": "nǐ"},
+    {"ch": "的", "en": "", "pi": "de"},
+    {"ch": "文件", "en": "file", "pi": "wénjiàn"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}

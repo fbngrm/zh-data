@@ -1,0 +1,32 @@
+{
+  "chinese": "我的兄弟买了电子吉他。",
+  "english": "My brother bought an electric guitar.",
+  "pinyin": "Wǒ de xiōngdì mǎile diànzǐ jítā.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "Wǒ de"
+    },
+    {
+      "ch": "兄弟",
+      "en": "brother",
+      "pi": "xiōngdì"
+    },
+    {
+      "ch": "买了",
+      "en": "bought",
+      "pi": "mǎile"
+    },
+    {
+      "ch": "电子",
+      "en": "electric",
+      "pi": "diànzǐ"
+    },
+    {
+      "ch": "吉他",
+      "en": "guitar",
+      "pi": "jítā"
+    }
+  ]
+}

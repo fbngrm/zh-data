@@ -1,0 +1,42 @@
+{
+  "chinese": "他的画被悬挂在墙上。",
+  "english": "His painting is hanging on the wall.",
+  "pinyin": "Tā de huà bèi xuán guà zài qiáng shàng.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "画",
+      "en": "painting",
+      "pi": "huà"
+    },
+    {
+      "ch": "被",
+      "en": "by (passive marker)",
+      "pi": "bèi"
+    },
+    {
+      "ch": "悬挂",
+      "en": "hang",
+      "pi": "xuán guà"
+    },
+    {
+      "ch": "在",
+      "en": "on",
+      "pi": "zài"
+    },
+    {
+      "ch": "墙上",
+      "en": "wall",
+      "pi": "qiáng shàng"
+    }
+  ]
+}

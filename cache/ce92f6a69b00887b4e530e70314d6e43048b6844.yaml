@@ -1,0 +1,32 @@
+{
+  "chinese": "我边吃饭边看书。",
+  "english": "I eat while reading.",
+  "pinyin": "wǒ biān chīfàn biān kànshū.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "边",
+      "en": "while",
+      "pi": "biān"
+    },
+    {
+      "ch": "吃饭",
+      "en": "eat",
+      "pi": "chīfàn"
+    },
+    {
+      "ch": "边",
+      "en": "while",
+      "pi": "biān"
+    },
+    {
+      "ch": "看书",
+      "en": "read",
+      "pi": "kànshū"
+    }
+  ]
+}

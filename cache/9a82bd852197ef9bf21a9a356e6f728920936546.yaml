@@ -1,0 +1,42 @@
+{
+  "chinese": "今天是我一个朋友的生日。",
+  "english": "Today is the birthday of one of my friends.",
+  "pinyin": "jīn tiān shì wǒ yī gè péng yǒu de shēng rì。",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "一个",
+      "en": "one",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "朋友",
+      "en": "friend",
+      "pi": "péng yǒu"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "生日",
+      "en": "birthday",
+      "pi": "shēng rì"
+    }
+  ]
+}

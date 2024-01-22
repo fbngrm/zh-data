@@ -1,0 +1,32 @@
+{
+  "chinese": "咖啡壶里装满了咖啡。",
+  "english": "The coffee pot is full of coffee.",
+  "pinyin": "kāfēi hú lǐ zhuāng mǎn le kāfēi.",
+  "words": [
+    {
+      "ch": "咖啡壶",
+      "en": "coffee pot",
+      "pi": "kāfēi hú"
+    },
+    {
+      "ch": "里",
+      "en": "inside",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "装满",
+      "en": "full of",
+      "pi": "zhuāng mǎn"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kāfēi"
+    }
+  ]
+}

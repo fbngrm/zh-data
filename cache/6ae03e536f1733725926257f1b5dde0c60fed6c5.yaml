@@ -1,0 +1,24 @@
+{
+  "sentences": [
+    {
+      "chinese": "我不知道。",
+      "english": "I don't know.",
+      "pinyin": "wǒ bù zhīdào.",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "不", "en": "don't", "pi": "bù"},
+        {"ch": "知道", "en": "know", "pi": "zhīdào"}
+      ]
+    },
+    {
+      "chinese": "你怎么想？",
+      "english": "What do you think?",
+      "pinyin": "nǐ zěnme xiǎng?",
+      "words": [
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "怎么", "en": "how", "pi": "zěnme"},
+        {"ch": "想", "en": "think", "pi": "xiǎng"}
+      ]
+    }
+  ]
+}

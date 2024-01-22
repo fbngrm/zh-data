@@ -1,0 +1,47 @@
+{
+  "chinese": "我出门的时候，你来了。",
+  "english": "When I was leaving, you arrived.",
+  "pinyin": "wǒ chūmén de shíhòu, nǐ lái le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "出门",
+      "en": "leaving",
+      "pi": "chūmén"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "时候",
+      "en": "when",
+      "pi": "shíhòu"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": "，"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "来了",
+      "en": "arrived",
+      "pi": "lái le"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "。"
+    }
+  ]
+}

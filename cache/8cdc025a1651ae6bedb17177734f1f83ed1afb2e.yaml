@@ -1,0 +1,27 @@
+{
+  "chinese": "这个女孩没有母亲。",
+  "english": "This girl has no mother.",
+  "pinyin": "zhè gè nǚ hái méi yǒu mǔ qīn.",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "This",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "女孩",
+      "en": "girl",
+      "pi": "nǚ hái"
+    },
+    {
+      "ch": "没有",
+      "en": "has no",
+      "pi": "méi yǒu"
+    },
+    {
+      "ch": "母亲",
+      "en": "mother",
+      "pi": "mǔ qīn"
+    }
+  ]
+}

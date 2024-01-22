@@ -1,0 +1,17 @@
+{
+  "chinese": "我听不清那个男的在说些什么。",
+  "english": "I can't hear what that man is saying.",
+  "pinyin": "wǒ tīng bù qīng nà gè nán de zài shuō xiē shénme.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "听", "en": "to hear", "pi": "tīng"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "清", "en": "clear", "pi": "qīng"},
+    {"ch": "那个", "en": "that", "pi": "nà gè"},
+    {"ch": "男的", "en": "man", "pi": "nán de"},
+    {"ch": "在", "en": "is", "pi": "zài"},
+    {"ch": "说", "en": "saying", "pi": "shuō"},
+    {"ch": "些", "en": "some", "pi": "xiē"},
+    {"ch": "什么", "en": "what", "pi": "shénme"}
+  ]
+}

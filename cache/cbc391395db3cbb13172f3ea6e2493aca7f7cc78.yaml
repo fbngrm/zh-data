@@ -1,0 +1,37 @@
+{
+  "chinese": "她用茶匙搅她的咖啡。",
+  "english": "She stirs her coffee with a teaspoon.",
+  "pinyin": "tā yòng chá chí jiǎo tā de kā fēi。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "用",
+      "en": "use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "茶匙",
+      "en": "teaspoon",
+      "pi": "chá chí"
+    },
+    {
+      "ch": "搅",
+      "en": "stir",
+      "pi": "jiǎo"
+    },
+    {
+      "ch": "她的",
+      "en": "her",
+      "pi": "tā de"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kā fēi"
+    }
+  ]
+}

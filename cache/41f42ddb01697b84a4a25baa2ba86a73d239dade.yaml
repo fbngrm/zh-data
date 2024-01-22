@@ -1,0 +1,32 @@
+{
+  "chinese": "我病了，所以沒有上學。",
+  "english": "I am sick, so I didn't go to school.",
+  "pinyin": "wǒ bìng le, suǒyǐ méiyǒu shàng xué.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "病了",
+      "en": "am sick",
+      "pi": "bìng le"
+    },
+    {
+      "ch": "所以",
+      "en": "so",
+      "pi": "suǒyǐ"
+    },
+    {
+      "ch": "沒有",
+      "en": "didn't",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "上學",
+      "en": "go to school",
+      "pi": "shàng xué"
+    }
+  ]
+}

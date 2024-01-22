@@ -1,0 +1,22 @@
+{
+  "chinese": "这些苹果很大。",
+  "english": "These apples are big.",
+  "pinyin": "zhè xiē píng guǒ hěn dà.",
+  "words": [
+    {
+      "ch": "这些",
+      "en": "these",
+      "pi": "zhè xiē"
+    },
+    {
+      "ch": "苹果",
+      "en": "apples",
+      "pi": "píng guǒ"
+    },
+    {
+      "ch": "很大",
+      "en": "big",
+      "pi": "hěn dà"
+    }
+  ]
+}

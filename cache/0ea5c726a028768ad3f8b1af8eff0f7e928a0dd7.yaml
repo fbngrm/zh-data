@@ -1,0 +1,32 @@
+{
+  "chinese": "这儿有你的一封信。",
+  "english": "Here's a letter for you.",
+  "pinyin": "zhèr yǒu nǐ de yī fēng xìn.",
+  "words": [
+    {
+      "ch": "这儿",
+      "en": "here",
+      "pi": "zhèr"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "一封",
+      "en": "a",
+      "pi": "yī fēng"
+    },
+    {
+      "ch": "信",
+      "en": "letter",
+      "pi": "xìn"
+    }
+  ]
+}

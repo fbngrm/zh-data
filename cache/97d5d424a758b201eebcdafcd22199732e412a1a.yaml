@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆看来总是在工作。",
+  "english": "Tom seems to always be working.",
+  "pinyin": "Tāng mǔ kànlái zǒng shì zài gōngzuò.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "看来",
+      "en": "seems to",
+      "pi": "kànlái"
+    },
+    {
+      "ch": "总是",
+      "en": "always",
+      "pi": "zǒng shì"
+    },
+    {
+      "ch": "在",
+      "en": "be",
+      "pi": "zài"
+    },
+    {
+      "ch": "工作",
+      "en": "working",
+      "pi": "gōngzuò"
+    }
+  ]
+}

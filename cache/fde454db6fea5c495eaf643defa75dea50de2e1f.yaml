@@ -1,0 +1,32 @@
+{
+  "chinese": "我的祖父说话非常慢。",
+  "english": "My grandfather speaks very slowly.",
+  "pinyin": "wǒ de zǔ fù shuō huà fēi cháng màn.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "祖父",
+      "en": "grandfather",
+      "pi": "zǔ fù"
+    },
+    {
+      "ch": "说话",
+      "en": "speak",
+      "pi": "shuō huà"
+    },
+    {
+      "ch": "非常",
+      "en": "very",
+      "pi": "fēi cháng"
+    },
+    {
+      "ch": "慢",
+      "en": "slowly",
+      "pi": "màn"
+    }
+  ]
+}

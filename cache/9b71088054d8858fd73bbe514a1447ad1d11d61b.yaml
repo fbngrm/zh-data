@@ -1,0 +1,27 @@
+{
+  "chinese": "今天是个阴天。",
+  "english": "Today is a cloudy day.",
+  "pinyin": "jīn tiān shì gè yīn tiān.",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "Today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "阴天",
+      "en": "cloudy day",
+      "pi": "yīn tiān"
+    }
+  ]
+}

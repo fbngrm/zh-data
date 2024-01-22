@@ -1,0 +1,32 @@
+{
+  "chinese": "我写下了那个电话号码。",
+  "english": "I wrote down that phone number.",
+  "pinyin": "wǒ xiě xiàle nà gè diànhuà hàomǎ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "写下",
+      "en": "wrote down",
+      "pi": "xiě xià"
+    },
+    {
+      "ch": "了",
+      "en": "that",
+      "pi": "le"
+    },
+    {
+      "ch": "那个",
+      "en": "phone number",
+      "pi": "nà gè"
+    },
+    {
+      "ch": "电话号码",
+      "en": "phone number",
+      "pi": "diànhuà hàomǎ"
+    }
+  ]
+}

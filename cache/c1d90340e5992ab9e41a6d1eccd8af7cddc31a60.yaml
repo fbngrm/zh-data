@@ -1,0 +1,27 @@
+{
+  "chinese": "大雨使河水泛滥。",
+  "english": "The heavy rain caused the river to flood.",
+  "pinyin": "dà yǔ shǐ hé shuǐ fàn làn.",
+  "words": [
+    {
+      "ch": "大雨",
+      "en": "heavy rain",
+      "pi": "dà yǔ"
+    },
+    {
+      "ch": "使",
+      "en": "cause",
+      "pi": "shǐ"
+    },
+    {
+      "ch": "河水",
+      "en": "river water",
+      "pi": "hé shuǐ"
+    },
+    {
+      "ch": "泛滥",
+      "en": "flood",
+      "pi": "fàn làn"
+    }
+  ]
+}

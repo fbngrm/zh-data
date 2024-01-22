@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆今天早上没有发烧。",
+  "english": "Tom did not have a fever this morning.",
+  "pinyin": "Tāng mǔ jīntiān zǎoshang méiyǒu fāshāo.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎo shang"
+    },
+    {
+      "ch": "没有",
+      "en": "did not have",
+      "pi": "méi yǒu"
+    },
+    {
+      "ch": "发烧",
+      "en": "fever",
+      "pi": "fā shāo"
+    }
+  ]
+}

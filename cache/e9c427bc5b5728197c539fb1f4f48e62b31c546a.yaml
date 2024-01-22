@@ -1,0 +1,37 @@
+{
+  "chinese": "她的生日是五月五日。",
+  "english": "Her birthday is on May 5th.",
+  "pinyin": "tā de shēng rì shì wǔ yuè wǔ rì。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "生日",
+      "en": "birthday",
+      "pi": "shēng rì"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "五月",
+      "en": "May",
+      "pi": "wǔ yuè"
+    },
+    {
+      "ch": "五日",
+      "en": "5th",
+      "pi": "wǔ rì"
+    }
+  ]
+}

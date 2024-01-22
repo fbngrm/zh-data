@@ -1,0 +1,188 @@
+{
+  "sentences": [
+    {
+      "chinese": "几个世纪以来，天文学家相信银河构成了整个宇宙。",
+      "english": "For centuries, astronomers believed that the Milky Way constituted the entire universe.",
+      "pinyin": "jǐ gè shìjì yǐlái，tiānwénxuéjiā xiāngxìn yínhé gòuchéngle zhěnggè yǔzhòu。",
+      "words": [
+        {
+          "ch": "几个",
+          "en": "several",
+          "pi": "jǐ gè"
+        },
+        {
+          "ch": "世纪",
+          "en": "century",
+          "pi": "shìjì"
+        },
+        {
+          "ch": "以来",
+          "en": "since",
+          "pi": "yǐlái"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": "，"
+        },
+        {
+          "ch": "天文学家",
+          "en": "astronomer",
+          "pi": "tiānwénxuéjiā"
+        },
+        {
+          "ch": "相信",
+          "en": "believe",
+          "pi": "xiāngxìn"
+        },
+        {
+          "ch": "银河",
+          "en": "Milky Way",
+          "pi": "yínhé"
+        },
+        {
+          "ch": "构成",
+          "en": "constitute",
+          "pi": "gòuchéng"
+        },
+        {
+          "ch": "了",
+          "en": "了",
+          "pi": "le"
+        },
+        {
+          "ch": "整个",
+          "en": "entire",
+          "pi": "zhěnggè"
+        },
+        {
+          "ch": "宇宙",
+          "en": "universe",
+          "pi": "yǔzhòu"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    },
+    {
+      "chinese": "哈勃第一个证明了通过望远镜看到的天空中的模煳花斑是其他星系，而不是银河的遥远部分。",
+      "english": "Hubble was the first to prove that the fuzzy patches seen in the sky through telescopes were other galaxies, not distant parts of the Milky Way.",
+      "pinyin": "Hā bó dì yīgè zhèngmíngle tōngguò wàngyuǎnjìng kàndào de tiānkōng zhōng de mó hū huābān shì qítā xīngxì，ér bùshì yínhé dì yáo yuǎn bùfèn。",
+      "words": [
+        {
+          "ch": "哈勃",
+          "en": "Hubble",
+          "pi": "Hā bó"
+        },
+        {
+          "ch": "第一个",
+          "en": "first",
+          "pi": "dì yīgè"
+        },
+        {
+          "ch": "证明",
+          "en": "prove",
+          "pi": "zhèngmíng"
+        },
+        {
+          "ch": "了",
+          "en": "了",
+          "pi": "le"
+        },
+        {
+          "ch": "通过",
+          "en": "through",
+          "pi": "tōngguò"
+        },
+        {
+          "ch": "望远镜",
+          "en": "telescope",
+          "pi": "wàngyuǎnjìng"
+        },
+        {
+          "ch": "看到",
+          "en": "see",
+          "pi": "kàndào"
+        },
+        {
+          "ch": "的",
+          "en": "of",
+          "pi": "de"
+        },
+        {
+          "ch": "天空",
+          "en": "sky",
+          "pi": "tiānkōng"
+        },
+        {
+          "ch": "中的",
+          "en": "in",
+          "pi": "zhōng de"
+        },
+        {
+          "ch": "模煳",
+          "en": "fuzzy",
+          "pi": "mó hū"
+        },
+        {
+          "ch": "花斑",
+          "en": "patch",
+          "pi": "huābān"
+        },
+        {
+          "ch": "是",
+          "en": "were",
+          "pi": "shì"
+        },
+        {
+          "ch": "其他",
+          "en": "other",
+          "pi": "qítā"
+        },
+        {
+          "ch": "星系",
+          "en": "galaxies",
+          "pi": "xīngxì"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": "，"
+        },
+        {
+          "ch": "而不是",
+          "en": "not",
+          "pi": "ér bùshì"
+        },
+        {
+          "ch": "银河",
+          "en": "Milky Way",
+          "pi": "yínhé"
+        },
+        {
+          "ch": "的",
+          "en": "of",
+          "pi": "de"
+        },
+        {
+          "ch": "遥远",
+          "en": "distant",
+          "pi": "yáo yuǎn"
+        },
+        {
+          "ch": "部分",
+          "en": "parts",
+          "pi": "bùfèn"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    }
+  ]
+}

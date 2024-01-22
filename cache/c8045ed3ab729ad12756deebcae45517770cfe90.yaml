@@ -1,0 +1,42 @@
+{
+  "chinese": "停雨时我无论如何都会出外。",
+  "english": "I will go out no matter what when the rain stops.",
+  "pinyin": "tíng yǔ shí wǒ wú lùn rúhé dōu huì chū wài。",
+  "words": [
+    {
+      "ch": "停雨",
+      "en": "rain stops",
+      "pi": "tíng yǔ"
+    },
+    {
+      "ch": "时",
+      "en": "when",
+      "pi": "shí"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "无论如何",
+      "en": "no matter what",
+      "pi": "wú lùn rúhé"
+    },
+    {
+      "ch": "都",
+      "en": "will",
+      "pi": "dōu"
+    },
+    {
+      "ch": "会",
+      "en": "go",
+      "pi": "huì"
+    },
+    {
+      "ch": "出外",
+      "en": "out",
+      "pi": "chū wài"
+    }
+  ]
+}

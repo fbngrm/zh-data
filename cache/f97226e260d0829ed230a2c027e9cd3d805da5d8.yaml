@@ -1,0 +1,30 @@
+{
+  "sentences": [
+    {
+      "chinese": "你的法语讲的很好。",
+      "english": "Your French is spoken very well.",
+      "pinyin": "nǐ de fǎyǔ jiǎng de hěn hǎo。",
+      "words": [
+        {"ch": "你的", "en": "your", "pi": "nǐ de"},
+        {"ch": "法语", "en": "French", "pi": "fǎyǔ"},
+        {"ch": "讲的", "en": "spoken", "pi": "jiǎng de"},
+        {"ch": "很好", "en": "very well", "pi": "hěn hǎo"}
+      ]
+    },
+    {
+      "chinese": "我希望可以讲的像你一样好。",
+      "english": "I hope to be able to speak as well as you do.",
+      "pinyin": "wǒ xīwàng kěyǐ jiǎng de xiàng nǐ yīyàng hǎo。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "希望", "en": "hope", "pi": "xīwàng"},
+        {"ch": "可以", "en": "to be able to", "pi": "kěyǐ"},
+        {"ch": "讲的", "en": "spoken", "pi": "jiǎng de"},
+        {"ch": "像", "en": "like", "pi": "xiàng"},
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "一样", "en": "as", "pi": "yīyàng"},
+        {"ch": "好", "en": "well", "pi": "hǎo"}
+      ]
+    }
+  ]
+}

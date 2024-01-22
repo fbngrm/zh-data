@@ -1,0 +1,32 @@
+{
+  "chinese": "我把我的头发剪了。",
+  "english": "I cut my hair.",
+  "pinyin": "wǒ bǎ wǒ de tóufǎ jiǎnle。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "把",
+      "en": "take",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "头发",
+      "en": "hair",
+      "pi": "tóufǎ"
+    },
+    {
+      "ch": "剪了",
+      "en": "cut",
+      "pi": "jiǎnle"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "chinese": "这个钟是电动的。",
+  "english": "This clock is electric.",
+  "pinyin": "zhè gè zhōng shì diàn dòng de.",
+  "words": [{
+      "ch": "这个",
+      "en": "This",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "钟",
+      "en": "clock",
+      "pi": "zhōng"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "电动",
+      "en": "electric",
+      "pi": "diàn dòng"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    }
+  ]
+}

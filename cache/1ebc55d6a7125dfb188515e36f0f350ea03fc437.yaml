@@ -1,0 +1,18 @@
+{
+  "chinese": "我们的老师说水到了一百度就会沸腾。",
+  "english": "Our teacher said that water will boil at 100 degrees.",
+  "pinyin": "wǒmen de lǎoshī shuō shuǐ dào le yībǎi dù jiù huì fèiténg。",
+  "words": [
+    {"ch": "我们", "en": "We", "pi": "wǒ men"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "老师", "en": "teacher", "pi": "lǎo shī"},
+    {"ch": "说", "en": "say", "pi": "shuō"},
+    {"ch": "水", "en": "water", "pi": "shuǐ"},
+    {"ch": "到", "en": "to", "pi": "dào"},
+    {"ch": "了", "en": "already", "pi": "le"},
+    {"ch": "一百度", "en": "100 degrees", "pi": "yī bǎi dù"},
+    {"ch": "就", "en": "will", "pi": "jiù"},
+    {"ch": "会", "en": "boil", "pi": "huì"},
+    {"ch": "沸腾", "en": "boil", "pi": "fèi téng"}
+  ]
+}

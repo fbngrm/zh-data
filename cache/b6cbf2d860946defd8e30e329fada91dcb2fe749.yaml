@@ -1,0 +1,15 @@
+{
+  "chinese": "她问了一个非常好的问题。",
+  "english": "She asked a very good question.",
+  "pinyin": "tā wèn le yī gè fēi cháng hǎo de wèn tí。",
+  "words": [
+    {"ch": "她", "en": "She", "pi": "tā"},
+    {"ch": "问", "en": "asked", "pi": "wèn"},
+    {"ch": "了", "en": "a", "pi": "le"},
+    {"ch": "一个", "en": "very", "pi": "yī gè"},
+    {"ch": "非常", "en": "good", "pi": "fēi cháng"},
+    {"ch": "好", "en": "question", "pi": "hǎo"},
+    {"ch": "的", "en": "。", "pi": "de"},
+    {"ch": "问题", "en": "question", "pi": "wèn tí"}
+  ]
+}

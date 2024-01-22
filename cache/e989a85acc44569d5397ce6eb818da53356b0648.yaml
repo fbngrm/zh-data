@@ -1,0 +1,32 @@
+{
+  "chinese": "我邀请珍吃晚饭。",
+  "english": "I invite Jane to have dinner.",
+  "pinyin": "wǒ yāo qǐng zhēn chī wǎn fàn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "邀请",
+      "en": "invite",
+      "pi": "yāo qǐng"
+    },
+    {
+      "ch": "珍",
+      "en": "Jane",
+      "pi": "zhēn"
+    },
+    {
+      "ch": "吃",
+      "en": "to have",
+      "pi": "chī"
+    },
+    {
+      "ch": "晚饭",
+      "en": "dinner",
+      "pi": "wǎn fàn"
+    }
+  ]
+}

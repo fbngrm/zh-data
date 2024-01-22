@@ -1,0 +1,32 @@
+{
+  "chinese": "这班火车已经到了。",
+  "english": "This train has arrived.",
+  "pinyin": "zhè bān huǒ chē yǐ jīng dào le。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "班",
+      "en": "class",
+      "pi": "bān"
+    },
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒ chē"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐ jīng"
+    },
+    {
+      "ch": "到了",
+      "en": "arrived",
+      "pi": "dào le"
+    }
+  ]
+}

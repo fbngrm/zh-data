@@ -1,0 +1,32 @@
+{
+  "chinese": "我的母亲不会说英语。",
+  "english": "My mother cannot speak English.",
+  "pinyin": "wǒ de mǔ qīn bú huì shuō yīng yǔ.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "母亲",
+      "en": "mother",
+      "pi": "mǔ qīn"
+    },
+    {
+      "ch": "不会",
+      "en": "cannot",
+      "pi": "bú huì"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīng yǔ"
+    }
+  ]
+}

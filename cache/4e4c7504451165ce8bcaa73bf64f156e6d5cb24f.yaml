@@ -1,0 +1,57 @@
+{
+  "chinese": "我不会写繁体字，但我可以读。",
+  "english": "I can't write traditional characters, but I can read.",
+  "pinyin": "wǒ bù huì xiě fántǐ zì, dàn wǒ kěyǐ dú.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不会",
+      "en": "can't",
+      "pi": "bù huì"
+    },
+    {
+      "ch": "写",
+      "en": "write",
+      "pi": "xiě"
+    },
+    {
+      "ch": "繁体字",
+      "en": "traditional characters",
+      "pi": "fántǐ zì"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": "，"
+    },
+    {
+      "ch": "但",
+      "en": "but",
+      "pi": "dàn"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kěyǐ"
+    },
+    {
+      "ch": "读",
+      "en": "read",
+      "pi": "dú"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "。"
+    }
+  ]
+}

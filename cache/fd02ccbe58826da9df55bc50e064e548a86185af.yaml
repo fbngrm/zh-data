@@ -1,0 +1,63 @@
+{
+  "sentences": [
+    {
+      "chinese": "我们有一只猫。",
+      "english": "We have a cat.",
+      "pinyin": "wǒmen yǒu yī zhī māo。",
+      "words": [
+        {
+          "ch": "我们",
+          "en": "We",
+          "pi": "wǒmen"
+        },
+        {
+          "ch": "有",
+          "en": "have",
+          "pi": "yǒu"
+        },
+        {
+          "ch": "一只",
+          "en": "a",
+          "pi": "yī zhī"
+        },
+        {
+          "ch": "猫",
+          "en": "cat",
+          "pi": "māo"
+        }
+      ]
+    },
+    {
+      "chinese": "我们都喜欢这只猫。",
+      "english": "We all like this cat.",
+      "pinyin": "wǒmen dōu xǐhuān zhè zhī māo。",
+      "words": [
+        {
+          "ch": "我们",
+          "en": "We",
+          "pi": "wǒmen"
+        },
+        {
+          "ch": "都",
+          "en": "all",
+          "pi": "dōu"
+        },
+        {
+          "ch": "喜欢",
+          "en": "like",
+          "pi": "xǐhuān"
+        },
+        {
+          "ch": "这只",
+          "en": "this",
+          "pi": "zhè zhī"
+        },
+        {
+          "ch": "猫",
+          "en": "cat",
+          "pi": "māo"
+        }
+      ]
+    }
+  ]
+}

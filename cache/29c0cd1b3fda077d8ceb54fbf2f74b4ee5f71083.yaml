@@ -1,0 +1,37 @@
+{
+  "chinese": "盒子里有任何东西吗?",
+  "english": "Is there anything in the box?",
+  "pinyin": "Hézi lǐ yǒu rènhé dōngxi ma?",
+  "words": [
+    {
+      "ch": "盒子",
+      "en": "box",
+      "pi": "hé zi"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "任何",
+      "en": "anything",
+      "pi": "rènhé"
+    },
+    {
+      "ch": "东西",
+      "en": "thing",
+      "pi": "dōngxi"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

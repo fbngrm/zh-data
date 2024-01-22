@@ -1,0 +1,32 @@
+{
+  "chinese": "昨天晚上我玩得很开心。",
+  "english": "I had a great time last night.",
+  "pinyin": "Zuótiān wǎnshàng wǒ wán dé hěn kāixīn.",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "晚上",
+      "en": "night",
+      "pi": "wǎnshàng"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "玩得很",
+      "en": "had a great time",
+      "pi": "wán dé hěn"
+    },
+    {
+      "ch": "开心",
+      "en": "happy",
+      "pi": "kāixīn"
+    }
+  ]
+}

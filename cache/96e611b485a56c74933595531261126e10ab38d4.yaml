@@ -1,0 +1,67 @@
+{
+  "chinese": "世界上有１０种人：懂二进制和不懂二进制的人。",
+  "english": "There are 10 types of people in the world: those who understand binary and those who don't.",
+  "pinyin": "Shìjiè shàng yǒu 10 zhǒng rén: dǒng èrjìnzhì hé bù dǒng èrjìnzhì de rén.",
+  "words": [
+    {
+      "ch": "世界上",
+      "en": "in the world",
+      "pi": "shì jiè shàng"
+    },
+    {
+      "ch": "有",
+      "en": "there are",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "１０",
+      "en": "10",
+      "pi": "shí"
+    },
+    {
+      "ch": "种人",
+      "en": "types of people",
+      "pi": "zhǒng rén"
+    },
+    {
+      "ch": "：",
+      "en": ":",
+      "pi": "mǎo hào"
+    },
+    {
+      "ch": "懂",
+      "en": "understand",
+      "pi": "dǒng"
+    },
+    {
+      "ch": "二进制",
+      "en": "binary",
+      "pi": "èr jìn zhì"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "不懂",
+      "en": "don't understand",
+      "pi": "bù dǒng"
+    },
+    {
+      "ch": "二进制",
+      "en": "binary",
+      "pi": "èr jìn zhì"
+    },
+    {
+      "ch": "的人",
+      "en": "person",
+      "pi": "de rén"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "。"
+    }
+  ]
+}

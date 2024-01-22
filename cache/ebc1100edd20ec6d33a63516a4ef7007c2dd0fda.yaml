@@ -1,0 +1,42 @@
+{
+  "chinese": "雨从昨天晚上下到现在。",
+  "english": "The rain has been falling since last night.",
+  "pinyin": "yǔ cóng zuótiān wǎnshàng xià dào xiànzài。",
+  "words": [
+    {
+      "ch": "雨",
+      "en": "rain",
+      "pi": "yǔ"
+    },
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "晚上",
+      "en": "night",
+      "pi": "wǎnshàng"
+    },
+    {
+      "ch": "下",
+      "en": "falling",
+      "pi": "xià"
+    },
+    {
+      "ch": "到",
+      "en": "until",
+      "pi": "dào"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiànzài"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆承认偷了钱。",
+  "english": "Tom admitted to stealing the money.",
+  "pinyin": "Tāng mǔ chéng rèn tōu le qián.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "承认",
+      "en": "admitted",
+      "pi": "chéng rèn"
+    },
+    {
+      "ch": "偷",
+      "en": "stealing",
+      "pi": "tōu"
+    },
+    {
+      "ch": "了",
+      "en": "to",
+      "pi": "le"
+    },
+    {
+      "ch": "钱",
+      "en": "money",
+      "pi": "qián"
+    }
+  ]
+}

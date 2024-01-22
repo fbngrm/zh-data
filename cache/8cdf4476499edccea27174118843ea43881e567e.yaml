@@ -1,0 +1,32 @@
+{
+  "chinese": "我不吃苹果核。",
+  "english": "I don't eat apple cores.",
+  "pinyin": "wǒ bù chī píng guǒ hé.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "苹果",
+      "en": "apple",
+      "pi": "píng guǒ"
+    },
+    {
+      "ch": "核",
+      "en": "core",
+      "pi": "hé"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "你不打网球吗?",
+  "english": "Don't you play tennis?",
+  "pinyin": "nǐ bú dǎ wǎngqiú ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bú"
+    },
+    {
+      "ch": "打",
+      "en": "play",
+      "pi": "dǎ"
+    },
+    {
+      "ch": "网球",
+      "en": "tennis",
+      "pi": "wǎngqiú"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

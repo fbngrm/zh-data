@@ -1,0 +1,13 @@
+{
+  "chinese": "告诉我发生了什么事。",
+  "english": "Tell me what happened.",
+  "pinyin": "gào sù wǒ fā shēng le shén me shì.",
+  "words": [
+    { "ch": "告诉", "en": "Tell", "pi": "gào sù" },
+    { "ch": "我", "en": "me", "pi": "wǒ" },
+    { "ch": "发生", "en": "happen", "pi": "fā shēng" },
+    { "ch": "了", "en": "", "pi": "le" },
+    { "ch": "什么", "en": "what", "pi": "shén me" },
+    { "ch": "事", "en": "happened", "pi": "shì" }
+  ]
+}

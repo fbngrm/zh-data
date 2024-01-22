@@ -1,0 +1,37 @@
+{
+  "chinese": "你想喝点东西吗？",
+  "english": "Do you want to drink something?",
+  "pinyin": "Nǐ xiǎng hē diǎn dōngxi ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "喝",
+      "en": "to drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "点",
+      "en": "some",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "东西",
+      "en": "something",
+      "pi": "dōngxi"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

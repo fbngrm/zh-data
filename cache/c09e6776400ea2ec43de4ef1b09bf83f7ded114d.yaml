@@ -1,0 +1,13 @@
+{
+  "chinese": "蜿蜒的小路爬上了陡坡。",
+  "english": "The winding path climbed up a steep slope.",
+  "pinyin": "wān yán de xiǎo lù pá shàng le dǒu pō。",
+  "words": [
+    {"ch": "蜿蜒", "en": "winding", "pi": "wān yán"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "小路", "en": "path", "pi": "xiǎo lù"},
+    {"ch": "爬上", "en": "climbed up", "pi": "pá shàng"},
+    {"ch": "了", "en": "a", "pi": "le"},
+    {"ch": "陡坡", "en": "steep slope", "pi": "dǒu pō"}
+  ]
+}

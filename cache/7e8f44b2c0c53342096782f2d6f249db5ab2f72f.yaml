@@ -1,0 +1,32 @@
+{
+  "chinese": "在桌子上有本书。",
+  "english": "There is a book on the table.",
+  "pinyin": "Zài zhuōzi shàng yǒu běnshū.",
+  "words": [
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "桌子",
+      "en": "table",
+      "pi": "zhuōzi"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "本书",
+      "en": "book",
+      "pi": "běnshū"
+    }
+  ]
+}

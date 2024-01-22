@@ -1,0 +1,14 @@
+{
+  "chinese": "他们总是早起，即使是在周日。",
+  "english": "They always wake up early, even on Sundays.",
+  "pinyin": "tā men zǒng shì zǎo qǐ, jí shǐ shì zài zhōu rì。",
+  "words": [
+    {"ch": "他们", "en": "They", "pi": "tā men"},
+    {"ch": "总是", "en": "always", "pi": "zǒng shì"},
+    {"ch": "早起", "en": "wake up early", "pi": "zǎo qǐ"},
+    {"ch": "即使", "en": "even if", "pi": "jí shǐ"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "在", "en": "on", "pi": "zài"},
+    {"ch": "周日", "en": "Sundays", "pi": "zhōu rì"}
+  ]
+}

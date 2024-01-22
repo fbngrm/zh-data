@@ -1,0 +1,68 @@
+{
+  "sentences": [
+    {
+      "chinese": "你可以帮忙把门关上吗？",
+      "english": "Can you please help close the door?",
+      "pinyin": "Nǐ kěyǐ bāngmáng bǎ mén guānshàng ma?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "可以",
+          "en": "can",
+          "pi": "kěyǐ"
+        },
+        {
+          "ch": "帮忙",
+          "en": "help",
+          "pi": "bāngmáng"
+        },
+        {
+          "ch": "把",
+          "en": "to",
+          "pi": "bǎ"
+        },
+        {
+          "ch": "门",
+          "en": "door",
+          "pi": "mén"
+        },
+        {
+          "ch": "关上",
+          "en": "close",
+          "pi": "guānshàng"
+        },
+        {
+          "ch": "吗",
+          "en": "?",
+          "pi": "ma"
+        }
+      ]
+    },
+    {
+      "chinese": "可以，当然可以。",
+      "english": "Yes, of course.",
+      "pinyin": "Kěyǐ, dāngrán kěyǐ.",
+      "words": [
+        {
+          "ch": "可以",
+          "en": "yes",
+          "pi": "kěyǐ"
+        },
+        {
+          "ch": "当然",
+          "en": "of course",
+          "pi": "dāngrán"
+        },
+        {
+          "ch": "可以",
+          "en": "yes",
+          "pi": "kěyǐ"
+        }
+      ]
+    }
+  ]
+}

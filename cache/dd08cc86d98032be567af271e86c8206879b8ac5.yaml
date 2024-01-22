@@ -1,0 +1,32 @@
+{
+  "chinese": "老师指出了你的错误。",
+  "english": "The teacher pointed out your mistake.",
+  "pinyin": "Lǎoshī zhǐchūle nǐ de cuòwù。",
+  "words": [
+    {
+      "ch": "老师",
+      "en": "teacher",
+      "pi": "lǎoshī"
+    },
+    {
+      "ch": "指出",
+      "en": "point out",
+      "pi": "zhǐchū"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "错误",
+      "en": "mistake",
+      "pi": "cuòwù"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我记下了他的名字和地址。",
+  "english": "I have taken note of his name and address.",
+  "pinyin": "wǒ jìxiàle tā de míngzì hé dìzhǐ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "记下",
+      "en": "take note of",
+      "pi": "jìxià"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tāde"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míngzì"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "地址",
+      "en": "address",
+      "pi": "dìzhǐ"
+    }
+  ]
+}

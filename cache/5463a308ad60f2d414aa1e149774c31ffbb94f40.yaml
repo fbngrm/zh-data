@@ -1,0 +1,32 @@
+{
+  "chinese": "我必须睡一下觉。",
+  "english": "I need to take a nap.",
+  "pinyin": "wǒ bìxū shuì yīxià jiào。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "必须",
+      "en": "need to",
+      "pi": "bìxū"
+    },
+    {
+      "ch": "睡",
+      "en": "to sleep",
+      "pi": "shuì"
+    },
+    {
+      "ch": "一下",
+      "en": "a",
+      "pi": "yīxià"
+    },
+    {
+      "ch": "觉",
+      "en": "nap",
+      "pi": "jiào"
+    }
+  ]
+}

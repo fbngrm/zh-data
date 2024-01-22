@@ -1,0 +1,37 @@
+{
+  "chinese": "这把伞是谁的？",
+  "english": "Whose umbrella is this?",
+  "pinyin": "Zhè bǎ sǎn shì shuí de?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "把",
+      "en": "classifier for objects with handles",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "伞",
+      "en": "umbrella",
+      "pi": "sǎn"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "谁",
+      "en": "whose",
+      "pi": "shuí"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    }
+  ]
+}

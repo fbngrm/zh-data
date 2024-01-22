@@ -1,0 +1,32 @@
+{
+  "chinese": "您允许我去吗？",
+  "english": "Can I go?",
+  "pinyin": "Nín yǔnxǔ wǒ qù ma?",
+  "words": [
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "Nín"
+    },
+    {
+      "ch": "允许",
+      "en": "allow",
+      "pi": "yǔnxǔ"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

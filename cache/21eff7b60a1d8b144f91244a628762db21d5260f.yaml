@@ -1,0 +1,32 @@
+{
+  "chinese": "我想要五个肉丸。",
+  "english": "I want five meatballs.",
+  "pinyin": "wǒ xiǎng yào wǔ gè ròu wán.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想要",
+      "en": "want",
+      "pi": "xiǎng yào"
+    },
+    {
+      "ch": "五",
+      "en": "five",
+      "pi": "wǔ"
+    },
+    {
+      "ch": "个",
+      "en": "quantity word",
+      "pi": "gè"
+    },
+    {
+      "ch": "肉丸",
+      "en": "meatballs",
+      "pi": "ròu wán"
+    }
+  ]
+}

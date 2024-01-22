@@ -1,0 +1,32 @@
+{
+  "chinese": "你必须做晚饭吗？",
+  "english": "Do you have to cook dinner?",
+  "pinyin": "nǐ bìxū zuò wǎnfàn ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "必须",
+      "en": "have to",
+      "pi": "bìxū"
+    },
+    {
+      "ch": "做",
+      "en": "cook",
+      "pi": "zuò"
+    },
+    {
+      "ch": "晚饭",
+      "en": "dinner",
+      "pi": "wǎnfàn"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

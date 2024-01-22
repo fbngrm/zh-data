@@ -1,0 +1,47 @@
+{
+  "chinese": "有人会发这个字的音吗？",
+  "english": "Does anyone know how to pronounce this character?",
+  "pinyin": "yǒu rén huì fā zhè gè zì de yīn ma?",
+  "words": [
+    {
+      "ch": "有人",
+      "en": "anyone",
+      "pi": "yǒu rén"
+    },
+    {
+      "ch": "会",
+      "en": "know",
+      "pi": "huì"
+    },
+    {
+      "ch": "发",
+      "en": "to pronounce",
+      "pi": "fā"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "字",
+      "en": "character",
+      "pi": "zì"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "音",
+      "en": "pronunciation",
+      "pi": "yīn"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆说他爱我。",
+  "english": "Tom said he loves me.",
+  "pinyin": "Tāng mǔ shuō tā ài wǒ.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "说",
+      "en": "said",
+      "pi": "shuō"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "爱",
+      "en": "loves",
+      "pi": "ài"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    }
+  ]
+}

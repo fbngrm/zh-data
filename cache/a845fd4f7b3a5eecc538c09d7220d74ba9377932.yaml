@@ -1,0 +1,32 @@
+{
+  "chinese": "你明天下午在哪里?",
+  "english": "Where will you be tomorrow afternoon?",
+  "pinyin": "nǐ míngtiān xiàwǔ zài nǎlǐ?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "下午",
+      "en": "afternoon",
+      "pi": "xiàwǔ"
+    },
+    {
+      "ch": "在",
+      "en": "be",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪里",
+      "en": "where",
+      "pi": "nǎlǐ"
+    }
+  ]
+}

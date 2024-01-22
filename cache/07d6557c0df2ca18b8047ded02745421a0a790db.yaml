@@ -1,0 +1,32 @@
+{
+  "chinese": "这棵树週长三米。",
+  "english": "This tree is three meters tall.",
+  "pinyin": "zhè kē shù zhōu cháng sān mǐ。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "棵",
+      "en": "measure word for trees",
+      "pi": "kē"
+    },
+    {
+      "ch": "树",
+      "en": "tree",
+      "pi": "shù"
+    },
+    {
+      "ch": "週长",
+      "en": "tall",
+      "pi": "zhōu cháng"
+    },
+    {
+      "ch": "三米",
+      "en": "three meters",
+      "pi": "sān mǐ"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "他按下了紧急按钮。",
+  "english": "He pressed the emergency button.",
+  "pinyin": "tā àn xià le jǐn jí àn niǔ。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "按下",
+      "en": "pressed",
+      "pi": "àn xià"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "紧急",
+      "en": "emergency",
+      "pi": "jǐn jí"
+    },
+    {
+      "ch": "按钮",
+      "en": "button",
+      "pi": "àn niǔ"
+    }
+  ]
+}

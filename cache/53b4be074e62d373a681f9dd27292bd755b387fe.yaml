@@ -1,0 +1,37 @@
+{
+  "chinese": "你今天准时上班了吗？",
+  "english": "Did you arrive at work on time today?",
+  "pinyin": "nǐ jīntiān zhǔnshí shàngbān le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "准时",
+      "en": "on time",
+      "pi": "zhǔnshí"
+    },
+    {
+      "ch": "上班",
+      "en": "arrive at work",
+      "pi": "shàngbān"
+    },
+    {
+      "ch": "了",
+      "en": "(particle indicating completed action)",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "(question particle)",
+      "pi": "ma"
+    }
+  ]
+}

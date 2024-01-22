@@ -1,0 +1,42 @@
+{
+  "chinese": "我们在两点钟很晚才吃午餐。",
+  "english": "We had lunch very late at two o'clock.",
+  "pinyin": "wǒmen zài liǎng diǎn zhōng hěn wǎn cái chī wǔ cān。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "两点钟",
+      "en": "two o'clock",
+      "pi": "liǎng diǎn zhōng"
+    },
+    {
+      "ch": "很晚",
+      "en": "very late",
+      "pi": "hěn wǎn"
+    },
+    {
+      "ch": "才",
+      "en": "only",
+      "pi": "cái"
+    },
+    {
+      "ch": "吃",
+      "en": "had",
+      "pi": "chī"
+    },
+    {
+      "ch": "午餐",
+      "en": "lunch",
+      "pi": "wǔ cān"
+    }
+  ]
+}

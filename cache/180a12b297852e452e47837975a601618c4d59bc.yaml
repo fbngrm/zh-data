@@ -1,0 +1,14 @@
+{
+  "chinese": "你不应该借钱给这样的人。",
+  "english": "You should not lend money to such a person.",
+  "pinyin": "nǐ bù yīng gāi jiè qián gěi zhè yàng de rén。",
+  "words": [
+    { "ch": "你", "en": "You", "pi": "nǐ" },
+    { "ch": "不", "en": "not", "pi": "bù" },
+    { "ch": "应该", "en": "should", "pi": "yīng gāi" },
+    { "ch": "借钱", "en": "lend money", "pi": "jiè qián" },
+    { "ch": "给", "en": "to", "pi": "gěi" },
+    { "ch": "这样的", "en": "such a", "pi": "zhè yàng de" },
+    { "ch": "人", "en": "person", "pi": "rén" }
+  ]
+}

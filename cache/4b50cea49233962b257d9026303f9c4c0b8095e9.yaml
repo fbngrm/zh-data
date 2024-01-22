@@ -1,0 +1,14 @@
+{
+  "chinese": "我们用喝茶的时间谈谈，好吗？",
+  "english": "Can we talk during tea time?",
+  "pinyin": "wǒmen yòng hē chá de shíjiān tán tán, hǎo ma?",
+  "words": [
+    {"ch": "我们", "en": "we", "pi": "wǒmen"},
+    {"ch": "用", "en": "use", "pi": "yòng"},
+    {"ch": "喝茶", "en": "drink tea", "pi": "hē chá"},
+    {"ch": "的", "en": "possessive particle", "pi": "de"},
+    {"ch": "时间", "en": "time", "pi": "shíjiān"},
+    {"ch": "谈谈", "en": "talk", "pi": "tán tán"},
+    {"ch": "好吗", "en": "is it okay", "pi": "hǎo ma"}
+  ]
+}

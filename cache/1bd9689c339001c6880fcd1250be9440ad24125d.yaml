@@ -1,0 +1,42 @@
+{
+  "chinese": "世界上有超过一百五十个国家。",
+  "english": "There are over 150 countries in the world.",
+  "pinyin": "Shìjiè shàng yǒu chāoguò yībǎi wǔshí gè guójiā.",
+  "words": [
+    {
+      "ch": "世界",
+      "en": "world",
+      "pi": "shìjiè"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "超过",
+      "en": "over",
+      "pi": "chāoguò"
+    },
+    {
+      "ch": "一百五十",
+      "en": "150",
+      "pi": "yībǎi wǔshí"
+    },
+    {
+      "ch": "个",
+      "en": "individual",
+      "pi": "gè"
+    },
+    {
+      "ch": "国家",
+      "en": "countries",
+      "pi": "guójiā"
+    }
+  ]
+}

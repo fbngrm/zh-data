@@ -1,0 +1,37 @@
+{
+  "chinese": "我想今天下午不会下雨。",
+  "english": "I don't think it will rain this afternoon.",
+  "pinyin": "Wǒ xiǎng jīntiān xiàwǔ bú huì xià yǔ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "think",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "下午",
+      "en": "afternoon",
+      "pi": "xiàwǔ"
+    },
+    {
+      "ch": "不会",
+      "en": "will not",
+      "pi": "bú huì"
+    },
+    {
+      "ch": "下雨",
+      "en": "rain",
+      "pi": "xià yǔ"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "我学习中文已经一年了。",
+  "english": "I have been studying Chinese for one year.",
+  "pinyin": "wǒ xuéxí zhōngwén yǐjīng yī nián le",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "学习",
+      "en": "study",
+      "pi": "xuéxí"
+    },
+    {
+      "ch": "中文",
+      "en": "Chinese",
+      "pi": "zhōngwén"
+    },
+    {
+      "ch": "已经",
+      "en": "have been",
+      "pi": "yǐjīng"
+    },
+    {
+      "ch": "一年",
+      "en": "one year",
+      "pi": "yī nián"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "le"
+    }
+  ]
+}

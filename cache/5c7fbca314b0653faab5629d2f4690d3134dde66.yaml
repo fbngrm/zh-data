@@ -1,0 +1,93 @@
+{
+  "sentences": [
+    {
+      "chinese": "很明显，这不可能是一个人的工作。",
+      "english": "It is obvious that this cannot be the work of one person.",
+      "pinyin": "Hěn míngxiǎn, zhè bù kěnéng shì yīgè rén de gōngzuò。",
+      "words": [
+        {
+          "ch": "很明显",
+          "en": "obvious",
+          "pi": "hěn míngxiǎn"
+        },
+        {
+          "ch": "这",
+          "en": "this",
+          "pi": "zhè"
+        },
+        {
+          "ch": "不可能",
+          "en": "cannot",
+          "pi": "bù kěnéng"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "一个人",
+          "en": "one person",
+          "pi": "yīgè rén"
+        },
+        {
+          "ch": "的",
+          "en": "of",
+          "pi": "de"
+        },
+        {
+          "ch": "工作",
+          "en": "work",
+          "pi": "gōngzuò"
+        }
+      ]
+    },
+    {
+      "chinese": "这就是为什么Ｔａｔｏｅｂａ是一个合作项目。",
+      "english": "That's why TatoeBa is a collaborative project.",
+      "pinyin": "Zhè jiùshì wèishéme TatoeBa shì yīgè hézuò xiàngmù。",
+      "words": [
+        {
+          "ch": "这",
+          "en": "that",
+          "pi": "zhè"
+        },
+        {
+          "ch": "就是",
+          "en": "why",
+          "pi": "jiùshì"
+        },
+        {
+          "ch": "为什么",
+          "en": "TatoeBa",
+          "pi": "wèishéme"
+        },
+        {
+          "ch": "Ｔａｔｏｅｂａ",
+          "en": "is",
+          "pi": "TatoeBa"
+        },
+        {
+          "ch": "是",
+          "en": "a",
+          "pi": "shì"
+        },
+        {
+          "ch": "一个",
+          "en": "collaborative",
+          "pi": "yīgè"
+        },
+        {
+          "ch": "合作",
+          "en": "project",
+          "pi": "hézuò"
+        },
+        {
+          "ch": "项目",
+          "en": "project",
+          "pi": "xiàngmù"
+        }
+      ]
+    }
+  ]
+}

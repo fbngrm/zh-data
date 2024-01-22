@@ -1,0 +1,27 @@
+{
+  "chinese": "我正在图书馆学习。",
+  "english": "I am studying in the library.",
+  "pinyin": "wǒ zhèngzài túshūguǎn xuéxí.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "正在",
+      "en": "am",
+      "pi": "zhèngzài"
+    },
+    {
+      "ch": "图书馆",
+      "en": "library",
+      "pi": "túshūguǎn"
+    },
+    {
+      "ch": "学习",
+      "en": "study",
+      "pi": "xuéxí"
+    }
+  ]
+}

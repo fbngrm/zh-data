@@ -1,0 +1,32 @@
+{
+  "chinese": "公司有五百个职员。",
+  "english": "The company has five hundred employees.",
+  "pinyin": "gōng sī yǒu wǔ bǎi gè zhí yuán。",
+  "words": [
+    {
+      "ch": "公司",
+      "en": "company",
+      "pi": "gōng sī"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "五百",
+      "en": "five hundred",
+      "pi": "wǔ bǎi"
+    },
+    {
+      "ch": "个",
+      "en": "individual",
+      "pi": "gè"
+    },
+    {
+      "ch": "职员",
+      "en": "employees",
+      "pi": "zhí yuán"
+    }
+  ]
+}

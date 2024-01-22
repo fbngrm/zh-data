@@ -1,0 +1,13 @@
+{
+  "chinese": "谢谢你把我加为好友。",
+  "english": "Thank you for adding me as a friend.",
+  "pinyin": "xiè xiè nǐ bǎ wǒ jiā wéi hǎo yǒu。",
+  "words": [
+    { "ch": "谢谢", "en": "Thank you", "pi": "xiè xiè" },
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "把", "en": "for", "pi": "bǎ" },
+    { "ch": "我", "en": "me", "pi": "wǒ" },
+    { "ch": "加为", "en": "adding as", "pi": "jiā wéi" },
+    { "ch": "好友", "en": "friend", "pi": "hǎo yǒu" }
+  ]
+}

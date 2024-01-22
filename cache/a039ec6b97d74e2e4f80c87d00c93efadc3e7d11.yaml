@@ -1,0 +1,19 @@
+{
+  "chinese": "你还是快点上床睡觉吧，不然感冒会愈来愈严重的。",
+  "english": "You should go to bed and sleep soon, otherwise the cold will get worse.",
+  "pinyin": "nǐ hái shì kuài diǎn shàng chuáng shuì jiào ba, bù rán gǎn mào huì yù lái yù yán zhòng de。",
+  "words": [
+    {"ch": "你", "en": "You", "pi": "nǐ"},
+    {"ch": "还是", "en": "should", "pi": "hái shì"},
+    {"ch": "快点", "en": "quickly", "pi": "kuài diǎn"},
+    {"ch": "上床", "en": "go to bed", "pi": "shàng chuáng"},
+    {"ch": "睡觉", "en": "sleep", "pi": "shuì jiào"},
+    {"ch": "吧", "en": "and", "pi": "ba"},
+    {"ch": "不然", "en": "otherwise", "pi": "bù rán"},
+    {"ch": "感冒", "en": "cold", "pi": "gǎn mào"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "愈来愈", "en": "get worse", "pi": "yù lái yù"},
+    {"ch": "严重", "en": "serious", "pi": "yán zhòng"},
+    {"ch": "的", "en": "of", "pi": "de"}
+  ]
+}

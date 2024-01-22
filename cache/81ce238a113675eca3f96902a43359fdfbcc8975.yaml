@@ -1,0 +1,103 @@
+{
+  "sentences": [
+    {
+      "chinese": "你没结婚吧!?",
+      "english": "You're not married, right?",
+      "pinyin": "nǐ méi jiéhūn ba!?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "没",
+          "en": "not",
+          "pi": "méi"
+        },
+        {
+          "ch": "结婚",
+          "en": "married",
+          "pi": "jiéhūn"
+        },
+        {
+          "ch": "吧",
+          "en": "right",
+          "pi": "ba"
+        },
+        {
+          "ch": "!",
+          "en": "",
+          "pi": ""
+        },
+        {
+          "ch": "?",
+          "en": "",
+          "pi": ""
+        }
+      ]
+    },
+    {
+      "chinese": "哦，我们分手了。我们解除婚约了。",
+      "english": "Oh, we broke up. We called off the wedding.",
+      "pinyin": "ò, wǒmen fēnshǒu le. wǒmen jiěchú hūnyuē le.",
+      "words": [
+        {
+          "ch": "哦",
+          "en": "Oh",
+          "pi": "ò"
+        },
+        {
+          "ch": "，",
+          "en": "",
+          "pi": ""
+        },
+        {
+          "ch": "我们",
+          "en": "we",
+          "pi": "wǒmen"
+        },
+        {
+          "ch": "分手",
+          "en": "broke up",
+          "pi": "fēnshǒu"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        },
+        {
+          "ch": "。",
+          "en": "",
+          "pi": ""
+        },
+        {
+          "ch": "我们",
+          "en": "we",
+          "pi": "wǒmen"
+        },
+        {
+          "ch": "解除",
+          "en": "call off",
+          "pi": "jiěchú"
+        },
+        {
+          "ch": "婚约",
+          "en": "wedding",
+          "pi": "hūnyuē"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        },
+        {
+          "ch": "。",
+          "en": "",
+          "pi": ""
+        }
+      ]
+    }
+  ]
+}

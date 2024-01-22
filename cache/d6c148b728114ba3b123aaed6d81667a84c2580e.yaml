@@ -1,0 +1,15 @@
+{
+  "chinese": "我的哥哥真的很高，大概有1米8高。",
+  "english": "My older brother is really tall, probably around 1.8 meters.",
+  "pinyin": "Wǒ de gēgē zhēn de hěn gāo, dàgài yǒu 1 mǐ 8 gāo.",
+  "words": [
+    { "ch": "我的", "en": "my", "pi": "wǒ de" },
+    { "ch": "哥哥", "en": "older brother", "pi": "gēgē" },
+    { "ch": "真的", "en": "really", "pi": "zhēn de" },
+    { "ch": "很高", "en": "tall", "pi": "hěn gāo" },
+    { "ch": "大概", "en": "probably", "pi": "dàgài" },
+    { "ch": "有", "en": "have", "pi": "yǒu" },
+    { "ch": "1米8", "en": "1.8 meters", "pi": "1 mǐ 8" },
+    { "ch": "高", "en": "tall", "pi": "gāo" }
+  ]
+}

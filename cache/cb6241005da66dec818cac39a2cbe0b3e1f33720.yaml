@@ -1,0 +1,16 @@
+{
+  "chinese": "他的房間除了一張桌子，就甚麼也沒有了。",
+  "english": "His room had nothing but a table.",
+  "pinyin": "tā de fángjiān chúle yì zhāng zhuōzi, jiù shénme yě méiyǒule.",
+  "words": [
+    {"ch": "他的", "en": "his", "pi": "tā de"},
+    {"ch": "房間", "en": "room", "pi": "fángjiān"},
+    {"ch": "除了", "en": "except", "pi": "chúle"},
+    {"ch": "一張", "en": "a", "pi": "yì zhāng"},
+    {"ch": "桌子", "en": "table", "pi": "zhuōzi"},
+    {"ch": "就", "en": "only", "pi": "jiù"},
+    {"ch": "甚麼", "en": "nothing", "pi": "shénme"},
+    {"ch": "也", "en": "also", "pi": "yě"},
+    {"ch": "沒有了", "en": "had", "pi": "méiyǒule"}
+  ]
+}

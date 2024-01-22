@@ -1,0 +1,32 @@
+{
+  "chinese": "我能在这里睡觉吗？",
+  "english": "Can I sleep here?",
+  "pinyin": "wǒ néng zài zhèlǐ shuìjiào ma?",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "在这里",
+      "en": "here",
+      "pi": "zài zhèlǐ"
+    },
+    {
+      "ch": "睡觉",
+      "en": "sleep",
+      "pi": "shuìjiào"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

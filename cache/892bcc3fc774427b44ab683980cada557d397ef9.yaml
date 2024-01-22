@@ -1,0 +1,32 @@
+{
+  "chinese": "这是迈克的自行车。",
+  "english": "This is Mike's bicycle.",
+  "pinyin": "zhè shì mài kè de zì xíng chē。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "迈克",
+      "en": "Mike",
+      "pi": "mài kè"
+    },
+    {
+      "ch": "的",
+      "en": "'s",
+      "pi": "de"
+    },
+    {
+      "ch": "自行车",
+      "en": "bicycle",
+      "pi": "zì xíng chē"
+    }
+  ]
+}

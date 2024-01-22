@@ -1,0 +1,17 @@
+{
+  "chinese": "就算是ｂｅｌｉｅｖｅ，中间也藏着一个ｌｉｅ。",
+  "english": "Even if it's believe, there's a lie hidden in between.",
+  "pinyin": "jiù suàn shì b e l i e v e ，zhōng jiān yě cáng zhe yí gè l i e。",
+  "words": [
+    {"ch": "就算", "en": "Even if", "pi": "jiù suàn"},
+    {"ch": "是", "en": "it's", "pi": "shì"},
+    {"ch": "ｂｅｌｉｅｖｅ", "en": "believe", "pi": "b e l i e v e"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "中间", "en": "in between", "pi": "zhōng jiān"},
+    {"ch": "也", "en": "also", "pi": "yě"},
+    {"ch": "藏着", "en": "hidden", "pi": "cáng zhe"},
+    {"ch": "一个", "en": "a", "pi": "yí gè"},
+    {"ch": "ｌｉｅ", "en": "lie", "pi": "l i e"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}

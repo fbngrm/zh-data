@@ -1,0 +1,32 @@
+{
+  "chinese": "这只鹰抓到一只老鼠。",
+  "english": "The eagle catches a mouse.",
+  "pinyin": "zhè zhī yīng zhuā dào yī zhī lǎo shǔ.",
+  "words": [
+    {
+      "ch": "这只",
+      "en": "this",
+      "pi": "zhè zhī"
+    },
+    {
+      "ch": "鹰",
+      "en": "eagle",
+      "pi": "yīng"
+    },
+    {
+      "ch": "抓到",
+      "en": "catches",
+      "pi": "zhuā dào"
+    },
+    {
+      "ch": "一只",
+      "en": "a",
+      "pi": "yī zhī"
+    },
+    {
+      "ch": "老鼠",
+      "en": "mouse",
+      "pi": "lǎo shǔ"
+    }
+  ]
+}

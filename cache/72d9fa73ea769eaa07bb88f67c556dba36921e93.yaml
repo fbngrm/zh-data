@@ -1,0 +1,19 @@
+{
+  "chinese": "因为今天我没法上街购物，只好做点三明治将就将就。",
+  "english": "Because today I can't go shopping, I can only make a sandwich to make do.",
+  "pinyin": "yīn wèi jīn tiān wǒ méi fǎ shàng jiē gòu wù ，zhǐ hǎo zuò diǎn sān míng zhì jiāng jiù jiāng jiù 。",
+  "words": [
+    {"ch": "因为", "en": "because", "pi": "yīn wèi"},
+    {"ch": "今天", "en": "today", "pi": "jīn tiān"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "没法", "en": "can't", "pi": "méi fǎ"},
+    {"ch": "上街", "en": "go shopping", "pi": "shàng jiē"},
+    {"ch": "购物", "en": "shopping", "pi": "gòu wù"},
+    {"ch": "只好", "en": "can only", "pi": "zhǐ hǎo"},
+    {"ch": "做", "en": "make", "pi": "zuò"},
+    {"ch": "点", "en": "a bit", "pi": "diǎn"},
+    {"ch": "三明治", "en": "sandwich", "pi": "sān míng zhì"},
+    {"ch": "将就", "en": "make do", "pi": "jiāng jiù"},
+    {"ch": "将就", "en": "make do", "pi": "jiāng jiù"}
+  ]
+}

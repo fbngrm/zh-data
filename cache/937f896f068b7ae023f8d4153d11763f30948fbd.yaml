@@ -1,0 +1,35 @@
+The JSON object for the sentence "他说了实话。" would be:
+
+```json
+{
+  "chinese": "他说了实话。",
+  "english": "He told the truth.",
+  "pinyin": "tā shuō le shíhuà.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "说",
+      "en": "told",
+      "pi": "shuō"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "实话",
+      "en": "the truth",
+      "pi": "shíhuà"
+    },
+    {
+      "ch": "。",
+      "en": "",
+      "pi": ""
+    }
+  ]
+}

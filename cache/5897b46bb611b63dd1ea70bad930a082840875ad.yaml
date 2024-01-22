@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆没有参加会议。",
+  "english": "Tom did not attend the meeting.",
+  "pinyin": "tāng mǔ méi yǒu cān jiā huì yì。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "没有",
+      "en": "did not",
+      "pi": "méi yǒu"
+    },
+    {
+      "ch": "参加",
+      "en": "attend",
+      "pi": "cān jiā"
+    },
+    {
+      "ch": "会议",
+      "en": "meeting",
+      "pi": "huì yì"
+    }
+  ]
+}

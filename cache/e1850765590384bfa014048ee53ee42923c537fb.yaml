@@ -1,0 +1,37 @@
+{
+  "chinese": "请不要这样打断我说话。",
+  "english": "Please don't interrupt me like this.",
+  "pinyin": "Qǐng bùyào zhèyàng dǎduàn wǒ shuōhuà。",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "不要",
+      "en": "don't",
+      "pi": "bùyào"
+    },
+    {
+      "ch": "这样",
+      "en": "like this",
+      "pi": "zhèyàng"
+    },
+    {
+      "ch": "打断",
+      "en": "interrupt",
+      "pi": "dǎduàn"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "说话",
+      "en": "speak",
+      "pi": "shuōhuà"
+    }
+  ]
+}

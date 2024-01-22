@@ -1,0 +1,37 @@
+{
+  "chinese": "我爸爸帮我做作业。",
+  "english": "My dad helps me with my homework.",
+  "pinyin": "wǒ bàba bāng wǒ zuò zuòyè.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "爸爸",
+      "en": "dad",
+      "pi": "bàba"
+    },
+    {
+      "ch": "帮",
+      "en": "help",
+      "pi": "bāng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "做",
+      "en": "do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "作业",
+      "en": "homework",
+      "pi": "zuòyè"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "鲍伯很少写信给他的父母。",
+  "english": "Bob rarely writes letters to his parents.",
+  "pinyin": "Bào bó hěn shǎo xiě xìn gěi tā de fù mǔ.",
+  "words": [
+    {"ch": "鲍伯", "en": "Bob", "pi": "bào bó"},
+    {"ch": "很少", "en": "rarely", "pi": "hěn shǎo"},
+    {"ch": "写信", "en": "writes letters", "pi": "xiě xìn"},
+    {"ch": "给", "en": "to", "pi": "gěi"},
+    {"ch": "他的", "en": "his", "pi": "tā de"},
+    {"ch": "父母", "en": "parents", "pi": "fù mǔ"}
+  ]
+}

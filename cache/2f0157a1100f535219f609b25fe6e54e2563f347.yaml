@@ -1,0 +1,42 @@
+{
+  "chinese": "这个袋子里的柳橙都烂了。",
+  "english": "The oranges in this bag are all rotten.",
+  "pinyin": "zhè gè dài zi lǐ de liǔ chéng dōu làn le。",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "袋子",
+      "en": "bag",
+      "pi": "dài zi"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "柳橙",
+      "en": "oranges",
+      "pi": "liǔ chéng"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "烂了",
+      "en": "rotten",
+      "pi": "làn le"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我们住大图书馆附近。",
+  "english": "We live near the big library.",
+  "pinyin": "wǒ men zhù dà tú shū guǎn fù jìn。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "住",
+      "en": "live",
+      "pi": "zhù"
+    },
+    {
+      "ch": "大",
+      "en": "big",
+      "pi": "dà"
+    },
+    {
+      "ch": "图书馆",
+      "en": "library",
+      "pi": "tú shū guǎn"
+    },
+    {
+      "ch": "附近",
+      "en": "nearby",
+      "pi": "fù jìn"
+    }
+  ]
+}

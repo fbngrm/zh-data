@@ -1,0 +1,47 @@
+{
+  "chinese": "我用英文写了一封信。",
+  "english": "I wrote a letter in English.",
+  "pinyin": "wǒ yòng yīngwén xiě le yī fēng xìn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "用",
+      "en": "use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "英文",
+      "en": "English",
+      "pi": "yīngwén"
+    },
+    {
+      "ch": "写",
+      "en": "write",
+      "pi": "xiě"
+    },
+    {
+      "ch": "了",
+      "en": "a",
+      "pi": "le"
+    },
+    {
+      "ch": "一",
+      "en": "letter",
+      "pi": "yī"
+    },
+    {
+      "ch": "封",
+      "en": "in",
+      "pi": "fēng"
+    },
+    {
+      "ch": "信",
+      "en": "English",
+      "pi": "xìn"
+    }
+  ]
+}

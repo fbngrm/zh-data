@@ -1,0 +1,16 @@
+{
+  "chinese": "现在的人教育程度比以前高得多。",
+  "english": "People today have much higher education levels than before.",
+  "pinyin": "xiàn zài de rén jiào yù chéng dù bǐ yǐ qián gāo dé duō。",
+  "words": [
+    {"ch": "现在", "en": "today", "pi": "xiàn zài"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "人", "en": "people", "pi": "rén"},
+    {"ch": "教育", "en": "education", "pi": "jiào yù"},
+    {"ch": "程度", "en": "degree", "pi": "chéng dù"},
+    {"ch": "比", "en": "compare", "pi": "bǐ"},
+    {"ch": "以前", "en": "before", "pi": "yǐ qián"},
+    {"ch": "高", "en": "high", "pi": "gāo"},
+    {"ch": "得多", "en": "much", "pi": "dé duō"}
+  ]
+}

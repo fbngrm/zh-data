@@ -1,0 +1,37 @@
+{
+  "chinese": "我今天不想学习英语。",
+  "english": "I don't want to study English today.",
+  "pinyin": "wǒ jīntiān bù xiǎng xuéxí yīngyǔ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "学习",
+      "en": "to study",
+      "pi": "xuéxí"
+    },
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīngyǔ"
+    }
+  ]
+}

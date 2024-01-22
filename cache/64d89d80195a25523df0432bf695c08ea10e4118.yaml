@@ -1,0 +1,32 @@
+{
+  "chinese": "一分钟有六十秒。",
+  "english": "There are sixty seconds in one minute.",
+  "pinyin": "yī fēnzhōng yǒu liùshí miǎo.",
+  "words": [
+    {
+      "ch": "一",
+      "en": "one",
+      "pi": "yī"
+    },
+    {
+      "ch": "分钟",
+      "en": "minute",
+      "pi": "fēnzhōng"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "六十",
+      "en": "sixty",
+      "pi": "liùshí"
+    },
+    {
+      "ch": "秒",
+      "en": "seconds",
+      "pi": "miǎo"
+    }
+  ]
+}

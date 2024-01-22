@@ -1,0 +1,13 @@
+{
+  "chinese": "再加点盐好吗？",
+  "english": "Can you add some salt?",
+  "pinyin": "zài jiā diǎn yán hǎo ma?",
+  "words": [
+    {"ch": "再", "en": "again", "pi": "zài"},
+    {"ch": "加", "en": "add", "pi": "jiā"},
+    {"ch": "点", "en": "some", "pi": "diǎn"},
+    {"ch": "盐", "en": "salt", "pi": "yán"},
+    {"ch": "好", "en": "good", "pi": "hǎo"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

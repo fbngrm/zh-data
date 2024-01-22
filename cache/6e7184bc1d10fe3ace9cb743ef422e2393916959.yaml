@@ -1,0 +1,37 @@
+{
+  "chinese": "你有沒有看過這篇文章？",
+  "english": "Have you read this article?",
+  "pinyin": "Nǐ yǒu méiyǒu kàn guò zhè piān wénzhāng?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "沒有",
+      "en": "not have",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "看過",
+      "en": "read",
+      "pi": "kànguò"
+    },
+    {
+      "ch": "這篇",
+      "en": "this",
+      "pi": "zhè piān"
+    },
+    {
+      "ch": "文章",
+      "en": "article",
+      "pi": "wén zhāng"
+    }
+  ]
+}

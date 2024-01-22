@@ -1,0 +1,18 @@
+{
+  "chinese": "事实上，我从今天早上开始没有吃任何东西。",
+  "english": "In fact, I haven't eaten anything since this morning.",
+  "pinyin": "shì shí shàng, wǒ cóng jīn tiān zǎo shàng kāi shǐ méi yǒu chī rèn hé dōng xī.",
+  "words": [
+    {"ch": "事实", "en": "fact", "pi": "shì shí"},
+    {"ch": "上", "en": "up", "pi": "shàng"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "从", "en": "from", "pi": "cóng"},
+    {"ch": "今天", "en": "today", "pi": "jīn tiān"},
+    {"ch": "早上", "en": "morning", "pi": "zǎo shàng"},
+    {"ch": "开始", "en": "start", "pi": "kāi shǐ"},
+    {"ch": "没有", "en": "haven't", "pi": "méi yǒu"},
+    {"ch": "吃", "en": "eat", "pi": "chī"},
+    {"ch": "任何", "en": "anything", "pi": "rèn hé"},
+    {"ch": "东西", "en": "anything", "pi": "dōng xī"}
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "sentences": [
+    {
+      "chinese": "他以前是我最好的朋友，他現在是我最好的朋友，他以後也會是我最好的朋友。",
+      "english": "He used to be my best friend, he is now my best friend, he will also be my best friend in the future.",
+      "pinyin": "Tā yǐqián shì wǒ zuì hǎo de péngyǒu, tā xiànzài shì wǒ zuì hǎo de péngyǒu, tā yǐhòu yě huì shì wǒ zuì hǎo de péngyǒu.",
+      "words": [
+        {
+          "ch": "他",
+          "en": "He",
+          "pi": "tā"
+        },
+        {
+          "ch": "以前",
+          "en": "used to",
+          "pi": "yǐqián"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "我",
+          "en": "my",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "最好",
+          "en": "best",
+          "pi": "zuì hǎo"
+        },
+        {
+          "ch": "的",
+          "en": "of",
+          "pi": "de"
+        },
+        {
+          "ch": "朋友",
+          "en": "friend",
+          "pi": "péngyǒu"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": ","
+        },
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "現在",
+          "en": "now",
+          "pi": "xiànzài"
+        },
+        {
+          "ch": "也",
+          "en": "also",
+          "pi": "yě"
+        },
+        {
+          "ch": "會",
+          "en": "will",
+          "pi": "huì"
+        },
+        {
+          "ch": "是",
+          "en": "be",
+          "pi": "shì"
+        },
+        {
+          "ch": "我",
+          "en": "my",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "最好",
+          "en": "best",
+          "pi": "zuì hǎo"
+        },
+        {
+          "ch": "的",
+          "en": "of",
+          "pi": "de"
+        },
+        {
+          "ch": "朋友",
+          "en": "friend",
+          "pi": "péngyǒu"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": ","
+        },
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "以後",
+          "en": "in the future",
+          "pi": "yǐhòu"
+        },
+        {
+          "ch": "也",
+          "en": "also",
+          "pi": "yě"
+        },
+        {
+          "ch": "會",
+          "en": "will",
+          "pi": "huì"
+        },
+        {
+          "ch": "是",
+          "en": "be",
+          "pi": "shì"
+        },
+        {
+          "ch": "我",
+          "en": "my",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "最好",
+          "en": "best",
+          "pi": "zuì hǎo"
+        },
+        {
+          "ch": "的",
+          "en": "of",
+          "pi": "de"
+        },
+        {
+          "ch": "朋友",
+          "en": "friend",
+          "pi": "péngyǒu"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "."
+        }
+      ]
+    }
+  ]
+}

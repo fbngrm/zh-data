@@ -1,0 +1,32 @@
+{
+  "chinese": "你认为这是什么？",
+  "english": "What do you think this is?",
+  "pinyin": "Nǐ rèn wéi zhè shì shénme?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "认为",
+      "en": "think",
+      "pi": "rèn wéi"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    }
+  ]
+}

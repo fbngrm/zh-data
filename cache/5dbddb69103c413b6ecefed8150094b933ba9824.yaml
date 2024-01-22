@@ -1,0 +1,37 @@
+{
+  "chinese": "我们的火车在八点半出发。",
+  "english": "Our train departs at half past eight.",
+  "pinyin": "wǒmen de huǒchē zài bā diǎn bàn chūfā。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "our",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒchē"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "八点半",
+      "en": "half past eight",
+      "pi": "bā diǎn bàn"
+    },
+    {
+      "ch": "出发",
+      "en": "departs",
+      "pi": "chūfā"
+    }
+  ]
+}

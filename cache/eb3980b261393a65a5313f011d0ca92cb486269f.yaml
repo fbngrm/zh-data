@@ -1,0 +1,31 @@
+{
+  "chinese": "我开车送你回家。",
+  "english": "I'll drive you home.",
+  "pinyin": "wǒ kāi chē sòng nǐ huí jiā。",
+  "words": [{
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "开车",
+      "en": "drive a car",
+      "pi": "kāi chē"
+    },
+    {
+      "ch": "送",
+      "en": "take",
+      "pi": "sòng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "回家",
+      "en": "home",
+      "pi": "huí jiā"
+    }
+  ]
+}

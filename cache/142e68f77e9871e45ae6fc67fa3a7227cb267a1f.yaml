@@ -1,0 +1,42 @@
+{
+  "chinese": "我想和你一起去音乐会。",
+  "english": "I want to go to the concert with you.",
+  "pinyin": "wǒ xiǎng hé nǐ yīqǐ qù yīnyuèhuì.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "一起",
+      "en": "together",
+      "pi": "yīqǐ"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "音乐会",
+      "en": "concert",
+      "pi": "yīnyuèhuì"
+    }
+  ]
+}

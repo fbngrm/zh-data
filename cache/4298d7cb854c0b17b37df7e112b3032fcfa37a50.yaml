@@ -1,0 +1,32 @@
+{
+  "chinese": "早饭在何时何地用？",
+  "english": "When and where is breakfast eaten?",
+  "pinyin": "zǎofàn zài hé shí hé dì yòng?",
+  "words": [
+    {
+      "ch": "早饭",
+      "en": "breakfast",
+      "pi": "zǎofàn"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "何时",
+      "en": "when",
+      "pi": "hé shí"
+    },
+    {
+      "ch": "何地",
+      "en": "where",
+      "pi": "hé dì"
+    },
+    {
+      "ch": "用",
+      "en": "eaten",
+      "pi": "yòng"
+    }
+  ]
+}

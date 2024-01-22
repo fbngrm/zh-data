@@ -1,0 +1,19 @@
+{
+  "chinese": "你只要读读这篇文章，就能知道那意外有多严重。",
+  "english": "Just by reading this article, you will know how serious the accident was.",
+  "pinyin": "Nǐ zhǐyào dú dú zhè piān wénzhāng, jiù néng zhīdào nà yìwài yǒu duō yánzhòng.",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "只要", "en": "as long as", "pi": "zhǐyào"},
+    {"ch": "读读", "en": "read", "pi": "dú dú"},
+    {"ch": "这篇", "en": "this", "pi": "zhè piān"},
+    {"ch": "文章", "en": "article", "pi": "wénzhāng"},
+    {"ch": "就能", "en": "able to", "pi": "jiù néng"},
+    {"ch": "知道", "en": "know", "pi": "zhīdào"},
+    {"ch": "那", "en": "how", "pi": "nà"},
+    {"ch": "意外", "en": "accident", "pi": "yìwài"},
+    {"ch": "有", "en": "was", "pi": "yǒu"},
+    {"ch": "多", "en": "how", "pi": "duō"},
+    {"ch": "严重", "en": "serious", "pi": "yánzhòng"}
+  ]
+}

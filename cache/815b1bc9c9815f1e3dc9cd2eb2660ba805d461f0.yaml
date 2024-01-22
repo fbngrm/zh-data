@@ -1,0 +1,32 @@
+{
+  "chinese": "我要去打网球。",
+  "english": "I want to go play tennis.",
+  "pinyin": "wǒ yào qù dǎ wǎngqiú.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "打",
+      "en": "play",
+      "pi": "dǎ"
+    },
+    {
+      "ch": "网球",
+      "en": "tennis",
+      "pi": "wǎngqiú"
+    }
+  ]
+}

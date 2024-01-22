@@ -1,0 +1,37 @@
+{
+  "chinese": "这条路的宽度是多少？",
+  "english": "What is the width of this road?",
+  "pinyin": "zhè tiáo lù de kuān dù shì duō shǎo?",
+  "words": [
+    {
+      "ch": "这条",
+      "en": "this",
+      "pi": "zhè tiáo"
+    },
+    {
+      "ch": "路",
+      "en": "road",
+      "pi": "lù"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "宽度",
+      "en": "width",
+      "pi": "kuān dù"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "多少",
+      "en": "how much",
+      "pi": "duō shǎo"
+    }
+  ]
+}

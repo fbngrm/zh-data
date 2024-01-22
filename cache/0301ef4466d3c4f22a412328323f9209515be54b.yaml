@@ -1,0 +1,15 @@
+{
+  "chinese": "他把他的铅笔放在他的耳朵后面。",
+  "english": "He puts his pencil behind his ear.",
+  "pinyin": "tā bǎ tā de qiān bǐ fàng zài tā de ěr duǒ hòu miàn。",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "把", "en": "puts", "pi": "bǎ"},
+    {"ch": "他的", "en": "his", "pi": "tā de"},
+    {"ch": "铅笔", "en": "pencil", "pi": "qiān bǐ"},
+    {"ch": "放在", "en": "behind", "pi": "fàng zài"},
+    {"ch": "他的", "en": "his", "pi": "tā de"},
+    {"ch": "耳朵", "en": "ear", "pi": "ěr duǒ"},
+    {"ch": "后面", "en": "behind", "pi": "hòu miàn"}
+  ]
+}

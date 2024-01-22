@@ -1,0 +1,15 @@
+{
+  "chinese": "我只是不知道应该说什么而已……",
+  "english": "I just don't know what to say...",
+  "pinyin": "wǒ zhǐshì bù zhīdào yīnggāi shuō shénme éryǐ...",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "只是", "en": "just", "pi": "zhǐshì"},
+    {"ch": "不知道", "en": "don't know", "pi": "bù zhīdào"},
+    {"ch": "应该", "en": "should", "pi": "yīnggāi"},
+    {"ch": "说", "en": "say", "pi": "shuō"},
+    {"ch": "什么", "en": "what", "pi": "shénme"},
+    {"ch": "而已", "en": "just", "pi": "éryǐ"},
+    {"ch": "……", "en": "...", "pi": "..."}
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "我们的厨师今天很忙。",
+  "english": "Our chef is very busy today.",
+  "pinyin": "wǒ men de chú shī jīn tiān hěn máng。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "厨师",
+      "en": "chef",
+      "pi": "chú shī"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "忙",
+      "en": "busy",
+      "pi": "máng"
+    }
+  ]
+}

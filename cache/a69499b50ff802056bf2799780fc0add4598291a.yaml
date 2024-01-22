@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆把文档译成法语。",
+  "english": "Tom translates the document into French.",
+  "pinyin": "Tāng mǔ bǎ wén dàng yì chéng fǎyǔ.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "把",
+      "en": "translates",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "文档",
+      "en": "document",
+      "pi": "wén dàng"
+    },
+    {
+      "ch": "译成",
+      "en": "into",
+      "pi": "yì chéng"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎyǔ"
+    }
+  ]
+}

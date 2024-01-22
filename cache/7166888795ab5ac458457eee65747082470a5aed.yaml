@@ -1,0 +1,16 @@
+{
+  "chinese": "他是因为母亲病了而不能来学校。",
+  "english": "He cannot come to school because his mother is sick.",
+  "pinyin": "Tā shì yīnwèi mǔqīn bìngle ér bùnéng lái xuéxiào.",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "因为", "en": "because", "pi": "yīnwèi"},
+    {"ch": "母亲", "en": "mother", "pi": "mǔqīn"},
+    {"ch": "病了", "en": "is sick", "pi": "bìngle"},
+    {"ch": "而", "en": "and", "pi": "ér"},
+    {"ch": "不能", "en": "cannot", "pi": "bùnéng"},
+    {"ch": "来", "en": "come", "pi": "lái"},
+    {"ch": "学校", "en": "school", "pi": "xuéxiào"}
+  ]
+}

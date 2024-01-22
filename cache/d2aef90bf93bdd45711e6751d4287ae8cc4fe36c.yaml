@@ -1,0 +1,32 @@
+{
+  "chinese": "学校因大雪停课一天。",
+  "english": "The school is closed for one day due to heavy snow.",
+  "pinyin": "xuéxiào yīn dàxuě tíngkè yītiān.",
+  "words": [
+    {
+      "ch": "学校",
+      "en": "school",
+      "pi": "xuéxiào"
+    },
+    {
+      "ch": "因",
+      "en": "due to",
+      "pi": "yīn"
+    },
+    {
+      "ch": "大雪",
+      "en": "heavy snow",
+      "pi": "dàxuě"
+    },
+    {
+      "ch": "停课",
+      "en": "closed",
+      "pi": "tíngkè"
+    },
+    {
+      "ch": "一天",
+      "en": "one day",
+      "pi": "yītiān"
+    }
+  ]
+}

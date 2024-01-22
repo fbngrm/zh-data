@@ -1,0 +1,32 @@
+{
+  "chinese": "对不起，但图书馆在哪里？",
+  "english": "Excuse me, but where is the library?",
+  "pinyin": "duì bù qǐ, dàn tú shū guǎn zài nǎ lǐ?",
+  "words": [
+    {
+      "ch": "对不起",
+      "en": "Excuse me",
+      "pi": "duì bù qǐ"
+    },
+    {
+      "ch": "但",
+      "en": "but",
+      "pi": "dàn"
+    },
+    {
+      "ch": "图书馆",
+      "en": "library",
+      "pi": "tú shū guǎn"
+    },
+    {
+      "ch": "在",
+      "en": "where",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪里",
+      "en": "is",
+      "pi": "nǎ lǐ"
+    }
+  ]
+}

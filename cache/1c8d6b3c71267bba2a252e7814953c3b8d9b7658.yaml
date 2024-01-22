@@ -1,0 +1,32 @@
+{
+  "chinese": "我有一张地图。",
+  "english": "I have a map.",
+  "pinyin": "wǒ yǒu yī zhāng dìtú.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一",
+      "en": "a",
+      "pi": "yī"
+    },
+    {
+      "ch": "张",
+      "en": "map (measure word)",
+      "pi": "zhāng"
+    },
+    {
+      "ch": "地图",
+      "en": "map",
+      "pi": "dìtú"
+    }
+  ]
+}

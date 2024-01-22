@@ -1,0 +1,32 @@
+{
+  "chinese": "你猜得出这个迷语吗？",
+  "english": "Can you guess this riddle?",
+  "pinyin": "nǐ cāi dé chū zhè gè mí yǔ ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "猜得出",
+      "en": "guess",
+      "pi": "cāi dé chū"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "迷语",
+      "en": "riddle",
+      "pi": "mí yǔ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

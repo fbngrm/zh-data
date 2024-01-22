@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆没有告诉我她的名字。",
+  "english": "Tom did not tell me her name.",
+  "pinyin": "Tāng mǔ méiyǒu gàosù wǒ tā de míngzì.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "没有",
+      "en": "did not",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "告诉",
+      "en": "tell",
+      "pi": "gàosù"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "她的",
+      "en": "her",
+      "pi": "tā de"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míngzì"
+    }
+  ]
+}

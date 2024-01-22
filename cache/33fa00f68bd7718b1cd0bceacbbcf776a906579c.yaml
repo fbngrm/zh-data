@@ -1,0 +1,42 @@
+{
+  "chinese": "電話響起時我正在吃午飯。",
+  "english": "I was eating lunch when the phone rang.",
+  "pinyin": "diàn huà xiǎng qǐ shí wǒ zhèng zài chī wǔ fàn。",
+  "words": [
+    {
+      "ch": "電話",
+      "en": "phone",
+      "pi": "diàn huà"
+    },
+    {
+      "ch": "響起",
+      "en": "rang",
+      "pi": "xiǎng qǐ"
+    },
+    {
+      "ch": "時",
+      "en": "when",
+      "pi": "shí"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "正在",
+      "en": "was",
+      "pi": "zhèng zài"
+    },
+    {
+      "ch": "吃",
+      "en": "eating",
+      "pi": "chī"
+    },
+    {
+      "ch": "午飯",
+      "en": "lunch",
+      "pi": "wǔ fàn"
+    }
+  ]
+}

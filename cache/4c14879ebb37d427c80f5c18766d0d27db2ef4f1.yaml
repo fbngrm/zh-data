@@ -1,0 +1,14 @@
+{
+  "chinese": "汤姆不能决定买丰田还是福特。",
+  "english": "Tom can't decide whether to buy a Toyota or a Ford.",
+  "pinyin": "Tāng mǔ bù néng juédìng mǎi fēng tián háishì fú tè.",
+  "words": [
+    { "ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ" },
+    { "ch": "不能", "en": "can't", "pi": "bù néng" },
+    { "ch": "决定", "en": "decide", "pi": "juédìng" },
+    { "ch": "买", "en": "buy", "pi": "mǎi" },
+    { "ch": "丰田", "en": "Toyota", "pi": "fēng tián" },
+    { "ch": "还是", "en": "or", "pi": "háishì" },
+    { "ch": "福特", "en": "Ford", "pi": "fú tè" }
+  ]
+}

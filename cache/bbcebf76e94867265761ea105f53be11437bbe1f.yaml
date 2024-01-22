@@ -1,0 +1,47 @@
+{
+  "chinese": "如果明天天气好，我们就去打棒球。",
+  "english": "If the weather is good tomorrow, we will go play baseball.",
+  "pinyin": "Rúguǒ míngtiān tiānqì hǎo, wǒmen jiù qù dǎ bàngqiú.",
+  "words": [
+    {
+      "ch": "如果",
+      "en": "if",
+      "pi": "rúguǒ"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiānqì"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "就",
+      "en": "will",
+      "pi": "jiù"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "打棒球",
+      "en": "play baseball",
+      "pi": "dǎ bàngqiú"
+    }
+  ]
+}

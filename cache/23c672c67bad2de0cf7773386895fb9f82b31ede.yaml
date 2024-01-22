@@ -1,0 +1,14 @@
+{
+  "chinese": "這棟很高的房子被茅草屋頂覆蓋著。",
+  "english": "This tall building is covered with a thatched roof.",
+  "pinyin": "zhè dòng hěn gāo de fángzi bèi máo cǎo wūdǐng fùgài zhe。",
+  "words": [
+    {"ch": "這棟", "en": "This", "pi": "zhè dòng"},
+    {"ch": "很高的", "en": "tall", "pi": "hěn gāo de"},
+    {"ch": "房子", "en": "building", "pi": "fángzi"},
+    {"ch": "被", "en": "is", "pi": "bèi"},
+    {"ch": "茅草", "en": "thatched", "pi": "máo cǎo"},
+    {"ch": "屋頂", "en": "roof", "pi": "wūdǐng"},
+    {"ch": "覆蓋著", "en": "covered", "pi": "fùgài zhe"}
+  ]
+}

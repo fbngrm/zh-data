@@ -1,0 +1,12 @@
+{
+  "chinese": "你知道现在几点吗？",
+  "english": "Do you know what time it is now?",
+  "pinyin": "nǐ zhī dào xiàn zài jǐ diǎn ma?",
+  "words": [
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "知道", "en": "know", "pi": "zhī dào" },
+    { "ch": "现在", "en": "now", "pi": "xiàn zài" },
+    { "ch": "几点", "en": "what time", "pi": "jǐ diǎn" },
+    { "ch": "吗", "en": "question particle", "pi": "ma" }
+  ]
+}

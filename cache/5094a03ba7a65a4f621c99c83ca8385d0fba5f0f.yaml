@@ -1,0 +1,32 @@
+{
+  "chinese": "她被车撞了。",
+  "english": "She was hit by a car.",
+  "pinyin": "Tā bèi chē zhuàng le.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "被",
+      "en": "by",
+      "pi": "bèi"
+    },
+    {
+      "ch": "车",
+      "en": "car",
+      "pi": "chē"
+    },
+    {
+      "ch": "撞",
+      "en": "hit",
+      "pi": "zhuàng"
+    },
+    {
+      "ch": "了",
+      "en": "was",
+      "pi": "le"
+    }
+  ]
+}

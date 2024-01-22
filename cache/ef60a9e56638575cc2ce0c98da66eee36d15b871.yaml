@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆不会系领带。",
+  "english": "Tom doesn't know how to tie a tie.",
+  "pinyin": "tāng mǔ bù huì xì lǐng dài。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "不会",
+      "en": "not know how to",
+      "pi": "bù huì"
+    },
+    {
+      "ch": "系",
+      "en": "tie",
+      "pi": "xì"
+    },
+    {
+      "ch": "领带",
+      "en": "tie",
+      "pi": "lǐng dài"
+    }
+  ]
+}

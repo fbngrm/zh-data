@@ -1,0 +1,32 @@
+{
+  "chinese": "桌上的手表是我的。",
+  "english": "The watch on the table is mine.",
+  "pinyin": "zhuō shàng de shǒu biǎo shì wǒ de.",
+  "words": [
+    {
+      "ch": "桌上",
+      "en": "on the table",
+      "pi": "zhuō shàng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "手表",
+      "en": "watch",
+      "pi": "shǒu biǎo"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我的",
+      "en": "mine",
+      "pi": "wǒ de"
+    }
+  ]
+}

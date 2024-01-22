@@ -1,0 +1,87 @@
+{
+  "chinese": "你的文章写得很好，但却有很多字拼错了。",
+  "english": "Your article is written very well, but there are many words spelled incorrectly.",
+  "pinyin": "nǐ de wénzhāng xiě de hěn hǎo, dàn què yǒu hěn duō zì pīn cuò le.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "文章",
+      "en": "article",
+      "pi": "wénzhāng"
+    },
+    {
+      "ch": "写",
+      "en": "write",
+      "pi": "xiě"
+    },
+    {
+      "ch": "得",
+      "en": "to",
+      "pi": "de"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "好",
+      "en": "well",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "但",
+      "en": "but",
+      "pi": "dàn"
+    },
+    {
+      "ch": "却",
+      "en": "however",
+      "pi": "què"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "多",
+      "en": "many",
+      "pi": "duō"
+    },
+    {
+      "ch": "字",
+      "en": "word",
+      "pi": "zì"
+    },
+    {
+      "ch": "拼",
+      "en": "spell",
+      "pi": "pīn"
+    },
+    {
+      "ch": "错",
+      "en": "wrong",
+      "pi": "cuò"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "le"
+    }
+  ]
+}

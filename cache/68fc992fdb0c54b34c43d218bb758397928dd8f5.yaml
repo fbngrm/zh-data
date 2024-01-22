@@ -1,0 +1,32 @@
+{
+  "chinese": "图书馆离这里有多远？",
+  "english": "How far is the library from here?",
+  "pinyin": "Tú shū guǎn lí zhèlǐ yǒu duō yuǎn?",
+  "words": [
+    {
+      "ch": "图书馆",
+      "en": "library",
+      "pi": "Tú shū guǎn"
+    },
+    {
+      "ch": "离",
+      "en": "from",
+      "pi": "lí"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "多远",
+      "en": "how far",
+      "pi": "duō yuǎn"
+    }
+  ]
+}

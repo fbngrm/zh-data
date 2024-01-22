@@ -1,0 +1,37 @@
+{
+  "chinese": "我们六点钟到了车站。",
+  "english": "We arrived at the station at six o'clock.",
+  "pinyin": "wǒ men liù diǎn zhōng dào le chē zhàn。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "六",
+      "en": "six",
+      "pi": "liù"
+    },
+    {
+      "ch": "点",
+      "en": "o'clock",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "钟",
+      "en": "",
+      "pi": "zhōng"
+    },
+    {
+      "ch": "到了",
+      "en": "arrived",
+      "pi": "dào le"
+    },
+    {
+      "ch": "车站",
+      "en": "station",
+      "pi": "chē zhàn"
+    }
+  ]
+}

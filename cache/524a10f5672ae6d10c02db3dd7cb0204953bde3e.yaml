@@ -1,0 +1,14 @@
+{
+  "chinese": "我不能抓到他演讲的重点。",
+  "english": "I can't grasp the main points of his speech.",
+  "pinyin": "wǒ bù néng zhuā dào tā yǎn jiǎng de zhòng diǎn。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "不能", "en": "can't", "pi": "bù néng"},
+    {"ch": "抓到", "en": "grasp", "pi": "zhuā dào"},
+    {"ch": "他", "en": "him", "pi": "tā"},
+    {"ch": "演讲", "en": "speech", "pi": "yǎn jiǎng"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "重点", "en": "main points", "pi": "zhòng diǎn"}
+  ]
+}

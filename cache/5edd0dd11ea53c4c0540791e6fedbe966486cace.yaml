@@ -1,0 +1,32 @@
+{
+  "chinese": "你开始学习英语了吗？",
+  "english": "Have you started learning English?",
+  "pinyin": "nǐ kāishǐ xuéxí yīngyǔle ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "开始",
+      "en": "start",
+      "pi": "kāishǐ"
+    },
+    {
+      "ch": "学习",
+      "en": "learn",
+      "pi": "xuéxí"
+    },
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīngyǔ"
+    },
+    {
+      "ch": "了吗",
+      "en": "have",
+      "pi": "le ma"
+    }
+  ]
+}

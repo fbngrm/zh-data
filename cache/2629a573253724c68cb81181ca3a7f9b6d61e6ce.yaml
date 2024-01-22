@@ -1,0 +1,32 @@
+{
+  "chinese": "他是个网球球手。",
+  "english": "He is a tennis player.",
+  "pinyin": "tā shì gè wǎng qiú qiú shǒu。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "网球",
+      "en": "tennis",
+      "pi": "wǎng qiú"
+    },
+    {
+      "ch": "球手",
+      "en": "player",
+      "pi": "qiú shǒu"
+    }
+  ]
+}

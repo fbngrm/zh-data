@@ -1,0 +1,63 @@
+{
+  "sentences": [
+    {
+      "chinese": "可以借你的词典一用吗？",
+      "english": "Can I borrow your dictionary?",
+      "pinyin": "kěyǐ jiè nǐ de cídiǎn yī yòng ma？",
+      "words": [
+        {
+          "ch": "可以",
+          "en": "can",
+          "pi": "kěyǐ"
+        },
+        {
+          "ch": "借",
+          "en": "borrow",
+          "pi": "jiè"
+        },
+        {
+          "ch": "你的",
+          "en": "your",
+          "pi": "nǐ de"
+        },
+        {
+          "ch": "词典",
+          "en": "dictionary",
+          "pi": "cídiǎn"
+        },
+        {
+          "ch": "一",
+          "en": "one",
+          "pi": "yī"
+        },
+        {
+          "ch": "用",
+          "en": "use",
+          "pi": "yòng"
+        },
+        {
+          "ch": "吗？",
+          "en": "?",
+          "pi": "ma？"
+        }
+      ]
+    },
+    {
+      "chinese": "没问题。",
+      "english": "No problem.",
+      "pinyin": "méi wèntí.",
+      "words": [
+        {
+          "ch": "没",
+          "en": "no",
+          "pi": "méi"
+        },
+        {
+          "ch": "问题",
+          "en": "problem",
+          "pi": "wèntí"
+        }
+      ]
+    }
+  ]
+}

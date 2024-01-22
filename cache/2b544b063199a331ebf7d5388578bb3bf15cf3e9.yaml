@@ -1,0 +1,32 @@
+{
+  "chinese": "您见过这个人吗？",
+  "english": "Have you seen this person?",
+  "pinyin": "Nín jiànguò zhège rén ma?",
+  "words": [
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "见过",
+      "en": "seen",
+      "pi": "jiànguò"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhège"
+    },
+    {
+      "ch": "人",
+      "en": "person",
+      "pi": "rén"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

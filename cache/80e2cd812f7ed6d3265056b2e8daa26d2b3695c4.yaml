@@ -1,0 +1,37 @@
+{
+  "chinese": "这本书的作者是谁?",
+  "english": "Who is the author of this book?",
+  "pinyin": "zhè běn shū de zuò zhě shì shuí?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本书",
+      "en": "book",
+      "pi": "běn shū"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "作者",
+      "en": "author",
+      "pi": "zuò zhě"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "谁",
+      "en": "who",
+      "pi": "shuí"
+    }
+  ]
+}

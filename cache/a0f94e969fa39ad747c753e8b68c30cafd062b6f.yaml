@@ -1,0 +1,16 @@
+{
+  "chinese": "汤姆不怎么会烧饭所以他经常出去吃。",
+  "english": "Tom is not very good at cooking, so he often eats out.",
+  "pinyin": "Tāng mǔ bù zěnme huì shāo fàn suǒyǐ tā jīngcháng chūqù chī.",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "不怎么", "en": "not very", "pi": "bù zěnme"},
+    {"ch": "会", "en": "good at", "pi": "huì"},
+    {"ch": "烧饭", "en": "cooking", "pi": "shāo fàn"},
+    {"ch": "所以", "en": "so", "pi": "suǒyǐ"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "经常", "en": "often", "pi": "jīngcháng"},
+    {"ch": "出去", "en": "go out", "pi": "chūqù"},
+    {"ch": "吃", "en": "eat", "pi": "chī"}
+  ]
+}

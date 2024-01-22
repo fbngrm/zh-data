@@ -1,0 +1,16 @@
+{
+  "chinese": "汤姆想知道玛丽在哪里学会了法语。",
+  "english": "Tom wants to know where Mary learned French.",
+  "pinyin": "Tāng mǔ xiǎng zhīdào Mǎlì zài nǎlǐ xuéhuìle fǎyǔ.",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "想", "en": "wants", "pi": "xiǎng"},
+    {"ch": "知道", "en": "to know", "pi": "zhīdào"},
+    {"ch": "玛丽", "en": "Mary", "pi": "Mǎlì"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "哪里", "en": "where", "pi": "nǎlǐ"},
+    {"ch": "学会", "en": "to learn", "pi": "xuéhuì"},
+    {"ch": "了", "en": "did", "pi": "le"},
+    {"ch": "法语", "en": "French", "pi": "fǎyǔ"}
+  ]
+}

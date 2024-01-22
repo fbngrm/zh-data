@@ -1,0 +1,14 @@
+{
+  "chinese": "我不知道他什么时候来。",
+  "english": "I don't know when he will come.",
+  "pinyin": "wǒ bù zhīdào tā shénme shíhòu lái。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "知道", "en": "know", "pi": "zhīdào"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "什么", "en": "what", "pi": "shénme"},
+    {"ch": "时候", "en": "when", "pi": "shíhòu"},
+    {"ch": "来", "en": "come", "pi": "lái"}
+  ]
+}

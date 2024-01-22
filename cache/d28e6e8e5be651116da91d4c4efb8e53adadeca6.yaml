@@ -1,0 +1,47 @@
+{
+  "chinese": "请问能给我一杯牛奶吗？",
+  "english": "Can I have a glass of milk, please?",
+  "pinyin": "qǐng wèn néng gěi wǒ yī bēi niú nǎi ma?",
+  "words": [
+    {
+      "ch": "请问",
+      "en": "excuse me",
+      "pi": "qǐng wèn"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "一",
+      "en": "one",
+      "pi": "yī"
+    },
+    {
+      "ch": "杯",
+      "en": "glass",
+      "pi": "bēi"
+    },
+    {
+      "ch": "牛奶",
+      "en": "milk",
+      "pi": "niú nǎi"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

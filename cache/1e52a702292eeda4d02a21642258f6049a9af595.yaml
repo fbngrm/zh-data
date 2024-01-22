@@ -1,0 +1,47 @@
+{
+  "chinese": "我昨晚看了那场棒球比赛。",
+  "english": "I watched that baseball game last night.",
+  "pinyin": "wǒ zuó wǎn kàn le nà chǎng bàng qiú bǐ sài。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "昨晚",
+      "en": "last night",
+      "pi": "zuó wǎn"
+    },
+    {
+      "ch": "看",
+      "en": "watch",
+      "pi": "kàn"
+    },
+    {
+      "ch": "了",
+      "en": "past tense marker",
+      "pi": "le"
+    },
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "场",
+      "en": "measure word for games",
+      "pi": "chǎng"
+    },
+    {
+      "ch": "棒球",
+      "en": "baseball",
+      "pi": "bàng qiú"
+    },
+    {
+      "ch": "比赛",
+      "en": "game",
+      "pi": "bǐ sài"
+    }
+  ]
+}

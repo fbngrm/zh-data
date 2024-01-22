@@ -1,0 +1,27 @@
+{
+  "chinese": "看起来像个苹果。",
+  "english": "It looks like an apple.",
+  "pinyin": "kàn qǐlái xiàng gè píngguǒ。",
+  "words": [
+    {
+      "ch": "看起来",
+      "en": "looks like",
+      "pi": "kàn qǐlái"
+    },
+    {
+      "ch": "像",
+      "en": "like",
+      "pi": "xiàng"
+    },
+    {
+      "ch": "个",
+      "en": "an",
+      "pi": "gè"
+    },
+    {
+      "ch": "苹果",
+      "en": "apple",
+      "pi": "píngguǒ"
+    }
+  ]
+}

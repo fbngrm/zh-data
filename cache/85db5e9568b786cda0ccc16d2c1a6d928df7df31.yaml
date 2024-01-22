@@ -1,0 +1,27 @@
+{
+  "chinese": "這裏要小心扒手。",
+  "english": "Be careful of pickpockets here.",
+  "pinyin": "zhè lǐ yào xiǎo xīn pá shǒu。",
+  "words": [
+    {
+      "ch": "這裏",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "要",
+      "en": "need",
+      "pi": "yào"
+    },
+    {
+      "ch": "小心",
+      "en": "be careful",
+      "pi": "xiǎo xīn"
+    },
+    {
+      "ch": "扒手",
+      "en": "pickpockets",
+      "pi": "pá shǒu"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{ 
+  "chinese": "我刮了鬍子並理了髮。",
+  "english": "I shaved my beard and trimmed my hair.",
+  "pinyin": "wǒ guāle hú zi bìng lǐle fà.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "刮", "en": "shave", "pi": "guā" },
+    { "ch": "了", "en": "past tense marker", "pi": "le" },
+    { "ch": "鬍子", "en": "beard", "pi": "hú zi" },
+    { "ch": "並", "en": "and", "pi": "bìng" },
+    { "ch": "理", "en": "trim", "pi": "lǐ" },
+    { "ch": "了", "en": "past tense marker", "pi": "le" },
+    { "ch": "髮", "en": "hair", "pi": "fà" }
+  ]
+}

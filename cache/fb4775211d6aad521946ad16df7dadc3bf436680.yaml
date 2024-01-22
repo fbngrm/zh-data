@@ -1,0 +1,42 @@
+{
+  "chinese": "我昨天买了这台相机。",
+  "english": "I bought this camera yesterday.",
+  "pinyin": "wǒ zuótiān mǎile zhè tái xiàngjī.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "买",
+      "en": "bought",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "台",
+      "en": "measure word",
+      "pi": "tái"
+    },
+    {
+      "ch": "相机",
+      "en": "camera",
+      "pi": "xiàngjī"
+    }
+  ]
+}

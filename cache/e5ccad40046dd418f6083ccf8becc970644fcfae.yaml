@@ -1,0 +1,42 @@
+{
+  "chinese": "你想将头发剪成怎样？",
+  "english": "How do you want to cut your hair?",
+  "pinyin": "Nǐ xiǎng jiāng tóufǎ jiǎn chéng zěnyàng?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "将",
+      "en": "to",
+      "pi": "jiāng"
+    },
+    {
+      "ch": "头发",
+      "en": "hair",
+      "pi": "tóufǎ"
+    },
+    {
+      "ch": "剪",
+      "en": "cut",
+      "pi": "jiǎn"
+    },
+    {
+      "ch": "成",
+      "en": "into",
+      "pi": "chéng"
+    },
+    {
+      "ch": "怎样",
+      "en": "how",
+      "pi": "zěnyàng"
+    }
+  ]
+}

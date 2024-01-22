@@ -1,0 +1,52 @@
+{
+  "chinese": "乔治的妹妹为我做了些三明治。",
+  "english": "George's sister made me some sandwiches.",
+  "pinyin": "Qiáozhì de mèimei wèi wǒ zuòle xiē sānmíngzhì.",
+  "words": [
+    {
+      "ch": "乔治",
+      "en": "George",
+      "pi": "Qiáozhì"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "妹妹",
+      "en": "sister",
+      "pi": "mèimei"
+    },
+    {
+      "ch": "为",
+      "en": "for",
+      "pi": "wèi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "做",
+      "en": "made",
+      "pi": "zuò"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating a completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "些",
+      "en": "some",
+      "pi": "xiē"
+    },
+    {
+      "ch": "三明治",
+      "en": "sandwiches",
+      "pi": "sānmíngzhì"
+    }
+  ]
+}

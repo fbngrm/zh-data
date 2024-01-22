@@ -1,0 +1,37 @@
+{
+  "chinese": "这个会议持续了两个小时。",
+  "english": "This meeting lasted for two hours.",
+  "pinyin": "zhè gè huì yì chí xù le liǎng gè xiǎo shí。",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "This",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "会议",
+      "en": "meeting",
+      "pi": "huì yì"
+    },
+    {
+      "ch": "持续",
+      "en": "lasted",
+      "pi": "chí xù"
+    },
+    {
+      "ch": "了",
+      "en": "for",
+      "pi": "le"
+    },
+    {
+      "ch": "两个",
+      "en": "two",
+      "pi": "liǎng gè"
+    },
+    {
+      "ch": "小时",
+      "en": "hours",
+      "pi": "xiǎo shí"
+    }
+  ]
+}

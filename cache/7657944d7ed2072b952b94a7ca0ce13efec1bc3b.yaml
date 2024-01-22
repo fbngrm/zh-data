@@ -1,0 +1,16 @@
+{
+  "chinese": "一个好的厨师不会丢掉昨天的汤。",
+  "english": "A good chef doesn't throw away yesterday's soup.",
+  "pinyin": "Yīgè hǎo de chúshī bù huì diūdiào zuótiān de tāng。",
+  "words": [
+    { "ch": "一个", "en": "a", "pi": "yīgè" },
+    { "ch": "好", "en": "good", "pi": "hǎo" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "厨师", "en": "chef", "pi": "chúshī" },
+    { "ch": "不会", "en": "won't", "pi": "bù huì" },
+    { "ch": "丢掉", "en": "throw away", "pi": "diūdiào" },
+    { "ch": "昨天", "en": "yesterday", "pi": "zuótiān" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "汤", "en": "soup", "pi": "tāng" }
+  ]
+}

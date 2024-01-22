@@ -1,0 +1,13 @@
+{
+"chinese": "我跳进了河里。",
+"english": "I jumped into the river.",
+"pinyin": "wǒ tiào jìn le hé lǐ。",
+"words": [
+   {"ch": "我", "en": "I", "pi": "wǒ"},
+   {"ch": "跳", "en": "jump", "pi": "tiào"},
+   {"ch": "进", "en": "into", "pi": "jìn"},
+   {"ch": "了", "en": "le", "pi": "le"},
+   {"ch": "河", "en": "river", "pi": "hé"},
+   {"ch": "里", "en": "in", "pi": "lǐ"}
+   ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我只想说对不起。",
+  "english": "I just want to say I'm sorry.",
+  "pinyin": "wǒ zhǐ xiǎng shuō duì bù qǐ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "只",
+      "en": "just",
+      "pi": "zhǐ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "说",
+      "en": "to say",
+      "pi": "shuō"
+    },
+    {
+      "ch": "对不起",
+      "en": "I'm sorry",
+      "pi": "duì bù qǐ"
+    }
+  ]
+}

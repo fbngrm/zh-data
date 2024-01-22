@@ -1,0 +1,47 @@
+{
+  "chinese": "这个咖啡对我来说太浓了。",
+  "english": "This coffee is too strong for me.",
+  "pinyin": "zhè gè kā fēi duì wǒ lái shuō tài nóng le.",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kā fēi"
+    },
+    {
+      "ch": "对",
+      "en": "to",
+      "pi": "duì"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "来说",
+      "en": "for",
+      "pi": "lái shuō"
+    },
+    {
+      "ch": "太",
+      "en": "too",
+      "pi": "tài"
+    },
+    {
+      "ch": "浓",
+      "en": "strong",
+      "pi": "nóng"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

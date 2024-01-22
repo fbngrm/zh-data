@@ -1,0 +1,32 @@
+{
+  "chinese": "我吃了這個蘋果。",
+  "english": "I ate this apple.",
+  "pinyin": "wǒ chī le zhè ge píng guǒ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "了",
+      "en": "past tense particle",
+      "pi": "le"
+    },
+    {
+      "ch": "這個",
+      "en": "this",
+      "pi": "zhè ge"
+    },
+    {
+      "ch": "蘋果",
+      "en": "apple",
+      "pi": "píng guǒ"
+    }
+  ]
+}

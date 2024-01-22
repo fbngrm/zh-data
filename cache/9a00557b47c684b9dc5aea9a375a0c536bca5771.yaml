@@ -1,0 +1,37 @@
+{
+  "chinese": "你有两台电脑吗？",
+  "english": "Do you have two computers?",
+  "pinyin": "nǐ yǒu liǎng tái diànnǎo ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "两",
+      "en": "two",
+      "pi": "liǎng"
+    },
+    {
+      "ch": "台",
+      "en": "measure word for machines",
+      "pi": "tái"
+    },
+    {
+      "ch": "电脑",
+      "en": "computer",
+      "pi": "diànnǎo"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

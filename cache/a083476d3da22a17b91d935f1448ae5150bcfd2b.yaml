@@ -1,0 +1,42 @@
+{
+  "chinese": "我必须问你一个蠢问题。",
+  "english": "I have to ask you a stupid question.",
+  "pinyin": "wǒ bìxū wèn nǐ yī gè chǔn wèn tí。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "必须",
+      "en": "have to",
+      "pi": "bìxū"
+    },
+    {
+      "ch": "问",
+      "en": "ask",
+      "pi": "wèn"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "蠢",
+      "en": "stupid",
+      "pi": "chǔn"
+    },
+    {
+      "ch": "问题",
+      "en": "question",
+      "pi": "wèn tí"
+    }
+  ]
+}

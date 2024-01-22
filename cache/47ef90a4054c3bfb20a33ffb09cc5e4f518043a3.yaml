@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆通常早饭只吃燕麦。",
+  "english": "Tom usually only eats oatmeal for breakfast.",
+  "pinyin": "Tāng mǔ tōng cháng zǎo fàn zhǐ chī yàn mài.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "通常",
+      "en": "usually",
+      "pi": "tōng cháng"
+    },
+    {
+      "ch": "早饭",
+      "en": "breakfast",
+      "pi": "zǎo fàn"
+    },
+    {
+      "ch": "只",
+      "en": "only",
+      "pi": "zhǐ"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "燕麦",
+      "en": "oatmeal",
+      "pi": "yàn mài"
+    }
+  ]
+}

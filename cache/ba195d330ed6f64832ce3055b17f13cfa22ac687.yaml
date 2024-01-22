@@ -1,0 +1,16 @@
+{
+  "chinese": "我有一位父亲是着名小说家的朋友。",
+  "english": "I have a friend whose father is a famous novelist.",
+  "pinyin": "wǒ yǒu yī wèi fù qīn shì zhuó míng xiǎo shuō jiā de péng yǒu。",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "有", "en": "have", "pi": "yǒu" },
+    { "ch": "一位", "en": "a", "pi": "yī wèi" },
+    { "ch": "父亲", "en": "father", "pi": "fù qīn" },
+    { "ch": "是", "en": "is", "pi": "shì" },
+    { "ch": "着名", "en": "famous", "pi": "zhuó míng" },
+    { "ch": "小说家", "en": "novelist", "pi": "xiǎo shuō jiā" },
+    { "ch": "的", "en": "whose", "pi": "de" },
+    { "ch": "朋友", "en": "friend", "pi": "péng yǒu" }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆说他会让玛丽去做。",
+  "english": "Tom said he will let Mary do it.",
+  "pinyin": "Tāngmǔ shuō tā huì ràng Mǎlì qù zuò.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "说",
+      "en": "said",
+      "pi": "shuō"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "让",
+      "en": "let",
+      "pi": "ràng"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎlì"
+    },
+    {
+      "ch": "去做",
+      "en": "do it",
+      "pi": "qù zuò"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我的嗜好是集邮。",
+  "english": "My hobby is stamp collecting.",
+  "pinyin": "Wǒ de shìhào shì jíyóu.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "嗜好",
+      "en": "hobby",
+      "pi": "shìhào"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "集邮",
+      "en": "stamp collecting",
+      "pi": "jíyóu"
+    }
+  ]
+}

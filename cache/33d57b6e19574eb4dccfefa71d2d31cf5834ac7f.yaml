@@ -1,0 +1,32 @@
+{
+  "chinese": "您吃不吃辣椒？",
+  "english": "Do you eat chili pepper?",
+  "pinyin": "Nín chī bù chī là jiāo?",
+  "words": [
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "不",
+      "en": "do not",
+      "pi": "bù"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "辣椒",
+      "en": "chili pepper",
+      "pi": "là jiāo"
+    }
+  ]
+}

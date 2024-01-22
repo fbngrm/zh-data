@@ -1,0 +1,32 @@
+{
+  "chinese": "厨房里有一只猫。",
+  "english": "There is a cat in the kitchen.",
+  "pinyin": "chú fáng lǐ yǒu yī zhī māo.",
+  "words": [
+    {
+      "ch": "厨房",
+      "en": "kitchen",
+      "pi": "chú fáng"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一只",
+      "en": "a",
+      "pi": "yī zhī"
+    },
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    }
+  ]
+}

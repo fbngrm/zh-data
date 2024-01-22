@@ -1,0 +1,42 @@
+{
+  "chinese": "我有一只狗和两只猫。",
+  "english": "I have one dog and two cats.",
+  "pinyin": "wǒ yǒu yī zhī gǒu hé liǎng zhī māo.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一只",
+      "en": "one",
+      "pi": "yī zhī"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "两只",
+      "en": "two",
+      "pi": "liǎng zhī"
+    },
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    }
+  ]
+}

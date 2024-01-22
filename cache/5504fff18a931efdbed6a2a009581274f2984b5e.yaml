@@ -1,0 +1,15 @@
+{
+  "chinese": "你想知道我看见什么了吗？",
+  "english": "Do you want to know what I saw?",
+  "pinyin": "nǐ xiǎng zhīdào wǒ kànjiàn shénme le ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "想", "en": "want", "pi": "xiǎng"},
+    {"ch": "知道", "en": "to know", "pi": "zhīdào"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "看见", "en": "saw", "pi": "kànjiàn"},
+    {"ch": "什么", "en": "what", "pi": "shénme"},
+    {"ch": "了", "en": "了", "pi": "le"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

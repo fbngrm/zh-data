@@ -1,0 +1,14 @@
+{
+  "chinese": "这座桥正被重新油漆。",
+  "english": "This bridge is being re-painted.",
+  "pinyin": "zhè zuò qiáo zhèng bèi chóng xī yóu qì。",
+  "words": [
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "座", "en": "measure word for bridges", "pi": "zuò"},
+    {"ch": "桥", "en": "bridge", "pi": "qiáo"},
+    {"ch": "正", "en": "is", "pi": "zhèng"},
+    {"ch": "被", "en": "by", "pi": "bèi"},
+    {"ch": "重新", "en": "re-", "pi": "chóng xīn"},
+    {"ch": "油漆", "en": "painted", "pi": "yóu qì"}
+  ]
+}

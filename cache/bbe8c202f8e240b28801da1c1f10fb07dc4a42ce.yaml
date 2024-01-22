@@ -1,0 +1,42 @@
+{
+  "chinese": "我曾有个朋友叫汤姆。",
+  "english": "I once had a friend named Tom.",
+  "pinyin": "wǒ céng yǒu gè péngyǒu jiào tāng mǔ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "曾",
+      "en": "once",
+      "pi": "céng"
+    },
+    {
+      "ch": "有",
+      "en": "had",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "朋友",
+      "en": "friend",
+      "pi": "péngyǒu"
+    },
+    {
+      "ch": "叫",
+      "en": "named",
+      "pi": "jiào"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    }
+  ]
+}

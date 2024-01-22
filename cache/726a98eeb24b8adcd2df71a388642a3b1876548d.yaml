@@ -1,0 +1,42 @@
+{
+  "chinese": "你最小的弟弟身高多高?",
+  "english": "How tall is your youngest brother?",
+  "pinyin": "nǐ zuì xiǎo de dìdi shēngāo duō gāo?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "最小",
+      "en": "youngest",
+      "pi": "zuì xiǎo"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "弟弟",
+      "en": "brother",
+      "pi": "dìdi"
+    },
+    {
+      "ch": "身高",
+      "en": "height",
+      "pi": "shēngāo"
+    },
+    {
+      "ch": "多高",
+      "en": "how tall",
+      "pi": "duō gāo"
+    },
+    {
+      "ch": "?",
+      "en": "?",
+      "pi": "?"
+    }
+  ]
+}

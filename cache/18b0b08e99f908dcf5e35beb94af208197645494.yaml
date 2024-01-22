@@ -1,0 +1,37 @@
+{
+  "chinese": "你曾经在图书馆读书吗?",
+  "english": "Have you ever studied in a library?",
+  "pinyin": "nǐ céng jīng zài tú shū guǎn dú shū ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "曾经",
+      "en": "ever",
+      "pi": "céng jīng"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "图书馆",
+      "en": "library",
+      "pi": "tú shū guǎn"
+    },
+    {
+      "ch": "读书",
+      "en": "study",
+      "pi": "dú shū"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

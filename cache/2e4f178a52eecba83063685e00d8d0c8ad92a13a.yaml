@@ -1,0 +1,37 @@
+{
+  "chinese": "日本是个富有的国家。",
+  "english": "Japan is a wealthy country.",
+  "pinyin": "Rìběn shì gè fùyǒu de guójiā.",
+  "words": [
+    {
+      "ch": "日本",
+      "en": "Japan",
+      "pi": "Rìběn"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "富有",
+      "en": "wealthy",
+      "pi": "fùyǒu"
+    },
+    {
+      "ch": "的",
+      "en": "country",
+      "pi": "de"
+    },
+    {
+      "ch": "国家",
+      "en": "country",
+      "pi": "guójiā"
+    }
+  ]
+}

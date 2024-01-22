@@ -1,0 +1,32 @@
+{
+  "chinese": "我的兄弟是个笨蛋。",
+  "english": "My brother is a fool.",
+  "pinyin": "wǒ de xiōngdì shì gè bèndàn.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "兄弟",
+      "en": "brother",
+      "pi": "xiōngdì"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "笨蛋",
+      "en": "fool",
+      "pi": "bèndàn"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "吉姆将钥匙插入门锁。",
+  "english": "Jim inserted the key into the door lock.",
+  "pinyin": "jí mǔ jiāng yào shi chā rù mén suǒ。",
+  "words": [
+    {
+      "ch": "吉姆",
+      "en": "Jim",
+      "pi": "jí mǔ"
+    },
+    {
+      "ch": "将",
+      "en": "inserted",
+      "pi": "jiāng"
+    },
+    {
+      "ch": "钥匙",
+      "en": "key",
+      "pi": "yào shi"
+    },
+    {
+      "ch": "插入",
+      "en": "into",
+      "pi": "chā rù"
+    },
+    {
+      "ch": "门锁",
+      "en": "door lock",
+      "pi": "mén suǒ"
+    }
+  ]
+}

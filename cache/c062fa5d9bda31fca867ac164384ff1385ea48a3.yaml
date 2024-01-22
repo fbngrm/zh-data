@@ -1,0 +1,37 @@
+{
+  "chinese": "我要三磅的鸡肉。",
+  "english": "I want three pounds of chicken.",
+  "pinyin": "wǒ yào sān bàng de jī ròu.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "三",
+      "en": "three",
+      "pi": "sān"
+    },
+    {
+      "ch": "磅",
+      "en": "pounds",
+      "pi": "bàng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "鸡肉",
+      "en": "chicken",
+      "pi": "jī ròu"
+    }
+  ]
+}

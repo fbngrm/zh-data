@@ -1,0 +1,11 @@
+{
+  "chinese": "这条街通到哪里？",
+  "english": "Where does this street lead to?",
+  "pinyin": "zhè tiáo jiē tōng dào nǎlǐ?",
+  "words": [
+    {"ch": "这条", "en": "this", "pi": "zhè tiáo"},
+    {"ch": "街", "en": "street", "pi": "jiē"},
+    {"ch": "通到", "en": "lead to", "pi": "tōng dào"},
+    {"ch": "哪里", "en": "where", "pi": "nǎlǐ"}
+  ]
+}

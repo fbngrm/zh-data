@@ -1,0 +1,24 @@
+{
+  "chinese": "音頻功能僅適用在某些語言的句子中，如中文，荷蘭語，法語，德語和上海話。",
+  "english": "The audio feature only works in sentences of certain languages such as Chinese, Dutch, French, German, and Shanghainese.",
+  "pinyin": "yīn pín gōng néng jǐn shì yòng zài mǒu xiē yǔ yán de jù zi zhōng, rú zhōng wén, hélán yǔ, fǎ yǔ, dé yǔ hé shàng hǎi huà.",
+  "words": [
+    {"ch": "音頻", "en": "audio", "pi": "yīn pín"},
+    {"ch": "功能", "en": "feature", "pi": "gōng néng"},
+    {"ch": "僅", "en": "only", "pi": "jǐn"},
+    {"ch": "適用", "en": "applicable", "pi": "shì yòng"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "某些", "en": "certain", "pi": "mǒu xiē"},
+    {"ch": "語言", "en": "languages", "pi": "yǔ yán"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "句子", "en": "sentences", "pi": "jù zi"},
+    {"ch": "中", "en": "in", "pi": "zhōng"},
+    {"ch": "如", "en": "such as", "pi": "rú"},
+    {"ch": "中文", "en": "Chinese", "pi": "zhōng wén"},
+    {"ch": "荷蘭語", "en": "Dutch", "pi": "hélán yǔ"},
+    {"ch": "法語", "en": "French", "pi": "fǎ yǔ"},
+    {"ch": "德語", "en": "German", "pi": "dé yǔ"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "上海話", "en": "Shanghainese", "pi": "shàng hǎi huà"}
+  ]
+}

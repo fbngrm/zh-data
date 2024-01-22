@@ -1,0 +1,47 @@
+{
+  "chinese": "我一个人住在这个房子里。",
+  "english": "I live alone in this house.",
+  "pinyin": "wǒ yī gè rén zhù zài zhè gè fáng zi lǐ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "一个",
+      "en": "alone",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "人",
+      "en": "person",
+      "pi": "rén"
+    },
+    {
+      "ch": "住",
+      "en": "live",
+      "pi": "zhù"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "房子",
+      "en": "house",
+      "pi": "fáng zi"
+    },
+    {
+      "ch": "里",
+      "en": "inside",
+      "pi": "lǐ"
+    }
+  ]
+}

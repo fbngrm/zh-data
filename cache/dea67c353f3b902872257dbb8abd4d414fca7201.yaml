@@ -1,0 +1,42 @@
+{
+  "chinese": "每个人都知道我不喜欢汤姆。",
+  "english": "Everyone knows I don't like Tom.",
+  "pinyin": "měi gè rén dōu zhī dào wǒ bù xǐ huān tāng mǔ。",
+  "words": [
+    {
+      "ch": "每个人",
+      "en": "Everyone",
+      "pi": "měi gè rén"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐ huān"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    }
+  ]
+}

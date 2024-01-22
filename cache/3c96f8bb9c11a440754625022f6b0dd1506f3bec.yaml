@@ -1,0 +1,13 @@
+{
+  "chinese": "汤姆下国际象棋比我好。",
+  "english": "Tom is better than me at playing chess.",
+  "pinyin": "tāng mǔ xià guójì xiàngqí bǐ wǒ hǎo.",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "下", "en": "is", "pi": "xià"},
+    {"ch": "国际象棋", "en": "chess", "pi": "guójì xiàngqí"},
+    {"ch": "比", "en": "better than", "pi": "bǐ"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "好", "en": "good", "pi": "hǎo"}
+  ]
+}

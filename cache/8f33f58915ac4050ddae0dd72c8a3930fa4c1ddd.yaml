@@ -1,0 +1,32 @@
+{
+  "chinese": "这件衣服真漂亮。",
+  "english": "This dress is really beautiful.",
+  "pinyin": "zhè jiàn yī fú zhēn piào liàng.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "件",
+      "en": "piece",
+      "pi": "jiàn"
+    },
+    {
+      "ch": "衣服",
+      "en": "clothes",
+      "pi": "yī fú"
+    },
+    {
+      "ch": "真",
+      "en": "really",
+      "pi": "zhēn"
+    },
+    {
+      "ch": "漂亮",
+      "en": "beautiful",
+      "pi": "piào liàng"
+    }
+  ]
+}

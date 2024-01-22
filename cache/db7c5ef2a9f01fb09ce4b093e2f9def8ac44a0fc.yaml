@@ -1,0 +1,13 @@
+{
+  "chinese": "你必须用功读书赶上同学。",
+  "english": "You must study hard to catch up with your classmates.",
+  "pinyin": "nǐ bìxū yònggōng dúshū gǎnshàng tóngxué。",
+  "words": [
+    {"ch": "你", "en": "You", "pi": "nǐ"},
+    {"ch": "必须", "en": "must", "pi": "bìxū"},
+    {"ch": "用功", "en": "study hard", "pi": "yònggōng"},
+    {"ch": "读书", "en": "read books", "pi": "dúshū"},
+    {"ch": "赶上", "en": "catch up with", "pi": "gǎnshàng"},
+    {"ch": "同学", "en": "classmates", "pi": "tóngxué"}
+  ]
+}

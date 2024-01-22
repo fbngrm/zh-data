@@ -1,0 +1,32 @@
+{
+  "chinese": "中国有八九十种语言。",
+  "english": "China has eighty-nine to ninety languages.",
+  "pinyin": "zhōng guó yǒu bā jiǔ shí zhǒng yǔ yán。",
+  "words": [
+    {
+      "ch": "中国",
+      "en": "China",
+      "pi": "zhōng guó"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "八九十",
+      "en": "eighty-nine to ninety",
+      "pi": "bā jiǔ shí"
+    },
+    {
+      "ch": "种",
+      "en": "kinds",
+      "pi": "zhǒng"
+    },
+    {
+      "ch": "语言",
+      "en": "languages",
+      "pi": "yǔ yán"
+    }
+  ]
+}

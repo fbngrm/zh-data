@@ -1,0 +1,37 @@
+{
+  "chinese": "狗向着我跑了过来。",
+  "english": "The dog ran towards me.",
+  "pinyin": "gǒu xiàng zhe wǒ pǎo le guò lái.",
+  "words": [
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "向着",
+      "en": "towards",
+      "pi": "xiàng zhe"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "跑",
+      "en": "ran",
+      "pi": "pǎo"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "过来",
+      "en": "come",
+      "pi": "guò lái"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "chinese": "昨天有个田中先生来找您。",
+  "english": "Mr. Tianzhong came to see you yesterday.",
+  "pinyin": "Zuótiān yǒu gè tiánzhōng xiānshēng lái zhǎo nín.",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "田中",
+      "en": "Tianzhong",
+      "pi": "tiánzhōng"
+    },
+    {
+      "ch": "先生",
+      "en": "Mr.",
+      "pi": "xiānshēng"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    },
+    {
+      "ch": "找",
+      "en": "look for",
+      "pi": "zhǎo"
+    },
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    }
+  ]
+}

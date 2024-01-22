@@ -1,0 +1,32 @@
+{
+  "chinese": "蓝色的玫瑰很漂亮。",
+  "english": "Blue roses are very beautiful.",
+  "pinyin": "lán sè de méi guī hěn piào liang。",
+  "words": [
+    {
+      "ch": "蓝色",
+      "en": "blue",
+      "pi": "lán sè"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "玫瑰",
+      "en": "roses",
+      "pi": "méi guī"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "漂亮",
+      "en": "beautiful",
+      "pi": "piào liang"
+    }
+  ]
+}

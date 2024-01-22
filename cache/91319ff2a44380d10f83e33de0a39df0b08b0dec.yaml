@@ -1,0 +1,10 @@
+{
+  "chinese": "我中奖了。",
+  "english": "I won the prize.",
+  "pinyin": "wǒ zhòng jiǎng le",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "中奖", "en": "won the prize", "pi": "zhòng jiǎng"},
+    {"ch": "了", "en": "particle indicating completed action", "pi": "le"}
+  ]
+}

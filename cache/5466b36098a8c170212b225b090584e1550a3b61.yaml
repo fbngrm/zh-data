@@ -1,0 +1,37 @@
+{
+  "chinese": "这本书真的很旧。",
+  "english": "This book is really old.",
+  "pinyin": "zhè běn shū zhēn de hěn jiù。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "书",
+      "en": "is",
+      "pi": "shū"
+    },
+    {
+      "ch": "真的",
+      "en": "really",
+      "pi": "zhēn de"
+    },
+    {
+      "ch": "很",
+      "en": "old",
+      "pi": "hěn"
+    },
+    {
+      "ch": "旧",
+      "en": "old",
+      "pi": "jiù"
+    }
+  ]
+}

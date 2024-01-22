@@ -1,0 +1,32 @@
+{
+  "chinese": "这条裙子很适合你。",
+  "english": "This dress suits you.",
+  "pinyin": "zhè tiáo qúnzi hěn shìhé nǐ。",
+  "words": [
+    {
+      "ch": "这条",
+      "en": "this",
+      "pi": "zhè tiáo"
+    },
+    {
+      "ch": "裙子",
+      "en": "dress",
+      "pi": "qúnzi"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "适合",
+      "en": "suits",
+      "pi": "shìhé"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    }
+  ]
+}

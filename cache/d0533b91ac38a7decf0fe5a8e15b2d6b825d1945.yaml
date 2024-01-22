@@ -1,0 +1,27 @@
+{
+  "chinese": "您是乌鲁木齐人吗？",
+  "english": "Are you from Urumqi?",
+  "pinyin": "Nín shì wūlǔmùqí rén ma?",
+  "words": [
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "乌鲁木齐人",
+      "en": "from Urumqi",
+      "pi": "wūlǔmùqí rén"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

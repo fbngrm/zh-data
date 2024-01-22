@@ -1,0 +1,598 @@
+[
+  {
+    "chinese": "欢迎光临欢乐餐厅，请问几位？",
+    "english": "Welcome to Happy Restaurant, how many in your party?",
+    "pinyin": "huān yíng guāng lín huān lè cān tīng ，qǐ wèn jǐ wèi ？",
+    "words": [
+      {
+        "ch": "欢迎",
+        "en": "welcome",
+        "pi": "huān yíng"
+      },
+      {
+        "ch": "光临",
+        "en": "visit",
+        "pi": "guāng lín"
+      },
+      {
+        "ch": "欢乐",
+        "en": "happy",
+        "pi": "huān lè"
+      },
+      {
+        "ch": "餐厅",
+        "en": "restaurant",
+        "pi": "cān tīng"
+      },
+      {
+        "ch": "请问",
+        "en": "may I ask",
+        "pi": "qǐ wèn"
+      },
+      {
+        "ch": "几位",
+        "en": "how many people",
+        "pi": "jǐ wèi"
+      },
+      {
+        "ch": "？",
+        "en": "",
+        "pi": "？"
+      }
+    ]
+  },
+  {
+    "chinese": "一位。",
+    "english": "One person.",
+    "pinyin": "yí wèi 。",
+    "words": [
+      {
+        "ch": "一",
+        "en": "one",
+        "pi": "yī"
+      },
+      {
+        "ch": "位",
+        "en": "person",
+        "pi": "wèi"
+      },
+      {
+        "ch": "。",
+        "en": "",
+        "pi": "。"
+      }
+    ]
+  },
+  {
+    "chinese": "这边请。请坐。服务员马上过来。",
+    "english": "This way please. Please sit down. The waiter will be right with you.",
+    "pinyin": "zhè biān qǐng 。qǐng zuò 。fú wù yuán mǎ shàng guò lái 。",
+    "words": [
+      {
+        "ch": "这边",
+        "en": "this way",
+        "pi": "zhè biān"
+      },
+      {
+        "ch": "请",
+        "en": "please",
+        "pi": "qǐng"
+      },
+      {
+        "ch": "。", 
+        "en": "",
+        "pi": "。"
+      },
+      {
+        "ch": "请",
+        "en": "please",
+        "pi": "qǐng"
+      },
+      {
+        "ch": "坐",
+        "en": "sit",
+        "pi": "zuò"
+      },
+      {
+        "ch": "。", 
+        "en": "",
+        "pi": "。"
+      },
+      {
+        "ch": "服务员", 
+        "en": "waiter", 
+        "pi": "fú wù yuán"
+      },
+      {
+        "ch": "马上",
+        "en": "right away",
+        "pi":  "mǎ shàng"
+      },
+      {
+        "ch": "过来",
+        "en": "come over",
+        "pi": "guò lái"
+      },
+      {
+        "ch": "。",
+        "en": "",
+        "pi": "。"
+      }
+    ]
+  },
+  {
+    "chinese": "谢谢。",
+    "english": "Thank you.",
+    "pinyin": "xiè xie 。",
+    "words": [
+      {
+        "ch": "谢谢",
+        "en": "thank you",
+        "pi": "xiè xie"
+      },
+      {
+        "ch": "。",
+        "en": "",
+        "pi": "。"
+      }
+    ]
+  },
+  {
+    "chinese": "您好。您要点餐马？",
+    "english": "Hello. Are you ready to order?",
+    "pinyin": "nín hǎo 。nín yào diǎn cān mǎ ？",
+    "words": [
+      {
+        "ch": "您好",
+        "en": "hello",
+        "pi": "nín hǎo"
+      },
+      {
+        "ch": "。",
+        "en": "",
+        "pi": "。"
+      },
+      {
+        "ch": "您",
+        "en": "you",
+        "pi": "nín"
+      },
+      {
+        "ch": "要",
+        "en": "want",
+        "pi": "yào"
+      },
+      {
+        "ch": "点餐",
+        "en": "order food",
+        "pi": "diǎn cān"
+      },
+      {
+        "ch": "马",
+        "en": "",
+        "pi": "mǎ"
+      },
+      {
+        "ch": "？",
+        "en": "",
+        "pi": "？"
+      }
+    ]
+  },
+  {
+    "chinese": "是的。",
+    "english": "Yes.",
+    "pinyin": "shì de 。",
+    "words": [
+      {
+        "ch": "是",
+        "en": "yes",
+        "pi": "shì"
+      },
+      {
+        "ch": "的",
+        "en": "",
+        "pi": "de"
+      },
+      {
+        "ch": "。",
+        "en": "",
+        "pi": "。"
+      }
+    ]
+  },
+  {
+    "chinese": "您要点什么呢？",
+    "english": "What would you like to order?",
+    "pinyin": "nín yào diǎn shén me ne ？",
+    "words": [
+      {
+        "ch": "您",
+        "en": "you",
+        "pi": "nín"
+      },
+      {
+        "ch": "要",
+        "en": "want",
+        "pi": "yào"
+      },
+      {
+        "ch": "点",
+        "en": "order",
+        "pi": "diǎn"
+      },
+      {
+        "ch": "什么",
+        "en": "what",
+        "pi": "shén me"
+      },
+      {
+        "ch": "呢",
+        "en": "",
+        "pi": "ne"
+      },
+      {
+        "ch": "？",
+        "en": "",
+        "pi": "？"
+      }
+    ]
+  },
+  {
+    "chinese": "我要一个宫保鸡丁，一碗米饭，还要一杯橙汁。",
+    "english": "I would like a serving of Kung Pao Chicken, a bowl of rice and a glass of orange juice.",
+    "pinyin": "wǒ yào yí gè gōng bǎo jī dīng ，yī wǎn mǐ fàn ，hái yào yì bēi chéng zhī 。",
+    "words": [
+      {
+        "ch": "我",
+        "en": "I/me",
+        "pi": "wǒ"
+      },
+      {
+        "ch": "要",
+        "en": "want",
+        "pi": "yào"
+      },
+      {
+        "ch": "一个",
+        "en": "one",
+        "pi": "yí gè"
+      },
+      {
+        "ch": "宫保鸡丁",
+        "en": "Kung Pao Chicken",
+        "pi": "gōng bǎo jī dīng"
+      },
+      {
+        "ch": "，",
+        "en": ",",
+        "pi": "，"
+      },
+      {
+        "ch": "一",
+        "en": "one",
+        "pi": "yī"
+      },
+      {
+        "ch": "碗",
+        "en": "bowl",
+        "pi": "wǎn"
+      },
+      {
+        "ch": "米饭",
+        "en": "rice",
+        "pi": "mǐ fàn"
+      },
+      {
+        "ch": "，",
+        "en": ",",
+        "pi": "，"
+      },
+      {
+        "ch": "还要",
+        "en": "also want",
+        "pi": "hái yào"
+      },
+      {
+        "ch": "一杯",
+        "en": "a glass of",
+        "pi": "yì bēi"
+      },
+      {
+        "ch": "橙汁",
+        "en": "orange juice",
+        "pi": "chéng zhī"
+      },
+      {
+        "ch": "。",
+        "en": "",
+        "pi": "。"
+      }
+    ]
+  },
+  {
+    "chinese": "别的还要马？",
+    "english": "Would you like anything else?",
+    "pinyin": "bié de hái yào mǎ ？",
+    "words": [
+      {
+        "ch": "别的",
+        "en": "anything else",
+        "pi": "bié de"
+      },
+      {
+        "ch": "还要",
+        "en": "want more",
+        "pi": "hái yào"
+      },
+      {
+        "ch": "马",
+        "en": "",
+        "pi": "mǎ"
+      },
+      {
+        "ch": "？",
+        "en": "",
+        "pi": "？"
+      }
+    ]
+  },
+  {
+    "chinese": "不要了。就这些。",
+    "english": "No, that's all.",
+    "pinyin": "bù yào le 。jiù zhè xiē 。",
+    "words": [
+      {
+        "ch": "不要",
+        "en": "don't want",
+        "pi": "bù yào"
+      },
+      {
+        "ch": "了",
+        "en": "",
+        "pi": "le"
+      },
+      {
+        "ch": "。",
+        "en": "",
+        "pi": "。"
+      },
+      {
+        "ch": "就",
+        "en": "just",
+        "pi": "jiù"
+      },
+      {
+        "ch": "这些",
+        "en": "these",
+        "pi": "zhè xiē"
+      },
+      {
+        "ch": "。",
+        "en": "",
+        "pi": "。"
+      }
+    ]
+  },
+  {
+    "chinese": "好的。",
+    "english": "Alright.",
+    "pinyin": "hǎo de 。",
+    "words": [
+      {
+        "ch": "好",
+        "en": "good",
+        "pi": "hǎo"
+      },
+      {
+        "ch": "的",
+        "en": "",
+        "pi": "de"
+      },
+      {
+        "ch": "。",
+        "en": "",
+        "pi": "。"
+      }
+    ]
+  },
+  {
+    "chinese": "服务员，买单。",
+    "english": "Waiter, check please.",
+    "pinyin": "fú wù yuán ，mǎi dān 。",
+    "words": [
+      {
+        "ch": "服务员",
+        "en": "waiter",
+        "pi": "fú wù yuán"
+      },
+      {
+        "ch": "，",
+        "en": ",",
+        "pi": "，"
+      },
+      {
+        "ch": "买单",
+        "en": "check please",
+        "pi": "mǎi dān"
+      },
+      {
+        "ch": "。",
+        "en": "",
+        "pi": "。"
+      }
+    ]
+  },
+  {
+    "chinese": "您是现金还是刷卡？",
+    "english": "Will you be paying in cash or with a card?",
+    "pinyin": "nín shì xiàn jīn hái shì shuā kǎ ？",
+    "words": [
+      {
+        "ch": "您",
+        "en": "you",
+        "pi": "nín"
+      },
+      {
+        "ch": "是",
+        "en": "are",
+        "pi": "shì"
+      },
+      {
+        "ch": "现金",
+        "en": "cash",
+        "pi": "xiàn jīn"
+      },
+      {
+        "ch": "还是",
+        "en": "or",
+        "pi": "hái shì"
+      },
+      {
+        "ch": "刷卡",
+        "en": "card",
+        "pi": "shuā kǎ"
+      },
+      {
+        "ch": "？",
+        "en": "",
+        "pi": "？"
+      }
+    ]
+  },
+  {
+    "chinese": "现金。",
+    "english": "Cash.",
+    "pinyin": "xiàn jīn 。",
+    "words": [
+      {
+        "ch": "现金",
+        "en": "cash",
+        "pi": "xiàn jīn"
+      },
+      {
+        "ch": "。",
+        "en": "",
+        "pi": "。"
+      }
+    ]
+  },
+  {
+    "chinese": "六十三块。",
+    "english": "Sixty-three yuan.",
+    "pinyin": "liù shí sān kuài 。",
+    "words": [
+      {
+        "ch": "六十三",
+        "en": "sixty-three",
+        "pi": "liù shí sān"
+      },
+      {
+        "ch": "块",
+        "en": "yuan (currency unit)",
+        "pi": "kuài"
+      },
+      {
+        "ch": "。",
+        "en": "",
+        "pi": "。"
+      }
+    ]
+  },
+  {
+    "chinese": "给。",
+    "english": "Here you go.",
+    "pinyin": "gěi 。",
+    "words": [
+      {
+        "ch": "给",
+        "en": "give",
+        "pi": "gěi"
+      },
+      {
+        "ch": "。",
+        "en": "",
+        "pi": "。"
+      }
+    ]
+  },
+  {
+    "chinese": "这是找给您的零钱和小票。",
+    "english": "Here is your change and receipt.",
+    "pinyin": "zhè shì zhǎo gěi nín de líng qián hé xiǎo piào 。",
+    "words": [
+      {
+        "ch": "这",
+        "en": "here",
+        "pi": "zhè"
+      },
+      {
+        "ch": "是",
+        "en": "is",
+        "pi": "shì"
+      },
+      {
+        "ch": "找给",
+        "en": "change for",
+        "pi": "zhǎo gěi"
+      },
+      {
+        "ch": "您",
+        "en": "you",
+        "pi": "nín"
+      },
+      {
+        "ch": "的",
+        "en": "",
+        "pi": "de"
+      },
+      {
+        "ch": "零钱",
+        "en": "change",
+        "pi": "líng qián"
+      },
+      {
+        "ch": "和",
+        "en": "and",
+        "pi": "hé"
+      },
+      {
+        "ch": "小票",
+        "en": "receipt",
+        "pi": "xiǎo piào"
+      },
+      {
+        "ch": "。",
+        "en": "",
+        "pi": "。"
+      }
+    ]
+  },
+  {
+    "chinese": "欢迎下次再来。",
+    "english": "Welcome back next time.",
+    "pinyin": "huān yíng xià cì zài lái 。",
+    "words": [
+      {
+        "ch": "欢迎",
+        "en": "welcome",
+        "pi": "huān yíng"
+      },
+      {
+        "ch": "下次",
+        "en": "next time",
+        "pi": "xià cì"
+      },
+      {
+        "ch": "再来",
+        "en": "come again",
+        "pi": "zài lái"
+      },
+      {
+        "ch": "。",
+        "en": "",
+        "pi": "。"
+      }
+    ]
+  }
+]

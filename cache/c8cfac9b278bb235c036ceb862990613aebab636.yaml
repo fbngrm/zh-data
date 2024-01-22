@@ -1,0 +1,32 @@
+{
+  "chinese": "您昨天为什么离开教室？",
+  "english": "Why did you leave the classroom yesterday?",
+  "pinyin": "Nín zuótiān wèishéme líkāi jiàoshì?",
+  "words": [
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "为什么",
+      "en": "why",
+      "pi": "wèishéme"
+    },
+    {
+      "ch": "离开",
+      "en": "leave",
+      "pi": "líkāi"
+    },
+    {
+      "ch": "教室",
+      "en": "classroom",
+      "pi": "jiàoshì"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+[
+  {
+    "chinese": "你好，买单。",
+    "english": "Hello, check please.",
+    "pinyin": "nǐ hǎo, mǎi dān.",
+    "words": [
+      {
+        "ch": "你好",
+        "en": "hello",
+        "pi": "nǐ hǎo"
+      },
+      {
+        "ch": "，",
+        "en": ",",
+        "pi": ","
+      },
+      {
+        "ch": "买单",
+        "en": "check",
+        "pi": "mǎi dān"
+      },
+      {
+        "ch": "。",
+        "en": "please",
+        "pi": "."
+      }
+    ]
+  },
+  {
+    "chinese": "你好，总共180。",
+    "english": "Hello, it is a total of 180.",
+    "pinyin": "nǐ hǎo, zǒng gòng yī bǎi bā shí.",
+    "words": [
+      {
+        "ch": "你好",
+        "en": "hello",
+        "pi": "nǐ hǎo"
+      },
+      {
+        "ch": "，",
+        "en": ",",
+        "pi": ","
+      },
+      {
+        "ch": "总共",
+        "en": "total",
+        "pi": "zǒng gòng"
+      },
+      {
+        "ch": "180",
+        "en": "one hundred eighty",
+        "pi": "yī bǎi bā shí"
+      },
+      {
+        "ch": "。",
+        "en": ".",
+        "pi": ""
+      }
+    ]
+  },
+  {
+    "chinese": "您的小票。",
+    "english": "Your receipt.",
+    "pinyin": "nín de xiǎo piào.",
+    "words": [
+      {
+        "ch": "您的",
+        "en": "your",
+        "pi": "nín de"
+      },
+      {
+        "ch": "小票",
+        "en": "receipt",
+        "pi": "xiǎo piào"
+      },
+      {
+        "ch": "。",
+        "en": "",
+        "pi": ""
+      }
+    ]
+  },
+  {
+    "chinese": "谢谢。",
+    "english": "Thank you.",
+    "pinyin": "xiè xie.",
+    "words": [
+      {
+        "ch": "谢谢",
+        "en": "thank you",
+        "pi": "xiè xie"
+      },
+      {
+        "ch": "。",
+        "en": "",
+        "pi": ""
+      }
+    ]
+  },
+  {
+    "chinese": "慢走，欢迎下次光临。",
+    "english": "Goodbye, welcome back next time.",
+    "pinyin": "màn zǒu, huān yíng xià cì guāng lín.",
+    "words": [
+      {
+        "ch": "慢走",
+        "en": "goodbye",
+        "pi": "màn zǒu"
+      },
+      {
+        "ch": "，",
+        "en": ",",
+        "pi": ","
+      },
+      {
+        "ch": "欢迎",
+        "en": "welcome",
+        "pi": "huān yíng"
+      },
+      {
+        "ch": "下次",
+        "en": "next time",
+        "pi": "xià cì"
+      },
+      {
+        "ch": "光临",
+        "en": "to visit",
+        "pi": "guāng lín"
+      },
+      {
+        "ch": "。",
+        "en": "",
+        "pi": ""
+      }
+    ]
+  }
+]

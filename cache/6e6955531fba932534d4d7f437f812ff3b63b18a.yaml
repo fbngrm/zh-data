@@ -1,0 +1,42 @@
+{
+  "chinese": "这辆车保养起来很贵。",
+  "english": "It is expensive to maintain this car.",
+  "pinyin": "zhè liàng chē bǎo yǎng qǐ lái hěn guì。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "辆",
+      "en": "car",
+      "pi": "liàng"
+    },
+    {
+      "ch": "车",
+      "en": "vehicle",
+      "pi": "chē"
+    },
+    {
+      "ch": "保养",
+      "en": "maintain",
+      "pi": "bǎo yǎng"
+    },
+    {
+      "ch": "起来",
+      "en": "to",
+      "pi": "qǐ lái"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "贵",
+      "en": "expensive",
+      "pi": "guì"
+    }
+  ]
+}

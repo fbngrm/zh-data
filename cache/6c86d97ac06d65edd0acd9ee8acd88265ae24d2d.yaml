@@ -1,0 +1,27 @@
+{
+  "chinese": "猫很讨厌吸尘器。",
+  "english": "Cats hate vacuum cleaners.",
+  "pinyin": "Māo hěn tǎo yàn xī chén qì。",
+  "words": [
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "讨厌",
+      "en": "hate",
+      "pi": "tǎo yàn"
+    },
+    {
+      "ch": "吸尘器",
+      "en": "vacuum cleaner",
+      "pi": "xī chén qì"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "chinese": "天气允许，我明天就开始。",
+  "english": "If the weather permits, I will start tomorrow.",
+  "pinyin": "Tiānqì yǔnxǔ, wǒ míngtiān jiù kāishǐ.",
+  "words": [
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiānqì"
+    },
+    {
+      "ch": "允许",
+      "en": "permit",
+      "pi": "yǔnxǔ"
+    },
+    {
+      "ch": "，",
+      "en": "",
+      "pi": ""
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "就",
+      "en": "",
+      "pi": "jiù"
+    },
+    {
+      "ch": "开始",
+      "en": "start",
+      "pi": "kāishǐ"
+    },
+    {
+      "ch": "。",
+      "en": "",
+      "pi": ""
+    }
+  ]
+}

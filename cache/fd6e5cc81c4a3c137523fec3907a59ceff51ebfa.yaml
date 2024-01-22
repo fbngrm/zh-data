@@ -1,0 +1,32 @@
+{
+  "chinese": "谣言被证明是假的。",
+  "english": "The rumor has been proven to be false.",
+  "pinyin": "yáo yán bèi zhèng míng shì jiǎ de.",
+  "words": [
+    {
+      "ch": "谣言",
+      "en": "rumor",
+      "pi": "yáo yán"
+    },
+    {
+      "ch": "被",
+      "en": "by",
+      "pi": "bèi"
+    },
+    {
+      "ch": "证明",
+      "en": "proven",
+      "pi": "zhèng míng"
+    },
+    {
+      "ch": "是",
+      "en": "to be",
+      "pi": "shì"
+    },
+    {
+      "ch": "假的",
+      "en": "false",
+      "pi": "jiǎ de"
+    }
+  ]
+}

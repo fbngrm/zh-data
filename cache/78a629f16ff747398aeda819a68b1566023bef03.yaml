@@ -1,0 +1,18 @@
+{
+  "chinese": "我爱你，但是你不知道这一切。",
+  "english": "I love you, but you don't know all of this.",
+  "pinyin": "wǒ ài nǐ, dàn shì nǐ bù zhīdào zhè yīqiè。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "爱", "en": "love", "pi": "ài"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "但是", "en": "but", "pi": "dànshì"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "不", "en": "don't", "pi": "bù"},
+    {"ch": "知道", "en": "know", "pi": "zhīdào"},
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "一切", "en": "all", "pi": "yīqiè"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

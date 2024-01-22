@@ -1,0 +1,42 @@
+{
+  "chinese": "你家对面的房子是谁的?",
+  "english": "Whose house is opposite your home?",
+  "pinyin": "Nǐ jiā duìmiàn de fángzi shì shéi de?",
+  "words": [
+    {
+      "ch": "你家",
+      "en": "your home",
+      "pi": "nǐ jiā"
+    },
+    {
+      "ch": "对面",
+      "en": "opposite",
+      "pi": "duìmiàn"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "房子",
+      "en": "house",
+      "pi": "fángzi"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "谁的",
+      "en": "whose",
+      "pi": "shéi de"
+    },
+    {
+      "ch": "?",
+      "en": "",
+      "pi": "?"
+    }
+  ]
+}

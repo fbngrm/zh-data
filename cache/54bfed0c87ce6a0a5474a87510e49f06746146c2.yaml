@@ -1,0 +1,17 @@
+{
+  "chinese": "在巴士里，我总是坐在前面。",
+  "english": "I always sit in the front on the bus.",
+  "pinyin": "Zài bāshì lǐ, wǒ zǒngshì zuò zài qiánmiàn.",
+  "words": [
+    {"ch": "在", "en": "in, on", "pi": "zài"},
+    {"ch": "巴士", "en": "bus", "pi": "bāshì"},
+    {"ch": "里", "en": "inside", "pi": "lǐ"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "总是", "en": "always", "pi": "zǒngshì"},
+    {"ch": "坐", "en": "to sit", "pi": "zuò"},
+    {"ch": "在", "en": "in, on", "pi": "zài"},
+    {"ch": "前面", "en": "front", "pi": "qiánmiàn"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}

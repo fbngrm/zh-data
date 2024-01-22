@@ -1,0 +1,15 @@
+{
+  "chinese": "这首诗本来是用法文写的。",
+  "english": "This poem was originally written in French.",
+  "pinyin": "zhè shǒu shī běn lái shì yòng fǎ wén xiě de。",
+  "words": [
+    { "ch": "这", "en": "this", "pi": "zhè"},
+    { "ch": "首诗", "en": "poem", "pi": "shǒu shī"},
+    { "ch": "本来", "en": "originally", "pi": "běn lái"},
+    { "ch": "是", "en": "was", "pi": "shì"},
+    { "ch": "用", "en": "written", "pi": "yòng"},
+    { "ch": "法文", "en": "in French", "pi": "fǎ wén"},
+    { "ch": "写", "en": "write", "pi": "xiě"},
+    { "ch": "的", "en": "of", "pi": "de"}
+  ]
+}

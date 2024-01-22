@@ -1,0 +1,42 @@
+{
+  "chinese": "父亲买了一双手套给我。",
+  "english": "My father bought me a pair of gloves.",
+  "pinyin": "fù qīn mǎi le yī shuāng shǒu tào gěi wǒ。",
+  "words": [
+    {
+      "ch": "父亲",
+      "en": "father",
+      "pi": "fù qīn"
+    },
+    {
+      "ch": "买",
+      "en": "bought",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "了",
+      "en": "me",
+      "pi": "le"
+    },
+    {
+      "ch": "一双",
+      "en": "a pair",
+      "pi": "yī shuāng"
+    },
+    {
+      "ch": "手套",
+      "en": "gloves",
+      "pi": "shǒu tào"
+    },
+    {
+      "ch": "给",
+      "en": "to",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "chinese": "你喜欢什么口味的咖啡？浓的黑咖啡？",
+  "english": "What flavor of coffee do you like? Strong black coffee?",
+  "pinyin": "Nǐ xǐhuān shénme kǒuwèi de kāfēi? Nòng de hēi kāfēi?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "口味",
+      "en": "flavor",
+      "pi": "kǒuwèi"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kāfēi"
+    },
+    {
+      "ch": "浓",
+      "en": "strong",
+      "pi": "nòng"
+    },
+    {
+      "ch": "黑咖啡",
+      "en": "black coffee",
+      "pi": "hēi kāfēi"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "chinese": "你上班迟到了。",
+  "english": "You were late for work.",
+  "pinyin": "nǐ shàngbān chídào le.",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "上班", "en": "work", "pi": "shàngbān"},
+    {"ch": "迟到", "en": "late", "pi": "chídào"},
+    {"ch": "了", "en": "past tense marker", "pi": "le"}
+  ]
+}

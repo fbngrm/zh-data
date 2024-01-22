@@ -1,0 +1,42 @@
+{
+  "chinese": "我除了星期天外每天都上班。",
+  "english": "I work every day except Sunday.",
+  "pinyin": "Wǒ chúle xīngqītiān wài měi tiān dōu shàngbān.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "除了",
+      "en": "except",
+      "pi": "chúle"
+    },
+    {
+      "ch": "星期天",
+      "en": "Sunday",
+      "pi": "xīngqītiān"
+    },
+    {
+      "ch": "外",
+      "en": "outside",
+      "pi": "wài"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "上班",
+      "en": "work",
+      "pi": "shàngbān"
+    }
+  ]
+}

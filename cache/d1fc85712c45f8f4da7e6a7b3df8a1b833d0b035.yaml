@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆在找新工作。",
+  "english": "Tom is looking for a new job.",
+  "pinyin": "tāng mǔ zài zhǎo xīn gōng zuò.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "找",
+      "en": "looking for",
+      "pi": "zhǎo"
+    },
+    {
+      "ch": "新",
+      "en": "new",
+      "pi": "xīn"
+    },
+    {
+      "ch": "工作",
+      "en": "job",
+      "pi": "gōng zuò"
+    }
+  ]
+}

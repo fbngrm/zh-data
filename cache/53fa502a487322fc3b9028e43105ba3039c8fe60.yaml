@@ -1,0 +1,47 @@
+{
+  "chinese": "他还在这里附近的某个地方。",
+  "english": "He is still somewhere nearby.",
+  "pinyin": "tā hái zài zhèlǐ fùjìn de mǒu gè dìfāng。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "还",
+      "en": "still",
+      "pi": "hái"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhèlǐ"
+    },
+    {
+      "ch": "附近",
+      "en": "nearby",
+      "pi": "fùjìn"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "某个",
+      "en": "some",
+      "pi": "mǒu gè"
+    },
+    {
+      "ch": "地方",
+      "en": "place",
+      "pi": "dìfāng"
+    }
+  ]
+}

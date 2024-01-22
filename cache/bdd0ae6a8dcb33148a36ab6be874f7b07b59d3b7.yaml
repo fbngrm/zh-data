@@ -1,0 +1,32 @@
+{
+  "chinese": "小偷帶著錢逃跑了。",
+  "english": "The thief ran away with the money.",
+  "pinyin": "xiǎo tōu dài zhe qián táo pǎo le.",
+  "words": [
+    {
+      "ch": "小偷",
+      "en": "thief",
+      "pi": "xiǎo tōu"
+    },
+    {
+      "ch": "帶著",
+      "en": "with",
+      "pi": "dài zhe"
+    },
+    {
+      "ch": "錢",
+      "en": "money",
+      "pi": "qián"
+    },
+    {
+      "ch": "逃跑",
+      "en": "ran away",
+      "pi": "táo pǎo"
+    },
+    {
+      "ch": "了",
+      "en": "end of sentence particle",
+      "pi": "le"
+    }
+  ]
+}

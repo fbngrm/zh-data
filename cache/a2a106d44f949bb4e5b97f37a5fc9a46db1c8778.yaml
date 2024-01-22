@@ -1,0 +1,37 @@
+{
+  "chinese": "你可以使用这辆车。",
+  "english": "You can use this car.",
+  "pinyin": "Nǐ kěyǐ shǐyòng zhè liàng chē.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kěyǐ"
+    },
+    {
+      "ch": "使用",
+      "en": "use",
+      "pi": "shǐyòng"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "辆",
+      "en": "car",
+      "pi": "liàng"
+    },
+    {
+      "ch": "车",
+      "en": "car",
+      "pi": "chē"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "你现在必须上床睡觉。",
+  "english": "You must go to bed and sleep now.",
+  "pinyin": "nǐ xiàn zài bì xū shàng chuáng shuì jiào。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "必须",
+      "en": "must",
+      "pi": "bì xū"
+    },
+    {
+      "ch": "上床",
+      "en": "go to bed",
+      "pi": "shàng chuáng"
+    },
+    {
+      "ch": "睡觉",
+      "en": "sleep",
+      "pi": "shuì jiào"
+    }
+  ]
+}

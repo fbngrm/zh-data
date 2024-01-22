@@ -1,0 +1,37 @@
+{
+  "chinese": "小猫一动也不动。",
+  "english": "The kitten doesn't move at all.",
+  "pinyin": "Xiǎo māo yī dòng yě bù dòng.",
+  "words": [
+    {
+      "ch": "小猫",
+      "en": "kitten",
+      "pi": "xiǎo māo"
+    },
+    {
+      "ch": "一",
+      "en": "one",
+      "pi": "yī"
+    },
+    {
+      "ch": "动",
+      "en": "move",
+      "pi": "dòng"
+    },
+    {
+      "ch": "也",
+      "en": "also",
+      "pi": "yě"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "动",
+      "en": "move",
+      "pi": "dòng"
+    }
+  ]
+}

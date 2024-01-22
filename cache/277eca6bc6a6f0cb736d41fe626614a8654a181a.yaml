@@ -1,0 +1,15 @@
+{
+  "chinese": "这里是三星级宾馆，三百元住一晚。",
+  "english": "This is a three-star hotel, three hundred yuan per night.",
+  "pinyin": "zhè lǐ shì sān xīng jí bīn guǎn, sān bǎi yuán zhù yī wǎn。",
+  "words": [
+    {"ch": "这里", "en": "here", "pi": "zhè lǐ"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "三星级", "en": "three-star", "pi": "sān xīng jí"},
+    {"ch": "宾馆", "en": "hotel", "pi": "bīn guǎn"},
+    {"ch": "三百", "en": "three hundred", "pi": "sān bǎi"},
+    {"ch": "元", "en": "yuan", "pi": "yuán"},
+    {"ch": "住", "en": "stay", "pi": "zhù"},
+    {"ch": "一晚", "en": "per night", "pi": "yī wǎn"}
+  ]
+}

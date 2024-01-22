@@ -1,0 +1,47 @@
+{
+  "chinese": "我父亲给我买了一辆自行车。",
+  "english": "My father bought me a bicycle.",
+  "pinyin": "wǒ fù qīn gěi wǒ mǎi le yī liàng zì xíng chē。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "父亲",
+      "en": "father",
+      "pi": "fù qīn"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "买",
+      "en": "buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "一辆",
+      "en": "a",
+      "pi": "yī liàng"
+    },
+    {
+      "ch": "自行车",
+      "en": "bicycle",
+      "pi": "zì xíng chē"
+    }
+  ]
+}

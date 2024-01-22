@@ -1,0 +1,14 @@
+{ 
+  "chinese": "瓶子里只剩下一丁点牛奶。",
+  "english": "There is only a tiny bit of milk left in the bottle.",
+  "pinyin": "píng zi lǐ zhǐ shèng xià yī dīng diǎn niú nǎi.",
+  "words": [
+    {"ch": "瓶子", "en": "bottle", "pi": "píng zi"},
+    {"ch": "里", "en": "in", "pi": "lǐ"},
+    {"ch": "只", "en": "only", "pi": "zhǐ"},
+    {"ch": "剩下", "en": "left", "pi": "shèng xià"},
+    {"ch": "一", "en": "one", "pi": "yī"},
+    {"ch": "丁点", "en": "tiny bit", "pi": "dīng diǎn"},
+    {"ch": "牛奶", "en": "milk", "pi": "niú nǎi"}
+  ]
+}

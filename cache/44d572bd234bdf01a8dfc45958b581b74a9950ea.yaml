@@ -1,0 +1,27 @@
+{
+  "chinese": "这是我的评论。",
+  "english": "This is my comment.",
+  "pinyin": "zhè shì wǒ de pínglùn.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "评论",
+      "en": "comment",
+      "pi": "pínglùn"
+    }
+  ]
+}

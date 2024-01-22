@@ -1,0 +1,15 @@
+{
+  "chinese": "你认为他们跟着我们到这里了吗？",
+  "english": "Do you think they followed us here?",
+  "pinyin": "nǐ rèn wéi tāmen gēn zhe wǒmen dào zhèlǐ le ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "认为", "en": "think", "pi": "rèn wéi"},
+    {"ch": "他们", "en": "they", "pi": "tāmen"},
+    {"ch": "跟着", "en": "follow", "pi": "gēn zhe"},
+    {"ch": "我们", "en": "us", "pi": "wǒmen"},
+    {"ch": "到", "en": "to", "pi": "dào"},
+    {"ch": "这里", "en": "here", "pi": "zhèlǐ"},
+    {"ch": "了吗", "en": "question particle", "pi": "le ma"}
+  ]
+}

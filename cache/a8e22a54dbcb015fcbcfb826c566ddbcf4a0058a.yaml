@@ -1,0 +1,42 @@
+{
+  "chinese": "你是在甚么时候到达的？",
+  "english": "When did you arrive?",
+  "pinyin": "nǐ shì zài shénme shíhòu dàodá de?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "甚么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "时候",
+      "en": "time",
+      "pi": "shíhòu"
+    },
+    {
+      "ch": "到达",
+      "en": "arrive",
+      "pi": "dàodá"
+    },
+    {
+      "ch": "的",
+      "en": "particle",
+      "pi": "de"
+    }
+  ]
+}

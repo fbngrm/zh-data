@@ -1,0 +1,27 @@
+{
+  "chinese": "飞机预计几点到？",
+  "english": "What time is the plane expected to arrive?",
+  "pinyin": "fēijī yùjì jǐ diǎn dào?",
+  "words": [
+    {
+      "ch": "飞机",
+      "en": "plane",
+      "pi": "fēijī"
+    },
+    {
+      "ch": "预计",
+      "en": "expected",
+      "pi": "yùjì"
+    },
+    {
+      "ch": "几点",
+      "en": "what time",
+      "pi": "jǐ diǎn"
+    },
+    {
+      "ch": "到",
+      "en": "arrive",
+      "pi": "dào"
+    }
+  ]
+}

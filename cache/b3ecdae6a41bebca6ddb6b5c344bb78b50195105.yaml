@@ -1,0 +1,42 @@
+{
+  "chinese": "這隻狗對著一個小男孩咆哮。",
+  "english": "This dog is growling at a young boy.",
+  "pinyin": "zhè zhī gǒu duì zhe yī gè xiǎo nán hái páo xiào.",
+  "words": [
+    {
+      "ch": "這隻",
+      "en": "this",
+      "pi": "zhè zhī"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "對著",
+      "en": "at",
+      "pi": "duì zhe"
+    },
+    {
+      "ch": "一個",
+      "en": "a",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "小",
+      "en": "young",
+      "pi": "xiǎo"
+    },
+    {
+      "ch": "男孩",
+      "en": "boy",
+      "pi": "nán hái"
+    },
+    {
+      "ch": "咆哮",
+      "en": "growling",
+      "pi": "páo xiào"
+    }
+  ]
+}

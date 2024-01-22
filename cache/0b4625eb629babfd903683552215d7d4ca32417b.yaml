@@ -1,0 +1,12 @@
+{
+  "chinese": "没有驾驶执照不能开车。",
+  "english": "You cannot drive without a driver's license.",
+  "pinyin": "méi yǒu jià shǐ zhí zhào bù néng kāi chē。",
+  "words": [
+    { "ch": "没有", "en": "no", "pi": "méi yǒu" },
+    { "ch": "驾驶", "en": "drive", "pi": "jià shǐ" },
+    { "ch": "执照", "en": "license", "pi": "zhí zhào" },
+    { "ch": "不能", "en": "cannot", "pi": "bù néng" },
+    { "ch": "开车", "en": "drive", "pi": "kāi chē" }
+  ]
+}

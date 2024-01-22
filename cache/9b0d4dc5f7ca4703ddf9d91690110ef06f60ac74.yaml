@@ -1,0 +1,42 @@
+{
+  "chinese": "我們去了一家餐廳吃晚飯。",
+  "english": "We went to a restaurant for dinner.",
+  "pinyin": "wǒmen qù le yī jiā cāntīng chī wǎnfàn.",
+  "words": [
+    {
+      "ch": "我們",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "去",
+      "en": "went",
+      "pi": "qù"
+    },
+    {
+      "ch": "了",
+      "en": "to",
+      "pi": "le"
+    },
+    {
+      "ch": "一家",
+      "en": "a",
+      "pi": "yī jiā"
+    },
+    {
+      "ch": "餐廳",
+      "en": "restaurant",
+      "pi": "cāntīng"
+    },
+    {
+      "ch": "吃",
+      "en": "for",
+      "pi": "chī"
+    },
+    {
+      "ch": "晚飯",
+      "en": "dinner",
+      "pi": "wǎnfàn"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "chinese": "中国和印度的人口超过了其他任何国家。",
+  "english": "The population of China and India is larger than any other country.",
+  "pinyin": "Zhōngguó hé Yìndù de rénkǒu chāoguòle qítā rènhé guójiā.",
+  "words": [
+    {
+      "ch": "中国",
+      "en": "China",
+      "pi": "Zhōngguó"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "印度",
+      "en": "India",
+      "pi": "Yìndù"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "人口",
+      "en": "population",
+      "pi": "rénkǒu"
+    },
+    {
+      "ch": "超过",
+      "en": "exceed",
+      "pi": "chāoguò"
+    },
+    {
+      "ch": "了",
+      "en": "than",
+      "pi": "le"
+    },
+    {
+      "ch": "其他",
+      "en": "other",
+      "pi": "qítā"
+    },
+    {
+      "ch": "任何",
+      "en": "any",
+      "pi": "rènhé"
+    },
+    {
+      "ch": "国家",
+      "en": "country",
+      "pi": "guójiā"
+    }
+  ]
+}

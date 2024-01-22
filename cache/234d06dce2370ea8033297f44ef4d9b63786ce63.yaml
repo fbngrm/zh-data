@@ -1,0 +1,42 @@
+{
+  "chinese": "从天色看起来，下午可能会下雨。",
+  "english": "It looks like it might rain in the afternoon.",
+  "pinyin": "Cóng tiānsè kàn qǐlái, xiàwǔ kěnéng huì xiàyǔ.",
+  "words": [
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "天色",
+      "en": "sky",
+      "pi": "tiānsè"
+    },
+    {
+      "ch": "看起来",
+      "en": "looks like",
+      "pi": "kàn qǐlái"
+    },
+    {
+      "ch": "下午",
+      "en": "afternoon",
+      "pi": "xiàwǔ"
+    },
+    {
+      "ch": "可能",
+      "en": "might",
+      "pi": "kěnéng"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "下雨",
+      "en": "rain",
+      "pi": "xiàyǔ"
+    }
+  ]
+}

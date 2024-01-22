@@ -1,0 +1,13 @@
+{
+  "chinese": "她是个很棒的女人。",
+  "english": "She is a great woman.",
+  "pinyin": "tā shì gè hěn bàng de nǚrén.",
+  "words": [
+    {"ch": "她", "en": "She", "pi": "tā"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "个", "en": "a", "pi": "gè"},
+    {"ch": "很棒", "en": "great", "pi": "hěn bàng"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "女人", "en": "woman", "pi": "nǚrén"}
+  ]
+}

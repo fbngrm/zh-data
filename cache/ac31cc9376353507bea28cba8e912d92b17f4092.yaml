@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆想见玛丽。",
+  "english": "Tom wants to see Mary.",
+  "pinyin": "tāng mǔ xiǎng jiàn mǎ lì.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "想",
+      "en": "wants",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "见",
+      "en": "to see",
+      "pi": "jiàn"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    }
+  ]
+}

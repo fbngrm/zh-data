@@ -1,0 +1,195 @@
+{
+  "sentences": [
+    {
+      "chinese": "你鼻子怎么了？",
+      "english": "What happened to your nose?",
+      "pinyin": "nǐ bí zi zěn me le?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "鼻子",
+          "en": "nose",
+          "pi": "bí zi"
+        },
+        {
+          "ch": "怎么了",
+          "en": "what happened",
+          "pi": "zěn me le"
+        }
+      ]
+    },
+    {
+      "chinese": "我刚才倒车的时候，想探头出窗看清楚后面有没有人。",
+      "english": "When I was reversing just now, I wanted to stick my head out of the window to see if there was anyone behind.",
+      "pinyin": "wǒ gāng cái dào chē de shí hòu, xiǎng tàn tóu chū chuāng kàn qīng chǔ hòu miàn yǒu méi yǒu rén.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "刚才",
+          "en": "just now",
+          "pi": "gāng cái"
+        },
+        {
+          "ch": "倒车",
+          "en": "reversing",
+          "pi": "dào chē"
+        },
+        {
+          "ch": "的时候",
+          "en": "when",
+          "pi": "de shí hòu"
+        },
+        {
+          "ch": "想",
+          "en": "want to",
+          "pi": "xiǎng"
+        },
+        {
+          "ch": "探头",
+          "en": "stick head out",
+          "pi": "tàn tóu"
+        },
+        {
+          "ch": "出",
+          "en": "out",
+          "pi": "chū"
+        },
+        {
+          "ch": "窗",
+          "en": "window",
+          "pi": "chuāng"
+        },
+        {
+          "ch": "看",
+          "en": "see",
+          "pi": "kàn"
+        },
+        {
+          "ch": "清楚",
+          "en": "clear",
+          "pi": "qīng chǔ"
+        },
+        {
+          "ch": "后面",
+          "en": "behind",
+          "pi": "hòu miàn"
+        },
+        {
+          "ch": "有没有",
+          "en": "have or not",
+          "pi": "yǒu méi yǒu"
+        },
+        {
+          "ch": "人",
+          "en": "people",
+          "pi": "rén"
+        }
+      ]
+    },
+    {
+      "chinese": "我以为车窗是开着的，谁知原来是关上了，于是就一头撞到车窗上了。",
+      "english": "I thought the car window was open, but it turned out to be closed, so I bumped my head into the window.",
+      "pinyin": "wǒ yǐ wéi chē chuāng shì kāi zhe de, shuí zhī yuán lái shì guān shàng le, yú shì jiù yī tóu zhuàng dào chē chuāng shàng le.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "以为",
+          "en": "thought",
+          "pi": "yǐ wéi"
+        },
+        {
+          "ch": "车窗",
+          "en": "car window",
+          "pi": "chē chuāng"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "开着",
+          "en": "open",
+          "pi": "kāi zhe"
+        },
+        {
+          "ch": "的",
+          "en": "particle",
+          "pi": "de"
+        },
+        {
+          "ch": "谁知",
+          "en": "but it turned out",
+          "pi": "shuí zhī"
+        },
+        {
+          "ch": "原来",
+          "en": "originally",
+          "pi": "yuán lái"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "关上",
+          "en": "closed",
+          "pi": "guān shàng"
+        },
+        {
+          "ch": "了",
+          "en": "particle",
+          "pi": "le"
+        },
+        {
+          "ch": "于是",
+          "en": "so",
+          "pi": "yú shì"
+        },
+        {
+          "ch": "就",
+          "en": "then",
+          "pi": "jiù"
+        },
+        {
+          "ch": "一头",
+          "en": "bumped",
+          "pi": "yī tóu"
+        },
+        {
+          "ch": "撞到",
+          "en": "bump into",
+          "pi": "zhuàng dào"
+        },
+        {
+          "ch": "车窗",
+          "en": "window",
+          "pi": "chē chuāng"
+        },
+        {
+          "ch": "上",
+          "en": "on",
+          "pi": "shàng"
+        },
+        {
+          "ch": "了",
+          "en": "particle",
+          "pi": "le"
+        }
+      ]
+    }
+  ]
+}

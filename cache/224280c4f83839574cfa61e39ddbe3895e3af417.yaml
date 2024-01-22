@@ -1,0 +1,42 @@
+{
+  "chinese": "８点那班车今天早到了。",
+  "english": "The bus at 8 o'clock arrived early today.",
+  "pinyin": "bā diǎn nà bān chē jīn tiān zǎo dào le。",
+  "words": [
+    {
+      "ch": "８点",
+      "en": "8 o'clock",
+      "pi": "bā diǎn"
+    },
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "班车",
+      "en": "bus",
+      "pi": "bān chē"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "早",
+      "en": "early",
+      "pi": "zǎo"
+    },
+    {
+      "ch": "到",
+      "en": "arrived",
+      "pi": "dào"
+    },
+    {
+      "ch": "了",
+      "en": "grammatical particle",
+      "pi": "le"
+    }
+  ]
+}

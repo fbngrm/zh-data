@@ -1,0 +1,71 @@
+{
+  "sentences": [
+    {
+      "chinese": "打棒球是一种运动，登山也是一种运动。",
+      "english": "Playing baseball is a sport, mountain climbing is also a sport.",
+      "pinyin": "Dǎ bàngqiú shì yī zhǒng yùndòng, dēngshān yě shì yī zhǒng yùndòng.",
+      "words": [
+        {
+          "ch": "打",
+          "en": "play",
+          "pi": "dǎ"
+        },
+        {
+          "ch": "棒球",
+          "en": "baseball",
+          "pi": "bàngqiú"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "一种",
+          "en": "a kind of",
+          "pi": "yī zhǒng"
+        },
+        {
+          "ch": "运动",
+          "en": "sport",
+          "pi": "yùndòng"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": ","
+        },
+        {
+          "ch": "登山",
+          "en": "mountain climbing",
+          "pi": "dēngshān"
+        },
+        {
+          "ch": "也",
+          "en": "also",
+          "pi": "yě"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "一种",
+          "en": "a kind of",
+          "pi": "yī zhǒng"
+        },
+        {
+          "ch": "运动",
+          "en": "sport",
+          "pi": "yùndòng"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "."
+        }
+      ]
+    }
+  ]
+}

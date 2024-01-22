@@ -1,0 +1,32 @@
+{
+  "chinese": "这个科学家正在研究原子能。",
+  "english": "This scientist is studying atomic energy.",
+  "pinyin": "zhè gè kē xué jiā zhèng zài yán jiū yuán zǐ néng。",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "科学家",
+      "en": "scientist",
+      "pi": "kē xué jiā"
+    },
+    {
+      "ch": "正在",
+      "en": "is",
+      "pi": "zhèng zài"
+    },
+    {
+      "ch": "研究",
+      "en": "studying",
+      "pi": "yán jiū"
+    },
+    {
+      "ch": "原子能",
+      "en": "atomic energy",
+      "pi": "yuán zǐ néng"
+    }
+  ]
+}

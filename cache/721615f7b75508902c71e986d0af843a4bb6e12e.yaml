@@ -1,0 +1,32 @@
+{
+  "chinese": "我们去公园拍照了。",
+  "english": "We went to the park to take photos.",
+  "pinyin": "wǒmen qù gōngyuán pāizhào le。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "公园",
+      "en": "park",
+      "pi": "gōngyuán"
+    },
+    {
+      "ch": "拍照",
+      "en": "take photos",
+      "pi": "pāizhào"
+    },
+    {
+      "ch": "了",
+      "en": "have done",
+      "pi": "le"
+    }
+  ]
+}

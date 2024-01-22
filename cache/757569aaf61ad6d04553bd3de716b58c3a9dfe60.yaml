@@ -1,0 +1,37 @@
+{
+  "chinese": "请待在这里直到我回来。",
+  "english": "Please stay here until I come back.",
+  "pinyin": "qǐng dāi zài zhè lǐ zhí dào wǒ huí lái。",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "待",
+      "en": "stay",
+      "pi": "dāi"
+    },
+    {
+      "ch": "在",
+      "en": "here",
+      "pi": "zài"
+    },
+    {
+      "ch": "这里",
+      "en": "until",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "直到",
+      "en": "I",
+      "pi": "zhí dào"
+    },
+    {
+      "ch": "我",
+      "en": "come back",
+      "pi": "wǒ huí lái"
+    }
+  ]
+}

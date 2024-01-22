@@ -1,0 +1,42 @@
+{
+  "chinese": "已经十一点了他还没来。",
+  "english": "It's already 11 o'clock and he hasn't arrived yet.",
+  "pinyin": "Yǐjīng shíyī diǎn le tā hái méi lái.",
+  "words": [
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐjīng"
+    },
+    {
+      "ch": "十一点",
+      "en": "11 o'clock",
+      "pi": "shíyī diǎn"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "还",
+      "en": "still",
+      "pi": "hái"
+    },
+    {
+      "ch": "没",
+      "en": "not",
+      "pi": "méi"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "昨天迈克跑得非常快。",
+  "english": "Michael ran very fast yesterday.",
+  "pinyin": "zuó tiān mài kè pǎo dé fēi cháng kuài.",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "迈克",
+      "en": "Michael",
+      "pi": "mài kè"
+    },
+    {
+      "ch": "跑得",
+      "en": "run",
+      "pi": "pǎo dé"
+    },
+    {
+      "ch": "非常",
+      "en": "very",
+      "pi": "fēi cháng"
+    },
+    {
+      "ch": "快",
+      "en": "fast",
+      "pi": "kuài"
+    }
+  ]
+}

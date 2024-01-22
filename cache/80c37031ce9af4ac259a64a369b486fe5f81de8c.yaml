@@ -1,0 +1,15 @@
+{
+  "chinese": "一般来说，男人比女人跑得快。",
+  "english": "Generally speaking, men run faster than women.",
+  "pinyin": "yī bān lái shuō, nán rén bǐ nǚ rén pǎo de kuài.",
+  "words": [
+    { "ch": "一般", "en": "Generally", "pi": "yī bān" },
+    { "ch": "来说", "en": "speaking", "pi": "lái shuō" },
+    { "ch": "，", "en": ",", "pi": "，" },
+    { "ch": "男人", "en": "men", "pi": "nán rén" },
+    { "ch": "比", "en": "than", "pi": "bǐ" },
+    { "ch": "女人", "en": "women", "pi": "nǚ rén" },
+    { "ch": "跑得快", "en": "run faster", "pi": "pǎo de kuài" },
+    { "ch": "。", "en": ".", "pi": "。" }
+  ]
+}

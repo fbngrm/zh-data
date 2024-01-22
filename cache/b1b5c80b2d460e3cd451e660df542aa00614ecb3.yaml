@@ -1,0 +1,27 @@
+{
+  "chinese": "红绿灯变成绿色了。",
+  "english": "The traffic light turned green.",
+  "pinyin": "Hóng lǜdēng biànchéng lǜsèle.",
+  "words": [
+    {
+      "ch": "红绿灯",
+      "en": "traffic light",
+      "pi": "hóng lǜdēng"
+    },
+    {
+      "ch": "变成",
+      "en": "turn into",
+      "pi": "biànchéng"
+    },
+    {
+      "ch": "绿色",
+      "en": "green",
+      "pi": "lǜsè"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

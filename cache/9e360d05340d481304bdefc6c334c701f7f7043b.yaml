@@ -1,0 +1,42 @@
+{
+  "chinese": "晚餐之后你才可以看电视。",
+  "english": "You can only watch TV after dinner.",
+  "pinyin": "wǎn cān zhī hòu nǐ cái kě yǐ kàn diàn shì。",
+  "words": [
+    {
+      "ch": "晚餐",
+      "en": "dinner",
+      "pi": "wǎn cān"
+    },
+    {
+      "ch": "之后",
+      "en": "after",
+      "pi": "zhī hòu"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "才",
+      "en": "only",
+      "pi": "cái"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kě yǐ"
+    },
+    {
+      "ch": "看",
+      "en": "watch",
+      "pi": "kàn"
+    },
+    {
+      "ch": "电视",
+      "en": "TV",
+      "pi": "diàn shì"
+    }
+  ]
+}

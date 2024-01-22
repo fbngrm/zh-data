@@ -1,0 +1,14 @@
+{
+  "chinese": "我已经打扫完我的房间了。",
+  "english": "I have finished cleaning my room.",
+  "pinyin": "wǒ yǐjīng dǎsǎo wán wǒ de fángjiān le。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "已经", "en": "have", "pi": "yǐjīng"},
+    {"ch": "打扫", "en": "clean", "pi": "dǎsǎo"},
+    {"ch": "完", "en": "finish", "pi": "wán"},
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "房间", "en": "room", "pi": "fángjiān"},
+    {"ch": "了", "en": "already", "pi": "le"}
+  ]
+}

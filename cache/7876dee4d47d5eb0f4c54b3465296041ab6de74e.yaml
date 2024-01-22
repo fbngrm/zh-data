@@ -1,0 +1,58 @@
+{
+  "sentences": [
+    {
+      "chinese": "这些车是你的吗？",
+      "english": "Are these cars yours?",
+      "pinyin": "zhè xiē chē shì nǐ de ma?",
+      "words": [
+        {
+          "ch": "这些",
+          "en": "these",
+          "pi": "zhè xiē"
+        },
+        {
+          "ch": "车",
+          "en": "cars",
+          "pi": "chē"
+        },
+        {
+          "ch": "是",
+          "en": "are",
+          "pi": "shì"
+        },
+        {
+          "ch": "你的",
+          "en": "yours",
+          "pi": "nǐ de"
+        },
+        {
+          "ch": "吗",
+          "en": "?",
+          "pi": "ma?"
+        }
+      ]
+    },
+    {
+      "chinese": "是的，是我的。",
+      "english": "Yes, they are mine.",
+      "pinyin": "shì de, shì wǒ de.",
+      "words": [
+        {
+          "ch": "是的",
+          "en": "Yes",
+          "pi": "shì de"
+        },
+        {
+          "ch": "是",
+          "en": "are",
+          "pi": "shì"
+        },
+        {
+          "ch": "我的",
+          "en": "mine",
+          "pi": "wǒ de"
+        }
+      ]
+    }
+  ]
+}

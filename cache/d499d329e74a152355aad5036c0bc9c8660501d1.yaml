@@ -1,0 +1,32 @@
+{
+  "chinese": "花园里充满了花朵。",
+  "english": "The garden is full of flowers.",
+  "pinyin": "huā yuán lǐ chōng mǎn le huā duǒ.",
+  "words": [
+    {
+      "ch": "花园",
+      "en": "garden",
+      "pi": "huā yuán"
+    },
+    {
+      "ch": "里",
+      "en": "inside",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "充满",
+      "en": "full of",
+      "pi": "chōng mǎn"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "花朵",
+      "en": "flowers",
+      "pi": "huā duǒ"
+    }
+  ]
+}

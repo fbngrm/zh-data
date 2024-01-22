@@ -1,0 +1,32 @@
+{
+  "chinese": "书架上都是书。",
+  "english": "There are books on the bookshelf.",
+  "pinyin": "shū jià shàng dōu shì shū。",
+  "words": [
+    {
+      "ch": "书架",
+      "en": "bookshelf",
+      "pi": "shū jià"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "书",
+      "en": "books",
+      "pi": "shū"
+    }
+  ]
+}

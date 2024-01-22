@@ -1,0 +1,32 @@
+{
+  "chinese": "猫大多数都讨厌狗。",
+  "english": "Most cats dislike dogs.",
+  "pinyin": "māo dà duō shù dōu tǎo yàn gǒu.",
+  "words": [
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    },
+    {
+      "ch": "大多数",
+      "en": "most",
+      "pi": "dà duō shù"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "讨厌",
+      "en": "dislike",
+      "pi": "tǎo yàn"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    }
+  ]
+}

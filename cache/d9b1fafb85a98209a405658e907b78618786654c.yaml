@@ -1,0 +1,47 @@
+{
+  "chinese": "明天你一整天都会在这里吗？",
+  "english": "Will you be here all day tomorrow?",
+  "pinyin": "míng tiān nǐ yī zhěng tiān dōu huì zài zhè lǐ ma?",
+  "words": [
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "一整天",
+      "en": "all day",
+      "pi": "yī zhěng tiān"
+    },
+    {
+      "ch": "都",
+      "en": "will",
+      "pi": "dōu"
+    },
+    {
+      "ch": "会",
+      "en": "be",
+      "pi": "huì"
+    },
+    {
+      "ch": "在",
+      "en": "here",
+      "pi": "zài"
+    },
+    {
+      "ch": "这里",
+      "en": "this place",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

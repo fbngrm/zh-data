@@ -1,0 +1,47 @@
+{
+  "chinese": "没有人住在这栋楼里。",
+  "english": "No one lives in this building.",
+  "pinyin": "méi yǒu rén zhù zài zhè dòng lóu lǐ.",
+  "words": [
+    {
+      "ch": "没有",
+      "en": "no",
+      "pi": "méi yǒu"
+    },
+    {
+      "ch": "人",
+      "en": "person",
+      "pi": "rén"
+    },
+    {
+      "ch": "住",
+      "en": "live",
+      "pi": "zhù"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "栋",
+      "en": "building",
+      "pi": "dòng"
+    },
+    {
+      "ch": "楼",
+      "en": "floor",
+      "pi": "lóu"
+    },
+    {
+      "ch": "里",
+      "en": "inside",
+      "pi": "lǐ"
+    }
+  ]
+}

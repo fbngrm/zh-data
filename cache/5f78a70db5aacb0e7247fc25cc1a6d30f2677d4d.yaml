@@ -1,0 +1,27 @@
+{
+  "chinese": "什麼吵醒你了?",
+  "english": "What woke you up?",
+  "pinyin": "shén​me​ chǎo​xǐng​ nǐ​ le?",
+  "words": [
+    {
+      "ch": "什麼",
+      "en": "what",
+      "pi": "shén​me"
+    },
+    {
+      "ch": "吵醒",
+      "en": "woke up",
+      "pi": "chǎo​xǐng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action or change of state",
+      "pi": "le"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "chinese": "天变暗了。我不知道是不是要下雨。",
+  "english": "The sky darkened. I don't know if it's going to rain.",
+  "pinyin": "Tiān biàn ànle. Wǒ bù zhīdào shì bùshì yào xià yǔ。",
+  "words": [
+    {
+      "ch": "天",
+      "en": "The sky",
+      "pi": "Tiān"
+    },
+    {
+      "ch": "变暗",
+      "en": "darkened",
+      "pi": "biàn àn"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "。",
+      "en": "",
+      "pi": "。"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "Wǒ"
+    },
+    {
+      "ch": "不知道",
+      "en": "don't know",
+      "pi": "bù zhīdào"
+    },
+    {
+      "ch": "是不是",
+      "en": "if",
+      "pi": "shì bùshì"
+    },
+    {
+      "ch": "要",
+      "en": "going to",
+      "pi": "yào"
+    },
+    {
+      "ch": "下雨",
+      "en": "rain",
+      "pi": "xià yǔ"
+    },
+    {
+      "ch": "。",
+      "en": "",
+      "pi": "。"
+    }
+  ]
+}

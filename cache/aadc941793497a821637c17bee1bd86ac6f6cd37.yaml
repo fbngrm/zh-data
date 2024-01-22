@@ -1,0 +1,47 @@
+{
+  "chinese": "今天早上，我吃了面包夹黄油。",
+  "english": "This morning, I had a bread with butter.",
+  "pinyin": "jīn tiān zǎo shang, wǒ chī le miàn bāo jiā huáng yóu.",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎo shang"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "了",
+      "en": "a particle indicating a completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "面包",
+      "en": "bread",
+      "pi": "miàn bāo"
+    },
+    {
+      "ch": "夹",
+      "en": "with",
+      "pi": "jiā"
+    },
+    {
+      "ch": "黄油",
+      "en": "butter",
+      "pi": "huáng yóu"
+    }
+  ]
+}

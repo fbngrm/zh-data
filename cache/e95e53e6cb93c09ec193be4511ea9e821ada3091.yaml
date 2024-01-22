@@ -1,0 +1,14 @@
+{
+  "chinese": "他的脸因羞耻而变红了。",
+  "english": "His face turned red with embarrassment.",
+  "pinyin": "Tā de liǎn yīn xiūchǐ ér biàn hóng le.",
+  "words": [
+    {"ch": "他的", "en": "his", "pi": "tā de"},
+    {"ch": "脸", "en": "face", "pi": "liǎn"},
+    {"ch": "因", "en": "because of", "pi": "yīn"},
+    {"ch": "羞耻", "en": "embarrassment", "pi": "xiūchǐ"},
+    {"ch": "而", "en": "and", "pi": "ér"},
+    {"ch": "变红", "en": "turn red", "pi": "biàn hóng"},
+    {"ch": "了", "en": "indicating a completed action", "pi": "le"}
+  ]
+}

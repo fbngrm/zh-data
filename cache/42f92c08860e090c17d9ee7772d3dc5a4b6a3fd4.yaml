@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆很可能迟到。",
+  "english": "Tom is likely to be late.",
+  "pinyin": "Tāng mǔ hěn kěnéng chídào.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "很",
+      "en": "is",
+      "pi": "hěn"
+    },
+    {
+      "ch": "可能",
+      "en": "likely",
+      "pi": "kěnéng"
+    },
+    {
+      "ch": "迟到",
+      "en": "to be late",
+      "pi": "chídào"
+    }
+  ]
+}

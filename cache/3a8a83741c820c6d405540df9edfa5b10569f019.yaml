@@ -1,0 +1,27 @@
+{
+  "chinese": "大约十点钟吗？",
+  "english": "Is it around ten o'clock?",
+  "pinyin": "dà yuē shí diǎn zhōng ma?",
+  "words": [
+    {
+      "ch": "大约",
+      "en": "around",
+      "pi": "dà yuē"
+    },
+    {
+      "ch": "十",
+      "en": "ten",
+      "pi": "shí"
+    },
+    {
+      "ch": "点钟",
+      "en": "o'clock",
+      "pi": "diǎn zhōng"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

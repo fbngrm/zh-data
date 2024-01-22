@@ -1,0 +1,58 @@
+{
+  "sentences": [
+    {
+      "chinese": "你住在哪里？",
+      "english": "Where do you live?",
+      "pinyin": "Nǐ zhù zài nǎlǐ?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "住",
+          "en": "live",
+          "pi": "zhù"
+        },
+        {
+          "ch": "在",
+          "en": "at",
+          "pi": "zài"
+        },
+        {
+          "ch": "哪里",
+          "en": "where",
+          "pi": "nǎlǐ"
+        }
+      ]
+    },
+    {
+      "chinese": "我住在东京。",
+      "english": "I live in Tokyo.",
+      "pinyin": "Wǒ zhù zài Dōngjīng.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "住",
+          "en": "live",
+          "pi": "zhù"
+        },
+        {
+          "ch": "在",
+          "en": "at",
+          "pi": "zài"
+        },
+        {
+          "ch": "东京",
+          "en": "Tokyo",
+          "pi": "Dōngjīng"
+        }
+      ]
+    }
+  ]
+}

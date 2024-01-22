@@ -1,0 +1,14 @@
+{
+  "chinese": "我用二千日圓買了這頂帽子。",
+  "english": "I bought this hat for 2000 yen.",
+  "pinyin": "wǒ yòng èr qiān rì yuán mǎi le zhè dǐng mào zi。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "用", "en": "use", "pi": "yòng"},
+    {"ch": "二千", "en": "2000", "pi": "èr qīan"},
+    {"ch": "日圓", "en": "yen", "pi": "rì yuán"},
+    {"ch": "買了", "en": "bought", "pi": "mǎi le"},
+    {"ch": "這頂", "en": "this", "pi": "zhè dǐng"},
+    {"ch": "帽子", "en": "hat", "pi": "mào zi"}
+  ]
+}

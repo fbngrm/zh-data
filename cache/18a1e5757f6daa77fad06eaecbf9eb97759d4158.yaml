@@ -1,0 +1,37 @@
+{
+  "chinese": "你做完回家作業了嗎?",
+  "english": "Have you finished your homework and returned home?",
+  "pinyin": "nǐ zuò wán huí jiā zuò yè le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "做完",
+      "en": "finished",
+      "pi": "zuò wán"
+    },
+    {
+      "ch": "回家",
+      "en": "returned home",
+      "pi": "huí jiā"
+    },
+    {
+      "ch": "作業",
+      "en": "homework",
+      "pi": "zuò yè"
+    },
+    {
+      "ch": "了",
+      "en": "and",
+      "pi": "le"
+    },
+    {
+      "ch": "嗎",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我去了理发店理发。",
+  "english": "I went to the hair salon for a haircut.",
+  "pinyin": "Wǒ qù le lǐfà diàn lǐfà.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "去",
+      "en": "went",
+      "pi": "qù"
+    },
+    {
+      "ch": "了",
+      "en": "to",
+      "pi": "le"
+    },
+    {
+      "ch": "理发店",
+      "en": "hair salon",
+      "pi": "lǐfà diàn"
+    },
+    {
+      "ch": "理发",
+      "en": "haircut",
+      "pi": "lǐfà"
+    }
+  ]
+}

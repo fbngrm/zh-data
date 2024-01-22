@@ -1,0 +1,37 @@
+{
+  "chinese": "你经常服用任何药物吗？",
+  "english": "Do you frequently take any medication?",
+  "pinyin": "nǐ jīngcháng fúyòng rènhé yàowù ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "经常",
+      "en": "frequently",
+      "pi": "jīngcháng"
+    },
+    {
+      "ch": "服用",
+      "en": "take",
+      "pi": "fúyòng"
+    },
+    {
+      "ch": "任何",
+      "en": "any",
+      "pi": "rènhé"
+    },
+    {
+      "ch": "药物",
+      "en": "medication",
+      "pi": "yàowù"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

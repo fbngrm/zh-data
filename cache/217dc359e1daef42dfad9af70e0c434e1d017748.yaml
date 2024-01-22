@@ -1,0 +1,32 @@
+{
+  "chinese": "他们现在正在吃早饭。",
+  "english": "They are eating breakfast now.",
+  "pinyin": "tāmen xiànzài zhèngzài chī zǎofàn.",
+  "words": [
+    {
+      "ch": "他们",
+      "en": "they",
+      "pi": "tāmen"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiànzài"
+    },
+    {
+      "ch": "正在",
+      "en": "are",
+      "pi": "zhèngzài"
+    },
+    {
+      "ch": "吃",
+      "en": "eating",
+      "pi": "chī"
+    },
+    {
+      "ch": "早饭",
+      "en": "breakfast",
+      "pi": "zǎofàn"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "你可以转小声一点吗?",
+  "english": "Can you lower your voice a bit?",
+  "pinyin": "nǐ kě yǐ zhuǎn xiǎo shēng yī diǎn ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kě yǐ"
+    },
+    {
+      "ch": "转",
+      "en": "change",
+      "pi": "zhuǎn"
+    },
+    {
+      "ch": "小声",
+      "en": "softly",
+      "pi": "xiǎo shēng"
+    },
+    {
+      "ch": "一点",
+      "en": "a bit",
+      "pi": "yī diǎn"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

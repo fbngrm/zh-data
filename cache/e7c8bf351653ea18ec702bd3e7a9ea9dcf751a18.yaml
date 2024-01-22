@@ -1,0 +1,27 @@
+{
+  "chinese": "重新启动你的电脑。",
+  "english": "Restart your computer.",
+  "pinyin": "chóng xīn qǐ dòng nǐ de diàn nǎo.",
+  "words": [
+    {
+      "ch": "重新",
+      "en": "Restart",
+      "pi": "chóng xīn"
+    },
+    {
+      "ch": "启动",
+      "en": "start",
+      "pi": "qǐ dòng"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "电脑",
+      "en": "computer",
+      "pi": "diàn nǎo"
+    }
+  ]
+}

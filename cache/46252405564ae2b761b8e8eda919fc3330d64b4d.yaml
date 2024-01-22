@@ -1,0 +1,42 @@
+{
+  "chinese": "美丽的夕阳，不是吗？",
+  "english": "Beautiful sunset, isn't it?",
+  "pinyin": "měi lì de xī yáng, bú shì ma?",
+  "words": [
+    {
+      "ch": "美丽",
+      "en": "beautiful",
+      "pi": "měi lì"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "夕阳",
+      "en": "sunset",
+      "pi": "xī yáng"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": "，"
+    },
+    {
+      "ch": "不是",
+      "en": "isn't it",
+      "pi": "bú shì"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "？"
+    }
+  ]
+}

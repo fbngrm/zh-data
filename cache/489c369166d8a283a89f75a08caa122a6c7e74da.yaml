@@ -1,0 +1,32 @@
+{
+  "chinese": "天气非常好，是吧？",
+  "english": "The weather is very good, right?",
+  "pinyin": "tiān qì fēi cháng hǎo, shì ba?",
+  "words": [
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiān qì"
+    },
+    {
+      "ch": "非常",
+      "en": "very",
+      "pi": "fēi cháng"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "吧",
+      "en": "right",
+      "pi": "ba"
+    }
+  ]
+}

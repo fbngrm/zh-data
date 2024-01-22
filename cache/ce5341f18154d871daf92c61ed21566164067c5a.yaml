@@ -1,0 +1,42 @@
+{
+  "chinese": "我在任何地方都没能找到。",
+  "english": "I couldn't find it anywhere.",
+  "pinyin": "Wǒ zài rènhé dìfāng dōu méi néng zhǎodào.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "Wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "任何",
+      "en": "any",
+      "pi": "rènhé"
+    },
+    {
+      "ch": "地方",
+      "en": "place",
+      "pi": "dìfāng"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "没能",
+      "en": "couldn't",
+      "pi": "méi néng"
+    },
+    {
+      "ch": "找到",
+      "en": "find",
+      "pi": "zhǎodào"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "你在跟我说话吗？",
+  "english": "Are you speaking to me?",
+  "pinyin": "nǐ zài gēn wǒ shuō huà ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "跟",
+      "en": "with",
+      "pi": "gēn"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "说话",
+      "en": "speak",
+      "pi": "shuō huà"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

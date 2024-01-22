@@ -1,0 +1,27 @@
+{
+  "chinese": "这种表达方式很中国化。",
+  "english": "This expression is very Chinese.",
+  "pinyin": "zhè zhǒng biǎo dá fāng shì hěn zhōngguó huà.",
+  "words": [
+    {
+      "ch": "这种",
+      "en": "this",
+      "pi": "zhè zhǒng"
+    },
+    {
+      "ch": "表达方式",
+      "en": "expression",
+      "pi": "biǎo dá fāng shì"
+    },
+    {
+      "ch": "很",
+      "en": "is",
+      "pi": "hěn"
+    },
+    {
+      "ch": "中国化",
+      "en": "very Chinese",
+      "pi": "zhōngguó huà"
+    }
+  ]
+}

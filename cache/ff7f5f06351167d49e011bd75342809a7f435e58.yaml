@@ -1,0 +1,37 @@
+{
+  "chinese": "我喜欢学中文和英文。",
+  "english": "I like to learn Chinese and English.",
+  "pinyin": "Wǒ xǐhuān xué zhōngwén hé yīngwén.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "Wǒ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "学",
+      "en": "to learn",
+      "pi": "xué"
+    },
+    {
+      "ch": "中文",
+      "en": "Chinese",
+      "pi": "zhōngwén"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "英文",
+      "en": "English",
+      "pi": "yīngwén"
+    }
+  ]
+}

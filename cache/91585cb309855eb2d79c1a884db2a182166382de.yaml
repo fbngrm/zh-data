@@ -1,0 +1,42 @@
+{
+  "chinese": "谁是这间房子的主人？",
+  "english": "Who is the owner of this house?",
+  "pinyin": "shéi shì zhè jiān fángzi de zhǔrén?",
+  "words": [
+    {
+      "ch": "谁",
+      "en": "who",
+      "pi": "shéi"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "这", 
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "间",
+      "en": "of",
+      "pi": "jiān"
+    },
+    {
+      "ch": "房子",
+      "en": "house",
+      "pi": "fángzi"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "主人",
+      "en": "owner",
+      "pi": "zhǔrén"
+    }
+  ]
+}

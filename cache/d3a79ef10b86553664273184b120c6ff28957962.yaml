@@ -1,0 +1,32 @@
+{
+  "chinese": "这孩子哭了一整夜。",
+  "english": "The child cried all night.",
+  "pinyin": "zhè hái zi kū le yī zhěng yè.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "孩子",
+      "en": "child",
+      "pi": "hái zi"
+    },
+    {
+      "ch": "哭",
+      "en": "cry",
+      "pi": "kū"
+    },
+    {
+      "ch": "了",
+      "en": "(indicating a completed action)",
+      "pi": "le"
+    },
+    {
+      "ch": "一整夜",
+      "en": "all night",
+      "pi": "yī zhěng yè"
+    }
+  ]
+}

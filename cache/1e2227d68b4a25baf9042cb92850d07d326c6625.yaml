@@ -1,0 +1,25 @@
+{
+  "sentences": [
+    {
+      "chinese": "我不信谣言。",
+      "english": "I don't believe rumors.",
+      "pinyin": "wǒ bù xìn yáo yán。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "不", "en": "not", "pi": "bù"},
+        {"ch": "信", "en": "believe", "pi": "xìn"},
+        {"ch": "谣言", "en": "rumors", "pi": "yáo yán"}
+      ]
+    },
+    {
+      "chinese": "你信吗？",
+      "english": "Do you believe?",
+      "pinyin": "nǐ xìn ma?",
+      "words": [
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "信", "en": "believe", "pi": "xìn"},
+        {"ch": "吗", "en": "question particle", "pi": "ma"}
+      ]
+    }
+  ]
+}

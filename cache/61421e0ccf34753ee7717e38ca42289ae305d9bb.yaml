@@ -1,0 +1,12 @@
+{
+  "chinese": "我完全忘記了這件事。",
+  "english": "I completely forgot about this.",
+  "pinyin": "wǒ wánquán wàngjìle zhè jiàn shì。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "完全", "en": "completely", "pi":"wánquán"},
+    {"ch": "忘記", "en": "forgot", "pi":"wàngjì"},
+    {"ch": "了", "en": "", "pi": "le"},
+    {"ch": "這件事", "en": "about this", "pi": "zhè jiàn shì"}
+  ]
+}

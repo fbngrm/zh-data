@@ -1,0 +1,32 @@
+{
+  "chinese": "她穿着红色的衣服。",
+  "english": "She is wearing a red shirt.",
+  "pinyin": "tā chuānzhe hóngsè de yīfú.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "穿着",
+      "en": "is wearing",
+      "pi": "chuānzhe"
+    },
+    {
+      "ch": "红色",
+      "en": "red",
+      "pi": "hóngsè"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "衣服",
+      "en": "shirt",
+      "pi": "yīfú"
+    }
+  ]
+}

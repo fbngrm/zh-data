@@ -1,0 +1,32 @@
+{
+  "chinese": "我每天都说英语。",
+  "english": "I speak English every day.",
+  "pinyin": "wǒ měi tiān dōu shuō yīng yǔ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "都",
+      "en": "always",
+      "pi": "dōu"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīng yǔ"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "chinese": "约翰，你工作太辛苦了。坐下来休息一会儿。",
+  "english": "John, you work so hard. Sit down and take a rest for a while.",
+  "pinyin": "Yuē hàn, nǐ gōng zuò tài xīn kǔ le. Zuò xià lái xiū xí yī huǐr.",
+  "words": [
+    {
+      "ch": "约翰",
+      "en": "John",
+      "pi": "Yuē hàn"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "工作",
+      "en": "work",
+      "pi": "gōng zuò"
+    },
+    {
+      "ch": "太",
+      "en": "so",
+      "pi": "tài"
+    },
+    {
+      "ch": "辛苦",
+      "en": "hard",
+      "pi": "xīn kǔ"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "坐下来",
+      "en": "sit down",
+      "pi": "zuò xià lái"
+    },
+    {
+      "ch": "休息",
+      "en": "rest",
+      "pi": "xiū xí"
+    },
+    {
+      "ch": "一会儿",
+      "en": "for a while",
+      "pi": "yī huǐr"
+    }
+  ]
+}

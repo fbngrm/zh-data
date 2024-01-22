@@ -1,0 +1,15 @@
+{
+  "chinese": "他說的話沒有一句是真的。",
+  "english": "None of the words he said are true.",
+  "pinyin": "tā shuō de huà méiyǒu yījù shì zhēn de.",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "說", "en": "said", "pi": "shuō"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "話", "en": "words", "pi": "huà"},
+    {"ch": "沒有", "en": "none", "pi": "méiyǒu"},
+    {"ch": "一句", "en": "a", "pi": "yījù"},
+    {"ch": "是", "en": "are", "pi": "shì"},
+    {"ch": "真的", "en": "true", "pi": "zhēn de"}
+  ]
+}

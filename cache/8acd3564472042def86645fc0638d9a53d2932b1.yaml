@@ -1,0 +1,42 @@
+{
+  "chinese": "不许逐字逐句地翻译这个句子。",
+  "english": "Do not translate this sentence word by word.",
+  "pinyin": "bù xǔ zhú zì zhú jù dì fān yì zhè gè jù zi.",
+  "words": [
+    {
+      "ch": "不许",
+      "en": "Do not",
+      "pi": "bù xǔ"
+    },
+    {
+      "ch": "逐字",
+      "en": "word by word",
+      "pi": "zhú zì"
+    },
+    {
+      "ch": "逐句",
+      "en": "sentence by sentence",
+      "pi": "zhú jù"
+    },
+    {
+      "ch": "地",
+      "en": "",
+      "pi": "dì"
+    },
+    {
+      "ch": "翻译",
+      "en": "translate",
+      "pi": "fān yì"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "句子",
+      "en": "sentence",
+      "pi": "jù zi"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "这位工程师正在法国工作。",
+  "english": "This engineer is working in France.",
+  "pinyin": "zhè wèi gōngchéngshī zhèngzài fǎguó gōngzuò.",
+  "words": [
+    {
+      "ch": "这位",
+      "en": "This",
+      "pi": "zhè wèi"
+    },
+    {
+      "ch": "工程师",
+      "en": "engineer",
+      "pi": "gōngchéngshī"
+    },
+    {
+      "ch": "正在",
+      "en": "is",
+      "pi": "zhèngzài"
+    },
+    {
+      "ch": "法国",
+      "en": "France",
+      "pi": "fǎguó"
+    },
+    {
+      "ch": "工作",
+      "en": "working",
+      "pi": "gōngzuò"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "帮我抬起这包裹。",
+  "english": "Help me lift this package.",
+  "pinyin": "bāng wǒ tái qǐ zhè bāoguǒ。",
+  "words": [
+    {
+      "ch": "帮",
+      "en": "Help",
+      "pi": "bāng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "抬起",
+      "en": "lift",
+      "pi": "tái qǐ"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "包裹",
+      "en": "package",
+      "pi": "bāoguǒ"
+    }
+  ]
+}

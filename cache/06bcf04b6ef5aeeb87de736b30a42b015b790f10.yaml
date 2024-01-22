@@ -1,0 +1,20 @@
+{
+  "sentences": [
+    {
+      "chinese": "先生,你是一个帝国主义者!\"而你,先生,是一个巨魔。\"",
+      "english": "Sir, you are an imperialist! \"And you, sir, are a troll.\"",
+      "pinyin": "xiānshēng, nǐ shì yí gè dì guó zhǔ yì zhě! \"ér nǐ, xiānshēng, shì yí gè jù mó.\"",
+      "words": [
+        {"ch": "先生", "en": "Sir", "pi": "xiānshēng"},
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "是", "en": "are", "pi": "shì"},
+        {"ch": "一个", "en": "a", "pi": "yí gè"},
+        {"ch": "帝国主义者", "en": "imperialist", "pi": "dì guó zhǔ yì zhě"},
+        {"ch": "而你", "en": "And you", "pi": "ér nǐ"},
+        {"ch": "是", "en": "are", "pi": "shì"},
+        {"ch": "一个", "en": "a", "pi": "yí gè"},
+        {"ch": "巨魔", "en": "troll", "pi": "jù mó"}
+      ]
+    }
+  ]
+}

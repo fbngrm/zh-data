@@ -1,0 +1,27 @@
+{
+  "chinese": "他把苹果吃了。",
+  "english": "He ate the apple.",
+  "pinyin": "tā bǎ píngguǒ chī le。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "把",
+      "en": "to",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "苹果",
+      "en": "apple",
+      "pi": "píngguǒ"
+    },
+    {
+      "ch": "吃了。",
+      "en": "ate.",
+      "pi": "chī le。"
+    }
+  ]
+}

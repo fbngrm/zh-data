@@ -1,0 +1,62 @@
+{
+  "sentences": [
+      {
+        "chinese": "前方的道路将很漫长，我们攀登的脚步会很艰辛。",
+        "english": "The road ahead will be long, and our steps will be arduous.",
+        "pinyin": "Qiánfāng de dàolù jiāng hěn màncháng, wǒmen pāndēng de jiǎobù huì hěn jiānxīn.",
+        "words": [
+            {"ch": "前方", "en": "the road ahead", "pi": "qiánfāng"},
+            {"ch": "的", "en": "of", "pi": "de"},
+            {"ch": "道路", "en": "road", "pi": "dàolù"},
+            {"ch": "将", "en": "will", "pi": "jiāng"},
+            {"ch": "很", "en": "very", "pi": "hěn"},
+            {"ch": "漫长", "en": "long", "pi": "màncháng"},
+            {"ch": "，", "en": ",", "pi": "，"},
+            {"ch": "我们", "en": "we", "pi": "wǒmen"},
+            {"ch": "攀登", "en": "climb", "pi": "pāndēng"},
+            {"ch": "的", "en": "of", "pi": "de"},
+            {"ch": "脚步", "en": "steps", "pi": "jiǎobù"},
+            {"ch": "会", "en": "will", "pi": "huì"},
+            {"ch": "很", "en": "be", "pi": "hěn"},
+            {"ch": "艰辛", "en": "arduous", "pi": "jiānxīn"},
+            {"ch": "。", "en": ".", "pi": "。"}
+        ]
+      },
+      {
+        "chinese": "我们可能无法在一年甚至一个任期内实现这些目标，但我从未像今晚这样满怀希望，我们将实现我们的目标。",
+        "english": "We may not be able to achieve these goals in one year or even one term, but tonight I am more hopeful than ever that we will achieve our goals.",
+        "pinyin": "Wǒmen kěnéng wúfǎ zài yī nián shènzhì yīgè rènqī nèi shíxiàn zhèxiē mùbiāo, dàn wǒ cóngwèi xiàng jīnwǎn zhèyàng mǎnhuái xīwàng, wǒmen jiāng shíxiàn wǒmen de mùbiāo.",
+        "words": [
+            {"ch": "我们", "en": "we", "pi": "wǒmen"},
+            {"ch": "可能", "en": "may", "pi": "kěnéng"},
+            {"ch": "无法", "en": "not be able to", "pi": "wúfǎ"},
+            {"ch": "在", "en": "in", "pi": "zài"},
+            {"ch": "一年", "en": "one year", "pi": "yī nián"},
+            {"ch": "甚至", "en": "or even", "pi": "shènzhì"},
+            {"ch": "一个", "en": "one", "pi": "yīgè"},
+            {"ch": "任期", "en": "term", "pi": "rènqī"},
+            {"ch": "内", "en": "in", "pi": "nèi"},
+            {"ch": "实现", "en": "achieve", "pi": "shíxiàn"},
+            {"ch": "这些", "en": "these", "pi": "zhèxiē"},
+            {"ch": "目标", "en": "goals", "pi": "mùbiāo"},
+            {"ch": "，", "en": ",", "pi": "，"},
+            {"ch": "但", "en": "but", "pi": "dàn"},
+            {"ch": "我", "en": "I", "pi": "wǒ"},
+            {"ch": "从未", "en": "never", "pi": "cóngwèi"},
+            {"ch": "像", "en": "ever", "pi": "xiàng"},
+            {"ch": "今晚", "en": "tonight", "pi": "jīnwǎn"},
+            {"ch": "这样", "en": "like this", "pi": "zhèyàng"},
+            {"ch": "满怀", "en": "full of", "pi": "mǎnhuái"},
+            {"ch": "希望", "en": "hope", "pi": "xīwàng"},
+            {"ch": "，", "en": ",", "pi": "，"},
+            {"ch": "我们", "en": "we", "pi": "wǒmen"},
+            {"ch": "将", "en": "will", "pi": "jiāng"},
+            {"ch": "实现", "en": "achieve", "pi": "shíxiàn"},
+            {"ch": "我们", "en": "our", "pi": "wǒmen"},
+            {"ch": "的", "en": "goals", "pi": "de"},
+            {"ch": "目标", "en": "goals", "pi": "mùbiāo"},
+            {"ch": "。", "en": ".", "pi": "。"}
+        ]
+      }
+  ]
+}

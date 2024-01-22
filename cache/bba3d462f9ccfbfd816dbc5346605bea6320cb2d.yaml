@@ -1,0 +1,32 @@
+{
+  "chinese": "帐单金额高达１００美元。",
+  "english": "The bill amount is as high as $100.",
+  "pinyin": "Zhàngdān jīn'é duōdá 100 měiyuán.",
+  "words": [
+    {
+      "ch": "帐单",
+      "en": "bill",
+      "pi": "zhàngdān"
+    },
+    {
+      "ch": "金额",
+      "en": "amount",
+      "pi": "jīn'é"
+    },
+    {
+      "ch": "高达",
+      "en": "as high as",
+      "pi": "duōdá"
+    },
+    {
+      "ch": "１００",
+      "en": "100",
+      "pi": "yībǎi"
+    },
+    {
+      "ch": "美元",
+      "en": "dollars",
+      "pi": "měiyuán"
+    }
+  ]
+}

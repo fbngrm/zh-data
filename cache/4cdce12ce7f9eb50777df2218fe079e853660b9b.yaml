@@ -1,0 +1,32 @@
+{
+  "chinese": "山上发现了不少猴子。",
+  "english": "Many monkeys were found on the mountain.",
+  "pinyin": "shān shàng fā xiàn le bù shǎo hóu zi.",
+  "words": [
+    {
+      "ch": "山上",
+      "en": "on the mountain",
+      "pi": "shān shàng"
+    },
+    {
+      "ch": "发现",
+      "en": "found",
+      "pi": "fā xiàn"
+    },
+    {
+      "ch": "了",
+      "en": "(indicating completed action)",
+      "pi": "le"
+    },
+    {
+      "ch": "不少",
+      "en": "many",
+      "pi": "bù shǎo"
+    },
+    {
+      "ch": "猴子",
+      "en": "monkeys",
+      "pi": "hóu zi"
+    }
+  ]
+}

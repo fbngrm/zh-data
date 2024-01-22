@@ -1,0 +1,23 @@
+{
+  "chinese": "我是人类学的研究学生，课题是“在英国的中医”。",
+  "english": "I am a research student in anthropology, and my topic is \"Traditional Chinese Medicine in the UK\".",
+  "pinyin": "wǒ shì rénlèi xué de yánjiū xuéshēng, kètí shì “zài yīngguó de zhōngyī”。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "是", "en": "am", "pi": "shì"},
+    {"ch": "人类学", "en": "anthropology", "pi": "rén lèi xué"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "研究", "en": "research", "pi": "yánjiū"},
+    {"ch": "学生", "en": "student", "pi": "xuéshēng"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "课题", "en": "topic", "pi": "kètí"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "“", "en": "\"", "pi": "“"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "英国", "en": "UK", "pi": "yīngguó"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "中医", "en": "Traditional Chinese Medicine", "pi": "zhōngyī"},
+    {"ch": "”", "en": "\"", "pi": "”"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

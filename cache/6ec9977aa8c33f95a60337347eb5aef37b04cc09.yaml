@@ -1,0 +1,27 @@
+{
+  "chinese": "水是冰的。",
+  "english": "Water is ice.",
+  "pinyin": "shuǐ shì bīng de.",
+  "words": [
+    {
+      "ch": "水",
+      "en": "water",
+      "pi": "shuǐ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "冰",
+      "en": "ice",
+      "pi": "bīng"
+    },
+    {
+      "ch": "的",
+      "en": "is a possessive particle",
+      "pi": "de"
+    }
+  ]
+}

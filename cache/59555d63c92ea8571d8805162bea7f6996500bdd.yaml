@@ -1,0 +1,32 @@
+{
+  "chinese": "我昨天没去上班。",
+  "english": "I didn't go to work yesterday.",
+  "pinyin": "wǒ zuótiān méi qù shàngbān.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "没",
+      "en": "didn't",
+      "pi": "méi"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "上班",
+      "en": "to work",
+      "pi": "shàngbān"
+    }
+  ]
+}

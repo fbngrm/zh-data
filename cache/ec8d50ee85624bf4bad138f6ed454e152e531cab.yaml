@@ -1,0 +1,37 @@
+{
+  "chinese": "我把书还给图书馆。",
+  "english": "I returned the book to the library.",
+  "pinyin": "wǒ bǎ shū hái gěi tú shū guǎn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "把",
+      "en": "take",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    },
+    {
+      "ch": "还",
+      "en": "return",
+      "pi": "hái"
+    },
+    {
+      "ch": "给",
+      "en": "to",
+      "pi": "gěi"
+    },
+    {
+      "ch": "图书馆",
+      "en": "library",
+      "pi": "tú shū guǎn"
+    }
+  ]
+}

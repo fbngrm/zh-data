@@ -1,0 +1,16 @@
+{
+  "chinese": "你们会用电脑是为了学习，不是为了玩游戏。",
+  "english": "You use computers for studying, not for playing games.",
+  "pinyin": "nǐ men huì yòng diàn nǎo shì wèi le xué xí ，bú shì wèi le wán yóu xì 。",
+  "words": [
+    {"ch": "你们", "en": "You", "pi": "nǐ men"},
+    {"ch": "会", "en": "use", "pi": "huì"},
+    {"ch": "用", "en": "computers", "pi": "yòng"},
+    {"ch": "电脑", "en": "for", "pi": "diàn nǎo"},
+    {"ch": "是", "en": "studying", "pi": "shì"},
+    {"ch": "为了", "en": "not", "pi": "wèi le"},
+    {"ch": "学习", "en": "playing", "pi": "xué xí"},
+    {"ch": "不是", "en": "games", "pi": "bú shì"},
+    {"ch": "玩游戏", "en": "", "pi": "wán yóu xì"}
+  ]
+}

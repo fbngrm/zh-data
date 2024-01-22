@@ -1,0 +1,37 @@
+{
+  "chinese": "今天是今年最热的一天。",
+  "english": "Today is the hottest day of the year.",
+  "pinyin": "jīn tiān shì jīn nián zuì rè de yī tiān.",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "Today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "今年",
+      "en": "this year",
+      "pi": "jīn nián"
+    },
+    {
+      "ch": "最热",
+      "en": "hottest",
+      "pi": "zuì rè"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "一天",
+      "en": "day",
+      "pi": "yī tiān"
+    }
+  ]
+}

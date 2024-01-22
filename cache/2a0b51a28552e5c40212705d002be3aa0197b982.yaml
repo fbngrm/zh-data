@@ -1,0 +1,32 @@
+{
+  "chinese": "我上週买了它。",
+  "english": "I bought it last week.",
+  "pinyin": "Wǒ shàng zhōu mǎi le tā.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "上週",
+      "en": "last week",
+      "pi": "shàng zhōu"
+    },
+    {
+      "ch": "买",
+      "en": "bought",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "它",
+      "en": "it",
+      "pi": "tā"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "今天，我们有一个数学的考试。",
+  "english": "Today, we have a math exam.",
+  "pinyin": "jīn tiān, wǒ men yǒu yī gè shù xué de kǎo shì。",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "数学",
+      "en": "math",
+      "pi": "shù xué"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "考试",
+      "en": "exam",
+      "pi": "kǎo shì"
+    }
+  ]
+}

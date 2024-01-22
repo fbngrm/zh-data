@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆不想让我们帮忙。",
+  "english": "Tom doesn't want us to help.",
+  "pinyin": "Tāng mǔ bù xiǎng ràng wǒmen bāngmáng.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "不想",
+      "en": "doesn't want",
+      "pi": "bù xiǎng"
+    },
+    {
+      "ch": "让",
+      "en": "to",
+      "pi": "ràng"
+    },
+    {
+      "ch": "我们",
+      "en": "us",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "帮忙",
+      "en": "help",
+      "pi": "bāngmáng"
+    }
+  ]
+}

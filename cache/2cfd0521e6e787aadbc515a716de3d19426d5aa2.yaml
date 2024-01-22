@@ -1,0 +1,37 @@
+{
+  "chinese": "这是个危险的任务。",
+  "english": "This is a dangerous mission.",
+  "pinyin": "zhè shì gè wēi xiǎn de rèn wu。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "危险",
+      "en": "dangerous",
+      "pi": "wēi xiǎn"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "任务",
+      "en": "mission",
+      "pi": "rèn wu"
+    }
+  ]
+}

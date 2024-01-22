@@ -1,0 +1,47 @@
+{
+  "chinese": "请在３月１０日前再次确认预订。",
+  "english": "Please confirm your reservation again before March 10th.",
+  "pinyin": "Qǐng zài sān yuè shí rì qián zài cì quèrèn yùdìng.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "３月",
+      "en": "March",
+      "pi": "sān yuè"
+    },
+    {
+      "ch": "１０日",
+      "en": "10th",
+      "pi": "shí rì"
+    },
+    {
+      "ch": "前",
+      "en": "before",
+      "pi": "qián"
+    },
+    {
+      "ch": "再次",
+      "en": "again",
+      "pi": "zài cì"
+    },
+    {
+      "ch": "确认",
+      "en": "confirm",
+      "pi": "quèrèn"
+    },
+    {
+      "ch": "预订",
+      "en": "reservation",
+      "pi": "yùdìng"
+    }
+  ]
+}

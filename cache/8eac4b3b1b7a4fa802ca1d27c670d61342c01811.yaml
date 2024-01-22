@@ -1,0 +1,15 @@
+{
+  "chinese": "你不能再允许汤姆那么做了。",
+  "english": "You can't allow Tom to do that anymore.",
+  "pinyin": "nǐ bù néng zài yǔnxǔ Tāngmǔ nàme zuò le.",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "不能", "en": "cannot", "pi": "bù néng"},
+    {"ch": "再", "en": "anymore", "pi": "zài"},
+    {"ch": "允许", "en": "allow", "pi": "yǔnxǔ"},
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāngmǔ"},
+    {"ch": "那么", "en": "that", "pi": "nàme"},
+    {"ch": "做", "en": "to do", "pi": "zuò"},
+    {"ch": "了", "en": "anymore", "pi": "le"}
+  ]
+}

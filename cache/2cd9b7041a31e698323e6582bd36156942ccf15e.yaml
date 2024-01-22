@@ -1,0 +1,37 @@
+{
+  "chinese": "你咖啡喝得太多了。",
+  "english": "You drink too much coffee.",
+  "pinyin": "nǐ kā fēi hē dé tài duō le.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kā fēi"
+    },
+    {
+      "ch": "喝",
+      "en": "drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "得",
+      "en": "too",
+      "pi": "dé"
+    },
+    {
+      "ch": "太多",
+      "en": "much",
+      "pi": "tài duō"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "le"
+    }
+  ]
+}

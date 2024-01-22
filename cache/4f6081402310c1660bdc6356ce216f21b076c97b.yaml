@@ -1,0 +1,47 @@
+{
+  "chinese": "他在東京乘飛機去了大阪。",
+  "english": "He took a plane from Tokyo to Osaka.",
+  "pinyin": "tā zài dōng jīng chéng fēi jī qù le dà bǎn.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "東京",
+      "en": "Tokyo",
+      "pi": "dōng jīng"
+    },
+    {
+      "ch": "乘",
+      "en": "take",
+      "pi": "chéng"
+    },
+    {
+      "ch": "飛機",
+      "en": "plane",
+      "pi": "fēi jī"
+    },
+    {
+      "ch": "去",
+      "en": "to",
+      "pi": "qù"
+    },
+    {
+      "ch": "了",
+      "en": "to",
+      "pi": "le"
+    },
+    {
+      "ch": "大阪",
+      "en": "Osaka",
+      "pi": "dà bǎn"
+    }
+  ]
+}

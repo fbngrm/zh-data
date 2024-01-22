@@ -1,0 +1,32 @@
+{
+  "chinese": "他很快就会回家。",
+  "english": "He will be home soon.",
+  "pinyin": "tā hěn kuài jiù huì huí jiā.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "很快",
+      "en": "soon",
+      "pi": "hěn kuài"
+    },
+    {
+      "ch": "就",
+      "en": "will",
+      "pi": "jiù"
+    },
+    {
+      "ch": "会",
+      "en": "be",
+      "pi": "huì"
+    },
+    {
+      "ch": "回家",
+      "en": "home",
+      "pi": "huí jiā"
+    }
+  ]
+}

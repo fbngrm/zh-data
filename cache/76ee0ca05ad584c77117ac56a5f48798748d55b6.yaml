@@ -1,0 +1,42 @@
+{
+  "chinese": "你此行的目的是什么？",
+  "english": "What is the purpose of your trip?",
+  "pinyin": "Nǐ cǐ xíng de mùdì shì shénme?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "此",
+      "en": "this",
+      "pi": "cǐ"
+    },
+    {
+      "ch": "行",
+      "en": "travel",
+      "pi": "xíng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "目的",
+      "en": "purpose",
+      "pi": "mùdì"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    }
+  ]
+}

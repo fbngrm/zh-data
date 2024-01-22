@@ -1,0 +1,16 @@
+{
+  "chinese": "对了，可以把你的地址告诉我吗？",
+  "english": "By the way, can you tell me your address?",
+  "pinyin": "duì le, kěyǐ bǎ nǐ de dìzhǐ gàosù wǒ ma?",
+  "words": [
+    {"ch": "对了", "en": "By the way", "pi": "duì le"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "可以", "en": "can", "pi": "kěyǐ"},
+    {"ch": "把", "en": "tell", "pi": "bǎ"},
+    {"ch": "你的", "en": "your", "pi": "nǐ de"},
+    {"ch": "地址", "en": "address", "pi": "dìzhǐ"},
+    {"ch": "告诉", "en": "me", "pi": "gàosù"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "吗", "en": "?", "pi": "ma"}
+  ]
+}

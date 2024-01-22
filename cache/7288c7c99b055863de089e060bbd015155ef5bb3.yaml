@@ -1,0 +1,32 @@
+{
+  "chinese": "请问这儿附近有没有厕所？",
+  "english": "Excuse me, is there a toilet nearby?",
+  "pinyin": "qǐng wèn zhè er fù jìn yǒu méi yǒu cè suǒ?",
+  "words": [
+    {
+      "ch": "请问",
+      "en": "Excuse me",
+      "pi": "qǐng wèn"
+    },
+    {
+      "ch": "这儿",
+      "en": "here",
+      "pi": "zhè er"
+    },
+    {
+      "ch": "附近",
+      "en": "nearby",
+      "pi": "fù jìn"
+    },
+    {
+      "ch": "有没有",
+      "en": "is there",
+      "pi": "yǒu méi yǒu"
+    },
+    {
+      "ch": "厕所",
+      "en": "toilet",
+      "pi": "cè suǒ"
+    }
+  ]
+}

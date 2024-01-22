@@ -1,0 +1,32 @@
+{
+  "chinese": "昨天东京天气多云吗？",
+  "english": "Was it cloudy in Tokyo yesterday?",
+  "pinyin": "zuó tiān dōng jīng tiān qì duō yún ma?",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "东京",
+      "en": "Tokyo",
+      "pi": "dōng jīng"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiān qì"
+    },
+    {
+      "ch": "多云",
+      "en": "cloudy",
+      "pi": "duō yún"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

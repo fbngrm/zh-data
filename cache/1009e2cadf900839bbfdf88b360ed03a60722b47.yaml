@@ -1,0 +1,16 @@
+{
+  "chinese": "海面随着全球变暖的加剧而越来越高。",
+  "english": "The sea level is getting higher as global warming intensifies.",
+  "pinyin": "hǎi miàn suí zhe quán qiú biàn nuǎn de jiā jù ér yuè lái yuè gāo.",
+  "words": [
+    { "ch": "海面", "en": "sea level", "pi": "hǎi miàn" },
+    { "ch": "随着", "en": "as", "pi": "suí zhe" },
+    { "ch": "全球", "en": "global", "pi": "quán qiú" },
+    { "ch": "变暖", "en": "warming", "pi": "biàn nuǎn" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "加剧", "en": "intensifies", "pi": "jiā jù" },
+    { "ch": "而", "en": "and", "pi": "ér" },
+    { "ch": "越来越", "en": "more and more", "pi": "yuè lái yuè" },
+    { "ch": "高", "en": "high", "pi": "gāo" }
+  ]
+}

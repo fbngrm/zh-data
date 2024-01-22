@@ -1,0 +1,37 @@
+{
+  "chinese": "你的鞋子在这儿。我的呢？",
+  "english": "Your shoes are here. What about mine?",
+  "pinyin": "Nǐ de xiézi zài zhè'er. Wǒ de nè?"
+  "words": [
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "鞋子",
+      "en": "shoes",
+      "pi": "xiézi"
+    },
+    {
+      "ch": "在",
+      "en": "are",
+      "pi": "zài"
+    },
+    {
+      "ch": "这儿",
+      "en": "here",
+      "pi": "zhè'er"
+    },
+    {
+      "ch": "我的",
+      "en": "mine",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "呢",
+      "en": "what about",
+      "pi": "nè"
+    }
+  ]
+}

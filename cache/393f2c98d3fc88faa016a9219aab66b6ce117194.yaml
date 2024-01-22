@@ -1,0 +1,42 @@
+{
+  "chinese": "鈴木先生在去法國之前學習法語。",
+  "english": "Mr. Suzuki learned French before going to France.",
+  "pinyin": "Língmù xiansheng zài qù fǎguó zhīqián xuéxí fǎyǔ.",
+  "words": [
+    {
+      "ch": "鈴木先生",
+      "en": "Mr. Suzuki",
+      "pi": "Língmù xiansheng"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "法國",
+      "en": "France",
+      "pi": "fǎguó"
+    },
+    {
+      "ch": "之前",
+      "en": "before",
+      "pi": "zhīqián"
+    },
+    {
+      "ch": "學習",
+      "en": "learn",
+      "pi": "xuéxí"
+    },
+    {
+      "ch": "法語",
+      "en": "French",
+      "pi": "fǎyǔ"
+    }
+  ]
+}

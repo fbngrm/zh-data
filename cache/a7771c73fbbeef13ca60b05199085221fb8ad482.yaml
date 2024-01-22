@@ -1,0 +1,15 @@
+{
+  "chinese": "Kate的声音明显和其他女孩不同。",
+  "english": "Kate's voice is obviously different from other girls.",
+  "pinyin": "Kè dé shēng yīn míng xiǎn hé qí tā nǚ hái bù tóng.",
+  "words": [
+    {"ch": "Kate", "en": "Kate", "pi": "Kè"},
+    {"ch": "的", "en": "'s", "pi": "dě"},
+    {"ch": "声音", "en": "voice", "pi": "shēng yīn"},
+    {"ch": "明显", "en": "obviously", "pi": "míng xiǎn"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "其他", "en": "other", "pi": "qí tā"},
+    {"ch": "女孩", "en": "girls", "pi": "nǚ hái"},
+    {"ch": "不同", "en": "different", "pi": "bù tóng"}
+  ]
+}

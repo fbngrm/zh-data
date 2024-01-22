@@ -1,0 +1,32 @@
+{
+  "chinese": "我被蚊子咬的。",
+  "english": "I got bitten by a mosquito.",
+  "pinyin": "wǒ bèi wén zi yǎo de.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "被",
+      "en": "by",
+      "pi": "bèi"
+    },
+    {
+      "ch": "蚊子",
+      "en": "mosquito",
+      "pi": "wén zi"
+    },
+    {
+      "ch": "咬",
+      "en": "bite",
+      "pi": "yǎo"
+    },
+    {
+      "ch": "的",
+      "en": "got",
+      "pi": "de"
+    }
+  ]
+}

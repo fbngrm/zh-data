@@ -1,0 +1,32 @@
+{
+  "chinese": "他每天去学校学习。",
+  "english": "He goes to school to study every day.",
+  "pinyin": "tā měi tiān qù xué xiào xué xí。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "学校",
+      "en": "school",
+      "pi": "xué xiào"
+    },
+    {
+      "ch": "学习",
+      "en": "study",
+      "pi": "xué xí"
+    }
+  ]
+}

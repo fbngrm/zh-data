@@ -1,0 +1,32 @@
+{
+  "chinese": "他按下按钮然后等待着。",
+  "english": "He pressed the button and then waited.",
+  "pinyin": "tā àn xià àn níu rán hòu děng dài zhe。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "按下",
+      "en": "pressed",
+      "pi": "àn xià"
+    },
+    {
+      "ch": "按钮",
+      "en": "button",
+      "pi": "àn níu"
+    },
+    {
+      "ch": "然后",
+      "en": "and then",
+      "pi": "rán hòu"
+    },
+    {
+      "ch": "等待着",
+      "en": "waited",
+      "pi": "děng dài zhe"
+    }
+  ]
+}

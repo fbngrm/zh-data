@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆把一叠信放在玛丽桌上。",
+  "english": "Tom put a stack of letters on Mary's desk.",
+  "pinyin": "Tāng mǔ bǎ yī dié xìn fàng zài Mǎ lì zhuō shàng.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "把",
+      "en": "put",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "一叠",
+      "en": "a stack of",
+      "pi": "yī dié"
+    },
+    {
+      "ch": "信",
+      "en": "letters",
+      "pi": "xìn"
+    },
+    {
+      "ch": "放在",
+      "en": "on",
+      "pi": "fàng zài"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎ lì"
+    },
+    {
+      "ch": "桌上",
+      "en": "desk",
+      "pi": "zhuō shàng"
+    }
+  ]
+}

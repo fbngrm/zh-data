@@ -1,0 +1,32 @@
+{
+  "chinese": "您的订单已经提交了。",
+  "english": "Your order has been submitted.",
+  "pinyin": "nín de dìngdān yǐjīng tígōngle。",
+  "words": [
+    {
+      "ch": "您",
+      "en": "Your",
+      "pi": "nín"
+    },
+    {
+      "ch": "的",
+      "en": "order",
+      "pi": "de"
+    },
+    {
+      "ch": "订单",
+      "en": "has been",
+      "pi": "dìngdān"
+    },
+    {
+      "ch": "已经",
+      "en": "submitted",
+      "pi": "yǐjīng"
+    },
+    {
+      "ch": "提交",
+      "en": "了",
+      "pi": "tígōngle"
+    }
+  ]
+}

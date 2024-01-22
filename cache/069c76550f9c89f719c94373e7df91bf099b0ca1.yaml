@@ -1,0 +1,42 @@
+{
+  "chinese": "Ｔｏｍ很困因爲昨天晚上没睡好。",
+  "english": "Tom is very tired because he didn't sleep well last night.",
+  "pinyin": "Tóm hěn kùn yīnwèi zuótiān wǎnshàng méi shuì hǎo.",
+  "words": [
+    {
+      "ch": "Ｔｏｍ",
+      "en": "Tom",
+      "pi": "Tóm"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "困",
+      "en": "tired",
+      "pi": "kùn"
+    },
+    {
+      "ch": "因爲",
+      "en": "because",
+      "pi": "yīnwèi"
+    },
+    {
+      "ch": "昨天晚上",
+      "en": "last night",
+      "pi": "zuótiān wǎnshàng"
+    },
+    {
+      "ch": "没",
+      "en": "didn't",
+      "pi": "méi"
+    },
+    {
+      "ch": "睡好",
+      "en": "sleep well",
+      "pi": "shuì hǎo"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "这毒药用来治蟑螂很有效。",
+  "english": "This poison is very effective in treating cockroaches.",
+  "pinyin": "zhè dúyào yòng lái zhì zhāngláng hěn yǒuxiào.",
+  "words": [
+    { "ch": "这", "en": "this", "pi": "zhè" },
+    { "ch": "毒药", "en": "poison", "pi": "dúyào" },
+    { "ch": "用来", "en": "use", "pi": "yòng lái" },
+    { "ch": "治", "en": "treat", "pi": "zhì" },
+    { "ch": "蟑螂", "en": "cockroach", "pi": "zhāngláng" },
+    { "ch": "很", "en": "very", "pi": "hěn" },
+    { "ch": "有效", "en": "effective", "pi": "yǒuxiào" }
+  ]
+}

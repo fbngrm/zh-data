@@ -1,0 +1,37 @@
+{
+  "chinese": "我的文件在那个箱子里。",
+  "english": "My documents are in that box.",
+  "pinyin": "Wǒ de wénjiàn zài nèige xiāngzi lǐ.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "文件",
+      "en": "documents",
+      "pi": "wénjiàn"
+    },
+    {
+      "ch": "在",
+      "en": "are",
+      "pi": "zài"
+    },
+    {
+      "ch": "那个",
+      "en": "that",
+      "pi": "nèige"
+    },
+    {
+      "ch": "箱子",
+      "en": "box",
+      "pi": "xiāngzi"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    }
+  ]
+}

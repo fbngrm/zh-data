@@ -1,0 +1,32 @@
+{
+  "chinese": "不是有一点小吗?",
+  "english": "Isn't it a little bit?",
+  "pinyin": "bú shì yǒu yī diǎn xiǎo ma?",
+  "words": [
+    {
+      "ch": "不是",
+      "en": "Isn't it",
+      "pi": "bú shì"
+    },
+    {
+      "ch": "有",
+      "en": "a",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一点",
+      "en": "little bit",
+      "pi": "yī diǎn"
+    },
+    {
+      "ch": "小",
+      "en": "small",
+      "pi": "xiǎo"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

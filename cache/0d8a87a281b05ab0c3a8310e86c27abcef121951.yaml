@@ -1,0 +1,37 @@
+{
+  "chinese": "他昨天在公园里散步。",
+  "english": "He took a walk in the park yesterday.",
+  "pinyin": "tā zuótiān zài gōngyuán lǐ sànbù.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "公园",
+      "en": "park",
+      "pi": "gōngyuán"
+    },
+    {
+      "ch": "里",
+      "en": "inside",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "散步",
+      "en": "take a walk",
+      "pi": "sànbù"
+    }
+  ]
+}

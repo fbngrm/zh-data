@@ -1,0 +1,11 @@
+{
+  "chinese": "请问，图书馆在哪儿？",
+  "english": "Excuse me, where is the library?",
+  "pinyin": "qǐng wèn, tú shū guǎn zài nǎr?",
+  "words": [
+    {"ch": "请问", "en": "Excuse me", "pi": "qǐng wèn"},
+    {"ch": "图书馆", "en": "library", "pi": "tú shū guǎn"},
+    {"ch": "在", "en": "is", "pi": "zài"},
+    {"ch": "哪儿", "en": "where", "pi": "nǎr"}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "你认识我哥哥Ｍａｓａｏ吗？",
+  "english": "Do you know my brother Masao?",
+  "pinyin": "nǐ rènshí wǒ gēgē Mǎsào ma?",
+  "words": [
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "认识", "en": "know", "pi": "rènshí" },
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "哥哥", "en": "brother", "pi": "gēgē" },
+    { "ch": "Ｍａｓａｏ", "en": "Masao", "pi": "Mǎsào" },
+    { "ch": "吗", "en": "question particle", "pi": "ma" }
+  ]
+}

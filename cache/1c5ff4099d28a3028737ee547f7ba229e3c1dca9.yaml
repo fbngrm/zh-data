@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆求我让他早点回家。",
+  "english": "Tom asked me to let him go home early.",
+  "pinyin": "Tāng mǔ qiú wǒ ràng tā zǎodiǎn huí jiā.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "求",
+      "en": "ask",
+      "pi": "qiú"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "让",
+      "en": "let",
+      "pi": "ràng"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    },
+    {
+      "ch": "早点",
+      "en": "early",
+      "pi": "zǎodiǎn"
+    },
+    {
+      "ch": "回家",
+      "en": "go home",
+      "pi": "huí jiā"
+    }
+  ]
+}

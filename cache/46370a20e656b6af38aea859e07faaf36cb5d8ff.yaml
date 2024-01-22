@@ -1,0 +1,13 @@
+{
+  "chinese": "你要改善一下你的英語。",
+  "english": "You need to improve your English.",
+  "pinyin": "Nǐ yào gǎishàn yīxià nǐ de yīngyǔ。",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "要", "en": "need to", "pi": "yào"},
+    {"ch": "改善", "en": "improve", "pi": "gǎishàn"},
+    {"ch": "一下", "en": "a little bit", "pi": "yīxià"},
+    {"ch": "你的", "en": "your", "pi": "nǐde"},
+    {"ch": "英語", "en": "English", "pi": "yīngyǔ"}
+  ]
+}

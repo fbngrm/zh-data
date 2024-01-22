@@ -1,0 +1,32 @@
+{
+  "chinese": "大象被猎人杀死了。",
+  "english": "The elephant was killed by a hunter.",
+  "pinyin": "dà xiàng bèi liè rén shā sǐ le.",
+  "words": [
+    {
+      "ch": "大象",
+      "en": "elephant",
+      "pi": "dà xiàng"
+    },
+    {
+      "ch": "被",
+      "en": "by",
+      "pi": "bèi"
+    },
+    {
+      "ch": "猎人",
+      "en": "hunter",
+      "pi": "liè rén"
+    },
+    {
+      "ch": "杀死",
+      "en": "kill",
+      "pi": "shā sǐ"
+    },
+    {
+      "ch": "了",
+      "en": "was",
+      "pi": "le"
+    }
+  ]
+}

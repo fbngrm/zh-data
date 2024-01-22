@@ -1,0 +1,15 @@
+{
+  "chinese": "这些绿叶到秋天变成红色或黄色。",
+  "english": "These green leaves turn red or yellow in autumn.",
+  "pinyin": "zhè xiē lǜ yè dào qiū tiān biàn chéng hóng sè huò huáng sè。",
+  "words": [
+    {"ch": "这些", "en": "These", "pi": "zhè xiē"},
+    {"ch": "绿叶", "en": "green leaves", "pi": "lǜ yè"},
+    {"ch": "到", "en": "turn", "pi": "dào"},
+    {"ch": "秋天", "en": "autumn", "pi": "qiū tiān"},
+    {"ch": "变成", "en": "become", "pi": "biàn chéng"},
+    {"ch": "红色", "en": "red", "pi": "hóng sè"},
+    {"ch": "或", "en": "or", "pi": "huò"},
+    {"ch": "黄色", "en": "yellow", "pi": "huáng sè"}
+  ]
+}

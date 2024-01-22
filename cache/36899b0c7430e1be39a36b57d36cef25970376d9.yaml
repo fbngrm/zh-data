@@ -1,0 +1,32 @@
+{
+  "chinese": "我洗完澡了。",
+  "english": "I have finished showering.",
+  "pinyin": "wǒ xǐ wán zǎo le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "洗",
+      "en": "wash",
+      "pi": "xǐ"
+    },
+    {
+      "ch": "完",
+      "en": "finished",
+      "pi": "wán"
+    },
+    {
+      "ch": "澡",
+      "en": "shower",
+      "pi": "zǎo"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

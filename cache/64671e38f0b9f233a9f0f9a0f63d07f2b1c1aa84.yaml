@@ -1,0 +1,42 @@
+{
+  "chinese": "请让我看看您的登机证好吗?",
+  "english": "Please let me see your boarding pass, okay?",
+  "pinyin": "Qǐng ràng wǒ kàn kàn nín de dēngjī zhèng hǎo ma?",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "让",
+      "en": "let",
+      "pi": "ràng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "看看",
+      "en": "see",
+      "pi": "kàn kàn"
+    },
+    {
+      "ch": "您的",
+      "en": "your",
+      "pi": "nín de"
+    },
+    {
+      "ch": "登机证",
+      "en": "boarding pass",
+      "pi": "dēngjī zhèng"
+    },
+    {
+      "ch": "好吗",
+      "en": "okay",
+      "pi": "hǎo ma"
+    }
+  ]
+}

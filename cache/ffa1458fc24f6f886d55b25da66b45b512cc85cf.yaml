@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆丢了他的车钥匙。",
+  "english": "Tom lost his car keys.",
+  "pinyin": "tāng mǔ diū le tā de chē yào shi。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "丢",
+      "en": "lost",
+      "pi": "diū"
+    },
+    {
+      "ch": "了",
+      "en": "his",
+      "pi": "le"
+    },
+    {
+      "ch": "他的",
+      "en": "car",
+      "pi": "tā de"
+    },
+    {
+      "ch": "车",
+      "en": "keys",
+      "pi": "chē"
+    },
+    {
+      "ch": "钥匙",
+      "en": "key",
+      "pi": "yào shi"
+    }
+  ]
+}

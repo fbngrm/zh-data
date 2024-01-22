@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆看起来一点也不开心。",
+  "english": "Tom looks very unhappy.",
+  "pinyin": "Tāng mǔ kàn qǐlái yīdiǎn yě bù kāixīn.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "看起来",
+      "en": "looks",
+      "pi": "kàn qǐlái"
+    },
+    {
+      "ch": "一点",
+      "en": "very",
+      "pi": "yīdiǎn"
+    },
+    {
+      "ch": "也不",
+      "en": "un-",
+      "pi": "yě bù"
+    },
+    {
+      "ch": "开心",
+      "en": "happy",
+      "pi": "kāixīn"
+    }
+  ]
+}

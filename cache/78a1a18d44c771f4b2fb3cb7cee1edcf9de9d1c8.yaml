@@ -1,0 +1,42 @@
+{
+  "chinese": "昨天晚上乔跟你在一起吗？",
+  "english": "Were you with Joe last night?",
+  "pinyin": "zuó tiān wǎn shàng qiáo gēn nǐ zài yī qǐ ma?",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "晚上",
+      "en": "night",
+      "pi": "wǎn shàng"
+    },
+    {
+      "ch": "乔",
+      "en": "Joe",
+      "pi": "qiáo"
+    },
+    {
+      "ch": "跟",
+      "en": "with",
+      "pi": "gēn"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "在一起",
+      "en": "together",
+      "pi": "zài yī qǐ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

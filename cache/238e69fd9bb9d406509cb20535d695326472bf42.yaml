@@ -1,0 +1,27 @@
+{
+  "chinese": "我吃苹果了。",
+  "english": "I ate an apple.",
+  "pinyin": "wǒ chī píng guǒ le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "吃",
+      "en": "ate",
+      "pi": "chī"
+    },
+    {
+      "ch": "苹果",
+      "en": "an apple",
+      "pi": "píng guǒ"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "le"
+    }
+  ]
+}

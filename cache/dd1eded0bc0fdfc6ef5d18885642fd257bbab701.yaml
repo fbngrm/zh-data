@@ -1,0 +1,37 @@
+{
+  "chinese": "请给我看看您的护照。",
+  "english": "Please let me see your passport.",
+  "pinyin": "qǐng gěi wǒ kàn kàn nín de hùzhào.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "给",
+      "en": "let",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "看看",
+      "en": "see",
+      "pi": "kàn kàn"
+    },
+    {
+      "ch": "您的",
+      "en": "your",
+      "pi": "nín de"
+    },
+    {
+      "ch": "护照",
+      "en": "passport",
+      "pi": "hùzhào"
+    }
+  ]
+}

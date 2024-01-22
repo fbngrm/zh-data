@@ -1,0 +1,14 @@
+{
+  "chinese": "汤姆在后院砍伐了一棵树。",
+  "english": "Tom cut down a tree in the backyard.",
+  "pinyin": "Tāng mǔ zài hòuyuàn kǎnfále yī kē shù.",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "后院", "en": "backyard", "pi": "hòuyuàn"},
+    {"ch": "砍伐", "en": "cut down", "pi": "kǎnfá"},
+    {"ch": "了", "en": "a", "pi": "le"},
+    {"ch": "一棵", "en": "tree", "pi": "yī kē"},
+    {"ch": "树", "en": "tree", "pi": "shù"}
+  ]
+}

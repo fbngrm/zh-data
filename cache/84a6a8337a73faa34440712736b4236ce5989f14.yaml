@@ -1,0 +1,42 @@
+{
+  "chinese": "你在阁楼上做了什么？",
+  "english": "What did you do in the attic?",
+  "pinyin": "nǐ zài gé lóu shàng zuò le shén me?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "在",
+      "en": "at, in",
+      "pi": "zài"
+    },
+    {
+      "ch": "阁楼",
+      "en": "attic",
+      "pi": "gé lóu"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "做",
+      "en": "do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "了",
+      "en": "did",
+      "pi": "le"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shén me"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "chinese": "他不但会说普通话，而且会说上海话。",
+  "english": "He can not only speak Mandarin, but also speak Shanghainese.",
+  "pinyin": "Tā bùdàn huì shuō pǔtōnghuà, érqiě huì shuō shànghǎihuà.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "不但",
+      "en": "not only",
+      "pi": "bùdàn"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "普通话",
+      "en": "Mandarin",
+      "pi": "pǔtōnghuà"
+    },
+    {
+      "ch": "而且",
+      "en": "but also",
+      "pi": "érqiě"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "上海话",
+      "en": "Shanghainese",
+      "pi": "shànghǎihuà"
+    }
+  ]
+}

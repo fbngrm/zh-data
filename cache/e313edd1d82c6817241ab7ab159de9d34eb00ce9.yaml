@@ -1,0 +1,32 @@
+{
+  "chinese": "因为下雨，我们不能出去。",
+  "english": "Because it's raining, we can't go out.",
+  "pinyin": "Yīnwèi xià yǔ, wǒmen bùnéng chūqù.",
+  "words": [
+    {
+      "ch": "因为",
+      "en": "Because",
+      "pi": "yīnwèi"
+    },
+    {
+      "ch": "下雨",
+      "en": "raining",
+      "pi": "xià yǔ"
+    },
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "不能",
+      "en": "can't",
+      "pi": "bùnéng"
+    },
+    {
+      "ch": "出去",
+      "en": "go out",
+      "pi": "chūqù"
+    }
+  ]
+}

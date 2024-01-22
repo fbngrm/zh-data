@@ -1,0 +1,13 @@
+{ "chinese": "他既精于数学又精于文学。",
+  "english": "He is not only good at mathematics, but also good at literature.",
+  "pinyin": "Tā jì jīng yú shù xué yòu jīng yú wén xué.",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "既", "en": "is not only", "pi": "jì"},
+    {"ch": "精于", "en": "good at", "pi": "jīng yú"},
+    {"ch": "数学", "en": "mathematics", "pi": "shù xué"},
+    {"ch": "又", "en": "but also", "pi": "yòu"},
+    {"ch": "精于", "en": "good at", "pi": "jīng yú"},
+    {"ch": "文学", "en": "literature", "pi": "wén xué"}
+  ]
+}

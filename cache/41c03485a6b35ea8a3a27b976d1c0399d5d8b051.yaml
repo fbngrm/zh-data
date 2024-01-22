@@ -1,0 +1,132 @@
+{
+  "chinese": "在浏览器端，耗时很长的操作都应该异步执行，避免浏览器失去响应，最好的例子就是Ａｊａｘ操作。",
+  "english": "On the client side, time-consuming operations should be executed asynchronously to avoid the browser becoming unresponsive. The best example is Ajax operation.",
+  "pinyin": "zài liúlǎn qì duān ，hào shí hěn zhǎng de cāo zuò dōu yīng gāi yì bù xíng zhí ，biàn mian liúlǎn qì shī qù xiǎng yìng ，zuì hǎo de lì zǐ jiù shì A jí shù 。",
+  "words": [
+    {
+      "ch": "在",
+      "en": "On",
+      "pi": "zài"
+    },
+    {
+      "ch": "浏览器",
+      "en": "browser",
+      "pi": "liúlǎn qì"
+    },
+    {
+      "ch": "端",
+      "en": "side",
+      "pi": "duān"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": "，"
+    },
+    {
+      "ch": "耗时",
+      "en": "time-consuming",
+      "pi": "hào shí"
+    },
+    {
+      "ch": "很长",
+      "en": "long",
+      "pi": "hěn zhǎng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "操作",
+      "en": "operations",
+      "pi": "cāo zuò"
+    },
+    {
+      "ch": "都",
+      "en": "should",
+      "pi": "dōu"
+    },
+    {
+      "ch": "应该",
+      "en": "be",
+      "pi": "yīng gāi"
+    },
+    {
+      "ch": "异步",
+      "en": "asynchronously",
+      "pi": "yì bù"
+    },
+    {
+      "ch": "执行",
+      "en": "executed",
+      "pi": "xíng zhí"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": "，"
+    },
+    {
+      "ch": "避免",
+      "en": "to avoid",
+      "pi": "biàn mian"
+    },
+    {
+      "ch": "浏览器",
+      "en": "browser",
+      "pi": "liúlǎn qì"
+    },
+    {
+      "ch": "失去",
+      "en": "becoming",
+      "pi": "shī qù"
+    },
+    {
+      "ch": "响应",
+      "en": "unresponsive",
+      "pi": "xiǎng yìng"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": "，"
+    },
+    {
+      "ch": "最好",
+      "en": "best",
+      "pi": "zuì hǎo"
+    },
+    {
+      "ch": "的",
+      "en": "is",
+      "pi": "de"
+    },
+    {
+      "ch": "例子",
+      "en": "example",
+      "pi": "lì zǐ"
+    },
+    {
+      "ch": "就是",
+      "en": "is",
+      "pi": "jiù shì"
+    },
+    {
+      "ch": "Ａｊａｘ",
+      "en": "Ajax",
+      "pi": "A jí shù"
+    },
+    {
+      "ch": "操作",
+      "en": "operation",
+      "pi": "cāo zuò"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "。"
+    }
+  ]
+}

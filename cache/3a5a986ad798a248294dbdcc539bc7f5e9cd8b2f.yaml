@@ -1,0 +1,32 @@
+{
+  "chinese": "我刚才在喝牛奶。",
+  "english": "I was drinking milk just now.",
+  "pinyin": "wǒ gāngcái zài hē niúnǎi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "刚才",
+      "en": "just now",
+      "pi": "gāngcái"
+    },
+    {
+      "ch": "在",
+      "en": "at/in",
+      "pi": "zài"
+    },
+    {
+      "ch": "喝",
+      "en": "drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "牛奶",
+      "en": "milk",
+      "pi": "niúnǎi"
+    }
+  ]
+}

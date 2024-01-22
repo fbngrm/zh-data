@@ -1,0 +1,32 @@
+{
+  "chinese": "他进入了我的房间。",
+  "english": "He entered my room.",
+  "pinyin": "tā jìn rù le wǒ de fáng jiān.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "进入",
+      "en": "enter",
+      "pi": "jìn rù"
+    },
+    {
+      "ch": "了",
+      "en": "did",
+      "pi": "le"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "房间",
+      "en": "room",
+      "pi": "fáng jiān"
+    }
+  ]
+}

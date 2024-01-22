@@ -1,0 +1,37 @@
+{
+  "chinese": "迈克，这是你的书吗？",
+  "english": "Mike, is this your book?",
+  "pinyin": "mài kè, zhè shì nǐ de shū ma?",
+  "words": [
+    {
+      "ch": "迈克",
+      "en": "Mike",
+      "pi": "mài kè"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "你今天午餐吃什么？",
+  "english": "What are you eating for lunch today?",
+  "pinyin": "nǐ jīntiān wǔcān chī shénme?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "午餐",
+      "en": "lunch",
+      "pi": "wǔcān"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    }
+  ]
+}

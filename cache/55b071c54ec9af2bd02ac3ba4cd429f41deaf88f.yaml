@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆每周两次教我法语。",
+  "english": "Tom teaches me French twice a week.",
+  "pinyin": "Tāng mǔ měi zhōu liǎng cì jiào wǒ fǎ yǔ.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "每周",
+      "en": "every week",
+      "pi": "měi zhōu"
+    },
+    {
+      "ch": "两次",
+      "en": "twice",
+      "pi": "liǎng cì"
+    },
+    {
+      "ch": "教",
+      "en": "teach",
+      "pi": "jiào"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎ yǔ"
+    }
+  ]
+}

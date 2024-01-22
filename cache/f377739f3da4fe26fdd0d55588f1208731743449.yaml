@@ -1,0 +1,32 @@
+{
+  "chinese": "Ted等了她很久。",
+  "english": "Ted waited for her for a long time.",
+  "pinyin": "téng děngle tā hěnjiǔ。",
+  "words": [
+    {
+      "ch": "Ted",
+      "en": "Ted",
+      "pi": "téng"
+    },
+    {
+      "ch": "等",
+      "en": "wait",
+      "pi": "děng"
+    },
+    {
+      "ch": "了",
+      "en": "for",
+      "pi": "le"
+    },
+    {
+      "ch": "她",
+      "en": "her",
+      "pi": "tā"
+    },
+    {
+      "ch": "很久",
+      "en": "for a long time",
+      "pi": "hěnjiǔ"
+    }
+  ]
+}

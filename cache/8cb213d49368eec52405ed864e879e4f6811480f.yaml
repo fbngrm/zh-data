@@ -1,0 +1,32 @@
+{
+  "chinese": "现在每个人都在这里。",
+  "english": "Now everyone is here.",
+  "pinyin": "xiàn zài měi gè rén dōu zài zhè lǐ.",
+  "words": [
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "每个人",
+      "en": "everyone",
+      "pi": "měi gè rén"
+    },
+    {
+      "ch": "都",
+      "en": "is",
+      "pi": "dōu"
+    },
+    {
+      "ch": "在",
+      "en": "here",
+      "pi": "zài"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    }
+  ]
+}

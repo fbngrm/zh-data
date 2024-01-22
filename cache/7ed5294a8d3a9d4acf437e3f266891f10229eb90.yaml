@@ -1,0 +1,47 @@
+{
+  "chinese": "小猫的脖子上系着一条丝带。",
+  "english": "A ribbon is tied around the cat's neck.",
+  "pinyin": "xiǎo māo de bó zi shàng xì zhe yī tiáo sī dài。",
+  "words": [
+    {
+      "ch": "小猫",
+      "en": "cat",
+      "pi": "xiǎo māo"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "脖子",
+      "en": "neck",
+      "pi": "bó zi"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "系",
+      "en": "tie",
+      "pi": "xì"
+    },
+    {
+      "ch": "着",
+      "en": "is",
+      "pi": "zhe"
+    },
+    {
+      "ch": "一条",
+      "en": "a",
+      "pi": "yī tiáo"
+    },
+    {
+      "ch": "丝带",
+      "en": "ribbon",
+      "pi": "sī dài"
+    }
+  ]
+}

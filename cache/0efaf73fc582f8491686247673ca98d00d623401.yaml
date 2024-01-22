@@ -1,0 +1,42 @@
+{
+  "chinese": "他走路去学校还是骑车去学校？",
+  "english": "Does he go to school by walking or riding a bike?",
+  "pinyin": "Tā zǒulù qù xuéxiào háishì qí chē qù xuéxiào?",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "走路",
+      "en": "walk",
+      "pi": "zǒulù"
+    },
+    {
+      "ch": "去",
+      "en": "go to",
+      "pi": "qù"
+    },
+    {
+      "ch": "学校",
+      "en": "school",
+      "pi": "xuéxiào"
+    },
+    {
+      "ch": "还是",
+      "en": "or",
+      "pi": "háishì"
+    },
+    {
+      "ch": "骑车",
+      "en": "ride a bike",
+      "pi": "qí chē"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "?"
+    }
+  ]
+}

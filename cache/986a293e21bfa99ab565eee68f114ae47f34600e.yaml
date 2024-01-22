@@ -1,0 +1,32 @@
+{
+  "chinese": "我要去理发了。",
+  "english": "I want to go get a haircut.",
+  "pinyin": "wǒ yào qù lǐ fà le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "理发",
+      "en": "get a haircut",
+      "pi": "lǐ fà"
+    },
+    {
+      "ch": "了。",
+      "en": "now",
+      "pi": "le."
+    }
+  ]
+}

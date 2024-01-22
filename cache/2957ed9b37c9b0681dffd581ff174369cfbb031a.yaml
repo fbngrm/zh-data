@@ -1,0 +1,57 @@
+{
+  "chinese": "汤姆在客厅，躺在长沙发上睡觉。",
+  "english": "Tom is in the living room, lying on the sofa sleeping.",
+  "pinyin": "Tāngmǔ zài kètīng, tǎng zài chángshāfā shàng shuìjiào.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāngmǔ"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "客厅",
+      "en": "living room",
+      "pi": "kètīng"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": "，"
+    },
+    {
+      "ch": "躺",
+      "en": "lying",
+      "pi": "tǎng"
+    },
+    {
+      "ch": "在",
+      "en": "on",
+      "pi": "zài"
+    },
+    {
+      "ch": "长沙发",
+      "en": "sofa",
+      "pi": "chángshāfā"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "睡觉",
+      "en": "sleeping",
+      "pi": "shuìjiào"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "。"
+    }
+  ]
+}

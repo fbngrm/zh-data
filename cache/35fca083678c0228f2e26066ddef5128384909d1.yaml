@@ -1,0 +1,14 @@
+{
+  "chinese": "我想要预约２个人的位子。",
+  "english": "I would like to book seats for two people.",
+  "pinyin": "wǒ xiǎng yào yùyuē èr gè rén de wèizi.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "想要", "en": "would like to", "pi": "xiǎng yào" },
+    { "ch": "预约", "en": "book", "pi": "yùyuē" },
+    { "ch": "２个", "en": "two", "pi": "èr gè" },
+    { "ch": "人", "en": "people", "pi": "rén" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "位子", "en": "seats", "pi": "wèizi" }
+  ]
+}

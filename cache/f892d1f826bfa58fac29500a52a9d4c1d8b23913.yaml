@@ -1,0 +1,15 @@
+{
+  "chinese": "这条路对汽车来说太窄了。",
+  "english": "This road is too narrow for cars.",
+  "pinyin": "zhè tiáo lù duì qì chē lái shuō tài zhǎ le.",
+  "words": [
+    {"ch": "这", "en": "This", "pi": "zhè"},
+    {"ch": "条", "en": "road", "pi": "tiáo"},
+    {"ch": "路", "en": "is", "pi": "lù"},
+    {"ch": "对", "en": "too", "pi": "duì"},
+    {"ch": "汽车", "en": "narrow", "pi": "qì chē"},
+    {"ch": "来说", "en": "for", "pi": "lái shuō"},
+    {"ch": "太", "en": "cars", "pi": "tài"},
+    {"ch": "窄", "en": ".", "pi": "zhǎ"}
+  ]
+}

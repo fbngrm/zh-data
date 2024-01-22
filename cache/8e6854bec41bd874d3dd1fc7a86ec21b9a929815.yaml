@@ -1,0 +1,14 @@
+{
+  "chinese": "他八岁时离开了他的父母。",
+  "english": "He left his parents when he was eight years old.",
+  "pinyin": "tā bā suì shí lí kāi le tā de fù mǔ。",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "八岁", "en": "eight years old", "pi": "bā suì"},
+    {"ch": "时", "en": "when", "pi": "shí"},
+    {"ch": "离开", "en": "leave", "pi": "lí kāi"},
+    {"ch": "了", "en": "was", "pi": "le"},
+    {"ch": "他的", "en": "his", "pi": "tā de"},
+    {"ch": "父母", "en": "parents", "pi": "fù mǔ"}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "你可以用望远镜看星星。",
+  "english": "You can use a telescope to look at the stars.",
+  "pinyin": "Nǐ kěyǐ yòng wàngyuǎnjìng kàn xīngxīng.",
+  "words": [
+    {"ch": "你", "en": "You", "pi": "Nǐ"},
+    {"ch": "可以", "en": "can", "pi": "kě yǐ"},
+    {"ch": "用", "en": "use", "pi": "yòng"},
+    {"ch": "望远镜", "en": "telescope", "pi": "wàngyuǎnjìng"},
+    {"ch": "看", "en": "look", "pi": "kàn"},
+    {"ch": "星星", "en": "stars", "pi": "xīngxīng"}
+  ]
+}

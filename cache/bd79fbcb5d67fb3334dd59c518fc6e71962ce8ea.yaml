@@ -1,0 +1,14 @@
+{
+  "chinese": "他们的货品有着最高的品质。",
+  "english": "Their products have the highest quality.",
+  "pinyin": "tā men de huò pǐn yǒu zhe zuì gāo de pǐn zhì。",
+  "words": [
+    {"ch": "他们", "en": "They", "pi": "tā men"},
+    {"ch": "的", "en": "Possessive particle", "pi": "de"},
+    {"ch": "货品", "en": "Products", "pi": "huò pǐn"},
+    {"ch": "有着", "en": "Have", "pi": "yǒu zhe"},
+    {"ch": "最高", "en": "Highest", "pi": "zuì gāo"},
+    {"ch": "的", "en": "Particle", "pi": "de"},
+    {"ch": "品质", "en": "Quality", "pi": "pǐn zhì"}
+  ]
+}

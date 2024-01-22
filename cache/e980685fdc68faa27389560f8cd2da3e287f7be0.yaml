@@ -1,0 +1,37 @@
+{
+  "chinese": "她不能写字也不能看书。",
+  "english": "She cannot write or read.",
+  "pinyin": "tā bù néng xiě zì yě bù néng kàn shū.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "不能",
+      "en": "cannot",
+      "pi": "bù néng"
+    },
+    {
+      "ch": "写字",
+      "en": "write",
+      "pi": "xiě zì"
+    },
+    {
+      "ch": "也",
+      "en": "or",
+      "pi": "yě"
+    },
+    {
+      "ch": "不能",
+      "en": "cannot",
+      "pi": "bù néng"
+    },
+    {
+      "ch": "看书",
+      "en": "read",
+      "pi": "kàn shū"
+    }
+  ]
+}

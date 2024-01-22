@@ -1,0 +1,37 @@
+{
+   "chinese": "John和Jane是兩夫婦。",
+   "english": "John and Jane are a couple.",
+   "pinyin": "John hé Jane shì liǎng fūfù.",
+   "words": [
+      {
+         "ch": "John",
+         "en": "John",
+         "pi": "John"
+      },
+      {
+         "ch": "和",
+         "en": "and",
+         "pi": "hé"
+      },
+      {
+         "ch": "Jane",
+         "en": "Jane",
+         "pi": "Jane"
+      },
+      {
+         "ch": "是",
+         "en": "are",
+         "pi": "shì"
+      },
+      {
+         "ch": "兩",
+         "en": "a",
+         "pi": "liǎng"
+      },
+      {
+         "ch": "夫婦",
+         "en": "couple",
+         "pi": "fūfù"
+      }
+   ]
+}

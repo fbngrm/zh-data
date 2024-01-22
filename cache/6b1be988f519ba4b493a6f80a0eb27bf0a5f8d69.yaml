@@ -1,0 +1,37 @@
+{
+  "chinese": "您已经吃过药了吗？",
+  "english": "Have you taken your medicine?",
+  "pinyin": "nín yǐjīng chīguò yào le ma?",
+  "words": [
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐjīng"
+    },
+    {
+      "ch": "吃过",
+      "en": "taken",
+      "pi": "chīguò"
+    },
+    {
+      "ch": "药",
+      "en": "medicine",
+      "pi": "yào"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completion",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

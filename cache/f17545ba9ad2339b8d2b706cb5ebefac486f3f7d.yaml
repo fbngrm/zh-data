@@ -1,0 +1,13 @@
+{
+  "chinese": "她掴了他的脸。",
+  "english": "She slapped his face.",
+  "pinyin": "tā guó le tā de liǎn。",
+  "words": [
+    {"ch": "她", "en": "she", "pi": "tā"},
+    {"ch": "掴", "en": "slap", "pi": "guó"},
+    {"ch": "了", "en": "him", "pi": "le"},
+    {"ch": "他", "en": "face", "pi": "tā"},
+    {"ch": "的", "en": "his", "pi": "de"},
+    {"ch": "脸", "en": "face", "pi": "liǎn"}
+  ]
+}

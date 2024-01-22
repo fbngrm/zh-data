@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆的狗咬他玩。",
+  "english": "Tom's dog bit him while playing.",
+  "pinyin": "Tāng mǔ de gǒu yǎo tā wán.",
+  "words": [
+    {
+      "ch": "汤姆的",
+      "en": "Tom's",
+      "pi": "Tāng mǔ de"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "咬",
+      "en": "bite",
+      "pi": "yǎo"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    },
+    {
+      "ch": "玩",
+      "en": "play",
+      "pi": "wán"
+    }
+  ]
+}

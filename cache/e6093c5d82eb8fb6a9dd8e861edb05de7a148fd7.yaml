@@ -1,0 +1,13 @@
+{
+  "chinese": "我在写演讲的草稿。",
+  "english": "I am writing a draft of my speech.",
+  "pinyin": "wǒ zài xiě yǎn jiǎng de cǎo gǎo.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "在", "en": "am", "pi": "zài"},
+    {"ch": "写", "en": "writing", "pi": "xiě"},
+    {"ch": "演讲", "en": "speech", "pi": "yǎn jiǎng"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "草稿", "en": "draft", "pi": "cǎo gǎo"}
+  ]
+}

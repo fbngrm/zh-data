@@ -1,0 +1,16 @@
+{
+  "chinese": "除了我，其他人都被邀请去跳舞了。",
+  "english": "Everyone except me has been invited to dance.",
+  "pinyin": "Chúle wǒ, qítā rén dōu bèi yāoqǐng qù tiàowǔ le.",
+  "words": [
+    {"ch": "除了", "en": "except", "pi": "chúle"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "其他人", "en": "everyone else", "pi": "qítā rén"},
+    {"ch": "都", "en": "all", "pi": "dōu"},
+    {"ch": "被", "en": "to be", "pi": "bèi"},
+    {"ch": "邀请", "en": "invited", "pi": "yāoqǐng"},
+    {"ch": "去", "en": "to", "pi": "qù"},
+    {"ch": "跳舞", "en": "dance", "pi": "tiàowǔ"},
+    {"ch": "了", "en": "了(grammatical particle indicating a changed or completed action)", "pi": "le"}
+  ]
+}

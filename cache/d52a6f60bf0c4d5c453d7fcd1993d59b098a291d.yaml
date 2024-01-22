@@ -1,0 +1,32 @@
+{
+  "chinese": "他考试通过了吗？",
+  "english": "Did he pass the exam?",
+  "pinyin": "tā kǎoshì tōngguò le ma?",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "考试",
+      "en": "exam",
+      "pi": "kǎoshì"
+    },
+    {
+      "ch": "通过",
+      "en": "pass",
+      "pi": "tōngguò"
+    },
+    {
+      "ch": "了",
+      "en": "did (particle indicating completed action)",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

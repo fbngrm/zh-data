@@ -1,0 +1,32 @@
+{
+  "chinese": "這很適合我。",
+  "english": "This suits me well.",
+  "pinyin": "zhè hěn shìhé wǒ。",
+  "words": [
+    {
+      "ch": "這",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "適合",
+      "en": "suitable",
+      "pi": "shìhé"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "。"
+    }
+  ]
+}

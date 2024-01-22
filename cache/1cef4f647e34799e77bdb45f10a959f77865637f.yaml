@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆给玛丽半个苹果。",
+  "english": "Tom gave Mary half an apple.",
+  "pinyin": "Tāng mǔ gěi mǎ lì bàn gè píng guǒ.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "半个",
+      "en": "half",
+      "pi": "bàn gè"
+    },
+    {
+      "ch": "苹果",
+      "en": "apple",
+      "pi": "píng guǒ"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "动物一个接一个的死亡。",
+  "english": "Animals are dying one by one.",
+  "pinyin": "Dòngwù yīgè jiēyīgè de sǐwáng.",
+  "words": [
+    {
+      "ch": "动物",
+      "en": "animals",
+      "pi": "dòngwù"
+    },
+    {
+      "ch": "一个",
+      "en": "one",
+      "pi": "yīgè"
+    },
+    {
+      "ch": "接一个",
+      "en": "by one",
+      "pi": "jiēyīgè"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "死亡",
+      "en": "dying",
+      "pi": "sǐwáng"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "那个名字很普通吗？",
+  "english": "Is that name common?",
+  "pinyin": "nà gè míng zì hěn pǔ tōng ma?",
+  "words": [
+    {
+      "ch": "那个",
+      "en": "that",
+      "pi": "nà gè"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míng zì"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "普通",
+      "en": "common",
+      "pi": "pǔ tōng"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

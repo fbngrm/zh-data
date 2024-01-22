@@ -1,0 +1,32 @@
+{
+  "chinese": "我吃了三块蛋糕。",
+  "english": "I ate three pieces of cake.",
+  "pinyin": "wǒ chī le sān kuài dàngāo.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "了",
+      "en": "past tense particle",
+      "pi": "le"
+    },
+    {
+      "ch": "三",
+      "en": "three",
+      "pi": "sān"
+    },
+    {
+      "ch": "块蛋糕",
+      "en": "pieces of cake",
+      "pi": "kuài dàngāo"
+    }
+  ]
+}

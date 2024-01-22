@@ -1,0 +1,73 @@
+{
+  "sentences": [
+    {
+      "chinese": "我的哥哥在军队里.",
+      "english": "My older brother is in the army.",
+      "pinyin": "Wǒ de gēgē zài jūnduì lǐ.",
+      "words": [
+        {
+          "ch": "我的",
+          "en": "my",
+          "pi": "wǒ de"
+        },
+        {
+          "ch": "哥哥",
+          "en": "older brother",
+          "pi": "gēgē"
+        },
+        {
+          "ch": "在",
+          "en": "is in",
+          "pi": "zài"
+        },
+        {
+          "ch": "军队",
+          "en": "army",
+          "pi": "jūnduì"
+        },
+        {
+          "ch": "里",
+          "en": "inside",
+          "pi": "lǐ"
+        }
+      ]
+    },
+    {
+      "chinese": "他刚刚被提升为少校.",
+      "english": "He was just promoted to the rank of major.",
+      "pinyin": "Tā gānggāng bèi tíshēng wéi shǎoxiào.",
+      "words": [
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "刚刚",
+          "en": "just",
+          "pi": "gānggāng"
+        },
+        {
+          "ch": "被",
+          "en": "was",
+          "pi": "bèi"
+        },
+        {
+          "ch": "提升",
+          "en": "promoted",
+          "pi": "tíshēng"
+        },
+        {
+          "ch": "为",
+          "en": "to",
+          "pi": "wéi"
+        },
+        {
+          "ch": "少校",
+          "en": "major",
+          "pi": "shǎoxiào"
+        }
+      ]
+    }
+  ]
+}

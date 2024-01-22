@@ -1,0 +1,5243 @@
+[
+  {
+    "chinese": "我玩得很愉快。",
+    "pinyin": "wǒ wán dé hěn yúkuài.",
+    "english": "I had a great time.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "玩",
+        "Pinyin": "wán",
+        "English": "play, to play, to have fun, to trifle with, toy, sth used for amusement, curio or antique (Taiwan pr., variant of 玩"
+      },
+      {
+        "Chinese": "得",
+        "Pinyin": "dé",
+        "English": "very, to obtain, to get, to gain, to catch (a disease), proper, suitable, proud, contented, to allow, to permit, ready, finished, structural particle: used after a verb (or adjective as main verb), linking it to following phrase indicating effect, degree, possibility etc, to have to, must, ought to, to need to"
+      },
+      {
+        "Chinese": "很",
+        "Pinyin": "hěn",
+        "English": "much, (adverb of degree), quite, very, awfully"
+      },
+      {
+        "Chinese": "愉快",
+        "Pinyin": "yúkuài",
+        "English": "happy, cheerful, cheerily, delightful, pleasant, pleasantly, pleasing, happy, delighted"
+      }
+    ]
+  },
+  {
+    "chinese": "我的生日在星期日。",
+    "pinyin": "Wǒ de shēngrì zài xīngqírì。",
+    "english": "My birthday is on Sunday.",
+    "allWords": [
+      {
+        "Chinese": "我的",
+        "Pinyin": "wǒ de",
+        "English": "my"
+      },
+      {
+        "Chinese": "生日",
+        "Pinyin": "shēngrì",
+        "English": "birthday, birthday, CL:個|个"
+      },
+      {
+        "Chinese": "在",
+        "Pinyin": "zài",
+        "English": "is on, (located) at, (to be) in, to exist, in the middle of doing sth, (indicating an action in progress)"
+      },
+      {
+        "Chinese": "星期日",
+        "Pinyin": "xīngqírì",
+        "English": "Sunday, Sunday, CL:個|个"
+      }
+    ]
+  },
+  {
+    "chinese": "她是我所渴望的女人。",
+    "pinyin": "tā shì wǒ suǒ kě wàng de nǚ rén.",
+    "english": "She is the woman I desire.",
+    "allWords": [
+      {
+        "Chinese": "她",
+        "Pinyin": "tā",
+        "English": "She, she"
+      },
+      {
+        "Chinese": "是",
+        "Pinyin": "shì",
+        "English": "is, is, are, am, yes, to be, variant of 是"
+      },
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "所",
+        "Pinyin": "suǒ",
+        "English": "the, actually, place, classifier for houses, small buildings, institutions etc, that which, particle introducing a relative clause or passive, CL:個|个"
+      },
+      {
+        "Chinese": "渴望",
+        "Pinyin": "kě wàng",
+        "English": "desire, to thirst for, to long for"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": ", of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "女人",
+        "Pinyin": "nǚ rén",
+        "English": "woman, woman, wife"
+      }
+    ]
+  },
+  {
+    "chinese": "我只是去散散步。",
+    "pinyin": "wǒ zhǐ shì qù sàn sàn bù.",
+    "english": "I'm just going for a walk.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "只是",
+        "Pinyin": "zhǐ shì",
+        "English": "just, merely, simply, only, but"
+      },
+      {
+        "Chinese": "去",
+        "Pinyin": "qù",
+        "English": "go, to go, to go to (a place), (of a time etc) last, just passed, to send, to remove, to get rid of, to reduce, to be apart from in space or time, to die (euphemism), to play (a part), (when used either before or after a verb) to go in order to do sth, (after a verb of motion indicates movement away from the speaker), (used after certain verbs to indicate detachment or separation)"
+      },
+      {
+        "Chinese": "散散步",
+        "Pinyin": "sàn sàn bù",
+        "English": "for a walk, to have a stroll"
+      }
+    ]
+  },
+  {
+    "chinese": "我搆不到它。",
+    "pinyin": "wǒ gòu bú dào tā。",
+    "english": "I can't reach it.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "搆不到",
+        "Pinyin": "gòu bú dào",
+        "English": "can't reach"
+      },
+      {
+        "Chinese": "它",
+        "Pinyin": "tā",
+        "English": "it, it"
+      }
+    ]
+  },
+  {
+    "chinese": "我的右眼瞎了。",
+    "pinyin": "wǒ de yòu yǎn xiā le.",
+    "english": "My right eye is blind.",
+    "allWords": [
+      {
+        "Chinese": "我的",
+        "Pinyin": "wǒ de",
+        "English": "my"
+      },
+      {
+        "Chinese": "右眼",
+        "Pinyin": "yòu yǎn",
+        "English": "right eye"
+      },
+      {
+        "Chinese": "瞎了",
+        "Pinyin": "xiā le",
+        "English": "is blind"
+      }
+    ]
+  },
+  {
+    "chinese": "我找不到我的鞋子。",
+    "pinyin": "wǒ zhǎo bù dào wǒ de xié zi.",
+    "english": "I can't find my shoes.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "找不到",
+        "Pinyin": "zhǎo bù dào",
+        "English": "can't find, can't find"
+      },
+      {
+        "Chinese": "我的",
+        "Pinyin": "wǒ de",
+        "English": "my"
+      },
+      {
+        "Chinese": "鞋子",
+        "Pinyin": "xié zi",
+        "English": "shoes, shoe"
+      }
+    ]
+  },
+  {
+    "chinese": "他抱怨菜的味道不好。",
+    "pinyin": "Tā bàoyuàn cài de wèidào bù hǎo.",
+    "english": "He complained about the taste of the food.",
+    "allWords": [
+      {
+        "Chinese": "他",
+        "Pinyin": "tā",
+        "English": "He, he or him, (used for either sex when the sex is unknown or unimportant), (used before sb's name for emphasis), (used as a meaningless mock object), other, another"
+      },
+      {
+        "Chinese": "抱怨",
+        "Pinyin": "bàoyuàn",
+        "English": "complained, to complain, to grumble, to harbor a complaint, to feel dissatisfied"
+      },
+      {
+        "Chinese": "菜",
+        "Pinyin": "cài",
+        "English": "food, dish (type of food), vegetable, cuisine, CL:盤|盘"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "of, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "味道",
+        "Pinyin": "wèidào",
+        "English": "taste, flavor, smell, hint of"
+      },
+      {
+        "Chinese": "不好",
+        "Pinyin": "bù hǎo",
+        "English": "not good, no good"
+      }
+    ]
+  },
+  {
+    "chinese": "我明天要去看我叔叔。",
+    "pinyin": "wǒ míngtiān yào qù kàn wǒ shūshu.",
+    "english": "I will go see my uncle tomorrow.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "明天",
+        "Pinyin": "míngtiān",
+        "English": "tomorrow, tomorrow"
+      },
+      {
+        "Chinese": "要",
+        "Pinyin": "yào",
+        "English": "will, to demand, to request, to coerce, important, vital, to want, to ask for, will, going to (as future auxiliary), may, must, (used in a comparison) must be, probably, if"
+      },
+      {
+        "Chinese": "去",
+        "Pinyin": "qù",
+        "English": "go, to go, to go to (a place), (of a time etc) last, just passed, to send, to remove, to get rid of, to reduce, to be apart from in space or time, to die (euphemism), to play (a part), (when used either before or after a verb) to go in order to do sth, (after a verb of motion indicates movement away from the speaker), (used after certain verbs to indicate detachment or separation)"
+      },
+      {
+        "Chinese": "看",
+        "Pinyin": "kàn",
+        "English": "see, to look after, to take care of, to watch, to guard, to see, to look at, to read, to watch, to visit, to call on, to consider, to regard as, to look after, to treat (an illness), to depend on, to feel (that), (after verb) to give it a try, Watch out! (for a danger)"
+      },
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "my, I, me, my"
+      },
+      {
+        "Chinese": "叔叔",
+        "Pinyin": "shūshu",
+        "English": "uncle, father's younger brother, uncle, Taiwan pr."
+      }
+    ]
+  },
+  {
+    "chinese": "我拍手。",
+    "pinyin": "wǒ pāi shǒu.",
+    "english": "I clap my hands.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "拍手",
+        "Pinyin": "pāi shǒu",
+        "English": "clap hands, to clap one's hands"
+      }
+    ]
+  },
+  {
+    "chinese": "时装不是我的天分。",
+    "pinyin": "shí zhuāng bú shì wǒ de tiān fēn。",
+    "english": "Fashion is not my talent.",
+    "allWords": [
+      {
+        "Chinese": "时装",
+        "Pinyin": "shí zhuāng",
+        "English": "Fashion, fashion, fashionable clothes"
+      },
+      {
+        "Chinese": "不是",
+        "Pinyin": "bú shì",
+        "English": "is not, fault, blame, no, is not, not"
+      },
+      {
+        "Chinese": "我的",
+        "Pinyin": "wǒ de",
+        "English": "my"
+      },
+      {
+        "Chinese": "天分",
+        "Pinyin": "tiān fēn",
+        "English": "talent, natural gift, talent"
+      }
+    ]
+  },
+  {
+    "chinese": "我喜欢去学校",
+    "pinyin": "wǒ xǐhuān qù xuéxiào",
+    "english": "I like to go to school",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "喜欢",
+        "Pinyin": "xǐhuān",
+        "English": "like, to like, to be fond of"
+      },
+      {
+        "Chinese": "去",
+        "Pinyin": "qù",
+        "English": "to go, to go, to go to (a place), (of a time etc) last, just passed, to send, to remove, to get rid of, to reduce, to be apart from in space or time, to die (euphemism), to play (a part), (when used either before or after a verb) to go in order to do sth, (after a verb of motion indicates movement away from the speaker), (used after certain verbs to indicate detachment or separation)"
+      },
+      {
+        "Chinese": "学校",
+        "Pinyin": "xuéxiào",
+        "English": "school, school, CL:所"
+      }
+    ]
+  },
+  {
+    "chinese": "今天是个好日子。",
+    "pinyin": "Jīntiān shì gè hǎo rìzi.",
+    "english": "Today is a good day.",
+    "allWords": [
+      {
+        "Chinese": "今天",
+        "Pinyin": "Jīntiān",
+        "English": "Today, today, at the present, now"
+      },
+      {
+        "Chinese": "是",
+        "Pinyin": "shì",
+        "English": "is, is, are, am, yes, to be, variant of 是"
+      },
+      {
+        "Chinese": "个",
+        "Pinyin": "gè",
+        "English": "a, used in 自個兒|自个儿, individual, this, that, size, classifier for people or objects in general, variant of 個|个"
+      },
+      {
+        "Chinese": "好",
+        "Pinyin": "hǎo",
+        "English": "good, good, well, proper, good to, easy to, very, so, (suffix indicating completion or readiness), (of two people) close, on intimate terms, (after a personal pronoun) hello, to be fond of, to have a tendency to, to be prone to"
+      },
+      {
+        "Chinese": "日子",
+        "Pinyin": "rìzi",
+        "English": "day, day, a (calendar) date, days of one's life"
+      }
+    ]
+  },
+  {
+    "chinese": "我知道很多的语言。",
+    "pinyin": "wǒ zhīdào hěn duō de yǔyán.",
+    "english": "I know many languages.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "知道",
+        "Pinyin": "zhīdào",
+        "English": "know, to know, to become aware of, also pr."
+      },
+      {
+        "Chinese": "很多",
+        "Pinyin": "hěnduō",
+        "English": "many"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "of, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "语言",
+        "Pinyin": "yǔyán",
+        "English": "languages, language, CL:門|门"
+      }
+    ]
+  },
+  {
+    "chinese": "他喜欢比较浅的绿色。",
+    "pinyin": "tā xǐhuān bǐjiào qiǎn de lǜsè.",
+    "english": "He likes a relatively light shade of green.",
+    "allWords": [
+      {
+        "Chinese": "他",
+        "Pinyin": "tā",
+        "English": "He, he or him, (used for either sex when the sex is unknown or unimportant), (used before sb's name for emphasis), (used as a meaningless mock object), other, another"
+      },
+      {
+        "Chinese": "喜欢",
+        "Pinyin": "xǐhuān",
+        "English": "likes, to like, to be fond of"
+      },
+      {
+        "Chinese": "比较",
+        "Pinyin": "bǐjiào",
+        "English": "relatively, to compare, to contrast, comparatively, relatively, quite, comparison"
+      },
+      {
+        "Chinese": "浅",
+        "Pinyin": "qiǎn",
+        "English": "light, sound of moving water, shallow, light (color)"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "of, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "绿色",
+        "Pinyin": "lǜsè",
+        "English": "green, green"
+      }
+    ]
+  },
+  {
+    "chinese": "冰球的球不是球形的。",
+    "pinyin": "bīng qiú de qiú bú shì qiú xíng de.",
+    "english": "The ball of ice hockey is not spherical.",
+    "allWords": [
+      {
+        "Chinese": "冰球",
+        "Pinyin": "bīng qiú",
+        "English": "ice hockey, ice hockey, puck"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "of, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "球",
+        "Pinyin": "qiú",
+        "English": "ball, ball, sphere, globe, CL:個|个"
+      },
+      {
+        "Chinese": "不",
+        "Pinyin": "bù",
+        "English": "not, (negative prefix), not, no"
+      },
+      {
+        "Chinese": "是",
+        "Pinyin": "shì",
+        "English": "is, is, are, am, yes, to be, variant of 是"
+      },
+      {
+        "Chinese": "球形",
+        "Pinyin": "qiú xíng",
+        "English": "spherical, spherical, ball-shaped"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "of, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      }
+    ]
+  },
+  {
+    "chinese": "韩国人不喜欢吃香菜。",
+    "pinyin": "Hánguó rén bù xǐhuān chī xiāngcài.",
+    "english": "Koreans don't like to eat cilantro.",
+    "allWords": [
+      {
+        "Chinese": "韩国人",
+        "Pinyin": "Hánguó rén",
+        "English": "Koreans, Korean (person)"
+      },
+      {
+        "Chinese": "不",
+        "Pinyin": "bù",
+        "English": "don't, (negative prefix), not, no"
+      },
+      {
+        "Chinese": "喜欢",
+        "Pinyin": "xǐhuān",
+        "English": "like, to like, to be fond of"
+      },
+      {
+        "Chinese": "吃",
+        "Pinyin": "chī",
+        "English": "to eat, to eat, to consume, to eat at (a cafeteria etc), to eradicate, to destroy, to absorb, to suffer, to stammer (Taiwan pr. for this sense is, variant of 吃"
+      },
+      {
+        "Chinese": "香菜",
+        "Pinyin": "xiāngcài",
+        "English": "cilantro, coriander, cilantro, Coriandrum sativum"
+      }
+    ]
+  },
+  {
+    "chinese": "一公斤的番茄酱等于两公斤的西红柿。",
+    "pinyin": "yī gōngjīn de fānqié jiàng děngyú liǎng gōngjīn de xīhóngshì.",
+    "english": "One kilogram of tomato sauce is equal to two kilograms of tomatoes.",
+    "allWords": [
+      {
+        "Chinese": "一",
+        "Pinyin": "yī",
+        "English": "one, one, 1, single, a (article), as soon as, entire, whole, all, throughout, \"one\" radical in Chinese characters (Kangxi radical 1), also pr."
+      },
+      {
+        "Chinese": "公斤",
+        "Pinyin": "gōngjīn",
+        "English": "kilogram, kilogram (kg)"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "of, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "番茄酱",
+        "Pinyin": "fānqié jiàng",
+        "English": "tomato sauce, ketchup, tomato sauce"
+      },
+      {
+        "Chinese": "等于",
+        "Pinyin": "děngyú",
+        "English": "is equal to, to equal, to be tantamount to"
+      },
+      {
+        "Chinese": "两",
+        "Pinyin": "liǎng",
+        "English": "two, two, both, some, a few, tael, unit of weight equal to 50 grams (modern) or 1⁄16 of a catty 斤"
+      },
+      {
+        "Chinese": "公斤",
+        "Pinyin": "gōngjīn",
+        "English": "kilograms, kilogram (kg)"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "of, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "西红柿",
+        "Pinyin": "xīhóngshì",
+        "English": "tomatoes, tomato, CL:隻|只"
+      }
+    ]
+  },
+  {
+    "chinese": "大学生活就是你尽量享受自己的时候！",
+    "pinyin": "Dàxué shēnghuó jiùshì nǐ jǐnliàng xiǎngshòu zìjǐ de shíhòu!",
+    "english": "University life is about enjoying yourself as much as possible!",
+    "allWords": [
+      {
+        "Chinese": "大学",
+        "Pinyin": "Dàxué",
+        "English": "University, the Great Learning, one of the Four Books 四書|四书, university, college, CL:所"
+      },
+      {
+        "Chinese": "生活",
+        "Pinyin": "shēnghuó",
+        "English": "life, life, activity, to live, livelihood"
+      },
+      {
+        "Chinese": "就是",
+        "Pinyin": "jiùshì",
+        "English": "is about, (emphasizes that sth is precisely or exactly as stated), precisely, exactly, even, if, just like, in the same way as"
+      },
+      {
+        "Chinese": "你",
+        "Pinyin": "nǐ",
+        "English": "you, you (informal, as opposed to courteous 您"
+      },
+      {
+        "Chinese": "尽量",
+        "Pinyin": "jǐnliàng",
+        "English": "as much as possible, as much as possible, to the greatest extent, as much as possible, to the greatest extent"
+      },
+      {
+        "Chinese": "享受",
+        "Pinyin": "xiǎngshòu",
+        "English": "enjoy, to enjoy, to live it up, pleasure, CL:種|种"
+      },
+      {
+        "Chinese": "自己",
+        "Pinyin": "zìjǐ",
+        "English": "yourself, oneself, one's own"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "of, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "时候",
+        "Pinyin": "shíhòu",
+        "English": "time, time, length of time, moment, period"
+      }
+    ]
+  },
+  {
+    "chinese": "我放开了绳子。",
+    "pinyin": "wǒ fàng kāi le shéng zi.",
+    "english": "I let go of the rope.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "放开",
+        "Pinyin": "fàng kāi",
+        "English": "let go, to let go, to release"
+      },
+      {
+        "Chinese": "了",
+        "Pinyin": "le",
+        "English": "of, (completed action marker), (modal particle indicating change of state, situation now), (modal particle intensifying preceding clause), to finish, to achieve, variant of 瞭|了, (of eyes) bright, clear-sighted, to understand clearly, unofficial variant of 瞭"
+      },
+      {
+        "Chinese": "绳子",
+        "Pinyin": "shéng zi",
+        "English": "rope, cord, string, rope, CL:條|条"
+      }
+    ]
+  },
+  {
+    "chinese": "我完全没有读书。",
+    "pinyin": "wǒ wánquán méiyǒu dúshū.",
+    "english": "I haven't read at all.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "完全",
+        "Pinyin": "wánquán",
+        "English": "completely, complete, whole, totally, entirely"
+      },
+      {
+        "Chinese": "没有",
+        "Pinyin": "méiyǒu",
+        "English": "haven't, haven't, hasn't, doesn't exist, to not have, to not be"
+      },
+      {
+        "Chinese": "读书",
+        "Pinyin": "dúshū",
+        "English": "read, to read a book, to study, to attend school"
+      }
+    ]
+  },
+  {
+    "chinese": "我有一点失望。",
+    "pinyin": "wǒ yǒu yīdiǎn shīwàng.",
+    "english": "I am a little disappointed.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "有",
+        "Pinyin": "yǒu",
+        "English": "have, to have, there is, there are, to exist, to be"
+      },
+      {
+        "Chinese": "一点",
+        "Pinyin": "yīdiǎn",
+        "English": "a little, a bit, a little, one dot, one point"
+      },
+      {
+        "Chinese": "失望",
+        "Pinyin": "shīwàng",
+        "English": "disappointed, disappointed, to lose hope, to despair"
+      }
+    ]
+  },
+  {
+    "chinese": "我很高兴。",
+    "pinyin": "wǒ hěn gāoxìng.",
+    "english": "I am very happy.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "很",
+        "Pinyin": "hěn",
+        "English": "very, (adverb of degree), quite, very, awfully"
+      },
+      {
+        "Chinese": "高兴",
+        "Pinyin": "gāoxìng",
+        "English": "happy, happy, glad, willing (to do sth), in a cheerful mood"
+      }
+    ]
+  },
+  {
+    "chinese": "那女子反对我们的计划。",
+    "pinyin": "nà nǚzǐ fǎnduì wǒmen de jìhuà.",
+    "english": "That woman opposes our plan.",
+    "allWords": [
+      {
+        "Chinese": "那",
+        "Pinyin": "nà",
+        "English": "that, surname Na, surname Nuo, variant of 哪, that, those, then (in that case), commonly pr., (archaic) many, beautiful, how, old variant of 挪"
+      },
+      {
+        "Chinese": "女子",
+        "Pinyin": "nǚzǐ",
+        "English": "woman, woman, female"
+      },
+      {
+        "Chinese": "反对",
+        "Pinyin": "fǎnduì",
+        "English": "oppose, to fight against, to oppose, to be opposed to, opposition"
+      },
+      {
+        "Chinese": "我们",
+        "Pinyin": "wǒmen",
+        "English": "our, we, us, ourselves, our"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "of, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "计划",
+        "Pinyin": "jìhuà",
+        "English": "plan, plan, project, program, to plan, to map out, CL:個|个"
+      }
+    ]
+  },
+  {
+    "chinese": "那个女人不赞同我们的原计划。",
+    "pinyin": "nà gè nǚ rén bù zàn tóng wǒ men de yuán jì huà。",
+    "english": "That woman disagrees with our original plan.",
+    "allWords": [
+      {
+        "Chinese": "那个",
+        "Pinyin": "nà gè",
+        "English": "that, that one, that thing, that (as opposed to this), (used before a verb or adjective for emphasis), (used to humorously or indirectly refer to sth embarrassing, funny etc, or when one can't think of the right word), (used in speech as a filler, similar to \"umm\", \"you know\" etc), (euph.) menstruation, sex, also pr."
+      },
+      {
+        "Chinese": "女人",
+        "Pinyin": "nǚ rén",
+        "English": "woman, woman, wife"
+      },
+      {
+        "Chinese": "不",
+        "Pinyin": "bù",
+        "English": "not, (negative prefix), not, no"
+      },
+      {
+        "Chinese": "赞同",
+        "Pinyin": "zàn tóng",
+        "English": "disagree, to approve of, to endorse, (vote) in favor, to approve of, to endorse, (vote) in favor"
+      },
+      {
+        "Chinese": "我们",
+        "Pinyin": "wǒ men",
+        "English": "our, we, us, ourselves, our"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "with, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "原",
+        "Pinyin": "yuán",
+        "English": "original, surname Yuan, (Japanese surname) Hara, former, original, primary, raw, level, cause, source"
+      },
+      {
+        "Chinese": "计划",
+        "Pinyin": "jì huà",
+        "English": "plan, plan, project, program, to plan, to map out, CL:個|个"
+      }
+    ]
+  },
+  {
+    "chinese": "你喝咖啡吗?",
+    "pinyin": "nǐ hē kāfēi ma?",
+    "english": "Do you drink coffee?",
+    "allWords": [
+      {
+        "Chinese": "你",
+        "Pinyin": "nǐ",
+        "English": "you, you (informal, as opposed to courteous 您"
+      },
+      {
+        "Chinese": "喝",
+        "Pinyin": "hē",
+        "English": "drink, to drink, variant of 嗬, to shout"
+      },
+      {
+        "Chinese": "咖啡",
+        "Pinyin": "kāfēi",
+        "English": "coffee, coffee (loanword), CL:杯"
+      },
+      {
+        "Chinese": "吗",
+        "Pinyin": "ma",
+        "English": "question particle, see 嗎啡|吗啡, morphine, (question particle for \"yes-no\" questions)"
+      }
+    ]
+  },
+  {
+    "chinese": "你最喜欢哪一个绕口令？",
+    "pinyin": "nǐ zuì xǐhuān nǎ yīgè rǎokǒu lìng?",
+    "english": "Which tongue twister do you like the most?",
+    "allWords": [
+      {
+        "Chinese": "你",
+        "Pinyin": "nǐ",
+        "English": "you, you (informal, as opposed to courteous 您"
+      },
+      {
+        "Chinese": "最",
+        "Pinyin": "zuì",
+        "English": "most, variant of 最, old variant of 最, most, the most, -est (superlative suffix)"
+      },
+      {
+        "Chinese": "喜欢",
+        "Pinyin": "xǐhuān",
+        "English": "like, to like, to be fond of"
+      },
+      {
+        "Chinese": "哪",
+        "Pinyin": "nǎ",
+        "English": "which, how, which, (emphatic sentence-final particle, used instead of 啊, used in 哪吒, which? (interrogative, followed by classifier or numeral-classifier)"
+      },
+      {
+        "Chinese": "一个",
+        "Pinyin": "yīgè",
+        "English": "one"
+      },
+      {
+        "Chinese": "绕口令",
+        "Pinyin": "rǎokǒu lìng",
+        "English": "tongue twister, tongue-twister"
+      }
+    ]
+  },
+  {
+    "chinese": "过奖了。",
+    "pinyin": "guòjiǎngle.",
+    "english": "You flatter me.",
+    "allWords": [
+      {
+        "Chinese": "过奖",
+        "Pinyin": "guòjiǎng",
+        "English": "You flatter, to overpraise, to flatter"
+      },
+      {
+        "Chinese": "了",
+        "Pinyin": "le",
+        "English": "me, (completed action marker), (modal particle indicating change of state, situation now), (modal particle intensifying preceding clause), to finish, to achieve, variant of 瞭|了, (of eyes) bright, clear-sighted, to understand clearly, unofficial variant of 瞭"
+      }
+    ]
+  },
+  {
+    "chinese": "他胖乎乎。",
+    "pinyin": "tā pàng hū hū.",
+    "english": "He is chubby.",
+    "allWords": [
+      {
+        "Chinese": "他",
+        "Pinyin": "tā",
+        "English": "He, he or him, (used for either sex when the sex is unknown or unimportant), (used before sb's name for emphasis), (used as a meaningless mock object), other, another"
+      },
+      {
+        "Chinese": "胖乎乎",
+        "Pinyin": "pàng hū hū",
+        "English": "chubby, chubby"
+      }
+    ]
+  },
+  {
+    "chinese": "我陪她散步。",
+    "pinyin": "wǒ péi tā sàn bù.",
+    "english": "I accompany her for a walk.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "陪",
+        "Pinyin": "péi",
+        "English": "accompany, to accompany, to keep sb company, to assist, old variant of 賠|赔"
+      },
+      {
+        "Chinese": "她",
+        "Pinyin": "tā",
+        "English": "her, she"
+      },
+      {
+        "Chinese": "散步",
+        "Pinyin": "sàn bù",
+        "English": "for a walk, to take a walk, to go for a walk"
+      }
+    ]
+  },
+  {
+    "chinese": "我们在我的叔叔家过夜。",
+    "pinyin": "Wǒmen zài wǒ de shūshu jiā guòyè.",
+    "english": "We are staying overnight at my uncle's house.",
+    "allWords": [
+      {
+        "Chinese": "我们",
+        "Pinyin": "wǒmen",
+        "English": "we, we, us, ourselves, our"
+      },
+      {
+        "Chinese": "在",
+        "Pinyin": "zài",
+        "English": "at, (located) at, (to be) in, to exist, in the middle of doing sth, (indicating an action in progress)"
+      },
+      {
+        "Chinese": "我的",
+        "Pinyin": "wǒ de",
+        "English": "my"
+      },
+      {
+        "Chinese": "叔叔",
+        "Pinyin": "shūshu",
+        "English": "uncle, father's younger brother, uncle, Taiwan pr."
+      },
+      {
+        "Chinese": "家",
+        "Pinyin": "jiā",
+        "English": "house, see 傢伙|家伙, home, family, (polite) my (sister, uncle etc), classifier for families or businesses, refers to the philosophical schools of pre-Han China, noun suffix for a specialist in some activity, such as a musician or revolutionary, corresponding to English -ist, -er, -ary or -ian, CL:個|个"
+      },
+      {
+        "Chinese": "过夜",
+        "Pinyin": "guòyè",
+        "English": "stay overnight, to spend the night, overnight"
+      }
+    ]
+  },
+  {
+    "chinese": "在上课时不要与他人讲话。",
+    "pinyin": "Zài shàngkè shí búyào yǔ tārén jiǎnghuà.",
+    "english": "Do not talk to others during class.",
+    "allWords": [
+      {
+        "Chinese": "在",
+        "Pinyin": "zài",
+        "English": "at, (located) at, (to be) in, to exist, in the middle of doing sth, (indicating an action in progress)"
+      },
+      {
+        "Chinese": "上课",
+        "Pinyin": "shàngkè",
+        "English": "during class, to go to class, to attend class, to go to teach a class"
+      },
+      {
+        "Chinese": "时",
+        "Pinyin": "shí",
+        "English": "time, old variant of 時|时, surname Shi, o'clock, time, when, hour, season, period"
+      },
+      {
+        "Chinese": "不要",
+        "Pinyin": "búyào",
+        "English": "do not, don't!, must not"
+      },
+      {
+        "Chinese": "与",
+        "Pinyin": "yǔ",
+        "English": "with, variant of 歟|欤, and, to give, together with, to take part in"
+      },
+      {
+        "Chinese": "他人",
+        "Pinyin": "tārén",
+        "English": "others, another, sb else, other people"
+      },
+      {
+        "Chinese": "讲话",
+        "Pinyin": "jiǎnghuà",
+        "English": "talk, a speech, to speak, to talk, to address, CL:個|个"
+      }
+    ]
+  },
+  {
+    "chinese": "我六英尺高。",
+    "pinyin": "wǒ liù yīng chǐ gāo.",
+    "english": "I am six feet tall.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "六",
+        "Pinyin": "liù",
+        "English": "six, six, 6"
+      },
+      {
+        "Chinese": "英尺",
+        "Pinyin": "yīng chǐ",
+        "English": "feet, foot (unit of length equal to 0.3048 m)"
+      },
+      {
+        "Chinese": "高",
+        "Pinyin": "gāo",
+        "English": "tall, surname Gao, high, tall, above average, loud, your (honorific)"
+      }
+    ]
+  },
+  {
+    "chinese": "我游泳可以游得很好。",
+    "pinyin": "wǒ yóuyǒng kěyǐ yóu dé hěn hǎo.",
+    "english": "I can swim very well.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "游泳",
+        "Pinyin": "yóuyǒng",
+        "English": "swim, swimming, to swim"
+      },
+      {
+        "Chinese": "可以",
+        "Pinyin": "kěyǐ",
+        "English": "can, can, may, possible, able to, not bad, pretty good"
+      },
+      {
+        "Chinese": "游",
+        "Pinyin": "yóu",
+        "English": "swim, surname You, to swim, variant of 遊|游, to walk, to tour, to roam, to travel"
+      },
+      {
+        "Chinese": "得",
+        "Pinyin": "dé",
+        "English": "very, to obtain, to get, to gain, to catch (a disease), proper, suitable, proud, contented, to allow, to permit, ready, finished, structural particle: used after a verb (or adjective as main verb), linking it to following phrase indicating effect, degree, possibility etc, to have to, must, ought to, to need to"
+      },
+      {
+        "Chinese": "很",
+        "Pinyin": "hěn",
+        "English": "well, (adverb of degree), quite, very, awfully"
+      },
+      {
+        "Chinese": "好",
+        "Pinyin": "hǎo",
+        "English": "well, good, well, proper, good to, easy to, very, so, (suffix indicating completion or readiness), (of two people) close, on intimate terms, (after a personal pronoun) hello, to be fond of, to have a tendency to, to be prone to"
+      }
+    ]
+  },
+  {
+    "chinese": "我同意她。",
+    "pinyin": "wǒ tóng yì tā。",
+    "english": "I agree with her.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "同意",
+        "Pinyin": "tóng yì",
+        "English": "agree, to agree, to consent, to approve"
+      },
+      {
+        "Chinese": "她",
+        "Pinyin": "tā",
+        "English": "her, she"
+      }
+    ]
+  },
+  {
+    "chinese": "我希望再次见到您。",
+    "pinyin": "wǒ xīwàng zàicì jiàn dào nín.",
+    "english": "I hope to see you again.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "希望",
+        "Pinyin": "xīwàng",
+        "English": "hope, to wish for, to desire, hope, CL:個|个"
+      },
+      {
+        "Chinese": "再次",
+        "Pinyin": "zàicì",
+        "English": "again, one more time, again, one more, once again"
+      },
+      {
+        "Chinese": "见到",
+        "Pinyin": "jiàn dào",
+        "English": "see, to see"
+      },
+      {
+        "Chinese": "您",
+        "Pinyin": "nín",
+        "English": "you, you (courteous, as opposed to informal 你"
+      }
+    ]
+  },
+  {
+    "chinese": "我找不到我的票。",
+    "pinyin": "wǒ zhǎo bù dào wǒ de piào。",
+    "english": "I can't find my ticket.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "找不到",
+        "Pinyin": "zhǎo bù dào",
+        "English": "can't find, can't find"
+      },
+      {
+        "Chinese": "我的",
+        "Pinyin": "wǒ de",
+        "English": "my"
+      },
+      {
+        "Chinese": "票",
+        "Pinyin": "piào",
+        "English": "ticket, ticket, ballot, banknote, CL:張|张"
+      }
+    ]
+  },
+  {
+    "chinese": "我分不清他和他的弟弟。",
+    "pinyin": "wǒ fēn bù qīng tā hé tā de dì dì。",
+    "english": "I can't tell him apart from his younger brother.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "分不清",
+        "Pinyin": "fēn bù qīng",
+        "English": "can't tell apart"
+      },
+      {
+        "Chinese": "他",
+        "Pinyin": "tā",
+        "English": "him, he or him, (used for either sex when the sex is unknown or unimportant), (used before sb's name for emphasis), (used as a meaningless mock object), other, another"
+      },
+      {
+        "Chinese": "和",
+        "Pinyin": "hé",
+        "English": "and, old variant of 和, surname He, Japanese (food, clothes etc), and, together with, with, sum, union, peace, harmony, Taiwan pr., to compose a poem in reply (to sb's poem) using the same rhyme sequence, to join in the singing, to chime in with others, to complete a set in mahjong or playing cards, to combine a powdery substance (flour, plaster etc) with water, Taiwan pr., to mix (ingredients) together, to blend, classifier for rinses of clothes, classifier for boilings of medicinal herbs, old variant of 和"
+      },
+      {
+        "Chinese": "他的",
+        "Pinyin": "tā de",
+        "English": "his"
+      },
+      {
+        "Chinese": "弟弟",
+        "Pinyin": "dì dì",
+        "English": "younger brother, younger brother, CL:個|个"
+      }
+    ]
+  },
+  {
+    "chinese": "我完全同意。",
+    "pinyin": "wǒ wánquán tóngyì.",
+    "english": "I completely agree.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "完全",
+        "Pinyin": "wánquán",
+        "English": "completely, complete, whole, totally, entirely"
+      },
+      {
+        "Chinese": "同意",
+        "Pinyin": "tóngyì",
+        "English": "agree, to agree, to consent, to approve"
+      }
+    ]
+  },
+  {
+    "chinese": "我为了停车计时收费器需要它。",
+    "pinyin": "wǒ wèi le tíng chē jì shí shōu fèi qì xū yào tā。",
+    "english": "I need it for the parking meter.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "为了",
+        "Pinyin": "wèi le",
+        "English": "for, in order to, for the purpose of, so as to"
+      },
+      {
+        "Chinese": "停车",
+        "Pinyin": "tíng chē",
+        "English": "parking, to pull up (stop one's vehicle), to park, (of a machine) to stop working, to stall"
+      },
+      {
+        "Chinese": "计时",
+        "Pinyin": "jì shí",
+        "English": "meter, to measure time, to time, to reckon by time"
+      },
+      {
+        "Chinese": "收费器",
+        "Pinyin": "shōu fèi qì",
+        "English": "charger"
+      },
+      {
+        "Chinese": "需要",
+        "Pinyin": "xū yào",
+        "English": "need, to need, to want, to demand, to require, requirement, need"
+      },
+      {
+        "Chinese": "它",
+        "Pinyin": "tā",
+        "English": "it, it"
+      }
+    ]
+  },
+  {
+    "chinese": "你从桌下爬出来吧！",
+    "pinyin": "Nǐ cóng zhuō xià pá chū lái ba!",
+    "english": "Crawl out from under the table!",
+    "allWords": [
+      {
+        "Chinese": "你",
+        "Pinyin": "Nǐ",
+        "English": "You, you (informal, as opposed to courteous 您"
+      },
+      {
+        "Chinese": "从",
+        "Pinyin": "Cóng",
+        "English": "From, variant of 從|从, surname Cong, from, through, via, to follow, to obey, to engage in (an activity), never (in negative sentence), (Taiwan pr."
+      },
+      {
+        "Chinese": "桌下",
+        "Pinyin": "Zhuō xià",
+        "English": "Under the table"
+      },
+      {
+        "Chinese": "爬出来",
+        "Pinyin": "Pá chū lái",
+        "English": "Crawl out"
+      },
+      {
+        "Chinese": "吧",
+        "Pinyin": "Ba",
+        "English": "Let's, bar (loanword) (serving drinks, or providing Internet access etc), to puff (on a pipe etc), (onom.) bang, abbr. for 貼吧|贴吧, (modal particle indicating suggestion or surmise), ...right?, ...OK?, ...I presume., (onom.) smack!"
+      }
+    ]
+  },
+  {
+    "chinese": "我比他好。",
+    "pinyin": "wǒ bǐ tā hǎo.",
+    "english": "I am better than him.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "比",
+        "Pinyin": "bǐ",
+        "English": "than, Belgium, Belgian, abbr. for 比利時|比利时, euphemistic variant of 屄, to compare, (followed by a noun and adjective) more {adj.} than {noun}, ratio, to gesture, (Taiwan pr."
+      },
+      {
+        "Chinese": "他",
+        "Pinyin": "tā",
+        "English": "him, he or him, (used for either sex when the sex is unknown or unimportant), (used before sb's name for emphasis), (used as a meaningless mock object), other, another"
+      },
+      {
+        "Chinese": "好",
+        "Pinyin": "hǎo",
+        "English": "good, good, well, proper, good to, easy to, very, so, (suffix indicating completion or readiness), (of two people) close, on intimate terms, (after a personal pronoun) hello, to be fond of, to have a tendency to, to be prone to"
+      }
+    ]
+  },
+  {
+    "chinese": "石头、剪子、布。",
+    "pinyin": "shí tóu, jiǎn zǐ, bù.",
+    "english": "Rock, paper, scissors.",
+    "allWords": [
+      {
+        "Chinese": "石头",
+        "Pinyin": "shí tóu",
+        "English": "Rock, stone, CL:塊|块"
+      },
+      {
+        "Chinese": "剪子",
+        "Pinyin": "jiǎn zǐ",
+        "English": "Paper, clippers, scissors, shears, CL:把"
+      },
+      {
+        "Chinese": "布",
+        "Pinyin": "bù",
+        "English": "Scissors, variant of 布, cloth, to declare, to announce, to spread, to make known"
+      }
+    ]
+  },
+  {
+    "chinese": "我欠你一千美元。",
+    "pinyin": "wǒ qiàn nǐ yīqiān měiyuán.",
+    "english": "I owe you one thousand dollars.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "欠",
+        "Pinyin": "qiàn",
+        "English": "owe, deficient, to owe, to lack, yawn"
+      },
+      {
+        "Chinese": "你",
+        "Pinyin": "nǐ",
+        "English": "you, you (informal, as opposed to courteous 您"
+      },
+      {
+        "Chinese": "一千",
+        "Pinyin": "yīqiān",
+        "English": "one thousand"
+      },
+      {
+        "Chinese": "美元",
+        "Pinyin": "měiyuán",
+        "English": "dollars, American dollar, US dollar"
+      }
+    ]
+  },
+  {
+    "chinese": "好像我快要昏倒了。",
+    "pinyin": "hǎo xiàng wǒ kuài yào hūn dǎo le.",
+    "english": "It seems like I'm about to faint.",
+    "allWords": [
+      {
+        "Chinese": "好像",
+        "Pinyin": "hǎo xiàng",
+        "English": "seems like, as if, to seem like"
+      },
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "快要",
+        "Pinyin": "kuài yào",
+        "English": "about to, nearly at the point of (doing sth); about to (do sth)"
+      },
+      {
+        "Chinese": "昏倒",
+        "Pinyin": "hūn dǎo",
+        "English": "faint, to faint"
+      },
+      {
+        "Chinese": "了",
+        "Pinyin": "le",
+        "English": ", (completed action marker), (modal particle indicating change of state, situation now), (modal particle intensifying preceding clause), to finish, to achieve, variant of 瞭|了, (of eyes) bright, clear-sighted, to understand clearly, unofficial variant of 瞭"
+      }
+    ]
+  },
+  {
+    "chinese": "你是我的朋友。",
+    "pinyin": "nǐ shì wǒ de péngyǒu.",
+    "english": "You are my friend.",
+    "allWords": [
+      {
+        "Chinese": "你",
+        "Pinyin": "nǐ",
+        "English": "you, you (informal, as opposed to courteous 您"
+      },
+      {
+        "Chinese": "是",
+        "Pinyin": "shì",
+        "English": "are, is, are, am, yes, to be, variant of 是"
+      },
+      {
+        "Chinese": "我的",
+        "Pinyin": "wǒ de",
+        "English": "my"
+      },
+      {
+        "Chinese": "朋友",
+        "Pinyin": "péngyǒu",
+        "English": "friend, friend, CL:個|个"
+      }
+    ]
+  },
+  {
+    "chinese": "如果进行尝试，任何人都可以做。",
+    "pinyin": "Rúguǒ jìnxíng chángshì, rènhé rén dōu kěyǐ zuò.",
+    "english": "If you try, anyone can do it.",
+    "allWords": [
+      {
+        "Chinese": "如果",
+        "Pinyin": "rúguǒ",
+        "English": "If, if, in case, in the event that"
+      },
+      {
+        "Chinese": "进行",
+        "Pinyin": "jìnxíng",
+        "English": "try, to advance, to conduct, underway, in progress, to do, to carry out, to carry on, to execute"
+      },
+      {
+        "Chinese": "尝试",
+        "Pinyin": "chángshì",
+        "English": "attempt, to try, to attempt, CL:次"
+      },
+      {
+        "Chinese": "任何人",
+        "Pinyin": "rènhé rén",
+        "English": "anyone"
+      },
+      {
+        "Chinese": "都",
+        "Pinyin": "dōu",
+        "English": "can, surname Du, all, both, entirely, (used for emphasis) even, already, (not) at all, capital city, metropolis"
+      },
+      {
+        "Chinese": "可以",
+        "Pinyin": "kěyǐ",
+        "English": "do, can, may, possible, able to, not bad, pretty good"
+      },
+      {
+        "Chinese": "做",
+        "Pinyin": "zuò",
+        "English": "it, to make; to produce, to write; to compose, to do; to engage in; to hold (a party etc), (of a person) to be (an intermediary, a good student etc); to become (husband and wife, friends etc), (of a thing) to serve as; to be used for, to assume (an air or manner)"
+      }
+    ]
+  },
+  {
+    "chinese": "不要轻视了对手。",
+    "pinyin": "bù yào qīng shì le duì shǒu。",
+    "english": "Do not underestimate your opponent.",
+    "allWords": [
+      {
+        "Chinese": "不要",
+        "Pinyin": "bù yào",
+        "English": "Do not, don't!, must not"
+      },
+      {
+        "Chinese": "轻视",
+        "Pinyin": "qīng shì",
+        "English": "underestimate, contempt, contemptuous, to despise, to scorn, scornful"
+      },
+      {
+        "Chinese": "了",
+        "Pinyin": "le",
+        "English": ", (completed action marker), (modal particle indicating change of state, situation now), (modal particle intensifying preceding clause), to finish, to achieve, variant of 瞭|了, (of eyes) bright, clear-sighted, to understand clearly, unofficial variant of 瞭"
+      },
+      {
+        "Chinese": "对手",
+        "Pinyin": "duì shǒu",
+        "English": "opponent, opponent, rival, competitor, (well-matched) adversary, match"
+      }
+    ]
+  },
+  {
+    "chinese": "我的父母不理解我。",
+    "pinyin": "Wǒ de fùmǔ bù lǐjiě wǒ.",
+    "english": "My parents don't understand me.",
+    "allWords": [
+      {
+        "Chinese": "我的",
+        "Pinyin": "wǒ de",
+        "English": "my"
+      },
+      {
+        "Chinese": "父母",
+        "Pinyin": "fùmǔ",
+        "English": "parents, father and mother, parents"
+      },
+      {
+        "Chinese": "不",
+        "Pinyin": "bù",
+        "English": "don't, (negative prefix), not, no"
+      },
+      {
+        "Chinese": "理解",
+        "Pinyin": "lǐjiě",
+        "English": "understand, to comprehend, to understand, comprehension, understanding"
+      },
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "me, I, me, my"
+      }
+    ]
+  },
+  {
+    "chinese": "没钱，没工作，没朋友，他真是无所适从。",
+    "pinyin": "Méi qián, méi gōngzuò, méi péngyǒu, tā zhēnshi wúsuǒshìcóng.",
+    "english": "No money, no job, no friends, he is really at a loss.",
+    "allWords": [
+      {
+        "Chinese": "没",
+        "Pinyin": "Méi",
+        "English": "No, (negative prefix for verbs), have not, not, drowned, to end, to die, to inundate"
+      },
+      {
+        "Chinese": "钱",
+        "Pinyin": "qián",
+        "English": "money, surname Qian, coin, money, CL:筆|笔"
+      },
+      {
+        "Chinese": "没",
+        "Pinyin": "Méi",
+        "English": "no, (negative prefix for verbs), have not, not, drowned, to end, to die, to inundate"
+      },
+      {
+        "Chinese": "工作",
+        "Pinyin": "gōngzuò",
+        "English": "job, to work, (of a machine) to operate, job, work, task, CL:個|个"
+      },
+      {
+        "Chinese": "没",
+        "Pinyin": "Méi",
+        "English": "no, (negative prefix for verbs), have not, not, drowned, to end, to die, to inundate"
+      },
+      {
+        "Chinese": "朋友",
+        "Pinyin": "péngyǒu",
+        "English": "friends, friend, CL:個|个"
+      },
+      {
+        "Chinese": "他",
+        "Pinyin": "tā",
+        "English": "he, he or him, (used for either sex when the sex is unknown or unimportant), (used before sb's name for emphasis), (used as a meaningless mock object), other, another"
+      },
+      {
+        "Chinese": "真是",
+        "Pinyin": "zhēnshì",
+        "English": "really, indeed, truly, (coll.) (used to express disapproval, annoyance etc about sth)"
+      },
+      {
+        "Chinese": "无所适从",
+        "Pinyin": "wúsuǒshìcóng",
+        "English": "at a loss, not knowing which course to follow (idiom); at a loss what to do"
+      }
+    ]
+  },
+  {
+    "chinese": "我有一本关于钓鱼的书。",
+    "pinyin": "wǒ yǒu yī běn guān yú diào yú de shū。",
+    "english": "I have a book about fishing.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "有",
+        "Pinyin": "yǒu",
+        "English": "have, to have, there is, there are, to exist, to be"
+      },
+      {
+        "Chinese": "一",
+        "Pinyin": "yī",
+        "English": "a, one, 1, single, a (article), as soon as, entire, whole, all, throughout, \"one\" radical in Chinese characters (Kangxi radical 1), also pr."
+      },
+      {
+        "Chinese": "本",
+        "Pinyin": "běn",
+        "English": "book, root, stem, origin, source, this, the current, original, inherent, originally, classifier for books, periodicals, files etc"
+      },
+      {
+        "Chinese": "关于",
+        "Pinyin": "guān yú",
+        "English": "about, pertaining to, concerning, with regard to, about, a matter of"
+      },
+      {
+        "Chinese": "钓鱼",
+        "Pinyin": "diào yú",
+        "English": "fishing, to fish (with line and hook), to dupe"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "of, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "书",
+        "Pinyin": "shū",
+        "English": "book, abbr. for 書經|书经, book, letter, document, CL:本"
+      }
+    ]
+  },
+  {
+    "chinese": "我将明天和他见面。",
+    "pinyin": "Wǒ jiāng míngtiān hé tā jiànmiàn.",
+    "english": "I will meet him tomorrow.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "将",
+        "Pinyin": "jiāng",
+        "English": "will, will, shall, to use, to take, to checkmate, just a short while ago, (introduces object of main verb, used in the same way as 把, general, commander-in-chief (military), king (chess piece), to command, to lead, to desire, to invite, to request"
+      },
+      {
+        "Chinese": "明天",
+        "Pinyin": "míngtiān",
+        "English": "tomorrow, tomorrow"
+      },
+      {
+        "Chinese": "和",
+        "Pinyin": "hé",
+        "English": "and, old variant of 和, surname He, Japanese (food, clothes etc), and, together with, with, sum, union, peace, harmony, Taiwan pr., to compose a poem in reply (to sb's poem) using the same rhyme sequence, to join in the singing, to chime in with others, to complete a set in mahjong or playing cards, to combine a powdery substance (flour, plaster etc) with water, Taiwan pr., to mix (ingredients) together, to blend, classifier for rinses of clothes, classifier for boilings of medicinal herbs, old variant of 和"
+      },
+      {
+        "Chinese": "他",
+        "Pinyin": "tā",
+        "English": "him, he or him, (used for either sex when the sex is unknown or unimportant), (used before sb's name for emphasis), (used as a meaningless mock object), other, another"
+      },
+      {
+        "Chinese": "见面",
+        "Pinyin": "jiànmiàn",
+        "English": "meet, to meet, to see each other, CL:次"
+      }
+    ]
+  },
+  {
+    "chinese": "狗正试图逃脱。",
+    "pinyin": "gǒu zhèng shìtú táo tuō。",
+    "english": "The dog is trying to escape.",
+    "allWords": [
+      {
+        "Chinese": "狗",
+        "Pinyin": "gǒu",
+        "English": "dog, dog, CL:隻|只"
+      },
+      {
+        "Chinese": "正",
+        "Pinyin": "zhèng",
+        "English": "is, first month of the lunar year, straight, upright, proper, main, principal, to correct, to rectify, exactly, just (at that time), right (in that place), (math.) positive"
+      },
+      {
+        "Chinese": "试图",
+        "Pinyin": "shìtú",
+        "English": "trying to, to attempt, to try"
+      },
+      {
+        "Chinese": "逃脱",
+        "Pinyin": "táo tuō",
+        "English": "escape, to run away, to escape"
+      }
+    ]
+  },
+  {
+    "chinese": "我的木床实在很笨重。",
+    "pinyin": "Wǒ de mù chuáng shí zài hěn bèn zhòng.",
+    "english": "My wooden bed is really heavy.",
+    "allWords": [
+      {
+        "Chinese": "我的",
+        "Pinyin": "Wǒ de",
+        "English": "My"
+      },
+      {
+        "Chinese": "木床",
+        "Pinyin": "mù chuáng",
+        "English": "wooden bed"
+      },
+      {
+        "Chinese": "实在",
+        "Pinyin": "shí zài",
+        "English": "really, really, actually, indeed, true, real, honest, dependable, (philosophy) reality"
+      },
+      {
+        "Chinese": "很",
+        "Pinyin": "hěn",
+        "English": "very, (adverb of degree), quite, very, awfully"
+      },
+      {
+        "Chinese": "笨重",
+        "Pinyin": "bèn zhòng",
+        "English": "heavy, heavy, cumbersome, unwieldy"
+      }
+    ]
+  },
+  {
+    "chinese": "他没带钥匙，用铁丝拨动了两下，门居然开了。",
+    "pinyin": "tā méi dài yào shi，yòng tiě sī bō dòng le liǎng xià，mén jū rán kāi le。",
+    "english": "He didn't bring the key, but he used an iron wire to twist it twice, and the door unexpectedly opened.",
+    "allWords": [
+      {
+        "Chinese": "他",
+        "Pinyin": "tā",
+        "English": "He, he or him, (used for either sex when the sex is unknown or unimportant), (used before sb's name for emphasis), (used as a meaningless mock object), other, another"
+      },
+      {
+        "Chinese": "没",
+        "Pinyin": "méi",
+        "English": "didn't, (negative prefix for verbs), have not, not, drowned, to end, to die, to inundate"
+      },
+      {
+        "Chinese": "带",
+        "Pinyin": "dài",
+        "English": "bring, band, belt, girdle, ribbon, tire, area, zone, region, CL:條|条"
+      },
+      {
+        "Chinese": "钥匙",
+        "Pinyin": "yào shi",
+        "English": "key, key, CL:把"
+      },
+      {
+        "Chinese": "用",
+        "Pinyin": "yòng",
+        "English": "use, to use, to employ, to have to, to eat or drink, expense or outlay, usefulness, hence, therefore"
+      },
+      {
+        "Chinese": "铁丝",
+        "Pinyin": "tiě sī",
+        "English": "iron wire, iron wire, CL:根"
+      },
+      {
+        "Chinese": "拨动",
+        "Pinyin": "bō dòng",
+        "English": "twist, to stir, to prod, to poke, to move sideways, to strum (on a guitar etc)"
+      },
+      {
+        "Chinese": "了",
+        "Pinyin": "liǎng xià",
+        "English": "twice, (completed action marker), (modal particle indicating change of state, situation now), (modal particle intensifying preceding clause), to finish, to achieve, variant of 瞭|了, (of eyes) bright, clear-sighted, to understand clearly, unofficial variant of 瞭"
+      },
+      {
+        "Chinese": "两下",
+        "Pinyin": "mén",
+        "English": "door, twice, for a little while"
+      },
+      {
+        "Chinese": "门",
+        "Pinyin": "jū rán",
+        "English": "unexpectedly, surname Men, gate, door, CL:扇"
+      },
+      {
+        "Chinese": "居然",
+        "Pinyin": "kāi le",
+        "English": "opened, unexpectedly, to one's surprise, go so far as to"
+      }
+    ]
+  },
+  {
+    "chinese": "保险箱的钥匙在我这儿。",
+    "pinyin": "bǎo xiǎn xiāng de yào shi zài wǒ zhè r.",
+    "english": "The key to the safe is with me.",
+    "allWords": [
+      {
+        "Chinese": "保险箱",
+        "Pinyin": "bǎo xiǎn xiāng",
+        "English": "safe, safe deposit box, a safe"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "of, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "钥匙",
+        "Pinyin": "yào shi",
+        "English": "key, key, CL:把"
+      },
+      {
+        "Chinese": "在",
+        "Pinyin": "zài",
+        "English": "at, (located) at, (to be) in, to exist, in the middle of doing sth, (indicating an action in progress)"
+      },
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "这儿",
+        "Pinyin": "zhè r",
+        "English": "here, here"
+      }
+    ]
+  },
+  {
+    "chinese": "我不敢走在前面，太黑了。",
+    "pinyin": "wǒ bù gǎn zǒu zài qiánmiàn, tài hēile.",
+    "english": "I dare not walk in front, it's too dark.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "不敢",
+        "Pinyin": "bù gǎn",
+        "English": "dare not"
+      },
+      {
+        "Chinese": "走",
+        "Pinyin": "zǒu",
+        "English": "walk, to walk, to go, to run, to move (of vehicle), to visit, to leave, to go away, to die (euph.), from, through, away (in compound verbs, such as 撤走"
+      },
+      {
+        "Chinese": "在",
+        "Pinyin": "zài",
+        "English": "in, (located) at, (to be) in, to exist, in the middle of doing sth, (indicating an action in progress)"
+      },
+      {
+        "Chinese": "前面",
+        "Pinyin": "qiánmiàn",
+        "English": "front, ahead, in front, preceding, above, also pr."
+      },
+      {
+        "Chinese": "太",
+        "Pinyin": "tài",
+        "English": "too, highest, greatest, too (much), very, extremely"
+      },
+      {
+        "Chinese": "黑",
+        "Pinyin": "hēi",
+        "English": "dark, abbr. for Heilongjiang province 黑龍江|黑龙江, black, dark, sinister, secret, shady, illegal, to hide (sth) away, to vilify, (loanword) to hack (computing)"
+      },
+      {
+        "Chinese": "了",
+        "Pinyin": "le",
+        "English": ", (completed action marker), (modal particle indicating change of state, situation now), (modal particle intensifying preceding clause), to finish, to achieve, variant of 瞭|了, (of eyes) bright, clear-sighted, to understand clearly, unofficial variant of 瞭"
+      }
+    ]
+  },
+  {
+    "chinese": "你记得你父亲的生日吗？",
+    "pinyin": "nǐ jì de nǐ fù qīn de shēng rì ma?",
+    "english": "Do you remember your father's birthday?",
+    "allWords": [
+      {
+        "Chinese": "你",
+        "Pinyin": "nǐ",
+        "English": "you, you (informal, as opposed to courteous 您"
+      },
+      {
+        "Chinese": "记得",
+        "Pinyin": "jì de",
+        "English": "remember, to remember"
+      },
+      {
+        "Chinese": "你",
+        "Pinyin": "nǐ",
+        "English": "your, you (informal, as opposed to courteous 您"
+      },
+      {
+        "Chinese": "父亲",
+        "Pinyin": "fù qīn",
+        "English": "father, father, also pr."
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": " 's, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "生日",
+        "Pinyin": "shēng rì",
+        "English": "birthday, birthday, CL:個|个"
+      },
+      {
+        "Chinese": "吗",
+        "Pinyin": "ma",
+        "English": "?, see 嗎啡|吗啡, morphine, (question particle for \"yes-no\" questions)"
+      }
+    ]
+  },
+  {
+    "chinese": "楼下有人在等您。",
+    "pinyin": "lóu xià yǒu rén zài děng nín.",
+    "english": "Someone is waiting for you downstairs.",
+    "allWords": [
+      {
+        "Chinese": "楼下",
+        "Pinyin": "lóu xià",
+        "English": "downstairs, downstairs"
+      },
+      {
+        "Chinese": "有",
+        "Pinyin": "yǒu",
+        "English": "have, to have, there is, there are, to exist, to be"
+      },
+      {
+        "Chinese": "人",
+        "Pinyin": "rén",
+        "English": "person, person, people, CL:個|个"
+      },
+      {
+        "Chinese": "在",
+        "Pinyin": "zài",
+        "English": "at, (located) at, (to be) in, to exist, in the middle of doing sth, (indicating an action in progress)"
+      },
+      {
+        "Chinese": "等",
+        "Pinyin": "děng",
+        "English": "wait, class, rank, grade, equal to, same as, to wait for, to await, et cetera, and so on, et al. (and other authors), after, as soon as, once"
+      },
+      {
+        "Chinese": "您",
+        "Pinyin": "nín",
+        "English": "you, you (courteous, as opposed to informal 你"
+      }
+    ]
+  },
+  {
+    "chinese": "你喝了什么？",
+    "pinyin": "nǐ hē le shénme?",
+    "english": "What did you drink?",
+    "allWords": [
+      {
+        "Chinese": "你",
+        "Pinyin": "nǐ",
+        "English": "you, you (informal, as opposed to courteous 您"
+      },
+      {
+        "Chinese": "喝",
+        "Pinyin": "hē",
+        "English": "drink, to drink, variant of 嗬, to shout"
+      },
+      {
+        "Chinese": "了",
+        "Pinyin": "le",
+        "English": "did, (completed action marker), (modal particle indicating change of state, situation now), (modal particle intensifying preceding clause), to finish, to achieve, variant of 瞭|了, (of eyes) bright, clear-sighted, to understand clearly, unofficial variant of 瞭"
+      },
+      {
+        "Chinese": "什么",
+        "Pinyin": "shénme",
+        "English": "what, what?, something, anything"
+      }
+    ]
+  },
+  {
+    "chinese": "工会参加了示威游行吗？",
+    "pinyin": "gōng huì cān jiā le shì wēi yóu xíng ma?",
+    "english": "Did the labor union participate in the protest march?",
+    "allWords": [
+      {
+        "Chinese": "工会",
+        "Pinyin": "gōng huì",
+        "English": "labor union, labor union, trade union, CL:個|个"
+      },
+      {
+        "Chinese": "参加",
+        "Pinyin": "cān jiā",
+        "English": "participate, to participate, to take part, to join"
+      },
+      {
+        "Chinese": "了",
+        "Pinyin": "le",
+        "English": "did, (completed action marker), (modal particle indicating change of state, situation now), (modal particle intensifying preceding clause), to finish, to achieve, variant of 瞭|了, (of eyes) bright, clear-sighted, to understand clearly, unofficial variant of 瞭"
+      },
+      {
+        "Chinese": "示威",
+        "Pinyin": "shì wēi",
+        "English": "protest, to demonstrate (as a protest), a demonstration, a military show of force"
+      },
+      {
+        "Chinese": "游行",
+        "Pinyin": "yóu xíng",
+        "English": "march, march, parade, demonstration"
+      },
+      {
+        "Chinese": "吗",
+        "Pinyin": "ma",
+        "English": "?, see 嗎啡|吗啡, morphine, (question particle for \"yes-no\" questions)"
+      }
+    ]
+  },
+  {
+    "chinese": "告诉我你在湘南做了什么。",
+    "pinyin": "gào sù wǒ nǐ zài xiāng nán zuò le shén me.",
+    "english": "Tell me what you did in Xiangnan.",
+    "allWords": [
+      {
+        "Chinese": "告诉",
+        "Pinyin": "gào sù",
+        "English": "Tell, to press charges, to file a complaint, to tell, to inform, to let know"
+      },
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "me, I, me, my"
+      },
+      {
+        "Chinese": "你",
+        "Pinyin": "nǐ",
+        "English": "you, you (informal, as opposed to courteous 您"
+      },
+      {
+        "Chinese": "在",
+        "Pinyin": "zài",
+        "English": "in, (located) at, (to be) in, to exist, in the middle of doing sth, (indicating an action in progress)"
+      },
+      {
+        "Chinese": "湘南",
+        "Pinyin": "xiāng nán",
+        "English": "Xiangnan"
+      },
+      {
+        "Chinese": "做",
+        "Pinyin": "zuò",
+        "English": "do, to make; to produce, to write; to compose, to do; to engage in; to hold (a party etc), (of a person) to be (an intermediary, a good student etc); to become (husband and wife, friends etc), (of a thing) to serve as; to be used for, to assume (an air or manner)"
+      },
+      {
+        "Chinese": "了",
+        "Pinyin": "le",
+        "English": "did, (completed action marker), (modal particle indicating change of state, situation now), (modal particle intensifying preceding clause), to finish, to achieve, variant of 瞭|了, (of eyes) bright, clear-sighted, to understand clearly, unofficial variant of 瞭"
+      },
+      {
+        "Chinese": "什么",
+        "Pinyin": "shén me",
+        "English": "what, what?, something, anything"
+      }
+    ]
+  },
+  {
+    "chinese": "我不知道他活着还是死了。",
+    "pinyin": "wǒ bù zhīdào tā huózhe háishi sǐle.",
+    "english": "I don't know if he is alive or dead.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "不",
+        "Pinyin": "bù",
+        "English": "not, (negative prefix), not, no"
+      },
+      {
+        "Chinese": "知道",
+        "Pinyin": "zhīdào",
+        "English": "know, to know, to become aware of, also pr."
+      },
+      {
+        "Chinese": "他",
+        "Pinyin": "tā",
+        "English": "he, he or him, (used for either sex when the sex is unknown or unimportant), (used before sb's name for emphasis), (used as a meaningless mock object), other, another"
+      },
+      {
+        "Chinese": "活着",
+        "Pinyin": "huózhe",
+        "English": "alive, alive"
+      },
+      {
+        "Chinese": "还是",
+        "Pinyin": "háishi",
+        "English": "or, or, still, nevertheless, had better"
+      },
+      {
+        "Chinese": "死了",
+        "Pinyin": "sǐle",
+        "English": "dead"
+      }
+    ]
+  },
+  {
+    "chinese": "我上个礼拜把她介绍给你了。",
+    "pinyin": "wǒ shàng gè lǐ bài bǎ tā jiè shào gěi nǐ le。",
+    "english": "I introduced her to you last week.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "上个",
+        "Pinyin": "shàng gè",
+        "English": "last, first (of two parts), last (week etc), previous, the above"
+      },
+      {
+        "Chinese": "礼拜",
+        "Pinyin": "lǐ bài",
+        "English": "week, week, religious service, worship, CL:個|个"
+      },
+      {
+        "Chinese": "把",
+        "Pinyin": "bǎ",
+        "English": "to, to hold, to contain, to grasp, to take hold of, handle, particle marking the following noun as a direct object, classifier for objects with handle, classifier for small objects: handful, handle"
+      },
+      {
+        "Chinese": "她",
+        "Pinyin": "tā",
+        "English": "her, she"
+      },
+      {
+        "Chinese": "介绍",
+        "Pinyin": "jiè shào",
+        "English": "introduce, to introduce (sb to sb), to give a presentation, to present (sb for a job etc), introduction"
+      },
+      {
+        "Chinese": "给",
+        "Pinyin": "gěi",
+        "English": "to, to, for, for the benefit of, to give, to allow, to do sth (for sb), (grammatical equivalent of 被), (grammatical equivalent of 把), (sentence intensifier), to supply, to provide"
+      },
+      {
+        "Chinese": "你",
+        "Pinyin": "nǐ",
+        "English": "you, you (informal, as opposed to courteous 您"
+      },
+      {
+        "Chinese": "了",
+        "Pinyin": "le",
+        "English": "last, (completed action marker), (modal particle indicating change of state, situation now), (modal particle intensifying preceding clause), to finish, to achieve, variant of 瞭|了, (of eyes) bright, clear-sighted, to understand clearly, unofficial variant of 瞭"
+      }
+    ]
+  },
+  {
+    "chinese": "那个男人戴着一个老虎的面具。",
+    "pinyin": "nà gè nán rén dài zhe yī gè lǎo hǔ de miàn jù。",
+    "english": "The man is wearing a tiger mask.",
+    "allWords": [
+      {
+        "Chinese": "那个",
+        "Pinyin": "nà gè",
+        "English": "The, that one, that thing, that (as opposed to this), (used before a verb or adjective for emphasis), (used to humorously or indirectly refer to sth embarrassing, funny etc, or when one can't think of the right word), (used in speech as a filler, similar to \"umm\", \"you know\" etc), (euph.) menstruation, sex, also pr."
+      },
+      {
+        "Chinese": "男人",
+        "Pinyin": "nán rén",
+        "English": "man, a man, a male, men, CL:個|个"
+      },
+      {
+        "Chinese": "戴着",
+        "Pinyin": "dài zhe",
+        "English": "is wearing"
+      },
+      {
+        "Chinese": "一个",
+        "Pinyin": "yī gè",
+        "English": "a"
+      },
+      {
+        "Chinese": "老虎",
+        "Pinyin": "lǎo hǔ",
+        "English": "tiger, tiger, CL:隻|只"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "of, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "面具",
+        "Pinyin": "miàn jù",
+        "English": "mask, mask"
+      }
+    ]
+  },
+  {
+    "chinese": "有时候不知道的。",
+    "pinyin": "yǒu shíhòu bù zhīdào de.",
+    "english": "Sometimes I don't know.",
+    "allWords": [
+      {
+        "Chinese": "有时候",
+        "Pinyin": "yǒu shíhòu",
+        "English": "Sometimes, sometimes"
+      },
+      {
+        "Chinese": "不知道",
+        "Pinyin": "bù zhīdào",
+        "English": "don't know"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": ", of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      }
+    ]
+  },
+  {
+    "chinese": "电影快要开演了。",
+    "pinyin": "diàn yǐng kuài yào kāi yǎn le.",
+    "english": "The movie is about to start.",
+    "allWords": [
+      {
+        "Chinese": "电影",
+        "Pinyin": "diàn yǐng",
+        "English": "movie, movie, film, CL:部"
+      },
+      {
+        "Chinese": "快要",
+        "Pinyin": "kuài yào",
+        "English": "about to, nearly at the point of (doing sth); about to (do sth)"
+      },
+      {
+        "Chinese": "开演",
+        "Pinyin": "kāi yǎn",
+        "English": "start, (of a play, movie etc) to begin"
+      },
+      {
+        "Chinese": "了",
+        "Pinyin": "le",
+        "English": ", (completed action marker), (modal particle indicating change of state, situation now), (modal particle intensifying preceding clause), to finish, to achieve, variant of 瞭|了, (of eyes) bright, clear-sighted, to understand clearly, unofficial variant of 瞭"
+      }
+    ]
+  },
+  {
+    "chinese": "我的妻子在试图睡觉。",
+    "pinyin": "Wǒ de qīzi zài shìtú shuìjiào.",
+    "english": "My wife is trying to sleep.",
+    "allWords": [
+      {
+        "Chinese": "我的",
+        "Pinyin": "wǒ de",
+        "English": "my"
+      },
+      {
+        "Chinese": "妻子",
+        "Pinyin": "qīzi",
+        "English": "wife, wife and children, wife, CL:個|个"
+      },
+      {
+        "Chinese": "在",
+        "Pinyin": "zài",
+        "English": "is, (located) at, (to be) in, to exist, in the middle of doing sth, (indicating an action in progress)"
+      },
+      {
+        "Chinese": "试图",
+        "Pinyin": "shìtú",
+        "English": "trying, to attempt, to try"
+      },
+      {
+        "Chinese": "睡觉",
+        "Pinyin": "shuìjiào",
+        "English": "to sleep, to go to bed, to sleep"
+      }
+    ]
+  },
+  {
+    "chinese": "我们以为是谁，原来是您呀！",
+    "pinyin": "wǒmen yǐwéi shì shéi, yuánlái shì nín ya!",
+    "english": "We thought it was someone else, turns out it's you!",
+    "allWords": [
+      {
+        "Chinese": "我们",
+        "Pinyin": "wǒmen",
+        "English": "We, we, us, ourselves, our"
+      },
+      {
+        "Chinese": "以为",
+        "Pinyin": "yǐwéi",
+        "English": "thought, to think (i.e. to take it to be true that ...) (Usually there is an implication that the notion is mistaken – except when expressing one's own current opinion.)"
+      },
+      {
+        "Chinese": "是",
+        "Pinyin": "shì",
+        "English": "was, is, are, am, yes, to be, variant of 是"
+      },
+      {
+        "Chinese": "谁",
+        "Pinyin": "shéi",
+        "English": "someone else, who, also pr."
+      },
+      {
+        "Chinese": "原来",
+        "Pinyin": "yuánlái",
+        "English": "turns out, original, former, originally, formerly, at first, so, actually, as it turns out"
+      },
+      {
+        "Chinese": "是",
+        "Pinyin": "shì",
+        "English": "is, is, are, am, yes, to be, variant of 是"
+      },
+      {
+        "Chinese": "您",
+        "Pinyin": "nín",
+        "English": "you, you (courteous, as opposed to informal 你"
+      },
+      {
+        "Chinese": "呀",
+        "Pinyin": "ya",
+        "English": "!, (particle equivalent to 啊 after a vowel, expressing surprise or doubt)"
+      }
+    ]
+  },
+  {
+    "chinese": "只剩下两天了。",
+    "pinyin": "zhǐ shèng xià liǎng tiān le.",
+    "english": "Only two days left.",
+    "allWords": [
+      {
+        "Chinese": "只",
+        "Pinyin": "zhǐ",
+        "English": "Only, only, merely, just, but, variant of 只, grain that has begun to ripen, variant of 只, classifier for birds and certain animals, one of a pair, some utensils, vessels etc"
+      },
+      {
+        "Chinese": "剩下",
+        "Pinyin": "shèng xià",
+        "English": "left, to remain, left over"
+      },
+      {
+        "Chinese": "两",
+        "Pinyin": "liǎng",
+        "English": "two, two, both, some, a few, tael, unit of weight equal to 50 grams (modern) or 1⁄16 of a catty 斤"
+      },
+      {
+        "Chinese": "天",
+        "Pinyin": "tiān",
+        "English": "days, day, sky, heaven"
+      },
+      {
+        "Chinese": "了",
+        "Pinyin": "le",
+        "English": "le, (completed action marker), (modal particle indicating change of state, situation now), (modal particle intensifying preceding clause), to finish, to achieve, variant of 瞭|了, (of eyes) bright, clear-sighted, to understand clearly, unofficial variant of 瞭"
+      }
+    ]
+  },
+  {
+    "chinese": "这个人是您的奴隶，是吧？",
+    "pinyin": "zhè gè rén shì nín de nú lì, shì ba?",
+    "english": "Is this person your slave?",
+    "allWords": [
+      {
+        "Chinese": "这个",
+        "Pinyin": "zhè gè",
+        "English": "this, this, this one"
+      },
+      {
+        "Chinese": "人",
+        "Pinyin": "rén",
+        "English": "person, person, people, CL:個|个"
+      },
+      {
+        "Chinese": "是",
+        "Pinyin": "shì",
+        "English": "is, is, are, am, yes, to be, variant of 是"
+      },
+      {
+        "Chinese": "您的",
+        "Pinyin": "nín de",
+        "English": "your"
+      },
+      {
+        "Chinese": "奴隶",
+        "Pinyin": "nú lì",
+        "English": "slave, slave"
+      },
+      {
+        "Chinese": "是",
+        "Pinyin": "shì",
+        "English": "is, is, are, am, yes, to be, variant of 是"
+      },
+      {
+        "Chinese": "吧",
+        "Pinyin": "ba",
+        "English": "?, bar (loanword) (serving drinks, or providing Internet access etc), to puff (on a pipe etc), (onom.) bang, abbr. for 貼吧|贴吧, (modal particle indicating suggestion or surmise), ...right?, ...OK?, ...I presume., (onom.) smack!"
+      }
+    ]
+  },
+  {
+    "chinese": "你听得懂瑞典语。",
+    "pinyin": "nǐ tīng dé dǒng ruì diǎn yǔ。",
+    "english": "You understand Swedish.",
+    "allWords": [
+      {
+        "Chinese": "你",
+        "Pinyin": "nǐ",
+        "English": "you, you (informal, as opposed to courteous 您"
+      },
+      {
+        "Chinese": "听得懂",
+        "Pinyin": "tīng dé dǒng",
+        "English": "understand, to understand (by hearing), to catch (what sb says)"
+      },
+      {
+        "Chinese": "瑞典语",
+        "Pinyin": "ruì diǎn yǔ",
+        "English": "Swedish, Swedish (language)"
+      }
+    ]
+  },
+  {
+    "chinese": "赶上时髦",
+    "pinyin": "gǎn shàng shí máo",
+    "english": "Catch up with the trend",
+    "allWords": [
+      {
+        "Chinese": "赶上",
+        "Pinyin": "gǎn shàng",
+        "English": "catch up with, to keep up with, to catch up with, to overtake, to chance upon, in time for"
+      },
+      {
+        "Chinese": "时髦",
+        "Pinyin": "shí máo",
+        "English": "trend, in vogue, fashionable"
+      }
+    ]
+  },
+  {
+    "chinese": "",
+    "pinyin": "",
+    "english": ""
+  },
+  {
+    "chinese": "我感冒了还发烧。",
+    "pinyin": "Wǒ gǎnmào le hái fāshāo.",
+    "english": "I have a cold and a fever.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "感冒",
+        "Pinyin": "gǎnmào",
+        "English": "cold, to catch cold, (common) cold, CL:場|场"
+      },
+      {
+        "Chinese": "了",
+        "Pinyin": "le",
+        "English": "have, (completed action marker), (modal particle indicating change of state, situation now), (modal particle intensifying preceding clause), to finish, to achieve, variant of 瞭|了, (of eyes) bright, clear-sighted, to understand clearly, unofficial variant of 瞭"
+      },
+      {
+        "Chinese": "还",
+        "Pinyin": "hái",
+        "English": "and, surname Huan, still, still in progress, still more, yet, even more, in addition, fairly, passably (good), as early as, even, also, else, to pay back, to return"
+      },
+      {
+        "Chinese": "发烧",
+        "Pinyin": "fāshāo",
+        "English": "fever, to have a high temperature (from illness), to have a fever"
+      }
+    ]
+  },
+  {
+    "chinese": "我今天很忙。",
+    "pinyin": "wǒ jīntiān hěn máng.",
+    "english": "I am very busy today.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "今天",
+        "Pinyin": "jīntiān",
+        "English": "today, today, at the present, now"
+      },
+      {
+        "Chinese": "很",
+        "Pinyin": "hěn",
+        "English": "very, (adverb of degree), quite, very, awfully"
+      },
+      {
+        "Chinese": "忙",
+        "Pinyin": "máng",
+        "English": "busy, busy, hurriedly, to hurry, to rush"
+      }
+    ]
+  },
+  {
+    "chinese": "我受不了她没完没了的爱。",
+    "pinyin": "wǒ shòu bùliǎo tā méi wán méi liǎo de ài.",
+    "english": "I can't stand her never-ending love.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "受不了",
+        "Pinyin": "shòu bùliǎo",
+        "English": "can't stand, unbearable, unable to endure, can't stand"
+      },
+      {
+        "Chinese": "她",
+        "Pinyin": "tā",
+        "English": "her, she"
+      },
+      {
+        "Chinese": "没完没了",
+        "Pinyin": "méi wán méi liǎo",
+        "English": "never-ending, without end, incessantly, on and on"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "of, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "爱",
+        "Pinyin": "ài",
+        "English": "love, to love, to be fond of, to like, affection, to be inclined (to do sth), to tend to (happen)"
+      }
+    ]
+  },
+  {
+    "chinese": "他倒霉极了。",
+    "pinyin": "tā dǎoméi jíle。",
+    "english": "He is extremely unlucky.",
+    "allWords": [
+      {
+        "Chinese": "他",
+        "Pinyin": "tā",
+        "English": "He, he or him, (used for either sex when the sex is unknown or unimportant), (used before sb's name for emphasis), (used as a meaningless mock object), other, another"
+      },
+      {
+        "Chinese": "倒霉",
+        "Pinyin": "dǎoméi",
+        "English": "unlucky, to have bad luck, to be out of luck"
+      },
+      {
+        "Chinese": "极了",
+        "Pinyin": "jíle",
+        "English": "extremely, extremely, exceedingly"
+      }
+    ]
+  },
+  {
+    "chinese": "政治迫害开始了。",
+    "pinyin": "zhèng zhì pò hài kāi shǐ le。",
+    "english": "Political persecution has begun.",
+    "allWords": [
+      {
+        "Chinese": "政治",
+        "Pinyin": "zhèng zhì",
+        "English": "political, politics, political"
+      },
+      {
+        "Chinese": "迫害",
+        "Pinyin": "pò hài",
+        "English": "persecution, to persecute, persecution"
+      },
+      {
+        "Chinese": "开始",
+        "Pinyin": "kāi shǐ",
+        "English": "begin, to begin, beginning, to start, initial, CL:個|个"
+      },
+      {
+        "Chinese": "了",
+        "Pinyin": "le",
+        "English": ", (completed action marker), (modal particle indicating change of state, situation now), (modal particle intensifying preceding clause), to finish, to achieve, variant of 瞭|了, (of eyes) bright, clear-sighted, to understand clearly, unofficial variant of 瞭"
+      }
+    ]
+  },
+  {
+    "chinese": "他倒霉透了。",
+    "pinyin": "tā dǎoméi tòu le。",
+    "english": "He's really unlucky.",
+    "allWords": [
+      {
+        "Chinese": "他",
+        "Pinyin": "tā",
+        "English": "He, he or him, (used for either sex when the sex is unknown or unimportant), (used before sb's name for emphasis), (used as a meaningless mock object), other, another"
+      },
+      {
+        "Chinese": "倒霉",
+        "Pinyin": "dǎoméi",
+        "English": "unlucky, to have bad luck, to be out of luck"
+      },
+      {
+        "Chinese": "透了",
+        "Pinyin": "tòu le",
+        "English": "really"
+      }
+    ]
+  },
+  {
+    "chinese": "我爸爸不喝多少烧酒。",
+    "pinyin": "wǒ bàba bù hē duōshǎo shāojiǔ.",
+    "english": "My father doesn't drink much liquor.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "爸爸",
+        "Pinyin": "bàba",
+        "English": "father, (informal) father, CL:個|个"
+      },
+      {
+        "Chinese": "不",
+        "Pinyin": "bù",
+        "English": "not, (negative prefix), not, no"
+      },
+      {
+        "Chinese": "喝",
+        "Pinyin": "hē",
+        "English": "drink, to drink, variant of 嗬, to shout"
+      },
+      {
+        "Chinese": "多少",
+        "Pinyin": "duōshǎo",
+        "English": "much, number, amount, somewhat, how much?, how many?, (phone number, student ID etc) what number?"
+      },
+      {
+        "Chinese": "烧酒",
+        "Pinyin": "shāojiǔ",
+        "English": "liquor, name of a famous Tang dynasty wine, same as 白酒"
+      }
+    ]
+  },
+  {
+    "chinese": "我爸爸不喝太多的烧酒。",
+    "pinyin": "wǒ bàba bù hē tài duō de shāo jiǔ。",
+    "english": "My dad doesn't drink too much fiery liquor.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "爸爸",
+        "Pinyin": "bàba",
+        "English": "dad, (informal) father, CL:個|个"
+      },
+      {
+        "Chinese": "不",
+        "Pinyin": "bù",
+        "English": "not, (negative prefix), not, no"
+      },
+      {
+        "Chinese": "喝",
+        "Pinyin": "hē",
+        "English": "drink, to drink, variant of 嗬, to shout"
+      },
+      {
+        "Chinese": "太多",
+        "Pinyin": "tài duō",
+        "English": "too much"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "of, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "烧酒",
+        "Pinyin": "shāo jiǔ",
+        "English": "fiery liquor, name of a famous Tang dynasty wine, same as 白酒"
+      }
+    ]
+  },
+  {
+    "chinese": "马、狮、犬、羊：这些是动物。",
+    "pinyin": "mǎ, shī, quǎn, yáng: zhèxiē shì dòngwù.",
+    "english": "Horse, lion, dog, sheep: these are animals.",
+    "allWords": [
+      {
+        "Chinese": "马",
+        "Pinyin": "mǎ",
+        "English": "Horse, surname Ma, abbr. for Malaysia 馬來西亞|马来西亚, horse, CL:匹"
+      },
+      {
+        "Chinese": "狮",
+        "Pinyin": "shī",
+        "English": "Lion, lion"
+      },
+      {
+        "Chinese": "犬",
+        "Pinyin": "quǎn",
+        "English": "Dog, dog, Kangxi radical 94"
+      },
+      {
+        "Chinese": "羊",
+        "Pinyin": "yáng",
+        "English": "Sheep, surname Yang, sheep, goat, CL:頭|头"
+      },
+      {
+        "Chinese": "这些",
+        "Pinyin": "zhèxiē",
+        "English": "These, these"
+      },
+      {
+        "Chinese": "是",
+        "Pinyin": "shì",
+        "English": "are, is, are, am, yes, to be, variant of 是"
+      },
+      {
+        "Chinese": "动物",
+        "Pinyin": "dòngwù",
+        "English": "animals, animal, CL:隻|只"
+      }
+    ]
+  },
+  {
+    "chinese": "法国国王秃顶。",
+    "pinyin": "fǎ guó guó wáng tū dǐng.",
+    "english": "The French king is bald.",
+    "allWords": [
+      {
+        "Chinese": "法国",
+        "Pinyin": "fǎ guó",
+        "English": "France, France, French"
+      },
+      {
+        "Chinese": "国王",
+        "Pinyin": "guó wáng",
+        "English": "king, king, CL:個|个"
+      },
+      {
+        "Chinese": "秃顶",
+        "Pinyin": "tū dǐng",
+        "English": "bald, bald head"
+      }
+    ]
+  },
+  {
+    "chinese": "好哇！",
+    "pinyin": "hǎo wa!",
+    "english": "Okay!",
+    "allWords": [
+      {
+        "Chinese": "好",
+        "Pinyin": "hǎo",
+        "English": "good, good, well, proper, good to, easy to, very, so, (suffix indicating completion or readiness), (of two people) close, on intimate terms, (after a personal pronoun) hello, to be fond of, to have a tendency to, to be prone to"
+      },
+      {
+        "Chinese": "哇",
+        "Pinyin": "wa",
+        "English": "wow, Wow!, sound of child's crying, sound of vomiting, replaces 啊"
+      }
+    ]
+  },
+  {
+    "chinese": "她的话很多。",
+    "pinyin": "Tā de huà hěn duō.",
+    "english": "She has a lot to say.",
+    "allWords": [
+      {
+        "Chinese": "她",
+        "Pinyin": "Tā",
+        "English": "She, she"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "has, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "话",
+        "Pinyin": "huà",
+        "English": "a lot, dialect, language, spoken words, speech, talk, words, conversation, what sb said, CL:種|种, old variant of 話|话"
+      },
+      {
+        "Chinese": "很多",
+        "Pinyin": "hěn duō",
+        "English": "to say"
+      }
+    ]
+  },
+  {
+    "chinese": "白先走，白胜。",
+    "pinyin": "Bái xiān zǒu, bái shèng.",
+    "english": "White goes first, White wins.",
+    "allWords": [
+      {
+        "Chinese": "白",
+        "Pinyin": "bái",
+        "English": "White, surname Bai, white, snowy, pure, bright, empty, blank, plain, clear, to make clear, in vain, gratuitous, free of charge, reactionary, anti-communist, funeral, to stare coldly, to write wrong character, to state, to explain, vernacular, spoken lines in opera"
+      },
+      {
+        "Chinese": "先走",
+        "Pinyin": "xiān zǒu",
+        "English": "goes first"
+      },
+      {
+        "Chinese": "白胜",
+        "Pinyin": "bái shèng",
+        "English": "White wins"
+      }
+    ]
+  },
+  {
+    "chinese": "还没有。",
+    "pinyin": "hái méi yǒu.",
+    "english": "Not yet.",
+    "allWords": [
+      {
+        "Chinese": "还",
+        "Pinyin": "hái",
+        "English": "still, surname Huan, still, still in progress, still more, yet, even more, in addition, fairly, passably (good), as early as, even, also, else, to pay back, to return"
+      },
+      {
+        "Chinese": "没有",
+        "Pinyin": "méi yǒu",
+        "English": "not have, haven't, hasn't, doesn't exist, to not have, to not be"
+      }
+    ]
+  },
+  {
+    "chinese": "我先要去银行，然后去买票。",
+    "pinyin": "wǒ xiān yào qù yínháng, ránhòu qù mǎi piào.",
+    "english": "I need to go to the bank first, and then buy a ticket.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "先",
+        "Pinyin": "xiān",
+        "English": "first, early, prior, former, in advance, first"
+      },
+      {
+        "Chinese": "要",
+        "Pinyin": "yào",
+        "English": "need, to demand, to request, to coerce, important, vital, to want, to ask for, will, going to (as future auxiliary), may, must, (used in a comparison) must be, probably, if"
+      },
+      {
+        "Chinese": "去",
+        "Pinyin": "qù",
+        "English": "to go, to go, to go to (a place), (of a time etc) last, just passed, to send, to remove, to get rid of, to reduce, to be apart from in space or time, to die (euphemism), to play (a part), (when used either before or after a verb) to go in order to do sth, (after a verb of motion indicates movement away from the speaker), (used after certain verbs to indicate detachment or separation)"
+      },
+      {
+        "Chinese": "银行",
+        "Pinyin": "yínháng",
+        "English": "bank, bank, CL:家"
+      },
+      {
+        "Chinese": "然后",
+        "Pinyin": "ránhòu",
+        "English": "and then, after, then (afterwards), after that, afterwards"
+      },
+      {
+        "Chinese": "买",
+        "Pinyin": "mǎi",
+        "English": "to buy, to buy, to purchase"
+      },
+      {
+        "Chinese": "票",
+        "Pinyin": "piào",
+        "English": "ticket, ticket, ballot, banknote, CL:張|张"
+      }
+    ]
+  },
+  {
+    "chinese": "他遇到了事故。",
+    "pinyin": "tā yù dào le shì gù。",
+    "english": "He encountered an accident.",
+    "allWords": [
+      {
+        "Chinese": "他",
+        "Pinyin": "tā",
+        "English": "he, he or him, (used for either sex when the sex is unknown or unimportant), (used before sb's name for emphasis), (used as a meaningless mock object), other, another"
+      },
+      {
+        "Chinese": "遇到",
+        "Pinyin": "yù dào",
+        "English": "encountered, to meet, to run into, to come across"
+      },
+      {
+        "Chinese": "了",
+        "Pinyin": "le",
+        "English": "an, (completed action marker), (modal particle indicating change of state, situation now), (modal particle intensifying preceding clause), to finish, to achieve, variant of 瞭|了, (of eyes) bright, clear-sighted, to understand clearly, unofficial variant of 瞭"
+      },
+      {
+        "Chinese": "事故",
+        "Pinyin": "shì gù",
+        "English": "accident, accident, CL:樁|桩"
+      }
+    ]
+  },
+  {
+    "chinese": "你用哪一个浏览器？",
+    "pinyin": "Nǐ yòng nǎ yī gè liúlǎn qì?",
+    "english": "Which browser do you use?",
+    "allWords": [
+      {
+        "Chinese": "你",
+        "Pinyin": "nǐ",
+        "English": "you, you (informal, as opposed to courteous 您"
+      },
+      {
+        "Chinese": "用",
+        "Pinyin": "yòng",
+        "English": "use, to use, to employ, to have to, to eat or drink, expense or outlay, usefulness, hence, therefore"
+      },
+      {
+        "Chinese": "哪一个",
+        "Pinyin": "nǎ yī gè",
+        "English": "which, which"
+      },
+      {
+        "Chinese": "浏览器",
+        "Pinyin": "liúlǎn qì",
+        "English": "browser, browser (software)"
+      }
+    ]
+  },
+  {
+    "chinese": "你最喜欢哪一个网络浏览器？",
+    "pinyin": "Nǐ zuì xǐhuān nǎ yīgè wǎngluò liúlǎnqì?",
+    "english": "Which web browser do you like the most?",
+    "allWords": [
+      {
+        "Chinese": "你",
+        "Pinyin": "nǐ",
+        "English": "you, you (informal, as opposed to courteous 您"
+      },
+      {
+        "Chinese": "最",
+        "Pinyin": "zuì",
+        "English": "most, variant of 最, old variant of 最, most, the most, -est (superlative suffix)"
+      },
+      {
+        "Chinese": "喜欢",
+        "Pinyin": "xǐhuān",
+        "English": "like, to like, to be fond of"
+      },
+      {
+        "Chinese": "哪一个",
+        "Pinyin": "nǎ yīgè",
+        "English": "which one, which"
+      },
+      {
+        "Chinese": "网络",
+        "Pinyin": "wǎngluò",
+        "English": "web, Internet, network (computing, telecommunications, transport etc)"
+      },
+      {
+        "Chinese": "浏览器",
+        "Pinyin": "liúlǎnqì",
+        "English": "browser, browser (software)"
+      }
+    ]
+  },
+  {
+    "chinese": "效果让我爸爸满意。",
+    "pinyin": "Xiàoguǒ ràng wǒ bàba mǎnyì.",
+    "english": "The result satisfied my father.",
+    "allWords": [
+      {
+        "Chinese": "效果",
+        "Pinyin": "xiàoguǒ",
+        "English": "result, result, effect, efficacy, (theater) sound or visual effects"
+      },
+      {
+        "Chinese": "让",
+        "Pinyin": "ràng",
+        "English": "let, to yield, to permit, to let sb do sth, to have sb do sth, to make sb (feel sad etc), by (indicates the agent in a passive clause, like 被"
+      },
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "my, I, me, my"
+      },
+      {
+        "Chinese": "爸爸",
+        "Pinyin": "bàba",
+        "English": "father, (informal) father, CL:個|个"
+      },
+      {
+        "Chinese": "满意",
+        "Pinyin": "mǎnyì",
+        "English": "satisfied, satisfied, pleased, to one's satisfaction"
+      }
+    ]
+  },
+  {
+    "chinese": "我的钱不超一千日元。",
+    "pinyin": "Wǒ de qián bù chāo yīqiān rì yuán.",
+    "english": "My money is not more than one thousand yen.",
+    "allWords": [
+      {
+        "Chinese": "我的",
+        "Pinyin": "wǒ de",
+        "English": "my"
+      },
+      {
+        "Chinese": "钱",
+        "Pinyin": "qián",
+        "English": "money, surname Qian, coin, money, CL:筆|笔"
+      },
+      {
+        "Chinese": "不",
+        "Pinyin": "bù",
+        "English": "not, (negative prefix), not, no"
+      },
+      {
+        "Chinese": "超",
+        "Pinyin": "chāo",
+        "English": "more than, to exceed, to overtake, to surpass, to transcend, to pass, to cross, ultra-, super-"
+      },
+      {
+        "Chinese": "一千",
+        "Pinyin": "yīqiān",
+        "English": "one thousand"
+      },
+      {
+        "Chinese": "日元",
+        "Pinyin": "rì yuán",
+        "English": "yen, Japanese yen (unit of currency), also written 日圓|日圆"
+      }
+    ]
+  },
+  {
+    "chinese": "我狗是白色的。",
+    "pinyin": "wǒ gǒu shì báisè de.",
+    "english": "My dog is white.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "狗",
+        "Pinyin": "gǒu",
+        "English": "dog, dog, CL:隻|只"
+      },
+      {
+        "Chinese": "是",
+        "Pinyin": "shì",
+        "English": "is, is, are, am, yes, to be, variant of 是"
+      },
+      {
+        "Chinese": "白色的",
+        "Pinyin": "báisè de",
+        "English": "white"
+      }
+    ]
+  },
+  {
+    "chinese": "她花实在太多的时间在网上冲浪。",
+    "pinyin": "tā huā shí zài tài duō de shí jiān zài wǎng shàng chōng làng.",
+    "english": "She spends too much time surfing the internet.",
+    "allWords": [
+      {
+        "Chinese": "她",
+        "Pinyin": "tā",
+        "English": "She, she"
+      },
+      {
+        "Chinese": "花",
+        "Pinyin": "huā",
+        "English": "spends, surname Hua, flower, blossom, CL:朵, old variant of 花, variant of 花"
+      },
+      {
+        "Chinese": "实在",
+        "Pinyin": "shí zài",
+        "English": "too, really, actually, indeed, true, real, honest, dependable, (philosophy) reality"
+      },
+      {
+        "Chinese": "太多",
+        "Pinyin": "tài duō",
+        "English": "much"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "time, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "时间",
+        "Pinyin": "shí jiān",
+        "English": "on, time, period, CL:段"
+      },
+      {
+        "Chinese": "在",
+        "Pinyin": "zài",
+        "English": "the, (located) at, (to be) in, to exist, in the middle of doing sth, (indicating an action in progress)"
+      },
+      {
+        "Chinese": "网上",
+        "Pinyin": "wǎng shàng",
+        "English": "internet, online"
+      },
+      {
+        "Chinese": "冲浪",
+        "Pinyin": "chōng làng",
+        "English": "surfing, to surf, surfing"
+      }
+    ]
+  },
+  {
+    "chinese": "我希望我有一个像你一样的朋友。",
+    "pinyin": "Wǒ xīwàng wǒ yǒu yīgè xiàng nǐ yīyàng de péngyǒu.",
+    "english": "I wish I had a friend like you.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "希望",
+        "Pinyin": "xīwàng",
+        "English": "wish, to wish for, to desire, hope, CL:個|个"
+      },
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "有",
+        "Pinyin": "yǒu",
+        "English": "have, to have, there is, there are, to exist, to be"
+      },
+      {
+        "Chinese": "一个",
+        "Pinyin": "yīgè",
+        "English": "a"
+      },
+      {
+        "Chinese": "像",
+        "Pinyin": "xiàng",
+        "English": "like, to resemble, to be like, to look as if, such as, appearance, image, portrait, image under a mapping (math.)"
+      },
+      {
+        "Chinese": "你",
+        "Pinyin": "nǐ",
+        "English": "you, you (informal, as opposed to courteous 您"
+      },
+      {
+        "Chinese": "一样",
+        "Pinyin": "yīyàng",
+        "English": "same, same, like, equal to, the same as, just like"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "of, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "朋友",
+        "Pinyin": "péngyǒu",
+        "English": "friend, friend, CL:個|个"
+      }
+    ]
+  },
+  {
+    "chinese": "是这样的。",
+    "pinyin": "shì zhèyàng de.",
+    "english": "That's the way it is.",
+    "allWords": [
+      {
+        "Chinese": "是",
+        "Pinyin": "shì",
+        "English": "is, is, are, am, yes, to be, variant of 是"
+      },
+      {
+        "Chinese": "这样",
+        "Pinyin": "zhèyàng",
+        "English": "this way, this kind of, so, this way, like this, such"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": " 's, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      }
+    ]
+  },
+  {
+    "chinese": "他坐了下来听收音机。",
+    "pinyin": "tā zuò le xià lái tīng shōu yīn jī",
+    "english": "He sat down and listened to the radio.",
+    "allWords": [
+      {
+        "Chinese": "他",
+        "Pinyin": "tā",
+        "English": "he, he or him, (used for either sex when the sex is unknown or unimportant), (used before sb's name for emphasis), (used as a meaningless mock object), other, another"
+      },
+      {
+        "Chinese": "坐",
+        "Pinyin": "zuò",
+        "English": "sit, surname Zuo, to sit, to take a seat, to take (a bus, airplane etc), to bear fruit, variant of 座"
+      },
+      {
+        "Chinese": "了",
+        "Pinyin": "le",
+        "English": "down, (completed action marker), (modal particle indicating change of state, situation now), (modal particle intensifying preceding clause), to finish, to achieve, variant of 瞭|了, (of eyes) bright, clear-sighted, to understand clearly, unofficial variant of 瞭"
+      },
+      {
+        "Chinese": "下来",
+        "Pinyin": "xià lái",
+        "English": "sit down, to come down, (completed action marker), (after verb of motion, indicates motion down and towards us, also fig.), (indicates continuation from the past towards us), to be harvested (of crops), to be over (of a period of time), to go among the masses (said of leaders)"
+      },
+      {
+        "Chinese": "听",
+        "Pinyin": "tīng",
+        "English": "listen, smile (archaic), to listen, to hear, to obey, a can (loanword from English \"tin\"), classifier for canned beverages, (literary pronunciation, still advocated in Taiwan) to rule, to sentence, to allow"
+      },
+      {
+        "Chinese": "收音机",
+        "Pinyin": "shōu yīn jī",
+        "English": "radio, radio, CL:臺|台"
+      }
+    ]
+  },
+  {
+    "chinese": "天太冷了，以至于没人想去外面。",
+    "pinyin": "Tiān tài lěng le, yǐ zhì yú méi rén xiǎng qù wàimiàn.",
+    "english": "It's so cold that no one wants to go outside.",
+    "allWords": [
+      {
+        "Chinese": "天",
+        "Pinyin": "tiān",
+        "English": "day, day, sky, heaven"
+      },
+      {
+        "Chinese": "太",
+        "Pinyin": "tài",
+        "English": "too, highest, greatest, too (much), very, extremely"
+      },
+      {
+        "Chinese": "冷",
+        "Pinyin": "lěng",
+        "English": "cold, surname Leng, cold"
+      },
+      {
+        "Chinese": "了",
+        "Pinyin": "le",
+        "English": "already, (completed action marker), (modal particle indicating change of state, situation now), (modal particle intensifying preceding clause), to finish, to achieve, variant of 瞭|了, (of eyes) bright, clear-sighted, to understand clearly, unofficial variant of 瞭"
+      },
+      {
+        "Chinese": "以至于",
+        "Pinyin": "yǐ zhì yú",
+        "English": "so that, down to, up to, to the extent that..."
+      },
+      {
+        "Chinese": "没人",
+        "Pinyin": "méi rén",
+        "English": "nobody"
+      },
+      {
+        "Chinese": "想去",
+        "Pinyin": "xiǎng qù",
+        "English": "wants to go"
+      },
+      {
+        "Chinese": "外面",
+        "Pinyin": "wàimiàn",
+        "English": "outside, outside (also pr."
+      }
+    ]
+  },
+  {
+    "chinese": "他已经超过四十岁了。",
+    "pinyin": "tā yǐjīng chāoguò sìshí suìle。",
+    "english": "He is already over forty years old.",
+    "allWords": [
+      {
+        "Chinese": "他",
+        "Pinyin": "tā",
+        "English": "He, he or him, (used for either sex when the sex is unknown or unimportant), (used before sb's name for emphasis), (used as a meaningless mock object), other, another"
+      },
+      {
+        "Chinese": "已经",
+        "Pinyin": "yǐjīng",
+        "English": "already, already"
+      },
+      {
+        "Chinese": "超过",
+        "Pinyin": "chāoguò",
+        "English": "over, to surpass, to exceed, to outstrip"
+      },
+      {
+        "Chinese": "四十",
+        "Pinyin": "sìshí",
+        "English": "forty, forty, 40"
+      },
+      {
+        "Chinese": "岁",
+        "Pinyin": "suì",
+        "English": "years old, variant of 歲|岁, classifier for years (of age), year, year (of crop harvests)"
+      },
+      {
+        "Chinese": "了",
+        "Pinyin": "le",
+        "English": ", (completed action marker), (modal particle indicating change of state, situation now), (modal particle intensifying preceding clause), to finish, to achieve, variant of 瞭|了, (of eyes) bright, clear-sighted, to understand clearly, unofficial variant of 瞭"
+      }
+    ]
+  },
+  {
+    "chinese": "给我一段粉笔。",
+    "pinyin": "gěi wǒ yī duàn fěn bǐ.",
+    "english": "Give me a piece of chalk.",
+    "allWords": [
+      {
+        "Chinese": "给",
+        "Pinyin": "gěi",
+        "English": "give, to, for, for the benefit of, to give, to allow, to do sth (for sb), (grammatical equivalent of 被), (grammatical equivalent of 把), (sentence intensifier), to supply, to provide"
+      },
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "me, I, me, my"
+      },
+      {
+        "Chinese": "一",
+        "Pinyin": "yī",
+        "English": "one, one, 1, single, a (article), as soon as, entire, whole, all, throughout, \"one\" radical in Chinese characters (Kangxi radical 1), also pr."
+      },
+      {
+        "Chinese": "段",
+        "Pinyin": "duàn",
+        "English": "piece, surname Duan, paragraph, section, segment, stage (of a process), classifier for stories, periods of time, lengths of thread etc"
+      },
+      {
+        "Chinese": "粉笔",
+        "Pinyin": "fěn bǐ",
+        "English": "chalk, chalk, CL:支"
+      }
+    ]
+  },
+  {
+    "chinese": "这是我自己的自行车。",
+    "pinyin": "zhè shì wǒ zìjǐ de zìxíngchē。",
+    "english": "This is my own bicycle.",
+    "allWords": [
+      {
+        "Chinese": "这",
+        "Pinyin": "zhè",
+        "English": "this, this, these, (commonly pr."
+      },
+      {
+        "Chinese": "是",
+        "Pinyin": "shì",
+        "English": "is, is, are, am, yes, to be, variant of 是"
+      },
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "自己",
+        "Pinyin": "zìjǐ",
+        "English": "my own, oneself, one's own"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "of, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "自行车",
+        "Pinyin": "zìxíngchē",
+        "English": "bicycle, bicycle, bike, CL:輛|辆"
+      }
+    ]
+  },
+  {
+    "chinese": "部落成员沿着河岸定居了。",
+    "pinyin": "bù luò chéng yuán yán zhē hé àn dìng jū le.",
+    "english": "The tribe members settled along the riverbank.",
+    "allWords": [
+      {
+        "Chinese": "部落",
+        "Pinyin": "bù luò",
+        "English": "tribe, tribe"
+      },
+      {
+        "Chinese": "成员",
+        "Pinyin": "chéng yuán",
+        "English": "members, member"
+      },
+      {
+        "Chinese": "沿着",
+        "Pinyin": "yán zhē",
+        "English": "along, to go along, to follow"
+      },
+      {
+        "Chinese": "河岸",
+        "Pinyin": "hé àn",
+        "English": "riverbank, riverside, river bank"
+      },
+      {
+        "Chinese": "定居",
+        "Pinyin": "dìng jū",
+        "English": "settled, to settle (in some city, country etc), to take up residence"
+      },
+      {
+        "Chinese": "了",
+        "Pinyin": "le",
+        "English": ", (completed action marker), (modal particle indicating change of state, situation now), (modal particle intensifying preceding clause), to finish, to achieve, variant of 瞭|了, (of eyes) bright, clear-sighted, to understand clearly, unofficial variant of 瞭"
+      }
+    ]
+  },
+  {
+    "chinese": "公安人员把小偷抓住了。",
+    "pinyin": "Gōng ān rényuán bǎ xiǎotōu zhuāzhùle.",
+    "english": "The police caught the thief.",
+    "allWords": [
+      {
+        "Chinese": "公安",
+        "Pinyin": "gōng ān",
+        "English": "police, (Ministry of) Public Security, public safety, public security"
+      },
+      {
+        "Chinese": "人员",
+        "Pinyin": "rényuán",
+        "English": "personnel, staff, crew, personnel, CL:個|个"
+      },
+      {
+        "Chinese": "把",
+        "Pinyin": "bǎ",
+        "English": "catch, to hold, to contain, to grasp, to take hold of, handle, particle marking the following noun as a direct object, classifier for objects with handle, classifier for small objects: handful, handle"
+      },
+      {
+        "Chinese": "小偷",
+        "Pinyin": "xiǎotōu",
+        "English": "thief, thief"
+      },
+      {
+        "Chinese": "抓住",
+        "Pinyin": "zhuāzhù",
+        "English": "caught, to grab, to capture"
+      },
+      {
+        "Chinese": "了",
+        "Pinyin": "le",
+        "English": ", (completed action marker), (modal particle indicating change of state, situation now), (modal particle intensifying preceding clause), to finish, to achieve, variant of 瞭|了, (of eyes) bright, clear-sighted, to understand clearly, unofficial variant of 瞭"
+      }
+    ]
+  },
+  {
+    "chinese": "我们在厦威夷一年到头都可以享受在海里游泳的乐趣。",
+    "pinyin": "wǒmen zài xiàwēiyí yēardàotóu dōu kěyǐ xiǎngshòu zài hǎilǐ yóuyǒng de lèqù。",
+    "english": "We can enjoy the fun of swimming in the sea all year round in Hawaii.",
+    "allWords": [
+      {
+        "Chinese": "我们",
+        "Pinyin": "wǒmen",
+        "English": "We, we, us, ourselves, our"
+      },
+      {
+        "Chinese": "在",
+        "Pinyin": "zài",
+        "English": "in, (located) at, (to be) in, to exist, in the middle of doing sth, (indicating an action in progress)"
+      },
+      {
+        "Chinese": "厦威夷",
+        "Pinyin": "xiàwēiyí",
+        "English": "Hawaii"
+      },
+      {
+        "Chinese": "一年到头",
+        "Pinyin": "yēardàotóu",
+        "English": "all year round, all year round"
+      },
+      {
+        "Chinese": "都",
+        "Pinyin": "dōu",
+        "English": "all, surname Du, all, both, entirely, (used for emphasis) even, already, (not) at all, capital city, metropolis"
+      },
+      {
+        "Chinese": "可以",
+        "Pinyin": "kěyǐ",
+        "English": "can, can, may, possible, able to, not bad, pretty good"
+      },
+      {
+        "Chinese": "享受",
+        "Pinyin": "xiǎngshòu",
+        "English": "enjoy, to enjoy, to live it up, pleasure, CL:種|种"
+      },
+      {
+        "Chinese": "在",
+        "Pinyin": "zài",
+        "English": "in, (located) at, (to be) in, to exist, in the middle of doing sth, (indicating an action in progress)"
+      },
+      {
+        "Chinese": "海里",
+        "Pinyin": "hǎilǐ",
+        "English": "in the sea, nautical mile"
+      },
+      {
+        "Chinese": "游泳",
+        "Pinyin": "yóuyǒng",
+        "English": "swimming, swimming, to swim"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "of, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "乐趣",
+        "Pinyin": "lèqù",
+        "English": "fun, delight, pleasure, joy"
+      }
+    ]
+  },
+  {
+    "chinese": "在厦威夷，一个人可以一年到头享受海水浴的乐趣。",
+    "pinyin": "Zài xià wēiyí, yīgè rén kěyǐ yī nián dàotóu xiǎngshòu hǎishuǐyù de lèqù.",
+    "english": "In Hawaii, one can enjoy the pleasure of swimming in the sea all year round.",
+    "allWords": [
+      {
+        "Chinese": "在",
+        "Pinyin": "zài",
+        "English": "In, (located) at, (to be) in, to exist, in the middle of doing sth, (indicating an action in progress)"
+      },
+      {
+        "Chinese": "厦威夷",
+        "Pinyin": "xià wēiyí",
+        "English": "Hawaii"
+      },
+      {
+        "Chinese": "一个人",
+        "Pinyin": "yīgè rén",
+        "English": "one, by oneself (without assistance), alone (without company)"
+      },
+      {
+        "Chinese": "可以",
+        "Pinyin": "kěyǐ",
+        "English": "can, can, may, possible, able to, not bad, pretty good"
+      },
+      {
+        "Chinese": "一年到头",
+        "Pinyin": "yī nián dàotóu",
+        "English": "all year round, all year round"
+      },
+      {
+        "Chinese": "享受",
+        "Pinyin": "xiǎngshòu",
+        "English": "enjoy, to enjoy, to live it up, pleasure, CL:種|种"
+      },
+      {
+        "Chinese": "海水浴",
+        "Pinyin": "hǎishuǐyù",
+        "English": "swimming in the sea"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "of, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "乐趣",
+        "Pinyin": "lèqù",
+        "English": "pleasure, delight, pleasure, joy"
+      }
+    ]
+  },
+  {
+    "chinese": "他们正在焚书。",
+    "pinyin": "tāmen zhèngzài fénshū。",
+    "english": "They are burning books.",
+    "allWords": [
+      {
+        "Chinese": "他们",
+        "Pinyin": "tāmen",
+        "English": "They, they"
+      },
+      {
+        "Chinese": "正在",
+        "Pinyin": "zhèngzài",
+        "English": "are, just at (that time), right in (that place), right in the middle of (doing sth)"
+      },
+      {
+        "Chinese": "焚书",
+        "Pinyin": "fénshū",
+        "English": "burning books"
+      }
+    ]
+  },
+  {
+    "chinese": "我建议让我们结束会议。",
+    "pinyin": "wǒ jiànyì ràng wǒmen jiéshù huìyì.",
+    "english": "I suggest we end the meeting.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "建议",
+        "Pinyin": "jiànyì",
+        "English": "suggest, to propose, to suggest, to recommend, proposal, suggestion, recommendation, CL:個|个"
+      },
+      {
+        "Chinese": "让",
+        "Pinyin": "ràng",
+        "English": "let, to yield, to permit, to let sb do sth, to have sb do sth, to make sb (feel sad etc), by (indicates the agent in a passive clause, like 被"
+      },
+      {
+        "Chinese": "我们",
+        "Pinyin": "wǒmen",
+        "English": "we, we, us, ourselves, our"
+      },
+      {
+        "Chinese": "结束",
+        "Pinyin": "jiéshù",
+        "English": "end, termination, to finish, to end, to conclude, to close"
+      },
+      {
+        "Chinese": "会议",
+        "Pinyin": "huìyì",
+        "English": "meeting, meeting, conference, CL:場|场"
+      }
+    ]
+  },
+  {
+    "chinese": "我觉得世界语很难学。",
+    "pinyin": "wǒ juéde shìjièyǔ hěn nánxué。",
+    "english": "I think Esperanto is difficult to learn.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "觉得",
+        "Pinyin": "juéde",
+        "English": "think, to think, to feel"
+      },
+      {
+        "Chinese": "世界语",
+        "Pinyin": "shìjièyǔ",
+        "English": "Esperanto, Esperanto"
+      },
+      {
+        "Chinese": "很",
+        "Pinyin": "hěn",
+        "English": "is, (adverb of degree), quite, very, awfully"
+      },
+      {
+        "Chinese": "难",
+        "Pinyin": "nán",
+        "English": "difficult, difficult (to...), problem, difficulty, difficult, not good, disaster, distress, to scold"
+      },
+      {
+        "Chinese": "学",
+        "Pinyin": "xué",
+        "English": "to learn, to learn, to study, to imitate, science, -ology"
+      }
+    ]
+  },
+  {
+    "chinese": "请把发动机关掉。",
+    "pinyin": "qǐng bǎ fādòngjī guāndiào.",
+    "english": "Please turn off the engine.",
+    "allWords": [
+      {
+        "Chinese": "请",
+        "Pinyin": "qǐng",
+        "English": "please, to ask, to invite, please (do sth), to treat (to a meal etc), to request"
+      },
+      {
+        "Chinese": "把",
+        "Pinyin": "bǎ",
+        "English": "turn, to hold, to contain, to grasp, to take hold of, handle, particle marking the following noun as a direct object, classifier for objects with handle, classifier for small objects: handful, handle"
+      },
+      {
+        "Chinese": "发动机",
+        "Pinyin": "fādòngjī",
+        "English": "engine, engine, motor, CL:臺|台"
+      },
+      {
+        "Chinese": "关",
+        "Pinyin": "guān",
+        "English": "off, surname Guan, mountain pass, to close, to shut, to turn off, to concern, to involve"
+      },
+      {
+        "Chinese": "掉",
+        "Pinyin": "diào",
+        "English": "down, to fall, to drop, to lag behind, to lose, to go missing, to reduce, fall (in prices), to lose (value, weight etc), to wag, to swing, to turn, to change, to exchange, to swap, to show off, to shed (hair), (used after certain verbs to express completion, fulfillment, removal etc)"
+      }
+    ]
+  },
+  {
+    "chinese": "请关闭引擎。",
+    "pinyin": "qǐng guān bìng qǐ",
+    "english": "Please turn off the engine.",
+    "allWords": [
+      {
+        "Chinese": "请",
+        "Pinyin": "qǐng",
+        "English": "Please, to ask, to invite, please (do sth), to treat (to a meal etc), to request"
+      },
+      {
+        "Chinese": "关闭",
+        "Pinyin": "guān bì",
+        "English": "turn off, to close, to shut"
+      },
+      {
+        "Chinese": "引擎",
+        "Pinyin": "qǐ",
+        "English": "engine, engine (loanword), CL:臺|台"
+      }
+    ]
+  },
+  {
+    "chinese": "难道他可以买一把刀，而我就不行了？",
+    "pinyin": "nán dào tā kě yǐ mǎi yī bǎ dāo ，ér wǒ jiù bù xíng le ？",
+    "english": "Can he buy a knife and I can't?",
+    "allWords": [
+      {
+        "Chinese": "难道",
+        "Pinyin": "nán dào",
+        "English": "Can it be that, don't tell me ..., could it be that...?"
+      },
+      {
+        "Chinese": "他",
+        "Pinyin": "tā",
+        "English": "he, he or him, (used for either sex when the sex is unknown or unimportant), (used before sb's name for emphasis), (used as a meaningless mock object), other, another"
+      },
+      {
+        "Chinese": "可以",
+        "Pinyin": "kě yǐ",
+        "English": "can, can, may, possible, able to, not bad, pretty good"
+      },
+      {
+        "Chinese": "买",
+        "Pinyin": "mǎi",
+        "English": "buy, to buy, to purchase"
+      },
+      {
+        "Chinese": "一把",
+        "Pinyin": "yī bǎ",
+        "English": "a"
+      },
+      {
+        "Chinese": "刀",
+        "Pinyin": "dāo",
+        "English": "knife, surname Dao, knife, blade, single-edged sword, cutlass, CL:把"
+      },
+      {
+        "Chinese": "而",
+        "Pinyin": "ér",
+        "English": "and, and, as well as, and so, but (not), yet (not), (indicates causal relation), (indicates change of state), (indicates contrast)"
+      },
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "就不行了",
+        "Pinyin": "jiù bù xíng le",
+        "English": "can't"
+      }
+    ]
+  },
+  {
+    "chinese": "我们既不知道而又没听到过这件事。",
+    "pinyin": "wǒmen jì bù zhīdào ér yòu méi tīngdào guò zhè jiàn shì.",
+    "english": "We not only don't know but have also never heard of this matter.",
+    "allWords": [
+      {
+        "Chinese": "我们",
+        "Pinyin": "wǒmen",
+        "English": "We, we, us, ourselves, our"
+      },
+      {
+        "Chinese": "既",
+        "Pinyin": "jì",
+        "English": "not only, already, since, both... (and...)"
+      },
+      {
+        "Chinese": "不",
+        "Pinyin": "bù",
+        "English": "don't, (negative prefix), not, no"
+      },
+      {
+        "Chinese": "知道",
+        "Pinyin": "zhīdào",
+        "English": "know, to know, to become aware of, also pr."
+      },
+      {
+        "Chinese": "而又",
+        "Pinyin": "ér yòu",
+        "English": "but also"
+      },
+      {
+        "Chinese": "没",
+        "Pinyin": "méi",
+        "English": "have not, (negative prefix for verbs), have not, not, drowned, to end, to die, to inundate"
+      },
+      {
+        "Chinese": "听到",
+        "Pinyin": "tīngdào",
+        "English": "heard, to hear"
+      },
+      {
+        "Chinese": "过",
+        "Pinyin": "guò",
+        "English": "of, surname Guo, to cross, to go over, to pass (time), to celebrate (a holiday), to live, to get along, excessively, too-, (experienced action marker)"
+      },
+      {
+        "Chinese": "这件事",
+        "Pinyin": "zhè jiàn shì",
+        "English": "this matter"
+      }
+    ]
+  },
+  {
+    "chinese": "她做了一个四人份的巧克力香草蛋糕。",
+    "pinyin": "Tā zuòle yīgè sì rén fèn de qiǎo kèlì xiāngcǎo dàngāo.",
+    "english": "She made a four-person serving chocolate and vanilla cake.",
+    "allWords": [
+      {
+        "Chinese": "她",
+        "Pinyin": "tā",
+        "English": "She, she"
+      },
+      {
+        "Chinese": "做了",
+        "Pinyin": "zuòle",
+        "English": "made"
+      },
+      {
+        "Chinese": "一个",
+        "Pinyin": "yīgè",
+        "English": "a"
+      },
+      {
+        "Chinese": "四人份",
+        "Pinyin": "sì rén fèn",
+        "English": "four-person serving"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": ", of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "巧克力香草蛋糕",
+        "Pinyin": "qiǎo kèlì xiāngcǎo dàngāo",
+        "English": "chocolate and vanilla cake"
+      }
+    ]
+  },
+  {
+    "chinese": "我认为是一幅毕加索的原画。",
+    "pinyin": "wǒ rèn wéi shì yī fú bì jiā suǒ de yuán huà。",
+    "english": "I think it's an original painting by Picasso.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "认为",
+        "Pinyin": "rèn wéi",
+        "English": "think, to believe, to think, to consider, to feel"
+      },
+      {
+        "Chinese": "是",
+        "Pinyin": "shì",
+        "English": "is, is, are, am, yes, to be, variant of 是"
+      },
+      {
+        "Chinese": "一",
+        "Pinyin": "yī",
+        "English": "an, one, 1, single, a (article), as soon as, entire, whole, all, throughout, \"one\" radical in Chinese characters (Kangxi radical 1), also pr."
+      },
+      {
+        "Chinese": "幅",
+        "Pinyin": "fú",
+        "English": "piece, width, roll, classifier for textiles or pictures"
+      },
+      {
+        "Chinese": "毕加索",
+        "Pinyin": "bì jiā suǒ",
+        "English": "Picasso, Picasso"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "of, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "原画",
+        "Pinyin": "yuán huà",
+        "English": "original painting"
+      }
+    ]
+  },
+  {
+    "chinese": "我从马来西亚来的妈妈觉得那三匹马马马虎虎。",
+    "pinyin": "wǒ cóng mǎ lái xī yà lái de mā ma jué de nà sān pǐ mǎ mǎ mǎ hū hū。",
+    "english": "My mother who came from Malaysia thinks those three horses are just so-so.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "从",
+        "Pinyin": "cóng",
+        "English": "from, variant of 從|从, surname Cong, from, through, via, to follow, to obey, to engage in (an activity), never (in negative sentence), (Taiwan pr."
+      },
+      {
+        "Chinese": "马来西亚",
+        "Pinyin": "mǎ lái xī yà",
+        "English": "Malaysia, Malaysia"
+      },
+      {
+        "Chinese": "来",
+        "Pinyin": "lái",
+        "English": "came, to come, to arrive, to come round, ever since, next"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "of, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "妈妈",
+        "Pinyin": "mā ma",
+        "English": "mother, mama, mommy, mother, CL:個|个"
+      },
+      {
+        "Chinese": "觉得",
+        "Pinyin": "jué de",
+        "English": "thinks, to think, to feel"
+      },
+      {
+        "Chinese": "那",
+        "Pinyin": "nà",
+        "English": "those, surname Na, surname Nuo, variant of 哪, that, those, then (in that case), commonly pr., (archaic) many, beautiful, how, old variant of 挪"
+      },
+      {
+        "Chinese": "三",
+        "Pinyin": "sān",
+        "English": "three, surname San, three, 3"
+      },
+      {
+        "Chinese": "匹",
+        "Pinyin": "pǐ",
+        "English": "horses, mate, one of a pair, classifier for horses, mules etc, Taiwan pr., variant of 匹"
+      },
+      {
+        "Chinese": "马",
+        "Pinyin": "mǎ",
+        "English": "horse, surname Ma, abbr. for Malaysia 馬來西亞|马来西亚, horse, CL:匹"
+      },
+      {
+        "Chinese": "马虎",
+        "Pinyin": "mǎ hū",
+        "English": "just so-so, careless, sloppy, negligent, skimpy"
+      },
+      {
+        "Chinese": "虎",
+        "Pinyin": "hū",
+        "English": "tiger, tiger, CL:隻|只"
+      }
+    ]
+  },
+  {
+    "chinese": "这个周末你想吃什么？",
+    "pinyin": "Zhège zhōumò nǐ xiǎng chī shénme?",
+    "english": "What do you want to eat this weekend?",
+    "allWords": [
+      {
+        "Chinese": "这个",
+        "Pinyin": "zhè gè",
+        "English": "this, this, this one"
+      },
+      {
+        "Chinese": "周末",
+        "Pinyin": "zhōu mò",
+        "English": "weekend, weekend"
+      },
+      {
+        "Chinese": "你",
+        "Pinyin": "nǐ",
+        "English": "you, you (informal, as opposed to courteous 您"
+      },
+      {
+        "Chinese": "想",
+        "Pinyin": "xiǎng",
+        "English": "want, to think, to believe, to suppose, to wish, to want, to miss (feel wistful about the absence of sb or sth)"
+      },
+      {
+        "Chinese": "吃",
+        "Pinyin": "chī",
+        "English": "eat, to eat, to consume, to eat at (a cafeteria etc), to eradicate, to destroy, to absorb, to suffer, to stammer (Taiwan pr. for this sense is, variant of 吃"
+      },
+      {
+        "Chinese": "什么",
+        "Pinyin": "shénme",
+        "English": "what, what?, something, anything"
+      }
+    ]
+  },
+  {
+    "chinese": "我想吃韩国菜。",
+    "pinyin": "wǒ xiǎng chī hánguó cài.",
+    "english": "I want to eat Korean food.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "想",
+        "Pinyin": "xiǎng",
+        "English": "want, to think, to believe, to suppose, to wish, to want, to miss (feel wistful about the absence of sb or sth)"
+      },
+      {
+        "Chinese": "吃",
+        "Pinyin": "chī",
+        "English": "to eat, to eat, to consume, to eat at (a cafeteria etc), to eradicate, to destroy, to absorb, to suffer, to stammer (Taiwan pr. for this sense is, variant of 吃"
+      },
+      {
+        "Chinese": "韩国菜",
+        "Pinyin": "hánguó cài",
+        "English": "Korean food"
+      }
+    ]
+  },
+  {
+    "chinese": "我不会喝咖啡。",
+    "pinyin": "wǒ bù huì hē kāfēi.",
+    "english": "I don't know how to drink coffee.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "不会",
+        "Pinyin": "bù huì",
+        "English": "don't know how to, improbable, unlikely, will not (act, happen etc), not able, not having learned to do sth, (coll.) (Tw) don't mention it, not at all"
+      },
+      {
+        "Chinese": "喝",
+        "Pinyin": "hē",
+        "English": "drink, to drink, variant of 嗬, to shout"
+      },
+      {
+        "Chinese": "咖啡",
+        "Pinyin": "kāfēi",
+        "English": "coffee, coffee (loanword), CL:杯"
+      }
+    ]
+  },
+  {
+    "chinese": "请不要在图书馆的书上涂写。",
+    "pinyin": "Qǐng bù yào zài tú shū guǎn de shū shàng tú xiě。",
+    "english": "Please do not write on the books in the library.",
+    "allWords": [
+      {
+        "Chinese": "请",
+        "Pinyin": "qǐng",
+        "English": "Please, to ask, to invite, please (do sth), to treat (to a meal etc), to request"
+      },
+      {
+        "Chinese": "不要",
+        "Pinyin": "bù yào",
+        "English": "do not, don't!, must not"
+      },
+      {
+        "Chinese": "在",
+        "Pinyin": "zài",
+        "English": "on, (located) at, (to be) in, to exist, in the middle of doing sth, (indicating an action in progress)"
+      },
+      {
+        "Chinese": "图书馆",
+        "Pinyin": "tú shū guǎn",
+        "English": "library, library, CL:家"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "the, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "书",
+        "Pinyin": "shū",
+        "English": "books, abbr. for 書經|书经, book, letter, document, CL:本"
+      },
+      {
+        "Chinese": "上",
+        "Pinyin": "shàng",
+        "English": "in, used in 上聲|上声, on top, upon, above, upper, previous, first (of multiple parts), to climb, to get onto, to go up, to attend (class or university)"
+      },
+      {
+        "Chinese": "涂写",
+        "Pinyin": "tú xiě",
+        "English": "write, to daub, to scribble (graffiti)"
+      }
+    ]
+  },
+  {
+    "chinese": "我觉得是你。",
+    "pinyin": "wǒ juédé shì nǐ.",
+    "english": "I think it's you.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "觉得",
+        "Pinyin": "juédé",
+        "English": "think, to think, to feel"
+      },
+      {
+        "Chinese": "是",
+        "Pinyin": "shì",
+        "English": "is, is, are, am, yes, to be, variant of 是"
+      },
+      {
+        "Chinese": "你",
+        "Pinyin": "nǐ",
+        "English": "you, you (informal, as opposed to courteous 您"
+      }
+    ]
+  },
+  {
+    "chinese": "一个知识分子是发现到一种比性行为更有意思的活动的人。",
+    "pinyin": "yī gè zhī shí fèn zǐ shì fā xiàn dào yī zhǒng bǐ xìng xíng wéi gèng yǒu yì si de huó dòng de rén。",
+    "english": "An intellectual is someone who discovers activities more interesting than sexual behavior.",
+    "allWords": [
+      {
+        "Chinese": "一个",
+        "Pinyin": "yī gè",
+        "English": "one"
+      },
+      {
+        "Chinese": "知识分子",
+        "Pinyin": "zhī shí fèn zǐ",
+        "English": "intellectual, intellectual, intelligentsia, learned person"
+      },
+      {
+        "Chinese": "是",
+        "Pinyin": "shì",
+        "English": "is, is, are, am, yes, to be, variant of 是"
+      },
+      {
+        "Chinese": "发现",
+        "Pinyin": "fā xiàn",
+        "English": "discovers, to find, to discover"
+      },
+      {
+        "Chinese": "到",
+        "Pinyin": "dào",
+        "English": "to, to (a place), until (a time), up to, to go, to arrive, (verb complement denoting completion or result of an action)"
+      },
+      {
+        "Chinese": "一种",
+        "Pinyin": "yī zhǒng",
+        "English": "a, one kind of, one type of"
+      },
+      {
+        "Chinese": "比",
+        "Pinyin": "bǐ",
+        "English": "more, Belgium, Belgian, abbr. for 比利時|比利时, euphemistic variant of 屄, to compare, (followed by a noun and adjective) more {adj.} than {noun}, ratio, to gesture, (Taiwan pr."
+      },
+      {
+        "Chinese": "性行为",
+        "Pinyin": "xìng xíng wéi",
+        "English": "sexual behavior, sexual behavior"
+      },
+      {
+        "Chinese": "更",
+        "Pinyin": "gèng",
+        "English": "than, to change or replace, to experience, one of the five two-hour periods into which the night was formerly divided, watch (e.g. of a sentry or guard), more, even more, further, still, still more"
+      },
+      {
+        "Chinese": "有意思",
+        "Pinyin": "yǒu yì si",
+        "English": "interesting, interesting, meaningful, enjoyable, fun"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "more, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "活动",
+        "Pinyin": "huó dòng",
+        "English": "activities, to exercise, to move about, to operate, to use connections (personal influence), loose, shaky, active, movable, activity, campaign, maneuver, behavior, CL:項|项"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "than, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "人",
+        "Pinyin": "rén",
+        "English": "person, person, people, CL:個|个"
+      }
+    ]
+  },
+  {
+    "chinese": "大事化小，小事化无。",
+    "pinyin": "dà shì huà xiǎo, xiǎo shì huà wú。",
+    "english": "Turn big problems into small ones, and make small problems disappear.",
+    "allWords": [
+      {
+        "Chinese": "大事",
+        "Pinyin": "dà shì",
+        "English": "big problems, major event, major political event (war or change of regime), major social event (wedding or funeral), (do sth) in a big way, CL:件"
+      },
+      {
+        "Chinese": "化小",
+        "Pinyin": "huà xiǎo",
+        "English": "turn into small ones"
+      },
+      {
+        "Chinese": "小事",
+        "Pinyin": "xiǎo shì",
+        "English": "small problems, trifle, trivial matter, CL:點|点"
+      },
+      {
+        "Chinese": "化无",
+        "Pinyin": "huà wú",
+        "English": "make disappear"
+      }
+    ]
+  },
+  {
+    "chinese": "无风不起浪。",
+    "pinyin": "Wú fēng bù qǐ làng.",
+    "english": "There is no smoke without fire.",
+    "allWords": [
+      {
+        "Chinese": "无",
+        "Pinyin": "wú",
+        "English": "no, not to have, no, none, not, to lack, un-, -less"
+      },
+      {
+        "Chinese": "风",
+        "Pinyin": "fēng",
+        "English": "wind, wind, news, style, custom, manner, CL:陣|阵"
+      },
+      {
+        "Chinese": "不",
+        "Pinyin": "bù",
+        "English": "not, (negative prefix), not, no"
+      },
+      {
+        "Chinese": "起",
+        "Pinyin": "qǐ",
+        "English": "rise, to rise, to raise, to get up, to set out, to start, to appear, to launch, to initiate (action), to draft, to establish, to get (from a depot or counter), verb suffix, to start, starting from (a time, place, price etc), classifier for occurrences or unpredictable events: case, instance, classifier for groups: batch, group"
+      },
+      {
+        "Chinese": "浪",
+        "Pinyin": "làng",
+        "English": "wave, wave, breaker, unrestrained, dissipated, to stroll, to ramble"
+      }
+    ]
+  },
+  {
+    "chinese": "无事掘小，小事掘大。",
+    "pinyin": "wú shì jué xiǎo, xiǎo shì jué dà.",
+    "english": "No small matter should be overlooked, as small matters can lead to bigger ones.",
+    "allWords": [
+      {
+        "Chinese": "无事",
+        "Pinyin": "wú shì",
+        "English": "No matter"
+      },
+      {
+        "Chinese": "掘小",
+        "Pinyin": "jué xiǎo",
+        "English": "overlook small"
+      },
+      {
+        "Chinese": "小事",
+        "Pinyin": "xiǎo shì",
+        "English": "small matter, trifle, trivial matter, CL:點|点"
+      },
+      {
+        "Chinese": "掘大",
+        "Pinyin": "jué dà",
+        "English": "lead to bigger"
+      }
+    ]
+  },
+  {
+    "chinese": "他小题大作。",
+    "pinyin": "tā xiǎo tí dà zuò。",
+    "english": "He makes a big fuss over a trifling matter.",
+    "allWords": [
+      {
+        "Chinese": "他",
+        "Pinyin": "tā",
+        "English": "He, he or him, (used for either sex when the sex is unknown or unimportant), (used before sb's name for emphasis), (used as a meaningless mock object), other, another"
+      },
+      {
+        "Chinese": "小题大作",
+        "Pinyin": "xiǎo tí dà zuò",
+        "English": "makes a big fuss over a trifling matter, variant of 小題大做|小题大做"
+      }
+    ]
+  },
+  {
+    "chinese": "就算独裁国家是“闭上你的嘴”，民主国家才是“当你放屁”。",
+    "pinyin": "jiù suàn dú cái guó jiā shì bì shàng nǐ de zuǐ mín zhǔ guó jiā cái shì dāng nǐ fàng pì",
+    "english": "Even though a dictatorship tells you to 'shut your mouth', a democratic country is 'when you fart'.",
+    "allWords": [
+      {
+        "Chinese": "就算",
+        "Pinyin": "jiù suàn",
+        "English": "even though, granted that, even if"
+      },
+      {
+        "Chinese": "独裁国家",
+        "Pinyin": "dú cái guó jiā",
+        "English": "dictatorship"
+      },
+      {
+        "Chinese": "是",
+        "Pinyin": "shì",
+        "English": "is, is, are, am, yes, to be, variant of 是"
+      },
+      {
+        "Chinese": "闭上",
+        "Pinyin": "bì shàng",
+        "English": "shut, to close, to shut up"
+      },
+      {
+        "Chinese": "你的",
+        "Pinyin": "nǐ de",
+        "English": "your"
+      },
+      {
+        "Chinese": "嘴",
+        "Pinyin": "zuǐ",
+        "English": "mouth, mouth, beak, nozzle, spout (of teapot etc), CL:張|张"
+      },
+      {
+        "Chinese": "民主国家",
+        "Pinyin": "mín zhǔ guó jiā",
+        "English": "democratic country"
+      },
+      {
+        "Chinese": "才",
+        "Pinyin": "cái",
+        "English": "only, ability, talent, sb of a certain type, a capable individual, then and only then, just now, (before an expression of quantity) only, (variant of 才"
+      },
+      {
+        "Chinese": "是",
+        "Pinyin": "shì",
+        "English": "is, is, are, am, yes, to be, variant of 是"
+      },
+      {
+        "Chinese": "当",
+        "Pinyin": "dāng",
+        "English": "when, (onom.) dong, ding dong (bell), to be, to act as, manage, withstand, when, during, ought, should, match equally, equal, same, obstruct, just at (a time or place), on the spot, right, just at, at or in the very same..., suitable, adequate, fitting, proper, to replace, to regard as, to think, to pawn, (coll.) to fail (a student)"
+      },
+      {
+        "Chinese": "你",
+        "Pinyin": "nǐ",
+        "English": "you, you (informal, as opposed to courteous 您"
+      },
+      {
+        "Chinese": "放屁",
+        "Pinyin": "fàng pì",
+        "English": "fart, to fart, to break wind, to talk nonsense, Utter rubbish!"
+      }
+    ]
+  },
+  {
+    "chinese": "我同意他的建议。",
+    "pinyin": "wǒ tóngyì tā de jiànyì。",
+    "english": "I agree with his suggestion.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "同意",
+        "Pinyin": "tóngyì",
+        "English": "agree, to agree, to consent, to approve"
+      },
+      {
+        "Chinese": "他",
+        "Pinyin": "tā",
+        "English": "he, he or him, (used for either sex when the sex is unknown or unimportant), (used before sb's name for emphasis), (used as a meaningless mock object), other, another"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "with, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "建议",
+        "Pinyin": "jiànyì",
+        "English": "suggestion, to propose, to suggest, to recommend, proposal, suggestion, recommendation, CL:個|个"
+      }
+    ]
+  },
+  {
+    "chinese": "你吃了这药，胃痛就会缓解很多。",
+    "pinyin": "nǐ chī le zhè yào, wèi tòng jiù huì huǎn jiě hěn duō.",
+    "english": "If you take this medicine, your stomach ache will improve a lot.",
+    "allWords": [
+      {
+        "Chinese": "你",
+        "Pinyin": "nǐ",
+        "English": "you, you (informal, as opposed to courteous 您"
+      },
+      {
+        "Chinese": "吃",
+        "Pinyin": "chī",
+        "English": "eat, to eat, to consume, to eat at (a cafeteria etc), to eradicate, to destroy, to absorb, to suffer, to stammer (Taiwan pr. for this sense is, variant of 吃"
+      },
+      {
+        "Chinese": "了",
+        "Pinyin": "le",
+        "English": "particle indicating a completed action, (completed action marker), (modal particle indicating change of state, situation now), (modal particle intensifying preceding clause), to finish, to achieve, variant of 瞭|了, (of eyes) bright, clear-sighted, to understand clearly, unofficial variant of 瞭"
+      },
+      {
+        "Chinese": "这",
+        "Pinyin": "zhè",
+        "English": "this, this, these, (commonly pr."
+      },
+      {
+        "Chinese": "药",
+        "Pinyin": "yào",
+        "English": "medicine, leaf of the iris, variant of 藥|药, medicine, drug, substance used for a specific purpose (e.g. poisoning, explosion, fermenting), CL:種|种"
+      },
+      {
+        "Chinese": "胃痛",
+        "Pinyin": "wèi tòng",
+        "English": "stomach ache, stomachache"
+      },
+      {
+        "Chinese": "就会",
+        "Pinyin": "jiù huì",
+        "English": "will"
+      },
+      {
+        "Chinese": "缓解",
+        "Pinyin": "huǎn jiě",
+        "English": "improve, to bring relief, to alleviate (a crisis), to dull (a pain)"
+      },
+      {
+        "Chinese": "很多",
+        "Pinyin": "hěn duō",
+        "English": "a lot"
+      }
+    ]
+  },
+  {
+    "chinese": "纽约有多少人口？",
+    "pinyin": "niǔ yuē yǒu duō shǎo rén kǒu?",
+    "english": "How many people are there in New York?",
+    "allWords": [
+      {
+        "Chinese": "纽约",
+        "Pinyin": "niǔ yuē",
+        "English": "New York, New York"
+      },
+      {
+        "Chinese": "有",
+        "Pinyin": "yǒu",
+        "English": "have/has, to have, there is, there are, to exist, to be"
+      },
+      {
+        "Chinese": "多少",
+        "Pinyin": "duō shǎo",
+        "English": "how many, number, amount, somewhat, how much?, how many?, (phone number, student ID etc) what number?"
+      },
+      {
+        "Chinese": "人口",
+        "Pinyin": "rén kǒu",
+        "English": "population, population, people"
+      }
+    ]
+  },
+  {
+    "chinese": "我们在调查事故发生的原因。",
+    "pinyin": "wǒmen zài diàochá shìgù fāshēng de yuányīn.",
+    "english": "We are investigating the cause of the accident.",
+    "allWords": [
+      {
+        "Chinese": "我们",
+        "Pinyin": "wǒmen",
+        "English": "we, we, us, ourselves, our"
+      },
+      {
+        "Chinese": "在",
+        "Pinyin": "zài",
+        "English": "are, (located) at, (to be) in, to exist, in the middle of doing sth, (indicating an action in progress)"
+      },
+      {
+        "Chinese": "调查",
+        "Pinyin": "diàochá",
+        "English": "investigating, investigation, inquiry, to investigate, to survey, survey, (opinion) poll, CL:項|项"
+      },
+      {
+        "Chinese": "事故",
+        "Pinyin": "shìgù",
+        "English": "accident, accident, CL:樁|桩"
+      },
+      {
+        "Chinese": "发生",
+        "Pinyin": "fāshēng",
+        "English": "happen, to happen, to occur, to take place, to break out"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "of, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "原因",
+        "Pinyin": "yuányīn",
+        "English": "cause, cause, origin, root cause, reason, CL:個|个"
+      }
+    ]
+  },
+  {
+    "chinese": "如果我有钱，我马上就买这台电脑。",
+    "pinyin": "rú guǒ wǒ yǒu qián, wǒ mǎ shàng jiù mǎi zhè tái diàn nǎo.",
+    "english": "If I have money, I will buy this computer immediately.",
+    "allWords": [
+      {
+        "Chinese": "如果",
+        "Pinyin": "rú guǒ",
+        "English": "if, if, in case, in the event that"
+      },
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "有",
+        "Pinyin": "yǒu",
+        "English": "have, to have, there is, there are, to exist, to be"
+      },
+      {
+        "Chinese": "钱",
+        "Pinyin": "qián",
+        "English": "money, surname Qian, coin, money, CL:筆|笔"
+      },
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "马上",
+        "Pinyin": "mǎ shàng",
+        "English": "immediately, at once, right away, immediately, on horseback (i.e. by military force)"
+      },
+      {
+        "Chinese": "就",
+        "Pinyin": "jiù",
+        "English": "will, at once, right away, only, just (emphasis), as early as, already, as soon as, then, in that case, as many as, even if, to approach, to move towards, to undertake, to engage in, to suffer, subjected to, to accomplish, to take advantage of, to go with (of foods), with regard to, concerning"
+      },
+      {
+        "Chinese": "买",
+        "Pinyin": "mǎi",
+        "English": "buy, to buy, to purchase"
+      },
+      {
+        "Chinese": "这",
+        "Pinyin": "zhè",
+        "English": "this, this, these, (commonly pr."
+      },
+      {
+        "Chinese": "台",
+        "Pinyin": "tái",
+        "English": "a, Taiwan (abbr.), surname Tai, (classical) you (in letters), variant of 臺|台, desk, table, counter, Taiwan (abbr.), platform, stage, terrace, stand, support, station, broadcasting station, classifier for vehicles or machines, typhoon"
+      },
+      {
+        "Chinese": "电脑",
+        "Pinyin": "diàn nǎo",
+        "English": "computer, computer, CL:臺|台"
+      }
+    ]
+  },
+  {
+    "chinese": "她认识你吗？",
+    "pinyin": "tā rènshí nǐ ma?",
+    "english": "Does she know you?",
+    "allWords": [
+      {
+        "Chinese": "她",
+        "Pinyin": "tā",
+        "English": "she, she"
+      },
+      {
+        "Chinese": "认识",
+        "Pinyin": "rènshì",
+        "English": "know, to know, to recognize, to be familiar with, to get acquainted with sb, knowledge, understanding, awareness, cognition"
+      },
+      {
+        "Chinese": "你",
+        "Pinyin": "nǐ",
+        "English": "you, you (informal, as opposed to courteous 您"
+      },
+      {
+        "Chinese": "吗",
+        "Pinyin": "ma",
+        "English": "question particle, see 嗎啡|吗啡, morphine, (question particle for \"yes-no\" questions)"
+      }
+    ]
+  },
+  {
+    "chinese": "他就像井底之蛙。",
+    "pinyin": "tā jiù xiàng jǐng dǐ zhī wā。",
+    "english": "He is like a frog in a well.",
+    "allWords": [
+      {
+        "Chinese": "他",
+        "Pinyin": "tā",
+        "English": "he, he or him, (used for either sex when the sex is unknown or unimportant), (used before sb's name for emphasis), (used as a meaningless mock object), other, another"
+      },
+      {
+        "Chinese": "就像",
+        "Pinyin": "jiù xiàng",
+        "English": "is like"
+      },
+      {
+        "Chinese": "井底",
+        "Pinyin": "jǐng dǐ",
+        "English": "in a well"
+      },
+      {
+        "Chinese": "之",
+        "Pinyin": "zhī",
+        "English": "of, (possessive particle, literary equivalent of 的"
+      },
+      {
+        "Chinese": "蛙",
+        "Pinyin": "wā",
+        "English": "frog, frog, CL:隻|只, old variant of 蛙"
+      }
+    ]
+  },
+  {
+    "chinese": "我哥哥会开车。",
+    "pinyin": "wǒ gēgē huì kāichē.",
+    "english": "My older brother knows how to drive.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "哥哥",
+        "Pinyin": "gēgē",
+        "English": "older brother, older brother, CL:個|个"
+      },
+      {
+        "Chinese": "会",
+        "Pinyin": "huì",
+        "English": "knows how to, can (i.e. have the skill, know how to), likely to, sure to, to meet, to get together, meeting, gathering, union, group, association, a moment (Taiwan pr. for this sense is, to balance an account, accountancy, accounting"
+      },
+      {
+        "Chinese": "开车",
+        "Pinyin": "kāichē",
+        "English": "drive, to drive a car"
+      }
+    ]
+  },
+  {
+    "chinese": "这个饮料的味道很明显是茶的味道。",
+    "pinyin": "zhè gè yǐn liào de wèi dào hěn míng xiǎn shì chá de wèi dào.",
+    "english": "The taste of this drink is clearly the taste of tea.",
+    "allWords": [
+      {
+        "Chinese": "这个",
+        "Pinyin": "zhè gè",
+        "English": "this, this, this one"
+      },
+      {
+        "Chinese": "饮料",
+        "Pinyin": "yǐn liào",
+        "English": "drink, drink, beverage"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "of, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "味道",
+        "Pinyin": "wèi dào",
+        "English": "taste, flavor, smell, hint of"
+      },
+      {
+        "Chinese": "很",
+        "Pinyin": "hěn",
+        "English": "very, (adverb of degree), quite, very, awfully"
+      },
+      {
+        "Chinese": "明显",
+        "Pinyin": "míng xiǎn",
+        "English": "clearly, clear, distinct, obvious"
+      },
+      {
+        "Chinese": "是",
+        "Pinyin": "shì",
+        "English": "is, is, are, am, yes, to be, variant of 是"
+      },
+      {
+        "Chinese": "茶",
+        "Pinyin": "chá",
+        "English": "tea, tea, tea plant, CL:杯"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "of, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "味道",
+        "Pinyin": "wèi dào",
+        "English": "taste, flavor, smell, hint of"
+      }
+    ]
+  },
+  {
+    "chinese": "当时进法国馆，有一种不用排队的办法，就是去吃法国馆里的食品，但是实在太贵了。",
+    "pinyin": "Dāng shí jìn Fǎguó guǎn, yǒu yī zhǒng bùyòng páiduì de bànfǎ, jiùshì qù chī Fǎguó guǎn lǐ de shípǐn, dànshì shízài tài guì le.",
+    "english": "At that time, to enter the French Pavilion, there was a way to skip the line, which was to go and eat the food in the French Pavilion, but it was too expensive.",
+    "allWords": [
+      {
+        "Chinese": "当时",
+        "Pinyin": "dāng shí",
+        "English": "At that time, then, at that time, while, at once, right away"
+      },
+      {
+        "Chinese": "进",
+        "Pinyin": "jìn",
+        "English": "to enter, to go forward, to advance, to go in, to enter, to put in, to submit, to take in, to admit, (math.) base of a number system, classifier for sections in a building or residential compound"
+      },
+      {
+        "Chinese": "法国馆",
+        "Pinyin": "Fǎguó guǎn",
+        "English": "French Pavilion"
+      },
+      {
+        "Chinese": "有",
+        "Pinyin": "yǒu",
+        "English": "there was, to have, there is, there are, to exist, to be"
+      },
+      {
+        "Chinese": "一种",
+        "Pinyin": "yī zhǒng",
+        "English": "a kind of, one kind of, one type of"
+      },
+      {
+        "Chinese": "不用",
+        "Pinyin": "bùyòng",
+        "English": "to not need, need not"
+      },
+      {
+        "Chinese": "排队",
+        "Pinyin": "páiduì",
+        "English": "to wait in line, to line up"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "of, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "办法",
+        "Pinyin": "bànfǎ",
+        "English": "way, means, method, way (of doing sth), CL:條|条"
+      },
+      {
+        "Chinese": "就是",
+        "Pinyin": "jiùshì",
+        "English": "which is, (emphasizes that sth is precisely or exactly as stated), precisely, exactly, even, if, just like, in the same way as"
+      },
+      {
+        "Chinese": "去",
+        "Pinyin": "qù",
+        "English": "to go, to go, to go to (a place), (of a time etc) last, just passed, to send, to remove, to get rid of, to reduce, to be apart from in space or time, to die (euphemism), to play (a part), (when used either before or after a verb) to go in order to do sth, (after a verb of motion indicates movement away from the speaker), (used after certain verbs to indicate detachment or separation)"
+      },
+      {
+        "Chinese": "吃",
+        "Pinyin": "chī",
+        "English": "to eat, to eat, to consume, to eat at (a cafeteria etc), to eradicate, to destroy, to absorb, to suffer, to stammer (Taiwan pr. for this sense is, variant of 吃"
+      },
+      {
+        "Chinese": "法国馆",
+        "Pinyin": "Fǎguó guǎn",
+        "English": "French Pavilion"
+      },
+      {
+        "Chinese": "里",
+        "Pinyin": "lǐ",
+        "English": "in, variant of 裡|里, lining, interior, inside, internal, also written 裏|里, Li (surname), li, ancient measure of length, approx. 500 m, neighborhood, ancient administrative unit of 25 families, (Tw) borough, administrative unit between the township 鎮|镇"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "of, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "食品",
+        "Pinyin": "shípǐn",
+        "English": "food, foodstuff, food, provisions, CL:種|种"
+      },
+      {
+        "Chinese": "但是",
+        "Pinyin": "dànshì",
+        "English": "but, but, however"
+      },
+      {
+        "Chinese": "实在",
+        "Pinyin": "shízài",
+        "English": "really, really, actually, indeed, true, real, honest, dependable, (philosophy) reality"
+      },
+      {
+        "Chinese": "太",
+        "Pinyin": "tài",
+        "English": "too, highest, greatest, too (much), very, extremely"
+      },
+      {
+        "Chinese": "贵",
+        "Pinyin": "guì",
+        "English": "expensive, expensive, noble, precious, (honorific) your"
+      },
+      {
+        "Chinese": "了",
+        "Pinyin": "le",
+        "English": ", (completed action marker), (modal particle indicating change of state, situation now), (modal particle intensifying preceding clause), to finish, to achieve, variant of 瞭|了, (of eyes) bright, clear-sighted, to understand clearly, unofficial variant of 瞭"
+      }
+    ]
+  },
+  {
+    "chinese": "我懂你的意思。",
+    "pinyin": "wǒ dǒng nǐ de yìsi.",
+    "english": "I understand what you mean.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "懂",
+        "Pinyin": "dǒng",
+        "English": "understand, to understand, to comprehend"
+      },
+      {
+        "Chinese": "你",
+        "Pinyin": "nǐ",
+        "English": "you, you (informal, as opposed to courteous 您"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "your, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "意思",
+        "Pinyin": "yìsi",
+        "English": "meaning, idea, opinion, meaning, wish, desire, interest, fun, token of appreciation, affection etc, CL:個|个"
+      }
+    ]
+  },
+  {
+    "chinese": "老牛吃嫩草。",
+    "pinyin": "lǎo niú chī nèn cǎo.",
+    "english": "The old cow eats tender grass.",
+    "allWords": [
+      {
+        "Chinese": "老牛",
+        "Pinyin": "lǎo niú",
+        "English": "old cow"
+      },
+      {
+        "Chinese": "吃",
+        "Pinyin": "chī",
+        "English": "eat, to eat, to consume, to eat at (a cafeteria etc), to eradicate, to destroy, to absorb, to suffer, to stammer (Taiwan pr. for this sense is, variant of 吃"
+      },
+      {
+        "Chinese": "嫩草",
+        "Pinyin": "nèn cǎo",
+        "English": "tender grass"
+      }
+    ]
+  },
+  {
+    "chinese": "请不要惊讶我讲这种语言，请注意我讲的内容。",
+    "pinyin": "qǐng bùyào jīngyà wǒ jiǎng zhè zhǒng yǔyán, qǐng zhùyì wǒ jiǎng de nèiróng.",
+    "english": "Please don't be surprised that I can speak this language, please pay attention to what I am saying.",
+    "allWords": [
+      {
+        "Chinese": "请",
+        "Pinyin": "qǐng",
+        "English": "Please, to ask, to invite, please (do sth), to treat (to a meal etc), to request"
+      },
+      {
+        "Chinese": "不要",
+        "Pinyin": "bùyào",
+        "English": "don't, don't!, must not"
+      },
+      {
+        "Chinese": "惊讶",
+        "Pinyin": "jīngyà",
+        "English": "be surprised, amazed, astonished, to surprise, amazing, astonishment, awe"
+      },
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "讲",
+        "Pinyin": "jiǎng",
+        "English": "speak, to speak, to explain, to negotiate, to emphasize, to be particular about, as far as sth is concerned, speech, lecture"
+      },
+      {
+        "Chinese": "这种",
+        "Pinyin": "zhè zhǒng",
+        "English": "this, this, this kind of, this sort of, this type of"
+      },
+      {
+        "Chinese": "语言",
+        "Pinyin": "yǔyán",
+        "English": "language, language, CL:門|门"
+      },
+      {
+        "Chinese": "请",
+        "Pinyin": "qǐng",
+        "English": "please, to ask, to invite, please (do sth), to treat (to a meal etc), to request"
+      },
+      {
+        "Chinese": "注意",
+        "Pinyin": "zhùyì",
+        "English": "pay attention, to take note of, to pay attention to"
+      },
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "讲",
+        "Pinyin": "jiǎng",
+        "English": "saying, to speak, to explain, to negotiate, to emphasize, to be particular about, as far as sth is concerned, speech, lecture"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "what, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "内容",
+        "Pinyin": "nèiróng",
+        "English": "content, content, substance, details, CL:個|个"
+      }
+    ]
+  },
+  {
+    "chinese": "他生病了。",
+    "pinyin": "tā shēng bìng le.",
+    "english": "He is sick.",
+    "allWords": [
+      {
+        "Chinese": "他",
+        "Pinyin": "tā",
+        "English": "He, he or him, (used for either sex when the sex is unknown or unimportant), (used before sb's name for emphasis), (used as a meaningless mock object), other, another"
+      },
+      {
+        "Chinese": "生病",
+        "Pinyin": "shēng bìng",
+        "English": "sick, to fall ill"
+      },
+      {
+        "Chinese": "了",
+        "Pinyin": "le",
+        "English": "is, (completed action marker), (modal particle indicating change of state, situation now), (modal particle intensifying preceding clause), to finish, to achieve, variant of 瞭|了, (of eyes) bright, clear-sighted, to understand clearly, unofficial variant of 瞭"
+      }
+    ]
+  },
+  {
+    "chinese": "你还好吧？",
+    "pinyin": "nǐ hái hǎo ba?",
+    "english": "Are you okay?",
+    "allWords": [
+      {
+        "Chinese": "你",
+        "Pinyin": "nǐ",
+        "English": "you, you (informal, as opposed to courteous 您"
+      },
+      {
+        "Chinese": "还好",
+        "Pinyin": "hái hǎo",
+        "English": "okay, not bad, tolerable, fortunately"
+      },
+      {
+        "Chinese": "吧",
+        "Pinyin": "ba",
+        "English": "question particle, bar (loanword) (serving drinks, or providing Internet access etc), to puff (on a pipe etc), (onom.) bang, abbr. for 貼吧|贴吧, (modal particle indicating suggestion or surmise), ...right?, ...OK?, ...I presume., (onom.) smack!"
+      }
+    ]
+  },
+  {
+    "chinese": "我妹妹去北海道之前,完成她的功课.",
+    "pinyin": "wǒ mèimei qù běi hǎi dào zhī qián, wán chéng tā de gōng kè.",
+    "english": "My younger sister completed her homework before going to Hokkaido.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "妹妹",
+        "Pinyin": "mèi mèi",
+        "English": "younger sister, younger sister, young woman, CL:個|个"
+      },
+      {
+        "Chinese": "去",
+        "Pinyin": "qù",
+        "English": "go, to go, to go to (a place), (of a time etc) last, just passed, to send, to remove, to get rid of, to reduce, to be apart from in space or time, to die (euphemism), to play (a part), (when used either before or after a verb) to go in order to do sth, (after a verb of motion indicates movement away from the speaker), (used after certain verbs to indicate detachment or separation)"
+      },
+      {
+        "Chinese": "北海道",
+        "Pinyin": "běi hǎi dào",
+        "English": "Hokkaido, Hokkaidō, Japan"
+      },
+      {
+        "Chinese": "之前",
+        "Pinyin": "zhī qián",
+        "English": "before, before, prior to, ago, previously, beforehand"
+      },
+      {
+        "Chinese": "完成",
+        "Pinyin": "wán chéng",
+        "English": "complete, to complete, to accomplish"
+      },
+      {
+        "Chinese": "她的",
+        "Pinyin": "tā de",
+        "English": "her"
+      },
+      {
+        "Chinese": "功课",
+        "Pinyin": "gōng kè",
+        "English": "homework, homework, assignment, task, classwork, lesson, study, CL:門|门"
+      }
+    ]
+  },
+  {
+    "chinese": "我的手机没电了。",
+    "pinyin": "wǒ de shǒujī méi diàn le。",
+    "english": "My phone ran out of battery.",
+    "allWords": [
+      {
+        "Chinese": "我的",
+        "Pinyin": "wǒ de",
+        "English": "My"
+      },
+      {
+        "Chinese": "手机",
+        "Pinyin": "shǒujī",
+        "English": "phone, cell phone, mobile phone, CL:部"
+      },
+      {
+        "Chinese": "没电",
+        "Pinyin": "méi diàn",
+        "English": "ran out of battery, discharged, flat, dead (of batteries)"
+      },
+      {
+        "Chinese": "了",
+        "Pinyin": "le",
+        "English": "now, (completed action marker), (modal particle indicating change of state, situation now), (modal particle intensifying preceding clause), to finish, to achieve, variant of 瞭|了, (of eyes) bright, clear-sighted, to understand clearly, unofficial variant of 瞭"
+      }
+    ]
+  },
+  {
+    "chinese": "我很喜欢旅游。",
+    "pinyin": "wǒ hěn xǐhuān lǚyóu",
+    "english": "I really enjoy traveling.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "很",
+        "Pinyin": "hěn",
+        "English": "really, (adverb of degree), quite, very, awfully"
+      },
+      {
+        "Chinese": "喜欢",
+        "Pinyin": "xǐhuān",
+        "English": "enjoy, to like, to be fond of"
+      },
+      {
+        "Chinese": "旅游",
+        "Pinyin": "lǚyóu",
+        "English": "traveling, trip, journey, tourism, travel, tour, to travel"
+      }
+    ]
+  },
+  {
+    "chinese": "加拿大的犯罪率下降了。",
+    "pinyin": "Jiānádà de fànzuì lǜ xiàjiàng le.",
+    "english": "The crime rate in Canada has decreased.",
+    "allWords": [
+      {
+        "Chinese": "加拿大",
+        "Pinyin": "Jiānádà",
+        "English": "Canada, Canada, Canadian"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "of, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "犯罪率",
+        "Pinyin": "fànzuì lǜ",
+        "English": "crime rate"
+      },
+      {
+        "Chinese": "下降",
+        "Pinyin": "xiàjiàng",
+        "English": "decrease, to decline, to drop, to fall, to go down, to decrease"
+      },
+      {
+        "Chinese": "了",
+        "Pinyin": "le",
+        "English": "has, (completed action marker), (modal particle indicating change of state, situation now), (modal particle intensifying preceding clause), to finish, to achieve, variant of 瞭|了, (of eyes) bright, clear-sighted, to understand clearly, unofficial variant of 瞭"
+      }
+    ]
+  },
+  {
+    "chinese": "我们当时很累。",
+    "pinyin": "wǒ men dāng shí hěn lèi.",
+    "english": "We were very tired at that time.",
+    "allWords": [
+      {
+        "Chinese": "我们",
+        "Pinyin": "wǒ men",
+        "English": "we, we, us, ourselves, our"
+      },
+      {
+        "Chinese": "当时",
+        "Pinyin": "dāng shí",
+        "English": "at that time, then, at that time, while, at once, right away"
+      },
+      {
+        "Chinese": "很",
+        "Pinyin": "hěn",
+        "English": "very, (adverb of degree), quite, very, awfully"
+      },
+      {
+        "Chinese": "累",
+        "Pinyin": "lèi",
+        "English": "tired, to accumulate, to involve or implicate (Taiwan pr., tired, weary, to strain, to wear out, to work hard, surname Lei, rope, to bind together, to twist around"
+      }
+    ]
+  },
+  {
+    "chinese": "她留着长发。",
+    "pinyin": "tā liú zhe cháng fà.",
+    "english": "She has long hair.",
+    "allWords": [
+      {
+        "Chinese": "她",
+        "Pinyin": "tā",
+        "English": "She, she"
+      },
+      {
+        "Chinese": "留着",
+        "Pinyin": "liú zhe",
+        "English": "has"
+      },
+      {
+        "Chinese": "长发",
+        "Pinyin": "cháng fà",
+        "English": "long hair, long hair"
+      }
+    ]
+  }
+]

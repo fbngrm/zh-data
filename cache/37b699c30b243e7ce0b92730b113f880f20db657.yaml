@@ -1,0 +1,19 @@
+{
+  "chinese": "汤姆让我告诉你他没有计划和你一起去波士顿。",
+  "english": "Tom told me to tell you that he has no plans to go to Boston with you.",
+  "pinyin": "Tāng mǔ ràng wǒ gàosu nǐ tā méiyǒu jìhuà hé nǐ yīqǐ qù bōshìdùn.",
+  "words": [
+    { "ch": "汤姆", "en": "Tom", "pi": "tāng mǔ" },
+    { "ch": "让", "en": "told", "pi": "ràng" },
+    { "ch": "我", "en": "me", "pi": "wǒ" },
+    { "ch": "告诉", "en": "to tell", "pi": "gàosu" },
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "他", "en": "he", "pi": "tā" },
+    { "ch": "没有", "en": "has no", "pi": "méiyǒu" },
+    { "ch": "计划", "en": "plans", "pi": "jìhuà" },
+    { "ch": "和", "en": "to", "pi": "hé" },
+    { "ch": "一起", "en": "together", "pi": "yīqǐ" },
+    { "ch": "去", "en": "to go", "pi": "qù" },
+    { "ch": "波士顿", "en": "Boston", "pi": "bōshìdùn" }
+  ]
+}

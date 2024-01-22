@@ -1,0 +1,115 @@
+{
+  "sentences": [
+    {
+      "chinese": "我大弟弟25岁，他是公务员。",
+      "english": "My eldest brother is 25 years old, and he is a civil servant.",
+      "pinyin": "Wǒ dà dìdi 25 suì, tā shì gōngwùyuán.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "大弟弟",
+          "en": "eldest brother",
+          "pi": "dà dìdi"
+        },
+        {
+          "ch": "25岁",
+          "en": "25 years old",
+          "pi": "25 suì"
+        },
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "公务员",
+          "en": "civil servant",
+          "pi": "gōngwùyuán"
+        }
+      ]
+    },
+    {
+      "chinese": "我二弟弟24岁，他是银行职员。",
+      "english": "My second brother is 24 years old, and he is a bank employee.",
+      "pinyin": "Wǒ èr dìdi 24 suì, tā shì yínháng zhíyuán.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "二弟弟",
+          "en": "second brother",
+          "pi": "èr dìdi"
+        },
+        {
+          "ch": "24岁",
+          "en": "24 years old",
+          "pi": "24 suì"
+        },
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "银行职员",
+          "en": "bank employee",
+          "pi": "yínháng zhíyuán"
+        }
+      ]
+    },
+    {
+      "chinese": "我小弟弟17岁，他上高中。",
+      "english": "My youngest brother is 17 years old, and he is in high school.",
+      "pinyin": "Wǒ xiǎo dìdi 17 suì, tā shàng gāozhōng.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "小弟弟",
+          "en": "youngest brother",
+          "pi": "xiǎo dìdi"
+        },
+        {
+          "ch": "17岁",
+          "en": "17 years old",
+          "pi": "17 suì"
+        },
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "上",
+          "en": "in",
+          "pi": "shàng"
+        },
+        {
+          "ch": "高中",
+          "en": "high school",
+          "pi": "gāozhōng"
+        }
+      ]
+    }
+  ]
+}

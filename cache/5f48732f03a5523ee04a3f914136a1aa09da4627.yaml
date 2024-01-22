@@ -1,0 +1,27 @@
+{
+  "chinese": "你的测验怎么样？",
+  "english": "How did your test go?",
+  "pinyin": "Nǐ de cèyàn zěnme yàng?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "测验",
+      "en": "test",
+      "pi": "cèyàn"
+    },
+    {
+      "ch": "怎么样",
+      "en": "how",
+      "pi": "zěnme yàng"
+    }
+  ]
+}

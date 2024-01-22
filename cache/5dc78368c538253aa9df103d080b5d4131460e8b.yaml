@@ -1,0 +1,11 @@
+{
+  "chinese": "他有一只白猫。",
+  "english": "He has a white cat.",
+  "pinyin": "tā yǒu yī zhī bái māo.",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "有", "en": "has", "pi": "yǒu"},
+    {"ch": "一只", "en": "a", "pi": "yī zhī"},
+    {"ch": "白猫", "en": "white cat", "pi": "bái māo"}
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "鋼琴走調了，音色很難聽。",
+  "english": "The piano is out of tune and the sound is very unpleasant.",
+  "pinyin": "gāng qín zǒu diào le, yīn sè hěn nán tīng。",
+  "words": [
+    {
+      "ch": "鋼琴",
+      "en": "piano",
+      "pi": "gāng qín"
+    },
+    {
+      "ch": "走調",
+      "en": "out of tune",
+      "pi": "zǒu diào"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "音色",
+      "en": "sound",
+      "pi": "yīn sè"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "難聽",
+      "en": "unpleasant",
+      "pi": "nán tīng"
+    }
+  ]
+}

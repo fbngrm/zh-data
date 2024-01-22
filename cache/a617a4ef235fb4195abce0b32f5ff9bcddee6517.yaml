@@ -1,0 +1,32 @@
+{
+  "chinese": "他英语说得很好。",
+  "english": "He speaks English very well.",
+  "pinyin": "tā yīng yǔ shuō dé hěn hǎo.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīng yǔ"
+    },
+    {
+      "ch": "说",
+      "en": "speaks",
+      "pi": "shuō"
+    },
+    {
+      "ch": "得",
+      "en": "",
+      "pi": "dé"
+    },
+    {
+      "ch": "很好",
+      "en": "very well",
+      "pi": "hěn hǎo"
+    }
+  ]
+}

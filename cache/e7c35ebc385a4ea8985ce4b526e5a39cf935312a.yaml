@@ -1,0 +1,37 @@
+{
+  "chinese": "读书的那个男孩子是约翰。",
+  "english": "The boy who is reading is John.",
+  "pinyin": "Dú shū de nàge nán háizi shì yuēhàn.",
+  "words": [
+    {
+      "ch": "读书",
+      "en": "reading",
+      "pi": "dú shū"
+    },
+    {
+      "ch": "的",
+      "en": "is",
+      "pi": "de"
+    },
+    {
+      "ch": "那个",
+      "en": "the",
+      "pi": "nàge"
+    },
+    {
+      "ch": "男孩子",
+      "en": "boy",
+      "pi": "nán háizi"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "约翰",
+      "en": "John",
+      "pi": "yuēhàn"
+    }
+  ]
+}

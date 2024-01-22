@@ -1,0 +1,32 @@
+{
+  "chinese": "我想要一楼的座位。",
+  "english": "I want a seat on the first floor.",
+  "pinyin": "wǒ xiǎng yào yī lóu de zuò wèi。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想要",
+      "en": "want",
+      "pi": "xiǎng yào"
+    },
+    {
+      "ch": "一楼",
+      "en": "first floor",
+      "pi": "yī lóu"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "座位",
+      "en": "seat",
+      "pi": "zuò wèi"
+    }
+  ]
+}

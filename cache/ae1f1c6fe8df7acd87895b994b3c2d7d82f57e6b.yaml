@@ -1,0 +1,13 @@
+{
+  "chinese": "汤姆帮我修好了我的手表。",
+  "english": "Tom helped me fix my watch.",
+  "pinyin": "Tāng mǔ bāng wǒ xiū hǎo le wǒ de shǒubiǎo.",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ"},
+    {"ch": "帮", "en": "helped", "pi": "bāng"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "修好了", "en": "fix", "pi": "xiū hǎo le"},
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "手表", "en": "watch", "pi": "shǒubiǎo"}
+  ]
+}

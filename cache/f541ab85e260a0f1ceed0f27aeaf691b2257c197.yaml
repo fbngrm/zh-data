@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆穿着跟昨天穿的衣服。",
+  "english": "Tom is wearing the same clothes as yesterday.",
+  "pinyin": "Tāng mǔ chuān zhe gēn zuó tiān chuān de yī fú.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "穿着",
+      "en": "is wearing",
+      "pi": "chuān zhe"
+    },
+    {
+      "ch": "跟",
+      "en": "the same",
+      "pi": "gēn"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "穿",
+      "en": "wear",
+      "pi": "chuān"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "衣服",
+      "en": "clothes",
+      "pi": "yī fú"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "鲍伯每个月写一次信给我。",
+  "english": "Bob writes me a letter every month.",
+  "pinyin": "Bào bó měi gè yuè xiě yī cì xìn gěi wǒ.",
+  "words": [
+    {
+      "ch": "鲍伯",
+      "en": "Bob",
+      "pi": "Bào bó"
+    },
+    {
+      "ch": "每个月",
+      "en": "every month",
+      "pi": "měi gè yuè"
+    },
+    {
+      "ch": "写",
+      "en": "write",
+      "pi": "xiě"
+    },
+    {
+      "ch": "一次",
+      "en": "once",
+      "pi": "yī cì"
+    },
+    {
+      "ch": "信",
+      "en": "letter",
+      "pi": "xìn"
+    },
+    {
+      "ch": "给",
+      "en": "to",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    }
+  ]
+}

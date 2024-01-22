@@ -1,0 +1,32 @@
+{
+  "chinese": "我不想帮你。",
+  "english": "I don't want to help you.",
+  "pinyin": "wǒ bù xiǎng bāng nǐ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "帮",
+      "en": "to help",
+      "pi": "bāng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    }
+  ]
+}

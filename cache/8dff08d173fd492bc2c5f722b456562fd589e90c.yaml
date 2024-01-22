@@ -1,0 +1,42 @@
+{
+  "chinese": "我们不知道要搭哪一班公车。",
+  "english": "We don't know which bus to take.",
+  "pinyin": "wǒmen bù zhīdào yào dā nǎ yī bān gōngchē 。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "不",
+      "en": "do not",
+      "pi": "bù"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "搭",
+      "en": "take",
+      "pi": "dā"
+    },
+    {
+      "ch": "哪一班",
+      "en": "which",
+      "pi": "nǎ yī bān"
+    },
+    {
+      "ch": "公车",
+      "en": "bus",
+      "pi": "gōngchē"
+    }
+  ]
+}

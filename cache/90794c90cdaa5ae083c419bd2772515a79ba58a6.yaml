@@ -1,0 +1,12 @@
+{
+  "chinese": "我正在学习如何驾驶。",
+  "english": "I am learning how to drive.",
+  "pinyin": "wǒ zhèngzài xuéxí rúhé jiàshǐ。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "正在", "en": "am", "pi": "zhèngzài"},
+    {"ch": "学习", "en": "learning", "pi": "xuéxí"},
+    {"ch": "如何", "en": "how", "pi": "rúhé"},
+    {"ch": "驾驶", "en": "to drive", "pi": "jiàshǐ"}
+  ]
+}

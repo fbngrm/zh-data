@@ -1,0 +1,32 @@
+{
+  "chinese": "你的蛋糕很美味。",
+  "english": "Your cake is delicious.",
+  "pinyin": "Nǐ de dàngāo hěn měiwèi.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "your",
+      "pi": "de"
+    },
+    {
+      "ch": "蛋糕",
+      "en": "cake",
+      "pi": "dàngāo"
+    },
+    {
+      "ch": "很",
+      "en": "is",
+      "pi": "hěn"
+    },
+    {
+      "ch": "美味",
+      "en": "delicious",
+      "pi": "měiwèi"
+    }
+  ]
+}

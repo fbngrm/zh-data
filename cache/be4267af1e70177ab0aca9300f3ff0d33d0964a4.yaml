@@ -1,0 +1,32 @@
+{
+  "chinese": "雪从周一下到周五。",
+  "english": "It snowed from Monday to Friday.",
+  "pinyin": "xuě cóng zhōuyī xià dào zhōuwǔ。",
+  "words": [
+    {
+      "ch": "雪",
+      "en": "snow",
+      "pi": "xuě"
+    },
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "周一",
+      "en": "Monday",
+      "pi": "zhōuyī"
+    },
+    {
+      "ch": "下",
+      "en": "to",
+      "pi": "xià"
+    },
+    {
+      "ch": "到",
+      "en": "Friday",
+      "pi": "zhōuwǔ"
+    }
+  ]
+}

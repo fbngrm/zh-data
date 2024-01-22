@@ -1,0 +1,42 @@
+{
+  "chinese": "这些照片是在哪儿拍的？",
+  "english": "Where were these photos taken?",
+  "pinyin": "zhè xiē zhào piàn shì zài nǎr pāi de?",
+  "words": [
+    {
+      "ch": "这些",
+      "en": "these",
+      "pi": "zhè xiē"
+    },
+    {
+      "ch": "照片",
+      "en": "photos",
+      "pi": "zhào piàn"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "在",
+      "en": "where",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪儿",
+      "en": "were",
+      "pi": "nǎr"
+    },
+    {
+      "ch": "拍",
+      "en": "taken",
+      "pi": "pāi"
+    },
+    {
+      "ch": "的",
+      "en": "?",
+      "pi": "de"
+    }
+  ]
+}

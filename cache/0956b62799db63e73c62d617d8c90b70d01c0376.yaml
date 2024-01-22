@@ -1,0 +1,42 @@
+{
+  "chinese": "他把交通事故通知了警察。",
+  "english": "He notified the police about the traffic accident.",
+  "pinyin": "tā bǎ jiāo tōng shì gù tōng zhī le jǐng chá。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "把",
+      "en": "notified",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "交通",
+      "en": "traffic",
+      "pi": "jiāo tōng"
+    },
+    {
+      "ch": "事故",
+      "en": "accident",
+      "pi": "shì gù"
+    },
+    {
+      "ch": "通知",
+      "en": "notify",
+      "pi": "tōng zhī"
+    },
+    {
+      "ch": "了",
+      "en": "about",
+      "pi": "le"
+    },
+    {
+      "ch": "警察",
+      "en": "police",
+      "pi": "jǐng chá"
+    }
+  ]
+}

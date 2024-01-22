@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆去那里学法语。",
+  "english": "Tom went there to learn French.",
+  "pinyin": "Tāng mǔ qù nàli xué fǎyǔ.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "那里",
+      "en": "there",
+      "pi": "nàli"
+    },
+    {
+      "ch": "学",
+      "en": "learn",
+      "pi": "xué"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎyǔ"
+    }
+  ]
+}

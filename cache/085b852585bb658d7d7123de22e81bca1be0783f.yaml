@@ -1,0 +1,22 @@
+{
+  "chinese": "我做的蛋糕不是被你吃了，就是被你妹妹吃了。",
+  "english": "Either the cake I made was eaten by you, or it was eaten by your sister.",
+  "pinyin": "wǒ zuò de dàngāo bùshì bèi nǐ chī le, jiùshì bèi nǐ mèimei chī le.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "做", "en": "make", "pi": "zuò"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "蛋糕", "en": "cake", "pi": "dàngāo"},
+    {"ch": "不是", "en": "either", "pi": "bùshì"},
+    {"ch": "被", "en": "by", "pi": "bèi"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "吃", "en": "eat", "pi": "chī"},
+    {"ch": "了", "en": "past tense particle", "pi": "le"},
+    {"ch": "就是", "en": "or", "pi": "jiùshì"},
+    {"ch": "被", "en": "by", "pi": "bèi"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "妹妹", "en": "sister", "pi": "mèimei"},
+    {"ch": "吃", "en": "eat", "pi": "chī"},
+    {"ch": "了", "en": "past tense particle", "pi": "le"}
+  ]
+}

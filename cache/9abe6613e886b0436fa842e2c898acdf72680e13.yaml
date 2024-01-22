@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆手里拿着饮料。",
+  "english": "Tom is holding a drink in his hand.",
+  "pinyin": "tāng mǔ shǒu lǐ ná zhe yǐn liào.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "手里",
+      "en": "in his hand",
+      "pi": "shǒu lǐ"
+    },
+    {
+      "ch": "拿着",
+      "en": "holding",
+      "pi": "ná zhe"
+    },
+    {
+      "ch": "饮料",
+      "en": "drink",
+      "pi": "yǐn liào"
+    }
+  ]
+}

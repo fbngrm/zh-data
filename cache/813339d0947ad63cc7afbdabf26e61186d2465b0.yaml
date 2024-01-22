@@ -1,0 +1,14 @@
+{
+  "chinese": "我不知道汤姆能不能帮我们。",
+  "english": "I don't know if Tom can help us.",
+  "pinyin": "wǒ bù zhīdào tāng mǔ néng bùnéng bāng wǒmen。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "不", "en": "don't", "pi": "bù"},
+    {"ch": "知道", "en": "know", "pi": "zhīdào"},
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "能不能", "en": "can or not", "pi": "néng bùnéng"},
+    {"ch": "帮", "en": "help", "pi": "bāng"},
+    {"ch": "我们", "en": "us", "pi": "wǒmen"}
+  ]
+}

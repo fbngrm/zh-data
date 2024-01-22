@@ -1,0 +1,32 @@
+{
+  "chinese": "我哥哥现在在澳洲。",
+  "english": "My brother is in Australia now.",
+  "pinyin": "wǒ gēgē xiànzài zài àozhōu.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "哥哥",
+      "en": "brother",
+      "pi": "gēgē"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiànzài"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "澳洲",
+      "en": "Australia",
+      "pi": "àozhōu"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "你第一节课上什么?",
+  "english": "What do you have for your first class?",
+  "pinyin": "Nǐ dì yī jié kè shàng shénme?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "第一",
+      "en": "first",
+      "pi": "dì yī"
+    },
+    {
+      "ch": "节课",
+      "en": "class",
+      "pi": "jié kè"
+    },
+    {
+      "ch": "上",
+      "en": "have",
+      "pi": "shàng"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "我等他一直等到十点。",
+  "english": "I waited for him until ten o'clock.",
+  "pinyin": "wǒ děng tā yīzhí děng dào shí diǎn。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "等",
+      "en": "wait",
+      "pi": "děng"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    },
+    {
+      "ch": "一直",
+      "en": "until",
+      "pi": "yīzhí"
+    },
+    {
+      "ch": "等到",
+      "en": "wait until",
+      "pi": "děngdào"
+    },
+    {
+      "ch": "十点",
+      "en": "ten o'clock",
+      "pi": "shí diǎn"
+    }
+  ]
+}

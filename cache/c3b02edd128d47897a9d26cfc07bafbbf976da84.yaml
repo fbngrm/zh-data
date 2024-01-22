@@ -1,0 +1,62 @@
+{
+  "chinese": "你看起來很累。你應該休息一兩個小時。",
+  "english": "You look tired. You should rest for one or two hours.",
+  "pinyin": "Nǐ kànqǐlái hěn lèi. Nǐ yīnggāi xiūxí yī liǎng gè xiǎoshí。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "看起來",
+      "en": "look",
+      "pi": "kàn qǐ lái"
+    },
+    {
+      "ch": "很",
+      "en": "tired",
+      "pi": "hěn"
+    },
+    {
+      "ch": "累",
+      "en": "should",
+      "pi": "lèi"
+    },
+    {
+      "ch": "你",
+      "en": "rest",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "應該",
+      "en": "for",
+      "pi": "yīng gāi"
+    },
+    {
+      "ch": "休息",
+      "en": "one",
+      "pi": "xiū xí"
+    },
+    {
+      "ch": "一",
+      "en": "or",
+      "pi": "yī"
+    },
+    {
+      "ch": "兩",
+      "en": "two",
+      "pi": "liǎng"
+    },
+    {
+      "ch": "個",
+      "en": "hours",
+      "pi": "gè"
+    },
+    {
+      "ch": "小時",
+      "en": ".",
+      "pi": "xiǎo shí"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "请给我拿点胡椒粉。",
+  "english": "Please pass me some black pepper.",
+  "pinyin": "qǐng gěi wǒ ná diǎn hú jiāo fěn.",
+  "words": [
+    { "ch": "请", "en": "please", "pi": "qǐng" },
+    { "ch": "给", "en": "give", "pi": "gěi" },
+    { "ch": "我", "en": "me", "pi": "wǒ" },
+    { "ch": "拿", "en": "take", "pi": "ná" },
+    { "ch": "点", "en": "some", "pi": "diǎn" },
+    { "ch": "胡椒粉", "en": "black pepper", "pi": "hú jiāo fěn" }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我还是不会说法语。",
+  "english": "I still can't speak French.",
+  "pinyin": "wǒ hái shì bù huì shuō fǎyǔ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "还是",
+      "en": "still",
+      "pi": "hái shì"
+    },
+    {
+      "ch": "不会",
+      "en": "can't",
+      "pi": "bù huì"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎyǔ"
+    }
+  ]
+}

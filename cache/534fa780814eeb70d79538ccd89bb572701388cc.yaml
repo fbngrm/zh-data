@@ -1,0 +1,37 @@
+{
+  "chinese": "你付钱买这本书了吗?",
+  "english": "Have you paid to buy this book?",
+  "pinyin": "nǐ fù qián mǎi zhè běn shū le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "付钱",
+      "en": "pay",
+      "pi": "fù qián"
+    },
+    {
+      "ch": "买",
+      "en": "buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本书",
+      "en": "book",
+      "pi": "běn shū"
+    },
+    {
+      "ch": "了吗",
+      "en": "have",
+      "pi": "le ma"
+    }
+  ]
+}

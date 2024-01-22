@@ -1,0 +1,37 @@
+{
+  "chinese": "我们班有三十名学生。",
+  "english": "There are thirty students in our class.",
+  "pinyin": "wǒmen bān yǒu sānshí míng xuéshēng.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "班",
+      "en": "class",
+      "pi": "bān"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "三十",
+      "en": "thirty",
+      "pi": "sānshí"
+    },
+    {
+      "ch": "名",
+      "en": "count word for people",
+      "pi": "míng"
+    },
+    {
+      "ch": "学生",
+      "en": "students",
+      "pi": "xuéshēng"
+    }
+  ]
+}

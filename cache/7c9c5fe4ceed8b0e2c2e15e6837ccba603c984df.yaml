@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆知道玛丽在这里。",
+  "english": "Tom knows Mary is here.",
+  "pinyin": "tāng mǔ zhī dào mǎ lì zài zhè lǐ。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    }
+  ]
+}

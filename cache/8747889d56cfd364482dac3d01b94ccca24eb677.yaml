@@ -1,0 +1,27 @@
+{
+  "chinese": "苏珊喜欢听音乐。",
+  "english": "Susan likes to listen to music.",
+  "pinyin": "sū sān xǐ huān tīng yīn yuè.",
+  "words": [
+    {
+      "ch": "苏珊",
+      "en": "Susan",
+      "pi": "sū sān"
+    },
+    {
+      "ch": "喜欢",
+      "en": "likes",
+      "pi": "xǐ huān"
+    },
+    {
+      "ch": "听",
+      "en": "to listen",
+      "pi": "tīng"
+    },
+    {
+      "ch": "音乐",
+      "en": "music",
+      "pi": "yīn yuè"
+    }
+  ]
+}

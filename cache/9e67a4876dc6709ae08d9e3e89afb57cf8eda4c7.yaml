@@ -1,0 +1,32 @@
+{
+  "chinese": "你将无法赶上火车。",
+  "english": "You won't be able to catch the train.",
+  "pinyin": "nǐ jiāng wúfǎ gǎnshàng huǒchē。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "将",
+      "en": "will",
+      "pi": "jiāng"
+    },
+    {
+      "ch": "无法",
+      "en": "unable",
+      "pi": "wúfǎ"
+    },
+    {
+      "ch": "赶上",
+      "en": "catch",
+      "pi": "gǎnshàng"
+    },
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒchē"
+    }
+  ]
+}

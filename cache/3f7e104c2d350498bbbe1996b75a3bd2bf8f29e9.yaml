@@ -1,0 +1,42 @@
+{
+  "chinese": "我摺了一隻紙飛機。",
+  "english": "I folded a paper airplane.",
+  "pinyin": "wǒ zhé le yī zhī zhǐ fēi jī。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "摺",
+      "en": "fold",
+      "pi": "zhé"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "一",
+      "en": "a",
+      "pi": "yī"
+    },
+    {
+      "ch": "隻",
+      "en": "measure word for animals",
+      "pi": "zhī"
+    },
+    {
+      "ch": "紙",
+      "en": "paper",
+      "pi": "zhǐ"
+    },
+    {
+      "ch": "飛機",
+      "en": "airplane",
+      "pi": "fēi jī"
+    }
+  ]
+}

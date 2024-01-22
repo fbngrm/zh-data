@@ -1,0 +1,67 @@
+{
+  "chinese": "偶数乘以奇数是偶数，奇数乘以奇数是奇数。",
+  "english": "Even number multiplied by odd number is even, odd number multiplied by odd number is odd.",
+  "pinyin": "Ǒushù chéngyǐ qíshù shì ǒushù, jīshù chéngyǐ qíshù shì jīshù.",
+  "words": [
+    {
+      "ch": "偶数",
+      "en": "Even number",
+      "pi": "Ǒushù"
+    },
+    {
+      "ch": "乘以",
+      "en": "multiplied by",
+      "pi": "chéngyǐ"
+    },
+    {
+      "ch": "奇数",
+      "en": "odd number",
+      "pi": "qíshù"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "偶数",
+      "en": "even number",
+      "pi": "ǒushù"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": "，"
+    },
+    {
+      "ch": "奇数",
+      "en": "odd number",
+      "pi": "jīshù"
+    },
+    {
+      "ch": "乘以",
+      "en": "multiplied by",
+      "pi": "chéngyǐ"
+    },
+    {
+      "ch": "奇数",
+      "en": "odd number",
+      "pi": "qíshù"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "奇数",
+      "en": "odd number",
+      "pi": "jīshù"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "。"
+    }
+  ]
+}

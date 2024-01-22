@@ -1,0 +1,21 @@
+{
+  "chinese": "如果沒有電腦的話，我們的生活會是多麼的不方便呢！",
+  "english": "If there were no computers, our lives would be so inconvenient!",
+  "pinyin": "Rúguǒ méiyǒu diànnǎo dehuà, wǒmen de shēnghuó huì shì duōme de bù fāngbiàn ne!",
+  "words": [
+    {"ch": "如果", "en": "If", "pi": "rúguǒ"},
+    {"ch": "沒有", "en": "were no", "pi": "méiyǒu"},
+    {"ch": "電腦", "en": "computers", "pi": "diànnǎo"},
+    {"ch": "的話", "en": "if", "pi": "dehuà"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "我們", "en": "our", "pi": "wǒmen"},
+    {"ch": "的", "en": "", "pi": "de"},
+    {"ch": "生活", "en": "lives", "pi": "shēnghuó"},
+    {"ch": "會", "en": "would", "pi": "huì"},
+    {"ch": "是", "en": "be", "pi": "shì"},
+    {"ch": "多麼", "en": "so", "pi": "duōme"},
+    {"ch": "的", "en": "", "pi": "de"},
+    {"ch": "不方便", "en": "inconvenient", "pi": "bù fāngbiàn"},
+    {"ch": "呢", "en": "!", "pi": "ne"}
+  ]
+}

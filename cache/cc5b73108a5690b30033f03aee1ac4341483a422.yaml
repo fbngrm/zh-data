@@ -1,0 +1,13 @@
+{
+  "chinese": "你对任何药物过敏吗？",
+  "english": "Are you allergic to any medication?",
+  "pinyin": "Nǐ duì rènhé yàowù guòmǐn ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "对", "en": "to", "pi": "duì"},
+    {"ch": "任何", "en": "any", "pi": "rènhé"},
+    {"ch": "药物", "en": "medication", "pi": "yàowù"},
+    {"ch": "过敏", "en": "allergic", "pi": "guòmǐn"},
+    {"ch": "吗", "en": "question mark", "pi": "ma"}
+  ]
+}

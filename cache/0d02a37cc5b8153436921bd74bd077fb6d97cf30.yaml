@@ -1,0 +1,11 @@
+{
+  "chinese": "我有一个字典。",
+  "english": "I have a dictionary.",
+  "pinyin": "wǒ yǒu yī gè zìdiǎn.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "一个", "en": "a", "pi": "yī gè"},
+    {"ch": "字典", "en": "dictionary", "pi": "zìdiǎn"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "你会说哪些语言？",
+  "english": "Which languages can you speak?",
+  "pinyin": "nǐ huì shuō nǎxiē yǔyán?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "哪些",
+      "en": "which",
+      "pi": "nǎxiē"
+    },
+    {
+      "ch": "语言",
+      "en": "languages",
+      "pi": "yǔyán"
+    }
+  ]
+}

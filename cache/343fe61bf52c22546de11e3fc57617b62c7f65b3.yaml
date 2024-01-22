@@ -1,0 +1,32 @@
+{
+  "chinese": "我现在正在踢足球。",
+  "english": "I am playing soccer now.",
+  "pinyin": "wǒ xiàn zài zhèng zài tī zú qiú.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "正在",
+      "en": "am",
+      "pi": "zhèng zài"
+    },
+    {
+      "ch": "踢",
+      "en": "playing",
+      "pi": "tī"
+    },
+    {
+      "ch": "足球",
+      "en": "soccer",
+      "pi": "zú qiú"
+    }
+  ]
+}

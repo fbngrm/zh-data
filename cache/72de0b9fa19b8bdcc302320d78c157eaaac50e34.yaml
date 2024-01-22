@@ -1,0 +1,42 @@
+{
+  "chinese": "他哥哥是个有名的足球员。",
+  "english": "His older brother is a famous football player.",
+  "pinyin": "tā gēgē shì gè yǒumíng de zúqiú yuán.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "哥哥",
+      "en": "older brother",
+      "pi": "gēgē"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "有名",
+      "en": "famous",
+      "pi": "yǒumíng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "足球员",
+      "en": "football player",
+      "pi": "zúqiú yuán"
+    }
+  ]
+}

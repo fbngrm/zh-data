@@ -1,0 +1,13 @@
+{
+  "chinese": "我不想听汤姆唱歌。",
+  "english": "I don't want to listen to Tom sing.",
+  "pinyin": "wǒ bù xiǎng tīng tāng mǔ chàng gē.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "不", "en": "not", "pi": "bù" },
+    { "ch": "想", "en": "want", "pi": "xiǎng" },
+    { "ch": "听", "en": "listen", "pi": "tīng" },
+    { "ch": "汤姆", "en": "Tom", "pi": "tāng mǔ" },
+    { "ch": "唱歌", "en": "sing", "pi": "chàng gē" }
+  ]
+}

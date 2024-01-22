@@ -1,0 +1,88 @@
+{
+  "sentences": [
+    {
+      "chinese": "有个陌生人从后面拍了拍我的肩。",
+      "english": "A stranger tapped my shoulder from behind.",
+      "pinyin": "yǒu gè mò shēng rén cóng hòu miàn pāi le pāi wǒ de jiān。",
+      "words": [
+        {
+          "ch": "有",
+          "en": "A",
+          "pi": "yǒu"
+        },
+        {
+          "ch": "个",
+          "en": "stranger",
+          "pi": "gè"
+        },
+        {
+          "ch": "陌生人",
+          "en": "tapped",
+          "pi": "mò shēng rén"
+        },
+        {
+          "ch": "从",
+          "en": "my",
+          "pi": "cóng"
+        },
+        {
+          "ch": "后面",
+          "en": "shoulder",
+          "pi": "hòu miàn"
+        },
+        {
+          "ch": "拍了拍",
+          "en": "from behind",
+          "pi": "pāi le pāi"
+        },
+        {
+          "ch": "我的",
+          "en": "tapped",
+          "pi": "wǒ de"
+        },
+        {
+          "ch": "肩",
+          "en": "shoulder",
+          "pi": "jiān"
+        }
+      ]
+    },
+    {
+      "chinese": "我肯定他是认错人了。",
+      "english": "I'm sure he mistook me for someone else.",
+      "pinyin": "wǒ kěn dìng tā shì rèn cuò rén le。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "肯定",
+          "en": "sure",
+          "pi": "kěn dìng"
+        },
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "是",
+          "en": "mistook",
+          "pi": "shì"
+        },
+        {
+          "ch": "认错人",
+          "en": "me",
+          "pi": "rèn cuò rén"
+        },
+        {
+          "ch": "了",
+          "en": "for someone else",
+          "pi": "le"
+        }
+      ]
+    }
+  ]
+}

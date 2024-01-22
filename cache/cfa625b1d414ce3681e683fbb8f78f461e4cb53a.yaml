@@ -1,0 +1,32 @@
+{
+  "chinese": "我需要照Ｘ光片吗？",
+  "english": "Do I need to take an X-ray?",
+  "pinyin": "wǒ xūyào zhào X guāngpiàn ma?",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "需要",
+      "en": "need",
+      "pi": "xūyào"
+    },
+    {
+      "ch": "照",
+      "en": "to take",
+      "pi": "zhào"
+    },
+    {
+      "ch": "Ｘ光片",
+      "en": "X-ray",
+      "pi": "X guāngpiàn"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

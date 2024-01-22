@@ -1,0 +1,37 @@
+{
+  "chinese": "我在别处听过那个名字。",
+  "english": "I have heard that name elsewhere.",
+  "pinyin": "wǒ zài bié chù tīng guò nà gè míng zì。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "别处",
+      "en": "elsewhere",
+      "pi": "bié chù"
+    },
+    {
+      "ch": "听过",
+      "en": "heard",
+      "pi": "tīng guò"
+    },
+    {
+      "ch": "那个",
+      "en": "that",
+      "pi": "nà gè"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míng zì"
+    }
+  ]
+}

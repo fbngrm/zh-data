@@ -1,0 +1,63 @@
+{
+  "sentences": [
+    {
+      "chinese": "所以我们喜欢句子。",
+      "english": "So we like sentences.",
+      "pinyin": "Suǒyǐ wǒmen xǐhuan jùzi.",
+      "words": [
+        {
+          "ch": "所以",
+          "en": "So",
+          "pi": "suǒyǐ"
+        },
+        {
+          "ch": "我们",
+          "en": "we",
+          "pi": "wǒmen"
+        },
+        {
+          "ch": "喜欢",
+          "en": "like",
+          "pi": "xǐhuan"
+        },
+        {
+          "ch": "句子",
+          "en": "sentences",
+          "pi": "jùzi"
+        }
+      ]
+    },
+    {
+      "chinese": "更进一步来说，我们喜欢语言。",
+      "english": "Furthermore, we like language.",
+      "pinyin": "Gèng jìn yībù lái shuō, wǒmen xǐhuan yǔyán.",
+      "words": [
+        {
+          "ch": "更进一步",
+          "en": "Furthermore",
+          "pi": "gèng jìn yībù"
+        },
+        {
+          "ch": "来说",
+          "en": "speak",
+          "pi": "lái shuō"
+        },
+        {
+          "ch": "我们",
+          "en": "we",
+          "pi": "wǒmen"
+        },
+        {
+          "ch": "喜欢",
+          "en": "like",
+          "pi": "xǐhuan"
+        },
+        {
+          "ch": "语言",
+          "en": "language",
+          "pi": "yǔyán"
+        }
+      ]
+    }
+  ]
+}

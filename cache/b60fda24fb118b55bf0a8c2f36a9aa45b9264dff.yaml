@@ -1,0 +1,42 @@
+{
+  "chinese": "你是真的很乐意帮忙吗?",
+  "english": "Are you really willing to help?",
+  "pinyin": "nǐ shì zhēn de hěn lè yì bāng máng ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "真的",
+      "en": "really",
+      "pi": "zhēn de"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "乐意",
+      "en": "willing",
+      "pi": "lè yì"
+    },
+    {
+      "ch": "帮忙",
+      "en": "to help",
+      "pi": "bāng máng"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

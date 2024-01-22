@@ -1,0 +1,16 @@
+{
+  "chinese": "我哥哥在一次交通意外中丧生了。",
+  "english": "My older brother died in a traffic accident.",
+  "pinyin": "wǒ gēgē zài yīcì jiāotōng yìwài zhōng sàngshēng le。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "哥哥", "en": "older brother", "pi": "gēgē"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "一次", "en": "one time", "pi": "yīcì"},
+    {"ch": "交通", "en": "traffic", "pi": "jiāotōng"},
+    {"ch": "意外", "en": "accident", "pi": "yìwài"},
+    {"ch": "中", "en": "in", "pi": "zhōng"},
+    {"ch": "丧生", "en": "died", "pi": "sàngshēng"},
+    {"ch": "了", "en": ".", "pi": "le"}
+  ]
+}

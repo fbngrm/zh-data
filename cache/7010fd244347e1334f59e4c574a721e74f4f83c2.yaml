@@ -1,0 +1,32 @@
+{
+  "chinese": "请不要告诉你父母。",
+  "english": "Please don't tell your parents.",
+  "pinyin": "qǐng bùyào gàosu nǐ fùmǔ。",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "不要",
+      "en": "don't",
+      "pi": "bùyào"
+    },
+    {
+      "ch": "告诉",
+      "en": "tell",
+      "pi": "gàosu"
+    },
+    {
+      "ch": "你",
+      "en": "your",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "父母",
+      "en": "parents",
+      "pi": "fùmǔ"
+    }
+  ]
+}

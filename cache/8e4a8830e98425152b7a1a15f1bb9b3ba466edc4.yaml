@@ -1,0 +1,47 @@
+{
+  "chinese": "我发现了一个很棒的东西！",
+  "english": "I found something great!",
+  "pinyin": "wǒ fāxiàn le yīgè hěn bàng de dōngxi!",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "发现",
+      "en": "found",
+      "pi": "fāxiàn"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yīgè"
+    },
+    {
+      "ch": "很棒",
+      "en": "great",
+      "pi": "hěn bàng"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "东西",
+      "en": "something",
+      "pi": "dōngxi"
+    },
+    {
+      "ch": "！",
+      "en": "",
+      "pi": "!"
+    }
+  ]
+}

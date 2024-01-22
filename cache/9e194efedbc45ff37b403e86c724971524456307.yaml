@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆没有回我的电话。",
+  "english": "Tom didn't return my call.",
+  "pinyin": "Tāng mǔ méiyǒu huí wǒ de diànhuà.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "没有",
+      "en": "didn't",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "回",
+      "en": "return",
+      "pi": "huí"
+    },
+    {
+      "ch": "我",
+      "en": "my",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "电话",
+      "en": "call",
+      "pi": "diànhuà"
+    }
+  ]
+}

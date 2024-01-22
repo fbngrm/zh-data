@@ -1,0 +1,32 @@
+{
+  "chinese": "我要一只宠老虎。",
+  "english": "I want to pet a tiger.",
+  "pinyin": "wǒ yào yī zhī chǒng lǎo hǔ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "一只",
+      "en": "a",
+      "pi": "yī zhī"
+    },
+    {
+      "ch": "宠",
+      "en": "to pet",
+      "pi": "chǒng"
+    },
+    {
+      "ch": "老虎",
+      "en": "tiger",
+      "pi": "lǎo hǔ"
+    }
+  ]
+}

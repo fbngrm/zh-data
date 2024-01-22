@@ -1,0 +1,37 @@
+{
+  "chinese": "我每天去咖啡店喝咖啡。",
+  "english": "I go to the coffee shop to drink coffee every day.",
+  "pinyin": "wǒ měi tiān qù kā fēi diàn hē kā fēi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "咖啡店",
+      "en": "coffee shop",
+      "pi": "kā fēi diàn"
+    },
+    {
+      "ch": "喝",
+      "en": "drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kā fēi"
+    }
+  ]
+}

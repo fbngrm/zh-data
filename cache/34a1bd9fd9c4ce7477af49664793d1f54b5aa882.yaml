@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆需要接受治疗。",
+  "english": "Tom needs to receive treatment.",
+  "pinyin": "Tāng mǔ xū yào jiē shòu zhì liáo.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "需要",
+      "en": "needs",
+      "pi": "xū yào"
+    },
+    {
+      "ch": "接受",
+      "en": "to receive",
+      "pi": "jiē shòu"
+    },
+    {
+      "ch": "治疗",
+      "en": "treatment",
+      "pi": "zhì liáo"
+    }
+  ]
+}

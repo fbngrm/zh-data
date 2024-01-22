@@ -1,0 +1,13 @@
+{
+  "chinese": "你要多吃一点米饭。",
+  "english": "You should eat a little more rice.",
+  "pinyin": "nǐ yào duō chī yì diǎn mǐfàn.",
+  "words": [
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "要", "en": "should", "pi": "yào" },
+    { "ch": "多", "en": "more", "pi": "duō" },
+    { "ch": "吃", "en": "eat", "pi": "chī" },
+    { "ch": "一点", "en": "a little", "pi": "yì diǎn" },
+    { "ch": "米饭", "en": "rice", "pi": "mǐfàn" }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "chinese": "下雨了。",
+  "english": "It's raining.",
+  "pinyin": "xià yǔ le.",
+  "words": [
+    {
+      "ch": "下",
+      "en": "down",
+      "pi": "xià"
+    },
+    {
+      "ch": "雨",
+      "en": "rain",
+      "pi": "yǔ"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

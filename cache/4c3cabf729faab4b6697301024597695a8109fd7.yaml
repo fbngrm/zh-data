@@ -1,0 +1,32 @@
+{
+  "chinese": "请带我去医院。",
+  "english": "Please take me to the hospital.",
+  "pinyin": "qǐng dài wǒ qù yīyuàn.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "带",
+      "en": "take",
+      "pi": "dài"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "去",
+      "en": "to",
+      "pi": "qù"
+    },
+    {
+      "ch": "医院",
+      "en": "hospital",
+      "pi": "yīyuàn"
+    }
+  ]
+}

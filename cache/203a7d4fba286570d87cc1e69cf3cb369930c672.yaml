@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆不能开巴士。",
+  "english": "Tom cannot drive a bus.",
+  "pinyin": "Tāng mǔ bùnéng kāi bāshì.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "不能",
+      "en": "cannot",
+      "pi": "bùnéng"
+    },
+    {
+      "ch": "开",
+      "en": "drive",
+      "pi": "kāi"
+    },
+    {
+      "ch": "巴士",
+      "en": "bus",
+      "pi": "bāshì"
+    }
+  ]
+}

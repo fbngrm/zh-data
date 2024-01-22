@@ -1,0 +1,32 @@
+{
+  "chinese": "１美元相当于１１０日元。",
+  "english": "1 US dollar is equivalent to 110 Japanese yen.",
+  "pinyin": "yī měi yuán xiāng dāng yú yī yī líng rì yuán。",
+  "words": [
+    {
+      "ch": "１",
+      "en": "1",
+      "pi": "yī"
+    },
+    {
+      "ch": "美元",
+      "en": "US dollar",
+      "pi": "měi yuán"
+    },
+    {
+      "ch": "相当于",
+      "en": "is equivalent to",
+      "pi": "xiāng dāng yú"
+    },
+    {
+      "ch": "１１０",
+      "en": "110",
+      "pi": "yī yī líng"
+    },
+    {
+      "ch": "日元",
+      "en": "Japanese yen",
+      "pi": "rì yuán"
+    }
+  ]
+}

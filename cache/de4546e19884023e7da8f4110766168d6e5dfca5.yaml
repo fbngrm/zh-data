@@ -1,0 +1,11 @@
+{
+  "chinese": "我有两个哥哥。",
+  "english": "I have two older brothers.",
+  "pinyin": "Wǒ yǒu liǎng gè gēgē.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "Wǒ" },
+    { "ch": "有", "en": "have", "pi": "yǒu" },
+    { "ch": "两个", "en": "two", "pi": "liǎng gè" },
+    { "ch": "哥哥", "en": "older brother", "pi": "gēgē" }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "chinese": "她坐在甲板上，长头发随风飞舞。",
+  "english": "She sits on the deck, her long hair flying in the wind.",
+  "pinyin": "Tā zuò zài jiǎ bǎn shàng, cháng tóu fà suí fēng fēi wǔ.",
+  "words": [
+    {"ch": "她", "en": "She", "pi": "tā"},
+    {"ch": "坐", "en": "sits", "pi": "zuò"},
+    {"ch": "在", "en": "on", "pi": "zài"},
+    {"ch": "甲板", "en": "deck", "pi": "jiǎ bǎn"},
+    {"ch": "上", "en": "above", "pi": "shàng"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "长", "en": "long", "pi": "cháng"},
+    {"ch": "头发", "en": "hair", "pi": "tóu fà"},
+    {"ch": "随", "en": "with", "pi": "suí"},
+    {"ch": "风", "en": "wind", "pi": "fēng"},
+    {"ch": "飞舞", "en": "to fly", "pi": "fēi wǔ"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "你最近去哪里旅游了吗？",
+  "english": "Have you been on a trip recently?",
+  "pinyin": "nǐ zuìjìn qù nǎlǐ lǚyóu le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "最近",
+      "en": "recently",
+      "pi": "zuìjìn"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "哪里",
+      "en": "where",
+      "pi": "nǎlǐ"
+    },
+    {
+      "ch": "旅游",
+      "en": "travel",
+      "pi": "lǚyóu"
+    },
+    {
+      "ch": "了",
+      "en": "have",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "sentences": [
+    {
+      "chinese": "那个人在说什么?",
+      "english": "What is that person saying?",
+      "pinyin": "Nà gè rén zài shuō shénme?",
+      "words": [
+        {
+          "ch": "那个",
+          "en": "that",
+          "pi": "nà gè"
+        },
+        {
+          "ch": "人",
+          "en": "person",
+          "pi": "rén"
+        },
+        {
+          "ch": "在",
+          "en": "is",
+          "pi": "zài"
+        },
+        {
+          "ch": "说",
+          "en": "saying",
+          "pi": "shuō"
+        },
+        {
+          "ch": "什么",
+          "en": "what",
+          "pi": "shénme"
+        }
+      ]
+    },
+    {
+      "chinese": "他一点也无法用俄语沟通，所以我用俄语责备他。",
+      "english": "He cannot communicate in Russian at all, so I scolded him in Russian.",
+      "pinyin": "Tā yī diǎn yě wúfǎ yòng è yǔ gōutōng, suǒyǐ wǒ yòng è yǔ zébèi tā.",
+      "words": [
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "一点",
+          "en": "a little",
+          "pi": "yī diǎn"
+        },
+        {
+          "ch": "也",
+          "en": "also",
+          "pi": "yě"
+        },
+        {
+          "ch": "无法",
+          "en": "cannot",
+          "pi": "wúfǎ"
+        },
+        {
+          "ch": "用",
+          "en": "use",
+          "pi": "yòng"
+        },
+        {
+          "ch": "俄语",
+          "en": "Russian",
+          "pi": "è yǔ"
+        },
+        {
+          "ch": "沟通",
+          "en": "communicate",
+          "pi": "gōutōng"
+        },
+        {
+          "ch": "所以",
+          "en": "so",
+          "pi": "suǒyǐ"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "用",
+          "en": "use",
+          "pi": "yòng"
+        },
+        {
+          "ch": "俄语",
+          "en": "Russian",
+          "pi": "è yǔ"
+        },
+        {
+          "ch": "责备",
+          "en": "scold",
+          "pi": "zébèi"
+        },
+        {
+          "ch": "他",
+          "en": "him",
+          "pi": "tā"
+        }
+      ]
+    }
+  ]
+}

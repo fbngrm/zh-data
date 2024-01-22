@@ -1,0 +1,22 @@
+{
+  "chinese": "汉字很难读。",
+  "english": "Chinese characters are difficult to read.",
+  "pinyin": "Hàn zì hěn nán dú.",
+  "words": [
+    {
+      "ch": "汉字",
+      "en": "Chinese characters",
+      "pi": "Hàn zì"
+    },
+    {
+      "ch": "很",
+      "en": "are",
+      "pi": "hěn"
+    },
+    {
+      "ch": "难读",
+      "en": "difficult to read",
+      "pi": "nán dú"
+    }
+  ]
+}

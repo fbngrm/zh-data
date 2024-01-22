@@ -1,0 +1,13 @@
+{
+   "chinese": "我们每天至少该睡八小时。",
+   "english": "We should sleep at least eight hours a day.",
+   "pinyin": "wǒmen měi tiān zhìshǎo gāi shuì bā xiǎoshí。",
+   "words": [
+      {"ch": "我们", "en": "We", "pi": "wǒmen"},
+      {"ch": "每天", "en": "everyday", "pi": "měi tiān"},
+      {"ch": "至少", "en": "at least", "pi": "zhìshǎo"},
+      {"ch": "该", "en": "should", "pi": "gāi"},
+      {"ch": "睡", "en": "sleep", "pi": "shuì"},
+      {"ch": "八小时", "en": "eight hours", "pi": "bā xiǎoshí"}
+   ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "您赞成还是反对他的想法？",
+  "english": "Do you agree or disagree with his idea?",
+  "pinyin": "nín zànchéng háishì fǎnduì tā de xiǎngfǎ?",
+  "words": [
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "赞成",
+      "en": "agree",
+      "pi": "zànchéng"
+    },
+    {
+      "ch": "还是",
+      "en": "or",
+      "pi": "háishì"
+    },
+    {
+      "ch": "反对",
+      "en": "disagree",
+      "pi": "fǎnduì"
+    },
+    {
+      "ch": "他",
+      "en": "his",
+      "pi": "tā"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "想法",
+      "en": "idea",
+      "pi": "xiǎngfǎ"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "sentences": [
+    {
+      "chinese": "親愛的,上床吧。",
+      "english": "Darling, let's go to bed.",
+      "pinyin": "qīn ài de, shàng chuáng ba.",
+      "words": [
+        {
+          "ch": "親愛的",
+          "en": "Darling",
+          "pi": "qīn ài de"
+        },
+        {
+          "ch": "上床",
+          "en": "go to bed",
+          "pi": "shàng chuáng"
+        },
+        {
+          "ch": "吧",
+          "en": "let's",
+          "pi": "ba"
+        }
+      ]
+    },
+    {
+      "chinese": "不,還不行。我在Tatoeba上還必須翻譯一些句子。",
+      "english": "No, not yet. I still have to translate some sentences on Tatoeba.",
+      "pinyin": "bù, hái bù xíng. wǒ zài Tatoeba shàng hái bì xū fān yì yī xiē jù zǐ.",
+      "words": [
+        {
+          "ch": "不",
+          "en": "No",
+          "pi": "bù"
+        },
+        {
+          "ch": "還不行",
+          "en": "not yet",
+          "pi": "hái bù xíng"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "在",
+          "en": "still",
+          "pi": "zài"
+        },
+        {
+          "ch": "Tatoeba上",
+          "en": "on Tatoeba",
+          "pi": "Tatoeba shàng"
+        },
+        {
+          "ch": "還",
+          "en": "have to",
+          "pi": "hái"
+        },
+        {
+          "ch": "必須",
+          "en": "must",
+          "pi": "bì xū"
+        },
+        {
+          "ch": "翻譯",
+          "en": "translate",
+          "pi": "fān yì"
+        },
+        {
+          "ch": "一些",
+          "en": "some",
+          "pi": "yī xiē"
+        },
+        {
+          "ch": "句子",
+          "en": "sentences",
+          "pi": "jù zǐ"
+        }
+      ]
+    }
+  ]
+}

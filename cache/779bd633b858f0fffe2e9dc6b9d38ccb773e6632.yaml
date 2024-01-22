@@ -1,0 +1,32 @@
+{
+  "chinese": "你会讲日语么？",
+  "english": "Can you speak Japanese?",
+  "pinyin": "nǐ huì jiǎng rì yǔ ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "讲",
+      "en": "speak",
+      "pi": "jiǎng"
+    },
+    {
+      "ch": "日语",
+      "en": "Japanese",
+      "pi": "rì yǔ"
+    },
+    {
+      "ch": "么",
+      "en": "do (question particle)",
+      "pi": "ma"
+    }
+  ]
+}

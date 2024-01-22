@@ -1,0 +1,42 @@
+{
+  "chinese": "我发现这本新杂志非常有趣。",
+  "english": "I find this new magazine very interesting.",
+  "pinyin": "wǒ fāxiàn zhè běn xīn zázhì fēicháng yǒuqù。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "发现",
+      "en": "find",
+      "pi": "fāxiàn"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本",
+      "en": "new",
+      "pi": "běn"
+    },
+    {
+      "ch": "杂志",
+      "en": "magazine",
+      "pi": "zázhì"
+    },
+    {
+      "ch": "非常",
+      "en": "very",
+      "pi": "fēicháng"
+    },
+    {
+      "ch": "有趣",
+      "en": "interesting",
+      "pi": "yǒuqù"
+    }
+  ]
+}

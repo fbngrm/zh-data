@@ -1,0 +1,47 @@
+{
+  "chinese": "你有没有看那本厚厚的书？",
+  "english": "Have you read that thick book?",
+  "pinyin": "nǐ yǒu méi yǒu kàn nà běn hòu hòu de shū?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "没有",
+      "en": "not have",
+      "pi": "méi yǒu"
+    },
+    {
+      "ch": "看",
+      "en": "read",
+      "pi": "kàn"
+    },
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "厚厚的",
+      "en": "thick",
+      "pi": "hòu hòu de"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    }
+  ]
+}

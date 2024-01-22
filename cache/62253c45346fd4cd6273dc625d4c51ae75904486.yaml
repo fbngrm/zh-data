@@ -1,0 +1,11 @@
+{
+  "chinese": "我没时间阅读。",
+  "english": "I don't have time to read.",
+  "pinyin": "wǒ méi shíjiān yuèdú.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "没", "en": "don't have", "pi": "méi" },
+    { "ch": "时间", "en": "time", "pi": "shíjiān" },
+    { "ch": "阅读", "en": "to read", "pi": "yuèdú" }
+  ]
+}

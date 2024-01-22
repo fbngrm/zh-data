@@ -1,0 +1,15 @@
+{
+  "chinese": "去伯明翰的火车从３号站台出发。",
+  "english": "The train to Birmingham departs from platform 3.",
+  "pinyin": "Qu Bómínghàn de huǒchē cóng sān hào zhàntái chūfā.",
+  "words": [
+    {"ch": "去", "en": "to go", "pi": "qu"},
+    {"ch": "伯明翰", "en": "Birmingham", "pi": "Bómínghàn"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "火车", "en": "train", "pi": "huǒchē"},
+    {"ch": "从", "en": "from", "pi": "cóng"},
+    {"ch": "３号", "en": "platform 3", "pi": "sān hào"},
+    {"ch": "站台", "en": "platform", "pi": "zhàntái"},
+    {"ch": "出发", "en": "depart", "pi": "chūfā"}
+  ]
+}

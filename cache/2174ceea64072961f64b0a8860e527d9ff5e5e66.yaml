@@ -1,0 +1,42 @@
+{
+  "chinese": "我被很多的蚊子叮了。",
+  "english": "I was bitten by a lot of mosquitoes.",
+  "pinyin": "wǒ bèi hěn duō de wén zi dīng le。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "被",
+      "en": "was",
+      "pi": "bèi"
+    },
+    {
+      "ch": "很多",
+      "en": "a lot of",
+      "pi": "hěn duō"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "蚊子",
+      "en": "mosquitoes",
+      "pi": "wén zi"
+    },
+    {
+      "ch": "叮",
+      "en": "bite",
+      "pi": "dīng"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "le"
+    }
+  ]
+}

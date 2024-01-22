@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆让玛丽幚约翰。",
+  "english": "Tom asked Mary to help John.",
+  "pinyin": "tāng mǔ ràng mǎ lì bāng yuē hàn。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "让",
+      "en": "ask",
+      "pi": "ràng"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "幫",
+      "en": "to help",
+      "pi": "bāng"
+    },
+    {
+      "ch": "约翰",
+      "en": "John",
+      "pi": "yuē hàn"
+    }
+  ]
+}

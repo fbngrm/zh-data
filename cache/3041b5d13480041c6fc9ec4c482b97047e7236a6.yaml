@@ -1,0 +1,21 @@
+{
+  "chinese": "汤姆的主意我不太感兴趣，这个我们之间说说就好。",
+  "english": "I'm not very interested in Tom's idea, let's just discuss it between us.",
+  "pinyin": "Tāng mǔ de zhǔ yi wǒ bù tài gǎn xìng qù, zhè ge wǒ men zhī jiān shuō shuō jiù hǎo。",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "主意", "en": "idea", "pi": "zhǔ yi"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "太", "en": "very", "pi": "tài"},
+    {"ch": "感兴趣", "en": "interested", "pi": "gǎn xìng qù"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "这个", "en": "this", "pi": "zhè ge"},
+    {"ch": "我们", "en": "we", "pi": "wǒ men"},
+    {"ch": "之间", "en": "between us", "pi": "zhī jiān"},
+    {"ch": "说说", "en": "discuss", "pi": "shuō shuō"},
+    {"ch": "就好", "en": "just", "pi": "jiù hǎo"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

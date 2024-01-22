@@ -1,0 +1,37 @@
+{
+  "chinese": "本周气温一直都很热。",
+  "english": "The temperature has been high all week.",
+  "pinyin": "běn zhōu qì wēn yī zhí dōu hěn rè.",
+  "words": [
+    {
+      "ch": "本周",
+      "en": "this week",
+      "pi": "běn zhōu"
+    },
+    {
+      "ch": "气温",
+      "en": "temperature",
+      "pi": "qì wēn"
+    },
+    {
+      "ch": "一直",
+      "en": "always",
+      "pi": "yī zhí"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "热",
+      "en": "hot",
+      "pi": "rè"
+    }
+  ]
+}

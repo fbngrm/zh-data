@@ -1,0 +1,32 @@
+{
+  "chinese": "我们的图书馆在三楼。",
+  "english": "Our library is on the third floor.",
+  "pinyin": "wǒmen de túshūguǎn zài sānlóu。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "图书馆",
+      "en": "library",
+      "pi": "túshūguǎn"
+    },
+    {
+      "ch": "在",
+      "en": "is on",
+      "pi": "zài"
+    },
+    {
+      "ch": "三楼",
+      "en": "third floor",
+      "pi": "sānlóu"
+    }
+  ]
+}

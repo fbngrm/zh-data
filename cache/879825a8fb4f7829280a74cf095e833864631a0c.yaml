@@ -1,0 +1,37 @@
+{
+  "chinese": "不好意思，請問這條路通往地鐵站嗎？",
+  "english": "Excuse me, does this road lead to the subway station?",
+  "pinyin": "Bù hǎo yìsi, qǐngwèn zhè tiáo lù tōngwǎng dìtiě zhàn ma?",
+  "words": [
+    {
+      "ch": "不好意思",
+      "en": "Excuse me",
+      "pi": "Bù hǎo yìsi"
+    },
+    {
+      "ch": "請問",
+      "en": "please",
+      "pi": "qǐngwèn"
+    },
+    {
+      "ch": "這條路",
+      "en": "this road",
+      "pi": "zhè tiáo lù"
+    },
+    {
+      "ch": "通往",
+      "en": "lead to",
+      "pi": "tōngwǎng"
+    },
+    {
+      "ch": "地鐵站",
+      "en": "subway station",
+      "pi": "dìtiě zhàn"
+    },
+    {
+      "ch": "嗎",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

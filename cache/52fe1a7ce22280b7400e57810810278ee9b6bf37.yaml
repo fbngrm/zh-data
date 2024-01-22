@@ -1,0 +1,32 @@
+{
+  "chinese": "你介意打开窗户吗?",
+  "english": "Do you mind opening the window?",
+  "pinyin": "nǐ jièyì dǎkāi chuānghu ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "介意",
+      "en": "mind",
+      "pi": "jièyì"
+    },
+    {
+      "ch": "打开",
+      "en": "open",
+      "pi": "dǎkāi"
+    },
+    {
+      "ch": "窗户",
+      "en": "window",
+      "pi": "chuānghu"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

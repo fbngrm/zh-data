@@ -1,0 +1,37 @@
+{
+  "chinese": "这种错误很容易被人忽视。",
+  "english": "This kind of mistake is easily overlooked.",
+  "pinyin": "zhè zhǒng cuòwù hěn róngyì bèi rén hūshì。",
+  "words": [
+    {
+      "ch": "这种",
+      "en": "this kind",
+      "pi": "zhè zhǒng"
+    },
+    {
+      "ch": "错误",
+      "en": "mistake",
+      "pi": "cuòwù"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "容易",
+      "en": "easy",
+      "pi": "róngyì"
+    },
+    {
+      "ch": "被人",
+      "en": "by someone",
+      "pi": "bèi rén"
+    },
+    {
+      "ch": "忽视",
+      "en": "overlook",
+      "pi": "hūshì"
+    }
+  ]
+}

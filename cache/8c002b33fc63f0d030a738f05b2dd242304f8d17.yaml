@@ -1,0 +1,42 @@
+{
+  "chinese": "我现在正在读一本书。",
+  "english": "I am currently reading a book.",
+  "pinyin": "wǒ xiànzài zhèngzài dú yī běn shū。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "现在",
+      "en": "currently",
+      "pi": "xiànzài"
+    },
+    {
+      "ch": "正在",
+      "en": "am",
+      "pi": "zhèngzài"
+    },
+    {
+      "ch": "读",
+      "en": "reading",
+      "pi": "dú"
+    },
+    {
+      "ch": "一",
+      "en": "a",
+      "pi": "yī"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "书",
+      "en": "",
+      "pi": "shū"
+    }
+  ]
+}

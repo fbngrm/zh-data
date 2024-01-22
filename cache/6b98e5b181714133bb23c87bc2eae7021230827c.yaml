@@ -1,0 +1,13 @@
+{
+  "chinese": "他的名字不在名单里。",
+  "english": "His name is not on the list.",
+  "pinyin": "tā de míngzì bù zài míngdān lǐ.",
+  "words": [
+    {"ch": "他的", "en": "His", "pi": "tā de"},
+    {"ch": "名字", "en": "name", "pi": "míngzì"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "在", "en": "on", "pi": "zài"},
+    {"ch": "名单", "en": "list", "pi": "míngdān"},
+    {"ch": "里", "en": "inside", "pi": "lǐ"}
+  ]
+}

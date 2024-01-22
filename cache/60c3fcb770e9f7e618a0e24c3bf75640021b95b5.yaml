@@ -1,0 +1,15 @@
+{
+    "chinese": "他买了蔬菜，还有一些水果。",
+    "english": "He bought vegetables and some fruits.",
+    "pinyin": "Tā mǎi le shūcài, hái yǒu yīxiē shuǐguǒ.",
+    "words": [
+        { "ch": "他", "en": "He", "pi": "tā" },
+        { "ch": "买了", "en": "bought", "pi": "mǎi le" },
+        { "ch": "蔬菜", "en": "vegetables", "pi": "shūcài" },
+        { "ch": "，", "en": ",", "pi": "，" },
+        { "ch": "还有", "en": "and", "pi": "hái yǒu" },
+        { "ch": "一些", "en": "some", "pi": "yī xiē" },
+        { "ch": "水果", "en": "fruits", "pi": "shuǐguǒ" },
+        { "ch": "。", "en": ".", "pi": "。" }
+    ]
+}

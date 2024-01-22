@@ -1,0 +1,14 @@
+{
+  "chinese": "我认为自己的法语相当流利。",
+  "english": "I consider myself quite fluent in French.",
+  "pinyin": "wǒ rèn wéi zì jǐ de fǎ yǔ xiāng dāng liú lì.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "认为", "en": "consider", "pi": "rèn wéi"},
+    {"ch": "自己", "en": "myself", "pi": "zì jǐ"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "法语", "en": "French", "pi": "fǎ yǔ"},
+    {"ch": "相当", "en": "quite", "pi": "xiāng dāng"},
+    {"ch": "流利", "en": "fluent", "pi": "liú lì"}
+  ]
+}

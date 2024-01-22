@@ -1,0 +1,47 @@
+{
+  "chinese": "天气热的时候记住要多喝水。",
+  "english": "Remember to drink more water when it's hot.",
+  "pinyin": "tiān qì rè de shí hòu jì zhù yào duō hē shuǐ.",
+  "words": [
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiān qì"
+    },
+    {
+      "ch": "热",
+      "en": "hot",
+      "pi": "rè"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "时候",
+      "en": "time",
+      "pi": "shí hòu"
+    },
+    {
+      "ch": "记住",
+      "en": "remember",
+      "pi": "jì zhù"
+    },
+    {
+      "ch": "要",
+      "en": "to",
+      "pi": "yào"
+    },
+    {
+      "ch": "多",
+      "en": "more",
+      "pi": "duō"
+    },
+    {
+      "ch": "喝水",
+      "en": "drink water",
+      "pi": "hē shuǐ"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆没有朋友吗？",
+  "english": "Does Tom have no friends?",
+  "pinyin": "Tāng mǔ méiyǒu péngyǒu ma?",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "没有",
+      "en": "have no",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "朋友",
+      "en": "friends",
+      "pi": "péngyǒu"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

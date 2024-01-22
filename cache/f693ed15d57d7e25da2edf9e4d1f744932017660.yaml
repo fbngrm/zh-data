@@ -1,0 +1,93 @@
+{
+  "sentences": [
+    {
+      "chinese": "拜个不够行的师父，很伤脑筋吧？",
+      "english": "Having an inadequate master is quite frustrating, isn't it?",
+      "pinyin": "bài gè bù gòu xíng de shī fu, hěn shāng nǎo jīn ba?",
+      "words": [
+        {
+          "ch": "拜",
+          "en": "worship",
+          "pi": "bài"
+        },
+        {
+          "ch": "个",
+          "en": "a",
+          "pi": "gè"
+        },
+        {
+          "ch": "不够",
+          "en": "inadequate",
+          "pi": "bù gòu"
+        },
+        {
+          "ch": "行",
+          "en": "capable",
+          "pi": "xíng"
+        },
+        {
+          "ch": "的",
+          "en": "of",
+          "pi": "de"
+        },
+        {
+          "ch": "师父",
+          "en": "master",
+          "pi": "shī fu"
+        },
+        {
+          "ch": "很",
+          "en": "quite",
+          "pi": "hěn"
+        },
+        {
+          "ch": "伤脑筋",
+          "en": "frustrating",
+          "pi": "shāng nǎo jīn"
+        },
+        {
+          "ch": "吧",
+          "en": "isn't it?",
+          "pi": "ba?"
+        }
+      ]
+    },
+    {
+      "chinese": "我也很笨，所以没关系。",
+      "english": "I am also clumsy, so it's okay.",
+      "pinyin": "wǒ yě hěn bèn, suǒ yǐ méi guān xi.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "也",
+          "en": "also",
+          "pi": "yě"
+        },
+        {
+          "ch": "很",
+          "en": "very",
+          "pi": "hěn"
+        },
+        {
+          "ch": "笨",
+          "en": "clumsy",
+          "pi": "bèn"
+        },
+        {
+          "ch": "所以",
+          "en": "so",
+          "pi": "suǒ yǐ"
+        },
+        {
+          "ch": "没关系",
+          "en": "it's okay",
+          "pi": "méi guān xi"
+        }
+      ]
+    }
+  ]
+}

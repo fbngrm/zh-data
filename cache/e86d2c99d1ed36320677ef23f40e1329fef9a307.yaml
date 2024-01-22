@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆会听从我的建议。",
+  "english": "Tom will follow my advice.",
+  "pinyin": "Tāng mǔ huì tīng cóng wǒ de jiàn yì.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "听从",
+      "en": "follow",
+      "pi": "tīng cóng"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "建议",
+      "en": "advice",
+      "pi": "jiàn yì"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "摄氏零度时水会结冰，对吧？",
+  "english": "Water freezes at zero degrees Celsius, right?",
+  "pinyin": "shèshì líng dù shí shuǐ huì jiébīng, duì ba?",
+  "words": [
+    {
+      "ch": "摄氏",
+      "en": "Celsius",
+      "pi": "shèshì"
+    },
+    {
+      "ch": "零度",
+      "en": "zero degrees",
+      "pi": "líng dù"
+    },
+    {
+      "ch": "时",
+      "en": "time",
+      "pi": "shí"
+    },
+    {
+      "ch": "水",
+      "en": "water",
+      "pi": "shuǐ"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "结冰",
+      "en": "freeze",
+      "pi": "jiébīng"
+    },
+    {
+      "ch": "对吧",
+      "en": "right?",
+      "pi": "duì ba"
+    }
+  ]
+}

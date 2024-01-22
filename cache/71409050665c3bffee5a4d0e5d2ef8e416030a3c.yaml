@@ -1,0 +1,37 @@
+{
+  "chinese": "您已经去过纽约了吗？",
+  "english": "Have you been to New York?",
+  "pinyin": "nín yǐjīng qùguò niǔyuē le ma?",
+  "words": [
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐjīng"
+    },
+    {
+      "ch": "去过",
+      "en": "been to",
+      "pi": "qùguò"
+    },
+    {
+      "ch": "纽约",
+      "en": "New York",
+      "pi": "niǔyuē"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

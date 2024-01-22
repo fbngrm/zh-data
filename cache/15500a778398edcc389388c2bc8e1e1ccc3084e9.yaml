@@ -1,0 +1,52 @@
+{
+  "chinese": "当且仅当你知道我们的密码你才可以进来。",
+  "english": "You can only come in if you know our password.",
+  "pinyin": "dāng qiě jǐnɡ rán nǐ zhī dào wǒ men de mì mǎ nǐ cái kě yǐ jìn lái.",
+  "words": [
+    {
+      "ch": "当且仅当",
+      "en": "only if",
+      "pi": "dāng qiě jǐnɡ rán"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "我们的",
+      "en": "our",
+      "pi": "wǒ men de"
+    },
+    {
+      "ch": "密码",
+      "en": "password",
+      "pi": "mì mǎ"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "才",
+      "en": "only",
+      "pi": "cái"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kě yǐ"
+    },
+    {
+      "ch": "进来",
+      "en": "come in",
+      "pi": "jìn lái"
+    }
+  ]
+}

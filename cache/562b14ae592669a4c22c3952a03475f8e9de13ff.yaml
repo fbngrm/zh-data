@@ -1,0 +1,37 @@
+{
+  "chinese": "如果我错了，请你指正。",
+  "english": "If I'm wrong, please correct me.",
+  "pinyin": "rú guǒ wǒ cuò le, qǐng nǐ zhǐ zhèng。",
+  "words": [
+    {
+      "ch": "如果",
+      "en": "if",
+      "pi": "rú guǒ"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "错了",
+      "en": "wrong",
+      "pi": "cuò le"
+    },
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "指正",
+      "en": "correct",
+      "pi": "zhǐ zhèng"
+    }
+  ]
+}

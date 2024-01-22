@@ -1,0 +1,32 @@
+{
+  "chinese": "这是谁的衬衫。",
+  "english": "Whose shirt is this?",
+  "pinyin": "zhè shì shéi de chèn shān.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "谁",
+      "en": "whose",
+      "pi": "shéi"
+    },
+    {
+      "ch": "的",
+      "en": "is",
+      "pi": "de"
+    },
+    {
+      "ch": "衬衫",
+      "en": "shirt",
+      "pi": "chèn shān"
+    }
+  ]
+}

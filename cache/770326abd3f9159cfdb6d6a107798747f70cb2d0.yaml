@@ -1,0 +1,27 @@
+{
+  "chinese": "你忘了关灯。",
+  "english": "You forgot to turn off the light.",
+  "pinyin": "nǐ wàng le guān dēng.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "忘了",
+      "en": "forgot",
+      "pi": "wàng le"
+    },
+    {
+      "ch": "关",
+      "en": "to turn off",
+      "pi": "guān"
+    },
+    {
+      "ch": "灯",
+      "en": "light",
+      "pi": "dēng"
+    }
+  ]
+}

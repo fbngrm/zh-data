@@ -1,0 +1,42 @@
+{
+  "chinese": "请给我找一把椅子。",
+  "english": "Please find me a chair.",
+  "pinyin": "qǐng gěi wǒ zhǎo yī bǎ yǐzi.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "找",
+      "en": "find",
+      "pi": "zhǎo"
+    },
+    {
+      "ch": "一",
+      "en": "a",
+      "pi": "yī"
+    },
+    {
+      "ch": "把",
+      "en": "chair",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "椅子",
+      "en": "chair",
+      "pi": "yǐzi"
+    }
+  ]
+}

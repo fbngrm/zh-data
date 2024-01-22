@@ -1,0 +1,37 @@
+{
+  "chinese": "火车因大雪被耽搁了。",
+  "english": "The train was delayed due to heavy snow.",
+  "pinyin": "huǒ chē yīn dà xuě bèi dān gě le。",
+  "words": [
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒ chē"
+    },
+    {
+      "ch": "因",
+      "en": "due to",
+      "pi": "yīn"
+    },
+    {
+      "ch": "大雪",
+      "en": "heavy snow",
+      "pi": "dà xuě"
+    },
+    {
+      "ch": "被",
+      "en": "was",
+      "pi": "bèi"
+    },
+    {
+      "ch": "耽搁",
+      "en": "delayed",
+      "pi": "dān gě"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

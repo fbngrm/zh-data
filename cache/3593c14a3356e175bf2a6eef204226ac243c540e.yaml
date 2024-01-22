@@ -1,0 +1,130 @@
+{
+  "sentences": [
+    {
+      "chinese": "星期天早上我骑车去体育馆打乒乓球。",
+      "english": "On Sunday morning, I ride my bike to the gym to play ping pong.",
+      "pinyin": "Xīngqítiān zǎoshang wǒ qí chē qù tǐyùguǎn dǎ pīngpāngqiú。",
+      "words": [
+        {
+          "ch": "星期天",
+          "en": "Sunday",
+          "pi": "Xīngqítiān"
+        },
+        {
+          "ch": "早上",
+          "en": "morning",
+          "pi": "zǎoshang"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "骑车",
+          "en": "ride bike",
+          "pi": "qí chē"
+        },
+        {
+          "ch": "去",
+          "en": "go to",
+          "pi": "qù"
+        },
+        {
+          "ch": "体育馆",
+          "en": "gym",
+          "pi": "tǐyùguǎn"
+        },
+        {
+          "ch": "打",
+          "en": "play",
+          "pi": "dǎ"
+        },
+        {
+          "ch": "乒乓球",
+          "en": "ping pong",
+          "pi": "pīngpāngqiú"
+        }
+      ]
+    },
+    {
+      "chinese": "下午带我女儿去学书法。",
+      "english": "In the afternoon, I take my daughter to learn calligraphy.",
+      "pinyin": "Xiàwǔ dài wǒ nǚ'ér qù xué shūfǎ。",
+      "words": [
+        {
+          "ch": "下午",
+          "en": "afternoon",
+          "pi": "Xiàwǔ"
+        },
+        {
+          "ch": "带",
+          "en": "take",
+          "pi": "dài"
+        },
+        {
+          "ch": "我",
+          "en": "my",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "女儿",
+          "en": "daughter",
+          "pi": "nǚ'ér"
+        },
+        {
+          "ch": "去",
+          "en": "to",
+          "pi": "qù"
+        },
+        {
+          "ch": "学",
+          "en": "learn",
+          "pi": "xué"
+        },
+        {
+          "ch": "书法",
+          "en": "calligraphy",
+          "pi": "shūfǎ"
+        }
+      ]
+    },
+    {
+      "chinese": "晚上我们通常去饭店吃饭。",
+      "english": "In the evening, we usually go to a restaurant to eat.",
+      "pinyin": "Wǎnshàng wǒmen tōngcháng qù fàndiàn chīfàn。",
+      "words": [
+        {
+          "ch": "晚上",
+          "en": "evening",
+          "pi": "Wǎnshàng"
+        },
+        {
+          "ch": "我们",
+          "en": "we",
+          "pi": "wǒmen"
+        },
+        {
+          "ch": "通常",
+          "en": "usually",
+          "pi": "tōngcháng"
+        },
+        {
+          "ch": "去",
+          "en": "go to",
+          "pi": "qù"
+        },
+        {
+          "ch": "饭店",
+          "en": "restaurant",
+          "pi": "fàndiàn"
+        },
+        {
+          "ch": "吃饭",
+          "en": "eat",
+          "pi": "chīfàn"
+        }
+      ]
+    }
+  ]
+}

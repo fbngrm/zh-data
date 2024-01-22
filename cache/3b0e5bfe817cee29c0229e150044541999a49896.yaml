@@ -1,0 +1,15 @@
+{
+  "chinese": "我们九点上课，可是他九点一刻才来。",
+  "english": "We start class at nine o'clock, but he didn't come until a quarter past nine.",
+  "pinyin": "wǒ​men jiǔ​diǎn shàng​kè, kě​shì tā jiǔ​diǎn yī​kè cái​lái.",
+  "words": [
+    {"ch": "我们", "en": "We", "pi": "wǒ​men"},
+    {"ch": "九点", "en": "nine o'clock", "pi": "jiǔ​diǎn"},
+    {"ch": "上课", "en": "start class", "pi": "shàng​kè"},
+    {"ch": "可是", "en": "but", "pi": "kě​shì"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "九点一刻", "en": "a quarter past nine", "pi": "jiǔ​diǎn yī​kè"},
+    {"ch": "才", "en": "until", "pi": "cái​"},
+    {"ch": "来", "en": "come", "pi": "lái"}
+  ]
+}

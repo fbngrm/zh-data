@@ -1,0 +1,42 @@
+{
+  "chinese": "我以为汤姆会喜欢这个聚会。",
+  "english": "I thought Tom would like this party.",
+  "pinyin": "wǒ yǐwéi tāngmǔ huì xǐhuān zhège jùhuì。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "以为",
+      "en": "thought",
+      "pi": "yǐwéi"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāngmǔ"
+    },
+    {
+      "ch": "会",
+      "en": "would",
+      "pi": "huì"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhège"
+    },
+    {
+      "ch": "聚会",
+      "en": "party",
+      "pi": "jùhuì"
+    }
+  ]
+}

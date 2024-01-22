@@ -1,0 +1,13 @@
+{
+  "chinese": "明天早上六点把我叫起来。",
+  "english": "Wake me up at 6 o'clock tomorrow morning.",
+  "pinyin": "míngtiān zǎoshang liù diǎn bǎ wǒ jiào qǐlái。",
+  "words": [
+    {"ch": "明天", "en": "tomorrow", "pi": "míng tiān"},
+    {"ch": "早上", "en": "morning", "pi": "zǎo shang"},
+    {"ch": "六点", "en": "6 o'clock", "pi": "liù diǎn"},
+    {"ch": "把", "en": "take", "pi": "bǎ"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "叫起来", "en": "wake up", "pi": "jiào qǐ lái"}
+  ]
+}

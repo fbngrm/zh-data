@@ -1,0 +1,32 @@
+{
+  "chinese": "这把椅子很丑。",
+  "english": "This chair is ugly.",
+  "pinyin": "zhè bǎ yǐzi hěn chǒu。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "把",
+      "en": "chair",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "椅子",
+      "en": "is",
+      "pi": "yǐzi"
+    },
+    {
+      "ch": "很",
+      "en": "ugly",
+      "pi": "hěn"
+    },
+    {
+      "ch": "丑",
+      "en": "。",
+      "pi": "chǒu"
+    }
+  ]
+}

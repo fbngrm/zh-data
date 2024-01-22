@@ -1,0 +1,47 @@
+{
+  "chinese": "医生从早到晚都在工作。",
+  "english": "The doctor is working from morning till night.",
+  "pinyin": "yī shēng cóng zǎo dào wǎn dōu zài gōng zuò。",
+  "words": [
+    {
+      "ch": "医生",
+      "en": "doctor",
+      "pi": "yī shēng"
+    },
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "早",
+      "en": "morning",
+      "pi": "zǎo"
+    },
+    {
+      "ch": "到",
+      "en": "till",
+      "pi": "dào"
+    },
+    {
+      "ch": "晚",
+      "en": "night",
+      "pi": "wǎn"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "工作",
+      "en": "work",
+      "pi": "gōng zuò"
+    }
+  ]
+}

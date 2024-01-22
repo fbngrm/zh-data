@@ -1,0 +1,32 @@
+{
+  "chinese": "一只鸟正在树上唱歌。",
+  "english": "A bird is singing on the tree.",
+  "pinyin": "yī zhī niǎo zhèngzài shù shàng chànggē。",
+  "words": [
+    {
+      "ch": "一只",
+      "en": "a",
+      "pi": "yī zhī"
+    },
+    {
+      "ch": "鸟",
+      "en": "bird",
+      "pi": "niǎo"
+    },
+    {
+      "ch": "正在",
+      "en": "is",
+      "pi": "zhèngzài"
+    },
+    {
+      "ch": "树上",
+      "en": "on the tree",
+      "pi": "shù shàng"
+    },
+    {
+      "ch": "唱歌",
+      "en": "singing",
+      "pi": "chàng gē"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "我在考虑明年去美国学习。",
+  "english": "I am considering going to the United States to study next year.",
+  "pinyin": "Wǒ zài kǎolǜ míngnián qù měiguó xuéxí.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "Wǒ"},
+    {"ch": "在", "en": "am", "pi": "zài"},
+    {"ch": "考虑", "en": "considering", "pi": "kǎolǜ"},
+    {"ch": "明年", "en": "next year", "pi": "míngnián"},
+    {"ch": "去", "en": "going", "pi": "qù"},
+    {"ch": "美国", "en": "United States", "pi": "měiguó"},
+    {"ch": "学习", "en": "to study", "pi": "xuéxí"}
+  ]
+}

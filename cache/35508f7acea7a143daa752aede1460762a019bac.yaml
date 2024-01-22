@@ -1,0 +1,32 @@
+{
+  "chinese": "我不该说那个。",
+  "english": "I shouldn't have said that.",
+  "pinyin": "wǒ bù gāi shuō nà ge。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "该",
+      "en": "should",
+      "pi": "gāi"
+    },
+    {
+      "ch": "说",
+      "en": "say",
+      "pi": "shuō"
+    },
+    {
+      "ch": "那个",
+      "en": "that",
+      "pi": "nà ge"
+    }
+  ]
+}

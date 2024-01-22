@@ -1,0 +1,32 @@
+{
+  "chinese": "上床睡觉之前请关灯。",
+  "english": "Please turn off the light before going to bed.",
+  "pinyin": "Shàng chuáng shuì jiào zhī qián qǐng guān dēng。",
+  "words": [
+    {
+      "ch": "上床",
+      "en": "go to bed",
+      "pi": "shàng chuáng"
+    },
+    {
+      "ch": "睡觉",
+      "en": "sleep",
+      "pi": "shuì jiào"
+    },
+    {
+      "ch": "之前",
+      "en": "before",
+      "pi": "zhī qián"
+    },
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "关灯",
+      "en": "turn off the light",
+      "pi": "guān dēng"
+    }
+  ]
+}

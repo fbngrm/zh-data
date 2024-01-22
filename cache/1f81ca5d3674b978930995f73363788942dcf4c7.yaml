@@ -1,0 +1,15 @@
+{
+  "chinese": "我不相信孩子能独自到东京。",
+  "english": "I don't believe that children can go to Tokyo alone.",
+  "pinyin": "wǒ bù xiāng xìn hái zǐ néng dú zì dào dōng jīng.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "不", "en": "don't", "pi": "bù"},
+    {"ch": "相信", "en": "believe", "pi": "xiāng xìn"},
+    {"ch": "孩子", "en": "children", "pi": "hái zǐ"},
+    {"ch": "能", "en": "can", "pi": "néng"},
+    {"ch": "独自", "en": "alone", "pi": "dú zì"},
+    {"ch": "到", "en": "to", "pi": "dào"},
+    {"ch": "东京", "en": "Tokyo", "pi": "dōng jīng"}
+  ]
+}

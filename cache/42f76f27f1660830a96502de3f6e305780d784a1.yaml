@@ -1,0 +1,32 @@
+{
+  "chinese": "她在家不讲日语。",
+  "english": "She doesn't speak Japanese at home.",
+  "pinyin": "Tā zài jiā bù jiǎng rìyǔ.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "在家",
+      "en": "at home",
+      "pi": "zài jiā"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "讲",
+      "en": "speak",
+      "pi": "jiǎng"
+    },
+    {
+      "ch": "日语",
+      "en": "Japanese",
+      "pi": "rìyǔ"
+    }
+  ]
+}

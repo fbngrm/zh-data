@@ -1,0 +1,32 @@
+{
+  "chinese": "我的笔记本是粉色的。",
+  "english": "My notebook is pink.",
+  "pinyin": "Wǒ de bǐjìběn shì fěnsè de.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "笔记本",
+      "en": "notebook",
+      "pi": "bǐjìběn"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "粉色",
+      "en": "pink",
+      "pi": "fěnsè"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    }
+  ]
+}

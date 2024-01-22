@@ -1,0 +1,27 @@
+{
+  "sentences": [
+    {
+      "chinese": "我希望他能来！",
+      "english": "I hope he can come!",
+      "pinyin": "wǒ xīwàng tā néng lái!",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "希望", "en": "hope", "pi": "xīwàng"},
+        {"ch": "他", "en": "he", "pi": "tā"},
+        {"ch": "能", "en": "can", "pi": "néng"},
+        {"ch": "来", "en": "come", "pi": "lái"}
+      ]
+    },
+    {
+      "chinese": "我想见他。",
+      "english": "I want to see him.",
+      "pinyin": "wǒ xiǎng jiàn tā.",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "想", "en": "want", "pi": "xiǎng"},
+        {"ch": "见", "en": "see", "pi": "jiàn"},
+        {"ch": "他", "en": "him", "pi": "tā"}
+      ]
+    }
+  ]
+}

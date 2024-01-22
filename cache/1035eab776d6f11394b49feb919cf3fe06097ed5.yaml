@@ -1,0 +1,16 @@
+{
+  "chinese": "你放假的时候有要去哪里吗？",
+  "english": "Do you have any plans to go somewhere during your vacation?",
+  "pinyin": "Nǐ fàngjià de shíhòu yǒu yào qù nǎlǐ ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "放假", "en": "vacation", "pi": "fàngjià"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "时候", "en": "time", "pi": "shíhòu"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "要", "en": "want", "pi": "yào"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "哪里", "en": "somewhere", "pi": "nǎlǐ"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

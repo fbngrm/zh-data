@@ -1,0 +1,140 @@
+{
+  "sentences": [
+    {
+      "chinese": "我听说经理的妻子出去度假了。",
+      "english": "I heard that the manager's wife went on vacation.",
+      "pinyin": "wǒ tīng shuō jīng lǐ de qī zi chū qù dù jià le。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "听说",
+          "en": "heard",
+          "pi": "tīng shuō"
+        },
+        {
+          "ch": "经理",
+          "en": "manager",
+          "pi": "jīng lǐ"
+        },
+        {
+          "ch": "的",
+          "en": "of",
+          "pi": "de"
+        },
+        {
+          "ch": "妻子",
+          "en": "wife",
+          "pi": "qī zi"
+        },
+        {
+          "ch": "出去",
+          "en": "went",
+          "pi": "chū qù"
+        },
+        {
+          "ch": "度假",
+          "en": "on vacation",
+          "pi": "dù jià"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        }
+      ]
+    },
+    {
+      "chinese": "这时就是山中无老虎，猴子称大王了。",
+      "english": "This is the time when there are no tigers in the mountains, and the monkeys call themselves kings.",
+      "pinyin": "zhè shí jiù shì shān zhōng wú lǎo hǔ，hóu zi chēng dà wáng le。",
+      "words": [
+        {
+          "ch": "这时",
+          "en": "this time",
+          "pi": "zhè shí"
+        },
+        {
+          "ch": "就是",
+          "en": "is",
+          "pi": "jiù shì"
+        },
+        {
+          "ch": "山中",
+          "en": "in the mountains",
+          "pi": "shān zhōng"
+        },
+        {
+          "ch": "无",
+          "en": "no",
+          "pi": "wú"
+        },
+        {
+          "ch": "老虎",
+          "en": "tigers",
+          "pi": "lǎo hǔ"
+        },
+        {
+          "ch": "猴子",
+          "en": "monkeys",
+          "pi": "hóu zi"
+        },
+        {
+          "ch": "称",
+          "en": "call",
+          "pi": "chēng"
+        },
+        {
+          "ch": "大王",
+          "en": "king",
+          "pi": "dà wáng"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        }
+      ]
+    },
+    {
+      "chinese": "现在经理他夜夜笙箫。",
+      "english": "Now the manager plays the flute every night.",
+      "pinyin": "xiàn zài jīng lǐ tā yè yè shēng xiāo。",
+      "words": [
+        {
+          "ch": "现在",
+          "en": "now",
+          "pi": "xiàn zài"
+        },
+        {
+          "ch": "经理",
+          "en": "manager",
+          "pi": "jīng lǐ"
+        },
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "夜夜",
+          "en": "every night",
+          "pi": "yè yè"
+        },
+        {
+          "ch": "笙箫",
+          "en": "plays the flute",
+          "pi": "shēng xiāo"
+        },
+        {
+          "ch": "。",
+          "en": "",
+          "pi": "。"
+        }
+      ]
+    }
+  ]
+}

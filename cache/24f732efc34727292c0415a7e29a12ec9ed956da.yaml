@@ -1,0 +1,11 @@
+{
+  "chinese": "你有弟弟吗？",
+  "english": "Do you have a younger brother?",
+  "pinyin": "nǐ yǒu dìdi ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "弟弟", "en": "younger brother", "pi": "dìdi"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

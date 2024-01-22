@@ -1,0 +1,14 @@
+{
+  "chinese": "我在这个小镇上长大的。",
+  "english": "I grew up in this small town.",
+  "pinyin": "wǒ zài zhè ge xiǎo zhèn shàng zhǎng dà de.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "这个", "en": "this", "pi": "zhè ge"},
+    {"ch": "小镇", "en": "small town", "pi": "xiǎo zhèn"},
+    {"ch": "上", "en": "on", "pi": "shàng"},
+    {"ch": "长大", "en": "grow up", "pi": "zhǎng dà"},
+    {"ch": "的", "en": "in", "pi": "de"}
+  ]
+}

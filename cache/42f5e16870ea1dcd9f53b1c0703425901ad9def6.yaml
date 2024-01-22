@@ -1,0 +1,12 @@
+{
+  "chinese": "今天的天气晴间多云。",
+  "english": "Today's weather is sunny with some clouds.",
+  "pinyin": "jīn tiān de tiān qì qíng jiān duō yún.",
+  "words": [
+    {"ch": "今天", "en": "today", "pi": "jīn tiān"},
+    {"ch": "的", "en": "\'s", "pi": "de"},
+    {"ch": "天气", "en": "weather", "pi": "tiān qì"},
+    {"ch": "晴间", "en": "sunny with some", "pi": "qíng jiān"},
+    {"ch": "多云", "en": "clouds", "pi": "duō yún"}
+  ]
+}

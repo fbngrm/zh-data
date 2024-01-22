@@ -1,0 +1,32 @@
+{
+  "chinese": "我下个月要去巴黎。",
+  "english": "I will go to Paris next month.",
+  "pinyin": "wǒ xià gè yuè yào qù bā lí。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "下个月",
+      "en": "next month",
+      "pi": "xià gè yuè"
+    },
+    {
+      "ch": "要",
+      "en": "will",
+      "pi": "yào"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "巴黎",
+      "en": "Paris",
+      "pi": "bā lí"
+    }
+  ]
+}

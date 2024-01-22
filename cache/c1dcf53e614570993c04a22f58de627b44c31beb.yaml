@@ -1,0 +1,15 @@
+{
+  "chinese": "他們每星期日都去教堂做禮拜。",
+  "english": "They go to church every Sunday to worship.",
+  "pinyin": "tā men měi xīng qī rì dōu qù jiào táng zuò lǐ bài。",
+  "words": [
+    {"ch": "他們", "en": "They", "pi": "tā men"},
+    {"ch": "每", "en": "every", "pi": "měi"},
+    {"ch": "星期日", "en": "Sunday", "pi": "xīng qī rì"},
+    {"ch": "都", "en": "go", "pi": "dōu"},
+    {"ch": "去", "en": "to", "pi": "qù"},
+    {"ch": "教堂", "en": "church", "pi": "jiào táng"},
+    {"ch": "做", "en": "do", "pi": "zuò"},
+    {"ch": "禮拜", "en": "worship", "pi": "lǐ bài"}
+  ]
+}

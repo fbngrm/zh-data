@@ -1,0 +1,37 @@
+{
+  "chinese": "约翰昨天出发去了法国。",
+  "english": "John left for France yesterday.",
+  "pinyin": "yuē hàn zuó tiān chū fā qù le fǎ guó.",
+  "words": [
+    {
+      "ch": "约翰",
+      "en": "John",
+      "pi": "yuē hàn"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "出发",
+      "en": "left",
+      "pi": "chū fā"
+    },
+    {
+      "ch": "去",
+      "en": "for",
+      "pi": "qù"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "法国",
+      "en": "France",
+      "pi": "fǎ guó"
+    }
+  ]
+}

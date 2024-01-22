@@ -1,0 +1,42 @@
+{
+  "chinese": "這頂帽子是爸爸買給我的。",
+  "english": "This hat was bought for me by my father.",
+  "pinyin": "zhè dǐng mào zi shì bà ba mǎi gěi wǒ de.",
+  "words": [
+    {
+      "ch": "這",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "頂",
+      "en": "hat",
+      "pi": "dǐng"
+    },
+    {
+      "ch": "帽子",
+      "en": "hat",
+      "pi": "mào zi"
+    },
+    {
+      "ch": "是",
+      "en": "was",
+      "pi": "shì"
+    },
+    {
+      "ch": "爸爸",
+      "en": "father",
+      "pi": "bà ba"
+    },
+    {
+      "ch": "買給",
+      "en": "bought for",
+      "pi": "mǎi gěi"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    }
+  ]
+}

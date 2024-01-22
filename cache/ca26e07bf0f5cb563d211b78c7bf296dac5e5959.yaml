@@ -1,0 +1,16 @@
+{
+  "chinese": "父親缺錢，所以他必須去借點錢。",
+  "english": "Father is short of money, so he has to borrow some.",
+  "pinyin": "fù qīn quē qián, suǒ yǐ tā bì xū qù jiè diǎn qián。",
+  "words": [
+    {"ch": "父親", "en": "Father", "pi": "fù qīn"},
+    {"ch": "缺錢", "en": "short of money", "pi": "quē qián"},
+    {"ch": "所以", "en": "so", "pi": "suǒ yǐ"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "必須", "en": "has to", "pi": "bì xū"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "借", "en": "borrow", "pi": "jiè"},
+    {"ch": "點", "en": "some", "pi": "diǎn"},
+    {"ch": "錢", "en": "money", "pi": "qián"}
+  ]
+}

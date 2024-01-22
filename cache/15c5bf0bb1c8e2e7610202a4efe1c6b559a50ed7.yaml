@@ -1,0 +1,37 @@
+{
+  "chinese": "这个字的意思是什么？",
+  "english": "What is the meaning of this character?",
+  "pinyin": "zhè gè zì de yìsi shì shénme?",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "字",
+      "en": "character",
+      "pi": "zì"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "意思",
+      "en": "meaning",
+      "pi": "yìsi"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    }
+  ]
+}

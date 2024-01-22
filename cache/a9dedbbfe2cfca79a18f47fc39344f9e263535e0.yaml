@@ -1,0 +1,47 @@
+{
+  "chinese": "他不在的时候每一件事都出错了。",
+  "english": "Everything went wrong when he was not there.",
+  "pinyin": "tā bù zài de shí hòu měi yī jiàn shì dōu chū cuò le。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "不在",
+      "en": "not there",
+      "pi": "bù zài"
+    },
+    {
+      "ch": "的",
+      "en": "possession (marker)",
+      "pi": "de"
+    },
+    {
+      "ch": "时候",
+      "en": "time",
+      "pi": "shí hòu"
+    },
+    {
+      "ch": "每一件事",
+      "en": "everything",
+      "pi": "měi yī jiàn shì"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "出错",
+      "en": "went wrong",
+      "pi": "chū cuò"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

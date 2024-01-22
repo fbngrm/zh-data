@@ -1,0 +1,27 @@
+{
+  "chinese": "你是安娜吗？",
+  "english": "Are you Anna?",
+  "pinyin": "nǐ shì ān nà ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "安娜",
+      "en": "Anna",
+      "pi": "ān nà"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

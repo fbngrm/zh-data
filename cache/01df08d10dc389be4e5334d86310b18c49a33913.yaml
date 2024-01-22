@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆最近相当忙。",
+  "english": "Tom has been very busy lately.",
+  "pinyin": "Tāng mǔ zuìjìn xiāngdāng máng.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "最近",
+      "en": "lately",
+      "pi": "zuìjìn"
+    },
+    {
+      "ch": "相当",
+      "en": "very",
+      "pi": "xiāngdāng"
+    },
+    {
+      "ch": "忙",
+      "en": "busy",
+      "pi": "máng"
+    }
+  ]
+}

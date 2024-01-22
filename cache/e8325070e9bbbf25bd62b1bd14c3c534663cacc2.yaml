@@ -1,0 +1,42 @@
+{
+  "chinese": "这是一件十分耗时的工作。",
+  "english": "This is a very time-consuming job.",
+  "pinyin": "zhè shì yī jiàn shí fēn hào shí de gōng zuò。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "一件",
+      "en": "a",
+      "pi": "yī jiàn"
+    },
+    {
+      "ch": "十分",
+      "en": "very",
+      "pi": "shí fēn"
+    },
+    {
+      "ch": "耗时",
+      "en": "time-consuming",
+      "pi": "hào shí"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "工作",
+      "en": "job",
+      "pi": "gōng zuò"
+    }
+  ]
+}

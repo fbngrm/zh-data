@@ -1,0 +1,32 @@
+{
+  "chinese": "你已经吃过饭了。",
+  "english": "You have already eaten.",
+  "pinyin": "nǐ yǐjīng chīguò fànle.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐjīng"
+    },
+    {
+      "ch": "吃过",
+      "en": "eaten",
+      "pi": "chīguò"
+    },
+    {
+      "ch": "饭",
+      "en": "rice",
+      "pi": "fàn"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "这儿有人去过夏威夷吗？",
+  "english": "Has anyone been to Hawaii here?",
+  "pinyin": "zhè er yǒu rén qù guò xià wēi yí ma?",
+  "words": [
+    {
+      "ch": "这儿",
+      "en": "here",
+      "pi": "zhè er"
+    },
+    {
+      "ch": "有人",
+      "en": "anyone",
+      "pi": "yǒu rén"
+    },
+    {
+      "ch": "去过",
+      "en": "been to",
+      "pi": "qù guò"
+    },
+    {
+      "ch": "夏威夷",
+      "en": "Hawaii",
+      "pi": "xià wēi yí"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

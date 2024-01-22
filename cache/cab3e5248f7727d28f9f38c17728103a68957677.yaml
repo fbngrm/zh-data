@@ -1,0 +1,20 @@
+{
+  "chinese": "我每天坐地铁去学校，坐10分钟就到了。",
+  "english": "I take the subway to school every day. It only takes 10 minutes.",
+  "pinyin": "wǒ měi tiān zuò dì tiě qù xué xiào ，zuò 10 fēn zhōng jiù dào le.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "每天", "en": "every day", "pi": "měi tiān"},
+    {"ch": "坐", "en": "take (transportation)", "pi": "zuò"},
+    {"ch": "地铁", "en": "subway", "pi": "dì tiě"},
+    {"ch": "去", "en": "go to", "pi": "qù"},
+    {"ch": "学校", "en": "school", "pi": "xué xiào"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "坐", "en": "take (transportation)", "pi": "zuò"},
+    {"ch": "10", "en": "10", "pi": "10"},
+    {"ch": "分钟", "en": "minutes", "pi": "fēn zhōng"},
+    {"ch": "就", "en": "only", "pi": "jiù"},
+    {"ch": "到了", "en": "arrive", "pi": "dào le"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

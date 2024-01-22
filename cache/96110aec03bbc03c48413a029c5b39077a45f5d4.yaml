@@ -1,0 +1,15 @@
+{
+  "chinese": "这是事实还是Ｔｏｍ编的故事？",
+  "english": "Is this a fact or a story made up by Tom?",
+  "pinyin": "zhè shì shìshí háishì Tom biān de gùshì?",
+  "words": [
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "事实", "en": "fact", "pi": "shìshí"},
+    {"ch": "还是", "en": "or", "pi": "háishì"},
+    {"ch": "Ｔｏｍ", "en": "Tom", "pi": "Tom"},
+    {"ch": "编", "en": "made up", "pi": "biān"},
+    {"ch": "的", "en": "by", "pi": "de"},
+    {"ch": "故事", "en": "story", "pi": "gùshì"}
+  ]
+}

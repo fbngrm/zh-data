@@ -1,0 +1,32 @@
+{
+  "chinese": "你们想坐一下吗？",
+  "english": "Would you like to sit down?",
+  "pinyin": "nǐ men xiǎng zuò yī xià ma?",
+  "words": [
+    {
+      "ch": "你们",
+      "en": "you (plural)",
+      "pi": "nǐ men"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "坐",
+      "en": "sit",
+      "pi": "zuò"
+    },
+    {
+      "ch": "一下",
+      "en": "for a while",
+      "pi": "yī xià"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

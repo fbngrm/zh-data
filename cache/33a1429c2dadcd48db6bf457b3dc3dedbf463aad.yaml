@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆有女朋友吗？",
+  "english": "Does Tom have a girlfriend?",
+  "pinyin": "Tāng mǔ yǒu nǚ péngyǒu ma?",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "女朋友",
+      "en": "girlfriend",
+      "pi": "nǚ péngyǒu"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

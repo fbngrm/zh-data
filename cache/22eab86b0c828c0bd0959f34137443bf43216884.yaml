@@ -1,0 +1,16 @@
+{
+  "chinese": "我不知道谁会在机场见我。",
+  "english": "I don't know who will meet me at the airport.",
+  "pinyin": "wǒ bù zhīdào shéi huì zài jīchǎng jiàn wǒ。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "不", "en": "don't", "pi": "bù"},
+    {"ch": "知道", "en": "know", "pi": "zhīdào"},
+    {"ch": "谁", "en": "who", "pi": "shéi"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "机场", "en": "airport", "pi": "jīchǎng"},
+    {"ch": "见", "en": "meet", "pi": "jiàn"},
+    {"ch": "我", "en": "me", "pi": "wǒ"}
+  ]
+}

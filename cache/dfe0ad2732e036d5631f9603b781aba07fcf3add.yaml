@@ -1,0 +1,42 @@
+{
+  "chinese": "這裡有人會說英文嗎？",
+  "english": "Is there anyone here who can speak English?",
+  "pinyin": "zhè lǐ yǒu rén huì shuō yīng wén ma?",
+  "words": [
+    {
+      "ch": "這裡",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "人",
+      "en": "person",
+      "pi": "rén"
+    },
+    {
+      "ch": "會",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "說",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "英文",
+      "en": "English",
+      "pi": "yīng wén"
+    },
+    {
+      "ch": "嗎",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

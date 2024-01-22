@@ -1,0 +1,32 @@
+{
+  "chinese": "发生了什么好事吗？",
+  "english": "Did something good happen?",
+  "pinyin": "fā shēng le shén me hǎo shì ma?",
+  "words": [
+    {
+      "ch": "发生",
+      "en": "happen",
+      "pi": "fā shēng"
+    },
+    {
+      "ch": "了",
+      "en": "did",
+      "pi": "le"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shén me"
+    },
+    {
+      "ch": "好事",
+      "en": "good thing",
+      "pi": "hǎo shì"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

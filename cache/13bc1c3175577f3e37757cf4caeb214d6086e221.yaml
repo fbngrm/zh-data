@@ -1,0 +1,32 @@
+{
+  "chinese": "我不喜欢大狗。",
+  "english": "I don't like big dogs.",
+  "pinyin": "wǒ bù xǐhuān dà gǒu.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "大",
+      "en": "big",
+      "pi": "dà"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    }
+  ]
+}

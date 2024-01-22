@@ -1,0 +1,14 @@
+{
+  "chinese": "未经许可，我不能喝酒。",
+  "english": "Without permission, I cannot drink alcohol.",
+  "pinyin": "wèi jīng xǔ kě ，wǒ bù néng hē jiǔ。",
+  "words": [
+    {"ch": "未经", "en": "without", "pi": "wèi jīng"},
+    {"ch": "许可", "en": "permission", "pi": "xǔ kě"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "不能", "en": "cannot", "pi": "bù néng"},
+    {"ch": "喝酒", "en": "drink alcohol", "pi": "hē jiǔ"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}

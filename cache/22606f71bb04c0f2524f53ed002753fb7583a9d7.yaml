@@ -1,0 +1,42 @@
+{
+  "chinese": "這裏到車站約十分鐘路程。",
+  "english": "It takes about ten minutes to walk to the train station from here.",
+  "pinyin": "zhè lǐ dào chē zhàn yuē shí fēn zhōng lù chéng。",
+  "words": [
+    {
+      "ch": "這裏",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "到",
+      "en": "to",
+      "pi": "dào"
+    },
+    {
+      "ch": "車站",
+      "en": "train station",
+      "pi": "chē zhàn"
+    },
+    {
+      "ch": "約",
+      "en": "about",
+      "pi": "yuē"
+    },
+    {
+      "ch": "十",
+      "en": "ten",
+      "pi": "shí"
+    },
+    {
+      "ch": "分鐘",
+      "en": "minutes",
+      "pi": "fēn zhōng"
+    },
+    {
+      "ch": "路程",
+      "en": "distance",
+      "pi": "lù chéng"
+    }
+  ]
+}

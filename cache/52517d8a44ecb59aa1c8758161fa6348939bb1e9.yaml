@@ -1,0 +1,27 @@
+{
+  "chinese": "对不起，馒头卖完了。",
+  "english": "I'm sorry, but the steamed buns are sold out.",
+  "pinyin": "duì bù qǐ, mán tóu mài wán le.",
+  "words": [
+    {
+      "ch": "对不起",
+      "en": "I'm sorry",
+      "pi": "duì bù qǐ"
+    },
+    {
+      "ch": "馒头",
+      "en": "steamed buns",
+      "pi": "mán tóu"
+    },
+    {
+      "ch": "卖完",
+      "en": "sold out",
+      "pi": "mài wán"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

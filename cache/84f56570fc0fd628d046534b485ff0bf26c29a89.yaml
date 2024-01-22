@@ -1,0 +1,32 @@
+{
+  "chinese": "把你的食物给我。",
+  "english": "Give me your food.",
+  "pinyin": "bǎ nǐ de shíwù gěi wǒ.",
+  "words": [
+    {
+      "ch": "把",
+      "en": "give",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "食物",
+      "en": "food",
+      "pi": "shíwù"
+    },
+    {
+      "ch": "给",
+      "en": "me",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    }
+  ]
+}

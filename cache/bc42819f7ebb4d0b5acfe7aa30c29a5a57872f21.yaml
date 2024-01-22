@@ -1,0 +1,32 @@
+{ 
+  "chinese": "汤姆感觉他心跳加快。",
+  "english": "Tom feels his heart beating faster.",
+  "pinyin": "tāng mǔ gǎn jué tā xīn tiào jiā kuài.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "感觉",
+      "en": "feels",
+      "pi": "gǎn jué"
+    },
+    {
+      "ch": "他",
+      "en": "his",
+      "pi": "tā"
+    },
+    {
+      "ch": "心跳",
+      "en": "heart",
+      "pi": "xīn tiào"
+    },
+    {
+      "ch": "加快",
+      "en": "beating faster",
+      "pi": "jiā kuài"
+    }
+  ]
+}

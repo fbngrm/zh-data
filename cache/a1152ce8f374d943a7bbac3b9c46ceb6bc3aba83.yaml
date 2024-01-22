@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "chinese": "请问能借一下你的电话吗？",
+      "english": "Excuse me, can I borrow your phone please?",
+      "pinyin": "Qǐng wèn néng jiè yīxià nǐ de diànhuà ma?",
+      "words": [
+        {
+          "ch": "请问",
+          "en": "Excuse me",
+          "pi": "Qǐng wèn"
+        },
+        {
+          "ch": "能",
+          "en": "can",
+          "pi": "néng"
+        },
+        {
+          "ch": "借一下",
+          "en": "borrow",
+          "pi": "jiè yīxià"
+        },
+        {
+          "ch": "你的",
+          "en": "your",
+          "pi": "nǐ de"
+        },
+        {
+          "ch": "电话",
+          "en": "phone",
+          "pi": "diànhuà"
+        },
+        {
+          "ch": "吗",
+          "en": "please?",
+          "pi": "ma?"
+        }
+      ]
+    },
+    {
+      "chinese": "可以。",
+      "english": "Yes, you can.",
+      "pinyin": "Kěyǐ.",
+      "words": [
+        {
+          "ch": "可以",
+          "en": "Yes",
+          "pi": "Kěyǐ"
+        }
+      ]
+    }
+  ]
+}

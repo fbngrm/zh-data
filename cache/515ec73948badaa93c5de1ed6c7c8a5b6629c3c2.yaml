@@ -1,0 +1,32 @@
+{
+  "chinese": "我还没有完全吃完。",
+  "english": "I haven't finished eating completely yet.",
+  "pinyin": "wǒ hái méiyǒu wánquán chīwán.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "还",
+      "en": "still",
+      "pi": "hái"
+    },
+    {
+      "ch": "没有",
+      "en": "have not",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "完全",
+      "en": "completely",
+      "pi": "wánquán"
+    },
+    {
+      "ch": "吃完",
+      "en": "finish eating",
+      "pi": "chīwán"
+    }
+  ]
+}

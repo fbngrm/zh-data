@@ -1,0 +1,32 @@
+{
+  "chinese": "你喝很多牛奶吗？",
+  "english": "Do you drink a lot of milk?",
+  "pinyin": "nǐ hē hěn duō niú nǎi ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "喝",
+      "en": "drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "很多",
+      "en": "a lot of",
+      "pi": "hěn duō"
+    },
+    {
+      "ch": "牛奶",
+      "en": "milk",
+      "pi": "niú nǎi"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

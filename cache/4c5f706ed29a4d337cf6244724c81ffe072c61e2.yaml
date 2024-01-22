@@ -1,0 +1,37 @@
+{
+  "chinese": "举例说，伦敦现在是早上七时。",
+  "english": "For example, it's 7 o'clock in the morning in London now.",
+  "pinyin": "jǔ lì shuō, lún dūn xiàn zài shì zǎo shàng qī shí。",
+  "words": [
+    {
+      "ch": "举例说",
+      "en": "For example",
+      "pi": "jǔ lì shuō"
+    },
+    {
+      "ch": "伦敦",
+      "en": "London",
+      "pi": "lún dūn"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎo shàng"
+    },
+    {
+      "ch": "七时",
+      "en": "7 o'clock",
+      "pi": "qī shí"
+    }
+  ]
+}

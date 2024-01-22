@@ -1,0 +1,48 @@
+{
+  "sentences": [
+    {
+      "chinese": "这里疼是吗？",
+      "english": "Does it hurt here?",
+      "pinyin": "zhè lǐ téng shì ma？",
+      "words": [
+        {
+          "ch": "这里",
+          "en": "here",
+          "pi": "zhè lǐ"
+        },
+        {
+          "ch": "疼",
+          "en": "hurt",
+          "pi": "téng"
+        },
+        {
+          "ch": "是吗",
+          "en": "is it?",
+          "pi": "shì ma"
+        }
+      ]
+    },
+    {
+      "chinese": "那是胃痛。",
+      "english": "That is a stomach ache.",
+      "pinyin": "nà shì wèi tòng。",
+      "words": [
+        {
+          "ch": "那",
+          "en": "that",
+          "pi": "nà"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "胃痛",
+          "en": "stomach ache",
+          "pi": "wèi tòng"
+        }
+      ]
+    }
+  ]
+}

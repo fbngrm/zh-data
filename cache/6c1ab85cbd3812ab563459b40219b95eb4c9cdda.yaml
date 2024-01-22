@@ -1,0 +1,32 @@
+{
+   "chinese":"我吃完晚饭就出门。",
+   "english":"I will leave after finishing dinner.",
+   "pinyin":"wǒ chī wán wǎn fàn jiù chū mén。",
+   "words":[
+      {
+         "ch":"我",
+         "en":"I",
+         "pi":"wǒ"
+      },
+      {
+         "ch":"吃完",
+         "en":"finish eating",
+         "pi":"chī wán"
+      },
+      {
+         "ch":"晚饭",
+         "en":"dinner",
+         "pi":"wǎn fàn"
+      },
+      {
+         "ch":"就",
+         "en":"then",
+         "pi":"jiù"
+      },
+      {
+         "ch":"出门",
+         "en":"leave",
+         "pi":"chū mén"
+      }
+   ]
+}

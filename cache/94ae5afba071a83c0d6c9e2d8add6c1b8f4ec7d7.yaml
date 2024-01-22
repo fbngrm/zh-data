@@ -1,0 +1,13 @@
+{
+  "chinese": "我被蜜蜂蛰了一下。",
+  "english": "I got stung by a bee.",
+  "pinyin": "wǒ bèi mì fēng zhē le yī xià.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "被", "en": "got", "pi": "bèi"},
+    {"ch": "蜜蜂", "en": "bee", "pi": "mì fēng"},
+    {"ch": "蛰", "en": "stung", "pi": "zhē"},
+    {"ch": "了", "en": "by", "pi": "le"},
+    {"ch": "一下", "en": "a", "pi": "yī xià"}
+  ]
+}

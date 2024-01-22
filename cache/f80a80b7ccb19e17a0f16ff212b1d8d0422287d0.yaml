@@ -1,0 +1,24 @@
+{
+  "chinese": "你认为今年在维基百科上被最多人阅读的日文版本的文章是哪篇？",
+  "english": "Which article in the Japanese version of Wikipedia do you think has been read the most this year?",
+  "pinyin": "nǐ rèn wéi jīn nián zài wéi jī bǎi kē shàng bèi zuì duō rén yuè dú de rì wén bǎn běn de wén zhāng shì nǎ piān?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "认为", "en": "think", "pi": "rèn wéi"},
+    {"ch": "今年", "en": "this year", "pi": "jīn nián"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "维基百科", "en": "Wikipedia", "pi": "wéi jī bǎi kē"},
+    {"ch": "上", "en": "on", "pi": "shàng"},
+    {"ch": "被", "en": "being", "pi": "bèi"},
+    {"ch": "最多", "en": "the most", "pi": "zuì duō"},
+    {"ch": "人", "en": "people", "pi": "rén"},
+    {"ch": "阅读", "en": "read", "pi": "yuè dú"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "日文", "en": "Japanese", "pi": "rì wén"},
+    {"ch": "版本", "en": "version", "pi": "bǎn běn"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "文章", "en": "article", "pi": "wén zhāng"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "哪篇", "en": "which", "pi": "nǎ piān"}
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chinese": "这本书是莎士比亚的作品全集。",
+  "english": "This book is the complete works of Shakespeare.",
+  "pinyin": "zhè běn shū shì shā shì bǐ yà de zuò pǐn quán jí.",
+  "words": [
+    { "ch": "这", "en": "This", "pi": "zhè" },
+    { "ch": "本", "en": "book", "pi": "běn" },
+    { "ch": "书", "en": "is", "pi": "shū" },
+    { "ch": "是", "en": "the", "pi": "shì" },
+    { "ch": "莎士比亚", "en": "complete", "pi": "shā shì bǐ yà" },
+    { "ch": "的", "en": "works", "pi": "de" },
+    { "ch": "作品", "en": "of", "pi": "zuò pǐn" },
+    { "ch": "全集", "en": "Shakespeare", "pi": "quán jí" }
+  ]
+}

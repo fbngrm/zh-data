@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆被警察盘问。",
+  "english": "Tom was interrogated by the police.",
+  "pinyin": "tāng mǔ bèi jǐng chá pán wèn。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "被",
+      "en": "was",
+      "pi": "bèi"
+    },
+    {
+      "ch": "警察",
+      "en": "police",
+      "pi": "jǐng chá"
+    },
+    {
+      "ch": "盘问",
+      "en": "interrogated",
+      "pi": "pán wèn"
+    }
+  ]
+}

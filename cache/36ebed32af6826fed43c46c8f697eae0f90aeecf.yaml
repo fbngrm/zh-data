@@ -1,0 +1,37 @@
+{
+  "chinese": "我邀请我的朋友吃晚餐。",
+  "english": "I invite my friends to have dinner.",
+  "pinyin": "wǒ yāo qǐng wǒ de péng yǒu chī wǎn cān.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "邀请",
+      "en": "invite",
+      "pi": "yāo qǐng"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "朋友",
+      "en": "friends",
+      "pi": "péng yǒu"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "晚餐",
+      "en": "dinner",
+      "pi": "wǎn cān"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "请告诉我你的名字。",
+  "english": "Please tell me your name.",
+  "pinyin": "qǐng gàosu wǒ nǐ de míngzì.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "告诉",
+      "en": "tell",
+      "pi": "gàosu"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míngzì"
+    }
+  ]
+}

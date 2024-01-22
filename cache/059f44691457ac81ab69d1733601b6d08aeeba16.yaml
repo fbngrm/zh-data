@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆鼓励玛丽学着说法语。",
+  "english": "Tom encourages Mary to learn to speak French.",
+  "pinyin": "Tāng mǔ gǔlì mǎlì xuézhe shuō fǎyǔ.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "鼓励",
+      "en": "encourages",
+      "pi": "gǔlì"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎlì"
+    },
+    {
+      "ch": "学",
+      "en": "to learn",
+      "pi": "xué"
+    },
+    {
+      "ch": "着",
+      "en": "to",
+      "pi": "zhe"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎyǔ"
+    }
+  ]
+}

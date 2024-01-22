@@ -1,0 +1,349 @@
+{
+  "sentences": [
+    {
+      "chinese": "让我们记住，是伊利诺伊州的一名男子首次将共和党的旗帜扛到了白宫。",
+      "english": "Let us remember that it was a man from Illinois who first carried the Republican flag to the White House.",
+      "pinyin": "ràng wǒmen jì zhù, shì yī lì nuò yī zhōu de yī míng nán zǐ shǒu cì jiāng gòng hé dǎng de qí zì káng dào le bái gōng."
+    },
+    {
+      "chinese": "共和党是建立在自立、个人自由以及国家团结的价值观之上的。",
+      "english": "The Republican Party is founded on the values of self-reliance, individual freedom, and national unity.",
+      "pinyin": "gòng hé dǎng shì jiàn lì zài zì lì, gè rén zì yóu yǐ jí guó jiā tuán jié de jià zhí guān zhī shàng de."
+    },
+    {
+      "chinese": "这也是我们所有人共同的价值观。",
+      "english": "These are also values shared by all of us.",
+      "pinyin": "zhè yě shì wǒmen suǒyǒu rén gòng tóng de jià zhí guān."
+    },
+    {
+      "chinese": "虽然民主党今天晚上赢得了巨大的胜利，但我们是以谦卑的态度和弥合阻碍我们进步的分歧的决心赢得这场胜利的",
+      "english": "Although the Democratic Party has won a great victory tonight, we have won this victory with humility and a determination to bridge the divides that hinder our progress.",
+      "pinyin": "suī rán mín zhǔ dǎng jīn tiān wǎn shàng yíng dé le jù dà de shèng lì, dàn wǒmen shì yǐ qiān bēi de tài dù hé mí hé zǔ ài wǒmen jìn bù de fēn qī de jué xīn yíng dé zhè chǎng shèng lì de"
+    }
+  ],
+  "words": [
+    [
+      {
+        "ch": "让",
+        "en": "Let",
+        "pi": "ràng"
+      },
+      {
+        "ch": "我们",
+        "en": "us",
+        "pi": "wǒmen"
+      },
+      {
+        "ch": "记住",
+        "en": "remember",
+        "pi": "jì zhù"
+      },
+      {
+        "ch": "是",
+        "en": "that",
+        "pi": "shì"
+      },
+      {
+        "ch": "伊利诺伊州",
+        "en": "Illinois",
+        "pi": "yī lì nuò yī zhōu"
+      },
+      {
+        "ch": "的",
+        "en": "of",
+        "pi": "de"
+      },
+      {
+        "ch": "一名",
+        "en": "a",
+        "pi": "yī míng"
+      },
+      {
+        "ch": "男子",
+        "en": "man",
+        "pi": "nán zǐ"
+      },
+      {
+        "ch": "首次",
+        "en": "first",
+        "pi": "shǒu cì"
+      },
+      {
+        "ch": "将",
+        "en": "carried",
+        "pi": "jiāng"
+      },
+      {
+        "ch": "共和党",
+        "en": "Republican Party",
+        "pi": "gòng hé dǎng"
+      },
+      {
+        "ch": "旗帜",
+        "en": "flag",
+        "pi": "qí zì"
+      },
+      {
+        "ch": "扛到",
+        "en": "to",
+        "pi": "káng dào"
+      },
+      {
+        "ch": "了",
+        "en": "the",
+        "pi": "le"
+      },
+      {
+        "ch": "白宫",
+        "en": "White House",
+        "pi": "bái gōng"
+      }
+    ],
+    [
+      {
+        "ch": "共和党",
+        "en": "Republican Party",
+        "pi": "gòng hé dǎng"
+      },
+      {
+        "ch": "是",
+        "en": "is",
+        "pi": "shì"
+      },
+      {
+        "ch": "建立",
+        "en": "founded",
+        "pi": "jiàn lì"
+      },
+      {
+        "ch": "在",
+        "en": "on",
+        "pi": "zài"
+      },
+      {
+        "ch": "自立",
+        "en": "self-reliance",
+        "pi": "zì lì"
+      },
+      {
+        "ch": "、",
+        "en": "and",
+        "pi": "、"
+      },
+      {
+        "ch": "个人",
+        "en": "individual",
+        "pi": "gè rén"
+      },
+      {
+        "ch": "自由",
+        "en": "freedom",
+        "pi": "zì yóu"
+      },
+      {
+        "ch": "以及",
+        "en": "and",
+        "pi": "yǐ jí"
+      },
+      {
+        "ch": "国家",
+        "en": "national",
+        "pi": "guó jiā"
+      },
+      {
+        "ch": "团结",
+        "en": "unity",
+        "pi": "tuán jié"
+      },
+      {
+        "ch": "的",
+        "en": "values",
+        "pi": "de"
+      },
+      {
+        "ch": "价值观",
+        "en": "The Republican Party is founded on the values of self-reliance, individual freedom, and national unity.",
+        "pi": "jià zhí guān"
+      },
+      {
+        "ch": "之上",
+        "en": "above",
+        "pi": "zhī shàng"
+      }
+    ],
+    [
+      {
+        "ch": "这",
+        "en": "These",
+        "pi": "zhè"
+      },
+      {
+        "ch": "也",
+        "en": "are",
+        "pi": "yě"
+      },
+      {
+        "ch": "是",
+        "en": "also",
+        "pi": "shì"
+      },
+      {
+        "ch": "我们",
+        "en": "values",
+        "pi": "wǒmen"
+      },
+      {
+        "ch": "所有",
+        "en": "shared",
+        "pi": "suǒyǒu"
+      },
+      {
+        "ch": "人",
+        "en": "by",
+        "pi": "rén"
+      },
+      {
+        "ch": "共同",
+        "en": "all",
+        "pi": "gòng tóng"
+      },
+      {
+        "ch": "的",
+        "en": "of",
+        "pi": "de"
+      },
+      {
+        "ch": "价值观",
+        "en": "us.",
+        "pi": "jià zhí guān"
+      }
+    ],
+    [
+      {
+        "ch": "虽然",
+        "en": "Although",
+        "pi": "suī rán"
+      },
+      {
+        "ch": "民主党",
+        "en": "the Democratic Party",
+        "pi": "mín zhǔ dǎng"
+      },
+      {
+        "ch": "今天晚上",
+        "en": "has",
+        "pi": "jīn tiān wǎn shàng"
+      },
+      {
+        "ch": "赢得",
+        "en": "won",
+        "pi": "yíng dé"
+      },
+      {
+        "ch": "了",
+        "en": "a",
+        "pi": "le"
+      },
+      {
+        "ch": "巨大",
+        "en": "great",
+        "pi": "jù dà"
+      },
+      {
+        "ch": "的",
+        "en": "victory",
+        "pi": "de"
+      },
+      {
+        "ch": "胜利",
+        "en": "tonight",
+        "pi": "shèng lì"
+      },
+      {
+        "ch": "但",
+        "en": "we",
+        "pi": "dàn"
+      },
+      {
+        "ch": "是",
+        "en": "have",
+        "pi": "wǒmen"
+      },
+      {
+        "ch": "以",
+        "en": "won",
+        "pi": "yǐ"
+      },
+      {
+        "ch": "谦卑",
+        "en": "this",
+        "pi": "qiān bēi"
+      },
+      {
+        "ch": "的",
+        "en": "victory",
+        "pi": "de"
+      },
+      {
+        "ch": "态度",
+        "en": "with",
+        "pi": "tài dù"
+      },
+      {
+        "ch": "和",
+        "en": "humility",
+        "pi": "hé"
+      },
+      {
+        "ch": "弥合",
+        "en": "and",
+        "pi": "mí hé"
+      },
+      {
+        "ch": "阻碍",
+        "en": "a determination",
+        "pi": "zǔ ài"
+      },
+      {
+        "ch": "我们",
+        "en": "to",
+        "pi": "wǒmen"
+      },
+      {
+        "ch": "进步",
+        "en": "bridge",
+        "pi": "jìn bù"
+      },
+      {
+        "ch": "的",
+        "en": "the",
+        "pi": "de"
+      },
+      {
+        "ch": "分歧",
+        "en": "divides",
+        "pi": "fēn qī"
+      },
+      {
+        "ch": "决心",
+        "en": "that",
+        "pi": "de"
+      },
+      {
+        "ch": "赢得",
+        "en": "hinder",
+        "pi": "jù ér shèng lì"
+      },
+      {
+        "ch": "这场",
+        "en": "our",
+        "pi": "zhè chǎng"
+      },
+      {
+        "ch": "胜利",
+        "en": "progress.",
+        "pi": "shèng lì de"
+      }
+    ]
+  ]
+}

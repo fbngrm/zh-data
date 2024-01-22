@@ -1,0 +1,42 @@
+{
+  "chinese": "从这里到那里驾车一小时。",
+  "english": "Drive from here to there for one hour.",
+  "pinyin": "Cóng zhèlǐ dào nàlǐ jià chē yī xiǎoshí.",
+  "words": [
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhèlǐ"
+    },
+    {
+      "ch": "到",
+      "en": "to",
+      "pi": "dào"
+    },
+    {
+      "ch": "那里",
+      "en": "there",
+      "pi": "nàlǐ"
+    },
+    {
+      "ch": "驾车",
+      "en": "drive",
+      "pi": "jià chē"
+    },
+    {
+      "ch": "一",
+      "en": "one",
+      "pi": "yī"
+    },
+    {
+      "ch": "小时",
+      "en": "hour",
+      "pi": "xiǎoshí"
+    }
+  ]
+}

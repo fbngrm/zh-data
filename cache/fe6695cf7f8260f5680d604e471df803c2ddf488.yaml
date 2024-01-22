@@ -1,0 +1,16 @@
+{
+  "chinese": "你不应该告诉他任何关于她的事。",
+  "english": "You shouldn't tell him anything about her.",
+  "pinyin": "nǐ bù yīng gāi gào sù tā rèn hé guān yú tā de shì。",
+  "words": [
+    {"ch": "你", "en": "You", "pi": "nǐ"},
+    {"ch": "不", "en": "shouldn't", "pi": "bù"},
+    {"ch": "应该", "en": "tell", "pi": "yīng gāi"},
+    {"ch": "告诉", "en": "him", "pi": "gào sù"},
+    {"ch": "他", "en": "anything", "pi": "tā"},
+    {"ch": "任何", "en": "about", "pi": "rèn hé"},
+    {"ch": "关于", "en": "her", "pi": "guān yú"},
+    {"ch": "的", "en": "thing", "pi": "de"},
+    {"ch": "事", "en": "not", "pi": "shì"}
+  ]
+}

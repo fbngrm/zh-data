@@ -1,0 +1,42 @@
+{
+  "chinese": "据说他爸爸在外国去世了。",
+  "english": "It is said that his father passed away overseas.",
+  "pinyin": "jù shuō tā bàba zài wàiguó qùshì le.",
+  "words": [
+    {
+      "ch": "据说",
+      "en": "It is said that",
+      "pi": "jù shuō"
+    },
+    {
+      "ch": "他",
+      "en": "his",
+      "pi": "tā"
+    },
+    {
+      "ch": "爸爸",
+      "en": "father",
+      "pi": "bàba"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "外国",
+      "en": "overseas",
+      "pi": "wàiguó"
+    },
+    {
+      "ch": "去世",
+      "en": "passed away",
+      "pi": "qùshì"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "le"
+    }
+  ]
+}

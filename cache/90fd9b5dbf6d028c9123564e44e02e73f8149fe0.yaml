@@ -1,0 +1,37 @@
+{
+  "chinese": "外面下雨了，记得回家把窗关上。",
+  "english": "It's raining outside, remember to go home and close the windows.",
+  "pinyin": "Wàimiàn xià yǔle, jìde huíjiā bǎ chuāng guānshàng.",
+  "words": [
+    {
+      "ch": "外面",
+      "en": "outside",
+      "pi": "wàimian"
+    },
+    {
+      "ch": "下雨了",
+      "en": "raining",
+      "pi": "xià yǔle"
+    },
+    {
+      "ch": "记得",
+      "en": "remember",
+      "pi": "jìde"
+    },
+    {
+      "ch": "回家",
+      "en": "go home",
+      "pi": "huíjiā"
+    },
+    {
+      "ch": "把",
+      "en": "to",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "窗关上",
+      "en": "close the windows",
+      "pi": "chuāng guānshàng"
+    }
+  ]
+}

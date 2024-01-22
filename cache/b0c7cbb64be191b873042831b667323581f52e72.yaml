@@ -1,0 +1,37 @@
+{
+  "chinese": "她已经五天不上学了。",
+  "english": "She hasn't been to school for five days.",
+  "pinyin": "tā yǐjīng wǔ tiān bú shàngxué le。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐjīng"
+    },
+    {
+      "ch": "五天",
+      "en": "five days",
+      "pi": "wǔ tiān"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bú"
+    },
+    {
+      "ch": "上学",
+      "en": "go to school",
+      "pi": "shàngxué"
+    },
+    {
+      "ch": "了",
+      "en": "an indication of complete action",
+      "pi": "le"
+    }
+  ]
+}

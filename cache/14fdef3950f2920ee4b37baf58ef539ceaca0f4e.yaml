@@ -1,0 +1,42 @@
+{
+  "chinese": "他让我违背了我的意愿。",
+  "english": "He made me go against my will.",
+  "pinyin": "tā ràng wǒ wéibèi le wǒ de yìyuàn.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "让",
+      "en": "make",
+      "pi": "ràng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "违背",
+      "en": "go against",
+      "pi": "wéibèi"
+    },
+    {
+      "ch": "了",
+      "en": "past tense marker",
+      "pi": "le"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "意愿",
+      "en": "will",
+      "pi": "yìyuàn"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "汤姆和弗兰克是好朋友。",
+  "english": "Tom and Frank are good friends.",
+  "pinyin": "Tāng mǔ hé fú lán kè shì hǎo péng yǒu.",
+  "words": [
+    { "ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ" },
+    { "ch": "和", "en": "and", "pi": "hé" },
+    { "ch": "弗兰克", "en": "Frank", "pi": "fú lán kè" },
+    { "ch": "是", "en": "are", "pi": "shì" },
+    { "ch": "好", "en": "good", "pi": "hǎo" },
+    { "ch": "朋友", "en": "friends", "pi": "péng yǒu" }
+  ]
+}

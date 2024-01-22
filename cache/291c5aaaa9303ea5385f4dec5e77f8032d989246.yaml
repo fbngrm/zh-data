@@ -1,0 +1,32 @@
+{
+  "chinese": "您父母多大岁数了？",
+  "english": "How old are your parents?",
+  "pinyin": "nín fù mǔ duō dà suì shǔ le?",
+  "words": [
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "父母",
+      "en": "parents",
+      "pi": "fù mǔ"
+    },
+    {
+      "ch": "多大",
+      "en": "how old",
+      "pi": "duō dà"
+    },
+    {
+      "ch": "岁数",
+      "en": "age",
+      "pi": "suì shǔ"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "你正在找的地图在这里。",
+  "english": "The map you are looking for is here.",
+  "pinyin": "nǐ zhèngzài zhǎo de dìtú zài zhèlǐ.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "正在",
+      "en": "are",
+      "pi": "zhèngzài"
+    },
+    {
+      "ch": "找",
+      "en": "looking",
+      "pi": "zhǎo"
+    },
+    {
+      "ch": "的",
+      "en": "for",
+      "pi": "de"
+    },
+    {
+      "ch": "地图",
+      "en": "map",
+      "pi": "dìtú"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhèlǐ"
+    }
+  ]
+}

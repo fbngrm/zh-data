@@ -1,0 +1,42 @@
+{
+  "chinese": "这个瓶子可以装两升热水。",
+  "english": "This bottle can hold two liters of hot water.",
+  "pinyin": "zhè gè píng zi kě yǐ zhuāng liǎng shēng rè shuǐ。",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "瓶子",
+      "en": "bottle",
+      "pi": "píng zi"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kě yǐ"
+    },
+    {
+      "ch": "装",
+      "en": "hold",
+      "pi": "zhuāng"
+    },
+    {
+      "ch": "两",
+      "en": "two",
+      "pi": "liǎng"
+    },
+    {
+      "ch": "升",
+      "en": "liters",
+      "pi": "shēng"
+    },
+    {
+      "ch": "热水",
+      "en": "hot water",
+      "pi": "rè shuǐ"
+    }
+  ]
+}

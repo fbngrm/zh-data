@@ -1,0 +1,32 @@
+{
+  "chinese": "我想学习如何游泳。",
+  "english": "I want to learn how to swim.",
+  "pinyin": "wǒ xiǎng xuéxí rúhé yóuyǒng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "学习",
+      "en": "to learn",
+      "pi": "xuéxí"
+    },
+    {
+      "ch": "如何",
+      "en": "how",
+      "pi": "rúhé"
+    },
+    {
+      "ch": "游泳",
+      "en": "to swim",
+      "pi": "yóuyǒng"
+    }
+  ]
+}

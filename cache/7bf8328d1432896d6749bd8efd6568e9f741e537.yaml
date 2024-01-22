@@ -1,0 +1,14 @@
+{
+  "chinese": "我猜他们真的不太高兴。",
+  "english": "I guess they are really not happy.",
+  "pinyin": "wǒ cāi tāmen zhēn de bù tài gāoxìng.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "猜", "en": "guess", "pi": "cāi"},
+    {"ch": "他们", "en": "they", "pi": "tāmen"},
+    {"ch": "真的", "en": "really", "pi": "zhēn de"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "太", "en": "too", "pi": "tài"},
+    {"ch": "高兴", "en": "happy", "pi": "gāoxìng"}
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "chinese": "如果小错误不被立即纠正，可能会导致严重问题。",
+  "english": "If small errors are not corrected immediately, they may lead to serious problems.",
+  "pinyin": "rú guǒ xiǎo cuò wù bù bèi lì jí jiū zhèng, kě néng huì dǎo zhì yán zhòng wèn tí.",
+  "words": [
+    { "ch": "如果", "en": "If", "pi": "rú guǒ" },
+    { "ch": "小", "en": "small", "pi": "xiǎo" },
+    { "ch": "错误", "en": "errors", "pi": "cuò wù" },
+    { "ch": "不", "en": "not", "pi": "bù" },
+    { "ch": "被", "en": "be", "pi": "bèi" },
+    { "ch": "立即", "en": "immediately", "pi": "lì jí" },
+    { "ch": "纠正", "en": "corrected", "pi": "jiū zhèng" },
+    { "ch": "，", "en": ",", "pi": "，" },
+    { "ch": "可能", "en": "may", "pi": "kě néng" },
+    { "ch": "会", "en": "lead", "pi": "huì" },
+    { "ch": "导致", "en": "to", "pi": "dǎo zhì" },
+    { "ch": "严重", "en": "serious", "pi": "yán zhòng" },
+    { "ch": "问题", "en": "problems", "pi": "wèn tí" },
+    { "ch": "。", "en": ".", "pi": "。" }
+  ]
+}

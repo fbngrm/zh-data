@@ -1,0 +1,42 @@
+{
+  "chinese": "我不小心打落了一个花瓶。",
+  "english": "I accidentally knocked down a vase.",
+  "pinyin": "wǒ bù xiǎo xīn dǎ luò le yī gè huā píng。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "小心",
+      "en": "careful",
+      "pi": "xiǎo xīn"
+    },
+    {
+      "ch": "打落",
+      "en": "knocked down",
+      "pi": "dǎ luò"
+    },
+    {
+      "ch": "了",
+      "en": "a",
+      "pi": "le"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "花瓶",
+      "en": "vase",
+      "pi": "huā píng"
+    }
+  ]
+}

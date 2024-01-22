@@ -1,0 +1,58 @@
+{
+  "sentences": [
+    {
+      "chinese": "水是液体。",
+      "english": "Water is a liquid.",
+      "pinyin": "Shuǐ shì yètǐ.",
+      "words": [
+        {
+          "ch": "水",
+          "en": "water",
+          "pi": "shuǐ"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "液体",
+          "en": "liquid",
+          "pi": "yètǐ"
+        }
+      ]
+    },
+    {
+      "chinese": "冻起来就成了固体。",
+      "english": "When frozen, it becomes solid.",
+      "pinyin": "Dòng qǐ lái jiù chéng le gùtǐ.",
+      "words": [
+        {
+          "ch": "冻",
+          "en": "frozen",
+          "pi": "dòng"
+        },
+        {
+          "ch": "起来",
+          "en": "becomes",
+          "pi": "qǐ lái"
+        },
+        {
+          "ch": "就",
+          "en": "when",
+          "pi": "jiù"
+        },
+        {
+          "ch": "成了",
+          "en": "it",
+          "pi": "chéng le"
+        },
+        {
+          "ch": "固体",
+          "en": "solid",
+          "pi": "gùtǐ"
+        }
+      ]
+    }
+  ]
+}

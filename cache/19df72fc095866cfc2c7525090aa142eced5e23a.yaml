@@ -1,0 +1,14 @@
+{
+  "chinese": "你不能来真是太糟糕了。",
+  "english": "It's really awful that you can't come.",
+  "pinyin": "nǐ bù néng lái zhēn shì tài zāo gāo le。",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "不能", "en": "can't", "pi": "bù néng"},
+    {"ch": "来", "en": "come", "pi": "lái"},
+    {"ch": "真是", "en": "really", "pi": "zhēn shì"},
+    {"ch": "太", "en": "too", "pi": "tài"},
+    {"ch": "糟糕", "en": "awful", "pi": "zāo gāo"},
+    {"ch": "了", "en": "that", "pi": "le"}
+  ]
+}

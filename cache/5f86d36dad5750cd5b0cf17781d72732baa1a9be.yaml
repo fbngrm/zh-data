@@ -1,0 +1,37 @@
+{
+    "chinese": "他每天要睡八个小时。",
+    "english": "He needs to sleep for eight hours every day.",
+    "pinyin": "tā měi tiān yào shuì bā gè xiǎo shí。",
+    "words": [
+        {
+            "ch": "他",
+            "en": "he",
+            "pi": "tā"
+        },
+        {
+            "ch": "每天",
+            "en": "every day",
+            "pi": "měi tiān"
+        },
+        {
+            "ch": "要",
+            "en": "need to",
+            "pi": "yào"
+        },
+        {
+            "ch": "睡",
+            "en": "to sleep",
+            "pi": "shuì"
+        },
+        {
+            "ch": "八个",
+            "en": "eight",
+            "pi": "bā gè"
+        },
+        {
+            "ch": "小时",
+            "en": "hours",
+            "pi": "xiǎo shí"
+        }
+    ]
+}

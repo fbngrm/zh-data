@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆说法语不太好。",
+  "english": "Tom's French is not very good.",
+  "pinyin": "Tāng mǔ shuō fǎyǔ bù tài hǎo.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎyǔ"
+    },
+    {
+      "ch": "不太好",
+      "en": "not very good",
+      "pi": "bù tài hǎo"
+    }
+  ]
+}

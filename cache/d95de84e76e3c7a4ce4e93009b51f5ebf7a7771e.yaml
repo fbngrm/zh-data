@@ -1,0 +1,52 @@
+{
+  "chinese": "对不起，打扰一下，能帮忙开下窗子吗？",
+  "english": "Sorry to bother you, can you help me open the window please?",
+  "pinyin": "duì bù qǐ, dǎ rǎo yī xià, néng bāng máng kāi xià chuāng zi ma?",
+  "words": [
+    {
+      "ch": "对不起",
+      "en": "Sorry",
+      "pi": "duì bù qǐ"
+    },
+    {
+      "ch": "打扰",
+      "en": "bother",
+      "pi": "dǎ rǎo"
+    },
+    {
+      "ch": "一下",
+      "en": "a bit",
+      "pi": "yī xià"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "帮忙",
+      "en": "help",
+      "pi": "bāng máng"
+    },
+    {
+      "ch": "开",
+      "en": "open",
+      "pi": "kāi"
+    },
+    {
+      "ch": "下",
+      "en": "down",
+      "pi": "xià"
+    },
+    {
+      "ch": "窗子",
+      "en": "window",
+      "pi": "chuāng zi"
+    },
+    {
+      "ch": "吗",
+      "en": "please?",
+      "pi": "ma"
+    }
+  ]
+}

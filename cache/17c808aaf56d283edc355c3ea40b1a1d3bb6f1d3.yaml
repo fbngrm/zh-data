@@ -1,0 +1,32 @@
+{
+  "chinese": "你犯了个错误。",
+  "english": "You made a mistake.",
+  "pinyin": "nǐ fàn le gè cuòwù.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "犯",
+      "en": "made",
+      "pi": "fàn"
+    },
+    {
+      "ch": "了",
+      "en": "a",
+      "pi": "le"
+    },
+    {
+      "ch": "个",
+      "en": "",
+      "pi": "gè"
+    },
+    {
+      "ch": "错误",
+      "en": "mistake",
+      "pi": "cuòwù"
+    }
+  ]
+}

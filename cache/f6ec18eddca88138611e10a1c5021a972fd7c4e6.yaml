@@ -1,0 +1,32 @@
+{
+  "chinese": "他刮了他的胡子。",
+  "english": "He shaved his beard.",
+  "pinyin": "Tā guāle tā de hú zi.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "刮",
+      "en": "shaved",
+      "pi": "guā"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "胡子",
+      "en": "beard",
+      "pi": "hú zi"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "这个男孩取笑了这个女孩。",
+  "english": "The boy teased the girl.",
+  "pinyin": "zhè gè nán hái qǔ xiào le zhè gè nǚ hái。",
+  "words": [
+    { "ch": "这个", "en": "The", "pi": "zhè gè" },
+    { "ch": "男孩", "en": "boy", "pi": "nán hái" },
+    { "ch": "取笑", "en": "teased", "pi": "qǔ xiào" },
+    { "ch": "了", "en": "the", "pi": "le" },
+    { "ch": "这个", "en": "girl", "pi": "zhè gè" },
+    { "ch": "女孩", "en": "the", "pi": "nǚ hái" }
+  ]
+}

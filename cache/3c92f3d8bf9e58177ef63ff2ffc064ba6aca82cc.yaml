@@ -1,0 +1,32 @@
+{
+  "chinese": "这汤怎么做的？",
+  "english": "How is this soup made?",
+  "pinyin": "zhè tāng zěnme zuò de?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "汤",
+      "en": "soup",
+      "pi": "tāng"
+    },
+    {
+      "ch": "怎么",
+      "en": "how",
+      "pi": "zěnme"
+    },
+    {
+      "ch": "做",
+      "en": "make/do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "的",
+      "en": "particle indicating possession or description",
+      "pi": "de"
+    }
+  ]
+}

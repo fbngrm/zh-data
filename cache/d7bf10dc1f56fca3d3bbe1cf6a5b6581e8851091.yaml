@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆是个好人吗？",
+  "english": "Is Tom a good person?",
+  "pinyin": "Tāng mǔ shì gè hǎo rén ma?",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "个",
+      "en": "",
+      "pi": "gè"
+    },
+    {
+      "ch": "好人",
+      "en": "good person",
+      "pi": "hǎo rén"
+    },
+    {
+      "ch": "吗",
+      "en": "",
+      "pi": "ma"
+    }
+  ]
+}

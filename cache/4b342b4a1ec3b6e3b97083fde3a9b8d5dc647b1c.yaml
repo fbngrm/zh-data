@@ -1,0 +1,32 @@
+{
+  "chinese": "医生检查了我的喉咙。",
+  "english": "The doctor checked my throat.",
+  "pinyin": "yī shēng jiǎn chá le wǒ de hóu lóng.",
+  "words": [
+    {
+      "ch": "医生",
+      "en": "doctor",
+      "pi": "yī shēng"
+    },
+    {
+      "ch": "检查",
+      "en": "checked",
+      "pi": "jiǎn chá"
+    },
+    {
+      "ch": "了",
+      "en": "my",
+      "pi": "le"
+    },
+    {
+      "ch": "我的",
+      "en": "throat",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "喉咙",
+      "en": "throat",
+      "pi": "hóu lóng"
+    }
+  ]
+}

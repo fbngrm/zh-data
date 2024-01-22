@@ -1,0 +1,27 @@
+{
+  "chinese": "我的哥哥在树下。",
+  "english": "My older brother is under the tree.",
+  "pinyin": "Wǒ de gēgē zài shù xià.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "My",
+      "pi": "Wǒ de"
+    },
+    {
+      "ch": "哥哥",
+      "en": "older brother",
+      "pi": "gēgē"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "树下",
+      "en": "under the tree",
+      "pi": "shù xià"
+    }
+  ]
+}

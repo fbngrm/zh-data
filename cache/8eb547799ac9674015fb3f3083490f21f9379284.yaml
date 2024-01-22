@@ -1,0 +1,17 @@
+{
+  "chinese": "因为你真的很臭，这就是为什么。",
+  "english": "Because you really stink, that's why.",
+  "pinyin": "yīnwèi nǐ zhēn de hěn chòu, zhè jiùshì wèishéme.",
+  "words": [
+    {"ch": "因为", "en": "because", "pi": "yīnwèi"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "真的", "en": "really", "pi": "zhēn de"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "臭", "en": "stink", "pi": "chòu"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "就是", "en": "is", "pi": "jiùshì"},
+    {"ch": "为什么", "en": "why", "pi": "wèishéme"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}

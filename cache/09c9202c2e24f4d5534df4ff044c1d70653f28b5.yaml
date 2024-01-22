@@ -1,0 +1,17 @@
+{
+  "chinese": "他很自豪他父亲是个伟大的科学家。",
+  "english": "He is very proud that his father is a great scientist.",
+  "pinyin": "tā hěn zì háo tā fù qīn shì gè wěi dà de kē xué jiā。",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "自豪", "en": "proud", "pi": "zì háo"},
+    {"ch": "他", "en": "his", "pi": "tā"},
+    {"ch": "父亲", "en": "father", "pi": "fù qīn"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "个", "en": "a", "pi": "gè"},
+    {"ch": "伟大", "en": "great", "pi": "wěi dà"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "科学家", "en": "scientist", "pi": "kē xué jiā"}
+  ]
+}

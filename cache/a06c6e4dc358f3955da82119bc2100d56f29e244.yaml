@@ -1,0 +1,32 @@
+{
+  "chinese": "你的钱够吗？",
+  "english": "Is your money enough?",
+  "pinyin": "nǐ de qián gòu ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "钱",
+      "en": "money",
+      "pi": "qián"
+    },
+    {
+      "ch": "够",
+      "en": "enough",
+      "pi": "gòu"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

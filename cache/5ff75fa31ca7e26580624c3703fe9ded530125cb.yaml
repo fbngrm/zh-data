@@ -1,0 +1,37 @@
+{
+  "chinese": "这只狗的名字是Ｋｅｎ。",
+  "english": "The name of this dog is Ken.",
+  "pinyin": "zhè zhī gǒu de míngzì shì Kēn.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "只",
+      "en": "dog",
+      "pi": "zhī"
+    },
+    {
+      "ch": "狗",
+      "en": "of",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "的",
+      "en": "name",
+      "pi": "de"
+    },
+    {
+      "ch": "名字",
+      "en": "is",
+      "pi": "míngzì"
+    },
+    {
+      "ch": "是",
+      "en": "Ken",
+      "pi": "shì"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我从伦敦订购了一本书。",
+  "english": "I ordered a book from London.",
+  "pinyin": "Wǒ cóng lúndūn dìnggòule yī běn shū。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "Wǒ"
+    },
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "伦敦",
+      "en": "London",
+      "pi": "lúndūn"
+    },
+    {
+      "ch": "订购",
+      "en": "ordered",
+      "pi": "dìnggòu"
+    },
+    {
+      "ch": "了",
+      "en": "a",
+      "pi": "le"
+    },
+    {
+      "ch": "一本",
+      "en": "book",
+      "pi": "yī běn"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    }
+  ]
+}

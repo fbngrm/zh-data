@@ -1,0 +1,32 @@
+{
+  "chinese": "你做饭做得很好吃。",
+  "english": "You cook very deliciously.",
+  "pinyin": "Nǐ zuòfàn zuò dé hěn hào chī.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "Nǐ"
+    },
+    {
+      "ch": "做饭",
+      "en": "cook",
+      "pi": "zuòfàn"
+    },
+    {
+      "ch": "做得",
+      "en": "do it",
+      "pi": "zuò dé"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "好吃",
+      "en": "deliciously",
+      "pi": "hào chī"
+    }
+  ]
+}

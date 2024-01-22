@@ -1,0 +1,42 @@
+{
+  "chinese": "他長大後成為了一名工程師。",
+  "english": "He became an engineer after growing up.",
+  "pinyin": "tā zhǎng dà hòu chéng wéi le yī míng gōng chéng shī。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "長大",
+      "en": "growing up",
+      "pi": "zhǎng dà"
+    },
+    {
+      "ch": "後",
+      "en": "after",
+      "pi": "hòu"
+    },
+    {
+      "ch": "成為",
+      "en": "become",
+      "pi": "chéng wéi"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "一名",
+      "en": "an",
+      "pi": "yī míng"
+    },
+    {
+      "ch": "工程師",
+      "en": "engineer",
+      "pi": "gōng chéng shī"
+    }
+  ]
+}

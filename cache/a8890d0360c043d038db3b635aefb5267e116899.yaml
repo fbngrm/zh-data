@@ -1,0 +1,37 @@
+{
+  "chinese": "我买了两条面包。",
+  "english": "I bought two loaves of bread.",
+  "pinyin": "wǒ mǎi le liǎng tiáo miàn bāo.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "买",
+      "en": "bought",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "了",
+      "en": "le",
+      "pi": "le"
+    },
+    {
+      "ch": "两",
+      "en": "two",
+      "pi": "liǎng"
+    },
+    {
+      "ch": "条",
+      "en": "loaves of",
+      "pi": "tiáo"
+    },
+    {
+      "ch": "面包",
+      "en": "bread",
+      "pi": "miàn bāo"
+    }
+  ]
+}

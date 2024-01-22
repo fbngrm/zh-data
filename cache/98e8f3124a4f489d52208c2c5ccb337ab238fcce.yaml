@@ -1,0 +1,32 @@
+{
+  "chinese": "她因病不能出席会议。",
+  "english": "She cannot attend the meeting due to illness.",
+  "pinyin": "tā yīn bìng bù néng chū xí huì yì.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "因病",
+      "en": "due to illness",
+      "pi": "yīn bìng"
+    },
+    {
+      "ch": "不能",
+      "en": "cannot",
+      "pi": "bù néng"
+    },
+    {
+      "ch": "出席",
+      "en": "attend",
+      "pi": "chū xí"
+    },
+    {
+      "ch": "会议",
+      "en": "meeting",
+      "pi": "huì yì"
+    }
+  ]
+}

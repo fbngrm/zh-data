@@ -1,0 +1,27 @@
+{
+  "chinese": "他是我的朋友。",
+  "english": "He is my friend.",
+  "pinyin": "Tā shì wǒ de péngyǒu.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "朋友",
+      "en": "friend",
+      "pi": "péngyǒu"
+    }
+  ]
+}

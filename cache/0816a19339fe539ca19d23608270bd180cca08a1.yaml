@@ -1,0 +1,14 @@
+{
+  "chinese": "他有一些教授英語的經驗。",
+  "english": "He has some experience teaching English.",
+  "pinyin": "tā yǒu yīxiē jiàoshòu yīngyǔ de jīngyàn.",
+  "words": [
+    { "ch": "他", "en": "he", "pi": "tā" },
+    { "ch": "有", "en": "has", "pi": "yǒu" },
+    { "ch": "一些", "en": "some", "pi": "yīxiē" },
+    { "ch": "教授", "en": "teaching", "pi": "jiàoshòu" },
+    { "ch": "英語", "en": "English", "pi": "yīngyǔ" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "經驗", "en": "experience", "pi": "jīngyàn" }
+  ]
+}

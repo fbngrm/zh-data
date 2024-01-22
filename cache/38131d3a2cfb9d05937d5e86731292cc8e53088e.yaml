@@ -1,0 +1,32 @@
+{
+  "chinese": "這座城市被群山環繞。",
+  "english": "This city is surrounded by mountains.",
+  "pinyin": "zhè zuò chéngshì bèi qúnshān huánrào.",
+  "words": [
+    {
+      "ch": "這座",
+      "en": "this",
+      "pi": "zhè zuò"
+    },
+    {
+      "ch": "城市",
+      "en": "city",
+      "pi": "chéngshì"
+    },
+    {
+      "ch": "被",
+      "en": "is",
+      "pi": "bèi"
+    },
+    {
+      "ch": "群山",
+      "en": "mountains",
+      "pi": "qúnshān"
+    },
+    {
+      "ch": "環繞",
+      "en": "surrounded",
+      "pi": "huánrào"
+    }
+  ]
+}

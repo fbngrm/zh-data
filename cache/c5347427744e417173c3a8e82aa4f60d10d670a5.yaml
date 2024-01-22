@@ -1,0 +1,19 @@
+{
+  "chinese": "他还没有去过法国,他很想明年去.",
+  "english": "He has never been to France, he really wants to go next year.",
+  "pinyin": "Tā hái méiyǒu qùguò Fǎguó, tā hěn xiǎng míngnián qù.",
+  "words": [
+    { "ch": "他", "en": "He", "pi": "tā" },
+    { "ch": "还", "en": "still", "pi": "hái" },
+    { "ch": "没有", "en": "has never", "pi": "méiyǒu" },
+    { "ch": "去过", "en": "been to", "pi": "qùguò" },
+    { "ch": "法国", "en": "France", "pi": "Fǎguó" },
+    { "ch": ",", "en": ",", "pi": "," },
+    { "ch": "他", "en": "he", "pi": "tā" },
+    { "ch": "很", "en": "really", "pi": "hěn" },
+    { "ch": "想", "en": "wants", "pi": "xiǎng" },
+    { "ch": "明年", "en": "next year", "pi": "míngnián" },
+    { "ch": "去", "en": "go", "pi": "qù" },
+    { "ch": ".", "en": ".", "pi": "." }
+  ]
+}

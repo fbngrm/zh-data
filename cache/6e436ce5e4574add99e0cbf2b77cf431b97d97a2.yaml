@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆向他们推荐了那本小说。",
+  "english": "Tom recommended that novel to them.",
+  "pinyin": "Tāng mǔ xiàng tāmen tuījiàn le nà běn xiǎoshuō.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "向",
+      "en": "to",
+      "pi": "xiàng"
+    },
+    {
+      "ch": "他们",
+      "en": "them",
+      "pi": "tāmen"
+    },
+    {
+      "ch": "推荐",
+      "en": "recommended",
+      "pi": "tuījiàn"
+    },
+    {
+      "ch": "了",
+      "en": "that",
+      "pi": "le"
+    },
+    {
+      "ch": "那本",
+      "en": "that",
+      "pi": "nà běn"
+    },
+    {
+      "ch": "小说",
+      "en": "novel",
+      "pi": "xiǎoshuō"
+    }
+  ]
+}

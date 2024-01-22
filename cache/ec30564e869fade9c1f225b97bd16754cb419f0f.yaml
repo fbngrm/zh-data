@@ -1,0 +1,32 @@
+{
+  "chinese": "到谈话的时间了。",
+  "english": "It's time to talk.",
+  "pinyin": "dào tán huà de shí jiān le。",
+  "words": [
+    {
+      "ch": "到",
+      "en": "to",
+      "pi": "dào"
+    },
+    {
+      "ch": "谈话",
+      "en": "talk",
+      "pi": "tán huà"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "时间",
+      "en": "time",
+      "pi": "shí jiān"
+    },
+    {
+      "ch": "了",
+      "en": "modal particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "她的字体很整齐。",
+  "english": "Her handwriting is very neat.",
+  "pinyin": "tā de zì tǐ hěn zhěng qí.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "字体",
+      "en": "handwriting",
+      "pi": "zì tǐ"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "整齐",
+      "en": "neat",
+      "pi": "zhěng qí"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我很遗憾你要离开这里。",
+  "english": "I'm sorry that you have to leave here.",
+  "pinyin": "wǒ hěn yíhàn nǐ yào líkāi zhèlǐ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I/me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "遗憾",
+      "en": "sorry",
+      "pi": "yíhàn"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "要",
+      "en": "have to",
+      "pi": "yào"
+    },
+    {
+      "ch": "离开",
+      "en": "leave",
+      "pi": "líkāi"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhèlǐ"
+    }
+  ]
+}

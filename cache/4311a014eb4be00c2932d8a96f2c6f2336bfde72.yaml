@@ -1,0 +1,27 @@
+{
+  "chinese": "你有多大年龄?",
+  "english": "How old are you?",
+  "pinyin": "nǐ yǒu duō dà nián líng?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "多大",
+      "en": "how old",
+      "pi": "duō dà"
+    },
+    {
+      "ch": "年龄",
+      "en": "age",
+      "pi": "nián líng"
+    }
+  ]
+}

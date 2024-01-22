@@ -1,0 +1,16 @@
+{
+  "chinese": "你越是吃巧克力，越是会变胖。",
+  "english": "The more chocolate you eat, the more weight you will gain.",
+  "pinyin": "Nǐ yuè shì chī qiǎo kè lì, yuè shì huì biàn pàng.",
+  "words": [
+    {"ch": "你", "en": "You", "pi": "nǐ"},
+    {"ch": "越是", "en": "The more", "pi": "yuè shì"},
+    {"ch": "吃", "en": "eat", "pi": "chī"},
+    {"ch": "巧克力", "en": "chocolate", "pi": "qiǎo kè lì"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "越是", "en": "the more", "pi": "yuè shì"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "变胖", "en": "gain weight", "pi": "biàn pàng"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}

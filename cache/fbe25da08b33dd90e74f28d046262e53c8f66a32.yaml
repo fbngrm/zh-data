@@ -1,0 +1,42 @@
+{
+  "chinese": "平山先生是位很好的老师。",
+  "english": "Mr. Pingshan is a very good teacher.",
+  "pinyin": "Píngshān xiānshēng shì wèi hěn hǎo de lǎoshī.",
+  "words": [
+    {
+      "ch": "平山",
+      "en": "Mr. Pingshan",
+      "pi": "Píngshān"
+    },
+    {
+      "ch": "先生",
+      "en": "Mr.",
+      "pi": "xiānshēng"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "位",
+      "en": "a",
+      "pi": "wèi"
+    },
+    {
+      "ch": "很好",
+      "en": "very good",
+      "pi": "hěn hǎo"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "老师",
+      "en": "teacher",
+      "pi": "lǎoshī"
+    }
+  ]
+}

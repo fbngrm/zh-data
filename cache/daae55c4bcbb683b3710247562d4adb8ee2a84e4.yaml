@@ -1,0 +1,37 @@
+{
+  "chinese": "这台自动贩卖机故障了。",
+  "english": "This vending machine is out of order.",
+  "pinyin": "zhè tái zì dòng fàn mài jī gù zhàng le",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "台",
+      "en": "machine",
+      "pi": "tái"
+    },
+    {
+      "ch": "自动",
+      "en": "automatic",
+      "pi": "zì dòng"
+    },
+    {
+      "ch": "贩卖机",
+      "en": "vending machine",
+      "pi": "fàn mài jī"
+    },
+    {
+      "ch": "故障",
+      "en": "out of order",
+      "pi": "gù zhàng"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

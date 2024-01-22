@@ -1,0 +1,42 @@
+{
+  "chinese": "他让我等了一个小时。",
+  "english": "He made me wait for an hour.",
+  "pinyin": "tā ràng wǒ děng le yī gè xiǎo shí。",
+  "words": [
+    {
+      "ch":"他",
+      "en":"he",
+      "pi":"tā"
+    },
+    {
+      "ch":"让",
+      "en":"make",
+      "pi":"ràng"
+    },
+    {
+      "ch":"我",
+      "en":"me",
+      "pi":"wǒ"
+    },
+    {
+      "ch":"等",
+      "en":"wait",
+      "pi":"děng"
+    },
+    {
+      "ch":"了",
+      "en":"for",
+      "pi":"le"
+    },
+    {
+      "ch":"一个",
+      "en":"one",
+      "pi":"yī gè"
+    },
+    {
+      "ch":"小时",
+      "en":"hour",
+      "pi":"xiǎo shí"
+    }
+  ]
+}

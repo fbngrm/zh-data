@@ -1,0 +1,32 @@
+{
+  "chinese": "今天早上发生了地震。",
+  "english": "There was an earthquake this morning.",
+  "pinyin": "jīn tiān zǎo shàng fā shēng le dì zhèn.",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎo shàng"
+    },
+    {
+      "ch": "发生",
+      "en": "happen",
+      "pi": "fā shēng"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "地震",
+      "en": "earthquake",
+      "pi": "dì zhèn"
+    }
+  ]
+}

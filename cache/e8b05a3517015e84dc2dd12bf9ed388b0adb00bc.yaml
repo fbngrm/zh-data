@@ -1,0 +1,42 @@
+{
+  "chinese": "這個機器一定有什麼地方不對勁。",
+  "english": "There must be something wrong with this machine.",
+  "pinyin": "zhè gè jī qì yī dìng yǒu shén me dì fāng bú duì jìn。",
+  "words": [
+    {
+      "ch": "這個",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "機器",
+      "en": "machine",
+      "pi": "jī qì"
+    },
+    {
+      "ch": "一定",
+      "en": "must",
+      "pi": "yī dìng"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "什麼",
+      "en": "something",
+      "pi": "shén me"
+    },
+    {
+      "ch": "地方",
+      "en": "place",
+      "pi": "dì fāng"
+    },
+    {
+      "ch": "不對勁",
+      "en": "wrong",
+      "pi": "bú duì jìn"
+    }
+  ]
+}

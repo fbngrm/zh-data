@@ -1,0 +1,32 @@
+{
+  "chinese": "你每天都学习吗？",
+  "english": "Do you study every day?",
+  "pinyin": "Nǐ měi tiān dōu xuéxí ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "Nǐ"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "都",
+      "en": "do",
+      "pi": "dōu"
+    },
+    {
+      "ch": "学习",
+      "en": "study",
+      "pi": "xuéxí"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

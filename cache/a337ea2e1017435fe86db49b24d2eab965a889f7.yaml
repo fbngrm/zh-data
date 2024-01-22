@@ -1,0 +1,13 @@
+{
+  "chinese": "你的回答是错的。",
+  "english": "Your answer is wrong.",
+  "pinyin": "nǐ de huídá shì cuò de.",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "的", "en": "possessive particle", "pi": "de"},
+    {"ch": "回答", "en": "answer", "pi": "huídá"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "错", "en": "wrong", "pi": "cuò"},
+    {"ch": "的", "en": "possessive particle", "pi": "de"}
+  ]
+}

@@ -1,0 +1,17 @@
+{
+ "chinese": "你可以再等我两分钟哦你吗？",
+ "english": "Can you wait for me for another two minutes, please?",
+ "pinyin": "nǐ kě yǐ zài děng wǒ liǎng fēnzhōng ō nǐ ma?",
+ "words": [
+  {"ch": "你", "en": "you", "pi": "nǐ"},
+  {"ch": "可以", "en": "can, may", "pi": "kě yǐ"},
+  {"ch": "再", "en": "again", "pi": "zài"},
+  {"ch": "等", "en": "to wait", "pi": "děng"},
+  {"ch": "我", "en": "me", "pi": "wǒ"},
+  {"ch": "两", "en": "two", "pi": "liǎng"},
+  {"ch": "分钟", "en": "minute", "pi": "fēn zhōng"},
+  {"ch": "哦", "en": "oh", "pi": "ō"},
+  {"ch": "你", "en": "you", "pi": "nǐ"},
+  {"ch": "吗", "en": "question particle for yes/no questions", "pi": "ma?"}
+ ]
+}

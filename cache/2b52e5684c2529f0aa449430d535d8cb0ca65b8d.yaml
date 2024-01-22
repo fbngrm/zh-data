@@ -1,0 +1,37 @@
+{
+   "chinese": "汤姆和玛丽聊了一个晚上。",
+   "english": "Tom and Mary chatted all night.",
+   "pinyin": "Tāng mǔ hé mǎ lì liáo le yī gè wǎnshàng.",
+   "words": [
+      {
+         "ch": "汤姆",
+         "en": "Tom",
+         "pi": "tāng mǔ"
+      },
+      {
+         "ch": "和",
+         "en": "and",
+         "pi": "hé"
+      },
+      {
+         "ch": "玛丽",
+         "en": "Mary",
+         "pi": "mǎ lì"
+      },
+      {
+         "ch": "聊了",
+         "en": "chatted",
+         "pi": "liáo le"
+      },
+      {
+         "ch": "一个",
+         "en": "one",
+         "pi": "yī gè"
+      },
+      {
+         "ch": "晚上",
+         "en": "night",
+         "pi": "wǎnshàng"
+      }
+   ]
+}

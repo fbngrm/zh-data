@@ -1,0 +1,32 @@
+{
+  "chinese": "这不是西班牙语。",
+  "english": "This is not Spanish.",
+  "pinyin": "zhè bú shì xī bān yá yǔ。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bú"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "西班牙",
+      "en": "Spanish",
+      "pi": "xī bān yá"
+    },
+    {
+      "ch": "语",
+      "en": "language",
+      "pi": "yǔ"
+    }
+  ]
+}

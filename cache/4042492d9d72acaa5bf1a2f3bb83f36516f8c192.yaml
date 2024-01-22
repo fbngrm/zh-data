@@ -1,0 +1,42 @@
+{
+  "chinese": "你把你的房间打扫好了没有？",
+  "english": "Have you cleaned your room?",
+  "pinyin": "nǐ bǎ nǐ de fángjiān dǎsǎo hǎole méiyǒu?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "把",
+      "en": "have",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "房间",
+      "en": "room",
+      "pi": "fángjiān"
+    },
+    {
+      "ch": "打扫",
+      "en": "clean",
+      "pi": "dǎsǎo"
+    },
+    {
+      "ch": "好了",
+      "en": "finished",
+      "pi": "hǎole"
+    },
+    {
+      "ch": "没有",
+      "en": "not",
+      "pi": "méiyǒu"
+    }
+  ]
+}

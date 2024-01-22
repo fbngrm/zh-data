@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆跑得不如比尔快。",
+  "english": "Tom runs slower than Bill.",
+  "pinyin": "Tāng mǔ pǎo dé bù rú bǐ ěr kuài.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "跑得",
+      "en": "runs",
+      "pi": "pǎo dé"
+    },
+    {
+      "ch": "不如",
+      "en": "slower than",
+      "pi": "bù rú"
+    },
+    {
+      "ch": "比尔",
+      "en": "Bill",
+      "pi": "bǐ ěr"
+    },
+    {
+      "ch": "快",
+      "en": "fast",
+      "pi": "kuài"
+    }
+  ]
+}

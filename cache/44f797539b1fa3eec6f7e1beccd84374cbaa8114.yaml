@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆告诉玛丽去找约翰求助。",
+  "english": "Tom told Mary to go find John for help.",
+  "pinyin": "tāng mǔ gàosù mǎ lì qù zhǎo yāo hái qiú zhù。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "告诉",
+      "en": "told",
+      "pi": "gàosù"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "去",
+      "en": "to go",
+      "pi": "qù"
+    },
+    {
+      "ch": "找",
+      "en": "find",
+      "pi": "zhǎo"
+    },
+    {
+      "ch": "约翰",
+      "en": "John",
+      "pi": "yāo hái"
+    },
+    {
+      "ch": "求助",
+      "en": "for help",
+      "pi": "qiú zhù"
+    }
+  ]
+}

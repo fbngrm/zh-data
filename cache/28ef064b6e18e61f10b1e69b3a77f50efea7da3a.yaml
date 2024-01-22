@@ -1,0 +1,47 @@
+{
+  "chinese": "你对我说了谎,没有吗?",
+  "english": "Did you lie to me?",
+  "pinyin": "nǐ duì wǒ shuō le huǎng, méi yǒu ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "对",
+      "en": "to",
+      "pi": "duì"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "le"
+    },
+    {
+      "ch": "谎",
+      "en": "lie",
+      "pi": "huǎng"
+    },
+    {
+      "ch": "没有",
+      "en": "not have",
+      "pi": "méi yǒu"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

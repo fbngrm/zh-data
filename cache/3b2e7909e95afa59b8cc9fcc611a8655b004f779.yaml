@@ -1,0 +1,18 @@
+{
+  "chinese": "我们班的球员比赛开始五分钟后就得了一分。",
+  "english": "Our team scored one point five minutes after the game started.",
+  "pinyin": "wǒmen bān de qiúyuán bǐsài kāishǐ wǔ fēnzhōng hòu jiù déle yī fēn。",
+  "words": [
+    { "ch": "我们", "en": "Our", "pi": "wǒmen" },
+    { "ch": "班", "en": "team", "pi": "bān" },
+    { "ch": "的", "en": "possession", "pi": "de" },
+    { "ch": "球员", "en": "player", "pi": "qiúyuán" },
+    { "ch": "比赛", "en": "game", "pi": "bǐsài" },
+    { "ch": "开始", "en": "started", "pi": "kāishǐ" },
+    { "ch": "五分钟", "en": "five minutes", "pi": "wǔ fēnzhōng" },
+    { "ch": "后", "en": "after", "pi": "hòu" },
+    { "ch": "就", "en": "then", "pi": "jiù" },
+    { "ch": "得了", "en": "scored", "pi": "déle" },
+    { "ch": "一分", "en": "one point", "pi": "yī fēn" }
+  ]
+}

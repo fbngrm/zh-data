@@ -1,0 +1,32 @@
+{
+  "chinese": "桌上有一本书。",
+  "english": "There is a book on the table.",
+  "pinyin": "Zhuōshàng yǒu yī běn shū.",
+  "words": [
+    {
+      "ch": "桌上",
+      "en": "on the table",
+      "pi": "zhuōshàng"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一",
+      "en": "one",
+      "pi": "yī"
+    },
+    {
+      "ch": "本",
+      "en": "measure word for books",
+      "pi": "běn"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "chinese": "猎人射杀了狐狸。",
+  "english": "The hunter shot the fox.",
+  "pinyin": "Lièrén shèshāle húli.",
+  "words": [
+    {"ch": "猎人", "en": "hunter", "pi": "lièrén"},
+    {"ch": "射杀", "en": "shot", "pi": "shèshā"},
+    {"ch": "了", "en": "the", "pi": "le"},
+    {"ch": "狐狸", "en": "fox", "pi": "húli"}
+  ]
+}

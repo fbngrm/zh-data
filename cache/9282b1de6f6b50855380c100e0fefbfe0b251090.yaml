@@ -1,0 +1,14 @@
+{
+  "chinese": "老師讓我重複了這句話。",
+  "english": "The teacher made me repeat this sentence.",
+  "pinyin": "Lǎoshī ràng wǒ chóngfùle zhè jùhuà.",
+  "words": [
+    { "ch": "老師", "en": "teacher", "pi": "lǎoshī" },
+    { "ch": "讓", "en": "let", "pi": "ràng" },
+    { "ch": "我", "en": "me", "pi": "wǒ" },
+    { "ch": "重複", "en": "repeat", "pi": "chóngfù" },
+    { "ch": "了", "en": "le", "pi": "le" },
+    { "ch": "這", "en": "this", "pi": "zhè" },
+    { "ch": "句話", "en": "sentence", "pi": "jùhuà" }
+  ]
+}

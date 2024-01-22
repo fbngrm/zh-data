@@ -1,0 +1,14 @@
+{
+  "chinese": "我们在河里划着船逆流而上。",
+  "english": "We are rowing our boat against the current in the river.",
+  "pinyin": "wǒmen zài hé lǐ huá zhe chuán nì liú ér shàng。",
+  "words": [
+    {"ch": "我们", "en": "we", "pi": "wǒmen"},
+    {"ch": "在", "en": "in/at", "pi": "zài"},
+    {"ch": "河里", "en": "in the river", "pi": "hé lǐ"},
+    {"ch": "划着", "en": "row", "pi": "huá zhe"},
+    {"ch": "船", "en": "boat", "pi": "chuán"},
+    {"ch": "逆流", "en": "against the current", "pi": "nì liú"},
+    {"ch": "而上", "en": "upwards", "pi": "ér shàng"}
+  ]
+}

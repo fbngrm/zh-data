@@ -1,0 +1,52 @@
+{
+  "chinese": "他是我哥哥，不是我爸爸。",
+  "english": "He is my older brother, not my father.",
+  "pinyin": "Tā shì wǒ gē gē, bù shì wǒ bà bà.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我",
+      "en": "my",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "哥哥",
+      "en": "older brother",
+      "pi": "gē gē"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": ","
+    },
+    {
+      "ch": "不是",
+      "en": "not",
+      "pi": "bù shì"
+    },
+    {
+      "ch": "我",
+      "en": "my",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "爸爸",
+      "en": "father",
+      "pi": "bà bà"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "."
+    }
+  ]
+}

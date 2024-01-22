@@ -1,0 +1,37 @@
+{
+  "chinese": "我们先吃饭，然后再走。",
+  "english": "We'll eat first, then we'll leave.",
+  "pinyin": "wǒmen xiān chīfàn, ránhòu zài zǒu.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "先",
+      "en": "first",
+      "pi": "xiān"
+    },
+    {
+      "ch": "吃饭",
+      "en": "eat",
+      "pi": "chīfàn"
+    },
+    {
+      "ch": "然后",
+      "en": "then",
+      "pi": "ránhòu"
+    },
+    {
+      "ch": "再",
+      "en": "again",
+      "pi": "zài"
+    },
+    {
+      "ch": "走",
+      "en": "leave",
+      "pi": "zǒu"
+    }
+  ]
+}

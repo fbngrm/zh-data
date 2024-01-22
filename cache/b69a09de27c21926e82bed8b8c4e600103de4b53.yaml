@@ -1,0 +1,16 @@
+{
+  "chinese": "我们的俱乐部的人数比你们多三倍。",
+  "english": "The number of people in our club is triple that of yours.",
+  "pinyin": "wǒmen de jùlèbù de rénshù bǐ nǐmen duō sānbèi。",
+  "words": [
+    {"ch": "我们", "en": "we", "pi": "wǒmen"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "俱乐部", "en": "club", "pi": "jùlèbù"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "人数", "en": "number of people", "pi": "rénshù"},
+    {"ch": "比", "en": "compare", "pi": "bǐ"},
+    {"ch": "你们", "en": "yours", "pi": "nǐmen"},
+    {"ch": "多", "en": "more", "pi": "duō"},
+    {"ch": "三倍", "en": "triple", "pi": "sānbèi"}
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我父亲要去公园里走。",
+  "english": "My father wants to go for a walk in the park.",
+  "pinyin": "wǒ fùqīn yào qù gōngyuán lǐ zǒu。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "父亲",
+      "en": "father",
+      "pi": "fùqīn"
+    },
+    {
+      "ch": "要",
+      "en": "want to",
+      "pi": "yào"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "公园",
+      "en": "park",
+      "pi": "gōngyuán"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "走",
+      "en": "walk",
+      "pi": "zǒu"
+    }
+  ]
+}

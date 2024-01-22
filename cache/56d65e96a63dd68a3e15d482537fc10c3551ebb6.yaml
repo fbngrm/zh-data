@@ -1,0 +1,32 @@
+{
+  "chinese": "天上一朵云也没有。",
+  "english": "There is not a single cloud in the sky.",
+  "pinyin": "tiān shàng yī duǒ yún yě méi yǒu。",
+  "words": [
+    {
+      "ch": "天上",
+      "en": "sky",
+      "pi": "tiān shàng"
+    },
+    {
+      "ch": "一朵",
+      "en": "a",
+      "pi": "yī duǒ"
+    },
+    {
+      "ch": "云",
+      "en": "cloud",
+      "pi": "yún"
+    },
+    {
+      "ch": "也",
+      "en": "also",
+      "pi": "yě"
+    },
+    {
+      "ch": "没有",
+      "en": "not have",
+      "pi": "méi yǒu"
+    }
+  ]
+}

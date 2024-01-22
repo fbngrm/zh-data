@@ -1,0 +1,32 @@
+{
+  "chinese": "每个人都在谈论汤姆。",
+  "english": "Everyone is talking about Tom.",
+  "pinyin": "měi gè rén dōu zài tán lùn tāng mǔ。",
+  "words": [
+    {
+      "ch": "每个人",
+      "en": "everyone",
+      "pi": "měi gè rén"
+    },
+    {
+      "ch": "都",
+      "en": "is",
+      "pi": "dōu"
+    },
+    {
+      "ch": "在",
+      "en": "talking",
+      "pi": "zài"
+    },
+    {
+      "ch": "谈论",
+      "en": "about",
+      "pi": "tán lùn"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    }
+  ]
+}

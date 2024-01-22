@@ -1,0 +1,17 @@
+{
+  "chinese": "我上个星期忙得一点休息的时间也没有。",
+  "english": "I was so busy last week that I didn't have any time to rest.",
+  "pinyin": "wǒ shàng gè xīngqī máng dé yīdiǎn xiūxí de shíjiān yě méiyǒu。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "上个", "en": "last", "pi": "shàng gè"},
+    {"ch": "星期", "en": "week", "pi": "xīngqī"},
+    {"ch": "忙得", "en": "busy", "pi": "máng dé"},
+    {"ch": "一点", "en": "a little", "pi": "yīdiǎn"},
+    {"ch": "休息", "en": "rest", "pi": "xiūxí"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "时间", "en": "time", "pi": "shíjiān"},
+    {"ch": "也", "en": "also", "pi": "yě"},
+    {"ch": "没有", "en": "didn't have", "pi": "méiyǒu"}
+  ]
+}

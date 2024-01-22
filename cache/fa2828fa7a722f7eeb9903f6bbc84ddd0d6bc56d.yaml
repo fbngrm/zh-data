@@ -1,0 +1,13 @@
+{
+  "chinese": "玛丽在她的房间里读书。",
+  "english": "Mary is reading in her room.",
+  "pinyin": "Mǎ lì zài tā de fáng jiān lǐ dú shū。",
+  "words": [
+    { "ch": "玛丽", "en": "Mary", "pi": "Mǎ lì" },
+    { "ch": "在", "en": "is", "pi": "zài" },
+    { "ch": "她的", "en": "her", "pi": "tā de" },
+    { "ch": "房间", "en": "room", "pi": "fáng jiān" },
+    { "ch": "里", "en": "in", "pi": "lǐ" },
+    { "ch": "读书", "en": "reading", "pi": "dú shū" }
+  ]
+}

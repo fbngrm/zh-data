@@ -1,0 +1,32 @@
+{
+  "chinese": "我们点太多食物了。",
+  "english": "We ordered too much food.",
+  "pinyin": "wǒ men diǎn tài duō shí wù le.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "点",
+      "en": "order",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "太多",
+      "en": "too much",
+      "pi": "tài duō"
+    },
+    {
+      "ch": "食物",
+      "en": "food",
+      "pi": "shí wù"
+    },
+    {
+      "ch": "了",
+      "en": "finish",
+      "pi": "le"
+    }
+  ]
+}

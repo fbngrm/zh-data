@@ -1,0 +1,16 @@
+{
+  "chinese": "你不知道他两年前死了吗？",
+  "english": "Don't you know that he died two years ago?",
+  "pinyin": "nǐ bù zhīdào tā liǎng nián qián sǐle ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "知道", "en": "know", "pi": "zhīdào"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "两", "en": "two", "pi": "liǎng"},
+    {"ch": "年前", "en": "years ago", "pi": "nián qián"},
+    {"ch": "死", "en": "dead", "pi": "sǐ"},
+    {"ch": "了", "en": "already", "pi": "le"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

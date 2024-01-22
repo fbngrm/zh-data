@@ -1,0 +1,14 @@
+{
+  "chinese": "请您在登记册上签名好吗？",
+  "english": "Could you please sign on the registration book?",
+  "pinyin": "qǐng nín zài dēng jì cè shàng qiān míng hǎo ma?",
+  "words": [
+    {"ch": "请", "en": "please", "pi": "qǐng"},
+    {"ch": "您", "en": "you (polite)", "pi": "nín"},
+    {"ch": "在", "en": "on, at", "pi": "zài"},
+    {"ch": "登记册", "en": "registration book", "pi": "dēng jì cè"},
+    {"ch": "上", "en": "on, above", "pi": "shàng"},
+    {"ch": "签名", "en": "sign", "pi": "qiān míng"},
+    {"ch": "好吗", "en": "is it okay?", "pi": "hǎo ma?"}
+  ]
+}

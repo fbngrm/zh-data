@@ -1,0 +1,32 @@
+{
+  "chinese": "这个区域有很多商店。",
+  "english": "There are many shops in this area.",
+  "pinyin": "zhè gè qū yù yǒu hěn duō shāng diàn。",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "区域",
+      "en": "area",
+      "pi": "qū yù"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "很多",
+      "en": "many",
+      "pi": "hěn duō"
+    },
+    {
+      "ch": "商店",
+      "en": "shops",
+      "pi": "shāng diàn"
+    }
+  ]
+}

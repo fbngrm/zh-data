@@ -1,0 +1,42 @@
+{
+  "chinese": "你有任何其他的问题吗？",
+  "english": "Do you have any other questions?",
+  "pinyin": "nǐ yǒu rèn hé qí tā de wèn tí ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "任何",
+      "en": "any",
+      "pi": "rèn hé"
+    },
+    {
+      "ch": "其他",
+      "en": "other",
+      "pi": "qí tā"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "问题",
+      "en": "questions",
+      "pi": "wèn tí"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

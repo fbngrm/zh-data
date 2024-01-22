@@ -1,0 +1,48 @@
+{
+  "sentences": [
+    {
+      "chinese": "欢迎回来。",
+      "english": "Welcome back.",
+      "pinyin": "huān yíng huí lái.",
+      "words": [
+        {
+          "ch": "欢迎",
+          "en": "Welcome",
+          "pi": "huān yíng"
+        },
+        {
+          "ch": "回来",
+          "en": "back",
+          "pi": "huí lái"
+        }
+      ]
+    },
+    {
+      "chinese": "我们想您了!",
+      "english": "We missed you!",
+      "pinyin": "wǒ men xiǎng nín le!",
+      "words": [
+        {
+          "ch": "我们",
+          "en": "We",
+          "pi": "wǒ men"
+        },
+        {
+          "ch": "想",
+          "en": "missed",
+          "pi": "xiǎng"
+        },
+        {
+          "ch": "您",
+          "en": "you",
+          "pi": "nín"
+        },
+        {
+          "ch": "了",
+          "en": "!",
+          "pi": "le"
+        }
+      ]
+    }
+  ]
+}

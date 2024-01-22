@@ -1,0 +1,32 @@
+{
+  "chinese": "昨天我发高烧了",
+  "english": "Yesterday I had a high fever",
+  "pinyin": "zuó tiān wǒ fā gāo shāo le",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "我",
+      "en": "I/me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "发",
+      "en": "had/got",
+      "pi": "fā"
+    },
+    {
+      "ch": "高烧",
+      "en": "high fever",
+      "pi": "gāo shāo"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

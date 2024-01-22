@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆把手放在麦克风上。",
+  "english": "Tom puts his hand on the microphone.",
+  "pinyin": "Tāng mǔ bǎ shǒu fàng zài màikèfēng shàng。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "把",
+      "en": "puts",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "手",
+      "en": "hand",
+      "pi": "shǒu"
+    },
+    {
+      "ch": "放在",
+      "en": "on",
+      "pi": "fàng zài"
+    },
+    {
+      "ch": "麦克风",
+      "en": "microphone",
+      "pi": "màikèfēng"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我以前读过这本书。",
+  "english": "I have read this book before.",
+  "pinyin": "wǒ yǐqián dúguò zhè běn shū。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "以前",
+      "en": "before",
+      "pi": "yǐqián"
+    },
+    {
+      "ch": "读过",
+      "en": "have read",
+      "pi": "dúguò"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本书",
+      "en": "book",
+      "pi": "běn shū"
+    }
+  ]
+}

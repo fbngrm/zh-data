@@ -1,0 +1,11 @@
+{
+  "chinese": "这是我的自行车。",
+  "english": "This is my bicycle.",
+  "pinyin": "zhè shì wǒ de zìxíngchē.",
+  "words": [
+    {"ch": "这", "en": "This", "pi": "zhè"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "自行车", "en": "bicycle", "pi": "zìxíngchē"}
+  ]
+}

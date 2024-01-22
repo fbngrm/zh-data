@@ -1,0 +1,42 @@
+{
+  "chinese": "他帮我把手表修理好了。",
+  "english": "He helped me fix the watch.",
+  "pinyin": "tā bāng wǒ bǎ shǒu biǎo xiū lǐ hǎo le。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "帮",
+      "en": "help",
+      "pi": "bāng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "把",
+      "en": "fix",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "手表",
+      "en": "watch",
+      "pi": "shǒu biǎo"
+    },
+    {
+      "ch": "修理",
+      "en": "repair",
+      "pi": "xiū lǐ"
+    },
+    {
+      "ch": "好了",
+      "en": "finished",
+      "pi": "hǎo le"
+    }
+  ]
+}

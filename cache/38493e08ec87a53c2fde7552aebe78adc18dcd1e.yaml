@@ -1,0 +1,42 @@
+{
+  "chinese": "我是在食堂吃的饭。",
+  "english": "I ate lunch in the cafeteria.",
+  "pinyin": "wǒ shì zài shí táng chī de fàn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "是",
+      "en": "am",
+      "pi": "shì"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "食堂",
+      "en": "cafeteria",
+      "pi": "shí táng"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "的",
+      "en": "the",
+      "pi": "de"
+    },
+    {
+      "ch": "饭",
+      "en": "rice",
+      "pi": "fàn"
+    }
+  ]
+}

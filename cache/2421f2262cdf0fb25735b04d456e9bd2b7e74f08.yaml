@@ -1,0 +1,16 @@
+{
+  "chinese": "我在我的咖啡里放了一些奶油。",
+  "english": "I put some cream in my coffee.",
+  "pinyin": "wǒ zài wǒ de kāfēi lǐ fàng le yīxiē nǎiyóu.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "咖啡", "en": "coffee", "pi": "kāfēi"},
+    {"ch": "里", "en": "in", "pi": "lǐ"},
+    {"ch": "放", "en": "put", "pi": "fàng"},
+    {"ch": "了", "en": "some", "pi": "le"},
+    {"ch": "一些", "en": "cream", "pi": "yīxiē"},
+    {"ch": "奶油", "en": "in", "pi": "nǎiyóu"}
+  ]
+}

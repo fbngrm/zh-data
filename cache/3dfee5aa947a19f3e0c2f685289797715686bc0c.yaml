@@ -1,0 +1,42 @@
+{
+  "chinese": "上个月我买了一台新电脑。",
+  "english": "Last month, I bought a new computer.",
+  "pinyin": "Shàng gè yuè wǒ mǎi le yī tái xīn diàn nǎo.",
+  "words": [
+    {
+      "ch": "上个月",
+      "en": "Last month",
+      "pi": "Shàng gè yuè"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "买",
+      "en": "bought",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "一台",
+      "en": "a",
+      "pi": "yī tái"
+    },
+    {
+      "ch": "新",
+      "en": "new",
+      "pi": "xīn"
+    },
+    {
+      "ch": "电脑",
+      "en": "computer",
+      "pi": "diàn nǎo"
+    }
+  ]
+}

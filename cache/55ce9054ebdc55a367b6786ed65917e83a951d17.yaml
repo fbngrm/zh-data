@@ -1,0 +1,32 @@
+{
+  "chinese": "这件夹克有点太大了。",
+  "english": "This jacket is a bit too big.",
+  "pinyin": "zhè jiàn jiákè yǒu diǎn tài dà le.",
+  "words": [
+    {
+      "ch": "这件",
+      "en": "this",
+      "pi": "zhè jiàn"
+    },
+    {
+      "ch": "夹克",
+      "en": "jacket",
+      "pi": "jiákè"
+    },
+    {
+      "ch": "有点",
+      "en": "a bit",
+      "pi": "yǒu diǎn"
+    },
+    {
+      "ch": "太大",
+      "en": "too big",
+      "pi": "tài dà"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

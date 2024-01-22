@@ -1,0 +1,42 @@
+{
+  "chinese": "我买了一条红色的领带。",
+  "english": "I bought a red tie.",
+  "pinyin": "wǒ mǎi le yī tiáo hóngsè de lǐngdài.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "买",
+      "en": "bought",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "了",
+      "en": "a",
+      "pi": "le"
+    },
+    {
+      "ch": "一条",
+      "en": "red",
+      "pi": "yī tiáo"
+    },
+    {
+      "ch": "红色",
+      "en": "tie",
+      "pi": "hóngsè"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "领带",
+      "en": "tie",
+      "pi": "lǐngdài"
+    }
+  ]
+}

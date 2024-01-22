@@ -1,0 +1,21 @@
+{
+  "chinese": "照这样的情况，很抱歉，我不能接受你的盛情邀请。",
+  "english": "In this situation, I'm sorry, but I cannot accept your kind invitation.",
+  "pinyin": "Zhào zhèyàng de qíngkuàng, hěn bàoqiàn, wǒ bùnéng jiēshòu nǐ de shèngqíng yāoqǐng。",
+  "words": [
+    {"ch": "照", "en": "In", "pi": "zhào"},
+    {"ch": "这样的", "en": "this", "pi": "zhèyàng de"},
+    {"ch": "情况", "en": "situation", "pi": "qíngkuàng"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "很", "en": "I'm", "pi": "hěn"},
+    {"ch": "抱歉", "en": "sorry", "pi": "bàoqiàn"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "我", "en": "but", "pi": "wǒ"},
+    {"ch": "不能", "en": "cannot", "pi": "bùnéng"},
+    {"ch": "接受", "en": "accept", "pi": "jiēshòu"},
+    {"ch": "你的", "en": "your", "pi": "nǐ de"},
+    {"ch": "盛情", "en": "kind", "pi": "shèngqíng"},
+    {"ch": "邀请", "en": "invitation", "pi": "yāoqǐng"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "咖啡和茶使我感到兴奋。",
+  "english": "Coffee and tea make me feel excited.",
+  "pinyin": "kāfēi hé chá shǐ wǒ gǎndào xīngfèn.",
+  "words": [
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kāfēi"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "茶",
+      "en": "tea",
+      "pi": "chá"
+    },
+    {
+      "ch": "使",
+      "en": "make",
+      "pi": "shǐ"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "感到",
+      "en": "feel",
+      "pi": "gǎndào"
+    },
+    {
+      "ch": "兴奋",
+      "en": "excited",
+      "pi": "xīngfèn"
+    }
+  ]
+}

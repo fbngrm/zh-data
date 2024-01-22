@@ -1,0 +1,32 @@
+{
+  "chinese": "这座村里没有工厂。",
+  "english": "There is no factory in this village.",
+  "pinyin": "Zhè zuò cūn lǐ méiyǒu gōngchǎng.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "座",
+      "en": "measure word for buildings",
+      "pi": "zuò"
+    },
+    {
+      "ch": "村里",
+      "en": "in the village",
+      "pi": "cūn lǐ"
+    },
+    {
+      "ch": "没有",
+      "en": "not have",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "工厂",
+      "en": "factory",
+      "pi": "gōngchǎng"
+    }
+  ]
+}

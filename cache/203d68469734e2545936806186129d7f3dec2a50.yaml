@@ -1,0 +1,52 @@
+{
+  "chinese": "请你把你的名字和电话号码告诉我。",
+  "english": "Please tell me your name and phone number.",
+  "pinyin": "qǐng nǐ bǎ nǐ de míngzì hé diànhuà hàomǎ gàosu wǒ。",
+  "words": [
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "把",
+      "en": "tell",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míngzì"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "电话号码",
+      "en": "phone number",
+      "pi": "diànhuà hàomǎ"
+    },
+    {
+      "ch": "告诉",
+      "en": "tell",
+      "pi": "gàosu"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    }
+  ]
+}

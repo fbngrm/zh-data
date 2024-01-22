@@ -1,0 +1,32 @@
+{
+  "chinese": "我每天早上吃早餐。",
+  "english": "I have breakfast every morning.",
+  "pinyin": "wǒ měi tiān zǎo shàng chī zǎo cān。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎo shàng"
+    },
+    {
+      "ch": "吃",
+      "en": "have",
+      "pi": "chī"
+    },
+    {
+      "ch": "早餐",
+      "en": "breakfast",
+      "pi": "zǎo cān"
+    }
+  ]
+}

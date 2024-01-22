@@ -1,0 +1,32 @@
+{
+  "chinese": "对不起，因为睡过头了，迟到３０分钟。",
+  "english": "Sorry, I overslept and arrived 30 minutes late.",
+  "pinyin": "duì bù qǐ, yīn wèi shuì guò tóu le, chí dào 30 fēn zhōng.",
+  "words": [
+    {
+      "ch": "对不起",
+      "en": "Sorry",
+      "pi": "duì bù qǐ"
+    },
+    {
+      "ch": "因为",
+      "en": "because",
+      "pi": "yīn wèi"
+    },
+    {
+      "ch": "睡过头了",
+      "en": "overslept",
+      "pi": "shuì guò tóu le"
+    },
+    {
+      "ch": "迟到",
+      "en": "late",
+      "pi": "chí dào"
+    },
+    {
+      "ch": "３０分钟",
+      "en": "30 minutes",
+      "pi": "30 fēn zhōng"
+    }
+  ]
+}

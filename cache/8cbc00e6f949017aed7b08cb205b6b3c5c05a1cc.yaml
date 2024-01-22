@@ -1,0 +1,32 @@
+{
+  "chinese": "我不能帮你了。",
+  "english": "I can't help you anymore.",
+  "pinyin": "wǒ bù néng bāng nǐ le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不能",
+      "en": "can't",
+      "pi": "bù néng"
+    },
+    {
+      "ch": "帮",
+      "en": "help",
+      "pi": "bāng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "了",
+      "en": "anymore",
+      "pi": "le"
+    }
+  ]
+}

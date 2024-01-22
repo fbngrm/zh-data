@@ -1,0 +1,42 @@
+{
+  "chinese": "我在火车开后才到达车站。",
+  "english": "I only arrived at the train station after the train departed.",
+  "pinyin": "wǒ zài huǒchē kāi hòu cái dàodá chēzhàn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒchē"
+    },
+    {
+      "ch": "开后",
+      "en": "departed",
+      "pi": "kāi hòu"
+    },
+    {
+      "ch": "才",
+      "en": "only",
+      "pi": "cái"
+    },
+    {
+      "ch": "到达",
+      "en": "arrived",
+      "pi": "dàodá"
+    },
+    {
+      "ch": "车站",
+      "en": "train station",
+      "pi": "chēzhàn"
+    }
+  ]
+}

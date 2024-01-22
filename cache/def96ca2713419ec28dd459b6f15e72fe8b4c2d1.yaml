@@ -1,0 +1,32 @@
+{
+  "chinese": "你比我重十倍。",
+  "english": "You weigh ten times as much as me.",
+  "pinyin": "nǐ bǐ wǒ zhòng shí bèi.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "重",
+      "en": "weigh",
+      "pi": "zhòng"
+    },
+    {
+      "ch": "十倍",
+      "en": "ten times",
+      "pi": "shí bèi"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我在阅读他的报告。",
+  "english": "I am reading his report.",
+  "pinyin": "wǒ zài yuè dú tā de bào gào。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "am",
+      "pi": "zài"
+    },
+    {
+      "ch": "阅读",
+      "en": "reading",
+      "pi": "yuè dú"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "报告",
+      "en": "report",
+      "pi": "bào gào"
+    }
+  ]
+}

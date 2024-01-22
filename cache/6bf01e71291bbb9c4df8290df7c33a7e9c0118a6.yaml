@@ -1,0 +1,15 @@
+{
+  "chinese": "我们突然听见外面传来了一下枪声。",
+  "english": "We suddenly heard a gun shot outside.",
+  "pinyin": "wǒmen tūrán tīngjiàn wàimiàn chuán lái le yīxià qiāngshēng.",
+  "words": [
+    {"ch": "我们", "en": "We", "pi": "wǒmen"},
+    {"ch": "突然", "en": "suddenly", "pi": "tūrán"},
+    {"ch": "听见", "en": "heard", "pi": "tīngjiàn"},
+    {"ch": "外面", "en": "outside", "pi": "wàimiàn"},
+    {"ch": "传来", "en": "came", "pi": "chuán lái"},
+    {"ch": "了", "en": "a", "pi": "le"},
+    {"ch": "一下", "en": "a", "pi": "yīxià"},
+    {"ch": "枪声", "en": "gun shot", "pi": "qiāngshēng"}
+  ]
+}

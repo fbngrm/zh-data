@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆拥抱了玛丽。",
+  "english": "Tom hugged Mary.",
+  "pinyin": "Tāng mǔ yōngbào le Mǎlì.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "拥抱",
+      "en": "hug",
+      "pi": "yōngbào"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎlì"
+    }
+  ]
+}

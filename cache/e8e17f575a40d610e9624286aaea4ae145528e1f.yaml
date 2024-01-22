@@ -1,0 +1,27 @@
+{
+  "chinese": "我现在正在开会。",
+  "english": "I'm in a meeting right now.",
+  "pinyin": "wǒ xiàn zài zhèng zài kāi huì.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "正在",
+      "en": "in the process of",
+      "pi": "zhèng zài"
+    },
+    {
+      "ch": "开会",
+      "en": "having a meeting",
+      "pi": "kāi huì"
+    }
+  ]
+}

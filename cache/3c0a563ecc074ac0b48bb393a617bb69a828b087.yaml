@@ -1,0 +1,57 @@
+{
+  "chinese": "盘子上盛着一块鸡肉、一块马铃薯和一些青豆。",
+  "english": "There is a piece of chicken, a piece of potato, and some peas on the plate.",
+  "pinyin": "Pánzi shàng chéng zhe yī kuài jīròu, yī kuài mǎlíngshǔ hé yīxiē qīngdòu.",
+  "words": [
+    {
+      "ch": "盘子",
+      "en": "plate",
+      "pi": "pánzi"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "盛着",
+      "en": "filled with",
+      "pi": "chéngzhe"
+    },
+    {
+      "ch": "一块",
+      "en": "a piece of",
+      "pi": "yī kuài"
+    },
+    {
+      "ch": "鸡肉",
+      "en": "chicken",
+      "pi": "jīròu"
+    },
+    {
+      "ch": "一块",
+      "en": "a piece of",
+      "pi": "yī kuài"
+    },
+    {
+      "ch": "马铃薯",
+      "en": "potato",
+      "pi": "mǎlíngshǔ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "一些",
+      "en": "some",
+      "pi": "yīxiē"
+    },
+    {
+      "ch": "青豆",
+      "en": "peas",
+      "pi": "qīngdòu"
+    }
+  ]
+}

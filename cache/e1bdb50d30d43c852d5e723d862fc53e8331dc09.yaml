@@ -1,0 +1,32 @@
+{
+  "chinese": "他的衣服过时了。",
+  "english": "His clothes are outdated.",
+  "pinyin": "tā de yīfú guòshí le.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "衣服",
+      "en": "clothes",
+      "pi": "yīfú"
+    },
+    {
+      "ch": "过时",
+      "en": "outdated",
+      "pi": "guòshí"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

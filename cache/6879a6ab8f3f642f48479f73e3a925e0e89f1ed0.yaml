@@ -1,0 +1,32 @@
+{
+  "chinese": "我知道迈克喜欢篮球。",
+  "english": "I know Mike likes basketball.",
+  "pinyin": "wǒ zhī dào mài kè xǐ huān lán qiú。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "迈克",
+      "en": "Mike",
+      "pi": "mài kè"
+    },
+    {
+      "ch": "喜欢",
+      "en": "likes",
+      "pi": "xǐ huān"
+    },
+    {
+      "ch": "篮球",
+      "en": "basketball",
+      "pi": "lán qiú"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我看到你是醒的。",
+  "english": "I see that you are awake.",
+  "pinyin": "wǒ kàn dào nǐ shì xǐng de.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "看到",
+      "en": "see",
+      "pi": "kàn dào"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "醒的",
+      "en": "awake",
+      "pi": "xǐng de"
+    }
+  ]
+}

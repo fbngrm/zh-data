@@ -1,0 +1,32 @@
+{
+  "chinese": "雨下了一周。",
+  "english": "It rained for a week.",
+  "pinyin": "yǔ xià le yī zhōu.",
+  "words": [
+    {
+      "ch": "雨",
+      "en": "rain",
+      "pi": "yǔ"
+    },
+    {
+      "ch": "下",
+      "en": "down",
+      "pi": "xià"
+    },
+    {
+      "ch": "了",
+      "en": "completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "一",
+      "en": "one",
+      "pi": "yī"
+    },
+    {
+      "ch": "周",
+      "en": "week",
+      "pi": "zhōu"
+    }
+  ]
+}

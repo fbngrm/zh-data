@@ -1,0 +1,13 @@
+{
+  "chinese": "她跟她的同学结婚了。",
+  "english": "She married her classmate.",
+  "pinyin": "Tā gēn tā de tóngxué jiéhūnle.",
+  "words": [
+    { "ch": "她", "en": "She", "pi": "Tā" },
+    { "ch": "跟", "en": "with", "pi": "gēn" },
+    { "ch": "她的", "en": "her", "pi": "tā de" },
+    { "ch": "同学", "en": "classmate", "pi": "tóngxué" },
+    { "ch": "结婚", "en": "get married", "pi": "jiéhūn" },
+    { "ch": "了", "en": "already", "pi": "le" }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "chinese": "我不知道以前怎样，但现在我们有传真和电子邮件。",
+  "english": "I don't know how it used to be before, but now we have fax and email.",
+  "pinyin": "Wǒ bù zhīdào yǐqián zěnyàng, dàn xiànzài wǒmen yǒu chuánzhēn hé diànzǐ yóujiàn.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "不", "en": "don't", "pi": "bù" },
+    { "ch": "知道", "en": "know", "pi": "zhīdào" },
+    { "ch": "以前", "en": "before", "pi": "yǐqián" },
+    { "ch": "怎样", "en": "how", "pi": "zěnyàng" },
+    { "ch": "但", "en": "but", "pi": "dàn" },
+    { "ch": "现在", "en": "now", "pi": "xiànzài" },
+    { "ch": "我们", "en": "we", "pi": "wǒmen" },
+    { "ch": "有", "en": "have", "pi": "yǒu" },
+    { "ch": "传真", "en": "fax", "pi": "chuánzhēn" },
+    { "ch": "和", "en": "and", "pi": "hé" },
+    { "ch": "电子邮件", "en": "email", "pi": "diànzǐ yóujiàn" }
+  ]
+}

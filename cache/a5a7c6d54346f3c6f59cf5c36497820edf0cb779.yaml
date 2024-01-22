@@ -1,0 +1,32 @@
+{
+  "chinese": "熊猫是中国的国宝。",
+  "english": "Pandas are China's national treasure.",
+  "pinyin": "Xióngmāo shì zhōngguó de guóbǎo.",
+  "words": [
+    {
+      "ch": "熊猫",
+      "en": "panda",
+      "pi": "xióngmāo"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "中国",
+      "en": "China",
+      "pi": "zhōngguó"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "国宝",
+      "en": "national treasure",
+      "pi": "guóbǎo"
+    }
+  ]
+}

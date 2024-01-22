@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆住在波士顿某地。",
+  "english": "Tom lives in a certain place in Boston.",
+  "pinyin": "tāng mǔ zhù zài bō shì dùn mǒu dì.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "住",
+      "en": "lives",
+      "pi": "zhù"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "波士顿",
+      "en": "Boston",
+      "pi": "bō shì dùn"
+    },
+    {
+      "ch": "某地",
+      "en": "a certain place",
+      "pi": "mǒu dì"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "chinese": "Ｔｏｍ是二零一零年五月五日出生的。",
+  "english": "Tom was born on May 5th, 2010.",
+  "pinyin": "Tómsì èr líng yī líng nián wǔ yuè wǔ rì chūshēng de.",
+  "words": [
+    {"ch": "Ｔｏｍ", "en": "Tom", "pi": "Tómsì"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "二", "en": "two", "pi": "èr"},
+    {"ch": "零", "en": "zero", "pi": "líng"},
+    {"ch": "一", "en": "one", "pi": "yī"},
+    {"ch": "零", "en": "zero", "pi": "líng"},
+    {"ch": "年", "en": "year", "pi": "nián"},
+    {"ch": "五", "en": "five", "pi": "wǔ"},
+    {"ch": "月", "en": "month", "pi": "yuè"},
+    {"ch": "五", "en": "five", "pi": "wǔ"},
+    {"ch": "日", "en": "day", "pi": "rì"},
+    {"ch": "出生", "en": "born", "pi": "chūshēng"},
+    {"ch": "的", "en": "on", "pi": "de"}
+  ]
+}

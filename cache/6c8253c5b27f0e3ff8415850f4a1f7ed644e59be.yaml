@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆住在波士顿吗？",
+  "english": "Does Tom live in Boston?",
+  "pinyin": "Tāng mǔ zhù zài bō shì dùn ma?",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "住在",
+      "en": "live in",
+      "pi": "zhù zài"
+    },
+    {
+      "ch": "波士顿",
+      "en": "Boston",
+      "pi": "bō shì dùn"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

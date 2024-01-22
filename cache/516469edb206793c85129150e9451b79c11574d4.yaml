@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆会在下周一从波士顿回来。",
+  "english": "Tom will be back from Boston next Monday.",
+  "pinyin": "Tāng mǔ huì zài xià zhōu yī cóng bō shì dùn huí lái.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "在",
+      "en": "be",
+      "pi": "zài"
+    },
+    {
+      "ch": "下周一",
+      "en": "next Monday",
+      "pi": "xià zhōu yī"
+    },
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "波士顿",
+      "en": "Boston",
+      "pi": "bō shì dùn"
+    },
+    {
+      "ch": "回来",
+      "en": "back",
+      "pi": "huí lái"
+    }
+  ]
+}

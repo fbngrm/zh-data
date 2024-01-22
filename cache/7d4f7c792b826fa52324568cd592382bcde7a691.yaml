@@ -1,0 +1,61 @@
+{
+  "sentences": [
+    {
+      "chinese": "我不会说英文，也不会说西班牙文。",
+      "english": "I can't speak English, and I can't speak Spanish.",
+      "pinyin": "wǒ bù huì shuō yīng wén, yě bù huì shuō xī bān yá wén。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "不会",
+          "en": "can't",
+          "pi": "bù huì"
+        },
+        {
+          "ch": "说",
+          "en": "speak",
+          "pi": "shuō"
+        },
+        {
+          "ch": "英文",
+          "en": "English",
+          "pi": "yīng wén"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": "，"
+        },
+        {
+          "ch": "也",
+          "en": "and",
+          "pi": "yě"
+        },
+        {
+          "ch": "不会",
+          "en": "can't",
+          "pi": "bù huì"
+        },
+        {
+          "ch": "说",
+          "en": "speak",
+          "pi": "shuō"
+        },
+        {
+          "ch": "西班牙文",
+          "en": "Spanish",
+          "pi": "xī bān yá wén"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    }
+  ]
+}

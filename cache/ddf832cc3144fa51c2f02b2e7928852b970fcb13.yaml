@@ -1,0 +1,15 @@
+{
+  "chinese": "我有个朋友在美国太空总署工作。",
+  "english": "I have a friend who works at NASA in the United States.",
+  "pinyin": "wǒ yǒu gè péngyǒu zài měiguó tàikōng zǒngshǔ gōngzuò.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "个", "en": "a", "pi": "gè"},
+    {"ch": "朋友", "en": "friend", "pi": "péngyǒu"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "美国", "en": "United States", "pi": "měiguó"},
+    {"ch": "太空总署", "en": "NASA", "pi": "tàikōng zǒngshǔ"},
+    {"ch": "工作", "en": "work", "pi": "gōngzuò"}
+  ]
+}

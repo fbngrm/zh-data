@@ -1,0 +1,42 @@
+{
+  "chinese": "你想吃法国菜，日本菜还是中国菜？",
+  "english": "Do you want to eat French cuisine, Japanese cuisine, or Chinese cuisine?",
+  "pinyin": "nǐ xiǎng chī fǎguó cài, rìběn cài háishì zhōngguó cài?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "法国菜",
+      "en": "French cuisine",
+      "pi": "fǎguó cài"
+    },
+    {
+      "ch": "日本菜",
+      "en": "Japanese cuisine",
+      "pi": "rìběn cài"
+    },
+    {
+      "ch": "还是",
+      "en": "or",
+      "pi": "háishì"
+    },
+    {
+      "ch": "中国菜",
+      "en": "Chinese cuisine",
+      "pi": "zhōngguó cài"
+    }
+  ]
+}

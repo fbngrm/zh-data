@@ -1,0 +1,42 @@
+{
+  "chinese": "他被他的朋友们取笑了。",
+  "english": "He was mocked by his friends.",
+  "pinyin": "tā bèi tā de péngyǒu men qǔxiào le。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "被",
+      "en": "was",
+      "pi": "bèi"
+    },
+    {
+      "ch": "他",
+      "en": "by",
+      "pi": "tā"
+    },
+    {
+      "ch": "的",
+      "en": "his",
+      "pi":  "de"
+    },
+    {
+      "ch": "朋友们",
+      "en": "friends",
+      "pi": "péngyǒu men"
+    },
+    {
+      "ch": "取笑",
+      "en": "mocked",
+      "pi": "qǔxiào"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

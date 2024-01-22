@@ -1,0 +1,32 @@
+{
+  "chinese": "这种威士忌太烈了。",
+  "english": "This whisky is too strong.",
+  "pinyin": "zhè zhǒng wēi shì jì tài liè le.",
+  "words": [
+    {
+      "ch": "这种",
+      "en": "this",
+      "pi": "zhè zhǒng"
+    },
+    {
+      "ch": "威士忌",
+      "en": "whisky",
+      "pi": "wēi shì jì"
+    },
+    {
+      "ch": "太",
+      "en": "too",
+      "pi": "tài"
+    },
+    {
+      "ch": "烈",
+      "en": "strong",
+      "pi": "liè"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我把一打鸡蛋买好了。",
+  "english": "I bought a dozen eggs.",
+  "pinyin": "wǒ bǎ yī dǎ jī dàn mǎi hǎo le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "把",
+      "en": "bought",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "一打",
+      "en": "a dozen",
+      "pi": "yī dǎ"
+    },
+    {
+      "ch": "鸡蛋",
+      "en": "eggs",
+      "pi": "jī dàn"
+    },
+    {
+      "ch": "买好了",
+      "en": "bought",
+      "pi": "mǎi hǎo le"
+    }
+  ]
+}

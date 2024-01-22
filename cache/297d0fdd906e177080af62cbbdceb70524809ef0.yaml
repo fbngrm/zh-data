@@ -1,0 +1,42 @@
+{
+  "chinese": "我的啤酒被我的同屋喝完了。",
+  "english": "My beer was drunk by my roommate.",
+  "pinyin": "wǒ de píjiǔ bèi wǒ de tóngwū hēwán le。",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "啤酒",
+      "en": "beer",
+      "pi": "píjiǔ"
+    },
+    {
+      "ch": "被",
+      "en": "by",
+      "pi": "bèi"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "同屋",
+      "en": "roommate",
+      "pi": "tóngwū"
+    },
+    {
+      "ch": "喝完",
+      "en": "drunk",
+      "pi": "hēwán"
+    },
+    {
+      "ch": "了",
+      "en": "finished",
+      "pi": "le"
+    }
+  ]
+}

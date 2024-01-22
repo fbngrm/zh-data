@@ -1,0 +1,16 @@
+{
+  "chinese": "她的头发长回原来的长度了。",
+  "english": "Her hair has grown back to its original length.",
+  "pinyin": "Tā de tóufa zhǎng huí yuánlái de chángdùle。",
+  "words": [
+    {"ch": "她", "en": "she", "pi": "tā"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "头发", "en": "hair", "pi": "tóufa"},
+    {"ch": "长回", "en": "grown back", "pi": "zhǎng huí"},
+    {"ch": "原来", "en": "original", "pi": "yuánlái"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "长度", "en": "length", "pi": "chángdù"},
+    {"ch": "了", "en": "", "pi": "le"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

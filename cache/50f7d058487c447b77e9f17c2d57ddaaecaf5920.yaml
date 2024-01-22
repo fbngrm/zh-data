@@ -1,0 +1,32 @@
+{
+  "chinese": "一年有十二个月。",
+  "english": "There are twelve months in a year.",
+  "pinyin": "yī nián yǒu shí èr gè yuè。",
+  "words": [
+    {
+      "ch": "一年",
+      "en": "year",
+      "pi": "yī nián"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "十二",
+      "en": "twelve",
+      "pi": "shí èr"
+    },
+    {
+      "ch": "个",
+      "en": "measure word",
+      "pi": "gè"
+    },
+    {
+      "ch": "月",
+      "en": "month",
+      "pi": "yuè"
+    }
+  ]
+}

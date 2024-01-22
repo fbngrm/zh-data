@@ -1,0 +1,13 @@
+{
+  "chinese": "汤姆是唯一受罚的人。",
+  "english": "Tom is the only person who is punished.",
+  "pinyin": "Tāng mǔ shì wéi yī shòu fá de rén.",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "唯一", "en": "only", "pi": "wéi yī"},
+    {"ch": "受罚", "en": "punished", "pi": "shòu fá"},
+    {"ch": "的", "en": "who", "pi": "de"},
+    {"ch": "人", "en": "person", "pi": "rén"}
+  ]
+}

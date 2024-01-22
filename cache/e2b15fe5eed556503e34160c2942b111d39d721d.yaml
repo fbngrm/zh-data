@@ -1,0 +1,27 @@
+{
+  "chinese": "你喜欢唱歌吗？",
+  "english": "Do you like to sing?",
+  "pinyin": "nǐ xǐhuān chànggē ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "唱歌",
+      "en": "to sing",
+      "pi": "chànggē"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

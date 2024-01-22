@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆知道玛丽想做甚么。",
+  "english": "Tom knows what Mary wants to do.",
+  "pinyin": "Tāng mǔ zhīdào Mǎlì xiǎng zuò shénme.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎlì"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "做",
+      "en": "do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "甚么",
+      "en": "what",
+      "pi": "shénme"
+    }
+  ]
+}

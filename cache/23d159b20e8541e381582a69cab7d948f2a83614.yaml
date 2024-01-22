@@ -1,0 +1,37 @@
+{
+  "chinese": "摸这条蛇安全吗?",
+  "english": "Is it safe to touch this snake?",
+  "pinyin": "mō zhè tiáo shé ān quán ma?",
+  "words": [
+    {
+      "ch": "摸",
+      "en": "touch",
+      "pi": "mō"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "条",
+      "en": "measure word for snakes",
+      "pi": "tiáo"
+    },
+    {
+      "ch": "蛇",
+      "en": "snake",
+      "pi": "shé"
+    },
+    {
+      "ch": "安全",
+      "en": "safe",
+      "pi": "ān quán"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

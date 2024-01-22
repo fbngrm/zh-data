@@ -1,0 +1,14 @@
+{
+  "chinese": "你明年会住在筱山吗？",
+  "english": "Will you live in Xiaoshan next year?",
+  "pinyin": "nǐ míng nián huì zhù zài xiāo shān ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "明年", "en": "next year", "pi": "míng nián"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "住", "en": "live", "pi": "zhù"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "筱山", "en": "Xiaoshan", "pi": "xiāo shān"},
+    {"ch": "吗", "en": "?", "pi": "ma"}
+  ]
+}

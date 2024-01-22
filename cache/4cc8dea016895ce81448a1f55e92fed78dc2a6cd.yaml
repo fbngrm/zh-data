@@ -1,0 +1,32 @@
+{
+  "chinese": "这是常有的事。",
+  "english": "This is a common occurrence.",
+  "pinyin": "zhè shì cháng yǒu de shì。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "常有",
+      "en": "common",
+      "pi": "cháng yǒu"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "事",
+      "en": "occurrence",
+      "pi": "shì"
+    }
+  ]
+}

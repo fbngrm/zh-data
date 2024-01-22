@@ -1,0 +1,16 @@
+{
+  "chinese": "汤姆把玛丽放到他的摩托车背上送到医院。",
+  "english": "Tom put Mary on the back of his motorcycle and took her to the hospital.",
+  "pinyin": "Tāng mǔ bǎ Mǎlì fàng dào tā de mó tuō chē bèi shàng sòng dào yī yuàn.",
+  "words": [
+    { "ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ" },
+    { "ch": "把", "en": "put", "pi": "bǎ" },
+    { "ch": "玛丽", "en": "Mary", "pi": "Mǎlì" },
+    { "ch": "放到", "en": "on", "pi": "fàng dào" },
+    { "ch": "他的", "en": "his", "pi": "tā de" },
+    { "ch": "摩托车", "en": "motorcycle", "pi": "mó tuō chē" },
+    { "ch": "背上", "en": "back", "pi": "bèi shàng" },
+    { "ch": "送到", "en": "took", "pi": "sòng dào" },
+    { "ch": "医院", "en": "hospital", "pi": "yī yuàn" }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "我现在正在弹钢琴。",
+  "english": "I am playing the piano now.",
+  "pinyin": "wǒ xiàn zài zhèng zài tán gāng qín.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "正在",
+      "en": "am",
+      "pi": "zhèng zài"
+    },
+    {
+      "ch": "弹钢琴",
+      "en": "playing the piano",
+      "pi": "tán gāng qín"
+    }
+  ]
+}

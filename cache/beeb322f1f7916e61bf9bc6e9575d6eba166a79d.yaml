@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆早上去过那里。",
+  "english": "Tom has been there in the morning.",
+  "pinyin": "Tāng mǔ zǎoshang qùguò nàlǐ.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎo shang"
+    },
+    {
+      "ch": "去过",
+      "en": "has been",
+      "pi": "qù guò"
+    },
+    {
+      "ch": "那里",
+      "en": "there",
+      "pi": "nà lǐ"
+    }
+  ]
+}

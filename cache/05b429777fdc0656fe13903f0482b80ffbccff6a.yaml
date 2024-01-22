@@ -1,0 +1,32 @@
+{
+  "chinese": "我知道你不舒服。",
+  "english": "I know you're not feeling well.",
+  "pinyin": "wǒ zhīdào nǐ bù shūfú.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "舒服",
+      "en": "feeling well",
+      "pi": "shūfú"
+    }
+  ]
+}

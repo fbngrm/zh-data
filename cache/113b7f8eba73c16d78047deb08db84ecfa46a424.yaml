@@ -1,0 +1,37 @@
+{
+  "chinese": "有些蘋果從樹上掉了下來。",
+  "english": "Some apples fell from the tree.",
+  "pinyin": "yǒu xiē píng guǒ cóng shù shàng diào le xià lái.",
+  "words": [
+    {
+      "ch": "有些",
+      "en": "Some",
+      "pi": "yǒu xiē"
+    },
+    {
+      "ch": "蘋果",
+      "en": "apples",
+      "pi": "píng guǒ"
+    },
+    {
+      "ch": "從",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "樹上",
+      "en": "the tree",
+      "pi": "shù shàng"
+    },
+    {
+      "ch": "掉了",
+      "en": "fell",
+      "pi": "diào le"
+    },
+    {
+      "ch": "下來",
+      "en": "down",
+      "pi": "xià lái"
+    }
+  ]
+}

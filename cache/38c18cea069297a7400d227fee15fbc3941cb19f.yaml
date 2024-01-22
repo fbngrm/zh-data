@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆是玛丽的前夫。",
+  "english": "Tom is Mary's ex-husband.",
+  "pinyin": "Tāng mǔ shì mǎ lì de qián fū.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "前夫",
+      "en": "ex-husband",
+      "pi": "qián fū"
+    }
+  ]
+}

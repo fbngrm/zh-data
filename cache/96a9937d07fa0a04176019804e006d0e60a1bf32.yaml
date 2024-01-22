@@ -1,0 +1,32 @@
+{
+  "chinese": "蔬菜的价格每天在变。",
+  "english": "The price of vegetables changes every day.",
+  "pinyin": "Shūcài de jiàgé měi tiān zài biàn.",
+  "words": [
+    {
+      "ch": "蔬菜",
+      "en": "vegetables",
+      "pi": "shūcài"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "价格",
+      "en": "price",
+      "pi": "jiàgé"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "在变",
+      "en": "changes",
+      "pi": "zài biàn"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "sentences": [
+    {
+      "chinese": "女人真是太危险了。",
+      "english": "Women are really dangerous.",
+      "pinyin": "nǚ rén zhēn shì tài wēi xiǎn le。",
+      "words": [
+        {
+          "ch": "女人",
+          "en": "women",
+          "pi": "nǚ rén"
+        },
+        {
+          "ch": "真是",
+          "en": "really",
+          "pi": "zhēn shì"
+        },
+        {
+          "ch": "太",
+          "en": "too",
+          "pi": "tài"
+        },
+        {
+          "ch": "危险",
+          "en": "dangerous",
+          "pi": "wēi xiǎn"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        }
+      ]
+    },
+    {
+      "chinese": "越想这一点越能理解蒙脸的道理。",
+      "english": "The more I think about this, the more I understand the reason for hiding my face.",
+      "pinyin": "yuè xiǎng zhè yī diǎn yuè néng lǐ jiě méng liǎn de dào lǐ。",
+      "words": [
+        {
+          "ch": "越",
+          "en": "the more",
+          "pi": "yuè"
+        },
+        {
+          "ch": "想",
+          "en": "think",
+          "pi": "xiǎng"
+        },
+        {
+          "ch": "这",
+          "en": "this",
+          "pi": "zhè"
+        },
+        {
+          "ch": "一",
+          "en": "one",
+          "pi": "yī"
+        },
+        {
+          "ch": "点",
+          "en": "point",
+          "pi": "diǎn"
+        },
+        {
+          "ch": "越",
+          "en": "the more",
+          "pi": "yuè"
+        },
+        {
+          "ch": "能",
+          "en": "able to",
+          "pi": "néng"
+        },
+        {
+          "ch": "理解",
+          "en": "understand",
+          "pi": "lǐ jiě"
+        },
+        {
+          "ch": "蒙脸",
+          "en": "hide one's face",
+          "pi": "méng liǎn"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": "de"
+        },
+        {
+          "ch": "道理",
+          "en": "reason",
+          "pi": "dào lǐ"
+        },
+        {
+          "ch": "。",
+          "en": "",
+          "pi": "。"
+        }
+      ]
+    }
+  ]
+}

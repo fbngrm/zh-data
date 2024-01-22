@@ -1,0 +1,52 @@
+{
+  "chinese": "刚才天气还很好，怎么会突然下雨了呢？",
+  "english": "The weather was good just now, how did it suddenly rain?",
+  "pinyin": "gāng cái tiān qì hái hěn hǎo, zěn me huì tū rán xià yǔ le ne?",
+  "words": [
+    {
+      "ch": "刚才",
+      "en": "just now",
+      "pi": "gāng cái"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiān qì"
+    },
+    {
+      "ch": "还",
+      "en": "still",
+      "pi": "hái"
+    },
+    {
+      "ch": "很好",
+      "en": "good",
+      "pi": "hěn hǎo"
+    },
+    {
+      "ch": "怎么会",
+      "en": "how come",
+      "pi": "zěn me huì"
+    },
+    {
+      "ch": "突然",
+      "en": "suddenly",
+      "pi": "tū rán"
+    },
+    {
+      "ch": "下雨",
+      "en": "rain",
+      "pi": "xià yǔ"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "呢",
+      "en": "particle indicating questioning",
+      "pi": "ne"
+    }
+  ]
+}

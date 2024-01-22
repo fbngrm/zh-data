@@ -1,0 +1,37 @@
+{
+    "chinese": "我也喝两杯茶。",
+    "english": "I will also have two cups of tea.",
+    "pinyin": "wǒ yě hē liǎng bēi chá.",
+    "words": [
+        {
+            "ch": "我",
+            "en": "I",
+            "pi": "wǒ"
+        },
+        {
+            "ch": "也",
+            "en": "also",
+            "pi": "yě"
+        },
+        {
+            "ch": "喝",
+            "en": "have/drink",
+            "pi": "hē"
+        },
+        {
+            "ch": "两",
+            "en": "two",
+            "pi": "liǎng"
+        },
+        {
+            "ch": "杯",
+            "en": "cups",
+            "pi": "bēi"
+        },
+        {
+            "ch": "茶",
+            "en": "tea",
+            "pi": "chá"
+        }
+    ]
+}

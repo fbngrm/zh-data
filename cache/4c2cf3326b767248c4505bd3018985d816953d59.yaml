@@ -1,0 +1,27 @@
+{
+  "chinese": "我快走了。",
+  "english": "I'm leaving soon.",
+  "pinyin": "wǒ kuài zǒu le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "快",
+      "en": "soon",
+      "pi": "kuài"
+    },
+    {
+      "ch": "走",
+      "en": "leave",
+      "pi": "zǒu"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

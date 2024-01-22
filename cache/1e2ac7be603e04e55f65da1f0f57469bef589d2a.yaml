@@ -1,0 +1,32 @@
+{
+  "chinese": "一个朋友明天要过来。",
+  "english": "A friend is coming tomorrow.",
+  "pinyin": "Yīgè péngyǒu míngtiān yào guòlái.",
+  "words": [
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yīgè"
+    },
+    {
+      "ch": "朋友",
+      "en": "friend",
+      "pi": "péngyǒu"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "要",
+      "en": "is",
+      "pi": "yào"
+    },
+    {
+      "ch": "过来",
+      "en": "coming",
+      "pi": "guòlái"
+    }
+  ]
+}

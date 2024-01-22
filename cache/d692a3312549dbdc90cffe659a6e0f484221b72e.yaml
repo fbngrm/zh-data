@@ -1,0 +1,37 @@
+{
+  "chinese": "上个月我们这儿没有下很多雨。",
+  "english": "Last month we didn't have much rain here.",
+  "pinyin": "shàng gè yuè wǒmen zhè'er méiyǒu xià hěnduō yǔ。",
+  "words": [
+    {
+      "ch": "上个月",
+      "en": "last month",
+      "pi": "shàng gè yuè"
+    },
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "这儿",
+      "en": "here",
+      "pi": "zhè'er"
+    },
+    {
+      "ch": "没有",
+      "en": "didn't have",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "下很多",
+      "en": "a lot of",
+      "pi": "xià hěnduō"
+    },
+    {
+      "ch": "雨",
+      "en": "rain",
+      "pi": "yǔ"
+    }
+  ]
+}

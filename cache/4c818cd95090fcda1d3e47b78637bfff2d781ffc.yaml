@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆死于交通事故。",
+  "english": "Tom died in a traffic accident.",
+  "pinyin": "Tāng mǔ sǐ yú jiāo tōng shì gù.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "死",
+      "en": "died",
+      "pi": "sǐ"
+    },
+    {
+      "ch": "于",
+      "en": "in",
+      "pi": "yú"
+    },
+    {
+      "ch": "交通",
+      "en": "traffic",
+      "pi": "jiāo tōng"
+    },
+    {
+      "ch": "事故",
+      "en": "accident",
+      "pi": "shì gù"
+    }
+  ]
+}

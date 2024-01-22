@@ -1,0 +1,18 @@
+{
+  "chinese": "他是个画家，但他不会画国画。",
+  "english": "He is a painter, but he can't paint traditional Chinese paintings.",
+  "pinyin": "tā shì gè huàjiā, dàn tā bù huì huà guóhuà。",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "个", "en": "a", "pi": "gè"},
+    {"ch": "画家", "en": "painter", "pi": "huàjiā"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "但", "en": "but", "pi": "dàn"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "不会", "en": "can't", "pi": "bù huì"},
+    {"ch": "画", "en": "paint", "pi": "huà"},
+    {"ch": "国画", "en": "traditional Chinese paintings", "pi": "guóhuà"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

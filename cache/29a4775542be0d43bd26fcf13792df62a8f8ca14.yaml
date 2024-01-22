@@ -1,0 +1,42 @@
+{
+  "chinese": "你最喜欢的家常菜是什么？",
+  "english": "What is your favorite home-cooked dish?",
+  "pinyin": "nǐ zuì xǐhuān de jiācháng cài shì shénme?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "最",
+      "en": "most",
+      "pi": "zuì"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "家常菜",
+      "en": "home-cooked dish",
+      "pi": "jiācháng cài"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    }
+  ]
+}

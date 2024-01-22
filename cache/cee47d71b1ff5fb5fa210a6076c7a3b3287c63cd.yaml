@@ -1,0 +1,15 @@
+{
+  "chinese": "她用绳子把包裹紧紧绑好了。",
+  "english": "She tightly wrapped the package with a rope.",
+  "pinyin": "tā yòng shéng zi bǎ bāoguǒ jǐnjǐn bǎng hǎole.",
+  "words": [
+    {"ch": "她", "en": "She", "pi": "tā"},
+    {"ch": "用", "en": "used", "pi": "yòng"},
+    {"ch": "绳子", "en": "rope", "pi": "shéng zi"},
+    {"ch": "把", "en": "to", "pi": "bǎ"},
+    {"ch": "包裹", "en": "package", "pi": "bāoguǒ"},
+    {"ch": "紧紧", "en": "tightly", "pi": "jǐnjǐn"},
+    {"ch": "绑好", "en": "wrapped", "pi": "bǎng hǎo"},
+    {"ch": "了", "en": "", "pi": "le"}
+  ]
+}

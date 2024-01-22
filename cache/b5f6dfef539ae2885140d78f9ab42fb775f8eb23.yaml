@@ -1,0 +1,32 @@
+{
+  "chinese": "二乘以二等于四。",
+  "english": "Two multiplied by two equals four.",
+  "pinyin": "èr chéng yǐ èr děng yú sì.",
+  "words": [
+    {
+      "ch": "二",
+      "en": "Two",
+      "pi": "èr"
+    },
+    {
+      "ch": "乘以",
+      "en": "multiplied by",
+      "pi": "chéng yǐ"
+    },
+    {
+      "ch": "二",
+      "en": "two",
+      "pi": "èr"
+    },
+    {
+      "ch": "等于",
+      "en": "equals",
+      "pi": "děng yú"
+    },
+    {
+      "ch": "四",
+      "en": "four",
+      "pi": "sì"
+    }
+  ]
+}

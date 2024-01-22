@@ -1,0 +1,42 @@
+{
+  "chinese": "你可以稍后回电给我吗?",
+  "english": "Can you call me back later?",
+  "pinyin": "nǐ kě yǐ shāo hòu huí diàn gěi wǒ ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kě yǐ"
+    },
+    {
+      "ch": "稍后",
+      "en": "later",
+      "pi": "shāo hòu"
+    },
+    {
+      "ch": "回电",
+      "en": "call back",
+      "pi": "huí diàn"
+    },
+    {
+      "ch": "给",
+      "en": "me",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "吗?",
+      "en": "?",
+      "pi": "ma?"
+    }
+  ]
+}

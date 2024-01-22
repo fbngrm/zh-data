@@ -1,0 +1,32 @@
+{
+  "chinese": "指南针的指针指向北边。",
+  "english": "The pointer of the compass points north.",
+  "pinyin": "zhǐ nán zhēn de zhǐ zhēn zhǐ xiàng běi biān。",
+  "words": [
+    {
+      "ch": "指南针",
+      "en": "compass",
+      "pi": "zhǐ nán zhēn"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "指针",
+      "en": "pointer",
+      "pi": "zhǐ zhēn"
+    },
+    {
+      "ch": "指向",
+      "en": "points to",
+      "pi": "zhǐ xiàng"
+    },
+    {
+      "ch": "北边",
+      "en": "north",
+      "pi": "běi biān"
+    }
+  ]
+}

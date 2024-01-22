@@ -1,0 +1,32 @@
+{
+  "chinese": "他不会说我们的语言。",
+  "english": "He can't speak our language.",
+  "pinyin": "tā bù huì shuō wǒmen de yǔyán.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "不会",
+      "en": "can't",
+      "pi": "bù huì"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "我们的",
+      "en": "our",
+      "pi": "wǒmen de"
+    },
+    {
+      "ch": "语言",
+      "en": "language",
+      "pi": "yǔyán"
+    }
+  ]
+}

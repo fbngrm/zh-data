@@ -1,0 +1,16 @@
+{
+  "chinese": "过了一会，那人就走进了房间。",
+  "english": "After a while, that person walked into the room.",
+  "pinyin": "guò le yī huì, nà rén jiù zǒu jìn le fáng jiān.",
+  "words": [
+    {"ch":"过了", "en":"After", "pi":"guò le"},
+    {"ch":"一会", "en":"a while", "pi":"yī huì"},
+    {"ch":"，", "en":",", "pi":""},
+    {"ch":"那人", "en":"that person", "pi":"nà rén"},
+    {"ch":"就", "en":"then", "pi":"jiù"},
+    {"ch":"走进", "en":"walked into", "pi":"zǒu jìn"},
+    {"ch":"了", "en":"the", "pi":"le"},
+    {"ch":"房间", "en":"room", "pi":"fáng jiān"},
+    {"ch":"。", "en":".", "pi":""}
+  ]
+}

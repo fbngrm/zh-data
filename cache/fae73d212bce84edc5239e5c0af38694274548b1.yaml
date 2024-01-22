@@ -1,0 +1,13 @@
+{
+  "chinese": "他不得不打扫了他的房间。",
+  "english": "He had to clean his room.",
+  "pinyin": "tā bùdé bù dǎsǎo le tā de fángjiān.",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "不得不", "en": "had to", "pi": "bùdébù"},
+    {"ch": "打扫", "en": "clean", "pi": "dǎsǎo"},
+    {"ch": "了", "en": "his", "pi": "le"},
+    {"ch": "他的", "en": "room", "pi": "tāde"},
+    {"ch": "房间", "en": "room", "pi": "fángjiān"}
+  ]
+}

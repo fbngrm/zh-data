@@ -1,0 +1,47 @@
+{
+  "chinese": "我现在在上班，所以晚点打给你。",
+  "english": "I am at work now, so I will call you later.",
+  "pinyin": "wǒ xiàn zài zài shàng bān，suǒ yǐ wǎn diǎn dǎ gěi nǐ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "上班",
+      "en": "work",
+      "pi": "shàng bān"
+    },
+    {
+      "ch": "所以",
+      "en": "so",
+      "pi": "suǒ yǐ"
+    },
+    {
+      "ch": "晚点",
+      "en": "later",
+      "pi": "wǎn diǎn"
+    },
+    {
+      "ch": "打给",
+      "en": "call",
+      "pi": "dǎ gěi"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    }
+  ]
+}

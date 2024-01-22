@@ -1,0 +1,47 @@
+{
+  "chinese": "我所有的蛋糕都很美味!",
+  "english": "All of my cakes are delicious!",
+  "pinyin": "wǒ suǒyǒu de dàngāo dōu hěn měiwèi!",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "所有",
+      "en": "all",
+      "pi": "suǒyǒu"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "蛋糕",
+      "en": "cakes",
+      "pi": "dàngāo"
+    },
+    {
+      "ch": "都",
+      "en": "are",
+      "pi": "dōu"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "美味",
+      "en": "delicious",
+      "pi": "měiwèi"
+    },
+    {
+      "ch": "!",
+      "en": "!",
+      "pi": ""
+    }
+  ]
+}

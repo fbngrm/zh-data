@@ -1,0 +1,32 @@
+{
+  "chinese": "他不是老师，而是医生。",
+  "english": "He is not a teacher, but a doctor.",
+  "pinyin": "Tā bùshì lǎoshī, érshì yīshēng.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "不是",
+      "en": "is not",
+      "pi": "bùshì"
+    },
+    {
+      "ch": "老师",
+      "en": "teacher",
+      "pi": "lǎoshī"
+    },
+    {
+      "ch": "而是",
+      "en": "but",
+      "pi": "érshì"
+    },
+    {
+      "ch": "医生",
+      "en": "doctor",
+      "pi": "yīshēng"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chinese": "是的，今天晚上很愉快。",
+  "english": "Yes, tonight is very pleasant.",
+  "pinyin": "shì de, jīn tiān wǎn shàng hěn yú kuài.",
+  "words": [
+    {"ch": "是", "en": "Yes", "pi": "shì"},
+    {"ch": "的", "en": "possessive particle", "pi": "de"},
+    {"ch": "，", "en": ",", "pi": "null"},
+    {"ch": "今天", "en": "today", "pi": "jīn tiān"},
+    {"ch": "晚上", "en": "evening", "pi": "wǎn shàng"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "愉快", "en": "pleasant", "pi": "yú kuài"},
+    {"ch": "。", "en": ".", "pi": "null"}
+  ]
+}

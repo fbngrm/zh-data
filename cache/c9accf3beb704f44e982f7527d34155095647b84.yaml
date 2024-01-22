@@ -1,0 +1,13 @@
+{
+  "chinese": "汤姆看起来的确比玛丽年轻。",
+  "english": "Tom does look younger than Mary.",
+  "pinyin": "Tāng mǔ kàn qǐlái de què bǐ mǎ lì niánqīng.",
+  "words": [
+    { "ch": "汤姆", "en": "Tom", "pi": "tāng mǔ" },
+    { "ch": "看起来", "en": "looks", "pi": "kàn qǐlái" },
+    { "ch": "的确", "en": "indeed", "pi": "de què" },
+    { "ch": "比", "en": "than", "pi": "bǐ" },
+    { "ch": "玛丽", "en": "Mary", "pi": "mǎ lì" },
+    { "ch": "年轻", "en": "young", "pi": "niánqīng" }
+  ]
+}

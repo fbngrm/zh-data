@@ -1,0 +1,13 @@
+{
+  "chinese": "我喜欢打网球和高尔夫球。",
+  "english": "I like to play tennis and golf.",
+  "pinyin": "wǒ xǐhuān dǎ wǎngqiú hé gāo'ěrfūqiú.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "喜欢", "en": "like", "pi": "xǐhuān" },
+    { "ch": "打", "en": "to play", "pi": "dǎ" },
+    { "ch": "网球", "en": "tennis", "pi": "wǎngqiú" },
+    { "ch": "和", "en": "and", "pi": "hé" },
+    { "ch": "高尔夫球", "en": "golf", "pi": "gāo'ěrfūqiú" }
+  ]
+}

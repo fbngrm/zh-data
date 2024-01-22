@@ -1,0 +1,37 @@
+{
+  "chinese": "我的手表昨天被偷了。",
+  "english": "My watch was stolen yesterday.",
+  "pinyin": "wǒ de shǒubiǎo zuótiān bèi tōule.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "手表",
+      "en": "watch",
+      "pi": "shǒubiǎo"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "被",
+      "en": "was",
+      "pi": "bèi"
+    },
+    {
+      "ch": "偷",
+      "en": "stolen",
+      "pi": "tōule"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completeness",
+      "pi": "le"
+    }
+  ]
+}

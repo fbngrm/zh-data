@@ -1,0 +1,27 @@
+{
+  "chinese" : "它什么时候到？",
+  "english" : "When will it arrive?",
+  "pinyin" : "tā shénme shíhou dào?",
+  "words" : [
+    {
+      "ch" : "它",
+      "en" : "it",
+      "pi" : "tā"
+    },
+    {
+      "ch" : "什么",
+      "en" : "what",
+      "pi" : "shénme"
+    },
+    {
+      "ch" : "时候",
+      "en" : "when",
+      "pi" : "shíhou"
+    },
+    {
+      "ch" : "到",
+      "en" : "arrive",
+      "pi" : "dào"
+    }
+  ]
+}

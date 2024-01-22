@@ -1,0 +1,16 @@
+{
+  "chinese": "我今天一个问题都不会再问了。",
+  "english": "I won't ask any more questions today.",
+  "pinyin": "wǒ jīn tiān yī gè wèn tí dōu bù huì zài wèn le。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "今天", "en": "today", "pi": "jīn tiān"},
+    {"ch": "一个", "en": "one", "pi": "yī gè"},
+    {"ch": "问题", "en": "question", "pi": "wèn tí"},
+    {"ch": "都", "en": "all", "pi": "dōu"},
+    {"ch": "不会", "en": "won't", "pi": "bù huì"},
+    {"ch": "再", "en": "anymore", "pi": "zài"},
+    {"ch": "问", "en": "ask", "pi": "wèn"},
+    {"ch": "了", "en": "anymore", "pi": "le"}
+  ]
+}

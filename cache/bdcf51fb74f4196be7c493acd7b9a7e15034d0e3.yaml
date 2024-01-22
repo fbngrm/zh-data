@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆晚餐迟到了。",
+  "english": "Tom's dinner is late.",
+  "pinyin": "Tāng mǔ wǎn cān chídào le.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "晚餐",
+      "en": "dinner",
+      "pi": "wǎn cān"
+    },
+    {
+      "ch": "迟到",
+      "en": "late",
+      "pi": "chídào"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

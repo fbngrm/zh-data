@@ -1,0 +1,47 @@
+{
+  "chinese": "我认为你想吃的是比萨。",
+  "english": "I think you want to eat pizza.",
+  "pinyin": "wǒ rèn wéi nǐ xiǎng chī de shì bǐ sà.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "认为",
+      "en": "think",
+      "pi": "rèn wéi"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "的",
+      "en": "to",
+      "pi": "de"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "比萨",
+      "en": "pizza",
+      "pi": "bǐ sà"
+    }
+  ]
+}

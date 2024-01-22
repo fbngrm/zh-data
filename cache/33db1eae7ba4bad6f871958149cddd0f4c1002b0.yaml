@@ -1,0 +1,27 @@
+{
+  "chinese": "我喜欢绿颜色。",
+  "english": "I like the color green.",
+  "pinyin": "wǒ xǐhuān lǜ yánsè。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "绿",
+      "en": "green",
+      "pi": "lǜ"
+    },
+    {
+      "ch": "颜色",
+      "en": "color",
+      "pi": "yánsè"
+    }
+  ]
+}

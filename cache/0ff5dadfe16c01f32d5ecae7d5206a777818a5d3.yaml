@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆认为那没有好处。",
+  "english": "Tom thinks that there is no benefit.",
+  "pinyin": "Tāng mǔ rèn wéi nà méiyǒu hǎochù.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "认为",
+      "en": "thinks",
+      "pi": "rèn wéi"
+    },
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "没有",
+      "en": "no",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "好处",
+      "en": "benefit",
+      "pi": "hǎochù"
+    }
+  ]
+}

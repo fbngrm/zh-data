@@ -1,0 +1,17 @@
+{
+  "chinese": "在中国有一种说法：人不可貌相。",
+  "english": "In China, there is a saying: Don't judge a book by its cover.",
+  "pinyin": "zài zhōngguó yǒu yī zhǒng shuōfǎ: rén bùkě màoxiàng。",
+  "words": [
+    {"ch": "在", "en": "In", "pi": "zài"},
+    {"ch": "中国", "en": "China", "pi": "zhōngguó"},
+    {"ch": "有", "en": "there is", "pi": "yǒu"},
+    {"ch": "一种", "en": "a kind of", "pi": "yī zhǒng"},
+    {"ch": "说法", "en": "saying", "pi": "shuōfǎ"},
+    {"ch": "：", "en": ":", "pi": "："},
+    {"ch": "人", "en": "people", "pi": "rén"},
+    {"ch": "不可", "en": "should not", "pi": "bùkě"},
+    {"ch": "貌相", "en": "judge by appearance", "pi": "màoxiàng"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

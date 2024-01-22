@@ -1,0 +1,13 @@
+{
+  "chinese": "我们听到这个消息很惊讶。",
+  "english": "We were very surprised to hear this news.",
+  "pinyin": "wǒ men tīng dào zhè gè xiāo xi hěn jīng yà.",
+  "words": [
+    {"ch": "我们", "en": "We", "pi": "wǒ men"},
+    {"ch": "听到", "en": "hear", "pi": "tīng dào"},
+    {"ch": "这个", "en": "this", "pi": "zhè gè"},
+    {"ch": "消息", "en": "news", "pi": "xiāo xi"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "惊讶", "en": "surprised", "pi": "jīng yà"}
+  ]
+}

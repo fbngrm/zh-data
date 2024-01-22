@@ -1,0 +1,17 @@
+{
+  "chinese": "虽然下着大雨，但是他还是决定了要出外。",
+  "english": "Although it's raining heavily, he still decided to go out.",
+  "pinyin": "suī rán xià zhe dà yǔ ，dàn shì tā hái shì jué dìng le yào chū wài。",
+  "words": [
+    { "ch": "虽然", "en": "Although", "pi": "suī rán" },
+    { "ch": "下着", "en": "raining", "pi": "xià zhe" },
+    { "ch": "大雨", "en": "heavily", "pi": "dà yǔ" },
+    { "ch": "但是", "en": "but", "pi": "dàn shì" },
+    { "ch": "他", "en": "he", "pi": "tā" },
+    { "ch": "还是", "en": "still", "pi": "hái shì" },
+    { "ch": "决定", "en": "decided", "pi": "jué dìng" },
+    { "ch": "了", "en": "to", "pi": "le" },
+    { "ch": "要", "en": "go", "pi": "yào" },
+    { "ch": "出外", "en": "out", "pi": "chū wài" }
+  ]
+}

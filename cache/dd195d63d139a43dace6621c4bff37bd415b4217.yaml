@@ -1,0 +1,13 @@
+{
+  "chinese": "请把这个桶子装满水。",
+  "english": "Please fill this bucket with water.",
+  "pinyin": "qǐng bǎ zhè ge tǒng zi zhuāng mǎn shuǐ。",
+  "words": [
+    {"ch": "请", "en": "Please", "pi": "qǐng"},
+    {"ch": "把", "en": "put", "pi": "bǎ"},
+    {"ch": "这个", "en": "this", "pi": "zhè ge"},
+    {"ch": "桶子", "en": "bucket", "pi": "tǒng zi"},
+    {"ch": "装满", "en": "fill", "pi": "zhuāng mǎn"},
+    {"ch": "水", "en": "with water", "pi": "shuǐ"}
+  ]
+}

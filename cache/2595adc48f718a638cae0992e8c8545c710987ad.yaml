@@ -1,0 +1,37 @@
+{
+  "chinese": "这座城市海拔１６００米。",
+  "english": "This city is at an altitude of 1600 meters.",
+  "pinyin": "Zhè zuò chéngshì hǎibá 1600 mǐ.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "This",
+      "pi": "Zhè"
+    },
+    {
+      "ch": "座",
+      "en": "City",
+      "pi": "zuò"
+    },
+    {
+      "ch": "城市",
+      "en": "City",
+      "pi": "chéngshì"
+    },
+    {
+      "ch": "海拔",
+      "en": "Altitude",
+      "pi": "hǎibá"
+    },
+    {
+      "ch": "１６００",
+      "en": "1600",
+      "pi": "1600"
+    },
+    {
+      "ch": "米",
+      "en": "Meters",
+      "pi": "mǐ"
+    }
+  ]
+}

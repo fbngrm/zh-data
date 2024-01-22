@@ -1,0 +1,17 @@
+{
+  "chinese": "黑暗中突然有一只狗冒了出来，把我吓了一跳。",
+  "english": "Suddenly, a dog appeared in the darkness and startled me.",
+  "pinyin": "hēi àn zhōng tū rán yǒu yī zhī gǒu mào le chū lái, bǎ wǒ xià le yī tiào.",
+  "words": [
+    { "ch": "黑暗", "en": "darkness", "pi": "hēi àn" },
+    { "ch": "中", "en": "in", "pi": "zhōng" },
+    { "ch": "突然", "en": "suddenly", "pi": "tū rán" },
+    { "ch": "有", "en": "have", "pi": "yǒu" },
+    { "ch": "一只", "en": "a", "pi": "yī zhī" },
+    { "ch": "狗", "en": "dog", "pi": "gǒu" },
+    { "ch": "冒了出来", "en": "appeared", "pi": "mào le chū lái" },
+    { "ch": "把", "en": "to", "pi": "bǎ" },
+    { "ch": "我", "en": "me", "pi": "wǒ" },
+    { "ch": "吓了一跳", "en": "startled", "pi": "xià le yī tiào" }
+  ]
+}

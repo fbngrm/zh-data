@@ -1,0 +1,20 @@
+{
+  "chinese": "如果你不一起去的话，我也不想去了。",
+  "english": "If you're not going together, I don't want to go either.",
+  "pinyin": "Rúguǒ nǐ bù yīqǐ qù dehuà, wǒ yě bùxiǎng qùle.",
+  "words": [
+    {"ch": "如果", "en": "if", "pi": "rúguǒ"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "一起", "en": "together", "pi": "yīqǐ"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "的话", "en": "if", "pi": "dehuà"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "也", "en": "also", "pi": "yě"},
+    {"ch": "不想", "en": "don't want", "pi": "bù xiǎng"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "了", "en": "anymore", "pi": "le"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

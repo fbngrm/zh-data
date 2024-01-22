@@ -1,0 +1,27 @@
+{
+  "chinese": "一杯咖啡。谢谢！",
+  "english": "A cup of coffee. Thank you!",
+  "pinyin": "yī bēi kā fēi. xiè xiè!",
+  "words": [
+    {
+      "ch": "一",
+      "en": "one",
+      "pi": "yī"
+    },
+    {
+      "ch": "杯",
+      "en": "cup",
+      "pi": "bēi"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kā fēi"
+    },
+    {
+      "ch": "谢谢",
+      "en": "thank you",
+      "pi": "xiè xiè"
+    }
+  ]
+}

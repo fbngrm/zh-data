@@ -1,0 +1,113 @@
+{
+  "sentences": [
+    {
+      "chinese": "我有一个儿子和一个女儿。",
+      "english": "I have a son and a daughter.",
+      "pinyin": "wǒ yǒu yī gè ér zi hé yī gè nǚ ér。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "有",
+          "en": "have",
+          "pi": "yǒu"
+        },
+        {
+          "ch": "一个",
+          "en": "a",
+          "pi": "yī"
+        },
+        {
+          "ch": "儿子",
+          "en": "son",
+          "pi": "ér zi"
+        },
+        {
+          "ch": "和",
+          "en": "and",
+          "pi": "hé"
+        },
+        {
+          "ch": "一个",
+          "en": "a",
+          "pi": "yī"
+        },
+        {
+          "ch": "女儿",
+          "en": "daughter",
+          "pi": "nǚ ér"
+        }
+      ]
+    },
+    {
+      "chinese": "我儿子住在纽约，我女儿住在伦敦。",
+      "english": "My son lives in New York, and my daughter lives in London.",
+      "pinyin": "wǒ ér zi zhù zài niǔ yuē，wǒ nǚ ér zhù zài lún dūn。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "My",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "儿子",
+          "en": "son",
+          "pi": "ér zi"
+        },
+        {
+          "ch": "住",
+          "en": "lives",
+          "pi": "zhù"
+        },
+        {
+          "ch": "在",
+          "en": "in",
+          "pi": "zài"
+        },
+        {
+          "ch": "纽约",
+          "en": "New York",
+          "pi": "niǔ yuē"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": "，"
+        },
+        {
+          "ch": "我",
+          "en": "and",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "女儿",
+          "en": "daughter",
+          "pi": "nǚ ér"
+        },
+        {
+          "ch": "住",
+          "en": "lives",
+          "pi": "zhù"
+        },
+        {
+          "ch": "在",
+          "en": "in",
+          "pi": "zài"
+        },
+        {
+          "ch": "伦敦",
+          "en": "London",
+          "pi": "lún dūn"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    }
+  ]
+}

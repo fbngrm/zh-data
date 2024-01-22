@@ -1,0 +1,14 @@
+{
+  "chinese": "他是城里最有钱的人。",
+  "english": "He is the richest person in town.",
+  "pinyin": "tā shì chéng lǐ zuì yǒu qián de rén.",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "城里", "en": "in town", "pi": "chéng lǐ"},
+    {"ch": "最", "en": "the most", "pi": "zuì"},
+    {"ch": "有钱", "en": "richest", "pi": "yǒu qián"},
+    {"ch": "的", "en": "s", "pi": "de"},
+    {"ch": "人", "en": "person", "pi": "rén"}
+  ]
+}

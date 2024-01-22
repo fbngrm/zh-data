@@ -1,0 +1,15 @@
+{
+  "chinese": "今早我比平时早了一个小时起床。",
+  "english": "I woke up one hour earlier than usual this morning.",
+  "pinyin": "jīn zǎo wǒ bǐ píng shí zǎo le yī gè xiǎo shí qǐ chuáng。",
+  "words": [
+    { "ch": "今早", "en": "this morning", "pi": "jīn zǎo" },
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "比", "en": "than", "pi": "bǐ" },
+    { "ch": "平时", "en": "usual", "pi": "píng shí" },
+    { "ch": "早了", "en": "earlier", "pi": "zǎo le" },
+    { "ch": "一个", "en": "one", "pi": "yī gè" },
+    { "ch": "小时", "en": "hour", "pi": "xiǎo shí" },
+    { "ch": "起床", "en": "woke up", "pi": "qǐ chuáng" }
+  ]
+}

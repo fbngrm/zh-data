@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆学了三年法语。",
+  "english": "Tom has studied French for three years.",
+  "pinyin": "Tāng mǔ xuéle sān nián fǎyǔ.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "学了",
+      "en": "has studied",
+      "pi": "xuéle"
+    },
+    {
+      "ch": "三年",
+      "en": "three years",
+      "pi": "sān nián"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎyǔ"
+    }
+  ]
+}

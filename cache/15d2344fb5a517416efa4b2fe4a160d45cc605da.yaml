@@ -1,0 +1,32 @@
+{
+  "chinese": "明天有一个数学测验。",
+  "english": "There's a math quiz tomorrow.",
+  "pinyin": "míng tiān yǒu yī gè shù xué cè yàn。",
+  "words": [
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "数学",
+      "en": "math",
+      "pi": "shù xué"
+    },
+    {
+      "ch": "测验",
+      "en": "quiz",
+      "pi": "cè yàn"
+    }
+  ]
+}

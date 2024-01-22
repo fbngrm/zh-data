@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆年纪比我大。",
+  "english": "Tom is older than me.",
+  "pinyin": "Tāng mǔ niánjì bǐ wǒ dà.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "年纪",
+      "en": "age",
+      "pi": "niánjì"
+    },
+    {
+      "ch": "比我",
+      "en": "than me",
+      "pi": "bǐ wǒ"
+    },
+    {
+      "ch": "大",
+      "en": "older",
+      "pi": "dà"
+    }
+  ]
+}

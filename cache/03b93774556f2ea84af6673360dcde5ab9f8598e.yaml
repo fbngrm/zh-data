@@ -1,0 +1,42 @@
+{
+  "chinese": "那個國家三分之一的人口是文盲。",
+  "english": "One-third of the population in that country is illiterate.",
+  "pinyin": "Nàge guójiā sān fēn zhī yī de rénkǒu shì wénmáng.",
+  "words": [
+    {
+      "ch": "那個",
+      "en": "that",
+      "pi": "nàge"
+    },
+    {
+      "ch": "國家",
+      "en": "country",
+      "pi": "guójiā"
+    },
+    {
+      "ch": "三分之一",
+      "en": "one-third",
+      "pi": "sān fēn zhī yī"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "人口",
+      "en": "population",
+      "pi": "rénkǒu"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "文盲",
+      "en": "illiterate",
+      "pi": "wénmáng"
+    }
+  ]
+}

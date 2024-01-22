@@ -1,0 +1,2990 @@
+[
+  {
+    "Chinese": "<span class=\"color2\">王老师，好久不见！</span><br><span class=\"color1\">好久不见！你也来这家饭店吃饭？</span><br><span class=\"color2\">对，我和我的家人来吃饭。我的朋友说这里的广东菜很好吃。</span><br><span class=\"color1\">你的爸爸妈妈也来了吗？</span><br><span class=\"color2\">没有，他们喜欢在家吃。我的孩子们来了。那是我的老公，小孙；那个是我的大儿子，小宝，今年7岁了；这是我的小女儿，小贝，今年5岁了。</span><br><span class=\"color1\">你们一家四口人真幸福！孩子们都上学了吗？</span><br><span class=\"color2\">大儿子去年上小学了，小女儿明年上小学。</span><br><span class=\"color1\">你老公也会说汉语吗？</span><br><span class=\"color2\">哈哈，当然，他是中国人！</span><br>",
+    "Deck": "mandarin_bean",
+    "English": "Teacher Wang, long time no see! Long time no see! Are you also eating at this restaurant?  Did your parents also come?  Your family of four is really happy! Are the children all going to school? The eldest son started primary school last year, and the youngest daughter will start primary school next year. Does your husband know how to speak Mandarin? Haha, of course, he is Chinese! ",
+    "Pinyin": "wáng lǎo shī, hǎo jiǔ bú jiàn! Hǎojiǔ bùjiàn! Nǐ yě lái zhè jiā fàndiàn chīfàn?  Nǐ de bàba māmā yě láile ma?  nǐ men yī jiā sì kǒu rén zhēn xìng fú！hái zi men dōu shàng xué le ma？ Dà érzi qùnián shàng xiǎoxuéle, xiǎo nǚér míngnián shàng xiǎoxué. nǐ lǎogōng yě huì shuō hànyǔ ma? hā hā, dāng rán, tā shì zhōng guó rén! ",
+    "Sentences": [
+      {
+        "AllWords": [
+          {
+            "AllChars": [
+              {
+                "Audio": "c7b16c7c468cd413352500bdc9d032dd7e972aa7.mp3",
+                "Chinese": "王",
+                "Components": [
+                  "一 = one,  1,  single",
+                  "土 = Tu (ethnic group),  surname Tu, earth,  dust,  clay"
+                ],
+                "English": "surname Wang, king or monarch, best or strongest of its type, grand, great, to rule, to reign over",
+                "Equivalents": "",
+                "Example": "王, 王子, 国王, 王某, 王",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "一 = one,  1,  single",
+                  "土 = Tu (ethnic group),  surname Tu, earth,  dust,  clay"
+                ],
+                "Pinyin": "wang2, wang4",
+                "Traditional": "王"
+              }
+            ],
+            "Audio": "c7b16c7c468cd413352500bdc9d032dd7e972aa7.mp3",
+            "Chinese": "王",
+            "Components": [
+              "一 = one,  1,  single",
+              "土 = Tu (ethnic group),  surname Tu, earth,  dust,  clay"
+            ],
+            "English": "Wang, surname Wang, king or monarch, best or strongest of its type, grand, great, to rule, to reign over",
+            "Equivalents": "",
+            "Example": "王, 王子, 国王, 王某, 王先生",
+            "IsSingleRune": true,
+            "Kangxi": [
+              "一 = one,  1,  single",
+              "土 = Tu (ethnic group),  surname Tu, earth,  dust,  clay"
+            ],
+            "NewChars": null,
+            "Pinyin": "wáng",
+            "Traditional": "王",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "4b6e3ccb72b2bfd7cb283fd6a5e13441ecad224e.mp3",
+                "Chinese": "老",
+                "Components": [
+                  "耂 = ",
+                  "匕 = dagger,  ladle,  ancient type of spoon"
+                ],
+                "English": "prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity, old (of people), venerable (person), experienced, of long standing, always, all the time, of the past, very, outdated, (of meat etc) tough",
+                "Equivalents": "",
+                "Example": "老, 老师, 老人, 老板, 老师",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "耂 = ",
+                  "匕 = dagger,  ladle,  ancient type of spoon"
+                ],
+                "Pinyin": "lao3",
+                "Traditional": "老"
+              },
+              {
+                "Audio": "021a21d909afa487a0e7f8d5d055847b8250c2a7.mp3",
+                "Chinese": "师",
+                "Components": [
+                  "丨 = radical in Chinese characters (Kangxi radical 2), vertical stroke (in Chinese characters),  referred to as 豎筆|竖笔",
+                  "丿 = radical in Chinese characters (Kangxi radical 4),  see 撇",
+                  "帀 = "
+                ],
+                "English": "surname Shi, teacher, master, expert, model, army division, (old) troops, to dispatch troops",
+                "Equivalents": "",
+                "Example": "老师, 教师, 师, 律师, 老师",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "丨 = radical in Chinese characters (Kangxi radical 2), vertical stroke (in Chinese characters),  referred to as 豎筆|竖笔",
+                  "丿 = radical in Chinese characters (Kangxi radical 4),  see 撇"
+                ],
+                "Pinyin": "shi1",
+                "Traditional": "師"
+              }
+            ],
+            "Audio": "494f23d624bb3f7d6149c3a2cc282b443cab2b10.mp3",
+            "Chinese": "老师",
+            "Components": [
+              "老 = prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity,  old (of people),  venerable (person)",
+              "师 = teacher,  master,  expert"
+            ],
+            "English": "teacher, teacher, CL:個|个",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": [
+              "老 = prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity,  old (of people),  venerable (person)"
+            ],
+            "NewChars": null,
+            "Pinyin": "lǎo shī",
+            "Traditional": "老師",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "27e4fe4c3fe24958872b1402e401d5e97cfb582d.mp3",
+                "Chinese": "好",
+                "Components": [
+                  "女 = archaic variant of 汝, female,  woman,  daughter",
+                  "子 = (noun suffix), son,  child,  seed"
+                ],
+                "English": "good, well, proper, good to, easy to, very, so, (suffix indicating completion or readiness), (of two people) close, on intimate terms, (after a personal pronoun) hello, to be fond of, to have a tendency to, to be prone to",
+                "Equivalents": "",
+                "Example": "好, 最好, 很好, 良好, 好久不见",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "女 = archaic variant of 汝, female,  woman,  daughter",
+                  "子 = (noun suffix), son,  child,  seed"
+                ],
+                "Pinyin": "hao3, hao4",
+                "Traditional": "好"
+              },
+              {
+                "Audio": "2afe6ed6c3a28f11a0e891defccd11517ed08b1b.mp3",
+                "Chinese": "久",
+                "Components": [],
+                "English": "(long) time, (long) duration of time",
+                "Equivalents": "",
+                "Example": "久, 不久, 很久, 好久, 好久不见",
+                "IsSingleRune": true,
+                "Kangxi": [],
+                "Pinyin": "jiu3",
+                "Traditional": "久"
+              },
+              {
+                "Audio": "8fa7401e9077e3abfd81e15b9ffa8fb30893b969.mp3",
+                "Chinese": "不",
+                "Components": ["一 = one,  1,  single", "③ = "],
+                "English": "(negative prefix), not, no",
+                "Equivalents": "",
+                "Example": "不, 不是, 不能, 不会, 好久不见",
+                "IsSingleRune": true,
+                "Kangxi": ["一 = one,  1,  single"],
+                "Pinyin": "bu4",
+                "Traditional": "不"
+              },
+              {
+                "Audio": "d65fa821b050db0726cfd3575bee16c6bdd0a046.mp3",
+                "Chinese": "见",
+                "Components": [],
+                "English": "to see, to meet, to appear (to be sth), to interview, opinion, view, to appear, also written 現|现",
+                "Equivalents": "",
+                "Example": "见, 意见, 看见, 可见, 好久不见",
+                "IsSingleRune": true,
+                "Kangxi": [],
+                "Pinyin": "jian4, xian4",
+                "Traditional": "見"
+              }
+            ],
+            "Audio": "8d30659af7ce0affcdee507705821f80f03d7cc9.mp3",
+            "Chinese": "好久不见",
+            "Components": [
+              "好 = good,  well,  proper, to be fond of,  to have a tendency to,  to be prone to",
+              "久 = (long) time,  (long) duration of time",
+              "不 = (negative prefix),  not,  no",
+              "见 = to appear,  also written 現|现, to see,  to meet,  to appear (to be sth)"
+            ],
+            "English": "long time no see, long time no see",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": [
+              "见 = to appear,  also written 現|现, to see,  to meet,  to appear (to be sth)"
+            ],
+            "NewChars": null,
+            "Pinyin": "hǎo jiǔ bú jiàn",
+            "Traditional": "好久不見",
+            "UniqueChars": null
+          }
+        ],
+        "AlternativeAudio": "",
+        "Audio": "a11bd0b0664a00d95de8458e6e0b641e4b6fe4a0.mp3",
+        "Chinese": "王老师，好久不见！",
+        "English": "Teacher Wang, long time no see!",
+        "IsSingleRune": false,
+        "NewWords": [
+          {
+            "AllChars": [
+              {
+                "Audio": "27e4fe4c3fe24958872b1402e401d5e97cfb582d.mp3",
+                "Chinese": "好",
+                "Components": [
+                  "女 = archaic variant of 汝, female,  woman,  daughter",
+                  "子 = (noun suffix), son,  child,  seed"
+                ],
+                "English": "good, well, proper, good to, easy to, very, so, (suffix indicating completion or readiness), (of two people) close, on intimate terms, (after a personal pronoun) hello, to be fond of, to have a tendency to, to be prone to",
+                "Equivalents": "",
+                "Example": "好, 最好, 很好, 良好, 好久不见",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "女 = archaic variant of 汝, female,  woman,  daughter",
+                  "子 = (noun suffix), son,  child,  seed"
+                ],
+                "Pinyin": "hao3, hao4",
+                "Traditional": "好"
+              },
+              {
+                "Audio": "2afe6ed6c3a28f11a0e891defccd11517ed08b1b.mp3",
+                "Chinese": "久",
+                "Components": [],
+                "English": "(long) time, (long) duration of time",
+                "Equivalents": "",
+                "Example": "久, 不久, 很久, 好久, 好久不见",
+                "IsSingleRune": true,
+                "Kangxi": [],
+                "Pinyin": "jiu3",
+                "Traditional": "久"
+              },
+              {
+                "Audio": "8fa7401e9077e3abfd81e15b9ffa8fb30893b969.mp3",
+                "Chinese": "不",
+                "Components": ["一 = one,  1,  single", "③ = "],
+                "English": "(negative prefix), not, no",
+                "Equivalents": "",
+                "Example": "不, 不是, 不能, 不会, 好久不见",
+                "IsSingleRune": true,
+                "Kangxi": ["一 = one,  1,  single"],
+                "Pinyin": "bu4",
+                "Traditional": "不"
+              },
+              {
+                "Audio": "d65fa821b050db0726cfd3575bee16c6bdd0a046.mp3",
+                "Chinese": "见",
+                "Components": [],
+                "English": "to see, to meet, to appear (to be sth), to interview, opinion, view, to appear, also written 現|现",
+                "Equivalents": "",
+                "Example": "见, 意见, 看见, 可见, 好久不见",
+                "IsSingleRune": true,
+                "Kangxi": [],
+                "Pinyin": "jian4, xian4",
+                "Traditional": "見"
+              }
+            ],
+            "Audio": "8d30659af7ce0affcdee507705821f80f03d7cc9.mp3",
+            "Chinese": "好久不见",
+            "Components": [
+              "好 = good,  well,  proper, to be fond of,  to have a tendency to,  to be prone to",
+              "久 = (long) time,  (long) duration of time",
+              "不 = (negative prefix),  not,  no",
+              "见 = to appear,  also written 現|现, to see,  to meet,  to appear (to be sth)"
+            ],
+            "English": "long time no see, long time no see",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": [
+              "见 = to appear,  also written 現|现, to see,  to meet,  to appear (to be sth)"
+            ],
+            "NewChars": [],
+            "Pinyin": "hǎo jiǔ bú jiàn",
+            "Traditional": "好久不見",
+            "UniqueChars": null
+          }
+        ],
+        "Pinyin": "wáng lǎo shī, hǎo jiǔ bú jiàn!",
+        "UniqueChars": null
+      },
+      {
+        "AllWords": [
+          {
+            "AllChars": [
+              {
+                "Audio": "27e4fe4c3fe24958872b1402e401d5e97cfb582d.mp3",
+                "Chinese": "好",
+                "Components": [
+                  "女 = archaic variant of 汝, female,  woman,  daughter",
+                  "子 = (noun suffix), son,  child,  seed"
+                ],
+                "English": "good, well, proper, good to, easy to, very, so, (suffix indicating completion or readiness), (of two people) close, on intimate terms, (after a personal pronoun) hello, to be fond of, to have a tendency to, to be prone to",
+                "Equivalents": "",
+                "Example": "好, 最好, 很好, 良好, 好久",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "女 = archaic variant of 汝, female,  woman,  daughter",
+                  "子 = (noun suffix), son,  child,  seed"
+                ],
+                "Pinyin": "hao3, hao4",
+                "Traditional": "好"
+              },
+              {
+                "Audio": "2afe6ed6c3a28f11a0e891defccd11517ed08b1b.mp3",
+                "Chinese": "久",
+                "Components": [],
+                "English": "(long) time, (long) duration of time",
+                "Equivalents": "",
+                "Example": "久, 不久, 很久, 好久, 好久",
+                "IsSingleRune": true,
+                "Kangxi": [],
+                "Pinyin": "jiu3",
+                "Traditional": "久"
+              }
+            ],
+            "Audio": "9d91c7bb5b1b761823762c699fd2882c564d5677.mp3",
+            "Chinese": "好久",
+            "Components": [
+              "好 = good,  well,  proper, to be fond of,  to have a tendency to,  to be prone to",
+              "久 = (long) time,  (long) duration of time"
+            ],
+            "English": "long time, quite a while",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": [],
+            "NewChars": null,
+            "Pinyin": "hǎojiǔ",
+            "Traditional": "好久",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "8fa7401e9077e3abfd81e15b9ffa8fb30893b969.mp3",
+                "Chinese": "不",
+                "Components": ["一 = one,  1,  single", "③ = "],
+                "English": "(negative prefix), not, no",
+                "Equivalents": "",
+                "Example": "不, 不是, 不能, 不会, 不见",
+                "IsSingleRune": true,
+                "Kangxi": ["一 = one,  1,  single"],
+                "Pinyin": "bu4",
+                "Traditional": "不"
+              },
+              {
+                "Audio": "d65fa821b050db0726cfd3575bee16c6bdd0a046.mp3",
+                "Chinese": "见",
+                "Components": [],
+                "English": "to see, to meet, to appear (to be sth), to interview, opinion, view, to appear, also written 現|现",
+                "Equivalents": "",
+                "Example": "见, 意见, 看见, 可见, 不见",
+                "IsSingleRune": true,
+                "Kangxi": [],
+                "Pinyin": "xian4, jian4",
+                "Traditional": "見"
+              }
+            ],
+            "Audio": "50dea3213a668f6bd6c174e0d3978bec6b2dd719.mp3",
+            "Chinese": "不见",
+            "Components": [
+              "不 = (negative prefix),  not,  no",
+              "见 = to appear,  also written 現|现, to see,  to meet,  to appear (to be sth)"
+            ],
+            "English": "no see, not to see, not to meet, to have disappeared, to be missing",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": [
+              "见 = to appear,  also written 現|现, to see,  to meet,  to appear (to be sth)"
+            ],
+            "NewChars": null,
+            "Pinyin": "bùjiàn",
+            "Traditional": "不見",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "5630b886f9cd31702e7c1606eb1f62ab0c759063.mp3",
+                "Chinese": "你",
+                "Components": [
+                  "亻 = \"person\" radical in Chinese characters (Kangxi radical 9)",
+                  "尔 = thus,  so,  like that"
+                ],
+                "English": "you (informal, as opposed to courteous 您",
+                "Equivalents": "",
+                "Example": "你, 你们, 你好, 你们俩, 你",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "亻 = \"person\" radical in Chinese characters (Kangxi radical 9)"
+                ],
+                "Pinyin": "ni3",
+                "Traditional": "你"
+              }
+            ],
+            "Audio": "5630b886f9cd31702e7c1606eb1f62ab0c759063.mp3",
+            "Chinese": "你",
+            "Components": [
+              "亻 = \"person\" radical in Chinese characters (Kangxi radical 9)",
+              "尔 = thus,  so,  like that"
+            ],
+            "English": "you, you (informal, as opposed to courteous 您",
+            "Equivalents": "",
+            "Example": "你, 你们, 你好, 你们俩, 于你",
+            "IsSingleRune": true,
+            "Kangxi": [
+              "亻 = \"person\" radical in Chinese characters (Kangxi radical 9)"
+            ],
+            "NewChars": null,
+            "Pinyin": "nǐ",
+            "Traditional": "你",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "db73d8577b4b93bdb84cbe17bfe2ce57b32a3afc.mp3",
+                "Chinese": "也",
+                "Components": [],
+                "English": "surname Ye, also, too, (in Classical Chinese) final particle implying affirmation",
+                "Equivalents": "",
+                "Example": "也, 也许, 也就是, 也好, 也",
+                "IsSingleRune": true,
+                "Kangxi": [],
+                "Pinyin": "ye3",
+                "Traditional": "也"
+              }
+            ],
+            "Audio": "db73d8577b4b93bdb84cbe17bfe2ce57b32a3afc.mp3",
+            "Chinese": "也",
+            "Components": [],
+            "English": "also, surname Ye, also, too, (in Classical Chinese) final particle implying affirmation",
+            "Equivalents": "",
+            "Example": "也, 也许, 也就是, 也好, 也就是说",
+            "IsSingleRune": true,
+            "Kangxi": [],
+            "NewChars": null,
+            "Pinyin": "yě",
+            "Traditional": "也",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "4b1d6193e4982da86149642032d99991f46d71cd.mp3",
+                "Chinese": "来",
+                "Components": [],
+                "English": "to come, to arrive, to come round, ever since, next",
+                "Equivalents": "",
+                "Example": "来, 起来, 出来, 以来, 来",
+                "IsSingleRune": true,
+                "Kangxi": [],
+                "Pinyin": "lai2",
+                "Traditional": "來"
+              }
+            ],
+            "Audio": "4b1d6193e4982da86149642032d99991f46d71cd.mp3",
+            "Chinese": "来",
+            "Components": [],
+            "English": "come, to come, to arrive, to come round, ever since, next",
+            "Equivalents": "",
+            "Example": "来, 起来, 出来, 以来, 原来",
+            "IsSingleRune": true,
+            "Kangxi": [],
+            "NewChars": null,
+            "Pinyin": "lái",
+            "Traditional": "來",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "542523173c3e3439bd490fff653d2ee678407604.mp3",
+                "Chinese": "这",
+                "Components": [
+                  "辶 = to walk (side part of split character)",
+                  "文 = language,  culture,  writing"
+                ],
+                "English": "this, these, (commonly pr.",
+                "Equivalents": "",
+                "Example": "这, 这个, 这样, 这些, 这",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "辶 = to walk (side part of split character)",
+                  "文 = language,  culture,  writing"
+                ],
+                "Pinyin": "zhe4",
+                "Traditional": "這"
+              }
+            ],
+            "Audio": "542523173c3e3439bd490fff653d2ee678407604.mp3",
+            "Chinese": "这",
+            "Components": [
+              "辶 = to walk (side part of split character)",
+              "文 = language,  culture,  writing"
+            ],
+            "English": "this, this, these, (commonly pr.",
+            "Equivalents": "",
+            "Example": "这, 这个, 这样, 这些, 这种",
+            "IsSingleRune": true,
+            "Kangxi": [
+              "辶 = to walk (side part of split character)",
+              "文 = language,  culture,  writing"
+            ],
+            "NewChars": null,
+            "Pinyin": "zhè",
+            "Traditional": "這",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "7de8177ce74b123ce9744fd680804140ceee9abc.mp3",
+                "Chinese": "家",
+                "Components": [
+                  "宀 = \"roof\" radical (Kangxi radical 40),  occurring in 家,  定",
+                  "豕 = hog,  swine"
+                ],
+                "English": "see 傢伙|家伙, home, family, (polite) my (sister, uncle etc), classifier for families or businesses, refers to the philosophical schools of pre-Han China, noun suffix for a specialist in some activity, such as a musician or revolutionary, corresponding to English -ist, -er, -ary or -ian, CL:個|个",
+                "Equivalents": "",
+                "Example": "家, 国家, 大家, 专家, 家",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "宀 = \"roof\" radical (Kangxi radical 40),  occurring in 家,  定",
+                  "豕 = hog,  swine"
+                ],
+                "Pinyin": "jia1",
+                "Traditional": "家, 傢"
+              }
+            ],
+            "Audio": "7de8177ce74b123ce9744fd680804140ceee9abc.mp3",
+            "Chinese": "家",
+            "Components": [
+              "宀 = \"roof\" radical (Kangxi radical 40),  occurring in 家,  定",
+              "豕 = hog,  swine"
+            ],
+            "English": "family, see 傢伙|家伙, home, family, (polite) my (sister, uncle etc), classifier for families or businesses, refers to the philosophical schools of pre-Han China, noun suffix for a specialist in some activity, such as a musician or revolutionary, corresponding to English -ist, -er, -ary or -ian, CL:個|个",
+            "Equivalents": "",
+            "Example": "家, 国家, 大家, 专家, 回家",
+            "IsSingleRune": true,
+            "Kangxi": [
+              "宀 = \"roof\" radical (Kangxi radical 40),  occurring in 家,  定",
+              "豕 = hog,  swine"
+            ],
+            "NewChars": null,
+            "Pinyin": "jiā",
+            "Traditional": "家, 傢",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "cded745e113ab659989b7d1f147899c5f9eb8a68.mp3",
+                "Chinese": "饭",
+                "Components": [
+                  "饣 = \"to eat\" or \"food\" radical in Chinese characters (Kangxi radical 184)",
+                  "反 = contrary,  in reverse,  inside out or upside down"
+                ],
+                "English": "cooked rice, CL:碗",
+                "Equivalents": "",
+                "Example": "吃饭, 饭, 饭店, 晚饭, 饭店",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "饣 = \"to eat\" or \"food\" radical in Chinese characters (Kangxi radical 184)"
+                ],
+                "Pinyin": "fan4",
+                "Traditional": "飯"
+              },
+              {
+                "Audio": "22df192e24c152eaa146b964a0a7c63a948321f3.mp3",
+                "Chinese": "店",
+                "Components": [
+                  "广 = \"house on a cliff\" radical in Chinese characters (Kangxi radical 53),  occurring in 店,  序, surname Guang, wide,  numerous,  to spread",
+                  "占 = to observe,  to divine, to take possession of,  to occupy,  to take up, variant of 占"
+                ],
+                "English": "inn, shop, store, CL:家",
+                "Equivalents": "",
+                "Example": "店, 酒店, 饭店, 商店, 饭店",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "广 = \"house on a cliff\" radical in Chinese characters (Kangxi radical 53),  occurring in 店,  序, surname Guang, wide,  numerous,  to spread"
+                ],
+                "Pinyin": "dian4",
+                "Traditional": "店"
+              }
+            ],
+            "Audio": "f8a8f08b22a43e6cd92851c6e6eceb3da6b267c0.mp3",
+            "Chinese": "饭店",
+            "Components": ["饭 = cooked rice,  CL:碗", "店 = inn,  shop,  store"],
+            "English": "restaurant, restaurant, hotel, CL:家",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": [],
+            "NewChars": null,
+            "Pinyin": "fàndiàn",
+            "Traditional": "飯店",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "a10d4d5a63e66defe4c65fdb35ff27652902c2f8.mp3",
+                "Chinese": "吃",
+                "Components": [
+                  "口 = mouth,  classifier for things with mouths (people,  domestic animals",
+                  "乞 = to beg"
+                ],
+                "English": "to eat, to consume, to eat at (a cafeteria etc), to eradicate, to destroy, to absorb, to suffer, to stammer (Taiwan pr. for this sense is, variant of 吃",
+                "Equivalents": "",
+                "Example": "吃, 吃饭, 好吃, 吃惊, 吃饭",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "口 = mouth,  classifier for things with mouths (people,  domestic animals"
+                ],
+                "Pinyin": "chi1",
+                "Traditional": "吃, 喫"
+              },
+              {
+                "Audio": "cded745e113ab659989b7d1f147899c5f9eb8a68.mp3",
+                "Chinese": "饭",
+                "Components": [
+                  "饣 = \"to eat\" or \"food\" radical in Chinese characters (Kangxi radical 184)",
+                  "反 = contrary,  in reverse,  inside out or upside down"
+                ],
+                "English": "cooked rice, CL:碗",
+                "Equivalents": "",
+                "Example": "吃饭, 饭, 饭店, 晚饭, 吃饭",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "饣 = \"to eat\" or \"food\" radical in Chinese characters (Kangxi radical 184)"
+                ],
+                "Pinyin": "fan4",
+                "Traditional": "飯"
+              }
+            ],
+            "Audio": "ebc6addab85eb82c6785ed757d7c0c6e34279189.mp3",
+            "Chinese": "吃饭",
+            "Components": [
+              "吃 = to eat,  to consume,  to eat at (a cafeteria etc), variant of 吃",
+              "饭 = cooked rice,  CL:碗"
+            ],
+            "English": "eat, to have a meal, to eat, to make a living",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": [],
+            "NewChars": null,
+            "Pinyin": "chīfàn",
+            "Traditional": "吃飯",
+            "UniqueChars": null
+          }
+        ],
+        "AlternativeAudio": "",
+        "Audio": "f9c855396b4a53fd30f4850e403a326207d82dd8.mp3",
+        "Chinese": "好久不见！你也来这家饭店吃饭？",
+        "English": "Long time no see! Are you also eating at this restaurant?",
+        "IsSingleRune": false,
+        "NewWords": [
+          {
+            "AllChars": [
+              {
+                "Audio": "27e4fe4c3fe24958872b1402e401d5e97cfb582d.mp3",
+                "Chinese": "好",
+                "Components": [
+                  "女 = archaic variant of 汝, female,  woman,  daughter",
+                  "子 = (noun suffix), son,  child,  seed"
+                ],
+                "English": "good, well, proper, good to, easy to, very, so, (suffix indicating completion or readiness), (of two people) close, on intimate terms, (after a personal pronoun) hello, to be fond of, to have a tendency to, to be prone to",
+                "Equivalents": "",
+                "Example": "好, 最好, 很好, 良好, 好久",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "女 = archaic variant of 汝, female,  woman,  daughter",
+                  "子 = (noun suffix), son,  child,  seed"
+                ],
+                "Pinyin": "hao3, hao4",
+                "Traditional": "好"
+              },
+              {
+                "Audio": "2afe6ed6c3a28f11a0e891defccd11517ed08b1b.mp3",
+                "Chinese": "久",
+                "Components": [],
+                "English": "(long) time, (long) duration of time",
+                "Equivalents": "",
+                "Example": "久, 不久, 很久, 好久, 好久",
+                "IsSingleRune": true,
+                "Kangxi": [],
+                "Pinyin": "jiu3",
+                "Traditional": "久"
+              }
+            ],
+            "Audio": "9d91c7bb5b1b761823762c699fd2882c564d5677.mp3",
+            "Chinese": "好久",
+            "Components": [
+              "好 = good,  well,  proper, to be fond of,  to have a tendency to,  to be prone to",
+              "久 = (long) time,  (long) duration of time"
+            ],
+            "English": "long time, quite a while",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": [],
+            "NewChars": [],
+            "Pinyin": "hǎojiǔ",
+            "Traditional": "好久",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "8fa7401e9077e3abfd81e15b9ffa8fb30893b969.mp3",
+                "Chinese": "不",
+                "Components": ["一 = one,  1,  single", "③ = "],
+                "English": "(negative prefix), not, no",
+                "Equivalents": "",
+                "Example": "不, 不是, 不能, 不会, 不见",
+                "IsSingleRune": true,
+                "Kangxi": ["一 = one,  1,  single"],
+                "Pinyin": "bu4",
+                "Traditional": "不"
+              },
+              {
+                "Audio": "d65fa821b050db0726cfd3575bee16c6bdd0a046.mp3",
+                "Chinese": "见",
+                "Components": [],
+                "English": "to see, to meet, to appear (to be sth), to interview, opinion, view, to appear, also written 現|现",
+                "Equivalents": "",
+                "Example": "见, 意见, 看见, 可见, 不见",
+                "IsSingleRune": true,
+                "Kangxi": [],
+                "Pinyin": "xian4, jian4",
+                "Traditional": "見"
+              }
+            ],
+            "Audio": "50dea3213a668f6bd6c174e0d3978bec6b2dd719.mp3",
+            "Chinese": "不见",
+            "Components": [
+              "不 = (negative prefix),  not,  no",
+              "见 = to appear,  also written 現|现, to see,  to meet,  to appear (to be sth)"
+            ],
+            "English": "no see, not to see, not to meet, to have disappeared, to be missing",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": [
+              "见 = to appear,  also written 現|现, to see,  to meet,  to appear (to be sth)"
+            ],
+            "NewChars": [],
+            "Pinyin": "bùjiàn",
+            "Traditional": "不見",
+            "UniqueChars": null
+          }
+        ],
+        "Pinyin": "Hǎojiǔ bùjiàn! Nǐ yě lái zhè jiā fàndiàn chīfàn?",
+        "UniqueChars": null
+      },
+      {
+        "AllWords": null,
+        "AlternativeAudio": "",
+        "Audio": "da39a3ee5e6b4b0d3255bfef95601890afd80709.mp3",
+        "Chinese": "",
+        "English": "",
+        "IsSingleRune": false,
+        "NewWords": null,
+        "Pinyin": "",
+        "UniqueChars": null
+      },
+      {
+        "AllWords": [
+          {
+            "AllChars": [
+              {
+                "Audio": "5630b886f9cd31702e7c1606eb1f62ab0c759063.mp3",
+                "Chinese": "你",
+                "Components": [
+                  "亻 = \"person\" radical in Chinese characters (Kangxi radical 9)",
+                  "尔 = thus,  so,  like that"
+                ],
+                "English": "you (informal, as opposed to courteous 您",
+                "Equivalents": "",
+                "Example": "你, 你们, 你好, 你们俩, 你的",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "亻 = \"person\" radical in Chinese characters (Kangxi radical 9)"
+                ],
+                "Pinyin": "ni3",
+                "Traditional": "你"
+              },
+              {
+                "Audio": "0746bd624955e27081c6419ac31b592d6b683e95.mp3",
+                "Chinese": "的",
+                "Components": [
+                  "白 = surname Bai, white,  snowy,  pure",
+                  "勺 = spoon,  ladle,  CL:把"
+                ],
+                "English": "of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear",
+                "Equivalents": "",
+                "Example": "的, 有的, 目的, 的确, 你的",
+                "IsSingleRune": true,
+                "Kangxi": ["白 = surname Bai, white,  snowy,  pure"],
+                "Pinyin": "de5, di1, di2, di4",
+                "Traditional": "的"
+              }
+            ],
+            "Audio": "06a360a3fc5ead049b2b9053c36544d4d8be7ccf.mp3",
+            "Chinese": "你的",
+            "Components": [],
+            "English": "your",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": [],
+            "NewChars": null,
+            "Pinyin": "nǐ de",
+            "Traditional": "",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "a732e56e22fb59b8879554d3b091aa7017ad6a9f.mp3",
+                "Chinese": "爸",
+                "Components": [
+                  "父 = father",
+                  "巴 = Ba state during Zhou dynasty (in east of modern Sichuan),  abbr. for east Sichuan or Chongqing,  surname Ba, to long for,  to wish,  to cling to"
+                ],
+                "English": "father, dad, pa, papa",
+                "Equivalents": "",
+                "Example": "爸爸, 爸, 阿爸, 爸爸们, 爸爸",
+                "IsSingleRune": true,
+                "Kangxi": ["父 = father"],
+                "Pinyin": "ba4",
+                "Traditional": "爸"
+              },
+              {
+                "Audio": "a732e56e22fb59b8879554d3b091aa7017ad6a9f.mp3",
+                "Chinese": "爸",
+                "Components": [
+                  "父 = father",
+                  "巴 = Ba state during Zhou dynasty (in east of modern Sichuan),  abbr. for east Sichuan or Chongqing,  surname Ba, to long for,  to wish,  to cling to"
+                ],
+                "English": "father, dad, pa, papa",
+                "Equivalents": "",
+                "Example": "爸爸, 爸, 阿爸, 爸爸们, 爸爸",
+                "IsSingleRune": true,
+                "Kangxi": ["父 = father"],
+                "Pinyin": "ba4",
+                "Traditional": "爸"
+              }
+            ],
+            "Audio": "c86d1645007ffe6d7857b631f8ad8387b574c763.mp3",
+            "Chinese": "爸爸",
+            "Components": ["爸 = father,  dad,  pa", "爸 = father,  dad,  pa"],
+            "English": "father, (informal) father, CL:個|个",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": [],
+            "NewChars": null,
+            "Pinyin": "bàba",
+            "Traditional": "爸爸",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "e3918a99aa057ec83dcdc83e42860f1b76dccf71.mp3",
+                "Chinese": "妈",
+                "Components": [
+                  "女 = archaic variant of 汝, female,  woman,  daughter",
+                  "马 = horse,  CL:匹, surname Ma,  abbr. for Malaysia 馬來西亞|马来西亚"
+                ],
+                "English": "ma, mom, mother",
+                "Equivalents": "",
+                "Example": "妈, 妈妈, 他妈的, 妈咪, 妈妈",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "女 = archaic variant of 汝, female,  woman,  daughter",
+                  "马 = horse,  CL:匹, surname Ma,  abbr. for Malaysia 馬來西亞|马来西亚"
+                ],
+                "Pinyin": "ma1",
+                "Traditional": "媽"
+              },
+              {
+                "Audio": "e3918a99aa057ec83dcdc83e42860f1b76dccf71.mp3",
+                "Chinese": "妈",
+                "Components": [
+                  "女 = archaic variant of 汝, female,  woman,  daughter",
+                  "马 = horse,  CL:匹, surname Ma,  abbr. for Malaysia 馬來西亞|马来西亚"
+                ],
+                "English": "ma, mom, mother",
+                "Equivalents": "",
+                "Example": "妈, 妈妈, 他妈的, 妈咪, 妈妈",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "女 = archaic variant of 汝, female,  woman,  daughter",
+                  "马 = horse,  CL:匹, surname Ma,  abbr. for Malaysia 馬來西亞|马来西亚"
+                ],
+                "Pinyin": "ma1",
+                "Traditional": "媽"
+              }
+            ],
+            "Audio": "7d3b2b0ebcdcee0eb7b19f18d60f35fda944b39c.mp3",
+            "Chinese": "妈妈",
+            "Components": ["妈 = ma,  mom,  mother", "妈 = ma,  mom,  mother"],
+            "English": "mother, mama, mommy, mother, CL:個|个",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": [],
+            "NewChars": null,
+            "Pinyin": "māmā",
+            "Traditional": "媽媽",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "db73d8577b4b93bdb84cbe17bfe2ce57b32a3afc.mp3",
+                "Chinese": "也",
+                "Components": [],
+                "English": "surname Ye, also, too, (in Classical Chinese) final particle implying affirmation",
+                "Equivalents": "",
+                "Example": "也, 也许, 也就是, 也好, 也",
+                "IsSingleRune": true,
+                "Kangxi": [],
+                "Pinyin": "ye3",
+                "Traditional": "也"
+              }
+            ],
+            "Audio": "db73d8577b4b93bdb84cbe17bfe2ce57b32a3afc.mp3",
+            "Chinese": "也",
+            "Components": [],
+            "English": "also, surname Ye, also, too, (in Classical Chinese) final particle implying affirmation",
+            "Equivalents": "",
+            "Example": "也, 也许, 也就是, 也好, 也就是说",
+            "IsSingleRune": true,
+            "Kangxi": [],
+            "NewChars": null,
+            "Pinyin": "yě",
+            "Traditional": "也",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "4b1d6193e4982da86149642032d99991f46d71cd.mp3",
+                "Chinese": "来",
+                "Components": [],
+                "English": "to come, to arrive, to come round, ever since, next",
+                "Equivalents": "",
+                "Example": "来, 起来, 出来, 以来, 来了",
+                "IsSingleRune": true,
+                "Kangxi": [],
+                "Pinyin": "lai2",
+                "Traditional": "來"
+              },
+              {
+                "Audio": "a5933e2a9e71d8f6bf5bbf52e659ccbcc5643bea.mp3",
+                "Chinese": "了",
+                "Components": [
+                  "乛 = variant of 乙",
+                  "亅 = \"vertical stroke with hook\" radical in Chinese characters (Kangxi radical 6),  see also 豎鉤|竖钩"
+                ],
+                "English": "(completed action marker), (modal particle indicating change of state, situation now), (modal particle intensifying preceding clause), to finish, to achieve, variant of 瞭|了, (of eyes) bright, clear-sighted, to understand clearly, unofficial variant of 瞭",
+                "Equivalents": "",
+                "Example": "了, 为了, 了解, 到了, 来了",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "亅 = \"vertical stroke with hook\" radical in Chinese characters (Kangxi radical 6),  see also 豎鉤|竖钩"
+                ],
+                "Pinyin": "le5, liao3, liao4",
+                "Traditional": "了, 瞭"
+              }
+            ],
+            "Audio": "5a0d90699993bfd78b4a72244462edcba70640a3.mp3",
+            "Chinese": "来了",
+            "Components": [],
+            "English": "came",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": [],
+            "NewChars": null,
+            "Pinyin": "láile",
+            "Traditional": "",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "8c49e4b3edb7f0239ec632f9766042bb19569fd1.mp3",
+                "Chinese": "吗",
+                "Components": [
+                  "口 = mouth,  classifier for things with mouths (people,  domestic animals",
+                  "马 = horse,  CL:匹, surname Ma,  abbr. for Malaysia 馬來西亞|马来西亚"
+                ],
+                "English": "see 嗎啡|吗啡, morphine, (question particle for \"yes-no\" questions)",
+                "Equivalents": "",
+                "Example": "吗, 干吗, 吗啡, 吗啡类, 吗",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "口 = mouth,  classifier for things with mouths (people,  domestic animals",
+                  "马 = horse,  CL:匹, surname Ma,  abbr. for Malaysia 馬來西亞|马来西亚"
+                ],
+                "Pinyin": "ma3, ma5",
+                "Traditional": "嗎"
+              }
+            ],
+            "Audio": "8c49e4b3edb7f0239ec632f9766042bb19569fd1.mp3",
+            "Chinese": "吗",
+            "Components": [
+              "口 = mouth,  classifier for things with mouths (people,  domestic animals",
+              "马 = horse,  CL:匹, surname Ma,  abbr. for Malaysia 馬來西亞|马来西亚"
+            ],
+            "English": "question particle, see 嗎啡|吗啡, morphine, (question particle for \"yes-no\" questions)",
+            "Equivalents": "",
+            "Example": "吗, 干吗, 吗啡, 吗啡类, 对吗啡类",
+            "IsSingleRune": true,
+            "Kangxi": [
+              "口 = mouth,  classifier for things with mouths (people,  domestic animals",
+              "马 = horse,  CL:匹, surname Ma,  abbr. for Malaysia 馬來西亞|马来西亚"
+            ],
+            "NewChars": null,
+            "Pinyin": "ma",
+            "Traditional": "嗎",
+            "UniqueChars": null
+          }
+        ],
+        "AlternativeAudio": "",
+        "Audio": "2a881285253351b0f67ac46a9ebb58e5baf9accd.mp3",
+        "Chinese": "你的爸爸妈妈也来了吗？",
+        "English": "Did your parents also come?",
+        "IsSingleRune": false,
+        "NewWords": [
+          {
+            "AllChars": [
+              {
+                "Audio": "4b1d6193e4982da86149642032d99991f46d71cd.mp3",
+                "Chinese": "来",
+                "Components": [],
+                "English": "to come, to arrive, to come round, ever since, next",
+                "Equivalents": "",
+                "Example": "来, 起来, 出来, 以来, 来了",
+                "IsSingleRune": true,
+                "Kangxi": [],
+                "Pinyin": "lai2",
+                "Traditional": "來"
+              },
+              {
+                "Audio": "a5933e2a9e71d8f6bf5bbf52e659ccbcc5643bea.mp3",
+                "Chinese": "了",
+                "Components": [
+                  "乛 = variant of 乙",
+                  "亅 = \"vertical stroke with hook\" radical in Chinese characters (Kangxi radical 6),  see also 豎鉤|竖钩"
+                ],
+                "English": "(completed action marker), (modal particle indicating change of state, situation now), (modal particle intensifying preceding clause), to finish, to achieve, variant of 瞭|了, (of eyes) bright, clear-sighted, to understand clearly, unofficial variant of 瞭",
+                "Equivalents": "",
+                "Example": "了, 为了, 了解, 到了, 来了",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "亅 = \"vertical stroke with hook\" radical in Chinese characters (Kangxi radical 6),  see also 豎鉤|竖钩"
+                ],
+                "Pinyin": "le5, liao3, liao4",
+                "Traditional": "了, 瞭"
+              }
+            ],
+            "Audio": "5a0d90699993bfd78b4a72244462edcba70640a3.mp3",
+            "Chinese": "来了",
+            "Components": [],
+            "English": "came",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": [],
+            "NewChars": [],
+            "Pinyin": "láile",
+            "Traditional": "",
+            "UniqueChars": null
+          }
+        ],
+        "Pinyin": "Nǐ de bàba māmā yě láile ma?",
+        "UniqueChars": null
+      },
+      {
+        "AllWords": null,
+        "AlternativeAudio": "",
+        "Audio": "da39a3ee5e6b4b0d3255bfef95601890afd80709.mp3",
+        "Chinese": "",
+        "English": "",
+        "IsSingleRune": false,
+        "NewWords": null,
+        "Pinyin": "",
+        "UniqueChars": null
+      },
+      {
+        "AllWords": [
+          {
+            "AllChars": [
+              {
+                "Audio": "5630b886f9cd31702e7c1606eb1f62ab0c759063.mp3",
+                "Chinese": "你",
+                "Components": [
+                  "亻 = \"person\" radical in Chinese characters (Kangxi radical 9)",
+                  "尔 = thus,  so,  like that"
+                ],
+                "English": "you (informal, as opposed to courteous 您",
+                "Equivalents": "",
+                "Example": "你, 你们, 你好, 你们俩, 你们",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "亻 = \"person\" radical in Chinese characters (Kangxi radical 9)"
+                ],
+                "Pinyin": "ni3",
+                "Traditional": "你"
+              },
+              {
+                "Audio": "91c76e0b5a827e4bfd9ff8e70d5932e26daaf155.mp3",
+                "Chinese": "们",
+                "Components": [
+                  "亻 = \"person\" radical in Chinese characters (Kangxi radical 9)",
+                  "门 = gate,  door,  CL:扇, surname Men"
+                ],
+                "English": "plural marker for pronouns, and nouns referring to individuals",
+                "Equivalents": "",
+                "Example": "我们, 他们, 你们, 人们, 你们",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "亻 = \"person\" radical in Chinese characters (Kangxi radical 9)",
+                  "门 = gate,  door,  CL:扇, surname Men"
+                ],
+                "Pinyin": "men5",
+                "Traditional": "們"
+              }
+            ],
+            "Audio": "2fda3d6ec667a78ee740db698a70e6d0bb80b297.mp3",
+            "Chinese": "你们",
+            "Components": [
+              "你 = you (informal,  as opposed to courteous 您",
+              "们 = plural marker for pronouns,  and nouns referring to individuals"
+            ],
+            "English": "you, you (plural)",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": [],
+            "NewChars": null,
+            "Pinyin": "nǐ men",
+            "Traditional": "你們",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "d274eee8a175062ac04a45821689db93da5ccfae.mp3",
+                "Chinese": "一",
+                "Components": [],
+                "English": "one, 1, single, a (article), as soon as, entire, whole, all, throughout, \"one\" radical in Chinese characters (Kangxi radical 1), also pr.",
+                "Equivalents": "",
+                "Example": "一些, 一定, 一起, 一直, 一家",
+                "IsSingleRune": true,
+                "Kangxi": [],
+                "Pinyin": "yi1",
+                "Traditional": "一"
+              },
+              {
+                "Audio": "7de8177ce74b123ce9744fd680804140ceee9abc.mp3",
+                "Chinese": "家",
+                "Components": [
+                  "宀 = \"roof\" radical (Kangxi radical 40),  occurring in 家,  定",
+                  "豕 = hog,  swine"
+                ],
+                "English": "see 傢伙|家伙, home, family, (polite) my (sister, uncle etc), classifier for families or businesses, refers to the philosophical schools of pre-Han China, noun suffix for a specialist in some activity, such as a musician or revolutionary, corresponding to English -ist, -er, -ary or -ian, CL:個|个",
+                "Equivalents": "",
+                "Example": "家, 国家, 大家, 专家, 一家",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "宀 = \"roof\" radical (Kangxi radical 40),  occurring in 家,  定",
+                  "豕 = hog,  swine"
+                ],
+                "Pinyin": "jia1",
+                "Traditional": "家, 傢"
+              }
+            ],
+            "Audio": "a6784ed5c1eb26380d7060cfa3ae16c92bd06346.mp3",
+            "Chinese": "一家",
+            "Components": [
+              "一 = one,  1,  single",
+              "家 = home,  family,  (polite) my (sister, see 傢伙|家伙"
+            ],
+            "English": "a family, the whole family, the same family, the family ... (when preceded by a family name), group",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": ["一 = one,  1,  single"],
+            "NewChars": null,
+            "Pinyin": "yī jiā",
+            "Traditional": "一家",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "4f88740b348014a4eef0d2132f6cc2fced6f5b3d.mp3",
+                "Chinese": "四",
+                "Components": [
+                  "囗 = enclosure",
+                  "儿 = child,  son, non-syllabic diminutive suffix,  retroflex final, variant of 人"
+                ],
+                "English": "four, 4",
+                "Equivalents": "",
+                "Example": "四川, 四周, 周四, 四处, 四口人",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "囗 = enclosure",
+                  "儿 = child,  son, non-syllabic diminutive suffix,  retroflex final, variant of 人"
+                ],
+                "Pinyin": "si4",
+                "Traditional": "四"
+              },
+              {
+                "Audio": "1e7b07e7149dc46f6af2c78660ad6dd9545fa533.mp3",
+                "Chinese": "口",
+                "Components": [],
+                "English": "mouth, classifier for things with mouths (people, domestic animals, cannons, wells etc), classifier for bites or mouthfuls",
+                "Equivalents": "",
+                "Example": "口, 出口, 人口, 进口, 四口人",
+                "IsSingleRune": true,
+                "Kangxi": [],
+                "Pinyin": "kou3",
+                "Traditional": "口"
+              },
+              {
+                "Audio": "4912771a4216d897b1f3c71bb0e4994e86410815.mp3",
+                "Chinese": "人",
+                "Components": [],
+                "English": "person, people, CL:個|个",
+                "Equivalents": "",
+                "Example": "人, 人员, 人民, 个人, 四口人",
+                "IsSingleRune": true,
+                "Kangxi": [],
+                "Pinyin": "ren2",
+                "Traditional": "人"
+              }
+            ],
+            "Audio": "964d2413a778d292f3a30d73e8c77bc99baf5943.mp3",
+            "Chinese": "四口人",
+            "Components": [],
+            "English": "four people",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": [],
+            "NewChars": null,
+            "Pinyin": "sì kǒu rén",
+            "Traditional": "",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "e756c6ef2a8e66f5e6dc94961971ffdaa4b9aee1.mp3",
+                "Chinese": "真",
+                "Components": ["十 = ten,  10", "具 = tool,  device,  utensil"],
+                "English": "really, truly, indeed, real, true, genuine",
+                "Equivalents": "",
+                "Example": "真, 真正, 真是, 认真, 真",
+                "IsSingleRune": true,
+                "Kangxi": ["十 = ten,  10"],
+                "Pinyin": "zhen1",
+                "Traditional": "真"
+              }
+            ],
+            "Audio": "e756c6ef2a8e66f5e6dc94961971ffdaa4b9aee1.mp3",
+            "Chinese": "真",
+            "Components": ["十 = ten,  10", "具 = tool,  device,  utensil"],
+            "English": "really, really, truly, indeed, real, true, genuine",
+            "Equivalents": "",
+            "Example": "真, 真正, 真是, 认真, 真实",
+            "IsSingleRune": true,
+            "Kangxi": ["十 = ten,  10"],
+            "NewChars": null,
+            "Pinyin": "zhēn",
+            "Traditional": "真",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "45e4bc999326d64d2537833f611dc3715859d2f5.mp3",
+                "Chinese": "幸",
+                "Components": [
+                  "土 = Tu (ethnic group),  surname Tu, earth,  dust,  clay",
+                  "𢆉 = "
+                ],
+                "English": "trusted, intimate, (of the emperor) to visit, variant of 幸, surname Xing, fortunate, lucky",
+                "Equivalents": "",
+                "Example": "幸福, 幸运, 不幸, 幸, 幸福",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "土 = Tu (ethnic group),  surname Tu, earth,  dust,  clay"
+                ],
+                "Pinyin": "xing4",
+                "Traditional": "幸, 倖"
+              },
+              {
+                "Audio": "c7927698a75c832c081cdc1a5b7f41ac09a34de4.mp3",
+                "Chinese": "福",
+                "Components": ["礻 = ", "畐 = "],
+                "English": "surname Fu, abbr. for Fujian province 福建省, good fortune, happiness, luck",
+                "Equivalents": "",
+                "Example": "幸福, 祝福, 福, 福建, 幸福",
+                "IsSingleRune": true,
+                "Kangxi": ["礻 = "],
+                "Pinyin": "fu2",
+                "Traditional": "福"
+              }
+            ],
+            "Audio": "41d5e0b8c423b42bb36a2da259e40245dc1e8031.mp3",
+            "Chinese": "幸福",
+            "Components": [
+              "幸 = fortunate,  lucky, surname Xing, trusted,  intimate,  (of the emperor) to visit",
+              "福 = good fortune,  happiness,  luck, surname Fu,  abbr. for Fujian province 福建省"
+            ],
+            "English": "happy, happiness, happy, blessed",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": [],
+            "NewChars": null,
+            "Pinyin": "xìng fú",
+            "Traditional": "幸福",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "5ac69ad69681892f7be43017fcc2bf30c667ec98.mp3",
+                "Chinese": "孩",
+                "Components": [
+                  "子 = (noun suffix), son,  child,  seed",
+                  "亥 = 12th earthly branch: 9-11 p.m.,  10th solar month (7th November-6th December),  year of the Boar"
+                ],
+                "English": "(bound form) child",
+                "Equivalents": "",
+                "Example": "孩子, 女孩, 小孩, 孩子们, 孩子们",
+                "IsSingleRune": true,
+                "Kangxi": ["子 = (noun suffix), son,  child,  seed"],
+                "Pinyin": "hai2",
+                "Traditional": "孩"
+              },
+              {
+                "Audio": "219e08c960260762b72feca09bdd17aa3ab61910.mp3",
+                "Chinese": "子",
+                "Components": [],
+                "English": "son, child, seed, egg, small thing, 1st earthly branch: 11 p.m.-1 a.m., midnight, 11th solar month (7th December to 5th January), year of the Rat, Viscount, fourth of five orders of nobility 五等爵位, (noun suffix)",
+                "Equivalents": "",
+                "Example": "孩子, 子, 儿子, 电子, 孩子们",
+                "IsSingleRune": true,
+                "Kangxi": [],
+                "Pinyin": "zi3, zi5",
+                "Traditional": "子"
+              },
+              {
+                "Audio": "91c76e0b5a827e4bfd9ff8e70d5932e26daaf155.mp3",
+                "Chinese": "们",
+                "Components": [
+                  "亻 = \"person\" radical in Chinese characters (Kangxi radical 9)",
+                  "门 = gate,  door,  CL:扇, surname Men"
+                ],
+                "English": "plural marker for pronouns, and nouns referring to individuals",
+                "Equivalents": "",
+                "Example": "我们, 他们, 你们, 人们, 孩子们",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "亻 = \"person\" radical in Chinese characters (Kangxi radical 9)",
+                  "门 = gate,  door,  CL:扇, surname Men"
+                ],
+                "Pinyin": "men5",
+                "Traditional": "們"
+              }
+            ],
+            "Audio": "9893f15e9cf32dd23290fabb3c483fa38344c9a4.mp3",
+            "Chinese": "孩子们",
+            "Components": [
+              "孩 = (bound form) child",
+              "子 = (noun suffix), son,  child,  seed",
+              "们 = plural marker for pronouns,  and nouns referring to individuals"
+            ],
+            "English": "children, children",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": ["子 = (noun suffix), son,  child,  seed"],
+            "NewChars": null,
+            "Pinyin": "hái zi men",
+            "Traditional": "孩子們",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "d51dd8d130ce462e444239d77070d038fb8e920a.mp3",
+                "Chinese": "都",
+                "Components": [
+                  "者 = (after a verb or adjective) one who (is) ...,  (after a noun) person involved in ...,  -er",
+                  "阝 = "
+                ],
+                "English": "surname Du, all, both, entirely, (used for emphasis) even, already, (not) at all, capital city, metropolis",
+                "Equivalents": "",
+                "Example": "都, 都是, 都会, 成都, 都",
+                "IsSingleRune": true,
+                "Kangxi": ["阝 = "],
+                "Pinyin": "du1, dou1",
+                "Traditional": "都"
+              }
+            ],
+            "Audio": "d51dd8d130ce462e444239d77070d038fb8e920a.mp3",
+            "Chinese": "都",
+            "Components": [
+              "者 = (after a verb or adjective) one who (is) ...,  (after a noun) person involved in ...,  -er",
+              "阝 = "
+            ],
+            "English": "all, surname Du, all, both, entirely, (used for emphasis) even, already, (not) at all, capital city, metropolis",
+            "Equivalents": "",
+            "Example": "都, 都是, 都会, 成都, 首都",
+            "IsSingleRune": true,
+            "Kangxi": ["阝 = "],
+            "NewChars": null,
+            "Pinyin": "dōu",
+            "Traditional": "都",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "b967ce841ad5f9f54aad4985d4e35380997ddda2.mp3",
+                "Chinese": "上",
+                "Components": ["⺊ = ", "一 = one,  1,  single"],
+                "English": "used in 上聲|上声, on top, upon, above, upper, previous, first (of multiple parts), to climb, to get onto, to go up, to attend (class or university)",
+                "Equivalents": "",
+                "Example": "上, 上海, 以上, 上市, 上学",
+                "IsSingleRune": true,
+                "Kangxi": ["⺊ = ", "一 = one,  1,  single"],
+                "Pinyin": "shang3, shang4",
+                "Traditional": "上"
+              },
+              {
+                "Audio": "7c7a06f0ea592521905cb5ed1304041cc77721de.mp3",
+                "Chinese": "学",
+                "Components": [
+                  "𭕄 = ",
+                  "冖 = \"cover\" radical in Chinese characters (Kangxi radical 14),  occurring in 軍|军",
+                  "子 = (noun suffix), son,  child,  seed"
+                ],
+                "English": "to learn, to study, to imitate, science, -ology",
+                "Equivalents": "",
+                "Example": "学生, 学习, 学校, 学, 上学",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "冖 = \"cover\" radical in Chinese characters (Kangxi radical 14),  occurring in 軍|军",
+                  "子 = (noun suffix), son,  child,  seed"
+                ],
+                "Pinyin": "xue2",
+                "Traditional": "學"
+              }
+            ],
+            "Audio": "b18de936add807909030113874b96c82a6195d23.mp3",
+            "Chinese": "上学",
+            "Components": [
+              "上 = on top,  upon,  above, used in 上聲|上声",
+              "学 = to learn,  to study,  to imitate"
+            ],
+            "English": "going to school, to go to school, to attend school",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": [],
+            "NewChars": null,
+            "Pinyin": "shàng xué",
+            "Traditional": "上學",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "a5933e2a9e71d8f6bf5bbf52e659ccbcc5643bea.mp3",
+                "Chinese": "了",
+                "Components": [
+                  "乛 = variant of 乙",
+                  "亅 = \"vertical stroke with hook\" radical in Chinese characters (Kangxi radical 6),  see also 豎鉤|竖钩"
+                ],
+                "English": "(completed action marker), (modal particle indicating change of state, situation now), (modal particle intensifying preceding clause), to finish, to achieve, variant of 瞭|了, (of eyes) bright, clear-sighted, to understand clearly, unofficial variant of 瞭",
+                "Equivalents": "",
+                "Example": "了, 为了, 了解, 到了, 了",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "亅 = \"vertical stroke with hook\" radical in Chinese characters (Kangxi radical 6),  see also 豎鉤|竖钩"
+                ],
+                "Pinyin": "liao4, le5, liao3",
+                "Traditional": "瞭, 了"
+              }
+            ],
+            "Audio": "a5933e2a9e71d8f6bf5bbf52e659ccbcc5643bea.mp3",
+            "Chinese": "了",
+            "Components": [
+              "乛 = variant of 乙",
+              "亅 = \"vertical stroke with hook\" radical in Chinese characters (Kangxi radical 6),  see also 豎鉤|竖钩"
+            ],
+            "English": "already, (completed action marker), (modal particle indicating change of state, situation now), (modal particle intensifying preceding clause), to finish, to achieve, variant of 瞭|了, (of eyes) bright, clear-sighted, to understand clearly, unofficial variant of 瞭",
+            "Equivalents": "",
+            "Example": "了, 为了, 了解, 到了, 除了",
+            "IsSingleRune": true,
+            "Kangxi": [
+              "亅 = \"vertical stroke with hook\" radical in Chinese characters (Kangxi radical 6),  see also 豎鉤|竖钩"
+            ],
+            "NewChars": null,
+            "Pinyin": "le",
+            "Traditional": "了, 瞭",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "8c49e4b3edb7f0239ec632f9766042bb19569fd1.mp3",
+                "Chinese": "吗",
+                "Components": [
+                  "口 = mouth,  classifier for things with mouths (people,  domestic animals",
+                  "马 = horse,  CL:匹, surname Ma,  abbr. for Malaysia 馬來西亞|马来西亚"
+                ],
+                "English": "see 嗎啡|吗啡, morphine, (question particle for \"yes-no\" questions)",
+                "Equivalents": "",
+                "Example": "吗, 干吗, 吗啡, 吗啡类, 吗",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "口 = mouth,  classifier for things with mouths (people,  domestic animals",
+                  "马 = horse,  CL:匹, surname Ma,  abbr. for Malaysia 馬來西亞|马来西亚"
+                ],
+                "Pinyin": "ma3, ma5",
+                "Traditional": "嗎"
+              }
+            ],
+            "Audio": "8c49e4b3edb7f0239ec632f9766042bb19569fd1.mp3",
+            "Chinese": "吗",
+            "Components": [
+              "口 = mouth,  classifier for things with mouths (people,  domestic animals",
+              "马 = horse,  CL:匹, surname Ma,  abbr. for Malaysia 馬來西亞|马来西亚"
+            ],
+            "English": "?, see 嗎啡|吗啡, morphine, (question particle for \"yes-no\" questions)",
+            "Equivalents": "",
+            "Example": "吗, 干吗, 吗啡, 吗啡类, 对吗啡类",
+            "IsSingleRune": true,
+            "Kangxi": [
+              "口 = mouth,  classifier for things with mouths (people,  domestic animals",
+              "马 = horse,  CL:匹, surname Ma,  abbr. for Malaysia 馬來西亞|马来西亚"
+            ],
+            "NewChars": null,
+            "Pinyin": "ma",
+            "Traditional": "嗎",
+            "UniqueChars": null
+          }
+        ],
+        "AlternativeAudio": "",
+        "Audio": "21302fa5a690b2ed507dee1d72bfe45311140bb9.mp3",
+        "Chinese": "你们一家四口人真幸福！孩子们都上学了吗？",
+        "English": "Your family of four is really happy! Are the children all going to school?",
+        "IsSingleRune": false,
+        "NewWords": [
+          {
+            "AllChars": [
+              {
+                "Audio": "4f88740b348014a4eef0d2132f6cc2fced6f5b3d.mp3",
+                "Chinese": "四",
+                "Components": [
+                  "囗 = enclosure",
+                  "儿 = child,  son, non-syllabic diminutive suffix,  retroflex final, variant of 人"
+                ],
+                "English": "four, 4",
+                "Equivalents": "",
+                "Example": "四川, 四周, 周四, 四处, 四口人",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "囗 = enclosure",
+                  "儿 = child,  son, non-syllabic diminutive suffix,  retroflex final, variant of 人"
+                ],
+                "Pinyin": "si4",
+                "Traditional": "四"
+              },
+              {
+                "Audio": "1e7b07e7149dc46f6af2c78660ad6dd9545fa533.mp3",
+                "Chinese": "口",
+                "Components": [],
+                "English": "mouth, classifier for things with mouths (people, domestic animals, cannons, wells etc), classifier for bites or mouthfuls",
+                "Equivalents": "",
+                "Example": "口, 出口, 人口, 进口, 四口人",
+                "IsSingleRune": true,
+                "Kangxi": [],
+                "Pinyin": "kou3",
+                "Traditional": "口"
+              },
+              {
+                "Audio": "4912771a4216d897b1f3c71bb0e4994e86410815.mp3",
+                "Chinese": "人",
+                "Components": [],
+                "English": "person, people, CL:個|个",
+                "Equivalents": "",
+                "Example": "人, 人员, 人民, 个人, 四口人",
+                "IsSingleRune": true,
+                "Kangxi": [],
+                "Pinyin": "ren2",
+                "Traditional": "人"
+              }
+            ],
+            "Audio": "964d2413a778d292f3a30d73e8c77bc99baf5943.mp3",
+            "Chinese": "四口人",
+            "Components": [],
+            "English": "four people",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": [],
+            "NewChars": [],
+            "Pinyin": "sì kǒu rén",
+            "Traditional": "",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "45e4bc999326d64d2537833f611dc3715859d2f5.mp3",
+                "Chinese": "幸",
+                "Components": [
+                  "土 = Tu (ethnic group),  surname Tu, earth,  dust,  clay",
+                  "𢆉 = "
+                ],
+                "English": "trusted, intimate, (of the emperor) to visit, variant of 幸, surname Xing, fortunate, lucky",
+                "Equivalents": "",
+                "Example": "幸福, 幸运, 不幸, 幸, 幸福",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "土 = Tu (ethnic group),  surname Tu, earth,  dust,  clay"
+                ],
+                "Pinyin": "xing4",
+                "Traditional": "幸, 倖"
+              },
+              {
+                "Audio": "c7927698a75c832c081cdc1a5b7f41ac09a34de4.mp3",
+                "Chinese": "福",
+                "Components": ["礻 = ", "畐 = "],
+                "English": "surname Fu, abbr. for Fujian province 福建省, good fortune, happiness, luck",
+                "Equivalents": "",
+                "Example": "幸福, 祝福, 福, 福建, 幸福",
+                "IsSingleRune": true,
+                "Kangxi": ["礻 = "],
+                "Pinyin": "fu2",
+                "Traditional": "福"
+              }
+            ],
+            "Audio": "41d5e0b8c423b42bb36a2da259e40245dc1e8031.mp3",
+            "Chinese": "幸福",
+            "Components": [
+              "幸 = fortunate,  lucky, surname Xing, trusted,  intimate,  (of the emperor) to visit",
+              "福 = good fortune,  happiness,  luck, surname Fu,  abbr. for Fujian province 福建省"
+            ],
+            "English": "happy, happiness, happy, blessed",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": [],
+            "NewChars": [
+              {
+                "Audio": "45e4bc999326d64d2537833f611dc3715859d2f5.mp3",
+                "Chinese": "幸",
+                "Components": [
+                  "土 = Tu (ethnic group),  surname Tu, earth,  dust,  clay",
+                  "𢆉 = "
+                ],
+                "English": "trusted, intimate, (of the emperor) to visit, variant of 幸, surname Xing, fortunate, lucky",
+                "Equivalents": "",
+                "Example": "幸福, 幸运, 不幸, 幸, 幸福",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "土 = Tu (ethnic group),  surname Tu, earth,  dust,  clay"
+                ],
+                "Pinyin": "xing4",
+                "Traditional": "幸, 倖"
+              },
+              {
+                "Audio": "c7927698a75c832c081cdc1a5b7f41ac09a34de4.mp3",
+                "Chinese": "福",
+                "Components": ["礻 = ", "畐 = "],
+                "English": "surname Fu, abbr. for Fujian province 福建省, good fortune, happiness, luck",
+                "Equivalents": "",
+                "Example": "幸福, 祝福, 福, 福建, 幸福",
+                "IsSingleRune": true,
+                "Kangxi": ["礻 = "],
+                "Pinyin": "fu2",
+                "Traditional": "福"
+              }
+            ],
+            "Pinyin": "xìng fú",
+            "Traditional": "幸福",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "5ac69ad69681892f7be43017fcc2bf30c667ec98.mp3",
+                "Chinese": "孩",
+                "Components": [
+                  "子 = (noun suffix), son,  child,  seed",
+                  "亥 = 12th earthly branch: 9-11 p.m.,  10th solar month (7th November-6th December),  year of the Boar"
+                ],
+                "English": "(bound form) child",
+                "Equivalents": "",
+                "Example": "孩子, 女孩, 小孩, 孩子们, 孩子们",
+                "IsSingleRune": true,
+                "Kangxi": ["子 = (noun suffix), son,  child,  seed"],
+                "Pinyin": "hai2",
+                "Traditional": "孩"
+              },
+              {
+                "Audio": "219e08c960260762b72feca09bdd17aa3ab61910.mp3",
+                "Chinese": "子",
+                "Components": [],
+                "English": "son, child, seed, egg, small thing, 1st earthly branch: 11 p.m.-1 a.m., midnight, 11th solar month (7th December to 5th January), year of the Rat, Viscount, fourth of five orders of nobility 五等爵位, (noun suffix)",
+                "Equivalents": "",
+                "Example": "孩子, 子, 儿子, 电子, 孩子们",
+                "IsSingleRune": true,
+                "Kangxi": [],
+                "Pinyin": "zi3, zi5",
+                "Traditional": "子"
+              },
+              {
+                "Audio": "91c76e0b5a827e4bfd9ff8e70d5932e26daaf155.mp3",
+                "Chinese": "们",
+                "Components": [
+                  "亻 = \"person\" radical in Chinese characters (Kangxi radical 9)",
+                  "门 = gate,  door,  CL:扇, surname Men"
+                ],
+                "English": "plural marker for pronouns, and nouns referring to individuals",
+                "Equivalents": "",
+                "Example": "我们, 他们, 你们, 人们, 孩子们",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "亻 = \"person\" radical in Chinese characters (Kangxi radical 9)",
+                  "门 = gate,  door,  CL:扇, surname Men"
+                ],
+                "Pinyin": "men5",
+                "Traditional": "們"
+              }
+            ],
+            "Audio": "9893f15e9cf32dd23290fabb3c483fa38344c9a4.mp3",
+            "Chinese": "孩子们",
+            "Components": [
+              "孩 = (bound form) child",
+              "子 = (noun suffix), son,  child,  seed",
+              "们 = plural marker for pronouns,  and nouns referring to individuals"
+            ],
+            "English": "children, children",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": ["子 = (noun suffix), son,  child,  seed"],
+            "NewChars": [],
+            "Pinyin": "hái zi men",
+            "Traditional": "孩子們",
+            "UniqueChars": null
+          }
+        ],
+        "Pinyin": "nǐ men yī jiā sì kǒu rén zhēn xìng fú！hái zi men dōu shàng xué le ma？",
+        "UniqueChars": null
+      },
+      {
+        "AllWords": [
+          {
+            "AllChars": [
+              {
+                "Audio": "0889c349726f64ac6a687c91b9cc4b6efb69ad07.mp3",
+                "Chinese": "大",
+                "Components": [
+                  "一 = one,  1,  single",
+                  "人 = person,  people,  CL:個|个"
+                ],
+                "English": "big, huge, large, major, great, wide, deep, older (than), oldest, eldest, greatly, very much, (dialect) father, father's elder or younger brother, see 大夫",
+                "Equivalents": "",
+                "Example": "大, 大家, 最大, 很大, 大儿子",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "一 = one,  1,  single",
+                  "人 = person,  people,  CL:個|个"
+                ],
+                "Pinyin": "da4, dai4",
+                "Traditional": "大"
+              },
+              {
+                "Audio": "06af8ec0f409f31595297a24b6a728eff4eca5b2.mp3",
+                "Chinese": "儿",
+                "Components": [
+                  "丿 = radical in Chinese characters (Kangxi radical 4),  see 撇",
+                  "乚 = component in Chinese characters,  archaic variant of 毫"
+                ],
+                "English": "variant of 人, child, son, non-syllabic diminutive suffix, retroflex final",
+                "Equivalents": "",
+                "Example": "儿, 儿子, 女儿, 儿童, 大儿子",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "丿 = radical in Chinese characters (Kangxi radical 4),  see 撇",
+                  "乚 = component in Chinese characters,  archaic variant of 毫"
+                ],
+                "Pinyin": "ren2, er2, r5",
+                "Traditional": "兒, 儿"
+              },
+              {
+                "Audio": "219e08c960260762b72feca09bdd17aa3ab61910.mp3",
+                "Chinese": "子",
+                "Components": [],
+                "English": "son, child, seed, egg, small thing, 1st earthly branch: 11 p.m.-1 a.m., midnight, 11th solar month (7th December to 5th January), year of the Rat, Viscount, fourth of five orders of nobility 五等爵位, (noun suffix)",
+                "Equivalents": "",
+                "Example": "孩子, 子, 儿子, 电子, 大儿子",
+                "IsSingleRune": true,
+                "Kangxi": [],
+                "Pinyin": "zi3, zi5",
+                "Traditional": "子"
+              }
+            ],
+            "Audio": "466e3657d03e1b6284e3b71549b62e24e0ce2ad9.mp3",
+            "Chinese": "大儿子",
+            "Components": [],
+            "English": "eldest son",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": [],
+            "NewChars": null,
+            "Pinyin": "dà érzi",
+            "Traditional": "",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "033fd274f014aec08c2dfb1902e6090cbbb2c295.mp3",
+                "Chinese": "去",
+                "Components": [
+                  "土 = Tu (ethnic group),  surname Tu, earth,  dust,  clay",
+                  "厶 = old variant of 某, old variant of 私"
+                ],
+                "English": "to go, to go to (a place), (of a time etc) last, just passed, to send, to remove, to get rid of, to reduce, to be apart from in space or time, to die (euphemism), to play (a part), (when used either before or after a verb) to go in order to do sth, (after a verb of motion indicates movement away from the speaker), (used after certain verbs to indicate detachment or separation)",
+                "Equivalents": "",
+                "Example": "去, 去年, 过去, 去了, 去年",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "土 = Tu (ethnic group),  surname Tu, earth,  dust,  clay",
+                  "厶 = old variant of 某, old variant of 私"
+                ],
+                "Pinyin": "qu4",
+                "Traditional": "去"
+              },
+              {
+                "Audio": "6f14c2641c259cd65bcfe5ba57a7a0aa34468fe7.mp3",
+                "Chinese": "年",
+                "Components": [],
+                "English": "surname Nian, year, CL:個|个, grain, harvest (old), variant of 年",
+                "Equivalents": "",
+                "Example": "年, 今年, 去年, 每年, 去年",
+                "IsSingleRune": true,
+                "Kangxi": [],
+                "Pinyin": "nian2",
+                "Traditional": "秊, 年"
+              }
+            ],
+            "Audio": "1fd586b4aaaa5e68e878c07b0ddc8fef3572be45.mp3",
+            "Chinese": "去年",
+            "Components": [
+              "去 = to go,  to go to (a place),  (of a time etc) last",
+              "年 = grain,  harvest (old),  variant of 年, surname Nian, year,  CL:個|个"
+            ],
+            "English": "last year, last year",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": [],
+            "NewChars": null,
+            "Pinyin": "qùnián",
+            "Traditional": "去年",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "b967ce841ad5f9f54aad4985d4e35380997ddda2.mp3",
+                "Chinese": "上",
+                "Components": ["⺊ = ", "一 = one,  1,  single"],
+                "English": "used in 上聲|上声, on top, upon, above, upper, previous, first (of multiple parts), to climb, to get onto, to go up, to attend (class or university)",
+                "Equivalents": "",
+                "Example": "上, 上海, 以上, 上市, 上",
+                "IsSingleRune": true,
+                "Kangxi": ["⺊ = ", "一 = one,  1,  single"],
+                "Pinyin": "shang3, shang4",
+                "Traditional": "上"
+              }
+            ],
+            "Audio": "b967ce841ad5f9f54aad4985d4e35380997ddda2.mp3",
+            "Chinese": "上",
+            "Components": ["⺊ = ", "一 = one,  1,  single"],
+            "English": "to start, used in 上聲|上声, on top, upon, above, upper, previous, first (of multiple parts), to climb, to get onto, to go up, to attend (class or university)",
+            "Equivalents": "",
+            "Example": "上, 上海, 以上, 上市, 晚上",
+            "IsSingleRune": true,
+            "Kangxi": ["⺊ = ", "一 = one,  1,  single"],
+            "NewChars": null,
+            "Pinyin": "shàng",
+            "Traditional": "上",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "922517cc7363a85981329bfa950b9d325eb90cae.mp3",
+                "Chinese": "小",
+                "Components": [],
+                "English": "small, tiny, few, young",
+                "Equivalents": "",
+                "Example": "小, 小时, 小组, 小区, 小学",
+                "IsSingleRune": true,
+                "Kangxi": [],
+                "Pinyin": "xiao3",
+                "Traditional": "小"
+              },
+              {
+                "Audio": "7c7a06f0ea592521905cb5ed1304041cc77721de.mp3",
+                "Chinese": "学",
+                "Components": [
+                  "𭕄 = ",
+                  "冖 = \"cover\" radical in Chinese characters (Kangxi radical 14),  occurring in 軍|军",
+                  "子 = (noun suffix), son,  child,  seed"
+                ],
+                "English": "to learn, to study, to imitate, science, -ology",
+                "Equivalents": "",
+                "Example": "学生, 学习, 学校, 学, 小学",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "冖 = \"cover\" radical in Chinese characters (Kangxi radical 14),  occurring in 軍|军",
+                  "子 = (noun suffix), son,  child,  seed"
+                ],
+                "Pinyin": "xue2",
+                "Traditional": "學"
+              }
+            ],
+            "Audio": "7b96a10134b7eeaab19bfa627a807333336f7904.mp3",
+            "Chinese": "小学",
+            "Components": [
+              "小 = small,  tiny,  few",
+              "学 = to learn,  to study,  to imitate"
+            ],
+            "English": "primary school, elementary school, primary school, CL:個|个",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": ["小 = small,  tiny,  few"],
+            "NewChars": null,
+            "Pinyin": "xiǎoxué",
+            "Traditional": "小學",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "a5933e2a9e71d8f6bf5bbf52e659ccbcc5643bea.mp3",
+                "Chinese": "了",
+                "Components": [
+                  "乛 = variant of 乙",
+                  "亅 = \"vertical stroke with hook\" radical in Chinese characters (Kangxi radical 6),  see also 豎鉤|竖钩"
+                ],
+                "English": "(completed action marker), (modal particle indicating change of state, situation now), (modal particle intensifying preceding clause), to finish, to achieve, variant of 瞭|了, (of eyes) bright, clear-sighted, to understand clearly, unofficial variant of 瞭",
+                "Equivalents": "",
+                "Example": "了, 为了, 了解, 到了, 了",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "亅 = \"vertical stroke with hook\" radical in Chinese characters (Kangxi radical 6),  see also 豎鉤|竖钩"
+                ],
+                "Pinyin": "liao4, le5, liao3",
+                "Traditional": "了, 瞭"
+              }
+            ],
+            "Audio": "a5933e2a9e71d8f6bf5bbf52e659ccbcc5643bea.mp3",
+            "Chinese": "了",
+            "Components": [
+              "乛 = variant of 乙",
+              "亅 = \"vertical stroke with hook\" radical in Chinese characters (Kangxi radical 6),  see also 豎鉤|竖钩"
+            ],
+            "English": "completed action, (completed action marker), (modal particle indicating change of state, situation now), (modal particle intensifying preceding clause), to finish, to achieve, variant of 瞭|了, (of eyes) bright, clear-sighted, to understand clearly, unofficial variant of 瞭",
+            "Equivalents": "",
+            "Example": "了, 为了, 了解, 到了, 除了",
+            "IsSingleRune": true,
+            "Kangxi": [
+              "亅 = \"vertical stroke with hook\" radical in Chinese characters (Kangxi radical 6),  see also 豎鉤|竖钩"
+            ],
+            "NewChars": null,
+            "Pinyin": "le",
+            "Traditional": "了, 瞭",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "922517cc7363a85981329bfa950b9d325eb90cae.mp3",
+                "Chinese": "小",
+                "Components": [],
+                "English": "small, tiny, few, young",
+                "Equivalents": "",
+                "Example": "小, 小时, 小组, 小区, 小女儿",
+                "IsSingleRune": true,
+                "Kangxi": [],
+                "Pinyin": "xiao3",
+                "Traditional": "小"
+              },
+              {
+                "Audio": "26bc84961cad3b7b144d9a1d8bb45ed245a28b1b.mp3",
+                "Chinese": "女",
+                "Components": [],
+                "English": "female, woman, daughter, archaic variant of 汝",
+                "Equivalents": "",
+                "Example": "女, 女人, 女孩, 女儿, 小女儿",
+                "IsSingleRune": true,
+                "Kangxi": [],
+                "Pinyin": "nu:3, ru3",
+                "Traditional": "女"
+              },
+              {
+                "Audio": "06af8ec0f409f31595297a24b6a728eff4eca5b2.mp3",
+                "Chinese": "儿",
+                "Components": [
+                  "丿 = radical in Chinese characters (Kangxi radical 4),  see 撇",
+                  "乚 = component in Chinese characters,  archaic variant of 毫"
+                ],
+                "English": "variant of 人, child, son, non-syllabic diminutive suffix, retroflex final",
+                "Equivalents": "",
+                "Example": "儿, 儿子, 女儿, 儿童, 小女儿",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "丿 = radical in Chinese characters (Kangxi radical 4),  see 撇",
+                  "乚 = component in Chinese characters,  archaic variant of 毫"
+                ],
+                "Pinyin": "ren2, er2, r5",
+                "Traditional": "儿, 兒"
+              }
+            ],
+            "Audio": "f3b2a73395424e8b1f7861615f80a7870c864054.mp3",
+            "Chinese": "小女儿",
+            "Components": [],
+            "English": "youngest daughter",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": [],
+            "NewChars": null,
+            "Pinyin": "xiǎo nǚér",
+            "Traditional": "",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "fca811d4f0275ef8ebab2ce9c4683827c8488fb6.mp3",
+                "Chinese": "明",
+                "Components": [
+                  "日 = abbr. for 日本, sun,  day,  date",
+                  "月 = moon,  month,  monthly"
+                ],
+                "English": "Ming Dynasty (1368-1644), surname Ming, Ming (c. 2000 BC), fourth of the legendary Flame Emperors, 炎帝, bright, opposite: dark 暗",
+                "Equivalents": "",
+                "Example": "明显, 明天, 说明, 明确, 明年",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "日 = abbr. for 日本, sun,  day,  date",
+                  "月 = moon,  month,  monthly"
+                ],
+                "Pinyin": "ming2",
+                "Traditional": "明"
+              },
+              {
+                "Audio": "6f14c2641c259cd65bcfe5ba57a7a0aa34468fe7.mp3",
+                "Chinese": "年",
+                "Components": [],
+                "English": "surname Nian, year, CL:個|个, grain, harvest (old), variant of 年",
+                "Equivalents": "",
+                "Example": "年, 今年, 去年, 每年, 明年",
+                "IsSingleRune": true,
+                "Kangxi": [],
+                "Pinyin": "nian2",
+                "Traditional": "秊, 年"
+              }
+            ],
+            "Audio": "c78156bbcf4107b5d5a4cbb47da2f216d403959f.mp3",
+            "Chinese": "明年",
+            "Components": [
+              "明 = Ming Dynasty (1368-1644),  surname Ming,  Ming (c. 2000 BC), bright,  opposite: dark 暗",
+              "年 = grain,  harvest (old),  variant of 年, surname Nian, year,  CL:個|个"
+            ],
+            "English": "next year, next year",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": [],
+            "NewChars": null,
+            "Pinyin": "míngnián",
+            "Traditional": "明年",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "b967ce841ad5f9f54aad4985d4e35380997ddda2.mp3",
+                "Chinese": "上",
+                "Components": ["⺊ = ", "一 = one,  1,  single"],
+                "English": "used in 上聲|上声, on top, upon, above, upper, previous, first (of multiple parts), to climb, to get onto, to go up, to attend (class or university)",
+                "Equivalents": "",
+                "Example": "上, 上海, 以上, 上市, 上",
+                "IsSingleRune": true,
+                "Kangxi": ["⺊ = ", "一 = one,  1,  single"],
+                "Pinyin": "shang3, shang4",
+                "Traditional": "上"
+              }
+            ],
+            "Audio": "b967ce841ad5f9f54aad4985d4e35380997ddda2.mp3",
+            "Chinese": "上",
+            "Components": ["⺊ = ", "一 = one,  1,  single"],
+            "English": "to start, used in 上聲|上声, on top, upon, above, upper, previous, first (of multiple parts), to climb, to get onto, to go up, to attend (class or university)",
+            "Equivalents": "",
+            "Example": "上, 上海, 以上, 上市, 晚上",
+            "IsSingleRune": true,
+            "Kangxi": ["⺊ = ", "一 = one,  1,  single"],
+            "NewChars": null,
+            "Pinyin": "shàng",
+            "Traditional": "上",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "922517cc7363a85981329bfa950b9d325eb90cae.mp3",
+                "Chinese": "小",
+                "Components": [],
+                "English": "small, tiny, few, young",
+                "Equivalents": "",
+                "Example": "小, 小时, 小组, 小区, 小学",
+                "IsSingleRune": true,
+                "Kangxi": [],
+                "Pinyin": "xiao3",
+                "Traditional": "小"
+              },
+              {
+                "Audio": "7c7a06f0ea592521905cb5ed1304041cc77721de.mp3",
+                "Chinese": "学",
+                "Components": [
+                  "𭕄 = ",
+                  "冖 = \"cover\" radical in Chinese characters (Kangxi radical 14),  occurring in 軍|军",
+                  "子 = (noun suffix), son,  child,  seed"
+                ],
+                "English": "to learn, to study, to imitate, science, -ology",
+                "Equivalents": "",
+                "Example": "学生, 学习, 学校, 学, 小学",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "冖 = \"cover\" radical in Chinese characters (Kangxi radical 14),  occurring in 軍|军",
+                  "子 = (noun suffix), son,  child,  seed"
+                ],
+                "Pinyin": "xue2",
+                "Traditional": "學"
+              }
+            ],
+            "Audio": "7b96a10134b7eeaab19bfa627a807333336f7904.mp3",
+            "Chinese": "小学",
+            "Components": [
+              "小 = small,  tiny,  few",
+              "学 = to learn,  to study,  to imitate"
+            ],
+            "English": "primary school, elementary school, primary school, CL:個|个",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": ["小 = small,  tiny,  few"],
+            "NewChars": null,
+            "Pinyin": "xiǎoxué",
+            "Traditional": "小學",
+            "UniqueChars": null
+          }
+        ],
+        "AlternativeAudio": "",
+        "Audio": "78dd4e5836f5928e3e9de2f545303dd2870b9355.mp3",
+        "Chinese": "大儿子去年上小学了，小女儿明年上小学。",
+        "English": "The eldest son started primary school last year, and the youngest daughter will start primary school next year.",
+        "IsSingleRune": false,
+        "NewWords": [
+          {
+            "AllChars": [
+              {
+                "Audio": "922517cc7363a85981329bfa950b9d325eb90cae.mp3",
+                "Chinese": "小",
+                "Components": [],
+                "English": "small, tiny, few, young",
+                "Equivalents": "",
+                "Example": "小, 小时, 小组, 小区, 小学",
+                "IsSingleRune": true,
+                "Kangxi": [],
+                "Pinyin": "xiao3",
+                "Traditional": "小"
+              },
+              {
+                "Audio": "7c7a06f0ea592521905cb5ed1304041cc77721de.mp3",
+                "Chinese": "学",
+                "Components": [
+                  "𭕄 = ",
+                  "冖 = \"cover\" radical in Chinese characters (Kangxi radical 14),  occurring in 軍|军",
+                  "子 = (noun suffix), son,  child,  seed"
+                ],
+                "English": "to learn, to study, to imitate, science, -ology",
+                "Equivalents": "",
+                "Example": "学生, 学习, 学校, 学, 小学",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "冖 = \"cover\" radical in Chinese characters (Kangxi radical 14),  occurring in 軍|军",
+                  "子 = (noun suffix), son,  child,  seed"
+                ],
+                "Pinyin": "xue2",
+                "Traditional": "學"
+              }
+            ],
+            "Audio": "7b96a10134b7eeaab19bfa627a807333336f7904.mp3",
+            "Chinese": "小学",
+            "Components": [
+              "小 = small,  tiny,  few",
+              "学 = to learn,  to study,  to imitate"
+            ],
+            "English": "primary school, elementary school, primary school, CL:個|个",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": ["小 = small,  tiny,  few"],
+            "NewChars": [],
+            "Pinyin": "xiǎoxué",
+            "Traditional": "小學",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "922517cc7363a85981329bfa950b9d325eb90cae.mp3",
+                "Chinese": "小",
+                "Components": [],
+                "English": "small, tiny, few, young",
+                "Equivalents": "",
+                "Example": "小, 小时, 小组, 小区, 小女儿",
+                "IsSingleRune": true,
+                "Kangxi": [],
+                "Pinyin": "xiao3",
+                "Traditional": "小"
+              },
+              {
+                "Audio": "26bc84961cad3b7b144d9a1d8bb45ed245a28b1b.mp3",
+                "Chinese": "女",
+                "Components": [],
+                "English": "female, woman, daughter, archaic variant of 汝",
+                "Equivalents": "",
+                "Example": "女, 女人, 女孩, 女儿, 小女儿",
+                "IsSingleRune": true,
+                "Kangxi": [],
+                "Pinyin": "nu:3, ru3",
+                "Traditional": "女"
+              },
+              {
+                "Audio": "06af8ec0f409f31595297a24b6a728eff4eca5b2.mp3",
+                "Chinese": "儿",
+                "Components": [
+                  "丿 = radical in Chinese characters (Kangxi radical 4),  see 撇",
+                  "乚 = component in Chinese characters,  archaic variant of 毫"
+                ],
+                "English": "variant of 人, child, son, non-syllabic diminutive suffix, retroflex final",
+                "Equivalents": "",
+                "Example": "儿, 儿子, 女儿, 儿童, 小女儿",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "丿 = radical in Chinese characters (Kangxi radical 4),  see 撇",
+                  "乚 = component in Chinese characters,  archaic variant of 毫"
+                ],
+                "Pinyin": "ren2, er2, r5",
+                "Traditional": "儿, 兒"
+              }
+            ],
+            "Audio": "f3b2a73395424e8b1f7861615f80a7870c864054.mp3",
+            "Chinese": "小女儿",
+            "Components": [],
+            "English": "youngest daughter",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": [],
+            "NewChars": [],
+            "Pinyin": "xiǎo nǚér",
+            "Traditional": "",
+            "UniqueChars": null
+          }
+        ],
+        "Pinyin": "Dà érzi qùnián shàng xiǎoxuéle, xiǎo nǚér míngnián shàng xiǎoxué.",
+        "UniqueChars": null
+      },
+      {
+        "AllWords": [
+          {
+            "AllChars": [
+              {
+                "Audio": "5630b886f9cd31702e7c1606eb1f62ab0c759063.mp3",
+                "Chinese": "你",
+                "Components": [
+                  "亻 = \"person\" radical in Chinese characters (Kangxi radical 9)",
+                  "尔 = thus,  so,  like that"
+                ],
+                "English": "you (informal, as opposed to courteous 您",
+                "Equivalents": "",
+                "Example": "你, 你们, 你好, 你们俩, 你",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "亻 = \"person\" radical in Chinese characters (Kangxi radical 9)"
+                ],
+                "Pinyin": "ni3",
+                "Traditional": "你"
+              }
+            ],
+            "Audio": "5630b886f9cd31702e7c1606eb1f62ab0c759063.mp3",
+            "Chinese": "你",
+            "Components": [
+              "亻 = \"person\" radical in Chinese characters (Kangxi radical 9)",
+              "尔 = thus,  so,  like that"
+            ],
+            "English": "you, you (informal, as opposed to courteous 您",
+            "Equivalents": "",
+            "Example": "你, 你们, 你好, 你们俩, 于你",
+            "IsSingleRune": true,
+            "Kangxi": [
+              "亻 = \"person\" radical in Chinese characters (Kangxi radical 9)"
+            ],
+            "NewChars": null,
+            "Pinyin": "nǐ",
+            "Traditional": "你",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "4b6e3ccb72b2bfd7cb283fd6a5e13441ecad224e.mp3",
+                "Chinese": "老",
+                "Components": [
+                  "耂 = ",
+                  "匕 = dagger,  ladle,  ancient type of spoon"
+                ],
+                "English": "prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity, old (of people), venerable (person), experienced, of long standing, always, all the time, of the past, very, outdated, (of meat etc) tough",
+                "Equivalents": "",
+                "Example": "老, 老师, 老人, 老板, 老公",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "耂 = ",
+                  "匕 = dagger,  ladle,  ancient type of spoon"
+                ],
+                "Pinyin": "lao3",
+                "Traditional": "老"
+              },
+              {
+                "Audio": "2eb8ebf6c33c31c6079eb6074178016e6aba1c38.mp3",
+                "Chinese": "公",
+                "Components": [
+                  "八 = eight,  8",
+                  "厶 = old variant of 某, old variant of 私"
+                ],
+                "English": "public, collectively owned, common, international (e.g. high seas, metric system, calendar), make public, fair, just, Duke, highest of five orders of nobility 五等爵位",
+                "Equivalents": "",
+                "Example": "公司, 公, 公布, 公开, 老公",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "八 = eight,  8",
+                  "厶 = old variant of 某, old variant of 私"
+                ],
+                "Pinyin": "gong1",
+                "Traditional": "公"
+              }
+            ],
+            "Audio": "a3007fdbfb83bbaa9ad7071206c8da2c16da189a.mp3",
+            "Chinese": "老公",
+            "Components": [
+              "老 = prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity,  old (of people),  venerable (person)",
+              "公 = public,  collectively owned,  common"
+            ],
+            "English": "husband, (coll.) husband, (coll.) eunuch, see also 老公",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": [
+              "老 = prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity,  old (of people),  venerable (person)"
+            ],
+            "NewChars": null,
+            "Pinyin": "lǎogōng",
+            "Traditional": "老公",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "db73d8577b4b93bdb84cbe17bfe2ce57b32a3afc.mp3",
+                "Chinese": "也",
+                "Components": [],
+                "English": "surname Ye, also, too, (in Classical Chinese) final particle implying affirmation",
+                "Equivalents": "",
+                "Example": "也, 也许, 也就是, 也好, 也",
+                "IsSingleRune": true,
+                "Kangxi": [],
+                "Pinyin": "ye3",
+                "Traditional": "也"
+              }
+            ],
+            "Audio": "db73d8577b4b93bdb84cbe17bfe2ce57b32a3afc.mp3",
+            "Chinese": "也",
+            "Components": [],
+            "English": "also, surname Ye, also, too, (in Classical Chinese) final particle implying affirmation",
+            "Equivalents": "",
+            "Example": "也, 也许, 也就是, 也好, 也就是说",
+            "IsSingleRune": true,
+            "Kangxi": [],
+            "NewChars": null,
+            "Pinyin": "yě",
+            "Traditional": "也",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "577cfff2988c0089fc7c5ae1b6d7e626a7fb7a9b.mp3",
+                "Chinese": "会",
+                "Components": [
+                  "人 = person,  people,  CL:個|个",
+                  "云 = (classical) to say, cloud,  CL:朵, surname Yun,  abbr. for Yunnan Province 雲南省|云南省"
+                ],
+                "English": "can (i.e. have the skill, know how to), likely to, sure to, to meet, to get together, meeting, gathering, union, group, association, a moment (Taiwan pr. for this sense is, to balance an account, accountancy, accounting",
+                "Equivalents": "",
+                "Example": "会, 社会, 不会, 会议, 会",
+                "IsSingleRune": true,
+                "Kangxi": ["人 = person,  people,  CL:個|个"],
+                "Pinyin": "hui4, kuai4",
+                "Traditional": "會"
+              }
+            ],
+            "Audio": "577cfff2988c0089fc7c5ae1b6d7e626a7fb7a9b.mp3",
+            "Chinese": "会",
+            "Components": [
+              "人 = person,  people,  CL:個|个",
+              "云 = (classical) to say, cloud,  CL:朵, surname Yun,  abbr. for Yunnan Province 雲南省|云南省"
+            ],
+            "English": "know how to, can (i.e. have the skill, know how to), likely to, sure to, to meet, to get together, meeting, gathering, union, group, association, a moment (Taiwan pr. for this sense is, to balance an account, accountancy, accounting",
+            "Equivalents": "",
+            "Example": "会, 社会, 不会, 会议, 机会",
+            "IsSingleRune": true,
+            "Kangxi": ["人 = person,  people,  CL:個|个"],
+            "NewChars": null,
+            "Pinyin": "huì",
+            "Traditional": "會",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "be3058692f120beec6c06756864764d1691e624e.mp3",
+                "Chinese": "说",
+                "Components": [
+                  "讠 = \"speech\" or \"words\" radical in Chinese characters (Kangxi radical 149),  see also 言字旁",
+                  "兑 = surname Dui, to cash,  to exchange,  to add (liquid)"
+                ],
+                "English": "to persuade, to speak, to say, to explain, to scold, to tell off, a theory (typically the last character in a compound, as in 日心說|日心说 heliocentric theory), variant of 說|说",
+                "Equivalents": "",
+                "Example": "说, 来说, 说明, 说道, 说",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "讠 = \"speech\" or \"words\" radical in Chinese characters (Kangxi radical 149),  see also 言字旁"
+                ],
+                "Pinyin": "shui4, shuo1",
+                "Traditional": "說, 説"
+              }
+            ],
+            "Audio": "be3058692f120beec6c06756864764d1691e624e.mp3",
+            "Chinese": "说",
+            "Components": [
+              "讠 = \"speech\" or \"words\" radical in Chinese characters (Kangxi radical 149),  see also 言字旁",
+              "兑 = surname Dui, to cash,  to exchange,  to add (liquid)"
+            ],
+            "English": "speak, to persuade, to speak, to say, to explain, to scold, to tell off, a theory (typically the last character in a compound, as in 日心說|日心说 heliocentric theory), variant of 說|说",
+            "Equivalents": "",
+            "Example": "说, 来说, 说明, 说道, 说话",
+            "IsSingleRune": true,
+            "Kangxi": [
+              "讠 = \"speech\" or \"words\" radical in Chinese characters (Kangxi radical 149),  see also 言字旁"
+            ],
+            "NewChars": null,
+            "Pinyin": "shuō",
+            "Traditional": "說, 説",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "8be87291bd58595e6c143ecdfe9cee507e932f04.mp3",
+                "Chinese": "汉",
+                "Components": [
+                  "氵 = \"water\" radical in Chinese characters (Kangxi radical 85),  occurring in 沒|没",
+                  "又 = (once) again,  also,  both... and..."
+                ],
+                "English": "Han ethnic group, Chinese (language), the Han dynasty (206 BC-220 AD), man",
+                "Equivalents": "",
+                "Example": "武汉, 汉, 汉语, 汉子, 汉语",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "氵 = \"water\" radical in Chinese characters (Kangxi radical 85),  occurring in 沒|没",
+                  "又 = (once) again,  also,  both... and..."
+                ],
+                "Pinyin": "han4",
+                "Traditional": "漢"
+              },
+              {
+                "Audio": "21c857be0178bab319a1bea2cc1b614689851421.mp3",
+                "Chinese": "语",
+                "Components": [
+                  "讠 = \"speech\" or \"words\" radical in Chinese characters (Kangxi radical 149),  see also 言字旁",
+                  "吾 = I,  my (old)"
+                ],
+                "English": "dialect, language, speech, to tell to",
+                "Equivalents": "",
+                "Example": "语, 语言, 英语, 语文, 汉语",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "讠 = \"speech\" or \"words\" radical in Chinese characters (Kangxi radical 149),  see also 言字旁"
+                ],
+                "Pinyin": "yu3, yu4",
+                "Traditional": "語"
+              }
+            ],
+            "Audio": "ae341b1780ffbc4f5de264aa7268cf74dcc7a4ea.mp3",
+            "Chinese": "汉语",
+            "Components": [
+              "汉 = Han ethnic group,  Chinese (language),  the Han dynasty (206 BC-220 AD), man",
+              "语 = dialect,  language,  speech, to tell to"
+            ],
+            "English": "Mandarin, Chinese language, CL:門|门",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": [],
+            "NewChars": null,
+            "Pinyin": "hànyǔ",
+            "Traditional": "漢語",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "8c49e4b3edb7f0239ec632f9766042bb19569fd1.mp3",
+                "Chinese": "吗",
+                "Components": [
+                  "口 = mouth,  classifier for things with mouths (people,  domestic animals",
+                  "马 = horse,  CL:匹, surname Ma,  abbr. for Malaysia 馬來西亞|马来西亚"
+                ],
+                "English": "see 嗎啡|吗啡, morphine, (question particle for \"yes-no\" questions)",
+                "Equivalents": "",
+                "Example": "吗, 干吗, 吗啡, 吗啡类, 吗",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "口 = mouth,  classifier for things with mouths (people,  domestic animals",
+                  "马 = horse,  CL:匹, surname Ma,  abbr. for Malaysia 馬來西亞|马来西亚"
+                ],
+                "Pinyin": "ma3, ma5",
+                "Traditional": "嗎"
+              }
+            ],
+            "Audio": "8c49e4b3edb7f0239ec632f9766042bb19569fd1.mp3",
+            "Chinese": "吗",
+            "Components": [
+              "口 = mouth,  classifier for things with mouths (people,  domestic animals",
+              "马 = horse,  CL:匹, surname Ma,  abbr. for Malaysia 馬來西亞|马来西亚"
+            ],
+            "English": "question particle, see 嗎啡|吗啡, morphine, (question particle for \"yes-no\" questions)",
+            "Equivalents": "",
+            "Example": "吗, 干吗, 吗啡, 吗啡类, 对吗啡类",
+            "IsSingleRune": true,
+            "Kangxi": [
+              "口 = mouth,  classifier for things with mouths (people,  domestic animals",
+              "马 = horse,  CL:匹, surname Ma,  abbr. for Malaysia 馬來西亞|马来西亚"
+            ],
+            "NewChars": null,
+            "Pinyin": "ma",
+            "Traditional": "嗎",
+            "UniqueChars": null
+          }
+        ],
+        "AlternativeAudio": "",
+        "Audio": "a7ccfde2b70a2c8488696ba104518df7e35bd0c3.mp3",
+        "Chinese": "你老公也会说汉语吗？",
+        "English": "Does your husband know how to speak Mandarin?",
+        "IsSingleRune": false,
+        "NewWords": null,
+        "Pinyin": "nǐ lǎogōng yě huì shuō hànyǔ ma?",
+        "UniqueChars": null
+      },
+      {
+        "AllWords": [
+          {
+            "AllChars": [
+              {
+                "Audio": "3d4edff079892f4b0987588a7e430574ddc0a4a0.mp3",
+                "Chinese": "哈",
+                "Components": [
+                  "口 = mouth,  classifier for things with mouths (people,  domestic animals",
+                  "合 = 100 ml,  one-tenth of a peck,  measure for dry grain equal to one-tenth of sheng 升 or liter, to close,  to join,  to fit, variant of 合"
+                ],
+                "English": "abbr. for 哈薩克斯坦|哈萨克斯坦, (interj.) ha!, (onom. for laughter), (slang) to be infatuated with, to adore, abbr. for 哈士奇, a Pekinese, a pug, (dialect) to scold",
+                "Equivalents": "",
+                "Example": "哈哈, 哈, 哈哈哈, 哈尔滨, 哈哈",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "口 = mouth,  classifier for things with mouths (people,  domestic animals"
+                ],
+                "Pinyin": "ha3, ha1",
+                "Traditional": "哈"
+              },
+              {
+                "Audio": "3d4edff079892f4b0987588a7e430574ddc0a4a0.mp3",
+                "Chinese": "哈",
+                "Components": [
+                  "口 = mouth,  classifier for things with mouths (people,  domestic animals",
+                  "合 = 100 ml,  one-tenth of a peck,  measure for dry grain equal to one-tenth of sheng 升 or liter, to close,  to join,  to fit, variant of 合"
+                ],
+                "English": "abbr. for 哈薩克斯坦|哈萨克斯坦, (interj.) ha!, (onom. for laughter), (slang) to be infatuated with, to adore, abbr. for 哈士奇, a Pekinese, a pug, (dialect) to scold",
+                "Equivalents": "",
+                "Example": "哈哈, 哈, 哈哈哈, 哈尔滨, 哈哈",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "口 = mouth,  classifier for things with mouths (people,  domestic animals"
+                ],
+                "Pinyin": "ha1, ha3",
+                "Traditional": "哈"
+              }
+            ],
+            "Audio": "955b7fbe8ace81297c87ae89f0b2084ade5a2751.mp3",
+            "Chinese": "哈哈",
+            "Components": [
+              "哈 = (interj.) ha!,  (onom. for laughter),  (slang) to be infatuated with, a Pekinese,  a pug,  (dialect) to scold, abbr. for 哈薩克斯坦|哈萨克斯坦",
+              "哈 = (interj.) ha!,  (onom. for laughter),  (slang) to be infatuated with, a Pekinese,  a pug,  (dialect) to scold, abbr. for 哈薩克斯坦|哈萨克斯坦"
+            ],
+            "English": "Haha, (onom.) laughing out loud",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": [],
+            "NewChars": null,
+            "Pinyin": "hā hā",
+            "Traditional": "哈哈",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "ab440c8ee491d3bc5f4124fad231d24daa1cb555.mp3",
+                "Chinese": "当",
+                "Components": ["⺌ = ", "彐 = pig snout (Kangxi radical 58)"],
+                "English": "(onom.) dong, ding dong (bell), to be, to act as, manage, withstand, when, during, ought, should, match equally, equal, same, obstruct, just at (a time or place), on the spot, right, just at, at or in the very same..., suitable, adequate, fitting, proper, to replace, to regard as, to think, to pawn, (coll.) to fail (a student)",
+                "Equivalents": "",
+                "Example": "当, 当时, 当然, 当地, 当然",
+                "IsSingleRune": true,
+                "Kangxi": ["⺌ = ", "彐 = pig snout (Kangxi radical 58)"],
+                "Pinyin": "dang1, dang4",
+                "Traditional": "噹, 當"
+              },
+              {
+                "Audio": "4e4ea6363b516fa7c2fe8434d1a0f95eddf0022b.mp3",
+                "Chinese": "然",
+                "Components": [
+                  "𠂊 = ",
+                  "冫 = \"ice\" radical in Chinese characters (Kangxi radical 15),  occurring in 冰",
+                  "犬 = dog,  Kangxi radical 94",
+                  "灬 = \"fire\" radical in Chinese characters (Kangxi radical 86),  occurring in 熙,  然"
+                ],
+                "English": "correct, right, so, thus, like this, -ly",
+                "Equivalents": "",
+                "Example": "虽然, 然后, 突然, 自然, 当然",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "冫 = \"ice\" radical in Chinese characters (Kangxi radical 15),  occurring in 冰",
+                  "犬 = dog,  Kangxi radical 94",
+                  "灬 = \"fire\" radical in Chinese characters (Kangxi radical 86),  occurring in 熙,  然"
+                ],
+                "Pinyin": "ran2",
+                "Traditional": "然"
+              }
+            ],
+            "Audio": "a084ce6d9eac6755953dc7a31cf1126e848df66b.mp3",
+            "Chinese": "当然",
+            "Components": [
+              "当 = (onom.) dong,  ding dong (bell), at or in the very same...,  suitable,  adequate, to be,  to act as,  manage",
+              "然 = correct,  right,  so"
+            ],
+            "English": "of course, only natural, as it should be, certainly, of course, without doubt",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": [],
+            "NewChars": null,
+            "Pinyin": "dāng rán",
+            "Traditional": "當然",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "e31b569a0f1d9ff0c78f766cae3732af1be502da.mp3",
+                "Chinese": "他",
+                "Components": [
+                  "亻 = \"person\" radical in Chinese characters (Kangxi radical 9)",
+                  "也 = also,  too,  (in Classical Chinese) final particle implying affirmation, surname Ye"
+                ],
+                "English": "he or him, (used for either sex when the sex is unknown or unimportant), (used before sb's name for emphasis), (used as a meaningless mock object), other, another",
+                "Equivalents": "",
+                "Example": "他, 他们, 其他, 他人, 他",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "亻 = \"person\" radical in Chinese characters (Kangxi radical 9)"
+                ],
+                "Pinyin": "ta1",
+                "Traditional": "他"
+              }
+            ],
+            "Audio": "e31b569a0f1d9ff0c78f766cae3732af1be502da.mp3",
+            "Chinese": "他",
+            "Components": [
+              "亻 = \"person\" radical in Chinese characters (Kangxi radical 9)",
+              "也 = also,  too,  (in Classical Chinese) final particle implying affirmation, surname Ye"
+            ],
+            "English": "he, he or him, (used for either sex when the sex is unknown or unimportant), (used before sb's name for emphasis), (used as a meaningless mock object), other, another",
+            "Equivalents": "",
+            "Example": "他, 他们, 其他, 他人, 他妈的",
+            "IsSingleRune": true,
+            "Kangxi": [
+              "亻 = \"person\" radical in Chinese characters (Kangxi radical 9)"
+            ],
+            "NewChars": null,
+            "Pinyin": "tā",
+            "Traditional": "他",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "30160a21b92a049fc2befcdb70039ed5099df41f.mp3",
+                "Chinese": "是",
+                "Components": ["日 = abbr. for 日本, sun,  day,  date", "𤴓 = "],
+                "English": "is, are, am, yes, to be, variant of 是",
+                "Equivalents": "",
+                "Example": "是, 就是, 不是, 还是, 是",
+                "IsSingleRune": true,
+                "Kangxi": ["日 = abbr. for 日本, sun,  day,  date"],
+                "Pinyin": "shi4",
+                "Traditional": "是, 昰"
+              }
+            ],
+            "Audio": "30160a21b92a049fc2befcdb70039ed5099df41f.mp3",
+            "Chinese": "是",
+            "Components": ["日 = abbr. for 日本, sun,  day,  date", "𤴓 = "],
+            "English": "is, is, are, am, yes, to be, variant of 是",
+            "Equivalents": "",
+            "Example": "是, 就是, 不是, 还是, 但是",
+            "IsSingleRune": true,
+            "Kangxi": ["日 = abbr. for 日本, sun,  day,  date"],
+            "NewChars": null,
+            "Pinyin": "shì",
+            "Traditional": "是, 昰",
+            "UniqueChars": null
+          },
+          {
+            "AllChars": [
+              {
+                "Audio": "0869071c92c0c11170ac87036bebedb52ea0c993.mp3",
+                "Chinese": "中",
+                "Components": [
+                  "口 = mouth,  classifier for things with mouths (people,  domestic animals",
+                  "丨 = radical in Chinese characters (Kangxi radical 2), vertical stroke (in Chinese characters),  referred to as 豎筆|竖笔"
+                ],
+                "English": "China, Chinese, surname Zhong, within, among, in, middle, center, while (doing sth), during, (dialect) OK, all right, to hit (the mark), to be hit by, to suffer, to win (a prize, a lottery)",
+                "Equivalents": "",
+                "Example": "中, 中国, 其中, 中心, 中国人",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "口 = mouth,  classifier for things with mouths (people,  domestic animals",
+                  "丨 = radical in Chinese characters (Kangxi radical 2), vertical stroke (in Chinese characters),  referred to as 豎筆|竖笔"
+                ],
+                "Pinyin": "zhong1, zhong4",
+                "Traditional": "中"
+              },
+              {
+                "Audio": "f4bba5643a36e3e8a18344ed69240389a87385d1.mp3",
+                "Chinese": "国",
+                "Components": ["囗 = enclosure", "玉 = jade"],
+                "English": "surname Guo, country, nation, state, national, CL:個|个",
+                "Equivalents": "",
+                "Example": "中国, 国家, 美国, 国际, 中国人",
+                "IsSingleRune": true,
+                "Kangxi": ["囗 = enclosure", "玉 = jade"],
+                "Pinyin": "guo2",
+                "Traditional": "國"
+              },
+              {
+                "Audio": "4912771a4216d897b1f3c71bb0e4994e86410815.mp3",
+                "Chinese": "人",
+                "Components": [],
+                "English": "person, people, CL:個|个",
+                "Equivalents": "",
+                "Example": "人, 人员, 人民, 个人, 中国人",
+                "IsSingleRune": true,
+                "Kangxi": [],
+                "Pinyin": "ren2",
+                "Traditional": "人"
+              }
+            ],
+            "Audio": "bf72e07ef4f6b62e39726889dd61a0a61d4fa7d0.mp3",
+            "Chinese": "中国人",
+            "Components": [
+              "中 = China,  Chinese,  surname Zhong, to hit (the mark),  to be hit by,  to suffer, within,  among,  in",
+              "国 = country,  nation,  state, surname Guo",
+              "人 = person,  people,  CL:個|个"
+            ],
+            "English": "Chinese, Chinese person",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": ["人 = person,  people,  CL:個|个"],
+            "NewChars": null,
+            "Pinyin": "zhōng guó rén",
+            "Traditional": "中國人",
+            "UniqueChars": null
+          }
+        ],
+        "AlternativeAudio": "",
+        "Audio": "775058a56bc33ba70a58ec776baac8e154c66f56.mp3",
+        "Chinese": "哈哈，当然，他是中国人！",
+        "English": "Haha, of course, he is Chinese!",
+        "IsSingleRune": false,
+        "NewWords": [
+          {
+            "AllChars": [
+              {
+                "Audio": "ab440c8ee491d3bc5f4124fad231d24daa1cb555.mp3",
+                "Chinese": "当",
+                "Components": ["⺌ = ", "彐 = pig snout (Kangxi radical 58)"],
+                "English": "(onom.) dong, ding dong (bell), to be, to act as, manage, withstand, when, during, ought, should, match equally, equal, same, obstruct, just at (a time or place), on the spot, right, just at, at or in the very same..., suitable, adequate, fitting, proper, to replace, to regard as, to think, to pawn, (coll.) to fail (a student)",
+                "Equivalents": "",
+                "Example": "当, 当时, 当然, 当地, 当然",
+                "IsSingleRune": true,
+                "Kangxi": ["⺌ = ", "彐 = pig snout (Kangxi radical 58)"],
+                "Pinyin": "dang1, dang4",
+                "Traditional": "噹, 當"
+              },
+              {
+                "Audio": "4e4ea6363b516fa7c2fe8434d1a0f95eddf0022b.mp3",
+                "Chinese": "然",
+                "Components": [
+                  "𠂊 = ",
+                  "冫 = \"ice\" radical in Chinese characters (Kangxi radical 15),  occurring in 冰",
+                  "犬 = dog,  Kangxi radical 94",
+                  "灬 = \"fire\" radical in Chinese characters (Kangxi radical 86),  occurring in 熙,  然"
+                ],
+                "English": "correct, right, so, thus, like this, -ly",
+                "Equivalents": "",
+                "Example": "虽然, 然后, 突然, 自然, 当然",
+                "IsSingleRune": true,
+                "Kangxi": [
+                  "冫 = \"ice\" radical in Chinese characters (Kangxi radical 15),  occurring in 冰",
+                  "犬 = dog,  Kangxi radical 94",
+                  "灬 = \"fire\" radical in Chinese characters (Kangxi radical 86),  occurring in 熙,  然"
+                ],
+                "Pinyin": "ran2",
+                "Traditional": "然"
+              }
+            ],
+            "Audio": "a084ce6d9eac6755953dc7a31cf1126e848df66b.mp3",
+            "Chinese": "当然",
+            "Components": [
+              "当 = (onom.) dong,  ding dong (bell), at or in the very same...,  suitable,  adequate, to be,  to act as,  manage",
+              "然 = correct,  right,  so"
+            ],
+            "English": "of course, only natural, as it should be, certainly, of course, without doubt",
+            "Equivalents": "",
+            "Example": "",
+            "IsSingleRune": false,
+            "Kangxi": [],
+            "NewChars": [],
+            "Pinyin": "dāng rán",
+            "Traditional": "當然",
+            "UniqueChars": null
+          }
+        ],
+        "Pinyin": "hā hā, dāng rán, tā shì zhōng guó rén!",
+        "UniqueChars": null
+      }
+    ],
+    "Tags": null,
+    "UniqueChars": [
+      "汉",
+      "语",
+      "久",
+      "友",
+      "喜",
+      "年",
+      "明",
+      "我",
+      "欢",
+      "儿",
+      "女",
+      "说",
+      "爸",
+      "上",
+      "真",
+      "中",
+      "国",
+      "王",
+      "来",
+      "的",
+      "人",
+      "妈",
+      "吃",
+      "没",
+      "福",
+      "会",
+      "你",
+      "对",
+      "那",
+      "然",
+      "个",
+      "宝",
+      "岁",
+      "师",
+      "和",
+      "东",
+      "孩",
+      "公",
+      "当",
+      "贝",
+      "一",
+      "去",
+      "好",
+      "见",
+      "也",
+      "家",
+      "有",
+      "饭",
+      "广",
+      "小",
+      "四",
+      "口",
+      "不",
+      "今",
+      "哈",
+      "这",
+      "里",
+      "菜",
+      "吗",
+      "孙",
+      "是",
+      "店",
+      "朋",
+      "他",
+      "们",
+      "在",
+      "很",
+      "了",
+      "学",
+      "老",
+      "子",
+      "大",
+      "幸",
+      "都"
+    ]
+  },
+  {
+    "Chinese": "",
+    "Deck": "mandarin_bean",
+    "English": "",
+    "Pinyin": "",
+    "Sentences": null,
+    "Tags": null,
+    "UniqueChars": []
+  }
+]

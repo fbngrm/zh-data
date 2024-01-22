@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆有样东西要给玛丽。",
+  "english": "Tom has something to give to Mary.",
+  "pinyin": "tāng mǔ yǒu yàng dōng xī yào gěi mǎ lì。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "样",
+      "en": "something",
+      "pi": "yàng"
+    },
+    {
+      "ch": "东西",
+      "en": "to",
+      "pi": "dōng xī"
+    },
+    {
+      "ch": "要",
+      "en": "give",
+      "pi": "yào"
+    },
+    {
+      "ch": "给",
+      "en": "to",
+      "pi": "gěi"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    }
+  ]
+}

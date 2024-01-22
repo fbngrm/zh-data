@@ -1,0 +1,47 @@
+{
+  "chinese": "我以前吃披萨，但现在不了。",
+  "english": "I used to eat pizza, but not anymore.",
+  "pinyin": "wǒ yǐqián chī pīsà, dàn xiànzài bù liǎo。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "以前",
+      "en": "used to",
+      "pi": "yǐqián"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "披萨",
+      "en": "pizza",
+      "pi": "pīsà"
+    },
+    {
+      "ch": "但",
+      "en": "but",
+      "pi": "dàn"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiànzài"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "了",
+      "en": "anymore",
+      "pi": "liǎo"
+    }
+  ]
+}

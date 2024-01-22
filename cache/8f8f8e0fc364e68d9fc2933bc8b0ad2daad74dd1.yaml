@@ -1,0 +1,32 @@
+{
+  "chinese": "这件大衣没有袋子。",
+  "english": "This coat doesn't have pockets.",
+  "pinyin": "zhè jiàn dàyī méiyǒu dàizi.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "件",
+      "en": "piece",
+      "pi": "jiàn"
+    },
+    {
+      "ch": "大衣",
+      "en": "coat",
+      "pi": "dàyī"
+    },
+    {
+      "ch": "没有",
+      "en": "don't have",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "袋子",
+      "en": "pockets",
+      "pi": "dàizi"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "chinese": "你哥哥是谁？",
+  "english": "Who is your older brother?",
+  "pinyin": "nǐ gēgē shì shuí?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "哥哥", "en": "older brother", "pi": "gēgē"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "谁", "en": "who", "pi": "shuí"}
+  ]
+}

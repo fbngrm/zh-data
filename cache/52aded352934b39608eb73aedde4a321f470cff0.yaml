@@ -1,0 +1,32 @@
+{
+  "chinese": "我想要一颗糖。",
+  "english": "I want a candy.",
+  "pinyin": "wǒ xiǎng yào yī kē táng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想要",
+      "en": "want",
+      "pi": "xiǎng yào"
+    },
+    {
+      "ch": "一",
+      "en": "a",
+      "pi": "yī"
+    },
+    {
+      "ch": "颗",
+      "en": "particle for small objects",
+      "pi": "kē"
+    },
+    {
+      "ch": "糖",
+      "en": "candy",
+      "pi": "táng"
+    }
+  ]
+}

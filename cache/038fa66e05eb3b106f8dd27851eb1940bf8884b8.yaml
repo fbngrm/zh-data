@@ -1,0 +1,15 @@
+{
+  "chinese": "哈罗德先生是一个很好的英国绅士。",
+  "english": "Mr. Harold is a very good British gentleman.",
+  "pinyin": "Hā luō dé xiān shēng shì yī gè hěn hǎo de yīng guó shēn shì。",
+  "words": [
+    {"ch": "哈罗德", "en": "Harold", "pi": "Hā luō dé"},
+    {"ch": "先生", "en": "Mr.", "pi": "xiān shēng"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "一个", "en": "a", "pi": "yī gè"},
+    {"ch": "很好", "en": "very good", "pi": "hěn hǎo"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "英国", "en": "British", "pi": "yīng guó"},
+    {"ch": "绅士", "en": "gentleman", "pi": "shēn shì"}
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆对登山感兴趣。",
+  "english": "Tom is interested in mountaineering.",
+  "pinyin": "Tāng mǔ duì dēng shān gǎn xìng qù.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "对",
+      "en": "is",
+      "pi": "duì"
+    },
+    {
+      "ch": "登山",
+      "en": "mountaineering",
+      "pi": "dēng shān"
+    },
+    {
+      "ch": "感兴趣",
+      "en": "interested in",
+      "pi": "gǎn xìng qù"
+    }
+  ]
+}

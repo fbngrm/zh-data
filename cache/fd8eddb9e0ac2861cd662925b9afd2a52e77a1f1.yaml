@@ -1,0 +1,18 @@
+{
+  "chinese": "日本的高校生每年要上三十五个星期的学。",
+  "english": "Japanese high school students have to attend classes for thirty-five weeks every year.",
+  "pinyin": "rì běn de gāo xiào shēng měi nián yào shàng sān shí wǔ gè xīng qī de xué。",
+  "words": [
+    {"ch": "日本", "en": "Japan", "pi": "rì běn"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "高校生", "en": "high school students", "pi": "gāo xiào shēng"},
+    {"ch": "每年", "en": "every year", "pi": "měi nián"},
+    {"ch": "要", "en": "have to", "pi": "yào"},
+    {"ch": "上", "en": "attend", "pi": "shàng"},
+    {"ch": "三十五", "en": "thirty-five", "pi": "sān shí wǔ"},
+    {"ch": "个", "en": "count word", "pi": "gè"},
+    {"ch": "星期", "en": "week", "pi": "xīng qī"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "学", "en": "study", "pi": "xué"}
+  ]
+}

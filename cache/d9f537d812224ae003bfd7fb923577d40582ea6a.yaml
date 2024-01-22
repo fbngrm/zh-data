@@ -1,0 +1,42 @@
+{
+  "chinese": "正在下雨，孩子们没有在院子里玩儿。",
+  "english": "It's raining, the children are not playing in the yard.",
+  "pinyin": "zhèng zài xià yǔ, hái zǐ men méi yǒu zài yuàn zǐ lǐ wán ér.",
+  "words": [
+    {
+      "ch": "正在",
+      "en": "is currently",
+      "pi": "zhèng zài"
+    },
+    {
+      "ch": "下雨",
+      "en": "raining",
+      "pi": "xià yǔ"
+    },
+    {
+      "ch": "孩子们",
+      "en": "the children",
+      "pi": "hái zǐ men"
+    },
+    {
+      "ch": "没有",
+      "en": "do not have",
+      "pi": "méi yǒu"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "院子里",
+      "en": "the yard",
+      "pi": "yuàn zǐ lǐ"
+    },
+    {
+      "ch": "玩儿",
+      "en": "playing",
+      "pi": "wán ér"
+    }
+  ]
+}

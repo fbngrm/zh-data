@@ -1,0 +1,48 @@
+{
+  "sentences": [
+    {
+      "chinese": "抓饭肉是八块钱。",
+      "english": "Braised pork rice costs 8 yuan.",
+      "pinyin": "zhuā fàn ròu shì bā kuài qián。",
+      "words": [
+        {
+          "ch": "抓饭肉",
+          "en": "braised pork rice",
+          "pi": "zhuā fàn ròu"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "八块钱",
+          "en": "8 yuan",
+          "pi": "bā kuài qián"
+        }
+      ]
+    },
+    {
+      "chinese": "素抓饭只是四块钱。",
+      "english": "Vegetarian braised rice costs only 4 yuan.",
+      "pinyin": "sù zhuā fàn zhǐ shì sì kuài qián。",
+      "words": [
+        {
+          "ch": "素抓饭",
+          "en": "vegetarian braised rice",
+          "pi": "sù zhuā fàn"
+        },
+        {
+          "ch": "只是",
+          "en": "only",
+          "pi": "zhǐ shì"
+        },
+        {
+          "ch": "四块钱",
+          "en": "4 yuan",
+          "pi": "sì kuài qián"
+        }
+      ]
+    }
+  ]
+}

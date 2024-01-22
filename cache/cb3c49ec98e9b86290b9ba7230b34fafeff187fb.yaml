@@ -1,0 +1,32 @@
+{
+  "chinese": "火车里挤满了乘客。",
+  "english": "The train is crowded with passengers.",
+  "pinyin": "huǒchē lǐ jǐ mǎn le chéngkè.",
+  "words": [
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒchē"
+    },
+    {
+      "ch": "里",
+      "en": "inside",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "挤满",
+      "en": "crowded with",
+      "pi": "jǐ mǎn"
+    },
+    {
+      "ch": "了",
+      "en": "[particle indicating a new situation or a completed action]",
+      "pi": "le"
+    },
+    {
+      "ch": "乘客",
+      "en": "passengers",
+      "pi": "chéngkè"
+    }
+  ]
+}

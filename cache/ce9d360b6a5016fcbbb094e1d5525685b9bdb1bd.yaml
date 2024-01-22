@@ -1,0 +1,32 @@
+{
+  "chinese": "这个小孩身体很烫。",
+  "english": "This child's body is very hot.",
+  "pinyin": "zhè gè xiǎo hái shēn tǐ hěn tàng.",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "小孩",
+      "en": "child",
+      "pi": "xiǎo hái"
+    },
+    {
+      "ch": "身体",
+      "en": "body",
+      "pi": "shēn tǐ"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "烫",
+      "en": "hot",
+      "pi": "tàng"
+    }
+  ]
+}

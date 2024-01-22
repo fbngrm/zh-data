@@ -1,0 +1,32 @@
+{
+  "chinese": "昨天相当的冷啊！",
+  "english": "Yesterday was quite cold!",
+  "pinyin": "zuó tiān xiāng dāng de lěng a!",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "Yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "相当",
+      "en": "quite",
+      "pi": "xiāng dāng"
+    },
+    {
+      "ch": "的",
+      "en": "was",
+      "pi": "de"
+    },
+    {
+      "ch": "冷",
+      "en": "cold",
+      "pi": "lěng"
+    },
+    {
+      "ch": "啊",
+      "en": "!",
+      "pi": "a"
+    }
+  ]
+}

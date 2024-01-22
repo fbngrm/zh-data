@@ -1,0 +1,37 @@
+{
+  "chinese": "她晚上九點鐘上了車。",
+  "english": "She got on the car at nine o'clock at night.",
+  "pinyin": "tā wǎnshàng jiǔ diǎnzhōng shàng le chē。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "晚上",
+      "en": "at night",
+      "pi": "wǎnshàng"
+    },
+    {
+      "ch": "九點",
+      "en": "nine o'clock",
+      "pi": "jiǔ diǎn"
+    },
+    {
+      "ch": "鐘",
+      "en": "o'clock",
+      "pi": "zhōng"
+    },
+    {
+      "ch": "上了",
+      "en": "got on",
+      "pi": "shàng le"
+    },
+    {
+      "ch": "車",
+      "en": "car",
+      "pi": "chē"
+    }
+  ]
+}

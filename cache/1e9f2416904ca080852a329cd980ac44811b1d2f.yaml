@@ -1,0 +1,32 @@
+{
+  "chinese": "他偷了我的表。",
+  "english": "He stole my watch.",
+  "pinyin": "tā tōu le wǒ de biǎo.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "偷",
+      "en": "stole",
+      "pi": "tōu"
+    },
+    {
+      "ch": "了",
+      "en": "my (possession)",
+      "pi": "le"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "表",
+      "en": "watch",
+      "pi": "biǎo"
+    }
+  ]
+}

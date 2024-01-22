@@ -1,0 +1,42 @@
+{
+  "chinese": "从这里到我家很远。",
+  "english": "It's very far from here to my house.",
+  "pinyin": "cóng zhè lǐ dào wǒ jiā hěn yuǎn.",
+  "words": [
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "到",
+      "en": "to",
+      "pi": "dào"
+    },
+    {
+      "ch": "我家",
+      "en": "my house",
+      "pi": "wǒ jiā"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "远",
+      "en": "far",
+      "pi": "yuǎn"
+    },
+    {
+      "ch": "。",
+      "en": "",
+      "pi": "。"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆正在客厅里等着。",
+  "english": "Tom is waiting in the living room.",
+  "pinyin": "Tāng mǔ zhèngzài kètīng lǐ děngzhe.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "正在",
+      "en": "is",
+      "pi": "zhèngzài"
+    },
+    {
+      "ch": "客厅",
+      "en": "living room",
+      "pi": "kètīng"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "等着",
+      "en": "waiting",
+      "pi": "děngzhe"
+    }
+  ]
+}

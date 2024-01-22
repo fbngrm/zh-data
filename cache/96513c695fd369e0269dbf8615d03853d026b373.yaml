@@ -1,0 +1,37 @@
+{
+  "chinese": "你今天下午想不想去动物园？",
+  "english": "Do you want to go to the zoo this afternoon?",
+  "pinyin": "Nǐ jīntiān xiàwǔ xiǎng bù xiǎng qù dòngwùyuán?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "下午",
+      "en": "afternoon",
+      "pi": "xiàwǔ"
+    },
+    {
+      "ch": "想不想",
+      "en": "want or not",
+      "pi": "xiǎng bù xiǎng"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "动物园",
+      "en": "zoo",
+      "pi": "dòngwùyuán"
+    }
+  ]
+}

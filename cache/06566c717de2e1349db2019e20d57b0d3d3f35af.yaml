@@ -1,0 +1,15 @@
+{
+  "chinese": "她给我们看了一顶漂亮的帽子。",
+  "english": "She showed us a beautiful hat.",
+  "pinyin": "tā gěi wǒmen kàn le yī dǐng piàoliang de màozi.",
+  "words": [
+    {"ch": "她", "en": "She", "pi": "tā"},
+    {"ch": "给", "en": "show/give", "pi": "gěi"},
+    {"ch": "我们", "en": "us", "pi": "wǒmen"},
+    {"ch": "看", "en": "see", "pi": "kàn"},
+    {"ch": "了", "en": "past tense particle", "pi": "le"},
+    {"ch": "一顶", "en": "a", "pi": "yī dǐng"},
+    {"ch": "漂亮的", "en": "beautiful", "pi": "piàoliang de"},
+    {"ch": "帽子", "en": "hat", "pi": "màozi"}
+  ]
+}

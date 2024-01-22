@@ -1,0 +1,32 @@
+{
+  "chinese": "這是我的真心話。",
+  "english": "This is my true words.",
+  "pinyin": "zhè shì wǒ de zhēn xīn huà。",
+  "words": [
+    {
+      "ch": "這",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我",
+      "en": "my",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "真心話",
+      "en": "true words",
+      "pi": "zhēn xīn huà"
+    }
+  ]
+}

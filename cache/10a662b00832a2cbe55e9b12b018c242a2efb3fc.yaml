@@ -1,0 +1,32 @@
+{
+  "chinese": "我想吃海鲜火锅。",
+  "english": "I want to eat seafood hotpot.",
+  "pinyin": "wǒ xiǎng chī hǎi xiān huǒ guō。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "海鲜",
+      "en": "seafood",
+      "pi": "hǎi xiān"
+    },
+    {
+      "ch": "火锅",
+      "en": "hotpot",
+      "pi": "huǒ guō"
+    }
+  ]
+}

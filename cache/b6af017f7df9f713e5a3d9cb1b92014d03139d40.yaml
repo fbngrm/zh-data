@@ -1,0 +1,17 @@
+{
+  "chinese": "报纸、杂志和新闻广播讲述着世界上正在发生的事。",
+  "english": "Newspapers, magazines, and news broadcasts talk about what is happening in the world.",
+  "pinyin": "bàozhǐ, zázhì hé xīnwén guǎngbō jiǎngshù zhe shìjiè shàng zhèngzài fāshēng de shì.",
+  "words": [
+    {"ch": "报纸", "en": "newspapers", "pi": "bàozhǐ"},
+    {"ch": "杂志", "en": "magazines", "pi": "zázhì"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "新闻广播", "en": "news broadcasts", "pi": "xīnwén guǎngbō"},
+    {"ch": "讲述", "en": "talk about", "pi": "jiǎngshù"},
+    {"ch": "着", "en": "what", "pi": "zhe"},
+    {"ch": "世界上", "en": "in the world", "pi": "shìjiè shàng"},
+    {"ch": "正在", "en": "is happening", "pi": "zhèngzài"},
+    {"ch": "发生的", "en": "occurring", "pi": "fāshēng de"},
+    {"ch": "事", "en": "things", "pi": "shì"}
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆不再给我写信了。",
+  "english": "Tom doesn't write me letters anymore.",
+  "pinyin": "tāng mǔ bú zài gěi wǒ xiě xìn le.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "不再",
+      "en": "don't anymore",
+      "pi": "bú zài"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "写信",
+      "en": "write letters",
+      "pi": "xiě xìn"
+    },
+    {
+      "ch": "了",
+      "en": "anymore",
+      "pi": "le"
+    }
+  ]
+}

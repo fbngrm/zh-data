@@ -1,0 +1,37 @@
+{
+  "chinese": "你想去看电影吗？",
+  "english": "Do you want to go watch a movie?",
+  "pinyin": "nǐ xiǎng qù kàn diàn yǐng ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "去",
+      "en": "to go",
+      "pi": "qù"
+    },
+    {
+      "ch": "看",
+      "en": "to watch",
+      "pi": "kàn"
+    },
+    {
+      "ch": "电影",
+      "en": "movie",
+      "pi": "diàn yǐng"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

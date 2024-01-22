@@ -1,0 +1,32 @@
+{
+  "chinese": "我还是写不好汉语。",
+  "english": "I still can't write Chinese well.",
+  "pinyin": "wǒ hái shì xiě bù hǎo hànyǔ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "还是",
+      "en": "still",
+      "pi": "hái shì"
+    },
+    {
+      "ch": "写",
+      "en": "write",
+      "pi": "xiě"
+    },
+    {
+      "ch": "不好",
+      "en": "not good",
+      "pi": "bù hǎo"
+    },
+    {
+      "ch": "汉语",
+      "en": "Chinese language",
+      "pi": "hànyǔ"
+    }
+  ]
+}

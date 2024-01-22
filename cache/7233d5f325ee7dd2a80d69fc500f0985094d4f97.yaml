@@ -1,0 +1,42 @@
+{
+  "chinese": "我的家离这里只有一英里。",
+  "english": "My home is only one mile away from here.",
+  "pinyin": "wǒ de jiā lí zhèlǐ zhǐ yǒu yī yīng lǐ。",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "家",
+      "en": "home",
+      "pi": "jiā"
+    },
+    {
+      "ch": "离",
+      "en": "away",
+      "pi": "lí"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhèlǐ"
+    },
+    {
+      "ch": "只有",
+      "en": "only",
+      "pi": "zhǐ yǒu"
+    },
+    {
+      "ch": "一",
+      "en": "one",
+      "pi": "yī"
+    },
+    {
+      "ch": "英里",
+      "en": "mile",
+      "pi": "yīng lǐ"
+    }
+  ]
+}

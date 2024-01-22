@@ -1,0 +1,15 @@
+{
+  "chinese": "我没时间找你想要的东西。",
+  "english": "I don't have time to look for the thing you want.",
+  "pinyin": "wǒ méi shíjiān zhǎo nǐ xiǎngyào de dōngxi.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "没", "en": "don't have", "pi": "méi"},
+    {"ch": "时间", "en": "time", "pi": "shíjiān"},
+    {"ch": "找", "en": "to look for", "pi": "zhǎo"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "想要", "en": "want", "pi": "xiǎngyào"},
+    {"ch": "的", "en": "the", "pi": "de"},
+    {"ch": "东西", "en": "thing", "pi": "dōngxi"}
+  ]
+}

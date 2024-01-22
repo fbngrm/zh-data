@@ -1,0 +1,32 @@
+{
+  "chinese": "我住在东京郊区。",
+  "english": "I live in the suburbs of Tokyo.",
+  "pinyin": "wǒ zhù zài dōngjīng jiāoqū。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "住",
+      "en": "live",
+      "pi": "zhù"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "东京",
+      "en": "Tokyo",
+      "pi": "dōngjīng"
+    },
+    {
+      "ch": "郊区",
+      "en": "suburbs",
+      "pi": "jiāoqū"
+    }
+  ]
+}

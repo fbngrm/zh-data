@@ -1,0 +1,37 @@
+{
+  "chinese": "小镇被暴风雨后的洪水摧毁了。",
+  "english": "The town was destroyed by the flood after the storm.",
+  "pinyin": "Xiǎo zhèn bèi bàofēngyǔ hòu de hóngshuǐ cuīhuǐle.",
+  "words": [
+    {
+      "ch": "小镇",
+      "en": "town",
+      "pi": "xiǎo zhèn"
+    },
+    {
+      "ch": "被",
+      "en": "by",
+      "pi": "bèi"
+    },
+    {
+      "ch": "暴风雨",
+      "en": "storm",
+      "pi": "bàofēngyǔ"
+    },
+    {
+      "ch": "后的",
+      "en": "after",
+      "pi": "hòu de"
+    },
+    {
+      "ch": "洪水",
+      "en": "flood",
+      "pi": "hóngshuǐ"
+    },
+    {
+      "ch": "摧毁了",
+      "en": "destroyed",
+      "pi": "cuīhuǐle"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "chinese": "我一星期前意外受伤，现在不能出外。",
+  "english": "I injured myself unexpectedly a week ago and now I can't go out.",
+  "pinyin": "wǒ yī xīngqī qián yìwài shòushāng, xiànzài bùnéng chūwài.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "一", "en": "one", "pi": "yī"},
+    {"ch": "星期", "en": "week", "pi": "xīngqī"},
+    {"ch": "前", "en": "ago", "pi": "qián"},
+    {"ch": "意外", "en": "unexpected", "pi": "yìwài"},
+    {"ch": "受伤", "en": "injured", "pi": "shòushāng"},
+    {"ch": "现在", "en": "now", "pi": "xiànzài"},
+    {"ch": "不能", "en": "cannot", "pi": "bùnéng"},
+    {"ch": "出外", "en": "go out", "pi": "chūwài"}
+  ]
+}

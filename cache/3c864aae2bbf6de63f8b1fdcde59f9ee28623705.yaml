@@ -1,0 +1,37 @@
+{
+  "chinese": "我今天早上不想散步。",
+  "english": "I don't want to take a walk this morning.",
+  "pinyin": "wǒ jīntiān zǎoshang bùxiǎng sànbù。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎoshang"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "散步",
+      "en": "take a walk",
+      "pi": "sànbù"
+    }
+  ]
+}

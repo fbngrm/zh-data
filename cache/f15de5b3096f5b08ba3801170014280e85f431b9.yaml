@@ -1,0 +1,13 @@
+{
+  "chinese": "医生正在量病人的脉搏。",
+  "english": "The doctor is measuring the patient's pulse.",
+  "pinyin": "Yīshēng zhèngzài liáng bìngrén de màibó.",
+  "words": [
+    {"ch": "医生", "en": "doctor", "pi": "yīshēng"},
+    {"ch": "正在", "en": "is", "pi": "zhèngzài"},
+    {"ch": "量", "en": "measuring", "pi": "liáng"},
+    {"ch": "病人", "en": "patient", "pi": "bìngrén"},
+    {"ch": "的", "en": "the", "pi": "de"},
+    {"ch": "脉搏", "en": "pulse", "pi": "màibó"}
+  ]
+}

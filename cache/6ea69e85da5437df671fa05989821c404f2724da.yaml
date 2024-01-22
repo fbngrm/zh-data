@@ -1,0 +1,20 @@
+{
+  "chinese": "我读小学的时候，我母亲每天来接我。",
+  "english": "When I was in elementary school, my mother came to pick me up every day.",
+  "pinyin": "Wǒ dú xiǎoxué de shíhòu, wǒ mǔqīn měitiān lái jiē wǒ。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "读", "en": "read", "pi": "dú"},
+    {"ch": "小学", "en": "elementary school", "pi": "xiǎoxué"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "时候", "en": "time", "pi": "shíhòu"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "母亲", "en": "mother", "pi": "mǔqīn"},
+    {"ch": "每天", "en": "every day", "pi": "měitiān"},
+    {"ch": "来", "en": "come", "pi": "lái"},
+    {"ch": "接", "en": "pick up", "pi": "jiē"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

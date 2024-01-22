@@ -1,0 +1,13 @@
+{
+  "chinese": "不要让任何人进入这个房间。",
+  "english": "Do not let anyone enter this room.",
+  "pinyin": "bú yào ràng rèn hé rén jìn rù zhè gè fáng jiān.",
+  "words": [
+    {"ch": "不要", "en": "Do not", "pi": "bú yào"},
+    {"ch": "让", "en": "let", "pi": "ràng"},
+    {"ch": "任何人", "en": "anyone", "pi": "rèn hé rén"},
+    {"ch": "进入", "en": "enter", "pi": "jìn rù"},
+    {"ch": "这个", "en": "this", "pi": "zhè gè"},
+    {"ch": "房间", "en": "room", "pi": "fáng jiān"}
+  ]
+}

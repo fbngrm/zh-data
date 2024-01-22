@@ -1,0 +1,20 @@
+{
+  "chinese": "球队已经训练了几天，所以这个足球场有些泥泞，不太好用了。",
+  "english": "The team has been training for a few days, so this soccer field is a bit muddy and not very usable.",
+  "pinyin": "qiú duì yǐ jīng xùn liàn le jǐ tiān, suǒ yǐ zhè ge zú qiú chǎng yǒu xiē ní zhuàng, bù tài hǎo yòng le.",
+  "words": [
+    { "ch": "球队", "en": "team", "pi": "qiú duì" },
+    { "ch": "已经", "en": "already", "pi": "yǐ jīng" },
+    { "ch": "训练", "en": "train", "pi": "xùn liàn" },
+    { "ch": "了", "en": "particle indicating completed action", "pi": "le" },
+    { "ch": "几天", "en": "a few days", "pi": "jǐ tiān" },
+    { "ch": "所以", "en": "so", "pi": "suǒ yǐ" },
+    { "ch": "这个", "en": "this", "pi": "zhè ge" },
+    { "ch": "足球场", "en": "soccer field", "pi": "zú qiú chǎng" },
+    { "ch": "有些", "en": "a bit", "pi": "yǒu xiē" },
+    { "ch": "泥泞", "en": "muddy", "pi": "ní zhuàng" },
+    { "ch": "不太", "en": "not very", "pi": "bù tài" },
+    { "ch": "好用", "en": "usable", "pi": "hǎo yòng" },
+    { "ch": "了", "en": "particle indicating completed action", "pi": "le" }
+  ]
+}

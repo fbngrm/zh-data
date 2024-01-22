@@ -1,0 +1,32 @@
+{
+  "chinese": "哎呀，我们好像忘了汤姆。",
+  "english": "Oh no, it seems like we forgot Tom.",
+  "pinyin": "āi yā, wǒ men hǎo xiàng wàng le tāng mǔ.",
+  "words": [
+    {
+      "ch": "哎呀",
+      "en": "Oh no",
+      "pi": "āi yā"
+    },
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "好像",
+      "en": "seems like",
+      "pi": "hǎo xiàng"
+    },
+    {
+      "ch": "忘了",
+      "en": "forgot",
+      "pi": "wàng le"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    }
+  ]
+}

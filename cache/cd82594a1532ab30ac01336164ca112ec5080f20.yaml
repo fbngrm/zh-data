@@ -1,0 +1,37 @@
+{
+  "chinese": "我给你带了点东西。",
+  "english": "I brought you something.",
+  "pinyin": "wǒ gěi nǐ dài le diǎn dōngxi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "带了",
+      "en": "brought",
+      "pi": "dài le"
+    },
+    {
+      "ch": "点",
+      "en": "some",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "东西",
+      "en": "things",
+      "pi": "dōngxi"
+    }
+  ]
+}

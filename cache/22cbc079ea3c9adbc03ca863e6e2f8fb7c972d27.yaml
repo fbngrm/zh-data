@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆承认他杀死了玛丽。",
+  "english": "Tom admitted he killed Mary.",
+  "pinyin": "Tāng mǔ chéng rèn tā shā sǐ le mǎ lì.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "承认",
+      "en": "admitted",
+      "pi": "chéng rèn"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "杀死",
+      "en": "killed",
+      "pi": "shā sǐ"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    }
+  ]
+}

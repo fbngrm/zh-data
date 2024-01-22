@@ -1,0 +1,37 @@
+{
+  "chinese": "气压计下降了-要下雨了。",
+  "english": "The barometer is dropping - it's going to rain.",
+  "pinyin": "qì yā jì xià jiàng le - yào xià yǔ le.",
+  "words": [
+    {
+      "ch": "气压计",
+      "en": "barometer",
+      "pi": "qì yā jì"
+    },
+    {
+      "ch": "下降",
+      "en": "drop",
+      "pi": "xià jiàng"
+    },
+    {
+      "ch": "了",
+      "en": "-",
+      "pi": "le"
+    },
+    {
+      "ch": "要",
+      "en": "going to",
+      "pi": "yào"
+    },
+    {
+      "ch": "下雨",
+      "en": "rain",
+      "pi": "xià yǔ"
+    },
+    {
+      "ch": "了",
+      "en": "-",
+      "pi": "le"
+    }
+  ]
+}

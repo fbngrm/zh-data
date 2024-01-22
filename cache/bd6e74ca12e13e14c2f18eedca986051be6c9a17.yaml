@@ -1,0 +1,42 @@
+{
+  "chinese": "你知道去哪找汤姆吗？",
+  "english": "Do you know where to find Tom?",
+  "pinyin": "Nǐ zhīdào qù nǎ zhǎo Tāngmǔ ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "去",
+      "en": "to",
+      "pi": "qù"
+    },
+    {
+      "ch": "哪",
+      "en": "where",
+      "pi": "nǎ"
+    },
+    {
+      "ch": "找",
+      "en": "find",
+      "pi": "zhǎo"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

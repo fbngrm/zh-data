@@ -1,0 +1,14 @@
+{
+  "chinese": "曲棍球在中国不是很流行。",
+  "english": "Hockey is not very popular in China.",
+  "pinyin": "qū gùn qiú zài zhōng guó bú shì hěn liú xíng。",
+  "words": [
+    {"ch": "曲棍球", "en": "Hockey", "pi": "qū gùn qiú"},
+    {"ch": "在", "en": "is", "pi": "zài"},
+    {"ch": "中国", "en": "China", "pi": "zhōng guó"},
+    {"ch": "不", "en": "not", "pi": "bú"},
+    {"ch": "是", "en": "very", "pi": "shì"},
+    {"ch": "很", "en": "popular", "pi": "hěn"},
+    {"ch": "流行", "en": "in", "pi": "liú xíng"}
+  ]
+}

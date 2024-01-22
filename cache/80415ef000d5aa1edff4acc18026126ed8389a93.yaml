@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆看来不是加拿大人。",
+  "english": "Tom doesn't seem to be Canadian.",
+  "pinyin": "Tāng mǔ kàn lái bù shì jiā ná dà rén.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "看来",
+      "en": "seem",
+      "pi": "kàn lái"
+    },
+    {
+      "ch": "不是",
+      "en": "not",
+      "pi": "bù shì"
+    },
+    {
+      "ch": "加拿大",
+      "en": "Canadian",
+      "pi": "jiā ná dà"
+    },
+    {
+      "ch": "人",
+      "en": "person",
+      "pi": "rén"
+    }
+  ]
+}

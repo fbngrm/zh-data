@@ -1,0 +1,32 @@
+{
+  "chinese": "这里刚刚下过一场大雪。",
+  "english": "There has just been a heavy snowfall here.",
+  "pinyin": "zhè lǐ gāng gāng xià guò yī chǎng dà xuě。",
+  "words": [
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "刚刚",
+      "en": "just",
+      "pi": "gāng gāng"
+    },
+    {
+      "ch": "下过",
+      "en": "has just been",
+      "pi": "xià guò"
+    },
+    {
+      "ch": "一场",
+      "en": "a",
+      "pi": "yī chǎng"
+    },
+    {
+      "ch": "大雪",
+      "en": "heavy snowfall",
+      "pi": "dà xuě"
+    }
+  ]
+}

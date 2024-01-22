@@ -1,0 +1,21 @@
+{
+  "chinese": "这房子在附近，两室一厅，装修也不错，一个月1500。",
+  "english": "This house is nearby, two bedrooms and one living room, the decoration is also good, 1500 per month.",
+  "pinyin": "zhè fángzi zài fùjìn, liǎng shì yī tīng, zhuāngxiū yě búcuò, yī gè yuè 1500.",
+  "words": [
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "房子", "en": "house", "pi": "fángzi"},
+    {"ch": "在", "en": "is", "pi": "zài"},
+    {"ch": "附近", "en": "nearby", "pi": "fùjìn"},
+    {"ch": "两", "en": "two", "pi": "liǎng"},
+    {"ch": "室", "en": "bedrooms", "pi": "shì"},
+    {"ch": "一", "en": "and", "pi": "yī"},
+    {"ch": "厅", "en": "living room", "pi": "tīng"},
+    {"ch": "装修", "en": "decoration", "pi": "zhuāngxiū"},
+    {"ch": "也", "en": "also", "pi": "yě"},
+    {"ch": "不错", "en": "good", "pi": "búcuò"},
+    {"ch": "一个", "en": "per", "pi": "yī gè"},
+    {"ch": "月", "en": "month", "pi": "yuè"},
+    {"ch": "1500", "en": "1500", "pi": "1500"}
+  ]
+}

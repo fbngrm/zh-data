@@ -1,0 +1,32 @@
+{
+  "chinese": "昨天发生了一场车祸。",
+  "english": "There was a car accident yesterday.",
+  "pinyin": "zuó tiān fā shēng le yī chǎng chē huò。",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "发生",
+      "en": "happen",
+      "pi": "fā shēng"
+    },
+    {
+      "ch": "了",
+      "en": "a",
+      "pi": "le"
+    },
+    {
+      "ch": "一场",
+      "en": "a",
+      "pi": "yī chǎng"
+    },
+    {
+      "ch": "车祸",
+      "en": "car accident",
+      "pi": "chē huò"
+    }
+  ]
+}

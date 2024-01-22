@@ -1,0 +1,42 @@
+{
+  "chinese": "我们因缺乏准备而失败了。",
+  "english": "We failed due to lack of preparation.",
+  "pinyin": "wǒmen yīn quēfá zhǔnbèi ér shībài le。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "因",
+      "en": "due to",
+      "pi": "yīn"
+    },
+    {
+      "ch": "缺乏",
+      "en": "lack",
+      "pi": "quēfá"
+    },
+    {
+      "ch": "准备",
+      "en": "preparation",
+      "pi": "zhǔnbèi"
+    },
+    {
+      "ch": "而",
+      "en": "and",
+      "pi": "ér"
+    },
+    {
+      "ch": "失败",
+      "en": "fail",
+      "pi": "shībài"
+    },
+    {
+      "ch": "了",
+      "en": "completed action marker",
+      "pi": "le"
+    }
+  ]
+}

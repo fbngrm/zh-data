@@ -1,0 +1,13 @@
+{ 
+  "chinese": "他失戀了，所以便嘗試自殺。",
+  "english": "He broke up and tried to commit suicide.",
+  "pinyin": "Tā shīliànle, suǒyǐ biàn chángshì zìshā.",
+  "words": [
+    { "ch": "他", "en": "he", "pi": "tā" },
+    { "ch": "失戀了", "en": "broke up", "pi": "shīliànle" },
+    { "ch": "所以", "en": "so", "pi": "suǒyǐ" },
+    { "ch": "便", "en": "then", "pi": "biàn" },
+    { "ch": "嘗試", "en": "try", "pi": "chángshì" },
+    { "ch": "自殺", "en": "commit suicide", "pi": "zìshā" }
+  ]
+}

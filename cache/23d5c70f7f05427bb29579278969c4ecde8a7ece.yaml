@@ -1,0 +1,27 @@
+{
+  "chinese": "你吃过香蕉派吗？",
+  "english": "Have you tried banana pie?",
+  "pinyin": "nǐ chī guò xiāng jiāo pài ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "吃过",
+      "en": "have tried",
+      "pi": "chī guò"
+    },
+    {
+      "ch": "香蕉派",
+      "en": "banana pie",
+      "pi": "xiāng jiāo pài"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

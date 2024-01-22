@@ -1,0 +1,68 @@
+{
+  "sentences": [
+    {
+      "chinese": "这本杂志不要扔。",
+      "english": "Don't throw away this magazine.",
+      "pinyin": "zhè běn zá zhì bú yào rēng。",
+      "words": [
+        {
+          "ch": "这",
+          "en": "this",
+          "pi": "zhè"
+        },
+        {
+          "ch": "本",
+          "en": "book",
+          "pi": "běn"
+        },
+        {
+          "ch": "杂志",
+          "en": "magazine",
+          "pi": "zá zhì"
+        },
+        {
+          "ch": "不要",
+          "en": "don't",
+          "pi": "bú yào"
+        },
+        {
+          "ch": "扔",
+          "en": "throw",
+          "pi": "rēng"
+        }
+      ]
+    },
+    {
+      "chinese": "我还没看呢。",
+      "english": "I haven't read it yet.",
+      "pinyin": "wǒ hái méi kàn ne。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "还",
+          "en": "yet",
+          "pi": "hái"
+        },
+        {
+          "ch": "没",
+          "en": "haven't",
+          "pi": "méi"
+        },
+        {
+          "ch": "看",
+          "en": "read",
+          "pi": "kàn"
+        },
+        {
+          "ch": "呢",
+          "en": "it",
+          "pi": "ne"
+        }
+      ]
+    }
+  ]
+}

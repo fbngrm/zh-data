@@ -1,0 +1,42 @@
+{
+  "chinese": "這房間是由湯姆清掃的。",
+  "english": "This room was cleaned by Tom.",
+  "pinyin": "zhè fángjiān shì yóu tāng mǔ qīngsǎo de.",
+  "words": [
+    {
+      "ch": "這",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "房間",
+      "en": "room",
+      "pi": "fángjiān"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "由",
+      "en": "by",
+      "pi": "yóu"
+    },
+    {
+      "ch": "湯姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "清掃",
+      "en": "cleaned",
+      "pi": "qīngsǎo"
+    },
+    {
+      "ch": "的",
+      "en": "by",
+      "pi": "de"
+    }
+  ]
+}

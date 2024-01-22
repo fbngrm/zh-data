@@ -1,0 +1,32 @@
+{
+    "chinese": "请通知我何时开始。",
+    "english": "Please notify me when to start.",
+    "pinyin": "qǐng tōng zhī wǒ hé shí kāi shǐ。",
+    "words": [
+        {
+            "ch": "请",
+            "en": "Please",
+            "pi": "qǐng"
+        },
+        {
+            "ch": "通知",
+            "en": "notify",
+            "pi": "tōng zhī"
+        },
+        {
+            "ch": "我",
+            "en": "me",
+            "pi": "wǒ"
+        },
+        {
+            "ch": "何时",
+            "en": "when",
+            "pi": "hé shí"
+        },
+        {
+            "ch": "开始",
+            "en": "to start",
+            "pi": "kāi shǐ"
+        }
+    ]
+}

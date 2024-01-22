@@ -1,0 +1,42 @@
+{
+  "chinese": "我们恰巧上了同一辆公交车。",
+  "english": "We happened to get on the same bus.",
+  "pinyin": "wǒmen qiàqiǎo shàng le tóng yī liàng gōngjiāo chē。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "恰巧",
+      "en": "happened to",
+      "pi": "qiàqiǎo"
+    },
+    {
+      "ch": "上",
+      "en": "get on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "了",
+      "en": "(indicating completion)",
+      "pi": "le"
+    },
+    {
+      "ch": "同一",
+      "en": "same",
+      "pi": "tóng yī"
+    },
+    {
+      "ch": "辆",
+      "en": "measure word for vehicles",
+      "pi": "liàng"
+    },
+    {
+      "ch": "公交车",
+      "en": "bus",
+      "pi": "gōngjiāo chē"
+    }
+  ]
+}

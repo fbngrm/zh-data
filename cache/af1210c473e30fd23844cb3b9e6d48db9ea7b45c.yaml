@@ -1,0 +1,14 @@
+{
+  "chinese": "汤姆，这些全都是你的书吗?",
+  "english": "Tom, are all of these books yours?",
+  "pinyin": "Tāng mǔ, zhè xiē quándōu shì nǐ de shū ma?",
+  "words": [
+    { "ch": "汤姆", "en": "Tom", "pi": "tāng mǔ" },
+    { "ch": "这些", "en": "these", "pi": "zhè xiē" },
+    { "ch": "全都", "en": "all of", "pi": "quán dōu" },
+    { "ch": "是", "en": "are", "pi": "shì" },
+    { "ch": "你的", "en": "yours", "pi": "nǐ de" },
+    { "ch": "书", "en": "books", "pi": "shū" },
+    { "ch": "吗", "en": "?" ,"pi": "ma" }
+  ]
+}

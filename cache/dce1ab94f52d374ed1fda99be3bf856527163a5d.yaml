@@ -1,0 +1,42 @@
+{
+  "chinese": "她在她花园里种西红柿。",
+  "english": "She is planting tomatoes in her garden.",
+  "pinyin": "Tā zài tā huāyuán lǐ zhòng xīhóngshì.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "她",
+      "en": "in",
+      "pi": "tā"
+    },
+    {
+      "ch": "花园",
+      "en": "garden",
+      "pi": "huāyuán"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "种",
+      "en": "planting",
+      "pi": "zhòng"
+    },
+    {
+      "ch": "西红柿",
+      "en": "tomatoes",
+      "pi": "xīhóngshì"
+    }
+  ]
+}

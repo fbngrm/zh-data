@@ -1,0 +1,25 @@
+{
+  "chinese": "我原本是不需要给花浇水的，我刚浇完就下雨了。",
+  "english": "I didn't need to water the flowers originally, but it rained right after I watered them.",
+  "pinyin": "wǒ yuánběn shì bù xūyào gěi huā jiāoshuǐ de ，wǒ gāng jiāo wán jiù xiàyǔ le。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "原本", "en": "originally", "pi": "yuánběn"},
+    {"ch": "是", "en": "am/is/are", "pi": "shì"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "需要", "en": "need", "pi": "xūyào"},
+    {"ch": "给", "en": "to", "pi": "gěi"},
+    {"ch": "花", "en": "flower", "pi": "huā"},
+    {"ch": "浇水", "en": "water", "pi": "jiāoshuǐ"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "刚", "en": "just", "pi": "gāng"},
+    {"ch": "浇", "en": "water", "pi": "jiāo"},
+    {"ch": "完", "en": "finished", "pi": "wán"},
+    {"ch": "就", "en": "right after", "pi": "jiù"},
+    {"ch": "下雨", "en": "rained", "pi": "xiàyǔ"},
+    {"ch": "了", "en": "了", "pi": "le"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

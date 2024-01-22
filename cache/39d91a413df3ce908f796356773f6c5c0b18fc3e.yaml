@@ -1,0 +1,47 @@
+{
+  "chinese": "我想在五點前到家。",
+  "english": "I want to get home before 5 o'clock.",
+  "pinyin": "wǒ xiǎng zài wǔ diǎn qián dào jiā。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "五",
+      "en": "five",
+      "pi": "wǔ"
+    },
+    {
+      "ch": "點",
+      "en": "o'clock",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "前",
+      "en": "before",
+      "pi": "qián"
+    },
+    {
+      "ch": "到",
+      "en": "to",
+      "pi": "dào"
+    },
+    {
+      "ch": "家",
+      "en": "home",
+      "pi": "jiā"
+    }
+  ]
+}

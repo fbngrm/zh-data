@@ -1,0 +1,62 @@
+{
+  "chinese": "一万加五千再加五角，加起来就是一万五千零五角。",
+  "english": "Ten thousand plus five thousand plus fifty cents, the total is fifteen thousand and fifty cents.",
+  "pinyin": "yī wàn jiā wǔ qiān zài jiā wǔ jiǎo ，jiā qǐ lái jiù shì yī wàn wǔ qiān líng wǔ jiǎo。",
+  "words": [
+    {
+      "ch": "一万",
+      "en": "Ten thousand",
+      "pi": "yī wàn"
+    },
+    {
+      "ch": "加",
+      "en": "plus",
+      "pi": "jiā"
+    },
+    {
+      "ch": "五千",
+      "en": "Five thousand",
+      "pi": "wǔ qiān"
+    },
+    {
+      "ch": "再加",
+      "en": "plus",
+      "pi": "zài jiā"
+    },
+    {
+      "ch": "五角",
+      "en": "Fifty cents",
+      "pi": "wǔ jiǎo"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": "，"
+    },
+    {
+      "ch": "加起来",
+      "en": "total",
+      "pi": "jiā qǐ lái"
+    },
+    {
+      "ch": "就是",
+      "en": "is",
+      "pi": "jiù shì"
+    },
+    {
+      "ch": "一万五千",
+      "en": "Fifteen thousand",
+      "pi": "yī wàn wǔ qiān"
+    },
+    {
+      "ch": "零五角",
+      "en": "and fifty cents",
+      "pi": "líng wǔ jiǎo"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "。"
+    }
+  ]
+}

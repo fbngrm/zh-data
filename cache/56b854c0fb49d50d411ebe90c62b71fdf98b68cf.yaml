@@ -1,0 +1,58 @@
+{
+  "sentences": [
+    {
+      "chinese": "你不明白。",
+      "english": "You don't understand.",
+      "pinyin": "nǐ bù míngbái.",
+      "words": [
+        {
+          "ch": "你",
+          "en": "You",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "不",
+          "en": "don't",
+          "pi": "bù"
+        },
+        {
+          "ch": "明白",
+          "en": "understand",
+          "pi": "míngbái"
+        }
+      ]
+    },
+    {
+      "chinese": "他会杀了你的。",
+      "english": "He will kill you.",
+      "pinyin": "tā huì shā le nǐ de.",
+      "words": [
+        {
+          "ch": "他",
+          "en": "He",
+          "pi": "tā"
+        },
+        {
+          "ch": "会",
+          "en": "will",
+          "pi": "huì"
+        },
+        {
+          "ch": "杀",
+          "en": "kill",
+          "pi": "shā"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        },
+        {
+          "ch": "你的",
+          "en": "you",
+          "pi": "nǐ de"
+        }
+      ]
+    }
+  ]
+}

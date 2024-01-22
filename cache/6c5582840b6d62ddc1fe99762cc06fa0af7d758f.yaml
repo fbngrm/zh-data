@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆有很多朋友。",
+  "english": "Tom has many friends.",
+  "pinyin": "tāng mǔ yǒu hěn duō péng yǒu.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "很多",
+      "en": "many",
+      "pi": "hěn duō"
+    },
+    {
+      "ch": "朋友",
+      "en": "friends",
+      "pi": "péng yǒu"
+    }
+  ]
+}

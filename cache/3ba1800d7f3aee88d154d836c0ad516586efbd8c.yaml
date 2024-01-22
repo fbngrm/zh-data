@@ -1,0 +1,16 @@
+{
+  "chinese": "她對於這個問題有很激進的意見。",
+  "english": "She has a very radical opinion on this issue.",
+  "pinyin": "tā duì yú zhè gè wèn tí yǒu hěn jī jìn de yì jiàn。",
+  "words": [
+    {"ch": "她", "en": "she", "pi": "tā"},
+    {"ch": "對於", "en": "regarding", "pi": "duì yú"},
+    {"ch": "這個", "en": "this", "pi": "zhè gè"},
+    {"ch": "問題", "en": "issue", "pi": "wèn tí"},
+    {"ch": "有", "en": "has", "pi": "yǒu"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "激進", "en": "radical", "pi": "jī jìn"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "意見", "en": "opinion", "pi": "yì jiàn"}
+  ]
+}

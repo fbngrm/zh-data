@@ -1,0 +1,37 @@
+{
+  "chinese": "每个人都会说一种语言。",
+  "english": "Everyone can speak a language.",
+  "pinyin": "měi gè rén dōu huì shuō yī zhǒng yǔyán.",
+  "words": [
+    {
+      "ch": "每个人",
+      "en": "everyone",
+      "pi": "měi gè rén"
+    },
+    {
+      "ch": "都",
+      "en": "can",
+      "pi": "dōu"
+    },
+    {
+      "ch": "会",
+      "en": "speak",
+      "pi": "huì"
+    },
+    {
+      "ch": "说",
+      "en": "a",
+      "pi": "shuō"
+    },
+    {
+      "ch": "一种",
+      "en": "language",
+      "pi": "yī zhǒng"
+    },
+    {
+      "ch": "语言",
+      "en": "",
+      "pi": "yǔyán"
+    }
+  ]
+}

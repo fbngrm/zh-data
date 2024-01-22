@@ -1,0 +1,27 @@
+{
+  "chinese": "我会说中文。",
+  "english": "I can speak Chinese.",
+  "pinyin": "wǒ huì shuō zhōngwén.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "中文",
+      "en": "Chinese",
+      "pi": "zhōngwén"
+    }
+  ]
+}

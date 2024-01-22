@@ -1,0 +1,32 @@
+{
+  "chinese": "我在大学主修哲学。",
+  "english": "I am majoring in philosophy at university.",
+  "pinyin": "Wǒ zài dàxué zhǔxiū zhéxué.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "Wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "大学",
+      "en": "university",
+      "pi": "dàxué"
+    },
+    {
+      "ch": "主修",
+      "en": "majoring",
+      "pi": "zhǔxiū"
+    },
+    {
+      "ch": "哲学",
+      "en": "philosophy",
+      "pi": "zhéxué"
+    }
+  ]
+}

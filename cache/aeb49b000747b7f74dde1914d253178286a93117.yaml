@@ -1,0 +1,47 @@
+{
+  "chinese": "你可以告诉我如何到火车站吗?",
+  "english": "Can you tell me how to get to the train station?",
+  "pinyin": "Nǐ kěyǐ gàosù wǒ rúhé dào huǒchēzhàn ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kěyǐ"
+    },
+    {
+      "ch": "告诉",
+      "en": "tell",
+      "pi": "gàosù"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "如何",
+      "en": "how",
+      "pi": "rúhé"
+    },
+    {
+      "ch": "到",
+      "en": "to",
+      "pi": "dào"
+    },
+    {
+      "ch": "火车站",
+      "en": "train station",
+      "pi": "huǒchēzhàn"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "我比汤姆小两岁。",
+  "english": "I am two years younger than Tom.",
+  "pinyin": "wǒ bǐ tāng mǔ xiǎo liǎng suì。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "比",
+      "en": "compare",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "小",
+      "en": "small",
+      "pi": "xiǎo"
+    },
+    {
+      "ch": "两",
+      "en": "two",
+      "pi": "liǎng"
+    },
+    {
+      "ch": "岁",
+      "en": "years old",
+      "pi": "suì"
+    }
+  ]
+}

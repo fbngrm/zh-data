@@ -1,0 +1,68 @@
+{
+  "sentences": [
+    {
+      "chinese": "我不能吃生鸡蛋。",
+      "english": "I cannot eat raw eggs.",
+      "pinyin": "wǒ bùnéng chī shēng jīdàn。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "不能",
+          "en": "cannot",
+          "pi": "bùnéng"
+        },
+        {
+          "ch": "吃",
+          "en": "eat",
+          "pi": "chī"
+        },
+        {
+          "ch": "生",
+          "en": "raw",
+          "pi": "shēng"
+        },
+        {
+          "ch": "鸡蛋",
+          "en": "eggs",
+          "pi": "jīdàn"
+        }
+      ]
+    },
+    {
+      "chinese": "它们必须是熟的。",
+      "english": "They must be cooked.",
+      "pinyin": "tāmen bìxū shì shú de。",
+      "words": [
+        {
+          "ch": "它们",
+          "en": "they",
+          "pi": "tāmen"
+        },
+        {
+          "ch": "必须",
+          "en": "must",
+          "pi": "bìxū"
+        },
+        {
+          "ch": "是",
+          "en": "be",
+          "pi": "shì"
+        },
+        {
+          "ch": "熟",
+          "en": "cooked",
+          "pi": "shú"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": "de"
+        }
+      ]
+    }
+  ]
+}

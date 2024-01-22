@@ -1,0 +1,15 @@
+{
+  "chinese": "你到了该去理发的时候了。",
+  "english": "It's time for you to go and get a haircut.",
+  "pinyin": "nǐ dào le gāi qù lǐfà de shíhòu le.",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "到了", "en": "arrived", "pi": "dào le"},
+    {"ch": "该", "en": "should", "pi": "gāi"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "理发", "en": "get a haircut", "pi": "lǐfà"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "时候", "en": "time", "pi": "shíhòu"},
+    {"ch": "了", "en": "already", "pi": "le"}
+  ]
+}

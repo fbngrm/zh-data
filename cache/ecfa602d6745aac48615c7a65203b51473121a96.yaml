@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆会说一点法语。",
+  "english": "Tom can speak a little French.",
+  "pinyin": "tāng mǔ huì shuō yī diǎn fǎ yǔ。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "一点",
+      "en": "a little",
+      "pi": "yī diǎn"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎ yǔ"
+    }
+  ]
+}

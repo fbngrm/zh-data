@@ -1,0 +1,37 @@
+{
+  "chinese": "今天上午我有一点儿发烧。",
+  "english": "I have a slight fever this morning.",
+  "pinyin": "jīn tiān shàng wǔ wǒ yǒu yī diǎn er fā shāo.",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "上午",
+      "en": "morning",
+      "pi": "shàng wǔ"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一点儿",
+      "en": "a little",
+      "pi": "yī diǎn er"
+    },
+    {
+      "ch": "发烧",
+      "en": "fever",
+      "pi": "fā shāo"
+    }
+  ]
+}

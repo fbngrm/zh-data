@@ -1,0 +1,32 @@
+{
+  "chinese": "我听不到你在说甚么。",
+  "english": "I can't hear what you're saying.",
+  "pinyin": "wǒ tīng bù dào nǐ zài shuō shénme.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "听不到",
+      "en": "can't hear",
+      "pi": "tīng bù dào"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "在说",
+      "en": "saying",
+      "pi": "zài shuō"
+    },
+    {
+      "ch": "甚么",
+      "en": "what",
+      "pi": "shénme"
+    }
+  ]
+}

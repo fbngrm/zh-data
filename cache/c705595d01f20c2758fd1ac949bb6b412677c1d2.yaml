@@ -1,0 +1,42 @@
+{
+  "chinese": "聪明的学生很快完成了测验。",
+  "english": "The smart student quickly finished the quiz.",
+  "pinyin": "cōng míng de xué shēng hěn kuài wán chéng le cè yàn.",
+  "words": [
+    {
+      "ch": "聪明",
+      "en": "smart",
+      "pi": "cōng míng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "学生",
+      "en": "student",
+      "pi": "xué shēng"
+    },
+    {
+      "ch": "很快",
+      "en": "quickly",
+      "pi": "hěn kuài"
+    },
+    {
+      "ch": "完成",
+      "en": "finished",
+      "pi": "wán chéng"
+    },
+    {
+      "ch": "了",
+      "en": "了",
+      "pi": "le"
+    },
+    {
+      "ch": "测验",
+      "en": "quiz",
+      "pi": "cè yàn"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我正在试着学英语。",
+  "english": "I am trying to learn English.",
+  "pinyin": "wǒ zhèngzài shìzhe xué yīngyǔ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "正在",
+      "en": "am",
+      "pi": "zhèngzài"
+    },
+    {
+      "ch": "试着",
+      "en": "trying",
+      "pi": "shìzhe"
+    },
+    {
+      "ch": "学",
+      "en": "to learn",
+      "pi": "xué"
+    },
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīngyǔ"
+    }
+  ]
+}

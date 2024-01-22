@@ -1,0 +1,32 @@
+{
+  "chinese": "你们最喜欢什么水果？",
+  "english": "What is your favorite fruit?",
+  "pinyin": "Nǐmen zuì xǐhuān shénme shuǐguǒ?",
+  "words": [
+    {
+      "ch": "你们",
+      "en": "you",
+      "pi": "nǐmen"
+    },
+    {
+      "ch": "最",
+      "en": "most",
+      "pi": "zuì"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "水果",
+      "en": "fruit",
+      "pi": "shuǐguǒ"
+    }
+  ]
+}

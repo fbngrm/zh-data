@@ -1,0 +1,47 @@
+{
+  "chinese": "汤姆想跟你说玛丽的事。",
+  "english": "Tom wants to talk to you about Mary.",
+  "pinyin": "Tāngmǔ xiǎng gēn nǐ shuō Mǎlì de shì.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "想",
+      "en": "wants",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "跟",
+      "en": "to",
+      "pi": "gēn"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "说",
+      "en": "talk",
+      "pi": "shuō"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎlì"
+    },
+    {
+      "ch": "的",
+      "en": "about",
+      "pi": "de"
+    },
+    {
+      "ch": "事",
+      "en": "matter",
+      "pi": "shì"
+    }
+  ]
+}

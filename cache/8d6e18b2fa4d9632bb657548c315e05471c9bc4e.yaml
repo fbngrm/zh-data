@@ -1,0 +1,118 @@
+{
+  "sentences": [
+    {
+      "chinese": "你累的話怎麼不去睡覺？",
+      "english": "If you're tired, why don't you go to sleep?",
+      "pinyin": "nǐ lèi de huà zěn me bú qù shuì jiào？",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "累",
+          "en": "tired",
+          "pi": "lèi"
+        },
+        {
+          "ch": "的話",
+          "en": "if",
+          "pi": "de huà"
+        },
+        {
+          "ch": "怎麼",
+          "en": "why",
+          "pi": "zěn me"
+        },
+        {
+          "ch": "不",
+          "en": "don't",
+          "pi": "bú"
+        },
+        {
+          "ch": "去",
+          "en": "go",
+          "pi": "qù"
+        },
+        {
+          "ch": "睡覺",
+          "en": "to sleep",
+          "pi": "shuì jiào"
+        }
+      ]
+    },
+    {
+      "chinese": "因為我現在去睡的話，就會太早醒過來了。",
+      "english": "Because if I go to sleep now, I will wake up too early.",
+      "pinyin": "yīn wèi wǒ xiàn zài qù shuì de huà，jiù huì tài zǎo xǐng guò lái le。",
+      "words": [
+        {
+          "ch": "因為",
+          "en": "because",
+          "pi": "yīn wèi"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "現在",
+          "en": "now",
+          "pi": "xiàn zài"
+        },
+        {
+          "ch": "去",
+          "en": "go",
+          "pi": "qù"
+        },
+        {
+          "ch": "睡",
+          "en": "to sleep",
+          "pi": "shuì"
+        },
+        {
+          "ch": "的話",
+          "en": "if",
+          "pi": "de huà"
+        },
+        {
+          "ch": "就",
+          "en": "will",
+          "pi": "jiù"
+        },
+        {
+          "ch": "會",
+          "en": "will",
+          "pi": "huì"
+        },
+        {
+          "ch": "太",
+          "en": "too",
+          "pi": "tài"
+        },
+        {
+          "ch": "早",
+          "en": "early",
+          "pi": "zǎo"
+        },
+        {
+          "ch": "醒",
+          "en": "wake up",
+          "pi": "xǐng"
+        },
+        {
+          "ch": "過來",
+          "en": "over",
+          "pi": "guò lái"
+        },
+        {
+          "ch": "了",
+          "en": "了",
+          "pi": "le"
+        }
+      ]
+    }
+  ]
+}

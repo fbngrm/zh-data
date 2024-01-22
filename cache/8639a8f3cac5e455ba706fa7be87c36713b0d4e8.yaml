@@ -1,0 +1,27 @@
+{
+  "chinese": "哪一件Ｔ恤是红色的?",
+  "english": "Which T-shirt is red?",
+  "pinyin": "nǎ yī jiàn T xù shì hóng sè de?",
+  "words": [
+    {
+      "ch": "哪一件",
+      "en": "Which one",
+      "pi": "nǎ yī jiàn"
+    },
+    {
+      "ch": "Ｔ恤",
+      "en": "T-shirt",
+      "pi": "T xù"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "红色的",
+      "en": "red",
+      "pi": "hóng sè de"
+    }
+  ]
+}

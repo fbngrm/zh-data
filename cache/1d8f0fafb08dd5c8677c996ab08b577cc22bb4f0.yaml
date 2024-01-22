@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆是个乡巴佬。",
+  "english": "Tom is a country bumpkin.",
+  "pinyin": "Tāng mǔ shì gè xiāng bā lǎo.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "乡巴佬",
+      "en": "country bumpkin",
+      "pi": "xiāng bā lǎo"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "我十二点出去吃午饭。",
+  "english": "I will go out for lunch at twelve o'clock.",
+  "pinyin": "wǒ shí'èr diǎn chūqù chī wǔfàn.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "十二", "en": "twelve", "pi": "shí'èr"},
+    {"ch": "点", "en": "o'clock", "pi": "diǎn"},
+    {"ch": "出去", "en": "go out", "pi": "chūqù"},
+    {"ch": "吃", "en": "eat", "pi": "chī"},
+    {"ch": "午饭", "en": "lunch", "pi": "wǔfàn"}
+  ]
+}

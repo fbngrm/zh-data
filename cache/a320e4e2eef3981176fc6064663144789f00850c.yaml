@@ -1,0 +1,27 @@
+{
+  "chinese": "雨停了嗎？",
+  "english": "Has the rain stopped?",
+  "pinyin": "yǔ tíng le ma?",
+  "words": [
+    {
+      "ch": "雨",
+      "en": "rain",
+      "pi": "yǔ"
+    },
+    {
+      "ch": "停",
+      "en": "stop",
+      "pi": "tíng"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "嗎",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我爸爸是教书的。",
+  "english": "My dad is a teacher.",
+  "pinyin": "wǒ bàba shì jiāoshū de.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "爸爸",
+      "en": "dad",
+      "pi": "bàba"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "教书",
+      "en": "teacher",
+      "pi": "jiāoshū"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    }
+  ]
+}

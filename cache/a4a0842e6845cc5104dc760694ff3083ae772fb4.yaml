@@ -1,0 +1,27 @@
+{
+  "chinese": "琳达喜欢吃巧克力。",
+  "english": "Linda likes to eat chocolate.",
+  "pinyin": "lín dá xǐ huān chī qiǎo kè lì。",
+  "words": [
+    {
+      "ch": "琳达",
+      "en": "Linda",
+      "pi": "lín dá"
+    },
+    {
+      "ch": "喜欢",
+      "en": "likes",
+      "pi": "xǐ huān"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "巧克力",
+      "en": "chocolate",
+      "pi": "qiǎo kè lì"
+    }
+  ]
+}

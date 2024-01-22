@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆看来比我高兴。",
+  "english": "Tom seems happier than me.",
+  "pinyin": "Tāng mǔ kàn lái bǐ wǒ gāo xìng.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "看来",
+      "en": "seems",
+      "pi": "kàn lái"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "高兴",
+      "en": "happier",
+      "pi": "gāo xìng"
+    }
+  ]
+}

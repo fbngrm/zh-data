@@ -1,0 +1,32 @@
+{
+  "chinese": "我星期日并不总是有空。",
+  "english": "I don't always have free time on Sundays.",
+  "pinyin": "wǒ xīng qī rì bìng bù zǒng shì yǒu kòng。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "星期日",
+      "en": "Sunday",
+      "pi": "xīng qī rì"
+    },
+    {
+      "ch": "并不",
+      "en": "don't",
+      "pi": "bìng bù"
+    },
+    {
+      "ch": "总是",
+      "en": "always",
+      "pi": "zǒng shì"
+    },
+    {
+      "ch": "有空",
+      "en": "have free time",
+      "pi": "yǒu kòng"
+    }
+  ]
+}

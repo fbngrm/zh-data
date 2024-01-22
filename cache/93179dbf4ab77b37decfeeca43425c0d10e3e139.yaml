@@ -1,0 +1,14 @@
+{
+  "chinese": "飞机起飞的时候我很紧张。",
+  "english": "I was very nervous when the plane took off.",
+  "pinyin": "fēi jī qǐ fēi de shí hòu wǒ hěn jǐn zhāng。",
+  "words": [
+    { "ch": "飞机", "en": "airplane", "pi": "fēi jī" },
+    { "ch": "起飞", "en": "take off", "pi": "qǐ fēi" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "时候", "en": "when", "pi": "shí hòu" },
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "很", "en": "very", "pi": "hěn" },
+    { "ch": "紧张", "en": "nervous", "pi": "jǐn zhāng" }
+  ]
+}

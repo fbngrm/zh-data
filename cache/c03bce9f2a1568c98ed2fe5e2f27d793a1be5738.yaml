@@ -1,0 +1,32 @@
+{
+  "chinese": "我每天喂一次狗。",
+  "english": "I feed the dog once a day.",
+  "pinyin": "Wǒ měitiān wèi yī cì gǒu.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měitiān"
+    },
+    {
+      "ch": "喂",
+      "en": "feed",
+      "pi": "wèi"
+    },
+    {
+      "ch": "一次",
+      "en": "once",
+      "pi": "yī cì"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    }
+  ]
+}

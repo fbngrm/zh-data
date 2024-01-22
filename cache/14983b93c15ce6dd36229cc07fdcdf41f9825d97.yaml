@@ -1,0 +1,42 @@
+{
+  "chinese": "昨天的消息让我感到震惊。",
+  "english": "Yesterday's news shocked me.",
+  "pinyin": "zuó tiān de xiāo xi ràng wǒ gǎn dào zhèn jīng。",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "消息",
+      "en": "news",
+      "pi": "xiāo xi"
+    },
+    {
+      "ch": "让",
+      "en": "let",
+      "pi": "ràng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "感到",
+      "en": "feel",
+      "pi": "gǎn dào"
+    },
+    {
+      "ch": "震惊",
+      "en": "shocked",
+      "pi": "zhèn jīng"
+    }
+  ]
+}

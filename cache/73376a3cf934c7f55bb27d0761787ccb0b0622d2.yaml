@@ -1,0 +1,32 @@
+{
+  "chinese": "我要一条鱼。",
+  "english": "I want a fish.",
+  "pinyin": "wǒ yào yī tiáo yú。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "一",
+      "en": "a",
+      "pi": "yī"
+    },
+    {
+      "ch": "条",
+      "en": "measure word for fish",
+      "pi": "tiáo"
+    },
+    {
+      "ch": "鱼",
+      "en": "fish",
+      "pi": "yú"
+    }
+  ]
+}

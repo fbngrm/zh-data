@@ -1,0 +1,32 @@
+{
+  "chinese": "这本书是你的。",
+  "english": "This book is yours.",
+  "pinyin": "Zhè běn shū shì nǐ de.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "书",
+      "en": "is",
+      "pi": "shū"
+    },
+    {
+      "ch": "是",
+      "en": "yours",
+      "pi": "shì"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    }
+  ]
+}

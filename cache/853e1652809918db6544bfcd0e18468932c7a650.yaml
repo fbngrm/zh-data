@@ -1,0 +1,11 @@
+{ 
+  "chinese": "贝蒂非常爱跳舞。",
+  "english": "Betty loves dancing very much.",
+  "pinyin": "Bèi dì fēicháng ài tiàowǔ.",
+  "words": [
+    { "ch": "贝蒂", "en": "Betty", "pi": "Bèi dì" },
+    { "ch": "非常", "en": "very much", "pi": "fēicháng" },
+    { "ch": "爱", "en": "love", "pi": "ài" },
+    { "ch": "跳舞", "en": "dancing", "pi": "tiàowǔ" }
+  ]
+}

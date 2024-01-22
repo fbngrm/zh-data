@@ -1,0 +1,32 @@
+{
+  "chinese": "他昨晚很晚回家。",
+  "english": "He came home very late last night.",
+  "pinyin": "tā zuó wǎn hěn wǎn huí jiā。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "昨晚",
+      "en": "last night",
+      "pi": "zuó wǎn"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "晚",
+      "en": "late",
+      "pi": "wǎn"
+    },
+    {
+      "ch": "回家",
+      "en": "came home",
+      "pi": "huí jiā"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "sentences": [
+    {
+      "chinese": "你去日本干嘛？",
+      "english": "Why are you going to Japan?",
+      "pinyin": "Nǐ qù Rìběn gànmá?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "去",
+          "en": "go",
+          "pi": "qù"
+        },
+        {
+          "ch": "日本",
+          "en": "Japan",
+          "pi": "Rìběn"
+        },
+        {
+          "ch": "干嘛",
+          "en": "why",
+          "pi": "gànmá"
+        }
+      ]
+    },
+    {
+      "chinese": "去东京参加一个会议。",
+      "english": "I'm going to Tokyo to attend a meeting.",
+      "pinyin": "Qù Dōngjīng cānjiā yīgè huìyì.",
+      "words": [
+        {
+          "ch": "去",
+          "en": "go",
+          "pi": "qù"
+        },
+        {
+          "ch": "东京",
+          "en": "Tokyo",
+          "pi": "Dōngjīng"
+        },
+        {
+          "ch": "参加",
+          "en": "attend",
+          "pi": "cānjiā"
+        },
+        {
+          "ch": "一个",
+          "en": "one",
+          "pi": "yīgè"
+        },
+        {
+          "ch": "会议",
+          "en": "meeting",
+          "pi": "huìyì"
+        }
+      ]
+    }
+  ]
+}

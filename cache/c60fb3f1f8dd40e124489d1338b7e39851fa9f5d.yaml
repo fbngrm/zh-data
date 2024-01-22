@@ -1,0 +1,38 @@
+{
+  "sentences": [
+    {
+      "chinese": "人們在備感嘲諷時最生氣。",
+      "english": "People get angriest when they feel mocked.",
+      "pinyin": "rén men zài bèi gǎn cháo dé shí zuì shēng qì。",
+      "words": [
+        { "ch": "人們", "en": "people", "pi": "rén men" },
+        { "ch": "在", "en": "at", "pi": "zài" },
+        { "ch": "備感", "en": "feel", "pi": "bèi gǎn" },
+        { "ch": "嘲諷", "en": "mocked", "pi": "cháo dé" },
+        { "ch": "時", "en": "when", "pi": "shí" },
+        { "ch": "最", "en": "the most", "pi": "zuì" },
+        { "ch": "生氣", "en": "angry", "pi": "shēng qì" }
+      ]
+    },
+    {
+      "chinese": "這也是為何對自己感到自信的人們不容易生氣。",
+      "english": "That's also why confident people find it hard to get angry at themselves.",
+      "pinyin": "zhè yě shì wèi hé duì zì jǐ gǎn dào zì xìn de rén men bù róng yì shēng qì。",
+      "words": [
+        { "ch": "這", "en": "that", "pi": "zhè" },
+        { "ch": "也", "en": "also", "pi": "yě" },
+        { "ch": "是", "en": "is", "pi": "shì" },
+        { "ch": "為何", "en": "why", "pi": "wèi hé" },
+        { "ch": "對", "en": "to", "pi": "duì" },
+        { "ch": "自己", "en": "themselves", "pi": "zì jǐ" },
+        { "ch": "感到", "en": "feel", "pi": "gǎn dào" },
+        { "ch": "自信", "en": "confident", "pi": "zì xìn" },
+        { "ch": "的", "en": "of", "pi": "de" },
+        { "ch": "人們", "en": "people", "pi": "rén men" },
+        { "ch": "不", "en": "not", "pi": "bù" },
+        { "ch": "容易", "en": "easy", "pi": "róng yì" },
+        { "ch": "生氣", "en": "angry", "pi": "shēng qì" }
+      ]
+    }
+  ]
+}

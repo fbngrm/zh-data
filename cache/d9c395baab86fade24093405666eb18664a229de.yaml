@@ -1,0 +1,15 @@
+{
+  "chinese": "我记得我在某个地方见过她。",
+  "english": "I remember seeing her somewhere.",
+  "pinyin": "wǒ jì dé wǒ zài mǒu gè dìfāng jiànguò tā.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "记得", "en": "remember", "pi": "jìdé" },
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "在", "en": "at", "pi": "zài" },
+    { "ch": "某个", "en": "somewhere", "pi": "mǒu gè" },
+    { "ch": "地方", "en": "place", "pi": "dìfāng" },
+    { "ch": "见过", "en": "seen", "pi": "jiànguò" },
+    { "ch": "她", "en": "her", "pi": "tā" }
+  ]
+}

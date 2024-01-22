@@ -1,0 +1,47 @@
+{ 
+  "chinese": "今天早上高速公路上的交通状况正常。",
+  "english": "The traffic conditions on the highway this morning are normal.",
+  "pinyin": "jīn tiān zǎo shàng gāo sù gōng lù shàng de jiāo tōng zhuàng kuàng zhèng cháng.",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎo shàng"
+    },
+    {
+      "ch": "高速公路",
+      "en": "highway",
+      "pi": "gāo sù gōng lù"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "交通",
+      "en": "traffic",
+      "pi": "jiāo tōng"
+    },
+    {
+      "ch": "状况",
+      "en": "conditions",
+      "pi": "zhuàng kuàng"
+    },
+    {
+      "ch": "正常",
+      "en": "normal",
+      "pi": "zhèng cháng"
+    }
+  ]
+}

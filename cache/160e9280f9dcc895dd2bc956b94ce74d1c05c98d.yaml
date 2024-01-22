@@ -1,0 +1,37 @@
+{
+  "chinese": "你碰见过她了吗？",
+  "english": "Have you met her?",
+  "pinyin": "nǐ pèngjiàn guò tā le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "碰见",
+      "en": "meet",
+      "pi": "pèngjiàn"
+    }, 
+    {
+      "ch": "过",
+      "en": "have",
+      "pi": "guò"
+    },
+    {
+      "ch": "她",
+      "en": "her",
+      "pi": "tā"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

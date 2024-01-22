@@ -1,0 +1,42 @@
+{
+  "chinese": "对不起，现在我手上都是东西了。",
+  "english": "Sorry, my hands are full right now.",
+  "pinyin": "duì bù qǐ, xiàn zài wǒ shǒu shàng dōu shì dōng xī le.",
+  "words": [
+    {
+      "ch": "对不起",
+      "en": "Sorry",
+      "pi": "duì bù qǐ"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "手上",
+      "en": "hands",
+      "pi": "shǒu shàng"
+    },
+    {
+      "ch": "都是",
+      "en": "are",
+      "pi": "dōu shì"
+    },
+    {
+      "ch": "东西",
+      "en": "full",
+      "pi": "dōng xī"
+    },
+    {
+      "ch": "了",
+      "en": "right now",
+      "pi": "le"
+    }
+  ]
+}

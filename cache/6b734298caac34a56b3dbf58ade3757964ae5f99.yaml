@@ -1,0 +1,47 @@
+{
+  "chinese": "这辆车是在极好的条件。",
+  "english": "This car is in excellent condition.",
+  "pinyin": "zhè liàng chē shì zài jí hǎo de tiáo jiàn。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "辆",
+      "en": "car",
+      "pi": "liàng"
+    },
+    {
+      "ch": "车",
+      "en": "is",
+      "pi": "chē"
+    },
+    {
+      "ch": "是",
+      "en": "in",
+      "pi": "shì"
+    },
+    {
+      "ch": "在",
+      "en": "excellent",
+      "pi": "zài"
+    },
+    {
+      "ch": "极好",
+      "en": "condition",
+      "pi": "jí hǎo"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "条件",
+      "en": "condition",
+      "pi": "tiáo jiàn"
+    }
+  ]
+}

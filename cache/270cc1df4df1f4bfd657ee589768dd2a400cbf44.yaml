@@ -1,0 +1,32 @@
+{
+  "chinese": "这本旧书值５万日元。",
+  "english": "This old book is worth 50,000 yen.",
+  "pinyin": "zhè běn jiùshū zhí 5 wàn rìyuán.",
+  "words": [
+    {
+      "ch": "这本",
+      "en": "this",
+      "pi": "zhè běn"
+    },
+    {
+      "ch": "旧书",
+      "en": "old book",
+      "pi": "jiùshū"
+    },
+    {
+      "ch": "值",
+      "en": "is worth",
+      "pi": "zhí"
+    },
+    {
+      "ch": "５万",
+      "en": "50,000",
+      "pi": "5 wàn"
+    },
+    {
+      "ch": "日元",
+      "en": "yen",
+      "pi": "rìyuán"
+    }
+  ]
+}

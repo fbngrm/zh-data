@@ -1,0 +1,32 @@
+{
+  "chinese": "你为什么不回家呢？",
+  "english": "Why don't you go home?",
+  "pinyin": "nǐ wèi shénme bù huí jiā ne?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "为什么",
+      "en": "why",
+      "pi": "wèi shénme"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "回家",
+      "en": "go home",
+      "pi": "huí jiā"
+    },
+    {
+      "ch": "呢",
+      "en": "?",
+      "pi": "ne"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "我想请你参加派对。",
+  "english": "I would like to invite you to a party.",
+  "pinyin": "wǒ xiǎng qǐng nǐ cān jiā pài duì。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "would like",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "请",
+      "en": "to invite",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "参加",
+      "en": "to participate",
+      "pi": "cān jiā"
+    },
+    {
+      "ch": "派对",
+      "en": "party",
+      "pi": "pài duì"
+    }
+  ]
+}

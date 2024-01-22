@@ -1,0 +1,47 @@
+{
+  "chinese": "我已经在路上了，就到了。",
+  "english": "I'm already on the way, I'll be there soon.",
+  "pinyin": "Wǒ yǐjīng zài lùshàng le, jiù dào le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I, me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐjīng"
+    },
+    {
+      "ch": "在",
+      "en": "on, in",
+      "pi": "zài"
+    },
+    {
+      "ch": "路上",
+      "en": "on the way",
+      "pi": "lùshàng"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "就",
+      "en": "then",
+      "pi": "jiù"
+    },
+    {
+      "ch": "到了",
+      "en": "arrive",
+      "pi": "dào le"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "。"
+    }
+  ]
+}

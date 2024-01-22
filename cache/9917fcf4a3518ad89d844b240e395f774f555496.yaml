@@ -1,0 +1,47 @@
+{
+  "chinese": "你出门的时候别忘了带伞。",
+  "english": "Don't forget to bring an umbrella when you go out.",
+  "pinyin": "nǐ chū mén de shí hòu bié wàng le dài sǎn.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "出门",
+      "en": "go out",
+      "pi": "chū mén"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "时候",
+      "en": "time",
+      "pi": "shí hòu"
+    },
+    {
+      "ch": "别",
+      "en": "don't",
+      "pi": "bié"
+    },
+    {
+      "ch": "忘了",
+      "en": "forget",
+      "pi": "wàng le"
+    },
+    {
+      "ch": "带",
+      "en": "bring",
+      "pi": "dài"
+    },
+    {
+      "ch": "伞",
+      "en": "umbrella",
+      "pi": "sǎn"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我吃掉了我所有的橘子。",
+  "english": "I ate all of my oranges.",
+  "pinyin": "wǒ chī diào le wǒ suǒyǒu de júzi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "吃掉了",
+      "en": "ate",
+      "pi": "chī diào le"
+    },
+    {
+      "ch": "我",
+      "en": "my",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "所有的",
+      "en": "all",
+      "pi": "suǒyǒu de"
+    },
+    {
+      "ch": "橘子",
+      "en": "oranges",
+      "pi": "júzi"
+    }
+  ]
+}

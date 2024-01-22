@@ -1,0 +1,32 @@
+{
+  "chinese": "我今天早晨感觉良好。",
+  "english": "I feel good this morning.",
+  "pinyin": "wǒ jīntiān zǎochén gǎnjué liánghǎo.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "早晨",
+      "en": "morning",
+      "pi": "zǎochén"
+    },
+    {
+      "ch": "感觉",
+      "en": "feel",
+      "pi": "gǎnjué"
+    },
+    {
+       "ch": "良好",
+       "en": "good",
+       "pi": "liánghǎo"
+    }
+  ]
+}

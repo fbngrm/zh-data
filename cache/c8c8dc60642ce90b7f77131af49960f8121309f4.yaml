@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆在周一被埋了。",
+  "english": "Tom was buried on Monday.",
+  "pinyin": "Tāng mǔ zài zhōu yī bèi mái le.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "在",
+      "en": "on",
+      "pi": "zài"
+    },
+    {
+      "ch": "周一",
+      "en": "Monday",
+      "pi": "zhōu yī"
+    },
+    {
+      "ch": "被",
+      "en": "was",
+      "pi": "bèi"
+    },
+    {
+      "ch": "埋",
+      "en": "buried",
+      "pi": "mái"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

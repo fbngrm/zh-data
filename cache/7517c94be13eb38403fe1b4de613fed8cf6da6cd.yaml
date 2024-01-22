@@ -1,0 +1,42 @@
+{
+  "chinese": "中国是日本的２０倍大。",
+  "english": "China is 20 times larger than Japan.",
+  "pinyin": "zhōngguó shì rìběn de èrshí bèi dà.",
+  "words": [
+    {
+      "ch": "中国",
+      "en": "China",
+      "pi": "zhōngguó"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "日本",
+      "en": "Japan",
+      "pi": "rìběn"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "２０",
+      "en": "20",
+      "pi": "èrshí"
+    },
+    {
+      "ch": "倍",
+      "en": "times",
+      "pi": "bèi"
+    },
+    {
+      "ch": "大",
+      "en": "larger",
+      "pi": "dà"
+    }
+  ]
+}

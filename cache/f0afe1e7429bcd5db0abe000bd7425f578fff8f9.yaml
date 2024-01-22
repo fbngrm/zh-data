@@ -1,0 +1,32 @@
+{
+  "chinese": "打扫我们的房间吧。",
+  "english": "Let's clean our room.",
+  "pinyin": "dǎ sǎo wǒ men de fáng jiān ba.",
+  "words": [
+    {
+      "ch": "打扫",
+      "en": "clean",
+      "pi": "dǎ sǎo"
+    },
+    {
+      "ch": "我们",
+      "en": "our",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "的",
+      "en": "de",
+      "pi": "de"
+    },
+    {
+      "ch": "房间",
+      "en": "room",
+      "pi": "fáng jiān"
+    },
+    {
+      "ch": "吧",
+      "en": "let's",
+      "pi": "ba"
+    }
+  ]
+}

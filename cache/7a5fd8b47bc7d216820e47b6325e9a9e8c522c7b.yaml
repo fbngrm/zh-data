@@ -1,0 +1,42 @@
+{
+  "chinese": "我看電視度過了星期六的下午。",
+  "english": "I spent Saturday afternoon watching TV.",
+  "pinyin": "wǒ kàn diànshì dùguòle xīngqīliù de xiàwǔ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "看",
+      "en": "watch",
+      "pi": "kàn"
+    },
+    {
+      "ch": "電視",
+      "en": "TV",
+      "pi": "diànshì"
+    },
+    {
+      "ch": "度過",
+      "en": "spent",
+      "pi": "dùguò"
+    },
+    {
+      "ch": "了",
+      "en": "Saturday",
+      "pi": "xīngqīliù"
+    },
+    {
+      "ch": "星期",
+      "en": "afternoon",
+      "pi": "de"
+    },
+    {
+      "ch": "下午",
+      "en": "afternoon",
+      "pi": "xiàwǔ"
+    }
+  ]
+}

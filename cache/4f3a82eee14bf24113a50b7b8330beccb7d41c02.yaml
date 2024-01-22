@@ -1,0 +1,11 @@
+{
+  "chinese": "他会说法语。",
+  "english": "He can speak French.",
+  "pinyin": "tā huì shuō fǎ yǔ.",
+  "words": [
+    { "ch": "他", "en": "he", "pi": "tā" },
+    { "ch": "会", "en": "can", "pi": "huì" },
+    { "ch": "说", "en": "speak", "pi": "shuō" },
+    { "ch": "法语", "en": "French", "pi": "fǎ yǔ" }
+  ]
+}

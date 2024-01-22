@@ -1,0 +1,57 @@
+{
+  "chinese": "明天就算下雨，我也会去游泳。",
+  "english": "Even if it rains tomorrow, I will still go swimming.",
+  "pinyin": "Míngtiān jiùsuàn xiàyǔ, wǒ yě huì qù yóuyǒng.",
+  "words": [
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "就算",
+      "en": "even if",
+      "pi": "jiùsuàn"
+    },
+    {
+      "ch": "下雨",
+      "en": "rains",
+      "pi": "xiàyǔ"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": "，"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "也",
+      "en": "also",
+      "pi": "yě"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "游泳",
+      "en": "swimming",
+      "pi": "yóuyǒng"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "。"
+    }
+  ]
+}

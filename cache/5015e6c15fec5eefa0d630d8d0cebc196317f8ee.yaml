@@ -1,0 +1,32 @@
+{
+  "chinese": "我的父亲很快就会康复。",
+  "english": "My father will recover soon.",
+  "pinyin": "wǒ de fù qīn hěn kuài jiù huì kāng fù。",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "父亲",
+      "en": "father",
+      "pi": "fù qīn"
+    },
+    {
+      "ch": "很快",
+      "en": "soon",
+      "pi": "hěn kuài"
+    },
+    {
+      "ch": "就会",
+      "en": "will",
+      "pi": "jiù huì"
+    },
+    {
+      "ch": "康复",
+      "en": "recover",
+      "pi": "kāng fù"
+    }
+  ]
+}

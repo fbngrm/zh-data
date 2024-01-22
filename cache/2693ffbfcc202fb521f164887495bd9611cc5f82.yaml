@@ -1,0 +1,32 @@
+{
+  "chinese": "我看见了他跑步。",
+  "english": "I saw him running.",
+  "pinyin": "wǒ kàn jiàn le tā pǎo bù。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "看见",
+      "en": "saw",
+      "pi": "kàn jiàn"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    },
+    {
+      "ch": "跑步",
+      "en": "running",
+      "pi": "pǎo bù"
+    }
+  ]
+}

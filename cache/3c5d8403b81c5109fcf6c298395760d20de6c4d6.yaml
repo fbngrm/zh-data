@@ -1,0 +1,11 @@
+{
+  "chinese": "你不明白程序。",
+  "english": "You don't understand the program.",
+  "pinyin": "nǐ bù míngbai chéngxù。",
+  "words": [
+    {"ch": "你", "en": "You", "pi": "nǐ"},
+    {"ch": "不", "en": "don't", "pi": "bù"},
+    {"ch": "明白", "en": "understand", "pi": "míngbai"},
+    {"ch": "程序", "en": "program", "pi": "chéngxù"}
+  ]
+}

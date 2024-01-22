@@ -1,0 +1,32 @@
+{
+  "chinese": "我们一周有五节英语课。",
+  "english": "We have five English classes per week.",
+  "pinyin": "wǒ men yī zhōu yǒu wǔ jié yīng yǔ kè。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "一周",
+      "en": "per week",
+      "pi": "yī zhōu"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "五节",
+      "en": "five classes",
+      "pi": "wǔ jié"
+    },
+    {
+      "ch": "英语课",
+      "en": "English classes",
+      "pi": "yīng yǔ kè"
+    }
+  ]
+}

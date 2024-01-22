@@ -1,0 +1,32 @@
+{
+  "chinese": "你的房间很大。",
+  "english": "Your room is very big.",
+  "pinyin": "nǐ de fángjiān hěn dà.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "房间",
+      "en": "room",
+      "pi": "fángjiān"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "大",
+      "en": "big",
+      "pi": "dà"
+    }
+  ]
+}

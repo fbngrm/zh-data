@@ -1,0 +1,15 @@
+{
+  "chinese": "那只鸟是死还是活的？",
+  "english": "Is that bird dead or alive?",
+  "pinyin": "Nà zhī niǎo shì sǐ háishì huó de?",
+  "words": [
+    {"ch": "那", "en": "that", "pi": "nà"},
+    {"ch": "只", "en": "bird", "pi": "zhī"},
+    {"ch": "鸟", "en": "is", "pi": "niǎo"},
+    {"ch": "是", "en": "dead", "pi": "shì"},
+    {"ch": "死", "en": "or", "pi": "sǐ"},
+    {"ch": "还是", "en": "alive", "pi": "háishì"},
+    {"ch": "活", "en": "of", "pi": "huó"},
+    {"ch": "的", "en": "?"}
+  ]
+}

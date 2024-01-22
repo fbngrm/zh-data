@@ -1,0 +1,57 @@
+{
+  "chinese": "他读了一本用英文写的书。",
+  "english": "He read a book written in English.",
+  "pinyin": "tā dú le yī běn yòng yīng wén xiě de shū。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "读",
+      "en": "read",
+      "pi": "dú"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "一",
+      "en": "a",
+      "pi": "yī"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "用",
+      "en": "written",
+      "pi": "yòng"
+    },
+    {
+      "ch": "英文",
+      "en": "in English",
+      "pi": "yīng wén"
+    },
+    {
+      "ch": "写",
+      "en": "write",
+      "pi": "xiě"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    }
+  ]
+}

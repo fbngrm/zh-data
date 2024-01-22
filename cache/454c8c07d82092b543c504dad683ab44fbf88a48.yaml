@@ -1,0 +1,32 @@
+{
+  "chinese": "今天下午我会外出。",
+  "english": "I will go out this afternoon.",
+  "pinyin": "jīn tiān xià wǔ wǒ huì wài chū。",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "下午",
+      "en": "afternoon",
+      "pi": "xià wǔ"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "外出",
+      "en": "go out",
+      "pi": "wài chū"
+    }
+  ]
+}

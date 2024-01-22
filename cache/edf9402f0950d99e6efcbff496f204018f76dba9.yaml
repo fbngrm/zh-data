@@ -1,0 +1,27 @@
+{
+  "chinese": "电车将准点到达。",
+  "english": "The tram will arrive on time.",
+  "pinyin": "diàn chē jiāng zhǔn diǎn dào dá.",
+  "words": [
+    {
+      "ch": "电车",
+      "en": "tram",
+      "pi": "diàn chē"
+    },
+    {
+      "ch": "将",
+      "en": "will",
+      "pi": "jiāng"
+    },
+    {
+      "ch": "准点",
+      "en": "on time",
+      "pi": "zhǔn diǎn"
+    },
+    {
+      "ch": "到达",
+      "en": "arrive",
+      "pi": "dào dá"
+    }
+  ]
+}

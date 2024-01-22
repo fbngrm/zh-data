@@ -1,0 +1,15 @@
+{
+  "chinese": "如果必要的話,我會和你一起去。",
+  "english": "If necessary, I will go with you.",
+  "pinyin": "Rúguǒ bìyào de huà, wǒ huì hé nǐ yīqǐ qù。",
+  "words": [
+    {"ch": "如果", "en": "if", "pi": "rú guǒ"},
+    {"ch": "必要的話", "en": "necessary", "pi": "bì yào de huà"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "會", "en": "will", "pi": "huì"},
+    {"ch": "和", "en": "with", "pi": "hé"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "一起", "en": "together", "pi": "yī qǐ"},
+    {"ch": "去", "en": "go", "pi": "qù"}
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆问我是否喜欢巧克力。",
+  "english": "Tom asked me if I like chocolate.",
+  "pinyin": "tāng mǔ wèn wǒ shì fǒu xǐ huān qiǎo kè lì。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "问",
+      "en": "ask",
+      "pi": "wèn"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "是否",
+      "en": "if",
+      "pi": "shì fǒu"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐ huān"
+    },
+    {
+      "ch": "巧克力",
+      "en": "chocolate",
+      "pi": "qiǎo kè lì"
+    }
+  ]
+}

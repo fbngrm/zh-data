@@ -1,0 +1,32 @@
+{
+  "chinese": "我认为你不应该。",
+  "english": "I think you shouldn't.",
+  "pinyin": "wǒ rèn wéi nǐ bù yīng gāi。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "认为",
+      "en": "think",
+      "pi": "rèn wéi"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "应该",
+      "en": "shouldn't",
+      "pi": "yīng gāi"
+    }
+  ]
+}

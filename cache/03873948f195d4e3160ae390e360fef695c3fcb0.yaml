@@ -1,0 +1,88 @@
+{
+  "sentences": [
+    {
+      "chinese": "那儿还有三个孩子。",
+      "english": "There are three children there.",
+      "pinyin": "Nàr háiyǒu sān gè háizi.",
+      "words": [
+        {
+          "ch": "那儿",
+          "en": "There",
+          "pi": "Nàr"
+        },
+        {
+          "ch": "还有",
+          "en": "are",
+          "pi": "háiyǒu"
+        },
+        {
+          "ch": "三个",
+          "en": "three",
+          "pi": "sān gè"
+        },
+        {
+          "ch": "孩子",
+          "en": "children",
+          "pi": "háizi"
+        }
+      ]
+    },
+    {
+      "chinese": "我的外甥女和我姐姐男友初婚的两个孩子。",
+      "english": "My niece and two children of my sister's boyfriend's first marriage.",
+      "pinyin": "Wǒ de wàishengnǚ hé wǒ jiějiě nányǒu chūhūn de liǎng gè háizi.",
+      "words": [
+        {
+          "ch": "我的",
+          "en": "My",
+          "pi": "Wǒ de"
+        },
+        {
+          "ch": "外甥女",
+          "en": "niece",
+          "pi": "wàishengnǚ"
+        },
+        {
+          "ch": "和",
+          "en": "and",
+          "pi": "hé"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "姐姐",
+          "en": "sister",
+          "pi": "jiějiě"
+        },
+        {
+          "ch": "男友",
+          "en": "boyfriend",
+          "pi": "nányǒu"
+        },
+        {
+          "ch": "初婚",
+          "en": "first marriage",
+          "pi": "chūhūn"
+        },
+        {
+          "ch": "的",
+          "en": "of",
+          "pi": "de"
+        },
+        {
+          "ch": "两个",
+          "en": "two",
+          "pi": "liǎng gè"
+        },
+        {
+          "ch": "孩子",
+          "en": "children",
+          "pi": "háizi"
+        }
+      ]
+    }
+  ]
+}

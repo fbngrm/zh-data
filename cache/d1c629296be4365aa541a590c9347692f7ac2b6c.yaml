@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆拉下了他的窗户。",
+  "english": "Tom pulled down his window.",
+  "pinyin": "Tāng mǔ lā xià le tā de chuāng hù.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "拉下了",
+      "en": "pulled down",
+      "pi": "lā xià le"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "窗户",
+      "en": "window",
+      "pi": "chuāng hù"
+    }
+  ]
+}

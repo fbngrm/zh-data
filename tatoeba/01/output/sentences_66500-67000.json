@@ -1,0 +1,93 @@
+[
+  {
+    "chinese": "飞机十分钟后起飞。",
+    "pinyin": "fēijī shí fēnzhōng hòu qǐfēi.",
+    "english": "The plane will take off in ten minutes.",
+    "allWords": [
+      {
+        "Chinese": "飞机",
+        "Pinyin": "fēijī",
+        "English": "plane, airplane, CL:架"
+      },
+      {
+        "Chinese": "十",
+        "Pinyin": "shí",
+        "English": "ten, ten, 10"
+      },
+      {
+        "Chinese": "分钟",
+        "Pinyin": "fēnzhōng",
+        "English": "minutes, minute"
+      },
+      {
+        "Chinese": "后",
+        "Pinyin": "hòu",
+        "English": "after, surname Hou, empress, queen, (archaic) monarch, ruler, back, behind, rear, afterwards, after, later, post-"
+      },
+      {
+        "Chinese": "起飞",
+        "Pinyin": "qǐfēi",
+        "English": "take off, (of an aircraft) to take off"
+      }
+    ]
+  },
+  {
+    "chinese": "汤姆开始唱歌。",
+    "pinyin": "Tāng mǔ kāishǐ chànggē.",
+    "english": "Tom starts singing.",
+    "allWords": [
+      {
+        "Chinese": "汤姆",
+        "Pinyin": "Tāng mǔ",
+        "English": "Tom, Tom (name)"
+      },
+      {
+        "Chinese": "开始",
+        "Pinyin": "kāishǐ",
+        "English": "start, to begin, beginning, to start, initial, CL:個|个"
+      },
+      {
+        "Chinese": "唱歌",
+        "Pinyin": "chànggē",
+        "English": "sing, to sing a song"
+      }
+    ]
+  },
+  {
+    "chinese": "我不知道明天会不会下雨。",
+    "pinyin": "wǒ bù zhī dào míng tiān huì bú huì xià yǔ。",
+    "english": "I don't know if it will rain tomorrow.",
+    "allWords": [
+      {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, I, me, my"
+      },
+      {
+        "Chinese": "不",
+        "Pinyin": "bù",
+        "English": "don't, (negative prefix), not, no"
+      },
+      {
+        "Chinese": "知道",
+        "Pinyin": "zhī dào",
+        "English": "know, to know, to become aware of, also pr."
+      },
+      {
+        "Chinese": "明天",
+        "Pinyin": "míng tiān",
+        "English": "tomorrow, tomorrow"
+      },
+      {
+        "Chinese": "会不会",
+        "Pinyin": "huì bú huì",
+        "English": "will or not, (posing a question: whether sb, something) can or cannot?, is able to or not"
+      },
+      {
+        "Chinese": "下雨",
+        "Pinyin": "xià yǔ",
+        "English": "rain, to rain"
+      }
+    ]
+  }
+]

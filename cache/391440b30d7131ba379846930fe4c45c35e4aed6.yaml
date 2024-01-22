@@ -1,0 +1,27 @@
+{
+  "chinese": "冬天到了，天气变冷了。",
+  "english": "Winter is here, the weather has gotten cold.",
+  "pinyin": "dōng tiān dào le, tiān qì biàn lěng le.",
+  "words": [
+    {
+      "ch": "冬天",
+      "en": "winter",
+      "pi": "dōng tiān"
+    },
+    {
+      "ch": "到了",
+      "en": "is here",
+      "pi": "dào le"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiān qì"
+    },
+    {
+      "ch": "变冷了",
+      "en": "has gotten cold",
+      "pi": "biàn lěng le"
+    }
+  ]
+}

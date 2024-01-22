@@ -1,0 +1,47 @@
+{
+  "chinese": "事故发生时，敬勿使用电梯，请使用楼梯。",
+  "english": "Please do not use the elevator when an accident occurs, please use the stairs.",
+  "pinyin": "shìgù fāshēng shí, jìng wù shǐyòng diàntī, qǐng shǐyòng lóutī.",
+  "words": [
+    {
+      "ch": "事故",
+      "en": "accident",
+      "pi": "shìgù"
+    },
+    {
+      "ch": "发生",
+      "en": "occur",
+      "pi": "fāshēng"
+    },
+    {
+      "ch": "时",
+      "en": "when",
+      "pi": "shí"
+    },
+    {
+      "ch": "敬勿",
+      "en": "please do not",
+      "pi": "jìng wù"
+    },
+    {
+      "ch": "使用",
+      "en": "use",
+      "pi": "shǐyòng"
+    },
+    {
+      "ch": "电梯",
+      "en": "elevator",
+      "pi": "diàntī"
+    },
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "楼梯",
+      "en": "stairs",
+      "pi": "lóutī"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "纽约有多少人口？",
+  "english": "How many people are there in New York?",
+  "pinyin": "niǔ yuē yǒu duō shǎo rén kǒu?",
+  "words": [
+    {
+      "ch": "纽约",
+      "en": "New York",
+      "pi": "niǔ yuē"
+    },
+    {
+      "ch": "有",
+      "en": "have/has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "多少",
+      "en": "how many",
+      "pi": "duō shǎo"
+    },
+    {
+      "ch": "人口",
+      "en": "population",
+      "pi": "rén kǒu"
+    }
+  ]
+}

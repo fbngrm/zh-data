@@ -1,0 +1,18 @@
+{
+  "chinese": "我们必得缴通行税才能在这条道路上行驶。",
+  "english": "We must pay the toll in order to drive on this road.",
+  "pinyin": "wǒmen bìdé jiǎo tōngxíngshuì cáinéng zài zhè tiáo dàolù shàng xíngshǐ。",
+  "words": [
+    {"ch": "我们", "en": "We", "pi": "wǒmen"},
+    {"ch": "必得", "en": "must", "pi": "bìdé"},
+    {"ch": "缴", "en": "pay", "pi": "jiǎo"},
+    {"ch": "通行税", "en": "toll", "pi": "tōngxíngshuì"},
+    {"ch": "才能", "en": "in order to", "pi": "cáinéng"},
+    {"ch": "在", "en": "on", "pi": "zài"},
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "条", "en": "road", "pi": "tiáo"},
+    {"ch": "道路", "en": "road", "pi": "dàolù"},
+    {"ch": "上", "en": "on", "pi": "shàng"},
+    {"ch": "行驶", "en": "drive", "pi": "xíngshǐ"}
+  ]
+}

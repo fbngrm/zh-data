@@ -1,0 +1,27 @@
+{
+  "chinese": "这种啤酒有苦味。",
+  "english": "This beer has a bitter taste.",
+  "pinyin": "zhè zhǒng píjiǔ yǒu kǔwèi。",
+  "words": [
+    {
+      "ch": "这种",
+      "en": "this",
+      "pi": "zhè zhǒng"
+    },
+    {
+      "ch": "啤酒",
+      "en": "beer",
+      "pi": "píjiǔ"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "苦味",
+      "en": "bitter taste",
+      "pi": "kǔwèi"
+    }
+  ]
+}

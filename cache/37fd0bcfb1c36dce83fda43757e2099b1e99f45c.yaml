@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆没有做他该做的事。",
+  "english": "Tom didn't do what he should have done.",
+  "pinyin": "Tāng mǔ méiyǒu zuò tā gāi zuò de shì。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "没有",
+      "en": "didn't",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "做",
+      "en": "do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "该",
+      "en": "should",
+      "pi": "gāi"
+    },
+    {
+      "ch": "的",
+      "en": "have",
+      "pi": "de"
+    },
+    {
+      "ch": "事",
+      "en": "done",
+      "pi": "shì"
+    }
+  ]
+}

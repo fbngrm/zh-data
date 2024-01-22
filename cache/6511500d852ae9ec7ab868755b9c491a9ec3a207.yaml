@@ -1,0 +1,14 @@
+{
+  "chinese": "有多少人在你的派对上?",
+  "english": "How many people are at your party?",
+  "pinyin": "yǒu duō shǎo rén zài nǐ de pài duì shàng?",
+  "words": [
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "多少", "en": "how many", "pi": "duō shǎo"},
+    {"ch": "人", "en": "people", "pi": "rén"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "你的", "en": "your", "pi": "nǐ de"},
+    {"ch": "派对", "en": "party", "pi": "pài duì"},
+    {"ch": "上", "en": "on", "pi": "shàng"}
+  ]
+}

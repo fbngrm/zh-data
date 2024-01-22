@@ -1,0 +1,32 @@
+{
+  "chinese": "我父亲是个大夫。",
+  "english": "My father is a doctor.",
+  "pinyin": "wǒ fùqīn shì gè dàfū。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "父亲",
+      "en": "father",
+      "pi": "fùqīn"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "大夫",
+      "en": "doctor",
+      "pi": "dàfū"
+    }
+  ]
+}

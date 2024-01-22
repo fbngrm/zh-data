@@ -1,0 +1,37 @@
+{
+  "chinese": "你有１８岁了吗？",
+  "english": "Are you 18 years old?",
+  "pinyin": "nǐ yǒu shíbā suì le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "１８",
+      "en": "18",
+      "pi": "shíbā"
+    },
+    {
+      "ch": "岁",
+      "en": "years old",
+      "pi": "suì"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

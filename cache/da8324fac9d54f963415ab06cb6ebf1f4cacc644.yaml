@@ -1,0 +1,42 @@
+{
+  "chinese": "几点了?１０点半了。",
+  "english": "What time is it? It's 10:30.",
+  "pinyin": "jǐ diǎn le? shí diǎn bàn le.",
+  "words": [
+    {
+      "ch": "几",
+      "en": "What",
+      "pi": "jǐ"
+    },
+    {
+      "ch": "点",
+      "en": "time",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "了?",
+      "en": "is it?",
+      "pi": "le?"
+    },
+    {
+      "ch": "１０",
+      "en": "10",
+      "pi": "shí"
+    },
+    {
+      "ch": "点",
+      "en": "o'clock",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "半",
+      "en": "half",
+      "pi": "bàn"
+    },
+    {
+      "ch": "了。",
+      "en": "It's.",
+      "pi": "le."
+    }
+  ]
+}

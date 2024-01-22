@@ -1,0 +1,32 @@
+{
+  "chinese": "犯人趁着夜晚逃走了。",
+  "english": "The criminal escaped during the night.",
+  "pinyin": "fàn rén chèn zhe yè wǎn táo zǒu le.",
+  "words": [
+    {
+      "ch": "犯人",
+      "en": "criminal",
+      "pi": "fàn rén"
+    },
+    {
+      "ch": "趁着",
+      "en": "during",
+      "pi": "chèn zhe"
+    },
+    {
+      "ch": "夜晚",
+      "en": "night",
+      "pi": "yè wǎn"
+    },
+    {
+      "ch": "逃走",
+      "en": "escape",
+      "pi": "táo zǒu"
+    },
+    {
+      "ch": "了",
+      "en": "past tense particle",
+      "pi": "le"
+    }
+  ]
+}

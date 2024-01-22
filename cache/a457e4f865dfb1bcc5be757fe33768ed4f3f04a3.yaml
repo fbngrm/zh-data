@@ -1,0 +1,13 @@
+{
+  "chinese": "我选了错的那个。",
+  "english": "I chose the wrong one.",
+  "pinyin": "wǒ xuǎn le cuò de nà gè。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "选", "en": "choose", "pi": "xuǎn"},
+    {"ch": "了", "en": "past tense marker", "pi": "le"},
+    {"ch": "错", "en": "wrong", "pi": "cuò"},
+    {"ch": "的", "en": "possessive particle", "pi": "de"},
+    {"ch": "那个", "en": "that one", "pi": "nà gè"}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "chinese": "你的姓名是什么？",
+  "english": "What is your name?",
+  "pinyin": "Nǐ de xìngmíng shì shénme?",
+  "words": [
+    {"ch": "你的", "en": "your", "pi": "nǐ de"},
+    {"ch": "姓名", "en": "name", "pi": "xìngmíng"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "什么", "en": "what", "pi": "shénme"}
+  ]
+}

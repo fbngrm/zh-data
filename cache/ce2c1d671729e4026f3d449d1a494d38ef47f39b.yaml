@@ -1,0 +1,32 @@
+{
+  "chinese": "这件衣服丑死了。",
+  "english": "This piece of clothing is so ugly.",
+  "pinyin": "zhè jiàn yīfú chǒusǐle.",
+  "words": [
+    {
+      "ch": "这件",
+      "en": "this piece",
+      "pi": "zhè jiàn"
+    },
+    {
+      "ch": "衣服",
+      "en": "clothing",
+      "pi": "yīfú"
+    },
+    {
+      "ch": "丑",
+      "en": "ugly",
+      "pi": "chǒu"
+    },
+    {
+      "ch": "死",
+      "en": "so",
+      "pi": "sǐ"
+    },
+    {
+      "ch": "了",
+      "en": "is",
+      "pi": "le"
+    }
+  ]
+}

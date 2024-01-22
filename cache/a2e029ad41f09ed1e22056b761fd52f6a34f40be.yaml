@@ -1,0 +1,27 @@
+{
+  "chinese": "因为他迷路了。",
+  "english": "Because he got lost.",
+  "pinyin": "Yīnwèi tā mílùle.",
+  "words": [
+    {
+      "ch": "因为",
+      "en": "because",
+      "pi": "yīnwèi"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "迷路",
+      "en": "got lost",
+      "pi": "mílù"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

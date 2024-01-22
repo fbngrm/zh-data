@@ -1,0 +1,18 @@
+{
+  "chinese": "他跟她说这样的话真是太残忍了。",
+  "english": "It's really cruel of him to say such things to her.",
+  "pinyin": "tā gēn tā shuō zhè yàng de huà zhēn shì tài cán rěn le.",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "跟", "en": "with", "pi": "gēn"},
+    {"ch": "她", "en": "her", "pi": "tā"},
+    {"ch": "说", "en": "to say", "pi": "shuō"},
+    {"ch": "这样", "en": "such", "pi": "zhè yàng"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "话", "en": "words", "pi": "huà"},
+    {"ch": "真是", "en": "really", "pi": "zhēn shì"},
+    {"ch": "太", "en": "too", "pi": "tài"},
+    {"ch": "残忍", "en": "cruel", "pi": "cán rěn"},
+    {"ch": "了", "en": "to", "pi": "le"}
+  ]
+}

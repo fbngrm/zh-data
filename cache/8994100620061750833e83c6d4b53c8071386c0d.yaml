@@ -1,0 +1,37 @@
+{
+  "chinese": "他的英文说得不错。",
+  "english": "His English is very good.",
+  "pinyin": "tā de yīngwén shuō dé búcuò.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "英文",
+      "en": "English language",
+      "pi": "yīngwén"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "得",
+      "en": "auxiliary verb",
+      "pi": "dé"
+    },
+    {
+      "ch": "不错",
+      "en": "very good",
+      "pi": "búcuò"
+    }
+  ]
+}

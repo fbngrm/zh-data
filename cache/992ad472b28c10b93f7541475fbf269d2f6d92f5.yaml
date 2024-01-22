@@ -1,0 +1,12 @@
+{
+  "chinese": "你不喜欢赌博，是吗？",
+  "english": "You don't like gambling, do you?",
+  "pinyin" : "nǐ bù xǐhuān dǔbó, shì ma?",
+  "words": [
+    {"ch": "你", "en": "You", "pi": "nǐ"},
+    {"ch": "不", "en": "don't", "pi": "bù"},
+    {"ch": "喜欢", "en": "like", "pi": "xǐhuān"},
+    {"ch": "赌博", "en": "gambling", "pi": "dǔbó"},
+    {"ch": "是吗", "en": "do you?", "pi": "shì ma"}
+  ]
+}

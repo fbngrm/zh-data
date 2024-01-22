@@ -1,0 +1,15 @@
+{
+  "chinese": "宝宝在妈妈的怀里睡得很香。",
+  "english": "The baby sleeps soundly in his mother's arms.",
+  "pinyin": "Bǎobǎo zài māmā de huái lǐ shuì dé hěn xiāng.",
+  "words": [
+    {"ch": "宝宝", "en": "baby", "pi": "bǎobǎo"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "妈妈", "en": "mother", "pi": "māmā"},
+    {"ch": "的", "en": "genitive particle", "pi": "de"},
+    {"ch": "怀里", "en": "arms", "pi": "huái lǐ"},
+    {"ch": "睡得", "en": "sleeps", "pi": "shuì dé"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "香", "en": "soundly", "pi": "xiāng"}
+  ]
+}

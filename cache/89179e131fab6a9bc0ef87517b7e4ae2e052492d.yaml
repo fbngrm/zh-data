@@ -1,0 +1,11 @@
+{
+  "chinese": "汤姆打网球吗？",
+  "english": "Does Tom play tennis?",
+  "pinyin": "Tāng mǔ dǎ wǎngqiú ma?",
+  "words": [
+    { "ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ" },
+    { "ch": "打", "en": "play", "pi": "dǎ" },
+    { "ch": "网球", "en": "tennis", "pi": "wǎngqiú" },
+    { "ch": "吗", "en": "question particle", "pi": "ma" }
+  ]
+}

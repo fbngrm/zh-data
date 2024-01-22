@@ -1,0 +1,12 @@
+{
+  "chinese": "它是我们的错误。",
+  "english": "It is our mistake.",
+  "pinyin": "tā shì wǒmen de cuòwù",
+  "words": [
+    {"ch": "它", "en": "it", "pi": "tā"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "我们", "en": "our/we", "pi": "wǒmen"},
+    {"ch": "的", "en": "possessive particle", "pi": "de"},
+    {"ch": "错误", "en": "mistake", "pi": "cuòwù"}
+  ]
+}

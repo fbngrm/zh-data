@@ -1,0 +1,82 @@
+{
+  "chinese": "当计数器的数值达到预设的「幸运号码」时，就会显示一则恭喜讯息。",
+  "english": "When the value of the counter reaches the preset 'lucky number', a congratulatory message will be displayed.",
+  "pinyin": "Dāng jìshǔqì de shùzhí dádào yùshè de 'xìngyùn hàomǎ' shí, jiù huì xiǎnshì yīzé gōngxǐ xùnxí.",
+  "words": [
+    {
+      "ch": "当",
+      "en": "when",
+      "pi": "dāng"
+    },
+    {
+      "ch": "计数器",
+      "en": "counter",
+      "pi": "jìshǔqì"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "数值",
+      "en": "value",
+      "pi": "shùzhí"
+    },
+    {
+      "ch": "达到",
+      "en": "reaches",
+      "pi": "dádào"
+    },
+    {
+      "ch": "预设",
+      "en": "preset",
+      "pi": "yùshè"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "「幸运号码」",
+      "en": "'lucky number'",
+      "pi": "\"xìngyùn hàomǎ\""
+    },
+    {
+      "ch": "时",
+      "en": "when",
+      "pi": "shí"
+    },
+    {
+      "ch": "就",
+      "en": "will",
+      "pi": "jiù"
+    },
+    {
+      "ch": "会",
+      "en": "be",
+      "pi": "huì"
+    },
+    {
+      "ch": "显示",
+      "en": "displayed",
+      "pi": "xiǎnshì"
+    },
+    {
+      "ch": "一则",
+      "en": "a",
+      "pi": "yīzé"
+    },
+    {
+      "ch": "恭喜",
+      "en": "congratulatory",
+      "pi": "gōngxǐ"
+    },
+    {
+      "ch": "讯息",
+      "en": "message",
+      "pi": "xùnxí"
+    }
+  ]
+}

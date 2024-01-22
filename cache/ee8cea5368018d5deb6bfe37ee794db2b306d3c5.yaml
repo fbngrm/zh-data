@@ -1,0 +1,27 @@
+{
+  "chinese": "你明天几点上班？",
+  "english": "What time will you start work tomorrow?",
+  "pinyin": "Nǐ míngtiān jǐ diǎn shàngbān?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "Nǐ"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "几点",
+      "en": "what time",
+      "pi": "jǐ diǎn"
+    },
+    {
+      "ch": "上班",
+      "en": "start work",
+      "pi": "shàngbān"
+    }
+  ]
+}

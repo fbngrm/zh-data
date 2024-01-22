@@ -1,0 +1,27 @@
+{
+  "chinese": "这些是我的铅笔。",
+  "english": "These are my pencils.",
+  "pinyin": "zhè xiē shì wǒ de qiān bǐ。",
+  "words": [
+    {
+      "ch": "这些",
+      "en": "These",
+      "pi": "zhè xiē"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "铅笔",
+      "en": "pencils",
+      "pi": "qiān bǐ"
+    }
+  ]
+}

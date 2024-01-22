@@ -1,0 +1,57 @@
+{
+  "chinese": "你应该早点做的。现在没人可以帮你。",
+  "english": "You should have done it earlier. Now no one can help you.",
+  "pinyin": "nǐ yīng gāi zǎo diǎn zuò de. xiàn zài méi rén kě yǐ bāng nǐ。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    }, 
+    {
+      "ch": "应该",
+      "en": "should",
+      "pi": "yīng gāi"
+    }, 
+    {
+      "ch": "早点",
+      "en": "earlier",
+      "pi": "zǎo diǎn"
+    }, 
+    {
+      "ch": "做",
+      "en": "have done",
+      "pi": "zuò"
+    }, 
+    {
+      "ch": "的",
+      "en": "it",
+      "pi": "de"
+    }, 
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    }, 
+    {
+      "ch": "没人",
+      "en": "no one",
+      "pi": "méi rén"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kě yǐ"
+    },
+    {
+      "ch": "帮",
+      "en": "help",
+      "pi": "bāng"
+    },
+    {
+      "ch": "你。",
+      "en": "you.",
+      "pi": "nǐ。"
+    }
+  ]
+}

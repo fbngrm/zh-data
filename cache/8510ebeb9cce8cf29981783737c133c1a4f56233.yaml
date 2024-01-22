@@ -1,0 +1,37 @@
+{
+  "chinese": "这些生词对我们特别重要。",
+  "english": "These new words are particularly important for us.",
+  "pinyin": "zhè xiē shēng cí duì wǒ men tè bié zhòng yào。",
+  "words": [
+    {
+      "ch": "这些",
+      "en": "these",
+      "pi": "zhè xiē"
+    },
+    {
+      "ch": "生词",
+      "en": "new words",
+      "pi": "shēng cí"
+    },
+    {
+      "ch": "对",
+      "en": "for",
+      "pi": "duì"
+    },
+    {
+      "ch": "我们",
+      "en": "us",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "特别",
+      "en": "particularly",
+      "pi": "tè bié"
+    },
+    {
+      "ch": "重要",
+      "en": "important",
+      "pi": "zhòng yào"
+    }
+  ]
+}

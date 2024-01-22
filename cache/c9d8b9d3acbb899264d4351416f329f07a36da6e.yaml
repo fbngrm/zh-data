@@ -1,0 +1,37 @@
+{
+  "chinese": "他查的是什么？",
+  "english": "What is he looking up?",
+  "pinyin": "tā chá de shì shénme?",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "查",
+      "en": "to look up",
+      "pi": "chá"
+    },
+    {
+      "ch": "的",
+      "en": "particle indicating possession or certainty",
+      "pi": "de"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "?"
+    }
+  ]
+}

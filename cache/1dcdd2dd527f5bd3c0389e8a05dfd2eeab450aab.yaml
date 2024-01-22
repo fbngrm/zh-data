@@ -1,0 +1,32 @@
+{
+   "chinese": "你上学不可以迟到。",
+   "english": "You can't be late for school.",
+   "pinyin": "nǐ shàng xué bù kěyǐ chídào.",
+   "words": [
+      {
+         "ch": "你",
+         "en": "you",
+         "pi": "nǐ"
+      },
+      {
+         "ch": "上学",
+         "en": "go to school",
+         "pi": "shàng xué"
+      },
+      {
+         "ch": "不",
+         "en": "not",
+         "pi": "bù"
+      },
+      {
+         "ch": "可以",
+         "en": "can",
+         "pi": "kěyǐ"
+      },
+      {
+         "ch": "迟到",
+         "en": "be late",
+         "pi": "chídào"
+      }
+   ]
+}

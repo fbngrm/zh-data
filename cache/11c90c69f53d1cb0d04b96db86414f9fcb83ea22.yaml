@@ -1,0 +1,16 @@
+{
+  "chinese": "这辆车没有以前跑得那么顺畅了。",
+  "english": "This car is not running as smoothly as before.",
+  "pinyin": "zhè liàng chē méi yǒu yǐ qián pǎo dé nà me shùn chàng le。",
+  "words": [
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "辆", "en": "car", "pi": "liàng"},
+    {"ch": "车", "en": "car", "pi": "chē"},
+    {"ch": "没有", "en": "not", "pi": "méi yǒu"},
+    {"ch": "以前", "en": "before", "pi": "yǐ qián"},
+    {"ch": "跑得", "en": "running", "pi": "pǎo dé"},
+    {"ch": "那么", "en": "so", "pi": "nà me"},
+    {"ch": "顺畅", "en": "smoothly", "pi": "shùn chàng"},
+    {"ch": "了", "en": "anymore", "pi": "le"}
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "这栋房子的周围有篱笆。",
+  "english": "There is a fence around this building.",
+  "pinyin": "zhè dòng fángzi de zhōuwéi yǒu líba.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "栋房子",
+      "en": "building",
+      "pi": "dòng fángzi"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "周围",
+      "en": "around",
+      "pi": "zhōuwéi"
+    },
+    {
+      "ch": "有",
+      "en": "there is",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "篱笆",
+      "en": "fence",
+      "pi": "líba"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我晚上睡觉很早。",
+  "english": "I go to bed very early at night.",
+  "pinyin": "wǒ wǎnshang shuìjiào hěn zǎo.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "晚上",
+      "en": "at night",
+      "pi": "wǎnshang"
+    },
+    {
+      "ch": "睡觉",
+      "en": "go to bed",
+      "pi": "shuìjiào"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "早",
+      "en": "early",
+      "pi": "zǎo"
+    }
+  ]
+}

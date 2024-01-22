@@ -1,0 +1,32 @@
+{
+  "chinese": "你的英語說得很好。",
+  "english": "Your English is very good.",
+  "pinyin": "nǐ de yīngyǔ shuō dé hěn hǎo.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "英語",
+      "en": "English",
+      "pi": "yīngyǔ"
+    },
+    {
+      "ch": "說得",
+      "en": "speak",
+      "pi": "shuō dé"
+    },
+    {
+      "ch": "很好",
+      "en": "very good",
+      "pi": "hěn hǎo"
+    }
+  ]
+}

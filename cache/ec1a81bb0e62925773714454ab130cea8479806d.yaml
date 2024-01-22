@@ -1,0 +1,32 @@
+{
+  "chinese": "我们明天有个测验。",
+  "english": "We have a test tomorrow.",
+  "pinyin": "wǒ men míng tiān yǒu gè cè yàn。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "测验",
+      "en": "test",
+      "pi": "cè yàn"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "此事故发生在周日３点左右。",
+  "english": "This accident occurred around 3 o'clock on Sunday.",
+  "pinyin": "cǐ shìgù fāshēng zài zhōurì 3 diǎn zuǒyòu.",
+  "words": [
+    {
+      "ch": "此",
+      "en": "this",
+      "pi": "cǐ"
+    },
+    {
+      "ch": "事故",
+      "en": "accident",
+      "pi": "shìgù"
+    },
+    {
+      "ch": "发生",
+      "en": "occur",
+      "pi": "fāshēng"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "周日",
+      "en": "Sunday",
+      "pi": "zhōurì"
+    },
+    {
+      "ch": "３点",
+      "en": "3 o'clock",
+      "pi": "3 diǎn"
+    },
+    {
+      "ch": "左右",
+      "en": "around",
+      "pi": "zuǒyòu"
+    }
+  ]
+}

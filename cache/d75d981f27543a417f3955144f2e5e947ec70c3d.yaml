@@ -1,0 +1,14 @@
+{
+  "chinese": "他很有信心贏這場比賽。",
+  "english": "He is very confident of winning this game.",
+  "pinyin": "tā hěn yǒu xìn xīn yíng zhè chǎng bǐ sài。",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "信心", "en": "confidence", "pi": "xìn xīn"},
+    {"ch": "贏", "en": "win", "pi": "yíng"},
+    {"ch": "這場", "en": "this", "pi": "zhè chǎng"},
+    {"ch": "比賽", "en": "game", "pi": "bǐ sài"}
+  ]
+}

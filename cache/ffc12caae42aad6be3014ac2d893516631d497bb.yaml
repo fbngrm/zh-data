@@ -1,0 +1,103 @@
+{
+  "sentences": [
+    {
+      "chinese": "哥倫布不是一位探險家,因為他熱愛大海。",
+      "english": "Christopher Columbus wasn't an explorer because he loved the sea.",
+      "pinyin": "Gēlúnbù shì yī wèi tànxiǎnjiā, yīnwèi tā rè ài dàhǎi。",
+      "words": [
+        {
+          "ch": "哥倫布",
+          "en": "Christopher Columbus",
+          "pi": "Gēlúnbù"
+        },
+        {
+          "ch": "不是",
+          "en": "wasn't",
+          "pi": "bù shì"
+        },
+        {
+          "ch": "一位",
+          "en": "an",
+          "pi": "yī wèi"
+        },
+        {
+          "ch": "探險家",
+          "en": "explorer",
+          "pi": "tànxiǎnjiā"
+        },
+        {
+          "ch": "因為",
+          "en": "because",
+          "pi": "yīnwèi"
+        },
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "熱愛",
+          "en": "loved",
+          "pi": "rè ài"
+        },
+        {
+          "ch": "大海",
+          "en": "the sea",
+          "pi": "dàhǎi"
+        }
+      ]
+    },
+    {
+      "chinese": "他是一位探險家,因為他討厭西班牙監獄。",
+      "english": "He was an explorer because he hated Spanish prisons.",
+      "pinyin": "Tā shì yī wèi tànxiǎnjiā, yīnwèi tā tǎo yàn xī bān yá jiān yù。",
+      "words": [
+        {
+          "ch": "他",
+          "en": "He",
+          "pi": "tā"
+        },
+        {
+          "ch": "是",
+          "en": "was",
+          "pi": "shì"
+        },
+        {
+          "ch": "一位",
+          "en": "an",
+          "pi": "yī wèi"
+        },
+        {
+          "ch": "探險家",
+          "en": "explorer",
+          "pi": "tànxiǎnjiā"
+        },
+        {
+          "ch": "因為",
+          "en": "because",
+          "pi": "yīnwèi"
+        },
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "討厭",
+          "en": "hated",
+          "pi": "tǎo yàn"
+        },
+        {
+          "ch": "西班牙",
+          "en": "Spanish",
+          "pi": "xī bān yá"
+        },
+        {
+          "ch": "監獄",
+          "en": "prisons",
+          "pi": "jiān yù"
+        }
+      ]
+    }
+  ]
+}

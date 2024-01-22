@@ -1,0 +1,47 @@
+{
+  "chinese": "你能用中文數到十嗎？",
+  "english": "Can you count to ten in Chinese?",
+  "pinyin": "nǐ néng yòng zhōngwén shǔ dào shí ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "用",
+      "en": "use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "中文",
+      "en": "Chinese",
+      "pi": "zhōngwén"
+    },
+    {
+      "ch": "數",
+      "en": "count",
+      "pi": "shǔ"
+    },
+    {
+      "ch": "到",
+      "en": "to",
+      "pi": "dào"
+    },
+    {
+      "ch": "十",
+      "en": "ten",
+      "pi": "shí"
+    },
+    {
+      "ch": "嗎",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

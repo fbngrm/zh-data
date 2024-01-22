@@ -1,0 +1,27 @@
+{
+  "chinese": "這個手袋是我的。",
+  "english": "This handbag is mine.",
+  "pinyin": "zhè gè shǒu dài shì wǒ de.",
+  "words": [
+    {
+      "ch": "這個",
+      "en": "This",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "手袋",
+      "en": "handbag",
+      "pi": "shǒu dài"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我的",
+      "en": "mine",
+      "pi": "wǒ de"
+    }
+  ]
+}

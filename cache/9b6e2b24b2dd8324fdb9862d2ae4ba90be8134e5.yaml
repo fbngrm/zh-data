@@ -1,0 +1,27 @@
+{
+  "chinese": "好久不见。你怎么样？",
+  "english": "Long time no see. How are you?",
+  "pinyin": "Hǎo jiǔ bù jiàn. Nǐ zěnme yàng?",
+  "words": [
+    {
+      "ch": "好久",
+      "en": "Long time",
+      "pi": "Hǎo jiǔ"
+    },
+    {
+      "ch": "不见",
+      "en": "No see",
+      "pi": "Bù jiàn"
+    },
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "Nǐ"
+    },
+    {
+      "ch": "怎么样",
+      "en": "How are you",
+      "pi": "Zěnme yàng"
+    }
+  ]
+}

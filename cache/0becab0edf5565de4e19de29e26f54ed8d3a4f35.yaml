@@ -1,0 +1,27 @@
+{
+  "chinese": "David Beckham是英国人。",
+  "english": "David Beckham is British.",
+  "pinyin": "Dàwèi Bèi kèhàn shì Yīngguó rén.",
+  "words": [
+    {
+      "ch": "David",
+      "en": "David",
+      "pi": "Dàwèi"
+    },
+    {
+      "ch": "Beckham",
+      "en": "Beckham",
+      "pi": "Bèi kèhàn"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "英国人",
+      "en": "British",
+      "pi": "Yīngguó rén"
+    }
+  ]
+}

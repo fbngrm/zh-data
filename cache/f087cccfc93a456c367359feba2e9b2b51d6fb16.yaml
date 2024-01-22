@@ -1,0 +1,32 @@
+{
+  "chinese": "我们在火车上十个小时。",
+  "english": "We are on the train for ten hours.",
+  "pinyin": "wǒmen zài huǒchē shàng shí gè xiǎoshí。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "在",
+      "en": "on",
+      "pi": "zài"
+    },
+    {
+      "ch": "火车上",
+      "en": "the train",
+      "pi": "huǒchē shàng"
+    },
+    {
+      "ch": "十个",
+      "en": "ten",
+      "pi": "shí gè"
+    },
+    {
+      "ch": "小时",
+      "en": "hours",
+      "pi": "xiǎoshí"
+    }
+  ]
+}

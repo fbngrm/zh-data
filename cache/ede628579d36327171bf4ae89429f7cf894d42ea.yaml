@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆喝咖啡吗？",
+  "english": "Does Tom drink coffee?",
+  "pinyin": "Tāng mǔ hē kā fēi ma?",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "喝",
+      "en": "drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kā fēi"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "昨天我去了迪士尼乐园。",
+  "english": "Yesterday I went to Disneyland.",
+  "pinyin": "zuó tiān wǒ qù le dí shì ní lè yuán.",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "Yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "去了",
+      "en": "went",
+      "pi": "qù le"
+    },
+    {
+      "ch": "迪士尼乐园",
+      "en": "Disneyland",
+      "pi": "dí shì ní lè yuán"
+    }
+  ]
+}

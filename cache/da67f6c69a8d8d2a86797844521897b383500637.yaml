@@ -1,0 +1,37 @@
+{
+  "chinese": "在我家里有个果园。",
+  "english": "There is an orchard in my house.",
+  "pinyin": "zài wǒ jiā lǐ yǒu gè guǒ yuán。",
+  "words": [
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "家里",
+      "en": "my house",
+      "pi": "jiā lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "果园",
+      "en": "orchard",
+      "pi": "guǒ yuán"
+    }
+  ]
+}

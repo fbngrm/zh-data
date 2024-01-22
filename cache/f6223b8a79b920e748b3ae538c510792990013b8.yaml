@@ -1,0 +1,27 @@
+{
+  "chinese": "这个橙子味道鲜美。",
+  "english": "This orange has a delicious taste.",
+  "pinyin": "zhè gè chéng zi wèi dào xiān měi.",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "橙子",
+      "en": "orange",
+      "pi": "chéng zi"
+    },
+    {
+      "ch": "味道",
+      "en": "taste",
+      "pi": "wèi dào"
+    },
+    {
+      "ch": "鲜美",
+      "en": "delicious",
+      "pi": "xiān měi"
+    }
+  ]
+}

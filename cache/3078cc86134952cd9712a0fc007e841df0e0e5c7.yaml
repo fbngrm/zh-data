@@ -1,0 +1,32 @@
+{
+  "chinese": "约翰和汤姆在摔角。",
+  "english": "John and Tom are wrestling.",
+  "pinyin": "Yuēhàn hé Tāngmǔ zài shuāijiǎo.",
+  "words": [
+    {
+      "ch": "约翰",
+      "en": "John",
+      "pi": "Yuēhàn"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "在",
+      "en": "are",
+      "pi": "zài"
+    },
+    {
+      "ch": "摔角",
+      "en": "wrestling",
+      "pi": "shuāijiǎo"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "sentences": [
+    {
+      "chinese": "请问我能搭下车吗？",
+      "english": "Excuse me, can I get off the car?",
+      "pinyin": "qǐng​ wèn​ wǒ ​néng​ dā​ xià​ chē​ ma?",
+      "words": [
+        {
+          "ch": "请问",
+          "en": "Excuse me",
+          "pi": "qǐng​ wèn​"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "能",
+          "en": "can",
+          "pi": "néng"
+        },
+        {
+          "ch": "搭",
+          "en": "get off",
+          "pi": "dā"
+        },
+        {
+          "ch": "下车",
+          "en": "car",
+          "pi": "xià​ chē"
+        },
+        {
+          "ch": "吗",
+          "en": "?",
+          "pi": "ma?"
+        }
+      ]
+    },
+    {
+      "chinese": "我的钱包被偷了。",
+      "english": "My wallet has been stolen.",
+      "pinyin": "wǒ​ de​ qián​ bāo​ bèi​ tōu​ le​.",
+      "words": [
+        {
+          "ch": "我的",
+          "en": "My",
+          "pi": "wǒ​ de​"
+        },
+        {
+          "ch": "钱包",
+          "en": "wallet",
+          "pi": "qián​ bāo"
+        },
+        {
+          "ch": "被",
+          "en": "has been",
+          "pi": "bèi"
+        },
+        {
+          "ch": "偷",
+          "en": "stolen",
+          "pi": "tōu"
+        },
+        {
+          "ch": "了",
+          "en": ".",
+          "pi": "le​"
+        }
+      ]
+    }
+  ]
+}

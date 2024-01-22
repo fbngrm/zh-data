@@ -1,0 +1,43 @@
+{
+  "sentences": [
+    {
+      "chinese": "电话响了。",
+      "english": "The phone is ringing.",
+      "pinyin": "diàn huà xiǎng le。",
+      "words": [
+        {
+          "ch": "电话",
+          "en": "phone",
+          "pi": "diàn huà"
+        },
+        {
+          "ch": "响了",
+          "en": "is ringing",
+          "pi": "xiǎng le"
+        }
+      ]
+    },
+    {
+      "chinese": "我去接。",
+      "english": "I'll answer.",
+      "pinyin": "wǒ qù jiē。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "去",
+          "en": "go",
+          "pi": "qù"
+        },
+        {
+          "ch": "接",
+          "en": "answer",
+          "pi": "jiē"
+        }
+      ]
+    }
+  ]
+}

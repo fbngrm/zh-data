@@ -1,0 +1,14 @@
+{
+  "chinese": "我不记得哪个是我的球拍。",
+  "english": "I don't remember which one is my racket.",
+  "pinyin": "wǒ bù jìdé nǎge shì wǒ de qiúpāi.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "不", "en": "don't", "pi": "bù" },
+    { "ch": "记得", "en": "remember", "pi": "jìdé" },
+    { "ch": "哪个", "en": "which one", "pi": "nǎge" },
+    { "ch": "是", "en": "is", "pi": "shì" },
+    { "ch": "我的", "en": "my", "pi": "wǒ de" },
+    { "ch": "球拍", "en": "racket", "pi": "qiúpāi" }
+  ]
+}

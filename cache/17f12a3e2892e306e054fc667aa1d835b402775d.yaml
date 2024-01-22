@@ -1,0 +1,27 @@
+{
+  "chinese": "我一点也不会游泳。",
+  "english": "I can't swim at all.",
+  "pinyin": "wǒ yīdiǎn yě bù huì yóuyǒng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "一点也不",
+      "en": "can't at all",
+      "pi": "yīdiǎn yě bù"
+    },
+    {
+      "ch": "会",
+      "en": "swim",
+      "pi": "huì"
+    },
+    {
+      "ch": "游泳",
+      "en": "swim",
+      "pi": "yóuyǒng"
+    }
+  ]
+}

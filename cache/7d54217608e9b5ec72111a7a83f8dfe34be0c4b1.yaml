@@ -1,0 +1,37 @@
+{
+  "chinese": "人们修了一座桥过河。",
+  "english": "People built a bridge to cross the river.",
+  "pinyin": "rén mén xiū le yī zuò qiáo guò hé.",
+  "words": [
+    {
+      "ch": "人们",
+      "en": "people",
+      "pi": "rén mén"
+    },
+    {
+      "ch": "修了",
+      "en": "built",
+      "pi": "xiū le"
+    },
+    {
+      "ch": "一座",
+      "en": "a",
+      "pi": "yī zuò"
+    },
+    {
+      "ch": "桥",
+      "en": "bridge",
+      "pi": "qiáo"
+    },
+    {
+      "ch": "过",
+      "en": "to",
+      "pi": "guò"
+    },
+    {
+      "ch": "河",
+      "en": "river",
+      "pi": "hé"
+    }
+  ]
+}

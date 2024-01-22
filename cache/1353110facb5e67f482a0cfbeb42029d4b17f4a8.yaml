@@ -1,0 +1,17 @@
+{
+  "chinese": "我很忙，所以我不能去了。",
+  "english": "I'm very busy, so I can't go.",
+  "pinyin": "wǒ hěn máng, suǒ yǐ wǒ bù néng qù le。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "忙", "en": "busy", "pi": "máng"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "所以", "en": "so", "pi": "suǒ yǐ"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "不能", "en": "can't", "pi": "bù néng"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "了", "en": "", "pi": "le"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}

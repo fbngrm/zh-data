@@ -1,0 +1,12 @@
+{
+  "chinese": "我丢了我的帽子。",
+  "english": "I lost my hat.",
+  "pinyin": "wǒ diū le wǒ de màozi.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "丢", "en": "lost", "pi": "diū"},
+    {"ch": "了", "en": " ", "pi": "le"},
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "帽子", "en": "hat", "pi": "màozi"}
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "chinese": "这个就很好，就买这个吧。",
+  "english": "This one is very good, just buy this one.",
+  "pinyin": "zhè gè jiù hěn hǎo, jiù mǎi zhè gè ba.",
+  "words": [
+    {"ch": "这个", "en": "this one", "pi": "zhè gè"},
+    {"ch": "就", "en": "just", "pi": "jiù"},
+    {"ch": "很好", "en": "very good", "pi": "hěn hǎo"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "就", "en": "just", "pi": "jiù"},
+    {"ch": "买", "en": "buy", "pi": "mǎi"},
+    {"ch": "这个", "en": "this one", "pi": "zhè gè"},
+    {"ch": "吧", "en": "let's", "pi": "ba"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

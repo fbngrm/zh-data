@@ -1,0 +1,22 @@
+{
+  "chinese": "星期六我帮太太打扫卫生，星期天上午我带孩子去公园玩。",
+  "english": "On Saturday, I help my wife clean the house. On Sunday morning, I take the children to the park to play.",
+  "pinyin": "Xīngqíliù wǒ bāng tàitài dǎsǎo wèishēng, xīngqítiān shàngwǔ wǒ dài háizi qù gōngyuán wán.",
+  "words": [
+    {"ch": "星期六", "en": "Saturday", "pi": "Xīngqíliù"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "帮", "en": "help", "pi": "bāng"},
+    {"ch": "太太", "en": "wife", "pi": "tàitài"},
+    {"ch": "打扫", "en": "clean", "pi": "dǎsǎo"},
+    {"ch": "卫生", "en": "house", "pi": "wèishēng"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "星期天", "en": "Sunday", "pi": "Xīngqítiān"},
+    {"ch": "上午", "en": "morning", "pi": "shàngwǔ"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "带", "en": "take", "pi": "dài"},
+    {"ch": "孩子", "en": "children", "pi": "háizi"},
+    {"ch": "去", "en": "to", "pi": "qù"},
+    {"ch": "公园", "en": "park", "pi": "gōngyuán"},
+    {"ch": "玩", "en": "play", "pi": "wán"}
+  ]
+}

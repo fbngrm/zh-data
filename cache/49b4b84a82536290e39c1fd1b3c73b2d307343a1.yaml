@@ -1,0 +1,130 @@
+{
+  "sentences": [
+    {
+      "chinese": "我們吃爺爺吧。",
+      "english": "Let's eat, grandfather.",
+      "pinyin": "wǒ mén chī yé yé ba.",
+      "words": [
+        {
+          "ch": "我們",
+          "en": "we",
+          "pi": "wǒ mén"
+        },
+        {
+          "ch": "吃",
+          "en": "eat",
+          "pi": "chī"
+        },
+        {
+          "ch": "爺爺",
+          "en": "grandfather",
+          "pi": "yé yé"
+        },
+        {
+          "ch": "吧",
+          "en": "let's",
+          "pi": "ba"
+        }
+      ]
+    },
+    {
+      "chinese": "我們吃了吧,爺爺。",
+      "english": "We have eaten, grandfather.",
+      "pinyin": "wǒ mén chī le ba, yé yé.",
+      "words": [
+        {
+          "ch": "我們",
+          "en": "we",
+          "pi": "wǒ mén"
+        },
+        {
+          "ch": "吃了",
+          "en": "have eaten",
+          "pi": "chī le"
+        },
+        {
+          "ch": "吧",
+          "en": "let's",
+          "pi": "ba"
+        },
+        {
+          "ch": "爺爺",
+          "en": "grandfather",
+          "pi": "yé yé"
+        }
+      ]
+    },
+    {
+      "chinese": "這兩個句子可以證明標點符號能讓句子有很大的不同。",
+      "english": "These two sentences can prove that punctuation can make a big difference in a sentence.",
+      "pinyin": "zhè liǎng gè jù zi kě yǐ zhèng míng biāo diǎn fú huì néng ràng jù zi yǒu hěn dà de bù tóng.",
+      "words": [
+        {
+          "ch": "這",
+          "en": "these",
+          "pi": "zhè"
+        },
+        {
+          "ch": "兩個",
+          "en": "two",
+          "pi": "liǎng gè"
+        },
+        {
+          "ch": "句子",
+          "en": "sentences",
+          "pi": "jù zi"
+        },
+        {
+          "ch": "可以",
+          "en": "can",
+          "pi": "kě yǐ"
+        },
+        {
+          "ch": "證明",
+          "en": "prove",
+          "pi": "zhèng míng"
+        },
+        {
+          "ch": "標點符號",
+          "en": "punctuation",
+          "pi": "biāo diǎn fú huì"
+        },
+        {
+          "ch": "能",
+          "en": "can",
+          "pi": "néng"
+        },
+        {
+          "ch": "讓",
+          "en": "make",
+          "pi": "ràng"
+        },
+        {
+          "ch": "句子",
+          "en": "sentence",
+          "pi": "jù zi"
+        },
+        {
+          "ch": "有",
+          "en": "have",
+          "pi": "yǒu"
+        },
+        {
+          "ch": "很大",
+          "en": "big",
+          "pi": "hěn dà"
+        },
+        {
+          "ch": "的",
+          "en": "of",
+          "pi": "de"
+        },
+        {
+          "ch": "不同",
+          "en": "difference",
+          "pi": "bù tóng"
+        }
+      ]
+    }
+  ]
+}

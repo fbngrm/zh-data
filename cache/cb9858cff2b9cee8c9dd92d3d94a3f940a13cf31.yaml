@@ -1,0 +1,32 @@
+{
+  "chinese": "我訂了一個位子。",
+  "english": "I made a reservation.",
+  "pinyin": "wǒ dìng le yí gè wèi zi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "訂",
+      "en": "made",
+      "pi": "dìng"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "一個",
+      "en": "a",
+      "pi": "yí gè"
+    },
+    {
+      "ch": "位子",
+      "en": "reservation",
+      "pi": "wèi zi"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "明天早上早点叫醒我。",
+  "english": "Wake me up early tomorrow morning.",
+  "pinyin": "Míngtiān zǎoshang zǎodiǎn jiàoxǐng wǒ.",
+  "words": [
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎoshang"
+    },
+    {
+      "ch": "早点",
+      "en": "early",
+      "pi": "zǎodiǎn"
+    },
+    {
+      "ch": "叫醒",
+      "en": "wake",
+      "pi": "jiàoxǐng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    }
+  ]
+}

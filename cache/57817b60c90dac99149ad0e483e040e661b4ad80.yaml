@@ -1,0 +1,13 @@
+{
+  "chinese": "他一个星期赚不到五十美元。",
+  "english": "He earns less than fifty dollars a week.",
+  "pinyin": "tā yī gè xīng qī zhuàn bú dào wǔ shí měi yuán。",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "一个", "en": "a", "pi": "yī gè"},
+    {"ch": "星期", "en": "week", "pi": "xīng qī"},
+    {"ch": "赚不到", "en": "earns less than", "pi": "zhuàn bú dào"},
+    {"ch": "五十", "en": "fifty", "pi": "wǔ shí"},
+    {"ch": "美元", "en": "dollars", "pi": "měi yuán"}
+  ]
+}

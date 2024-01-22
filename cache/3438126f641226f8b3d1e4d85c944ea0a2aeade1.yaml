@@ -1,0 +1,37 @@
+{
+  "chinese": "我在这里很长时间了。",
+  "english": "I have been here for a long time.",
+  "pinyin": "wǒ zài zhèlǐ hěn cháng shíjiānle.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "in; at",
+      "pi": "zài"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhèlǐ"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "长时间",
+      "en": "long time",
+      "pi": "cháng shíjiān"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "le"
+    }
+  ]
+}

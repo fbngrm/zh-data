@@ -1,0 +1,16 @@
+{
+  "chinese": "我们要么喝葡萄酒，要么喝啤酒。",
+  "english": "We either drink wine or beer.",
+  "pinyin": "wǒ men yào me hē pú táo jiǔ ，yào me hē pí jiǔ。",
+  "words": [
+    {"ch": "我们", "en": "we", "pi": "wǒ men"},
+    {"ch": "要么", "en": "either", "pi": "yào me"},
+    {"ch": "喝", "en": "drink", "pi": "hē"},
+    {"ch": "葡萄酒", "en": "wine", "pi": "pú táo jiǔ"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "要么", "en": "or", "pi": "yào me"},
+    {"ch": "喝", "en": "drink", "pi": "hē"},
+    {"ch": "啤酒", "en": "beer", "pi": "pí jiǔ"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

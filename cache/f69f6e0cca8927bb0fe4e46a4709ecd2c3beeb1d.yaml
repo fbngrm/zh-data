@@ -1,0 +1,32 @@
+{
+  "chinese": "猫正在沙发上睡觉。",
+  "english": "The cat is sleeping on the sofa.",
+  "pinyin": "māo zhèngzài shāfā shàng shuìjiào.",
+  "words": [
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    },
+    {
+      "ch": "正在",
+      "en": "is",
+      "pi": "zhèngzài"
+    },
+    {
+      "ch": "沙发",
+      "en": "sofa",
+      "pi": "shāfā"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "睡觉",
+      "en": "sleeping",
+      "pi": "shuìjiào"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "chinese": "你还没到可以拿驾驶执照的年龄。",
+  "english": "You are not yet at the age to obtain a driver's license.",
+  "pinyin": "nǐ hái méi dào kěyǐ ná jiàshǐ zhízhào de niánlíng。",
+  "words": [
+    { "ch": "你", "en": "You", "pi": "nǐ" },
+    { "ch": "还", "en": "yet", "pi": "hái" },
+    { "ch": "没", "en": "not", "pi": "méi" },
+    { "ch": "到", "en": "yet", "pi": "dào" },
+    { "ch": "可以", "en": "able to", "pi": "kěyǐ" },
+    { "ch": "拿", "en": "obtain", "pi": "ná" },
+    { "ch": "驾驶", "en": "driver's", "pi": "jiàshǐ" },
+    { "ch": "执照", "en": "license", "pi": "zhízhào" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "年龄", "en": "age", "pi": "niánlíng" }
+  ]
+}

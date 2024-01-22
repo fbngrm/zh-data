@@ -1,0 +1,32 @@
+{
+  "chinese": "我们乘车去以免迟到",
+  "english": "We take the bus to avoid being late",
+  "pinyin": "wǒ men chéng chē qù yǐ miǎn chí dào",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "乘车",
+      "en": "take the bus",
+      "pi": "chéng chē"
+    },
+    {
+      "ch": "去",
+      "en": "to",
+      "pi": "qù"
+    },
+    {
+      "ch": "以免",
+      "en": "to avoid",
+      "pi": "yǐ miǎn"
+    },
+    {
+      "ch": "迟到",
+      "en": "being late",
+      "pi": "chí dào"
+    }
+  ]
+}

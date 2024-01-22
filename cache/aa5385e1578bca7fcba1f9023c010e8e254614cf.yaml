@@ -1,0 +1,32 @@
+{
+  "chinese": "这里没人会打扰你。",
+  "english": "No one will disturb you here.",
+  "pinyin": "zhè lǐ méi rén huì dǎ rǎo nǐ。",
+  "words": [
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "没人",
+      "en": "no one",
+      "pi": "méi rén"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "打扰",
+      "en": "disturb",
+      "pi": "dǎ rǎo"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    }
+  ]
+}

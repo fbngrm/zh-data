@@ -1,0 +1,42 @@
+{
+  "chinese": "他们已经在这里一个小时了。",
+  "english": "They have been here for an hour.",
+  "pinyin": "tā men yǐ jīng zài zhè lǐ yī gè xiǎo shí le。",
+  "words": [
+    {
+      "ch": "他们",
+      "en": "They",
+      "pi": "tā men"
+    },
+    {
+      "ch": "已经",
+      "en": "have",
+      "pi": "yǐ jīng"
+    },
+    {
+      "ch": "在",
+      "en": "been",
+      "pi": "zài"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "一个",
+      "en": "hour",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "小时",
+      "en": "an",
+      "pi": "xiǎo shí"
+    },
+    {
+      "ch": "了",
+      "en": "hour",
+      "pi": "le"
+    }
+  ]
+}

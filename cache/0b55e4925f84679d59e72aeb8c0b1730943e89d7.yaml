@@ -1,0 +1,27 @@
+{
+  "chinese": "这儿有地铁站吗?",
+  "english": "Is there a subway station here?",
+  "pinyin": "zhèr yǒu dìtiě zhàn ma?",
+  "words": [
+    {
+      "ch": "这儿",
+      "en": "here",
+      "pi": "zhèr"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "地铁站",
+      "en": "subway station",
+      "pi": "dìtiě zhàn"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

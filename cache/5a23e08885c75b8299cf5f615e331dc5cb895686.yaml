@@ -1,0 +1,32 @@
+{
+  "chinese": "麦克搭公车去学校。",
+  "english": "Mike takes the bus to school.",
+  "pinyin": "Mài kè dā gōng chē qù xué xiào.",
+  "words": [
+    {
+      "ch": "麦克",
+      "en": "Mike",
+      "pi": "Mài kè"
+    },
+    {
+      "ch": "搭",
+      "en": "takes",
+      "pi": "dā"
+    },
+    {
+      "ch": "公车",
+      "en": "bus",
+      "pi": "gōng chē"
+    },
+    {
+      "ch": "去",
+      "en": "to",
+      "pi": "qù"
+    },
+    {
+      "ch": "学校",
+      "en": "school",
+      "pi": "xué xiào"
+    }
+  ]
+}

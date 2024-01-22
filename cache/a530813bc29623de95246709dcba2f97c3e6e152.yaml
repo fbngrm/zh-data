@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆就不该做那事。",
+  "english": "Tom shouldn't have done that.",
+  "pinyin": "Tāng mǔ jiù bù gāi zuò nà shì。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "就",
+      "en": "should",
+      "pi": "jiù"
+    },
+    {
+      "ch": "不该",
+      "en": "shouldn't have",
+      "pi": "bù gāi"
+    },
+    {
+      "ch": "做",
+      "en": "done",
+      "pi": "zuò"
+    },
+    {
+      "ch": "那事",
+      "en": "that",
+      "pi": "nà shì"
+    }
+  ]
+}

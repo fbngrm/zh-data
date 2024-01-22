@@ -1,0 +1,42 @@
+{
+  "chinese": "你有任何话要说吗？",
+  "english": "Do you have anything to say?",
+  "pinyin": "nǐ yǒu rènhé huà yào shuō ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "任何",
+      "en": "anything",
+      "pi": "rènhé"
+    },
+    {
+      "ch": "话",
+      "en": "to say",
+      "pi": "huà"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

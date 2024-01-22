@@ -1,0 +1,42 @@
+{
+  "chinese": "你知道这个博物馆在哪里吗？",
+  "english": "Do you know where this museum is?",
+  "pinyin": "Nǐ zhīdào zhège bówùguǎn zài nǎlǐ ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "Nǐ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhège"
+    },
+    {
+      "ch": "博物馆",
+      "en": "museum",
+      "pi": "bówùguǎn"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪里",
+      "en": "where",
+      "pi": "nǎlǐ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

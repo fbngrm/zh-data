@@ -1,0 +1,47 @@
+{
+  "chinese": "我在考试时犯了些错。",
+  "english": "I made some mistakes during the exam.",
+  "pinyin": "wǒ zài kǎo shì shí fàn le xiē cuò.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "during",
+      "pi": "zài"
+    },
+    {
+      "ch": "考试",
+      "en": "exam",
+      "pi": "kǎo shì"
+    },
+    {
+      "ch": "时",
+      "en": "time",
+      "pi": "shí"
+    },
+    {
+      "ch": "犯",
+      "en": "make",
+      "pi": "fàn"
+    },
+    {
+      "ch": "了",
+      "en": "some",
+      "pi": "le"
+    },
+    {
+      "ch": "些",
+      "en": "mistakes",
+      "pi": "xiē"
+    },
+    {
+      "ch": "错",
+      "en": "error",
+      "pi": "cuò"
+    }
+  ]
+}

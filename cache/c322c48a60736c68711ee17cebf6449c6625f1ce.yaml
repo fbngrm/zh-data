@@ -1,0 +1,47 @@
+{
+  "chinese": "我有和你哥哥一样的词典。",
+  "english": "I have the same dictionary as your older brother.",
+  "pinyin": "wǒ yǒu hé nǐ gēgē yīyàng de cídiǎn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "哥哥",
+      "en": "older brother",
+      "pi": "gēgē"
+    },
+    {
+      "ch": "一样",
+      "en": "same",
+      "pi": "yīyàng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "词典",
+      "en": "dictionary",
+      "pi": "cídiǎn"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "参加昨天会议的只有几个人。",
+  "english": "Only a few people attended the meeting yesterday.",
+  "pinyin": "cān jiā zuó tiān huì yì de zhǐ yǒu jǐ gè rén。",
+  "words": [
+    {
+      "ch": "参加",
+      "en": "attend",
+      "pi": "cān jiā"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "会议",
+      "en": "meeting",
+      "pi": "huì yì"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "只有",
+      "en": "only",
+      "pi": "zhǐ yǒu"
+    },
+    {
+      "ch": "几个",
+      "en": "a few",
+      "pi": "jǐ gè"
+    },
+    {
+      "ch": "人",
+      "en": "people",
+      "pi": "rén"
+    }
+  ]
+}

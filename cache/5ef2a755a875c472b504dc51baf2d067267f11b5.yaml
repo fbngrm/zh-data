@@ -1,0 +1,32 @@
+{
+  "chinese": "这只狗跑走了。",
+  "english": "The dog ran away.",
+  "pinyin": "zhè zhī gǒu pǎo zǒu le.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "只",
+      "en": "a",
+      "pi": "zhī"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "跑走",
+      "en": "run away",
+      "pi": "pǎo zǒu"
+    },
+    {
+      "ch": "了",
+      "en": "away",
+      "pi": "le"
+    }
+  ]
+}

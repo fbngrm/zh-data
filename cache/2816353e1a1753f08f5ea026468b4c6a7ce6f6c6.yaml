@@ -1,0 +1,32 @@
+{
+  "chinese": "我头疼得特别厉害。",
+  "english": "I have a very severe headache.",
+  "pinyin": "wǒ tóu téng dé tè bié lì hài。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "头疼",
+      "en": "headache",
+      "pi": "tóu téng"
+    },
+    {
+      "ch": "得",
+      "en": "have",
+      "pi": "dé"
+    },
+    {
+      "ch": "特别",
+      "en": "very",
+      "pi": "tè bié"
+    },
+    {
+      "ch": "厉害",
+      "en": "severe",
+      "pi": "lì hài"
+    }
+  ]
+}

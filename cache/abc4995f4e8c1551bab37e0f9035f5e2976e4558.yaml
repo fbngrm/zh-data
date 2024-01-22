@@ -1,0 +1,27 @@
+{
+  "chinese": "你有没有手机？",
+  "english": "Do you have a cellphone?",
+  "pinyin": "nǐ yǒu méiyǒu shǒujī?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "没有",
+      "en": "do not have",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "手机",
+      "en": "cellphone",
+      "pi": "shǒujī"
+    }
+  ]
+}

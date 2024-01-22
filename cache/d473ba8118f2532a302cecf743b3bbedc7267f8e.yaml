@@ -1,0 +1,12 @@
+{
+  "chinese": "今天早上我起得很晚。",
+  "english": "I woke up very late this morning.",
+  "pinyin": "jīn tiān zǎo shàng wǒ qǐ dé hěn wǎn。",
+  "words": [
+    { "ch": "今天", "en": "today", "pi": "jīn tiān" },
+    { "ch": "早上", "en": "morning", "pi": "zǎo shàng" },
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "起得", "en": "woke up", "pi": "qǐ dé" },
+    { "ch": "很晚", "en": "very late", "pi": "hěn wǎn" }
+  ]
+}

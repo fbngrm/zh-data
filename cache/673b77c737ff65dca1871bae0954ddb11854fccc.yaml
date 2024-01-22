@@ -1,0 +1,42 @@
+{
+  "chinese": "你知道他有没有女朋友吗？",
+  "english": "Do you know if he has a girlfriend?",
+  "pinyin": "nǐ zhīdào tā yǒu méiyǒu nǚpéngyǒu ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "没有",
+      "en": "not have",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "女朋友",
+      "en": "girlfriend",
+      "pi": "nǚpéngyǒu"
+    },
+    {
+      "ch": "吗",
+      "en": "question indicator",
+      "pi": "ma"
+    }
+  ]
+}

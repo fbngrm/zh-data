@@ -1,0 +1,32 @@
+{
+  "chinese": "遇到火警时，拨打１１９。",
+  "english": "In case of a fire, dial 119.",
+  "pinyin": "Yù dào huǒ jǐng shí, bō dǎ yī yī jiǔ.",
+  "words": [
+    {
+      "ch": "遇到",
+      "en": "In case of",
+      "pi": "yù dào"
+    },
+    {
+      "ch": "火警",
+      "en": "fire",
+      "pi": "huǒ jǐng"
+    },
+    {
+      "ch": "时",
+      "en": "when",
+      "pi": "shí"
+    },
+    {
+      "ch": "拨打",
+      "en": "dial",
+      "pi": "bō dǎ"
+    },
+    {
+      "ch": "１１９",
+      "en": "119",
+      "pi": "yī yī jiǔ"
+    }
+  ]
+}

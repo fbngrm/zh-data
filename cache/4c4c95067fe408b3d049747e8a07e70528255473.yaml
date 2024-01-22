@@ -1,0 +1,13 @@
+{
+  "chinese": "这只狗跑走了。",
+  "english": "The dog ran away.",
+  "pinyin": "zhè zhī gǒu pǎo zǒu le.",
+  "words": [
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "只", "en": "dog", "pi": "zhī"},
+    {"ch": "狗", "en": "dog", "pi": "gǒu"},
+    {"ch": "跑", "en": "run", "pi": "pǎo"},
+    {"ch": "走", "en": "away", "pi": "zǒu"},
+    {"ch": "了", "en": "past tense marker", "pi": "le"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "米莉在吃一个苹果。",
+  "english": "Milly is eating an apple.",
+  "pinyin": "Mǐlì zài chī yīgè píngguǒ.",
+  "words": [
+    {
+      "ch": "米莉",
+      "en": "Milly",
+      "pi": "Mǐlì"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "吃",
+      "en": "eating",
+      "pi": "chī"
+    },
+    {
+      "ch": "一个",
+      "en": "an",
+      "pi": "yīgè"
+    },
+    {
+      "ch": "苹果",
+      "en": "apple",
+      "pi": "píngguǒ"
+    }
+  ]
+}

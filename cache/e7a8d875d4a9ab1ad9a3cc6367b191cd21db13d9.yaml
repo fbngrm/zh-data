@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆甚么也没说。",
+  "english": "Tom didn't say anything.",
+  "pinyin": "Tāng mǔ shénme yě méi shuō.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "甚么",
+      "en": "anything",
+      "pi": "shénme"
+    },
+    {
+      "ch": "也",
+      "en": "didn't",
+      "pi": "yě"
+    },
+    {
+      "ch": "没",
+      "en": "say",
+      "pi": "méi"
+    },
+    {
+      "ch": "说",
+      "en": "anything",
+      "pi": "shuō"
+    }
+  ]
+}

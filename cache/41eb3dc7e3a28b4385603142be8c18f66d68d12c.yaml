@@ -1,0 +1,37 @@
+{
+  "chinese": "我以为你要7点半起床。",
+  "english": "I thought you wanted to wake up at 7:30.",
+  "pinyin": "wǒ yǐwéi nǐ yào qǐchuáng diǎn bàn。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "以为",
+      "en": "thought",
+      "pi": "yǐwéi"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "7点半",
+      "en": "7:30",
+      "pi": "qǐchuáng diǎn bàn"
+    },
+    {
+      "ch": "起床",
+      "en": "to wake up",
+      "pi": "qǐchuáng"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "这班火车会准时出发吗？",
+  "english": "Will this train depart on time?",
+  "pinyin": "zhè bān huǒ chē huì zhǔn shí chū fā ma?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "班",
+      "en": "class",
+      "pi": "bān"
+    },
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒ chē"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "准时",
+      "en": "on time",
+      "pi": "zhǔn shí"
+    },
+    {
+      "ch": "出发",
+      "en": "depart",
+      "pi": "chū fā"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "你喜欢住在北海道吗？",
+  "english": "Do you like living in Hokkaido?",
+  "pinyin": "Nǐ xǐhuān zhù zài Běihǎidào ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "住在",
+      "en": "live in",
+      "pi": "zhù zài"
+    },
+    {
+      "ch": "北海道",
+      "en": "Hokkaido",
+      "pi": "Běihǎidào"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

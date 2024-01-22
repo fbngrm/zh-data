@@ -1,0 +1,42 @@
+{
+  "chinese": "这牛奶放到明天会坏的。",
+  "english": "This milk will spoil if left until tomorrow.",
+  "pinyin": "zhè niúnǎi fàng dào míngtiān huì huài de.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "牛奶",
+      "en": "milk",
+      "pi": "niúnǎi"
+    },
+    {
+      "ch": "放到",
+      "en": "put",
+      "pi": "fàng dào"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "坏",
+      "en": "spoil",
+      "pi": "huài"
+    },
+    {
+      "ch": "的",
+      "en": "if",
+      "pi": "de"
+    }
+  ]
+}

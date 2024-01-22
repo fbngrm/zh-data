@@ -1,0 +1,32 @@
+{
+  "chinese": "我明天不在这儿。",
+  "english": "I won't be here tomorrow.",
+  "pinyin": "Wǒ míngtiān bù zài zhèr.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "在",
+      "en": "be at",
+      "pi": "zài"
+    },
+    {
+      "ch": "这儿",
+      "en": "here",
+      "pi": "zhèr"
+    }
+  ]
+}

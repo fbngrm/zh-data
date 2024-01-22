@@ -1,0 +1,32 @@
+{
+  "chinese": "你工作很忙吗?",
+  "english": "Are you busy with work?",
+  "pinyin": "nǐ gōngzuò hěn máng ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "工作",
+      "en": "work",
+      "pi": "gōngzuò"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "忙",
+      "en": "busy",
+      "pi": "máng"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

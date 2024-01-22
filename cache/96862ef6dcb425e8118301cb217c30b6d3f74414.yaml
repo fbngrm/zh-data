@@ -1,0 +1,42 @@
+{
+  "chinese": "这张书桌比那张好。",
+  "english": "This desk is better than that one.",
+  "pinyin": "zhè zhāng shūzhuō bǐ nà zhāng hǎo.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "张",
+      "en": "measure word for flat objects",
+      "pi": "zhāng"
+    },
+    {
+      "ch": "书桌",
+      "en": "desk",
+      "pi": "shūzhuō"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "张",
+      "en": "measure word for flat objects",
+      "pi": "zhāng"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    }
+  ]
+}

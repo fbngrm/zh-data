@@ -1,0 +1,19 @@
+{
+  "chinese": "登山者成功登上了山顶，但回程时却出了意外。",
+  "english": "The mountaineer successfully reached the mountain top, but had an accident on the way back.",
+  "pinyin": "Dēngshān zhě chénggōng dēng shàng le shāndǐng, dàn huíchéng shí què chū le yìwài.",
+  "words": [
+    {"ch": "登山者", "en": "mountaineer", "pi": "dēngshānzhě"},
+    {"ch": "成功", "en": "successfully", "pi": "chénggōng"},
+    {"ch": "登上", "en": "reach", "pi": "dēngshàng"},
+    {"ch": "了", "en": "le", "pi": "le"},
+    {"ch": "山顶", "en": "mountain top", "pi": "shāndǐng"},
+    {"ch": "但", "en": "but", "pi": "dàn"},
+    {"ch": "回程", "en": "way back", "pi": "huíchéng"},
+    {"ch": "时", "en": "when", "pi": "shí"},
+    {"ch": "却", "en": "however", "pi": "què"},
+    {"ch": "出", "en": "have", "pi": "chū"},
+    {"ch": "了", "en": "an", "pi": "le"},
+    {"ch": "意外", "en": "accident", "pi": "yìwài"}
+  ]
+}

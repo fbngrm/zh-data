@@ -1,0 +1,16 @@
+{
+  "chinese": "我认为我没犯任何严重的错误。",
+  "english": "I think I haven't made any serious mistakes.",
+  "pinyin": "wǒ rèn wéi wǒ méi fàn rèn hé yán zhòng de cuò wù。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "认为", "en": "think", "pi": "rèn wéi"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "没", "en": "haven't", "pi": "méi"},
+    {"ch": "犯", "en": "made", "pi": "fàn"},
+    {"ch": "任何", "en": "any", "pi": "rèn hé"},
+    {"ch": "严重", "en": "serious", "pi": "yán zhòng"},
+    {"ch": "的", "en": "", "pi": "de"},
+    {"ch": "错误", "en": "mistakes", "pi": "cuò wù"}
+  ]
+}

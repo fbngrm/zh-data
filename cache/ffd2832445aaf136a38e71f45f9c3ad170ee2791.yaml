@@ -1,0 +1,32 @@
+{
+  "chinese": "没有上下文就没有词义。",
+  "english": "Without context, there is no meaning.",
+  "pinyin": "méiyǒu shàngxiàwén jiù méiyǒu cíyì。",
+  "words": [
+    {
+      "ch": "没有",
+      "en": "without",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "上下文",
+      "en": "context",
+      "pi": "shàng xià wén"
+    },
+    {
+      "ch": "就",
+      "en": "is",
+      "pi": "jiù"
+    },
+    {
+      "ch": "没有",
+      "en": "no",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "词义",
+      "en": "meaning",
+      "pi": "cíyì"
+    }
+  ]
+}

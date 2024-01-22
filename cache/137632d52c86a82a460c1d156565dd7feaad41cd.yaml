@@ -1,0 +1,32 @@
+{
+  "chinese": "我問了Tony一條問題。",
+  "english": "I asked Tony a question.",
+  "pinyin": "wǒ wèn le Tony yī tiáo wèn tí。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "問了",
+      "en": "asked",
+      "pi": "wèn le"
+    },
+    {
+      "ch": "Tony",
+      "en": "Tony",
+      "pi": "Tony"
+    },
+    {
+      "ch": "一條",
+      "en": "a",
+      "pi": "yī tiáo"
+    },
+    {
+      "ch": "問題",
+      "en": "question",
+      "pi": "wèn tí"
+    }
+  ]
+}

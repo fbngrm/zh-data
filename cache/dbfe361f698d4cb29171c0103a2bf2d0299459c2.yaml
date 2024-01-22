@@ -1,0 +1,42 @@
+{
+  "chinese": "你想看法国电影，真的吗？",
+  "english": "Do you really want to watch French movies?",
+  "pinyin": "nǐ xiǎng kàn fǎguó diànyǐng, zhēn de ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "看",
+      "en": "to watch",
+      "pi": "kàn"
+    },
+    {
+      "ch": "法国",
+      "en": "France",
+      "pi": "fǎguó"
+    },
+    {
+      "ch": "电影",
+      "en": "movies",
+      "pi": "diànyǐng"
+    },
+    {
+      "ch": "真的",
+      "en": "really",
+      "pi": "zhēn de"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

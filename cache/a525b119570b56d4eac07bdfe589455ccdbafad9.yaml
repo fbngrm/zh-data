@@ -1,0 +1,32 @@
+{
+  "chinese": "Tom不想让Mary走",
+  "english": "Tom doesn't want Mary to leave",
+  "pinyin": "Tom bùxiǎng ràng Mary zǒu",
+  "words": [
+    {
+      "ch": "Tom",
+      "en": "Tom",
+      "pi": "Tom"
+    },
+    {
+      "ch": "不想",
+      "en": "doesn't want",
+      "pi": "bùxiǎng"
+    },
+    {
+      "ch": "让",
+      "en": "to let",
+      "pi": "ràng"
+    },
+    {
+      "ch": "Mary",
+      "en": "Mary",
+      "pi": "Mary"
+    },
+    {
+      "ch": "走",
+      "en": "to leave",
+      "pi": "zǒu"
+    }
+  ]
+}

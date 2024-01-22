@@ -1,0 +1,15 @@
+{
+  "chinese": "她快速地刷了下我的鞋子。",
+  "english": "She quickly brushed my shoes.",
+  "pinyin": "tā kuài sù de shuā le xià wǒ de xiézi.",
+  "words": [
+    {"ch": "她", "en": "she", "pi": "tā"},
+    {"ch": "快速", "en": "quickly", "pi": "kuài sù"},
+    {"ch": "地", "en": "de", "pi": "de"},
+    {"ch": "刷", "en": "brush", "pi": "shuā"},
+    {"ch": "了", "en": "", "pi": "le"},
+    {"ch": "下", "en": "down", "pi": "xià"},
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "鞋子", "en": "shoes", "pi": "xiézi"}
+  ]
+}

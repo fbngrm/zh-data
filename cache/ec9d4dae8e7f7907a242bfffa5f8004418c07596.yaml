@@ -1,0 +1,27 @@
+{
+  "chinese": "我的名字是汤姆。",
+  "english": "My name is Tom.",
+  "pinyin": "Wǒ de míngzì shì tāngmǔ.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒde"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míngzì"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāngmǔ"
+    }
+  ]
+}

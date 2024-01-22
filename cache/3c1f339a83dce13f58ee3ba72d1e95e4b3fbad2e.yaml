@@ -1,0 +1,15 @@
+{
+  "chinese": "他在上学的日子里６:３０起床。",
+  "english": "He gets up at 6:30 on school days.",
+  "pinyin": "tā zài shàngxué de rìzi lǐ 6:30 qǐchuáng。",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "上学", "en": "go to school", "pi": "shàngxué"},
+    {"ch": "的", "en": "de", "pi": "de"},
+    {"ch": "日子", "en": "days", "pi": "rìzi"},
+    {"ch": "里", "en": "in", "pi": "lǐ"},
+    {"ch": "６:３０", "en": "6:30", "pi": "6:30"},
+    {"ch": "起床", "en": "get up", "pi": "qǐchuáng"}
+  ]
+}

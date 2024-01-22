@@ -1,0 +1,32 @@
+{
+  "chinese": "我觉得这没什么好。",
+  "english": "I think this is nothing good.",
+  "pinyin": "Wǒ juéde zhè méi shénme hǎo.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "觉得",
+      "en": "think",
+      "pi": "juéde"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "没什么",
+      "en": "nothing",
+      "pi": "méi shénme"
+    },     
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    }
+  ]
+}

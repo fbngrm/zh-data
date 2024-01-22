@@ -1,0 +1,27 @@
+{
+  "sentences": [
+    {
+      "chinese": "把收音机调大声点。",
+      "english": "Turn up the volume of the radio.",
+      "pinyin": "bǎ shōu yīn jī diào dà shēng diǎn。",
+      "words": [
+        {"ch": "把", "en": "turn", "pi": "bǎ"},
+        {"ch": "收音机", "en": "radio", "pi": "shōu yīn jī"},
+        {"ch": "调", "en": "adjust", "pi": "diào"},
+        {"ch": "大声", "en": "loudly", "pi": "dà shēng"},
+        {"ch": "点", "en": "a bit", "pi": "diǎn"}
+      ]
+    },
+    {
+      "chinese": "我听不清楚。",
+      "english": "I can't hear clearly.",
+      "pinyin": "wǒ tīng bù qīng chǔ。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "听", "en": "listen", "pi": "tīng"},
+        {"ch": "不", "en": "not", "pi": "bù"},
+        {"ch": "清楚", "en": "clearly", "pi": "qīng chǔ"}
+      ]
+    }
+  ]
+}

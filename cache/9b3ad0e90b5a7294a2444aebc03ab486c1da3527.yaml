@@ -1,0 +1,27 @@
+{
+  "chinese": "这里只有我一个人。",
+  "english": "I'm the only one here.",
+  "pinyin": "zhè lǐ zhǐ yǒu wǒ yī gè rén。",
+  "words": [
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "只有",
+      "en": "only",
+      "pi": "zhǐ yǒu"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "一个人",
+      "en": "one person",
+      "pi": "yī gè rén"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我收到汤姆的一条紧急消息。",
+  "english": "I received an urgent message from Tom.",
+  "pinyin": "wǒ shōu dào tāng mǔ de yī tiáo jǐn jí xiāo xī。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "收到",
+      "en": "received",
+      "pi": "shōu dào"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "一条",
+      "en": "a",
+      "pi": "yī tiáo"
+    },
+    {
+      "ch": "紧急",
+      "en": "urgent",
+      "pi": "jǐn jí"
+    },
+    {
+      "ch": "消息",
+      "en": "message",
+      "pi": "xiāo xī"
+    }
+  ]
+}

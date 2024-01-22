@@ -1,0 +1,27 @@
+{
+  "chinese": "这一家人一起看电影。",
+  "english": "This family watches movies together.",
+  "pinyin": "zhè yī jiā rén yī qǐ kàn diàn yǐng.",
+  "words": [
+    {
+      "ch": "这一家人",
+      "en": "this family",
+      "pi": "zhè yī jiā rén"
+    },
+    {
+      "ch": "一起",
+      "en": "together",
+      "pi": "yī qǐ"
+    },
+    {
+      "ch": "看",
+      "en": "watch",
+      "pi": "kàn"
+    },
+    {
+      "ch": "电影",
+      "en": "movies",
+      "pi": "diàn yǐng"
+    }
+  ]
+}

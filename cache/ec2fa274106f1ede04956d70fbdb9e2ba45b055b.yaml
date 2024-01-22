@@ -1,0 +1,42 @@
+{
+  "chinese": "哎，马上就要考试了。我死定了！",
+  "english": "Oh, the exam is coming up soon. I'm doomed!",
+  "pinyin": "Āi, mǎshàng jiù yào kǎoshì le. Wǒ sǐ dìngle!",
+  "words": [
+    {
+      "ch": "哎",
+      "en": "Oh",
+      "pi": "āi"
+    },
+    {
+      "ch": "马上",
+      "en": "soon",
+      "pi": "mǎshàng"
+    },
+    {
+      "ch": "就要",
+      "en": "is coming up",
+      "pi": "jiù yào"
+    },
+    {
+      "ch": "考试",
+      "en": "exam",
+      "pi": "kǎoshì"
+    },
+    {
+      "ch": "了",
+      "en": "is",
+      "pi": "le"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "死定了",
+      "en": "doomed",
+      "pi": "sǐ dìngle"
+    }
+  ]
+}

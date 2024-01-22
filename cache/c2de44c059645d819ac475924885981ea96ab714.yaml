@@ -1,0 +1,27 @@
+{
+  "chinese": "我每天读中文。",
+  "english": "I read Chinese every day.",
+  "pinyin": "Wǒ měi tiān dú zhōngwén.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "读",
+      "en": "read",
+      "pi": "dú"
+    },
+    {
+      "ch": "中文",
+      "en": "Chinese",
+      "pi": "zhōngwén"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "chinese": "我認識他但是我不知道他的名字。",
+  "english": "I know him but I don't know his name.",
+  "pinyin": "wǒ rèn shí tā dàn shì wǒ bù zhī dào tā de míng zì。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "認識", "en": "know", "pi": "rèn shí"},
+    {"ch": "他", "en": "him", "pi": "tā"},
+    {"ch": "但是", "en": "but", "pi": "dàn shì"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "不知道", "en": "don't know", "pi": "bù zhī dào"},
+    {"ch": "他", "en": "his", "pi": "tā"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "名字", "en": "name", "pi": "míng zì"}
+  ]
+}

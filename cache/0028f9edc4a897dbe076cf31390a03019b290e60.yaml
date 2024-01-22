@@ -1,0 +1,37 @@
+{
+  "chinese": "我会在八点钟的时候登出。",
+  "english": "I will log out at eight o'clock.",
+  "pinyin": "wǒ huì zài bā diǎn zhōng de shí hou dēng chū。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "八点钟",
+      "en": "eight o'clock",
+      "pi": "bā diǎn zhōng"
+    },
+    {
+      "ch": "的时候",
+      "en": "when",
+      "pi": "de shí hou"
+    },
+    {
+      "ch": "登出",
+      "en": "log out",
+      "pi": "dēng chū"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "chinese": "你要通过了机场的安全检查才能登机。",
+  "english": "You must pass airport security check to board the plane.",
+  "pinyin": "Nǐ yào tōngguò le jīchǎng de ānquán jiǎnchá cáinéng dēngjī。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "要",
+      "en": "must",
+      "pi": "yào"
+    },
+    {
+      "ch": "通过",
+      "en": "pass",
+      "pi": "tōngguò"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "机场",
+      "en": "airport",
+      "pi": "jīchǎng"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "安全",
+      "en": "security",
+      "pi": "ānquán"
+    },
+    {
+      "ch": "检查",
+      "en": "check",
+      "pi": "jiǎnchá"
+    },
+    {
+      "ch": "才能",
+      "en": "to be able to",
+      "pi": "cáinéng"
+    },
+    {
+      "ch": "登机",
+      "en": "board the plane",
+      "pi": "dēngjī"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "chinese": "你有比这个再大一点的尺寸吗？",
+  "english": "Do you have a slightly larger size than this?",
+  "pinyin": "nǐ yǒu bǐ zhè ge zài dà yī diǎn de chǐ cùn ma?",
+  "words": [
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "有", "en": "have", "pi": "yǒu" },
+    { "ch": "比", "en": "than", "pi": "bǐ" },
+    { "ch": "这个", "en": "this", "pi": "zhè ge" },
+    { "ch": "再", "en": "again", "pi": "zài" },
+    { "ch": "大", "en": "big", "pi": "dà" },
+    { "ch": "一点", "en": "slightly", "pi": "yī diǎn" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "尺寸", "en": "size", "pi": "chǐ cùn" },
+    { "ch": "吗", "en": "?" }
+  ]
+}

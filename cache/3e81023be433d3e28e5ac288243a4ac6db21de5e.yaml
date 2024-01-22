@@ -1,0 +1,32 @@
+{
+  "chinese": "你在哪裡唸高中?",
+  "english": "Where do you go to high school?",
+  "pinyin": "Nǐ zài nǎlǐ niàn gāozhōng?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪裡",
+      "en": "where",
+      "pi": "nǎlǐ"
+    },
+    {
+      "ch": "唸",
+      "en": "go",
+      "pi": "niàn"
+    },
+    {
+      "ch": "高中",
+      "en": "high school",
+      "pi": "gāozhōng"
+    }
+  ]
+}

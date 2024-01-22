@@ -1,0 +1,32 @@
+{
+  "chinese": "您上学可能会迟到。",
+  "english": "You may be late for school.",
+  "pinyin": "nín shàng xué kěnéng huì chídào.",
+  "words": [
+    {
+      "ch": "您",
+      "en": "You",
+      "pi": "nín"
+    },
+    {
+      "ch": "上学",
+      "en": "go to school",
+      "pi": "shàng xué"
+    },
+    {
+      "ch": "可能",
+      "en": "may",
+      "pi": "kěnéng"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "迟到",
+      "en": "be late",
+      "pi": "chídào"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "chinese": "你是否知道最近汤姆跟玛丽有没有说过话？",
+  "english": "Do you know if Tom and Mary have spoken recently?",
+  "pinyin": "nǐ shìfǒu zhīdào zuìjìn tāngmǔ gēn mǎlì yǒu méiyǒu shuōguòhuà?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "是否",
+      "en": "whether",
+      "pi": "shìfǒu"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "最近",
+      "en": "recently",
+      "pi": "zuìjìn"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāngmǔ"
+    },
+    {
+      "ch": "跟",
+      "en": "and",
+      "pi": "gēn"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎlì"
+    },
+    {
+      "ch": "有没有",
+      "en": "have or not",
+      "pi": "yǒu méiyǒu"
+    },
+    {
+      "ch": "说过话",
+      "en": "spoken",
+      "pi": "shuōguòhuà"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chinese": "這隻狗的一隻眼睛瞎了。",
+  "english": "One eye of this dog is blind.",
+  "pinyin": "zhè zhī gǒu de yī zhī yǎnjīng xiā le.",
+  "words": [
+    {"ch": "這", "en": "this", "pi": "zhè"},
+    {"ch": "隻", "en": "one", "pi": "zhī"},
+    {"ch": "狗", "en": "dog", "pi": "gǒu"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "一", "en": "one", "pi": "yī"},
+    {"ch": "隻", "en": "one", "pi": "zhī"},
+    {"ch": "眼睛", "en": "eye", "pi": "yǎnjīng"},
+    {"ch": "瞎了", "en": "blind", "pi": "xiā le"}
+  ]
+}

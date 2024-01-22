@@ -1,0 +1,32 @@
+{
+  "chinese": "我决定不学法语。",
+  "english": "I decided not to learn French.",
+  "pinyin": "wǒ juédìng bù xué fǎyǔ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "决定",
+      "en": "decided",
+      "pi": "juédìng"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "学",
+      "en": "to learn",
+      "pi": "xué"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎyǔ"
+    }
+  ]
+}

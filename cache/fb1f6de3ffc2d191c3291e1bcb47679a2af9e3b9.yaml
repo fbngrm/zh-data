@@ -1,0 +1,52 @@
+{
+  "chinese": "汤姆不记得他把钥匙放在哪里了。",
+  "english": "Tom doesn't remember where he put the key.",
+  "pinyin": "Tāng mǔ bù jìdé tā bǎ yàoshi fàng zài nǎlǐ le.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "记得",
+      "en": "remember",
+      "pi": "jìdé"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "把",
+      "en": "put",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "钥匙",
+      "en": "key",
+      "pi": "yàoshi"
+    },
+    {
+      "ch": "放在",
+      "en": "put on",
+      "pi": "fàng zài"
+    },
+    {
+      "ch": "哪里",
+      "en": "where",
+      "pi": "nǎlǐ"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating past tense",
+      "pi": "le"
+    }
+  ]
+}

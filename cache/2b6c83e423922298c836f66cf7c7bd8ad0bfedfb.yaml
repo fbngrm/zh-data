@@ -1,0 +1,15 @@
+{
+  "chinese": "直到快要中午前他都没出现。",
+  "english": "He did not show up until almost noon.",
+  "pinyin": "zhí dào kuài yào zhōng wǔ qián tā dōu méi chū xiàn。",
+  "words": [
+    {"ch": "直到", "en": "until", "pi": "zhí dào"},
+    {"ch": "快要", "en": "almost", "pi": "kuài yào"},
+    {"ch": "中午", "en": "noon", "pi": "zhōng wǔ"},
+    {"ch": "前", "en": "before", "pi": "qián"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "都", "en": "all", "pi": "dōu"},
+    {"ch": "没", "en": "not", "pi": "méi"},
+    {"ch": "出现", "en": "show up", "pi": "chū xiàn"}
+  ]
+}

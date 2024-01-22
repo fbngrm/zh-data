@@ -1,0 +1,32 @@
+{
+  "chinese": "我想唱个歌。",
+  "english": "I want to sing a song.",
+  "pinyin": "wǒ xiǎng chàng gè gē.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "唱",
+      "en": "to sing",
+      "pi": "chàng"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "歌",
+      "en": "song",
+      "pi": "gē"
+    }
+  ]
+}

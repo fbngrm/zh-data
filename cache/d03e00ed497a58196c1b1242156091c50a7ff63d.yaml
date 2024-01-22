@@ -1,0 +1,16 @@
+{
+  "chinese": "我看见有个男人被车撞了。",
+  "english": "I saw a man hit by a car.",
+  "pinyin": "wǒ kàn jiàn yǒu gè nán rén bèi chē zhuàng le.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "看见", "en": "saw", "pi": "kàn jiàn" },
+    { "ch": "有", "en": "a", "pi": "yǒu" },
+    { "ch": "个", "en": "man", "pi": "gè" },
+    { "ch": "男人", "en": "man", "pi": "nán rén" },
+    { "ch": "被", "en": "hit by", "pi": "bèi" },
+    { "ch": "车", "en": "car", "pi": "chē" },
+    { "ch": "撞", "en": "hit", "pi": "zhuàng" },
+    { "ch": "了", "en": "by", "pi": "le" }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆玛丽不会哭。",
+  "english": "Tom and Mary won't cry.",
+  "pinyin": "Tāng mǔ mǎ lì bù huì kū.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "不会",
+      "en": "won't",
+      "pi": "bù huì"
+    },
+    {
+      "ch": "哭",
+      "en": "cry",
+      "pi": "kū"
+    }
+  ]
+}

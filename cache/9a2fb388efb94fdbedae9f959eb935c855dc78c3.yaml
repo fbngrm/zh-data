@@ -1,0 +1,32 @@
+{
+  "chinese": "马克的书非常有趣。",
+  "english": "Mark's book is very interesting.",
+  "pinyin": "mǎkè de shū fēicháng yǒuqù.",
+  "words": [
+    {
+      "ch": "马克",
+      "en": "Mark",
+      "pi": "mǎkè"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    },
+    {
+      "ch": "非常",
+      "en": "very",
+      "pi": "fēicháng"
+    },
+    {
+      "ch": "有趣",
+      "en": "interesting",
+      "pi": "yǒuqù"
+    }
+  ]
+}

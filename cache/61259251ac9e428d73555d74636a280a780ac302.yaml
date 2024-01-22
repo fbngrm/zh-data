@@ -1,0 +1,32 @@
+{
+  "chinese": "我的襪子已經乾了嗎？",
+  "english": "Are my socks dry already?",
+  "pinyin": "wǒ de wà zi yǐ jīng gān le ma?",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "襪子",
+      "en": "socks",
+      "pi": "wà zi"
+    },
+    {
+      "ch": "已經",
+      "en": "already",
+      "pi": "yǐ jīng"
+    },
+    {
+      "ch": "乾了",
+      "en": "dry",
+      "pi": "gān le"
+    },
+    {
+      "ch": "嗎",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

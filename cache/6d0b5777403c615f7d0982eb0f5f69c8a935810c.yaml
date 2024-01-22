@@ -1,0 +1,42 @@
+{
+  "chinese": "这本字典不是最新版的。",
+  "english": "This dictionary is not the latest edition.",
+  "pinyin": "zhè běn zì diǎn bù shì zuì xīn bǎn de.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本",
+      "en": "edition",
+      "pi": "běn"
+    },
+    {
+      "ch": "字典",
+      "en": "dictionary",
+      "pi": "zì diǎn"
+    },
+    {
+      "ch": "不是",
+      "en": "is not",
+      "pi": "bù shì"
+    },
+    {
+      "ch": "最新",
+      "en": "latest",
+      "pi": "zuì xīn"
+    },
+    {
+      "ch": "版",
+      "en": "edition",
+      "pi": "bǎn"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    }
+  ]
+}

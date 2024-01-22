@@ -1,0 +1,15 @@
+{
+  "chinese": "我很高兴没有买这样的东西。",
+  "english": "I'm glad I didn't buy such a thing.",
+  "pinyin": "wǒ hěn gāoxìng méiyǒu mǎi zhèyàng de dōngxi。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "高兴", "en": "glad", "pi": "gāoxìng"},
+    {"ch": "没有", "en": "didn't have", "pi": "méiyǒu"},
+    {"ch": "买", "en": "buy", "pi": "mǎi"},
+    {"ch": "这样", "en": "such", "pi": "zhèyàng"},
+    {"ch": "的", "en": "de", "pi": "de"},
+    {"ch": "东西", "en": "thing", "pi": "dōngxi"}
+  ]
+}

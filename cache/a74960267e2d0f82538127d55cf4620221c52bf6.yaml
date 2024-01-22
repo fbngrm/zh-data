@@ -1,0 +1,32 @@
+{
+  "chinese": "你的东西在哪里?",
+  "english": "Where is your stuff?",
+  "pinyin": "nǐ de dōngxi zài nǎlǐ?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "your",
+      "pi": "de"
+    },
+    {
+      "ch": "东西",
+      "en": "stuff",
+      "pi": "dōngxi"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪里",
+      "en": "where",
+      "pi": "nǎlǐ"
+    }
+  ]
+}

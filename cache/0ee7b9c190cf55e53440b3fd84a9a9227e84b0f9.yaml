@@ -1,0 +1,15 @@
+{
+  "chinese": "这样也很可能是最好玩儿的。",
+  "english": "This way is also likely to be the most fun.",
+  "pinyin": "zhè yàng yě hěn kěnéng shì zuì hǎo wánr de.",
+  "words": [
+    {"ch": "这样", "en": "This way", "pi": "zhè yàng"},
+    {"ch": "也", "en": "also", "pi": "yě"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "可能", "en": "likely", "pi": "kěnéng"},
+    {"ch": "是", "en": "to be", "pi": "shì"},
+    {"ch": "最", "en": "most", "pi": "zuì"},
+    {"ch": "好玩儿", "en": "fun", "pi": "hǎo wánr"},
+    {"ch": "的", "en": "particle of emphasis", "pi": "de"}
+  ]
+}

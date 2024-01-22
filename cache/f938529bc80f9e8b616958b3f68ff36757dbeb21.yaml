@@ -1,0 +1,27 @@
+{
+  "chinese": "厕所冲水不正常。",
+  "english": "Toilet flushing is not normal.",
+  "pinyin": "cèsuǒ chōngshuǐ bù zhèngcháng。",
+  "words": [
+    {
+      "ch": "厕所",
+      "en": "toilet",
+      "pi": "cèsuǒ"
+    },
+    {
+      "ch": "冲水",
+      "en": "flushing",
+      "pi": "chōngshuǐ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "正常",
+      "en": "normal",
+      "pi": "zhèngcháng"
+    }
+  ]
+}

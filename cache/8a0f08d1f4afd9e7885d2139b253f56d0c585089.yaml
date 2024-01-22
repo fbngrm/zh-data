@@ -1,0 +1,37 @@
+{
+  "chinese": "我們在兩點鐘吃了晚午餐。",
+  "english": "We had lunch at two o'clock.",
+  "pinyin": "wǒ men zài liǎng diǎn zhōng chī le wǎn wǔ cān.",
+  "words": [
+    {
+      "ch": "我們",
+      "en": "We",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "兩",
+      "en": "two",
+      "pi": "liǎng"
+    },
+    {
+      "ch": "點鐘",
+      "en": "o'clock",
+      "pi": "diǎn zhōng"
+    },
+    {
+      "ch": "吃了",
+      "en": "had",
+      "pi": "chī le"
+    },
+    {
+      "ch": "晚午餐",
+      "en": "lunch",
+      "pi": "wǎn wǔ cān"
+    }
+  ]
+}

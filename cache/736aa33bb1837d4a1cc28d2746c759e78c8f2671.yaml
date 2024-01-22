@@ -1,0 +1,13 @@
+{
+  "chinese": "她有丈夫和兩個女兒。",
+  "english": "She has a husband and two daughters.",
+  "pinyin": "Tā yǒu zhàngfū hé liǎng gè nǚ'ér.",
+  "words": [
+    {"ch": "她", "en": "she", "pi": "tā"},
+    {"ch": "有", "en": "has", "pi": "yǒu"},
+    {"ch": "丈夫", "en": "husband", "pi": "zhàngfū"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "兩個", "en": "two", "pi": "liǎng gè"},
+    {"ch": "女兒", "en": "daughters", "pi": "nǚ'ér"}
+  ]
+}

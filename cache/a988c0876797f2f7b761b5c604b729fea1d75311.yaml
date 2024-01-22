@@ -1,0 +1,32 @@
+{
+  "chinese": "我爱法国的电影。",
+  "english": "I love French movies.",
+  "pinyin": "wǒ ài fǎ guó de diàn yǐng。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "爱",
+      "en": "love",
+      "pi": "ài"
+    },
+    {
+      "ch": "法国",
+      "en": "France",
+      "pi": "fǎ guó"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "电影",
+      "en": "movies",
+      "pi": "diàn yǐng"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "你是中學學生嗎？",
+  "english": "Are you a middle school student?",
+  "pinyin": "nǐ shì zhōngxué xuéshēng ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "中學",
+      "en": "middle school",
+      "pi": "zhōngxué"
+    },
+    {
+      "ch": "學生",
+      "en": "student",
+      "pi": "xuéshēng"
+    },
+    {
+      "ch": "嗎",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

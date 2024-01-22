@@ -1,0 +1,17 @@
+{
+  "chinese": "大家都想见到你，你太有名了！",
+  "english": "Everyone wants to see you, you're so famous!",
+  "pinyin": "dà jiā dōu xiǎng jiàn dào nǐ, nǐ tài yǒu míng le!",
+  "words": [
+    { "ch": "大家", "en": "everyone", "pi": "dà jiā" },
+    { "ch": "都", "en": "all", "pi": "dōu" },
+    { "ch": "想", "en": "want", "pi": "xiǎng" },
+    { "ch": "见到", "en": "to see", "pi": "jiàn dào" },
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "，", "en": ",", "pi": "，" },
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "太", "en": "too", "pi": "tài" },
+    { "ch": "有名", "en": "famous", "pi": "yǒu míng" },
+    { "ch": "了", "en": "!", "pi": "le" }
+  ]
+}

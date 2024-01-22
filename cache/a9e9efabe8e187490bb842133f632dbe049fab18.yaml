@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆整夜一直在说话。",
+  "english": "Tom has been talking all night.",
+  "pinyin": "Tāng mǔ zhěng yè yī zhí zài shuōhuà.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "整夜",
+      "en": "all night",
+      "pi": "zhěng yè"
+    },
+    {
+      "ch": "一直",
+      "en": "has been",
+      "pi": "yī zhí"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "说话",
+      "en": "talking",
+      "pi": "shuōhuà"
+    }
+  ]
+}

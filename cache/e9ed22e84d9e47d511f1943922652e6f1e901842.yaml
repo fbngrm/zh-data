@@ -1,0 +1,37 @@
+{
+  "chinese": "这条街不准停车。",
+  "english": "No parking on this street.",
+  "pinyin": "zhè tiáo jiē bù zhǔn tíngchē。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "条",
+      "en": "measure word for streets, rivers, etc.",
+      "pi": "tiáo"
+    },
+    {
+      "ch": "街",
+      "en": "street",
+      "pi": "jiē"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "准",
+      "en": "allowed",
+      "pi": "zhǔn"
+    },
+    {
+      "ch": "停车",
+      "en": "parking",
+      "pi": "tíngchē"
+    }
+  ]
+}

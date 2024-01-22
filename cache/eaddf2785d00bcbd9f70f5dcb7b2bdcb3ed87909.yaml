@@ -1,0 +1,42 @@
+{
+  "chinese": "我去车站为我朋友送行。",
+  "english": "I am going to the train station to see my friend off.",
+  "pinyin": "wǒ qù chē zhàn wèi wǒ péng yǒu sòng xíng。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "车站",
+      "en": "train station",
+      "pi": "chē zhàn"
+    },
+    {
+      "ch": "为",
+      "en": "for",
+      "pi": "wèi"
+    },
+    {
+      "ch": "我",
+      "en": "my",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "朋友",
+      "en": "friend",
+      "pi": "péng yǒu"
+    },
+    {
+      "ch": "送行",
+      "en": "see off",
+      "pi": "sòng xíng"
+    }
+  ]
+}

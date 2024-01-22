@@ -1,0 +1,42 @@
+{
+  "chinese": "他想要把他的衬衫洗干净。",
+  "english": "He wants to clean his shirt.",
+  "pinyin": "tā xiǎng yào bǎ tā de chènshān xǐ gānjìng。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "想要",
+      "en": "wants",
+      "pi": "xiǎng yào"
+    },
+    {
+      "ch": "把",
+      "en": "to",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "衬衫",
+      "en": "shirt",
+      "pi": "chènshān"
+    },
+    {
+      "ch": "洗",
+      "en": "to clean",
+      "pi": "xǐ"
+    },
+    {
+      "ch": "干净",
+      "en": "clean",
+      "pi": "gānjìng"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "他说的不重要。",
+  "english": "What he says is not important.",
+  "pinyin": "tā shuō de bù zhòngyào.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "说",
+      "en": "say",
+      "pi": "shuō"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "重要",
+      "en": "important",
+      "pi": "zhòngyào"
+    }
+  ]
+}

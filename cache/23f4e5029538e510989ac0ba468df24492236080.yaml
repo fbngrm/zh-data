@@ -1,0 +1,20 @@
+{
+  "chinese": "我需要一支铅笔，我能用你的其中一支吗？",
+  "english": "I need a pencil, can I use one of yours?",
+  "pinyin": "wǒ xū yào yī zhī qiān bǐ ，wǒ néng yòng nǐ de qí zhōng yī zhī ma ？",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "需要", "en": "need", "pi": "xū yào"},
+    {"ch": "一支", "en": "a", "pi": "yī zhī"},
+    {"ch": "铅笔", "en": "pencil", "pi": "qiān bǐ"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "能", "en": "can", "pi": "néng"},
+    {"ch": "用", "en": "use", "pi": "yòng"},
+    {"ch": "你的", "en": "your", "pi": "nǐ de"},
+    {"ch": "其中", "en": "one of", "pi": "qí zhōng"},
+    {"ch": "一支", "en": "a", "pi": "yī zhī"},
+    {"ch": "吗", "en": "?", "pi": "ma"},
+    {"ch": "？", "en": "?", "pi": "？"}
+  ]
+}

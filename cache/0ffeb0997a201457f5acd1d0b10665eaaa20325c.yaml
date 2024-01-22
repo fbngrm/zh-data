@@ -1,0 +1,37 @@
+{
+  "chinese": "这是不是茉莉花茶？",
+  "english": "Is this jasmine tea?",
+  "pinyin": "zhè shì bú shì mò lì huā chá？",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bú"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "茉莉花",
+      "en": "jasmine",
+      "pi": "mò lì huā"
+    },
+    {
+      "ch": "茶",
+      "en": "tea",
+      "pi": "chá"
+    }
+  ]
+}

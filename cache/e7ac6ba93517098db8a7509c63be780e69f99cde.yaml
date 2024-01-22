@@ -1,0 +1,18 @@
+{
+  "chinese": "有人叫我来，我才来的。",
+  "english": "Someone called me to come, and then I came.",
+  "pinyin": "Yǒu rén jiào wǒ lái, wǒ cái lái de.",
+  "words": [
+    {"ch": "有", "en": "Someone", "pi": "Yǒu"},
+    {"ch": "人", "en": "person", "pi": "Rén"},
+    {"ch": "叫", "en": "called", "pi": "Jiào"},
+    {"ch": "我", "en": "me", "pi": "Wǒ"},
+    {"ch": "来", "en": "to come", "pi": "Lái"},
+    {"ch": "，", "en": "and", "pi": ""},
+    {"ch": "我", "en": "I", "pi": "Wǒ"},
+    {"ch": "才", "en": "then", "pi": "Cái"},
+    {"ch": "来", "en": "came", "pi": "Lái"},
+    {"ch": "的", "en": "", "pi": "De"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}

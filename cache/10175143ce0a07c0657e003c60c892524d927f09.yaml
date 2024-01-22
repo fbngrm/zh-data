@@ -1,0 +1,32 @@
+{
+  "chinese": "我们打算明天去远足。",
+  "english": "We plan to go hiking tomorrow.",
+  "pinyin": "wǒmen dǎsuàn míngtiān qù yuǎnzú.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "打算",
+      "en": "plan",
+      "pi": "dǎsuàn"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "远足",
+      "en": "hiking",
+      "pi": "yuǎnzú"
+    }
+  ]
+}

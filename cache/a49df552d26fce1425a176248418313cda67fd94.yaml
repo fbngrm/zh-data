@@ -1,0 +1,32 @@
+{
+  "chinese": "明天有可能会下雨。",
+  "english": "It may rain tomorrow.",
+  "pinyin": "míngtiān yǒu kěnéng huì xiàyǔ.",
+  "words": [
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "可能",
+      "en": "might",
+      "pi": "kěnéng"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "下雨",
+      "en": "rain",
+      "pi": "xiàyǔ"
+    }
+  ]
+}

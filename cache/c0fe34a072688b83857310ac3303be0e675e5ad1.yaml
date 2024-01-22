@@ -1,0 +1,15 @@
+{
+  "chinese": "她几乎没有说完话，就被他打断了。",
+  "english": "She was almost interrupted before she finished speaking.",
+  "pinyin": "tā jīhū méiyǒu shuō wánhuà, jiù bèi tā dǎduànle。",
+  "words": [
+    {"ch": "她", "en": "she", "pi": "tā"},
+    {"ch": "几乎", "en": "almost", "pi": "jīhū"},
+    {"ch": "没有", "en": "not have", "pi": "méiyǒu"},
+    {"ch": "说完话", "en": "finished speaking", "pi": "shuō wánhuà"},
+    {"ch": "就", "en": "before", "pi": "jiù"},
+    {"ch": "被", "en": "by", "pi": "bèi"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "打断了", "en": "interrupted", "pi": "dǎduànle"}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "你必须派人去请医生来。",
+  "english": "You must send someone to call the doctor.",
+  "pinyin": "nǐ bì xū pài rén qù qǐng yī shēng lái.",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "必须", "en": "must", "pi": "bì xū"},
+    {"ch": "派人", "en": "send someone", "pi": "pài rén"},
+    {"ch": "去", "en": "to", "pi": "qù"},
+    {"ch": "请医生", "en": "call the doctor", "pi": "qǐng yī shēng"},
+    {"ch": "来", "en": "come", "pi": "lái"}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "山中无老虎,猴子称大王。",
+  "english": "In the mountains there are no tigers, monkeys are the kings.",
+  "pinyin": "shān zhōng wú lǎo hǔ, hóu zi chēng dà wáng。",
+  "words": [
+    { "ch": "山中", "en": "In the mountains", "pi": "shān zhōng" },
+    { "ch": "无", "en": "there are no", "pi": "wú" },
+    { "ch": "老虎", "en": "tigers", "pi": "lǎo hǔ" },
+    { "ch": "猴子", "en": "monkeys", "pi": "hóu zi" },
+    { "ch": "称", "en": "are", "pi": "chēng" },
+    { "ch": "大王", "en": "the kings", "pi": "dà wáng" }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "谁喝了这杯水？",
+  "english": "Who drank this glass of water?",
+  "pinyin": "shéi hē le zhè bēi shuǐ?",
+  "words": [
+    {
+      "ch": "谁",
+      "en": "who",
+      "pi": "shéi"
+    },
+    {
+      "ch": "喝",
+      "en": "drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "了",
+      "en": "did",
+      "pi": "le"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "杯",
+      "en": "cup",
+      "pi": "bēi"
+    },
+    {
+      "ch": "水",
+      "en": "water",
+      "pi": "shuǐ"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "?"
+    }
+  ]
+}

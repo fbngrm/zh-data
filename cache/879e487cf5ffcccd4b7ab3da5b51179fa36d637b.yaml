@@ -1,0 +1,14 @@
+{
+  "chinese": "她是美国人，但在英国居住。",
+  "english": "She is American, but lives in England.",
+  "pinyin": "Tā shì Měiguó rén, dàn zài Yīngguó jūzhù.",
+  "words": [
+    {"ch": "她", "en": "she", "pi": "tā"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "美国人", "en": "American", "pi": "Měiguó rén"},
+    {"ch": "但", "en": "but", "pi": "dàn"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "英国", "en": "England", "pi": "Yīngguó"},
+    {"ch": "居住", "en": "live", "pi": "jūzhù"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我每天打一小时网球。",
+  "english": "I play tennis for one hour every day.",
+  "pinyin": "wǒ měi tiān dǎ yī xiǎo shí wǎng qiú.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "打",
+      "en": "play",
+      "pi": "dǎ"
+    },
+    {
+      "ch": "一小时",
+      "en": "one hour",
+      "pi": "yī xiǎo shí"
+    },
+    {
+      "ch": "网球",
+      "en": "tennis",
+      "pi": "wǎng qiú"
+    }
+  ]
+}

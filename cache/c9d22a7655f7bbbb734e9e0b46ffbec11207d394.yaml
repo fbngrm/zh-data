@@ -1,0 +1,15 @@
+{
+  "chinese": "跟往常一样，他来迟了。",
+  "english": "As usual, he came late.",
+  "pinyin": "gēn wǎng cháng yí yàng, tā lái chí le。",
+  "words": [
+    { "ch": "跟", "en": "with", "pi": "gēn" },
+    { "ch": "往常", "en": "as usual", "pi": "wǎng cháng" },
+    { "ch": "一样", "en": "the same", "pi": "yí yàng" },
+    { "ch": "，", "en": ",", "pi": null },
+    { "ch": "他", "en": "he", "pi": "tā" },
+    { "ch": "来", "en": "to come", "pi": "lái" },
+    { "ch": "迟了", "en": "late", "pi": "chí le" },
+    { "ch": "。", "en": ".", "pi": null }
+  ]
+}

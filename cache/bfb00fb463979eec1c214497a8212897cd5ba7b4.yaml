@@ -1,0 +1,32 @@
+{
+  "chinese": "这条鱼很好吃。",
+  "english": "This fish is delicious.",
+  "pinyin": "zhè tiáo yú hěn hǎo chī.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "条",
+      "en": "classifier for long, thin objects",
+      "pi": "tiáo"
+    },
+    {
+      "ch": "鱼",
+      "en": "fish",
+      "pi": "yú"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "好吃",
+      "en": "delicious",
+      "pi": "hǎo chī"
+    }
+  ]
+}

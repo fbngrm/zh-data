@@ -1,0 +1,13 @@
+{
+  "chinese": "附近是不是有一间购物商场？",
+  "english": "Is there a shopping mall nearby?",
+  "pinyin": "fù jìn shì bú shì yǒu yī jiān gòu wù shāng chǎng？",
+  "words": [
+    { "ch": "附近", "en": "nearby", "pi": "fù jìn" },
+    { "ch": "是不是", "en": "is there", "pi": "shì bú shì" },
+    { "ch": "有", "en": "have", "pi": "yǒu" },
+    { "ch": "一间", "en": "one", "pi": "yī jiān" },
+    { "ch": "购物", "en": "shopping", "pi": "gòu wù" },
+    { "ch": "商场", "en": "mall", "pi": "shāng chǎng" }
+  ]
+}

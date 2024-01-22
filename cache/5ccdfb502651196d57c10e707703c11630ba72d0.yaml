@@ -1,0 +1,32 @@
+{
+  "chinese": "我试着叫汤姆回来。",
+  "english": "I'm trying to call Tom back.",
+  "pinyin": "wǒ shì zhe jiào tāng mǔ huí lái。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "试着",
+      "en": "trying to",
+      "pi": "shì zhe"
+    },
+    {
+      "ch": "叫",
+      "en": "call",
+      "pi": "jiào"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "回来",
+      "en": "back",
+      "pi": "huí lái"
+    }
+  ]
+}

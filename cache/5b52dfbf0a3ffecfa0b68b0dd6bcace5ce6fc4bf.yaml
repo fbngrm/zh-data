@@ -1,0 +1,47 @@
+{
+  "chinese": "汤姆把他的厨余餵给他的狗吃。",
+  "english": "Tom feeds his leftovers to his dog.",
+  "pinyin": "Tāngmǔ bǎ tā de chúyú wèi gěi tā de gǒu chī.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "把",
+      "en": "feeds",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "厨余",
+      "en": "leftovers",
+      "pi": "chúyú"
+    },
+    {
+      "ch": "餵",
+      "en": "to",
+      "pi": "wèi"
+    },
+    {
+      "ch": "给",
+      "en": "his",
+      "pi": "gěi"
+    },
+    {
+      "ch": "他的",
+      "en": "dog",
+      "pi": "tā de"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    }
+  ]
+}

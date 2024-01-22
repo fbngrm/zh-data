@@ -1,0 +1,32 @@
+{
+  "chinese": "我的手錶是十點鐘了。",
+  "english": "My watch is ten o'clock.",
+  "pinyin": "wǒ de shǒubiǎo shì shí diǎn zhōng le.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "手錶",
+      "en": "watch",
+      "pi": "shǒubiǎo"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "十點鐘",
+      "en": "ten o'clock",
+      "pi": "shí diǎn zhōng"
+    },
+    {
+      "ch": "了",
+      "en": "now",
+      "pi": "le"
+    }
+  ]
+}

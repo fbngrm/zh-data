@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆在波士顿呆了几年？",
+  "english": "How many years did Tom stay in Boston?",
+  "pinyin": "Tāng mǔ zài bō shì dùn dāi le jǐ nián?",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "波士顿",
+      "en": "Boston",
+      "pi": "bō shì dùn"
+    },
+    {
+      "ch": "呆",
+      "en": "stay",
+      "pi": "dāi"
+    },
+    {
+      "ch": "了",
+      "en": "did",
+      "pi": "le"
+    },
+    {
+      "ch": "几年",
+      "en": "how many years",
+      "pi": "jǐ nián"
+    }
+  ]
+}

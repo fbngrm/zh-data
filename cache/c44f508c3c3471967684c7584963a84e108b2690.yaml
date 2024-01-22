@@ -1,0 +1,32 @@
+{
+  "chinese": "这是一部好电影。",
+  "english": "This is a good movie.",
+  "pinyin": "zhè shì yī bù hǎo diàn yǐng.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "一部",
+      "en": "a",
+      "pi": "yī bù"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "电影",
+      "en": "movie",
+      "pi": "diàn yǐng"
+    }
+  ]
+}

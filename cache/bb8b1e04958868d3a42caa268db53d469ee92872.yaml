@@ -1,0 +1,42 @@
+{
+  "chinese": "这房子里面有多少只猫？",
+  "english": "How many cats are inside this house?",
+  "pinyin": "zhè fáng zi lǐ miàn yǒu duō shǎo zhī māo?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "房子",
+      "en": "house",
+      "pi": "fáng zi"
+    },
+    {
+      "ch": "里面",
+      "en": "inside",
+      "pi": "lǐ miàn"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "多少",
+      "en": "how many",
+      "pi": "duō shǎo"
+    },
+    {
+      "ch": "只",
+      "en": "measure word for animals",
+      "pi": "zhī"
+    },
+    {
+      "ch": "猫",
+      "en": "cats",
+      "pi": "māo"
+    }
+  ]
+}

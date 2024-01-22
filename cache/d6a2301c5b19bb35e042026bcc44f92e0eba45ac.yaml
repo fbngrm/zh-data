@@ -1,0 +1,32 @@
+{
+  "chinese": "我哥哥是当兵的。",
+  "english": "My older brother is in the army.",
+  "pinyin": "wǒ gēgē shì dāng bīng de.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "哥哥",
+      "en": "older brother",
+      "pi": "gēgē"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "当兵",
+      "en": "in the army",
+      "pi": "dāng bīng"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    }
+  ]
+}

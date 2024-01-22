@@ -1,0 +1,14 @@
+{
+  "chinese": "昨天晚上六点钟我们来到了这里。",
+  "english": "Last night at six o'clock we arrived here.",
+  "pinyin": "zuó tiān wǎn shàng liù diǎn zhōng wǒ men lái dào le zhè lǐ。",
+  "words": [
+    {"ch": "昨天", "en": "yesterday", "pi": "zuó tiān"},
+    {"ch": "晚上", "en": "night", "pi": "wǎn shàng"},
+    {"ch": "六点钟", "en": "six o'clock", "pi": "liù diǎn zhōng"},
+    {"ch": "我们", "en": "we", "pi": "wǒ men"},
+    {"ch": "来到", "en": "arrive", "pi": "lái dào"},
+    {"ch": "了", "en": "here", "pi": "le"},
+    {"ch": "这里", "en": "this place", "pi": "zhè lǐ"}
+  ]
+}

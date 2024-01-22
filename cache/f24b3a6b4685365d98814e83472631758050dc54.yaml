@@ -1,0 +1,47 @@
+{
+  "chinese": "等一下，我马上就回来。不要挂断电话！",
+  "english": "Wait a moment, I'll be right back. Don't hang up the phone!",
+  "pinyin": "děng yí xià, wǒ mǎ shàng jiù huí lái. bú yào guà duàn diàn huà!",
+  "words": [
+    {
+      "ch": "等一下",
+      "en": "Wait a moment",
+      "pi": "děng yí xià"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "马上",
+      "en": "immediately",
+      "pi": "mǎ shàng"
+    },
+    {
+      "ch": "就",
+      "en": "will",
+      "pi": "jiù"
+    },
+    {
+      "ch": "回来",
+      "en": "come back",
+      "pi": "huí lái"
+    },
+    {
+      "ch": "不要",
+      "en": "Don't",
+      "pi": "bú yào"
+    },
+    {
+      "ch": "挂断",
+      "en": "hang up",
+      "pi": "guà duàn"
+    },
+    {
+      "ch": "电话",
+      "en": "the phone",
+      "pi": "diàn huà"
+    }
+  ]
+}

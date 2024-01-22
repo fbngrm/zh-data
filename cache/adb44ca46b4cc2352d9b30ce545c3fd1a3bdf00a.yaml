@@ -1,0 +1,32 @@
+{
+  "chinese": "你应该穿一件大衣。",
+  "english": "You should wear a coat.",
+  "pinyin": "nǐ yīng gāi chuān yī jiàn dà yī。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "应该",
+      "en": "should",
+      "pi": "yīng gāi"
+    },
+    {
+      "ch": "穿",
+      "en": "wear",
+      "pi": "chuān"
+    },
+    {
+      "ch": "一件",
+      "en": "a",
+      "pi": "yī jiàn"
+    },
+    {
+      "ch": "大衣",
+      "en": "coat",
+      "pi": "dà yī"
+    }
+  ]
+}

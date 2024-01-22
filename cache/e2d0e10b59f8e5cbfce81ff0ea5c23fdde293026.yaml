@@ -1,0 +1,42 @@
+{
+  "chinese": "他数学得了一个好成绩。",
+  "english": "He got a good grade in mathematics.",
+  "pinyin": "tā shù xué dé liǎo yī gè hǎo chéng jì。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "数学",
+      "en": "mathematics",
+      "pi": "shù xué"
+    },
+    {
+      "ch": "得",
+      "en": "got",
+      "pi": "dé"
+    },
+    {
+      "ch": "了",
+      "en": "a",
+      "pi": "liǎo"
+    },
+    {
+      "ch": "一个",
+      "en": "good",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "好",
+      "en": "grade",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "成绩",
+      "en": "score",
+      "pi": "chéng jì"
+    }
+  ]
+}

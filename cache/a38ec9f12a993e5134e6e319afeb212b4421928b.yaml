@@ -1,0 +1,32 @@
+{
+  "chinese": "目前我待在酒店。",
+  "english": "I am currently staying in a hotel.",
+  "pinyin": "Mùqián wǒ dài zài jiǔdiàn.",
+  "words": [
+    {
+      "ch": "目前",
+      "en": "currently",
+      "pi": "mùqián"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "待",
+      "en": "stay",
+      "pi": "dài"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "酒店",
+      "en": "hotel",
+      "pi": "jiǔdiàn"
+    }
+  ]
+}

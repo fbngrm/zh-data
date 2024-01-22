@@ -1,0 +1,11 @@
+{
+  "chinese": "你需要帮助吗？",
+  "english": "Do you need help?",
+  "pinyin": "nǐ xūyào bāngzhù ma?",
+  "words": [
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "需要", "en": "need", "pi": "xūyào" },
+    { "ch": "帮助", "en": "help", "pi": "bāngzhù" },
+    { "ch": "吗", "en": "?" , "pi": "ma" }
+  ]
+}

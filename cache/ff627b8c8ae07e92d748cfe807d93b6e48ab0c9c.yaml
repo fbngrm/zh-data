@@ -1,0 +1,42 @@
+{
+  "chinese": "我刚洗了所有的碗盘。",
+  "english": "I just washed all the dishes.",
+  "pinyin": "wǒ gāng xǐ le suǒ yǒu de wǎn pán。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "刚",
+      "en": "just",
+      "pi": "gāng"
+    },
+    {
+      "ch": "洗",
+      "en": "washed",
+      "pi": "xǐ"
+    },
+    {
+      "ch": "了",
+      "en": "all",
+      "pi": "le"
+    },
+    {
+      "ch": "所有",
+      "en": "the",
+      "pi": "suǒ yǒu"
+    },
+    {
+      "ch": "的",
+      "en": "dishes",
+      "pi": "de"
+    },
+    {
+      "ch": "碗盘",
+      "en": "dishes",
+      "pi": "wǎn pán"
+    }
+  ]
+}

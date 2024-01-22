@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆和玛丽有很多共同点。",
+  "english": "Tom and Mary have a lot in common.",
+  "pinyin": "tāng mǔ hé mǎ lì yǒu hěn duō gòng tóng diǎn。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "很多",
+      "en": "a lot",
+      "pi": "hěn duō"
+    },
+    {
+      "ch": "共同点",
+      "en": "in common",
+      "pi": "gòng tóng diǎn"
+    }
+  ]
+}

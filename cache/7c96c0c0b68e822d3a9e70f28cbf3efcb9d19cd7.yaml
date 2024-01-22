@@ -1,0 +1,18 @@
+{
+  "chinese": "过年时，小刘的单位给每位员工发一袋面粉。",
+  "english": "During the Chinese New Year, Xiao Liu's company gave each employee a bag of flour.",
+  "pinyin": "Guònián shí, xiǎo liú de dānwèi gěi měi wèi yuángōng fā yī dài miànfěn.",
+  "words": [
+    {"ch": "过年", "en": "Chinese New Year", "pi": "guònián"},
+    {"ch": "时", "en": "during", "pi": "shí"},
+    {"ch": "小刘", "en": "Xiao Liu", "pi": "xiǎo liú"},
+    {"ch": "的", "en": "possession marker", "pi": "de"},
+    {"ch": "单位", "en": "company", "pi": "dānwèi"},
+    {"ch": "给", "en": "give", "pi": "gěi"},
+    {"ch": "每位", "en": "each", "pi": "měi wèi"},
+    {"ch": "员工", "en": "employee", "pi": "yuángōng"},
+    {"ch": "发", "en": "give out", "pi": "fā"},
+    {"ch": "一袋", "en": "a bag of", "pi": "yī dài"},
+    {"ch": "面粉", "en": "flour", "pi": "miànfěn"}
+  ]
+}

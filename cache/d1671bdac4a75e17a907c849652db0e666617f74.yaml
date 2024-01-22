@@ -1,0 +1,32 @@
+{
+  "chinese": "猫在家里等你。",
+  "english": "The cat is waiting for you at home.",
+  "pinyin": "Māo zài jiālǐ děng nǐ.",
+  "words": [
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "家里",
+      "en": "home",
+      "pi": "jiālǐ"
+    },
+    {
+      "ch": "等",
+      "en": "waiting",
+      "pi": "děng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    }
+  ]
+}

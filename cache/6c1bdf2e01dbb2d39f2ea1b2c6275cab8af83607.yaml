@@ -1,0 +1,37 @@
+{
+  "chinese": "明天中午他们不在学校。",
+  "english": "They will not be at school tomorrow noon.",
+  "pinyin": "míngtiān zhōngwǔ tāmen búzài xuéxiào.",
+  "words": [
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "中午",
+      "en": "noon",
+      "pi": "zhōngwǔ"
+    },
+    {
+      "ch": "他们",
+      "en": "they",
+      "pi": "tāmen"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "在",
+      "en": "be",
+      "pi": "zài"
+    },
+    {
+      "ch": "学校",
+      "en": "school",
+      "pi": "xuéxiào"
+    }
+  ]
+}

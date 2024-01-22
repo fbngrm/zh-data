@@ -1,0 +1,20 @@
+{
+  "chinese": "我回到家的时候，爸爸妈妈都已经吃完饭了。",
+  "english": "When I got home, both my mom and dad had already finished dinner.",
+  "pinyin": "Wǒ huí dào jiā de shíhou, bàba māmā dōu yǐjīng chī wánfànle.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "回到", "en": "got back", "pi": "huí dào" },
+    { "ch": "家", "en": "home", "pi": "jiā" },
+    { "ch": "的", "en": "de", "pi": "de" },
+    { "ch": "时候", "en": "when", "pi": "shíhou" },
+    { "ch": "，", "en": ",", "pi": "，" },
+    { "ch": "爸爸", "en": "dad", "pi": "bàba" },
+    { "ch": "妈妈", "en": "mom", "pi": "māmā" },
+    { "ch": "都", "en": "both", "pi": "dōu" },
+    { "ch": "已经", "en": "already", "pi": "yǐjīng" },
+    { "ch": "吃完饭", "en": "finished dinner", "pi": "chī wánfàn" },
+    { "ch": "了", "en": "le", "pi": "le" },
+    { "ch": "。", "en": ".", "pi": "。" }
+  ]
+}

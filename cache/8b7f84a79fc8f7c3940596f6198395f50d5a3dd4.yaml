@@ -1,0 +1,42 @@
+{
+  "chinese": "请问你可以说慢一点吗？",
+  "english": "Can you speak more slowly, please?",
+  "pinyin": "qǐng wèn nǐ kě yǐ shuō màn yī diǎn ma?",
+  "words": [
+    {
+      "ch": "请问",
+      "en": "Can I ask",
+      "pi": "qǐng wèn"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kě yǐ"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "慢",
+      "en": "slowly",
+      "pi": "màn"
+    },
+    {
+      "ch": "一点",
+      "en": "more",
+      "pi": "yī diǎn"
+    },
+    {
+      "ch": "吗",
+      "en": "please?",
+      "pi": "ma?"
+    }
+  ]
+}

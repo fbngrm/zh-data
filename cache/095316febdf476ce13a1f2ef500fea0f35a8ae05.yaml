@@ -1,0 +1,17 @@
+{
+  "chinese": "尽管他累极了，他还必须工作。",
+  "english": "Despite being extremely tired, he still has to work.",
+  "pinyin": "jǐn guǎn tā lèi jí le，tā hái bì xū gōng zuò。",
+  "words": [
+    {"ch": "尽管", "en": "Despite", "pi": "jǐn guǎn"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "累", "en": "tired", "pi": "lèi"},
+    {"ch": "极了", "en": "extremely", "pi": "jí le"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "还", "en": "still", "pi": "hái"},
+    {"ch": "必须", "en": "has to", "pi": "bì xū"},
+    {"ch": "工作", "en": "work", "pi": "gōng zuò"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

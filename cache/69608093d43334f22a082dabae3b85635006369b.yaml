@@ -1,0 +1,57 @@
+{
+  "chinese": "咖啡让我在沉闷的音乐会中保持清醒。",
+  "english": "Coffee keeps me awake during the boring concert.",
+  "pinyin": "kā fēi ràng wǒ zài chén mèn de yīn yuè huì zhōng bǎo chí qīng xǐng。",
+  "words": [
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kā fēi"
+    },
+    {
+      "ch": "让",
+      "en": "let",
+      "pi": "ràng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "during",
+      "pi": "zài"
+    },
+    {
+      "ch": "沉闷",
+      "en": "boring",
+      "pi": "chén mèn"
+    },
+    {
+      "ch": "的",
+      "en": "the",
+      "pi": "de"
+    },
+    {
+      "ch": "音乐会",
+      "en": "concert",
+      "pi": "yīn yuè huì"
+    },
+    {
+      "ch": "中",
+      "en": "in",
+      "pi": "zhōng"
+    },
+    {
+      "ch": "保持",
+      "en": "keep",
+      "pi": "bǎo chí"
+    },
+    {
+      "ch": "清醒",
+      "en": "awake",
+      "pi": "qīng xǐng"
+    }
+  ]
+}

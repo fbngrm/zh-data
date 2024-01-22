@@ -1,0 +1,27 @@
+{
+  "chinese": "雷雨天气请勿登山",
+  "english": "Please do not go mountain climbing during thunderstorms.",
+  "pinyin": "léi yǔ tiān qì qǐng wù dēng shān",
+  "words": [
+    {
+      "ch": "雷雨",
+      "en": "thunderstorm",
+      "pi": "léi yǔ"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiān qì"
+    },
+    {
+      "ch": "请勿",
+      "en": "please do not",
+      "pi": "qǐng wù"
+    },
+    {
+      "ch": "登山",
+      "en": "mountain climbing",
+      "pi": "dēng shān"
+    }
+  ]
+}

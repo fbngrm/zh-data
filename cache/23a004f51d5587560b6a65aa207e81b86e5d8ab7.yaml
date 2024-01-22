@@ -1,0 +1,42 @@
+{
+  "chinese": "这种颜色比那种稍微深一点。",
+  "english": "This color is slightly darker than that one.",
+  "pinyin": "zhè zhǒng yánsè bǐ nà zhǒng shāowēi shēn yīdiǎn。",
+  "words": [
+    {
+      "ch": "这种",
+      "en": "this",
+      "pi": "zhè zhǒng"
+    },
+    {
+      "ch": "颜色",
+      "en": "color",
+      "pi": "yánsè"
+    },
+    {
+      "ch": "比",
+      "en": "is",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "那种",
+      "en": "that one",
+      "pi": "nà zhǒng"
+    },
+    {
+      "ch": "稍微",
+      "en": "slightly",
+      "pi": "shāowēi"
+    },
+    {
+      "ch": "深",
+      "en": "darker",
+      "pi": "shēn"
+    },
+    {
+      "ch": "一点",
+      "en": "than",
+      "pi": "yīdiǎn"
+    }
+  ]
+}

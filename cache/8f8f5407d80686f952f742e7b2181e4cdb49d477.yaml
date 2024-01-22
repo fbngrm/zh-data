@@ -1,0 +1,27 @@
+{
+  "chinese": "公共汽车每１０分钟一班。",
+  "english": "Buses run every 10 minutes.",
+  "pinyin": "gōng gòng qì chē měi shí fēn zhōng yī bān。",
+  "words": [
+    {
+      "ch": "公共汽车",
+      "en": "Buses",
+      "pi": "gōng gòng qì chē"
+    },
+    {
+      "ch": "每",
+      "en": "every",
+      "pi": "měi"
+    },
+    {
+      "ch": "１０分钟",
+      "en": "10 minutes",
+      "pi": "shí fēn zhōng"
+    },
+    {
+      "ch": "一班",
+      "en": "one",
+      "pi": "yī bān"
+    }
+  ]
+}

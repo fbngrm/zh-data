@@ -1,0 +1,32 @@
+{
+  "chinese": "中国比日本大得多。",
+  "english": "China is much bigger than Japan.",
+  "pinyin": "Zhōngguó bǐ Rìběn dà de duō.",
+  "words": [
+    {
+      "ch": "中国",
+      "en": "China",
+      "pi": "Zhōngguó"
+    },
+    {
+      "ch": "比",
+      "en": "is",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "日本",
+      "en": "Japan",
+      "pi": "Rìběn"
+    },
+    {
+      "ch": "大",
+      "en": "much",
+      "pi": "dà"
+    },
+    {
+      "ch": "得多",
+      "en": "bigger",
+      "pi": "de duō"
+    }
+  ]
+}

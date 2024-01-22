@@ -1,0 +1,32 @@
+{
+  "chinese": "你要叫什么菜？",
+  "english": "What dish do you want to order?",
+  "pinyin": "nǐ yào jiào shénme cài?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "叫",
+      "en": "to order",
+      "pi": "jiào"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "菜",
+      "en": "dish",
+      "pi": "cài"
+    }
+  ]
+}

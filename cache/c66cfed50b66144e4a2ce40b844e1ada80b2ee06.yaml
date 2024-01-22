@@ -1,0 +1,68 @@
+{
+  "sentences": [
+    {
+      "chinese": "我喜欢孩子。",
+      "english": "I like children.",
+      "pinyin": "wǒ xǐ huān hái zǐ",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "喜欢",
+          "en": "like",
+          "pi": "xǐ huān"
+        },
+        {
+          "ch": "孩子",
+          "en": "children",
+          "pi": "hái zǐ"
+        }
+      ]
+    },
+    {
+      "chinese": "这就是为什么我成为了教师。",
+      "english": "This is why I became a teacher.",
+      "pinyin": "zhè jiù shì wèi shén me wǒ chéng wéi le jiào shī",
+      "words": [
+        {
+          "ch": "这",
+          "en": "this",
+          "pi": "zhè"
+        },
+        {
+          "ch": "就是",
+          "en": "is why",
+          "pi": "jiù shì"
+        },
+        {
+          "ch": "为什么",
+          "en": "why",
+          "pi": "wèi shén me"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "成为",
+          "en": "became",
+          "pi": "chéng wéi"
+        },
+        {
+          "ch": "了",
+          "en": "a",
+          "pi": "le"
+        },
+        {
+          "ch": "教师",
+          "en": "teacher",
+          "pi": "jiào shī"
+        }
+      ]
+    }
+  ]
+}

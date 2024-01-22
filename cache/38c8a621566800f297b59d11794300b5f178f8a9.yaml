@@ -1,0 +1,27 @@
+{
+  "chinese": "你起床早吗？",
+  "english": "Do you wake up early?",
+  "pinyin": "nǐ qǐ chuáng zǎo ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "起床",
+      "en": "wake up",
+      "pi": "qǐ chuáng"
+    },
+    {
+      "ch": "早",
+      "en": "early",
+      "pi": "zǎo"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "chinese": "湯姆和珍吵了架，但是第二天早上就和好如初了。",
+  "english": "Tom and Jane had a fight, but they made up the next morning.",
+  "pinyin": "Tāngmǔ hé zhēn chǎo le jià, dànshì dì èr tiān zǎoshang jiù héhǎo rúchū le.",
+  "words": [
+    {"ch": "湯姆", "en": "Tom", "pi": "tāngmǔ"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "珍", "en": "Jane", "pi": "zhēn"},
+    {"ch": "吵了架", "en": "had a fight", "pi": "chǎo le jià"},
+    {"ch": "但是", "en": "but", "pi": "dànshì"},
+    {"ch": "第二天", "en": "the next day", "pi": "dì èr tiān"},
+    {"ch": "早上", "en": "morning", "pi": "zǎoshang"},
+    {"ch": "就", "en": "just", "pi": "jiù"},
+    {"ch": "和好如初", "en": "made up", "pi": "héhǎo rúchū"}
+  ]
+}

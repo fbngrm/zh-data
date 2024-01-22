@@ -1,0 +1,32 @@
+{
+  "chinese": "你週日下午忙吗？",
+  "english": "Are you busy on Sunday afternoon?",
+  "pinyin": "nǐ zhōu rì xià wǔ máng ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "週日",
+      "en": "Sunday",
+      "pi": "zhōu rì"
+    },
+    {
+      "ch": "下午",
+      "en": "afternoon",
+      "pi": "xià wǔ"
+    },
+    {
+      "ch": "忙",
+      "en": "busy",
+      "pi": "máng"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

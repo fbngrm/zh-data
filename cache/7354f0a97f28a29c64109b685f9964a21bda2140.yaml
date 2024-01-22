@@ -1,0 +1,47 @@
+{
+  "chinese": "我找到你了，没有么？",
+  "english": "I found you, didn't I?",
+  "pinyin": "wǒ zhǎodào nǐle, méiyǒu me?",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "找到",
+      "en": "found",
+      "pi": "zhǎodào"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "，",
+      "en": "",
+      "pi": ","
+    },
+    {
+      "ch": "没有",
+      "en": "didn't",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "么",
+      "en": "I",
+      "pi": "me"
+    },
+    {
+      "ch": "？",
+      "en": "",
+      "pi": "?"
+    }
+  ]
+}

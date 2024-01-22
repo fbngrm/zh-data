@@ -1,0 +1,18 @@
+{
+  "chinese": "你想再来点咖啡吗？不，谢谢。我够了。",
+  "english": "Do you want some more coffee? No, thank you. I've had enough.",
+  "pinyin": "nǐ xiǎng zài lái diǎn kāfēi ma? bù, xiè xiè. wǒ gòu le.",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "想", "en": "want", "pi": "xiǎng"},
+    {"ch": "再来", "en": "some more", "pi": "zài lái"},
+    {"ch": "点", "en": "some", "pi": "diǎn"},
+    {"ch": "咖啡", "en": "coffee", "pi": "kāfēi"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"},
+    {"ch": "不", "en": "no", "pi": "bù"},
+    {"ch": "谢谢", "en": "thank you", "pi": "xiè xiè"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "够", "en": "have had enough", "pi": "gòu"},
+    {"ch": "了", "en": "already", "pi": "le"}  
+  ]
+}

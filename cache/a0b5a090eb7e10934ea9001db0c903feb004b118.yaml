@@ -1,0 +1,32 @@
+{
+  "chinese": "你今天是不是有点发烧？",
+  "english": "Are you feeling a bit feverish today?",
+  "pinyin": "nǐ jīntiān shì bùshì yǒudiǎn fāshāo?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "是不是",
+      "en": "are",
+      "pi": "shì bùshì"
+    },
+    {
+      "ch": "有点",
+      "en": "a bit",
+      "pi": "yǒudiǎn"
+    },
+    {
+      "ch": "发烧",
+      "en": "feverish",
+      "pi": "fāshāo"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "你再吃一个苹果吧。",
+  "english": "Have another apple.",
+  "pinyin": "Nǐ zài chī yīgè píngguǒ ba.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "再",
+      "en": "again",
+      "pi": "zài"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "一个",
+      "en": "one",
+      "pi": "yīgè"
+    },
+    {
+      "ch": "苹果",
+      "en": "apple",
+      "pi": "píngguǒ"
+    },
+    {
+      "ch": "吧",
+      "en": "particle indicating suggestion",
+      "pi": "ba"
+    }
+  ]
+}

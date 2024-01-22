@@ -1,0 +1,14 @@
+{
+    "chinese": "我看你该做这交易。",
+    "english": "I think you should do this transaction.",
+    "pinyin": "wǒ kàn nǐ gāi zuò zhè jiāo yì。",
+    "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "看", "en": "think/look", "pi": "kàn"},
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "该", "en": "should", "pi": "gāi"},
+        {"ch": "做", "en": "do", "pi": "zuò"},
+        {"ch": "这", "en": "this", "pi": "zhè"},
+        {"ch": "交易", "en": "transaction", "pi": "jiāo yì"}
+    ]
+}

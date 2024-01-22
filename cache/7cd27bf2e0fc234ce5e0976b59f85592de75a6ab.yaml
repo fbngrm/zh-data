@@ -1,0 +1,47 @@
+{
+  "chinese": "你确定那是你想要的吗？",
+  "english": "Are you sure that's what you want?",
+  "pinyin": "nǐ quèdìng nà shì nǐ xiǎngyào de ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "确定",
+      "en": "sure",
+      "pi": "quèdìng"
+    },
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "想要",
+      "en": "want",
+      "pi": "xiǎngyào"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

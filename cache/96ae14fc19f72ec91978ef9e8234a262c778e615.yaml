@@ -1,0 +1,32 @@
+{
+  "chinese": "五千元是很多钱。",
+  "english": "Five thousand yuan is a lot of money.",
+  "pinyin": "wǔ qiān yuán shì hěn duō qián。",
+  "words": [
+    {
+      "ch": "五千",
+      "en": "Five thousand",
+      "pi": "wǔ qiān"
+    },
+    {
+      "ch": "元",
+      "en": "yuan",
+      "pi": "yuán"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "很多",
+      "en": "a lot of",
+      "pi": "hěn duō"
+    },
+    {
+      "ch": "钱",
+      "en": "money",
+      "pi": "qián"
+    }
+  ]
+}

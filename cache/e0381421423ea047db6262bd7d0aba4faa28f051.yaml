@@ -1,0 +1,15 @@
+{
+  "chinese": "我们想要听起来自然的翻译，而不需要逐字的翻译。",
+  "english": "We want a translation that sounds natural, not a word-for-word translation.",
+  "pinyin": "wǒmen xiǎng yào tīng qǐlái zìrán de fānyì, ér bù xūyào zhú zì de fānyì.",
+  "words": [
+    { "ch": "我们", "en": "We", "pi": "wǒmen" },
+    { "ch": "想要", "en": "want", "pi": "xiǎng yào" },
+    { "ch": "听起来", "en": "sound", "pi": "tīng qǐlái" },
+    { "ch": "自然的", "en": "natural", "pi": "zìrán de" },
+    { "ch": "翻译", "en": "translation", "pi": "fānyì" },
+    { "ch": "而不需要", "en": "not need", "pi": "ér bù xūyào" },
+    { "ch": "逐字的", "en": "word-for-word", "pi": "zhú zì de" },
+    { "ch": "翻译", "en": "translation", "pi": "fānyì" }
+  ]
+}

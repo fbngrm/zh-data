@@ -1,0 +1,13 @@
+{"chinese": "汤姆和玛丽在图书馆一起学习。",
+ "english": "Tom and Mary study together in the library.",
+ "pinyin": "Tāng mǔ hé mǎ lì zài tú shū guǎn yī qǐ xué xí.",
+ "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "玛丽", "en": "Mary", "pi": "mǎ lì"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "图书馆", "en": "library", "pi": "tú shū guǎn"},
+    {"ch": "一起", "en": "together", "pi": "yī qǐ"},
+    {"ch": "学习", "en": "study", "pi": "xué xí"}
+  ]
+}

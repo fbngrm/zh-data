@@ -1,0 +1,27 @@
+{
+  "chinese": "英文字母中有几个字母?",
+  "english": "How many letters are there in the English alphabet?",
+  "pinyin": "Yīngwén zìmǔ zhōng yǒu jǐ gè zìmǔ?",
+  "words": [
+    {
+      "ch": "英文字母",
+      "en": "English alphabet",
+      "pi": "Yīngwén zìmǔ"
+    },
+    {
+      "ch": "中",
+      "en": "in",
+      "pi": "zhōng"
+    },
+    {
+      "ch": "有几个",
+      "en": "how many",
+      "pi": "yǒu jǐ gè"
+    },
+    {
+      "ch": "字母",
+      "en": "letters",
+      "pi": "zìmǔ"
+    }
+  ]
+}

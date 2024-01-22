@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆不想吃午饭。",
+  "english": "Tom doesn't want to eat lunch.",
+  "pinyin": "Tāng mǔ bù xiǎng chī wǔfàn.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "想",
+      "en": "want to",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "午饭",
+      "en": "lunch",
+      "pi": "wǔfàn"
+    }
+  ]
+}

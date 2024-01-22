@@ -1,0 +1,14 @@
+{
+  "chinese": "我不会让汤姆独自去做。",
+  "english": "I won't let Tom do it alone.",
+  "pinyin": "wǒ bú huì ràng tāng mǔ dú zì qù zuò。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "不会", "en": "won't", "pi": "bú huì"},
+    {"ch": "让", "en": "let", "pi": "ràng"},
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "独自", "en": "alone", "pi": "dú zì"},
+    {"ch": "去", "en": "do", "pi": "qù"},
+    {"ch": "做", "en": "it", "pi": "zuò"}
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "只有你才可以帮我。",
+  "english": "Only you can help me.",
+  "pinyin": "zhǐ yǒu nǐ cái kěyǐ bāng wǒ.",
+  "words": [
+    {
+      "ch": "只有",
+      "en": "only",
+      "pi": "zhǐ yǒu"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "才",
+      "en": "can",
+      "pi": "cái"
+    },
+    {
+      "ch": "可以",
+      "en": "help",
+      "pi": "kě yǐ"
+    },
+    {
+      "ch": "帮",
+      "en": "me",
+      "pi": "bāng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    }
+  ]
+}

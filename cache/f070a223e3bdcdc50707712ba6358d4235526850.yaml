@@ -1,0 +1,32 @@
+{
+  "chinese": "我知道南希喜欢音乐。",
+  "english": "I know Nancy likes music.",
+  "pinyin": "wǒ zhīdào nán xī xǐhuān yīnyuè.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "南希",
+      "en": "Nancy",
+      "pi": "nán xī"
+    },
+    {
+      "ch": "喜欢",
+      "en": "likes",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "音乐",
+      "en": "music",
+      "pi": "yīnyuè"
+    }
+  ]
+}

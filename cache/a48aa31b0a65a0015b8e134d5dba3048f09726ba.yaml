@@ -1,0 +1,20 @@
+{
+  "chinese": "他来找你的时候，当时你是什么反应？",
+  "english": "What was your reaction when he came to find you?",
+  "pinyin": "Tā lái zhǎo nǐ de shíhòu, dāngshí nǐ shì shénme fǎnyìng?",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "来", "en": "come", "pi": "lái"},
+    {"ch": "找", "en": "find", "pi": "zhǎo"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "的", "en": "('s)", "pi": "de"},
+    {"ch": "时候", "en": "when", "pi": "shíhòu"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "当时", "en": "at that time", "pi": "dāngshí"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "是", "en": "are", "pi": "shì"},
+    {"ch": "什么", "en": "what", "pi": "shénme"},
+    {"ch": "反应", "en": "reaction", "pi": "fǎnyìng"},
+    {"ch": "？", "en": "?", "pi": "？"}
+  ]
+}

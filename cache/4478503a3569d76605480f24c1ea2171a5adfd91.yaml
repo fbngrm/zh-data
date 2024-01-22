@@ -1,0 +1,37 @@
+{
+  "chinese": "这种蔬菜英语叫甚么名字？",
+  "english": "What is this vegetable called in English?",
+  "pinyin": "zhè zhǒng shūcài yīngyǔ jiào shénme míngzì?",
+  "words": [
+    {
+      "ch": "这种",
+      "en": "this kind",
+      "pi": "zhè zhǒng"
+    },
+    {
+      "ch": "蔬菜",
+      "en": "vegetable",
+      "pi": "shūcài"
+    },
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīngyǔ"
+    },
+    {
+      "ch": "叫",
+      "en": "called",
+      "pi": "jiào"
+    },
+    {
+      "ch": "甚么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míngzì"
+    }
+  ]
+}

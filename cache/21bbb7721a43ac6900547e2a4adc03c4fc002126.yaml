@@ -1,0 +1,42 @@
+{
+  "chinese": "我的钱包里已经没有钱了。",
+  "english": "I don't have any money in my wallet anymore.",
+  "pinyin": "wǒ de qiánbāo lǐ yǐjīng méiyǒu qián le。",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "钱包",
+      "en": "wallet",
+      "pi": "qiánbāo"
+    }, 
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐjīng"
+    },
+    {
+      "ch": "没有",
+      "en": "don't have",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "钱",
+      "en": "money",
+      "pi": "qián"
+    },
+    {
+      "ch": "了",
+      "en": "anymore",
+      "pi": "le"
+    }
+  ]
+}

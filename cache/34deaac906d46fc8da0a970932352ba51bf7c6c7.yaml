@@ -1,0 +1,27 @@
+{
+  "chinese": "请问售票处在哪里？",
+  "english": "Excuse me, where is the ticket office?",
+  "pinyin": "Qǐngwèn shòupiào chù zài nǎlǐ?",
+  "words": [
+    {
+      "ch": "请问",
+      "en": "Excuse me",
+      "pi": "qǐngwèn"
+    },
+    {
+      "ch": "售票处",
+      "en": "ticket office",
+      "pi": "shòupiào chù"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪里",
+      "en": "where",
+      "pi": "nǎlǐ"
+    }
+  ]
+}

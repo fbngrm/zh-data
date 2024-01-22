@@ -1,0 +1,37 @@
+{
+  "chinese": "瓶子里面已经没有水了。",
+  "english": "There is no water left inside the bottle.",
+  "pinyin": "píng zi lǐ miàn yǐ jīng méi yǒu shuǐ le.",
+  "words": [
+    {
+      "ch": "瓶子",
+      "en": "bottle",
+      "pi": "píng zi"
+    },
+    {
+      "ch": "里面",
+      "en": "inside",
+      "pi": "lǐ miàn"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐ jīng"
+    },
+    {
+      "ch": "没有",
+      "en": "no/does not have",
+      "pi": "méi yǒu"
+    },
+    {
+      "ch": "水",
+      "en": "water",
+      "pi": "shuǐ"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating a completed action",
+      "pi": "le"
+    }
+  ]
+}

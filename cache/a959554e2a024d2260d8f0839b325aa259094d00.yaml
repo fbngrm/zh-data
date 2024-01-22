@@ -1,0 +1,42 @@
+{
+  "chinese": "她弄丢了一本书。",
+  "english": "She lost a book.",
+  "pinyin": "tā nòng diū le yī běn shū。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "弄",
+      "en": "lost",
+      "pi": "nòng"
+    },
+    {
+      "ch": "丢",
+      "en": "a",
+      "pi": "diū"
+    },
+    {
+      "ch": "了",
+      "en": "book",
+      "pi": "le"
+    },
+    {
+      "ch": "一",
+      "en": "one",
+      "pi": "yī"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    }
+  ]
+}

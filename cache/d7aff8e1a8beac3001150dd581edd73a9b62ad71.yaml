@@ -1,0 +1,37 @@
+{
+  "chinese": "钱包里有两张银行卡。",
+  "english": "There are two bank cards in the wallet.",
+  "pinyin": "qián bāo lǐ yǒu liǎng zhāng yín háng kǎ.",
+  "words": [
+    {
+      "ch": "钱包",
+      "en": "wallet",
+      "pi": "qián bāo"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "两",
+      "en": "two",
+      "pi": "liǎng"
+    },
+    {
+      "ch": "张",
+      "en": "measure word for flat objects",
+      "pi": "zhāng"
+    },
+    {
+      "ch": "银行卡",
+      "en": "bank card",
+      "pi": "yín háng kǎ"
+    }
+  ]
+}

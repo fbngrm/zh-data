@@ -1,0 +1,14 @@
+{
+  "chinese": "我能把这个箱子打开么？",
+  "english": "Can I open this box?",
+  "pinyin": "wǒ néng bǎ zhège xiāngzi dǎkāi ma?",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "能", "en": "can", "pi": "néng"},
+    {"ch": "把", "en": "take", "pi": "bǎ"},
+    {"ch": "这个", "en": "this", "pi": "zhège"},
+    {"ch": "箱子", "en": "box", "pi": "xiāngzi"},
+    {"ch": "打开", "en": "open", "pi": "dǎkāi"},
+    {"ch": "么", "en": "question particle", "pi": "ma"}
+  ]
+}

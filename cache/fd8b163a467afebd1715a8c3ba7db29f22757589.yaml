@@ -1,0 +1,38 @@
+{
+  "sentences": [
+    {
+      "chinese": "是誰？",
+      "english": "Who is it?",
+      "pinyin": "shì shuí?",
+      "words": [
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "誰",
+          "en": "who",
+          "pi": "shuí"
+        }
+      ]
+    },
+    {
+      "chinese": "是我。",
+      "english": "It's me.",
+      "pinyin": "shì wǒ.",
+      "words": [
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "我",
+          "en": "me",
+          "pi": "wǒ"
+        }
+      ]
+    }
+  ]
+}

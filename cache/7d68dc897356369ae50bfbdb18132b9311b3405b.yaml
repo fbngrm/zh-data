@@ -1,0 +1,11 @@
+{
+  "chinese": "我看见汤姆了。",
+  "english": "I saw Tom.",
+  "pinyin": "wǒ kàn jiàn tāng mǔ le。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "看见", "en": "saw", "pi": "kàn jiàn"},
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "了", "en": "end marker", "pi": "le"}
+  ]
+}

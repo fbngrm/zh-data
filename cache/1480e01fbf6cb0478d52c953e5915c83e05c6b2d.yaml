@@ -1,0 +1,32 @@
+{
+  "chinese": "苹果是成打卖的。",
+  "english": "Apples are sold by the box.",
+  "pinyin": "píng guǒ shì chéng dǎi mài de.",
+  "words": [
+    {
+      "ch": "苹果",
+      "en": "apples",
+      "pi": "píng guǒ"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "成打",
+      "en": "by the box",
+      "pi": "chéng dǎi"
+    },
+    {
+      "ch": "卖",
+      "en": "sold",
+      "pi": "mài"
+    },
+    {
+      "ch": "的",
+      "en": "by",
+      "pi": "de"
+    }
+  ]
+}

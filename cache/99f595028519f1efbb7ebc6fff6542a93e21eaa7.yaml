@@ -1,0 +1,57 @@
+{
+  "chinese": "这条蛇是活的还是死的？",
+  "english": "Is this snake alive or dead?",
+  "pinyin": "zhè tiáo shé shì huó de hái shì sǐ de?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "条",
+      "en": "measure word for long, narrow objects",
+      "pi": "tiáo"
+    },
+    {
+      "ch": "蛇",
+      "en": "snake",
+      "pi": "shé"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "活",
+      "en": "alive",
+      "pi": "huó"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "还是",
+      "en": "or",
+      "pi": "hái shì"
+    },
+    {
+      "ch": "死",
+      "en": "dead",
+      "pi": "sǐ"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "？"
+    }
+  ]
+}

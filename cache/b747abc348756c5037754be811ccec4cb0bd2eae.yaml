@@ -1,0 +1,32 @@
+{
+  "chinese": "不要忘记签上你的名字。",
+  "english": "Don't forget to sign your name.",
+  "pinyin": "bú yào wàng jì qiān shàng nǐ de míng zì。",
+  "words": [
+    {
+      "ch": "不要",
+      "en": "Don't",
+      "pi": "bú yào"
+    },
+    {
+      "ch": "忘记",
+      "en": "forget",
+      "pi": "wàng jì"
+    },
+    {
+      "ch": "签上",
+      "en": "to sign",
+      "pi": "qiān shàng"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míng zì"
+    }
+  ]
+}

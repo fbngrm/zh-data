@@ -1,0 +1,13 @@
+{
+  "chinese": "你要在伦敦待几天？",
+  "english": "How many days are you going to stay in London?",
+  "pinyin": "nǐ yào zài lún dūn dài jǐ tiān?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "要", "en": "want", "pi": "yào"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "伦敦", "en": "London", "pi": "lún dūn"},
+    {"ch": "待", "en": "stay", "pi": "dài"},
+    {"ch": "几天", "en": "how many days", "pi": "jǐ tiān"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "猫坐在桌子上。",
+  "english": "The cat is sitting on the table.",
+  "pinyin": "māo zuò zài zhuōzi shàng.",
+  "words": [
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    },
+    {
+      "ch": "坐",
+      "en": "sit",
+      "pi": "zuò"
+    },
+    {
+      "ch": "在",
+      "en": "on",
+      "pi": "zài"
+    },
+    {
+      "ch": "桌子",
+      "en": "table",
+      "pi": "zhuōzi"
+    },
+    {
+      "ch": "上",
+      "en": "above",
+      "pi": "shàng"
+    }
+  ]
+}

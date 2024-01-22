@@ -1,0 +1,18 @@
+{
+  "chinese": "下个礼拜除了星期一星期三有事，我其他日子都有空在那儿。",
+  "english": "Next week, except for Monday and Wednesday, I am available there on other days.",
+  "pinyin": "Xià gè lǐ bài chú le xīng qī yī xīng qī sān yǒu shì, wǒ qí tā rì zi dōu yǒu kòng zài nàr.",
+  "words": [
+    {"ch": "下个礼拜", "en": "Next week", "pi": "xià gè lǐ bài"},
+    {"ch": "除了", "en": "except for", "pi": "chú le"},
+    {"ch": "星期一", "en": "Monday", "pi": "xīng qī yī"},
+    {"ch": "星期三", "en": "Wednesday", "pi": "xīng qī sān"},
+    {"ch": "有事", "en": "have something", "pi": "yǒu shì"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "其他", "en": "other", "pi": "qí tā"},
+    {"ch": "日子", "en": "days", "pi": "rì zi"},
+    {"ch": "都", "en": "all", "pi": "dōu"},
+    {"ch": "有空", "en": "available", "pi": "yǒu kòng"},
+    {"ch": "在那儿", "en": "there", "pi": "zài nàr"}
+  ]
+}

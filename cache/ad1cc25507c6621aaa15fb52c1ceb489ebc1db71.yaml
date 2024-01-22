@@ -1,0 +1,16 @@
+{
+  "chinese": "Ｂｏｂ错过了最后一班火车，所以他必须搭计程车。",
+  "english": "Bob missed the last train, so he has to take a taxi.",
+  "pinyin": "Bōbó cuòguòle zuìhòu yī bān huǒchē, suǒyǐ tā bìxū dā jìchéngchē.",
+  "words": [
+    {"ch": "Ｂｏｂ", "en": "Bob", "pi": "Bōbó"},
+    {"ch": "错过了", "en": "missed", "pi": "cuòguòle"},
+    {"ch": "最后一班", "en": "last train", "pi": "zuìhòu yī bān"},
+    {"ch": "火车", "en": "train", "pi": "huǒchē"},
+    {"ch": "所以", "en": "so", "pi": "suǒyǐ"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "必须", "en": "has to", "pi": "bìxū"},
+    {"ch": "搭", "en": "take", "pi": "dā"},
+    {"ch": "计程车", "en": "taxi", "pi": "jìchéngchē"}
+  ]
+}

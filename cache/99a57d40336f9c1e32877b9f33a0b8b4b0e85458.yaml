@@ -1,0 +1,42 @@
+{
+  "chinese": "你的衣服是什么颜色的？",
+  "english": "What color is your clothes?",
+  "pinyin": "Nǐ de yīfú shì shénme yánsè de?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "your",
+      "pi": "de"
+    },
+    {
+      "ch": "衣服",
+      "en": "clothes",
+      "pi": "yīfú"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "颜色",
+      "en": "color",
+      "pi": "yánsè"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    }
+  ]
+}

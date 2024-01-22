@@ -1,0 +1,42 @@
+{
+  "chinese": "我想Ｔｏｍ需要写一些东西。",
+  "english": "I think Tom needs to write something.",
+  "pinyin": "wǒ xiǎng Tōm xū yào xiě yī xiē dōng xi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "think",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "Ｔｏｍ",
+      "en": "Tom",
+      "pi": "Tōm"
+    },
+    {
+      "ch": "需要",
+      "en": "needs",
+      "pi": "xū yào"
+    },
+    {
+      "ch": "写",
+      "en": "to write",
+      "pi": "xiě"
+    },
+    {
+      "ch": "一些",
+      "en": "something",
+      "pi": "yī xiē"
+    },
+    {
+      "ch": "东西",
+      "en": "things",
+      "pi": "dōng xi"
+    }
+  ]
+}

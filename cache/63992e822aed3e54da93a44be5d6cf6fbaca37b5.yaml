@@ -1,0 +1,32 @@
+{
+  "chinese" : "汤姆说得多快啊！",
+  "english" : "Tom speaks so fast!",
+  "pinyin" : "Tāng mǔ shuō dé duō kuài a!",
+  "words" : [
+    {
+      "ch" : "汤姆",
+      "en" : "Tom",
+      "pi" : "Tāng mǔ"
+    },
+    {
+      "ch" : "说得",
+      "en" : "speaks",
+      "pi" : "shuō dé"
+    },
+    {
+      "ch" : "多",
+      "en" : "so",
+      "pi" : "duō"
+    },
+    {
+      "ch" : "快",
+      "en" : "fast",
+      "pi" : "kuài"
+    },
+    {
+      "ch" : "啊",
+      "en" : "!",
+      "pi" : "a"
+    }
+  ]
+}

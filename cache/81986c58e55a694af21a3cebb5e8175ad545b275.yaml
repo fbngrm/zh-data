@@ -1,0 +1,37 @@
+{
+  "chinese": "今天早上火车来迟了。",
+  "english": "The train was late this morning.",
+  "pinyin": "jīn tiān zǎo shang huǒ chē lái chí le。",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎo shang"
+    },
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒ chē"
+    },
+    {
+      "ch": "来",
+      "en": "came",
+      "pi": "lái"
+    },
+    {
+      "ch": "迟",
+      "en": "late",
+      "pi": "chí"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我看到他在打棒球。",
+  "english": "I saw him playing baseball.",
+  "pinyin": "wǒ kàn dào tā zài dǎ bàngqiú.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "看到",
+      "en": "saw",
+      "pi": "kàn dào"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    },
+    {
+      "ch": "在",
+      "en": "playing",
+      "pi": "zài"
+    },
+    {
+      "ch": "打棒球",
+      "en": "baseball",
+      "pi": "dǎ bàngqiú"
+    }
+  ]
+}

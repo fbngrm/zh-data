@@ -1,0 +1,42 @@
+{
+  "chinese": "玛丽给我看了这封信。",
+  "english": "Mary showed me this letter.",
+  "pinyin": "Mǎlì gěi wǒ kànle zhè fēng xìn.",
+  "words": [
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎlì"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "看",
+      "en": "show",
+      "pi": "kàn"
+    },
+    {
+      "ch": "了",
+      "en": "particle for past tense",
+      "pi": "le"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "封信",
+      "en": "letter",
+      "pi": "fēng xìn"
+    }
+  ]
+}

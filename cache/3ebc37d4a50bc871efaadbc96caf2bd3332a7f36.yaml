@@ -1,0 +1,42 @@
+{
+  "chinese": "布朗先生让他儿子学了中文。",
+  "english": "Mr. Brown had his son learn Chinese.",
+  "pinyin": "bù lǎng xiān shēng ràng tā ér zi xué le zhōng wén.",
+  "words": [
+    {
+      "ch": "布朗先生",
+      "en": "Mr. Brown",
+      "pi": "bù lǎng xiān shēng"
+    },
+    {
+      "ch": "让",
+      "en": "had",
+      "pi": "ràng"
+    },
+    {
+      "ch": "他",
+      "en": "his",
+      "pi": "tā"
+    },
+    {
+      "ch": "儿子",
+      "en": "son",
+      "pi": "ér zi"
+    },
+    {
+      "ch": "学",
+      "en": "learn",
+      "pi": "xué"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "中文",
+      "en": "Chinese",
+      "pi": "zhōng wén"
+    }
+  ]
+}

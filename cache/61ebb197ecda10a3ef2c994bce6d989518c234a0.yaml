@@ -1,0 +1,37 @@
+{
+  "chinese": "我不像汤姆那样勇敢。",
+  "english": "I'm not as brave as Tom.",
+  "pinyin": "wǒ bù xiàng tāng mǔ nà yàng yǒng gǎn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "像",
+      "en": "as",
+      "pi": "xiàng"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "那样",
+      "en": "like",
+      "pi": "nà yàng"
+    },
+    {
+      "ch": "勇敢",
+      "en": "brave",
+      "pi": "yǒng gǎn"
+    }
+  ]
+}

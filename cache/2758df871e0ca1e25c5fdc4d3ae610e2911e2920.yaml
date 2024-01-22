@@ -1,0 +1,57 @@
+{
+  "chinese": "测试延迟了两天，因此，我们需要重新安排发布日期。",
+  "english": "The test has been delayed for two days, so we need to reschedule the release date.",
+  "pinyin": "Cè shì yán chí le liǎng tiān, yīn cǐ, wǒ men xū yào chóng xīn ān pái fā bù rì qī.",
+  "words": [
+    {
+      "ch": "测试",
+      "en": "test",
+      "pi": "cè shì"
+    },
+    {
+      "ch": "延迟",
+      "en": "delay",
+      "pi": "yán chí"
+    },
+    {
+      "ch": "了",
+      "en": "for (indicating completion)",
+      "pi": "le"
+    },
+    {
+      "ch": "两天",
+      "en": "two days",
+      "pi": "liǎng tiān"
+    },
+    {
+      "ch": "因此",
+      "en": "so",
+      "pi": "yīn cǐ"
+    },
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "需要",
+      "en": "need",
+      "pi": "xū yào"
+    },
+    {
+      "ch": "重新",
+      "en": "reschedule",
+      "pi": "chóng xīn"
+    },
+    {
+      "ch": "安排",
+      "en": "arrange",
+      "pi": "ān pái"
+    },
+    {
+      "ch": "发布日期",
+      "en": "release date",
+      "pi": "fā bù rì qī"
+    }
+  ]
+}

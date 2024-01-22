@@ -1,0 +1,27 @@
+{
+  "chinese": "我的祖父死于二战。",
+  "english": "My grandfather died in World War II.",
+  "pinyin": "Wǒ de zǔfù sǐ yú èrzhàn.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "祖父",
+      "en": "grandfather",
+      "pi": "zǔfù"
+    },
+    {
+      "ch": "死于",
+      "en": "died in",
+      "pi": "sǐ yú"
+    },
+    {
+      "ch": "二战",
+      "en": "World War II",
+      "pi": "èrzhàn"
+    }
+  ]
+}

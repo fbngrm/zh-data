@@ -1,0 +1,42 @@
+{
+  "chinese": "她有一只狗和六只猫。",
+  "english": "She has one dog and six cats.",
+  "pinyin": "tā yǒu yī zhī gǒu hé liù zhī māo。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一只",
+      "en": "one",
+      "pi": "yī zhī"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "六只",
+      "en": "six",
+      "pi": "liù zhī"
+    },
+    {
+      "ch": "猫",
+      "en": "cats",
+      "pi": "māo"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "花園裡沒有任何玫瑰。",
+  "english": "There are no roses in the garden.",
+  "pinyin": "huā yuán lǐ méi yǒu rèn hé méi guī。",
+  "words": [
+    {
+      "ch": "花園",
+      "en": "garden",
+      "pi": "huā yuán"
+    },
+    {
+      "ch": "裡",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "沒有",
+      "en": "no",
+      "pi": "méi yǒu"
+    },
+    {
+      "ch": "任何",
+      "en": "any",
+      "pi": "rèn hé"
+    },
+    {
+      "ch": "玫瑰",
+      "en": "roses",
+      "pi": "méi guī"
+    }
+  ]
+}

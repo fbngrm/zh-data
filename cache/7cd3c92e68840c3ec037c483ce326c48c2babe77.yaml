@@ -1,0 +1,86 @@
+{
+  "sentence1": {
+    "chinese": "乐观如明灯,照亮希望的前程.",
+    "english": "Optimism is like a bright light, illuminating the path of hope.",
+    "pinyin": "lè guān rú míng dēng, zhào liàng xī wàng de qián chéng.",
+    "words": [
+      {
+        "ch": "乐观",
+        "en": "optimism",
+        "pi": "lè guān"
+      },
+      {
+        "ch": "如",
+        "en": "like",
+        "pi": "rú"
+      },
+      {
+        "ch": "明灯",
+        "en": "bright light",
+        "pi": "míng dēng"
+      },
+      {
+        "ch": "照亮",
+        "en": "illuminate",
+        "pi": "zhào liàng"
+      },
+      {
+        "ch": "希望",
+        "en": "hope",
+        "pi": "xī wàng"
+      },
+      {
+        "ch": "的",
+        "en": "of",
+        "pi": "de"
+      },
+      {
+        "ch": "前程",
+        "en": "path",
+        "pi": "qián chéng"
+      }
+    ]
+  },
+  "sentence2": {
+    "chinese": "消极如毒品,腐蚀健康的心灵.",
+    "english": "Negativity is like a drug, corroding the healthy mind.",
+    "pinyin": "xiāo jí rú dú pǐn, fǔ shí jiàn kāng de xīn líng.",
+    "words": [
+      {
+        "ch": "消极",
+        "en": "negativity",
+        "pi": "xiāo jí"
+      },
+      {
+        "ch": "如",
+        "en": "like",
+        "pi": "rú"
+      },
+      {
+        "ch": "毒品",
+        "en": "drug",
+        "pi": "dú pǐn"
+      },
+      {
+        "ch": "腐蚀",
+        "en": "corrode",
+        "pi": "fǔ shí"
+      },
+      {
+        "ch": "健康",
+        "en": "healthy",
+        "pi": "jiàn kāng"
+      },
+      {
+        "ch": "的",
+        "en": "of",
+        "pi": "de"
+      },
+      {
+        "ch": "心灵",
+        "en": "mind",
+        "pi": "xīn líng"
+      }
+    ]
+  }
+}

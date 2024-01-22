@@ -1,0 +1,27 @@
+{
+  "chinese": "前天发生了火灾。",
+  "english": "There was a fire the day before yesterday.",
+  "pinyin": "qiántiān fāshēngle huǒzāi.",
+  "words": [
+    {
+      "ch": "前天",
+      "en": "the day before yesterday",
+      "pi": "qiántiān"
+    },
+    {
+      "ch": "发生",
+      "en": "happen",
+      "pi": "fāshēng"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "火灾",
+      "en": "fire",
+      "pi": "huǒzāi"
+    }
+  ]
+}

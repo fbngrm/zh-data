@@ -1,0 +1,37 @@
+{
+  "chinese": "我写了这本书。",
+  "english": "I wrote this book.",
+  "pinyin": "wǒ xiě le zhè běn shū。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "写",
+      "en": "wrote",
+      "pi": "xiě"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "书",
+      "en": "",
+      "pi": "shū"
+    }
+  ]
+}

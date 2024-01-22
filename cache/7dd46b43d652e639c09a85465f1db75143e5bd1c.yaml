@@ -1,0 +1,17 @@
+{
+  "chinese": "我们弄丢了车，Ｔｏｍ帮我们找了回来。",
+  "english": "We lost the car, and Tom helped us find it back.",
+  "pinyin": "wǒ men nòng diū le chē, Tom bāng wǒ men zhǎo le huí lái.",
+  "words": [
+    {"ch": "我们", "en": "we", "pi": "wǒ men"},
+    {"ch": "弄丢", "en": "lost", "pi": "nòng diū"},
+    {"ch": "了", "en": "", "pi": "le"},
+    {"ch": "车", "en": "car", "pi": "chē"},
+    {"ch": "Ｔｏｍ", "en": "Tom", "pi": "Tom"},
+    {"ch": "帮", "en": "help", "pi": "bāng"},
+    {"ch": "我们", "en": "us", "pi": "wǒ men"},
+    {"ch": "找", "en": "find", "pi": "zhǎo"},
+    {"ch": "了", "en": "", "pi": "le"},
+    {"ch": "回来", "en": "back", "pi": "huí lái"}
+  ]
+}

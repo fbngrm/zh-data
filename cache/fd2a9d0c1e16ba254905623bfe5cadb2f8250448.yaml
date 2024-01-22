@@ -1,0 +1,32 @@
+{
+  "chinese": "猫从树篱穿过去。",
+  "english": "The cat walked through the hedge.",
+  "pinyin": "Māo cóng shūlí chuānguò qù.",
+  "words": [
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    },
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "树篱",
+      "en": "hedge",
+      "pi": "shūlí"
+    },
+    {
+      "ch": "穿过",
+      "en": "walk through",
+      "pi": "chuānguò"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    }
+  ]
+}

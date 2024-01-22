@@ -1,0 +1,32 @@
+{
+  "chinese": "我昨天去那儿了。",
+  "english": "I went there yesterday.",
+  "pinyin": "wǒ zuótiān qù nàrle.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "那儿",
+      "en": "there",
+      "pi": "nàr"
+    },
+    {
+      "ch": "了",
+      "en": "finish",
+      "pi": "le"
+    }
+  ]
+}

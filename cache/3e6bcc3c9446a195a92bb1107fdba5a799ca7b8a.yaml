@@ -1,0 +1,42 @@
+{
+  "chinese": "我不允许有人在课上睡觉。",
+  "english": "I don't allow anyone to sleep in class.",
+  "pinyin": "wǒ bù yǔnxǔ yǒurén zài kè shàng shuìjiào.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "允许",
+      "en": "allow",
+      "pi": "yǔnxǔ"
+    },
+    {
+      "ch": "有人",
+      "en": "anyone",
+      "pi": "yǒurén"
+    },
+    {
+      "ch": "在",
+      "en": "to",
+      "pi": "zài"
+    },
+    {
+      "ch": "课上",
+      "en": "in class",
+      "pi": "kè shàng"
+    },
+    {
+      "ch": "睡觉",
+      "en": "sleep",
+      "pi": "shuìjiào"
+    }
+  ]
+}

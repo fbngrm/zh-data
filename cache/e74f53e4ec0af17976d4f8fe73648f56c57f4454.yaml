@@ -1,0 +1,58 @@
+{
+  "sentences": [
+    {
+      "chinese": "Ｔｏｍ偷我的钱包。",
+      "english": "Tom stole my wallet.",
+      "pinyin": "Ｔｏｍ tōu wǒ de qiánbāo.",
+      "words": [
+        {
+          "ch": "Ｔｏｍ",
+          "en": "Tom",
+          "pi": "Ｔｏｍ"
+        },
+        {
+          "ch": "偷",
+          "en": "stole",
+          "pi": "tōu"
+        },
+        {
+          "ch": "我的",
+          "en": "my",
+          "pi": "wǒ de"
+        },
+        {
+          "ch": "钱包",
+          "en": "wallet",
+          "pi": "qiánbāo"
+        }
+      ]
+    },
+    {
+      "chinese": "是肯定的吗？",
+      "english": "Is it certain?",
+      "pinyin": "Shì kěndìng de ma?",
+      "words": [
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "Shì"
+        },
+        {
+          "ch": "肯定",
+          "en": "certain",
+          "pi": "kěndìng"
+        },
+        {
+          "ch": "的",
+          "en": "it",
+          "pi": "de"
+        },
+        {
+          "ch": "吗",
+          "en": "?",
+          "pi": "ma"
+        }
+      ]
+    }
+  ]
+}

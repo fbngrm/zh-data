@@ -1,0 +1,18 @@
+{ "chinese": "我们优化了数据库索引，结果系统效率提高了５０%。", 
+  "english": "We optimized the database indexes and as a result, the system efficiency has increased by 50%.",
+  "pinyin": "wǒ men yōu huà le shù jù kù suǒ yǐn, jié guǒ xì tǒng xiào lǜ tī gāo le wǔ shí bǎi fēn zhī wǔ。",
+  "words": [
+    { "ch": "我们", "en": "We", "pi": "wǒ men" },
+    { "ch": "优化", "en": "optimize", "pi": "yōu huà" },
+    { "ch": "了", "en": "the", "pi": "le" },
+    { "ch": "数据库", "en": "database", "pi": "shù jù kù" },
+    { "ch": "索引", "en": "indexes", "pi": "suǒ yǐn" },
+    { "ch": "，", "en": ",", "pi": "，" },
+    { "ch": "结果", "en": "result", "pi": "jié guǒ" },
+    { "ch": "系统", "en": "system", "pi": "xì tǒng" },
+    { "ch": "效率", "en": "efficiency", "pi": "xiào lǜ" },
+    { "ch": "提高", "en": "increase", "pi": "tī gāo" },
+    { "ch": "了", "en": "by", "pi": "le" },
+    { "ch": "５０%", "en": "50%", "pi": "wǔ shí bǎi fēn zhī wǔ" }
+  ]
+}

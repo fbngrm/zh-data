@@ -1,0 +1,37 @@
+{
+  "chinese": "我认为这不是汤姆的伞。",
+  "english": "I think this is not Tom's umbrella.",
+  "pinyin": "wǒ rènwéi zhè bùshì tāngmǔ de sǎn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "认为",
+      "en": "think",
+      "pi": "rènwéi"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "不是",
+      "en": "not",
+      "pi": "bùshì"
+    },
+    {
+      "ch": "汤姆的",
+      "en": "Tom's",
+      "pi": "tāngmǔ de"
+    },
+    {
+      "ch": "伞",
+      "en": "umbrella",
+      "pi": "sǎn"
+    }
+  ]
+}

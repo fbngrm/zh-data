@@ -1,0 +1,37 @@
+{
+  "chinese": "两个学生都没通过考试。",
+  "english": "Both students didn't pass the exam.",
+  "pinyin": "Liǎng gè xuéshēng dōu méi tōngguò kǎoshì.",
+  "words": [
+    {
+      "ch": "两个",
+      "en": "both",
+      "pi": "liǎng gè"
+    },
+    {
+      "ch": "学生",
+      "en": "students",
+      "pi": "xuéshēng"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "没",
+      "en": "didn't",
+      "pi": "méi"
+    },
+    {
+      "ch": "通过",
+      "en": "pass",
+      "pi": "tōngguò"
+    },
+    {
+      "ch": "考试",
+      "en": "exam",
+      "pi": "kǎoshì"
+    }
+  ]
+}

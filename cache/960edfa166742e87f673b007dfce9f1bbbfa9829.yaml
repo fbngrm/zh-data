@@ -1,0 +1,14 @@
+{
+  "chinese": "我要是知道就告诉你了。",
+  "english": "If I knew, I would tell you.",
+  "pinyin": "wǒ yàoshi zhīdào jiù gàosù nǐle.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "要是", "en": "if", "pi": "yàoshi"},
+    {"ch": "知道", "en": "know", "pi": "zhīdào"},
+    {"ch": "就", "en": "then", "pi": "jiù"},
+    {"ch": "告诉", "en": "tell", "pi": "gàosù"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "了", "en": "already", "pi": "le"}
+  ]
+}

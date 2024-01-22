@@ -1,0 +1,15 @@
+{
+  "chinese": "老師把學生狠狠地罵了一頓。",
+  "english": "The teacher scolded the student harshly.",
+  "pinyin": "lǎo shī bǎ xué shēng hěn hěn de mà le yī dùn。",
+  "words": [
+    {"ch": "老師", "en": "teacher", "pi": "lǎo shī"},
+    {"ch": "把", "en": "take", "pi": "bǎ"},
+    {"ch": "學生", "en": "student", "pi": "xué shēng"},
+    {"ch": "狠狠", "en": "harshly", "pi": "hěn hěn"},
+    {"ch": "地", "en": "adverbial particle", "pi": "de"},
+    {"ch": "罵", "en": "scold", "pi": "mà"},
+    {"ch": "了", "en": "particle", "pi": "le"},
+    {"ch": "一頓", "en": "a while", "pi": "yī dùn"}
+  ]
+}

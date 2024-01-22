@@ -1,0 +1,13 @@
+{
+  "chinese": "听说大数据技术现在很热门。",
+  "english": "I heard that big data technology is very popular now.",
+  "pinyin": "tīng shuō dà shù jù jì shù xiàn zài hěn rè mén.",
+  "words": [
+    {"ch": "听说", "en": "I heard", "pi": "tīng shuō"},
+    {"ch": "大数据", "en": "big data", "pi": "dà shù jù"},
+    {"ch": "技术", "en": "technology", "pi": "jì shù"},
+    {"ch": "现在", "en": "now", "pi": "xiàn zài"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "热门", "en": "popular", "pi": "rè mén"}
+  ]
+}

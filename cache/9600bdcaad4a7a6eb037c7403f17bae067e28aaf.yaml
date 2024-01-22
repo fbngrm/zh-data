@@ -1,0 +1,37 @@
+{
+  "chinese": "想吃一点巧克力奶酪吗？",
+  "english": "Do you want to have some chocolate cheesecake?",
+  "pinyin": "xiǎng chī yī diǎn qiǎo kè lì nǎi lào ma?",
+  "words": [
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "一点",
+      "en": "some",
+      "pi": "yī diǎn"
+    },
+    {
+      "ch": "巧克力",
+      "en": "chocolate",
+      "pi": "qiǎo kè lì"
+    },
+    {
+      "ch": "奶酪",
+      "en": "cheesecake",
+      "pi": "nǎi lào"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

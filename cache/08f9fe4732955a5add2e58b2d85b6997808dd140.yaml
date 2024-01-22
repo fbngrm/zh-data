@@ -1,0 +1,42 @@
+{
+  "chinese": "请你写信给我在（电子邮件地址）。",
+  "english": "Please write a letter to me at (email address).",
+  "pinyin": "qǐng nǐ xiě xìn gěi wǒ zài (diànzǐ yóujiàn dìzhǐ)。",
+  "words": [
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "写信",
+      "en": "write a letter",
+      "pi": "xiě xìn"
+    },
+    {
+      "ch": "给",
+      "en": "to",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "电子邮件地址",
+      "en": "email address",
+      "pi": "(diànzǐ yóujiàn dìzhǐ)"
+    }
+  ]
+}

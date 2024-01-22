@@ -1,0 +1,32 @@
+{
+  "chinese": "我不喜欢那家伙。",
+  "english": "I don't like that guy.",
+  "pinyin": "wǒ bù xǐhuān nà jiāhuo.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "家伙",
+      "en": "guy",
+      "pi": "jiāhuo"
+    }
+  ]
+}

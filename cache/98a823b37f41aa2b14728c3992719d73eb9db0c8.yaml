@@ -1,0 +1,37 @@
+{
+  "chinese": "这家旅馆非常靠近湖。",
+  "english": "This hotel is very close to the lake.",
+  "pinyin": "zhè jiā lǚ guǎn fēi cháng kào jìn hú。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "家",
+      "en": "hotel",
+      "pi": "jiā"
+    },
+    {
+      "ch": "旅馆",
+      "en": "hotel",
+      "pi": "lǚ guǎn"
+    },
+    {
+      "ch": "非常",
+      "en": "very",
+      "pi": "fēi cháng"
+    },
+    {
+      "ch": "靠近",
+      "en": "close to",
+      "pi": "kào jìn"
+    },
+    {
+      "ch": "湖",
+      "en": "lake",
+      "pi": "hú"
+    }
+  ]
+}

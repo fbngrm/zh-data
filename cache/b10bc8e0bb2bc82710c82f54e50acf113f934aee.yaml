@@ -1,0 +1,32 @@
+{
+  "chinese": "这是正确的事情。",
+  "english": "This is the right thing.",
+  "pinyin": "zhè shì zhèngquè de shìqíng.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "正确",
+      "en": "right",
+      "pi": "zhèngquè"
+    },
+    {
+      "ch": "的",
+      "en": "the",
+      "pi": "de"
+    },
+    {
+      "ch": "事情",
+      "en": "thing",
+      "pi": "shìqíng"
+    }
+  ]
+}

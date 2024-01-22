@@ -1,0 +1,17 @@
+{
+  "chinese": "我弟弟夏天的时候每天都会去游泳。",
+  "english": "My younger brother goes swimming every day in the summer.",
+  "pinyin": "wǒ dìdì xiàtiān de shíhou měitiān dōu huì qù yóuyǒng。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "弟弟", "en": "younger brother", "pi": "dìdì"},
+    {"ch": "夏天", "en": "summer", "pi": "xiàtiān"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "时候", "en": "time", "pi": "shíhou"},
+    {"ch": "每天", "en": "every day", "pi": "měitiān"},
+    {"ch": "都", "en": "always", "pi": "dōu"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "游泳", "en": "swimming", "pi": "yóuyǒng"}
+  ]
+}

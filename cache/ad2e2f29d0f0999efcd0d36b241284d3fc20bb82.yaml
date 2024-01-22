@@ -1,0 +1,37 @@
+{
+  "chinese": "你被老师骂了吗？",
+  "english": "Did the teacher scold you?",
+  "pinyin": "nǐ bèi lǎo shī mà le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "被",
+      "en": "by",
+      "pi": "bèi"
+    },
+    {
+      "ch": "老师",
+      "en": "teacher",
+      "pi": "lǎo shī"
+    },
+    {
+      "ch": "骂",
+      "en": "scold",
+      "pi": "mà"
+    },
+    {
+      "ch": "了",
+      "en": "did",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

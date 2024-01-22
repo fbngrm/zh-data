@@ -1,0 +1,15 @@
+{
+  "chinese": "我敢说那车站一定有计程车。",
+  "english": "I dare say there must be a taxi at that station.",
+  "pinyin": "wǒ gǎn shuō nà chē zhàn yī dìng yǒu jì chéng chē。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "敢", "en": "dare", "pi": "gǎn"},
+    {"ch": "说", "en": "say", "pi": "shuō"},
+    {"ch": "那", "en": "that", "pi": "nà"},
+    {"ch": "车站", "en": "station", "pi": "chē zhàn"},
+    {"ch": "一定", "en": "must", "pi": "yī dìng"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "计程车", "en": "taxi", "pi": "jì chéng chē"}
+  ]
+}

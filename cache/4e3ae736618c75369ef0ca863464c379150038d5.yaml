@@ -1,0 +1,42 @@
+{
+  "chinese": "他们的名字是汤姆和肯。",
+  "english": "Their names are Tom and Ken.",
+  "pinyin": "Tāmen de míngzì shì Tāngmǔ hé Kěn.",
+  "words": [
+    {
+      "ch": "他们",
+      "en": "They",
+      "pi": "Tāmen"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "名字",
+      "en": "names",
+      "pi": "míngzì"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "肯",
+      "en": "Ken",
+      "pi": "Kěn"
+    }
+  ]
+}

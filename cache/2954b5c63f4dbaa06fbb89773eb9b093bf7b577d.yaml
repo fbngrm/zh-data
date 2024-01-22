@@ -1,0 +1,16 @@
+{
+  "chinese": "約翰問瑪莉下午想不想一起去買東西。",
+  "english": "John asks Mary if she wants to go shopping together in the afternoon.",
+  "pinyin": "yuēhàn wèn mǎlì xiàwǔ xiǎng bùxiǎng yīqǐ qù mǎi dōngxī.",
+  "words": [
+    { "ch": "約翰", "en": "John", "pi": "yuēhàn" },
+    { "ch": "問", "en": "asks", "pi": "wèn" },
+    { "ch": "瑪莉", "en": "Mary", "pi": "mǎlì" },
+    { "ch": "下午", "en": "afternoon", "pi": "xiàwǔ" },
+    { "ch": "想不想", "en": "if she wants", "pi": "xiǎng bùxiǎng" },
+    { "ch": "一起", "en": "together", "pi": "yīqǐ" },
+    { "ch": "去", "en": "to", "pi": "qù" },
+    { "ch": "買", "en": "buy", "pi": "mǎi" },
+    { "ch": "東西", "en": "things", "pi": "dōngxī" }
+  ]
+}

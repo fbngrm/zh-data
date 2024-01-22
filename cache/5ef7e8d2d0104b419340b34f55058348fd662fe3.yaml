@@ -1,0 +1,32 @@
+{
+  "chinese": "你朋友几点钟回家?",
+  "english": "What time does your friend go home?",
+  "pinyin": "Nǐ péngyǒu jǐ diǎnzhōng huíjiā?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "朋友",
+      "en": "friend",
+      "pi": "péngyǒu"
+    },
+    {
+      "ch": "几",
+      "en": "how many",
+      "pi": "jǐ"
+    },
+    {
+      "ch": "点钟",
+      "en": "o'clock",
+      "pi": "diǎnzhōng"
+    },
+    {
+      "ch": "回家",
+      "en": "go home",
+      "pi": "huíjiā"
+    }
+  ]
+}

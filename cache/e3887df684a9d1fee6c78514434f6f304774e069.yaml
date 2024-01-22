@@ -1,0 +1,37 @@
+{
+  "chinese": "她在下一个站下了车。",
+  "english": "She got off the train at the next station.",
+  "pinyin": "tā zài xià yī gè zhàn xià le chē。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "下一个",
+      "en": "next",
+      "pi": "xià yī gè"
+    },
+    {
+      "ch": "站",
+      "en": "station",
+      "pi": "zhàn"
+    },
+    {
+      "ch": "下了",
+      "en": "got off",
+      "pi": "xià le"
+    },
+    {
+      "ch": "车",
+      "en": "train",
+      "pi": "chē"
+    }
+  ]
+}

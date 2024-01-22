@@ -1,0 +1,15 @@
+{
+  "chinese": "汤姆未能记得他在早餐吃了什么。",
+  "english": "Tom couldn't remember what he had for breakfast.",
+  "pinyin": "Tāng mǔ wèi néng jì dé tā zài zǎo cān chīle shénme.",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ"},
+    {"ch": "未能", "en": "couldn't", "pi": "wèi néng"},
+    {"ch": "记得", "en": "remember", "pi": "jì dé"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "早餐", "en": "breakfast", "pi": "zǎo cān"},
+    {"ch": "吃了", "en": "had", "pi": "chīle"},
+    {"ch": "什么", "en": "what", "pi": "shénme"}
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我需要你帮我找汤姆。",
+  "english": "I need you to help me find Tom.",
+  "pinyin": "wǒ xū yào nǐ bāng wǒ zhǎo Tāng mǔ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "需要",
+      "en": "need",
+      "pi": "xū yào"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "帮",
+      "en": "help",
+      "pi": "bāng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "找",
+      "en": "find",
+      "pi": "zhǎo"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    }
+  ]
+}

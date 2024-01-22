@@ -1,0 +1,37 @@
+{
+  "chinese": "你知道他们来自哪里吗？",
+  "english": "Do you know where they come from?",
+  "pinyin": "nǐ zhīdào tāmen láizì nǎlǐ ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "他们",
+      "en": "they",
+      "pi": "tāmen"
+    },
+    {
+      "ch": "来自",
+      "en": "come from",
+      "pi": "láizì"
+    },
+    {
+      "ch": "哪里",
+      "en": "where",
+      "pi": "nǎlǐ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

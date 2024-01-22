@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆没有朋友可以一起玩耍。",
+  "english": "Tom has no friends to play with.",
+  "pinyin": "Tāng mǔ méiyǒu péngyǒu kěyǐ yīqǐ wánshuǎ.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "没有",
+      "en": "has no",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "朋友",
+      "en": "friends",
+      "pi": "péngyǒu"
+    },
+    {
+      "ch": "可以",
+      "en": "to",
+      "pi": "kěyǐ"
+    },
+    {
+      "ch": "一起",
+      "en": "play",
+      "pi": "yīqǐ"
+    },
+    {
+      "ch": "玩耍",
+      "en": "with",
+      "pi": "wánshuǎ"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "chinese": "明天早上记得去寄这封信。",
+  "english": "Remember to mail this letter tomorrow morning.",
+  "pinyin": "Míngtiān zǎoshang jìde qù jì zhè fēng xìn.",
+  "words": [
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎoshang"
+    },
+    {
+      "ch": "记得",
+      "en": "remember",
+      "pi": "jìde"
+    },
+    {
+      "ch": "去",
+      "en": "to go",
+      "pi": "qù"
+    },
+    {
+      "ch": "寄",
+      "en": "to mail",
+      "pi": "jì"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "封",
+      "en": "measure word for letters",
+      "pi": "fēng"
+    },
+    {
+      "ch": "信",
+      "en": "letter",
+      "pi": "xìn"
+    }
+  ]
+}

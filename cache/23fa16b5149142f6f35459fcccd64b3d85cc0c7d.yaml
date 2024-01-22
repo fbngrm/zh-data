@@ -1,0 +1,17 @@
+{
+  "chinese": "你应该请Green先生帮你纠正英文发音。",
+  "english": "You should ask Mr. Green to help you correct your English pronunciation.",
+  "pinyin": "nǐ yīnggāi qǐng Green xiānshēng bāng nǐ jiūzhèng yīngwén fāyīn。",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "应该", "en": "should", "pi": "yīnggāi"},
+    {"ch": "请", "en": "ask", "pi": "qǐng"},
+    {"ch": "Green", "en": "Green", "pi": "Green"},
+    {"ch": "先生", "en": "Mr.", "pi": "xiānshēng"},
+    {"ch": "帮", "en": "to help", "pi": "bāng"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "纠正", "en": "to correct", "pi": "jiūzhèng"},
+    {"ch": "英文", "en": "English", "pi": "yīngwén"},
+    {"ch": "发音", "en": "pronunciation", "pi": "fāyīn"}
+  ]
+}

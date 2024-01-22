@@ -1,0 +1,32 @@
+{
+  "chinese": "这封信寄错地方了。",
+  "english": "This letter was sent to the wrong place.",
+  "pinyin": "zhè fēng xìn jì cuò dì fāng le.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "封信",
+      "en": "letter",
+      "pi": "fēng xìn"
+    },
+    {
+      "ch": "寄错",
+      "en": "sent to the wrong",
+      "pi": "jì cuò"
+    },
+    {
+      "ch": "地方",
+      "en": "place",
+      "pi": "dì fāng"
+    },
+    {
+      "ch": "了",
+      "en": "was",
+      "pi": "le"
+    }
+  ]
+}

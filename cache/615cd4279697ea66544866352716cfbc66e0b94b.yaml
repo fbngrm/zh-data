@@ -1,0 +1,32 @@
+{
+  "chinese": "你有三只猫。",
+  "english": "You have three cats.",
+  "pinyin": "nǐ yǒu sān zhī māo.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "三",
+      "en": "three",
+      "pi": "sān"
+    },
+    {
+      "ch": "只",
+      "en": "measure word for animals",
+      "pi": "zhī"
+    },
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    }
+  ]
+}

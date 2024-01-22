@@ -1,0 +1,14 @@
+{
+  "chinese": "我们要问问汤姆，看看他怎么想。",
+  "english": "We want to ask Tom and see what he thinks.",
+  "pinyin": "wǒmen yào wèn wèn tāng mǔ, kàn kàn tā zěnme xiǎng。",
+  "words": [
+    {"ch": "我们", "en": "We", "pi": "wǒmen"},
+    {"ch": "要问问", "en": "want to ask", "pi": "yào wèn wèn"},
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "看看", "en": "see", "pi": "kàn kàn"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "怎么", "en": "how", "pi": "zěnme"},
+    {"ch": "想", "en": "thinks", "pi": "xiǎng"}
+  ]
+}

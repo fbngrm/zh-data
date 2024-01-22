@@ -1,0 +1,32 @@
+{
+  "chinese": "我接种了流感疫苗。",
+  "english": "I received the flu vaccine.",
+  "pinyin": "wǒ jiē zhòng le liú gǎn yì miáo。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "接种",
+      "en": "received",
+      "pi": "jiē zhòng"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "流感",
+      "en": "flu",
+      "pi": "liú gǎn"
+    },
+    {
+      "ch": "疫苗",
+      "en": "vaccine",
+      "pi": "yì miáo"
+    }
+  ]
+}

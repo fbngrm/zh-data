@@ -1,0 +1,42 @@
+{
+  "chinese": "我是在北京学习的中文。",
+  "english": "I am studying Chinese in Beijing.",
+  "pinyin": "wǒ shì zài běijīng xuéxí de zhōngwén.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "是",
+      "en": "am",
+      "pi": "shì"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "北京",
+      "en": "Beijing",
+      "pi": "běijīng"
+    },
+    {
+      "ch": "学习",
+      "en": "study",
+      "pi": "xuéxí"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "中文",
+      "en": "Chinese",
+      "pi": "zhōngwén"
+    }
+  ]
+}

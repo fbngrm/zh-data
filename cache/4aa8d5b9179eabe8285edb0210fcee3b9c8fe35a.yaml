@@ -1,0 +1,32 @@
+{
+  "chinese": "快到晚饭时间了。",
+  "english": "It's almost dinner time.",
+  "pinyin": "kuài dào wǎn fàn shí jiān le。",
+  "words": [
+    {
+      "ch": "快",
+      "en": "fast",
+      "pi": "kuài"
+    },
+    {
+      "ch": "到",
+      "en": "to",
+      "pi": "dào"
+    },
+    {
+      "ch": "晚饭",
+      "en": "dinner",
+      "pi": "wǎn fàn"
+    },
+    {
+      "ch": "时间",
+      "en": "time",
+      "pi": "shí jiān"
+    },
+    {
+      "ch": "了",
+      "en": "(indicating completion or change of state)",
+      "pi": "le"
+    }
+  ]
+}

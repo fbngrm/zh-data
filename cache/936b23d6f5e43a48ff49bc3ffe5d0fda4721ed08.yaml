@@ -1,0 +1,32 @@
+{
+  "chinese": "我从来没有坐过飞机。",
+  "english": "I have never taken a plane before.",
+  "pinyin": "wǒ cóng lái méiyǒu zuò guò fēijī.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "从来",
+      "en": "never",
+      "pi": "cóng lái"
+    },
+    {
+      "ch": "没有",
+      "en": "have not",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "坐过",
+      "en": "taken",
+      "pi": "zuò guò"
+    },
+    {
+      "ch": "飞机",
+      "en": "plane",
+      "pi": "fēijī"
+    }
+  ]
+}

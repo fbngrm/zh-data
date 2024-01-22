@@ -1,0 +1,42 @@
+{
+  "chinese": "我不想去汤姆的聚会。",
+  "english": "I don't want to go to Tom's party.",
+  "pinyin": "wǒ bù xiǎng qù tāng mǔ de jù huì。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "去",
+      "en": "to go",
+      "pi": "qù"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "的",
+      "en": "'s",
+      "pi": "de"
+    },
+    {
+      "ch": "聚会",
+      "en": "party",
+      "pi": "jù huì"
+    }
+  ]
+}

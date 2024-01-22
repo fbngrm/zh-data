@@ -1,0 +1,15 @@
+{
+  "chinese": "爸爸出去了，但妈妈在家。",
+  "english": "Dad went out, but Mom is at home.",
+  "pinyin": "Bàba chūqù le, dàn māmā zài jiā。",
+  "words": [
+    { "ch": "爸爸", "en": "Dad", "pi": "bàba" },
+    { "ch": "出去", "en": "went out", "pi": "chūqù" },
+    { "ch": "了", "en": "", "pi": "le" },
+    { "ch": "，", "en": ",", "pi": "，" },
+    { "ch": "但", "en": "but", "pi": "dàn" },
+    { "ch": "妈妈", "en": "Mom", "pi": "māmā" },
+    { "ch": "在家", "en": "is at home", "pi": "zài jiā" },
+    { "ch": "。", "en": ".", "pi": "。" }
+  ]
+}

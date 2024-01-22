@@ -1,0 +1,14 @@
+{
+  "chinese": "雨讓我們沒有辦法去散步。",
+  "english": "The rain prevents us from going for a walk.",
+  "pinyin": "yǔ ràng wǒmen méiyǒu bànfǎ qù sànbù.",
+  "words": [
+    {"ch": "雨", "en": "rain", "pi": "yǔ"},
+    {"ch": "讓", "en": "allow, let", "pi": "ràng"},
+    {"ch": "我們", "en": "us", "pi": "wǒmen"},
+    {"ch": "沒有", "en": "no, not have", "pi": "méiyǒu"},
+    {"ch": "辦法", "en": "way, method", "pi": "bànfǎ"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "散步", "en": "take a walk", "pi": "sànbù"}
+  ]
+}

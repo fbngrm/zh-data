@@ -1,0 +1,23 @@
+{
+  "chinese": "这个新的Ｊａｖａ项目完全与我无关，因为我是一个ＰＨＰ程序员。",
+  "english": "This new Java project has nothing to do with me because I am a PHP programmer.",
+  "pinyin": "zhè gè xīn de Jāvā xiàngmù wánquán yǔ wǒ wúguān, yīnwèi wǒ shì yīgè PHP chéngxùyuán.",
+  "words": [
+    {"ch": "这个", "en": "This", "pi": "zhè gè"},
+    {"ch": "新的", "en": "new", "pi": "xīn de"},
+    {"ch": "Ｊａｖａ", "en": "Java", "pi": "Jāvā"},
+    {"ch": "项目", "en": "project", "pi": "xiàng mù"},
+    {"ch": "完全", "en": "completely", "pi": "wán quán"},
+    {"ch": "与", "en": "with", "pi": "yǔ"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "无关", "en": "nothing to do with", "pi": "wú guān"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "因为", "en": "because", "pi": "yīn wèi"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "是", "en": "am", "pi": "shì"},
+    {"ch": "一个", "en": "a", "pi": "yī gè"},
+    {"ch": "ＰＨＰ", "en": "PHP", "pi": "PHP"},
+    {"ch": "程序员", "en": "programmer", "pi": "chéng xù yuán"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}

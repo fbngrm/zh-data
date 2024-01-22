@@ -1,0 +1,42 @@
+{
+  "chinese": "你的新车是甚么颜色的？",
+  "english": "What color is your new car?",
+  "pinyin": "Nǐ de xīn chē shì shénme yánsè de?",
+  "words": [
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "新车",
+      "en": "new car",
+      "pi": "xīn chē"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "甚么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "颜色",
+      "en": "color",
+      "pi": "yánsè"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "?"
+    }
+  ]
+}

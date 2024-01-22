@@ -1,0 +1,13 @@
+{
+  "chinese": "我觉得汤姆今年不会毕业。",
+  "english": "I don't think Tom will graduate this year.",
+  "pinyin": "wǒ jué de Tāng mǔ jīn nián bú huì bì yè.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "觉得", "en": "think", "pi": "jué de"},
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ"},
+    {"ch": "今年", "en": "this year", "pi": "jīn nián"},
+    {"ch": "不会", "en": "will not", "pi": "bú huì"},
+    {"ch": "毕业", "en": "graduate", "pi": "bì yè"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "你不想吃饭吗？",
+  "english": "Don't you want to eat?",
+  "pinyin": "nǐ bù xiǎng chī fàn ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "吃饭",
+      "en": "to eat",
+      "pi": "chī fàn"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

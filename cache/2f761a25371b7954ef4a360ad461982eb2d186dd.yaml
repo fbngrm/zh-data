@@ -1,0 +1,42 @@
+{
+  "chinese": "你确定要自己做这个吗？",
+  "english": "Are you sure you want to do this yourself?",
+  "pinyin": "nǐ quèdìng yào zìjǐ zuò zhège ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "确定",
+      "en": "sure",
+      "pi": "quèdìng"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "自己",
+      "en": "yourself",
+      "pi": "zìjǐ"
+    },
+    {
+      "ch": "做",
+      "en": "to do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhège"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

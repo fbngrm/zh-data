@@ -1,0 +1,41 @@
+{
+  "sentences": [
+    {
+      "chinese": "第一组早上学习，第二组晚上学习。",
+      "english": "The first group studies in the morning, the second group studies in the evening.",
+      "pinyin": "Dì yī zǔ zǎoshang xuéxí, dì èr zǔ wǎnshàng xuéxí。",
+      "words": [
+        {
+          "ch": "第一组",
+          "en": "first group",
+          "pi": "dì yī zǔ"
+        },
+        {
+          "ch": "早上",
+          "en": "morning",
+          "pi": "zǎoshang"
+        },
+        {
+          "ch": "学习",
+          "en": "study",
+          "pi": "xuéxí"
+        },
+        {
+          "ch": "第二组",
+          "en": "second group",
+          "pi": "dì èr zǔ"
+        },
+        {
+          "ch": "晚上",
+          "en": "evening",
+          "pi": "wǎnshàng"
+        },
+        {
+          "ch": "学习",
+          "en": "study",
+          "pi": "xuéxí"
+        }
+      ]
+    }
+  ]
+}

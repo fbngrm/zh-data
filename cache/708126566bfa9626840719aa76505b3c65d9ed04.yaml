@@ -1,0 +1,32 @@
+{
+  "chinese": "我不认识那个人。",
+  "english": "I don't know that person.",
+  "pinyin": "wǒ bù rèn shí nà gè rén.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "认识",
+      "en": "know",
+      "pi": "rèn shí"
+    },
+    {
+      "ch": "那个",
+      "en": "that",
+      "pi": "nà gè"
+    },
+    {
+      "ch": "人",
+      "en": "person",
+      "pi": "rén"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆在超市偶遇玛丽。",
+  "english": "Tom bumped into Mary at the supermarket.",
+  "pinyin": "Tāng mǔ zài chāo shì ǒu yù Mǎ lì.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "超市",
+      "en": "supermarket",
+      "pi": "chāo shì"
+    },
+    {
+      "ch": "偶遇",
+      "en": "bump into",
+      "pi": "ǒu yù"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎ lì"
+    }
+  ]
+}

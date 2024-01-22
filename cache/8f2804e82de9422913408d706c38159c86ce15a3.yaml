@@ -1,0 +1,85 @@
+{
+  "sentences": [
+    {
+      "chinese": "爱你们的同学！",
+      "english": "Love your classmates!",
+      "pinyin": "ài nǐmen de tóngxué!",
+      "words": [
+        {
+          "ch": "爱",
+          "en": "Love",
+          "pi": "ài"
+        },
+        {
+          "ch": "你们",
+          "en": "your",
+          "pi": "nǐmen"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": "de"
+        },
+        {
+          "ch": "同学",
+          "en": "classmates",
+          "pi": "tóngxué"
+        }
+      ]
+    },
+    {
+      "chinese": "爱你们的父母！",
+      "english": "Love your parents!",
+      "pinyin": "ài nǐmen de fùmǔ!",
+      "words": [
+        {
+          "ch": "爱",
+          "en": "Love",
+          "pi": "ài"
+        },
+        {
+          "ch": "你们",
+          "en": "your",
+          "pi": "nǐmen"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": "de"
+        },
+        {
+          "ch": "父母",
+          "en": "parents",
+          "pi": "fùmǔ"
+        }
+      ]
+    },
+    {
+      "chinese": "爱你们的国家！",
+      "english": "Love your country!",
+      "pinyin": "ài nǐmen de guójiā!",
+      "words": [
+        {
+          "ch": "爱",
+          "en": "Love",
+          "pi": "ài"
+        },
+        {
+          "ch": "你们",
+          "en": "your",
+          "pi": "nǐmen"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": "de"
+        },
+        {
+          "ch": "国家",
+          "en": "country",
+          "pi": "guójiā"
+        }
+      ]
+    }
+  ]
+}

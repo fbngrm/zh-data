@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆没时间完成报告。",
+  "english": "Tom doesn't have time to finish the report.",
+  "pinyin": "tāng mǔ méi shí jiān wán chéng bào gào.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "没",
+      "en": "doesn't have",
+      "pi": "méi"
+    },
+    {
+      "ch": "时间",
+      "en": "time",
+      "pi": "shí jiān"
+    },
+    {
+      "ch": "完成",
+      "en": "to finish",
+      "pi": "wán chéng"
+    },
+    {
+      "ch": "报告",
+      "en": "report",
+      "pi": "bào gào"
+    }
+  ]
+}

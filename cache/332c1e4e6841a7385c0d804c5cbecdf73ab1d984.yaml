@@ -1,0 +1,188 @@
+{
+  "sentences": [
+    {
+      "chinese": "汤姆，我得告诉你点事。我爱某个人。他的名字以Ｔ开头以Ｍ结尾。",
+      "english": "Tom, I have to tell you something. I love someone. His name starts with T and ends with M.",
+      "pinyin": "Tāng mǔ, wǒ děi gàosù nǐ diǎn shì. Wǒ ài mǒu gè rén. Tā de míngzì yǐ T kāitóu yǐ M jiéwěi.",
+      "words": [
+        {
+          "ch": "汤姆",
+          "en": "Tom",
+          "pi": "Tāng mǔ"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "得",
+          "en": "have to",
+          "pi": "děi"
+        },
+        {
+          "ch": "告诉",
+          "en": "tell",
+          "pi": "gàosù"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "点",
+          "en": "something",
+          "pi": "diǎn"
+        },
+        {
+          "ch": "事",
+          "en": "thing",
+          "pi": "shì"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "爱",
+          "en": "love",
+          "pi": "ài"
+        },
+        {
+          "ch": "某个",
+          "en": "someone",
+          "pi": "mǒu gè"
+        },
+        {
+          "ch": "人",
+          "en": "person",
+          "pi": "rén"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        },
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "的",
+          "en": "his",
+          "pi": "de"
+        },
+        {
+          "ch": "名字",
+          "en": "name",
+          "pi": "míngzì"
+        },
+        {
+          "ch": "以",
+          "en": "starts with",
+          "pi": "yǐ"
+        },
+        {
+          "ch": "Ｔ",
+          "en": "T",
+          "pi": "T"
+        },
+        {
+          "ch": "开头",
+          "en": "starts with",
+          "pi": "kāitóu"
+        },
+        {
+          "ch": "以",
+          "en": "ends with",
+          "pi": "yǐ"
+        },
+        {
+          "ch": "Ｍ",
+          "en": "M",
+          "pi": "M"
+        },
+        {
+          "ch": "结尾",
+          "en": "ends with",
+          "pi": "jiéwěi"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    },
+    {
+      "chinese": "呃，那能是谁？我认识吗？",
+      "english": "Hmm, who could it be? Do I know him?",
+      "pinyin": "È, nà néng shì shuí? Wǒ rènshi ma?",
+      "words": [
+        {
+          "ch": "呃",
+          "en": "Hmm",
+          "pi": "È"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": "，"
+        },
+        {
+          "ch": "那",
+          "en": "that",
+          "pi": "nà"
+        },
+        {
+          "ch": "能",
+          "en": "could",
+          "pi": "néng"
+        },
+        {
+          "ch": "是",
+          "en": "be",
+          "pi": "shì"
+        },
+        {
+          "ch": "谁",
+          "en": "who",
+          "pi": "shuí"
+        },
+        {
+          "ch": "？",
+          "en": "?",
+          "pi": "？"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "认识",
+          "en": "know",
+          "pi": "rènshi"
+        },
+        {
+          "ch": "吗",
+          "en": "?",
+          "pi": "ma"
+        },
+        {
+          "ch": "？",
+          "en": "?",
+          "pi": "？"
+        }
+      ]
+    }
+  ]
+}

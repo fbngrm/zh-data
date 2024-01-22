@@ -1,0 +1,19 @@
+{
+  "chinese": "我们讨论了三个小时，但却一点进展也没有。",
+  "english": "We discussed for three hours, but there was no progress at all.",
+  "pinyin": "wǒmen tǎolùn le sān ge xiǎoshí ，dàn què yīdiǎn jìnzhǎn yě méiyǒu。",
+  "words": [
+    { "ch": "我们", "en": "we", "pi": "wǒmen" },
+    { "ch": "讨论", "en": "discuss", "pi": "tǎolùn" },
+    { "ch": "了", "en": "particle indicating completed action", "pi": "le" },
+    { "ch": "三个", "en": "three", "pi": "sān ge" },
+    { "ch": "小时", "en": "hour", "pi": "xiǎoshí" },
+    { "ch": "，", "en": ",", "pi": "，" },
+    { "ch": "但却", "en": "but", "pi": "dàn què" },
+    { "ch": "一点", "en": "a bit", "pi": "yīdiǎn" },
+    { "ch": "进展", "en": "progress", "pi": "jìnzhǎn" },
+    { "ch": "也", "en": "also", "pi": "yě" },
+    { "ch": "没有", "en": "not have", "pi": "méiyǒu" },
+    { "ch": "。", "en": ".", "pi": "。" }
+  ]
+}

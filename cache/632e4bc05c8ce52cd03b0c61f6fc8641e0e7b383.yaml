@@ -1,0 +1,42 @@
+{
+  "chinese": "今天早上你为什么迟到了呢?",
+  "english": "Why were you late this morning?",
+  "pinyin": "Jīntiān zǎoshang nǐ wèishéme chídào le ne?",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎo shang"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "为什么",
+      "en": "why",
+      "pi": "wèi shén me"
+    },
+    {
+      "ch": "迟到",
+      "en": "late",
+      "pi": "chí dào"
+    },
+    {
+      "ch": "了",
+      "en": "finished",
+      "pi": "le"
+    },
+    {
+      "ch": "呢",
+      "en": "particle indicating a question",
+      "pi": "ne"
+    }
+  ]
+}

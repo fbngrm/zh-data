@@ -1,0 +1,32 @@
+{
+  "chinese": "我父亲爱吃比萨。",
+  "english": "My father loves to eat pizza.",
+  "pinyin": "wǒ fù qīn ài chī bǐ sà.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "父亲",
+      "en": "father",
+      "pi": "fù qīn"
+    },
+    {
+      "ch": "爱",
+      "en": "love",
+      "pi": "ài"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "比萨",
+      "en": "pizza",
+      "pi": "bǐ sà"
+    }
+  ]
+}

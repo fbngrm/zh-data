@@ -1,0 +1,37 @@
+{
+  "chinese": "去年我有五辆汽车。",
+  "english": "Last year I had five cars.",
+  "pinyin": "Qùnián wǒ yǒu wǔ liàng qìchē.",
+  "words": [
+    {
+      "ch": "去年",
+      "en": "last year",
+      "pi": "qùnián"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有",
+      "en": "had",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "五",
+      "en": "five",
+      "pi": "wǔ"
+    },
+    {
+      "ch": "辆",
+      "en": "cars",
+      "pi": "liàng"
+    },
+    {
+      "ch": "汽车",
+      "en": "cars",
+      "pi": "qìchē"
+    }
+  ]
+}

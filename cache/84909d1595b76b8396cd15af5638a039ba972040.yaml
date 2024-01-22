@@ -1,0 +1,37 @@
+{
+  "chinese": "請你給我一塊麵包。",
+  "english": "Please give me a piece of bread.",
+  "pinyin": "qǐng nǐ gěi wǒ yī kuài miànbāo.",
+  "words": [
+    {
+      "ch": "請",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "給",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "一塊",
+      "en": "a piece of",
+      "pi": "yī kuài"
+    },
+    {
+      "ch": "麵包",
+      "en": "bread",
+      "pi": "miànbāo"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "你自己做回家作业的吗?",
+  "english": "Do you do your homework by yourself?",
+  "pinyin": "nǐ zì jǐ zuò huí jiā zuò yè de ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "自己",
+      "en": "by oneself",
+      "pi": "zì jǐ"
+    },
+    {
+      "ch": "做",
+      "en": "to do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "回家",
+      "en": "to go home",
+      "pi": "huí jiā"
+    },
+    {
+      "ch": "作业",
+      "en": "homework",
+      "pi": "zuò yè"
+    },
+    {
+      "ch": "的",
+      "en": "particle used to indicate possession or description",
+      "pi": "de"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

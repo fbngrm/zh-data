@@ -1,0 +1,32 @@
+{
+    "chinese": "我们昨天有许多访客。",
+    "english": "We had many visitors yesterday.",
+    "pinyin": "wǒ men zuó tiān yǒu xǔ duō fǎng kè。",
+    "words": [
+        {
+            "ch": "我们",
+            "en": "We",
+            "pi": "wǒ men"
+        },
+        {
+            "ch": "昨天",
+            "en": "yesterday",
+            "pi": "zuó tiān"
+        },
+        {
+            "ch": "有",
+            "en": "had",
+            "pi": "yǒu"
+        },
+        {
+            "ch": "许多",
+            "en": "many",
+            "pi": "xǔ duō"
+        },
+        {
+            "ch": "访客",
+            "en": "visitors",
+            "pi": "fǎng kè"
+        }
+    ]
+}

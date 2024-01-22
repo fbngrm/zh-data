@@ -1,0 +1,32 @@
+{
+  "chinese": "王子在森林中迷了路。",
+  "english": "The prince got lost in the forest.",
+  "pinyin": "wáng zǐ zài sēn lín zhōng mí le lù。",
+  "words": [
+    {
+      "ch": "王子",
+      "en": "prince",
+      "pi": "wáng zǐ"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "森林",
+      "en": "forest",
+      "pi": "sēn lín"
+    },
+    {
+      "ch": "中",
+      "en": "middle",
+      "pi": "zhōng"
+    },
+    {
+      "ch": "迷了路",
+      "en": "got lost",
+      "pi": "mí le lù"
+    }
+  ]
+}

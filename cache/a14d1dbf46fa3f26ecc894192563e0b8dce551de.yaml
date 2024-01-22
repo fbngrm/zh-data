@@ -1,0 +1,37 @@
+{
+  "chinese": "我在错误的车站下车。",
+  "english": "I got off at the wrong station.",
+  "pinyin": "wǒ zài cuòwù de chēzhàn xiàchē。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "错误",
+      "en": "wrong",
+      "pi": "cuòwù"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "车站",
+      "en": "station",
+      "pi": "chēzhàn"
+    },
+    {
+      "ch": "下车",
+      "en": "get off",
+      "pi": "xiàchē"
+    }
+  ]
+}

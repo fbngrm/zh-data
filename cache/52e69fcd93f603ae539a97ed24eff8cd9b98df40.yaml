@@ -1,0 +1,32 @@
+{
+    "chinese": "我的钱包在哪儿？",
+    "english": "Where is my wallet?",
+    "pinyin": "Wǒ de qiánbāo zài nǎ'er?",
+    "words": [
+        {
+            "ch": "我的",
+            "en": "my",
+            "pi": "wǒ de"
+        },
+        {
+            "ch": "钱包",
+            "en": "wallet",
+            "pi": "qiánbāo"
+        },
+        {
+            "ch": "在",
+            "en": "is/at",
+            "pi": "zài"
+        },
+        {
+            "ch": "哪儿",
+            "en": "where",
+            "pi": "nǎ'er"
+        },
+        {
+            "ch": "？",
+            "en": "?",
+            "pi": "？"
+        }
+    ]
+}

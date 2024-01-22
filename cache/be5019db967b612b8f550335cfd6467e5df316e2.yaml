@@ -1,0 +1,67 @@
+{
+  "chinese": "昨天打電話的時候，她應該到家了。",
+  "english": "She should have arrived home when I called her yesterday.",
+  "pinyin": "Zuótiān dǎ diànhuà de shíhou, tā yīnggāi dào jiā le.",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "打",
+      "en": "to make",
+      "pi": "dǎ"
+    },
+    {
+      "ch": "電話",
+      "en": "phone call",
+      "pi": "diànhuà"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "時候",
+      "en": "when",
+      "pi": "shíhou"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": ","
+    },
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "應該",
+      "en": "should",
+      "pi": "yīnggāi"
+    },
+    {
+      "ch": "到",
+      "en": "to arrive",
+      "pi": "dào"
+    },
+    {
+      "ch": "家",
+      "en": "home",
+      "pi": "jiā"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "玛丽有一百多双鞋。",
+  "english": "Mary has over a hundred pairs of shoes.",
+  "pinyin": "mǎ lì yǒu yī bǎi duō shuāng xié。",
+  "words": [
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一百多",
+      "en": "over a hundred",
+      "pi": "yī bǎi duō"
+    },
+    {
+      "ch": "双",
+      "en": "pairs",
+      "pi": "shuāng"
+    },
+    {
+      "ch": "鞋",
+      "en": "shoes",
+      "pi": "xié"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "我知道这种动物的名字。",
+  "english": "I know the name of this animal.",
+  "pinyin": "wǒ zhī dào zhè zhǒng dòng wù de míng zì.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "这种",
+      "en": "this kind of",
+      "pi": "zhè zhǒng"
+    },
+    {
+      "ch": "动物",
+      "en": "animal",
+      "pi": "dòng wù"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míng zì"
+    }
+  ]
+}

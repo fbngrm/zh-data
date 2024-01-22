@@ -1,0 +1,37 @@
+{
+  "chinese": "我想买这本字典。",
+  "english": "I want to buy this dictionary.",
+  "pinyin": "wǒ xiǎng mǎi zhè běn zìdiǎn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "买",
+      "en": "to buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "字典",
+      "en": "dictionary",
+      "pi": "zìdiǎn"
+    }
+  ]
+}

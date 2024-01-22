@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆不知道玛丽对它怎么想。",
+  "english": "Tom doesn't know what Mary thinks of it.",
+  "pinyin": "tāng mǔ bù zhī dào mǎ lì duì tā zěn me xiǎng.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "不知道",
+      "en": "doesn't know",
+      "pi": "bù zhī dào"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "对",
+      "en": "what",
+      "pi": "duì"
+    },
+    {
+      "ch": "它",
+      "en": "it",
+      "pi": "tā"
+    },
+    {
+      "ch": "怎么想",
+      "en": "thinks of",
+      "pi": "zěn me xiǎng"
+    }
+  ]
+}

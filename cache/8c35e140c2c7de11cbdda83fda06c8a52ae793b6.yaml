@@ -1,0 +1,47 @@
+{
+  "chinese": "铃木先生在去法国之前学习法语。",
+  "english": "Mr. Suzuki studied French before going to France.",
+  "pinyin": "Líng mù xiān shēng zài qù fǎ guó zhī qián xué xí fǎ yǔ。",
+  "words": [
+    {
+      "ch": "铃木",
+      "en": "Mr. Suzuki",
+      "pi": "líng mù"
+    },
+    {
+      "ch": "先生",
+      "en": "Mr.",
+      "pi": "xiān shēng"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "法国",
+      "en": "France",
+      "pi": "fǎ guó"
+    },
+    {
+      "ch": "之前",
+      "en": "before",
+      "pi": "zhī qián"
+    },
+    {
+      "ch": "学习",
+      "en": "study",
+      "pi": "xué xí"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎ yǔ"
+    }
+  ]
+}

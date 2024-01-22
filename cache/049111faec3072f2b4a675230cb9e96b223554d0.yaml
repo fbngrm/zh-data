@@ -1,0 +1,13 @@
+{
+  "chinese": "鸡蛋至少要煮５分钟。",
+  "english": "Eggs should be boiled for at least 5 minutes.",
+  "pinyin": "jīdàn zhìshǎo yào zhǔ 5 fēnzhōng.",
+  "words": [
+    { "ch": "鸡蛋", "en": "eggs", "pi": "jīdàn" },
+    { "ch": "至少", "en": "at least", "pi": "zhìshǎo" },
+    { "ch": "要", "en": "should", "pi": "yào" },
+    { "ch": "煮", "en": "boiled", "pi": "zhǔ" },
+    { "ch": "５", "en": "5", "pi": "wǔ" },
+    { "ch": "分钟", "en": "minutes", "pi": "fēnzhōng" }
+  ]
+}

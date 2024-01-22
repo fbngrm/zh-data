@@ -1,0 +1,32 @@
+{
+  "chinese": "公园里发生了甚么？",
+  "english": "What happened in the park?",
+  "pinyin": "gōng yuán lǐ fā shēng le shén me?",
+  "words": [
+    {
+      "ch": "公园",
+      "en": "park",
+      "pi": "gōng yuán"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "发生",
+      "en": "happen",
+      "pi": "fā shēng"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "甚么",
+      "en": "what",
+      "pi": "shén me"
+    }
+  ]
+}

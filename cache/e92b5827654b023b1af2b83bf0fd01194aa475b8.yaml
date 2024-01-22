@@ -1,0 +1,32 @@
+{
+  "chinese": "他还没到这里。",
+  "english": "He hasn't arrived here yet.",
+  "pinyin": "tā hái méi dào zhèlǐ.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "还",
+      "en": "hasn't",
+      "pi": "hái"
+    },
+    {
+      "ch": "没",
+      "en": "not",
+      "pi": "méi"
+    },
+    {
+      "ch": "到",
+      "en": "arrived",
+      "pi": "dào"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhèlǐ"
+    }
+  ]
+}

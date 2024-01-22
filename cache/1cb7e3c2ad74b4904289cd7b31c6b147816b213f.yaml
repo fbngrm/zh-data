@@ -1,0 +1,32 @@
+{
+  "chinese": "家里的桌子有点儿矮。",
+  "english": "The table at home is a bit short.",
+  "pinyin": "jiā lǐ de zhuō zi yǒu diǎn er ǎi。",
+  "words": [
+    {
+      "ch": "家里",
+      "en": "at home",
+      "pi": "jiā lǐ"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "桌子",
+      "en": "table",
+      "pi": "zhuō zi"
+    },
+    {
+      "ch": "有点儿",
+      "en": "a bit",
+      "pi": "yǒu diǎn er"
+    },
+    {
+      "ch": "矮",
+      "en": "short",
+      "pi": "ǎi"
+    }
+  ]
+}

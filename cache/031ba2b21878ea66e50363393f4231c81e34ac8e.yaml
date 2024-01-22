@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "chinese": "咱们现在走吧。",
+      "english": "Let's go now.",
+      "pinyin": "zán men xiàn zài zǒu ba。",
+      "words": [
+        {
+          "ch": "咱们",
+          "en": "we",
+          "pi": "zán men"
+        },
+        {
+          "ch": "现在",
+          "en": "now",
+          "pi": "xiàn zài"
+        },
+        {
+          "ch": "走吧",
+          "en": "let's go",
+          "pi": "zǒu ba"
+        }
+      ]
+    },
+    {
+      "chinese": "要不咱们要迟到了。",
+      "english": "Otherwise we will be late.",
+      "pinyin": "yào bù zán men yào chí dào le。",
+      "words": [
+        {
+          "ch": "要不",
+          "en": "otherwise",
+          "pi": "yào bù"
+        },
+        {
+          "ch": "咱们",
+          "en": "we",
+          "pi": "zán men"
+        },
+        {
+          "ch": "要",
+          "en": "will",
+          "pi": "yào"
+        },
+        {
+          "ch": "迟到了",
+          "en": "be late",
+          "pi": "chí dào le"
+        }
+      ]
+    }
+  ]
+}

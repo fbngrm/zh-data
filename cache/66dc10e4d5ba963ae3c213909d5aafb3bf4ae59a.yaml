@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆真瘦，不是么？",
+  "english": "Tom is really thin, isn't he?",
+  "pinyin": "Tāng mǔ zhēn shòu, bù shì me?",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "真",
+      "en": "really",
+      "pi": "zhēn"
+    },
+    {
+      "ch": "瘦",
+      "en": "thin",
+      "pi": "shòu"
+    },
+    {
+      "ch": "不是",
+      "en": "isn't",
+      "pi": "bù shì"
+    },
+    {
+      "ch": "么",
+      "en": "he",
+      "pi": "me"
+    }
+  ]
+}

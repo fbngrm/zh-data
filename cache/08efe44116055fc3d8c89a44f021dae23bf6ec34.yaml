@@ -1,0 +1,32 @@
+{
+  "chinese": "我想用现金支付。",
+  "english": "I want to pay with cash.",
+  "pinyin": "wǒ xiǎng yòng xiànjīn zhīfù。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "用",
+      "en": "to use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "现金",
+      "en": "cash",
+      "pi": "xiànjīn"
+    },
+    {
+      "ch": "支付",
+      "en": "to pay",
+      "pi": "zhīfù"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我们乘公共汽车去上学。",
+  "english": "We take the bus to go to school.",
+  "pinyin": "wǒmen chéng gōnggòng qìchē qù shàngxué.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "乘",
+      "en": "take",
+      "pi": "chéng"
+    },
+    {
+      "ch": "公共汽车",
+      "en": "bus",
+      "pi": "gōnggòng qìchē"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "上学",
+      "en": "to school",
+      "pi": "shàngxué"
+    }
+  ]
+}

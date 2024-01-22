@@ -1,0 +1,12 @@
+{
+  "chinese": "月亮被云遮住了。",
+  "english": "The moon is covered by clouds.",
+  "pinyin": "yuè liàng bèi yún zhē zhù le。",
+  "words": [
+    {"ch": "月亮", "en": "moon", "pi": "yuè liàng"},
+    {"ch": "被", "en": "is", "pi": "bèi"},
+    {"ch": "云", "en": "clouds", "pi": "yún"},
+    {"ch": "遮住", "en": "covered", "pi": "zhē zhù"},
+    {"ch": "了", "en": "by", "pi": "le"}
+  ]
+}

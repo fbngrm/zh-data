@@ -1,0 +1,37 @@
+{
+  "chinese": "这是一条很大的狗。",
+  "english": "This is a big dog.",
+  "pinyin": "zhè shì yī tiáo hěn dà de gǒu.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "一条",
+      "en": "a",
+      "pi": "yī tiáo"
+    },
+    {
+      "ch": "很大",
+      "en": "big",
+      "pi": "hěn dà"
+    },
+    {
+      "ch": "的",
+      "en": "dog",
+      "pi": "de"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    }
+  ]
+}

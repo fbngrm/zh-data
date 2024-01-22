@@ -1,0 +1,32 @@
+{
+  "chinese": "我不经常说法语。",
+  "english": "I don't speak French often.",
+  "pinyin": "wǒ bù jīngcháng shuō fǎyǔ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "经常",
+      "en": "often",
+      "pi": "jīngcháng"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎyǔ"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "她为了学习日文来到日本。",
+  "english": "She came to Japan to study Japanese.",
+  "pinyin": "tā wèi le xuéxí rìwén lái dào Rìběn.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "为了",
+      "en": "to",
+      "pi": "wèile"
+    },
+    {
+      "ch": "学习",
+      "en": "study",
+      "pi": "xuéxí"
+    },
+    {
+      "ch": "日文",
+      "en": "Japanese",
+      "pi": "rìwén"
+    },
+    {
+      "ch": "来到",
+      "en": "came to",
+      "pi": "lái dào"
+    },
+    {
+      "ch": "日本",
+      "en": "Japan",
+      "pi": "Rìběn"
+    }
+  ]
+}

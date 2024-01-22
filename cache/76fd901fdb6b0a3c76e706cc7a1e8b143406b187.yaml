@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆，你有没有爱好？",
+  "english": "Tom, do you have any hobbies?",
+  "pinyin": "Tāng mǔ, nǐ yǒu méiyǒu àihào?",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有没有",
+      "en": "have or not",
+      "pi": "yǒu méiyǒu"
+    },
+    {
+      "ch": "爱好",
+      "en": "hobbies",
+      "pi": "àihào"
+    }
+  ]
+}

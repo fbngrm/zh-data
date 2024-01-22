@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆把他的汽车卖给了玛丽。",
+  "english": "Tom sold his car to Mary.",
+  "pinyin": "Tāng mǔ bǎ tā de qìchē mài gěi le Mǎlì.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "把",
+      "en": "to",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "汽车",
+      "en": "car",
+      "pi": "qìchē"
+    },
+    {
+      "ch": "卖给了",
+      "en": "sold",
+      "pi": "mài gěi le"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎlì"
+    }
+  ]
+}

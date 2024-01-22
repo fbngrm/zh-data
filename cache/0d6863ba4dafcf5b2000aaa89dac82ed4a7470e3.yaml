@@ -1,0 +1,37 @@
+{
+  "chinese": "我看书的时候睡着了。",
+  "english": "I fell asleep while reading.",
+  "pinyin": "wǒ kàn shū de shí hòu shuì zháo le。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "看书",
+      "en": "reading",
+      "pi": "kàn shū"
+    },
+    {
+      "ch": "的",
+      "en": "genitive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "时候",
+      "en": "while",
+      "pi": "shí hòu"
+    },
+    {
+      "ch": "睡着",
+      "en": "fell asleep",
+      "pi": "shuì zháo"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

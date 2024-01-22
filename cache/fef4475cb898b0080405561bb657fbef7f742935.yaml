@@ -1,0 +1,27 @@
+{
+  "chinese": "彼得不需要参加会议。",
+  "english": "Peter doesn't need to attend the meeting.",
+  "pinyin": "bǐ dé bù xū yào cān jiā huì yì。",
+  "words": [
+    {
+      "ch": "彼得",
+      "en": "Peter",
+      "pi": "bǐ dé"
+    },
+    {
+      "ch": "不需要",
+      "en": "does not need to",
+      "pi": "bù xū yào"
+    },
+    {
+      "ch": "参加",
+      "en": "attend",
+      "pi": "cān jiā"
+    },
+    {
+      "ch": "会议",
+      "en": "meeting",
+      "pi": "huì yì"
+    }
+  ]
+}

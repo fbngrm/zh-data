@@ -1,0 +1,42 @@
+{
+  "chinese": "你今天为什么不早点回家呢？",
+  "english": "Why didn't you come home earlier today?",
+  "pinyin": "nǐ jīntiān wèishéme bù zǎodiǎn huíjiā ne?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "为什么",
+      "en": "why",
+      "pi": "wèishéme"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "早点",
+      "en": "earlier",
+      "pi": "zǎodiǎn"
+    },
+    {
+      "ch": "回家",
+      "en": "come home",
+      "pi": "huíjiā"
+    },
+    {
+      "ch": "呢",
+      "en": "particle indicating a rhetorical question",
+      "pi": "ne"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆从椅子上站了起来。",
+  "english": "Tom stood up from the chair.",
+  "pinyin": "Tāng mǔ cóng yǐ zi shàng zhàn le qǐ lái.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "椅子",
+      "en": "chair",
+      "pi": "yǐ zi"
+    },
+    {
+      "ch": "上",
+      "en": "up",
+      "pi": "shàng"
+    },
+    {
+      "ch": "站",
+      "en": "stood",
+      "pi": "zhàn"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "起来",
+      "en": "to rise",
+      "pi": "qǐ lái"
+    }
+  ]
+}

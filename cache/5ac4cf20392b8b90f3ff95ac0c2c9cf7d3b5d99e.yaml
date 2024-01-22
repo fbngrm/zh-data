@@ -1,0 +1,37 @@
+{
+  "chinese": "请你开门好吗?",
+  "english": "Can you please open the door?",
+  "pinyin": "qǐng nǐ kāimén hǎo ma?",
+  "words": [
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "开",
+      "en": "open",
+      "pi": "kāi"
+    },
+    {
+      "ch": "门",
+      "en": "door",
+      "pi": "mén"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我将问你五个问题",
+  "english": "I will ask you five questions",
+  "pinyin": "wǒ jiāng wèn nǐ wǔ gè wèn tí",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "将",
+      "en": "will",
+      "pi": "jiāng"
+    },
+    {
+      "ch": "问",
+      "en": "ask",
+      "pi": "wèn"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "五",
+      "en": "five",
+      "pi": "wǔ"
+    },
+    {
+      "ch": "个",
+      "en": "questions",
+      "pi": "gè"
+    },
+    {
+      "ch": "问题",
+      "en": "questions",
+      "pi": "wèn tí"
+    }
+  ]
+}

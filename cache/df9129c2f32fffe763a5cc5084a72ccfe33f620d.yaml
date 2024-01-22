@@ -1,0 +1,13 @@
+{
+  "chinese": "玛丽把她的头发染成蓝色。",
+  "english": "Mary dyed her hair blue.",
+  "pinyin": "Mǎlì bǎ tā de tóufǎ rǎn chéng lán sè.",
+  "words": [
+    {"ch": "玛丽", "en": "Mary", "pi": "Mǎlì"},
+    {"ch": "把", "en": "to", "pi": "bǎ"},
+    {"ch": "她的", "en": "her", "pi": "tā de"},
+    {"ch": "头发", "en": "hair", "pi": "tóufǎ"},
+    {"ch": "染成", "en": "dyed", "pi": "rǎn chéng"},
+    {"ch": "蓝色", "en": "blue", "pi": "lán sè"}
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "我的男朋友看起来像你的女朋友。",
+  "english": "My boyfriend looks like your girlfriend.",
+  "pinyin": "Wǒ de nánpéngyǒu kàn qǐlái xiàng nǐ de nǚpéngyǒu.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "男朋友",
+      "en": "boyfriend",
+      "pi": "nánpéngyǒu"
+    },
+    {
+      "ch": "看起来",
+      "en": "looks like",
+      "pi": "kàn qǐlái"
+    },
+    {
+      "ch": "像",
+      "en": "like",
+      "pi": "xiàng"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "女朋友",
+      "en": "girlfriend",
+      "pi": "nǚpéngyǒu"
+    }
+  ]
+}

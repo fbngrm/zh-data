@@ -1,0 +1,14 @@
+{
+  "chinese": "我们就点十二个烤肉串吧!",
+  "english": "Let's order twelve grilled meat skewers!",
+  "pinyin": "wǒmen jiù diǎn shíèr gè kǎoròu chuàn ba!",
+  "words": [
+    { "ch": "我们", "en": "we", "pi": "wǒmen" },
+    { "ch": "就", "en": "just", "pi": "jiù" },
+    { "ch": "点", "en": "order", "pi": "diǎn" },
+    { "ch": "十二", "en": "twelve", "pi": "shíèr" },
+    { "ch": "个", "en": "quantity", "pi": "gè" },
+    { "ch": "烤肉串", "en": "grilled meat skewers", "pi": "kǎoròu chuàn" },
+    { "ch": "吧", "en": "let's", "pi": "ba" }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "chinese": "我慢跑了一个小时，身上变暖和了。",
+  "english": "I jogged for an hour, and I felt warm all over.",
+  "pinyin": "Wǒ màn pǎo le yī gè xiǎo shí，shēn shàng biàn nuǎn hé le。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "慢跑", "en": "jog", "pi": "màn pǎo"},
+    {"ch": "了", "en": "for", "pi": "le"},
+    {"ch": "一个", "en": "one", "pi": "yī gè"},
+    {"ch": "小时", "en": "hour", "pi": "xiǎo shí"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "身上", "en": "all over", "pi": "shēn shàng"},
+    {"ch": "变", "en": "changed", "pi": "biàn"},
+    {"ch": "暖和", "en": "warm", "pi": "nuǎn hé"},
+    {"ch": "了", "en": "all over", "pi": "le"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

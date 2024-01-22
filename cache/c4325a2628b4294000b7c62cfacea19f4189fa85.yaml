@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆必须再做一遍。",
+  "english": "Tom must do it again.",
+  "pinyin": "tāng mǔ bìxū zài zuò yī biàn。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "必须",
+      "en": "must",
+      "pi": "bìxū"
+    },
+    {
+      "ch": "再",
+      "en": "again",
+      "pi": "zài"
+    },
+    {
+      "ch": "做",
+      "en": "do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "一遍",
+      "en": "it again",
+      "pi": "yī biàn"
+    }
+  ]
+}

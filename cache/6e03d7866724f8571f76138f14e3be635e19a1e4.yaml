@@ -1,0 +1,32 @@
+{
+  "chinese": "我认为汤姆还活着。",
+  "english": "I think Tom is still alive.",
+  "pinyin": "wǒ rèn wéi tāng mǔ hái huó zhe。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "认为",
+      "en": "think",
+      "pi": "rèn wéi"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "还",
+      "en": "still",
+      "pi": "hái"
+    },
+    {
+      "ch": "活着",
+      "en": "alive",
+      "pi": "huó zhe"
+    }
+  ]
+}

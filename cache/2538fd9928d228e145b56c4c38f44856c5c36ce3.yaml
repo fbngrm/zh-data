@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆不需要谢我。",
+  "english": "Tom doesn't need to thank me.",
+  "pinyin": "Tāng mǔ bù xūyào xiè wǒ.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "需要",
+      "en": "need",
+      "pi": "xūyào"
+    },
+    {
+      "ch": "谢",
+      "en": "thank",
+      "pi": "xiè"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆从小就认识玛丽了。",
+  "english": "Tom has known Mary since he was a child.",
+  "pinyin": "tāng mǔ cóng xiǎo jiù rèn shi mǎ lì le。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "从小",
+      "en": "since childhood",
+      "pi": "cóng xiǎo"
+    },
+    {
+      "ch": "就",
+      "en": "already",
+      "pi": "jiù"
+    },
+    {
+      "ch": "认识",
+      "en": "know",
+      "pi": "rèn shi"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

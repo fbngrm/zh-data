@@ -1,0 +1,37 @@
+{
+  "chinese": "不要逐字逐句的把英文翻译成日文。",
+  "english": "Don't translate English word for word into Japanese.",
+  "pinyin": "bù yào zhú zì zhú jù de bǎ yīng wén fān yì chéng rì wén.",
+  "words": [
+    {
+      "ch": "不要",
+      "en": "Don't",
+      "pi": "bù yào"
+    },
+    {
+      "ch": "逐字逐句的",
+      "en": "word for word",
+      "pi": "zhú zì zhú jù de"
+    },
+    {
+      "ch": "把",
+      "en": "translate",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "英文",
+      "en": "English",
+      "pi": "yīng wén"
+    },
+    {
+      "ch": "翻译",
+      "en": "into",
+      "pi": "fān yì"
+    },
+    {
+      "ch": "日文",
+      "en": "Japanese",
+      "pi": "rì wén"
+    }
+  ]
+}

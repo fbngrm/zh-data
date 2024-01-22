@@ -1,0 +1,15 @@
+{
+  "chinese": "环境污染正造成异常的天气情况。",
+  "english": "Environmental pollution is causing abnormal weather conditions.",
+  "pinyin": "Huánjìng wūrǎn zhèng zàochéng yìcháng de tiānqì qíngkuàng.",
+  "words": [
+    {"ch": "环境", "en": "environment", "pi": "huánjìng"},
+    {"ch": "污染", "en": "pollution", "pi": "wūrǎn"},
+    {"ch": "正", "en": "is", "pi": "zhèng"},
+    {"ch": "造成", "en": "causing", "pi": "zàochéng"},
+    {"ch": "异常", "en": "abnormal", "pi": "yìcháng"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "天气", "en": "weather", "pi": "tiānqì"},
+    {"ch": "情况", "en": "conditions", "pi": "qíngkuàng"}
+  ]
+}

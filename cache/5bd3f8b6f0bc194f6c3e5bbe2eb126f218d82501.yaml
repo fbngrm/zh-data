@@ -1,0 +1,32 @@
+{
+  "chinese": "那些狗都很大。",
+  "english": "Those dogs are all very big.",
+  "pinyin": "nà xiē gǒu dōu hěn dà。",
+  "words": [
+    {
+      "ch": "那些",
+      "en": "Those",
+      "pi": "nà xiē"
+    },
+    {
+      "ch": "狗",
+      "en": "dogs",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "大",
+      "en": "big",
+      "pi": "dà"
+    }
+  ]
+}

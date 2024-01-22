@@ -1,0 +1,47 @@
+{
+  "chinese": "你以前住的是哪一座房子？",
+  "english": "Which house did you used to live in?",
+  "pinyin": "nǐ yǐqián zhù de shì nǎ yī zuò fángzi?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "以前",
+      "en": "before",
+      "pi": "yǐqián"
+    },
+    {
+      "ch": "住",
+      "en": "live",
+      "pi": "zhù"
+    },
+    {
+      "ch": "的",
+      "en": "used to",
+      "pi": "de"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "哪一",
+      "en": "which",
+      "pi": "nǎ yī"
+    },
+    {
+      "ch": "座",
+      "en": "measure word for buildings",
+      "pi": "zuò"
+    },
+    {
+      "ch": "房子",
+      "en": "house",
+      "pi": "fángzi"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "你在读有趣的书吗?",
+  "english": "Are you reading an interesting book?",
+  "pinyin": "Nǐ zài dú yǒuqù de shū ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "读",
+      "en": "read",
+      "pi": "dú"
+    },
+    {
+      "ch": "有趣的",
+      "en": "interesting",
+      "pi": "yǒuqù de"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

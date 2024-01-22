@@ -1,0 +1,62 @@
+{
+  "chinese": "这碗汤大咸了，喝不下。",
+  "english": "This bowl of soup is too salty, I can't drink it.",
+  "pinyin": "zhè wǎn tāng dà xián le, hē bùxià.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "碗",
+      "en": "bowl",
+      "pi": "wǎn"
+    },
+    {
+      "ch": "汤",
+      "en": "soup",
+      "pi": "tāng"
+    },
+    {
+      "ch": "大",
+      "en": "big",
+      "pi": "dà"
+    },
+    {
+      "ch": "咸",
+      "en": "salty",
+      "pi": "xián"
+    },
+    {
+      "ch": "了",
+      "en": "too",
+      "pi": "le"
+    },
+    {
+      "ch": "，",
+      "en": "",
+      "pi": "，"
+    },
+    {
+      "ch": "喝",
+      "en": "drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "不",
+      "en": "can't",
+      "pi": "bù"
+    },
+    {
+      "ch": "下",
+      "en": "down",
+      "pi": "xià"
+    },
+    {
+      "ch": "。",
+      "en": "",
+      "pi": "。"
+    }
+  ]
+}

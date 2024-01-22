@@ -1,0 +1,47 @@
+{
+  "chinese": "你想喝点儿咖啡或茶吗？",
+  "english": "Would you like to have some coffee or tea?",
+  "pinyin": "nǐ xiǎng hē diǎnr kāfēi huò chá ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "喝",
+      "en": "to drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "点儿",
+      "en": "a little",
+      "pi": "diǎnr"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kāfēi"
+    },
+    {
+      "ch": "或",
+      "en": "or",
+      "pi": "huò"
+    },
+    {
+      "ch": "茶",
+      "en": "tea",
+      "pi": "chá"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

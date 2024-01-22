@@ -1,0 +1,32 @@
+{
+  "chinese": "我的孩子正在割小麦。",
+  "english": "My child is harvesting wheat.",
+  "pinyin": "wǒ de hái zi zhèng zài gē xiǎo mài。",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "My",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "孩子",
+      "en": "child",
+      "pi": "hái zi"
+    },
+    {
+      "ch": "正在",
+      "en": "is",
+      "pi": "zhèng zài"
+    },
+    {
+      "ch": "割",
+      "en": "harvesting",
+      "pi": "gē"
+    },
+    {
+      "ch": "小麦",
+      "en": "wheat",
+      "pi": "xiǎo mài"
+    }
+  ]
+}

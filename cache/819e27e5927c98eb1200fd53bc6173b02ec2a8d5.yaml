@@ -1,0 +1,27 @@
+{
+  "chinese": "Ｋｅｎ昨天在家吗？",
+  "english": "Was Ken at home yesterday?",
+  "pinyin": "Kěn zuótiān zàijiā ma?",
+  "words": [
+    {
+      "ch": "Ｋｅｎ",
+      "en": "Ken",
+      "pi": "Kěn"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "在家",
+      "en": "at home",
+      "pi": "zàijiā"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "sentences": [
+    {
+      "chinese": "这是我看过最蓝的蓝莓。",
+      "english": "These are the bluest blueberries I've ever seen.",
+      "pinyin": "zhè shì wǒ kànguò zuì lán de lánméi。",
+      "words": [
+        {"ch": "这", "en": "these", "pi": "zhè"},
+        {"ch": "是", "en": "are", "pi": "shì"},
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "看过", "en": "have seen", "pi": "kànguò"},
+        {"ch": "最", "en": "most", "pi": "zuì"},
+        {"ch": "蓝", "en": "blue", "pi": "lán"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "蓝莓", "en": "blueberries", "pi": "lánméi"}
+      ]
+    },
+    {
+      "chinese": "他们的蓝几乎不是自然的。",
+      "english": "Their blue is almost unnatural.",
+      "pinyin": "tāmen de lán jīhū bùshì zìrán de。",
+      "words": [
+        {"ch": "他们", "en": "their", "pi": "tāmen"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "蓝", "en": "blue", "pi": "lán"},
+        {"ch": "几乎", "en": "almost", "pi": "jīhū"},
+        {"ch": "不是", "en": "is not", "pi": "bùshì"},
+        {"ch": "自然", "en": "natural", "pi": "zìrán"},
+        {"ch": "的", "en": "of", "pi": "de"}
+      ]
+    }
+  ]
+}

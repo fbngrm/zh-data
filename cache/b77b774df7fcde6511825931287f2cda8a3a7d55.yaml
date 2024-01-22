@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆还没打给玛莉。",
+  "english": "Tom has not called Mary yet.",
+  "pinyin": "Tāng mǔ hái méi dǎ gěi mǎ lì.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "还",
+      "en": "has",
+      "pi": "hái"
+    },
+    {
+      "ch": "没",
+      "en": "not",
+      "pi": "méi"
+    },
+    {
+      "ch": "打给",
+      "en": "called",
+      "pi": "dǎ gěi"
+    },
+    {
+      "ch": "玛莉",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    }
+  ]
+}

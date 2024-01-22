@@ -1,0 +1,180 @@
+{
+  "sentences": [
+    {
+      "chinese": "我叫这个机器人做甚么，它就做甚么。",
+      "english": "I tell this robot to do something, and it does it.",
+      "pinyin": "wǒ jiào zhège jīqìrén zuò shénme, tā jiù zuò shénme。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "叫",
+          "en": "tell",
+          "pi": "jiào"
+        },
+        {
+          "ch": "这个",
+          "en": "this",
+          "pi": "zhège"
+        },
+        {
+          "ch": "机器人",
+          "en": "robot",
+          "pi": "jīqìrén"
+        },
+        {
+          "ch": "做",
+          "en": "do",
+          "pi": "zuò"
+        },
+        {
+          "ch": "甚么",
+          "en": "something",
+          "pi": "shénme"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": "，"
+        },
+        {
+          "ch": "它",
+          "en": "it",
+          "pi": "tā"
+        },
+        {
+          "ch": "就",
+          "en": "and",
+          "pi": "jiù"
+        },
+        {
+          "ch": "做",
+          "en": "does",
+          "pi": "zuò"
+        },
+        {
+          "ch": "甚么",
+          "en": "it",
+          "pi": "shénme"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    },
+    {
+      "chinese": "我累得不想动的时候，它就很帮得上忙。",
+      "english": "When I'm tired and don't want to move, it is very helpful.",
+      "pinyin": "wǒ lèi de bù xiǎng dòng de shíhòu, tā jiù hěn bāng dé shàngmáng。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "累得",
+          "en": "tired",
+          "pi": "lèi de"
+        },
+        {
+          "ch": "不",
+          "en": "don't",
+          "pi": "bù"
+        },
+        {
+          "ch": "想",
+          "en": "want",
+          "pi": "xiǎng"
+        },
+        {
+          "ch": "动",
+          "en": "to move",
+          "pi": "dòng"
+        },
+        {
+          "ch": "的",
+          "en": "and",
+          "pi": "de"
+        },
+        {
+          "ch": "时候",
+          "en": "when",
+          "pi": "shíhòu"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": "，"
+        },
+        {
+          "ch": "它",
+          "en": "it",
+          "pi": "tā"
+        },
+        {
+          "ch": "就",
+          "en": "is",
+          "pi": "jiù"
+        },
+        {
+          "ch": "很",
+          "en": "very",
+          "pi": "hěn"
+        },
+        {
+          "ch": "帮得上忙",
+          "en": "helpful",
+          "pi": "bāng dé shàngmáng"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    },
+    {
+      "chinese": "这种事不太可能吧？",
+      "english": "Is this kind of thing not likely?",
+      "pinyin": "zhè zhǒng shì bù tài kěnéng ba?",
+      "words": [
+        {
+          "ch": "这种",
+          "en": "this kind",
+          "pi": "zhè zhǒng"
+        },
+        {
+          "ch": "事",
+          "en": "thing",
+          "pi": "shì"
+        },
+        {
+          "ch": "不太",
+          "en": "not likely",
+          "pi": "bù tài"
+        },
+        {
+          "ch": "可能",
+          "en": "possible",
+          "pi": "kěnéng"
+        },
+        {
+          "ch": "吧",
+          "en": "right?",
+          "pi": "ba?"
+        },
+        {
+          "ch": "？",
+          "en": "?",
+          "pi": "？"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我們上學可能會遲到。",
+  "english": "We may be late for school.",
+  "pinyin": "wǒ men shàng xué kě néng huì chí dào",
+  "words": [
+    {
+      "ch": "我們",
+      "en": "We",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "上學",
+      "en": "go to school",
+      "pi": "shàng xué"
+    },
+    {
+      "ch": "可能",
+      "en": "may",
+      "pi": "kě néng"
+    },
+    {
+      "ch": "會",
+      "en": "be",
+      "pi": "huì"
+    },
+    {
+      "ch": "遲到",
+      "en": "late",
+      "pi": "chí dào"
+    }
+  ]
+}

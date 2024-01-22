@@ -1,0 +1,32 @@
+{
+  "chinese": "网球是我最喜欢的运动。",
+  "english": "Tennis is my favorite sport.",
+  "pinyin": "wǎng qiú shì wǒ zuì xǐ huān de yùn dòng。",
+  "words": [
+    {
+      "ch": "网球",
+      "en": "tennis",
+      "pi": "wǎng qiú"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "最喜欢的",
+      "en": "favorite",
+      "pi": "zuì xǐ huān de"
+    },
+    {
+      "ch": "运动",
+      "en": "sport",
+      "pi": "yùn dòng"
+    }
+  ]
+}

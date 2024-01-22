@@ -1,0 +1,48 @@
+{
+  "sentences": [
+    {
+      "chinese": "没门儿！",
+      "english": "No way!",
+      "pinyin": "méi ménr!",
+      "words": [
+        {
+          "ch": "没",
+          "en": "No",
+          "pi": "méi"
+        },
+        {
+          "ch": "门儿",
+          "en": "way",
+          "pi": "ménr"
+        }
+      ]
+    },
+    {
+      "chinese": "有的，有门儿。",
+      "english": "Yes, there is a way.",
+      "pinyin": "yǒude, yǒu ménr.",
+      "words": [
+        {
+          "ch": "有的",
+          "en": "Yes",
+          "pi": "yǒude"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": ","
+        },
+        {
+          "ch": "有门儿",
+          "en": "there is a way",
+          "pi": "yǒu ménr"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "."
+        }
+      ]
+    }
+  ]
+}

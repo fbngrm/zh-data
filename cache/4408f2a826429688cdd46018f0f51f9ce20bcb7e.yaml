@@ -1,0 +1,16 @@
+{
+  "chinese": "火車還有五分鐘就要開了，她卻還沒有出現。",
+  "english": "The train is about to depart in five minutes, but she still hasn't shown up.",
+  "pinyin": "Huǒchē hái yǒu wǔ fēnzhōng jiù yào kāi le, tā què hái méiyǒu chūxiàn。",
+  "words": [
+    {"ch": "火車", "en": "train", "pi": "huǒchē"},
+    {"ch": "還有", "en": "still have", "pi": "háiyǒu"},
+    {"ch": "五分鐘", "en": "five minutes", "pi": "wǔ fēnzhōng"},
+    {"ch": "就要", "en": "about to", "pi": "jiù yào"},
+    {"ch": "開了", "en": "depart", "pi": "kāi le"},
+    {"ch": "她", "en": "she", "pi": "tā"},
+    {"ch": "卻", "en": "but", "pi": "què"},
+    {"ch": "還沒有", "en": "still haven't", "pi": "hái méiyǒu"},
+    {"ch": "出現", "en": "show up", "pi": "chūxiàn"}
+  ]
+}

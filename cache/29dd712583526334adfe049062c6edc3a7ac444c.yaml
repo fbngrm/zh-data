@@ -1,0 +1,42 @@
+{
+  "chinese": "这条裙子你穿着很合身。",
+  "english": "This dress fits you well.",
+  "pinyin": "zhè tiáo qún zi nǐ chuān zhe hěn hé shēn。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "条",
+      "en": "measure word for long, narrow objects",
+      "pi": "tiáo"
+    },
+    {
+      "ch": "裙子",
+      "en": "dress",
+      "pi": "qún zi"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "穿着",
+      "en": "wearing",
+      "pi": "chuān zhe"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "合身",
+      "en": "fits well",
+      "pi": "hé shēn"
+    }
+  ]
+}

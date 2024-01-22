@@ -1,0 +1,32 @@
+{
+  "chinese": "這不是很流行。",
+  "english": "This is not very popular.",
+  "pinyin": "zhè bù shì hěn liúxíng.",
+  "words": [
+    {
+      "ch": "這",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "流行",
+      "en": "popular",
+      "pi": "liúxíng"
+    }
+  ]
+}

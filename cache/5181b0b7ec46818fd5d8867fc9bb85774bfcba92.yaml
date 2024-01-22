@@ -1,0 +1,47 @@
+{
+  "chinese": "他说的话我一句也听不懂。",
+  "english": "I don't understand a word he says.",
+  "pinyin": "tā shuō de huà wǒ yī jù yě tīng bù dǒng。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "说",
+      "en": "say",
+      "pi": "shuō"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "话",
+      "en": "word",
+      "pi": "huà"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "一句",
+      "en": "a sentence",
+      "pi": "yī jù"
+    },
+    {
+      "ch": "也",
+      "en": "also",
+      "pi": "yě"
+    },
+    {
+      "ch": "听不懂",
+      "en": "don't understand",
+      "pi": "tīng bù dǒng"
+    }
+  ]
+}

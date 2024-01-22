@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆和他的狗玩。",
+  "english": "Tom plays with his dog.",
+  "pinyin": "Tāng mǔ hé tā de gǒu wán.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "玩",
+      "en": "plays",
+      "pi": "wán"
+    }
+  ]
+}

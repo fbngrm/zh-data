@@ -1,0 +1,93 @@
+{
+  "sentences": [
+    {
+      "chinese": "被爱和爱一个人不同。",
+      "english": "Being loved and loving someone are different.",
+      "pinyin": "bèi ài hé ài yī gè rén bù tóng。",
+      "words": [
+        {
+          "ch": "被爱",
+          "en": "Being loved",
+          "pi": "bèi ài"
+        },
+        {
+          "ch": "和",
+          "en": "and",
+          "pi": "hé"
+        },
+        {
+          "ch": "爱",
+          "en": "loving",
+          "pi": "ài"
+        },
+        {
+          "ch": "一个人",
+          "en": "someone",
+          "pi": "yī gè rén"
+        },
+        {
+          "ch": "不同",
+          "en": "different",
+          "pi": "bù tóng"
+        }
+      ]
+    },
+    {
+      "chinese": "你可以被一个人爱着的同时，却恨着这个人。",
+      "english": "You can be loved by someone and hate that person at the same time.",
+      "pinyin": "nǐ kě yǐ bèi yī gè rén ài zhá de tóng shí， què hèn zhe zhè gè rén。",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "可以",
+          "en": "can",
+          "pi": "kě yǐ"
+        },
+        {
+          "ch": "被",
+          "en": "be",
+          "pi": "bèi"
+        },
+        {
+          "ch": "一个人",
+          "en": "by someone",
+          "pi": "yī gè rén"
+        },
+        {
+          "ch": "爱着",
+          "en": "loved",
+          "pi": "ài zhá"
+        },
+        {
+          "ch": "的",
+          "en": "by",
+          "pi": "de"
+        },
+        {
+          "ch": "同时",
+          "en": "at the same time",
+          "pi": "tóng shí"
+        },
+        {
+          "ch": "却",
+          "en": "but",
+          "pi": "què"
+        },
+        {
+          "ch": "恨着",
+          "en": "hate",
+          "pi": "hèn zhe"
+        },
+        {
+          "ch": "这个人",
+          "en": "that person",
+          "pi": "zhè gè rén"
+        }
+      ]
+    }
+  ]
+}

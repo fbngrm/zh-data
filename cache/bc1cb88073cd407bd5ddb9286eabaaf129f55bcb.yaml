@@ -1,0 +1,32 @@
+{
+  "chinese": "地震之后发生了火灾。",
+  "english": "After the earthquake, a fire broke out.",
+  "pinyin": "Dìzhèn zhīhòu fāshēngle huǒzāi.",
+  "words": [
+    {
+      "ch": "地震",
+      "en": "earthquake",
+      "pi": "dìzhèn"
+    },
+    {
+      "ch": "之后",
+      "en": "after",
+      "pi": "zhīhòu"
+    },
+    {
+      "ch": "发生",
+      "en": "occur",
+      "pi": "fāshēng"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "火灾",
+      "en": "fire",
+      "pi": "huǒzāi"
+    }
+  ]
+}

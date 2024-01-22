@@ -1,0 +1,27 @@
+{
+  "chinese": "对不起，火车晚点了。",
+  "english": "Sorry, the train is delayed.",
+  "pinyin": "duì bù qǐ, huǒ chē wǎn diǎn le。",
+  "words": [
+    {
+      "ch": "对不起",
+      "en": "sorry",
+      "pi": "duì bù qǐ"
+    },
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒ chē"
+    },
+    {
+      "ch": "晚点",
+      "en": "delayed",
+      "pi": "wǎn diǎn"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

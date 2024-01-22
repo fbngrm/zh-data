@@ -1,0 +1,14 @@
+{
+  "chinese": "我自学了半个学期的德文。",
+  "english": "I have been self-studying German for half a semester.",
+  "pinyin": "wǒ zìxué le bàn gè xuéqí de déwén.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "自学", "en": "self-study", "pi": "zìxué" },
+    { "ch": "了", "en": "have", "pi": "le" },
+    { "ch": "半个", "en": "half", "pi": "bàn gè" },
+    { "ch": "学期", "en": "semester", "pi": "xuéqí" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "德文", "en": "German", "pi": "déwén" }
+  ]
+}

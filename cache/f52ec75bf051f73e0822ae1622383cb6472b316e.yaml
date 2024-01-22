@@ -1,0 +1,15 @@
+{
+  "chinese": "我们决定在去法国之前学习法语。",
+  "english": "We decided to learn French before going to France.",
+  "pinyin": "wǒ men jué dìng zài qù fǎ guó zhī qián xué xí fǎ yǔ。",
+  "words": [
+    {"ch": "我们", "en": "We", "pi": "wǒ men"},
+    {"ch": "决定", "en": "decided", "pi": "jué dìng"},
+    {"ch": "在", "en": "before", "pi": "zài"},
+    {"ch": "去", "en": "going", "pi": "qù"},
+    {"ch": "法国", "en": "France", "pi": "fǎ guó"},
+    {"ch": "之前", "en": "before", "pi": "zhī qián"},
+    {"ch": "学习", "en": "to learn", "pi": "xué xí"},
+    {"ch": "法语", "en": "French", "pi": "fǎ yǔ"}
+  ]
+}

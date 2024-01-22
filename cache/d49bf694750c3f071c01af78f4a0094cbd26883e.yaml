@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "chinese": "他们现在都退休了。",
+      "english": "They are all retired now.",
+      "pinyin": "tā men xiàn zài dōu tuì xiū le。",
+      "words": [
+        {
+          "ch": "他们",
+          "en": "They",
+          "pi": "tā men"
+        },
+        {
+          "ch": "现在",
+          "en": "now",
+          "pi": "xiàn zài"
+        },
+        {
+          "ch": "都",
+          "en": "all",
+          "pi": "dōu"
+        },
+        {
+          "ch": "退休了",
+          "en": "retired",
+          "pi": "tuì xiū le"
+        }
+      ]
+    },
+    {
+      "chinese": "你父母呢？",
+      "english": "What about your parents?",
+      "pinyin": "nǐ fù mǔ ne?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "父母",
+          "en": "parents",
+          "pi": "fù mǔ"
+        },
+        {
+          "ch": "呢",
+          "en": "what about",
+          "pi": "ne"
+        }
+      ]
+    }
+  ]
+}

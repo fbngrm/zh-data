@@ -1,0 +1,32 @@
+{
+  "chinese": "我今天早上六点起床。",
+  "english": "I woke up at six o'clock this morning.",
+  "pinyin": "wǒ jīn tiān zǎo shàng liù diǎn qǐ chuáng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎo shàng"
+    },
+    {
+      "ch": "六点",
+      "en": "six o'clock",
+      "pi": "liù diǎn"
+    },
+    {
+      "ch": "起床",
+      "en": "woke up",
+      "pi": "qǐ chuáng"
+    }
+  ]
+}

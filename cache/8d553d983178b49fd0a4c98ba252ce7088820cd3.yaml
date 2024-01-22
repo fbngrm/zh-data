@@ -1,0 +1,13 @@
+{
+  "chinese": "老虎从动物园中逃出来了。",
+  "english": "The tiger escaped from the zoo.",
+  "pinyin": "lǎo hǔ cóng dòng wù yuán zhōng táo chū lái le.",
+  "words": [
+    {"ch": "老虎", "en": "tiger", "pi": "lǎo hǔ"},
+    {"ch": "从", "en": "from", "pi": "cóng"},
+    {"ch": "动物园", "en": "zoo", "pi": "dòng wù yuán"},
+    {"ch": "中", "en": "in, middle", "pi": "zhōng"},
+    {"ch": "逃出来", "en": "escaped", "pi": "táo chū lái"},
+    {"ch": "了", "en": "particle indicating a completed or finished action", "pi": "le"}
+  ]
+}

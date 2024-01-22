@@ -1,0 +1,27 @@
+{
+  "chinese": "今天是几月几号？",
+  "english": "What is the date today?",
+  "pinyin": "jīn tiān shì jǐ yuè jǐ hào?",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "几月",
+      "en": "which month",
+      "pi": "jǐ yuè"
+    },
+    {
+      "ch": "几号",
+      "en": "which day",
+      "pi": "jǐ hào"
+    }
+  ]
+}

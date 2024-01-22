@@ -1,0 +1,42 @@
+{
+  "chinese": "她有一个儿子和两个女儿。",
+  "english": "She has one son and two daughters.",
+  "pinyin": "tā yǒu yī gè érzi hé liǎng gè nǚ'ér.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一个",
+      "en": "one",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "儿子",
+      "en": "son",
+      "pi": "érzi"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "两个",
+      "en": "two",
+      "pi": "liǎng gè"
+    },
+    {
+      "ch": "女儿",
+      "en": "daughters",
+      "pi": "nǚ'ér"
+    }
+  ]
+}

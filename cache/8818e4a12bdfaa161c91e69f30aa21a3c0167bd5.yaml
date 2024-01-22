@@ -1,0 +1,63 @@
+{
+  "sentences": [
+    {
+      "chinese": "我没法集中注意力。",
+      "english": "I can't concentrate.",
+      "pinyin": "wǒ méi fǎ jí zhōng zhù yì li.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "没法",
+          "en": "can't",
+          "pi": "méi fǎ"
+        },
+        {
+          "ch": "集中",
+          "en": "concentrate",
+          "pi": "jí zhōng"
+        },
+        {
+          "ch": "注意力",
+          "en": "attention",
+          "pi": "zhù yì lì"
+        }
+      ]
+    },
+    {
+      "chinese": "你介意关掉电视吗?",
+      "english": "Do you mind turning off the TV?",
+      "pinyin": "nǐ jiè yì guān diào diàn shì ma?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "介意",
+          "en": "mind",
+          "pi": "jiè yì"
+        },
+        {
+          "ch": "关掉",
+          "en": "turning off",
+          "pi": "guān diào"
+        },
+        {
+          "ch": "电视",
+          "en": "TV",
+          "pi": "diàn shì"
+        },
+        {
+          "ch": "吗",
+          "en": "?",
+          "pi": "ma"
+        }
+      ]
+    }
+  ]
+}

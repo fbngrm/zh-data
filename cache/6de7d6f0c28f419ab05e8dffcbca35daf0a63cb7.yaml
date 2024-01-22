@@ -1,0 +1,12 @@
+{ 
+   "chinese": "这个理论很有争议。",
+   "english": "This theory is very controversial.",
+   "pinyin": "zhè gè lǐ lùn hěn yǒu zhēng yì。",
+   "words": [
+      { "ch": "这个", "en": "this", "pi": "zhè gè" },
+      { "ch": "理论", "en": "theory", "pi": "lǐ lùn" },
+      { "ch": "很", "en": "very", "pi": "hěn" },
+      { "ch": "有", "en": "have", "pi": "yǒu" },
+      { "ch": "争议", "en": "controversial", "pi": "zhēng yì" }
+   ]
+}

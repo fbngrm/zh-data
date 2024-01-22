@@ -1,0 +1,32 @@
+{
+  "chinese": "我赶快跑走了。",
+  "english": "I quickly ran away.",
+  "pinyin": "wǒ gǎn kuài pǎo zǒu le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "赶快",
+      "en": "quickly",
+      "pi": "gǎn kuài"
+    },
+    {
+      "ch": "跑",
+      "en": "run",
+      "pi": "pǎo"
+    },
+    {
+      "ch": "走",
+      "en": "away",
+      "pi": "zǒu"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

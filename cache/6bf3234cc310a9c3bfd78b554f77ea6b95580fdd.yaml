@@ -1,0 +1,32 @@
+{
+  "chinese": "吸烟影响了他的肺部。",
+  "english": "Smoking affects his lungs.",
+  "pinyin": "xī yān yǐng xiǎng le tā de fèi bù。",
+  "words": [
+    {
+      "ch": "吸烟",
+      "en": "Smoking",
+      "pi": "xī yān"
+    },
+    {
+      "ch": "影响",
+      "en": "affects",
+      "pi": "yǐng xiǎng"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "肺部",
+      "en": "lungs",
+      "pi": "fèi bù"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "这文件其实是汤姆写的。",
+  "english": "This document was actually written by Tom.",
+  "pinyin": "zhè wénjiàn qíshí shì Tāngmǔ xiě de.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "文件",
+      "en": "document",
+      "pi": "wénjiàn"
+    },
+    {
+      "ch": "其实",
+      "en": "actually",
+      "pi": "qíshí"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "写",
+      "en": "write",
+      "pi": "xiě"
+    },
+    {
+      "ch": "的",
+      "en": "by",
+      "pi": "de"
+    }
+  ]
+}

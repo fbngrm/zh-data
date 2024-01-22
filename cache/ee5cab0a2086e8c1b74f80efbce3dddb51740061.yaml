@@ -1,0 +1,32 @@
+{
+  "chinese": "我是个老实人。",
+  "english": "I am an honest person.",
+  "pinyin": "wǒ shì gè lǎo shí rén.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "是",
+      "en": "am",
+      "pi": "shì"
+    },
+    {
+      "ch": "个",
+      "en": "an",
+      "pi": "gè"
+    },
+    {
+      "ch": "老实",
+      "en": "honest",
+      "pi": "lǎo shí"
+    },
+    {
+      "ch": "人",
+      "en": "person",
+      "pi": "rén"
+    }
+  ]
+}

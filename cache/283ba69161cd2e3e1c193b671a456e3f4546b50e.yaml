@@ -1,0 +1,37 @@
+{
+  "chinese": "她用蘋果做了果醬。",
+  "english": "She made jam with apples.",
+  "pinyin": "tā yòng píng guǒ zuò le guǒ jiàng。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "用",
+      "en": "used",
+      "pi": "yòng"
+    },
+    {
+      "ch": "蘋果",
+      "en": "apples",
+      "pi": "píng guǒ"
+    },
+    {
+      "ch": "做",
+      "en": "made",
+      "pi": "zuò"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "果醬",
+      "en": "jam",
+      "pi": "guǒ jiàng"
+    }
+  ]
+}

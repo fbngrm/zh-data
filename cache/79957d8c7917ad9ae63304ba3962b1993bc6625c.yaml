@@ -1,0 +1,32 @@
+{
+  "chinese": "这种行为可能造成意外。",
+  "english": "This behavior may cause accidents.",
+  "pinyin": "zhè zhǒng xíng wéi kě néng zào chéng yì wài。",
+  "words": [
+    {
+      "ch": "这种",
+      "en": "this",
+      "pi": "zhè zhǒng"
+    },
+    {
+      "ch": "行为",
+      "en": "behavior",
+      "pi": "xíng wéi"
+    },
+    {
+      "ch": "可能",
+      "en": "may",
+      "pi": "kě néng"
+    },
+    {
+      "ch": "造成",
+      "en": "cause",
+      "pi": "zào chéng"
+    },
+    {
+      "ch": "意外",
+      "en": "accidents",
+      "pi": "yì wài"
+    }
+  ]
+}

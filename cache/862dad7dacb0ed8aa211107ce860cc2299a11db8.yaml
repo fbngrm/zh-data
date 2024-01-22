@@ -1,0 +1,32 @@
+{
+  "chinese": "她的英文比我好。",
+  "english": "Her English is better than mine.",
+  "pinyin": "tā de yīngwén bǐ wǒ hǎo.",
+  "words": [
+    {
+      "ch": "她的",
+      "en": "her",
+      "pi": "tā de"
+    },
+    {
+      "ch": "英文",
+      "en": "English",
+      "pi": "yīngwén"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "我",
+      "en": "mine",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "好",
+      "en": "better",
+      "pi": "hǎo"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我住在这区。",
+  "english": "I live in this district.",
+  "pinyin": "wǒ zhù zài zhè qū。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "住",
+      "en": "live",
+      "pi": "zhù"
+    },
+    {
+      "ch": "在",
+      "en": "in/at",
+      "pi": "zài"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "区",
+      "en": "district",
+      "pi": "qū"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "chinese": "他走了那么远的路，脚力一定很不错。",
+  "english": "He has walked such a long way, his footwork must be excellent.",
+  "pinyin": "tā zǒu le nà me yuǎn de lù, jiǎo lì yī dìng hěn bù cuò.",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "走", "en": "walk", "pi": "zǒu"},
+    {"ch": "了", "en": "has", "pi": "le"},
+    {"ch": "那么", "en": "such", "pi": "nà me"},
+    {"ch": "远", "en": "far", "pi": "yuǎn"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "路", "en": "way", "pi": "lù"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "脚力", "en": "footwork", "pi": "jiǎo lì"},
+    {"ch": "一定", "en": "must", "pi": "yī dìng"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "不错", "en": "excellent", "pi": "bù cuò"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}

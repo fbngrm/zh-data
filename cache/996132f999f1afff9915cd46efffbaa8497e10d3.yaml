@@ -1,0 +1,42 @@
+{
+  "chinese": "你国家的人吃米吗?",
+  "english": "Do people in your country eat rice?",
+  "pinyin": "nǐ guójiā de rén chī mǐ ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "国家",
+      "en": "country",
+      "pi": "guójiā"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "人",
+      "en": "people",
+      "pi": "rén"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "米",
+      "en": "rice",
+      "pi": "mǐ"
+    },
+    {
+      "ch": "吗",
+      "en": "question marker",
+      "pi": "ma"
+    }
+  ]
+}

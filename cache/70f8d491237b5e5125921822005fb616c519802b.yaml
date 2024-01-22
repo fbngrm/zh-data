@@ -1,0 +1,27 @@
+{
+  "chinese": "你喝啤酒吗？",
+  "english": "Do you drink beer?",
+  "pinyin": "nǐ hē pí jiǔ ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "喝",
+      "en": "drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "啤酒",
+      "en": "beer",
+      "pi": "pí jiǔ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

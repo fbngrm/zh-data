@@ -1,0 +1,27 @@
+{
+  "chinese": "今天没昨天冷。",
+  "english": "Today is not as cold as yesterday.",
+  "pinyin": "jīn tiān méi zuó tiān lěng。",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "没",
+      "en": "not",
+      "pi": "méi"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "冷",
+      "en": "cold",
+      "pi": "lěng"
+    }
+  ]
+}

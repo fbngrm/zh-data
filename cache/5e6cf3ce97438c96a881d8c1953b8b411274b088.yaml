@@ -1,0 +1,20 @@
+{
+  "chinese": "据一些学者称，现在可能随时发生一场特大地震。",
+  "english": "According to some scholars, a major earthquake could occur at any time.",
+  "pinyin": "jù yī xiē xué zhě chēng ，xiàn zài kě néng suí shí fā shēng yī chǎng tè dà dì zhèn。",
+  "words": [
+      {"ch": "据", "en": "according to", "pi": "jù"},
+      {"ch": "一些", "en": "some", "pi": "yī xiē"},
+      {"ch": "学者", "en": "scholars", "pi": "xué zhě"},
+      {"ch": "称", "en": "claim", "pi": "chēng"},
+      {"ch": "，", "en": ",", "pi": "，"},
+      {"ch": "现在", "en": "now", "pi": "xiàn zài"},
+      {"ch": "可能", "en": "could", "pi": "kě néng"},
+      {"ch": "随时", "en": "at any time", "pi": "suí shí"},
+      {"ch": "发生", "en": "occur", "pi": "fā shēng"},
+      {"ch": "一场", "en": "a", "pi": "yī chǎng"},
+      {"ch": "特大", "en": "major", "pi": "tè dà"},
+      {"ch": "地震", "en": "earthquake", "pi": "dì zhèn"},
+      {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

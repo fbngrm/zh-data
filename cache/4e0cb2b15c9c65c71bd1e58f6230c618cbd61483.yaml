@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆的孩子不会说法语。",
+  "english": "Tom's child does not speak French.",
+  "pinyin": "tāng mǔ de hái zǐ bù huì shuō fǎ yǔ。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "孩子",
+      "en": "child",
+      "pi": "hái zǐ"
+    },
+    {
+      "ch": "不会",
+      "en": "does not",
+      "pi": "bù huì"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎ yǔ"
+    }
+  ]
+}

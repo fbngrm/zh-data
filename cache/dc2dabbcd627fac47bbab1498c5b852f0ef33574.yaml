@@ -1,0 +1,37 @@
+{
+  "chinese": "你週日需要去工作吗？",
+  "english": "Do you need to work on Sunday?",
+  "pinyin": "nǐ zhōu rì xū yào qù gōng zuò ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "週日",
+      "en": "Sunday",
+      "pi": "zhōu rì"
+    },
+    {
+      "ch": "需要",
+      "en": "need to",
+      "pi": "xū yào"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "工作",
+      "en": "work",
+      "pi": "gōng zuò"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "十一点准时到车站。",
+  "english": "Arrive at the station on time at eleven o'clock.",
+  "pinyin": "shí yī diǎn zhǔn shí dào chē zhàn。",
+  "words": [
+    {
+      "ch": "十一点",
+      "en": "eleven o'clock",
+      "pi": "shí yī diǎn"
+    },
+    {
+      "ch": "准时",
+      "en": "on time",
+      "pi": "zhǔn shí"
+    },
+    {
+      "ch": "到",
+      "en": "arrive",
+      "pi": "dào"
+    },
+    {
+      "ch": "车站",
+      "en": "station",
+      "pi": "chē zhàn"
+    }
+  ]
+}

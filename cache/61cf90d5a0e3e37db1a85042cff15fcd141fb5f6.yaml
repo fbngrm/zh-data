@@ -1,0 +1,16 @@
+{
+  "chinese": "她作证说她看见了这名男子。",
+  "english": "She testified that she saw this man.",
+  "pinyin": "tā zuò zhèng shuō tā kàn jiàn le zhè míng nán zǐ。",
+  "words": [
+    {"ch": "她", "en": "she", "pi": "tā"},
+    {"ch": "作证", "en": "testify", "pi": "zuò zhèng"},
+    {"ch": "说", "en": "say", "pi": "shuō"},
+    {"ch": "她", "en": "she", "pi": "tā"},
+    {"ch": "看见", "en": "see", "pi": "kàn jiàn"},
+    {"ch": "了", "en": "past tense marker", "pi": "le"},
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "名", "en": "name", "pi": "míng"},
+    {"ch": "男子", "en": "man", "pi": "nán zǐ"}
+  ]
+}

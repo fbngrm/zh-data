@@ -1,0 +1,37 @@
+{
+  "chinese": "已经下了两天的雨。",
+  "english": "It has been raining for two days.",
+  "pinyin": "yǐ jīng xià le liǎng tiān de yǔ.",
+  "words": [
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐ jīng"
+    },
+    {
+      "ch": "下",
+      "en": "to rain",
+      "pi": "xià"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "两天",
+      "en": "two days",
+      "pi": "liǎng tiān"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "雨",
+      "en": "rain",
+      "pi": "yǔ"
+    }
+  ]
+}

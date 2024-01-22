@@ -1,0 +1,25 @@
+{
+  "chinese": "我爸爸可能给我一辆车，如果它发生了，我会感到高兴。",
+  "english": "My dad might give me a car, if it happens, I will be happy.",
+  "pinyin": "wǒ bàba kěnéng gěi wǒ yī liàng chē ，rúguǒ tā fāshēngle ，wǒ huì gǎndào gāoxìng。",
+  "words": [
+    {"ch": "我", "en": "My", "pi": "wǒ"},
+    {"ch": "爸爸", "en": "dad", "pi": "bàba"},
+    {"ch": "可能", "en": "might", "pi": "kěnéng"},
+    {"ch": "给", "en": "give", "pi": "gěi"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "一辆", "en": "a", "pi": "yī liàng"},
+    {"ch": "车", "en": "car", "pi": "chē"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "如果", "en": "if", "pi": "rúguǒ"},
+    {"ch": "它", "en": "it", "pi": "tā"},
+    {"ch": "发生", "en": "happens", "pi": "fāshēng"},
+    {"ch": "了", "en": "", "pi": "le"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "感到", "en": "feel", "pi": "gǎndào"},
+    {"ch": "高兴", "en": "happy", "pi": "gāoxìng"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

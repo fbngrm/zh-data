@@ -1,0 +1,16 @@
+{
+  "chinese": "湯姆的手臂和手斷了些骨頭。",
+  "english": "Tom's arms and hands have some bones broken.",
+  "pinyin": "Tāng mǔ de shǒubì hé shǒu duàn le xiē gǔtou.",
+  "words": [
+    {"ch": "湯姆", "en": "Tom", "pi": "Tāng mǔ"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "手臂", "en": "arms", "pi": "shǒubì"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "手", "en": "hands", "pi": "shǒu"},
+    {"ch": "斷", "en": "broken", "pi": "duàn"},
+    {"ch": "了", "en": "have", "pi": "le"},
+    {"ch": "些", "en": "some", "pi": "xiē"},
+    {"ch": "骨頭", "en": "bones", "pi": "gǔtou"}
+  ]
+}

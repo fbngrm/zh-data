@@ -1,0 +1,15 @@
+{
+  "chinese": "我想知道他会不会来这里。",
+  "english": "I want to know if he will come here.",
+  "pinyin": "Wǒ xiǎng zhīdào tā huì bù huì lái zhèlǐ.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "想", "en": "want", "pi": "xiǎng"},
+    {"ch": "知道", "en": "to know", "pi": "zhīdào"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "不会", "en": "will not", "pi": "bù huì"},
+    {"ch": "来", "en": "come", "pi": "lái"},
+    {"ch": "这里", "en": "here", "pi": "zhèlǐ"}
+  ]
+}

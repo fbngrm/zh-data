@@ -1,0 +1,52 @@
+{
+  "chinese": "请于五点钟到机场接我。",
+  "english": "Please pick me up at the airport at five o'clock.",
+  "pinyin": "qǐng yú wǔ diǎn zhōng dào jī chǎng jiē wǒ。",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "于",
+      "en": "at",
+      "pi": "yú"
+    },
+    {
+      "ch": "五",
+      "en": "five",
+      "pi": "wǔ"
+    },
+    {
+      "ch": "点",
+      "en": "o'clock",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "钟",
+      "en": "clock",
+      "pi": "zhōng"
+    },
+    {
+      "ch": "到",
+      "en": "at",
+      "pi": "dào"
+    },
+    {
+      "ch": "机场",
+      "en": "airport",
+      "pi": "jī chǎng"
+    },
+    {
+      "ch": "接",
+      "en": "pick up",
+      "pi": "jiē"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    }
+  ]
+}

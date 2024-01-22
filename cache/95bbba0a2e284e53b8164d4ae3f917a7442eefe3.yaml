@@ -1,0 +1,14 @@
+{
+  "chinese": "我还不想睡觉，所以我还在看书。",
+  "english": "I don't want to sleep yet, so I'm still reading.",
+  "pinyin": "wǒ hái bùxiǎng shuìjiào, suǒyǐ wǒ hái zài kànshū.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "还", "en": "still", "pi": "hái"},
+    {"ch": "不想", "en": "don't want", "pi": "bùxiǎng"},
+    {"ch": "睡觉", "en": "to sleep", "pi": "shuìjiào"},
+    {"ch": "所以", "en": "so", "pi": "suǒyǐ"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "看书", "en": "reading", "pi": "kànshū"}
+  ]
+}

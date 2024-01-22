@@ -1,0 +1,42 @@
+{
+  "chinese": "保罗刚打了电话给我。",
+  "english": "Paul just called me.",
+  "pinyin": "Bǎoluó gāng dǎle diànhuà gěi wǒ.",
+  "words": [
+    {
+      "ch": "保罗",
+      "en": "Paul",
+      "pi": "Bǎoluó"
+    },
+    {
+      "ch": "刚",
+      "en": "just",
+      "pi": "gāng"
+    },
+    {
+      "ch": "打",
+      "en": "called",
+      "pi": "dǎ"
+    },
+    {
+      "ch": "了",
+      "en": "(indicating completed action)",
+      "pi": "le"
+    },
+    {
+      "ch": "电话",
+      "en": "phone",
+      "pi": "diànhuà"
+    },
+    {
+      "ch": "给",
+      "en": "to",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "我付了两倍的钱。",
+  "english": "I paid twice the amount of money.",
+  "pinyin": "wǒ fù le liǎng bèi de qián.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "付",
+      "en": "paid",
+      "pi": "fù"
+    },
+    {
+      "ch": "了",
+      "en": "(indicating completed action)",
+      "pi": "le"
+    },
+    {
+      "ch": "两倍",
+      "en": "twice the amount",
+      "pi": "liǎng bèi"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "钱",
+      "en": "money",
+      "pi": "qián"
+    }
+  ]
+}

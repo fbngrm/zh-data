@@ -1,0 +1,27 @@
+{
+  "chinese": "我们在学习中文。",
+  "english": "We are studying Chinese.",
+  "pinyin": "wǒmen zài xuéxí zhōngwén.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "在",
+      "en": "are",
+      "pi": "zài"
+    },
+    {
+      "ch": "学习",
+      "en": "studying",
+      "pi": "xuéxí"
+    },
+    {
+      "ch": "中文",
+      "en": "Chinese",
+      "pi": "zhōngwén"
+    }
+  ]
+}

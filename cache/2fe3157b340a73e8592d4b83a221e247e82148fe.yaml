@@ -1,0 +1,32 @@
+{
+  "chinese": "篮子里有很多鸡蛋。",
+  "english": "There are many eggs in the basket.",
+  "pinyin": "lán zi lǐ yǒu hěn duō jī dàn。",
+  "words": [
+    {
+      "ch": "篮子",
+      "en": "basket",
+      "pi": "lán zi"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "很多",
+      "en": "many",
+      "pi": "hěn duō"
+    },
+    {
+      "ch": "鸡蛋",
+      "en": "eggs",
+      "pi": "jī dàn"
+    }
+  ]
+}

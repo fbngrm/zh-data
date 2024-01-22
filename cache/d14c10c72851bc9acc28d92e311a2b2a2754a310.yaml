@@ -1,0 +1,14 @@
+{
+  "chinese": "那天早上我五点起床。",
+  "english": "That morning, I woke up at five o'clock.",
+  "pinyin": "Nà tiān zǎoshang wǒ wǔ diǎn qǐchuáng.",
+  "words": [
+    { "ch": "那", "en": "that", "pi": "nà" },
+    { "ch": "天", "en": "day", "pi": "tiān" },
+    { "ch": "早上", "en": "morning", "pi": "zǎoshang" },
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "五", "en": "five", "pi": "wǔ" },
+    { "ch": "点", "en": "o'clock", "pi": "diǎn" },
+    { "ch": "起床", "en": "wake up", "pi": "qǐchuáng" }
+  ]
+}

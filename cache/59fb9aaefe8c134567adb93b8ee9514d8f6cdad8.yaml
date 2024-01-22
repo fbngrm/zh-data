@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆可能不会做蠢事。",
+  "english": "Tom may not do something stupid.",
+  "pinyin": "Tāng mǔ kěnéng bù huì zuò chǔn shì.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "可能",
+      "en": "may",
+      "pi": "kě néng"
+    },
+    {
+      "ch": "不会",
+      "en": "not",
+      "pi": "bù huì"
+    },
+    {
+      "ch": "做",
+      "en": "do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "蠢事",
+      "en": "something stupid",
+      "pi": "chǔn shì"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "猫在凳子上还是凳子下？",
+  "english": "Is the cat on the chair or under the chair?",
+  "pinyin": "Māo zài dèngzi shàng háishì dèngzi xià?",
+  "words": [
+    {"ch": "猫", "en": "cat", "pi": "māo"},
+    {"ch": "在", "en": "on", "pi": "zài"},
+    {"ch": "凳子", "en": "chair", "pi": "dèngzi"},
+    {"ch": "上", "en": "on", "pi": "shàng"},
+    {"ch": "还是", "en": "or", "pi": "háishì"},
+    {"ch": "凳子", "en": "chair", "pi": "dèngzi"},
+    {"ch": "下", "en": "under", "pi": "xià"}
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "因为出生在英国，他说英国英语。",
+  "english": "Because he was born in England, he speaks British English.",
+  "pinyin": "Yīnwèi chūshēng zài Yīngguó, tā shuō Yīngguó yīngyǔ。",
+  "words": [
+    {
+      "ch": "因为",
+      "en": "Because",
+      "pi": "yīnwèi"
+    },
+    {
+      "ch": "出生",
+      "en": "born",
+      "pi": "chūshēng"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "英国",
+      "en": "England",
+      "pi": "Yīngguó"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "说",
+      "en": "speaks",
+      "pi": "shuō"
+    },
+    {
+      "ch": "英国英语",
+      "en": "British English",
+      "pi": "Yīngguó yīngyǔ"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我现在30岁了。",
+  "english": "I am now 30 years old.",
+  "pinyin": "Wǒ xiànzài sānshí suì le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiànzài"
+    },
+    {
+      "ch": "30",
+      "en": "30",
+      "pi": "sānshí"
+    },
+    {
+      "ch": "岁",
+      "en": "years old",
+      "pi": "suì"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

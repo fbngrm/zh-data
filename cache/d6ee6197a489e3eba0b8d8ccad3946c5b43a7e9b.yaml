@@ -1,0 +1,42 @@
+{
+  "chinese": "我喜欢喝咖啡不加糖。",
+  "english": "I like to drink coffee without sugar.",
+  "pinyin": "wǒ xǐhuān hē kāfēi bù jiā táng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "喝",
+      "en": "to drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kāfēi"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "加",
+      "en": "to add",
+      "pi": "jiā"
+    },
+    {
+      "ch": "糖",
+      "en": "sugar",
+      "pi": "táng"
+    }
+  ]
+}

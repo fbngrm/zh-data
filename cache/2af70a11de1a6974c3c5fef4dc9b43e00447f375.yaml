@@ -1,0 +1,14 @@
+{
+  "chinese": "我每个周末早上工作三小时。",
+  "english": "I work three hours every weekend morning.",
+  "pinyin": "wǒ měi gè zhōumò zǎoshang gōngzuò sān xiǎoshí。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "每个", "en": "every", "pi": "měi gè"},
+    {"ch": "周末", "en": "weekend", "pi": "zhōumò"},
+    {"ch": "早上", "en": "morning", "pi": "zǎoshang"},
+    {"ch": "工作", "en": "work", "pi": "gōngzuò"},
+    {"ch": "三", "en": "three", "pi": "sān"},
+    {"ch": "小时", "en": "hours", "pi": "xiǎoshí"}
+  ]
+}

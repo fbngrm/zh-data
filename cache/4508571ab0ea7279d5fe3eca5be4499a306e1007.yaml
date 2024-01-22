@@ -1,0 +1,37 @@
+{
+  "chinese": "猜猜看他告诉了我什么。",
+  "english": "Guess what he told me.",
+  "pinyin": "Cāi cāi kàn tā gàosù le wǒ shénme.",
+  "words": [
+    {
+      "ch": "猜猜看",
+      "en": "Guess",
+      "pi": "cāi cāi kàn"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "告诉",
+      "en": "told",
+      "pi": "gàosù"
+    },
+    {
+      "ch": "了",
+      "en": "me",
+      "pi": "le"
+    },
+    {
+      "ch": "我",
+      "en": "what",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    }
+  ]
+}

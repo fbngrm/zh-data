@@ -1,0 +1,37 @@
+{
+  "chinese": "她一口气喝下多半杯凉茶。",
+  "english": "She drank more than half a cup of cold tea in one breath.",
+  "pinyin": "tā yī kǒu qì hē xià duō bàn bēi liáng chá。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "一口气",
+      "en": "in one breath",
+      "pi":"yī kǒu qì"
+    },
+    {
+      "ch": "喝下",
+      "en": "drank",
+      "pi": "hē xià"
+    },
+    {
+      "ch": "多半",
+      "en": "more than half",
+      "pi": "duō bàn"
+    },
+    {
+      "ch": "杯",
+      "en": "cup",
+      "pi": "bēi"
+    },
+    {
+      "ch": "凉茶",
+      "en": "cold tea",
+      "pi": "liáng chá"
+    }
+  ]
+}

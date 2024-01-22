@@ -1,0 +1,32 @@
+{
+  "chinese": "你开得太快了。",
+  "english": "You're driving too fast.",
+  "pinyin": "nǐ kāi de tài kuài le.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "开",
+      "en": "drive",
+      "pi": "kāi"
+    },
+    {
+      "ch": "得",
+      "en": "too",
+      "pi": "de"
+    },
+    {
+      "ch": "快",
+      "en": "fast",
+      "pi": "kuài"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "chinese": "下课了吗？", 
+  "english": "Is class over?", 
+  "pinyin": "Xiàkèle ma?", 
+  "words": [
+    {"ch": "下", "en": "down", "pi": "xià"},
+    {"ch": "课", "en": "class", "pi": "kè"},
+    {"ch": "了", "en": "is over", "pi": "le"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

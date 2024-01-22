@@ -1,0 +1,42 @@
+{
+  "chinese": "南希，这里有一封你的信。",
+  "english": "Nancy, here is a letter for you.",
+  "pinyin": "Nán xī，zhè lǐ yǒu yī fēng nǐ de xìn。",
+  "words": [
+    {
+      "ch": "南希",
+      "en": "Nancy",
+      "pi": "Nán xī"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一",
+      "en": "one",
+      "pi": "yī"
+    },
+    {
+      "ch": "封",
+      "en": "letter",
+      "pi": "fēng"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "信",
+      "en": "letter",
+      "pi": "xìn"
+    }
+  ]
+}

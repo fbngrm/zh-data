@@ -1,0 +1,27 @@
+{
+  "chinese": "你好，我叫Nancy。",
+  "english": "Hello, my name is Nancy.",
+  "pinyin": "Nǐ hǎo, wǒ jiào Nancy.",
+  "words": [
+    {
+      "ch": "你好",
+      "en": "Hello",
+      "pi": "Nǐ hǎo"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "叫",
+      "en": "call",
+      "pi": "jiào"
+    },
+    {
+      "ch": "Nancy",
+      "en": "Nancy",
+      "pi": "Nancy"
+    }
+  ]
+}

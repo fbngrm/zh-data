@@ -1,0 +1,37 @@
+{
+  "chinese": "她跟他去公园了。",
+  "english": "She went to the park with him.",
+  "pinyin": "tā gēn tā qù gōng yuán le.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "跟",
+      "en": "with",
+      "pi": "gēn"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "公园",
+      "en": "park",
+      "pi": "gōng yuán"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

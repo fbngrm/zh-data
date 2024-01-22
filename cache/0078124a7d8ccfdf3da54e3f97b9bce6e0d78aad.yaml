@@ -1,0 +1,12 @@
+{
+  "chinese": "这首曲子叫什么名字？",
+  "english": "What is the name of this song?",
+  "pinyin": "zhè shǒu qǔzi jiào shénme míngzì?",
+  "words": [
+    { "ch": "这首", "en": "this", "pi": "zhè shǒu" },
+    { "ch": "曲子", "en": "song", "pi": "qǔzi" },
+    { "ch": "叫", "en": "is called", "pi": "jiào" },
+    { "ch": "什么", "en": "what", "pi": "shénme" },
+    { "ch": "名字", "en": "name", "pi": "míngzì" }
+  ]
+}

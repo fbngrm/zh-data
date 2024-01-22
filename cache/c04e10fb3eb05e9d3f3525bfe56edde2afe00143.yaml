@@ -1,0 +1,32 @@
+{
+  "chinese": "你有旅馆名录吗？",
+  "english": "Do you have a hotel directory?",
+  "pinyin": "Nǐ yǒu lǚguǎn mínglù ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "旅馆",
+      "en": "hotel",
+      "pi": "lǚguǎn"
+    },
+    {
+      "ch": "名录",
+      "en": "directory",
+      "pi": "mínglù"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

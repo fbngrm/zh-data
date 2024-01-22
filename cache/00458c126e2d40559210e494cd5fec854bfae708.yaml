@@ -1,0 +1,15 @@
+{
+  "chinese": "这个家庭非常贫穷以至于无法偿还贷款。",
+  "english": "This family is so poor that they cannot repay the loan.",
+  "pinyin": "zhè gè jiātíng fēicháng pínqióng yǐzhìyú wúfǎ chánghuán dàikuǎn。",
+  "words": [
+    {"ch": "这个", "en": "This", "pi": "zhè gè"},
+    {"ch": "家庭", "en": "family", "pi": "jiātíng"},
+    {"ch": "非常", "en": "very", "pi": "fēicháng"},
+    {"ch": "贫穷", "en": "poor", "pi": "pínqióng"},
+    {"ch": "以至于", "en": "so that", "pi": "yǐzhìyú"},
+    {"ch": "无法", "en": "cannot", "pi": "wúfǎ"},
+    {"ch": "偿还", "en": "repay", "pi": "chánghuán"},
+    {"ch": "贷款", "en": "loan", "pi": "dàikuǎn"}
+  ]
+}

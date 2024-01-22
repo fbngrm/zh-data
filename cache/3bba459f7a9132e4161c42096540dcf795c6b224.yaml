@@ -1,0 +1,37 @@
+{
+  "chinese": "我爸爸是哈佛大学毕业的。",
+  "english": "My father graduated from Harvard University.",
+  "pinyin": "Wǒ bàba shì Hāfó dàxué bìyè de.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "爸爸",
+      "en": "father",
+      "pi": "bàba"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "哈佛大学",
+      "en": "Harvard University",
+      "pi": "Hāfó dàxué"
+    },
+    {
+      "ch": "毕业",
+      "en": "graduated",
+      "pi": "bìyè"
+    },
+    {
+      "ch": "的",
+      "en": "from",
+      "pi": "de"
+    }
+  ]
+}

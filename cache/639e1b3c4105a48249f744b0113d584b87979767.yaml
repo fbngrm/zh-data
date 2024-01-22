@@ -1,0 +1,90 @@
+{
+  "sentences": [
+    {
+      "chinese": "我是一個學生。",
+      "english": "I am a student.",
+      "pinyin": "wǒ shì yīgè xuéshēng",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "是",
+          "en": "am",
+          "pi": "shì"
+        },
+        {
+          "ch": "一個",
+          "en": "a",
+          "pi": "yīgè"
+        },
+        {
+          "ch": "學生",
+          "en": "student",
+          "pi": "xuéshēng"
+        }
+      ]
+    },
+    {
+      "chinese": "你喜歡吃中國菜嗎？",
+      "english": "Do you like Chinese food?",
+      "pinyin": "nǐ xǐhuān chī zhōngguó cài ma",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "喜歡",
+          "en": "like",
+          "pi": "xǐhuān"
+        },
+        {
+          "ch": "吃",
+          "en": "eat",
+          "pi": "chī"
+        },
+        {
+          "ch": "中國菜",
+          "en": "Chinese food",
+          "pi": "zhōngguó cài"
+        },
+        {
+          "ch": "嗎",
+          "en": "question particle",
+          "pi": "ma"
+        }
+      ]
+    },
+    {
+      "chinese": "今天天氣很好。",
+      "english": "The weather is very good today.",
+      "pinyin": "jīntiān tiānqì hěn hǎo",
+      "words": [
+        {
+          "ch": "今天",
+          "en": "today",
+          "pi": "jīntiān"
+        },
+        {
+          "ch": "天氣",
+          "en": "weather",
+          "pi": "tiānqì"
+        },
+        {
+          "ch": "很",
+          "en": "very",
+          "pi": "hěn"
+        },
+        {
+          "ch": "好",
+          "en": "good",
+          "pi": "hǎo"
+        }
+      ]
+    }
+  ]
+}

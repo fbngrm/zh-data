@@ -1,0 +1,32 @@
+{
+  "chinese": "Tom喝了些果汁。",
+  "english": "Tom drank some fruit juice.",
+  "pinyin": "Tó m hē le xiē guǒ zhī.",
+  "words": [
+    {
+      "ch": "Tom",
+      "en": "Tom",
+      "pi": "Tó m"
+    },
+    {
+      "ch": "喝",
+      "en": "drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "了",
+      "en": "finished/past tense marker",
+      "pi": "le"
+    },
+    {
+      "ch": "些",
+      "en": "some",
+      "pi": "xiē"
+    },
+    {
+      "ch": "果汁",
+      "en": "fruit juice",
+      "pi": "guǒ zhī"
+    }
+  ]
+}

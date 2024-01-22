@@ -1,0 +1,15 @@
+{
+  "chinese": "这只手机实在是太贵了。",
+  "english": "This mobile phone is just too expensive.",
+  "pinyin": "zhè zhī shǒujī shízài shì tài guìle.",
+  "words": [
+    {"ch": "这", "en": "This", "pi": "zhè"},
+    {"ch": "只", "en": "only", "pi": "zhī"},
+    {"ch": "手机", "en": "mobile phone", "pi": "shǒujī"},
+    {"ch": "实在", "en": "just", "pi": "shízài"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "太", "en": "too", "pi": "tài"},
+    {"ch": "贵", "en": "expensive", "pi": "guì"},
+    {"ch": "了", "en": "le", "pi": "le"}
+  ]
+}

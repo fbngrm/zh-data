@@ -1,0 +1,27 @@
+{
+  "chinese": "不好意思，现在线路繁忙。",
+  "english": "Sorry, the line is busy now.",
+  "pinyin": "bù hǎo yì sī，xiàn zài xiàn lù fán máng。",
+  "words": [
+    {
+      "ch": "不好意思",
+      "en": "Sorry",
+      "pi": "bù hǎo yì sī"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "线路",
+      "en": "line",
+      "pi": "xiàn lù"
+    },
+    {
+      "ch": "繁忙",
+      "en": "busy",
+      "pi": "fán máng"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "这些汉字对我们来说不太难。",
+  "english": "These Chinese characters are not too difficult for us.",
+  "pinyin": "zhè xiē hàn zì duì wǒ men lái shuō bú tài nán.",
+  "words": [
+    {
+      "ch": "这些",
+      "en": "these",
+      "pi": "zhè xiē"
+    },
+    {
+      "ch": "汉字",
+      "en": "Chinese characters",
+      "pi": "hàn zì"
+    },
+    {
+      "ch": "对",
+      "en": "for",
+      "pi": "duì"
+    },
+    {
+      "ch": "我们",
+      "en": "us",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "来说",
+      "en": "to",
+      "pi": "lái shuō"
+    },
+    {
+      "ch": "不太",
+      "en": "not too",
+      "pi": "bú tài"
+    },
+    {
+      "ch": "难",
+      "en": "difficult",
+      "pi": "nán"
+    }
+  ]
+}

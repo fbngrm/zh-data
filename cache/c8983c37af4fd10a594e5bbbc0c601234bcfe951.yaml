@@ -1,0 +1,27 @@
+{
+  "chinese": "迈克喜欢打篮球。",
+  "english": "Mike likes playing basketball.",
+  "pinyin": "Mài kè xǐ huān dǎ lán qiú.",
+  "words": [
+    {
+      "ch": "迈克",
+      "en": "Mike",
+      "pi": "Mài kè"
+    },
+    {
+      "ch": "喜欢",
+      "en": "likes",
+      "pi": "xǐ huān"
+    },
+    {
+      "ch": "打",
+      "en": "playing",
+      "pi": "dǎ"
+    },
+    {
+      "ch": "篮球",
+      "en": "basketball",
+      "pi": "lán qiú"
+    }
+  ]
+}

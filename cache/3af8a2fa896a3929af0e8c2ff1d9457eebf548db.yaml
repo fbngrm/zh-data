@@ -1,0 +1,36 @@
+{
+  "sentences": [
+    {
+      "chinese": "这些句子都需要句号。",
+      "english": "These sentences all need periods.",
+      "pinyin": "zhè xiē jù zi dōu xū yào jù hào。",
+      "words": [
+        {
+          "ch": "这些",
+          "en": "These",
+          "pi": "zhè xiē"
+        },
+        {
+          "ch": "句子",
+          "en": "sentences",
+          "pi": "jù zi"
+        },
+        {
+          "ch": "都",
+          "en": "all",
+          "pi": "dōu"
+        },
+        {
+          "ch": "需要",
+          "en": "need",
+          "pi": "xū yào"
+        },
+        {
+          "ch": "句号",
+          "en": "periods",
+          "pi": "jù hào"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我的感冒传染了他.",
+  "english": "My cold infected him.",
+  "pinyin": "Wǒ de gǎnmào chuánrǎnle tā.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "Wǒ de"
+    },
+    {
+      "ch": "感冒",
+      "en": "cold",
+      "pi": "gǎnmào"
+    },
+    {
+      "ch": "传染",
+      "en": "infected",
+      "pi": "chuánrǎn"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "胡萝卜中含有大量的维生素Ａ。",
+  "english": "Carrots contain a large amount of vitamin A.",
+  "pinyin": "Hú luó bo zhōng hán yǒu dà liàng de wéi shēng sù A.",
+  "words": [
+    {"ch": "胡萝卜", "en": "carrots", "pi": "hú luó bo"},
+    {"ch": "中", "en": "contain", "pi": "zhōng"},
+    {"ch": "含有", "en": "have", "pi": "hán yǒu"},
+    {"ch": "大量的", "en": "a large amount of", "pi": "dà liàng de"},
+    {"ch": "维生素", "en": "vitamin", "pi": "wéi shēng sù"},
+    {"ch": "Ａ", "en": "A", "pi": "A"}
+  ]
+}

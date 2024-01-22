@@ -1,0 +1,32 @@
+{
+  "chinese": "他的房子在我的对面。",
+  "english": "His house is opposite mine.",
+  "pinyin": "tā de fángzi zài wǒ de duìmiàn。",
+  "words": [
+    {
+      "ch": "他的",
+      "en": "His",
+      "pi": "tā de"
+    },
+    {
+      "ch": "房子",
+      "en": "house",
+      "pi": "fángzi"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "我的",
+      "en": "mine",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "对面",
+      "en": "opposite",
+      "pi": "duìmiàn"
+    }
+  ]
+}

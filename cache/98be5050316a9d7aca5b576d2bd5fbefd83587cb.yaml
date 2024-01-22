@@ -1,0 +1,16 @@
+{
+  "chinese": "这就是我和妻子第一次见面的咖啡馆。",
+  "english": "This is the café where my wife and I first met.",
+  "pinyin": "zhè jiù shì wǒ hé qī zi dì yī cì jiàn miàn de kā fēi guǎn。",
+  "words": [
+    { "ch": "这", "en": "this", "pi": "zhè" },
+    { "ch": "就是", "en": "is", "pi": "jiù shì" },
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "和", "en": "and", "pi": "hé" },
+    { "ch": "妻子", "en": "wife", "pi": "qī zi" },
+    { "ch": "第一次", "en": "first time", "pi": "dì yī cì" },
+    { "ch": "见面", "en": "met", "pi": "jiàn miàn" },
+    { "ch": "的", "en": "the", "pi": "de" },
+    { "ch": "咖啡馆", "en": "café", "pi": "kā fēi guǎn" }
+  ]
+}

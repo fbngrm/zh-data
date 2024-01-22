@@ -1,0 +1,42 @@
+{
+  "chinese": "我用各种各样的软件学习中文。",
+  "english": "I use various software to learn Chinese.",
+  "pinyin": "wǒ yòng gè zhǒng gè yàng de ruǎnjiàn xuéxí zhōngwén.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "用",
+      "en": "use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "各种各样",
+      "en": "various",
+      "pi": "gè zhǒng gè yàng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "软件",
+      "en": "software",
+      "pi": "ruǎnjiàn"
+    },
+    {
+      "ch": "学习",
+      "en": "learn",
+      "pi": "xuéxí"
+    },
+    {
+      "ch": "中文",
+      "en": "Chinese",
+      "pi": "zhōngwén"
+    }
+  ]
+}

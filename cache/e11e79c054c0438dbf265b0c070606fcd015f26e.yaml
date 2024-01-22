@@ -1,0 +1,32 @@
+{
+  "chinese": "他跟我借一百块。",
+  "english": "He borrowed 100 yuan from me.",
+  "pinyin": "tā gēn wǒ jiè yībǎi kuài.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "跟我",
+      "en": "from me",
+      "pi": "gēn wǒ"
+    },
+    {
+      "ch": "借",
+      "en": "borrow",
+      "pi": "jiè"
+    },
+    {
+      "ch": "一百",
+      "en": "100",
+      "pi": "yībǎi"
+    },
+    {
+      "ch": "块",
+      "en": "yuan",
+      "pi": "kuài"
+    }
+  ]
+}

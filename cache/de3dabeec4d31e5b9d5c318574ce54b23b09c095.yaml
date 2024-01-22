@@ -1,0 +1,32 @@
+{
+  "chinese": "我们需要多一点咖啡。",
+  "english": "We need a little more coffee.",
+  "pinyin": "wǒmen xūyào duō yīdiǎn kāfēi.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "需要",
+      "en": "need",
+      "pi": "xūyào"
+    },
+    {
+      "ch": "多",
+      "en": "a little",
+      "pi": "duō"
+    },
+    {
+      "ch": "一点",
+      "en": "more",
+      "pi": "yīdiǎn"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kāfēi"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "约翰上週得了重感冒。",
+  "english": "John got a severe cold last week.",
+  "pinyin": "Yuēhàn shàng zhōu déle zhòng gǎnmào.",
+  "words": [
+    {
+      "ch": "约翰",
+      "en": "John",
+      "pi": "Yuēhàn"
+    },
+    {
+      "ch": "上週",
+      "en": "last week",
+      "pi": "shàng zhōu"
+    },
+    {
+      "ch": "得了",
+      "en": "got",
+      "pi": "déle"
+    },
+    {
+      "ch": "重",
+      "en": "severe",
+      "pi": "zhòng"
+    },
+    {
+      "ch": "感冒",
+      "en": "cold",
+      "pi": "gǎnmào"
+    }
+  ]
+}

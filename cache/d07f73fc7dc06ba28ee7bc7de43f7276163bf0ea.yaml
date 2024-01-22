@@ -1,0 +1,32 @@
+{
+  "chinese": "我不喜欢喝酒。",
+  "english": "I don't like to drink alcohol.",
+  "pinyin": "wǒ bù xǐhuān hē jiǔ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "喝",
+      "en": "to drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "酒",
+      "en": "alcohol",
+      "pi": "jiǔ"
+    }
+  ]
+}

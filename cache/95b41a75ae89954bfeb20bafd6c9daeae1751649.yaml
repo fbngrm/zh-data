@@ -1,0 +1,32 @@
+{
+  "chinese": "这是胡安的车。",
+  "english": "This is Juan's car.",
+  "pinyin": "zhè shì hú ān de chē。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "胡安",
+      "en": "Juan",
+      "pi": "hú ān"
+    },
+    {
+      "ch": "的",
+      "en": "'s",
+      "pi": "de"
+    },
+    {
+      "ch": "车",
+      "en": "car",
+      "pi": "chē"
+    }
+  ]
+}

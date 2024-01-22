@@ -1,0 +1,27 @@
+{
+  "chinese": "火车站离这里不远。",
+  "english": "The train station is not far from here.",
+  "pinyin": "huǒ chē zhàn lí zhè lǐ bù yuǎn.",
+  "words": [
+    {
+      "ch": "火车站",
+      "en": "train station",
+      "pi": "huǒ chē zhàn"
+    },
+    {
+      "ch": "离",
+      "en": "from",
+      "pi": "lí"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "不远",
+      "en": "not far",
+      "pi": "bù yuǎn"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chinese": "从前文后理来推断一个字的意思。",
+  "english": "To infer the meaning of a character from the context before and after.",
+  "pinyin": "cóng qián wén hòu lǐ lái tuīduàn yīgè zì de yìsi.",
+  "words": [
+    {"ch": "从前", "en": "before", "pi": "cóng qián"},
+    {"ch": "文后", "en": "text after", "pi": "wén hòu"},
+    {"ch": "理来", "en": "reasoning", "pi": "lǐ lái"},
+    {"ch": "推断", "en": "infer", "pi": "tuīduàn"},
+    {"ch": "一个", "en": "one", "pi": "yīgè"},
+    {"ch": "字", "en": "character", "pi": "zì"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "意思", "en": "meaning", "pi": "yìsi"}
+  ]
+}

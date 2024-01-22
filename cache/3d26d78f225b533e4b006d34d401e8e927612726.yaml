@@ -1,0 +1,230 @@
+{
+  "sentences": [
+    {
+      "chinese": "你鼻子怎麼了？",
+      "english": "What happened to your nose?",
+      "pinyin": "nǐ bízi zěnme le?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "鼻子",
+          "en": "nose",
+          "pi": "bízi"
+        },
+        {
+          "ch": "怎麼",
+          "en": "what",
+          "pi": "zěnme"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        }
+      ]
+    },
+    {
+      "chinese": "我剛才倒車的時候，想探頭出窗看清楚後面有沒有人。",
+      "english": "When I was reversing just now, I wanted to stick my head out the window to see if there was anyone behind. ",
+      "pinyin": "wǒ gāngcái dǎochē de shíhòu, xiǎng tàn tóu chū chuāng kàn qīngchǔ hòumiàn yǒu méiyǒu rén.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "剛才",
+          "en": "just now",
+          "pi": "gāngcái"
+        },
+        {
+          "ch": "倒車",
+          "en": "reversing",
+          "pi": "dǎochē"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": "de"
+        },
+        {
+          "ch": "時候",
+          "en": "when",
+          "pi": "shíhòu"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": ","
+        },
+        {
+          "ch": "想",
+          "en": "wanted",
+          "pi": "xiǎng"
+        },
+        {
+          "ch": "探頭",
+          "en": "to stick one's head out",
+          "pi": "tàn tóu"
+        },
+        {
+          "ch": "出",
+          "en": "out",
+          "pi": "chū"
+        },
+        {
+          "ch": "窗",
+          "en": "window",
+          "pi": "chuāng"
+        },
+        {
+          "ch": "看",
+          "en": "to see",
+          "pi": "kàn"
+        },
+        {
+          "ch": "清楚",
+          "en": "clearly",
+          "pi": "qīngchǔ"
+        },
+        {
+          "ch": "後面",
+          "en": "behind",
+          "pi": "hòumiàn"
+        },
+        {
+          "ch": "有沒有",
+          "en": "if there is or isn't",
+          "pi": "yǒu méiyǒu"
+        },
+        {
+          "ch": "人",
+          "en": "people",
+          "pi": "rén"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "."
+        }
+      ]
+    },
+    {
+      "chinese": "我以為車窗是開著的，誰知原來是關上了，於是就一頭撞到車窗上了。",
+      "english": "I thought the car window was open, but it turned out to be closed. As a result, I bumped my head on the car window.",
+      "pinyin": "wǒ yǐwéi chē chuāng shì kāizhe de, shuízhī yuánlái shì guān shàng le, yúshì jiù yītóu zhuàng dào chē chuāng shàng le.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "以為",
+          "en": "thought",
+          "pi": "yǐwéi"
+        },
+        {
+          "ch": "車窗",
+          "en": "car window",
+          "pi": "chē chuāng"
+        },
+        {
+          "ch": "是",
+          "en": "was",
+          "pi": "shì"
+        },
+        {
+          "ch": "開著",
+          "en": "open",
+          "pi": "kāizhe"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": "de"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": ","
+        },
+        {
+          "ch": "誰知",
+          "en": "but it turned out that",
+          "pi": "shuízhī"
+        },
+        {
+          "ch": "原來",
+          "en": "turned out",
+          "pi": "yuánlái"
+        },
+        {
+          "ch": "是",
+          "en": "to be",
+          "pi": "shì"
+        },
+        {
+          "ch": "關上",
+          "en": "closed",
+          "pi": "guān shàng"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": ","
+        },
+        {
+          "ch": "於是",
+          "en": "as a result",
+          "pi": "yúshì"
+        },
+        {
+          "ch": "就",
+          "en": "",
+          "pi": "jiù"
+        },
+        {
+          "ch": "一頭",
+          "en": "my head",
+          "pi": "yītóu"
+        },
+        {
+          "ch": "撞到",
+          "en": "bumped",
+          "pi": "zhuàng dào"
+        },
+        {
+          "ch": "車窗",
+          "en": "car window",
+          "pi": "chē chuāng"
+        },
+        {
+          "ch": "上",
+          "en": "on",
+          "pi": "shàng"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "."
+        }
+      ]
+    }
+  ]
+}

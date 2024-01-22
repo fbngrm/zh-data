@@ -1,0 +1,32 @@
+{
+  "chinese": "２０个以上九折特惠。",
+  "english": "More than 20 items with 10% discount.",
+  "pinyin": "èr shí gè yǐ shàng jiǔ zhé tè huì。",
+  "words": [
+    {
+      "ch": "２０",
+      "en": "20",
+      "pi": "èr shí"
+    },
+    {
+      "ch": "个",
+      "en": "items",
+      "pi": "gè"
+    },
+    {
+      "ch": "以上",
+      "en": "more than",
+      "pi": "yǐ shàng"
+    },
+    {
+      "ch": "九折",
+      "en": "10% discount",
+      "pi": "jiǔ zhé"
+    },
+    {
+      "ch": "特惠",
+      "en": "special offer",
+      "pi": "tè huì"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我知道她在法国。",
+  "english": "I know she is in France.",
+  "pinyin": "wǒ zhīdào tā zài fǎguó.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "在",
+      "en": "is in",
+      "pi": "zài"
+    },
+    {
+      "ch": "法国",
+      "en": "France",
+      "pi": "fǎguó"
+    }
+  ]
+}

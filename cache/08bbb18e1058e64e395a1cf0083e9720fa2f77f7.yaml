@@ -1,0 +1,47 @@
+{
+  "chinese": "我不信你买了这个东西。",
+  "english": "I don't believe you bought this object.",
+  "pinyin": "wǒ bù xìn nǐ mǎi le zhè ge dōng xi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "信",
+      "en": "believe",
+      "pi": "xìn"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "买",
+      "en": "buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "了",
+      "en": "past tense marker",
+      "pi": "le"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè ge"
+    },
+    {
+      "ch": "东西",
+      "en": "object",
+      "pi": "dōng xi"
+    }
+  ]
+}

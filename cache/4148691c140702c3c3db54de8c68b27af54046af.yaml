@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆比我高。",
+  "english": "Tom is taller than me.",
+  "pinyin": "Tāng mǔ bǐ wǒ gāo.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "高",
+      "en": "tall",
+      "pi": "gāo"
+    }
+  ]
+}

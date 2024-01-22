@@ -1,0 +1,14 @@
+{
+  "chinese": "你知道这是一个问题吗？",
+  "english": "Do you know this is a problem?",
+  "pinyin": "nǐ zhīdào zhè shì yīgè wèntí ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "知道", "en": "know", "pi": "zhīdào"},
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "一个", "en": "a", "pi": "yīgè"},
+    {"ch": "问题", "en": "problem", "pi": "wèntí"},
+    {"ch": "吗", "en": "?" , "pi": "ma"}
+  ]
+}

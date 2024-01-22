@@ -1,0 +1,13 @@
+{
+  "chinese": "谢谢你为我画鸟。",
+  "english": "Thank you for drawing a bird for me.",
+  "pinyin": "Xièxiè nǐ wèi wǒ huà niǎo.",
+  "words": [
+    { "ch": "谢谢", "en": "Thank you", "pi": "xièxiè" },
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "为", "en": "for", "pi": "wèi" },
+    { "ch": "我", "en": "me", "pi": "wǒ" },
+    { "ch": "画", "en": "draw", "pi": "huà" },
+    { "ch": "鸟", "en": "bird", "pi": "niǎo" }
+  ]
+}

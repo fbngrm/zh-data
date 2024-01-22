@@ -1,0 +1,27 @@
+{
+  "chinese": "你能阅读吗？",
+  "english": "Can you read?",
+  "pinyin": "nǐ néng yuè dú ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "阅读",
+      "en": "read",
+      "pi": "yuè dú"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

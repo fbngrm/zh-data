@@ -1,0 +1,57 @@
+{
+  "chinese": "汤姆在２：３０之后才能回家。",
+  "english": "Tom can only go home after 2:30.",
+  "pinyin": "Tāng mǔ zài èr diǎn bàn zhī hòu cái néng huí jiā.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "２",
+      "en": "2",
+      "pi": "èr"
+    },
+    {
+      "ch": "：",
+      "en": ":",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "３",
+      "en": "3",
+      "pi": "sān"
+    },
+    {
+      "ch": "０",
+      "en": "0",
+      "pi": "líng"
+    },
+    {
+      "ch": "之后",
+      "en": "after",
+      "pi": "zhī hòu"
+    },
+    {
+      "ch": "才",
+      "en": "only",
+      "pi": "cái"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "回家",
+      "en": "go home",
+      "pi": "huí jiā"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆昨晚差点死了。",
+  "english": "Tom almost died last night.",
+  "pinyin": "Tāng mǔ zuó wǎn chà diǎn sǐle.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "昨晚",
+      "en": "last night",
+      "pi": "zuó wǎn"
+    },
+    {
+      "ch": "差点",
+      "en": "almost",
+      "pi": "chà diǎn"
+    },
+    {
+      "ch": "死",
+      "en": "died",
+      "pi": "sǐ"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

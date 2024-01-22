@@ -1,0 +1,17 @@
+{
+  "chinese": "这家店从9点开到18点。",
+  "english": "This store opens from 9 am to 6 pm.",
+  "pinyin": "zhè jiā diàn cóng 9 diǎn kāi dào 18 diǎn。",
+  "words": [
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "家", "en": "store", "pi": "jiā"},
+    {"ch": "店", "en": "shop", "pi": "diàn"},
+    {"ch": "从", "en": "from", "pi": "cóng"},
+    {"ch": "9", "en": "9", "pi": "jiǔ"},
+    {"ch": "点", "en": "o'clock", "pi": "diǎn"},
+    {"ch": "开", "en": "open", "pi": "kāi"},
+    {"ch": "到", "en": "to", "pi": "dào"},
+    {"ch": "18", "en": "18", "pi": "shíbā"},
+    {"ch": "点", "en": "o'clock", "pi": "diǎn"}
+  ]
+}

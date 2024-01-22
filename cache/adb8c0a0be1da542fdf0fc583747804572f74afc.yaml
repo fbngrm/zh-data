@@ -1,0 +1,47 @@
+{
+  "chinese": "我看见他在读一本书。",
+  "english": "I saw him reading a book.",
+  "pinyin": "wǒ kànjiàn tā zài dú yī běn shū。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "看见",
+      "en": "saw",
+      "pi": "kànjiàn"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "读",
+      "en": "reading",
+      "pi": "dú"
+    },
+    {
+      "ch": "一",
+      "en": "a",
+      "pi": "yī"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    }
+  ]
+}

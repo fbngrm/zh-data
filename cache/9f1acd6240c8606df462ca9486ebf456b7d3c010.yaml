@@ -1,0 +1,32 @@
+{
+  "chinese": "最近三个月，价钱涨高了。",
+  "english": "The price has gone up in the past three months.",
+  "pinyin": "zuìjìn sān gè yuè, jiàqián zhǎng gāo le。",
+  "words": [
+    {
+      "ch": "最近",
+      "en": "recent",
+      "pi": "zuìjìn"
+    },
+    {
+      "ch": "三个月",
+      "en": "three months",
+      "pi": "sān gè yuè"
+    },
+    {
+      "ch": "价钱",
+      "en": "price",
+      "pi": "jiàqián"
+    },
+    {
+      "ch": "涨高",
+      "en": "go up",
+      "pi": "zhǎng gāo"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

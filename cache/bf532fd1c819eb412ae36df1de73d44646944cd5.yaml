@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆在帮玛丽吗？",
+  "english": "Is Tom helping Mary?",
+  "pinyin": "Tāng mǔ zài bāng mǎ lì ma?",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "帮",
+      "en": "helping",
+      "pi": "bāng"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

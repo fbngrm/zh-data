@@ -1,0 +1,17 @@
+{
+  "chinese": "那只鸟的体积有半只老鹰那么大。",
+  "english": "The size of that bird is about half the size of an eagle.",
+  "pinyin": "Nà zhī niǎo de tǐjī yǒu bàn zhī lǎoyīng nàme dà.",
+  "words": [
+    { "ch": "那只", "en": "that", "pi": "nà zhī" },
+    { "ch": "鸟", "en": "bird", "pi": "niǎo" },
+    { "ch": "的", "en": "'s", "pi": "de" },
+    { "ch": "体积", "en": "size", "pi": "tǐjī" },
+    { "ch": "有", "en": "have", "pi": "yǒu" },
+    { "ch": "半", "en": "half", "pi": "bàn" },
+    { "ch": "只", "en": "of", "pi": "zhī" },
+    { "ch": "老鹰", "en": "eagle", "pi": "lǎoyīng" },
+    { "ch": "那么", "en": "that", "pi": "nàme" },
+    { "ch": "大", "en": "big", "pi": "dà" }
+  ]
+}

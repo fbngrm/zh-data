@@ -1,0 +1,27 @@
+{
+  "chinese": "我不会喝咖啡。",
+  "english": "I don't know how to drink coffee.",
+  "pinyin": "wǒ bù huì hē kāfēi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不会",
+      "en": "don't know how to",
+      "pi": "bù huì"
+    },
+    {
+      "ch": "喝",
+      "en": "drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kāfēi"
+    }
+  ]
+}

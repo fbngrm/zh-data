@@ -1,0 +1,32 @@
+{
+  "chinese": "你的书在书桌上。",
+  "english": "Your book is on the desk.",
+  "pinyin": "Nǐ de shū zài shū zhuō shàng.",
+  "words": [
+    {
+      "ch": "你的",
+      "en": "Your",
+      "pi": "Nǐ de"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "书桌",
+      "en": "desk",
+      "pi": "shū zhuō"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    }
+  ]
+}

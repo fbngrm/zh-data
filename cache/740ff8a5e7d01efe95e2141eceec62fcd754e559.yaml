@@ -1,0 +1,32 @@
+{
+  "chinese": "这个班有多少男生？",
+  "english": "How many boys are in this class?",
+  "pinyin": "zhè gè bān yǒu duō shǎo nán shēng?",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "班",
+      "en": "class",
+      "pi": "bān"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "多少",
+      "en": "how many",
+      "pi": "duō shǎo"
+    },
+    {
+      "ch": "男生",
+      "en": "boys",
+      "pi": "nán shēng"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "這就是我需要的東西。",
+  "english": "This is what I need.",
+  "pinyin": "zhè jiù shì wǒ xūyào de dōngxi.",
+  "words": [
+    {
+      "ch": "這",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "就是",
+      "en": "is",
+      "pi": "jiù shì"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "需要",
+      "en": "need",
+      "pi": "xūyào"
+    },
+    {
+      "ch": "的",
+      "en": "what",
+      "pi": "de"
+    },
+    {
+      "ch": "東西",
+      "en": "thing",
+      "pi": "dōngxi"
+    }
+  ]
+}

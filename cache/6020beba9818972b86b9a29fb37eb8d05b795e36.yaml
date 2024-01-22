@@ -1,0 +1,32 @@
+{
+  "chinese": "今天很可能会下雨。",
+  "english": "It is very likely to rain today.",
+  "pinyin": "jīn tiān hěn kě néng huì xià yǔ.",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "可能",
+      "en": "likely",
+      "pi": "kě néng"
+    },
+    {
+      "ch": "会",
+      "en": "to",
+      "pi": "huì"
+    },
+    {
+      "ch": "下雨",
+      "en": "rain",
+      "pi": "xià yǔ"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "这些东西不是我的！",
+  "english": "These things are not mine!",
+  "pinyin": "zhè xiē dōng xī bú shì wǒ de!",
+  "words": [
+    {
+      "ch": "这些",
+      "en": "these",
+      "pi": "zhè xiē"
+    },
+    {
+      "ch": "东西",
+      "en": "things",
+      "pi": "dōng xī"
+    },
+    {
+      "ch": "不是",
+      "en": "not",
+      "pi": "bú shì"
+    },
+    {
+      "ch": "我的",
+      "en": "mine",
+      "pi": "wǒ de"
+    }
+  ]
+}

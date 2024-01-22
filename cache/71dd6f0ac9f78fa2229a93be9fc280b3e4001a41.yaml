@@ -1,0 +1,37 @@
+{
+  "chinese": "他三个小时后回家了。",
+  "english": "He came back home three hours later.",
+  "pinyin": "tā sān gè xiǎo shí hòu huí jiā le。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "三个",
+      "en": "three",
+      "pi": "sān gè"
+    },
+    {
+      "ch": "小时",
+      "en": "hours",
+      "pi": "xiǎo shí"
+    },
+    {
+      "ch": "后",
+      "en": "later",
+      "pi": "hòu"
+    },
+    {
+      "ch": "回家",
+      "en": "come back home",
+      "pi": "huí jiā"
+    },
+    {
+      "ch": "了",
+      "en": "has/have (indicating completed action)",
+      "pi": "le"
+    }
+  ]
+}

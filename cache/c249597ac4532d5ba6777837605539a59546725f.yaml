@@ -1,0 +1,32 @@
+{
+  "chinese": "不好意思，你刚才说甚么？",
+  "english": "Sorry, what did you just say?",
+  "pinyin": "bù hǎo yì si, nǐ gāng cái shuō shén me?",
+  "words": [
+    {
+      "ch": "不好意思",
+      "en": "Sorry",
+      "pi": "bù hǎo yì si"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "刚才",
+      "en": "just now",
+      "pi": "gāng cái"
+    },
+    {
+      "ch": "说",
+      "en": "say",
+      "pi": "shuō"
+    },
+    {
+      "ch": "甚么",
+      "en": "what",
+      "pi": "shén me"
+    }
+  ]
+}

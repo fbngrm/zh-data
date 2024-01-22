@@ -1,0 +1,37 @@
+{
+  "chinese": "路中间有一辆卡车。",
+  "english": "There is a truck in the middle of the road.",
+  "pinyin": "lù zhōng jiān yǒu yī liàng kǎ chē。",
+  "words": [
+    {
+      "ch": "路",
+      "en": "road",
+      "pi": "lù"
+    },
+    {
+      "ch": "中间",
+      "en": "middle",
+      "pi": "zhōng jiān"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一",
+      "en": "one",
+      "pi": "yī"
+    },
+    {
+      "ch": "辆",
+      "en": "measure word for vehicles",
+      "pi": "liàng"
+    },
+    {
+      "ch": "卡车",
+      "en": "truck",
+      "pi": "kǎ chē"
+    }
+  ]
+}

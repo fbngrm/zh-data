@@ -1,0 +1,67 @@
+{
+  "chinese": "两军对敌，能战的当战，不能战的当守，不能守的当走，不能走的当降，不能降的当死。",
+  "english": "When two armies face each other, those who can fight should fight, those who cannot fight should defend, those who cannot defend should retreat, those who cannot retreat should surrender, and those who cannot surrender should die.",
+  "pinyin": "liǎng jūn duì dí，néng zhàn de dāng zhàn，bù néng zhàn de dāng shǒu，bù néng shǒu de dāng zǒu，bù néng zǒu de dāng xiáng，bù néng xiáng de dāng sǐ。",
+  "words": [
+    {
+      "ch": "两军",
+      "en": "two armies",
+      "pi": "liǎng jūn"
+    },
+    {
+      "ch": "对敌",
+      "en": "face each other",
+      "pi": "duì dí"
+    },
+    {
+      "ch": "能战的",
+      "en": "can fight",
+      "pi": "néng zhàn de"
+    },
+    {
+      "ch": "当战",
+      "en": "should fight",
+      "pi": "dāng zhàn"
+    },
+    {
+      "ch": "不能战的",
+      "en": "cannot fight",
+      "pi": "bù néng zhàn de"
+    },
+    {
+      "ch": "当守",
+      "en": "should defend",
+      "pi": "dāng shǒu"
+    },  
+    {
+      "ch": "不能守的",
+      "en": "cannot defend",
+      "pi": "bù néng shǒu de"
+    },
+    {
+      "ch": "当走",
+      "en": "should retreat",
+      "pi": "dāng zǒu"
+    },
+    {
+      "ch": "不能走的",
+      "en": "cannot retreat",
+      "pi": "bù néng zǒu de"
+    },
+    {
+      "ch": "当降",
+      "en": "should surrender",
+      "pi": "dāng xiáng"
+    },
+    {
+      "ch": "不能降的",
+      "en": "cannot surrender",
+      "pi": "bù néng xiáng de"
+    },
+    {
+      "ch": "当死",
+      "en": "should die",
+      "pi": "dāng sǐ"
+    }
+  ]
+}

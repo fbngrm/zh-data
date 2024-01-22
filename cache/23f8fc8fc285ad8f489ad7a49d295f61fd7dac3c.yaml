@@ -1,0 +1,67 @@
+{
+  "chinese": "今天下午我有两个小时的英语课和两个小时的汉语课。",
+  "english": "I have two hours of English class and two hours of Chinese class this afternoon.",
+  "pinyin": "jīn tiān xià wǔ wǒ yǒu liǎng gè xiǎo shí de yīng yǔ kè hé liǎng gè xiǎo shí de hàn yǔ kè。",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "下午",
+      "en": "afternoon",
+      "pi": "xià wǔ"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "两个",
+      "en": "two",
+      "pi": "liǎng gè"
+    },
+    {
+      "ch": "小时",
+      "en": "hours",
+      "pi": "xiǎo shí"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīng yǔ"
+    },
+    {
+      "ch": "课",
+      "en": "class",
+      "pi": "kè"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "汉语",
+      "en": "Chinese",
+      "pi": "hàn yǔ"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "。"
+    }
+  ]
+}

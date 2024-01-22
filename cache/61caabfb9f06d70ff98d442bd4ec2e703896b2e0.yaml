@@ -1,0 +1,32 @@
+{
+  "chinese": "你知道我的意思吗？",
+  "english": "Do you understand what I mean?",
+  "pinyin": "nǐ zhī dào wǒ de yì si ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "意思",
+      "en": "meaning",
+      "pi": "yì si"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

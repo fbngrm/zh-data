@@ -1,0 +1,14 @@
+{
+  "chinese": "男孩把他的名字刻在树上。",
+  "english": "The boy carved his name on the tree.",
+  "pinyin": "nán hái bǎ tā de míng zì kè zài shù shàng。",
+  "words": [
+    {"ch": "男孩", "en": "boy", "pi": "nán hái"},
+    {"ch": "把", "en": "carved", "pi": "bǎ"},
+    {"ch": "他的", "en": "his", "pi": "tā de"},
+    {"ch": "名字", "en": "name", "pi": "míng zì"},
+    {"ch": "刻", "en": "on", "pi": "kè"},
+    {"ch": "在", "en": "the", "pi": "zài"},
+    {"ch": "树上", "en": "tree", "pi": "shù shàng"}
+  ]
+}

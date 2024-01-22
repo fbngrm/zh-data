@@ -1,0 +1,23 @@
+[{
+    "chinese": "医院离这儿远吗？",
+    "english": "Is the hospital far from here?",
+    "pinyin": "yī yuàn lí zhèr yuǎn ma?",
+    "words": [
+        {"ch": "医院", "en": "hospital", "pi": "yī yuàn"},
+        {"ch": "离", "en": "away from", "pi": "lí"},
+        {"ch": "这儿", "en": "here", "pi": "zhèr"},
+        {"ch": "远吗", "en": "far or not", "pi": "yuǎn ma"}
+    ]
+}, {
+    "chinese": "医院离这儿很远。",
+    "english": "The hospital is far from here.",
+    "pinyin": "yī yuàn lí zhèr hěn yuǎn.",
+    "words": [
+        {"ch": "医院", "en": "hospital", "pi": "yī yuàn"},
+        {"ch": "离", "en": "away from", "pi": "lí"},
+        {"ch": "这儿", "en": "here", "pi": "zhèr"},
+        {"ch": "很", "en": "very", "pi": "hěn"},
+        {"ch": "远", "en": "far", "pi": "yuǎn"},
+        {"ch": "。", "en": ".", "pi": ""}
+    ]
+}]

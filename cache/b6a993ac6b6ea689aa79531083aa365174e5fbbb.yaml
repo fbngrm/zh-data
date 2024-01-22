@@ -1,0 +1,27 @@
+{
+  "chinese": "你好，我是迈克。",
+  "english": "Hello, I am Mike.",
+  "pinyin": "nǐ hǎo, wǒ shì mài kè.",
+  "words": [
+    {
+      "ch": "你好",
+      "en": "Hello",
+      "pi": "nǐ hǎo"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "是",
+      "en": "am",
+      "pi": "shì"
+    },
+    {
+      "ch": "迈克",
+      "en": "Mike",
+      "pi": "mài kè"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "你抽不抽烟？",
+  "english": "Do you smoke?",
+  "pinyin": "Nǐ chōu bù chōu yān?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "抽",
+      "en": "smoke",
+      "pi": "chōu"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "抽",
+      "en": "smoke",
+      "pi": "chōu"
+    },
+    {
+      "ch": "烟",
+      "en": "cigarette",
+      "pi": "yān"
+    }
+  ]
+}

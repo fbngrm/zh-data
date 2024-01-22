@@ -1,0 +1,42 @@
+{
+  "chinese": "很难把中文说得好。",
+  "english": "It's difficult to speak Chinese well.",
+  "pinyin": "Hěn nán bǎ zhōngwén shuō dé hǎo.",
+  "words": [
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "难",
+      "en": "difficult",
+      "pi": "nán"
+    },
+    {
+      "ch": "把",
+      "en": "to",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "中文",
+      "en": "Chinese",
+      "pi": "zhōngwén"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "得",
+      "en": "well",
+      "pi": "dé"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "有什么喝的吗？",
+  "english": "Is there anything to drink?",
+  "pinyin": "yǒu shénme hē de ma?",
+  "words": [
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "喝",
+      "en": "drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "的",
+      "en": "particle",
+      "pi": "de"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

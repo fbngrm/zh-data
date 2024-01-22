@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆喜欢打棒球。",
+  "english": "Tom likes playing baseball.",
+  "pinyin": "tāng mǔ xǐ huān dǎ bàng qiú.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "likes",
+      "pi": "xǐ huān"
+    },
+    {
+      "ch": "打",
+      "en": "playing",
+      "pi": "dǎ"
+    },
+    {
+      "ch": "棒球",
+      "en": "baseball",
+      "pi": "bàng qiú"
+    }
+  ]
+}

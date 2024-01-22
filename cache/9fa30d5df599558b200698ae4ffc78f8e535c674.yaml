@@ -1,0 +1,62 @@
+[{
+    "chinese": "哥哥，你 要 咖啡 吗？ 我 要 咖啡。 我 也 要 咖啡。 好，我们 都 和 咖啡。",
+    "english": "Do you want coffee, brother? I want coffee. I also want coffee. Ok, we all have coffee.",
+    "pinyin": "gē gē, nǐ yào kā fēi ma? wǒ yào kā fēi. wǒ yě yào kā fēi. hǎo, wǒ men dōu hē kā fēi.",
+    "words": [
+        {
+            "ch": "哥哥",
+            "en": "brother",
+            "pi": "gē gē"
+        },
+        {
+            "ch": "你",
+            "en": "you",
+            "pi": "nǐ"
+        },
+        {
+            "ch": "要",
+            "en": "want",
+            "pi": "yào"
+        },
+        {
+            "ch": "咖啡",
+            "en": "coffee",
+            "pi": "kā fēi"
+        },
+        {
+            "ch": "吗",
+            "en": "",
+            "pi": "ma"
+        },
+        {
+            "ch": "我",
+            "en": "I",
+            "pi": "wǒ"
+        },
+        {
+            "ch": "也",
+            "en": "also",
+            "pi": "yě"
+        },
+        {
+            "ch": "好",
+            "en": "ok",
+            "pi": "hǎo"
+        },
+        {
+            "ch": "们",
+            "en": "we",
+            "pi": "wǒ men"
+        },
+        {
+            "ch": "都",
+            "en": "all",
+            "pi": "dōu"
+        },
+        {
+            "ch": "和",
+            "en": "have",
+            "pi": "hē"
+        }
+    ]
+}]

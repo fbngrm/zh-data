@@ -1,0 +1,29 @@
+[
+  {
+    "chinese": "汤姆还在波士顿。",
+    "english": "Tom is still in Boston.",
+    "pinyin": "tāng mǔ hái zài bō shì dùn。",
+    "words": [
+      {
+        "ch": "汤姆",
+        "en": "Tom",
+        "pi": "tāng mǔ"
+      },
+      {
+        "ch": "还",
+        "en": "still",
+        "pi": "hái"
+      },
+      {
+        "ch": "在",
+        "en": "in",
+        "pi": "zài"
+      },
+      {
+        "ch": "波士顿",
+        "en": "Boston",
+        "pi": "bō shì dùn"
+      }
+    ]
+  }
+]

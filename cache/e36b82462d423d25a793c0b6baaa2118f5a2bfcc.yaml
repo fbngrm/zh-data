@@ -1,0 +1,32 @@
+{
+  "chinese": "后天是汤姆的生日。",
+  "english": "Tom's birthday is in two days.",
+  "pinyin": "Hòutiān shì Tāngmǔ de shēngrì.",
+  "words": [
+    {
+      "ch": "后天",
+      "en": "two days later",
+      "pi": "hòutiān"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāngmǔ"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "生日",
+      "en": "birthday",
+      "pi": "shēngrì"
+    }
+  ]
+}

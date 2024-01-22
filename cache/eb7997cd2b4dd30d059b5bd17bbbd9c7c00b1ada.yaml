@@ -1,0 +1,14 @@
+{
+  "chinese": "汤姆现在忙，不能跟你讲话。",
+  "english": "Tom is busy now and cannot talk to you.",
+  "pinyin": "Tāng mǔ xiàn zài máng, bù néng gēn nǐ jiǎng huà。",
+  "words": [
+    { "ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ" },
+    { "ch": "现在", "en": "now", "pi": "xiàn zài" },
+    { "ch": "忙", "en": "busy", "pi": "máng" },
+    { "ch": "不能", "en": "cannot", "pi": "bù néng" },
+    { "ch": "跟", "en": "with", "pi": "gēn" },
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "讲话", "en": "talk", "pi": "jiǎng huà" }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "大家都来了吗？",
+  "english": "Did everyone come?",
+  "pinyin": "dà jiā dōu lái le ma?",
+  "words": [
+    {
+      "ch": "大家",
+      "en": "everyone",
+      "pi": "dà jiā"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    },
+    {
+      "ch": "了",
+      "en": "did",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

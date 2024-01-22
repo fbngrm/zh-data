@@ -1,0 +1,13 @@
+{
+  "chinese": "我哥哥经常熬夜看小说。",
+  "english": "My brother often stays up late reading novels.",
+  "pinyin": "wǒ gēgē jīngcháng áoyè kàn xiǎoshuō.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "哥哥", "en": "brother", "pi": "gēgē"},
+    {"ch": "经常", "en": "often", "pi": "jīngcháng"},
+    {"ch": "熬夜", "en": "stay up late", "pi": "áoyè"},
+    {"ch": "看", "en": "read", "pi": "kàn"},
+    {"ch": "小说", "en": "novel", "pi": "xiǎoshuō"}
+  ]
+}

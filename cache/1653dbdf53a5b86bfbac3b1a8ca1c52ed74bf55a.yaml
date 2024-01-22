@@ -1,0 +1,32 @@
+{
+  "chinese": "我们明天会有客人。",
+  "english": "We will have guests tomorrow.",
+  "pinyin": "wǒmen míngtiān huì yǒu kèrén.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "客人",
+      "en": "guests",
+      "pi": "kèrén"
+    }
+  ]
+}

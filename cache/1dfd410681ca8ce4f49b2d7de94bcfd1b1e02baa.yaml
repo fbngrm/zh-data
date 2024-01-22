@@ -1,0 +1,14 @@
+{
+  "chinese": "这些天John喝得太多了。",
+  "english": "These days, John has been drinking too much.",
+  "pinyin": "zhè xiē tiān John hē dé tài duō le.",
+  "words": [
+    {"ch": "这些", "en": "These", "pi": "zhè xiē"},
+    {"ch": "天", "en": "days", "pi": "tiān"},
+    {"ch": "John", "en": "John", "pi": "John"},
+    {"ch": "喝", "en": "drink", "pi": "hē"},
+    {"ch": "得", "en": "", "pi": "dé"},
+    {"ch": "太多", "en": "too much", "pi": "tài duō"},
+    {"ch": "了", "en": "", "pi": "le"}
+  ]
+}

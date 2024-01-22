@@ -1,0 +1,14 @@
+{
+  "chinese": "她是个非常好的老师。",
+  "english": "She is a very good teacher.",
+  "pinyin": "Tā shì gè fēicháng hǎo de lǎoshī.",
+  "words": [
+    {"ch": "她", "en": "She", "pi": "tā"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "个", "en": "a", "pi": "gè"},
+    {"ch": "非常", "en": "very", "pi": "fēicháng"},
+    {"ch": "好", "en": "good", "pi": "hǎo"},
+    {"ch": "的", "en": "de", "pi": "de"},
+    {"ch": "老师", "en": "teacher", "pi": "lǎoshī"}
+  ]
+}

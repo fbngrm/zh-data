@@ -1,0 +1,27 @@
+{
+  "chinese": "图书馆有很多书。",
+  "english": "The library has many books.",
+  "pinyin": "tú shū guǎn yǒu hěn duō shū.",
+  "words": [
+    {
+      "ch": "图书馆",
+      "en": "library",
+      "pi": "tú shū guǎn"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "很多",
+      "en": "many",
+      "pi": "hěn duō"
+    },
+    {
+      "ch": "书",
+      "en": "books",
+      "pi": "shū"
+    }
+  ]
+}

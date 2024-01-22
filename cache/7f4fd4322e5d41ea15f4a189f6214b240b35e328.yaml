@@ -1,0 +1,52 @@
+{
+  "chinese": "你说德语吗?\"不，我不说。\"",
+  "english": "Do you speak German? \"No, I don't.\"",
+  "pinyin": "nǐ shuō dé yǔ ma? \"bù, wǒ bù shuō.\"",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "德语",
+      "en": "German",
+      "pi": "dé yǔ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    },
+    {
+      "ch": "\"不",
+      "en": "\"No",
+      "pi": "bù"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": ","
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不说",
+      "en": "don't speak",
+      "pi": "bù shuō"
+    },
+    {
+      "ch": "\"",
+      "en": "\"",
+      "pi": "\""
+    }
+  ]
+}

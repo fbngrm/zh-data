@@ -1,0 +1,47 @@
+{
+  "chinese": "这块石头太重了无法抬起来。",
+  "english": "This stone is too heavy to lift.",
+  "pinyin": "zhè kuài shí tou tài zhòng le wú fǎ tái qǐ lái.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "块",
+      "en": "piece",
+      "pi": "kuài"
+    },
+    {
+      "ch": "石头",
+      "en": "stone",
+      "pi": "shí tou"
+    },
+    {
+      "ch": "太",
+      "en": "too",
+      "pi": "tài"
+    },
+    {
+      "ch": "重",
+      "en": "heavy",
+      "pi": "zhòng"
+    },
+    {
+      "ch": "了",
+      "en": "to",
+      "pi": "le"
+    },
+    {
+      "ch": "无法",
+      "en": "cannot",
+      "pi": "wú fǎ"
+    },
+    {
+      "ch": "抬起来",
+      "en": "lift",
+      "pi": "tái qǐ lái"
+    }
+  ]
+}

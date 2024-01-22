@@ -1,0 +1,12 @@
+{
+  "chinese": "我拨打了Ｔｏｍ的号码。",
+  "english": "I called Tom's number.",
+  "pinyin": "wǒ bō dǎ le Tōm de hàomǎ.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "拨打", "en": "called", "pi": "bō dǎ"},
+    {"ch": "了", "en": "", "pi": "le"},
+    {"ch": "Ｔｏｍ的", "en": "Tom's", "pi": "Tōm de"},
+    {"ch": "号码", "en": "number", "pi": "hàomǎ"}
+  ]
+}

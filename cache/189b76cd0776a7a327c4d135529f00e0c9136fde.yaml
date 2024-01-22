@@ -1,0 +1,27 @@
+{
+  "chinese": "今天是三月五号。",
+  "english": "Today is March 5th.",
+  "pinyin": "jīn tiān shì sān yuè wǔ hào。",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "Today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "三月",
+      "en": "March",
+      "pi": "sān yuè"
+    },
+    {
+      "ch": "五号",
+      "en": "5th",
+      "pi": "wǔ hào"
+    }
+  ]
+}

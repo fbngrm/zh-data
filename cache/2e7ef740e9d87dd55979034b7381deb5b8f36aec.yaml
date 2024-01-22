@@ -1,0 +1,22 @@
+{
+  "chinese": "她有三個姊妹，一個是護士，另外的兩個是教師。",
+  "english": "She has three sisters, one is a nurse, and the other two are teachers.",
+  "pinyin": "Tā yǒu sān gè jiěmèi, yī gè shì hùshì, lìngwài de liǎng gè shì jiàoshī。",
+  "words": [
+    {"ch": "她", "en": "She", "pi": "tā"},
+    {"ch": "有", "en": "has", "pi": "yǒu"},
+    {"ch": "三", "en": "three", "pi": "sān"},
+    {"ch": "個", "en": "personal measure word", "pi": "gè"},
+    {"ch": "姊妹", "en": "sisters", "pi": "jiěmèi"},
+    {"ch": "一", "en": "one", "pi": "yī"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "護士", "en": "nurse", "pi": "hùshì"},
+    {"ch": "另外", "en": "other", "pi": "lìngwài"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "兩", "en": "two", "pi": "liǎng"},
+    {"ch": "兩", "en": "two", "pi": "liǎng"},
+    {"ch": "個", "en": "personal measure word", "pi": "gè"},
+    {"ch": "是", "en": "are", "pi": "shì"},
+    {"ch": "教師", "en": "teachers", "pi": "jiàoshī"}
+  ]
+}

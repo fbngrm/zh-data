@@ -1,0 +1,16 @@
+{
+  "chinese": "谢谢您在百忙之中抽出时间回复我的信件。",
+  "english": "Thank you for taking the time to reply to my letter despite your busy schedule.",
+  "pinyin": "xiè xiè nín zài bǎi máng zhī zhōng chōu chū shí jiān huífù wǒ de xìn jiàn。",
+  "words": [
+    { "ch": "谢谢", "en": "Thank you", "pi": "xiè xiè" },
+    { "ch": "您", "en": "you", "pi": "nín" },
+    { "ch": "在", "en": "in", "pi": "zài" },
+    { "ch": "百忙之中", "en": "despite the busy schedule", "pi": "bǎi máng zhī zhōng" },
+    { "ch": "抽出", "en": "take out", "pi": "chōu chū" },
+    { "ch": "时间", "en": "time", "pi": "shí jiān" },
+    { "ch": "回复", "en": "reply", "pi": "huífù" },
+    { "ch": "我的", "en": "my", "pi": "wǒ de" },
+    { "ch": "信件", "en": "letter", "pi": "xìn jiàn" }
+  ]
+}

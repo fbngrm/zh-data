@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆在会议室等你。",
+  "english": "Tom is waiting for you in the meeting room.",
+  "pinyin": "Tāng mǔ zài huì yì shì děng nǐ。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "会议室",
+      "en": "meeting room",
+      "pi": "huì yì shì"
+    },
+    {
+      "ch": "等",
+      "en": "waiting",
+      "pi": "děng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    }
+  ]
+}

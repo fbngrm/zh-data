@@ -1,0 +1,13 @@
+{
+  "chinese": "巴士会把你们带到市中心。",
+  "english": "The bus will take you to the city center.",
+  "pinyin": "bā shì huì bǎ nǐ men dài dào shì zhōng xīn。",
+  "words": [
+    {"ch": "巴士", "en": "bus", "pi": "bā shì"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "把", "en": "take", "pi": "bǎ"},
+    {"ch": "你们", "en": "you", "pi": "nǐ men"},
+    {"ch": "带到", "en": "to", "pi": "dài dào"},
+    {"ch": "市中心", "en": "city center", "pi": "shì zhōng xīn"}
+  ]
+}

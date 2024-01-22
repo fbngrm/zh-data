@@ -1,0 +1,27 @@
+{
+  "chinese": "这里有一本书。",
+  "english": "There is a book here.",
+  "pinyin": "zhè lǐ yǒu yī běn shū。",
+  "words": [
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一本",
+      "en": "a",
+      "pi": "yī běn"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    }
+  ]
+}

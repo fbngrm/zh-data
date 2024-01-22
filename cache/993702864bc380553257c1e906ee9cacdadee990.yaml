@@ -1,0 +1,11 @@
+{
+ "chinese": "我在车站附近。",
+ "english": "I am near the train station.",
+ "pinyin": "wǒ zài chē zhàn fù jìn。",
+ "words": [
+   {"ch": "我", "en": "I", "pi": "wǒ"},
+   {"ch": "在", "en": "am", "pi": "zài"},
+   {"ch": "车站", "en": "train station", "pi": "chē zhàn"},
+   {"ch": "附近", "en": "nearby", "pi": "fù jìn"}
+ ]
+}

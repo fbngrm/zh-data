@@ -1,0 +1,16 @@
+{
+  "chinese": "他太年轻，无法胜任这项工作。",
+  "english": "He is too young to handle this job.",
+  "pinyin": "tā tài nián qīng, wú fǎ shèng rèn zhè xiàng gōng zuò。",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "太", "en": "too", "pi": "tài"},
+    {"ch": "年轻", "en": "young", "pi": "nián qīng"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "无法", "en": "unable", "pi": "wú fǎ"},
+    {"ch": "胜任", "en": "to handle", "pi": "shèng rèn"},
+    {"ch": "这项", "en": "this", "pi": "zhè xiàng"},
+    {"ch": "工作", "en": "job", "pi": "gōng zuò"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

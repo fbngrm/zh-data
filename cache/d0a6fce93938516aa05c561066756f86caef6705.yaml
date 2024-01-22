@@ -1,0 +1,37 @@
+{
+  "chinese": "你能让我看看吗？",
+  "english": "Can you let me take a look?",
+  "pinyin": "nǐ néng ràng wǒ kàn kàn ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "让",
+      "en": "let",
+      "pi": "ràng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "看看",
+      "en": "take a look",
+      "pi": "kàn kàn"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

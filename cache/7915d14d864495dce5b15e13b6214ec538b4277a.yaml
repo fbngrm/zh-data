@@ -1,0 +1,37 @@
+{
+  "chinese": "今天的工作差不多做完了。",
+  "english": "Today's work is almost done.",
+  "pinyin": "jīn tiān de gōng zuò chà bù duō zuò wán le。",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "工作",
+      "en": "work",
+      "pi": "gōng zuò"
+    },
+    {
+      "ch": "差不多",
+      "en": "almost",
+      "pi": "chà bù duō"
+    },
+    {
+      "ch": "做完",
+      "en": "done",
+      "pi": "zuò wán"
+    },
+    {
+      "ch": "了",
+      "en": "particle marking completed action",
+      "pi": "le"
+    }
+  ]
+}

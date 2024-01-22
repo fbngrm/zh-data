@@ -1,0 +1,52 @@
+{
+  "chinese": "这本书对我来说很难读。",
+  "english": "This book is difficult for me to read.",
+  "pinyin": "zhè běn shū duì wǒ lái shuō hěn nán dú。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    },
+    {
+      "ch": "对",
+      "en": "to",
+      "pi": "duì"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    },
+    {
+      "ch": "说",
+      "en": "to speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "难读",
+      "en": "difficult to read",
+      "pi": "nán dú"
+    }
+  ]
+}

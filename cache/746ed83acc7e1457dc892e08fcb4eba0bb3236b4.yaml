@@ -1,0 +1,14 @@
+{
+  "chinese": "我看见他正在锯一棵树。",
+  "english": "I saw him cutting down a tree.",
+  "pinyin": "wǒ kànjiàn tā zhèngzài jù yī kēshù。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "看见", "en": "saw", "pi": "kànjiàn"},
+    {"ch": "他", "en": "him", "pi": "tā"},
+    {"ch": "正在", "en": "正在", "pi": "zhèngzài"},
+    {"ch": "锯", "en": "cutting", "pi": "jù"},
+    {"ch": "一棵", "en": "down", "pi": "yī"},
+    {"ch": "树", "en": "a tree", "pi": "kēshù"}
+  ]
+}

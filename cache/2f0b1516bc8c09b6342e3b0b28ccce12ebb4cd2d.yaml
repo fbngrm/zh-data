@@ -1,0 +1,32 @@
+{
+  "chinese": "上海被称为东方的巴黎。",
+  "english": "Shanghai is known as the Paris of the East.",
+  "pinyin": "Shàng hǎi bèi chēng wéi dōng fāng de bā lí.",
+  "words": [
+    {
+      "ch": "上海",
+      "en": "Shanghai",
+      "pi": "Shàng hǎi"
+    },
+    {
+      "ch": "被称为",
+      "en": "is known as",
+      "pi": "bèi chēng wéi"
+    },
+    {
+      "ch": "东方",
+      "en": "the East",
+      "pi": "dōng fāng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "巴黎",
+      "en": "Paris",
+      "pi": "bā lí"
+    }
+  ]
+}

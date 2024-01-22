@@ -1,0 +1,32 @@
+{
+  "chinese": "你有足够的时间。",
+  "english": "You have enough time.",
+  "pinyin": "nǐ yǒu zú gòu de shí jiān.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "足够",
+      "en": "enough",
+      "pi": "zú gòu"
+    },
+    {
+      "ch": "的",
+      "en": "de",
+      "pi": "de"
+    },
+    {
+      "ch": "时间",
+      "en": "time",
+      "pi": "shí jiān"
+    }
+  ]
+}

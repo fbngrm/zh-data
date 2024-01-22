@@ -1,0 +1,32 @@
+{
+  "chinese": "你星期二有空嗎？",
+  "english": "Are you free on Tuesday?",
+  "pinyin": "nǐ xīng qī èr yǒu kòng ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "星期二",
+      "en": "Tuesday",
+      "pi": "xīng qī èr"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "空",
+      "en": "free",
+      "pi": "kòng"
+    },
+    {
+      "ch": "嗎",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

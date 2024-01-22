@@ -1,0 +1,32 @@
+{
+  "chinese": "狗被车撞了。",
+  "english": "The dog was hit by a car.",
+  "pinyin": "gǒu bèi chē zhuàng le.",
+  "words": [
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "被",
+      "en": "by",
+      "pi": "bèi"
+    },
+    {
+      "ch": "车",
+      "en": "car",
+      "pi": "chē"
+    },
+    {
+      "ch": "撞",
+      "en": "hit",
+      "pi": "zhuàng"
+    },
+    {
+      "ch": "了",
+      "en": "past tense",
+      "pi": "le"
+    }
+  ]
+}

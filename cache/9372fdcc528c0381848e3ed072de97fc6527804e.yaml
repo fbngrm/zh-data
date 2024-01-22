@@ -1,0 +1,32 @@
+{
+  "chinese": "我买了一本书。",
+  "english": "I bought a book.",
+  "pinyin": "wǒ mǎi le yī běn shū.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "买",
+      "en": "bought",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "了",
+      "en": "a",
+      "pi": "le"
+    },
+    {
+      "ch": "一本",
+      "en": "book",
+      "pi": "yī běn"
+    },
+    {
+      "ch": "书",
+      "en": "",
+      "pi": "shū"
+    }
+  ]
+}

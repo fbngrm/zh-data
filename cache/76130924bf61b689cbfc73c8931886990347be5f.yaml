@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆在一场意外中丧生。",
+  "english": "Tom died in an accident.",
+  "pinyin": "Tāng mǔ zài yī chǎng yì wài zhōng sàng shēng.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "一场",
+      "en": "an",
+      "pi": "yī chǎng"
+    },
+    {
+      "ch": "意外",
+      "en": "accident",
+      "pi": "yì wài"
+    },
+    {
+      "ch": "中",
+      "en": "",
+      "pi": "zhōng"
+    },
+    {
+      "ch": "丧生",
+      "en": "died",
+      "pi": "sàng shēng"
+    }
+  ]
+}

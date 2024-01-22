@@ -1,0 +1,37 @@
+{
+  "chinese": "這本書看起來很有趣。",
+  "english": "This book looks very interesting.",
+  "pinyin": "zhè běn shū kàn qǐlái hěn yǒuqù。",
+  "words": [
+    {
+      "ch": "這",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "書",
+      "en": "looks",
+      "pi": "shū"
+    },
+    {
+      "ch": "看起來",
+      "en": "very",
+      "pi": "kàn qǐlái"
+    },
+    {
+      "ch": "很",
+      "en": "interesting",
+      "pi": "hěn"
+    },
+    {
+      "ch": "有趣",
+      "en": "interesting",
+      "pi": "yǒuqù"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我要几个土豆。",
+  "english": "I want some potatoes.",
+  "pinyin": "wǒ yào jǐ gè tǔ dòu.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "几",
+      "en": "some",
+      "pi": "jǐ"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "土豆",
+      "en": "potatoes",
+      "pi": "tǔ dòu"
+    }
+  ]
+}

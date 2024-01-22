@@ -1,0 +1,16 @@
+{
+  "chinese": "那是我每天在火车上看到的男人。",
+  "english": "That is the man I see every day on the train.",
+  "pinyin": "Nà shì wǒ měi tiān zài huǒ chē shàng kàn dào de nán rén.",
+  "words": [
+    {"ch": "那", "en": "that", "pi": "nà"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "每天", "en": "every day", "pi": "měi tiān"},
+    {"ch": "在", "en": "on", "pi": "zài"},
+    {"ch": "火车上", "en": "on the train", "pi": "huǒ chē shàng"},
+    {"ch": "看到", "en": "see", "pi": "kàn dào"},
+    {"ch": "的", "en": "", "pi": "de"},
+    {"ch": "男人", "en": "man", "pi": "nán rén"}
+  ]
+}

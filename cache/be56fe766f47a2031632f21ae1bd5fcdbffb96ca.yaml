@@ -1,0 +1,42 @@
+{
+  "chinese": "你来之前在家里吃饭了吗？",
+  "english": "Did you eat at home before you came?",
+  "pinyin": "nǐ lái zhīqián zài jiālǐ chīfàn le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    },
+    {
+      "ch": "之前",
+      "en": "before",
+      "pi": "zhīqián"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "家里",
+      "en": "home",
+      "pi": "jiālǐ"
+    },
+    {
+      "ch": "吃饭",
+      "en": "eat",
+      "pi": "chīfàn"
+    },
+    {
+      "ch": "了吗",
+      "en": "did",
+      "pi": "le ma"
+    }
+  ]
+}

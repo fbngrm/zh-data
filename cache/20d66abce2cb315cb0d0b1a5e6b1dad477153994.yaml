@@ -1,0 +1,42 @@
+{
+  "chinese": "这本书他们读起来够简单了。",
+  "english": "This book is simple enough for them to read.",
+  "pinyin": "zhè běn shū tāmen dú qǐlái gòu jiǎndān le。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "书",
+      "en": "is",
+      "pi": "shū"
+    },
+    {
+      "ch": "他们",
+      "en": "they",
+      "pi": "tāmen"
+    },
+    {
+      "ch": "读",
+      "en": "to read",
+      "pi": "dú"
+    },
+    {
+      "ch": "起来",
+      "en": "enough",
+      "pi": "qǐlái"
+    },
+    {
+      "ch": "够简单了",
+      "en": "simple enough",
+      "pi": "gòu jiǎndān le"
+    }
+  ]
+}

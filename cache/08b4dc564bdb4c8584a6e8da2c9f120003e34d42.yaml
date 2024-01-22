@@ -1,0 +1,47 @@
+{
+  "chinese": "汤姆昨天帮他妈妈的忙吗？",
+  "english": "Did Tom help his mom yesterday?",
+  "pinyin": "Tāng mǔ zuótiān bāng tā māmā de máng ma?",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "帮",
+      "en": "help",
+      "pi": "bāng"
+    },
+    {
+      "ch": "他",
+      "en": "his",
+      "pi": "tā"
+    },
+    {
+      "ch": "妈妈",
+      "en": "mom",
+      "pi": "māmā"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "忙",
+      "en": "busy",
+      "pi": "máng"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

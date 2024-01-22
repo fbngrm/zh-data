@@ -1,0 +1,37 @@
+{
+  "chinese": "我想买点东西吃。",
+  "english": "I want to buy something to eat.",
+  "pinyin": "wǒ xiǎng mǎi diǎn dōngxi chī.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "买",
+      "en": "buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "点",
+      "en": "something",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "东西",
+      "en": "to eat",
+      "pi": "dōngxi"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    }
+  ]
+}

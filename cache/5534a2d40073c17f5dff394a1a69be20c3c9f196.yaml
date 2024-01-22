@@ -1,0 +1,20 @@
+{
+  "chinese": "尽管现在中国人的生活越来越好了，可是还有改进的余地。",
+  "english": "Although Chinese people's lives are getting better now, there is still room for improvement.",
+  "pinyin": "jǐn guǎn xiàn zài zhōng guó rén de shēng huó yuè lái yuè hǎo le, kě shì hái yǒu gǎi jìn de yú dì.",
+  "words": [
+    {"ch": "尽管", "en": "Although", "pi": "jǐn guǎn"},
+    {"ch": "现在", "en": "now", "pi": "xiàn zài"},
+    {"ch": "中国人", "en": "Chinese people", "pi": "zhōng guó rén"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "生活", "en": "life", "pi": "shēng huó"},
+    {"ch": "越来越", "en": "more and more", "pi": "yuè lái yuè"},
+    {"ch": "好了", "en": "better", "pi": "hǎo le"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "可是", "en": "but", "pi": "kě shì"},
+    {"ch": "还有", "en": "still have", "pi": "hái yǒu"},
+    {"ch": "改进的", "en": "improvement", "pi": "gǎi jìn de"},
+    {"ch": "余地", "en": "room", "pi": "yú dì"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

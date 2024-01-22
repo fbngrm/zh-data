@@ -1,0 +1,27 @@
+{
+  "chinese": "他7点到了火车站。",
+  "english": "He arrived at the train station at 7 o'clock.",
+  "pinyin": "tā qī diǎn dào le huǒ chē zhàn。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "7点",
+      "en": "7 o'clock",
+      "pi": "qī diǎn"
+    },
+    {
+      "ch": "到了",
+      "en": "arrived",
+      "pi": "dào le"
+    },
+    {
+      "ch": "火车站",
+      "en": "train station",
+      "pi": "huǒ chē zhàn"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我爸爸週日上教堂。",
+  "english": "My father goes to church on Sunday.",
+  "pinyin": "Wǒ bàba zhōurì shàng jiàotáng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "爸爸",
+      "en": "father",
+      "pi": "bàba"
+    },
+    {
+      "ch": "週日",
+      "en": "Sunday",
+      "pi": "zhōurì"
+    },
+    {
+      "ch": "上",
+      "en": "goes to",
+      "pi": "shàng"
+    },
+    {
+      "ch": "教堂",
+      "en": "church",
+      "pi": "jiàotáng"
+    }
+  ]
+}

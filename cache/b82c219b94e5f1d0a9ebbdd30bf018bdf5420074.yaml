@@ -1,0 +1,32 @@
+{
+  "chinese": "我最不喜欢数学。",
+  "english": "I dislike math the most.",
+  "pinyin": "wǒ zuì bù xǐhuān shùxué。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "最",
+      "en": "most",
+      "pi": "zuì"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "数学",
+      "en": "math",
+      "pi": "shùxué"
+    }
+  ]
+}

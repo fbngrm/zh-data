@@ -1,0 +1,32 @@
+{
+  "chinese": "我们昨晚吃了咖哩饭。",
+  "english": "We had curry rice last night.",
+  "pinyin": "wǒ men zuó wǎn chī le kā lī fàn.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "昨晚",
+      "en": "last night",
+      "pi": "zuó wǎn"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "了",
+      "en": "had",
+      "pi": "le"
+    },
+    {
+      "ch": "咖哩饭",
+      "en": "curry rice",
+      "pi": "kā lī fàn"
+    }
+  ]
+}

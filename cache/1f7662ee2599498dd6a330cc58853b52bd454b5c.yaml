@@ -1,0 +1,13 @@
+{
+  "chinese": "这个小婴儿正在玩一些玩具。",
+  "english": "The little baby is playing with some toys.",
+  "pinyin": "zhè gè xiǎo yīng ér zhèng zài wán yī xiē wán jù。",
+  "words": [
+    {"ch": "这个", "en": "this", "pi": "zhè gè"},
+    {"ch": "小婴儿", "en": "little baby", "pi": "xiǎo yīng ér"},
+    {"ch": "正在", "en": "is", "pi": "zhèng zài"},
+    {"ch": "玩", "en": "playing", "pi": "wán"},
+    {"ch": "一些", "en": "with some", "pi": "yī xiē"},
+    {"ch": "玩具", "en": "toys", "pi": "wán jù"}
+  ]
+}

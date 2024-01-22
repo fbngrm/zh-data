@@ -1,0 +1,14 @@
+{
+"chinese": "啤酒和葡萄酒我都喜欢喝。",
+"english": "I like to drink both beer and wine.",
+"pinyin": "pí jiǔ hé pú táo jiǔ wǒ dōu xǐ huān hē。",
+"words": [
+  {"ch": "啤酒", "en": "beer", "pi": "pí jiǔ"},
+  {"ch": "和", "en": "and", "pi": "hé"},
+  {"ch": "葡萄酒", "en": "wine", "pi": "pú táo jiǔ"},
+  {"ch": "我", "en": "I", "pi": "wǒ"},
+  {"ch": "都", "en": "both", "pi": "dōu"},
+  {"ch": "喜欢", "en": "like", "pi": "xǐ huān"},
+  {"ch": "喝", "en": "to drink", "pi": "hē"}
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "chinese": "爸爸把那份法文的文件翻译成了日文。",
+  "english": "Dad translated that French document into Japanese.",
+  "pinyin": "bà ba bǎ nà fèn fǎ wén de wén jiàn fān yì chéng le rì wén.",
+  "words": [
+    {
+      "ch": "爸爸",
+      "en": "Dad",
+      "pi": "bà ba"
+    },
+    {
+      "ch": "把",
+      "en": "translated",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "那份",
+      "en": "that",
+      "pi": "nà fèn"
+    },
+    {
+      "ch": "法文的",
+      "en": "French",
+      "pi": "fǎ wén de"
+    },
+    {
+      "ch": "文件",
+      "en": "document",
+      "pi": "wén jiàn"
+    },
+    {
+      "ch": "翻译",
+      "en": "into",
+      "pi": "fān yì"
+    },
+    {
+      "ch": "成了",
+      "en": "Japanese",
+      "pi": "chéng le"
+    },
+    {
+      "ch": "日文",
+      "en": "Japanese",
+      "pi": "rì wén"
+    }
+  ]
+}

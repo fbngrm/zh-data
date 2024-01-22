@@ -1,0 +1,32 @@
+{
+  "chinese": "列车从我们身边经过。",
+  "english": "The train is passing by us.",
+  "pinyin": "liè chē cóng wǒ men shēn biān jīng guò。",
+  "words": [
+    {
+      "ch": "列车",
+      "en": "train",
+      "pi": "liè chē"
+    },
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "我们",
+      "en": "us",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "身边",
+      "en": "by",
+      "pi": "shēn biān"
+    },
+    {
+      "ch": "经过",
+      "en": "passing",
+      "pi": "jīng guò"
+    }
+  ]
+}

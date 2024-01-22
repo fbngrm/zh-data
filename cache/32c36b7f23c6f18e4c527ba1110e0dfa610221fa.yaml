@@ -1,0 +1,32 @@
+{
+  "chinese": "我要去学汉语。",
+  "english": "I want to go learn Mandarin.",
+  "pinyin": "wǒ yào qù xué hàn yǔ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "要",
+      "en": "want to",
+      "pi": "yào"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "学",
+      "en": "learn",
+      "pi": "xué"
+    },
+    {
+      "ch": "汉语",
+      "en": "Mandarin",
+      "pi": "hàn yǔ"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "这辆自行车需要修理。",
+  "english": "This bicycle needs repair.",
+  "pinyin": "zhè liàng zì xíng chē xū yào xiū lǐ。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "辆",
+      "en": "bicycle",
+      "pi": "liàng"
+    },
+    {
+      "ch": "自行车",
+      "en": "needs",
+      "pi": "zì xíng chē"
+    },
+    {
+      "ch": "需要",
+      "en": "repair",
+      "pi": "xū yào"
+    },
+    {
+      "ch": "修理",
+      "en": "。",
+      "pi": "xiū lǐ"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chinese": "在假期中我什么都没有做。",
+  "english": "During the vacation, I didn't do anything.",
+  "pinyin": "Zài jiàqī zhōng wǒ shénme dōu méiyǒu zuò.",
+  "words": [
+    {"ch": "在", "en": "during", "pi": "zài"},
+    {"ch": "假期", "en": "vacation", "pi": "jiàqī"},
+    {"ch": "中", "en": "in", "pi": "zhōng"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "什么", "en": "anything", "pi": "shénme"},
+    {"ch": "都", "en": "all", "pi": "dōu"},
+    {"ch": "没有", "en": "didn't", "pi": "méiyǒu"},
+    {"ch": "做", "en": "do", "pi": "zuò"}
+  ]
+}

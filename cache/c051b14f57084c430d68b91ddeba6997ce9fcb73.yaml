@@ -1,0 +1,42 @@
+{
+  "chinese": "我现在在这所学校任教。",
+  "english": "I am currently teaching at this school.",
+  "pinyin": "wǒ xiàn zài zài zhè suǒ xué xiào rèn jiāo。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "现在",
+      "en": "currently",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "所",
+      "en": "school",
+      "pi": "suǒ"
+    },
+    {
+      "ch": "学校",
+      "en": "teaching",
+      "pi": "xué xiào"
+    },
+    {
+      "ch": "任教",
+      "en": "teaching",
+      "pi": "rèn jiāo"
+    }
+  ]
+}

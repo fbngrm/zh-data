@@ -1,0 +1,42 @@
+{
+  "chinese": "我想和你说几句话。",
+  "english": "I want to say a few words to you.",
+  "pinyin": "wǒ xiǎng hé nǐ shuō jǐ jù huà.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "和",
+      "en": "to",
+      "pi": "hé"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "说",
+      "en": "say",
+      "pi": "shuō"
+    },
+    {
+      "ch": "几",
+      "en": "a few",
+      "pi": "jǐ"
+    },
+    {
+      "ch": "句话",
+      "en": "words",
+      "pi": "jù huà"
+    }
+  ]
+}

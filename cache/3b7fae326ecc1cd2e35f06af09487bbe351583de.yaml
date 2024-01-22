@@ -1,0 +1,11 @@
+{
+  "chinese": "汤姆不会来了。",
+  "english": "Tom won't come.",
+  "pinyin": "Tāng mǔ bù huì láile.",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ"},
+    {"ch": "不会", "en": "won't", "pi": "bù huì"},
+    {"ch": "来", "en": "come", "pi": "lái"},
+    {"ch": "了", "en": "(indicating completed action)", "pi": "le"}
+  ]
+}

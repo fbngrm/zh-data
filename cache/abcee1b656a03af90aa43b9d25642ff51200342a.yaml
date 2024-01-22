@@ -1,0 +1,32 @@
+{
+  "chinese": "他是個好人。",
+  "english": "He is a good person.",
+  "pinyin": "tā shì gè hǎo rén。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "個",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "人",
+      "en": "person",
+      "pi": "rén"
+    }
+  ]
+}

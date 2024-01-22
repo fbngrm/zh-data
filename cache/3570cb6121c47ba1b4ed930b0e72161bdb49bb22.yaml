@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆说他很有钱。",
+  "english": "Tom says he is very rich.",
+  "pinyin": "Tāng mǔ shuō tā hěn yǒu qián.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "说",
+      "en": "says",
+      "pi": "shuō"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "有钱",
+      "en": "rich",
+      "pi": "yǒu qián"
+    }
+  ]
+}

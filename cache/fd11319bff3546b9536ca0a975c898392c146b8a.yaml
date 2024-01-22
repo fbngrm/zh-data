@@ -1,0 +1,32 @@
+{
+  "chinese": "我吃腻了汉堡。",
+  "english": "I'm tired of eating hamburgers.",
+  "pinyin": "wǒ chī nì le hàn bǎo。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "腻",
+      "en": "tired of",
+      "pi": "nì"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "汉堡",
+      "en": "hamburger",
+      "pi": "hàn bǎo"
+    }
+  ]
+}

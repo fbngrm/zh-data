@@ -1,0 +1,18 @@
+{
+  "chinese": "他會說法語，英語當然也會說。",
+  "english": "He can speak French, and of course he can speak English too.",
+  "pinyin": "tā huì shuō fǎyǔ, yīngyǔ dāngrán yě huì shuō.",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "會", "en": "can", "pi": "huì"},
+    {"ch": "說", "en": "speak", "pi": "shuō"},
+    {"ch": "法語", "en": "French", "pi": "fǎyǔ"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "英語", "en": "English", "pi": "yīngyǔ"},
+    {"ch": "當然", "en": "of course", "pi": "dāngrán"},
+    {"ch": "也", "en": "also", "pi": "yě"},
+    {"ch": "會", "en": "can", "pi": "huì"},
+    {"ch": "說", "en": "speak", "pi": "shuō"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}

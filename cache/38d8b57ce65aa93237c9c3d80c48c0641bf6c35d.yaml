@@ -1,0 +1,36 @@
+{
+  "sentences": [
+    {
+      "chinese": "逐字地翻譯這個段落。",
+      "english": "Translate this paragraph word by word.",
+      "pinyin": "zhú zì dì fān yì zhè ge duàn luò.",
+      "words": [
+        {
+          "ch": "逐字",
+          "en": "word by word",
+          "pi": "zhú zì"
+        },
+        {
+          "ch": "地",
+          "en": "",
+          "pi": "dì"
+        },
+        {
+          "ch": "翻譯",
+          "en": "translate",
+          "pi": "fān yì"
+        },
+        {
+          "ch": "這個",
+          "en": "this",
+          "pi": "zhè ge"
+        },
+        {
+          "ch": "段落",
+          "en": "paragraph",
+          "pi": "duàn luò"
+        }
+      ]
+    }
+  ]
+}

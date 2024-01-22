@@ -1,0 +1,19 @@
+{
+  "chinese": "說英語的人比說任何其他語言的人多。",
+  "english": "There are more people who speak English than any other language.",
+  "pinyin": "shuō yīngyǔ de rén bǐ shuō rènhé qítā yǔyán de rén duō.",
+  "words": [
+    {"ch": "說", "en": "speak", "pi": "shuō"},
+    {"ch": "英語", "en": "English", "pi": "yīngyǔ"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "人", "en": "people", "pi": "rén"},
+    {"ch": "比", "en": "than", "pi": "bǐ"},
+    {"ch": "說", "en": "speak", "pi": "shuō"},
+    {"ch": "任何", "en": "any", "pi": "rènhé"},
+    {"ch": "其他", "en": "other", "pi": "qítā"},
+    {"ch": "語言", "en": "language", "pi": "yǔyán"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "人", "en": "people", "pi": "rén"},
+    {"ch": "多", "en": "many", "pi": "duō"}
+  ]
+}

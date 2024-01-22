@@ -1,0 +1,18 @@
+{
+  "chinese": "我想买那辆车，可是我却没有钱。",
+  "english": "I want to buy that car, but I don't have money.",
+  "pinyin": "Wǒ xiǎng mǎi nà liàng chē, kěshì wǒ què méiyǒu qián.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "想", "en": "want", "pi": "xiǎng"},
+    {"ch": "买", "en": "to buy", "pi": "mǎi"},
+    {"ch": "那", "en": "that", "pi": "nà"},
+    {"ch": "辆", "en": "measure word for vehicles", "pi": "liàng"},
+    {"ch": "车", "en": "car", "pi": "chē"},
+    {"ch": "可是", "en": "but", "pi": "kěshì"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "却", "en": "however", "pi": "què"},
+    {"ch": "没有", "en": "don't have", "pi": "méiyǒu"},
+    {"ch": "钱", "en": "money", "pi": "qián"}
+  ]
+}

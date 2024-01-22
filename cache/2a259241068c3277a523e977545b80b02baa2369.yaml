@@ -1,0 +1,47 @@
+{
+  "chinese": "我在信箱中发现了她的信。",
+  "english": "I found her letter in the mailbox.",
+  "pinyin": "wǒ zài xìnxiāng zhōng fāxiànle tā de xìn。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "信箱",
+      "en": "mailbox",
+      "pi": "xìnxiāng"
+    },
+    {
+      "ch": "中",
+      "en": "inside",
+      "pi": "zhōng"
+    },
+    {
+      "ch": "发现",
+      "en": "found",
+      "pi": "fāxiàn"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "她的",
+      "en": "her",
+      "pi": "tā de"
+    },
+    {
+      "ch": "信",
+      "en": "letter",
+      "pi": "xìn"
+    }
+  ]
+}

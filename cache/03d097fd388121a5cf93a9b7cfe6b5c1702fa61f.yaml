@@ -1,0 +1,13 @@
+{
+   "chinese": "这辆公车去博物馆吗？",
+   "english": "Does this bus go to the museum?",
+   "pinyin": "zhè liàng gōng chē qù bó wù guǎn ma?",
+   "words": [
+      {"ch": "这", "en": "this", "pi": "zhè"},
+      {"ch": "辆", "en": "bus (measure word)", "pi": "liàng"},
+      {"ch": "公车", "en": "bus", "pi": "gōng chē"},
+      {"ch": "去", "en": "go to", "pi": "qù"},
+      {"ch": "博物馆", "en": "museum", "pi": "bó wù guǎn"},
+      {"ch": "吗", "en": "question particle", "pi": "ma"}
+   ]
+}

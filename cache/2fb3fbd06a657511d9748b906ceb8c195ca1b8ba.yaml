@@ -1,0 +1,42 @@
+{
+  "chinese": "我家的旁边建了一栋高楼。",
+  "english": "A tall building has been built next to my house.",
+  "pinyin": "wǒ jiā de páng biān jiàn le yī dòng gāo lóu.",
+  "words": [
+    {
+      "ch": "我家",
+      "en": "my house",
+      "pi": "wǒ jiā"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "旁边",
+      "en": "next to",
+      "pi": "páng biān"
+    },
+    {
+      "ch": "建",
+      "en": "build",
+      "pi": "jiàn"
+    },
+    {
+      "ch": "了",
+      "en": "has",
+      "pi": "le"
+    },
+    {
+      "ch": "一栋",
+      "en": "a",
+      "pi": "yī dòng"
+    },
+    {
+      "ch": "高楼",
+      "en": "tall building",
+      "pi": "gāo lóu"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "她几乎不会说日语。",
+  "english": "She can hardly speak Japanese.",
+  "pinyin": "tā jīhū bù huì shuō rìyǔ。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "几乎",
+      "en": "hardly",
+      "pi": "jīhū"
+    },
+    {
+      "ch": "不会",
+      "en": "can't",
+      "pi": "bù huì"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "日语",
+      "en": "Japanese",
+      "pi": "rìyǔ"
+    }
+  ]
+}

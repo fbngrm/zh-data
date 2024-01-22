@@ -1,0 +1,14 @@
+{
+  "chinese": "昨天我读了关于酸雨的文章。",
+  "english": "Yesterday, I read an article about acid rain.",
+  "pinyin": "Zuótiān wǒ dú le guānyú suānyǔ de wénzhāng.",
+  "words": [
+    {"ch": "昨天", "en": "Yesterday", "pi": "zuótiān"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "读了", "en": "read", "pi": "dú le"},
+    {"ch": "关于", "en": "about", "pi": "guānyú"},
+    {"ch": "酸雨", "en": "acid rain", "pi": "suānyǔ"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "文章", "en": "article", "pi": "wénzhāng"}
+  ]
+}

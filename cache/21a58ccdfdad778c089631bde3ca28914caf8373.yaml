@@ -1,0 +1,16 @@
+{
+  "chinese": "可以給我一點吃的嗎？我快餓瘋了啦。",
+  "english": "Can you give me some food? I'm starving.",
+  "pinyin": "kě yǐ gěi wǒ yī diǎn chī de ma? wǒ kuài è fēng le la.",
+  "words": [
+    {"ch": "可以", "en": "can", "pi": "kě yǐ"},
+    {"ch": "給我", "en": "give me", "pi": "gěi wǒ"},
+    {"ch": "一點", "en": "some", "pi": "yī diǎn"},
+    {"ch": "吃的", "en": "food", "pi": "chī de"},
+    {"ch": "嗎", "en": "?", "pi": "ma"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "快", "en": "fast", "pi": "kuài"},
+    {"ch": "餓瘋了", "en": "starving", "pi": "è fēng le"},
+    {"ch": "啦", "en": "!", "pi": "la"}
+  ]
+}

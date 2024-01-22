@@ -1,0 +1,32 @@
+{
+  "chinese": "我今天运气很好。",
+  "english": "I'm very lucky today.",
+  "pinyin": "wǒ jīn tiān yùn qì hěn hǎo。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "运气",
+      "en": "luck",
+      "pi": "yùn qì"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    }
+  ]
+}

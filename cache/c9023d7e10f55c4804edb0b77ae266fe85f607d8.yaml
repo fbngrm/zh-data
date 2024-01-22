@@ -1,0 +1,32 @@
+{
+  "chinese": "我好久不见他了。",
+  "english": "I haven't seen him for a long time.",
+  "pinyin": "Wǒ hǎojiǔ bú jiàn tā le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "好久",
+      "en": "for a long time",
+      "pi": "hǎojiǔ"
+    },
+    {
+      "ch": "不见",
+      "en": "haven't seen",
+      "pi": "bú jiàn"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

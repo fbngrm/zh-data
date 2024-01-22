@@ -1,0 +1,32 @@
+{
+  "chinese": "中文比其它外语难多了。",
+  "english": "Chinese is much harder than other foreign languages.",
+  "pinyin": "zhōng wén bǐ qí tā wài yǔ nán duō le.",
+  "words": [
+    {
+      "ch": "中文",
+      "en": "Chinese",
+      "pi": "zhōng wén"
+    },
+    {
+      "ch": "比",
+      "en": "is",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "其它",
+      "en": "other",
+      "pi": "qí tā"
+    },
+    {
+      "ch": "外语",
+      "en": "foreign languages",
+      "pi": "wài yǔ"
+    },
+    {
+      "ch": "难多了",
+      "en": "much harder",
+      "pi": "nán duō le"
+    }
+  ]
+}

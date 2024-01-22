@@ -1,0 +1,37 @@
+{
+  "chinese": "你想要吃任何东西吗?",
+  "english": "Do you want to eat anything?",
+  "pinyin": "nǐ xiǎng yào chī rèn hé dōng xi ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "想要",
+      "en": "want",
+      "pi": "xiǎng yào"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "任何",
+      "en": "anything",
+      "pi": "rèn hé"
+    },
+    {
+      "ch": "东西",
+      "en": "thing",
+      "pi": "dōng xi"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

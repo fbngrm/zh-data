@@ -1,0 +1,32 @@
+{
+  "chinese": "这个周末你有空吗?",
+  "english": "Are you free this weekend?",
+  "pinyin": "zhè gè zhōumò nǐ yǒu kòng ma?",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "周末",
+      "en": "weekend",
+      "pi": "zhōumò"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "空吗",
+      "en": "free",
+      "pi": "kòng ma"
+    }
+  ]
+}

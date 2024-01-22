@@ -1,0 +1,13 @@
+{
+  "chinese": "他从早上工作到夜晚。",
+  "english": "He works from morning till night.",
+  "pinyin": "tā cóng zǎoshang gōngzuò dào yèwǎn.",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "从", "en": "from", "pi": "cóng"},
+    {"ch": "早上", "en": "morning", "pi": "zǎoshang"},
+    {"ch": "工作", "en": "work", "pi": "gōngzuò"},
+    {"ch": "到", "en": "till", "pi": "dào"},
+    {"ch": "夜晚", "en": "night", "pi": "yèwǎn"}
+  ]
+}

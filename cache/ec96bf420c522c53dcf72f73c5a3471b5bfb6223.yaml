@@ -1,0 +1,32 @@
+{
+  "chinese": "你常常去电影院吗？",
+  "english": "Do you often go to the cinema?",
+  "pinyin": "nǐ cháng cháng qù diàn yǐng yuàn ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "常常",
+      "en": "often",
+      "pi": "cháng cháng"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "电影院",
+      "en": "cinema",
+      "pi": "diàn yǐng yuàn"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我的叔叔给了我一本书。",
+  "english": "My uncle gave me a book.",
+  "pinyin": "Wǒ de shūshu gěi le wǒ yī běn shū.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "叔叔",
+      "en": "uncle",
+      "pi": "shūshu"
+    },
+    {
+      "ch": "给",
+      "en": "gave",
+      "pi": "gěi"
+    },
+    {
+      "ch": "了",
+      "en": "me",
+      "pi": "le"
+    },
+    {
+      "ch": "我",
+      "en": "a",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "一",
+      "en": "book",
+      "pi": "yī"
+    },
+    {
+      "ch": "本书",
+      "en": "book",
+      "pi": "běn shū"
+    }
+  ]
+}

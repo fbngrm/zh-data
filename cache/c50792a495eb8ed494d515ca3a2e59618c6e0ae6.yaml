@@ -1,0 +1,37 @@
+{
+  "chinese": "他正在他的书桌旁读书。",
+  "english": "He is reading by his desk.",
+  "pinyin": "tā zhèngzài tā de shūzhuō páng dúshū。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "正在",
+      "en": "is",
+      "pi": "zhèngzài"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "书桌",
+      "en": "desk",
+      "pi": "shūzhuō"
+    },
+    {
+      "ch": "旁",
+      "en": "by",
+      "pi": "páng"
+    },
+    {
+      "ch": "读书",
+      "en": "reading",
+      "pi": "dúshū"
+    }
+  ]
+}

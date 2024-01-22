@@ -1,0 +1,14 @@
+{
+  "chinese": "我等了你五个小时。",
+  "english": "I waited for you for five hours.",
+  "pinyin": "wǒ děng le nǐ wǔ gè xiǎoshí。",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "等", "en": "wait", "pi": "děng" },
+    { "ch": "了", "en": "for", "pi": "le" },
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "五", "en": "five", "pi": "wǔ" },
+    { "ch": "个", "en": "measure word", "pi": "gè" },
+    { "ch": "小时", "en": "hour", "pi": "xiǎoshí" }
+  ]
+}

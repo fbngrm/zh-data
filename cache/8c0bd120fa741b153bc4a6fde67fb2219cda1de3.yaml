@@ -1,0 +1,14 @@
+{
+  "chinese": "我看你擅长做这事。",
+  "english": "I see that you're good at doing this.",
+  "pinyin": "wǒ kàn nǐ shàn cháng zuò zhè shì。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "看", "en": "see", "pi": "kàn"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "擅长", "en": "good at", "pi": "shàn cháng"},
+    {"ch": "做", "en": "doing", "pi": "zuò"},
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "事", "en": "thing", "pi": "shì"}
+  ]
+}

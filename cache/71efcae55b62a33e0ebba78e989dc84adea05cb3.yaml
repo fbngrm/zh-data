@@ -1,0 +1,32 @@
+{
+  "chinese": "这把刀不够锋利。",
+  "english": "This knife is not sharp enough.",
+  "pinyin": "zhè bǎ dāo bù gòu fēng lì。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "把",
+      "en": "knife",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "刀",
+      "en": "is",
+      "pi": "dāo"
+    },
+    {
+      "ch": "不够",
+      "en": "not",
+      "pi": "bù gòu"
+    },
+    {
+      "ch": "锋利",
+      "en": "sharp enough",
+      "pi": "fēng lì"
+    }
+  ]
+}

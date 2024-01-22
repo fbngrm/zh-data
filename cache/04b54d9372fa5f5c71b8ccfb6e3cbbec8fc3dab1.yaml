@@ -1,0 +1,42 @@
+{
+  "chinese": "英语在中国也被学习了。",
+  "english": "English is also studied in China.",
+  "pinyin": "yīng yǔ zài zhōng guó yě bèi xué xí le。",
+  "words": [
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīng yǔ"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "中国",
+      "en": "China",
+      "pi": "zhōng guó"
+    },
+    {
+      "ch": "也",
+      "en": "also",
+      "pi": "yě"
+    },
+    {
+      "ch": "被",
+      "en": "is",
+      "pi": "bèi"
+    },
+    {
+      "ch": "学习",
+      "en": "studied",
+      "pi": "xué xí"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

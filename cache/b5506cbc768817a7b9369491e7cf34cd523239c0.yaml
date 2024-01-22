@@ -1,0 +1,42 @@
+{
+   "chinese": "这个药品会提高病人的存活率。",
+   "english": "This medication will increase the patient's survival rate.",
+   "pinyin": "zhè gè yào pǐn huì tí gāo bìng rén de cún huó lǜ。",
+   "words": [
+      {
+         "ch": "这个",
+         "en": "This",
+         "pi": "zhè gè"
+      },
+      {
+         "ch": "药品",
+         "en": "medication",
+         "pi": "yào pǐn"
+      },
+      {
+         "ch": "会",
+         "en": "will",
+         "pi": "huì"
+      },
+      {
+         "ch": "提高",
+         "en": "increase",
+         "pi": "tí gāo"
+      },
+      {
+         "ch": "病人",
+         "en": "patient",
+         "pi": "bìng rén"
+      },
+      {
+         "ch": "的",
+         "en": "of",
+         "pi": "de"
+      },
+      {
+         "ch": "存活率",
+         "en": "survival rate",
+         "pi": "cún huó lǜ"
+      }
+   ]
+}

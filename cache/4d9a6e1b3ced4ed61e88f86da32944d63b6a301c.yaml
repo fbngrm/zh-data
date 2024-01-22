@@ -1,0 +1,32 @@
+{
+  "chinese": "我不在就别开始。",
+  "english": "If I'm not there, don't start.",
+  "pinyin": "wǒ bú zài jiù bié kāishǐ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不在",
+      "en": "not there",
+      "pi": "bú zài"
+    },
+    {
+      "ch": "就",
+      "en": "then",
+      "pi": "jiù"
+    },
+    {
+      "ch": "别",
+      "en": "don't",
+      "pi": "bié"
+    },
+    {
+      "ch": "开始",
+      "en": "start",
+      "pi": "kāishǐ"
+    }
+  ]
+}

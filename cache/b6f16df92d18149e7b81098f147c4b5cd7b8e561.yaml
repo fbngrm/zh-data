@@ -1,0 +1,32 @@
+{
+  "chinese": "太阳从海上升起了。",
+  "english": "The sun is rising from the sea.",
+  "pinyin": "tài yáng cóng hǎi shàng shēng qǐ le。",
+  "words": [
+    {
+      "ch": "太阳",
+      "en": "sun",
+      "pi": "tài yáng"
+    },
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "海上",
+      "en": "sea",
+      "pi": "hǎi shàng"
+    },
+    {
+      "ch": "升起",
+      "en": "rising",
+      "pi": "shēng qǐ"
+    },
+    {
+      "ch": "了",
+      "en": "is",
+      "pi": "le"
+    }
+  ]
+}

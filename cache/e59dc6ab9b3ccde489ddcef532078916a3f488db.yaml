@@ -1,0 +1,32 @@
+{
+  "chinese": "明天我必须参加考试。",
+  "english": "I must take the exam tomorrow.",
+  "pinyin": "míng tiān wǒ bì xū cān jiā kǎo shì。",
+  "words": [
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "必须",
+      "en": "must",
+      "pi": "bì xū"
+    },
+    {
+      "ch": "参加",
+      "en": "take part in",
+      "pi": "cān jiā"
+    },
+    {
+      "ch": "考试",
+      "en": "exam",
+      "pi": "kǎo shì"
+    }
+  ]
+}

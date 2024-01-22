@@ -1,0 +1,27 @@
+{
+  "chinese": "这里附近有没有邮政局？",
+  "english": "Is there a post office nearby?",
+  "pinyin": "zhè lǐ fù jìn yǒu méi yǒu yóu zhèng jú？",
+  "words": [
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "附近",
+      "en": "nearby",
+      "pi": "fù jìn"
+    },
+    {
+      "ch": "有没有",
+      "en": "Is there",
+      "pi": "yǒu méi yǒu"
+    },
+    {
+      "ch": "邮政局",
+      "en": "post office",
+      "pi": "yóu zhèng jú"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chinese": "我在吃个苹果。",
+  "english": "I'm eating an apple.",
+  "pinyin": "wǒ zài chī gè píngguǒ.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "在", "en": "am", "pi": "zài"},
+    {"ch": "吃", "en": "eating", "pi": "chī"},
+    {"ch": "个", "en": "an", "pi": "gè"},
+    {"ch": "苹果", "en": "apple", "pi": "píngguǒ"}
+  ]
+}

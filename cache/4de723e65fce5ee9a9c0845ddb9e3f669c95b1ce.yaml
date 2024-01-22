@@ -1,0 +1,32 @@
+{
+  "chinese": "这个地方很大，不是吗？",
+  "english": "This place is big, isn't it?",
+  "pinyin": "zhè gè dì fāng hěn dà, bù shì ma?",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "地方",
+      "en": "place",
+      "pi": "dì fāng"
+    },
+    {
+      "ch": "很大",
+      "en": "big",
+      "pi": "hěn dà"
+    },
+    {
+      "ch": "不是",
+      "en": "isn't it",
+      "pi": "bù shì"
+    },
+    {
+      "ch": "吗",
+      "en": "",
+      "pi": "ma"
+    }
+  ]
+}

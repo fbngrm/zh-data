@@ -1,0 +1,13 @@
+{
+  "chinese": "她帮我打包我的手提箱。",
+  "english": "She helps me pack my carry-on luggage.",
+  "pinyin": "tā bāng wǒ dǎ bāo wǒ de shǒu tí xiāng。",
+  "words": [
+    {"ch": "她", "en": "She", "pi": "tā"},
+    {"ch": "帮", "en": "help", "pi": "bāng"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "打包", "en": "pack", "pi": "dǎ bāo"},
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "手提箱", "en": "carry-on luggage", "pi": "shǒu tí xiāng"}
+  ]
+}

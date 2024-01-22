@@ -1,0 +1,16 @@
+{
+  "chinese": "翻译正在试图给尽可能多的细节和消息。",
+  "english": "The translator is trying to provide as much detail and information as possible.",
+  "pinyin": "fān yì zhèng zài shì tú gěi jǐn kě néng duō de xì jié hé xiāo xī.",
+  "words": [
+    {"ch": "翻译", "en": "translator", "pi": "fān yì"},
+    {"ch": "正在", "en": "is currently", "pi": "zhèng zài"},
+    {"ch": "试图", "en": "trying to", "pi": "shì tú"},
+    {"ch": "给", "en": "to", "pi": "gěi"},
+    {"ch": "尽可能多", "en": "as much as possible", "pi": "jǐn kě néng duō"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "细节", "en": "detail", "pi": "xì jié"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "消息", "en": "information", "pi": "xiāo xī"}
+  ]
+}

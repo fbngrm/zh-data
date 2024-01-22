@@ -1,0 +1,42 @@
+{
+  "chinese": "我父亲能把英语讲得很好。",
+  "english": "My father can speak English very well.",
+  "pinyin": "wǒ fù qīn néng bǎ yīng yǔ jiǎng de hěn hǎo.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "父亲",
+      "en": "father",
+      "pi": "fù qīn"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "把",
+      "en": "speak",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīng yǔ"
+    },
+    {
+      "ch": "讲得",
+      "en": "speak well",
+      "pi": "jiǎng de"
+    },
+    {
+      "ch": "很好",
+      "en": "very well",
+      "pi": "hěn hǎo"
+    }
+  ]
+}

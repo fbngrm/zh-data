@@ -1,0 +1,16 @@
+{
+  "chinese": "我在汤姆身上花的时间太多了。",
+  "english": "I spent too much time on Tom.",
+  "pinyin": "wǒ zài tāng mǔ shēn shàng huā de shí jiān tài duō le。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "在", "en": "on", "pi": "zài"},
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "身上", "en": "on", "pi": "shēn shàng"},
+    {"ch": "花", "en": "spent", "pi": "huā"},
+    {"ch": "的", "en": "on", "pi": "de"},
+    {"ch": "时间", "en": "time", "pi": "shí jiān"},
+    {"ch": "太多", "en": "too much", "pi": "tài duō"},
+    {"ch": "了", "en": "le", "pi": "le"}
+  ]
+}

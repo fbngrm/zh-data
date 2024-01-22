@@ -1,0 +1,42 @@
+{
+  "chinese": "能不能请你等几分钟？",
+  "english": "Can you please wait for a few minutes?",
+  "pinyin": "néng bù néng qǐng nǐ děng jǐ fēnzhōng?",
+  "words": [
+    {
+      "ch": "能",
+      "en": "Can",
+      "pi": "néng"
+    },
+    {
+      "ch": "不能",
+      "en": "Cannot",
+      "pi": "bù néng"
+    },
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "等",
+      "en": "wait",
+      "pi": "děng"
+    },
+    {
+      "ch": "几",
+      "en": "a few",
+      "pi": "jǐ"
+    },
+    {
+      "ch": "分钟",
+      "en": "minutes",
+      "pi": "fēnzhōng"
+    }
+  ]
+}

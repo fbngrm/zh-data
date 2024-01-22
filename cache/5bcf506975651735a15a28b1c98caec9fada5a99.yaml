@@ -1,0 +1,42 @@
+{
+  "chinese": "我是在日本上的中学。",
+  "english": "I am studying at a middle school in Japan.",
+  "pinyin": "Wǒ shì zài Rìběn shàng de zhōngxué.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "Wǒ"
+    },
+    {
+      "ch": "是",
+      "en": "am",
+      "pi": "shì"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "日本",
+      "en": "Japan",
+      "pi": "Rìběn"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "的",
+      "en": "the",
+      "pi": "de"
+    },
+    {
+      "ch": "中学",
+      "en": "middle school",
+      "pi": "zhōngxué"
+    }
+  ]
+}

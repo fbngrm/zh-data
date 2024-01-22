@@ -1,0 +1,16 @@
+{
+  "chinese": "我太忙了，无法帮助他。",
+  "english": "I'm too busy to help him.",
+  "pinyin": "wǒ tài máng le, wúfǎ bāngzhù tā",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "太", "en": "too", "pi": "tài" },
+    { "ch": "忙", "en": "busy", "pi": "máng" },
+    { "ch": "了", "en": "to", "pi": "le" },
+    { "ch": "，", "en": ",", "pi": "，" },
+    { "ch": "无法", "en": "unable", "pi": "wúfǎ" },
+    { "ch": "帮助", "en": "to help", "pi": "bāngzhù" },
+    { "ch": "他", "en": "him", "pi": "tā" },
+    { "ch": "。", "en": ".", "pi": "。" }
+  ]
+}

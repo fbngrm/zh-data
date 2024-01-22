@@ -1,0 +1,47 @@
+{
+  "chinese": "我在七时十五分吃晚饭。",
+  "english": "I have dinner at seven fifteen.",
+  "pinyin": "Wǒ zài qī shí shíwǔ fēn chī wǎnfàn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "Wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "七",
+      "en": "seven",
+      "pi": "qī"
+    },
+    {
+      "ch": "时",
+      "en": "o'clock",
+      "pi": "shí"
+    },
+    {
+      "ch": "十五",
+      "en": "fifteen",
+      "pi": "shíwǔ"
+    },
+    {
+      "ch": "分",
+      "en": "minutes",
+      "pi": "fēn"
+    },
+    {
+      "ch": "吃",
+      "en": "have",
+      "pi": "chī"
+    },
+    {
+      "ch": "晚饭",
+      "en": "dinner",
+      "pi": "wǎnfàn"
+    }
+  ]
+}

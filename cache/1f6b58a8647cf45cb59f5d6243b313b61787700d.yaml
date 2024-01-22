@@ -1,0 +1,42 @@
+{
+  "chinese": "我今天起床的时候脖子很痛。",
+  "english": "My neck hurts when I wake up today.",
+  "pinyin": "wǒ jīntiān qǐchuáng de shíhòu bózi hěn tòng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "起床",
+      "en": "wake up",
+      "pi": "qǐchuáng"
+    },
+    {
+      "ch": "的时候",
+      "en": "when",
+      "pi": "de shíhòu"
+    },
+    {
+      "ch": "脖子",
+      "en": "neck",
+      "pi": "bózi"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "痛",
+      "en": "hurts",
+      "pi": "tòng"
+    }
+  ]
+}

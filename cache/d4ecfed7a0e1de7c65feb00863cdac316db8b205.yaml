@@ -1,0 +1,14 @@
+{
+  "chinese": "她在花园里种了玫瑰。",
+  "english": "She planted roses in the garden.",
+  "pinyin": "Tā zài huāyuán lǐ zhòng le méiguī。",
+  "words": [
+    {"ch": "她", "en": "She", "pi": "tā"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "花园", "en": "garden", "pi": "huāyuán"},
+    {"ch": "里", "en": "inside", "pi": "lǐ"},
+    {"ch": "种", "en": "planted", "pi": "zhòng"},
+    {"ch": "了", "en": "did", "pi": "le"},
+    {"ch": "玫瑰", "en": "roses", "pi": "méiguī"}
+  ]
+}

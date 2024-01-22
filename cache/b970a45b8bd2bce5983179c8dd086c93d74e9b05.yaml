@@ -1,0 +1,42 @@
+{
+  "chinese": "今天下午让我们打网球吧。",
+  "english": "Let's play tennis this afternoon.",
+  "pinyin": "jīn tiān xià wǔ ràng wǒ men dǎ wǎng qiú ba.",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "下午",
+      "en": "afternoon",
+      "pi": "xià wǔ"
+    },
+    {
+      "ch": "让",
+      "en": "let",
+      "pi": "ràng"
+    },
+    {
+      "ch": "我们",
+      "en": "us",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "打",
+      "en": "play",
+      "pi": "dǎ"
+    },
+    {
+      "ch": "网球",
+      "en": "tennis",
+      "pi": "wǎng qiú"
+    },
+    {
+      "ch": "吧",
+      "en": "let's",
+      "pi": "ba"
+    }
+  ]
+}

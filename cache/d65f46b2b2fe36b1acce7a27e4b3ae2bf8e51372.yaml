@@ -1,0 +1,15 @@
+{
+"chinese": "太阳在夏天比冬天升起得早。",
+"english": "The sun rises earlier in the summer than in the winter.",
+"pinyin": "Tàiyáng zài xiàtiān bǐ dōngtiān shēng qǐ de zǎo。",
+"words": [
+  {"ch": "太阳", "en": "sun", "pi": "tàiyáng"},
+  {"ch": "在", "en": "in/at", "pi": "zài"},
+  {"ch": "夏天", "en": "summer", "pi": "xiàtiān"},
+  {"ch": "比", "en": "than", "pi": "bǐ"},
+  {"ch": "冬天", "en": "winter", "pi": "dōngtiān"},
+  {"ch": "升起", "en": "rises", "pi": "shēng qǐ"},
+  {"ch": "得", "en": "", "pi": "de"},
+  {"ch": "早", "en": "early", "pi": "zǎo"}
+  ]
+}

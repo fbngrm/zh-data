@@ -1,0 +1,32 @@
+{
+  "chinese": "我太不好意思啦。",
+  "english": "I'm so embarrassed.",
+  "pinyin": "wǒ tài bù hǎo yì si la.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "太",
+      "en": "too",
+      "pi": "tài"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "好意思",
+      "en": "embarrassed",
+      "pi": "hǎo yì si"
+    },
+    {
+      "ch": "啦",
+      "en": "throwaway particle",
+      "pi": "la"
+    }
+  ]
+}

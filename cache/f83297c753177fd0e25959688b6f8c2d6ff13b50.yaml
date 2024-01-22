@@ -1,0 +1,42 @@
+{
+  "chinese": "你有足够的时间赶上车。",
+  "english": "You have enough time to catch the bus.",
+  "pinyin": "nǐ yǒu zúgòu de shíjiān gǎnshàng chē。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "足够",
+      "en": "enough",
+      "pi": "zúgòu"
+    },
+    {
+      "ch": "的",
+      "en": "to",
+      "pi": "de"
+    },
+    {
+      "ch": "时间",
+      "en": "time",
+      "pi": "shíjiān"
+    },
+    {
+      "ch": "赶上",
+      "en": "to catch",
+      "pi": "gǎnshàng"
+    },
+    {
+      "ch": "车",
+      "en": "bus",
+      "pi": "chē"
+    }
+  ]
+}

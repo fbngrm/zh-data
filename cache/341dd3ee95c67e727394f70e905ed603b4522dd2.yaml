@@ -1,0 +1,12 @@
+{
+  "chinese": "她写了好多诗。",
+  "english": "She wrote a lot of poems.",
+  "pinyin": "tā xiě le hǎo duō shī。",
+  "words": [
+    {"ch": "她", "en": "She", "pi": "tā"},
+    {"ch": "写", "en": "wrote", "pi": "xiě"},
+    {"ch": "了", "en": "a lot of", "pi": "le"},
+    {"ch": "好多", "en": "poems", "pi": "hǎo duō"},
+    {"ch": "诗", "en": "poems", "pi": "shī"}
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "chinese": "如果你認為教育是昂貴的,那麼你等著看無知讓你付出的代價。",
+  "english": "If you think education is expensive, wait until you see the cost of ignorance.",
+  "pinyin": "rú guǒ nǐ rèn wéi jiào yù shì áng guì de, nà me nǐ děng zhe kàn wú zhī ràng nǐ fù chū de dài jià."
+  "words": [
+    {"ch":"如果", "en":"if", "pi":"rú guǒ"},
+    {"ch":"你", "en":"you", "pi":"nǐ"},
+    {"ch":"認為", "en":"think", "pi":"rèn wéi"},
+    {"ch":"教育", "en":"education", "pi":"jiào yù"},
+    {"ch":"是", "en":"is", "pi":"shì"},
+    {"ch":"昂貴", "en":"expensive", "pi":"áng guì"},
+    {"ch":"的", "en":"", "pi":"de"},
+    {"ch":"那麼", "en":"wait until", "pi":"nà me"},
+    {"ch":"你", "en":"you", "pi":"nǐ"},
+    {"ch":"等著", "en":"wait", "pi":"děng zhe"},
+    {"ch":"看", "en":"see", "pi":"kàn"},
+    {"ch":"無知", "en":"ignorance", "pi":"wú zhī"},
+    {"ch":"讓", "en":"let", "pi":"ràng"},
+    {"ch":"你", "en":"you", "pi":"nǐ"},
+    {"ch":"付出", "en":"pay", "pi":"fù chū"},
+    {"ch":"的", "en":"", "pi":"de"},
+    {"ch":"代價", "en":"cost", "pi":"dài jià"}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "你是不是有两台电脑？",
+  "english": "Do you have two computers?",
+  "pinyin": "nǐ shì bùshì yǒu liǎng tái diànnǎo?",
+  "words": [
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "是不是", "en": "do you", "pi": "shì bùshì" },
+    { "ch": "有", "en": "have", "pi": "yǒu" },
+    { "ch": "两", "en": "two", "pi": "liǎng" },
+    { "ch": "台", "en": "classifiers for machines", "pi": "tái" },
+    { "ch": "电脑", "en": "computer", "pi": "diànnǎo" }
+  ]
+}

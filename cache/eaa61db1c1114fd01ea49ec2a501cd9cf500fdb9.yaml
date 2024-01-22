@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆击出三垒安打。",
+  "english": "Tom hit a triple.",
+  "pinyin": "Tāngmǔ jī chū sānlěi āndǎ.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "击出",
+      "en": "hit",
+      "pi": "jī chū"
+    },
+    {
+      "ch": "三垒",
+      "en": "triple",
+      "pi": "sānlěi"
+    },
+    {
+      "ch": "安打",
+      "en": "a hit",
+      "pi": "āndǎ"
+    }
+  ]
+}

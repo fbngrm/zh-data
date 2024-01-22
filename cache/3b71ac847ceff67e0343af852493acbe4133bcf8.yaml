@@ -1,0 +1,42 @@
+{
+  "chinese": "这里有一张我全家的照片。",
+  "english": "Here is a photo of my whole family.",
+  "pinyin": "Zhèlǐ yǒu yī zhāng wǒ quánjiā de zhàopiàn.",
+  "words": [
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhèlǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一张",
+      "en": "one",
+      "pi": "yī zhāng"
+    },
+    {
+      "ch": "我",
+      "en": "my",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "全家",
+      "en": "whole family",
+      "pi": "quánjiā"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "照片",
+      "en": "photo",
+      "pi": "zhàopiàn"
+    }
+  ]
+}

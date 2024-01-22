@@ -1,0 +1,37 @@
+{
+  "chinese": "我会给汤姆发信息。",
+  "english": "I will send a message to Tom.",
+  "pinyin": "wǒ huì gěi tāng mǔ fā xìn xī。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "给",
+      "en": "to",
+      "pi": "gěi"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "发",
+      "en": "send",
+      "pi": "fā"
+    },
+    {
+      "ch": "信息",
+      "en": "message",
+      "pi": "xìn xī"
+    }
+  ]
+}

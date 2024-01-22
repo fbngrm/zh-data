@@ -1,0 +1,14 @@
+{
+  "chinese": "六点半我们到你家。",
+  "english": "We will arrive at your house at half past six.",
+  "pinyin": "liù diǎn bàn wǒ men dào nǐ jiā。",
+  "words": [
+    {"ch": "六", "en": "six", "pi": "liù"},
+    {"ch": "点", "en": "o'clock", "pi": "diǎn"},
+    {"ch": "半", "en": "half", "pi": "bàn"},
+    {"ch": "我们", "en": "we", "pi": "wǒ men"},
+    {"ch": "到", "en": "arrive", "pi": "dào"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "家", "en": "house", "pi": "jiā"}
+  ]
+}

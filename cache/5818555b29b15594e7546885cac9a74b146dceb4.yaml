@@ -1,0 +1,22 @@
+{
+  "chinese": "王先生是中国人。",
+  "english": "Mr. Wang is Chinese.",
+  "pinyin": "wáng xiān shēng shì zhōng guó rén.",
+  "words": [
+    {
+      "ch": "王先生",
+      "en": "Mr. Wang",
+      "pi": "wáng xiān shēng"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "中国人",
+      "en": "Chinese",
+      "pi": "zhōng guó rén"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "chinese": "我中午十二点半还要去浦东。",
+  "english": "I still have to go to Pudong at half past twelve noon.",
+  "pinyin": "wǒ zhōngwǔ shíèr diǎn bàn hái yào qù pǔdōng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "中午",
+      "en": "noon",
+      "pi": "zhōngwǔ"
+    },
+    {
+      "ch": "十二",
+      "en": "twelve",
+      "pi": "shíèr"
+    },
+    {
+      "ch": "点",
+      "en": "o'clock",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "半",
+      "en": "half",
+      "pi": "bàn"
+    },
+    {
+      "ch": "还要",
+      "en": "still have to",
+      "pi": "hái yào"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "浦东",
+      "en": "Pudong",
+      "pi": "pǔdōng"
+    }
+  ]
+}

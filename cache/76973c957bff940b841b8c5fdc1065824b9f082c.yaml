@@ -1,0 +1,13 @@
+{
+  "chinese": "我应该吃这种药吗？",
+  "english": "Should I take this medicine?",
+  "pinyin": "wǒ yīnggāi chī zhèzhǒng yào ma?",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "应该", "en": "should", "pi": "yīnggāi" },
+    { "ch": "吃", "en": "take", "pi": "chī" },
+    { "ch": "这种", "en": "this kind of", "pi": "zhèzhǒng" },
+    { "ch": "药", "en": "medicine", "pi": "yào" },
+    { "ch": "吗", "en": "?", "pi": "ma" }
+  ]
+}

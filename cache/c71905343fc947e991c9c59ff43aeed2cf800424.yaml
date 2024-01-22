@@ -1,0 +1,32 @@
+{
+  "chinese": "我现在上班无法离开。",
+  "english": "I cannot leave now because I'm at work.",
+  "pinyin": "wǒ xiànzài shàngbān wúfǎ líkāi。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiànzài"
+    },
+    {
+      "ch": "上班",
+      "en": "work",
+      "pi": "shàngbān"
+    },
+    {
+      "ch": "无法",
+      "en": "cannot",
+      "pi": "wúfǎ"
+    },
+    {
+      "ch": "离开",
+      "en": "leave",
+      "pi": "líkāi"
+    }
+  ]
+}

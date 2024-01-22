@@ -1,0 +1,32 @@
+{
+  "chinese": "您的电脑密码是多少？",
+  "english": "What is your computer password?",
+  "pinyin": "Nín de diànnǎo mìmǎ shì duōshao?",
+  "words": [
+    {
+      "ch": "您的",
+      "en": "your",
+      "pi": "Nín de"
+    },
+    {
+      "ch": "电脑",
+      "en": "computer",
+      "pi": "diànnǎo"
+    },
+    {
+      "ch": "密码",
+      "en": "password",
+      "pi": "mìmǎ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "多少",
+      "en": "how much",
+      "pi": "duōshao"
+    }
+  ]
+}

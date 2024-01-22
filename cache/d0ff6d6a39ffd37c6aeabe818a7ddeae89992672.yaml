@@ -1,0 +1,18 @@
+{
+  "chinese": "如果他有嘗試的話，就可能已經成功了。",
+  "english": "If he had tried, he might have succeeded.",
+  "pinyin": "rú guǒ tā yǒu cháng shì de huà, jiù kě néng yǐ jīng chéng gōng le.",
+  "words": [
+    {"ch": "如果", "en": "if", "pi": "rú guǒ"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "有", "en": "had", "pi": "yǒu"},
+    {"ch": "嘗試", "en": "tried", "pi": "cháng shì"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "話", "en": "words", "pi": "huà"},
+    {"ch": "就", "en": "might", "pi": "jiù"},
+    {"ch": "可能", "en": "possible", "pi": "kě néng"},
+    {"ch": "已經", "en": "already", "pi": "yǐ jīng"},
+    {"ch": "成功", "en": "succeeded", "pi": "chéng gōng"},
+    {"ch": "了", "en": "", "pi": "le"}
+  ]
+}

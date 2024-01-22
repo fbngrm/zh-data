@@ -1,0 +1,37 @@
+{
+  "chinese": "请帮我做个奶昔。",
+  "english": "Please help me make a milkshake.",
+  "pinyin": "qǐng bāng wǒ zuò gè nǎi xī.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "帮",
+      "en": "help",
+      "pi": "bāng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "做",
+      "en": "make",
+      "pi": "zuò"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "奶昔",
+      "en": "milkshake",
+      "pi": "nǎi xī"
+    }
+  ]
+}

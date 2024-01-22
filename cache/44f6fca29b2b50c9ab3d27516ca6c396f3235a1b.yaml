@@ -1,0 +1,32 @@
+{
+  "chinese": "厨师把肉切碎了。",
+  "english": "The chef minced the meat.",
+  "pinyin": "chú shī bǎ ròu qiē suì le.",
+  "words": [
+    {
+      "ch": "厨师",
+      "en": "chef",
+      "pi": "chú shī"
+    },
+    {
+      "ch": "把",
+      "en": "take",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "肉",
+      "en": "meat",
+      "pi": "ròu"
+    },
+    {
+      "ch": "切碎",
+      "en": "mince",
+      "pi": "qiē suì"
+    },
+    {
+      "ch": "了",
+      "en": "completed action marker",
+      "pi": "le"
+    }
+  ]
+}

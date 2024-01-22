@@ -1,0 +1,24 @@
+{
+  "chinese": "一些在我的花园里的玫瑰是白色的，其他的则是红色的。",
+  "english": "Some of the roses in my garden are white, while others are red.",
+  "pinyin": "Yīxiē zài wǒ de huāyuán lǐ de méiguī shì báisè de, qítā de zé shì hóngsè de.",
+  "words": [
+    {"ch": "一些", "en": "Some", "pi": "yīxiē"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "花园", "en": "garden", "pi": "huāyuán"},
+    {"ch": "里", "en": "inside", "pi": "lǐ"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "玫瑰", "en": "roses", "pi": "méiguī"},
+    {"ch": "是", "en": "are", "pi": "shì"},
+    {"ch": "白色", "en": "white", "pi": "báisè"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "其他", "en": "others", "pi": "qítā"},
+    {"ch": "的", "en": "are", "pi": "de"},
+    {"ch": "则", "en": "while", "pi": "zé"},
+    {"ch": "是", "en": "are", "pi": "shì"},
+    {"ch": "红色", "en": "red", "pi": "hóngsè"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

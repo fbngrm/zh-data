@@ -1,0 +1,32 @@
+{
+  "chinese": "他無法理解這句話。",
+  "english": "He can't understand this sentence.",
+  "pinyin": "tā wú fǎ lǐ jiě zhè jù huà。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "無法",
+      "en": "can't",
+      "pi": "wú fǎ"
+    },
+    {
+      "ch": "理解",
+      "en": "understand",
+      "pi": "lǐ jiě"
+    },
+    {
+      "ch": "這",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "句話",
+      "en": "sentence",
+      "pi": "jù huà"
+    }
+  ]
+}

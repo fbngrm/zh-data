@@ -1,0 +1,21 @@
+{
+  "chinese": "我不知道把拐杖放哪去了，你有看到吗？",
+  "english": "I don't know where I put my cane, have you seen it?",
+  "pinyin": "wǒ bù zhī dào bǎ guǎi zhàng fàng nǎ qù le, nǐ yǒu kàn dào ma?",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "不", "en": "don't", "pi": "bù"},
+    {"ch": "知道", "en": "know", "pi": "zhī dào"},
+    {"ch": "把", "en": "where", "pi": "bǎ"},
+    {"ch": "拐杖", "en": "cane", "pi": "guǎi zhàng"},
+    {"ch": "放", "en": "put", "pi": "fàng"},
+    {"ch": "哪", "en": "where", "pi": "nǎ"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "了", "en": "have", "pi": "le"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "看到", "en": "seen", "pi": "kàn dào"},
+    {"ch": "吗", "en": "?", "pi": "ma"}
+  ]
+}

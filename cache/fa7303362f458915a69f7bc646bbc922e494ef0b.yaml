@@ -1,0 +1,42 @@
+{
+  "chinese": "我想知道天会不会变晴。",
+  "english": "I wonder if the weather will clear up.",
+  "pinyin": "wǒ xiǎng zhīdào tiān huì bù huì biànqíng。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "wonder",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "天",
+      "en": "weather",
+      "pi": "tiān"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "不会",
+      "en": "not",
+      "pi": "bù huì"
+    },
+    {
+      "ch": "变晴",
+      "en": "clear up",
+      "pi": "biànqíng"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "美国的小孩听着这些话长大。",
+  "english": "American children grow up listening to these words.",
+  "pinyin": "Měiguó de xiǎohái tīngzhe zhèxiē huà zhǎngdà.",
+  "words": [
+    {"ch": "美国", "en": "America", "pi": "Měiguó"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "小孩", "en": "children", "pi": "xiǎohái"},
+    {"ch": "听着", "en": "listen to", "pi": "tīngzhe"},
+    {"ch": "这些", "en": "these", "pi": "zhèxiē"},
+    {"ch": "话", "en": "words", "pi": "huà"},
+    {"ch": "长大", "en": "grow up", "pi": "zhǎngdà"}
+  ]
+}

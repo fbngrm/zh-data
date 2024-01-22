@@ -1,0 +1,16 @@
+{
+  "chinese": "你还和你的高中同学保持联系吗？",
+  "english": "Are you still in touch with your high school classmates?",
+  "pinyin": "nǐ hái hé nǐ de gāozhōng tóngxué bǎochí liánxì ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "还", "en": "still", "pi": "hái"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "你的", "en": "your", "pi": "nǐ de"},
+    {"ch": "高中", "en": "high school", "pi": "gāozhōng"},
+    {"ch": "同学", "en": "classmates", "pi": "tóngxué"},
+    {"ch": "保持", "en": "maintain", "pi": "bǎochí"},
+    {"ch": "联系", "en": "contact", "pi": "liánxì"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

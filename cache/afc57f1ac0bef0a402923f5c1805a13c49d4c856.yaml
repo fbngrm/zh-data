@@ -1,0 +1,47 @@
+{
+  "chinese": "我有个住在英国的朋友。",
+  "english": "I have a friend who lives in England.",
+  "pinyin": "wǒ yǒu gè zhù zài yīng guó de péng yǒu.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "住",
+      "en": "live",
+      "pi": "zhù"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "英国",
+      "en": "England",
+      "pi": "yīng guó"
+    },
+    {
+      "ch": "的",
+      "en": "who",
+      "pi": "de"
+    },
+    {
+      "ch": "朋友",
+      "en": "friend",
+      "pi": "péng yǒu"
+    }
+  ]
+}

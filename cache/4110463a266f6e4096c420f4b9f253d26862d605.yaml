@@ -1,0 +1,32 @@
+{
+  "chinese": "我要看一下这个。",
+  "english": "I want to take a look at this.",
+  "pinyin": "wǒ yào kàn yí xià zhè gè。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "看",
+      "en": "to look",
+      "pi": "kàn"
+    },
+    {
+      "ch": "一下",
+      "en": "take a look",
+      "pi": "yí xià"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    }
+  ]
+}

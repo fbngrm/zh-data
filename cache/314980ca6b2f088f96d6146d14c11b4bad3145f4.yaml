@@ -1,0 +1,32 @@
+{
+  "chinese": "妈妈为我准备了午饭。",
+  "english": "Mom prepared lunch for me.",
+  "pinyin": "mā mā wèi wǒ zhǔn bèi le wǔ fàn。",
+  "words": [
+    {
+      "ch": "妈妈",
+      "en": "Mom",
+      "pi": "mā mā"
+    },
+    {
+      "ch": "为我",
+      "en": "for me",
+      "pi": "wèi wǒ"
+    },
+    {
+      "ch": "准备",
+      "en": "prepare",
+      "pi": "zhǔn bèi"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "午饭",
+      "en": "lunch",
+      "pi": "wǔ fàn"
+    }
+  ]
+}

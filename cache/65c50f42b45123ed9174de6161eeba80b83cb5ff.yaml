@@ -1,0 +1,42 @@
+{
+  "chinese": "请你出示你的机票和护照。",
+  "english": "Please show me your ticket and passport.",
+  "pinyin": "qǐng nǐ chūshì nǐ de jīpiào hé hùzhào.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "出示",
+      "en": "show",
+      "pi": "chūshì"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "机票",
+      "en": "ticket",
+      "pi": "jīpiào"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "护照",
+      "en": "passport",
+      "pi": "hùzhào"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "sentences": [
+    {
+      "chinese": "死亡之后你便不会再复活。",
+      "english": "After death, you will not come back to life.",
+      "pinyin": "sǐwáng zhīhòu nǐ biàn bù huì zài fùhuó。",
+      "words": [
+        { "ch": "死亡", "en": "death", "pi": "sǐwáng" },
+        { "ch": "之后", "en": "after", "pi": "zhīhòu" },
+        { "ch": "你", "en": "you", "pi": "nǐ" },
+        { "ch": "便", "en": "will", "pi": "biàn" },
+        { "ch": "不会", "en": "not", "pi": "bù huì" },
+        { "ch": "再", "en": "come back", "pi": "zài" },
+        { "ch": "复活", "en": "to life", "pi": "fùhuó" }
+      ]
+    },
+    {
+      "chinese": "你不能死过之后又重回生命。",
+      "english": "You cannot die and then come back to life.",
+      "pinyin": "nǐ bùnéng sǐguò zhīhòu yòu chónghuí shēngmìng。",
+      "words": [
+        { "ch": "你", "en": "you", "pi": "nǐ" },
+        { "ch": "不能", "en": "cannot", "pi": "bùnéng" },
+        { "ch": "死过", "en": "die", "pi": "sǐguò" },
+        { "ch": "之后", "en": "and then", "pi": "zhīhòu" },
+        { "ch": "又", "en": "again", "pi": "yòu" },
+        { "ch": "重回", "en": "come back", "pi": "chónghuí" },
+        { "ch": "生命", "en": "to life", "pi": "shēngmìng" }
+      ]
+    },
+    {
+      "chinese": "如果你以为那会发生，你并非真正死去。",
+      "english": "If you think that would happen, you are not truly dead.",
+      "pinyin": "rúguǒ nǐ yǐwéi nà huì fāshēng, nǐ bìngfēi zhēnzhèng sǐqù。",
+      "words": [
+        { "ch": "如果", "en": "if", "pi": "rúguǒ" },
+        { "ch": "你", "en": "you", "pi": "nǐ" },
+        { "ch": "以为", "en": "think", "pi": "yǐwéi" },
+        { "ch": "那", "en": "that", "pi": "nà" },
+        { "ch": "会", "en": "would", "pi": "huì" },
+        { "ch": "发生", "en": "happen", "pi": "fāshēng" },
+        { "ch": "你", "en": "you", "pi": "nǐ" },
+        { "ch": "并非", "en": "are not", "pi": "bìngfēi" },
+        { "ch": "真正", "en": "truly", "pi": "zhēnzhèng" },
+        { "ch": "死去", "en": "dead", "pi": "sǐqù" }
+      ]
+    }
+  ]
+}

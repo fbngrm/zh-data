@@ -1,0 +1,27 @@
+{
+  "chinese": "天气变阴了。",
+  "english": "The weather has turned cloudy.",
+  "pinyin": "tiān qì biàn yīn le.",
+  "words": [
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiān qì"
+    },
+    {
+      "ch": "变",
+      "en": "to turn",
+      "pi": "biàn"
+    },
+    {
+      "ch": "阴",
+      "en": "cloudy",
+      "pi": "yīn"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

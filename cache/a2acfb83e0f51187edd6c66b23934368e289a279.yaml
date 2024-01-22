@@ -1,0 +1,14 @@
+{
+  "chinese": "你知道她为什么这么生气吗？",
+  "english": "Do you know why she is so angry?",
+  "pinyin": "Nǐ zhīdào tā wèishéme zhème shēngqì ma?",
+  "words": [
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "知道", "en": "know", "pi": "zhīdào" },
+    { "ch": "她", "en": "she", "pi": "tā" },
+    { "ch": "为什么", "en": "why", "pi": "wèishéme" },
+    { "ch": "这么", "en": "so", "pi": "zhème" },
+    { "ch": "生气", "en": "angry", "pi": "shēngqì" },
+    { "ch": "吗", "en": "question particle", "pi": "ma" }
+  ]
+}

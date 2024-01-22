@@ -1,0 +1,42 @@
+{
+  "chinese": "我可以和佐藤先生说话吗？",
+  "english": "Can I talk to Mr. Sato?",
+  "pinyin": "wǒ kěyǐ hé zuǒ táng xiān shēng shuō huà ma?",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kěyǐ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "佐藤",
+      "en": "Sato",
+      "pi": "zuǒ táng"
+    },
+    {
+      "ch": "先生",
+      "en": "Mr.",
+      "pi": "xiān shēng"
+    },
+    {
+      "ch": "说话",
+      "en": "talk",
+      "pi": "shuō huà"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

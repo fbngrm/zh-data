@@ -1,0 +1,37 @@
+{
+  "chinese": "今天下午天气将转晴。",
+  "english": "The weather will clear up this afternoon.",
+  "pinyin": "jīn tiān xià wǔ tiān qì jiāng zhuǎn qíng.",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "下午",
+      "en": "afternoon",
+      "pi": "xià wǔ"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiān qì"
+    },
+    {
+      "ch": "将",
+      "en": "will",
+      "pi": "jiāng"
+    },
+    {
+      "ch": "转",
+      "en": "clear",
+      "pi": "zhuǎn"
+    },
+    {
+      "ch": "晴",
+      "en": "up",
+      "pi": "qíng"
+    }
+  ]
+}

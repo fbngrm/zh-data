@@ -1,0 +1,18 @@
+{
+  "chinese": "除了英语，这个学校的所有学生必须多学一门外语。",
+  "english": "In addition to English, all students in this school must learn another foreign language.",
+  "pinyin": "chú le yīng yǔ, zhè ge xué xiào de suǒ yǒu xué shēng bì xū duō xué yī mén wài yǔ.",
+  "words": [
+    {"ch": "除了", "en": "In addition to", "pi": "chú le"},
+    {"ch": "英语", "en": "English", "pi": "yīng yǔ"},
+    {"ch": "这个", "en": "this", "pi": "zhè ge"},
+    {"ch": "学校", "en": "school", "pi": "xué xiào"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "所有", "en": "all", "pi": "suǒ yǒu"},
+    {"ch": "学生", "en": "students", "pi": "xué shēng"},
+    {"ch": "必须", "en": "must", "pi": "bì xū"},
+    {"ch": "多学", "en": "learn more", "pi": "duō xué"},
+    {"ch": "一门", "en": "another", "pi": "yī mén"},
+    {"ch": "外语", "en": "foreign language", "pi": "wài yǔ"}
+  ]
+}

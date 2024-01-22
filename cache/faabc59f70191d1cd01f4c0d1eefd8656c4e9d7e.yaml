@@ -1,0 +1,27 @@
+{
+  "chinese": "我洗了澡。",
+  "english": "I took a shower.",
+  "pinyin": "wǒ xǐ le zǎo.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "洗",
+      "en": "to wash",
+      "pi": "xǐ"
+    },
+    {
+      "ch": "了",
+      "en": "past tense marker",
+      "pi": "le"
+    },
+    {
+      "ch": "澡",
+      "en": "shower",
+      "pi": "zǎo"
+    }
+  ]
+}

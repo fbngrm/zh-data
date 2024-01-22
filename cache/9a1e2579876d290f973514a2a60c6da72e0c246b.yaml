@@ -1,0 +1,15 @@
+{
+  "chinese": "這是所有他必須做的事。",
+  "english": "This is everything he needs to do.",
+  "pinyin": "zhè shì suǒyǒu tā bìxū zuò de shì.",
+  "words": [
+    {"ch": "這", "en": "this", "pi": "zhè"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "所有", "en": "all", "pi": "suǒyǒu"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "必須", "en": "needs to", "pi": "bìxū"},
+    {"ch": "做", "en": "do", "pi": "zuò"},
+    {"ch": "的", "en": "should", "pi": "de"},
+    {"ch": "事", "en": "everything", "pi": "shì"}
+  ]
+}

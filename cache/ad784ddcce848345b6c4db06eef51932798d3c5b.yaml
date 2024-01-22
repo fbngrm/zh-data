@@ -1,0 +1,16 @@
+{
+  "chinese": "由于全球气候变暖，城市可能被完全地淹没。",
+  "english": "Due to global warming, cities may be completely submerged.",
+  "pinyin": "yóu yú quán qiú qì hòu biàn nuǎn，chéng shì kě néng bèi wán quán de yān mò。",
+  "words": [
+    { "ch": "由于", "en": "Due to", "pi": "yóu yú" },
+    { "ch": "全球", "en": "global", "pi": "quán qiú" },
+    { "ch": "气候变暖", "en": "warming", "pi": "qì hòu biàn nuǎn" },
+    { "ch": "城市", "en": "cities", "pi": "chéng shì" },
+    { "ch": "可能", "en": "may", "pi": "kě néng" },
+    { "ch": "被", "en": "be", "pi": "bèi" },
+    { "ch": "完全", "en": "completely", "pi": "wán quán" },
+    { "ch": "地", "en": "", "pi": "de" },
+    { "ch": "淹没", "en": "submerged", "pi": "yān mò" }
+  ]
+}

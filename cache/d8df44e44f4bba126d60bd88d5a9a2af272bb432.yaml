@@ -1,0 +1,42 @@
+{
+  "chinese": "你听说了昨天的火灾吗?",
+  "english": "Did you hear about the fire yesterday?",
+  "pinyin": "nǐ tīngshuō le zuótiān de huǒzāi ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "听说",
+      "en": "hear about",
+      "pi": "tīngshuō"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action or change of state",
+      "pi": "le"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "火灾",
+      "en": "fire",
+      "pi": "huǒzāi"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

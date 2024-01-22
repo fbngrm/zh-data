@@ -1,0 +1,32 @@
+{
+  "chinese": "她很喜欢看中文书。",
+  "english": "She loves reading Chinese books.",
+  "pinyin": "tā hěn xǐhuān kàn zhōngwén shū.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "喜欢",
+      "en": "loves",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "看",
+      "en": "reading",
+      "pi": "kàn"
+    },
+    {
+      "ch": "中文书",
+      "en": "Chinese books",
+      "pi": "zhōngwén shū"
+    }
+  ]
+}

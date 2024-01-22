@@ -1,0 +1,20 @@
+{
+  "chinese": "我父母整天都在為雞毛蒜皮的事情吵架，真是煩死人了！",
+  "english": "My parents argue about trivial matters all day long, it's really annoying!",
+  "pinyin": "wǒ fù mǔ zhěng tiān dōu zài wèi jī máo suàn pí de shì qíng chǎo jià, zhēn shì fán sǐ rén le!",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "父母", "en": "parents", "pi": "fù mǔ" },
+    { "ch": "整天", "en": "all day", "pi": "zhěng tiān" },
+    { "ch": "都", "en": "all", "pi": "dōu" },
+    { "ch": "在", "en": "at", "pi": "zài" },
+    { "ch": "為", "en": "for", "pi": "wèi" },
+    { "ch": "雞毛蒜皮", "en": "trivial matters", "pi": "jī máo suàn pí" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "事情", "en": "matters", "pi": "shì qíng" },
+    { "ch": "吵架", "en": "argue", "pi": "chǎo jià" },
+    { "ch": "真是", "en": "really", "pi": "zhēn shì" },
+    { "ch": "煩死人", "en": "annoying", "pi": "fán sǐ rén" },
+    { "ch": "了", "en": "", "pi": "le" }
+  ]
+}

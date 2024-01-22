@@ -1,0 +1,13 @@
+{
+  "chinese": "我爸爸每天抽一包烟。",
+  "english": "My father smokes a pack of cigarettes every day.",
+  "pinyin": "wǒ bàba měitiān chōu yī bāo yān。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "爸爸", "en": "father", "pi": "bàba"},
+    {"ch": "每天", "en": "every day", "pi": "měitiān"},
+    {"ch": "抽", "en": "smoke", "pi": "chōu"},
+    {"ch": "一包", "en": "a pack", "pi": "yī bāo"},
+    {"ch": "烟", "en": "cigarette", "pi": "yān"}
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆从玛丽那里拿走了锤子。",
+  "english": "Tom took the hammer from Mary.",
+  "pinyin": "Tāng mǔ cóng Mǎlì nàlǐ názǒule chuízi.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎlì"
+    },
+    {
+      "ch": "那里",
+      "en": "there",
+      "pi": "nàlǐ"
+    },
+    {
+      "ch": "拿走",
+      "en": "took",
+      "pi": "názǒu"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "锤子",
+      "en": "hammer",
+      "pi": "chuízi"
+    }
+  ]
+}

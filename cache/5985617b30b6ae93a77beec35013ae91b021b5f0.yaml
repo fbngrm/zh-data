@@ -1,0 +1,32 @@
+{
+  "chinese": "我跟汤姆不一样。",
+  "english": "I am different from Tom.",
+  "pinyin": "wǒ gēn tāng mǔ bù yī yàng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "跟",
+      "en": "with",
+      "pi": "gēn"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "一样",
+      "en": "same",
+      "pi": "yī yàng"
+    }
+  ]
+}

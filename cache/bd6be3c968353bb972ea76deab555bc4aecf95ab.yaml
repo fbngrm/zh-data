@@ -1,0 +1,63 @@
+{
+  "sentences": [
+    {
+      "chinese": "坦白说，我有恐高症。",
+      "english": "To be honest, I have acrophobia.",
+      "pinyin": "tǎn bái shuō, wǒ yǒu kǒng gāo zhèng。",
+      "words": [
+        {
+          "ch": "坦白",
+          "en": "To be honest",
+          "pi": "tǎn bái"
+        },
+        {
+          "ch": "说",
+          "en": "say",
+          "pi": "shuō"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "有",
+          "en": "have",
+          "pi": "yǒu"
+        },
+        {
+          "ch": "恐高症",
+          "en": "acrophobia",
+          "pi": "kǒng gāo zhèng"
+        }
+      ]
+    },
+    {
+      "chinese": "你是个胆小鬼！",
+      "english": "You are a coward!",
+      "pinyin": "nǐ shì gè dǎn xiǎo guǐ！",
+      "words": [
+        {
+          "ch": "你",
+          "en": "You",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "是",
+          "en": "are",
+          "pi": "shì"
+        },
+        {
+          "ch": "个",
+          "en": "a",
+          "pi": "gè"
+        },
+        {
+          "ch": "胆小鬼",
+          "en": "coward",
+          "pi": "dǎn xiǎo guǐ"
+        }
+      ]
+    }
+  ]
+}

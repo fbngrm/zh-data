@@ -1,0 +1,37 @@
+{
+  "chinese": "请在明天六点叫我起来。",
+  "english": "Please wake me up at six o'clock tomorrow.",
+  "pinyin": "qǐng zài míngtiān liù diǎn jiào wǒ qǐlái.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "六点",
+      "en": "six o'clock",
+      "pi": "liù diǎn"
+    },
+    {
+      "ch": "叫我",
+      "en": "wake me up",
+      "pi": "jiào wǒ"
+    },
+    {
+      "ch": "起来",
+      "en": "up",
+      "pi": "qǐlái"
+    }
+  ]
+}

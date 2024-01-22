@@ -1,0 +1,24 @@
+{
+  "sentences": [
+    {
+      "chinese": "忍一时,风平浪静.",
+      "english": "Endure for a moment, calm winds and quiet waves.",
+      "pinyin": "rěn yī shí, fēng píng làng jìng.",
+      "words": [
+        {"ch": "忍", "en": "endure", "pi": "rěn"},
+        {"ch": "一时", "en": "for a moment", "pi": "yī shí"},
+        {"ch": "风平浪静", "en": "calm winds and quiet waves", "pi": "fēng píng làng jìng"}
+      ]
+    },
+    {
+      "chinese": "让一步,海阔天空.",
+      "english": "Take a step back and the sea is boundless.",
+      "pinyin": "ràng yī bù, hǎi kuò tiān kōng.",
+      "words": [
+        {"ch": "让", "en": "take a step back", "pi": "ràng"},
+        {"ch": "一步", "en": "and", "pi": "yī bù"},
+        {"ch": "海阔天空", "en": "the sea is boundless", "pi": "hǎi kuò tiān kōng"}
+      ]
+    }
+  ]
+}

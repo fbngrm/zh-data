@@ -1,0 +1,27 @@
+{
+  "chinese": "我到达伦敦了。",
+  "english": "I arrived in London.",
+  "pinyin": "wǒ dàodá lúndūn le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "到达",
+      "en": "arrive",
+      "pi": "dàodá"
+    },
+    {
+      "ch": "伦敦",
+      "en": "London",
+      "pi": "lúndūn"
+    },
+    {
+      "ch": "了",
+      "en": "completed action",
+      "pi": "le"
+    }
+  ]
+}

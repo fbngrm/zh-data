@@ -1,0 +1,10 @@
+{ "chinese": "我与他联系。", 
+  "english": "I am contacting him.", 
+  "pinyin": "wǒ yǔ tā liánxì.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "与", "en": "and", "pi": "yǔ" },
+    { "ch": "他", "en": "him", "pi": "tā" },
+    { "ch": "联系", "en": "contact", "pi": "liánxì" }
+  ]
+}

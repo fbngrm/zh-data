@@ -1,0 +1,15 @@
+{
+  "chinese": "我叔叔住在西班牙的首都马德里。",
+  "english": "My uncle lives in the capital of Spain, Madrid.",
+  "pinyin": "Wǒ shūshu zhù zài xībānyá de shǒudū mǎdélǐ.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "Wǒ"},
+    {"ch": "叔叔", "en": "uncle", "pi": "shūshu"},
+    {"ch": "住", "en": "live", "pi": "zhù"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "西班牙", "en": "Spain", "pi": "xībānyá"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "首都", "en": "capital", "pi": "shǒudū"},
+    {"ch": "马德里", "en": "Madrid", "pi": "mǎdélǐ"}
+  ]
+}

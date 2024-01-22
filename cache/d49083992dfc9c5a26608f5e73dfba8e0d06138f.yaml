@@ -1,0 +1,32 @@
+{
+  "chinese": "我是你的粉丝。",
+  "english": "I am your fan.",
+  "pinyin": "wǒ shì nǐ de fěn sī.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "是",
+      "en": "am",
+      "pi": "shì"
+    },
+    {
+      "ch": "你",
+      "en": "your",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "粉丝",
+      "en": "fan",
+      "pi": "fěn sī"
+    }
+  ]
+}

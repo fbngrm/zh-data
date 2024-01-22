@@ -1,0 +1,32 @@
+{
+  "chinese": "我自己学习这种语言。",
+  "english": "I study this language by myself.",
+  "pinyin": "wǒ zìjǐ xuéxí zhè zhǒng yǔyán.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "自己",
+      "en": "myself",
+      "pi": "zìjǐ"
+    },
+    {
+      "ch": "学习",
+      "en": "study",
+      "pi": "xuéxí"
+    },
+    {
+      "ch": "这种",
+      "en": "this",
+      "pi": "zhè zhǒng"
+    },
+    {
+      "ch": "语言",
+      "en": "language",
+      "pi": "yǔyán"
+    }
+  ]
+}

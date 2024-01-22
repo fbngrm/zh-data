@@ -1,0 +1,42 @@
+{
+  "chinese": "我没把我的车卖给汤姆。",
+  "english": "I didn't sell my car to Tom.",
+  "pinyin": "wǒ méi bǎ wǒ de chē mài gěi tāng mǔ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "没",
+      "en": "didn't",
+      "pi": "méi"
+    },
+    {
+      "ch": "把",
+      "en": "sell",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "车",
+      "en": "car",
+      "pi": "chē"
+    },
+    {
+      "ch": "卖给",
+      "en": "to",
+      "pi": "mài gěi"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    }
+  ]
+}

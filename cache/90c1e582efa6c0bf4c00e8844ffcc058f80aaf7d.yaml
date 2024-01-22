@@ -1,0 +1,37 @@
+{
+  "chinese": "她五点钟才会回来。",
+  "english": "She will only come back at five o'clock.",
+  "pinyin": "Tā wǔ diǎn zhōng cái huì huí lái.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "五",
+      "en": "five",
+      "pi": "wǔ"
+    },
+    {
+      "ch": "点钟",
+      "en": "o'clock",
+      "pi": "diǎn zhōng"
+    },
+    {
+      "ch": "才",
+      "en": "only",
+      "pi": "cái"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "回来",
+      "en": "come back",
+      "pi": "huí lái"
+    }
+  ]
+}

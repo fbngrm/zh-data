@@ -1,0 +1,47 @@
+{
+  "chinese": "这是邮局，那是银行。",
+  "english": "This is the post office, that is the bank.",
+  "pinyin": "zhè shì yóu jú, nà shì yín háng.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "邮局",
+      "en": "post office",
+      "pi": "yóu jú"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": "，"
+    },
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "银行",
+      "en": "bank",
+      "pi": "yín háng"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "。"
+    }
+  ]
+}

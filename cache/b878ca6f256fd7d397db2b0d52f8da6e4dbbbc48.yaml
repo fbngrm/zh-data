@@ -1,0 +1,37 @@
+{
+  "chinese": "我认为这机器需要修理。",
+  "english": "I think this machine needs repair.",
+  "pinyin": "wǒ rèn wéi zhè jī qì xū yào xiū lǐ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "认为",
+      "en": "think",
+      "pi": "rèn wéi"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "机器",
+      "en": "machine",
+      "pi": "jī qì"
+    },
+    {
+      "ch": "需要",
+      "en": "need",
+      "pi": "xū yào"
+    },
+    {
+      "ch": "修理",
+      "en": "repair",
+      "pi": "xiū lǐ"
+    }
+  ]
+}

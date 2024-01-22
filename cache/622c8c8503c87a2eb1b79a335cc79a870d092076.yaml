@@ -1,0 +1,32 @@
+{
+  "chinese": "日本人是勤劳的民族。",
+  "english": "The Japanese are a hardworking nation.",
+  "pinyin": "Rì běn rén shì qín láo de mín zú.",
+  "words": [
+    {
+      "ch": "日本人",
+      "en": "Japanese",
+      "pi": "Rì běn rén"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "勤劳",
+      "en": "hardworking",
+      "pi": "qín láo"
+    },
+    {
+      "ch": "的",
+      "en": "a",
+      "pi": "de"
+    },
+    {
+      "ch": "民族",
+      "en": "nation",
+      "pi": "mín zú"
+    }
+  ]
+}

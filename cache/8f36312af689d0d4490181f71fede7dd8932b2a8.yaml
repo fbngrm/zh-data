@@ -1,0 +1,24 @@
+{
+  "chinese": "自从马里奥对我撒了谎，我就再也不跟他说话了。",
+  "english": "Since Mario lied to me, I will never talk to him again.",
+  "pinyin": "zì cóng mǎ lǐ ào duì wǒ sā le huǎng ，wǒ jiù zài yě bù gēn tā shuō huà le。",
+  "words": [
+    {"ch": "自从", "en": "Since", "pi": "zì cóng"},
+    {"ch": "马里奥", "en": "Mario", "pi": "mǎ lǐ ào"},
+    {"ch": "对", "en": "to", "pi": "duì"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "撒", "en": "lied", "pi": "sā"},
+    {"ch": "了", "en": "to", "pi": "le"},
+    {"ch": "谎", "en": "lie", "pi": "huǎng"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "就", "en": "will", "pi": "jiù"},
+    {"ch": "再也", "en": "never", "pi": "zài yě"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "跟", "en": "talk", "pi": "gēn"},
+    {"ch": "他", "en": "to him", "pi": "tā"},
+    {"ch": "说话", "en": "speak", "pi": "shuō huà"},
+    {"ch": "了", "en": "again", "pi": "le"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

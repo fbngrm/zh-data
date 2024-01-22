@@ -1,0 +1,73 @@
+{
+  "sentences": [
+    {
+      "chinese": "Linux是一个免费的操作系统。",
+      "english": "Linux is a free operating system.",
+      "pinyin": "Linux shì yī gè miǎn fèi de cāo zuò xì tǒng。",
+      "words": [
+        {
+          "ch": "Linux",
+          "en": "Linux",
+          "pi": "Linux"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "一个",
+          "en": "a",
+          "pi": "yī gè"
+        },
+        {
+          "ch": "免费",
+          "en": "free",
+          "pi": "miǎn fèi"
+        },
+        {
+          "ch": "的",
+          "en": "de",
+          "pi": "de"
+        },
+        {
+          "ch": "操作系统",
+          "en": "operating system",
+          "pi": "cāo zuò xì tǒng"
+        }
+      ]
+    },
+    {
+      "chinese": "你应该去试用一下。",
+      "english": "You should try it out.",
+      "pinyin": "Nǐ yīng gāi qù shì yòng yī xià。",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "Nǐ"
+        },
+        {
+          "ch": "应该",
+          "en": "should",
+          "pi": "yīng gāi"
+        },
+        {
+          "ch": "去",
+          "en": "go",
+          "pi": "qù"
+        },
+        {
+          "ch": "试用",
+          "en": "try",
+          "pi": "shì yòng"
+        },
+        {
+          "ch": "一下",
+          "en": "it out",
+          "pi": "yī xià"
+        }
+      ]
+    }
+  ]
+}

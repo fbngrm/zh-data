@@ -1,0 +1,42 @@
+{
+  "chinese": "你扫完以后，我会拖地。",
+  "english": "After you finish sweeping, I will mop the floor.",
+  "pinyin": "Nǐ sǎo wán yǐhòu, wǒ huì tuō dì.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "扫",
+      "en": "sweep",
+      "pi": "sǎo"
+    },
+    {
+      "ch": "完",
+      "en": "finish",
+      "pi": "wán"
+    },
+    {
+      "ch": "以后",
+      "en": "after",
+      "pi": "yǐhòu"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "拖地",
+      "en": "mop the floor",
+      "pi": "tuō dì"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆昨晚睡得不太好。",
+  "english": "Tom didn't sleep well last night.",
+  "pinyin": "Tāng mǔ zuó wǎn shuì dé bù tài hǎo.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "昨晚",
+      "en": "last night",
+      "pi": "zuó wǎn"
+    },
+    {
+      "ch": "睡得",
+      "en": "slept",
+      "pi": "shuì dé"
+    },
+    {
+      "ch": "不太好",
+      "en": "not well",
+      "pi": "bù tài hǎo"
+    }
+  ]
+}

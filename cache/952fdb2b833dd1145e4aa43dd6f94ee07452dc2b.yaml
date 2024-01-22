@@ -1,0 +1,37 @@
+{
+  "chinese": "她榨了许多柳橙汁。",
+  "english": "She squeezed a lot of orange juice.",
+  "pinyin": "tā zhà le xǔ duō liǔ chéng zhī。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "榨",
+      "en": "squeeze",
+      "pi": "zhà"
+    },
+    {
+      "ch": "了",
+      "en": "a modal particle intensifying preceding clause",
+      "pi": "le"
+    },
+    {
+      "ch": "许多",
+      "en": "a lot of",
+      "pi": "xǔ duō"
+    },
+    {
+      "ch": "柳橙",
+      "en": "orange",
+      "pi": "liǔ chéng"
+    },
+    {
+      "ch": "汁",
+      "en": "juice",
+      "pi": "zhī"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我在三小时前见过汤姆。",
+  "english": "I saw Tom three hours ago.",
+  "pinyin": "Wǒ zài sān xiǎo shí qián jiàn guò Tāngmǔ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "Wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "三",
+      "en": "three",
+      "pi": "sān"
+    },
+    {
+      "ch": "小时",
+      "en": "hours",
+      "pi": "xiǎo shí"
+    },
+    {
+      "ch": "前",
+      "en": "ago",
+      "pi": "qián"
+    },
+    {
+      "ch": "见过",
+      "en": "saw",
+      "pi": "jiàn guò"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    }
+  ]
+}

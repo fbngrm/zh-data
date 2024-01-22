@@ -1,0 +1,27 @@
+{
+  "chinese": "这是中国餐厅。",
+  "english": "This is a Chinese restaurant.",
+  "pinyin": "zhè shì zhōng guó cān tīng.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "中国",
+      "en": "Chinese",
+      "pi": "zhōng guó"
+    },
+    {
+      "ch": "餐厅",
+      "en": "restaurant",
+      "pi": "cān tīng"
+    }
+  ]
+}

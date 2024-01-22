@@ -1,0 +1,13 @@
+{
+  "chinese": "看来汤姆借了辆自行车。",
+  "english": "It seems that Tom borrowed a bike.",
+  "pinyin": "kàn lái tāng mǔ jiè le liàng zì xíng chē。",
+  "words": [
+    {"ch": "看来", "en": "It seems", "pi": "kàn lái"},
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "借", "en": "borrow", "pi": "jiè"},
+    {"ch": "了", "en": "a", "pi": "le"},
+    {"ch": "辆", "en": "bike", "pi": "liàng"},
+    {"ch": "自行车", "en": "bicycle", "pi": "zì xíng chē"}
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "你知道这是一个句子吗？",
+  "english": "Do you know this is a sentence?",
+  "pinyin": "nǐ zhīdào zhè shì yīgè jùzi ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yīgè"
+    },
+    {
+      "ch": "句子",
+      "en": "sentence",
+      "pi": "jùzi"
+    },
+    {
+      "ch": "吗",
+      "en": "do?",
+      "pi": "ma?"
+    }
+  ]
+}

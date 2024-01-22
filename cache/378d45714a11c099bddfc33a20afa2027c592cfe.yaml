@@ -1,0 +1,37 @@
+{
+  "chinese": "你的工作表现低于平均水平。",
+  "english": "Your performance is below average.",
+  "pinyin": "nǐ de gōngzuò biǎoxiàn dīyú píngjūn shuǐpíng。",
+  "words": [
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "工作",
+      "en": "work",
+      "pi": "gōngzuò"
+    },
+    {
+      "ch": "表现",
+      "en": "performance",
+      "pi": "biǎoxiàn"
+    },
+    {
+      "ch": "低于",
+      "en": "below",
+      "pi": "dīyú"
+    },
+    {
+      "ch": "平均",
+      "en": "average",
+      "pi": "píngjūn"
+    },
+    {
+      "ch": "水平",
+      "en": "level",
+      "pi": "shuǐpíng"
+    }
+  ]
+}

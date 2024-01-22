@@ -1,0 +1,42 @@
+{
+  "chinese": "老虎是一种非常凶勐的动物。",
+  "english": "Tigers are very fierce animals.",
+  "pinyin": "Lǎo hǔ shì yī zhǒng fēi cháng xiōng měng de dòng wù.",
+  "words": [
+    {
+      "ch": "老虎",
+      "en": "tiger",
+      "pi": "lǎo hǔ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "一种",
+      "en": "a kind of",
+      "pi": "yī zhǒng"
+    },
+    {
+      "ch": "非常",
+      "en": "very",
+      "pi": "fēi cháng"
+    },
+    {
+      "ch": "凶勐",
+      "en": "fierce",
+      "pi": "xiōng měng"
+    },
+    {
+      "ch": "的",
+      "en": "adj. marker",
+      "pi": "de"
+    },
+    {
+      "ch": "动物",
+      "en": "animal",
+      "pi": "dòng wù"
+    }
+  ]
+}

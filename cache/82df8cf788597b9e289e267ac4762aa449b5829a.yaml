@@ -1,0 +1,21 @@
+{
+  "chinese": "住院医生们所有时间都在工作，所以他们不常出外。",
+  "english": "The resident doctors work all the time, so they don't often go out.",
+  "pinyin": "zhù yuàn yī shēng men suǒ yǒu shí jiān dōu zài gōng zuò ，suǒ yǐ tā men bù cháng chū wài 。",
+  "words": [
+    {"ch": "住院", "en": "resident", "pi": "zhù yuàn"},
+    {"ch": "医生", "en": "doctor", "pi": "yī shēng"},
+    {"ch": "们", "en": "they", "pi": "men"},
+    {"ch": "所有", "en": "all", "pi": "suǒ yǒu"},
+    {"ch": "时间", "en": "time", "pi": "shí jiān"},
+    {"ch": "都", "en": "all", "pi": "dōu"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "工作", "en": "work", "pi": "gōng zuò"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "所以", "en": "so", "pi": "suǒ yǐ"},
+    {"ch": "他们", "en": "they", "pi": "tā men"},
+    {"ch": "不常", "en": "not often", "pi": "bù cháng"},
+    {"ch": "出外", "en": "go out", "pi": "chū wài"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "肯下棋打败了我。",
+  "english": "Ken beat me at chess.",
+  "pinyin": "kěn xià qí dǎ bài le wǒ。",
+  "words": [
+    {
+      "ch": "肯",
+      "en": "Ken",
+      "pi": "kěn"
+    },
+    {
+      "ch": "下棋",
+      "en": "play chess",
+      "pi": "xià qí"
+    },
+    {
+      "ch": "打败",
+      "en": "defeat",
+      "pi": "dǎ bài"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    }
+  ]
+}

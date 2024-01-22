@@ -1,0 +1,20 @@
+{
+  "chinese": "我有很多事想做，但就是沒時間做。",
+  "english": "I have a lot of things to do, but I just don't have time to do them.",
+  "pinyin": "wǒ yǒu hěn duō shì xiǎng zuò, dàn jiù shì méi shíjiān zuò.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "有", "en": "have", "pi": "yǒu" },
+    { "ch": "很多", "en": "a lot of", "pi": "hěn duō" },
+    { "ch": "事", "en": "things", "pi": "shì" },
+    { "ch": "想", "en": "want to", "pi": "xiǎng" },
+    { "ch": "做", "en": "do", "pi": "zuò" },
+    { "ch": "，", "en": ",", "pi": "，" },
+    { "ch": "但", "en": "but", "pi": "dàn" },
+    { "ch": "就是", "en": "just", "pi": "jiù shì" },
+    { "ch": "沒", "en": "don't have", "pi": "méi" },
+    { "ch": "時間", "en": "time", "pi": "shíjiān" },
+    { "ch": "做", "en": "to do", "pi": "zuò" },
+    { "ch": "。", "en": ".", "pi": "。" }
+  ]
+}

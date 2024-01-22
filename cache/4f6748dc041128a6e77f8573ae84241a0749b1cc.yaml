@@ -1,0 +1,42 @@
+{
+  "chinese": "你必须在１０点前回来。",
+  "english": "You must come back before 10 o'clock.",
+  "pinyin": "nǐ bìxū zài shí diǎn qián huílái.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "必须",
+      "en": "must",
+      "pi": "bìxū"
+    },
+    {
+      "ch": "在",
+      "en": "in/at",
+      "pi": "zài"
+    },
+    {
+      "ch": "１０",
+      "en": "10",
+      "pi": "shí"
+    },
+    {
+      "ch": "点",
+      "en": "o'clock",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "前",
+      "en": "before",
+      "pi": "qián"
+    },
+    {
+      "ch": "回来",
+      "en": "come back",
+      "pi": "huílái"
+    }
+  ]
+}

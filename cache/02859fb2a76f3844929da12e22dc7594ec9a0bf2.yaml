@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆一定很能讲。",
+  "english": "Tom must be a good speaker.",
+  "pinyin": "Tāng mǔ yīdìng hěn néng jiǎng.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "一定",
+      "en": "must",
+      "pi": "yīdìng"
+    },
+    {
+      "ch": "很",
+      "en": "be",
+      "pi": "hěn"
+    },
+    {
+      "ch": "能",
+      "en": "a",
+      "pi": "néng"
+    },
+    {
+      "ch": "讲",
+      "en": "good",
+      "pi": "jiǎng"
+    }
+  ]
+}

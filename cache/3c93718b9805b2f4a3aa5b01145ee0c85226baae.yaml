@@ -1,0 +1,32 @@
+{
+  "chinese": "他编了这个故事。",
+  "english": "He made up this story.",
+  "pinyin": "tā biān le zhè ge gù shi.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "编",
+      "en": "made up",
+      "pi": "biān"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè ge"
+    },
+    {
+      "ch": "故事",
+      "en": "story",
+      "pi": "gù shi"
+    }
+  ]
+}

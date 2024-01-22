@@ -1,0 +1,57 @@
+{
+  "chinese": "那辆红色的汽车撞到了蓝色的卡车。",
+  "english": "The red car collided with the blue truck.",
+  "pinyin": "nà liàng hóng sè de qì chē zhuàng dào le lán sè de kǎ chē。",
+  "words": [
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "辆",
+      "en": "classifier for vehicles",
+      "pi": "liàng"
+    },
+    {
+      "ch": "红色",
+      "en": "red",
+      "pi": "hóng sè"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "汽车",
+      "en": "car",
+      "pi": "qì chē"
+    },
+    {
+      "ch": "撞到",
+      "en": "collided with",
+      "pi": "zhuàng dào"
+    },
+    {
+      "ch": "了",
+      "en": "indicating a completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "蓝色",
+      "en": "blue",
+      "pi": "lán sè"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "卡车",
+      "en": "truck",
+      "pi": "kǎ chē"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我是演员，不是模特。",
+  "english": "I am an actor, not a model.",
+  "pinyin": "wǒ shì yǎn yuán, bù shì mó tè.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "是",
+      "en": "am",
+      "pi": "shì"
+    },
+    {
+      "ch": "演员",
+      "en": "actor",
+      "pi": "yǎn yuán"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": null
+    },
+    {
+      "ch": "不是",
+      "en": "not",
+      "pi": "bù shì"
+    },
+    {
+      "ch": "模特",
+      "en": "model",
+      "pi": "mó tè"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": null
+    }
+  ]
+}

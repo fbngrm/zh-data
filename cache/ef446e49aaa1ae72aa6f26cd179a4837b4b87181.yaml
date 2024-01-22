@@ -1,0 +1,47 @@
+{
+  "chinese": "汤姆和玛丽在这里做了甚么？",
+  "english": "What did Tom and Mary do here?",
+  "pinyin": "Tāng mǔ hé mǎ lì zài zhè lǐ zuò le shén me?",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "做了",
+      "en": "did",
+      "pi": "zuò le"
+    },
+    {
+      "ch": "甚么",
+      "en": "what",
+      "pi": "shén me"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "?"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "chinese": "因为天气的关系，赛跑比赛将会延迟。",
+  "english": "Because of the weather, the race will be delayed.",
+  "pinyin": "Yīnwèi tiānqì de guānxi，sàipǎo bǐsài jiāng huì yánchí。",
+  "words": [
+    {
+      "ch": "因为",
+      "en": "because",
+      "pi": "yīnwèi"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiānqì"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "关系",
+      "en": "relation",
+      "pi": "guānxi"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": "，"
+    },
+    {
+      "ch": "赛跑",
+      "en": "race",
+      "pi": "sàipǎo"
+    },
+    {
+      "ch": "比赛",
+      "en": "competition",
+      "pi": "bǐsài"
+    },
+    {
+      "ch": "将会",
+      "en": "will",
+      "pi": "jiāng huì"
+    },
+    {
+      "ch": "延迟",
+      "en": "delay",
+      "pi": "yánchí"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "。"
+    }
+  ]
+}

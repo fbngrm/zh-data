@@ -1,0 +1,42 @@
+{
+  "chinese": "我的大衣穿了一个洞。",
+  "english": "There is a hole in my coat.",
+  "pinyin": "wǒ de dàyī chuān le yī gè dòng。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "大衣",
+      "en": "coat",
+      "pi": "dàyī"
+    },
+    {
+      "ch": "穿",
+      "en": "to wear",
+      "pi": "chuān"
+    },
+    {
+      "ch": "了",
+      "en": "completed action particle",
+      "pi": "le"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "洞",
+      "en": "hole",
+      "pi": "dòng"
+    }
+  ]
+}

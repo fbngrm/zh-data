@@ -1,0 +1,42 @@
+{
+  "chinese": "检查一下用户名和密码有没有填错。",
+  "english": "Check if the username and password are filled in correctly.",
+  "pinyin": "jiǎn chá yī xià yòng hù míng hé mì mǎ yǒu méi yǒu tián cuò。",
+  "words": [
+    {
+      "ch": "检查",
+      "en": "Check",
+      "pi": "jiǎn chá"
+    },
+    {
+      "ch": "一下",
+      "en": "if",
+      "pi": "yī xià"
+    },
+    {
+      "ch": "用户名",
+      "en": "username",
+      "pi": "yòng hù míng"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "密码",
+      "en": "password",
+      "pi": "mì mǎ"
+    },
+    {
+      "ch": "有没有",
+      "en": "are",
+      "pi": "yǒu méi yǒu"
+    },
+    {
+      "ch": "填错",
+      "en": "filled in",
+      "pi": "tián cuò"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "chinese": "今日够了。",
+      "english": "Today is enough.",
+      "pinyin": "jīn rì gòu le。",
+      "words": [
+        {
+          "ch": "今日",
+          "en": "today",
+          "pi": "jīn rì"
+        },
+        {
+          "ch": "够",
+          "en": "enough",
+          "pi": "gòu"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        }
+      ]
+    },
+    {
+      "chinese": "我太累了。",
+      "english": "I'm too tired.",
+      "pinyin": "wǒ tài lèi le。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "太",
+          "en": "too",
+          "pi": "tài"
+        },
+        {
+          "ch": "累",
+          "en": "tired",
+          "pi": "lèi"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        }
+      ]
+    }
+  ]
+}

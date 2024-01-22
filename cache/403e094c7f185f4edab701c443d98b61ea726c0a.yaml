@@ -1,0 +1,32 @@
+{
+  "chinese": "你把你的鞋怎么了？",
+  "english": "What happened to your shoes?",
+  "pinyin": "Nǐ bǎ nǐ de xié zěnme le?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "把",
+      "en": "to",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "鞋",
+      "en": "shoes",
+      "pi": "xié"
+    },
+    {
+      "ch": "怎么了",
+      "en": "what happened",
+      "pi": "zěnme le"
+    }
+  ]
+}

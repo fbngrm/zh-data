@@ -1,0 +1,27 @@
+{
+  "chinese": "你买了多少东西？",
+  "english": "How much did you buy?",
+  "pinyin": "Nǐ mǎi le duōshǎo dōngxi?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "ní"
+    },
+    {
+      "ch": "买了",
+      "en": "bought",
+      "pi": "mǎi le"
+    },
+    {
+      "ch": "多少",
+      "en": "how much",
+      "pi": "duōshǎo"
+    },
+    {
+      "ch": "东西",
+      "en": "things",
+      "pi": "dōngxi"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "sentences": [
+    {
+      "chinese": "母亲是美国人，父亲是维族。",
+      "english": "My mother is American, and my father is Uyghur.",
+      "pinyin": "mǔqīn shì měiguó rén, fùqīn shì wéizú。",
+      "words": [
+        {
+          "ch": "母亲",
+          "en": "mother",
+          "pi": "mǔqīn"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "美国人",
+          "en": "American",
+          "pi": "měiguó rén"
+        },
+        {
+          "ch": "父亲",
+          "en": "father",
+          "pi": "fùqīn"
+        },
+        {
+          "ch": "维族",
+          "en": "Uyghur",
+          "pi": "wéizú"
+        }
+      ]
+    },
+    {
+      "chinese": "是真的吗？",
+      "english": "Is it true?",
+      "pinyin": "shì zhēn de ma?",
+      "words": [
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "真的",
+          "en": "true",
+          "pi": "zhēn de"
+        },
+        {
+          "ch": "吗",
+          "en": "question particle",
+          "pi": "ma"
+        }
+      ]
+    },
+    {
+      "chinese": "不！开玩笑的！",
+      "english": "No! Just kidding!",
+      "pinyin": "bù! kāi wánxiào de!",
+      "words": [
+        {
+          "ch": "不",
+          "en": "no",
+          "pi": "bù"
+        },
+        {
+          "ch": "开玩笑",
+          "en": "just kidding",
+          "pi": "kāi wánxiào"
+        },
+        {
+          "ch": "的",
+          "en": "particle",
+          "pi": "de"
+        }
+      ]
+    }
+  ]
+}

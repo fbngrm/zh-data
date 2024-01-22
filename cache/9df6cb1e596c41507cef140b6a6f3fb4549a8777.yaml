@@ -1,0 +1,16 @@
+{
+  "chinese": "伦敦是一个为马而建立的城市。",
+  "english": "London is a city built for horses.",
+  "pinyin": "lún dūn shì yī gè wèi mǎ ér jiàn lì de chéng shì。",
+  "words": [
+    { "ch": "伦敦", "en": "London", "pi": "lún dūn" },
+    { "ch": "是", "en": "is", "pi": "shì" },
+    { "ch": "一个", "en": "a", "pi": "yī gè" },
+    { "ch": "为", "en": "for", "pi": "wèi" },
+    { "ch": "马", "en": "horse", "pi": "mǎ" },
+    { "ch": "而", "en": "and", "pi": "ér" },
+    { "ch": "建立", "en": "built", "pi": "jiàn lì" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "城市", "en": "city", "pi": "chéng shì" }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我花了3小时做作业。",
+  "english": "I spent 3 hours doing homework.",
+  "pinyin": "Wǒ huā le 3 xiǎoshí zuò zuòyè.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "花",
+      "en": "spent",
+      "pi": "huā"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "3",
+      "en": "3",
+      "pi": "sān"
+    },
+    {
+      "ch": "小时",
+      "en": "hours",
+      "pi": "xiǎoshí"
+    },
+    {
+      "ch": "做",
+      "en": "doing",
+      "pi": "zuò"
+    },
+    {
+      "ch": "作业",
+      "en": "homework",
+      "pi": "zuòyè"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "告诉汤姆我需要借他的车。",
+  "english": "Tell Tom I need to borrow his car.",
+  "pinyin": "Gàosù tāngmǔ wǒ xūyào jiè tā de chē.",
+  "words": [
+    { "ch": "告诉", "en": "Tell", "pi": "gàosù" },
+    { "ch": "汤姆", "en": "Tom", "pi": "tāngmǔ" },
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "需要", "en": "need", "pi": "xūyào" },
+    { "ch": "借", "en": "to borrow", "pi": "jiè" },
+    { "ch": "他的", "en": "his", "pi": "tā de" },
+    { "ch": "车", "en": "car", "pi": "chē" }
+  ]
+}

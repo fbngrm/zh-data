@@ -1,0 +1,19 @@
+{
+  "chinese": "一隻七歲的熊貓－青青－甚至能認出它的名字。",
+  "english": "A seven year old panda - Qingqing - can even recognize its own name.",
+  "pinyin": "yī zhī qī suì de xióngmāo - qīngqīng - shènzhì néng rènchū tā de míngzì。",
+  "words": [
+    {"ch": "一隻", "en": "a", "pi": "yī zhī"},
+    {"ch": "七歲", "en": "seven year old", "pi": "qī suì"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "熊貓", "en": "panda", "pi": "xióngmāo"},
+    {"ch": "－", "en": "-", "pi": "-"},
+    {"ch": "青青", "en": "Qingqing", "pi": "qīngqīng"},
+    {"ch": "－", "en": "-", "pi": "-"},
+    {"ch": "甚至", "en": "even", "pi": "shènzhì"},
+    {"ch": "能", "en": "can", "pi": "néng"},
+    {"ch": "認出", "en": "recognize", "pi": "rènchū"},
+    {"ch": "它的", "en": "its own", "pi": "tā de"},
+    {"ch": "名字", "en": "name", "pi": "míngzì"}
+  ]
+}

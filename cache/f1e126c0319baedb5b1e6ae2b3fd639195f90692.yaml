@@ -1,0 +1,21 @@
+{
+  "chinese": "老年人是我的父母、姐姐男友的父母和外甥女的保姆。",
+  "english": "The elderly are my parents, my sister's boyfriend's parents, and my niece's nanny.",
+  "pinyin": "Lǎoniánrén shì wǒ de fùmǔ, jiějiě nányǒu de fùmǔ hé wàishēngnǚ de bǎomǔ.",
+  "words": [
+    { "ch": "老年人", "en": "the elderly", "pi": "Lǎoniánrén" },
+    { "ch": "是", "en": "are", "pi": "shì" },
+    { "ch": "我的", "en": "my", "pi": "wǒ de" },
+    { "ch": "父母", "en": "parents", "pi": "fùmǔ" },
+    { "ch": "、", "en": ",", "pi": "、" },
+    { "ch": "姐姐", "en": "sister", "pi": "jiějiě" },
+    { "ch": "男友", "en": "boyfriend", "pi": "nányǒu" },
+    { "ch": "的", "en": "'s", "pi": "de" },
+    { "ch": "父母", "en": "parents", "pi": "fùmǔ" },
+    { "ch": "和", "en": "and", "pi": "hé" },
+    { "ch": "外甥女", "en": "niece", "pi": "wàishēngnǚ" },
+    { "ch": "的", "en": "'s", "pi": "de" },
+    { "ch": "保姆", "en": "nanny", "pi": "bǎomǔ" },
+    { "ch": "。", "en": ".", "pi": "。" }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "chinese": "Ｊａｎｅ在运动会之前把头发剃短了。",
+  "english": "Jane cut her hair short before the sports meeting.",
+  "pinyin": "Jānē zài yùndònghuì zhīqián bǎ tóufǎ tì duǎn le。",
+  "words": [
+    {"ch": "Ｊａｎｅ", "en": "Jane", "pi": "Jānē"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "运动会", "en": "sports meeting", "pi": "yùndònghuì"},
+    {"ch": "之前", "en": "before", "pi": "zhīqián"},
+    {"ch": "把", "en": "cut", "pi": "bǎ"},
+    {"ch": "头发", "en": "hair", "pi": "tóufǎ"},
+    {"ch": "剃", "en": "shave", "pi": "tì"},
+    {"ch": "短", "en": "short", "pi": "duǎn"},
+    {"ch": "了", "en": "particle indicating completed action", "pi": "le"}
+  ]
+}

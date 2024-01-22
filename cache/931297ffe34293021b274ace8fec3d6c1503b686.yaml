@@ -1,0 +1,32 @@
+{
+  "chinese": "我知道很多的语言。",
+  "english": "I know many languages.",
+  "pinyin": "wǒ zhīdào hěn duō de yǔyán.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "很多",
+      "en": "many",
+      "pi": "hěnduō"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "语言",
+      "en": "languages",
+      "pi": "yǔyán"
+    }
+  ]
+}

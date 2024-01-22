@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆整天都在开车。",
+  "english": "Tom is driving all day.",
+  "pinyin": "Tāng mǔ zhěng tiān dōu zài kāi chē.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "整天",
+      "en": "all day",
+      "pi": "zhěng tiān"
+    },
+    {
+      "ch": "都",
+      "en": "is",
+      "pi": "dōu"
+    },
+    {
+      "ch": "在",
+      "en": "driving",
+      "pi": "zài"
+    },
+    {
+      "ch": "开车",
+      "en": "driving",
+      "pi": "kāi chē"
+    }
+  ]
+}

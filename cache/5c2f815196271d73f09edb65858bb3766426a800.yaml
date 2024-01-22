@@ -1,0 +1,42 @@
+{
+  "chinese": "可以再給我一點咖啡嗎？",
+  "english": "Can I have a little more coffee?",
+  "pinyin": "kě yǐ zài gěi wǒ yī diǎn kā fēi ma?",
+  "words": [
+    {
+      "ch": "可以",
+      "en": "Can",
+      "pi": "kě yǐ"
+    },
+    {
+      "ch": "再",
+      "en": "more",
+      "pi": "zài"
+    },
+    {
+      "ch": "給",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "一點",
+      "en": "a little",
+      "pi": "yī diǎn"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kā fēi"
+    },
+    {
+      "ch": "嗎",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

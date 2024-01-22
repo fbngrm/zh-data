@@ -1,0 +1,32 @@
+{
+  "chinese": "这条河的水很洁净。",
+  "english": "The water in this river is very clean.",
+  "pinyin": "zhè tiáo hé de shuǐ hěn jiéjìng.",
+  "words": [
+    {
+      "ch": "这条",
+      "en": "this",
+      "pi": "zhè tiáo"
+    },
+    {
+      "ch": "河的",
+      "en": "river",
+      "pi": "hé de"
+    },
+    {
+      "ch": "水",
+      "en": "water",
+      "pi": "shuǐ"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "洁净",
+      "en": "clean",
+      "pi": "jiéjìng"
+    }
+  ]
+}

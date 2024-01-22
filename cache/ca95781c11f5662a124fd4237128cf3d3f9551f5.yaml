@@ -1,0 +1,32 @@
+{
+  "chinese": "你现在往哪儿走？",
+  "english": "Where are you going now?",
+  "pinyin": "nǐ xiàn zài wǎng nǎr zǒu?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "往",
+      "en": "go to",
+      "pi": "wǎng"
+    },
+    {
+      "ch": "哪儿",
+      "en": "where",
+      "pi": "nǎr"
+    },
+    {
+      "ch": "走",
+      "en": "go",
+      "pi": "zǒu"
+    }
+  ]
+}

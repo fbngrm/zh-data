@@ -1,0 +1,37 @@
+{
+  "chinese": "这房间的钥匙在哪里？",
+  "english": "Where is the key to this room?",
+  "pinyin": "zhè fáng jiān de yào shì zài nǎ lǐ?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "房间",
+      "en": "room",
+      "pi": "fáng jiān"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "钥匙",
+      "en": "key",
+      "pi": "yào shì"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪里",
+      "en": "where",
+      "pi": "nǎ lǐ"
+    }
+  ]
+}

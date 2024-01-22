@@ -1,0 +1,37 @@
+{
+  "chinese": "是不是应该换个服务器?",
+  "english": "Shouldn't we change the server?",
+  "pinyin": "shì bù shì yīng gāi huàn gè fú wù qì?",
+  "words": [
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "不是",
+      "en": "not",
+      "pi": "bù shì"
+    },
+    {
+      "ch": "应该",
+      "en": "should",
+      "pi": "yīng gāi"
+    },
+    {
+      "ch": "换",
+      "en": "change",
+      "pi": "huàn"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "服务器",
+      "en": "server",
+      "pi": "fú wù qì"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我猜明天会是好天气。",
+  "english": "I guess tomorrow will be good weather.",
+  "pinyin": "wǒ cāi míngtiān huì shì hǎo tiānqì。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "猜",
+      "en": "guess",
+      "pi": "cāi"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "是",
+      "en": "be",
+      "pi": "shì"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiānqì"
+    }
+  ]
+}

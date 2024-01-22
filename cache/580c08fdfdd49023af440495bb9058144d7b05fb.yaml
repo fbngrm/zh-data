@@ -1,0 +1,16 @@
+{
+  "chinese": "王小明说英语,但英语书不多.",
+  "english": "Wang Xiaoming speaks English, but he doesn't have many English books.",
+  "pinyin": "wáng xiǎo míng shuō yīng yǔ, dàn yīng yǔ shū bù duō.",
+  "words": [
+    { "ch": "王", "en": "Wang", "pi": "wáng" },
+    { "ch": "小明", "en": "Xiaoming", "pi": "xiǎo míng" },
+    { "ch": "说", "en": "speaks", "pi": "shuō" },
+    { "ch": "英语", "en": "English", "pi": "yīng yǔ" },
+    { "ch": ",", "en": ",", "pi": "," },
+    { "ch": "但", "en": "but", "pi": "dàn" },
+    { "ch": "英语书", "en": "English books", "pi": "yīng yǔ shū" },
+    { "ch": "不多", "en": "not many", "pi": "bù duō" },
+    { "ch": ".", "en": ".", "pi": "." }
+  ]
+}

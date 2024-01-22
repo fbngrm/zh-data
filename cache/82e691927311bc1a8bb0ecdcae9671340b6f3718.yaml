@@ -1,0 +1,32 @@
+{
+  "chinese": "我想住在城市。",
+  "english": "I want to live in the city.",
+  "pinyin": "Wǒ xiǎng zhù zài chéngshì.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "住",
+      "en": "to live",
+      "pi": "zhù"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "城市",
+      "en": "city",
+      "pi": "chéngshì"
+    }
+  ]
+}

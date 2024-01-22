@@ -1,0 +1,42 @@
+{
+  "chinese": "我见你找到了你的包。",
+  "english": "I see you found your bag.",
+  "pinyin": "wǒ jiàn nǐ zhǎo dào le nǐ de bāo.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "见",
+      "en": "see",
+      "pi": "jiàn"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "找到",
+      "en": "found",
+      "pi": "zhǎo dào"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "包",
+      "en": "bag",
+      "pi": "bāo"
+    }
+  ]
+}

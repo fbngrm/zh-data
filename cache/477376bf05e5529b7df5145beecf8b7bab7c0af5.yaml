@@ -1,0 +1,14 @@
+{
+  "chinese": "他給自己買了一隻狗。",
+  "english": "He bought himself a dog.",
+  "pinyin": "tā gěi zìjǐ mǎile yī zhī gǒu.",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "給", "en": "give", "pi": "gěi"},
+    {"ch": "自己", "en": "himself", "pi": "zìjǐ"},
+    {"ch": "買", "en": "buy", "pi": "mǎi"},
+    {"ch": "了", "en": "a", "pi": "le"},
+    {"ch": "一隻", "en": "dog", "pi": "yī zhī"},
+    {"ch": "狗", "en": "dog", "pi": "gǒu"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "chinese": "你能帮忙寻找丢失的钥匙吗?我打不开食品柜。",
+  "english": "Can you help me find the lost keys? I can't open the food cabinet.",
+  "pinyin": "nǐ néng bāng máng xúnzhǎo diūshī de yàoshi ma? wǒ dǎ bù kāi shípǐn guì。",
+  "words": [
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "能", "en": "can", "pi": "néng" },
+    { "ch": "帮忙", "en": "help", "pi": "bāng máng" },
+    { "ch": "寻找", "en": "find", "pi": "xúnzhǎo" },
+    { "ch": "丢失", "en": "lost", "pi": "diūshī" },
+    { "ch": "的", "en": "the", "pi": "de" },
+    { "ch": "钥匙", "en": "keys", "pi": "yàoshi" },
+    { "ch": "吗", "en": "question particle", "pi": "ma" },
+    { "ch": "?", "en": "", "pi": "?" },
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "打不开", "en": "can't open", "pi": "dǎ bù kāi" },
+    { "ch": "食品柜", "en": "food cabinet", "pi": "shípǐn guì" },
+    { "ch": "。", "en": ".", "pi": "。" }
+  ]
+}

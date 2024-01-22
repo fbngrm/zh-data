@@ -1,0 +1,37 @@
+{
+  "chinese": "我们看见孩子上了车。",
+  "english": "We saw the child getting on the car.",
+  "pinyin": "wǒ men kàn jiàn hái zi shàng le chē。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "看见",
+      "en": "saw",
+      "pi": "kàn jiàn"
+    },
+    {
+      "ch": "孩子",
+      "en": "child",
+      "pi": "hái zi"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "了",
+      "en": "completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "车",
+      "en": "car",
+      "pi": "chē"
+    }
+  ]
+}

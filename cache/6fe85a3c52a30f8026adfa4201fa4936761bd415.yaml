@@ -1,0 +1,37 @@
+{
+  "chinese": "我们在花园里摘花。",
+  "english": "We pick flowers in the garden.",
+  "pinyin": "wǒmen zài huāyuán lǐ zhāi huā.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "花园",
+      "en": "garden",
+      "pi": "huāyuán"
+    },
+    {
+      "ch": "里",
+      "en": "inside",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "摘",
+      "en": "pick",
+      "pi": "zhāi"
+    },
+    {
+      "ch": "花",
+      "en": "flowers",
+      "pi": "huā"
+    }
+  ]
+}

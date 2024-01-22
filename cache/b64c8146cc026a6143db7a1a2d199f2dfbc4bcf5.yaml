@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆应该感谢我。",
+  "english": "Tom should thank me.",
+  "pinyin": "Tāng mǔ yīng gāi gǎn xiè wǒ.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "应该",
+      "en": "should",
+      "pi": "yīng gāi"
+    },
+    {
+      "ch": "感谢",
+      "en": "thank",
+      "pi": "gǎn xiè"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    }
+  ]
+}

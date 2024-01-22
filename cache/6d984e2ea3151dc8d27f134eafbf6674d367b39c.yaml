@@ -1,0 +1,47 @@
+{
+  "chinese": "他买了张去巴黎的票。",
+  "english": "He bought a ticket to Paris.",
+  "pinyin": "tā mǎi le zhāng qù bālí de piào.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "买",
+      "en": "buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "了",
+      "en": "past tense particle",
+      "pi": "le"
+    },
+    {
+      "ch": "张",
+      "en": "measure word for flat objects",
+      "pi": "zhāng"
+    },
+    {
+      "ch": "去",
+      "en": "go to",
+      "pi": "qù"
+    },
+    {
+      "ch": "巴黎",
+      "en": "Paris",
+      "pi": "bālí"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "票",
+      "en": "ticket",
+      "pi": "piào"
+    }
+  ]
+}

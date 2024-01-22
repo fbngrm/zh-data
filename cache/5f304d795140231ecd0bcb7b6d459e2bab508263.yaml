@@ -1,0 +1,14 @@
+{
+  "chinese": "你说德语或英语吗？",
+  "english": "Do you speak German or English?",
+  "pinyin": "nǐ shuō déyǔ huò yīngyǔ ma?",
+  "words": [
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "说", "en": "speak", "pi": "shuō" },
+    { "ch": "德语", "en": "German", "pi": "déyǔ" },
+    { "ch": "或", "en": "or", "pi": "huò" },
+    { "ch": "英语", "en": "English", "pi": "yīngyǔ" },
+    { "ch": "吗", "en": "do", "pi": "ma" },
+    { "ch": "？", "en": "?" }
+  ]
+}

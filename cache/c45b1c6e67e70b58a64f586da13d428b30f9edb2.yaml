@@ -1,0 +1,12 @@
+{
+  "chinese": "Tom在哪里出生的？",
+  "english": "Where was Tom born?",
+  "pinyin": "Tom zài nǎlǐ chūshēng de?",
+  "words": [
+    {"ch": "Tom", "en": "Tom", "pi": "Tom"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "哪里", "en": "where", "pi": "nǎlǐ"},
+    {"ch": "出生", "en": "born", "pi": "chūshēng"},
+    {"ch": "的", "en": "?"s", "pi": "de"}
+  ]
+}

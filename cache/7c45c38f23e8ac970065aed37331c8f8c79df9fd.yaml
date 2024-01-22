@@ -1,0 +1,37 @@
+{
+  "chinese": "明天早上有必要早起吗",
+  "english": "Is it necessary to wake up early tomorrow morning?",
+  "pinyin": "míng tiān zǎo shàng yǒu bì yào zǎo qǐ ma",
+  "words": [
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎo shàng"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "必要",
+      "en": "necessary",
+      "pi": "bì yào"
+    },
+    {
+      "ch": "早起",
+      "en": "wake up early",
+      "pi": "zǎo qǐ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

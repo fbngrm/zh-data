@@ -1,0 +1,102 @@
+{
+  "sentences": [
+    {
+      "chinese": "怎么了？",
+      "english": "What's wrong?",
+      "pinyin": "zěn me le?",
+      "words": [
+        {
+          "ch": "怎么",
+          "en": "What",
+          "pi": "zěn me"
+        },
+        {
+          "ch": "了",
+          "en": "is",
+          "pi": "le"
+        }
+      ]
+    },
+    {
+      "chinese": "我找不到我的钥匙了。",
+      "english": "I can't find my keys.",
+      "pinyin": "wǒ zhǎo bù dào wǒ de yào shi le.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "找不到",
+          "en": "can't find",
+          "pi": "zhǎo bù dào"
+        },
+        {
+          "ch": "我的",
+          "en": "my",
+          "pi": "wǒ de"
+        },
+        {
+          "ch": "钥匙",
+          "en": "keys",
+          "pi": "yào shi"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        }
+      ]
+    },
+    {
+      "chinese": "什么钥匙？",
+      "english": "What keys?",
+      "pinyin": "shén me yào shi?",
+      "words": [
+        {
+          "ch": "什么",
+          "en": "What",
+          "pi": "shén me"
+        },
+        {
+          "ch": "钥匙",
+          "en": "keys",
+          "pi": "yào shi"
+        },
+        {
+          "ch": "？",
+          "en": "",
+          "pi": ""
+        }
+      ]
+    },
+    {
+      "chinese": "我的自行车钥匙。",
+      "english": "My bicycle keys.",
+      "pinyin": "wǒ de zì xíng chē yào shi.",
+      "words": [
+        {
+          "ch": "我的",
+          "en": "My",
+          "pi": "wǒ de"
+        },
+        {
+          "ch": "自行车",
+          "en": "bicycle",
+          "pi": "zì xíng chē"
+        },
+        {
+          "ch": "钥匙",
+          "en": "keys",
+          "pi": "yào shi"
+        },
+        {
+          "ch": "。",
+          "en": "",
+          "pi": ""
+        }
+      ]
+    }
+  ]
+}

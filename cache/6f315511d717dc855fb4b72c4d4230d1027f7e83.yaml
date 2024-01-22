@@ -1,0 +1,37 @@
+{
+  "chinese": "我父亲今天下午有空。",
+  "english": "My father is available this afternoon.",
+  "pinyin": "Wǒ fùqīn jīntiān xiàwǔ yǒu kòng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "父亲",
+      "en": "father",
+      "pi": "fùqīn"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "下午",
+      "en": "afternoon",
+      "pi": "xiàwǔ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "空",
+      "en": "available",
+      "pi": "kòng"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "chinese": "我认为我能跑得跟汤姆一样快。",
+  "english": "I think I can run as fast as Tom.",
+  "pinyin": "wǒ rèn wéi wǒ néng pǎo dé gēn tāng mǔ yī yàng kuài.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "认为",
+      "en": "think",
+      "pi": "rèn wéi"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "跑",
+      "en": "run",
+      "pi": "pǎo"
+    },
+    {
+      "ch": "得",
+      "en": "as",
+      "pi": "dé"
+    },
+    {
+      "ch": "跟",
+      "en": "with",
+      "pi": "gēn"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "一样",
+      "en": "as",
+      "pi": "yī yàng"
+    },
+    {
+      "ch": "快",
+      "en": "fast",
+      "pi": "kuài"
+    }
+  ]
+}

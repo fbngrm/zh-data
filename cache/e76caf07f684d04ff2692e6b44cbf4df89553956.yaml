@@ -1,0 +1,16 @@
+{
+  "chinese": "除非有人跟他说话，他从来不说话。",
+  "english": "Unless someone talks to him, he never speaks.",
+  "pinyin": "Chúfēi yǒu rén gēn tā shuōhuà, tā cónglái bù shuōhuà.",
+  "words": [
+      {"ch": "除非", "en": "unless", "pi": "chúfēi"},
+      {"ch": "有人", "en": "someone", "pi": "yǒu rén"},
+      {"ch": "跟", "en": "to", "pi": "gēn"},
+      {"ch": "他", "en": "him", "pi": "tā"},
+      {"ch": "说话", "en": "talks", "pi": "shuōhuà"},
+      {"ch": "他", "en": "he", "pi": "tā"},
+      {"ch": "从来", "en": "never", "pi": "cónglái"},
+      {"ch": "不", "en": "not", "pi": "bù"},
+      {"ch": "说话", "en": "speak", "pi": "shuōhuà"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我今天早上上学迟到。",
+  "english": "I'm late for school this morning.",
+  "pinyin": "wǒ jīntiān zǎoshang shàng xué chídào.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎoshang"
+    },
+    {
+      "ch": "上学",
+      "en": "go to school",
+      "pi": "shàng xué"
+    },
+    {
+      "ch": "迟到",
+      "en": "late",
+      "pi": "chídào"
+    }
+  ]
+}

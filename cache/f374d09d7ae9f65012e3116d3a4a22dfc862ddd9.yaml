@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆和玛丽住在同一个屋檐下。",
+  "english": "Tom and Mary live under the same roof.",
+  "pinyin": "tāng mǔ hé mǎ lì zhù zài tóng yí gè wū yán xià。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "住",
+      "en": "live",
+      "pi": "zhù"
+    },
+    {
+      "ch": "在",
+      "en": "under",
+      "pi": "zài"
+    },
+    {
+      "ch": "同一个",
+      "en": "same",
+      "pi": "tóng yí gè"
+    },
+    {
+      "ch": "屋檐下",
+      "en": "roof",
+      "pi": "wū yán xià"
+    }
+  ]
+}

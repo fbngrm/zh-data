@@ -1,0 +1,52 @@
+{
+  "chinese": "我问汤姆为什么他昨天没在这里",
+  "english": "I asked Tom why he wasn't here yesterday",
+  "pinyin": "wǒ wèn tāng mǔ wèi shén me tā zuó tiān méi zài zhè lǐ",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "问",
+      "en": "ask",
+      "pi": "wèn"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "为什么",
+      "en": "why",
+      "pi": "wèi shén me"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "没",
+      "en": "wasn't",
+      "pi": "méi"
+    },
+    {
+      "ch": "在",
+      "en": "here",
+      "pi": "zài"
+    },
+    {
+      "ch": "这里",
+      "en": "this place",
+      "pi": "zhè lǐ"
+    }
+  ]
+}

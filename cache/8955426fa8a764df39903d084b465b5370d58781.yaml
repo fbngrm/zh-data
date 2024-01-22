@@ -1,0 +1,11 @@
+{
+  "chinese": "凯特养了一只狗。",
+  "english": "Kate has a dog.",
+  "pinyin": "Kǎi tè yǎng le yī zhī gǒu.",
+  "words": [
+    { "ch": "凯特", "en": "Kate", "pi": "Kǎi tè" },
+    { "ch": "养了", "en": "has", "pi": "yǎng le" },
+    { "ch": "一只", "en": "a", "pi": "yī zhī" },
+    { "ch": "狗", "en": "dog", "pi": "gǒu" }
+  ]
+}

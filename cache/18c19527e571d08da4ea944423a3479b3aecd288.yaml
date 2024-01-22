@@ -1,0 +1,32 @@
+{
+  "chinese": "这只猫很可爱。",
+  "english": "This cat is very cute.",
+  "pinyin": "zhè zhī māo hěn kě ài.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "只",
+      "en": "cat",
+      "pi": "zhī"
+    },
+    {
+      "ch": "猫",
+      "en": "is",
+      "pi": "māo"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "可爱",
+      "en": "cute",
+      "pi": "kě ài"
+    }
+  ]
+}

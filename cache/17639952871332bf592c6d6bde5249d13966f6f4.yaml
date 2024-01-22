@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆不像我这样开车小心。",
+  "english": "Tom doesn't drive as carefully as me.",
+  "pinyin": "Tāng mǔ bù xiàng wǒ zhè yàng kāi chē xiǎo xīn.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "不像",
+      "en": "doesn't",
+      "pi": "bù xiàng"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "这样",
+      "en": "as",
+      "pi": "zhè yàng"
+    },
+    {
+      "ch": "开车",
+      "en": "drive",
+      "pi": "kāi chē"
+    },
+    {
+      "ch": "小心",
+      "en": "carefully",
+      "pi": "xiǎo xīn"
+    }
+  ]
+}

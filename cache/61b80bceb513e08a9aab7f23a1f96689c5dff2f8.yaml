@@ -1,0 +1,32 @@
+{
+  "chinese": "你很会做菜，不是吗?",
+  "english": "You're very good at cooking, aren't you?",
+  "pinyin": "nǐ hěn huì zuò cài ，bú shì ma ?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "会",
+      "en": "good at",
+      "pi": "huì"
+    },
+    {
+      "ch": "做菜",
+      "en": "cooking",
+      "pi": "zuò cài"
+    },
+    {
+      "ch": "不是吗",
+      "en": "aren't you?",
+      "pi": "bú shì ma"
+    }
+  ]
+}

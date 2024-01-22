@@ -1,0 +1,37 @@
+{
+  "chinese": "她咬了一口苹果。",
+  "english": "She took a bite of an apple.",
+  "pinyin": "tā yǎo le yī kǒu píng guǒ.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "咬",
+      "en": "took a bite",
+      "pi": "yǎo"
+    },
+    {
+      "ch": "了",
+      "en": "of",
+      "pi": "le"
+    },
+    {
+      "ch": "一",
+      "en": "an",
+      "pi": "yī"
+    },
+    {
+      "ch": "口",
+      "en": "of",
+      "pi": "kǒu"
+    },
+    {
+      "ch": "苹果",
+      "en": "apple",
+      "pi": "píng guǒ"
+    }
+  ]
+}

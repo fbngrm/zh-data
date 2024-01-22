@@ -1,0 +1,32 @@
+{
+  "chinese": "请每天喂一下狗。",
+  "english": "Please feed the dog every day.",
+  "pinyin": "qǐng měi tiān wèi yí xià gǒu.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "喂",
+      "en": "feed",
+      "pi": "wèi"
+    },
+    {
+      "ch": "一下",
+      "en": "a bit",
+      "pi": "yí xià"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    }
+  ]
+}

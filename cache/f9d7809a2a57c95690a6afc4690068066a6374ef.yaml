@@ -1,0 +1,42 @@
+{
+  "chinese": "我昨天看了部很棒的电影。",
+  "english": "I watched a great movie yesterday.",
+  "pinyin": "Wǒ zuótiān kànle bù hěn bàng de diànyǐng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "Wǒ"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "看了",
+      "en": "watched",
+      "pi": "kànle"
+    },
+    {
+      "ch": "部",
+      "en": "a",
+      "pi": "bù"
+    },
+    {
+      "ch": "很棒",
+      "en": "great",
+      "pi": "hěn bàng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "电影",
+      "en": "movie",
+      "pi": "diànyǐng"
+    }
+  ]
+}

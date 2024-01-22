@@ -1,0 +1,27 @@
+{
+  "chinese": "请问，中国银行在哪儿？",
+  "english": "Excuse me, where is the Bank of China?",
+  "pinyin": "Qǐngwèn, Zhōngguó yínháng zài nǎ'er?",
+  "words": [
+    {
+      "ch": "请问",
+      "en": "Excuse me",
+      "pi": "Qǐngwèn"
+    },
+    {
+      "ch": "中国银行",
+      "en": "Bank of China",
+      "pi": "Zhōngguó yínháng"
+    },
+    {
+      "ch": "在",
+      "en": "is/are",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪儿",
+      "en": "where",
+      "pi": "nǎ'er"
+    }
+  ]
+}

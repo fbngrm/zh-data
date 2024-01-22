@@ -1,0 +1,14 @@
+{
+  "chinese": "您想吃几串烤羊肉？",
+  "english": "How many skewers of roasted lamb would you like to eat?",
+  "pinyin": "Nín xiǎng chī jǐ chuàn kǎo yáng ròu?",
+  "words": [
+    {"ch": "您", "en": "you", "pi": "nín"},
+    {"ch": "想", "en": "want", "pi": "xiǎng"},
+    {"ch": "吃", "en": "to eat", "pi": "chī"},
+    {"ch": "几", "en": "how many", "pi": "jǐ"},
+    {"ch": "串", "en": "skewers", "pi": "chuàn"},
+    {"ch": "烤", "en": "roasted", "pi": "kǎo"},
+    {"ch": "羊肉", "en": "lamb", "pi": "yáng ròu"}
+  ]
+}

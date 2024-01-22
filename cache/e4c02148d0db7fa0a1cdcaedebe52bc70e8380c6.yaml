@@ -1,0 +1,16 @@
+{
+  "chinese": "我用两千日元买了这本书。",
+  "english": "I bought this book for 2000 yen.",
+  "pinyin": "wǒ yòng liǎng qiān rì yuán mǎi le zhè běn shū。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "用", "en": "use", "pi": "yòng"},
+    {"ch": "两千", "en": "2000", "pi": "liǎng qiān"},
+    {"ch": "日元", "en": "yen", "pi": "rì yuán"},
+    {"ch": "买", "en": "buy", "pi": "mǎi"},
+    {"ch": "了", "en": "particle indicating that something has happened", "pi": "le"},
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "本", "en": "measure word for books", "pi": "běn"},
+    {"ch": "书", "en": "book", "pi": "shū"}
+  ]
+}

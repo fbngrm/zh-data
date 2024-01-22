@@ -1,0 +1,37 @@
+{
+  "chinese": "你想看这个电视节目吗？",
+  "english": "Do you want to watch this TV program?",
+  "pinyin": "Nǐ xiǎng kàn zhège diànshì jiémù ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "看",
+      "en": "to watch",
+      "pi": "kàn"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhège"
+    },
+    {
+      "ch": "电视节目",
+      "en": "TV program",
+      "pi": "diànshì jiémù"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

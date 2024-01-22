@@ -1,0 +1,37 @@
+{
+  "chinese": "今天是我们放假最后一天。",
+  "english": "Today is the last day of our vacation.",
+  "pinyin": "jīn tiān shì wǒ men fàng jià zuì hòu yī tiān。",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我们",
+      "en": "we/us",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "放假",
+      "en": "vacation",
+      "pi": "fàng jià"
+    },
+    {
+      "ch": "最后",
+      "en": "last",
+      "pi": "zuì hòu"
+    },
+    {
+      "ch": "一天",
+      "en": "one day",
+      "pi": "yī tiān"
+    }
+  ]
+}

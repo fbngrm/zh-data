@@ -1,0 +1,37 @@
+{
+  "chinese": "中文学起来太容易了。",
+  "english": "Learning Chinese is too easy.",
+  "pinyin": "zhōng wén xué qǐ lái tài róng yì le.",
+  "words": [
+    {
+      "ch": "中文",
+      "en": "Chinese",
+      "pi": "zhōng wén"
+    },
+    {
+      "ch": "学",
+      "en": "learn",
+      "pi": "xué"
+    },
+    {
+      "ch": "起来",
+      "en": "is",
+      "pi": "qǐ lái"
+    },
+    {
+      "ch": "太",
+      "en": "too",
+      "pi": "tài"
+    },
+    {
+      "ch": "容易",
+      "en": "easy",
+      "pi": "róng yì"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "我父亲昨晚很晚才回家。",
+  "english": "My father returned home very late last night.",
+  "pinyin": "Wǒ fùqīn zuówǎn hěn wǎn cái huí jiā.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "父亲",
+      "en": "father",
+      "pi": "fùqīn"
+    },
+    {
+      "ch": "昨晚",
+      "en": "last night",
+      "pi": "zuówǎn"
+    },
+    {
+      "ch": "很晚",
+      "en": "very late",
+      "pi": "hěn wǎn"
+    },
+    {
+      "ch": "才",
+      "en": "just",
+      "pi": "cái"
+    },
+    {
+      "ch": "回家",
+      "en": "returned home",
+      "pi": "huí jiā"
+    }
+  ]
+}

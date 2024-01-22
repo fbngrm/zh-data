@@ -1,0 +1,27 @@
+{
+  "chinese": "晚上可能会下雨。",
+  "english": "It may rain in the evening.",
+  "pinyin": "wǎn shàng kě néng huì xià yǔ.",
+  "words": [
+    {
+      "ch": "晚上",
+      "en": "evening",
+      "pi": "wǎn shàng"
+    },
+    {
+      "ch": "可能",
+      "en": "may",
+      "pi": "kě néng"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "下雨",
+      "en": "rain",
+      "pi": "xià yǔ"
+    }
+  ]
+}

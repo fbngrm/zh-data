@@ -1,0 +1,14 @@
+{
+  "chinese": "菲利普有两辆汽车和一台摩托车。",
+  "english": "Philip has two cars and a motorcycle.",
+  "pinyin": "fēi lì pǔ yǒu liǎng liàng qì chē hé yī tái mó tuō chē.",
+  "words": [
+    {"ch": "菲利普", "en": "Philip", "pi": "fēi lì pǔ"},
+    {"ch": "有", "en": "has", "pi": "yǒu"},
+    {"ch": "两辆", "en": "two", "pi": "liǎng liàng"},
+    {"ch": "汽车", "en": "cars", "pi": "qì chē"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "一台", "en": "a", "pi": "yī tái"},
+    {"ch": "摩托车", "en": "motorcycle", "pi": "mó tuō chē"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆的演讲非常好。",
+  "english": "Tom's speech is very good.",
+  "pinyin": "tāng mǔ de yǎn jiǎng fēi cháng hǎo.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "演讲",
+      "en": "speech",
+      "pi": "yǎn jiǎng"
+    },
+    {
+      "ch": "非常",
+      "en": "very",
+      "pi": "fēi cháng"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "老板对你的工作有很高的评价。",
+  "english": "The boss has a high evaluation of your work.",
+  "pinyin": "lǎobǎn duì nǐ de gōngzuò yǒu hěn gāo de píngjià。",
+  "words": [
+    {"ch": "老板", "en": "boss", "pi": "lǎobǎn"},
+    {"ch": "对", "en": "to", "pi": "duì"},
+    {"ch": "你的", "en": "your", "pi": "nǐ de"},
+    {"ch": "工作", "en": "work", "pi": "gōngzuò"},
+    {"ch": "有", "en": "has", "pi": "yǒu"},
+    {"ch": "很高的", "en": "high", "pi": "hěn gāo de"},
+    {"ch": "评价", "en": "evaluation", "pi": "píngjià"}
+  ]
+}

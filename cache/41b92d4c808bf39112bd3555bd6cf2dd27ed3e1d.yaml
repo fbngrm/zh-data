@@ -1,0 +1,11 @@
+{
+  "chinese": "我正在读汉字。",
+  "english": "I am reading Chinese characters.",
+  "pinyin": "wǒ zhèngzài dú hànzì.",
+  "words" : [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "正在", "en": "am", "pi": "zhèngzài" },
+    { "ch": "读", "en": "reading", "pi": "dú" },
+    { "ch": "汉字", "en": "Chinese characters", "pi": "hànzì" }
+  ]
+}

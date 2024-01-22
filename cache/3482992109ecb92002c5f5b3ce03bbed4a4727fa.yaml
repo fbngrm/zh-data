@@ -1,0 +1,14 @@
+{
+  "chinese": "你把文章看了没？",
+  "english": "Have you read the article?",
+  "pinyin": "nǐ bǎ wénzhāng kàn le méi?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "把", "en": "have", "pi": "bǎ"},
+    {"ch": "文章", "en": "article", "pi": "wénzhāng"},
+    {"ch": "看", "en": "read", "pi": "kàn"},
+    {"ch": "了", "en": "have", "pi": "le"},
+    {"ch": "没", "en": "not", "pi": "méi"},
+    {"ch": "？", "en": "?"}
+  ]
+}

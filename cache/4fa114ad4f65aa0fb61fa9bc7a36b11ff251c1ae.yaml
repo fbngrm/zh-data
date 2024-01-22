@@ -1,0 +1,32 @@
+{
+  "chinese": "我尝试用左手写字。",
+  "english": "I am trying to write with my left hand.",
+  "pinyin": "wǒ chángshì yòng zuǒshǒu xiězì。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "尝试",
+      "en": "trying",
+      "pi": "chángshì"
+    },
+    {
+      "ch": "用",
+      "en": "to use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "左手",
+      "en": "left hand",
+      "pi": "zuǒshǒu"
+    },
+    {
+      "ch": "写字",
+      "en": "to write",
+      "pi": "xiězì"
+    }
+  ]
+}

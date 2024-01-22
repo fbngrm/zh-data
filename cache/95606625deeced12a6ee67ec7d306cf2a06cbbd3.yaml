@@ -1,0 +1,37 @@
+{
+  "chinese": "也许昨晚下了一场雨。",
+  "english": "Perhaps it rained last night.",
+  "pinyin": "yě xǔ zuó wǎn xià le yī chǎng yǔ.",
+  "words": [
+    {
+      "ch": "也许",
+      "en": "perhaps",
+      "pi": "yě xǔ"
+    },
+    {
+      "ch": "昨晚",
+      "en": "last night",
+      "pi": "zuó wǎn"
+    },
+    {
+      "ch": "下",
+      "en": "to rain",
+      "pi": "xià"
+    },
+    {
+      "ch": "了",
+      "en": "indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "一场",
+      "en": "a",
+      "pi": "yī chǎng"
+    },
+    {
+      "ch": "雨",
+      "en": "rain",
+      "pi": "yǔ"
+    }
+  ]
+}

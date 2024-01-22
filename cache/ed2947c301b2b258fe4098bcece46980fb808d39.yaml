@@ -1,0 +1,32 @@
+{
+  "chinese": "我的室友在学中文。",
+  "english": "My roommate is studying Chinese.",
+  "pinyin": "wǒ de shìyǒu zài xué zhōngwén.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "室友",
+      "en": "roommate",
+      "pi": "shìyǒu"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "学",
+      "en": "studying",
+      "pi": "xué"
+    },
+    {
+      "ch": "中文",
+      "en": "Chinese",
+      "pi": "zhōngwén"
+    }
+  ]
+}

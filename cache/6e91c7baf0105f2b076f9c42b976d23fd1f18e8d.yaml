@@ -1,0 +1,27 @@
+{
+  "chinese": "我已经道歉了。",
+  "english": "I have already apologized.",
+  "pinyin": "wǒ yǐjīng dào qiànle.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐjīng"
+    },
+    {
+      "ch": "道歉",
+      "en": "apologized",
+      "pi": "dào qiàn"
+    },
+    {
+      "ch":"了",
+      "en":"particle indicating completed action",
+      "pi":"le"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我女儿今天大学毕业。",
+  "english": "My daughter graduated from college today.",
+  "pinyin": "wǒ nǚ'ér jīntiān dàxué bìyè.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "女儿",
+      "en": "daughter",
+      "pi": "nǚ'ér"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "大学",
+      "en": "college",
+      "pi": "dàxué"
+    },
+    {
+      "ch": "毕业",
+      "en": "graduate",
+      "pi": "bìyè"
+    }
+  ]
+}

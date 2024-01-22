@@ -1,0 +1,14 @@
+{
+  "chinese": "上梁不正下梁歪。",
+  "english": "If the upper beam is not straight, the lower beam will be crooked.",
+  "pinyin": "shàng liáng bù zhèng xià liáng wāi.",
+  "words": [
+    {"ch": "上", "en": "upper", "pi": "shàng"},
+    {"ch": "梁", "en": "beam", "pi": "liáng"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "正", "en": "straight", "pi": "zhèng"},
+    {"ch": "下", "en": "lower", "pi": "xià"},
+    {"ch": "梁", "en": "beam", "pi": "liáng"},
+    {"ch": "歪", "en": "crooked", "pi": "wāi"}
+  ]
+}

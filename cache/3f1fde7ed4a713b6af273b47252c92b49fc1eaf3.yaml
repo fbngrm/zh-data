@@ -1,0 +1,20 @@
+{
+  "chinese": "吸烟的人请病假的日数比不吸烟的人多两倍。",
+  "english": "People who smoke take twice the number of sick leave compared to those who do not smoke.",
+  "pinyin": "xī yān de rén qǐng bìng jià de rì shù bǐ bù xī yān de rén duō liǎng bèi.",
+  "words": [
+    {"ch": "吸烟", "en": "smoke", "pi": "xī yān"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "人", "en": "people", "pi": "rén"},
+    {"ch": "请", "en": "take", "pi": "qǐng"},
+    {"ch": "病假", "en": "sick leave", "pi": "bìng jià"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "日数", "en": "number of days", "pi": "rì shù"},
+    {"ch": "比", "en": "compared to", "pi": "bǐ"},
+    {"ch": "不吸烟", "en": "not smoke", "pi": "bù xī yān"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "人", "en": "people", "pi": "rén"},
+    {"ch": "多", "en": "more", "pi": "duō"},
+    {"ch": "两倍", "en": "twice", "pi": "liǎng bèi"}
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "牙医用Ｘ光检查你的牙齿。",
+  "english": "The dentist uses X-rays to examine your teeth.",
+  "pinyin": "yá yī yòng X guāng jiǎnchá nǐ de yáchǐ.",
+  "words": [
+    {
+      "ch": "牙医",
+      "en": "dentist",
+      "pi": "yá yī"
+    },
+    {
+      "ch": "用",
+      "en": "uses",
+      "pi": "yòng"
+    },
+    {
+      "ch": "Ｘ光",
+      "en": "X-rays",
+      "pi": "X guāng"
+    },
+    {
+      "ch": "检查",
+      "en": "examine",
+      "pi": "jiǎnchá"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "牙齿",
+      "en": "teeth",
+      "pi": "yáchǐ"
+    }
+  ]
+}

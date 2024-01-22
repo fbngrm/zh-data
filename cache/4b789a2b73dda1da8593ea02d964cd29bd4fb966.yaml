@@ -1,0 +1,32 @@
+{
+  "chinese": "吃完早饭了吗？",
+  "english": "Have you eaten breakfast?",
+  "pinyin": "chī wán zǎofàn le ma?",
+  "words": [
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "完",
+      "en": "finish",
+      "pi": "wán"
+    },
+    {
+      "ch": "早饭",
+      "en": "breakfast",
+      "pi": "zǎofàn"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

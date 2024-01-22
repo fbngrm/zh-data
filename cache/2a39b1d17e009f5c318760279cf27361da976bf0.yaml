@@ -1,0 +1,32 @@
+{
+  "chinese": "床占了很多空间。",
+  "english": "The bed takes up a lot of space.",
+  "pinyin": "chuáng zhànle hěn duō kōngjiān.",
+  "words": [
+    {
+      "ch": "床",
+      "en": "bed",
+      "pi": "chuáng"
+    },
+    {
+      "ch": "占",
+      "en": "takes up",
+      "pi": "zhàn"
+    },
+    {
+      "ch": "了",
+      "en": "a particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "很多",
+      "en": "a lot of",
+      "pi": "hěn duō"
+    },
+    {
+      "ch": "空间",
+      "en": "space",
+      "pi": "kōngjiān"
+    }
+  ]
+}

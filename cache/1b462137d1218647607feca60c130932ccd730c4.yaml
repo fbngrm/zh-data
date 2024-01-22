@@ -1,0 +1,27 @@
+{
+  "chinese": "病人躺在床上。",
+  "english": "The patient is lying in bed.",
+  "pinyin": "Bìngrén tǎng zài chuáng shàng.",
+  "words": [
+    {
+      "ch": "病人",
+      "en": "patient",
+      "pi": "bìngrén"
+    },
+    {
+      "ch": "躺",
+      "en": "lie",
+      "pi": "tǎng"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "床上",
+      "en": "bed",
+      "pi": "chuáng shàng"
+    }
+  ]
+}

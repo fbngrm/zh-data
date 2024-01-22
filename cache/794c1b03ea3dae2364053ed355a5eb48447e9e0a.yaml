@@ -1,0 +1,43 @@
+{
+  "sentences": [
+    {
+      "chinese": "我知道。",
+      "english": "I know.",
+      "pinyin": "wǒ zhīdào.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "知道",
+          "en": "know",
+          "pi": "zhīdào"
+        }
+      ]
+    },
+    {
+      "chinese": "我在那里。",
+      "english": "I am there.",
+      "pinyin": "wǒ zài nàlǐ.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "在",
+          "en": "am",
+          "pi": "zài"
+        },
+        {
+          "ch": "那里",
+          "en": "there",
+          "pi": "nàlǐ"
+        }
+      ]
+    }
+  ]
+}

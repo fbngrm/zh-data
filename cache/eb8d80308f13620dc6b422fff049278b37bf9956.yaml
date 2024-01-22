@@ -1,0 +1,32 @@
+{
+  "chinese": "我会等到四点。",
+  "english": "I will wait until four o'clock.",
+  "pinyin": "wǒ huì děng dào sì diǎn。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "等",
+      "en": "wait",
+      "pi": "děng"
+    },
+    {
+      "ch": "到",
+      "en": "until",
+      "pi": "dào"
+    },
+    {
+      "ch": "四点",
+      "en": "four o'clock",
+      "pi": "sì diǎn"
+    }
+  ]
+}

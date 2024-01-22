@@ -1,0 +1,27 @@
+{
+  "chinese": "你们家在哪？",
+  "english": "Where is your house?",
+  "pinyin": "Nǐmen jiā zài nǎ?",
+  "words": [
+    {
+      "ch": "你们",
+      "en": "you (plural)",
+      "pi": "nǐmen"
+    },
+    {
+      "ch": "家",
+      "en": "house",
+      "pi": "jiā"
+    },
+    {
+      "ch": "在",
+      "en": "is/at",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪",
+      "en": "where",
+      "pi": "nǎ"
+    }
+  ]
+}

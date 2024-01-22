@@ -1,0 +1,32 @@
+{
+  "chinese": "昨天有的同学迟到了",
+  "english": "Some students were late yesterday",
+  "pinyin": "zuó tiān yǒu de tóng xué chí dào le",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "有的",
+      "en": "some",
+      "pi": "yǒu de"
+    },
+    {
+      "ch": "同学",
+      "en": "students",
+      "pi": "tóng xué"
+    },
+    {
+      "ch": "迟到",
+      "en": "be late",
+      "pi": "chí dào"
+    },
+    {
+      "ch": "了",
+      "en": "was",
+      "pi": "le"
+    }
+  ]
+}

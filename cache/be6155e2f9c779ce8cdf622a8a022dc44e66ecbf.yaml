@@ -1,0 +1,37 @@
+{
+  "chinese": "明日之前必须把工作做完.",
+  "english": "The work must be done before tomorrow.",
+  "pinyin": "míng rì zhī qián bì xū bǎ gōng zuò zuò wán.",
+  "words": [
+    {
+      "ch": "明日",
+      "en": "tomorrow",
+      "pi": "míng rì"
+    },
+    {
+      "ch": "之前",
+      "en": "before",
+      "pi": "zhī qián"
+    },
+    {
+      "ch": "必须",
+      "en": "must",
+      "pi": "bì xū"
+    },
+    {
+      "ch": "把",
+      "en": "be done",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "工作",
+      "en": "work",
+      "pi": "gōng zuò"
+    },
+    {
+      "ch": "做完",
+      "en": "completed",
+      "pi": "zuò wán"
+    }
+  ]
+}

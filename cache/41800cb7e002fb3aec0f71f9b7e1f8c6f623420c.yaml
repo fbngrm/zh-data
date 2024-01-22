@@ -1,0 +1,37 @@
+{
+  "chinese": "我认为汤姆帮不上大忙。",
+  "english": "I don't think Tom can be of much help.",
+  "pinyin": "wǒ rèn wéi tāng mǔ bāng bù shàng dà máng。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "认为",
+      "en": "think",
+      "pi": "rèn wéi"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "帮",
+      "en": "help",
+      "pi": "bāng"
+    },
+    {
+      "ch": "不上",
+      "en": "cannot",
+      "pi": "bù shàng"
+    },
+    {
+      "ch": "大忙",
+      "en": "much",
+      "pi": "dà máng"
+    }
+  ]
+}

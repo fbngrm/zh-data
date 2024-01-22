@@ -1,0 +1,42 @@
+{
+  "chinese": "请坐在沙发上放轻松。",
+  "english": "Please sit on the sofa and relax.",
+  "pinyin": "qǐng zuò zài shā fā shàng fàng qīng sōng。",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "坐",
+      "en": "sit",
+      "pi": "zuò"
+    },
+    {
+      "ch": "在",
+      "en": "on",
+      "pi": "zài"
+    },
+    {
+      "ch": "沙发",
+      "en": "sofa",
+      "pi": "shā fā"
+    },
+    {
+      "ch": "上",
+      "en": "and",
+      "pi": "shàng"
+    },
+    {
+      "ch": "放",
+      "en": "relax",
+      "pi": "fàng"
+    },
+    {
+      "ch": "轻松",
+      "en": "relax",
+      "pi": "qīng sōng"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "chinese": "可以借点钱给我吗？我现在有点缺钱。",
+  "english": "Can you lend me some money? I'm a little short on cash right now.",
+  "pinyin": "kě yǐ jiè diǎn qián gěi wǒ ma? wǒ xiàn zài yǒu diǎn quē qián。",
+  "words": [
+    {"ch": "可以", "en": "can", "pi": "kě yǐ"},
+    {"ch": "借", "en": "lend", "pi": "jiè"},
+    {"ch": "点", "en": "some", "pi": "diǎn"},
+    {"ch": "钱", "en": "money", "pi": "qián"},
+    {"ch": "给", "en": "me", "pi": "gěi"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "吗", "en": "?" , "pi": "ma"},
+    {"ch": "？", "en": " ", "pi": " "},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "现在", "en": "now", "pi": "xiàn zài"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "点", "en": "a little", "pi": "diǎn"},
+    {"ch": "缺", "en": "short on", "pi": "quē"},
+    {"ch": "钱", "en": "cash", "pi": "qián"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

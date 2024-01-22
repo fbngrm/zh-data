@@ -1,0 +1,42 @@
+{
+  "chinese": "你迟到了，不是吗？",
+  "english": "You're late, aren't you?",
+  "pinyin": "nǐ chídào le, bú shì ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "迟到",
+      "en": "late",
+      "pi": "chídào"
+    },
+    {
+      "ch": "了",
+      "en": "to be",
+      "pi": "le"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": ","
+    },
+    {
+      "ch": "不是",
+      "en": "aren't",
+      "pi": "bú shì"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "?"
+    }
+  ]
+}

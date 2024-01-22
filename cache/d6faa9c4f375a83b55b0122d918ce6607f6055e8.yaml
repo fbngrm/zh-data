@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆告诉我该说什么。",
+  "english": "Tom told me what to say.",
+  "pinyin": "Tāng mǔ gàosu wǒ gāi shuō shénme。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "告诉",
+      "en": "told",
+      "pi": "gàosu"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "该",
+      "en": "what",
+      "pi": "gāi"
+    },
+    {
+      "ch": "说",
+      "en": "to say",
+      "pi": "shuō"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    }
+  ]
+}

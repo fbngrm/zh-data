@@ -1,0 +1,32 @@
+{
+  "chinese": "我需要预约位子吗?",
+  "english": "Do I need to make a reservation?",
+  "pinyin": "wǒ xūyào yùyuē wèizi ma?",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "需要",
+      "en": "need",
+      "pi": "xūyào"
+    },
+    {
+      "ch": "预约",
+      "en": "to make a reservation",
+      "pi": "yùyuē"
+    },
+    {
+      "ch": "位子",
+      "en": "seat",
+      "pi": "wèizi"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "我不想谈这件事。",
+  "english": "I don't want to talk about this.",
+  "pinyin": "wǒ bù xiǎng tán zhè jiàn shì。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "想", "en": "want", "pi": "xiǎng"},
+    {"ch": "谈", "en": "to talk", "pi": "tán"},
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "件", "en": "matter", "pi": "jiàn"},
+    {"ch": "事", "en": "thing", "pi": "shì"}
+  ]
+}

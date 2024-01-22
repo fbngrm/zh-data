@@ -1,0 +1,42 @@
+{
+  "chinese": "说汉语的人都在吗?",
+  "english": "Are all the Chinese speakers here?",
+  "pinyin": "shuō hànyǔ de rén dōu zài ma?",
+  "words": [
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "汉语",
+      "en": "Chinese",
+      "pi": "hànyǔ"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "人",
+      "en": "people",
+      "pi": "rén"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "在",
+      "en": "here",
+      "pi": "zài"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

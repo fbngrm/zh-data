@@ -1,0 +1,16 @@
+{
+  "chinese": "你喜欢哪个就买哪个,但不能两个都买。",
+  "english": "Buy whichever one you like, but you can't buy both.",
+  "pinyin": "nǐ xǐhuān nǎgè jiù mǎi nǎgè, dàn bùnéng liǎng gè dōu mǎi.",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "喜欢", "en": "like", "pi": "xǐhuān"},
+    {"ch": "哪个", "en": "which one", "pi": "nǎgè"},
+    {"ch": "就", "en": "then", "pi": "jiù"},
+    {"ch": "买", "en": "buy", "pi": "mǎi"},
+    {"ch": "但", "en": "but", "pi": "dàn"},
+    {"ch": "不能", "en": "cannot", "pi": "bùnéng"},
+    {"ch": "两个", "en": "both", "pi": "liǎng gè"},
+    {"ch": "都", "en": "all", "pi": "dōu"}
+  ]
+}

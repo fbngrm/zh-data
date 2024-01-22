@@ -1,0 +1,14 @@
+{
+  "chinese": "玛丽的包里有胡椒喷剂。",
+  "english": "Mary's bag has pepper spray.",
+  "pinyin": "Mǎ lì de bāo lǐ yǒu hú jiāo pēn jì.",
+  "words": [
+    {"ch": "玛丽", "en": "Mary", "pi": "mǎ lì"},
+    {"ch": "的", "en": "possessive particle", "pi": "de"},
+    {"ch": "包", "en": "bag", "pi": "bāo"},
+    {"ch": "里", "en": "inside", "pi": "lǐ"},
+    {"ch": "有", "en": "has", "pi": "yǒu"},
+    {"ch": "胡椒", "en": "pepper", "pi": "hú jiāo"},
+    {"ch": "喷剂", "en": "spray", "pi": "pēn jì"}
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆自从２００３年就住在这里。",
+  "english": "Tom has been living here since 2003.",
+  "pinyin": "tāng mǔ zì cóng èr líng líng sān nián jiù zhù zài zhè lǐ。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "自从",
+      "en": "since",
+      "pi": "zì cóng"
+    },
+    {
+      "ch": "２００３年",
+      "en": "2003",
+      "pi": "èr líng líng sān nián"
+    },
+    {
+      "ch": "就",
+      "en": "has",
+      "pi": "jiù"
+    },
+    {
+      "ch": "住",
+      "en": "been living",
+      "pi": "zhù"
+    },
+    {
+      "ch": "在",
+      "en": "here",
+      "pi": "zài"
+    },
+    {
+      "ch": "这里",
+      "en": "this place",
+      "pi": "zhè lǐ"
+    }
+  ]
+}

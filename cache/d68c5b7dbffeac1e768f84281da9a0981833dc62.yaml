@@ -1,0 +1,18 @@
+{
+  "chinese": "他定已錯過了他平常坐的那班列車。",
+  "english": "He has missed the train that he usually takes.",
+  "pinyin": "tā dìng yǐ cuòguòle tā píngcháng zuò de nà bān lièchē。",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "定已", "en": "has", "pi": "dìng yǐ"},
+    {"ch": "錯過", "en": "missed", "pi": "cuòguò"},
+    {"ch": "了", "en": "the", "pi": "le"},
+    {"ch": "他", "en": "train", "pi": "tā"},
+    {"ch": "平常", "en": "that", "pi": "píngcháng"},
+    {"ch": "坐", "en": "he", "pi": "zuò"},
+    {"ch": "的", "en": "usually", "pi": "de"},
+    {"ch": "那", "en": "takes", "pi": "nà"},
+    {"ch": "班", "en": "train", "pi": "bān"},
+    {"ch": "列車", "en": "train", "pi": "lièchē"}
+  ]
+}

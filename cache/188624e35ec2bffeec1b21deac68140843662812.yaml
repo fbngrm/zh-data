@@ -1,0 +1,27 @@
+{
+  "chinese": "你今天几点回家？",
+  "english": "What time are you coming home today?",
+  "pinyin": "nǐ jīntiān jǐdiǎn huíjiā?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "几点",
+      "en": "what time",
+      "pi": "jǐdiǎn"
+    },
+    {
+      "ch": "回家",
+      "en": "come home",
+      "pi": "huíjiā"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "有人穿错了我的鞋。",
+  "english": "Someone wore the wrong shoes.",
+  "pinyin": "yǒu rén chuān cuò le wǒ de xié。",
+  "words": [
+    {
+      "ch": "有人",
+      "en": "Someone",
+      "pi": "yǒu rén"
+    },
+    {
+      "ch": "穿错",
+      "en": "wore wrong",
+      "pi": "chuān cuò"
+    },
+    {
+      "ch": "了",
+      "en": "the",
+      "pi": "le"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "鞋",
+      "en": "shoes",
+      "pi": "xié"
+    }
+  ]
+}

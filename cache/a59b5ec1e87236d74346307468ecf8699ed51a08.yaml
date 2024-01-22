@@ -1,0 +1,16 @@
+{
+  "chinese": "花园里树上的叶子已经完全变红了。",
+  "english": "The leaves on the trees in the garden have turned completely red.",
+  "pinyin": "Huāyuán lǐ shùshàng de yèzi yǐjīng wánquán biàn hóngle.",
+  "words": [
+    {"ch": "花园", "en": "garden", "pi": "huāyuán"},
+    {"ch": "里", "en": "in", "pi": "lǐ"},
+    {"ch": "树上", "en": "on the trees", "pi": "shùshàng"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "叶子", "en": "leaves", "pi": "yèzi"},
+    {"ch": "已经", "en": "already", "pi": "yǐjīng"},
+    {"ch": "完全", "en": "completely", "pi": "wánquán"},
+    {"ch": "变红", "en": "turned red", "pi": "biàn hóng"},
+    {"ch": "了", "en": "", "pi": "le"}
+  ]
+}

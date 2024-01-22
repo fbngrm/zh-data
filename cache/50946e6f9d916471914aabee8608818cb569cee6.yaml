@@ -1,0 +1,13 @@
+{
+  "chinese": "没有你的帮忙我也能做。",
+  "english": "I can do it even without your help.",
+  "pinyin": "méi yǒu nǐ de bāng máng wǒ yě néng zuò。",
+  "words": [
+    {"ch": "没有", "en": "no, not have", "pi": "méi yǒu"},
+    {"ch": "你的", "en": "your", "pi": "nǐ de"},
+    {"ch": "帮忙", "en": "help", "pi": "bāng máng"},
+    {"ch": "我也", "en": "I can also", "pi": "wǒ yě"},
+    {"ch": "能", "en": "can, able to", "pi": "néng"},
+    {"ch": "做", "en": "do", "pi": "zuò"}
+  ]
+}

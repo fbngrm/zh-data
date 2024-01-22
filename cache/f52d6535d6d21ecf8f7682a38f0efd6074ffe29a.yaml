@@ -1,0 +1,42 @@
+{
+  "chinese": "我有个在波士顿的兄弟。",
+  "english": "I have a brother in Boston.",
+  "pinyin": "wǒ yǒu gè zài bō shì dùn de xiōng dì。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "波士顿",
+      "en": "Boston",
+      "pi": "bō shì dùn"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "兄弟",
+      "en": "brother",
+      "pi": "xiōng dì"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "她问我知不知道他的地址。",
+  "english": "She asked me if I knew his address.",
+  "pinyin": "tā wèn wǒ zhī bù zhī dào tā de dì zhǐ。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "问",
+      "en": "ask",
+      "pi": "wèn"
+    },
+    {
+      "ch": "我",
+      "en": "me/I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "知不知道",
+      "en": "if know",
+      "pi": "zhī bù zhī dào"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "地址。",
+      "en": "address.",
+      "pi": "dì zhǐ。"
+    }
+  ]
+}

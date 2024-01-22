@@ -1,0 +1,42 @@
+{
+  "chinese": "对不起，这位子是否被人家占了？",
+  "english": "Excuse me, is this seat taken?",
+  "pinyin": "duì bù qǐ, zhè wèi zǐ shì fǒu bèi rén jiā zhàn le?",
+  "words": [
+    {
+      "ch": "对不起",
+      "en": "Excuse me",
+      "pi": "duì bù qǐ"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "位子",
+      "en": "seat",
+      "pi": "wèi zǐ"
+    },
+    {
+      "ch": "是否",
+      "en": "is",
+      "pi": "shì fǒu"
+    },
+    {
+      "ch": "被",
+      "en": "taken",
+      "pi": "bèi"
+    },
+    {
+      "ch": "人家",
+      "en": "someone",
+      "pi": "rén jiā"
+    },
+    {
+      "ch": "占了",
+      "en": "occupied",
+      "pi": "zhàn le"
+    }
+  ]
+}

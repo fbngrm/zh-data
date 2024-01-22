@@ -1,0 +1,22 @@
+{
+  "sentences": [
+    {
+      "chinese": "现在几点钟？",
+      "english": "What time is it now?",
+      "pinyin": "xiàn zài jǐ diǎn zhōng?",
+      "words": [
+        {"ch": "现在", "en": "now", "pi": "xiàn zài"},
+        {"ch": "几点钟", "en": "what time", "pi": "jǐ diǎn zhōng"}
+      ]
+    },
+    {
+      "chinese": "三时二十分。",
+      "english": "Three twenty.",
+      "pinyin": "sān shí èr shí fēn.",
+      "words": [
+        {"ch": "三时", "en": "three", "pi": "sān shí"},
+        {"ch": "二十分", "en": "twenty", "pi": "èr shí fēn"}
+      ]
+    }
+  ]
+}

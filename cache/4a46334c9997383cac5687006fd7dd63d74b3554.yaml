@@ -1,0 +1,115 @@
+{
+  "sentences": [
+    {
+      "chinese": "Ｊｏｈｎｙ以前是个化学家，但现在Ｊｏｈｎｙ不再是了。",
+      "english": "Johnny used to be a chemist, but now Johnny is no longer one.",
+      "pinyin": "Johnny yǐqián shì gè huàxuéjiā, dàn xiànzài Johnny bù zài le."
+    },
+    {
+      "chinese": "他以前所想的是水，是硫酸。",
+      "english": "What he used to think was water, was sulfuric acid.",
+      "pinyin": "Tā yǐqián suǒ xiǎng de shì shuǐ, shì liúsuān."
+    }
+  ],
+  "words": [
+    [
+      {
+        "ch": "Ｊｏｈｎｙ",
+        "en": "Johnny",
+        "pi": "Johnny"
+      },
+      {
+        "ch": "以前",
+        "en": "used to",
+        "pi": "yǐqián"
+      },
+      {
+        "ch": "是",
+        "en": "be",
+        "pi": "shì"
+      },
+      {
+        "ch": "个",
+        "en": "a",
+        "pi": "gè"
+      },
+      {
+        "ch": "化学家",
+        "en": "chemist",
+        "pi": "huàxuéjiā"
+      },
+      {
+        "ch": "但",
+        "en": "but",
+        "pi": "dàn"
+      },
+      {
+        "ch": "现在",
+        "en": "now",
+        "pi": "xiànzài"
+      },
+      {
+        "ch": "不再",
+        "en": "no longer",
+        "pi": "bù zài"
+      },
+      {
+        "ch": "了",
+        "en": "one",
+        "pi": "le"
+      }
+    ],
+    [
+      {
+        "ch": "他",
+        "en": "he",
+        "pi": "tā"
+      },
+      {
+        "ch": "以前",
+        "en": "used to",
+        "pi": "yǐqián"
+      },
+      {
+        "ch": "所",
+        "en": "what",
+        "pi": "suǒ"
+      },
+      {
+        "ch": "想",
+        "en": "think",
+        "pi": "xiǎng"
+      },
+      {
+        "ch": "的",
+        "en": "was",
+        "pi": "de"
+      },
+      {
+        "ch": "是",
+        "en": "water",
+        "pi": "shuǐ"
+      },
+      {
+        "ch": "，",
+        "en": ",",
+        "pi": "，"
+      },
+      {
+        "ch": "是",
+        "en": "sulfuric",
+        "pi": "shì"
+      },
+      {
+        "ch": "硫酸",
+        "en": "acid",
+        "pi": "liúsuān"
+      },
+      {
+        "ch": "。",
+        "en": ".",
+        "pi": "。"
+      }
+    ]
+  ]
+}

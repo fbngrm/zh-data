@@ -1,0 +1,42 @@
+{
+  "chinese": "请告诉我下一步该做什么。",
+  "english": "Please tell me what to do next.",
+  "pinyin": "Qǐng gàosù wǒ xià yībù gāi zuò shénme.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "告诉",
+      "en": "tell",
+      "pi": "gàosù"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "下一步",
+      "en": "next",
+      "pi": "xià yībù"
+    },
+    {
+      "ch": "该",
+      "en": "should",
+      "pi": "gāi"
+    },
+    {
+      "ch": "做",
+      "en": "do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    }
+  ]
+}

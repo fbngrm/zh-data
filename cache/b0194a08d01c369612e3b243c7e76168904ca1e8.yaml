@@ -1,0 +1,14 @@
+{
+  "chinese": "我姥姥只喝了点儿汤。",
+  "english": "My grandma only drank a little soup.",
+  "pinyin": "wǒ lǎo lao zhǐ hē le diǎn er tāng.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "姥姥", "en": "grandma", "pi": "lǎo lao"},
+    {"ch": "只", "en": "only", "pi": "zhǐ"},
+    {"ch": "喝", "en": "drink", "pi": "hē"},
+    {"ch": "了", "en": "past tense marker", "pi": "le"},
+    {"ch": "点儿", "en": "a little", "pi": "diǎn er"},
+    {"ch": "汤", "en": "soup", "pi": "tāng"}
+  ]
+}

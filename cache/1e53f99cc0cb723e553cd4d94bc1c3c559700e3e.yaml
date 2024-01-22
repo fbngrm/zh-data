@@ -1,0 +1,100 @@
+{
+  "sentences": [
+    {
+      "chinese": "左边 的 苹果 多，右边 的 苹果 少。",
+      "english": "There are more apples on the left than on the right.",
+      "pinyin": "zuǒ biān de píng guǒ duō, yòu biān de píng guǒ shǎo.",
+      "words": [
+        {"ch": "左边", "en": "left", "pi": "zuǒ biān"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "苹果", "en": "apple", "pi": "píng guǒ"},
+        {"ch": "多", "en": "more", "pi": "duō"},
+        {"ch": "，", "en": "", "pi": ""},
+        {"ch": "右边", "en": "right", "pi": "yòu biān"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "苹果", "en": "apple", "pi": "píng guǒ"},
+        {"ch": "少", "en": "less", "pi": "shǎo"},
+        {"ch": "。", "en": ".", "pi": ""}
+      ]
+    },
+    {
+      "chinese": "左边 的 苹果 比 右边 的 多。",
+      "english": "There are more apples on the left than on the right.",
+      "pinyin": "zuǒ biān de píng guǒ bǐ yòu biān de duō.",
+      "words": [
+        {"ch": "左边", "en": "left", "pi": "zuǒ biān"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "苹果", "en": "apple", "pi": "píng guǒ"},
+        {"ch": "比", "en": "than", "pi": "bǐ"},
+        {"ch": "右边", "en": "right", "pi": "yòu biān"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "多", "en": "more", "pi": "duō"},
+        {"ch": "。", "en": ".", "pi": ""}
+      ]
+    },
+    {
+      "chinese": "左边 的 铅笔 长，右边 的 铅笔 短。",
+      "english": "The pencil on the left is long, the pencil on the right is short.",
+      "pinyin": "zuǒ biān de qiān bǐ cháng, yòu biān de qiān bǐ duǎn.",
+      "words": [
+        {"ch": "左边", "en": "left", "pi": "zuǒ biān"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "铅笔", "en": "pencil", "pi": "qiān bǐ"},
+        {"ch": "长", "en": "long", "pi": "cháng"},
+        {"ch": "，", "en": "", "pi": ""},
+        {"ch": "右边", "en": "right", "pi": "yòu biān"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "铅笔", "en": "pencil", "pi": "qiān bǐ"},
+        {"ch": "短", "en": "short", "pi": "duǎn"},
+        {"ch": "。", "en": ".", "pi": ""}
+      ]
+    },
+    {
+      "chinese": "左边 的 铅笔 比 右边 的 长。",
+      "english": "The pencil on the left is longer than the pencil on the right.",
+      "pinyin": "zuǒ biān de qiān bǐ bǐ yòu biān de cháng.",
+      "words": [
+        {"ch": "左边", "en": "left", "pi": "zuǒ biān"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "铅笔", "en": "pencil", "pi": "qiān bǐ"},
+        {"ch": "比", "en": "than", "pi": "bǐ"},
+        {"ch": "右边", "en": "right", "pi": "yòu biān"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "长", "en": "long", "pi": "cháng"},
+        {"ch": "。", "en": ".", "pi": ""}
+      ]
+    },
+    {
+      "chinese": "左边 的 衣服 大，右边 的 衣服 小。",
+      "english": "The clothes on the left are big, the clothes on the right are small.",
+      "pinyin": "zuǒ biān de yī fú dà, yòu biān de yī fú xiǎo.",
+      "words": [
+        {"ch": "左边", "en": "left", "pi": "zuǒ biān"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "衣服", "en": "clothes", "pi": "yī fú"},
+        {"ch": "大", "en": "big", "pi": "dà"},
+        {"ch": "，", "en": "", "pi": ""},
+        {"ch": "右边", "en": "right", "pi": "yòu biān"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "衣服", "en": "clothes", "pi": "yī fú"},
+        {"ch": "小", "en": "small", "pi": "xiǎo"},
+        {"ch": "。", "en": ".", "pi": ""}
+      ]
+    },
+    {
+      "chinese": "左边 的 衣服 比 右边 的 大。",
+      "english": "The clothes on the left are bigger than the clothes on the right.",
+      "pinyin": "zuǒ biān de yī fú bǐ yòu biān de dà.",
+      "words": [
+        {"ch": "左边", "en": "left", "pi": "zuǒ biān"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "衣服", "en": "clothes", "pi": "yī fú"},
+        {"ch": "比", "en": "than", "pi": "bǐ"},
+        {"ch": "右边", "en": "right", "pi": "yòu biān"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "大", "en": "big", "pi": "dà"},
+        {"ch": "。", "en": ".", "pi": ""}
+      ]
+    }
+  ]
+}

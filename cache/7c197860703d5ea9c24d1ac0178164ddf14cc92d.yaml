@@ -1,0 +1,32 @@
+{
+  "chinese": "你滑雪比我好。",
+  "english": "You are better at skiing than me.",
+  "pinyin": "Nǐ huáxuě bǐ wǒ hǎo.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "滑雪",
+      "en": "skiing",
+      "pi": "huáxuě"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    }
+  ]
+}

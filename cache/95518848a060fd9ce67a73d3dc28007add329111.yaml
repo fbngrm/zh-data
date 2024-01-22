@@ -1,0 +1,32 @@
+{
+  "chinese": "那个是我哥哥的。",
+  "english": "That is my brother's.",
+  "pinyin": "Nà gè shì wǒ gēgē de.",
+  "words": [
+    {
+      "ch": "那个",
+      "en": "that",
+      "pi": "nà gè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我",
+      "en": "my",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "哥哥",
+      "en": "brother",
+      "pi": "gēgē"
+    },
+    {
+      "ch": "的",
+      "en": "'s",
+      "pi": "de"
+    }
+  ]
+}

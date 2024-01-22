@@ -1,0 +1,11 @@
+{
+  "chinese": "电池没电了。",
+  "english": "The battery is dead.",
+  "pinyin": "diàn chí méi diàn le.",
+  "words": [
+    {"ch": "电池", "en": "battery", "pi": "diàn chí"},
+    {"ch": "没", "en": "is", "pi": "méi"},
+    {"ch": "电", "en": "dead", "pi": "diàn"},
+    {"ch": "了", "en": "le", "pi": "le"}
+  ]
+}

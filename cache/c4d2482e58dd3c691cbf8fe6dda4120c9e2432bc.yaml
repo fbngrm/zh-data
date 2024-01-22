@@ -1,0 +1,32 @@
+{
+  "chinese": "她是我的女朋友。",
+  "english": "She is my girlfriend.",
+  "pinyin": "tā shì wǒ de nǚ péngyǒu。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我",
+      "en": "my",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "的",
+      "en": "particle indicating possession",
+      "pi": "de"
+    },
+    {
+      "ch": "女朋友",
+      "en": "girlfriend",
+      "pi": "nǚ péngyǒu"
+    }
+  ]
+}

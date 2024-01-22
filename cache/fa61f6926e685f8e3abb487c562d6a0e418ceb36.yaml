@@ -1,0 +1,16 @@
+{
+  "chinese": "她把她所有的娃娃送給了别人。",
+  "english": "She gave away all her dolls to someone else.",
+  "pinyin": "tā bǎ tā suǒ yǒu de wáwá sòng gěi le biérén.",
+  "words": [
+    {"ch": "她", "en": "she", "pi": "tā"},
+    {"ch": "把", "en": "give", "pi": "bǎ"},
+    {"ch": "她", "en": "her", "pi": "tā"},
+    {"ch": "所有的", "en": "all", "pi": "suǒ yǒu de"},
+    {"ch": "娃娃", "en": "dolls", "pi": "wáwá"},
+    {"ch": "送", "en": "give", "pi": "sòng"},
+    {"ch": "給", "en": "to", "pi": "gěi"},
+    {"ch": "了", "en": "away", "pi": "le"},
+    {"ch": "別人", "en": "someone else", "pi": "biérén"}
+  ]
+}

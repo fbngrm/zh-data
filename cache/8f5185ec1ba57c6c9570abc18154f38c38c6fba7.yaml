@@ -1,0 +1,16 @@
+{
+  "chinese": "她说约翰一定非常愿意听到这个消息。",
+  "english": "She said John must be very happy to hear this news.",
+  "pinyin": "tā shuō yuē hàn yīdìng fēicháng yuànyì tīngdào zhège xiāoxi。",
+  "words": [
+    {"ch": "她", "en": "she", "pi": "tā"},
+    {"ch": "说", "en": "said", "pi": "shuō"},
+    {"ch": "约翰", "en": "John", "pi": "yuē hàn"},
+    {"ch": "一定", "en": "must", "pi": "yīdìng"},
+    {"ch": "非常", "en": "very", "pi": "fēicháng"},
+    {"ch": "愿意", "en": "happy", "pi": "yuànyì"},
+    {"ch": "听到", "en": "to hear", "pi": "tīngdào"},
+    {"ch": "这个", "en": "this", "pi": "zhège"},
+    {"ch": "消息", "en": "news", "pi": "xiāoxi"}
+  ]
+}

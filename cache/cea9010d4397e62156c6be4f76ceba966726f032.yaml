@@ -1,0 +1,32 @@
+{
+  "chinese": "听说他父亲去了外国。",
+  "english": "I heard that his father went abroad.",
+  "pinyin": "tīng shuō tā fù qīn qù le wài guó.",
+  "words": [
+    {
+      "ch": "听说",
+      "en": "I heard",
+      "pi": "tīng shuō"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "父亲",
+      "en": "father",
+      "pi": "fù qīn"
+    },
+    {
+      "ch": "去了",
+      "en": "went",
+      "pi": "qù le"
+    },
+    {
+      "ch": "外国",
+      "en": "abroad",
+      "pi": "wài guó"
+    }
+  ]
+}

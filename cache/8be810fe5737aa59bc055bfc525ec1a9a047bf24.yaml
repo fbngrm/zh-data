@@ -1,0 +1,32 @@
+{
+  "chinese": "她在一棵树下坐着。",
+  "english": "She is sitting under a tree.",
+  "pinyin": "tā zài yī kē shù xià zuòzhe。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "一棵",
+      "en": "a",
+      "pi": "yī kē"
+    },
+    {
+      "ch": "树下",
+      "en": "tree",
+      "pi": "shù xià"
+    },
+    {
+      "ch": "坐着",
+      "en": "sitting",
+      "pi": "zuòzhe"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chinese": "我還沒有機會看那部電影。",
+  "english": "I haven't had the chance to watch that movie yet.",
+  "pinyin": "Wǒ hái méiyǒu jīhuì kàn nà bù diànyǐng.",
+  "words": [
+    {"ch":"我", "en":"I", "pi":"wǒ"},
+    {"ch":"還", "en":"still/yet", "pi":"hái"},
+    {"ch":"沒有", "en":"haven't", "pi":"méiyǒu"},
+    {"ch":"機會", "en":"chance/opportunity", "pi":"jīhuì"},
+    {"ch":"看", "en":"to watch", "pi":"kàn"},
+    {"ch":"那", "en":"that", "pi":"nà"},
+    {"ch":"部", "en":"measure word for movies", "pi":"bù"},
+    {"ch":"電影", "en":"movie", "pi":"diànyǐng"}
+  ]
+}

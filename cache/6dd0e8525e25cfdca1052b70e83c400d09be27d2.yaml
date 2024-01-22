@@ -1,0 +1,32 @@
+{
+  "chinese": "我在谈我的朋友。",
+  "english": "I am talking about my friend.",
+  "pinyin": "wǒ zài tán wǒ de péngyǒu.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "am",
+      "pi": "zài"
+    },
+    {
+      "ch": "谈",
+      "en": "talking",
+      "pi": "tán"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "朋友",
+      "en": "friend",
+      "pi": "péngyǒu"
+    }
+  ]
+}

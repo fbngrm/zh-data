@@ -1,0 +1,13 @@
+{
+  "chinese": "只要給我你的姓名和住址。",
+  "english": "Just give me your name and address.",
+  "pinyin": "zhǐ yào gěi wǒ nǐ de xìngmíng hé zhùzhǐ.",
+  "words": [
+    {"ch": "只要", "en": "just", "pi": "zhǐ yào"},
+    {"ch": "給我", "en": "give me", "pi": "gěi wǒ"},
+    {"ch": "你的", "en": "your", "pi": "nǐ de"},
+    {"ch": "姓名", "en": "name", "pi": "xìngmíng"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "住址", "en": "address", "pi": "zhùzhǐ"}
+  ]
+}

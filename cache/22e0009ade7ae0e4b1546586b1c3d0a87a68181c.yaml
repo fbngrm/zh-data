@@ -1,0 +1,47 @@
+{
+  "chinese": "汤姆叫玛丽买一份礼物给约翰。",
+  "english": "Tom asked Mary to buy a gift for John.",
+  "pinyin": "tāng mǔ jiào mǎ lì mǎi yī fèn lǐ wù gěi yuē hàn.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "叫",
+      "en": "asked",
+      "pi": "jiào"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "买",
+      "en": "to buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "一份",
+      "en": "a",
+      "pi": "yī fèn"
+    },
+    {
+      "ch": "礼物",
+      "en": "gift",
+      "pi": "lǐ wù"
+    },
+    {
+      "ch": "给",
+      "en": "for",
+      "pi": "gěi"
+    },
+    {
+      "ch": "约翰",
+      "en": "John",
+      "pi": "yuē hàn"
+    }
+  ]
+}

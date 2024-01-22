@@ -1,0 +1,15 @@
+{
+  "chinese": "我是用法文写这封信的。",
+  "english": "I wrote this letter in French.",
+  "pinyin": "wǒ shì yòng fǎ wén xiě zhè fēng xìn de.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "是", "en": "am", "pi": "shì"},
+    {"ch": "用", "en": "use", "pi": "yòng"},
+    {"ch": "法文", "en": "French", "pi": "fǎ wén"},
+    {"ch": "写", "en": "write", "pi": "xiě"},
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "封信", "en": "letter", "pi": "fēng xìn"},
+    {"ch": "的", "en": "in", "pi": "de"}
+  ]
+}

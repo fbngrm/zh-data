@@ -1,0 +1,41 @@
+{
+  "sentences": [
+    {
+      "chinese": "我将缓慢的数到三，Ｍａｒｙ，然后你就要起来了。",
+      "english": "I will count slowly to three, Mary, and then you should get up.",
+      "pinyin": "wǒ jiāng huǎnmàn de shǔ dào sān, Mālǐ, ránhòu nǐ jiù yào qǐlái le。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "将", "en": "will", "pi": "jiāng"},
+        {"ch": "缓慢", "en": "slowly", "pi": "huǎnmàn"},
+        {"ch": "的", "en": "to", "pi": "de"},
+        {"ch": "数", "en": "count", "pi": "shǔ"},
+        {"ch": "到", "en": "to", "pi": "dào"},
+        {"ch": "三", "en": "three", "pi": "sān"},
+        {"ch": "，", "en": ",", "pi": "，"},
+        {"ch": "Ｍａｒｙ", "en": "Mary", "pi": "Mālǐ"},
+        {"ch": "，", "en": ",", "pi": "，"},
+        {"ch": "然后", "en": "and then", "pi": "ránhòu"},
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "就要", "en": "should", "pi": "jiù yào"},
+        {"ch": "起来", "en": "get up", "pi": "qǐlái"},
+        {"ch": "了", "en": "", "pi": "le"},
+        {"ch": "。", "en": ".", "pi": "。"}
+      ]
+    },
+    {
+      "chinese": "我已经起来了，ＭｉｓｔｅｒＫａｎｔ。",
+      "english": "I am already up, Mister Kant.",
+      "pinyin": "wǒ yǐjīng qǐlái le, Místèr Kǎnt。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "已经", "en": "already", "pi": "yǐjīng"},
+        {"ch": "起来", "en": "up", "pi": "qǐlái"},
+        {"ch": "了", "en": "", "pi": "le"},
+        {"ch": "，", "en": ",", "pi": "，"},
+        {"ch": "ＭｉｓｔｅｒＫａｎｔ", "en": "Mister Kant", "pi": "Místèr Kǎnt"},
+        {"ch": "。", "en": ".", "pi": "。"}
+      ]
+    }
+  ]
+}

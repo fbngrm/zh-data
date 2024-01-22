@@ -1,0 +1,15 @@
+{
+  "chinese": "要就要，不要就拉倒。",
+  "english": "Either take it or leave it.",
+  "pinyin": "yào jiù yào, bù yào jiù lā dǎo.",
+  "words": [
+    {"ch": "要", "en": "take", "pi": "yào"},
+    {"ch": "就", "en": "either", "pi": "jiù"},
+    {"ch": "要", "en": "take", "pi": "yào"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "不要", "en": "leave it", "pi": "bù yào"},
+    {"ch": "就", "en": "either", "pi": "jiù"},
+    {"ch": "拉倒", "en": "take it or leave it", "pi": "lā dǎo"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

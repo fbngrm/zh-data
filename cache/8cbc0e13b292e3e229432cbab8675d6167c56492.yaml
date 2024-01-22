@@ -1,0 +1,37 @@
+{
+  "chinese": "天气预报一点也不可靠。",
+  "english": "The weather forecast is not reliable at all.",
+  "pinyin": "tiān qì yù bào yī diǎn yě bù kě kào。",
+  "words": [
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiān qì"
+    },
+    {
+      "ch": "预报",
+      "en": "forecast",
+      "pi": "yù bào"
+    },
+    {
+      "ch": "一点",
+      "en": "a little",
+      "pi": "yī diǎn"
+    },
+    {
+      "ch": "也",
+      "en": "also",
+      "pi": "yě"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "可靠",
+      "en": "reliable",
+      "pi": "kě kào"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆从没见过玛丽这么忙。",
+  "english": "Tom has never seen Mary so busy.",
+  "pinyin": "tāng mǔ cóng méi jiàn guò mǎ lì zhè me máng。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "从没",
+      "en": "never",
+      "pi": "cóng méi"
+    },
+    {
+      "ch": "见过",
+      "en": "seen",
+      "pi": "jiàn guò"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "这么",
+      "en": "so",
+      "pi": "zhè me"
+    },
+    {
+      "ch": "忙",
+      "en": "busy",
+      "pi": "máng"
+    }
+  ]
+}

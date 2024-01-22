@@ -1,0 +1,37 @@
+{
+  "chinese": "我家有四个人。",
+  "english": "There are four people in my family.",
+  "pinyin": "wǒ jiā yǒu sì gè rén.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "家",
+      "en": "family",
+      "pi": "jiā"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "四",
+      "en": "four",
+      "pi": "sì"
+    },
+    {
+      "ch": "个",
+      "en": "individual",
+      "pi": "gè"
+    },
+    {
+      "ch": "人",
+      "en": "person",
+      "pi": "rén"
+    }
+  ]
+}

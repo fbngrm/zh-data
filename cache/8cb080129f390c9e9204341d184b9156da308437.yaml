@@ -1,0 +1,37 @@
+{
+  "chinese": "这件蓝色毛衣很漂亮。",
+  "english": "This blue sweater is very beautiful.",
+  "pinyin": "zhè jiàn lán sè máo yī hěn piào liàng",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "件",
+      "en": "piece",
+      "pi": "jiàn"
+    },
+    {
+      "ch": "蓝色",
+      "en": "blue",
+      "pi": "lán sè"
+    },
+    {
+      "ch": "毛衣",
+      "en": "sweater",
+      "pi": "máo yī"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "漂亮",
+      "en": "beautiful",
+      "pi": "piào liàng"
+    }
+  ]
+}

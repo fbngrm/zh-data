@@ -1,0 +1,37 @@
+{
+  "chinese": "我敲门，但是没有人回应。",
+  "english": "I knocked on the door, but no one answered.",
+  "pinyin": "wǒ qiāo mén, dànshì méiyǒu rén huíyìng。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "敲门",
+      "en": "knocked on the door",
+      "pi": "qiāo mén"
+    },
+    {
+      "ch": "但是",
+      "en": "but",
+      "pi": "dànshì"
+    },
+    {
+      "ch": "没有",
+      "en": "no",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "人",
+      "en": "one",
+      "pi": "rén"
+    },
+    {
+      "ch": "回应",
+      "en": "answered",
+      "pi": "huíyìng"
+    }
+  ]
+}

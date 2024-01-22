@@ -1,0 +1,42 @@
+{
+  "chinese": "麦格和肯都是我的朋友。",
+  "english": "Maggie and Ken are both my friends.",
+  "pinyin": "Mài gé hé kěn dōu shì wǒ de péngyǒu.",
+  "words": [
+    {
+      "ch": "麦格",
+      "en": "Maggie",
+      "pi": "Mài gé"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "肯",
+      "en": "Ken",
+      "pi": "kěn"
+    },
+    {
+      "ch": "都",
+      "en": "both",
+      "pi": "dōu"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "朋友",
+      "en": "friends",
+      "pi": "péngyǒu"
+    }
+  ]
+}

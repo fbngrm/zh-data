@@ -1,0 +1,32 @@
+{
+  "chinese": "晚上要出去玩吗？",
+  "english": "Do you want to go out and play tonight?",
+  "pinyin": "wǎn shàng yào chū qù wán ma?",
+  "words": [
+    {
+      "ch": "晚上",
+      "en": "night",
+      "pi": "wǎn shàng"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "出去",
+      "en": "go out",
+      "pi": "chū qù"
+    },
+    {
+      "ch": "玩",
+      "en": "play",
+      "pi": "wán"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

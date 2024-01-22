@@ -1,0 +1,32 @@
+{
+  "chinese": "火星上也有猫。",
+  "english": "There are cats on Mars.",
+  "pinyin": "huǒxīng shàng yě yǒu māo.",
+  "words": [
+    {
+      "ch": "火星",
+      "en": "Mars",
+      "pi": "huǒxīng"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "也",
+      "en": "also",
+      "pi": "yě"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    }
+  ]
+}

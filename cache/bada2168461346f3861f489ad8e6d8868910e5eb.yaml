@@ -1,0 +1,13 @@
+{
+  "chinese": "我登上去伦敦的火车。",
+  "english": "I boarded the train to London.",
+  "pinyin": "wǒ dēng shàng qù lún dūn de huǒ chē。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "登上", "en": "boarded", "pi": "dēng shàng"},
+    {"ch": "去", "en": "to", "pi": "qù"},
+    {"ch": "伦敦", "en": "London", "pi": "lún dūn"},
+    {"ch": "的", "en": "the", "pi": "de"},
+    {"ch": "火车", "en": "train", "pi": "huǒ chē"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "这件事让他丢了工作。",
+  "english": "This incident caused him to lose his job.",
+  "pinyin": "zhè jiàn shì ràng tā diū le gōng zuò.",
+  "words": [
+    {
+      "ch": "这件事",
+      "en": "This incident",
+      "pi": "zhè jiàn shì"
+    },
+    {
+      "ch": "让",
+      "en": "caused",
+      "pi": "ràng"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    },
+    {
+      "ch": "丢了",
+      "en": "to lose",
+      "pi": "diū le"
+    },
+    {
+      "ch": "工作",
+      "en": "job",
+      "pi": "gōng zuò"
+    }
+  ]
+}

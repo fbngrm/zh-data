@@ -1,0 +1,32 @@
+{
+  "chinese": "我父亲在工厂工作。",
+  "english": "My father works in a factory.",
+  "pinyin": "Wǒ fùqīn zài gōngchǎng gōngzuò.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "父亲",
+      "en": "father",
+      "pi": "fùqīn"
+    },
+    {
+      "ch": "在",
+      "en": "at/in",
+      "pi": "zài"
+    },
+    {
+      "ch": "工厂",
+      "en": "factory",
+      "pi": "gōngchǎng"
+    },
+    {
+      "ch": "工作",
+      "en": "work",
+      "pi": "gōngzuò"
+    }
+  ]
+}

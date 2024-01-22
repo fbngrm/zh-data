@@ -1,0 +1,27 @@
+{
+  "chinese": "这是汉语书。",
+  "english": "This is a Chinese book.",
+  "pinyin": "zhè shì hànyǔ shū。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "汉语",
+      "en": "Chinese",
+      "pi": "hànyǔ"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "他的生日是八月二十一日。",
+  "english": "His birthday is August 21st.",
+  "pinyin": "Tā de shēngrì shì bā yuè èrshí yī rì。",
+  "words": [
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "生日",
+      "en": "birthday",
+      "pi": "shēngrì"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "八月",
+      "en": "August",
+      "pi": "bā yuè"
+    },
+    {
+      "ch": "二十一日",
+      "en": "21st",
+      "pi": "èrshí yī rì"
+    }
+  ]
+}

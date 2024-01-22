@@ -1,0 +1,23 @@
+{
+  "chinese": "他六岁的时候学会了用打字机，便和老师说他不用学握笔写字了。",
+  "english": "At the age of six, he learned to use a typewriter and told his teacher that he didn't need to learn how to write with a pen.",
+  "pinyin": "tā liù suì de shí hòu xué huì le yòng dǎ zì jī, biàn hé lǎo shī shuō tā bù yòng xué wò bǐ xiě zì le。",
+  "words": [
+    { "ch": "他", "en": "he", "pi": "tā" },
+    { "ch": "六岁", "en": "six years old", "pi": "liù suì" },
+    { "ch": "的时候", "en": "when", "pi": "de shí hòu" },
+    { "ch": "学会了", "en": "learned", "pi": "xué huì le" },
+    { "ch": "用", "en": "to use", "pi": "yòng" },
+    { "ch": "打字机", "en": "typewriter", "pi": "dǎ zì jī" },
+    { "ch": "便", "en": "then", "pi": "biàn" },
+    { "ch": "和", "en": "and", "pi": "hé" },
+    { "ch": "老师", "en": "teacher", "pi": "lǎo shī" },
+    { "ch": "说", "en": "told", "pi": "shuō" },
+    { "ch": "他", "en": "he", "pi": "tā" },
+    { "ch": "不用", "en": "don't need to", "pi": "bù yòng" },
+    { "ch": "学", "en": "learn", "pi": "xué" },
+    { "ch": "握", "en": "hold", "pi": "wò" },
+    { "ch": "笔写字", "en": "write with a pen", "pi": "bǐ xiě zì" },
+    { "ch": "了", "en": "an auxiliary word", "pi": "le" }
+  ]
+}

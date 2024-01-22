@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆想学唱法语歌。",
+  "english": "Tom wants to learn how to sing French songs.",
+  "pinyin": "tāng mǔ xiǎng xué chàng fǎ yǔ gē。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "想",
+      "en": "wants",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "学",
+      "en": "to learn",
+      "pi": "xué"
+    },
+    {
+      "ch": "唱",
+      "en": "to sing",
+      "pi": "chàng"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎ yǔ"
+    },
+    {
+      "ch": "歌",
+      "en": "song",
+      "pi": "gē"
+    }
+  ]
+}

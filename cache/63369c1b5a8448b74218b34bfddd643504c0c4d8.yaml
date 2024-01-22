@@ -1,0 +1,38 @@
+{
+  "sentences": [
+    {
+      "chinese": "几点了?",
+      "english": "What time is it?",
+      "pinyin": "jǐ diǎn le?",
+      "words": [
+        {
+          "ch": "几点",
+          "en": "What time",
+          "pi": "jǐ diǎn"
+        },
+        {
+          "ch": "了",
+          "en": "is",
+          "pi": "le"
+        }
+      ]
+    },
+    {
+      "chinese": "10点半了。",
+      "english": "It's ten thirty.",
+      "pinyin": "shí diǎn bàn le。",
+      "words": [
+        {
+          "ch": "10点半",
+          "en": "ten thirty",
+          "pi": "shí diǎn bàn"
+        },
+        {
+          "ch": "了",
+          "en": "is",
+          "pi": "le"
+        }
+      ]
+    }
+  ]
+}

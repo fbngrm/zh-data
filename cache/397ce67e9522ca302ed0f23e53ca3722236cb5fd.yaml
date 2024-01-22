@@ -1,0 +1,25 @@
+{
+  "chinese": "根据２０１６年发表的一项研究，德国是世界上最好的国家，加拿大是第二好的国家。",
+  "english": "According to a study published in 2016, Germany is the best country in the world, and Canada is the second-best country.",
+  "pinyin": "gēn jù ２０１６ nián fā biǎo de yī xiàng yán jiū ，dé guó shì shì jiè shàng zuì hǎo de guó jiā ，jiā ná dà shì dì èr hǎo de guó jiā 。",
+  "words": [
+    {"ch": "根据", "en": "According to", "pi": "gēn jù"},
+    {"ch": "２０１６年", "en": "in 2016", "pi": "２０１６ nián"},
+    {"ch": "发表", "en": "published", "pi": "fā biǎo"},
+    {"ch": "的", "en": "in", "pi": "de"},
+    {"ch": "一项", "en": "a", "pi": "yī xiàng"},
+    {"ch": "研究", "en": "study", "pi": "yán jiū"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "德国", "en": "Germany", "pi": "dé guó"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "世界上", "en": "the world", "pi": "shì jiè shàng"},
+    {"ch": "最好的", "en": "best", "pi": "zuì hǎo de"},
+    {"ch": "国家", "en": "country", "pi": "guó jiā"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "加拿大", "en": "Canada", "pi": "jiā ná dà"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "第二好的", "en": "second-best", "pi": "dì èr hǎo de"},
+    {"ch": "国家", "en": "country", "pi": "guó jiā"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

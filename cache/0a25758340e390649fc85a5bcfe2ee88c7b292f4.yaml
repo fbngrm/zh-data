@@ -1,0 +1,13 @@
+{
+  "chinese": "你跟人约会过吗？",
+  "english": "Have you ever had a date with someone?",
+  "pinyin": "Nǐ gēn rén yuēhuì guò ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "跟", "en": "with", "pi": "gēn"},
+    {"ch": "人", "en": "someone", "pi": "rén"},
+    {"ch": "约会", "en": "date", "pi": "yuēhuì"},
+    {"ch": "过", "en": "ever", "pi": "guò"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

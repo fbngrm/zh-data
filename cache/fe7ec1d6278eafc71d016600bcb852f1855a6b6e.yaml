@@ -1,0 +1,37 @@
+{
+  "chinese": "理发师为他理了头发。",
+  "english": "The barber cut his hair for him.",
+  "pinyin": "lǐ fà shī wèi tā lǐ le tóu fǎ.",
+  "words": [
+    {
+      "ch": "理发师",
+      "en": "barber",
+      "pi": "lǐ fà shī"
+    },
+    {
+      "ch": "为",
+      "en": "for",
+      "pi": "wèi"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    },
+    {
+      "ch": "理",
+      "en": "cut",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "了",
+      "en": "indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "头发",
+      "en": "hair",
+      "pi": "tóu fǎ"
+    }
+  ]
+}

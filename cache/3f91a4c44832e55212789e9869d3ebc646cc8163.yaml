@@ -1,0 +1,37 @@
+{
+  "chinese": "你的袜子上有个大洞。",
+  "english": "There's a big hole in your sock.",
+  "pinyin": "Nǐ de wàzi shàng yǒu gè dà dòng.",
+  "words": [
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "袜子",
+      "en": "sock",
+      "pi": "wàzi"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "大洞",
+      "en": "big hole",
+      "pi": "dà dòng"
+    }
+  ]
+}

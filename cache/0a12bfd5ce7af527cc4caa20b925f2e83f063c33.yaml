@@ -1,0 +1,15 @@
+{
+  "chinese": "她为他做了件新大衣。",
+  "english": "She made a new coat for him.",
+  "pinyin": "tā wèi tā zuò le jiàn xīn dàyī。",
+  "words": [
+    {"ch": "她", "en": "She", "pi": "tā"},
+    {"ch": "为", "en": "for", "pi": "wèi"},
+    {"ch": "他", "en": "him", "pi": "tā"},
+    {"ch": "做", "en": "made", "pi": "zuò"},
+    {"ch": "了", "en": "a", "pi": "le"},
+    {"ch": "件", "en": "new", "pi": "jiàn"},
+    {"ch": "新", "en": "coat", "pi": "xīn"},
+    {"ch": "大衣", "en": "for", "pi": "dàyī"}
+  ]
+}

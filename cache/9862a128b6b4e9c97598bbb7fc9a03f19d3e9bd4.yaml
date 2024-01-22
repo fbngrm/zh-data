@@ -1,0 +1,27 @@
+{
+  "chinese": "请问，怎么买地铁票？",
+  "english": "Excuse me, how do I buy a metro ticket?",
+  "pinyin": "qǐng wèn, zěn me mǎi dìtiě piào?",
+  "words": [
+    {
+      "ch": "请问",
+      "en": "Excuse me",
+      "pi": "qǐng wèn"
+    },
+    {
+      "ch": "怎么",
+      "en": "how",
+      "pi": "zěn me"
+    },
+    {
+      "ch": "买",
+      "en": "buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "地铁票",
+      "en": "metro ticket",
+      "pi": "dìtiě piào"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "chinese": "我平时每天可能练习一个小时汉字。",
+  "english": "I usually practice Chinese characters for an hour every day.",
+  "pinyin": "wǒ píngshí měitiān kěnéng liànxí yīgè xiǎoshí hànzì。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "平时",
+      "en": "usually",
+      "pi": "píngshí"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měitiān"
+    },
+    {
+      "ch": "可能",
+      "en": "possible",
+      "pi": "kěnéng"
+    },
+    {
+      "ch": "练习",
+      "en": "practice",
+      "pi": "liànxí"
+    },
+    {
+      "ch": "一个",
+      "en": "one",
+      "pi": "yīgè"
+    },
+    {
+      "ch": "小时",
+      "en": "hour",
+      "pi": "xiǎoshí"
+    },
+    {
+      "ch": "汉字",
+      "en": "Chinese characters",
+      "pi": "hànzì"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "chinese": "目前，我正在这所语言学校学习法语。",
+  "english": "Currently, I am studying French at this language school.",
+  "pinyin": "Mùqián, wǒ zhèngzài zhè suǒ yǔyán xuéxiào xuéxí fǎyǔ。",
+  "words": [
+    {
+      "ch": "目前",
+      "en": "Currently",
+      "pi": "mùqián"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "正在",
+      "en": "am",
+      "pi": "zhèngzài"
+    },
+    {
+      "ch": "这",
+      "en": "at",
+      "pi": "zhè"
+    },
+    {
+      "ch": "所",
+      "en": "this",
+      "pi": "suǒ"
+    },
+    {
+      "ch": "语言学校",
+      "en": "language school",
+      "pi": "yǔyán xuéxiào"
+    },
+    {
+      "ch": "学习",
+      "en": "studying",
+      "pi": "xuéxí"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎyǔ"
+    }
+  ]
+}

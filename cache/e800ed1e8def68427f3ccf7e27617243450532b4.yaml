@@ -1,0 +1,37 @@
+{
+  "chinese": "这狗屋是汤姆建的。",
+  "english": "This dog house was built by Tom.",
+  "pinyin": "zhè gǒu wū shì tāng mǔ jiàn de.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "狗屋",
+      "en": "dog house",
+      "pi": "gǒu wū"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "建",
+      "en": "built",
+      "pi": "jiàn"
+    },
+    {
+      "ch": "的",
+      "en": "by",
+      "pi": "de"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "那不是杰克的错。",
+  "english": "That's not Jack's fault.",
+  "pinyin": "nà bùshì jiékè de cuò。",
+  "words": [
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "不是",
+      "en": "not",
+      "pi": "bùshì"
+    },
+    {
+      "ch": "杰克",
+      "en": "Jack",
+      "pi": "jiékè"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "错",
+      "en": "fault",
+      "pi": "cuò"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "明天是星期六吗？",
+  "english": "Is tomorrow Saturday?",
+  "pinyin": "míng tiān shì xīng qī liù ma?",
+  "words": [
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "星期六",
+      "en": "Saturday",
+      "pi": "xīng qī liù"
+    },
+    {
+      "ch": "吗",
+      "en": "right?",
+      "pi": "ma"
+    }
+  ]
+}

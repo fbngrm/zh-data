@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆说他需要钱。",
+  "english": "Tom said he needs money.",
+  "pinyin": "Tāng mǔ shuō tā xū yào qián.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "说",
+      "en": "said",
+      "pi": "shuō"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "需要",
+      "en": "needs",
+      "pi": "xū yào"
+    },
+    {
+      "ch": "钱",
+      "en": "money",
+      "pi": "qián"
+    }
+  ]
+}

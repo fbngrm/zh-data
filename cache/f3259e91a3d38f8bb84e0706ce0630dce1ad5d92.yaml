@@ -1,0 +1,32 @@
+{
+   "chinese": "我一点法语都不懂。",
+   "english": "I don't understand any French.",
+   "pinyin": "wǒ yī diǎn fǎ yǔ dōu bù dǒng。",
+   "words": [
+      {
+         "ch": "我",
+         "en": "I",
+         "pi": "wǒ"
+      },
+      {
+         "ch": "一点",
+         "en": "a little",
+         "pi": "yī diǎn"
+      },
+      {
+         "ch": "法语",
+         "en": "French",
+         "pi": "fǎ yǔ"
+      },
+      {
+         "ch": "都",
+         "en": "all",
+         "pi": "dōu"
+      },
+      {
+         "ch": "不懂",
+         "en": "don't understand",
+         "pi": "bù dǒng"
+      }
+   ]
+}

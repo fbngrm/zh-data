@@ -1,0 +1,10 @@
+{
+  "chinese": "汤姆不是好人。",
+  "english": "Tom is not a good person.",
+  "pinyin": "Tāng mǔ bù shì hǎo rén.",
+  "words": [
+    { "ch":"汤姆", "en":"Tom", "pi":"Tāng mǔ" },
+    { "ch":"不是", "en":"is not", "pi":"bù shì" },
+    { "ch":"好人", "en":"good person", "pi":"hǎo rén" }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "湯姆的叔叔養了很多羊。",
+  "english": "Tom's uncle raises a lot of sheep.",
+  "pinyin": "Tāng mǔ de shūshu yǎngle hěnduō yáng.",
+  "words": [
+    {
+      "ch": "湯姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle of",
+      "pi": "de"
+    },
+    {
+      "ch": "叔叔",
+      "en": "uncle",
+      "pi": "shūshu"
+    },
+    {
+      "ch": "養",
+      "en": "raise",
+      "pi": "yǎng"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "很多",
+      "en": "a lot of",
+      "pi": "hěnduō"
+    },
+    {
+      "ch": "羊",
+      "en": "sheep",
+      "pi": "yáng"
+    }
+  ]
+}

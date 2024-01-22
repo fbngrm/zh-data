@@ -1,0 +1,16 @@
+{
+  "chinese": "每个人都很欣赏他所画的图画。",
+  "english": "Everyone appreciates the pictures he draws.",
+  "pinyin": "měi gè rén dōu hěn xīn shǎng tā suǒ huà de tú huà。",
+  "words": [
+    {"ch": "每个人", "en": "Everyone", "pi": "měi gè rén"},
+    {"ch": "都", "en": "all", "pi": "dōu"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "欣赏", "en": "appreciate", "pi": "xīn shǎng"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "所", "en": "the ones", "pi": "suǒ"},
+    {"ch": "画", "en": "draws", "pi": "huà"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "图画", "en": "pictures", "pi": "tú huà"}
+  ]
+}

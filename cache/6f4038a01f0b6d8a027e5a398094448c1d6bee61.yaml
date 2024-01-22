@@ -1,0 +1,32 @@
+{
+  "chinese": "请在车站等我。",
+  "english": "Please wait for me at the station.",
+  "pinyin": "qǐng zài chē zhàn děng wǒ。",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "车站",
+      "en": "station",
+      "pi": "chē zhàn"
+    },
+    {
+      "ch": "等",
+      "en": "wait",
+      "pi": "děng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    }
+  ]
+}

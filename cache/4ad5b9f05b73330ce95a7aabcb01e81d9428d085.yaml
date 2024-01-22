@@ -1,0 +1,47 @@
+{
+  "chinese": "我买了一盏古老的灯。",
+  "english": "I bought an ancient lamp.",
+  "pinyin": "wǒ mǎi le yī zhǎn gǔ lǎo de dēng。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "买",
+      "en": "buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "了",
+      "en": "past tense marker",
+      "pi": "le"
+    },
+    {
+      "ch": "一",
+      "en": "one",
+      "pi": "yī"
+    },
+    {
+      "ch": "盏",
+      "en": "the measure word for lamp",
+      "pi": "zhǎn"
+    },
+    {
+      "ch": "古老",
+      "en": "ancient",
+      "pi": "gǔ lǎo"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "灯",
+      "en": "lamp",
+      "pi": "dēng"
+    }
+  ]
+}

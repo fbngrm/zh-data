@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆告诉我他想当医生。",
+  "english": "Tom told me he wants to become a doctor.",
+  "pinyin": "Tāng mǔ gàosù wǒ tā xiǎng dāng yīshēng.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "告诉",
+      "en": "told",
+      "pi": "gàosù"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "想",
+      "en": "wants",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "当",
+      "en": "to become",
+      "pi": "dāng"
+    },
+    {
+      "ch": "医生",
+      "en": "doctor",
+      "pi": "yīshēng"
+    }
+  ]
+}

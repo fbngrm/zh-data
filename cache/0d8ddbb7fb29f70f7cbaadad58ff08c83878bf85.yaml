@@ -1,0 +1,33 @@
+当然，我可以再解释一遍。
+
+输入：
+{
+  "sentences": [
+    {
+      "chinese": "抱歉，你能再说一遍吗？",
+      "english": "Sorry, can you say it again?",
+      "pinyin": ""
+    }
+  ]
+}
+
+输出：
+{
+  "sentences": [
+    {
+      "chinese": "抱歉，你能再说一遍吗？",
+      "english": "Sorry, can you say it again?",
+      "pinyin": "bào qiàn ， nǐ néng zài shuō yī biàn ma ？",
+      "words": [
+        {"ch": "抱歉", "en": "Sorry", "pi": "bào qiàn"},
+        {"ch": "，", "en": ",", "pi": "，"},
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "能", "en": "can", "pi": "néng"},
+        {"ch": "再说", "en": "say again", "pi": "zài shuō"},
+        {"ch": "一遍", "en": "it again", "pi": "yī biàn"},
+        {"ch": "吗", "en": "question particle", "pi": "ma"},
+        {"ch": "？", "en": "?", "pi": "？"}
+      ]
+    }
+  ]
+}

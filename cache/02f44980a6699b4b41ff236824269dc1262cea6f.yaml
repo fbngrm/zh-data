@@ -1,0 +1,47 @@
+{
+  "chinese": "你今天将在哪里吃午餐?",
+  "english": "Where will you have lunch today?",
+  "pinyin": "nǐ jīntiān jiāng zài nǎlǐ chī wǔcān?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "将",
+      "en": "will",
+      "pi": "jiāng"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪里",
+      "en": "where",
+      "pi": "nǎlǐ"
+    },
+    {
+      "ch": "吃",
+      "en": "have",
+      "pi": "chī"
+    },
+    {
+      "ch": "午餐",
+      "en": "lunch",
+      "pi": "wǔcān"
+    },
+    {
+      "ch": "?",
+      "en": "?",
+      "pi": "?"
+    }
+  ]
+}

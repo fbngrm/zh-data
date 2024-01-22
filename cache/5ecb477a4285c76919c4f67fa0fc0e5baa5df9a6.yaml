@@ -1,0 +1,42 @@
+{
+  "chinese": "你能举起这块石头吗？",
+  "english": "Can you lift this stone?",
+  "pinyin": "nǐ néng jǔ qǐ zhè kuài shí tou ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "举起",
+      "en": "lift",
+      "pi": "jǔ qǐ"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "块",
+      "en": "piece",
+      "pi": "kuài"
+    },
+    {
+      "ch": "石头",
+      "en": "stone",
+      "pi": "shí tou"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

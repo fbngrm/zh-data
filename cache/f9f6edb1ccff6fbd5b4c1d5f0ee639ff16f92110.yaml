@@ -1,0 +1,32 @@
+{
+   "chinese": "他教了我游泳。",
+   "english": "He taught me how to swim.",
+   "pinyin": "Tā jiāo le wǒ yóuyǒng.",
+   "words": [
+      {
+         "ch": "他",
+         "en": "He",
+         "pi": "Tā"
+      },
+      {
+         "ch": "教",
+         "en": "taught",
+         "pi": "jiāo"
+      },
+      {
+         "ch": "了",
+         "en": "me",
+         "pi": "le"
+      },
+      {
+         "ch": "我",
+         "en": "how",
+         "pi": "wǒ"
+      },
+      {
+         "ch": "游泳",
+         "en": "to swim",
+         "pi": "yóuyǒng"
+      }
+   ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "格雷先生不喜欢他的工作。",
+  "english": "Mr. Gray doesn't like his job.",
+  "pinyin": "Géléi xiānshēng bù xǐhuān tā de gōngzuò.",
+  "words": [
+    {
+      "ch": "格雷",
+      "en": "Mr. Gray",
+      "pi": "Géléi"
+    },
+    {
+      "ch": "先生",
+      "en": "Mr.",
+      "pi": "xiānshēng"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "工作",
+      "en": "job",
+      "pi": "gōngzuò"
+    }
+  ]
+}

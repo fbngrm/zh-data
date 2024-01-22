@@ -1,0 +1,14 @@
+{
+  "chinese": "我们可能是最先到那里的。",
+  "english": "We might be the first ones there.",
+  "pinyin": "wǒ men kě néng shì zuì xiān dào nà lǐ de.",
+  "words": [
+    {"ch": "我们", "en": "we", "pi": "wǒ men"},
+    {"ch": "可能", "en": "might", "pi": "kě néng"},
+    {"ch": "是", "en": "be", "pi": "shì"},
+    {"ch": "最先", "en": "first", "pi": "zuì xiān"},
+    {"ch": "到", "en": "there", "pi": "dào"},
+    {"ch": "那里", "en": "ones", "pi": "nà lǐ"},
+    {"ch": "的", "en": "possessive particle", "pi": "de"}
+  ]
+}

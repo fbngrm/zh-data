@@ -1,0 +1,32 @@
+{
+  "chinese": "你每天必须学习五页。",
+  "english": "You must study five pages every day.",
+  "pinyin": "nǐ měi tiān bì xū xué xí wǔ yè。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "必须",
+      "en": "must",
+      "pi": "bì xū"
+    },
+    {
+      "ch": "学习",
+      "en": "study",
+      "pi": "xué xí"
+    },
+    {
+      "ch": "五页",
+      "en": "five pages",
+      "pi": "wǔ yè"
+    }
+  ]
+}

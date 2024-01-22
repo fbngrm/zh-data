@@ -1,0 +1,51 @@
+{
+  "sentences": [
+    {
+      "chinese": "我从没去过纽约，我妹妹也没有。",
+      "english": "I've never been to New York, and neither has my sister.",
+      "pinyin": "Wǒ cóng méi qùguò niǔyuē, wǒ mèimei yě méiyǒu。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "从没",
+          "en": "never",
+          "pi": "cóng méi"
+        },
+        {
+          "ch": "去过",
+          "en": "been to",
+          "pi": "qùguò"
+        },
+        {
+          "ch": "纽约",
+          "en": "New York",
+          "pi": "niǔyuē"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "妹妹",
+          "en": "sister",
+          "pi": "mèimei"
+        },
+        {
+          "ch": "也",
+          "en": "also",
+          "pi": "yě"
+        },
+        {
+          "ch": "没有",
+          "en": "has not",
+          "pi": "méiyǒu"
+        }
+      ]
+    }
+  ]
+}

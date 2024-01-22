@@ -1,0 +1,13 @@
+{
+  "chinese": "我点了青蛙加面条。",
+  "english": "I ordered frog with noodles.",
+  "pinyin": "wǒ diǎn le qīng wā jiā miàn tiáo.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "点", "en": "ordered", "pi": "diǎn"},
+    {"ch": "了", "en": "past tense marker", "pi": "le"},
+    {"ch": "青蛙", "en": "frog", "pi": "qīng wā"},
+    {"ch": "加", "en": "with", "pi": "jiā"},
+    {"ch": "面条", "en": "noodles", "pi": "miàn tiáo"}
+  ]
+}

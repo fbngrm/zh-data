@@ -1,0 +1,32 @@
+{
+  "chinese": "我在想那个问题。",
+  "english": "I'm thinking about that problem.",
+  "pinyin": "wǒ zài xiǎng nà gè wèntí。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "想",
+      "en": "think",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "那个",
+      "en": "that",
+      "pi": "nà gè"
+    },
+    {
+      "ch": "问题",
+      "en": "problem",
+      "pi": "wèntí"
+    }
+  ]
+}

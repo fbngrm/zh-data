@@ -1,0 +1,16 @@
+{
+   "chinese": "麦克以建议的口气说了些话。",
+   "english": "Mike said some words in a suggestive tone.",
+   "pinyin": "Mài kè yǐ jiànyì de kǒu qì shuō le xiē huà.",
+   "words": [
+      {"ch":"麦克", "en":"Mike", "pi":"Mài kè"},
+      {"ch":"以", "en":"with", "pi":"yǐ"},
+      {"ch":"建议", "en":"suggestion", "pi":"jiànyì"},
+      {"ch":"的", "en":"possessive particle", "pi":"de"},
+      {"ch":"口气", "en":"tone", "pi":"kǒu qì"},
+      {"ch":"说", "en":"say", "pi":"shuō"},
+      {"ch":"了", "en":"particle indicating completed action", "pi":"le"},
+      {"ch":"些", "en":"some", "pi":"xiē"},
+      {"ch":"话", "en":"words", "pi":"huà"}
+   ]
+}

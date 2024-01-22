@@ -1,0 +1,32 @@
+{
+  "chinese": "我喜欢茶胜过咖啡。",
+  "english": "I prefer tea over coffee.",
+  "pinyin": "wǒ xǐhuān chá shèngguò kāfēi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "prefer",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "茶",
+      "en": "tea",
+      "pi": "chá"
+    },
+    {
+      "ch": "胜过",
+      "en": "over",
+      "pi": "shèngguò"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kāfēi"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "你明晚有空吗？",
+  "english": "Are you free tomorrow night?",
+  "pinyin": "nǐ míng wǎn yǒu kòng ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "明晚",
+      "en": "tomorrow night",
+      "pi": "míng wǎn"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "空",
+      "en": "free",
+      "pi": "kòng"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

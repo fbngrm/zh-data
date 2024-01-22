@@ -1,0 +1,82 @@
+{
+  "sentences": [
+    {
+      "chinese": "美国，我们已经走过了一条漫漫长路。",
+      "english": "America, we have come a long way.",
+      "pinyin": "Měiguó, wǒmen yǐjīng zǒuguòle yī tiáo mànmàn cháng lù。",
+      "words": [
+        {"ch": "美国", "en": "America", "pi": "Měiguó"},
+        {"ch": "我们", "en": "we", "pi": "wǒmen"},
+        {"ch": "已经", "en": "have", "pi": "yǐjīng"},
+        {"ch": "走过了", "en": "come", "pi": "zǒuguòle"},
+        {"ch": "一条", "en": "a", "pi": "yī tiáo"},
+        {"ch": "漫漫长路", "en": "long way", "pi": "mànmàn cháng lù"}
+      ]
+    },
+    {
+      "chinese": "我们已经历了很多。",
+      "english": "We have experienced a lot.",
+      "pinyin": "Wǒmen yǐjīng lìle hěnduō。",
+      "words": [
+        {"ch": "我们", "en": "we", "pi": "wǒmen"},
+        {"ch": "已经历", "en": "have experienced", "pi": "yǐjīng lì"},
+        {"ch": "了", "en": "a lot", "pi": "le"},
+        {"ch": "很多", "en": "a lot", "pi": "hěnduō"}
+      ]
+    },
+    {
+      "chinese": "但是我们仍有很多事情要做。",
+      "english": "But we still have a lot to do.",
+      "pinyin": "Dànshì wǒmen réng yǒu hěnduō shìqíng yào zuò。",
+      "words": [
+        {"ch": "但是", "en": "But", "pi": "Dànshì"},
+        {"ch": "我们", "en": "we", "pi": "wǒmen"},
+        {"ch": "仍有", "en": "still have", "pi": "réng yǒu"},
+        {"ch": "很多", "en": "a lot", "pi": "hěnduō"},
+        {"ch": "事情", "en": "to do", "pi": "shìqíng"},
+        {"ch": "要做", "en": "a lot", "pi": "yào zuò"}
+      ]
+    },
+    {
+      "chinese": "因此今夜，请让我们自问--如果我们的孩子能够活到下个世纪；如果我的女儿有幸活得和安一样长，她们将会看到怎样的改变？我们将会取得什么样的进步。",
+      "english": "So tonight, let us ask ourselves - if our children can live to see the next century; if my daughter is lucky enough to live as long as An, what kind of changes will they witness? What kind of progress will we make?",
+      "pinyin": "Yīncǐ jīnyè, qǐng ràng wǒmen zìwèn--rúguǒ wǒmen de háizi nénggòu huó dào xià gè shìjì；rúguǒ wǒ de nǚ ér yǒuxìng huó de hé ān yīyàng cháng, tāmen jiāng huì kàn dào zěnyàng de gǎibiàn？wǒmen jiāng huì qǔdé shénmeyàng de jìnbù。",
+      "words": [
+        {"ch": "因此", "en": "So", "pi": "Yīncǐ"},
+        {"ch": "今夜", "en": "tonight", "pi": "jīnyè"},
+        {"ch": "请", "en": "let", "pi": "qǐng"},
+        {"ch": "让", "en": "us", "pi": "ràng"},
+        {"ch": "我们", "en": "ourselves", "pi": "wǒmen"},
+        {"ch": "自问", "en": "ask", "pi": "zìwèn"},
+        {"ch": "如果", "en": "if", "pi": "rúguǒ"},
+        {"ch": "我们的", "en": "our", "pi": "wǒmen de"},
+        {"ch": "孩子", "en": "children", "pi": "háizi"},
+        {"ch": "能够", "en": "can", "pi": "nénggòu"},
+        {"ch": "活到", "en": "live to", "pi": "huó dào"},
+        {"ch": "下个", "en": "next", "pi": "xià gè"},
+        {"ch": "世纪", "en": "century", "pi": "shìjì"},
+        {"ch": "如果", "en": "if", "pi": "rúguǒ"},
+        {"ch": "我的", "en": "my", "pi": "wǒ de"},
+        {"ch": "女儿", "en": "daughter", "pi": "nǚ ér"},
+        {"ch": "有幸", "en": "lucky enough", "pi": "yǒuxìng"},
+        {"ch": "活得", "en": "live", "pi": "huó dé"},
+        {"ch": "和", "en": "as", "pi": "hé"},
+        {"ch": "安", "en": "An", "pi": "ān"},
+        {"ch": "一样", "en": "long", "pi": "yīyàng"},
+        {"ch": "长", "en": "as", "pi": "cháng"},
+        {"ch": "她们", "en": "they", "pi": "tāmen"},
+        {"ch": "将会", "en": "will", "pi": "jiāng huì"},
+        {"ch": "看到", "en": "witness", "pi": "kàn dào"},
+        {"ch": "怎样", "en": "what kind of", "pi": "zěnyàng"},
+        {"ch": "的", "en": "", "pi": "de"},
+        {"ch": "改变", "en": "changes", "pi": "gǎibiàn"},
+        {"ch": "我们", "en": "we", "pi": "wǒmen"},
+        {"ch": "将会", "en": "will", "pi": "jiāng huì"},
+        {"ch": "取得", "en": "make", "pi": "qǔdé"},
+        {"ch": "什么样", "en": "what kind of", "pi": "shénmeyàng"},
+        {"ch": "的", "en": "", "pi": "de"},
+        {"ch": "进步", "en": "progress", "pi": "jìnbù"}
+      ]
+    }
+  ]
+}

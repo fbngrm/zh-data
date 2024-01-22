@@ -1,0 +1,47 @@
+{
+  "chinese": "他给我看了她的照片。",
+  "english": "He showed me her photo.",
+  "pinyin": "tā gěi wǒ kàn le tā de zhào piàn.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "给",
+      "en": "showed",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "看",
+      "en": "look",
+      "pi": "kàn"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "她",
+      "en": "her",
+      "pi": "tā"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "照片",
+      "en": "photo",
+      "pi": "zhào piàn"
+    }
+  ]
+}

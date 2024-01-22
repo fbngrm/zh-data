@@ -1,0 +1,14 @@
+{
+  "chinese": "我们来这里是为了同一个原因。",
+  "english": "We came here for the same reason.",
+  "pinyin": "wǒ men lái zhè lǐ shì wèi le tóng yī gè yuán yīn。",
+  "words": [
+    {"ch": "我们", "en": "we", "pi": "wǒ men"},
+    {"ch": "来", "en": "came", "pi": "lái"},
+    {"ch": "这里", "en": "here", "pi": "zhè lǐ"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "为了", "en": "for", "pi": "wèi le"},
+    {"ch": "同一个", "en": "same", "pi": "tóng yī gè"},
+    {"ch": "原因", "en": "reason", "pi": "yuán yīn"}
+  ]
+}

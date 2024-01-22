@@ -1,0 +1,37 @@
+{
+  "chinese": "他带着雨伞因为下雨了。",
+  "english": "He brought an umbrella because it's raining.",
+  "pinyin": "tā dài zhe yǔ sǎn yīn wèi xià yǔ le.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "带着",
+      "en": "brought",
+      "pi": "dài zhe"
+    },
+    {
+      "ch": "雨伞",
+      "en": "umbrella",
+      "pi": "yǔ sǎn"
+    },
+    {
+      "ch": "因为",
+      "en": "because",
+      "pi": "yīn wèi"
+    },
+    {
+      "ch": "下雨",
+      "en": "raining",
+      "pi": "xià yǔ"
+    },
+    {
+      "ch": "了",
+      "en": "it",
+      "pi": "le"
+    }
+  ]
+}

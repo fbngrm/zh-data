@@ -1,0 +1,13 @@
+{
+  "chinese": "他是哈佛大学的生物学教授。",
+  "english": "He is a biology professor at Harvard University.",
+  "pinyin": "tā shì Hāfó dàxué de shēngwùxué jiàoshòu.",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "哈佛大学", "en": "Harvard University", "pi": "Hāfó dàxué"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "生物学", "en": "biology", "pi": "shēngwùxué"},
+    {"ch": "教授", "en": "professor", "pi": "jiàoshòu"}
+  ]
+}

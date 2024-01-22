@@ -1,0 +1,32 @@
+{
+  "chinese": "你是美国人还是法国人？",
+  "english": "Are you American or French?",
+  "pinyin": "Nǐ shì měiguó rén háishì fǎguó rén?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "美国人",
+      "en": "American",
+      "pi": "měiguó rén"
+    },
+    {
+      "ch": "还是",
+      "en": "or",
+      "pi": "háishì"
+    },
+    {
+      "ch": "法国人",
+      "en": "French",
+      "pi": "fǎguó rén"
+    }
+  ]
+}

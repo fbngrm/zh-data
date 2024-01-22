@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆不知道那是谁。",
+  "english": "Tom doesn't know who that is.",
+  "pinyin": "tāng mǔ bù zhīdào nà shì shuí。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "谁",
+      "en": "who",
+      "pi": "shuí"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "你去哪裡度假了?",
+  "english": "Where did you go on vacation?",
+  "pinyin": "nǐ qù nǎ lǐ dù jià le?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "哪裡",
+      "en": "where",
+      "pi": "nǎ lǐ"
+    },
+    {
+      "ch": "度假",
+      "en": "on vacation",
+      "pi": "dù jià"
+    },
+    {
+      "ch": "了",
+      "en": "did",
+      "pi": "le"
+    }
+  ]
+}

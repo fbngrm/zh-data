@@ -1,0 +1,42 @@
+{
+  "chinese": "昨天我在街上遇见了玛丽。",
+  "english": "Yesterday I met Mary on the street.",
+  "pinyin": "zuó tiān wǒ zài jiē shàng yù jiàn le mǎ lì.",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "街上",
+      "en": "on the street",
+      "pi": "jiē shàng"
+    },
+    {
+      "ch": "遇见",
+      "en": "met",
+      "pi": "yù jiàn"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    }
+  ]
+}

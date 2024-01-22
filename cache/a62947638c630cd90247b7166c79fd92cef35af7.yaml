@@ -1,0 +1,27 @@
+{
+  "chinese": "这是我的电子邮箱。",
+  "english": "This is my email address.",
+  "pinyin": "zhè shì wǒ de diàn zǐ yóu xiāng。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "电子邮箱",
+      "en": "email address",
+      "pi": "diàn zǐ yóu xiāng"
+    }
+  ]
+}

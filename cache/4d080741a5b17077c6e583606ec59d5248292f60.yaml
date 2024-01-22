@@ -1,0 +1,42 @@
+{
+  "chinese": "你今晚要去见简吗？",
+  "english": "Are you going to see Jane tonight?",
+  "pinyin": "Nǐ jīnwǎn yào qù jiàn Jiǎn ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "今晚",
+      "en": "tonight",
+      "pi": "jīnwǎn"
+    },
+    {
+      "ch": "要",
+      "en": "going to",
+      "pi": "yào"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "见",
+      "en": "see",
+      "pi": "jiàn"
+    },
+    {
+      "ch": "简",
+      "en": "Jane",
+      "pi": "Jiǎn"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

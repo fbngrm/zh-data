@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆是个公交车司机。",
+  "english": "Tom is a bus driver.",
+  "pinyin": "Tāng mǔ shì gè gōng jiāo chē sī jī。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "公交车",
+      "en": "bus",
+      "pi": "gōng jiāo chē"
+    },
+    {
+      "ch": "司机",
+      "en": "driver",
+      "pi": "sī jī"
+    }
+  ]
+}

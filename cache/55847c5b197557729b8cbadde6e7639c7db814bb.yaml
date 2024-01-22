@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆有工作吗？",
+  "english": "Does Tom have a job?",
+  "pinyin": "Tāng mǔ yǒu gōngzuò ma?",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "工作",
+      "en": "job",
+      "pi": "gōngzuò"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

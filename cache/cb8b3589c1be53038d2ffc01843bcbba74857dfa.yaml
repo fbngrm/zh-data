@@ -1,0 +1,32 @@
+{
+  "chinese": "对我来说这都是鸟语。",
+  "english": "This is all gibberish to me.",
+  "pinyin": "duì wǒ lái shuō zhè dōu shì niǎo yǔ.",
+  "words": [
+    {
+      "ch": "对我来说",
+      "en": "to me",
+      "pi": "duì wǒ lái shuō"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "鸟语",
+      "en": "gibberish",
+      "pi": "niǎo yǔ"
+    }
+  ]
+}

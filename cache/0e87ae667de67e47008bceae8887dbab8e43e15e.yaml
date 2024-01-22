@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆不知道玛丽住在哪里。",
+  "english": "Tom doesn't know where Mary lives.",
+  "pinyin": "Tāng mǔ bù zhīdào mǎlì zhù zài nǎlǐ.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎlì"
+    },
+    {
+      "ch": "住在",
+      "en": "live",
+      "pi": "zhù zài"
+    },
+    {
+      "ch": "哪里",
+      "en": "where",
+      "pi": "nǎlǐ"
+    }
+  ]
+}

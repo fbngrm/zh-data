@@ -1,0 +1,37 @@
+{
+  "chinese": "发射成功。我们正在离开太阳系。",
+  "english": "Launch successful. We are leaving the solar system.",
+  "pinyin": "fā shè chéng gōng. wǒ men zhèng zài lí kāi tài yáng xì.",
+  "words": [
+    {
+      "ch": "发射",
+      "en": "Launch",
+      "pi": "fā shè"
+    },
+    {
+      "ch": "成功",
+      "en": "Successful",
+      "pi": "chéng gōng"
+    },
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "正在",
+      "en": "Are",
+      "pi": "zhèng zài"
+    },
+    {
+      "ch": "离开",
+      "en": "Leaving",
+      "pi": "lí kāi"
+    },
+    {
+      "ch": "太阳系",
+      "en": "Solar system",
+      "pi": "tài yáng xì"
+    }
+  ]
+}

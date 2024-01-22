@@ -1,0 +1,27 @@
+{
+  "chinese": "他的手机关机了。",
+  "english": "His phone is turned off.",
+  "pinyin": "Tā de shǒujī guānjī le.",
+  "words": [
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "手机",
+      "en": "phone",
+      "pi": "shǒujī"
+    },
+    {
+      "ch": "关机",
+      "en": "turn off",
+      "pi": "guānjī"
+    },
+    {
+      "ch": "了",
+      "en": "is (particle indicating a completed action)",
+      "pi": "le"
+    }
+  ]
+}

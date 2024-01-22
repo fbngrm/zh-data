@@ -1,0 +1,27 @@
+{
+  "chinese": "明天下午你忙吗?",
+  "english": "Are you busy tomorrow afternoon?",
+  "pinyin": "míng tiān xià wǔ nǐ máng ma?",
+  "words": [
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "下午",
+      "en": "afternoon",
+      "pi": "xià wǔ"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "忙吗",
+      "en": "busy",
+      "pi": "máng ma"
+    }
+  ]
+}

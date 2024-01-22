@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆可能想去游泳。",
+  "english": "Tom may want to go swimming.",
+  "pinyin": "tāng mǔ kě néng xiǎng qù yóu yǒng。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "可能",
+      "en": "may",
+      "pi": "kě néng"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "去",
+      "en": "to",
+      "pi": "qù"
+    },
+    {
+      "ch": "游泳",
+      "en": "swimming",
+      "pi": "yóu yǒng"
+    }
+  ]
+}

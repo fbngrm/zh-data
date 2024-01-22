@@ -1,0 +1,32 @@
+{
+  "chinese": "你的作文有一些错误。",
+  "english": "Your composition has some mistakes.",
+  "pinyin": "nǐ de zuòwén yǒu yīxiē cuòwù.",
+  "words": [
+    {
+      "ch": "你的",
+      "en": "Your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "作文",
+      "en": "composition",
+      "pi": "zuòwén"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一些",
+      "en": "some",
+      "pi": "yīxiē"
+    },
+    {
+      "ch": "错误",
+      "en": "mistakes",
+      "pi": "cuòwù"
+    }
+  ]
+}

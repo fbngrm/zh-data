@@ -1,0 +1,12 @@
+{
+  "chinese": "普通话和北京话是不同的。",
+  "english": "Mandarin and Beijing dialect are different.",
+  "pinyin": "pǔ tōng huà hé běi jīng huà shì bù tóng de.",
+  "words": [
+    {"ch": "普通话", "en": "Mandarin", "pi": "pǔ tōng huà"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "北京话", "en": "Beijing dialect", "pi": "běi jīng huà"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "不同的", "en": "different", "pi": "bù tóng de"}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chinese": "我上个月很努力工作。",
+  "english": "I worked very hard last month.",
+  "pinyin": "wǒ shàng gè yuè hěn nǔ lì gōng zuò。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "上个月", "en": "last month", "pi": "shàng gè yuè"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "努力", "en": "hard", "pi": "nǔ lì"},
+    {"ch": "工作", "en": "work", "pi": "gōng zuò"}
+  ]
+}

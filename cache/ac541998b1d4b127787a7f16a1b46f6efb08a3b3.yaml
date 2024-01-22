@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆有好的记忆力。",
+  "english": "Tom has a good memory.",
+  "pinyin": "Tāng mǔ yǒu hǎo de jì yì lì.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "好的",
+      "en": "good",
+      "pi": "hǎo de"
+    },
+    {
+      "ch": "记忆力",
+      "en": "memory",
+      "pi": "jì yì lì"
+    }
+  ]
+}

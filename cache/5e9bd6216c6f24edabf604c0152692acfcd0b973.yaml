@@ -1,0 +1,31 @@
+{
+  "chinese": "这只是时间的问题。",
+  "english": "It's just a matter of time.",
+  "pinyin": "zhè zhǐ shì shíjiān de wèntí.",
+  "words": [{
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "只是",
+      "en": "just",
+      "pi": "zhǐshì"
+    },
+    {
+      "ch": "时间",
+      "en": "time",
+      "pi": "shíjiān"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "问题",
+      "en": "matter",
+      "pi": "wèntí"
+    }
+  ]
+}

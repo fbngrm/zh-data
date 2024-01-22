@@ -1,0 +1,27 @@
+{
+  "chinese": "有人认识汤姆吗？",
+  "english": "Does anyone know Tom?",
+  "pinyin": "Yǒu rén rènshì tāngmǔ ma?",
+  "words": [
+    {
+      "ch": "有人",
+      "en": "anyone",
+      "pi": "yǒu rén"
+    },
+    {
+      "ch": "认识",
+      "en": "know",
+      "pi": "rènshì"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāngmǔ"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

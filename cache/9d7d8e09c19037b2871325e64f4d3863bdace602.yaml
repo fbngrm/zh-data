@@ -1,0 +1,13 @@
+{
+  "chinese": "她看起来好像有很多朋友。",
+  "english": "She seems to have many friends.",
+  "pinyin": "Tā kàn qǐlái hǎoxiàng yǒu hěnduō péngyǒu.",
+  "words": [
+    {"ch": "她", "en": "She", "pi": "tā"},
+    {"ch": "看起来", "en": "seems", "pi": "kàn qǐlái"},
+    {"ch": "好像", "en": "to", "pi": "hǎoxiàng"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "很多", "en": "many", "pi": "hěnduō"},
+    {"ch": "朋友", "en": "friends", "pi": "péngyǒu"}
+  ]
+}

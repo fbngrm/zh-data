@@ -1,0 +1,12 @@
+{
+  "chinese": "我昨天住在他家。",
+  "english": "I stayed at his house yesterday.",
+  "pinyin": "wǒ zuótiān zhù zài tā jiā.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "昨天", "en": "yesterday", "pi": "zuótiān" },
+    { "ch": "住", "en": "stay", "pi": "zhù" },
+    { "ch": "在", "en": "at", "pi": "zài" },
+    { "ch": "他家", "en": "his house", "pi": "tā jiā" }
+  ]
+}

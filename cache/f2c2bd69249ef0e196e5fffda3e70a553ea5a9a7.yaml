@@ -1,0 +1,47 @@
+{
+  "chinese": "我感冒了，昨天便在床上睡觉。",
+  "english": "I caught a cold and slept in bed yesterday.",
+  "pinyin": "wǒ gǎnmào le, zuótiān biàn zài chuángshàng shuìjiào.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "感冒",
+      "en": "caught a cold",
+      "pi": "gǎnmào"
+    },
+    {
+      "ch": "了",
+      "en": "and",
+      "pi": "le"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "便",
+      "en": "in",
+      "pi": "biàn"
+    },
+    {
+      "ch": "在",
+      "en": "bed",
+      "pi": "zài"
+    },
+    {
+      "ch": "床上",
+      "en": "slept",
+      "pi": "chuángshàng"
+    },
+    {
+      "ch": "睡觉",
+      "en": "in bed",
+      "pi": "shuìjiào"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "chinese": "这是我每天都用的字典。",
+  "english": "This is the dictionary I use every day.",
+  "pinyin": "zhè shì wǒ měi tiān dōu yòng de zì diǎn。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "都",
+      "en": "always",
+      "pi": "dōu"
+    },
+    {
+      "ch": "用",
+      "en": "use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "字典",
+      "en": "dictionary",
+      "pi": "zì diǎn"
+    }
+  ]
+}

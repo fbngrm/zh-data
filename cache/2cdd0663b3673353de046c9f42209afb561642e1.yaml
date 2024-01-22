@@ -1,0 +1,68 @@
+{
+  "sentences": [
+    {
+      "chinese": "你什么时候回来？",
+      "english": "When are you coming back?",
+      "pinyin": "Nǐ shénme shíhou huílái?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "什么",
+          "en": "what",
+          "pi": "shénme"
+        },
+        {
+          "ch": "时候",
+          "en": "when",
+          "pi": "shíhou"
+        },
+        {
+          "ch": "回来",
+          "en": "come back",
+          "pi": "huílái"
+        }
+      ]
+    },
+    {
+      "chinese": "那就全看天气了。",
+      "english": "Then it all depends on the weather.",
+      "pinyin": "Nà jiù quán kàn tiānqì le.",
+      "words": [
+        {
+          "ch": "那",
+          "en": "then",
+          "pi": "nà"
+        },
+        {
+          "ch": "就",
+          "en": "just",
+          "pi": "jiù"
+        },
+        {
+          "ch": "全",
+          "en": "all",
+          "pi": "quán"
+        },
+        {
+          "ch": "看",
+          "en": "depends",
+          "pi": "kàn"
+        },
+        {
+          "ch": "天气",
+          "en": "weather",
+          "pi": "tiānqì"
+        },
+        {
+          "ch": "了",
+          "en": "on",
+          "pi": "le"
+        }
+      ]
+    }
+  ]
+}

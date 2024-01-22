@@ -1,0 +1,15 @@
+{
+  "chinese": "我好想快点再去英国。",
+  "english": "I really want to go back to England quickly.",
+  "pinyin": "wǒ hǎo xiǎng kuài diǎn zài qù yīngguó.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "好", "en": "really", "pi": "hǎo" },
+    { "ch": "想", "en": "want", "pi": "xiǎng" },
+    { "ch": "快", "en": "quick", "pi": "kuài" },
+    { "ch": "点", "en": "to", "pi": "diǎn" },
+    { "ch": "再", "en": "back", "pi": "zài" },
+    { "ch": "去", "en": "go", "pi": "qù" },
+    { "ch": "英国", "en": "to England", "pi": "yīngguó" }
+  ]
+}

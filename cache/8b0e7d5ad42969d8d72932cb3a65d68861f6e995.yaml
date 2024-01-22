@@ -1,0 +1,47 @@
+{
+  "chinese": "你能放下文件听我说吗？",
+  "english": "Can you put down the file and listen to me?",
+  "pinyin": "Nǐ néng fàngxià wénjiàn tīng wǒ shuō ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "放下",
+      "en": "put down",
+      "pi": "fàngxià"
+    },
+    {
+      "ch": "文件",
+      "en": "file",
+      "pi": "wénjiàn"
+    },
+    {
+      "ch": "听",
+      "en": "listen",
+      "pi": "tīng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

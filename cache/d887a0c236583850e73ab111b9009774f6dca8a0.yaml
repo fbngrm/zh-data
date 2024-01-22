@@ -1,0 +1,11 @@
+{
+  "chinese": "我有一双红鞋子。",
+  "english": "I have a pair of red shoes.",
+  "pinyin": "wǒ yǒu yī shuāng hóng xiézi.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "一双", "en": "a pair of", "pi": "yī shuāng"},
+    {"ch": "红鞋子", "en": "red shoes", "pi": "hóng xiézi"}
+  ]
+}

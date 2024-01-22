@@ -1,0 +1,37 @@
+{
+  "chinese": "他和他爸爸一样高。",
+  "english": "He is as tall as his father.",
+  "pinyin": "tā hé tā bà ba yī yàng gāo。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "他",
+      "en": "his",
+      "pi": "tā"
+    },
+    {
+      "ch": "爸爸",
+      "en": "father",
+      "pi": "bà ba"
+    },
+    {
+      "ch": "一样",
+      "en": "as",
+      "pi": "yī yàng"
+    },
+    {
+      "ch": "高",
+      "en": "tall",
+      "pi": "gāo"
+    }
+  ]
+}

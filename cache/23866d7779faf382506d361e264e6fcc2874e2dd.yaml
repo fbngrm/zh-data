@@ -1,0 +1,37 @@
+{
+  "chinese": "鲍比直到七点钟前可以看电视。",
+  "english": "Bobby can watch TV until seven o'clock.",
+  "pinyin": "bào bǐ zhídào qī diǎn zhōng qián kěyǐ kàn diànshì.",
+  "words": [
+    {
+      "ch": "鲍比",
+      "en": "Bobby",
+      "pi": "bào bǐ"
+    },
+    {
+      "ch": "直到",
+      "en": "until",
+      "pi": "zhídào"
+    },
+    {
+      "ch": "七点",
+      "en": "seven o'clock",
+      "pi": "qī diǎn"
+    },
+    {
+      "ch": "钟前",
+      "en": "before",
+      "pi": "zhōng qián"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kěyǐ"
+    },
+    {
+      "ch": "看电视",
+      "en": "watch TV",
+      "pi": "kàn diànshì"
+    }
+  ]
+}

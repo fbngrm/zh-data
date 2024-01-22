@@ -1,0 +1,15 @@
+{
+  "chinese": "你千万不要和你父母说这件事。",
+  "english": "You must not tell your parents about this matter.",
+  "pinyin": "nǐ qiān wàn bù yào hé nǐ fù mǔ shuō zhè jiàn shì。",
+  "words": [
+    {"ch": "你", "en": "You", "pi": "nǐ"},
+    {"ch": "千万", "en": "must", "pi": "qiān wàn"},
+    {"ch": "不要", "en": "not", "pi": "bù yào"},
+    {"ch": "和", "en": "to", "pi": "hé"},
+    {"ch": "你", "en": "your", "pi": "nǐ"},
+    {"ch": "父母", "en": "parents", "pi": "fù mǔ"},
+    {"ch": "说", "en": "tell", "pi": "shuō"},
+    {"ch": "这件事", "en": "about this matter", "pi": "zhè jiàn shì"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "你已经睡觉了吗？",
+  "english": "Have you already gone to sleep?",
+  "pinyin": "nǐ yǐ jīng shuì jiào le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐ jīng"
+    },
+    {
+      "ch": "睡觉",
+      "en": "go to sleep",
+      "pi": "shuì jiào"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

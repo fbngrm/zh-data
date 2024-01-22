@@ -1,0 +1,32 @@
+{
+  "chinese": "请回答我这个问题。",
+  "english": "Please answer my question.",
+  "pinyin": "Qǐng huídá wǒ zhège wèntí.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "回答",
+      "en": "answer",
+      "pi": "huídá"
+    },
+    {
+      "ch": "我",
+      "en": "my",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhège"
+    },
+    {
+      "ch": "问题",
+      "en": "question",
+      "pi": "wèntí"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "我们在树林中迷路了。",
+  "english": "We got lost in the forest.",
+  "pinyin": "wǒ men zài shù lín zhōng mí lù le.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "树林",
+      "en": "forest",
+      "pi": "shù lín"
+    },
+    {
+      "ch": "中",
+      "en": "middle",
+      "pi": "zhōng"
+    },
+    {
+      "ch": "迷路",
+      "en": "got lost",
+      "pi": "mí lù"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "le"
+    }
+  ]
+}

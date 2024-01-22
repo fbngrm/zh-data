@@ -1,0 +1,32 @@
+{
+  "chinese": "请你再说一次好吗？",
+  "english": "Can you say it again, please?",
+  "pinyin": "qǐng nǐ zài shuō yī cì hǎo ma?",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "再说",
+      "en": "say again",
+      "pi": "zài shuō"
+    },
+    {
+      "ch": "一次",
+      "en": "one more time",
+      "pi": "yī cì"
+    },
+    {
+      "ch": "好吗",
+      "en": "please",
+      "pi": "hǎo ma"
+    }
+  ]
+}

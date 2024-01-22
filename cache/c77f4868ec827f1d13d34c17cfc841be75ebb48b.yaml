@@ -1,0 +1,32 @@
+{
+  "chinese": "我不认为汤姆明白。",
+  "english": "I don't think Tom understands.",
+  "pinyin": "wǒ bù rèn wéi tāng mǔ míng bái.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "认为",
+      "en": "think",
+      "pi": "rèn wéi"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "明白",
+      "en": "understands",
+      "pi": "míng bái"
+    }
+  ]
+}

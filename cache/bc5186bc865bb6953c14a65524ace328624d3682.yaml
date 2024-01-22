@@ -1,0 +1,27 @@
+{
+  "chinese": "有人说英语吗？",
+  "english": "Does anyone speak English?",
+  "pinyin": "Yǒu rén shuō yīngyǔ ma?",
+  "words": [
+    {
+      "ch": "有人",
+      "en": "anyone",
+      "pi": "yǒu rén"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīngyǔ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

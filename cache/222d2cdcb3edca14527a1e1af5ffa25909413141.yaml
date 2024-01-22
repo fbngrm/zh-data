@@ -1,0 +1,47 @@
+{
+  "chinese": "我昨天购物时自行车被偷了。",
+  "english": "Yesterday when I was shopping, my bicycle was stolen.",
+  "pinyin": "wǒ zuótiān gòuwù shí zìxíngchē bèi tōule.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "购物",
+      "en": "shopping",
+      "pi": "gòuwù"
+    },
+    {
+      "ch": "时",
+      "en": "when",
+      "pi": "shí"
+    },
+    {
+      "ch": "自行车",
+      "en": "bicycle",
+      "pi": "zìxíngchē"
+    },
+    {
+      "ch": "被",
+      "en": "passive marker",
+      "pi": "bèi"
+    },
+    {
+      "ch": "偷",
+      "en": "stolen",
+      "pi": "tōu"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completion",
+      "pi": "le"
+    }
+  ]
+}

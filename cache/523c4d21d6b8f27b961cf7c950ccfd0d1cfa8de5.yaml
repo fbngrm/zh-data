@@ -1,0 +1,13 @@
+{
+  "chinese": "我的手表不知放到哪里去了。",
+  "english": "I don't know where I put my watch.",
+  "pinyin": "wǒ de shǒu biǎo bù zhī fàng dào nǎ lǐ qù le.",
+  "words": [
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "手表", "en": "watch", "pi": "shǒu biǎo"},
+    {"ch": "不知", "en": "don't know", "pi": "bù zhī"},
+    {"ch": "放到", "en": "put", "pi": "fàng dào"},
+    {"ch": "哪里", "en": "where", "pi": "nǎ lǐ"},
+    {"ch": "去了", "en": "went", "pi": "qù le"}
+  ]
+}

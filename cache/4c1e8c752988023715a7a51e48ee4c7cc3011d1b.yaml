@@ -1,0 +1,32 @@
+{
+  "chinese": "让我们唱英文歌曲。",
+  "english": "Let's sing English songs.",
+  "pinyin": "ràng wǒmen chàng yīngwén gēqǔ。",
+  "words": [
+    {
+      "ch": "让",
+      "en": "Let",
+      "pi": "ràng"
+    },
+    {
+      "ch": "我们",
+      "en": "us",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "唱",
+      "en": "sing",
+      "pi": "chàng"
+    },
+    {
+      "ch": "英文",
+      "en": "English",
+      "pi": "yīngwén"
+    },
+    {
+      "ch": "歌曲",
+      "en": "songs",
+      "pi": "gēqǔ"
+    }
+  ]
+}

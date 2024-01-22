@@ -1,0 +1,47 @@
+{
+  "chinese": "你的名字已经从名单删除了。",
+  "english": "Your name has been removed from the list.",
+  "pinyin": "Nǐ de míngzì yǐjīng cóng míngdān shānchúle。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "Your",
+      "pi": "Nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "name",
+      "pi": "de"
+    },
+    {
+      "ch": "名字",
+      "en": "has been",
+      "pi": "míngzì"
+    },
+    {
+      "ch": "已经",
+      "en": "removed",
+      "pi": "yǐjīng"
+    },
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "名单",
+      "en": "the list",
+      "pi": "míngdān"
+    },
+    {
+      "ch": "删除",
+      "en": "has been",
+      "pi": "shānchú"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆现在正在外面哭。",
+  "english": "Tom is crying outside now.",
+  "pinyin": "Tāng mǔ xiànzài zhèngzài wàimian kū.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiànzài"
+    },
+    {
+      "ch": "正在",
+      "en": "is",
+      "pi": "zhèngzài"
+    },
+    {
+      "ch": "外面",
+      "en": "outside",
+      "pi": "wàimian"
+    },
+    {
+      "ch": "哭",
+      "en": "crying",
+      "pi": "kū"
+    }
+  ]
+}

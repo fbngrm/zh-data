@@ -1,0 +1,37 @@
+{
+  "chinese": "这台机器很占空间。",
+  "english": "This machine takes up a lot of space.",
+  "pinyin": "zhè tái jī qì hěn zhàn kōng jiān。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "台",
+      "en": "machine",
+      "pi": "tái"
+    },
+    {
+      "ch": "机器",
+      "en": "machine",
+      "pi": "jī qì"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "占",
+      "en": "take up",
+      "pi": "zhàn"
+    },
+    {
+      "ch": "空间",
+      "en": "space",
+      "pi": "kōng jiān"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我的手套尺寸是中号。",
+  "english": "My glove size is medium.",
+  "pinyin": "wǒ de shǒutào chǐcùn shì zhōng hào。",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "My",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "手套",
+      "en": "glove",
+      "pi": "shǒutào"
+    },
+    {
+      "ch": "尺寸",
+      "en": "size",
+      "pi": "chǐcùn"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "中号",
+      "en": "medium",
+      "pi": "zhōng hào"
+    }
+  ]
+}

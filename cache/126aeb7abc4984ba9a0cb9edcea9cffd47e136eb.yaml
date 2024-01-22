@@ -1,0 +1,27 @@
+{
+  "chinese": "浴缸已经准备好了。",
+  "english": "The bathtub is ready.",
+  "pinyin": "yù gāng yǐ jīng zhǔn bèi hǎo le.",
+  "words": [
+    {
+      "ch": "浴缸",
+      "en": "bathtub",
+      "pi": "yù gāng"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐ jīng"
+    },
+    {
+      "ch": "准备",
+      "en": "ready",
+      "pi": "zhǔn bèi"
+    },
+    {
+      "ch": "好了",
+      "en": "is ready",
+      "pi": "hǎo le"
+    }
+  ]
+}

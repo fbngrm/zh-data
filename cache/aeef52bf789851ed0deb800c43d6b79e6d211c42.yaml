@@ -1,0 +1,13 @@
+{
+  "chinese": "她的母亲是一位漂亮的女人。",
+  "english": "Her mother is a beautiful woman.",
+  "pinyin": "Tā de mǔqīn shì yī wèi piàoliang de nǚrén.",
+  "words": [
+    {"ch": "她的", "en": "Her", "pi": "tā de"},
+    {"ch": "母亲", "en": "mother", "pi": "mǔqīn"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "一位", "en": "a", "pi": "yī wèi"},
+    {"ch": "漂亮的", "en": "beautiful", "pi": "piàoliang de"},
+    {"ch": "女人", "en": "woman", "pi": "nǚrén"}
+  ]
+}

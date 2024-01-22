@@ -1,0 +1,42 @@
+{
+  "chinese": "我从没给我的狗喂过香蕉。",
+  "english": "I have never fed my dog bananas.",
+  "pinyin": "wǒ cóng méi gěi wǒ de gǒu wèi guò xiāng jiāo.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "从没",
+      "en": "never",
+      "pi": "cóng méi"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "喂过",
+      "en": "fed",
+      "pi": "wèi guò"
+    },
+    {
+      "ch": "香蕉",
+      "en": "bananas",
+      "pi": "xiāng jiāo"
+    }
+  ]
+}

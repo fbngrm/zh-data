@@ -1,0 +1,37 @@
+{
+  "chinese": "这是不是豆腐？",
+  "english": "Is this tofu?",
+  "pinyin": "zhè shì bù shì dòufu?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "豆腐",
+      "en": "tofu",
+      "pi": "dòufu"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "?"
+    }
+  ]
+}

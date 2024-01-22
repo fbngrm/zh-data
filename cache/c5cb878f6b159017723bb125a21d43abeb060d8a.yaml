@@ -1,0 +1,32 @@
+{
+  "chinese": "昨天發生了一場地震。",
+  "english": "An earthquake happened yesterday.",
+  "pinyin": "zuó tiān fā shēng le yī chǎng dì zhèn.",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "發生",
+      "en": "happen",
+      "pi": "fā shēng"
+    },
+    {
+      "ch": "了",
+      "en": "a",
+      "pi": "le"
+    },
+    {
+      "ch": "一場",
+      "en": "an",
+      "pi": "yī chǎng"
+    },
+    {
+      "ch": "地震",
+      "en": "earthquake",
+      "pi": "dì zhèn"
+    }
+  ]
+}

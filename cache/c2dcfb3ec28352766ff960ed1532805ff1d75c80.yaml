@@ -1,0 +1,32 @@
+{
+  "chinese": "她是你妈妈吗?",
+  "english": "Is she your mother?",
+  "pinyin": "tā shì nǐ māmā ma?",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "你",
+      "en": "your",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "妈妈",
+      "en": "mother",
+      "pi": "māmā"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

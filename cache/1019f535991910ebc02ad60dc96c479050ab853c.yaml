@@ -1,0 +1,32 @@
+{
+  "chinese": "这封信在信封内。",
+  "english": "This letter is inside the envelope.",
+  "pinyin": "zhè fēng xìn zài xìn fēng nèi.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "封信",
+      "en": "letter",
+      "pi": "fēng xìn"
+    },
+    {
+      "ch": "在",
+      "en": "inside",
+      "pi": "zài"
+    },
+    {
+      "ch": "信封",
+      "en": "envelope",
+      "pi": "xìn fēng"
+    },
+    {
+      "ch": "内",
+      "en": "in",
+      "pi": "nèi"
+    }
+  ]
+}

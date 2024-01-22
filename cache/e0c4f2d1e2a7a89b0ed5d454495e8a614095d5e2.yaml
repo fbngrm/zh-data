@@ -1,0 +1,37 @@
+{
+  "chinese": "Tom买了辆崭新的车。",
+  "english": "Tom bought a brand new car.",
+  "pinyin": "Tom mǎi le liàng zhǎn xīn de chē。",
+  "words": [
+    {
+      "ch": "Tom",
+      "en": "Tom",
+      "pi": "Tom"
+    },
+    {
+      "ch": "买了",
+      "en": "bought",
+      "pi": "mǎi le"
+    },
+    {
+      "ch": "辆",
+      "en": "a",
+      "pi": "liàng"
+    },
+    {
+      "ch": "崭新",
+      "en": "brand new",
+      "pi": "zhǎn xīn"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "车",
+      "en": "car",
+      "pi": "chē"
+    }
+  ]
+}

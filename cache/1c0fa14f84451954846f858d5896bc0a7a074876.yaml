@@ -1,0 +1,32 @@
+{
+  "chinese": "这花是黄的。",
+  "english": "This flower is yellow.",
+  "pinyin": "zhè huā shì huáng de.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "花",
+      "en": "flower",
+      "pi": "huā"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "黄",
+      "en": "yellow",
+      "pi": "huáng"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "铜和银都是金属。",
+  "english": "Copper and silver are both metals.",
+  "pinyin": "Tóng hé yín dōu shì jīnshǔ.",
+  "words": [
+    {
+      "ch": "铜",
+      "en": "copper",
+      "pi": "tóng"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "银",
+      "en": "silver",
+      "pi": "yín"
+    },
+    {
+      "ch": "都",
+      "en": "both",
+      "pi": "dōu"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "金属",
+      "en": "metals",
+      "pi": "jīnshǔ"
+    }
+  ]
+}

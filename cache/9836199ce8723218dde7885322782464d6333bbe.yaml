@@ -1,0 +1,32 @@
+{
+  "chinese": "我通常在外面吃饭。",
+  "english": "I usually eat out.",
+  "pinyin": "wǒ tōngcháng zài wàimiàn chīfàn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "通常",
+      "en": "usually",
+      "pi": "tōngcháng"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "外面",
+      "en": "outside",
+      "pi": "wàimiàn"
+    },
+    {
+      "ch": "吃饭",
+      "en": "eat",
+      "pi": "chīfàn"
+    }
+  ]
+}

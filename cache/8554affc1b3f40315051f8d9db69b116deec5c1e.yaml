@@ -1,0 +1,37 @@
+{
+  "chinese": "这只猫在吃东西。",
+  "english": "The cat is eating.",
+  "pinyin": "zhè zhī māo zài chī dōngxi.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "只",
+      "en": "a",
+      "pi": "zhī"
+    },
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "吃",
+      "en": "eating",
+      "pi": "chī"
+    },
+    {
+      "ch": "东西",
+      "en": "food",
+      "pi": "dōngxi"
+    }
+  ]
+}

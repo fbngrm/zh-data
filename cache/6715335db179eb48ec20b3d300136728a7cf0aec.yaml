@@ -1,0 +1,32 @@
+{
+  "chinese": "这件衬衫卖十二英镑。",
+  "english": "This shirt sells for twelve pounds.",
+  "pinyin": "zhè jiàn chèn shān mài shí èr yīng bàng.",
+  "words": [
+    {
+      "ch": "这件",
+      "en": "This",
+      "pi": "zhè jiàn"
+    },
+    {
+      "ch": "衬衫",
+      "en": "shirt",
+      "pi": "chèn shān"
+    },
+    {
+      "ch": "卖",
+      "en": "sells",
+      "pi": "mài"
+    },
+    {
+      "ch": "十二",
+      "en": "twelve",
+      "pi": "shí èr"
+    },
+    {
+      "ch": "英镑",
+      "en": "pounds",
+      "pi": "yīng bàng"
+    }
+  ]
+}

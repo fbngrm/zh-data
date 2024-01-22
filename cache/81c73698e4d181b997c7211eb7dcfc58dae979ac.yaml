@@ -1,0 +1,32 @@
+{
+  "chinese": "天空飘的云很美。",
+  "english": "The clouds floating in the sky are very beautiful.",
+  "pinyin": "tiān kōng piāo de yún hěn měi.",
+  "words": [
+    {
+      "ch": "天空",
+      "en": "sky",
+      "pi": "tiān kōng"
+    },
+    {
+      "ch": "飘",
+      "en": "floating",
+      "pi": "piāo"
+    },
+    {
+      "ch": "的",
+      "en": "in",
+      "pi": "de"
+    },
+    {
+      "ch": "云",
+      "en": "clouds",
+      "pi": "yún"
+    },
+    {
+      "ch": "很美",
+      "en": "very beautiful",
+      "pi": "hěn měi"
+    }
+  ]
+}

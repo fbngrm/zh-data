@@ -1,0 +1,27 @@
+{
+  "chinese": "猫在桌子底下。",
+  "english": "The cat is under the table.",
+  "pinyin": "Māo zài zhuōzi dǐxià.",
+  "words": [
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "Māo"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "桌子",
+      "en": "table",
+      "pi": "zhuōzi"
+    },
+    {
+      "ch": "底下",
+      "en": "under",
+      "pi": "dǐxià"
+    }
+  ]
+}

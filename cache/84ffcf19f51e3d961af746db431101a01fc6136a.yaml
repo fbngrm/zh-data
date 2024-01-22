@@ -1,0 +1,42 @@
+{
+  "chinese": "我每天都帮我妈做家务。",
+  "english": "I help my mom with the housework every day.",
+  "pinyin": "wǒ měi tiān dōu bāng wǒ mā zuò jiā wù。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "都",
+      "en": "always",
+      "pi": "dōu"
+    },
+    {
+      "ch": "帮",
+      "en": "help",
+      "pi": "bāng"
+    },
+    {
+      "ch": "我妈",
+      "en": "my mom",
+      "pi": "wǒ mā"
+    },
+    {
+      "ch": "做",
+      "en": "do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "家务",
+      "en": "housework",
+      "pi": "jiā wù"
+    }
+  ]
+}

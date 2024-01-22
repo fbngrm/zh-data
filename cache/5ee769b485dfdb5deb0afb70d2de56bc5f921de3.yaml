@@ -1,0 +1,13 @@
+{
+  "chinese": "你花多长时间汉语学这么好。",
+  "english": "How long did you spend to learn Chinese so well?",
+  "pinyin": "nǐ huā duō cháng shíjiān hànyǔ xué zhème hǎo。",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "花", "en": "spend", "pi": "huā"},
+    {"ch": "多长时间", "en": "how long", "pi": "duō cháng shíjiān"},
+    {"ch": "汉语", "en": "Chinese language", "pi": "hànyǔ"},
+    {"ch": "学", "en": "learn", "pi": "xué"},
+    {"ch": "这么好", "en": "so well", "pi": "zhème hǎo"}
+  ]
+}

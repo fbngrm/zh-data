@@ -1,0 +1,37 @@
+{
+  "chinese": "我们写汉字也非常好。",
+  "english": "We are also very good at writing Chinese characters.",
+  "pinyin": "wǒmen xiě hànzì yě fēicháng hǎo.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "写",
+      "en": "write",
+      "pi": "xiě"
+    },
+    {
+      "ch": "汉字",
+      "en": "Chinese characters",
+      "pi": "hànzì"
+    },
+    {
+      "ch": "也",
+      "en": "also",
+      "pi": "yě"
+    },
+    {
+      "ch": "非常",
+      "en": "very",
+      "pi": "fēicháng"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    }
+  ]
+}

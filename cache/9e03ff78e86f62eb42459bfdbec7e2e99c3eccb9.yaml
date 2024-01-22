@@ -1,0 +1,19 @@
+{
+  "chinese": "我想这工作粗略估计得花上两个星期的时间。",
+  "english": "I think this task will roughly take two weeks.",
+  "pinyin": "wǒ xiǎng zhè gōngzuò cūlüè gūjì děi huā shàng liǎng gè xīngqí de shíjiān.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "想", "en": "think", "pi": "xiǎng" },
+    { "ch": "这", "en": "this", "pi": "zhè" },
+    { "ch": "工作", "en": "task", "pi": "gōngzuò" },
+    { "ch": "粗略", "en": "roughly", "pi": "cūlüè" },
+    { "ch": "估计", "en": "estimate", "pi": "gūjì" },
+    { "ch": "得", "en": "will", "pi": "děi" },
+    { "ch": "花上", "en": "take", "pi": "huā shàng" },
+    { "ch": "两个", "en": "two", "pi": "liǎng gè" },
+    { "ch": "星期", "en": "weeks", "pi": "xīngqí" },
+    { "ch": "的", "en": "", "pi": "de" },
+    { "ch": "时间", "en": "time", "pi": "shíjiān" }
+  ]
+}

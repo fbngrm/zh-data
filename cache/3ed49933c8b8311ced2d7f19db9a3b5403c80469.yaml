@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆需要更新他的网站。",
+  "english": "Tom needs to update his website.",
+  "pinyin": "Tāng mǔ xūyào gēngxīn tā de wǎngzhàn.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "需要",
+      "en": "needs",
+      "pi": "xūyào"
+    },
+    {
+      "ch": "更新",
+      "en": "to update",
+      "pi": "gēngxīn"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "网站",
+      "en": "website",
+      "pi": "wǎngzhàn"
+    }
+  ]
+}

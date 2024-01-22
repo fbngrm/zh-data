@@ -1,0 +1,18 @@
+{
+  "chinese": "士兵作戰時毫無畏縮，但到了最後還是不得不投降。",
+  "english": "The soldier fought without fear, but in the end, he had to surrender.",
+  "pinyin": "shì bīng zuò zhàn shí háo wú wèi suō, dàn dào le zuì hòu hái shì bù dé bù tóu xiáng.",
+  "words": [
+    {"ch": "士兵", "en": "soldier", "pi": "shì bīng"},
+    {"ch": "作戰", "en": "fight", "pi": "zuò zhàn"},
+    {"ch": "時", "en": "time", "pi": "shí"},
+    {"ch": "毫無", "en": "without", "pi": "háo wú"},
+    {"ch": "畏縮", "en": "fear", "pi": "wèi suō"},
+    {"ch": "但", "en": "but", "pi": "dàn"},
+    {"ch": "到了", "en": "in the end", "pi": "dào le"},
+    {"ch": "最後", "en": "final", "pi": "zuì hòu"},
+    {"ch": "還是", "en": "still", "pi": "hái shì"},
+    {"ch": "不得不", "en": "had to", "pi": "bù dé bù"},
+    {"ch": "投降", "en": "surrender", "pi": "tóu xiáng"}
+  ]
+}

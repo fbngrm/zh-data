@@ -1,0 +1,32 @@
+{
+  "chinese": "我现在能睁眼吗？",
+  "english": "Can I open my eyes now?",
+  "pinyin": "wǒ xiànzài néng zhēng yǎn ma?",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiànzài"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "睁眼",
+      "en": "open eyes",
+      "pi": "zhēng yǎn"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

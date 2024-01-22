@@ -1,0 +1,52 @@
+{
+  "chinese": "汤姆给她看了圣诞老人寄来的信。",
+  "english": "Tom showed her the letter sent by Santa Claus.",
+  "pinyin": "Tāng mǔ gěi tā kàn le shèng dàn lǎo rén jì lái de xìn.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "给",
+      "en": "to give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "她",
+      "en": "her",
+      "pi": "tā"
+    },
+    {
+      "ch": "看",
+      "en": "to see",
+      "pi": "kàn"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "圣诞老人",
+      "en": "Santa Claus",
+      "pi": "shèng dàn lǎo rén"
+    },
+    {
+      "ch": "寄来",
+      "en": "sent",
+      "pi": "jì lái"
+    },
+    {
+      "ch": "的",
+      "en": "particle indicating possession",
+      "pi": "de"
+    },
+    {
+      "ch": "信",
+      "en": "letter",
+      "pi": "xìn"
+    }
+  ]
+}

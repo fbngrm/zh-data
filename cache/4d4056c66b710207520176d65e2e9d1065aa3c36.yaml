@@ -1,0 +1,17 @@
+{
+  "chinese": "你能看到屋顶的那栋房子是贝克先生的。",
+  "english": "The house that you can see the roof of belongs to Mr. Baker.",
+  "pinyin": "Nǐ néng kàn dào wū dǐng de nà dòng fángzi shì Bèikè xiānshēng de.",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "能", "en": "can", "pi": "néng"},
+    {"ch": "看到", "en": "see", "pi": "kàn dào"},
+    {"ch": "屋顶", "en": "roof", "pi": "wū dǐng"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "那栋", "en": "that", "pi": "nà dòng"},
+    {"ch": "房子", "en": "house", "pi": "fángzi"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "贝克先生", "en": "Mr. Baker", "pi": "Bèikè xiānshēng"},
+    {"ch": "的", "en": "'s", "pi": "de"}
+  ]
+}

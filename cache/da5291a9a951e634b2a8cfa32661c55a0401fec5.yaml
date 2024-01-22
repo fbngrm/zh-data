@@ -1,0 +1,32 @@
+{
+  "chinese": "我不想来这里。",
+  "english": "I don't want to come here.",
+  "pinyin": "wǒ bù xiǎng lái zhèlǐ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "来",
+      "en": "to come",
+      "pi": "lái"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhèlǐ"
+    }
+  ]
+}

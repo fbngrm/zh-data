@@ -1,0 +1,32 @@
+{
+  "chinese": "它跟我没关系。",
+  "english": "It has nothing to do with me.",
+  "pinyin": "tā gēn wǒ méi guānxi.",
+  "words": [
+    {
+      "ch": "它",
+      "en": "it",
+      "pi": "tā"
+    },
+    {
+      "ch": "跟",
+      "en": "with",
+      "pi": "gēn"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "没",
+      "en": "have not",
+      "pi": "méi"
+    },
+    {
+      "ch": "关系",
+      "en": "relationship",
+      "pi": "guānxi"
+    }
+  ]
+}

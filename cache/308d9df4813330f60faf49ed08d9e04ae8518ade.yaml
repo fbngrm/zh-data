@@ -1,0 +1,32 @@
+{
+  "chinese": "我会读完这本书。",
+  "english": "I will finish reading this book.",
+  "pinyin": "wǒ huì dú wán zhè běn shū。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "读完",
+      "en": "finish reading",
+      "pi": "dú wán"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本书",
+      "en": "book",
+      "pi": "běn shū"
+    }
+  ]
+}

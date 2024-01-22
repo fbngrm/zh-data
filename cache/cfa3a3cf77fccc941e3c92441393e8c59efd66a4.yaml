@@ -1,0 +1,11 @@
+{
+  "chinese": "汤姆是个胖子",
+  "english": "Tom is fat",
+  "pinyin": "Tāng mǔ shì gè pàng zi",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "个", "en": ""},
+    {"ch": "胖子", "en": "fat", "pi": "pàng zi"}
+  ]
+}

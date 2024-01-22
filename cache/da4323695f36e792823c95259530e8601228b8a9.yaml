@@ -1,0 +1,51 @@
+{
+  "sentences": [
+    {
+      "chinese": "这不是我的车，那是我的车。",
+      "english": "This is not my car, that is my car.",
+      "pinyin": "Zhè bùshì wǒ de chē, nà shì wǒ de chē.",
+      "words": [
+        {
+          "ch": "这",
+          "en": "this",
+          "pi": "zhè"
+        },
+        {
+          "ch": "不是",
+          "en": "is not",
+          "pi": "bùshì"
+        },
+        {
+          "ch": "我的",
+          "en": "my",
+          "pi": "wǒ de"
+        },
+        {
+          "ch": "车",
+          "en": "car",
+          "pi": "chē"
+        },
+        {
+          "ch": "那",
+          "en": "that",
+          "pi": "nà"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "我的",
+          "en": "my",
+          "pi": "wǒ de"
+        },
+        {
+          "ch": "车",
+          "en": "car",
+          "pi": "chē"
+        }
+      ]
+    }
+  ]
+}

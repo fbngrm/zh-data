@@ -1,0 +1,19 @@
+{
+  "chinese": "伦敦是个大城市，游客必须乘公交或地铁才能出行。",
+  "english": "London is a big city and tourists must take public transportation or subway to get around.",
+  "pinyin": "Lúndūn shì gè dà chéngshì, yóukè bìxū chéng gōngjiāo huò dìtiě cáinéng chūxíng.",
+  "words": [
+    {"ch": "伦敦", "en": "London", "pi": "Lúndūn"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "个", "en": "a", "pi": "gè"},
+    {"ch": "大城市", "en": "big city", "pi": "dà chéngshì"},
+    {"ch": "游客", "en": "tourists", "pi": "yóukè"},
+    {"ch": "必须", "en": "must", "pi": "bìxū"},
+    {"ch": "乘", "en": "take", "pi": "chéng"},
+    {"ch": "公交", "en": "public transportation", "pi": "gōngjiāo"},
+    {"ch": "或", "en": "or", "pi": "huò"},
+    {"ch": "地铁", "en": "subway", "pi": "dìtiě"},
+    {"ch": "才能", "en": "to be able", "pi": "cáinéng"},
+    {"ch": "出行", "en": "get around", "pi": "chūxíng"}
+  ]
+}

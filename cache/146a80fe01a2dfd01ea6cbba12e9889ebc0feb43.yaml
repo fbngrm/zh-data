@@ -1,0 +1,42 @@
+{
+  "chinese": "我们明天会有一个数学小测。",
+  "english": "We will have a math quiz tomorrow.",
+  "pinyin": "wǒmen míngtiān huì yǒu yī gè shùxué xiǎocè。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yī"
+    },
+    {
+      "ch": "数学",
+      "en": "math",
+      "pi": "shùxué"
+    },
+    {
+      "ch": "小测",
+      "en": "quiz",
+      "pi": "xiǎocè"
+    }
+  ]
+}

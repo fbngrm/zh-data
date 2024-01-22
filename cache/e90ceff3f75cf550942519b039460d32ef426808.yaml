@@ -1,0 +1,37 @@
+{
+  "chinese": "这里以前有一间教堂。",
+  "english": "There used to be a church here.",
+  "pinyin": "zhè lǐ yǐ qián yǒu yì jiàn jiào táng.",
+  "words": [
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "以前",
+      "en": "used to",
+      "pi": "yǐ qián"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一",
+      "en": "a",
+      "pi": "yì"
+    },
+    {
+      "ch": "间",
+      "en": "measured word for rooms",
+      "pi": "jiàn"
+    },
+    {
+      "ch": "教堂",
+      "en": "church",
+      "pi": "jiào táng"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我能看德语，但是不能说。",
+  "english": "I can read German, but I can't speak it.",
+  "pinyin": "wǒ néng kàn déyǔ, dànshì bùnéng shuō.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "看",
+      "en": "read",
+      "pi": "kàn"
+    },
+    {
+      "ch": "德语",
+      "en": "German",
+      "pi": "déyǔ"
+    },
+    {
+      "ch": "但是",
+      "en": "but",
+      "pi": "dànshì"
+    },
+    {
+      "ch": "不能",
+      "en": "cannot",
+      "pi": "bùnéng"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    }
+  ]
+}

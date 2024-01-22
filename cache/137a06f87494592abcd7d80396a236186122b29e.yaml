@@ -1,0 +1,42 @@
+{
+  "chinese": "我们的营业时间是十时至七时。",
+  "english": "Our business hours are from 10 am to 7 pm.",
+  "pinyin": "Wǒmen de yíngyè shíjiān shì shí shí zhì qī shí.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "Our",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "的",
+      "en": "is/am/are",
+      "pi": "de"
+    },
+    {
+      "ch": "营业时间",
+      "en": "business hours",
+      "pi": "yíngyè shíjiān"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "十时",
+      "en": "10 am",
+      "pi": "shí shí"
+    },
+    {
+      "ch": "至",
+      "en": "to",
+      "pi": "zhì"
+    },
+    {
+      "ch": "七时",
+      "en": "7 pm",
+      "pi": "qī shí"
+    }
+  ]
+}

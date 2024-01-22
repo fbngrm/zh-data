@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆在他的笔记本上写了东西。",
+  "english": "Tom wrote something in his notebook.",
+  "pinyin": "Tāng mǔ zài tā de bǐ jì běn shàng xiěle dōngxi.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "笔记本",
+      "en": "notebook",
+      "pi": "bǐ jì běn"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "写了",
+      "en": "wrote",
+      "pi": "xiěle"
+    },
+    {
+      "ch": "东西",
+      "en": "something",
+      "pi": "dōngxi"
+    }
+  ]
+}

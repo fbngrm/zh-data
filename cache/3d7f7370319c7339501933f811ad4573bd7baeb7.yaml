@@ -1,0 +1,18 @@
+{
+  "chinese": "如果我运气够好的话，说不定会赢。",
+  "english": "If I'm lucky enough, maybe I will win.",
+  "pinyin": "rú guǒ wǒ yùn qì gòu hǎo de huà, shuō bú dìng huì yíng.",
+  "words": [
+    {"ch": "如果", "en": "If", "pi": "rú guǒ"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "运气", "en": "luck", "pi": "yùn qì"},
+    {"ch": "够", "en": "enough", "pi": "gòu"},
+    {"ch": "好", "en": "good", "pi": "hǎo"},
+    {"ch": "的话", "en": "if", "pi": "de huà"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "说不定", "en": "maybe", "pi": "shuō bú dìng"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "赢", "en": "win", "pi": "yíng"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}

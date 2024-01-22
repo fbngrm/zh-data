@@ -1,0 +1,13 @@
+{
+  "chinese": "我们问他叫什么名字。",
+  "english": "We asked him what his name is.",
+  "pinyin": "wǒmen wèn tā jiào shénme míngzì.",
+  "words": [
+    {"ch": "我们", "en": "we", "pi": "wǒmen"},
+    {"ch": "问", "en": "ask", "pi": "wèn"},
+    {"ch": "他", "en": "him", "pi": "tā"},
+    {"ch": "叫", "en": "call", "pi": "jiào"},
+    {"ch": "什么", "en": "what", "pi": "shénme"},
+    {"ch": "名字", "en": "name", "pi": "míngzì"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆犯了一个严重的错误。",
+  "english": "Tom made a serious mistake.",
+  "pinyin": "tāng mǔ fàn le yī gè yán zhòng de cuò wù。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "犯了",
+      "en": "made",
+      "pi": "fàn le"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "严重的",
+      "en": "serious",
+      "pi": "yán zhòng de"
+    },
+    {
+      "ch": "错误",
+      "en": "mistake",
+      "pi": "cuò wù"
+    }
+  ]
+}

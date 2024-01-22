@@ -1,0 +1,16 @@
+{
+  "chinese": "我从你的表情猜到你有好消息。",
+  "english": "I can tell from your expression that you have good news.",
+  "pinyin": "wǒ cóng nǐ de biǎo qíng cāi dào nǐ yǒu hǎo xiāo xī。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "从", "en": "from", "pi": "cóng"},
+    {"ch": "你的", "en": "your", "pi": "nǐ de"},
+    {"ch": "表情", "en": "expression", "pi": "biǎo qíng"},
+    {"ch": "猜到", "en": "can tell", "pi": "cāi dào"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "好", "en": "good", "pi": "hǎo"},
+    {"ch": "消息", "en": "news", "pi": "xiāo xī"}
+  ]
+}

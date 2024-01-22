@@ -1,0 +1,32 @@
+{
+  "chinese": "我听到有人进来了。",
+  "english": "I heard someone come in.",
+  "pinyin": "wǒ tīng dào yǒu rén jìn lái le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "听到",
+      "en": "heard",
+      "pi": "tīng dào"
+    },
+    {
+      "ch": "有人",
+      "en": "someone",
+      "pi": "yǒu rén"
+    },
+    {
+      "ch": "进来",
+      "en": "come in",
+      "pi": "jìn lái"
+    },
+    {
+      "ch": "了",
+      "en": "了",
+      "pi": "le"
+    }
+  ]
+}

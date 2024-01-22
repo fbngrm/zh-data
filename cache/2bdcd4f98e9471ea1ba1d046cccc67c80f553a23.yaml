@@ -1,0 +1,42 @@
+{
+  "chinese": "猫被陌生的噪音惊吓了。",
+  "english": "The cat was startled by unfamiliar noise.",
+  "pinyin": "māo bèi mòshēng de zàoyīn jīngxià le.",
+  "words": [
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    },
+    {
+      "ch": "被",
+      "en": "by",
+      "pi": "bèi"
+    },
+    {
+      "ch": "陌生",
+      "en": "unfamiliar",
+      "pi": "mòshēng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "噪音",
+      "en": "noise",
+      "pi": "zàoyīn"
+    },
+    {
+      "ch": "惊吓",
+      "en": "startled",
+      "pi": "jīngxià"
+    },
+    {
+      "ch": "了",
+      "en": "by",
+      "pi": "le"
+    }
+  ]
+}

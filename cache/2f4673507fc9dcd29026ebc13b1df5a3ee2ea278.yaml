@@ -1,0 +1,37 @@
+{
+  "chinese": "今天气温是华氏七十度。",
+  "english": "Today's temperature is 70 degrees Fahrenheit.",
+  "pinyin": "jīn tiān qì wēn shì huá shì qī shí dù。",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "Today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "气温",
+      "en": "temperature",
+      "pi": "qì wēn"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "华氏",
+      "en": "Fahrenheit",
+      "pi": "huá shì"
+    },
+    {
+      "ch": "七十",
+      "en": "70",
+      "pi": "qī shí"
+    },
+    {
+      "ch": "度",
+      "en": "degrees",
+      "pi": "dù"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆是一个电子工程师。",
+  "english": "Tom is an electronic engineer.",
+  "pinyin": "tāng mǔ shì yī gè diàn zǐ gōng chéng shī。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "一个",
+      "en": "an",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "电子",
+      "en": "electronic",
+      "pi": "diàn zǐ"
+    },
+    {
+      "ch": "工程师",
+      "en": "engineer",
+      "pi": "gōng chéng shī"
+    }
+  ]
+}

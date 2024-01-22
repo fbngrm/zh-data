@@ -1,0 +1,11 @@
+{
+  "chinese": "我吃了鱼子酱。",
+  "english": "I ate caviar.",
+  "pinyin": "wǒ chī le yú zǐ jiàng。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "吃", "en": "eat", "pi": "chī"},
+    {"ch": "了", "en": "past tense marker", "pi": "le"},
+    {"ch": "鱼子酱", "en": "caviar", "pi": "yú zǐ jiàng"}
+  ]
+}

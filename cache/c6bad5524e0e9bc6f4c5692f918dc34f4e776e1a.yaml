@@ -1,0 +1,16 @@
+{
+  "chinese": "汤姆不会让我再买甚么东西了。",
+  "english": "Tom won't let me buy anything anymore.",
+  "pinyin": "tāng mǔ bú huì ràng wǒ zài mǎi shén me dōng xi le.",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "不会", "en": "won't", "pi": "bú huì"},
+    {"ch": "让", "en": "let", "pi": "ràng"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "再", "en": "again", "pi": "zài"},
+    {"ch": "买", "en": "buy", "pi": "mǎi"},
+    {"ch": "甚么", "en": "anything", "pi": "shén me"},
+    {"ch": "东西", "en": "anymore", "pi": "dōng xi"},
+    {"ch": "了", "en": "", "pi": "le"}
+  ]
+}

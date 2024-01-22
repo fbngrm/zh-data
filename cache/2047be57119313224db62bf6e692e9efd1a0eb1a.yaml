@@ -1,0 +1,42 @@
+{
+  "chinese": "我会在星期一给你打电话。",
+  "english": "I will give you a call on Monday.",
+  "pinyin": "wǒ huì zài xīng qī yī gěi nǐ dǎ diàn huà。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "在",
+      "en": "on",
+      "pi": "zài"
+    },
+    {
+      "ch": "星期一",
+      "en": "Monday",
+      "pi": "xīng qī yī"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "打电话",
+      "en": "call",
+      "pi": "dǎ diàn huà"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "虽然下着大雪，但他还是来了。",
+  "english": "Although it was snowing heavily, he still came.",
+  "pinyin": "suī rán xià zhe dà xuě, dàn tā hái shì lái le.",
+  "words": [
+    {
+      "ch": "虽然",
+      "en": "Although",
+      "pi": "suī rán"
+    },
+    {
+      "ch": "下着",
+      "en": "was snowing",
+      "pi": "xià zhe"
+    },
+    {
+      "ch": "大雪",
+      "en": "heavily",
+      "pi": "dà xuě"
+    },
+    {
+      "ch": "但",
+      "en": "but",
+      "pi": "dàn"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "还是",
+      "en": "still",
+      "pi": "hái shì"
+    },
+    {
+      "ch": "来了",
+      "en": "came",
+      "pi": "lái le"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "你比较喜欢红酒还是白酒？",
+  "english": "Do you prefer red wine or white wine?",
+  "pinyin": "nǐ bǐjiào xǐhuān hóngjiǔ háishì báijiǔ?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "比较",
+      "en": "prefer",
+      "pi": "bǐjiào"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "红酒",
+      "en": "red wine",
+      "pi": "hóngjiǔ"
+    },
+    {
+      "ch": "还是",
+      "en": "or",
+      "pi": "háishì"
+    },
+    {
+      "ch": "白酒",
+      "en": "white wine",
+      "pi": "báijiǔ"
+    }
+  ]
+}

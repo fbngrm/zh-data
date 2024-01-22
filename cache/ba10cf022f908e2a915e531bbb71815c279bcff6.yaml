@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆上了车，启动了发动机。",
+  "english": "Tom got on the car and started the engine.",
+  "pinyin": "tāng mǔ shàng le chē, qǐ dòng le fā dòng jī。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "上了",
+      "en": "got on",
+      "pi": "shàng le"
+    },
+    {
+      "ch": "车",
+      "en": "car",
+      "pi": "chē"
+    },
+    {
+      "ch": "启动了",
+      "en": "started",
+      "pi": "qǐ dòng le"
+    },
+    {
+      "ch": "发动机",
+      "en": "engine",
+      "pi": "fā dòng jī"
+    }
+  ]
+}

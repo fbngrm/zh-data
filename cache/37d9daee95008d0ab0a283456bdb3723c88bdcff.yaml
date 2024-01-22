@@ -1,0 +1,32 @@
+{
+  "chinese": "很棒，不是吗？",
+  "english": "Awesome, isn't it?",
+  "pinyin": "hěn bàng, bù shì ma?",
+  "words": [
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "棒",
+      "en": "awesome",
+      "pi": "bàng"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": ""
+    },
+    {
+      "ch": "不是",
+      "en": "isn't it",
+      "pi": "bù shì"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

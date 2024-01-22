@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆在交通意外中受了重伤。",
+  "english": "Tom was seriously injured in a traffic accident.",
+  "pinyin": "Tāng mǔ zài jiāo tōng yì wài zhōng shòu le zhòng shāng。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "交通",
+      "en": "traffic",
+      "pi": "jiāo tōng"
+    },
+    {
+      "ch": "意外",
+      "en": "accident",
+      "pi": "yì wài"
+    },
+    {
+      "ch": "中",
+      "en": "in",
+      "pi": "zhōng"
+    },
+    {
+      "ch": "受了",
+      "en": "was",
+      "pi": "shòu le"
+    },
+    {
+      "ch": "重伤",
+      "en": "seriously injured",
+      "pi": "zhòng shāng"
+    }
+  ]
+}

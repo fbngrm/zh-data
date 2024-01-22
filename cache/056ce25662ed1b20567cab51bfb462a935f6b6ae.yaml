@@ -1,0 +1,32 @@
+{
+  "chinese": "三加三等于六。",
+  "english": "Three plus three equals six.",
+  "pinyin": "sān jiā sān děngyú liù。",
+  "words": [
+    {
+      "ch": "三",
+      "en": "three",
+      "pi": "sān"
+    },
+    {
+      "ch": "加",
+      "en": "plus",
+      "pi": "jiā"
+    },
+    {
+      "ch": "三",
+      "en": "three",
+      "pi": "sān"
+    },
+    {
+      "ch": "等于",
+      "en": "equals",
+      "pi": "děngyú"
+    },
+    {
+      "ch": "六",
+      "en": "six",
+      "pi": "liù"
+    }
+  ]
+}

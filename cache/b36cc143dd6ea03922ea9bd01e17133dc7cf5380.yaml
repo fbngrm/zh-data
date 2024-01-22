@@ -1,0 +1,19 @@
+{
+  "chinese": "如果天气好的话，我们明天就会到达了。",
+  "english": "If the weather is good, we will arrive tomorrow.",
+  "pinyin": "Rúguǒ tiānqì hǎo dehuà, wǒmen míngtiān jiù huì dàodále.",
+  "words": [
+    {"ch": "如果", "en": "If", "pi": "rúguǒ"},
+    {"ch": "天气", "en": "weather", "pi": "tiānqì"},
+    {"ch": "好", "en": "good", "pi": "hǎo"},
+    {"ch": "的话", "en": "if", "pi": "dehuà"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "我们", "en": "we", "pi": "wǒmen"},
+    {"ch": "明天", "en": "tomorrow", "pi": "míngtiān"},
+    {"ch": "就", "en": "will", "pi": "jiù"},
+    {"ch": "会", "en": "arrive", "pi": "huì"},
+    {"ch": "到达", "en": "to", "pi": "dàodá"},
+    {"ch": "了", "en": "arrive", "pi": "le"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "sentences": [
+    {
+      "chinese": "快到七时了。",
+      "english": "It's almost 7 o'clock.",
+      "pinyin": "kuài dào qī shí le。",
+      "words": [
+        {
+          "ch": "快",
+          "en": "quick",
+          "pi": "kuài"
+        },
+        {
+          "ch": "到",
+          "en": "arrive",
+          "pi": "dào"
+        },
+        {
+          "ch": "七",
+          "en": "seven",
+          "pi": "qī"
+        },
+        {
+          "ch": "时",
+          "en": "hour",
+          "pi": "shí"
+        },
+        {
+          "ch": "了",
+          "en": "already",
+          "pi": "le"
+        }
+      ]
+    },
+    {
+      "chinese": "我们要上学了。",
+      "english": "We need to go to school.",
+      "pinyin": "wǒ men yào shàng xué le。",
+      "words": [
+        {
+          "ch": "我们",
+          "en": "we",
+          "pi": "wǒ men"
+        },
+        {
+          "ch": "要",
+          "en": "need",
+          "pi": "yào"
+        },
+        {
+          "ch": "上学",
+          "en": "go to school",
+          "pi": "shàng xué"
+        },
+        {
+          "ch": "了",
+          "en": "already",
+          "pi": "le"
+        }
+      ]
+    }
+  ]
+}

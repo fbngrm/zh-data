@@ -1,0 +1,80 @@
+{
+  "sentences": [
+    {
+      "chinese": "这是一个例子。",
+      "english": "This is an example.",
+      "pinyin": "zhè shì yī gè lì zǐ。",
+      "words": [
+        {
+          "ch": "这是",
+          "en": "This is",
+          "pi": "zhè shì"
+        },
+        {
+          "ch": "一个",
+          "en": "an",
+          "pi": "yī gè"
+        },
+        {
+          "ch": "例子",
+          "en": "example",
+          "pi": "lì zǐ"
+        }
+      ]
+    },
+    {
+      "chinese": "我喜欢学习新东西。",
+      "english": "I enjoy learning new things.",
+      "pinyin": "wǒ xǐ huān xué xí xīn dōng xī。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "喜欢",
+          "en": "enjoy",
+          "pi": "xǐ huān"
+        },
+        {
+          "ch": "学习",
+          "en": "learning",
+          "pi": "xué xí"
+        },
+        {
+          "ch": "新",
+          "en": "new",
+          "pi": "xīn"
+        },
+        {
+          "ch": "东西",
+          "en": "things",
+          "pi": "dōng xī"
+        }
+      ]
+    },
+    {
+      "chinese": "明天要下雨。",
+      "english": "It's going to rain tomorrow.",
+      "pinyin": "míng tiān yào xià yǔ。",
+      "words": [
+        {
+          "ch": "明天",
+          "en": "tomorrow",
+          "pi": "míng tiān"
+        },
+        {
+          "ch": "要",
+          "en": "going to",
+          "pi": "yào"
+        },
+        {
+          "ch": "下雨",
+          "en": "rain",
+          "pi": "xià yǔ"
+        }
+      ]
+    }
+  ]
+}

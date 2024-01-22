@@ -1,0 +1,14 @@
+{
+  "chinese": "下个月开始我不订报纸了。",
+  "english": "I won't subscribe to newspapers starting next month.",
+  "pinyin": "xià gè yuè kāi shǐ wǒ bù dìng bào zhǐ le.",
+  "words": [
+    {"ch": "下个月", "en": "next month", "pi": "xià gè yuè"},
+    {"ch": "开始", "en": "start", "pi": "kāi shǐ"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "订", "en": "subscribe", "pi": "dìng"},
+    {"ch": "报纸", "en": "newspapers", "pi": "bào zhǐ"},
+    {"ch": "了", "en": "an indication of a finished or completed action", "pi": "le"}
+  ]
+}

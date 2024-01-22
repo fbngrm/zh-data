@@ -1,0 +1,27 @@
+{
+  "chinese": "这是个蛋。",
+  "english": "This is an egg.",
+  "pinyin": "zhè shì gè dàn.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "个",
+      "en": "an",
+      "pi": "gè"
+    },
+    {
+      "ch": "蛋",
+      "en": "egg",
+      "pi": "dàn"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我曾经在中国不到一个月。",
+  "english": "I have been in China for less than a month.",
+  "pinyin": "wǒ céngjīng zài zhōngguó búdào yīgè yuè.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "曾经",
+      "en": "have been",
+      "pi": "céngjīng"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "中国",
+      "en": "China",
+      "pi": "zhōngguó"
+    },
+    {
+      "ch": "不到",
+      "en": "less than",
+      "pi": "búdào"
+    },
+    {
+      "ch": "一个",
+      "en": "one",
+      "pi": "yīgè"
+    },
+    {
+      "ch": "月",
+      "en": "month",
+      "pi": "yuè"
+    }
+  ]
+}

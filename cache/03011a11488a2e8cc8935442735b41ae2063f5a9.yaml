@@ -1,0 +1,14 @@
+{
+  "chinese": "這間酒店的交通位置很方便。",
+  "english": "The transportation location of this hotel is very convenient.",
+  "pinyin": "zhè jiān jiǔ diàn de jiāo tōng wèi zhi hěn fāng biàn。",
+  "words": [
+    {"ch": "這間", "en": "this", "pi": "zhè jiān"},
+    {"ch": "酒店", "en": "hotel", "pi": "jiǔ diàn"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "交通", "en": "transportation", "pi": "jiāo tōng"},
+    {"ch": "位置", "en": "location", "pi": "wèi zhī"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "方便", "en": "convenient", "pi": "fāng biàn"}
+  ]
+}

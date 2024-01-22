@@ -1,0 +1,32 @@
+{
+  "chinese": "这是一件十分重要的事。",
+  "english": "This is a very important matter.",
+  "pinyin": "zhè shì yī jiàn shífēn zhòngyào de shì。",
+  "words": [
+    {
+      "ch": "这是",
+      "en": "This is",
+      "pi": "zhè shì"
+    },
+    {
+      "ch": "一件",
+      "en": "a",
+      "pi": "yī jiàn"
+    },
+    {
+      "ch": "十分",
+      "en": "very",
+      "pi": "shífēn"
+    },
+    {
+      "ch": "重要",
+      "en": "important",
+      "pi": "zhòngyào"
+    },
+    {
+      "ch": "的事",
+      "en": "matter",
+      "pi": "de shì"
+    }
+  ]
+}

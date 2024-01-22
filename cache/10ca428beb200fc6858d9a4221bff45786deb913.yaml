@@ -1,0 +1,32 @@
+{
+  "chinese": "电影持续了２个小时。",
+  "english": "The movie lasted for two hours.",
+  "pinyin": "diàn yǐng chí xù le èr gè xiǎo shí。",
+  "words": [
+    {
+      "ch": "电影",
+      "en": "movie",
+      "pi": "diàn yǐng"
+    },
+    {
+      "ch": "持续",
+      "en": "lasted",
+      "pi": "chí xù"
+    },
+    {
+      "ch": "了",
+      "en": "for",
+      "pi": "le"
+    },
+    {
+      "ch": "２个",
+      "en": "two",
+      "pi": "èr gè"
+    },
+    {
+      "ch": "小时",
+      "en": "hours",
+      "pi": "xiǎo shí"
+    }
+  ]
+}

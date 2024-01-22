@@ -1,0 +1,27 @@
+{
+  "chinese": "这些鞋是她的。",
+  "english": "These shoes are hers.",
+  "pinyin": "zhè xiē xié shì tā de。",
+  "words": [
+    {
+      "ch": "这些",
+      "en": "These",
+      "pi": "zhè xiē"
+    },
+    {
+      "ch": "鞋",
+      "en": "shoes",
+      "pi": "xié"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "她的",
+      "en": "hers",
+      "pi": "tā de"
+    }
+  ]
+}

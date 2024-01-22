@@ -1,0 +1,27 @@
+{
+  "chinese": "他是老师吗?",
+  "english": "Is he a teacher?",
+  "pinyin": "tā shì lǎo shī ma?",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "老师",
+      "en": "teacher",
+      "pi": "lǎo shī"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

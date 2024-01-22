@@ -1,0 +1,16 @@
+{
+  "chinese": "她住在一栋两层楼的房子。",
+  "english": "She lives in a two-story house.",
+  "pinyin": "tā zhù zài yī dòng liǎng céng lóu de fángzi.",
+  "words": [
+    {"ch": "她", "en": "she", "pi": "tā"},
+    {"ch": "住", "en": "live", "pi": "zhù"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "一", "en": "one", "pi": "yī"},
+    {"ch": "栋", "en": "building", "pi": "dòng"},
+    {"ch": "两层", "en": "two-story", "pi": "liǎng céng"},
+    {"ch": "楼", "en": "floor", "pi": "lóu"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "房子", "en": "house", "pi": "fángzi"}
+  ]
+}

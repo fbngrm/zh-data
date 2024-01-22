@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆把电视调大声。",
+  "english": "Tom turned up the volume on the TV.",
+  "pinyin": "tāng mǔ bǎ diàn shì diào dà shēng。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "把",
+      "en": "turn",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "电视",
+      "en": "TV",
+      "pi": "diàn shì"
+    },
+    {
+      "ch": "调",
+      "en": "up",
+      "pi": "diào"
+    },
+    {
+      "ch": "大声",
+      "en": "volume",
+      "pi": "dà shēng"
+    }
+  ]
+}

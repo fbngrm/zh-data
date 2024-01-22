@@ -1,0 +1,37 @@
+{
+  "chinese": "他最近從法國回來了。",
+  "english": "He recently came back from France.",
+  "pinyin": "tā zuìjìn cóng fǎguó huílái le。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "最近",
+      "en": "recently",
+      "pi": "zuìjìn"
+    },
+    {
+      "ch": "從",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "法國",
+      "en": "France",
+      "pi": "fǎguó"
+    },
+    {
+      "ch": "回來",
+      "en": "come back",
+      "pi": "huílái"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

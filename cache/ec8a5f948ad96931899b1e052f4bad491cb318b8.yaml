@@ -1,0 +1,13 @@
+{
+  "chinese": "我想和你共进早餐。",
+  "english": "I want to have breakfast with you.",
+  "pinyin": "wǒ xiǎng hé nǐ gòng jìn zǎo cān。",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "想", "en": "want", "pi": "xiǎng" },
+    { "ch": "和", "en": "with", "pi": "hé" },
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "共进", "en": "have together", "pi": "gòng jìn" },
+    { "ch": "早餐", "en": "breakfast", "pi": "zǎo cān" }
+  ]
+}

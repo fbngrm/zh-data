@@ -1,0 +1,32 @@
+{
+  "chinese": "你要用这个吗？",
+  "english": "Do you want to use this?",
+  "pinyin": "nǐ yào yòng zhè gè ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "用",
+      "en": "to use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "昨晚有一场大火。",
+  "english": "There was a big fire last night.",
+  "pinyin": "zuó wǎn yǒu yī chǎng dà huǒ。",
+  "words": [
+    {
+      "ch": "昨晚",
+      "en": "last night",
+      "pi": "zuó wǎn"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一场",
+      "en": "a",
+      "pi": "yī chǎng"
+    },
+    {
+      "ch": "大火",
+      "en": "big fire",
+      "pi": "dà huǒ"
+    }
+  ]
+}

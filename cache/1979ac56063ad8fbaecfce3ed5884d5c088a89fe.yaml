@@ -1,0 +1,17 @@
+{
+  "chinese": "我的书有过半数被昨晚的那场火灾烧毁了。",
+  "english": "More than half of my books were destroyed in the fire last night.",
+  "pinyin": "Wǒ de shū yǒu guò bànshù bèi zuówǎn de nà chǎng huǒzāi shāohuǐle.",
+  "words": [
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "书", "en": "book", "pi": "shū"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "过半数", "en": "more than half", "pi": "guò bànshù"},
+    {"ch": "被", "en": "by", "pi": "bèi"},
+    {"ch": "昨晚", "en": "last night", "pi": "zuówǎn"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "那场", "en": "that", "pi": "nà chǎng"},
+    {"ch": "火灾", "en": "fire", "pi": "huǒzāi"},
+    {"ch": "烧毁了", "en": "destroyed", "pi": "shāohuǐle"}
+  ]
+}

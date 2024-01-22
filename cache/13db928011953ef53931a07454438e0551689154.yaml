@@ -1,0 +1,14 @@
+{
+  "chinese": "我在聚会上见了史密斯。",
+  "english": "I saw Smith at the party.",
+  "pinyin": "Wǒ zài jùhuì shàng jiànle shǐmìsī.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "Wǒ" },
+    { "ch": "在", "en": "at, in", "pi": "zài" },
+    { "ch": "聚会", "en": "party", "pi": "jùhuì" },
+    { "ch": "上", "en": "on", "pi": "shàng" },
+    { "ch": "见", "en": "see", "pi": "jiàn" },
+    { "ch": "了", "en": "particle indicating completed action", "pi": "le" },
+    { "ch": "史密斯", "en": "Smith", "pi": "shǐmìsī" }
+  ]
+}

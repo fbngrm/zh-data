@@ -1,0 +1,32 @@
+{
+  "chinese": "小姐，今天晚上有没有空房间？",
+  "english": "Miss, do you have any vacant rooms tonight?",
+  "pinyin": "Xiǎojiě, jīntiān wǎnshàng yǒu méiyǒu kòng fángjiān?",
+  "words": [
+    {
+      "ch": "小姐",
+      "en": "Miss",
+      "pi": "xiǎojiě"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "晚上",
+      "en": "tonight",
+      "pi": "wǎnshàng"
+    },
+    {
+      "ch": "有没有",
+      "en": "do you have",
+      "pi": "yǒu méiyǒu"
+    },
+    {
+      "ch": "空房间",
+      "en": "vacant room",
+      "pi": "kòng fángjiān"
+    }
+  ]
+}

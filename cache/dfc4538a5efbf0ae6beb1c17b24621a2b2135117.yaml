@@ -1,0 +1,32 @@
+{
+  "chinese": "我已经吃晚饭了。",
+  "english": "I have already had dinner.",
+  "pinyin": "wǒ yǐjīng chī wǎnfàn le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐjīng"
+    },
+    {
+      "ch": "吃",
+      "en": "have",
+      "pi": "chī"
+    },
+    {
+      "ch": "晚饭",
+      "en": "dinner",
+      "pi": "wǎnfàn"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

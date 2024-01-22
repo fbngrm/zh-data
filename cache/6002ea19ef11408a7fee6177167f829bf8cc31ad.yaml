@@ -1,0 +1,47 @@
+{
+  "chinese": "我得问你做那件事。",
+  "english": "I need to ask you to do that thing.",
+  "pinyin": "wǒ dé wèn nǐ zuò nà jiàn shì。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "得",
+      "en": "need to",
+      "pi": "dé"
+    },
+    {
+      "ch": "问",
+      "en": "ask",
+      "pi": "wèn"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "做",
+      "en": "to do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "件",
+      "en": "thing",
+      "pi": "jiàn"
+    },
+    {
+      "ch": "事",
+      "en": "matter",
+      "pi": "shì"
+    }
+  ]
+}

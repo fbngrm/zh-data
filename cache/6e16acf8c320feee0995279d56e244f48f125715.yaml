@@ -1,0 +1,17 @@
+{
+  "chinese": "请您在这本书上签名好吗?",
+  "english": "Can you please sign on this book?",
+  "pinyin": "qǐng nín zài zhè běn shū shàng qiānmíng hǎo ma?",
+  "words": [
+    { "ch": "请", "en": "please", "pi": "qǐng" },
+    { "ch": "您", "en": "you", "pi": "nín" },
+    { "ch": "在", "en": "on", "pi": "zài" },
+    { "ch": "这", "en": "this", "pi": "zhè" },
+    { "ch": "本", "en": "book", "pi": "běn" },
+    { "ch": "书", "en": "book", "pi": "shū" },
+    { "ch": "上", "en": "on", "pi": "shàng" },
+    { "ch": "签名", "en": "sign", "pi": "qiānmíng" },
+    { "ch": "好", "en": "good", "pi": "hǎo" },
+    { "ch": "吗", "en": "?", "pi": "ma" }
+  ]
+}

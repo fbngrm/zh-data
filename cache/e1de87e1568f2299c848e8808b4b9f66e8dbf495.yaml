@@ -1,0 +1,42 @@
+{
+  "chinese": "这是我最喜欢的项目。",
+  "english": "This is my favorite project.",
+  "pinyin": "zhè shì wǒ zuì xǐhuan de xiàngmù.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我",
+      "en": "my",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "最",
+      "en": "favorite",
+      "pi": "zuì"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuan"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "项目",
+      "en": "project",
+      "pi": "xiàngmù"
+    }
+  ]
+}

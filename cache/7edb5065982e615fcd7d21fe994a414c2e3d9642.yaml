@@ -1,0 +1,21 @@
+{
+  "chinese": "对于其他的六亿人口而言，英语不是第二语言就是外语。",
+  "english": "For the other 600 million people, English is either a second language or a foreign language.",
+  "pinyin": "duì yú qí tā de liù yì rén kǒu ér yán, yīng yǔ bú shì dì èr yǔ yán jiù shì wài yǔ.",
+  "words": [
+    {"ch": "对于", "en": "For", "pi": "duì yú"},
+    {"ch": "其他", "en": "other", "pi": "qí tā"},
+    {"ch": "的", "en": "the", "pi": "de"},
+    {"ch": "六亿", "en": "600 million", "pi": "liù yì"},
+    {"ch": "人口", "en": "population", "pi": "rén kǒu"},
+    {"ch": "而言", "en": "regarding", "pi": "ér yán"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "英语", "en": "English", "pi": "yīng yǔ"},
+    {"ch": "不是", "en": "is not", "pi": "bú shì"},
+    {"ch": "第二", "en": "second", "pi": "dì èr"},
+    {"ch": "语言", "en": "language", "pi": "yǔ yán"},
+    {"ch": "就是", "en": "either", "pi": "jiù shì"},
+    {"ch": "外语", "en": "foreign language", "pi": "wài yǔ"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

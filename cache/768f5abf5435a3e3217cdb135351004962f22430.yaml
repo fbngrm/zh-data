@@ -1,0 +1,32 @@
+{
+  "chinese": "鱼与熊掌不可兼得。",
+  "english": "You can't have both fish and bear's paw.",
+  "pinyin": "yú yǔ xióng zhǎng bù kě jiān dé.",
+  "words": [
+    {
+      "ch": "鱼",
+      "en": "fish",
+      "pi": "yú"
+    },
+    {
+      "ch": "与",
+      "en": "and",
+      "pi": "yǔ"
+    },
+    {
+      "ch": "熊掌",
+      "en": "bear's paw",
+      "pi": "xióng zhǎng"
+    },
+    {
+      "ch": "不可",
+      "en": "cannot",
+      "pi": "bù kě"
+    },
+    {
+      "ch": "兼得",
+      "en": "have both",
+      "pi": "jiān dé"
+    }
+  ]
+}

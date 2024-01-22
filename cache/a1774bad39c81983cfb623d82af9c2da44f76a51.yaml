@@ -1,0 +1,91 @@
+{
+  "s1": {
+    "chinese": "這些字母全都左右倒轉了！",
+    "english": "These letters are all backward!",
+    "pinyin": "zhè xiē zì mǔ quán dōu zuǒ yòu dǎo zhuǎn le！",
+    "words": [
+      {
+        "ch": "這些",
+        "en": "These",
+        "pi": "zhè xiē"
+      },
+      {
+        "ch": "字母",
+        "en": "letters",
+        "pi": "zì mǔ"
+      },
+      {
+        "ch": "全都",
+        "en": "all",
+        "pi": "quán dōu"
+      },
+      {
+        "ch": "左右",
+        "en": "backward",
+        "pi": "zuǒ yòu"
+      },
+      {
+        "ch": "倒轉",
+        "en": "reverse",
+        "pi": "dǎo zhuǎn"
+      },
+      {
+        "ch": "了！",
+        "en": "!",
+        "pi": "le！"
+      }
+    ]
+  },
+  "s2": {
+    "chinese": "才不是呢，這是俄文，俄文的字母就是這樣寫的。",
+    "english": "No way, this is Russian. Russian letters are written like this.",
+    "pinyin": "cái bù shì ne，zhè shì é wén，é wén de zì mǔ jiù shì zhè yàng xiě de。",
+    "words": [
+      {
+        "ch": "才不是",
+        "en": "No way",
+        "pi": "cái bù shì"
+      },
+      {
+        "ch": "呢，",
+        "en": "this is",
+        "pi": "ne，"
+      },
+      {
+        "ch": "這是",
+        "en": "this is",
+        "pi": "zhè shì"
+      },
+      {
+        "ch": "俄文，",
+        "en": "Russian",
+        "pi": "é wén，"
+      },
+      {
+        "ch": "俄文的",
+        "en": "Russian",
+        "pi": "é wén de"
+      },
+      {
+        "ch": "字母",
+        "en": "letters",
+        "pi": "zì mǔ"
+      },
+      {
+        "ch": "就是",
+        "en": "are",
+        "pi": "jiù shì"
+      },
+      {
+        "ch": "這樣",
+        "en": "like this",
+        "pi": "zhè yàng"
+      },
+      {
+        "ch": "寫的。",
+        "en": "written.",
+        "pi": "xiě de。"
+      }
+    ]
+  }
+}

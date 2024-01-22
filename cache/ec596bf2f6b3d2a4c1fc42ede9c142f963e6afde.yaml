@@ -1,0 +1,47 @@
+{
+  "chinese": "你犯了跟上次相同的错误。",
+  "english": "You made the same mistake as last time.",
+  "pinyin": "nǐ fàn le gēn shàng cì xiāng tóng de cuò wù。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "犯",
+      "en": "made",
+      "pi": "fàn"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "跟",
+      "en": "the same as",
+      "pi": "gēn"
+    },
+    {
+      "ch": "上次",
+      "en": "last time",
+      "pi": "shàng cì"
+    },
+    {
+      "ch": "相同",
+      "en": "same",
+      "pi": "xiāng tóng"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "错误",
+      "en": "mistake",
+      "pi": "cuò wù"
+    }
+  ]
+}

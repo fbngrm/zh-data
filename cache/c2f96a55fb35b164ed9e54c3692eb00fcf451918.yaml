@@ -1,0 +1,42 @@
+{
+  "chinese": "我想你读一下这封信。",
+  "english": "I want you to read this letter.",
+  "pinyin": "wǒ xiǎng nǐ dú yí xià zhè fēng xìn。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "读",
+      "en": "to read",
+      "pi": "dú"
+    },
+    {
+      "ch": "一下",
+      "en": "a bit",
+      "pi": "yí xià"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "封信",
+      "en": "letter",
+      "pi": "fēng xìn"
+    }
+  ]
+}

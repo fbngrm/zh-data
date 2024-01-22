@@ -1,0 +1,42 @@
+{
+  "chinese": "你想陪我逛公园吗？",
+  "english": "Do you want to accompany me to the park?",
+  "pinyin": "nǐ xiǎng péi wǒ guàng gōngyuán ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "陪",
+      "en": "accompany",
+      "pi": "péi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "逛",
+      "en": "to stroll",
+      "pi": "guàng"
+    },
+    {
+      "ch": "公园",
+      "en": "park",
+      "pi": "gōngyuán"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

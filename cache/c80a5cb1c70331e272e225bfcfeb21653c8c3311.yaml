@@ -1,0 +1,15 @@
+{
+    "chinese": "我希望你留在这儿久一点。",
+    "english": "I hope you stay here a bit longer.",
+    "pinyin": "wǒ xīwàng nǐ liú zài zhèr jiǔ yīdiǎn。",
+    "words": [
+        { "ch": "我", "en": "I", "pi": "wǒ" },
+        { "ch": "希望", "en": "hope", "pi": "xīwàng" },
+        { "ch": "你", "en": "you", "pi": "nǐ" },
+        { "ch": "留", "en": "stay", "pi": "liú" },
+        { "ch": "在", "en": "here", "pi": "zài" },
+        { "ch": "这儿", "en": "this place", "pi": "zhèr" },
+        { "ch": "久", "en": "long", "pi": "jiǔ" },
+        { "ch": "一点", "en": "a bit", "pi": "yīdiǎn" }
+    ]
+}

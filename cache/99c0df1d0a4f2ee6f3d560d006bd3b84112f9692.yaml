@@ -1,0 +1,32 @@
+{
+  "chinese": "她住在罗素广场56号。",
+  "english": "She lives at 56 Russell Square.",
+  "pinyin": "Tā zhù zài Luósī guǎngchǎng 56 hào.",
+  "words": [
+    {
+      "ch":"她",
+      "en":"She",
+      "pi":"tā"
+    },
+    {
+      "ch":"住",
+      "en":"lives",
+      "pi":"zhù"
+    },
+    {
+      "ch":"在",
+      "en":"at",
+      "pi":"zài"
+    },
+    {
+      "ch":"罗素广场",
+      "en":"Russell Square",
+      "pi":"Luósī guǎngchǎng"
+    },
+    {
+      "ch":"56号",
+      "en":"56",
+      "pi":"56 hào"
+    }
+  ]
+}

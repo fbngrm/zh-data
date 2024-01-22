@@ -1,0 +1,32 @@
+{
+  "chinese": "让你久等了！",
+  "english": "Sorry to keep you waiting for so long!",
+  "pinyin": "ràng nǐ jiǔ děng le!",
+  "words": [
+    {
+      "ch": "让",
+      "en": "let",
+      "pi": "ràng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "久",
+      "en": "long",
+      "pi": "jiǔ"
+    },
+    {
+      "ch": "等",
+      "en": "wait",
+      "pi": "děng"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

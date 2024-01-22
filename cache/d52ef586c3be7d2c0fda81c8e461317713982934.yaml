@@ -1,0 +1,72 @@
+{
+  "chinese": "我有五个儿子。其中两个是工程师，另一个是老师，其余的是学生。",
+  "english": "I have five sons. Two of them are engineers, one is a teacher, and the rest are students.",
+  "pinyin": "Wǒ yǒu wǔ gè ér zi. Qí zhōng liǎng gè shì gōng chéng shī, lìng yī gè shì lǎo shī, qí yú de shì xué shēng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I/me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "五个",
+      "en": "five",
+      "pi": "wǔ gè"
+    },
+    {
+      "ch": "儿子",
+      "en": "sons",
+      "pi": "ér zi"
+    },
+    {
+      "ch": "其中",
+      "en": "among",
+      "pi": "qí zhōng"
+    },
+    {
+      "ch": "两个",
+      "en": "two",
+      "pi": "liǎng gè"
+    },
+    {
+      "ch": "是",
+      "en": "are/is",
+      "pi": "shì"
+    },
+    {
+      "ch": "工程师",
+      "en": "engineers",
+      "pi": "gōng chéng shī"
+    },
+    {
+      "ch": "另一个",
+      "en": "another",
+      "pi": "lìng yī gè"
+    },
+    {
+      "ch": "老师",
+      "en": "teacher",
+      "pi": "lǎo shī"
+    },
+    {
+      "ch": "其余的",
+      "en": "the rest",
+      "pi": "qí yú de"
+    },
+    {
+      "ch": "是",
+      "en": "are/is",
+      "pi": "shì"
+    },
+    {
+      "ch": "学生",
+      "en": "students",
+      "pi": "xué shēng"
+    }
+  ]
+}

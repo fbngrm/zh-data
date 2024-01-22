@@ -1,0 +1,42 @@
+{
+  "chinese": "老板在开会，没有时间见你。",
+  "english": "The boss is in a meeting and doesn't have time to see you.",
+  "pinyin": "Lǎobǎn zài kāihuì, méiyǒu shíjiān jiàn nǐ。",
+  "words": [
+    {
+      "ch": "老板",
+      "en": "boss",
+      "pi": "lǎobǎn"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "开会",
+      "en": "meeting",
+      "pi": "kāihuì"
+    },
+    {
+      "ch": "没有",
+      "en": "not have",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "时间",
+      "en": "time",
+      "pi": "shíjiān"
+    },
+    {
+      "ch": "见",
+      "en": "to see",
+      "pi": "jiàn"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    }
+  ]
+}

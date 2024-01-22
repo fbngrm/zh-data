@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "chinese": "我记得你。",
+      "english": "I remember you.",
+      "pinyin": "wǒ jìdé nǐ。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "记得",
+          "en": "remember",
+          "pi": "jìdé"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        }
+      ]
+    },
+    {
+      "chinese": "三年前我们见过面。",
+      "english": "We met three years ago.",
+      "pinyin": "sān nián qián wǒmen jiànguò miàn。",
+      "words": [
+        {
+          "ch": "三年前",
+          "en": "three years ago",
+          "pi": "sān nián qián"
+        },
+        {
+          "ch": "我们",
+          "en": "we",
+          "pi": "wǒmen"
+        },
+        {
+          "ch": "见过",
+          "en": "met",
+          "pi": "jiànguò"
+        },
+        {
+          "ch": "面",
+          "en": "face",
+          "pi": "miàn"
+        }
+      ]
+    }
+  ]
+}

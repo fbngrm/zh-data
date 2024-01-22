@@ -1,0 +1,12 @@
+{
+  "chinese": "对不起，我拨错了号码。",
+  "english": "I'm sorry, I dialed the wrong number.",
+  "pinyin": "Duì bù qǐ, wǒ bō cuò le hào mǎ.",
+  "words": [
+    {"ch": "对不起", "en": "I'm sorry", "pi": "Duì bù qǐ"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "拨错", "en": "dial the wrong", "pi": "bō cuò"},
+    {"ch": "了", "en": "the", "pi": "le"},
+    {"ch": "号码", "en": "number", "pi": "hào mǎ"}
+  ]
+}

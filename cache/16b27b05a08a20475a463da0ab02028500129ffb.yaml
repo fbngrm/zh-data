@@ -1,0 +1,42 @@
+{
+  "chinese": "你的电脑有什么问题？",
+  "english": "What problem do you have with your computer?",
+  "pinyin": "Nǐ de diànnǎo yǒu shé me wèntí?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "your",
+      "pi": "de"
+    },
+    {
+      "ch": "电脑",
+      "en": "computer",
+      "pi": "diànnǎo"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shé me"
+    },
+    {
+      "ch": "问题",
+      "en": "problem",
+      "pi": "wèntí"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "?"
+    }
+  ]
+}

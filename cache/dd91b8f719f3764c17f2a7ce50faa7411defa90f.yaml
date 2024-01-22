@@ -1,0 +1,14 @@
+{
+  "chinese": "我出门不喜欢带很多行李。",
+  "english": "I don't like to bring a lot of luggage when I go out.",
+  "pinyin": "wǒ chū mén bù xǐ huān dài hěn duō xíng lǐ。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "出门", "en": "go out", "pi": "chū mén"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "喜欢", "en": "like", "pi": "xǐ huān"},
+    {"ch": "带", "en": "bring", "pi": "dài"},
+    {"ch": "很多", "en": "a lot", "pi": "hěn duō"},
+    {"ch": "行李", "en": "luggage", "pi": "xíng lǐ"}
+  ]
+}

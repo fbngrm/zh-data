@@ -1,0 +1,52 @@
+{
+  "chinese": "你收到我寄给你的包裹了吗？",
+  "english": "Did you receive the package I sent you?",
+  "pinyin": "nǐ shōudào wǒ jì gěi nǐ de bāoguǒ le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en":"you",
+      "pi":"nǐ"
+    },
+    {
+      "ch": "收到",
+      "en":"receive",
+      "pi":"shōudào"
+    },
+    {
+      "ch": "我",
+      "en":"I",
+      "pi":"wǒ"
+    },
+    {
+      "ch": "寄给",
+      "en":"sent to",
+      "pi":"jì gěi"
+    },
+    {
+      "ch": "你",
+      "en":"you",
+      "pi":"nǐ"
+    },
+    {
+      "ch": "的",
+      "en":"",
+      "pi":"de"
+    },
+    {
+      "ch": "包裹",
+      "en":"package",
+      "pi":"bāoguǒ"
+    },
+    {
+      "ch": "了",
+      "en":"",
+      "pi":"le"
+    },
+    {
+      "ch": "吗",
+      "en":"",
+      "pi":"ma"
+    }
+  ]
+}

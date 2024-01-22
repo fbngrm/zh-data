@@ -1,0 +1,13 @@
+{
+  "chinese": "汤姆掏出钥匙开了门。",
+  "english": "Tom took out the keys and opened the door.",
+  "pinyin": "Tāng mǔ tāo chū yàoshi kāi le mén.",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ"},
+    {"ch": "掏出", "en": "took out", "pi": "tāo chū"},
+    {"ch": "钥匙", "en": "keys", "pi": "yàoshi"},
+    {"ch": "开", "en": "opened", "pi": "kāi"},
+    {"ch": "了", "en": "and", "pi": "le"},
+    {"ch": "门", "en": "door", "pi": "mén"}
+  ]
+}

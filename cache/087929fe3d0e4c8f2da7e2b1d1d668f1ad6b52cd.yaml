@@ -1,0 +1,32 @@
+{
+  "chinese": "奶牛为我们提供牛奶。",
+  "english": "Cows provide us with milk.",
+  "pinyin": "nǎi niú wèi wǒ men tí gōng niú nǎi。",
+  "words": [
+    {
+      "ch": "奶牛",
+      "en": "cows",
+      "pi": "nǎi niú"
+    },
+    {
+      "ch": "为",
+      "en": "provide",
+      "pi": "wèi"
+    },
+    {
+      "ch": "我们",
+      "en": "us",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "提供",
+      "en": "with",
+      "pi": "tí gōng"
+    },
+    {
+      "ch": "牛奶",
+      "en": "milk",
+      "pi": "niú nǎi"
+    }
+  ]
+}

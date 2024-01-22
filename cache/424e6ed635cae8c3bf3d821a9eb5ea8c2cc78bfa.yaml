@@ -1,0 +1,32 @@
+{
+  "chinese": "加注释使代码更易读。",
+  "english": "Add comments to make the code more readable.",
+  "pinyin": "jiā zhù shì shǐ dài mǎ dài gēng yì dú.",
+  "words": [
+    {
+      "ch": "加注释",
+      "en": "Add comments",
+      "pi": "jiā zhù shì"
+    },
+    {
+      "ch": "使",
+      "en": "to make",
+      "pi": "shǐ"
+    },
+    {
+      "ch": "代码",
+      "en": "code",
+      "pi": "dài mǎ"
+    },
+    {
+      "ch": "更",
+      "en": "more",
+      "pi": "gēng"
+    },
+    {
+      "ch": "易读",
+      "en": "readable",
+      "pi": "yì dú"
+    }
+  ]
+}

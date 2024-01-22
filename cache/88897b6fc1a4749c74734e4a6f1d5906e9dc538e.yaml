@@ -1,0 +1,42 @@
+{
+  "chinese": "我們看漏了這件重要的事。",
+  "english": "We missed this important thing.",
+  "pinyin": "wǒmen kàn lòu le zhè jiàn zhòngyào de shì。",
+  "words": [
+    {
+      "ch": "我們",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "看",
+      "en": "see",
+      "pi": "kàn"
+    },
+    {
+      "ch": "漏",
+      "en": "miss",
+      "pi": "lòu"
+    },
+    {
+      "ch": "了",
+      "en": "past tense particle",
+      "pi": "le"
+    },
+    {
+      "ch": "這件",
+      "en": "this",
+      "pi": "zhè jiàn"
+    },
+    {
+      "ch": "重要的",
+      "en": "important",
+      "pi": "zhòngyào de"
+    },
+    {
+      "ch": "事",
+      "en": "thing",
+      "pi": "shì"
+    }
+  ]
+}

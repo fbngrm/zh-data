@@ -1,0 +1,27 @@
+{
+  "chinese": "桌上有个杯子。",
+  "english": "There is a cup on the table.",
+  "pinyin": "Zhuō shàng yǒu gè bēi zi.",
+  "words": [
+    {
+      "ch": "桌上",
+      "en": "on the table",
+      "pi": "zhuō shàng"
+    },
+    {
+      "ch": "有",
+      "en": "there is",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "杯子",
+      "en": "cup",
+      "pi": "bēi zi"
+    }
+  ]
+}

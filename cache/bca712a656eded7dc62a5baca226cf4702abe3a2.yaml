@@ -1,0 +1,42 @@
+{
+  "chinese": "我是自学这门语言的。",
+  "english": "I learned this language by myself.",
+  "pinyin": "wǒ shì zì xué zhè mén yǔ yán de.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "是",
+      "en": "am",
+      "pi": "shì"
+    },
+    {
+      "ch": "自学",
+      "en": "learn by oneself",
+      "pi": "zì xué"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "门",
+      "en": "language",
+      "pi": "mén"
+    },
+    {
+      "ch": "语言",
+      "en": "language",
+      "pi": "yǔ yán"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    }
+  ]
+}

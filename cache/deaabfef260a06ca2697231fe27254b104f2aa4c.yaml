@@ -1,0 +1,27 @@
+{
+  "chinese": "你昨晚做了什么？",
+  "english": "What did you do last night?",
+  "pinyin": "nǐ zuó wǎn zuò le shénme?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "昨晚",
+      "en": "last night",
+      "pi": "zuó wǎn"
+    },
+    {
+      "ch": "做了",
+      "en": "did",
+      "pi": "zuò le"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    }
+  ]
+}

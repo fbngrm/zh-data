@@ -1,0 +1,42 @@
+{
+  "chinese": "我发现这本漫画书非常有趣。",
+  "english": "I find this comic book very interesting.",
+  "pinyin": "wǒ fāxiàn zhè běn mànhuà shū fēicháng yǒuqù。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "发现",
+      "en": "find",
+      "pi": "fāxiàn"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "漫画书",
+      "en": "comic book",
+      "pi": "mànhuà shū"
+    },
+    {
+      "ch": "非常",
+      "en": "very",
+      "pi": "fēicháng"
+    },
+    {
+      "ch": "有趣",
+      "en": "interesting",
+      "pi": "yǒuqù"
+    }
+  ]
+}

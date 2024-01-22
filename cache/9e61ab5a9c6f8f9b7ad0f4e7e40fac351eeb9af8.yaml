@@ -1,0 +1,15 @@
+{
+  "chinese": "你打来的时候我正准备出门。",
+  "english": "When you called, I was just about to go out.",
+  "pinyin": "nǐ dǎ lái de shí hòu wǒ zhèng zhǔn bèi chū mén。",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "打来", "en": "called", "pi": "dǎ lái"},
+    {"ch": "的", "en": "s'", "pi": "de"},
+    {"ch": "时候", "en": "when", "pi": "shí hòu"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "正", "en": "just", "pi": "zhèng"},
+    {"ch": "准备", "en": "about to", "pi": "zhǔn bèi"},
+    {"ch": "出门", "en": "go out", "pi": "chū mén"}
+  ]
+}

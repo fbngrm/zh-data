@@ -1,0 +1,32 @@
+{
+  "chinese": "我的帽子比Jim的大。",
+  "english": "My hat is bigger than Jim's.",
+  "pinyin": "Wǒ de màozi bǐ Jim de dà.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "My",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "帽子",
+      "en": "hat",
+      "pi": "màozi"
+    },
+    {
+      "ch": "比",
+      "en": "is",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "Jim的",
+      "en": "Jim's",
+      "pi": "Jim de"
+    },
+    {
+      "ch": "大",
+      "en": "bigger",
+      "pi": "dà"
+    }
+  ]
+}

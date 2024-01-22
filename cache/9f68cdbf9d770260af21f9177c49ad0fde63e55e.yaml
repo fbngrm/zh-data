@@ -1,0 +1,13 @@
+{
+  "chinese": "我想你知道这一点。",
+  "english": "I want you to know this.",
+  "pinyin": "wǒ xiǎng nǐ zhīdào zhè yīdiǎn。",
+  "words": [
+    {"ch":"我", "en":"I", "pi":"wǒ"},
+    {"ch":"想", "en":"want", "pi":"xiǎng"},
+    {"ch":"你", "en":"you", "pi":"nǐ"},
+    {"ch":"知道", "en":"to know", "pi":"zhīdào"},
+    {"ch":"这", "en":"this", "pi":"zhè"},
+    {"ch":"一点", "en":"a little bit", "pi":"yīdiǎn"}
+  ]
+}

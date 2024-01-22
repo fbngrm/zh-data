@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆在波士顿工作。",
+  "english": "Tom works in Boston.",
+  "pinyin": "tāng mǔ zài bō shì dùn gōng zuò。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "波士顿",
+      "en": "Boston",
+      "pi": "bō shì dùn"
+    },
+    {
+      "ch": "工作",
+      "en": "works",
+      "pi": "gōng zuò"
+    }
+  ]
+}

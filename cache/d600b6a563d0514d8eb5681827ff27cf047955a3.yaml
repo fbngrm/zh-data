@@ -1,0 +1,42 @@
+{
+  "chinese": "我不知道他会不会来。",
+  "english": "I don't know if he will come or not.",
+  "pinyin": "wǒ bù zhī dào tā huì bù huì lái。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "不会",
+      "en": "if...or not",
+      "pi": "bù huì"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    }
+  ]
+}

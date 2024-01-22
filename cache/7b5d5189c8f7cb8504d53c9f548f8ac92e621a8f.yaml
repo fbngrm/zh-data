@@ -1,0 +1,42 @@
+{
+  "chinese": "這裏近幾天都在下大雨。",
+  "english": "It has been raining heavily here for the past few days.",
+  "pinyin": "zhè lǐ jìn jǐ tiān dōu zài xià dà yǔ。",
+  "words": [
+    {
+      "ch": "這裏",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "近",
+      "en": "near",
+      "pi": "jìn"
+    },
+    {
+      "ch": "幾天",
+      "en": "a few days",
+      "pi": "jǐ tiān"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "下",
+      "en": "to rain",
+      "pi": "xià"
+    },
+    {
+      "ch": "大雨",
+      "en": "heavy rain",
+      "pi": "dà yǔ"
+    }
+  ]
+}

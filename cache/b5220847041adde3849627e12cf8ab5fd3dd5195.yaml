@@ -1,0 +1,32 @@
+{
+  "chinese": "我喝咖啡不加糖。",
+  "english": "I drink coffee without sugar.",
+  "pinyin": "wǒ hē kāfēi bù jiā táng。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "喝",
+      "en": "drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kāfēi"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "加糖",
+      "en": "add sugar",
+      "pi": "jiā táng"
+    }
+  ]
+}

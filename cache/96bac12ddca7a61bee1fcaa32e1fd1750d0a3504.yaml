@@ -1,0 +1,42 @@
+{
+  "chinese": "她在中午打了电话给我。",
+  "english": "She called me at noon.",
+  "pinyin": "tā zài zhōngwǔ dǎle diànhuà gěi wǒ.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "中午",
+      "en": "noon",
+      "pi": "zhōngwǔ"
+    },
+    {
+      "ch": "打了",
+      "en": "called",
+      "pi": "dǎle"
+    },
+    {
+      "ch": "电话",
+      "en": "phone",
+      "pi": "diànhuà"
+    },
+    {
+      "ch": "给",
+      "en": "to",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    }
+  ]
+}

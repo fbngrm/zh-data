@@ -1,0 +1,14 @@
+{
+  "chinese": "我男朋友一直在中国教英文。",
+  "english": "My boyfriend has been teaching English in China.",
+  "pinyin": "wǒ nán péngyǒu yīzhí zài zhōngguó jiāo yīngwén.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "男朋友", "en": "boyfriend", "pi": "nán péngyǒu"},
+    {"ch": "一直", "en": "has been", "pi": "yīzhí"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "中国", "en": "China", "pi": "zhōngguó"},
+    {"ch": "教", "en": "teaching", "pi": "jiāo"},
+    {"ch": "英文", "en": "English", "pi": "yīngwén"}
+  ]
+}

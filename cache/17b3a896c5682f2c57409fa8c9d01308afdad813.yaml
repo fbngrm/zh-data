@@ -1,0 +1,42 @@
+{
+  "chinese": "我想去歐洲的某個地方。",
+  "english": "I want to go somewhere in Europe.",
+  "pinyin": "wǒ xiǎng qù ōu zhōu de mǒu gè dì fāng。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "歐洲",
+      "en": "Europe",
+      "pi": "ōu zhōu"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "某個",
+      "en": "somewhere",
+      "pi": "mǒu gè"
+    },
+    {
+      "ch": "地方",
+      "en": "place",
+      "pi": "dì fāng"
+    }
+  ]
+}

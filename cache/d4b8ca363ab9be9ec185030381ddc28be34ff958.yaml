@@ -1,0 +1,27 @@
+{
+  "chinese": "老虎被杀了。",
+  "english": "The tiger was killed.",
+  "pinyin": "lǎo hǔ bèi shā le.",
+  "words": [
+    {
+      "ch": "老虎",
+      "en": "tiger",
+      "pi": "lǎo hǔ"
+    },
+    {
+      "ch": "被",
+      "en": "was",
+      "pi": "bèi"
+    },
+    {
+      "ch": "杀",
+      "en": "killed",
+      "pi": "shā"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

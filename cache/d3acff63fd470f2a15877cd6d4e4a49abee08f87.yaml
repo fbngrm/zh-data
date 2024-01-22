@@ -1,0 +1,37 @@
+{
+  "chinese": "不好意思，你好像打错电话了。",
+  "english": "Sorry, it seems like you dialed the wrong number.",
+  "pinyin": "bù hǎo yì si, nǐ hǎo xiàng dǎ cuò diàn huà le。",
+  "words": [
+    {
+      "ch": "不好意思",
+      "en": "sorry",
+      "pi": "bù hǎo yì si"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "好像",
+      "en": "seems like",
+      "pi": "hǎo xiàng"
+    },
+    {
+      "ch": "打错",
+      "en": "dial wrong",
+      "pi": "dǎ cuò"
+    },
+    {
+      "ch": "电话",
+      "en": "phone number",
+      "pi": "diàn huà"
+    },
+    {
+      "ch": "了",
+      "en": "le",
+      "pi": "le"
+    }
+  ]
+}

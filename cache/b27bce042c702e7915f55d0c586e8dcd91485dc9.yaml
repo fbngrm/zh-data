@@ -1,0 +1,14 @@
+{
+  "chinese": "他因我喝酒而训斥我。",
+  "english": "He scolded me because I drank.",
+  "pinyin": "tā yīn wǒ hē jiǔ ér xùn chì wǒ.",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "因", "en": "because", "pi": "yīn"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "喝酒", "en": "drank", "pi": "hē jiǔ"},
+    {"ch": "而", "en": "and", "pi": "ér"},
+    {"ch": "训斥", "en": "scolded", "pi": "xùn chì"},
+    {"ch": "我", "en": "me", "pi": "wǒ"}
+  ]
+}

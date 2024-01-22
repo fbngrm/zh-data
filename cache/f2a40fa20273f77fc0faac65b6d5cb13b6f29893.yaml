@@ -1,0 +1,14 @@
+{
+   "chinese": "这个药让我很想睡觉。",
+   "english": "This medicine makes me feel sleepy.",
+   "pinyin": "zhè gè yào ràng wǒ hěn xiǎng shuìjiào.",
+   "words": [
+      {"ch": "这个", "en": "this", "pi": "zhè gè"},
+      {"ch": "药", "en": "medicine", "pi": "yào"},
+      {"ch": "让", "en": "makes", "pi": "ràng"},
+      {"ch": "我", "en": "me", "pi": "wǒ"},
+      {"ch": "很", "en": "feel", "pi": "hěn"},
+      {"ch": "想", "en": "want", "pi": "xiǎng"},
+      {"ch": "睡觉", "en": "sleepy", "pi": "shuìjiào"}
+   ]
+}

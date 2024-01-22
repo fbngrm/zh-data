@@ -1,0 +1,32 @@
+{
+  "chinese": "我们刚打扫了厕所。",
+  "english": "We just cleaned the toilet.",
+  "pinyin": "wǒmen gāng dǎsǎo le cèsuǒ.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "刚",
+      "en": "just",
+      "pi": "gāng"
+    },
+    {
+      "ch": "打扫",
+      "en": "cleaned",
+      "pi": "dǎsǎo"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "厕所",
+      "en": "toilet",
+      "pi": "cèsuǒ"
+    }
+  ]
+}

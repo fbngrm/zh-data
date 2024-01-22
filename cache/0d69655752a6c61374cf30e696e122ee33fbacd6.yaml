@@ -1,0 +1,42 @@
+{
+  "chinese": "他是一家电脑公司的经理。",
+  "english": "He is the manager of a computer company.",
+  "pinyin": "Tā shì yī jiā diànnǎo gōngsī de jīnglǐ。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "一家",
+      "en": "a",
+      "pi": "yī jiā"
+    },
+    {
+      "ch": "电脑",
+      "en": "computer",
+      "pi": "diànnǎo"
+    },
+    {
+      "ch": "公司",
+      "en": "company",
+      "pi": "gōngsī"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "经理",
+      "en": "manager",
+      "pi": "jīnglǐ"
+    }
+  ]
+}

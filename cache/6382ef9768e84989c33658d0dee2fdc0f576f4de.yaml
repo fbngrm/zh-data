@@ -1,0 +1,42 @@
+{
+  "chinese": "请给我你的永久地址。",
+  "english": "Please give me your permanent address.",
+  "pinyin": "qǐng gěi wǒ nǐ de yǒng jiǔ dì zhǐ。",
+  "words": [
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "你",
+      "en": "your",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "de",
+      "pi": "de"
+    },
+    {
+      "ch": "永久",
+      "en": "permanent",
+      "pi": "yǒng jiǔ"
+    },
+    {
+      "ch": "地址",
+      "en": "address",
+      "pi": "dì zhǐ"
+    }
+  ]
+}

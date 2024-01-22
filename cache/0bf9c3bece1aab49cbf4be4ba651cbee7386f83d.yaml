@@ -1,0 +1,15 @@
+{
+  "chinese": "你知道怎样使用这些命令行工具吗？",
+  "english": "Do you know how to use these command-line tools?",
+  "pinyin": "nǐ zhīdào zěnyàng shǐyòng zhèxiē mìnglíng xínggōngjù ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "知道", "en": "know", "pi": "zhīdào"},
+    {"ch": "怎样", "en": "how", "pi": "zěnyàng"},
+    {"ch": "使用", "en": "to use", "pi": "shǐyòng"},
+    {"ch": "这些", "en": "these", "pi": "zhèxiē"},
+    {"ch": "命令行", "en": "command-line", "pi": "mìnglíng xíng"},
+    {"ch": "工具", "en": "tools", "pi": "gōngjù"},
+    {"ch": "吗", "en": "?", "pi": "ma"}
+  ]
+}

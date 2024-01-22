@@ -1,0 +1,13 @@
+{
+  "chinese": "这两火车时速２０千米。",
+  "english": "These two trains have a speed of 20 kilometers per hour.",
+  "pinyin": "zhè liǎng huǒ chē shí sù ２０ qiān mǐ。",
+  "words": [
+    {"ch": "这", "en": "These", "pi": "zhè"},
+    {"ch": "两", "en": "two", "pi": "liǎng"},
+    {"ch": "火车", "en": "trains", "pi": "huǒ chē"},
+    {"ch": "时速", "en": "speed", "pi": "shí sù"},
+    {"ch": "２０", "en": "20", "pi": "２０"},
+    {"ch": "千米", "en": "kilometers", "pi": "qiān mǐ"}
+  ]
+}

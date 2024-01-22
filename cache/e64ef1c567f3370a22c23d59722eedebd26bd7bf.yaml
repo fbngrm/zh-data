@@ -1,0 +1,32 @@
+{
+  "chinese": "你真的很高，不是吗？",
+  "english": "You're really tall, aren't you?",
+  "pinyin": "nǐ zhēn de hěn gāo, bú shì ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "真的",
+      "en": "really",
+      "pi": "zhēn de"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "高",
+      "en": "tall",
+      "pi": "gāo"
+    },
+    {
+      "ch": "不是吗",
+      "en": "aren't you",
+      "pi": "bú shì ma"
+    }
+  ]
+}

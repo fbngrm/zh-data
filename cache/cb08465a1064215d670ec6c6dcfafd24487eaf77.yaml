@@ -1,0 +1,47 @@
+{
+  "chinese": "这个男孩说会来一条狼。",
+  "english": "The boy said a wolf will come.",
+  "pinyin": "zhè gè nán hái shuō huì lái yī tiáo láng.",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "男孩",
+      "en": "boy",
+      "pi": "nán hái"
+    },
+    {
+      "ch": "说",
+      "en": "said",
+      "pi": "shuō"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    },
+    {
+      "ch": "一",
+      "en": "a",
+      "pi": "yī"
+    },
+    {
+      "ch": "条",
+      "en": "measure word",
+      "pi": "tiáo"
+    },
+    {
+      "ch": "狼",
+      "en": "wolf",
+      "pi": "láng"
+    }
+  ]
+}

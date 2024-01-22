@@ -1,0 +1,32 @@
+{
+  "chinese": "他们在上数学课。",
+  "english": "They are taking a math class.",
+  "pinyin": "Tāmen zài shàng shùxué kè.",
+  "words": [
+    {
+      "ch": "他们",
+      "en": "They",
+      "pi": "Tāmen"
+    },
+    {
+      "ch": "在",
+      "en": "are",
+      "pi": "zài"
+    },
+    {
+      "ch": "上",
+      "en": "taking",
+      "pi": "shàng"
+    },
+    {
+      "ch": "数学",
+      "en": "math",
+      "pi": "shùxué"
+    },
+    {
+      "ch": "课",
+      "en": "class",
+      "pi": "kè"
+    }
+  ]
+}

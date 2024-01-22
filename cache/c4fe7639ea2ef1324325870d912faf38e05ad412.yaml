@@ -1,0 +1,26 @@
+{
+    "chinese": "你身上有零钱吗？",
+    "english": "Do you have any change on you?",
+    "pinyin": "Nǐ shēnshàng yǒu língqián ma?",
+    "words": [{
+        "ch": "你",
+        "en": "you",
+        "pi": "nǐ"
+    }, {
+        "ch": "身上",
+        "en": "on you",
+        "pi": "shēnshàng"
+    }, {
+        "ch": "有",
+        "en": "have",
+        "pi": "yǒu"
+    }, {
+        "ch": "零钱",
+        "en": "change",
+        "pi": "língqián"
+    }, {
+        "ch": "吗",
+        "en": "question particle",
+        "pi": "ma"
+    }]
+}

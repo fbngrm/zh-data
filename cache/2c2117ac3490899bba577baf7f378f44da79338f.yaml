@@ -1,0 +1,32 @@
+{
+  "chinese": "我不想学习你的语。",
+  "english": "I don't want to learn your language.",
+  "pinyin": "wǒ bù xiǎng xuéxí nǐ de yǔ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不想",
+      "en": "don't want",
+      "pi": "bù xiǎng"
+    },
+    {
+      "ch": "学习",
+      "en": "to learn",
+      "pi": "xuéxí"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "语",
+      "en": "language",
+      "pi": "yǔ"
+    }
+  ]
+}

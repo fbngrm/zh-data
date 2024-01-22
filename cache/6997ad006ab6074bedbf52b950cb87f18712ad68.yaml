@@ -1,0 +1,16 @@
+{
+  "chinese": "我的手抖得太厉害，没法穿针了。",
+  "english": "My hands are shaking too much, I can't thread the needle.",
+  "pinyin": "Wǒ de shǒu dǒu dé tài lìhài, méifǎ chuānzhēn le。",
+  "words": [
+    { "ch": "我的", "en": "My", "pi": "Wǒ de" },
+    { "ch": "手", "en": "hands", "pi": "shǒu" },
+    { "ch": "抖", "en": "shake", "pi": "dǒu" },
+    { "ch": "得", "en": "too", "pi": "dé" },
+    { "ch": "太", "en": "much", "pi": "tài" },
+    { "ch": "厉害", "en": "intense", "pi": "lìhài" },
+    { "ch": "没法", "en": "can't", "pi": "méifǎ" },
+    { "ch": "穿针", "en": "thread the needle", "pi": "chuānzhēn" },
+    { "ch": "了", "en": "", "pi": "le" }
+  ]
+}

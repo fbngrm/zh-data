@@ -1,0 +1,13 @@
+{
+   "chinese": "不好意思，你可以再说一次吗？",
+   "english": "Sorry, can you say that again?",
+   "pinyin": "bù hǎo yì sī，nǐ kě yǐ zài shuō yī cì ma?",
+   "words": [
+      {"ch": "不好意思", "en": "Sorry", "pi": "bù hǎo yì sī"},
+      {"ch": "你", "en": "you", "pi": "nǐ"},
+      {"ch": "可以", "en": "can", "pi": "kě yǐ"},
+      {"ch": "再说", "en": "say again", "pi": "zài shuō"},
+      {"ch": "一次", "en": "that once", "pi": "yī cì"},
+      {"ch": "吗", "en": "question particle", "pi": "ma"}
+   ]
+}

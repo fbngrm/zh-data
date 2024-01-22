@@ -1,0 +1,47 @@
+{
+  "chinese": "请问你能借给我三十美圆吗？",
+  "english": "Excuse me, can you lend me thirty dollars?",
+  "pinyin": "qǐngwèn nǐ néng jiè gěi wǒ sānshí měi yuán ma?",
+  "words": [
+    {
+      "ch": "请问",
+      "en": "Excuse me",
+      "pi": "qǐngwèn"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "借给",
+      "en": "lend",
+      "pi": "jiè gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "三十",
+      "en": "thirty",
+      "pi": "sānshí"
+    },
+    {
+      "ch": "美圆",
+      "en": "dollars",
+      "pi": "měi yuán"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

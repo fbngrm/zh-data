@@ -1,0 +1,62 @@
+{
+  "chinese": "我打了电话给你，但却接不通。",
+  "english": "I called you, but couldn't get through.",
+  "pinyin": "Wǒ dǎle diànhuà gěi nǐ, dàn què jiē bù tōng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "打",
+      "en": "called",
+      "pi": "dǎ"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "电话",
+      "en": "telephone",
+      "pi": "diànhuà"
+    },
+    {
+      "ch": "给",
+      "en": "to",
+      "pi": "gěi"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "，",
+      "en": "",
+      "pi": ","
+    },
+    {
+      "ch": "但",
+      "en": "but",
+      "pi": "dàn"
+    },
+    {
+      "ch": "却",
+      "en": "",
+      "pi": "què"
+    },
+    {
+      "ch": "接不通",
+      "en": "couldn't get through",
+      "pi": "jiē bù tōng"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "."
+    }
+  ]
+}

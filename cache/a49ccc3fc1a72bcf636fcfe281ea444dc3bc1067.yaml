@@ -1,0 +1,32 @@
+{
+  "chinese": "这人因谋杀被通缉。",
+  "english": "This person is wanted for murder.",
+  "pinyin": "zhè rén yīn móu shā bèi tōng jī。",
+  "words": [
+    {
+      "ch": "这人",
+      "en": "this person",
+      "pi": "zhè rén"
+    },
+    {
+      "ch": "因",
+      "en": "because of",
+      "pi": "yīn"
+    },
+    {
+      "ch": "谋杀",
+      "en": "murder",
+      "pi": "móu shā"
+    },
+    {
+      "ch": "被",
+      "en": "by",
+      "pi": "bèi"
+    },
+    {
+      "ch": "通缉",
+      "en": "wanted",
+      "pi": "tōng jī"
+    }
+  ]
+}

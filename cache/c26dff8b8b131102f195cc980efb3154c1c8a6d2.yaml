@@ -1,0 +1,32 @@
+{
+  "chinese": "我们在湖里游了泳。",
+  "english": "We swam in the lake.",
+  "pinyin": "wǒ men zài hú lǐ yóu le yǒng。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "湖里",
+      "en": "the lake",
+      "pi": "hú lǐ"
+    },
+    {
+      "ch": "游了",
+      "en": "swam",
+      "pi": "yóu le"
+    },
+    {
+      "ch": "泳",
+      "en": "in",
+      "pi": "yǒng"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "你们已经把工作结束了吗？",
+  "english": "Have you finished the work?",
+  "pinyin": "nǐ men yǐ jīng bǎ gōng zuò jié shù le ma?",
+  "words": [
+    {
+      "ch": "你们",
+      "en": "you",
+      "pi": "nǐ men"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐ jīng"
+    },
+    {
+      "ch": "把",
+      "en": "have",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "工作",
+      "en": "work",
+      "pi": "gōng zuò"
+    },
+    {
+      "ch": "结束",
+      "en": "finished",
+      "pi": "jié shù"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completion",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

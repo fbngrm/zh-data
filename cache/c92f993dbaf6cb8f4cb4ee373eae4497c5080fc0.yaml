@@ -1,0 +1,32 @@
+{
+  "chinese": "我的叔叔从来不写信。",
+  "english": "My uncle never writes letters.",
+  "pinyin": "Wǒ de shūshu cónglái bù xiěxìn.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "叔叔",
+      "en": "uncle",
+      "pi": "shūshu"
+    },
+    {
+      "ch": "从来",
+      "en": "never",
+      "pi": "cónglái"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "写信",
+      "en": "writes letters",
+      "pi": "xiěxìn"
+    }
+  ]
+}

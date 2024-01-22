@@ -1,0 +1,13 @@
+{
+  "chinese": "想不到会在这里遇见你！",
+  "english": "I didn't expect to meet you here!",
+  "pinyin": "xiǎng bù dào huì zài zhè lǐ yù jiàn nǐ!",
+  "words": [
+    {"ch": "想不到", "en": "didn't expect", "pi": "xiǎng bù dào"},
+    {"ch": "会", "en": "to", "pi": "huì"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "这里", "en": "here", "pi": "zhè lǐ"},
+    {"ch": "遇见", "en": "meet", "pi": "yù jiàn"},
+    {"ch": "你", "en": "you", "pi": "nǐ"}
+  ]
+}

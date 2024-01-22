@@ -1,0 +1,42 @@
+{
+  "chinese": "公车将在五分钟后开动。",
+  "english": "The bus will depart in five minutes.",
+  "pinyin": "Gōngchē jiāng zài wǔ fēnzhōng hòu kāidòng.",
+  "words": [
+    {
+      "ch": "公车",
+      "en": "bus",
+      "pi": "gōngchē"
+    },
+    {
+      "ch": "将",
+      "en": "will",
+      "pi": "jiāng"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "五",
+      "en": "five",
+      "pi": "wǔ"
+    },
+    {
+      "ch": "分钟",
+      "en": "minutes",
+      "pi": "fēnzhōng"
+    },
+    {
+      "ch": "后",
+      "en": "later",
+      "pi": "hòu"
+    },
+    {
+      "ch": "开动",
+      "en": "depart",
+      "pi": "kāidòng"
+    }
+  ]
+}

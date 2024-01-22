@@ -1,0 +1,42 @@
+{
+  "chinese": "丽萨不但会说英文，而且会说法文。",
+  "english": "Lisa can not only speak English, but also speak French.",
+  "pinyin": "Lì sà bùdàn huì shuō yīngwén, érqiě huì shuō fǎwén.",
+  "words": [
+    {
+      "ch": "丽萨",
+      "en": "Lisa",
+      "pi": "Lì sà"
+    },
+    {
+      "ch": "不但",
+      "en": "not only",
+      "pi": "bù dàn"
+    },
+    {
+      "ch": "会说",
+      "en": "can speak",
+      "pi": "huì shuō"
+    },
+    {
+      "ch": "英文",
+      "en": "English",
+      "pi": "yīngwén"
+    },
+    {
+      "ch": "而且",
+      "en": "but also",
+      "pi": "érqiě"
+    },
+    {
+      "ch": "会说",
+      "en": "can speak",
+      "pi": "huì shuō"
+    },
+    {
+      "ch": "法文",
+      "en": "French",
+      "pi": "fǎwén"
+    }
+  ]
+}

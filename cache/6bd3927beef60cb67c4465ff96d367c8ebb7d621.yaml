@@ -1,0 +1,32 @@
+{
+  "chinese": "他喜欢的是果冻。",
+  "english": "He likes jelly.",
+  "pinyin": "Tā xǐhuān de shì guǒdòng.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "喜欢",
+      "en": "likes",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "果冻",
+      "en": "jelly",
+      "pi": "guǒdòng"
+    }
+  ]
+}

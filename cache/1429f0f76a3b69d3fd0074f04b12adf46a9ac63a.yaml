@@ -1,0 +1,32 @@
+{
+   "chinese": "我们在体育馆打篮球。",
+   "english": "We play basketball in the gym.",
+   "pinyin": "wǒmen zài tǐyùguǎn dǎ lánqiú。",
+   "words": [
+      {
+         "ch": "我们",
+         "en": "We",
+         "pi": "wǒmen"
+      },
+      {
+         "ch": "在",
+         "en": "in/at",
+         "pi": "zài"
+      },
+      {
+         "ch": "体育馆",
+         "en": "gym",
+         "pi": "tǐyùguǎn"
+      },
+      {
+         "ch": "打",
+         "en": "play",
+         "pi": "dǎ"
+      },
+      {
+         "ch": "篮球",
+         "en": "basketball",
+         "pi": "lánqiú"
+      }
+   ]
+}

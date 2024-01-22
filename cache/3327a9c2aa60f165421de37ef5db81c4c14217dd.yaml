@@ -1,0 +1,18 @@
+{
+  "chinese": "我警告过他，但他不理会警告。",
+  "english": "I warned him, but he ignored the warning.",
+  "pinyin": "wǒ jǐnggào guò tā, dàn tā bù lǐhuì jǐnggào。",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "警告", "en": "warn", "pi": "jǐng gào" },
+    { "ch": "过", "en": "past", "pi": "guò" },
+    { "ch": "他", "en": "him", "pi": "tā" },
+    { "ch": "，", "en": ",", "pi": "，" },
+    { "ch": "但", "en": "but", "pi": "dàn" },
+    { "ch": "他", "en": "he", "pi": "tā" },
+    { "ch": "不", "en": "not", "pi": "bù" },
+    { "ch": "理会", "en": "pay attention to", "pi": "lǐ huì" },
+    { "ch": "警告", "en": "warning", "pi": "jǐng gào" },
+    { "ch": "。", "en": ".", "pi": "。" }
+  ]
+}

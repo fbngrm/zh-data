@@ -1,0 +1,16 @@
+{
+  "chinese": "你来学校了，别的同学呢？",
+  "english": "Have you come to school? Where are the other classmates?",
+  "pinyin": "nǐ lái xuéxiào le, bié de tóngxué ne?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "来", "en": "come", "pi": "lái"},
+    {"ch": "学校", "en": "school", "pi": "xuéxiào"},
+    {"ch": "了", "en": "have", "pi": "le"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "别的", "en": "other", "pi": "bié de"},
+    {"ch": "同学", "en": "classmate", "pi": "tóngxué"},
+    {"ch": "呢", "en": "where", "pi": "ne"},
+    {"ch": "？", "en": "?", "pi": ""}
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "关上门，打开窗！",
+  "english": "Close the door, open the window!",
+  "pinyin": "guān shàng mén, dǎ kāi chuāng!",
+  "words": [
+    {
+      "ch": "关上",
+      "en": "Close",
+      "pi": "guān shàng"
+    },
+    {
+      "ch": "门",
+      "en": "door",
+      "pi": "mén"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": "，"
+    },
+    {
+      "ch": "打开",
+      "en": "open",
+      "pi": "dǎ kāi"
+    },
+    {
+      "ch": "窗",
+      "en": "window",
+      "pi": "chuāng"
+    },
+    {
+      "ch": "！",
+      "en": "!",
+      "pi": "！"
+    }
+  ]
+}

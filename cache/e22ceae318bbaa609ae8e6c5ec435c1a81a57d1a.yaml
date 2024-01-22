@@ -1,0 +1,100 @@
+[
+  {
+    "chinese": "你们 公司 离 你 家 远 吗？ 非常 远。",
+    "english": "Is your company far from your home? Very far.",
+    "pinyin": "nǐmen gōngsī lí nǐ jiā yuǎn ma? fēicháng yuǎn.",
+    "words": [
+      {"ch": "你们", "en": "you all", "pi": "nǐmen"},
+      {"ch": "公司", "en": "company", "pi": "gōngsī"},
+      {"ch": "离", "en": "away from", "pi": "lí"},
+      {"ch": "你", "en": "you", "pi": "nǐ"},
+      {"ch": "家", "en": "home", "pi": "jiā"},
+      {"ch": "远", "en": "far", "pi": "yuǎn"},
+      {"ch": "吗", "en": "question particle", "pi": "ma"},
+      {"ch": "非常", "en": "very", "pi": "fēicháng"}
+    ]
+  },
+  {
+    "chinese": "你 没 天 怎么 去 公司？ 我 做 公共 汽车。",
+    "english": "How do you go to work every day? I take public transportation.",
+    "pinyin": "nǐ měi tiān zěnme qù gōngsī？ wǒ zuò gōnggòng qìchē.",
+    "words": [
+      {"ch": "你", "en": "you", "pi": "nǐ"},
+      {"ch": "没", "en": "do not have", "pi": "méi"},
+      {"ch": "天", "en": "day", "pi": "tiān"},
+      {"ch": "怎么", "en": "how", "pi": "zěnme"},
+      {"ch": "去", "en": "go", "pi": "qù"},
+      {"ch": "公司", "en": "company", "pi": "gōngsī"},
+      {"ch": "我", "en": "I", "pi": "wǒ"},
+      {"ch": "做", "en": "take", "pi": "zuò"},
+      {"ch": "公共", "en": "public", "pi": "gōnggòng"},
+      {"ch": "汽车", "en": "bus", "pi": "qìchē"}
+    ]
+  },
+  {
+    "chinese": "要 坐 多长 时间。 要 坐 一个 小时。",
+    "english": "How long do you have to travel? An hour.",
+    "pinyin": "yào zuò duō cháng shíjiān. yào zuò yī gè xiǎoshí.",
+    "words": [
+      {"ch": "要", "en": "have to", "pi": "yào"},
+      {"ch": "坐", "en": "travel by", "pi": "zuò"},
+      {"ch": "多长", "en": "how long", "pi": "duō cháng"},
+      {"ch": "时间", "en": "time", "pi": "shíjiān"},
+      {"ch": "一个", "en": "one", "pi": "yī gè"},
+      {"ch": "小时", "en": "hour", "pi": "xiǎoshí"}
+    ]
+  },
+  {
+    "chinese": "你 家 旁边 没有 地铁 吗？ 现在 还 没有 明年 会 有。 明天 我 就 可以 坐 地铁 去 上班 了。",
+    "english": "Is there no subway near your house? Not now, but there will be next year. Tomorrow I can take the subway to work.",
+    "pinyin": "nǐ jiā pángbiān méiyǒu dìtiě ma? xiànzài hái méiyǒu, míngnián huì yǒu. míngtiān wǒ jiù kěyǐ zuò dìtiě qù shàngbān le.",
+    "words": [
+      {"ch": "你", "en": "you", "pi": "nǐ"},
+      {"ch": "家", "en": "home", "pi": "jiā"},
+      {"ch": "旁边", "en": "next to", "pi": "pángbiān"},
+      {"ch": "没有", "en": "do not have", "pi": "méiyǒu"},
+      {"ch": "地铁", "en": "subway", "pi": "dìtiě"},
+      {"ch": "吗", "en": "question particle", "pi": "ma"},
+      {"ch": "现在", "en": "now", "pi": "xiànzài"},
+      {"ch": "还", "en": "still", "pi": "hái"},
+      {"ch": "明年", "en": "next year", "pi": "míngnián"},
+      {"ch": "会", "en": "will", "pi": "huì"},
+      {"ch": "有", "en": "have", "pi": "yǒu"},
+      {"ch": "明天", "en": "tomorrow", "pi": "míngtiān"},
+      {"ch": "就", "en": "just", "pi": "jiù"},
+      {"ch": "可以", "en": "can", "pi": "kěyǐ"},
+      {"ch": "可以", "en": "can", "pi": "kěyǐ"},
+      {"ch": "坐", "en": "take", "pi": "zuò"},
+      {"ch": "地铁", "en": "subway", "pi": "dìtiě"},
+      {"ch": "去", "en": "go", "pi": "qù"},
+      {"ch": "上班", "en": "to work", "pi": "shàngbān"},
+      {"ch": "了", "en": "completion particle", "pi": "le"}
+    ]
+  },
+  {
+    "chinese": "你 家 离 学校 远 吗？ 我 家 离 学校 不 远。 你 每天 怎么 去 学校？ 我 家 旁边 有 地铁。 我 每天 坐 地铁 去 学校。 坐 十 分钟 就到 了。",
+    "english": "Is your home far from the school? My home is not far from the school. How do you go to school every day? There's a subway station near my home. I take the subway to school every day. It only takes ten minutes.",
+    "pinyin": "nǐ jiā lí xuéxiào yuǎn ma? wǒ jiā lí xuéxiào bù yuǎn. nǐ měitiān zěnme qù xuéxiào? wǒ jiā pángbiān yǒu dìtiě. wǒ měitiān zuò dìtiě qù xuéxiào. zuò shí fēnzhōng jiù dào le.",
+    "words": [
+      {"ch": "你", "en": "you", "pi": "nǐ"},
+      {"ch": "家", "en": "home", "pi": "jiā"},
+      {"ch": "离", "en": "away from", "pi": "lí"},
+      {"ch": "学校", "en": "school", "pi": "xuéxiào"},
+      {"ch": "远", "en": "far", "pi": "yuǎn"},
+      {"ch": "吗", "en": "question particle", "pi": "ma"},
+      {"ch": "我", "en": "I", "pi": "wǒ"},
+      {"ch": "每天", "en": "every day", "pi": "měitiān"},
+      {"ch": "怎么", "en": "how", "pi": "zěnme"},
+      {"ch": "去", "en": "go", "pi": "qù"},
+      {"ch": "有", "en": "have", "pi": "yǒu"},
+      {"ch": "旁边", "en": "next to", "pi": "pángbiān"},
+      {"ch": "地铁", "en": "subway", "pi": "dìtiě"},
+      {"ch": "坐", "en": "take", "pi": "zuò"},
+      {"ch": "十", "en": "ten", "pi": "shí"},
+      {"ch": "分钟", "en": "minute", "pi": "fēnzhōng"},
+      {"ch": "就", "en": "just", "pi": "jiù"},
+      {"ch": "到", "en": "arrive", "pi": "dào"},
+      {"ch": "了", "en": "completion particle", "pi": "le"}
+    ]
+  }
+]

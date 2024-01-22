@@ -1,0 +1,52 @@
+{
+  "chinese": "当且仅当冰淇淋是香草口味，小王会吃这个冰淇淋。",
+  "english": "Only when the ice cream is vanilla flavor, will Xiao Wang eat this ice cream.",
+  "pinyin": "dāng qiě jǐn dāng bīng qí lín shì xiāng cǎo kǒu wèi, xiǎo wáng huì chī zhè gè bīng qí lín。",
+  "words": [
+    {
+      "ch": "当且仅当",
+      "en": "only when",
+      "pi": "dāng qiě jǐn dāng"
+    },
+    {
+      "ch": "冰淇淋",
+      "en": "ice cream",
+      "pi": "bīng qí lín"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "香草",
+      "en": "vanilla",
+      "pi": "xiāng cǎo"
+    },
+    {
+      "ch": "口味",
+      "en": "flavor",
+      "pi": "kǒu wèi"
+    },
+    {
+      "ch": "小王",
+      "en": "Xiao Wang",
+      "pi": "xiǎo wáng"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    }
+  ]
+}

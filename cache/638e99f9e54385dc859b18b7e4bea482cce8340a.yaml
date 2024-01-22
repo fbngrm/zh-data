@@ -1,0 +1,32 @@
+{
+  "chinese": "３的三次方等于２７。",
+  "english": "3 raised to the power of 3 equals 27.",
+  "pinyin": "sān de sān cì fāng děngyú èrshíqī.",
+  "words": [
+    {
+      "ch": "３",
+      "en": "3",
+      "pi": "sān"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "三次方",
+      "en": "raised to the power of 3",
+      "pi": "sān cì fāng"
+    },
+    {
+      "ch": "等于",
+      "en": "equals",
+      "pi": "děngyú"
+    },
+    {
+      "ch": "２７",
+      "en": "27",
+      "pi": "èrshíqī"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我把钥匙掉了。",
+  "english": "I dropped my key.",
+  "pinyin": "wǒ bǎ yàoshi diào le。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "把",
+      "en": "particle introducing the object of a verb",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "钥匙",
+      "en": "key",
+      "pi": "yàoshi"
+    },
+    {
+      "ch": "掉",
+      "en": "drop",
+      "pi": "diào"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

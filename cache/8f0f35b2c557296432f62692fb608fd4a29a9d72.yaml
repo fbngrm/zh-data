@@ -1,0 +1,14 @@
+{
+  "chinese": "他住在大坂附近一座镇上。",
+  "english": "He lives in a town near Osaka.",
+  "pinyin": "tā zhù zài dàbǎn fùjìn yī zuò zhèn shàng。",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "住", "en": "live", "pi": "zhù"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "大坂", "en": "Osaka", "pi": "dàbǎn"},
+    {"ch": "附近", "en": "nearby", "pi": "fùjìn"},
+    {"ch": "一座", "en": "a", "pi": "yī zuò"},
+    {"ch": "镇上", "en": "town", "pi": "zhèn shàng"}
+  ]
+}

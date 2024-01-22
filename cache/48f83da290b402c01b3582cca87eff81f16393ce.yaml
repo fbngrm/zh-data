@@ -1,0 +1,14 @@
+{
+  "chinese": "她给了我这些旧硬币。",
+  "english": "She gave me these old coins.",
+  "pinyin": "Tā gěi le wǒ zhèxiē jiù yìngbì.",
+  "words": [
+    {"ch": "她", "en": "She", "pi": "tā"},
+    {"ch": "给", "en": "gave", "pi": "gěi"},
+    {"ch": "了", "en": "me", "pi": "le"},
+    {"ch": "我", "en": "these", "pi": "wǒ"},
+    {"ch": "这些", "en": "old", "pi": "zhèxiē"},
+    {"ch": "旧", "en": "coins", "pi": "jiù"},
+    {"ch": "硬币", "en": "coins", "pi": "yìngbì"}
+  ]
+}

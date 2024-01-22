@@ -1,0 +1,12 @@
+{
+  "chinese": "他有一架单车。",
+  "english": "He has a bicycle.",
+  "pinyin": "tā yǒu yī jià dānchē。",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "有", "en": "has", "pi": "yǒu"},
+    {"ch": "一", "en": "a", "pi": "yī"},
+    {"ch": "架", "en": "bicycle", "pi": "jià"},
+    {"ch": "单车", "en": "bicycle", "pi": "dān chē"}
+  ]
+}

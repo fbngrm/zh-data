@@ -1,0 +1,37 @@
+{
+  "chinese": "你最近检查视力了吗？",
+  "english": "Have you had your vision checked recently?",
+  "pinyin": "nǐ zuìjìn jiǎnchá shìlì le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "最近",
+      "en": "recently",
+      "pi": "zuìjìn"
+    },
+    {
+      "ch": "检查",
+      "en": "check",
+      "pi": "jiǎnchá"
+    },
+    {
+      "ch": "视力",
+      "en": "vision",
+      "pi": "shìlì"
+    },
+    {
+      "ch": "了",
+      "en": "have",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

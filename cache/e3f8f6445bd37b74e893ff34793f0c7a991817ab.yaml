@@ -1,0 +1,27 @@
+{
+  "chinese": "这个字很难发音。",
+  "english": "This character is difficult to pronounce.",
+  "pinyin": "zhè gè zì hěn nán fāyīn.",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "字",
+      "en": "character",
+      "pi": "zì"
+    },
+    {
+      "ch": "很难",
+      "en": "difficult",
+      "pi": "hěn nán"
+    },
+    {
+      "ch": "发音",
+      "en": "to pronounce",
+      "pi": "fāyīn"
+    }
+  ]
+}

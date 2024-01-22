@@ -1,0 +1,42 @@
+{
+  "chinese": "我能在这里吃午饭吗？",
+  "english": "Can I have lunch here?",
+  "pinyin": "wǒ néng zài zhèlǐ chī wǔfàn ma?",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "在",
+      "en": "here",
+      "pi": "zài"
+    },
+    {
+      "ch": "这里",
+      "en": "this place",
+      "pi": "zhèlǐ"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "午饭",
+      "en": "lunch",
+      "pi": "wǔfàn"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

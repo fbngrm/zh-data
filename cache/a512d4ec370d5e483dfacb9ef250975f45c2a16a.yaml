@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆告诉我他是加拿大人。",
+  "english": "Tom told me he is Canadian.",
+  "pinyin": "Tāngmǔ gàosù wǒ tā shì jiānádà rén.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "告诉",
+      "en": "told",
+      "pi": "gào sù"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "加拿大人",
+      "en": "Canadian",
+      "pi": "jiā ná dà rén"
+    }
+  ]
+}

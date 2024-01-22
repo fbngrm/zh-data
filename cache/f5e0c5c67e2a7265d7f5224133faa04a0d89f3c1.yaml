@@ -1,0 +1,11 @@
+{
+  "chinese": "公共汽车隔多久一班?",
+  "english": "How often does the bus run?",
+  "pinyin": "gōng gòng qì chē gé duō jiǔ yī bān?",
+  "words": [
+    {"ch": "公共汽车", "en": "bus", "pi": "gōng gòng qì chē"},
+    {"ch": "隔", "en": "how often", "pi": "gé"},
+    {"ch": "多久", "en": "how long", "pi": "duō jiǔ"},
+    {"ch": "一班", "en": "one run", "pi": "yī bān"}
+  ]
+}

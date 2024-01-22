@@ -1,0 +1,42 @@
+{
+  "chinese": "如果我忘記了請提醒我。",
+  "english": "If I forget, please remind me.",
+  "pinyin": "rúguǒ wǒ wàngjìle qǐng tíxǐng wǒ。",
+  "words": [
+    {
+      "ch": "如果",
+      "en": "if",
+      "pi": "rúguǒ"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "忘記",
+      "en": "forget",
+      "pi": "wàngjì"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "請",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "提醒",
+      "en": "remind",
+      "pi": "tíxǐng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    }
+  ]
+}

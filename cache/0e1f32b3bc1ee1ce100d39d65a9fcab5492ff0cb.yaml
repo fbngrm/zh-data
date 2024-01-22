@@ -1,0 +1,32 @@
+{
+  "chinese": "这个房间里面很暖和。",
+  "english": "The inside of this room is very warm.",
+  "pinyin": "zhè ge fáng jiān lǐ miàn hěn nuǎn hé.",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè ge"
+    },
+    {
+      "ch": "房间",
+      "en": "room",
+      "pi": "fáng jiān"
+    },
+    {
+      "ch": "里面",
+      "en": "inside",
+      "pi": "lǐ miàn"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "暖和",
+      "en": "warm",
+      "pi": "nuǎn hé"
+    }
+  ]
+}

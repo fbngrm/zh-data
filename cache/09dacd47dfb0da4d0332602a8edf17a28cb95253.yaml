@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆问我我是不是累了。",
+  "english": "Tom asked me if I am tired.",
+  "pinyin": "tāng mǔ wèn wǒ wǒ shì bú shì lèi le.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "问",
+      "en": "ask",
+      "pi": "wèn"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "是不是",
+      "en": "if",
+      "pi": "shì bú shì"
+    },
+    {
+      "ch": "累了",
+      "en": "tired",
+      "pi": "lèi le"
+    }
+  ]
+}

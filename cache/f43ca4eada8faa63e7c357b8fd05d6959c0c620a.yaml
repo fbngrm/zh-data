@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆过去很保守。",
+  "english": "Tom used to be very conservative.",
+  "pinyin": "Tāng mǔ guòqù hěn bǎoshǒu。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "过去",
+      "en": "used to",
+      "pi": "guòqù"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "保守",
+      "en": "conservative",
+      "pi": "bǎoshǒu"
+    }
+  ]
+}

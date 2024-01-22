@@ -1,0 +1,37 @@
+{
+  "chinese": "麦克几乎每天晚上出去吃饭。",
+  "english": "Mike goes out for dinner almost every night.",
+  "pinyin": "Màikè jīhū měitiān wǎnshàng chūqù chīfàn.",
+  "words": [
+    {
+      "ch": "麦克",
+      "en": "Mike",
+      "pi": "Màikè"
+    },
+    {
+      "ch": "几乎",
+      "en": "almost",
+      "pi": "jīhū"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měitiān"
+    },
+    {
+      "ch": "晚上",
+      "en": "night",
+      "pi": "wǎnshàng"
+    },
+    {
+      "ch": "出去",
+      "en": "go out",
+      "pi": "chūqù"
+    },
+    {
+      "ch": "吃饭",
+      "en": "have dinner",
+      "pi": "chīfàn"
+    }
+  ]
+}

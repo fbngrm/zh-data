@@ -1,0 +1,32 @@
+{
+  "chinese": "我们到Ｕｅｎｏ站了。",
+  "english": "We arrived at Ueno station.",
+  "pinyin": "wǒmen dào Uen o zhànle.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "到",
+      "en": "arrive",
+      "pi": "dào"
+    },
+    {
+      "ch": "Ｕｅｎｏ",
+      "en": "Ueno",
+      "pi": "Uen o"
+    },
+    {
+      "ch": "站",
+      "en": "station",
+      "pi": "zhàn"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

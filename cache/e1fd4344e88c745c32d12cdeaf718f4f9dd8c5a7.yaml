@@ -1,0 +1,37 @@
+{
+  "chinese": "他偷了她的手表。",
+  "english": "He stole her watch.",
+  "pinyin": "Tā tōule tā de shǒubiǎo.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "偷",
+      "en": "steal",
+      "pi": "tōu"
+    },
+    {
+      "ch": "了",
+      "en": "past tense marker",
+      "pi": "le"
+    },
+    {
+      "ch": "她",
+      "en": "her",
+      "pi": "tā"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "手表",
+      "en": "watch",
+      "pi": "shǒubiǎo"
+    }
+  ]
+}

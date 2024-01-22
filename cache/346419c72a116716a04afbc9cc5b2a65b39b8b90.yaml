@@ -1,0 +1,27 @@
+{
+  "chinese": "明天有足球比赛。",
+  "english": "There is a soccer match tomorrow.",
+  "pinyin": "míng tiān yǒu zú qiú bǐ sài.",
+  "words": [
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "有",
+      "en": "is/are/have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "足球",
+      "en": "soccer",
+      "pi": "zú qiú"
+    },
+    {
+      "ch": "比赛",
+      "en": "match",
+      "pi": "bǐ sài"
+    }
+  ]
+}

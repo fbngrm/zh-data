@@ -1,0 +1,32 @@
+{
+  "chinese": "你有带雨伞吗？",
+  "english": "Do you have an umbrella?",
+  "pinyin": "nǐ yǒu dài yǔsǎn ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "带",
+      "en": "bring",
+      "pi": "dài"
+    },
+    {
+      "ch": "雨伞",
+      "en": "umbrella",
+      "pi": "yǔsǎn"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

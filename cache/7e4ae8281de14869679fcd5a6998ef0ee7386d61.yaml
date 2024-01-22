@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆知道玛丽的很多事。",
+  "english": "Tom knows a lot about Mary.",
+  "pinyin": "Tāng mǔ zhīdào Mǎlì de hěnduō shì.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎlì"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "很多",
+      "en": "a lot",
+      "pi": "hěnduō"
+    },
+    {
+      "ch": "事",
+      "en": "things",
+      "pi": "shì"
+    }
+  ]
+}

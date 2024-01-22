@@ -1,0 +1,26 @@
+{
+  "chinese": "这台电视机是十年前制造的,现在已经没有零件可换,所以要修理它是不可能的事了。",
+  "english": "This television set was manufactured ten years ago, and now there are no parts available for replacement, so it is impossible to repair it.",
+  "pinyin": "zhè tái diànshì jī shì shí nián qián zhìzào de, xiànzài yǐjīng méiyǒu língjiàn kě huàn, suǒyǐ yào xiūlǐ tā shì bù kěnéng de shì le。",
+  "words": [
+    { "ch": "这台", "en": "This", "pi": "zhè tái" },
+    { "ch": "电视机", "en": "television set", "pi": "diànshì jī" },
+    { "ch": "是", "en": "was", "pi": "shì" },
+    { "ch": "十年前", "en": "ten years ago", "pi": "shí nián qián" },
+    { "ch": "制造", "en": "manufactured", "pi": "zhìzào" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": ", 现在", "en": "and now", "pi": "xiànzài" },
+    { "ch": "已经", "en": "already", "pi": "yǐjīng" },
+    { "ch": "没有", "en": "no", "pi": "méiyǒu" },
+    { "ch": "零件", "en": "parts", "pi": "língjiàn" },
+    { "ch": "可", "en": "available", "pi": "kě" },
+    { "ch": "换", "en": "for replacement", "pi": "huàn" },
+    { "ch": ", 所以", "en": "so", "pi": "suǒyǐ" },
+    { "ch": "要", "en": "to", "pi": "yào" },
+    { "ch": "修理", "en": "repair", "pi": "xiūlǐ" },
+    { "ch": "它", "en": "it", "pi": "tā" },
+    { "ch": "是", "en": "is", "pi": "shì" },
+    { "ch": "不可能的", "en": "impossible", "pi": "bù kěnéng de" },
+    { "ch": "事了", "en": "to do", "pi": "shì le" }
+  ]
+}

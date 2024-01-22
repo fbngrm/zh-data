@@ -1,0 +1,37 @@
+{
+  "chinese": "因为是星期天，超市非常拥挤。",
+  "english": "Because it's Sunday, the supermarket is very crowded.",
+  "pinyin": "yīn wèi shì xīng qī tiān ，chāo shì fēi cháng yōng jǐ。",
+  "words": [
+    {
+      "ch": "因为",
+      "en": "Because",
+      "pi": "yīn wèi"
+    },
+    {
+      "ch": "是",
+      "en": "it's",
+      "pi": "shì"
+    },
+    {
+      "ch": "星期天",
+      "en": "Sunday",
+      "pi": "xīng qī tiān"
+    },
+    {
+      "ch": "超市",
+      "en": "supermarket",
+      "pi": "chāo shì"
+    },
+    {
+      "ch": "非常",
+      "en": "very",
+      "pi": "fēi cháng"
+    },
+    {
+      "ch": "拥挤",
+      "en": "crowded",
+      "pi": "yōng jǐ"
+    }
+  ]
+}

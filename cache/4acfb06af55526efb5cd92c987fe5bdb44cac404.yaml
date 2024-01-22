@@ -1,0 +1,14 @@
+{
+  "chinese": "我們討論那個問題討論了很久。",
+  "english": "We discussed that problem for a long time.",
+  "pinyin": "wǒmen tǎolùn nàge wèntí tǎolùn le hěnjiǔ。",
+  "words": [
+    {"ch": "我們", "en": "We", "pi": "wǒmen"},
+    {"ch": "討論", "en": "discussed", "pi": "tǎolùn"},
+    {"ch": "那個", "en": "that", "pi": "nàge"},
+    {"ch": "問題", "en": "problem", "pi": "wèntí"},
+    {"ch": "討論", "en": "discussed", "pi": "tǎolùn"},
+    {"ch": "了", "en": "for", "pi": "le"},
+    {"ch": "很久", "en": "a long time", "pi": "hěnjiǔ"}
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "我兄弟在东京上大学。",
+  "english": "My brother is studying in Tokyo.",
+  "pinyin": "wǒ xiōngdì zài dōngjīng shàng dàxué。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "兄弟",
+      "en": "brother",
+      "pi": "xiōngdì"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "东京",
+      "en": "Tokyo",
+      "pi": "dōngjīng"
+    },
+    {
+      "ch": "上",
+      "en": "studying",
+      "pi": "shàng"
+    },
+    {
+      "ch": "大学",
+      "en": "university",
+      "pi": "dàxué"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "Cathy會說法文和德文。",
+  "english": "Cathy can speak French and German.",
+  "pinyin": "Cathy huì shuō fǎwén hé déwén。",
+  "words": [
+    {
+      "ch": "Cathy",
+      "en": "Cathy",
+      "pi": "Cathy"
+    },
+    {
+      "ch": "會",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "說",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "法文",
+      "en": "French",
+      "pi": "fǎwén"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "德文",
+      "en": "German",
+      "pi": "déwén"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "你下个月要去美国吗？",
+  "english": "Are you going to the United States next month?",
+  "pinyin": "Nǐ xià gè yuè yào qù měiguó ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "下个月",
+      "en": "next month",
+      "pi": "xià gè yuè"
+    },
+    {
+      "ch": "要",
+      "en": "want to",
+      "pi": "yào"
+    },
+    {
+      "ch": "去",
+      "en": "go to",
+      "pi": "qù"
+    },
+    {
+      "ch": "美国",
+      "en": "United States",
+      "pi": "měiguó"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

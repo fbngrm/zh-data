@@ -1,0 +1,32 @@
+{
+  "chinese": "书桌上有一个苹果。",
+  "english": "There is an apple on the desk.",
+  "pinyin": "shū zhuō shàng yǒu yí gè píng guǒ.",
+  "words": [
+    {
+      "ch": "书桌",
+      "en": "desk",
+      "pi": "shū zhuō"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一个",
+      "en": "one",
+      "pi": "yí gè"
+    },
+    {
+      "ch": "苹果",
+      "en": "apple",
+      "pi": "píng guǒ"
+    }
+  ]
+}

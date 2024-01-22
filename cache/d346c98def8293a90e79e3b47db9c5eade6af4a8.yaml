@@ -1,0 +1,42 @@
+{
+  "chinese": "我没有把英语直译成日语。",
+  "english": "I didn't directly translate English into Japanese.",
+  "pinyin": "wǒ méiyǒu bǎ yīngyǔ zhíyì chéng rìyǔ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "没有",
+      "en": "did not",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "把",
+      "en": "directly",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīngyǔ"
+    },
+    {
+      "ch": "直译",
+      "en": "translate directly",
+      "pi": "zhíyì"
+    },
+    {
+      "ch": "成",
+      "en": "into",
+      "pi": "chéng"
+    },
+    {
+      "ch": "日语",
+      "en": "Japanese",
+      "pi": "rìyǔ"
+    }
+  ]
+}

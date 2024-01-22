@@ -1,0 +1,42 @@
+{
+  "chinese": "我刚才瞧了一眼，一点没意思。",
+  "english": "I just took a glance, it was boring.",
+  "pinyin": "wǒ gāngcái qiáo le yīyǎn, yīdiǎn méi yìsi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "刚才",
+      "en": "just now",
+      "pi": "gāngcái"
+    },
+    {
+      "ch": "瞧",
+      "en": "to look",
+      "pi": "qiáo"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "一眼",
+      "en": "a glance",
+      "pi": "yīyǎn"
+    },
+    {
+      "ch": "一点",
+      "en": "a little",
+      "pi": "yīdiǎn"
+    },
+    {
+      "ch": "没意思",
+      "en": "boring",
+      "pi": "méi yìsi"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chinese": "我们得到了一个很好的价格买那个东西。",
+  "english": "We got a good price to buy that thing.",
+  "pinyin": "wǒ men dé dào le yī gè hěn hǎo de jià gé mǎi nà gè dōng xī。",
+  "words": [
+    {"ch": "我们", "en": "We", "pi": "wǒ men"},
+    {"ch": "得到了", "en": "got", "pi": "dé dào le"},
+    {"ch": "一个", "en": "a", "pi": "yī gè"},
+    {"ch": "很好的", "en": "good", "pi": "hěn hǎo de"},
+    {"ch": "价格", "en": "price", "pi": "jià gé"},
+    {"ch": "买", "en": "to buy", "pi": "mǎi"},
+    {"ch": "那个", "en": "that", "pi": "nà gè"},
+    {"ch": "东西", "en": "thing", "pi": "dōng xī"}
+  ]
+}

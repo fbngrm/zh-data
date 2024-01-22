@@ -1,0 +1,47 @@
+{
+   "chinese": "这艘船的长度是３０米。",
+   "english": "The length of this ship is 30 meters.",
+   "pinyin": "zhè sōu chuán de chángdù shì sānshí mǐ。",
+   "words": [
+      {
+         "ch": "这",
+         "en": "this",
+         "pi": "zhè"
+      },
+      {
+         "ch": "艘",
+         "en": "measure word for boats and ships",
+         "pi": "sōu"
+      },
+      {
+         "ch": "船",
+         "en": "ship",
+         "pi": "chuán"
+      },
+      {
+         "ch": "的",
+         "en": "possessive particle",
+         "pi": "de"
+      },
+      {
+         "ch": "长度",
+         "en": "length",
+         "pi": "chángdù"
+      },
+      {
+         "ch": "是",
+         "en": "is",
+         "pi": "shì"
+      },
+      {
+         "ch": "３０",
+         "en": "30",
+         "pi": "sānshí"
+      },
+      {
+         "ch": "米",
+         "en": "meters",
+         "pi": "mǐ"
+      }
+   ]
+}

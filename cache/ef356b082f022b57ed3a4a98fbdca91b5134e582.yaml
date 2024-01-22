@@ -1,0 +1,22 @@
+{
+  "chinese": "一个从俄勒冈州来的朋友，布朗先生明天会来拜访我们。",
+  "english": "A friend from Oregon, Mr. Brown, will come to visit us tomorrow.",
+  "pinyin": "Yīgè cóng èlēgāng zhōu lái de péngyǒu, Bùlǎng xiānshēng míngtiān huì lái bàifǎng wǒmen.",
+  "words": [
+    {"ch": "一个", "en": "A", "pi": "yīgè"},
+    {"ch": "从", "en": "from", "pi": "cóng"},
+    {"ch": "俄勒冈州", "en": "Oregon", "pi": "èlēgāng zhōu"},
+    {"ch": "来", "en": "come", "pi": "lái"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "朋友", "en": "friend", "pi": "péngyǒu"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "布朗", "en": "Brown", "pi": "Bùlǎng"},
+    {"ch": "先生", "en": "Mr.", "pi": "xiānshēng"},
+    {"ch": "明天", "en": "tomorrow", "pi": "míngtiān"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "来", "en": "come", "pi": "lái"},
+    {"ch": "拜访", "en": "visit", "pi": "bàifǎng"},
+    {"ch": "我们", "en": "us", "pi": "wǒmen"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

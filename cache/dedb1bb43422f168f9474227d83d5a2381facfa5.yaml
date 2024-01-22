@@ -1,0 +1,37 @@
+{
+  "chinese": "我是网球俱乐部的会员。",
+  "english": "I am a member of the tennis club.",
+  "pinyin": "wǒ shì wǎngqiú jùlèbù de huìyuán.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "是",
+      "en": "am",
+      "pi": "shì"
+    },
+    {
+      "ch": "网球",
+      "en": "tennis",
+      "pi": "wǎngqiú"
+    },
+    {
+      "ch": "俱乐部",
+      "en": "club",
+      "pi": "jùlèbù"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "会员",
+      "en": "member",
+      "pi": "huìyuán"
+    }
+  ]
+}

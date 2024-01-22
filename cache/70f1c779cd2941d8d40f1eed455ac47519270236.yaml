@@ -1,0 +1,37 @@
+{
+  "chinese": "我在这里待到１０点。",
+  "english": "I will stay here until 10 o'clock.",
+  "pinyin": "wǒ zài zhèlǐ dāidào shí diǎn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhèlǐ"
+    },
+    {
+      "ch": "待",
+      "en": "stay",
+      "pi": "dāi"
+    },
+    {
+      "ch": "到",
+      "en": "until",
+      "pi": "dào"
+    },
+    {
+      "ch": "１０点",
+      "en": "10 o'clock",
+      "pi": "shí diǎn"
+    }
+  ]
+}

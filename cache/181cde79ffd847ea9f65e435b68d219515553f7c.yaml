@@ -1,0 +1,13 @@
+{
+  "chinese": "我的房间里有一本杂志。",
+  "english": "There is a magazine in my room.",
+  "pinyin": "Wǒ de fángjiān lǐ yǒu yī běn zázhì.",
+  "words": [
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "房间", "en": "room", "pi": "fángjiān"},
+    {"ch": "里", "en": "in", "pi": "lǐ"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "一本", "en": "a", "pi": "yī běn"},
+    {"ch": "杂志", "en": "magazine", "pi": "zázhì"}
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "那条船昨天穿过了赤道。",
+  "english": "That boat crossed the equator yesterday.",
+  "pinyin": "nà tiáo chuán zuótiān chuānguòle chìdào.",
+  "words": [
+    {
+      "ch": "那",
+      "en": "That",
+      "pi": "nà"
+    },
+    {
+      "ch": "条",
+      "en": "Measure Word: Boat",
+      "pi": "tiáo"
+    },
+    {
+      "ch": "船",
+      "en": "Boat",
+      "pi": "chuán"
+    },
+    {
+      "ch": "昨天",
+      "en": "Yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "穿过",
+      "en": "Cross",
+      "pi": "chuānguò"
+    },
+    {
+      "ch": "了",
+      "en": "Particle: Indicates Completed Action",
+      "pi": "le"
+    },
+    {
+      "ch": "赤道",
+      "en": "Equator",
+      "pi": "chìdào"
+    }
+  ]
+}

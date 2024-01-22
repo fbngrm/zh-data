@@ -1,0 +1,42 @@
+{
+  "chinese": "我不是在越南学的越南语。",
+  "english": "I didn't learn Vietnamese in Vietnam.",
+  "pinyin": "wǒ bú shì zài yuè nán xué de yuè nán yǔ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不是",
+      "en": "didn't",
+      "pi": "bú shì"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "越南",
+      "en": "Vietnam",
+      "pi": "yuè nán"
+    },
+    {
+      "ch": "学",
+      "en": "learn",
+      "pi": "xué"
+    },
+    {
+      "ch": "的",
+      "en": "in",
+      "pi": "de"
+    },
+    {
+      "ch": "越南语",
+      "en": "Vietnamese",
+      "pi": "yuè nán yǔ"
+    }
+  ]
+}

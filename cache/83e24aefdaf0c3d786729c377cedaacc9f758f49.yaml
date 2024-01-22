@@ -1,0 +1,32 @@
+{
+  "chinese": "你要吃点儿什么？",
+  "english": "What would you like to eat?",
+  "pinyin": "nǐ yào chī diǎn er shénme?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "点儿",
+      "en": "some",
+      "pi": "diǎn er"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    }
+  ]
+}

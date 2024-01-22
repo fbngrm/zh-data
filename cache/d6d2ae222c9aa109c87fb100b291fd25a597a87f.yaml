@@ -1,0 +1,63 @@
+{
+  "sentences": [
+    {
+      "chinese": "好像快要下雨了。",
+      "english": "It seems like it's about to rain.",
+      "pinyin": "hǎoxiàng kuài yào xià yǔ le。",
+      "words": [
+        {
+          "ch": "好像",
+          "en": "seems like",
+          "pi": "hǎoxiàng"
+        },
+        {
+          "ch": "快要",
+          "en": "about to",
+          "pi": "kuài yào"
+        },
+        {
+          "ch": "下雨",
+          "en": "rain",
+          "pi": "xià yǔ"
+        },
+        {
+          "ch": "了",
+          "en": "particle indicating completed action",
+          "pi": "le"
+        }
+      ]
+    },
+    {
+      "chinese": "我們把窗關上吧。",
+      "english": "Let's close the window.",
+      "pinyin": "wǒmen bǎ chuāng guān shàng ba。",
+      "words": [
+        {
+          "ch": "我們",
+          "en": "we",
+          "pi": "wǒmen"
+        },
+        {
+          "ch": "把",
+          "en": "particle indicating the object of a verb",
+          "pi": "bǎ"
+        },
+        {
+          "ch": "窗",
+          "en": "window",
+          "pi": "chuāng"
+        },
+        {
+          "ch": "關上",
+          "en": "close",
+          "pi": "guān shàng"
+        },
+        {
+          "ch": "吧",
+          "en": "particle indicating suggestion",
+          "pi": "ba"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "我想买这个玩具娃娃。",
+  "english": "I want to buy this toy doll.",
+  "pinyin": "wǒ xiǎng mǎi zhè ge wán jù wá wá。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "想", "en": "want", "pi": "xiǎng"},
+    {"ch": "买", "en": "to buy", "pi": "mǎi"},
+    {"ch": "这个", "en": "this", "pi": "zhè ge"},
+    {"ch": "玩具", "en": "toy", "pi": "wán jù"},
+    {"ch": "娃娃", "en": "doll", "pi": "wá wá"}
+  ]
+}

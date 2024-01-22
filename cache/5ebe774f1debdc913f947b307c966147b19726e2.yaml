@@ -1,0 +1,27 @@
+{
+  "chinese": "我要求汤姆关门。",
+  "english": "I asked Tom to close the door.",
+  "pinyin": "wǒ yāo qiú Tāngmǔ guānmén.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "要求",
+      "en": "asked",
+      "pi": "yāo qiú"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "关门",
+      "en": "to close the door",
+      "pi": "guānmén"
+    }
+  ]
+}

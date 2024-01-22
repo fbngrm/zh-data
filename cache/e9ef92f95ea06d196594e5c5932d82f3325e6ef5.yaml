@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆做了个三明治。",
+  "english": "Tom made a sandwich.",
+  "pinyin": "Tāng mǔ zuò le gè sān míng zhì.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "做了",
+      "en": "made",
+      "pi": "zuò le"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "三明治",
+      "en": "sandwich",
+      "pi": "sān míng zhì"
+    }
+  ]
+}

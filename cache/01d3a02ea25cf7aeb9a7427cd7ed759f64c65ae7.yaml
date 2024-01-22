@@ -1,0 +1,32 @@
+{
+  "chinese": "我正在写一封信。",
+  "english": "I am writing a letter.",
+  "pinyin": "wǒ zhèng zài xiě yī fēng xìn",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "正在",
+      "en": "am",
+      "pi": "zhèng zài"
+    },
+    {
+      "ch": "写",
+      "en": "writing",
+      "pi": "xiě"
+    },
+    {
+      "ch": "一",
+      "en": "a",
+      "pi": "yī"
+    },
+    {
+      "ch": "封信",
+      "en": "letter",
+      "pi": "fēng xìn"
+    }
+  ]
+}

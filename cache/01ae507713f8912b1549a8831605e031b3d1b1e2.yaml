@@ -1,0 +1,32 @@
+{
+  "chinese": "你不该吃太多。",
+  "english": "You shouldn't eat too much.",
+  "pinyin": "nǐ bù gāi chī tài duō。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "该",
+      "en": "should",
+      "pi": "gāi"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "太多",
+      "en": "too much",
+      "pi": "tài duō"
+    }
+  ]
+}

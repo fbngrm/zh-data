@@ -1,0 +1,37 @@
+{
+  "chinese": "这些东西全都是你的吗？",
+  "english": "Are all of these things yours?",
+  "pinyin": "zhè xiē dōng_xī quán_dōu shì nǐ_de ma?",
+  "words": [
+    {
+      "ch": "这些",
+      "en": "these",
+      "pi": "zhè_xiē"
+    },
+    {
+      "ch": "东西",
+      "en": "things",
+      "pi": "dōng_xī"
+    },
+    {
+      "ch": "全都",
+      "en": "all",
+      "pi": "quán_dōu"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "你的",
+      "en": "yours",
+      "pi": "nǐ_de"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

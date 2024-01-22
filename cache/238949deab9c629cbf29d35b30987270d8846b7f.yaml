@@ -1,0 +1,42 @@
+{
+  "chinese": "如果明天下雨，我就待在家。",
+  "english": "If it rains tomorrow, I will stay at home.",
+  "pinyin": "rú guǒ míng tiān xià yǔ, wǒ jiù dài zài jiā.",
+  "words": [
+    {
+      "ch": "如果",
+      "en": "If",
+      "pi": "rú guǒ"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "下雨",
+      "en": "rains",
+      "pi": "xià yǔ"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "就",
+      "en": "will",
+      "pi": "jiù"
+    },
+    {
+      "ch": "待在",
+      "en": "stay",
+      "pi": "dài zài"
+    },
+    {
+      "ch": "家",
+      "en": "at home",
+      "pi": "jiā"
+    }
+  ]
+}

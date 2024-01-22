@@ -1,0 +1,47 @@
+{
+  "chinese": "这不是普通话，而是上海话。",
+  "english": "This is not Mandarin, but Shanghainese.",
+  "pinyin": "zhè bú shì pǔ tōng huà, ér shì shàng hǎi huà。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bú"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "普通话",
+      "en": "Mandarin",
+      "pi": "pǔ tōng huà"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": "，"
+    },
+    {
+      "ch": "而是",
+      "en": "but",
+      "pi": "ér shì"
+    },
+    {
+      "ch": "上海话",
+      "en": "Shanghainese",
+      "pi": "shàng hǎi huà"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "。"
+    }
+  ]
+}

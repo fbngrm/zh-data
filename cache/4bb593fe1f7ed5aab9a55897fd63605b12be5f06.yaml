@@ -1,0 +1,37 @@
+{
+  "chinese": "他跌倒的时候受了伤。",
+  "english": "He got hurt when he fell.",
+  "pinyin": "Tā diē dǎo de shíhòu shòule shāng。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "Tā"
+    },
+    {
+      "ch": "跌倒",
+      "en": "fall",
+      "pi": "diē dǎo"
+    },
+    {
+      "ch": "的",
+      "en": "when",
+      "pi": "de"
+    },
+    {
+      "ch": "时候",
+      "en": "time",
+      "pi": "shíhòu"
+    },
+    {
+      "ch": "受了",
+      "en": "get",
+      "pi": "shòule"
+    },
+    {
+      "ch": "伤",
+      "en": "hurt",
+      "pi": "shāng"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "我搭了计程车到车站。",
+  "english": "I took a taxi to the station.",
+  "pinyin": "wǒ dā le jì chéng chē dào chē zhàn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "搭",
+      "en": "take",
+      "pi": "dā"
+    },
+    {
+      "ch": "了",
+      "en": "past tense marker",
+      "pi": "le"
+    },
+    {
+      "ch": "计程车",
+      "en": "taxi",
+      "pi": "jì chéng chē"
+    },
+    {
+      "ch": "到",
+      "en": "to",
+      "pi": "dào"
+    },
+    {
+      "ch": "车站",
+      "en": "station",
+      "pi": "chē zhàn"
+    }
+  ]
+}

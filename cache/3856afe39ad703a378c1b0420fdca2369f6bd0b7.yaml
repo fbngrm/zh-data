@@ -1,0 +1,42 @@
+{
+  "chinese": "她的女儿已经变成一个漂亮的女人。",
+  "english": "Her daughter has become a beautiful woman.",
+  "pinyin": "Tā de nǚ'ér yǐjīng biànchéng yīgè piàoliang de nǚrén.",
+  "words": [
+    {
+      "ch": "她的",
+      "en": "Her",
+      "pi": "tā de"
+    },
+    {
+      "ch": "女儿",
+      "en": "daughter",
+      "pi":"nǚ'ér"
+    },
+    {
+      "ch": "已经",
+      "en": "has",
+      "pi":"yǐjīng"
+    },
+    {
+      "ch": "变成",
+      "en": "become",
+      "pi": "biànchéng"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yīgè"
+    },
+    {
+      "ch": "漂亮的",
+      "en": "beautiful",
+      "pi": "piàoliang de"
+    },
+    {
+      "ch": "女人",
+      "en": "woman",
+      "pi": "nǚrén"
+    }
+  ]
+}

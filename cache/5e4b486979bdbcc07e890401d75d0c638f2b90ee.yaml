@@ -1,0 +1,32 @@
+{
+  "chinese": "是谁的错呢？",
+  "english": "Whose fault is it?",
+  "pinyin": "shì shuí de cuò ne?",
+  "words": [
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "谁",
+      "en": "who",
+      "pi": "shuí"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "错",
+      "en": "fault",
+      "pi": "cuò"
+    },
+    {
+      "ch": "呢",
+      "en": "question particle",
+      "pi": "ne"
+    }
+  ]
+}

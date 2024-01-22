@@ -1,0 +1,17 @@
+{
+  "chinese": "我記得他的長相但忘了他叫甚麼名字。",
+  "english": "I remember his appearance but I forgot his name.",
+  "pinyin": "Wǒ jìde tā de zhǎngxiàng dàn wàngle tā jiào shénme míngzì.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "記得", "en": "remember", "pi": "jìde" },
+    { "ch": "他的", "en": "his", "pi": "tā de" },
+    { "ch": "長相", "en": "appearance", "pi": "zhǎngxiàng" },
+    { "ch": "但", "en": "but", "pi": "dàn" },
+    { "ch": "忘了", "en": "forgot", "pi": "wàngle" },
+    { "ch": "他", "en": "his", "pi": "tā" },
+    { "ch": "叫", "en": "called", "pi": "jiào" },
+    { "ch": "甚麼", "en": "what", "pi": "shénme" },
+    { "ch": "名字", "en": "name", "pi": "míngzì" }
+  ]
+}

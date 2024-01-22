@@ -1,0 +1,20 @@
+{
+  "chinese": "能再说一次吗？我没听清楚你的名字。",
+  "english": "Can you please say it again? I didn't hear your name clearly.",
+  "pinyin": "néng zài shuō yí cì ma ? wǒ méi tīng qīng chǔ nǐ de míng zì .",
+  "words": [
+    {"ch": "能", "en": "Can", "pi": "néng"},
+    {"ch": "再", "en": "again", "pi": "zài"},
+    {"ch": "说", "en": "say", "pi": "shuō"},
+    {"ch": "一次", "en": "it again", "pi": "yí cì"},
+    {"ch": "吗", "en": "please", "pi": "ma"},
+    {"ch": "？", "en": "?"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "没", "en": "didn't", "pi": "méi"},
+    {"ch": "听", "en": "hear", "pi": "tīng"},
+    {"ch": "清楚", "en": "clearly", "pi": "qīng chǔ"},
+    {"ch": "你的", "en": "your", "pi": "nǐ de"},
+    {"ch": "名字", "en": "name", "pi": "míng zì"},
+    {"ch": "。", "en": "."}
+  ]
+}

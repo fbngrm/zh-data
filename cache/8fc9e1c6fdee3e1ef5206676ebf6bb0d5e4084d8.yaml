@@ -1,0 +1,32 @@
+{
+  "chinese": "我两天前感冒了。",
+  "english": "I caught a cold two days ago.",
+  "pinyin": "wǒ liǎng tiān qián gǎn mào le。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "两",
+      "en": "two",
+      "pi": "liǎng"
+    },
+    {
+      "ch": "天前",
+      "en": "days ago",
+      "pi": "tiān qián"
+    },
+    {
+      "ch": "感冒",
+      "en": "caught a cold",
+      "pi": "gǎn mào"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

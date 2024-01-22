@@ -1,0 +1,15 @@
+{
+  "chinese": "他跟我不住在一个小区。",
+  "english": "He doesn't live in the same neighborhood as me.",
+  "pinyin": "tā gēn wǒ bù zhù zài yī gè xiǎo qū。",
+  "words": [
+    { "ch": "他", "en": "he", "pi": "tā" },
+    { "ch": "跟", "en": "with", "pi": "gēn" },
+    { "ch": "我", "en": "I, me", "pi": "wǒ" },
+    { "ch": "不", "en": "not", "pi": "bù" },
+    { "ch": "住", "en": "live", "pi": "zhù" },
+    { "ch": "在", "en": "in, at", "pi": "zài" },
+    { "ch": "一个", "en": "a, one", "pi": "yī gè" },
+    { "ch": "小区", "en": "neighborhood", "pi": "xiǎo qū" }
+  ]
+}

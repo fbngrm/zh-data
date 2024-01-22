@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆想做炸薯条。",
+  "english": "Tom wants to make French fries.",
+  "pinyin": "tāng mǔ xiǎng zuò zhá shǔ tiáo.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "做",
+      "en": "to make",
+      "pi": "zuò"
+    },
+    {
+      "ch": "炸薯条",
+      "en": "French fries",
+      "pi": "zhá shǔ tiáo"
+    }
+  ]
+}

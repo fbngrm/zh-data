@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆决定不再等了。",
+  "english": "Tom decided not to wait anymore.",
+  "pinyin": "Tāng mǔ jué dìng bù zài děng le.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "决定",
+      "en": "decided",
+      "pi": "jué dìng"
+    },
+    {
+      "ch": "不再",
+      "en": "not anymore",
+      "pi": "bù zài"
+    },
+    {
+      "ch": "等",
+      "en": "to wait",
+      "pi": "děng"
+    },
+    {
+      "ch": "了",
+      "en": "anymore",
+      "pi": "le"
+    }
+  ]
+}

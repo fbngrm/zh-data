@@ -1,0 +1,14 @@
+{
+    "chinese": "三个男孩合共只有两元。",
+    "english": "Three boys only have two yuan together.",
+    "pinyin": "sān gè nán hái hé gòng zhǐ yǒu liǎng yuán。",
+    "words": [
+        {"ch": "三", "en": "three", "pi": "sān"},
+        {"ch": "个", "en": "classifier for people", "pi": "gè"},
+        {"ch": "男孩", "en": "boys", "pi": "nán hái"},
+        {"ch": "合共", "en": "together", "pi": "hé gòng"},
+        {"ch": "只有", "en": "only have", "pi": "zhǐ yǒu"},
+        {"ch": "两", "en": "two", "pi": "liǎng"},
+        {"ch": "元", "en": "yuan", "pi": "yuán"}
+    ]
+}

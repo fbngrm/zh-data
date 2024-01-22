@@ -1,0 +1,32 @@
+{
+  "chinese": "他在打扫他的房间。",
+  "english": "He is cleaning his room.",
+  "pinyin": "Tā zài dǎsǎo tā de fángjiān.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "打扫",
+      "en": "cleaning",
+      "pi": "dǎsǎo"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "房间",
+      "en": "room",
+      "pi": "fángjiān"
+    }
+  ]
+}

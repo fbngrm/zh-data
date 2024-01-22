@@ -1,0 +1,98 @@
+{
+  "sentences": [
+    {
+      "chinese": "坚持做对的事情。",
+      "english": "Stick to doing the right thing.",
+      "pinyin": "jiān chí zuò duì de shì qíng。",
+      "words": [
+        {
+          "ch": "坚持",
+          "en": "Stick to",
+          "pi": "jiān chí"
+        },
+        {
+          "ch": "做",
+          "en": "do",
+          "pi": "zuò"
+        },
+        {
+          "ch": "对",
+          "en": "right",
+          "pi": "duì"
+        },
+        {
+          "ch": "的",
+          "en": "of",
+          "pi": "de"
+        },
+        {
+          "ch": "事情",
+          "en": "thing",
+          "pi": "shì qíng"
+        }
+      ]
+    },
+    {
+      "chinese": "这会满足一部分人同时使另一部分人感到惊讶。",
+      "english": "This will satisfy some people while surprising others.",
+      "pinyin": "zhè huì mǎn zú yī bù fèn rén tóng shí shǐ lìng yī bù fèn rén gǎn dào jīng yà。",
+      "words": [
+        {
+          "ch": "这",
+          "en": "This",
+          "pi": "zhè"
+        },
+        {
+          "ch": "会",
+          "en": "will",
+          "pi": "huì"
+        },
+        {
+          "ch": "满足",
+          "en": "satisfy",
+          "pi": "mǎn zú"
+        },
+        {
+          "ch": "一部分",
+          "en": "some",
+          "pi": "yī bù fèn"
+        },
+        {
+          "ch": "人",
+          "en": "people",
+          "pi": "rén"
+        },
+        {
+          "ch": "同时",
+          "en": "while",
+          "pi": "tóng shí"
+        },
+        {
+          "ch": "使",
+          "en": "surprising",
+          "pi": "shǐ"
+        },
+        {
+          "ch": "另一部分",
+          "en": "others",
+          "pi": "lìng yī bù fèn"
+        },
+        {
+          "ch": "人",
+          "en": "people",
+          "pi": "rén"
+        },
+        {
+          "ch": "感到",
+          "en": "feel",
+          "pi": "gǎn dào"
+        },
+        {
+          "ch": "惊讶",
+          "en": "surprised",
+          "pi": "jīng yà"
+        }
+      ]
+    }
+  ]
+}

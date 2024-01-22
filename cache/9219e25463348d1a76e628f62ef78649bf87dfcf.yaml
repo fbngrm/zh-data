@@ -1,0 +1,32 @@
+{
+  "chinese": "你手里的是什么？",
+  "english": "What is in your hand?",
+  "pinyin": "nǐ shǒu lǐ de shì shénme?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "手里",
+      "en": "hand",
+      "pi": "shǒu lǐ"
+    },
+    {
+      "ch": "的",
+      "en": "is",
+      "pi": "de"
+    },
+    {
+      "ch": "是",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "什么",
+      "en": "?",
+      "pi": "?"
+    }
+  ]
+}

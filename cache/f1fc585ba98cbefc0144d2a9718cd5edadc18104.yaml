@@ -1,0 +1,37 @@
+{
+  "chinese": "我能问个问题吗？",
+  "english": "Can I ask a question?",
+  "pinyin": "wǒ néng wèn gè wèn tí ma?",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "问",
+      "en": "ask",
+      "pi": "wèn"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "问题",
+      "en": "question",
+      "pi": "wèn tí"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

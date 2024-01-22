@@ -1,0 +1,32 @@
+{
+  "chinese": "请在下个星期日休息。",
+  "english": "Please take a rest next Sunday.",
+  "pinyin": "qǐng zài xià gè xīng qī rì xiū xí.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "在",
+      "en": "next",
+      "pi": "zài"
+    },
+    {
+      "ch": "下个",
+      "en": "Sunday",
+      "pi": "xià gè"
+    },
+    {
+      "ch": "星期日",
+      "en": "rest",
+      "pi": "xīng qī rì"
+    },
+    {
+      "ch": "休息",
+      "en": "take",
+      "pi": "xiū xí"
+    }
+  ]
+}

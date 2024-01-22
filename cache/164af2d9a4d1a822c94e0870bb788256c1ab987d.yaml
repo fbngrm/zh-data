@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆并不是玛丽说得那样英俊。",
+  "english": "Tom is not as handsome as Mary said.",
+  "pinyin": "Tāng mǔ bìng bù shì Mǎ lì shuō de nà yàng yīng jùn.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "并不是",
+      "en": "is not",
+      "pi": "bìng bù shì"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎ lì"
+    },
+    {
+      "ch": "说得",
+      "en": "said",
+      "pi": "shuō de"
+    },
+    {
+      "ch": "那样",
+      "en": "as",
+      "pi": "nà yàng"
+    },
+    {
+      "ch": "英俊",
+      "en": "handsome",
+      "pi": "yīng jùn"
+    }
+  ]
+}

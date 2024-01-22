@@ -1,0 +1,47 @@
+{
+  "chinese": "请你在这个地方签个字。",
+  "english": "Please sign your name at this place.",
+  "pinyin": "qǐng nǐ zài zhè ge dì fāng qiān gè zì。",
+  "words": [
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè ge"
+    },
+    {
+      "ch": "地方",
+      "en": "place",
+      "pi": "dì fāng"
+    },
+    {
+      "ch": "签",
+      "en": "sign",
+      "pi": "qiān"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "字",
+      "en": "character",
+      "pi": "zì"
+    }
+  ]
+}

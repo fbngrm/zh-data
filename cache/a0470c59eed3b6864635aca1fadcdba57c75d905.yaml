@@ -1,0 +1,32 @@
+{
+  "chinese": "这些鸡蛋成打卖吗？",
+  "english": "Are these eggs sold in bulk?",
+  "pinyin": "zhè xiē jī dàn chéng dǎ mài ma?",
+  "words": [
+    {
+      "ch": "这些",
+      "en": "these",
+      "pi": "zhè xiē"
+    },
+    {
+      "ch": "鸡蛋",
+      "en": "eggs",
+      "pi": "jī dàn"
+    },
+    {
+      "ch": "成打",
+      "en": "in bulk",
+      "pi": "chéng dǎ"
+    },
+    {
+      "ch": "卖",
+      "en": "sell",
+      "pi": "mài"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

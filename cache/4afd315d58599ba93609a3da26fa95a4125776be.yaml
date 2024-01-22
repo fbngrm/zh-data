@@ -1,0 +1,32 @@
+{
+  "chinese": "今天有兩個學生缺席。",
+  "english": "Two students are absent today.",
+  "pinyin": "jīn tiān yǒu liǎng gè xué shēng quē xí.",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "兩個",
+      "en": "two",
+      "pi": "liǎng gè"
+    },
+    {
+      "ch": "學生",
+      "en": "students",
+      "pi": "xué shēng"
+    },
+    {
+      "ch": "缺席",
+      "en": "absent",
+      "pi": "quē xí"
+    }
+  ]
+}

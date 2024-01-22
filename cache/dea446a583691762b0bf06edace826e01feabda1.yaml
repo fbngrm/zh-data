@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆给了玛丽一把手电筒。",
+  "english": "Tom gave Mary a flashlight.",
+  "pinyin": "tāng mǔ gěi le mǎ lì yī bǎ shǒu diàn tǒng.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "给了",
+      "en": "gave",
+      "pi": "gěi le"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "一把",
+      "en": "a",
+      "pi": "yī bǎ"
+    },
+    {
+      "ch": "手电筒",
+      "en": "flashlight",
+      "pi": "shǒu diàn tǒng"
+    }
+  ]
+}

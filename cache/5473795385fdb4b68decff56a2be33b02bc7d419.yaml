@@ -1,0 +1,32 @@
+{
+  "chinese": "每条狗都活着。",
+  "english": "Every dog is alive.",
+  "pinyin": "měi tiáo gǒu dōu huózhe.",
+  "words": [
+    {
+      "ch": "每",
+      "en": "every",
+      "pi": "měi"
+    },
+    {
+      "ch": "条",
+      "en": "classifier for long, thin things",
+      "pi": "tiáo"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "活着",
+      "en": "alive",
+      "pi": "huózhe"
+    }
+  ]
+}

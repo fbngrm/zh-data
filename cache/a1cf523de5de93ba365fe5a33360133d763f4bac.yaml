@@ -1,0 +1,32 @@
+{
+  "chinese": "约翰比玛丽高得多。",
+  "english": "John is much taller than Mary.",
+  "pinyin": "Yuēhàn bǐ Mǎlì gāo dé duō.",
+  "words": [
+    {
+      "ch": "约翰",
+      "en": "John",
+      "pi": "Yuēhàn"
+    },
+    {
+      "ch": "比",
+      "en": "is",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎlì"
+    },
+    {
+      "ch": "高",
+      "en": "taller",
+      "pi": "gāo"
+    },
+    {
+      "ch": "得多",
+      "en": "much",
+      "pi": "dé duō"
+    }
+  ]
+}

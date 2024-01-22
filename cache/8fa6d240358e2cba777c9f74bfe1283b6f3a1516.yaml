@@ -1,0 +1,42 @@
+{
+  "chinese": "这不是我所擅长的事。",
+  "english": "This is not something I am good at.",
+  "pinyin": "zhè bù shì wǒ suǒ shàncháng de shì.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "不是",
+      "en": "not",
+      "pi": "bù shì"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "所",
+      "en": "am",
+      "pi": "suǒ"
+    },
+    {
+      "ch": "擅长",
+      "en": "good at",
+      "pi": "shàncháng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "事",
+      "en": "thing",
+      "pi": "shì"
+    }
+  ]
+}

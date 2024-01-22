@@ -1,0 +1,32 @@
+{
+  "chinese": "我每天早上刮胡子。",
+  "english": "I shave my beard every morning.",
+  "pinyin": "wǒ měi tiān zǎo shàng guā hú zi。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎo shàng"
+    },
+    {
+      "ch": "刮",
+      "en": "shave",
+      "pi": "guā"
+    },
+    {
+      "ch": "胡子",
+      "en": "beard",
+      "pi": "hú zi"
+    }
+  ]
+}

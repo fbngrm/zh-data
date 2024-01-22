@@ -1,0 +1,20 @@
+{
+  "chinese": "由於下大雪，從北京来的班機延遲二十分鐘。",
+  "english": "Due to heavy snow, the flight from Beijing is delayed by twenty minutes.",
+  "pinyin": "Yóuyú xià dàxuě, cóng Běijīng lái de bānjī yánchí èrshí fēnzhōng。",
+  "words": [
+    { "ch": "由於", "en": "due to", "pi": "yóuyú" },
+    { "ch": "下", "en": "under", "pi": "xià" },
+    { "ch": "大雪", "en": "heavy snow", "pi": "dàxuě" },
+    { "ch": "，", "en": ",", "pi": "，" },
+    { "ch": "從", "en": "from", "pi": "cóng" },
+    { "ch": "北京", "en": "Beijing", "pi": "Běijīng" },
+    { "ch": "来", "en": "come", "pi": "lái" },
+    { "ch": "的", "en": "'s", "pi": "de" },
+    { "ch": "班機", "en": "flight", "pi": "bānjī" },
+    { "ch": "延遲", "en": "delayed", "pi": "yánchí" },
+    { "ch": "二十", "en": "twenty", "pi": "èrshí" },
+    { "ch": "分鐘", "en": "minutes", "pi": "fēnzhōng" },
+    { "ch": "。", "en": ".", "pi": "。" }
+  ]
+}

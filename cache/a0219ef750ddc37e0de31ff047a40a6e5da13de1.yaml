@@ -1,0 +1,32 @@
+{
+  "chinese": "我听不懂你。",
+  "english": "I don't understand you.",
+  "pinyin": "wǒ tīng bù dǒng nǐ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "听",
+      "en": "listen",
+      "pi": "tīng"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "懂",
+      "en": "understand",
+      "pi": "dǒng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    }
+  ]
+}

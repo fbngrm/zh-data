@@ -1,0 +1,27 @@
+{
+  "sentences": [
+    {
+      "chinese": "那不是一把刀。",
+      "english": "That is not a knife.",
+      "pinyin": "nà búshì yī bǎ dāo。",
+      "words": [
+        {"ch": "那", "en": "that", "pi": "nà"},
+        {"ch": "不是", "en": "is not", "pi": "búshì"},
+        {"ch": "一把", "en": "a", "pi": "yī bǎ"},
+        {"ch": "刀", "en": "knife", "pi": "dāo"}
+      ]
+    },
+    {
+      "chinese": "这才是一把刀。",
+      "english": "This is a knife.",
+      "pinyin": "zhè cái shì yī bǎ dāo。",
+      "words": [
+        {"ch": "这", "en": "this", "pi": "zhè"},
+        {"ch": "才", "en": "just", "pi": "cái"},
+        {"ch": "是", "en": "is", "pi": "shì"},
+        {"ch": "一把", "en": "a", "pi": "yī bǎ"},
+        {"ch": "刀", "en": "knife", "pi": "dāo"}
+      ]
+    }
+  ]
+}

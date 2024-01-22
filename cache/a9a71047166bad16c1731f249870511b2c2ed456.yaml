@@ -1,0 +1,27 @@
+{
+  "chinese": "电话号码是多少？",
+  "english": "What is the telephone number?",
+  "pinyin": "Diànhuà hàomǎ shì duōshǎo?",
+  "words": [
+    {
+      "ch": "电话",
+      "en": "telephone",
+      "pi": "diànhuà"
+    },
+    {
+      "ch": "号码",
+      "en": "number",
+      "pi": "hàomǎ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "多少",
+      "en": "what",
+      "pi": "duōshǎo"
+    }
+  ]
+}

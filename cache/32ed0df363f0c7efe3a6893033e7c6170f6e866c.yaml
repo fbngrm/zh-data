@@ -1,0 +1,37 @@
+{
+  "chinese": "不是每一个孩子喜欢吃苹果。",
+  "english": "Not every child likes to eat apples.",
+  "pinyin": "bù shì měi yī gè hái zǐ xǐ huān chī píng guǒ.",
+  "words": [
+    {
+      "ch": "不是",
+      "en": "Not",
+      "pi": "bù shì"
+    },
+    {
+      "ch": "每一个",
+      "en": "every",
+      "pi": "měi yī gè"
+    },
+    {
+      "ch": "孩子",
+      "en": "child",
+      "pi": "hái zǐ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "likes",
+      "pi": "xǐ huān"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "苹果",
+      "en": "apples",
+      "pi": "píng guǒ"
+    }
+  ]
+}

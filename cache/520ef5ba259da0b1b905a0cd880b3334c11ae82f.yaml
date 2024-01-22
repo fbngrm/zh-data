@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆下棋下得很好。",
+  "english": "Tom plays chess very well.",
+  "pinyin": "Tāng mǔ xià qí xià dé hěn hǎo.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "下棋",
+      "en": "play chess",
+      "pi": "xià qí"
+    },
+    {
+      "ch": "下得",
+      "en": "play well",
+      "pi": "xià dé"
+    },
+    {
+      "ch": "很好",
+      "en": "very well",
+      "pi": "hěn hǎo"
+    }
+  ]
+}

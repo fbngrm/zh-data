@@ -1,0 +1,42 @@
+{
+  "chinese": "你什么时候更改了你的地址?",
+  "english": "When did you change your address?",
+  "pinyin": "nǐ shénme shíhou gēnggǎile nǐ de dìzhǐ?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "什么时候",
+      "en": "when",
+      "pi": "shénme shíhou"
+    },
+    {
+      "ch": "更改",
+      "en": "change",
+      "pi": "gēnggǎi"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "地址",
+      "en": "address",
+      "pi": "dìzhǐ"
+    },
+    {
+      "ch": "?",
+      "en": "",
+      "pi": "?"
+    }
+  ]
+}

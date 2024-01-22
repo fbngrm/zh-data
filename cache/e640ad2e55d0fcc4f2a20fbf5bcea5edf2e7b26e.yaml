@@ -1,0 +1,22 @@
+{
+  "chinese": "当我是个小男孩的时候，我的祖父就过世了。",
+  "english": "When I was a little boy, my grandfather passed away.",
+  "pinyin": "Dāng wǒ shì gè xiǎo nánhái de shíhou, wǒ de zǔfù jiù guòshìle.",
+  "words": [
+    { "ch": "当", "en": "when", "pi": "dāng" },
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "是", "en": "am", "pi": "shì" },
+    { "ch": "个", "en": "a", "pi": "gè" },
+    { "ch": "小", "en": "little", "pi": "xiǎo" },
+    { "ch": "男孩", "en": "boy", "pi": "nánhái" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "时候", "en": "time", "pi": "shíhou" },
+    { "ch": "，", "en": ",", "pi": "，" },
+    { "ch": "我的", "en": "my", "pi": "wǒde" },
+    { "ch": "祖父", "en": "grandfather", "pi": "zǔfù" },
+    { "ch": "就", "en": "already", "pi": "jiù" },
+    { "ch": "过世", "en": "passed away", "pi": "guòshì" },
+    { "ch": "了", "en": "already", "pi": "le" },
+    { "ch": "。", "en": ".", "pi": "。" }
+  ]
+}

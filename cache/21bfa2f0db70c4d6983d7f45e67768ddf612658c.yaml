@@ -1,0 +1,32 @@
+{
+  "chinese": "今晚天气冷死了。",
+  "english": "It's freezing tonight.",
+  "pinyin": "jīn wǎn tiān qì lěng sǐle.",
+  "words": [
+    {
+      "ch": "今晚",
+      "en": "tonight",
+      "pi": "jīn wǎn"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiān qì"
+    },
+    {
+      "ch": "冷",
+      "en": "cold",
+      "pi": "lěng"
+    },
+    {
+      "ch": "死",
+      "en": "extremely",
+      "pi": "sǐ"
+    },
+    {
+      "ch": "了",
+      "en": "exclamation",
+      "pi": "le"
+    }
+  ]
+}

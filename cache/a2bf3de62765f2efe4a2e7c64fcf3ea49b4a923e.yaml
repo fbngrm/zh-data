@@ -1,0 +1,32 @@
+{
+  "chinese": "我现在往酒店走。",
+  "english": "I am walking towards the hotel now.",
+  "pinyin": "wǒ xiàn zài wǎng jiǔ diàn zǒu.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "往",
+      "en": "towards",
+      "pi": "wǎng"
+    },
+    {
+      "ch": "酒店",
+      "en": "hotel",
+      "pi": "jiǔ diàn"
+    },
+    {
+      "ch": "走",
+      "en": "walk",
+      "pi": "zǒu"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "数学是我最喜欢的科目。",
+  "english": "Mathematics is my favorite subject.",
+  "pinyin": "Shùxué shì wǒ zuì xǐhuān de kēmù.",
+  "words": [
+    {
+      "ch": "数学",
+      "en": "Mathematics",
+      "pi": "shùxué"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "最",
+      "en": "favorite",
+      "pi": "zuì"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "科目",
+      "en": "subject",
+      "pi": "kēmù"
+    }
+  ]
+}

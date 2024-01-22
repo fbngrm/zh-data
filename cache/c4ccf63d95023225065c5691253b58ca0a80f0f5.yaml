@@ -1,0 +1,37 @@
+{
+  "chinese": "你的学校在这个城市吗？",
+  "english": "Is your school in this city?",
+  "pinyin": "nǐ de xuéxiào zài zhège chéngshì ma?",
+  "words": [
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "学校",
+      "en": "school",
+      "pi": "xuéxiào"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhège"
+    },
+    {
+      "ch": "城市",
+      "en": "city",
+      "pi": "chéngshì"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

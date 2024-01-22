@@ -1,0 +1,32 @@
+{
+  "chinese": "他跳上了桌子。",
+  "english": "He jumped onto the table.",
+  "pinyin": "tā tiào shàng le zhuōzi.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "跳",
+      "en": "jump",
+      "pi": "tiào"
+    },
+    {
+      "ch": "上",
+      "en": "onto",
+      "pi": "shàng"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "桌子",
+      "en": "table",
+      "pi": "zhuōzi"
+    }
+  ]
+}

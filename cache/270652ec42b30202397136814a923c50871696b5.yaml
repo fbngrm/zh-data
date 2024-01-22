@@ -1,0 +1,13 @@
+{
+  "chinese": "他寫的是標準英文。",
+  "english": "He writes in Standard English.",
+  "pinyin": "tā xiě de shì biāozhǔn yīngwén.",
+  "words": [
+    { "ch": "他", "en": "He", "pi": "tā" },
+    { "ch": "寫", "en": "writes", "pi": "xiě" },
+    { "ch": "的", "en": "in", "pi": "de" },
+    { "ch": "是", "en": "standard", "pi": "shì" },
+    { "ch": "標準", "en": "English", "pi": "biāozhǔn" },
+    { "ch": "英文", "en": "in", "pi": "yīngwén" }
+  ]
+}

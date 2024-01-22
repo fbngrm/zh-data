@@ -1,0 +1,42 @@
+{
+  "chinese": "她说她每天早上六点起床。",
+  "english": "She said she wakes up at six o'clock every morning.",
+  "pinyin": "tā shuō tā měi tiān zǎo shang liù diǎn qǐ chuáng.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "说",
+      "en": "said",
+      "pi": "shuō"
+    },
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎo shang"
+    },
+    {
+      "ch": "六点",
+      "en": "six o'clock",
+      "pi": "liù diǎn"
+    },
+    {
+      "ch": "起床",
+      "en": "wake up",
+      "pi": "qǐ chuáng"
+    }
+  ]
+}

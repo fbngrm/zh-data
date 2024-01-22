@@ -1,0 +1,32 @@
+{
+  "chinese": "我的英文一直都不错。",
+  "english": "My English has always been good.",
+  "pinyin": "Wǒ de yīngwén yīzhí dōu bùcuò.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "英文",
+      "en": "English",
+      "pi": "yīngwén"
+    },
+    {
+      "ch": "一直",
+      "en": "always",
+      "pi": "yīzhí"
+    },
+    {
+      "ch": "都",
+      "en": "have",
+      "pi": "dōu"
+    },
+    {
+      "ch": "不错",
+      "en": "good",
+      "pi": "bùcuò"
+    }
+  ]
+}

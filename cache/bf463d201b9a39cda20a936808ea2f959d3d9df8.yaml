@@ -1,0 +1,17 @@
+{
+  "chinese": "你既然已经知道了，还问什么？",
+  "english": "Since you already know, why ask?",
+  "pinyin": "nǐ jì rán yǐ jīng zhī dào le, hái wèn shén me?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "既然", "en": "since", "pi": "jì rán"},
+    {"ch": "已经", "en": "already", "pi": "yǐ jīng"},
+    {"ch": "知道", "en": "know", "pi": "zhī dào"},
+    {"ch": "了", "en": "already", "pi": "le"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "还", "en": "still", "pi": "hái"},
+    {"ch": "问", "en": "ask", "pi": "wèn"},
+    {"ch": "什么", "en": "what", "pi": "shén me"},
+    {"ch": "？", "en": "?", "pi": "？"}
+  ]
+}

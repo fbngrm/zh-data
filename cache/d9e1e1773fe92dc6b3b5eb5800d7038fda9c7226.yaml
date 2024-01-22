@@ -1,0 +1,14 @@
+{
+  "chinese": "杰克买了一个礼物给他的朋友。",
+  "english": "Jack bought a gift for his friend.",
+  "pinyin": "jié kè mǎi le yī gè lǐ wù gěi tā de péng yǒu.",
+  "words": [
+    {"ch": "杰克", "en": "Jack", "pi": "jié kè"},
+    {"ch": "买了", "en": "bought", "pi": "mǎi le"},
+    {"ch": "一个", "en": "a", "pi": "yī gè"},
+    {"ch": "礼物", "en": "gift", "pi": "lǐ wù"},
+    {"ch": "给", "en": "for", "pi": "gěi"},
+    {"ch": "他的", "en": "his", "pi": "tā de"},
+    {"ch": "朋友", "en": "friend.", "pi": "péng yǒu"}
+  ]
+}

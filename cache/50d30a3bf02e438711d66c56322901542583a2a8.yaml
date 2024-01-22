@@ -1,0 +1,32 @@
+{
+  "chinese": "你有多少支铅笔？",
+  "english": "How many pencils do you have?",
+  "pinyin": "Nǐ yǒu duōshǎo zhī qiānbǐ?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "多少",
+      "en": "how many",
+      "pi": "duōshǎo"
+    },
+    {
+      "ch": "支",
+      "en": "measure word for pencils",
+      "pi": "zhī"
+    },
+    {
+      "ch": "铅笔",
+      "en": "pencil",
+      "pi": "qiānbǐ"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆必须卖了他的房子。",
+  "english": "Tom must sell his house.",
+  "pinyin": "Tāng mǔ bìxū mài le tā de fángzi.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "必须",
+      "en": "must",
+      "pi": "bìxū"
+    }, 
+    {
+      "ch": "卖",
+      "en": "sell",
+      "pi": "mài"
+    },
+    {
+      "ch": "了",
+      "en": "his",
+      "pi": "le"
+    },
+    {
+      "ch": "他的",
+      "en": "house",
+      "pi": "tā de"
+    },
+    {
+      "ch": "房子",
+      "en": "house",
+      "pi": "fángzi"
+    }
+  ]
+}

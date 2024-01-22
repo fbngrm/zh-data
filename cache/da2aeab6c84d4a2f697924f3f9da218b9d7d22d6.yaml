@@ -1,0 +1,37 @@
+{
+  "chinese": "我乘电梯上三楼。",
+  "english": "I take the elevator to the third floor.",
+  "pinyin": "wǒ chéng diàn tī shàng sān lóu.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "乘",
+      "en": "take",
+      "pi": "chéng"
+    },
+    {
+      "ch": "电梯",
+      "en": "elevator",
+      "pi": "diàn tī"
+    },
+    {
+      "ch": "上",
+      "en": "to",
+      "pi": "shàng"
+    },
+    {
+      "ch": "三",
+      "en": "three",
+      "pi": "sān"
+    },
+    {
+      "ch": "楼",
+      "en": "floor",
+      "pi": "lóu"
+    }
+  ]
+}

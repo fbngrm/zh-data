@@ -1,0 +1,14 @@
+{
+  "chinese": "请告诉我们下一步要做什么。",
+  "english": "Please tell us what to do next.",
+  "pinyin": "qǐng gàosù wǒmen xià yībù yào zuò shénme.",
+  "words": [
+    {"ch": "请", "en": "Please", "pi": "qǐng"},
+    {"ch": "告诉", "en": "tell", "pi": "gàosù"},
+    {"ch": "我们", "en": "us", "pi": "wǒmen"},
+    {"ch": "下一步", "en": "next", "pi": "xià yībù"},
+    {"ch": "要", "en": "to", "pi": "yào"},
+    {"ch": "做", "en": "do", "pi": "zuò"},
+    {"ch": "什么", "en": "what", "pi": "shénme"}
+  ]
+}

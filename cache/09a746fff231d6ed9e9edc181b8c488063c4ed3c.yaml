@@ -1,0 +1,37 @@
+{
+  "chinese": "老虎躺在笼子的中间。",
+  "english": "The tiger is lying in the middle of the cage.",
+  "pinyin": "lǎo hǔ tǎng zài lóng zi de zhōng jiān。",
+  "words": [
+    {
+      "ch": "老虎",
+      "en": "tiger",
+      "pi": "lǎo hǔ"
+    },
+    {
+      "ch": "躺",
+      "en": "lie",
+      "pi": "tǎng"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "笼子",
+      "en": "cage",
+      "pi": "lóng zi"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "中间",
+      "en": "middle",
+      "pi": "zhōng jiān"
+    }
+  ]
+}

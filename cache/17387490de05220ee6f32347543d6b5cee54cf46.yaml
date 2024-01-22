@@ -1,0 +1,12 @@
+{
+  "chinese": "我是昨天搬来的。",
+  "english": "I moved here yesterday.",
+  "pinyin": "wǒ shì zuótiān bān lái de.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "是", "en": "am", "pi": "shì" },
+    { "ch": "昨天", "en": "yesterday", "pi": "zuótiān" },
+    { "ch": "搬来", "en": "moved here", "pi": "bān lái" },
+    { "ch": "的", "en": "particle indicating past tense", "pi": "de" }
+  ]
+}

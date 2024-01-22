@@ -1,0 +1,42 @@
+{
+  "chinese": "这班是去纽约的火车吗?",
+  "english": "Is this the train to New York?",
+  "pinyin": "zhè bān shì qù niǔ yuē de huǒ chē ma?",
+  "words": [
+    {
+      "ch": "这班",
+      "en": "this",
+      "pi": "zhè bān"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "去",
+      "en": "to",
+      "pi": "qù"
+    },
+    {
+      "ch": "纽约",
+      "en": "New York",
+      "pi": "niǔ yuē"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒ chē"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

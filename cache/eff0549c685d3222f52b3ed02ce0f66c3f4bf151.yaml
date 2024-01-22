@@ -1,0 +1,16 @@
+{
+  "chinese": "我们所有的人都去剧院看戏。",
+  "english": "All of us are going to the theater to watch a play.",
+  "pinyin": "wǒmen suǒyǒu de rén dōu qù jùyuàn kàn xì.",
+  "words": [
+    {"ch": "我们", "en": "we", "pi": "wǒmen"},
+    {"ch": "所有", "en": "all", "pi": "suǒyǒu"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "人", "en": "person", "pi": "rén"},
+    {"ch": "都", "en": "all", "pi": "dōu"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "剧院", "en": "theater", "pi": "jùyuàn"},
+    {"ch": "看", "en": "watch", "pi": "kàn"},
+    {"ch": "戏", "en": "play", "pi": "xì"}
+  ]
+}

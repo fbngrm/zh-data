@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "chinese": "上帝死了。",
+      "english": "God is dead.",
+      "pinyin": "Shàngdì sǐ le。",
+      "words": [
+        {
+          "ch": "上帝",
+          "en": "God",
+          "pi": "shàngdì"
+        },
+        {
+          "ch": "死",
+          "en": "is dead",
+          "pi": "sǐ"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        }
+      ]
+    },
+    {
+      "chinese": "我们杀死了他。",
+      "english": "We killed him.",
+      "pinyin": "Wǒmen shā sǐ le tā。",
+      "words": [
+        {
+          "ch": "我们",
+          "en": "We",
+          "pi": "wǒmen"
+        },
+        {
+          "ch": "杀死",
+          "en": "killed",
+          "pi": "shā sǐ"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        },
+        {
+          "ch": "他",
+          "en": "him",
+          "pi": "tā"
+        }
+      ]
+    }
+  ]
+}

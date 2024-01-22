@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆没明白老师说了什么。",
+  "english": "Tom didn't understand what the teacher said.",
+  "pinyin": "tāng mǔ méi míng bái lǎo shī shuō le shén me.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "没",
+      "en": "not",
+      "pi": "méi"
+    },
+    {
+      "ch": "明白",
+      "en": "understand",
+      "pi": "míng bái"
+    },
+    {
+      "ch": "老师",
+      "en": "teacher",
+      "pi": "lǎo shī"
+    },
+    {
+      "ch": "说",
+      "en": "said",
+      "pi": "shuō"
+    },
+    {
+      "ch": "了",
+      "en": "what",
+      "pi": "le"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shén me"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "我买了两袋爆米花。",
+  "english": "I bought two bags of popcorn.",
+  "pinyin": "wǒ mǎi le liǎng dài bào mǐ huā。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "买",
+      "en": "buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "了",
+      "en": "le",
+      "pi": "le"
+    },
+    {
+      "ch": "两",
+      "en": "two",
+      "pi": "liǎng"
+    },
+    {
+      "ch": "袋",
+      "en": "bags",
+      "pi": "dài"
+    },
+    {
+      "ch": "爆米花",
+      "en": "popcorn",
+      "pi": "bào mǐ huā"
+    }
+  ]
+}

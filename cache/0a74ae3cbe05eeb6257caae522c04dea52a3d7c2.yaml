@@ -1,0 +1,63 @@
+{
+  "sentences": [
+    {
+      "chinese": "他们又要罢工了吗？",
+      "english": "Are they going on strike again?",
+      "pinyin": "tāmen yòu yào bàgōng le ma?",
+      "words": [
+        {
+          "ch": "他们",
+          "en": "they",
+          "pi": "tāmen"
+        },
+        {
+          "ch": "又",
+          "en": "again",
+          "pi": "yòu"
+        },
+        {
+          "ch": "要",
+          "en": "going to",
+          "pi": "yào"
+        },
+        {
+          "ch": "罢工",
+          "en": "strike",
+          "pi": "bàgōng"
+        },
+        {
+          "ch": "了",
+          "en": "already",
+          "pi": "le"
+        },
+        {
+          "ch": "吗",
+          "en": "?",
+          "pi": "ma"
+        }
+      ]
+    },
+    {
+      "chinese": "恐怕是的。",
+      "english": "I'm afraid so.",
+      "pinyin": "kǒngpà shì de.",
+      "words": [
+        {
+          "ch": "恐怕",
+          "en": "I'm afraid",
+          "pi": "kǒngpà"
+        },
+        {
+          "ch": "是",
+          "en": "so",
+          "pi": "shì"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": "de"
+        }
+      ]
+    }
+  ]
+}

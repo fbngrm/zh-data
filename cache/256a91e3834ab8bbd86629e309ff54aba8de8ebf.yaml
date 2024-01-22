@@ -1,0 +1,32 @@
+{
+  "chinese": "选择太多导致无法选择。",
+  "english": "Too many choices make it impossible to choose.",
+  "pinyin": "xuǎn zé tài duō dǎo zhì wú fǎ xuǎn zé。",
+  "words": [
+    {
+      "ch": "选择",
+      "en": "choice",
+      "pi": "xuǎn zé"
+    },
+    {
+      "ch": "太多",
+      "en": "too many",
+      "pi": "tài duō"
+    },
+    {
+      "ch": "导致",
+      "en": "cause",
+      "pi": "dǎo zhì"
+    },
+    {
+      "ch": "无法",
+      "en": "impossible",
+      "pi": "wú fǎ"
+    },
+    {
+      "ch": "选择",
+      "en": "choose",
+      "pi": "xuǎn zé"
+    }
+  ]
+}

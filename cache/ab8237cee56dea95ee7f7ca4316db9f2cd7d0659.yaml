@@ -1,0 +1,27 @@
+{
+  "chinese": "你们一般几点下班？",
+  "english": "What time do you usually finish work?",
+  "pinyin": "nǐ mén yī bān jǐ diǎn xià bān?",
+  "words": [
+    {
+      "ch": "你们",
+      "en": "you",
+      "pi": "nǐ mén"
+    },
+    {
+      "ch": "一般",
+      "en": "usually",
+      "pi": "yī bān"
+    },
+    {
+      "ch": "几点",
+      "en": "what time",
+      "pi": "jǐ diǎn"
+    },
+    {
+      "ch": "下班",
+      "en": "finish work",
+      "pi": "xià bān"
+    }
+  ]
+}

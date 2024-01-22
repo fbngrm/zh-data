@@ -1,0 +1,32 @@
+{
+  "chinese": "办公桌上面有一张地图。",
+  "english": "There is a map on the desk.",
+  "pinyin": "bàn gōng zhuō shàng miàn yǒu yī zhāng dì tú。",
+  "words": [
+    {
+      "ch": "办公桌",
+      "en": "desk",
+      "pi": "bàn gōng zhuō"
+    },
+    {
+      "ch": "上面",
+      "en": "on",
+      "pi": "shàng miàn"
+    },
+    {
+      "ch": "有",
+      "en": "is",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一张",
+      "en": "a",
+      "pi": "yī zhāng"
+    },
+    {
+      "ch": "地图",
+      "en": "map",
+      "pi": "dì tú"
+    }
+  ]
+}

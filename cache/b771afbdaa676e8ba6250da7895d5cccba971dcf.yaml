@@ -1,0 +1,47 @@
+{
+  "chinese": "汤姆和玛丽都知道你是谁。",
+  "english": "Tom and Mary both know who you are.",
+  "pinyin": "Tāng mǔ hé mǎ lì dōu zhī dào nǐ shì shéi.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "都",
+      "en": "both",
+      "pi": "dōu"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "谁",
+      "en": "who",
+      "pi": "shéi"
+    }
+  ]
+}

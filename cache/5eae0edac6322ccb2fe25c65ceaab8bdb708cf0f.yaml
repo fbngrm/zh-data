@@ -1,0 +1,37 @@
+{
+  "chinese": "我不想很早起床。",
+  "english": "I don't want to wake up early.",
+  "pinyin": "wǒ bù xiǎng hěn zǎo qǐchuáng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "早",
+      "en": "early",
+      "pi": "zǎo"
+    },
+    {
+      "ch": "起床",
+      "en": "to wake up",
+      "pi": "qǐchuáng"
+    }
+  ]
+}

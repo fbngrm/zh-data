@@ -1,0 +1,37 @@
+{
+  "chinese": "这孩子跟着我去公园。",
+  "english": "This child is following me to the park.",
+  "pinyin": "zhè hái zi gēn zhe wǒ qù gōng yuán.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "孩子",
+      "en": "child",
+      "pi": "hái zi"
+    },
+    {
+      "ch": "跟着",
+      "en": "following",
+      "pi": "gēn zhe"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "去",
+      "en": "to",
+      "pi": "qù"
+    },
+    {
+      "ch": "公园",
+      "en": "park",
+      "pi": "gōng yuán"
+    }
+  ]
+}

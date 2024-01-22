@@ -1,0 +1,47 @@
+{
+  "chinese": "我从他的书学到了很多。",
+  "english": "I learned a lot from his book.",
+  "pinyin": "wǒ cóng tā de shū xué dào le hěn duō。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "他",
+      "en": "his",
+      "pi": "tā"
+    },
+    {
+      "ch": "的",
+      "en": "book",
+      "pi": "de"
+    },
+    {
+      "ch": "书",
+      "en": "learn",
+      "pi": "shū"
+    },
+    {
+      "ch": "学到",
+      "en": "to",
+      "pi": "xué dào"
+    },
+    {
+      "ch": "了",
+      "en": "a lot",
+      "pi": "le"
+    },
+    {
+      "ch": "很多",
+      "en": "a lot",
+      "pi": "hěn duō"
+    }
+  ]
+}

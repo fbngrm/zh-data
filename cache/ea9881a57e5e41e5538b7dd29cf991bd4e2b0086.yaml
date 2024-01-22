@@ -1,0 +1,14 @@
+{
+  "chinese": "你在美国住了多长时间？",
+  "english": "How long have you lived in the United States?",
+  "pinyin": "Nǐ zài měiguó zhùle duō cháng shíjiān?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "在", "en": "at/in", "pi": "zài"},
+    {"ch": "美国", "en": "United States", "pi": "měiguó"},
+    {"ch": "住", "en": "live", "pi": "zhù"},
+    {"ch": "了", "en": "(indicating a completed action)", "pi": "le"},
+    {"ch": "多长时间", "en": "how long", "pi": "duō cháng shíjiān"},
+    {"ch": "？", "en": "(question mark)", "pi": "？"}
+  ]
+}

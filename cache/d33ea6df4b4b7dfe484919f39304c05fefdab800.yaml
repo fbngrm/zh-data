@@ -1,0 +1,32 @@
+{
+  "chinese": "火车是开往伦敦的。",
+  "english": "The train is bound for London.",
+  "pinyin": "huǒ chē shì kāi wǎng lún dūn de.",
+  "words": [
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒ chē"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "开往",
+      "en": "bound for",
+      "pi": "kāi wǎng"
+    },
+    {
+      "ch": "伦敦",
+      "en": "London",
+      "pi": "lún dūn"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    }
+  ]
+}

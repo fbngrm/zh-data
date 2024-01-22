@@ -1,0 +1,37 @@
+{
+  "chinese": "医生，请给这孩子急救。",
+  "english": "Doctor, please give this child first aid.",
+  "pinyin": "yī shēng, qǐng gěi zhè hái zǐ jí jiù。",
+  "words": [
+    {
+      "ch": "医生",
+      "en": "Doctor",
+      "pi": "yī shēng"
+    },
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "孩子",
+      "en": "child",
+      "pi": "hái zǐ"
+    },
+    {
+      "ch": "急救",
+      "en": "first aid",
+      "pi": "jí jiù"
+    }
+  ]
+}

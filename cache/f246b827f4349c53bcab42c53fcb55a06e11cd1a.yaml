@@ -1,0 +1,22 @@
+{
+  "chinese": "电影好看吗？",
+  "english": "Is the movie good?",
+  "pinyin": "Diànyǐng hǎokàn ma?",
+  "words": [
+    {
+      "ch": "电影",
+      "en": "movie",
+      "pi": "diànyǐng"
+    },
+    {
+      "ch": "好看",
+      "en": "good",
+      "pi": "hǎokàn"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

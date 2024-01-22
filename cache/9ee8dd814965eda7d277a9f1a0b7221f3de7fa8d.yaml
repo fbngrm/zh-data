@@ -1,0 +1,32 @@
+{
+  "chinese": "公园里有很多人。",
+  "english": "There are many people in the park.",
+  "pinyin": "gōng yuán lǐ yǒu hěn duō rén.",
+  "words": [
+    {
+      "ch": "公园",
+      "en": "park",
+      "pi": "gōng yuán"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "很多",
+      "en": "many",
+      "pi": "hěn duō"
+    },
+    {
+      "ch": "人",
+      "en": "people",
+      "pi": "rén"
+    }
+  ]
+}

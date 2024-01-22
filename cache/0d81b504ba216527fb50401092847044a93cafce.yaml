@@ -1,0 +1,22 @@
+{
+  "chinese": "每个人都很惊讶马德里竞技会战胜巴塞罗那，因为他们在西班牙联赛中总是失败者。",
+  "english": "Everyone is surprised that Atletico Madrid will beat Barcelona, because they have always been losers in the Spanish league.",
+  "pinyin": "měi gè rén dōu hěn jīng yà mǎ dé lǐ jìng jī huì zhàn shèng bā sāi luó nà ， yīn wèi tā men zài xī bān yá lián sài zhōng zǒng shì shī bài zhě 。",
+  "words": [
+    {"ch": "每个人", "en": "Everyone", "pi": "měi gè rén"},
+    {"ch": "都", "en": "is", "pi": "dōu"},
+    {"ch": "很", "en": "surprised", "pi": "hěn"},
+    {"ch": "惊讶", "en": "that", "pi": "jīng yà"},
+    {"ch": "马德里竞技", "en": "Atletico Madrid", "pi": "mǎ dé lǐ jìng jī"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "战胜", "en": "beat", "pi": "zhàn shèng"},
+    {"ch": "巴塞罗那", "en": "Barcelona", "pi": "bā sāi luō nà"},
+    {"ch": "因为", "en": "because", "pi": "yīn wèi"},
+    {"ch": "他们", "en": "they", "pi": "tā men"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "西班牙联赛", "en": "the Spanish league", "pi": "xī bān yá lián sài"},
+    {"ch": "中", "en": "have", "pi": "zhōng"},
+    {"ch": "总是", "en": "always", "pi": "zǒng shì"},
+    {"ch": "失败者", "en": "losers", "pi": "shī bài zhě"}
+  ]
+}

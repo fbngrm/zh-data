@@ -1,0 +1,32 @@
+{
+  "chinese": "中国小孩特别擅长数学。",
+  "english": "Chinese children are especially good at math.",
+  "pinyin": "zhōng guó xiǎo hái tè bié shàn cháng shù xué。",
+  "words": [
+    {
+      "ch": "中国",
+      "en": "China",
+      "pi": "zhōng guó"
+    },
+    {
+      "ch": "小孩",
+      "en": "children",
+      "pi": "xiǎo hái"
+    },
+    {
+      "ch": "特别",
+      "en": "especially",
+      "pi": "tè bié"
+    },
+    {
+      "ch": "擅长",
+      "en": "good at",
+      "pi": "shàn cháng"
+    },
+    {
+      "ch": "数学",
+      "en": "math",
+      "pi": "shù xué"
+    }
+  ]
+}

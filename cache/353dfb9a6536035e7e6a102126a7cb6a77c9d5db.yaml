@@ -1,0 +1,42 @@
+{
+  "chinese": "这条领带和那件上衣很配。",
+  "english": "This tie goes well with that shirt.",
+  "pinyin": "zhè tiáo lǐngdài hé nà jiàn shàngyī hěn pèi.",
+  "words": [
+    {
+      "ch": "这条",
+      "en": "This",
+      "pi": "zhè tiáo"
+    },
+    {
+      "ch": "领带",
+      "en": "tie",
+      "pi": "lǐngdài"
+    },
+    {
+      "ch": "和",
+      "en": "with",
+      "pi": "hé"
+    },
+    {
+      "ch": "那件",
+      "en": "that",
+      "pi": "nà jiàn"
+    },
+    {
+      "ch": "上衣",
+      "en": "shirt",
+      "pi": "shàngyī"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "配",
+      "en": "matches",
+      "pi": "pèi"
+    }
+  ]
+}

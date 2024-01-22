@@ -1,0 +1,42 @@
+{
+  "chinese": "我们有在这里停车的许可。",
+  "english": "We have a permission to park here.",
+  "pinyin": "wǒmen yǒu zài zhèlǐ tíngchē de xǔkě。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "在",
+      "en": "to",
+      "pi": "zài"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhèlǐ"
+    },
+    {
+      "ch": "停车",
+      "en": "park",
+      "pi": "tíngchē"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "许可",
+      "en": "permission",
+      "pi": "xǔkě"
+    }
+  ]
+}

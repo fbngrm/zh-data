@@ -1,0 +1,13 @@
+{
+  "chinese": "汤姆在学校遇到了很多问题。",
+  "english": "Tom encountered many problems at school.",
+  "pinyin": "Tāng mǔ zài xuéxiào yùdàole hěnduō wèntí.",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "学校", "en": "school", "pi": "xuéxiào"},
+    {"ch": "遇到了", "en": "encountered", "pi": "yùdàole"},
+    {"ch": "很多", "en": "many", "pi": "hěnduō"},
+    {"ch": "问题", "en": "problems", "pi": "wèntí"}
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "这是你找的钥匙吗？",
+  "english": "Is this the key you are looking for?",
+  "pinyin": "zhè shì nǐ zhǎo de yào shi ma?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "找",
+      "en": "looking for",
+      "pi": "zhǎo"
+    },
+    {
+      "ch": "的",
+      "en": "possessive marker",
+      "pi": "de"
+    },
+    {
+      "ch": "钥匙",
+      "en": "key",
+      "pi": "yào shi"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

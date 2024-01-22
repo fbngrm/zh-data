@@ -1,0 +1,11 @@
+{
+  "chinese": "我需要去厕所。",
+  "english": "I need to go to the bathroom.",
+  "pinyin": "wǒ xū yào qù cè suǒ。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "需要", "en": "need", "pi": "xū yào"},
+    {"ch": "去", "en": "to go", "pi": "qù"},
+    {"ch": "厕所", "en": "bathroom", "pi": "cè suǒ"}
+  ]
+}

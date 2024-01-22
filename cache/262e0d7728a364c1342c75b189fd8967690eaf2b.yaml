@@ -1,0 +1,47 @@
+{
+  "chinese": "我想這要看天氣情況而定。",
+  "english": "I think it depends on the weather conditions.",
+  "pinyin": "wǒ xiǎng zhè yào kàn tiān qì qíng kuàng ér dìng。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "think",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "這",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "要",
+      "en": "depends",
+      "pi": "yào"
+    },
+    {
+      "ch": "看",
+      "en": "on",
+      "pi": "kàn"
+    },
+    {
+      "ch": "天氣",
+      "en": "the weather",
+      "pi": "tiān qì"
+    },
+    {
+      "ch": "情況",
+      "en": "conditions",
+      "pi": "qíng kuàng"
+    },
+    {
+      "ch": "而定",
+      "en": "determined",
+      "pi": "ér dìng"
+    }
+  ]
+}

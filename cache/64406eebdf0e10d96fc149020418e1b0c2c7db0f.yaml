@@ -1,0 +1,15 @@
+{
+  "chinese": "汤姆是一个年轻而且英俊的人。",
+  "english": "Tom is a young and handsome man.",
+  "pinyin": "tāng mǔ shì yī gè nián qīng ér qiě yīng jùn de rén.",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "一个", "en": "a", "pi": "yī gè"},
+    {"ch": "年轻", "en": "young", "pi": "nián qīng"},
+    {"ch": "而且", "en": "and", "pi": "ér qiě"},
+    {"ch": "英俊", "en": "handsome", "pi": "yīng jùn"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "人", "en": "man", "pi": "rén"}
+  ]
+}

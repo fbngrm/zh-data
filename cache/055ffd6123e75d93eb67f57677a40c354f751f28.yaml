@@ -1,0 +1,37 @@
+{
+  "chinese": "他给了我１万日元。",
+  "english": "He gave me 10,000 Japanese yen.",
+  "pinyin": "tā gěi le wǒ yī wàn rì yuán。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "１万",
+      "en": "10,000",
+      "pi": "yī wàn"
+    },
+    {
+      "ch": "日元",
+      "en": "Japanese yen",
+      "pi": "rì yuán"
+    }
+  ]
+}

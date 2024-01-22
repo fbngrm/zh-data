@@ -1,0 +1,32 @@
+{
+  "chinese": "她的声音很好听。",
+  "english": "Her voice is very pleasant to listen to.",
+  "pinyin": "tā de shēng yīn hěn hǎo tīng。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "声音",
+      "en": "voice",
+      "pi": "shēng yīn"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "好听",
+      "en": "pleasant to listen to",
+      "pi": "hǎo tīng"
+    }
+  ]
+}

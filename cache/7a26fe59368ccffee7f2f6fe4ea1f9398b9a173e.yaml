@@ -1,0 +1,37 @@
+{
+  "chinese": "这家店在卖蔬菜。",
+  "english": "This store sells vegetables.",
+  "pinyin": "zhè jiā diàn zài mài shū cài.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "家",
+      "en": "store",
+      "pi": "jiā"
+    },
+    {
+      "ch": "店",
+      "en": "sells",
+      "pi": "diàn"
+    },
+    {
+      "ch": "在",
+      "en": "vegetables",
+      "pi": "zài"
+    },
+    {
+      "ch": "卖",
+      "en": "in",
+      "pi": "mài"
+    },
+    {
+      "ch": "蔬菜",
+      "en": "sells",
+      "pi": "shū cài"
+    }
+  ]
+}

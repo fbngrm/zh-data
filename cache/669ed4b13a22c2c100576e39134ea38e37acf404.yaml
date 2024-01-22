@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆比我更懂这件事。",
+  "english": "Tom understands this matter better than I do.",
+  "pinyin": "tāng mǔ bǐ wǒ gèng dǒng zhè jiàn shì。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "更",
+      "en": "better",
+      "pi": "gèng"
+    },
+    {
+      "ch": "懂",
+      "en": "understands",
+      "pi": "dǒng"
+    },
+    {
+      "ch": "这件事",
+      "en": "this matter",
+      "pi": "zhè jiàn shì"
+    }
+  ]
+}

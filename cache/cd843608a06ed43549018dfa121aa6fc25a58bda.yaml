@@ -1,0 +1,93 @@
+{
+  "sentences": [
+    {
+      "chinese": "若可以每晚都在餐厅吃饭，他们会这么做的。",
+      "english": "If they could, they would eat in the restaurant every night.",
+      "pinyin": "ruò kě yǐ měi wǎn dōu zài cān tīng chī fàn, tā men huì zhè me zuò de。",
+      "words": [
+        {
+          "ch": "若",
+          "en": "if",
+          "pi": "ruò"
+        },
+        {
+          "ch": "可以",
+          "en": "can",
+          "pi": "kě yǐ"
+        },
+        {
+          "ch": "每晚",
+          "en": "every night",
+          "pi": "měi wǎn"
+        },
+        {
+          "ch": "都",
+          "en": "all",
+          "pi": "dōu"
+        },
+        {
+          "ch": "在",
+          "en": "in",
+          "pi": "zài"
+        },
+        {
+          "ch": "餐厅",
+          "en": "restaurant",
+          "pi": "cān tīng"
+        },
+        {
+          "ch": "吃饭",
+          "en": "eat",
+          "pi": "chī fàn"
+        },
+        {
+          "ch": "他们",
+          "en": "they",
+          "pi": "tā men"
+        },
+        {
+          "ch": "会",
+          "en": "will",
+          "pi": "huì"
+        },
+        {
+          "ch": "这么",
+          "en": "like this",
+          "pi": "zhè me"
+        },
+        {
+          "ch": "做",
+          "en": "do",
+          "pi": "zuò"
+        },
+        {
+          "ch": "的",
+          "en": "particle indicating past tense",
+          "pi": "de"
+        }
+      ]
+    },
+    {
+      "chinese": "他们讨厌下厨。",
+      "english": "They hate cooking.",
+      "pinyin": "tā men tǎo yàn xià chú。",
+      "words": [
+        {
+          "ch": "他们",
+          "en": "they",
+          "pi": "tā men"
+        },
+        {
+          "ch": "讨厌",
+          "en": "hate",
+          "pi": "tǎo yàn"
+        },
+        {
+          "ch": "下厨",
+          "en": "cooking",
+          "pi": "xià chú"
+        }
+      ]
+    }
+  ]
+}

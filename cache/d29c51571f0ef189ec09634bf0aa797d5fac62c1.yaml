@@ -1,0 +1,98 @@
+{
+  "sentences": [
+    {
+      "chinese": "哥伦布不是一位探险家，因为他热爱大海。",
+      "english": "Columbus was not an explorer because he loved the sea.",
+      "pinyin": "Gēlúnbù bù shì yī wèi tànxiǎnjiā, yīnwèi tā rèài dàhǎi。",
+      "words": [
+        {
+          "ch": "哥伦布",
+          "en": "Columbus",
+          "pi": "gē lún bù"
+        },
+        {
+          "ch": "不是",
+          "en": "not",
+          "pi": "bù shì"
+        },
+        {
+          "ch": "一位",
+          "en": "an",
+          "pi": "yī wèi"
+        },
+        {
+          "ch": "探险家",
+          "en": "explorer",
+          "pi": "tàn xiǎn jiā"
+        },
+        {
+          "ch": "因为",
+          "en": "because",
+          "pi": "yīnwèi"
+        },
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "热爱",
+          "en": "loved",
+          "pi": "rè ài"
+        },
+        {
+          "ch": "大海",
+          "en": "the sea",
+          "pi": "dà hǎi"
+        }
+      ]
+    },
+    {
+      "chinese": "他是一位探险家，因为他讨厌西班牙监狱。",
+      "english": "He was an explorer because he hated Spanish prisons.",
+      "pinyin": "Tā shì yī wèi tànxiǎnjiā, yīnwèi tā tǎoyàn xībānyá jiānyù。",
+      "words": [
+        {
+          "ch": "他",
+          "en": "He",
+          "pi": "tā"
+        },
+        {
+          "ch": "是",
+          "en": "was",
+          "pi": "shì"
+        },
+        {
+          "ch": "一位",
+          "en": "an",
+          "pi": "yī wèi"
+        },
+        {
+          "ch": "探险家",
+          "en": "explorer",
+          "pi": "tàn xiǎn jiā"
+        },
+        {
+          "ch": "因为",
+          "en": "because",
+          "pi": "yīnwèi"
+        },
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "讨厌",
+          "en": "hated",
+          "pi": "tǎo yàn"
+        },
+        {
+          "ch": "西班牙监狱",
+          "en": "Spanish prisons",
+          "pi": "xī bān yá jiān yù"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我不知道你要去哪。",
+  "english": "I don't know where you're going.",
+  "pinyin": "wǒ bù zhīdào nǐ yào qù nǎ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "哪",
+      "en": "where",
+      "pi": "nǎ"
+    }
+  ]
+}

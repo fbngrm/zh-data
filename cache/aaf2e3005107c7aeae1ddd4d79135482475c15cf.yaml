@@ -1,0 +1,32 @@
+{
+  "chinese": "你会说上海话吗？",
+  "english": "Can you speak Shanghai dialect?",
+  "pinyin": "nǐ huì shuō shànghǎihuà ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "上海话",
+      "en": "Shanghai dialect",
+      "pi": "shànghǎihuà"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

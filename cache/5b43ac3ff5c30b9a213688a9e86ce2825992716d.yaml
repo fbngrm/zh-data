@@ -1,0 +1,42 @@
+{
+  "chinese": "他们告诉我这是你的错。",
+  "english": "They told me it's your fault.",
+  "pinyin": "Tāmen gàosu wǒ zhè shì nǐ de cuò.",
+  "words": [
+    {
+      "ch": "他们",
+      "en": "They",
+      "pi": "tāmen"
+    },
+    {
+      "ch": "告诉",
+      "en": "told",
+      "pi": "gàosu"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "这",
+      "en": "it",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "错",
+      "en": "fault",
+      "pi": "cuò"
+    }
+  ]
+}

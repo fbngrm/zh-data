@@ -1,0 +1,32 @@
+{
+  "chinese": "她有一整篮的苹果。",
+  "english": "She has a whole basket of apples.",
+  "pinyin": "tā yǒu yī zhěng lán de píngguǒ.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一整篮",
+      "en": "a whole basket",
+      "pi": "yī zhěng lán"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "苹果",
+      "en": "apples",
+      "pi": "píngguǒ"
+    }
+  ]
+}

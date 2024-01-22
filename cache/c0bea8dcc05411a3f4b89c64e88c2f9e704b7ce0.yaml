@@ -1,0 +1,15 @@
+{
+  "chinese": "如果我中了彩票，我会买辆新车。",
+  "english": "If I win the lottery, I will buy a new car.",
+  "pinyin": "Rúguǒ wǒ zhòng le cǎipiào, wǒ huì mǎi liàng xīnchē。",
+  "words": [
+    {"ch": "如果", "en": "if", "pi": "rúguǒ"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "中了", "en": "win", "pi": "zhòng le"},
+    {"ch": "彩票", "en": "lottery", "pi": "cǎipiào"},
+    {"ch": "我会", "en": "will", "pi": "wǒ huì"},
+    {"ch": "买", "en": "buy", "pi": "mǎi"},
+    {"ch": "辆", "en": "a", "pi": "liàng"},
+    {"ch": "新车", "en": "new car", "pi": "xīnchē"}
+  ]
+}

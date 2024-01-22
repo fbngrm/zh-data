@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆每天早上六点起床。",
+  "english": "Tom wakes up at six o'clock every morning.",
+  "pinyin": "Tāng mǔ měi tiān zǎo shàng liù diǎn qǐchuáng.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎo shàng"
+    },
+    {
+      "ch": "六点",
+      "en": "six o'clock",
+      "pi": "liù diǎn"
+    },
+    {
+      "ch": "起床",
+      "en": "wake up",
+      "pi": "qǐchuáng"
+    }
+  ]
+}

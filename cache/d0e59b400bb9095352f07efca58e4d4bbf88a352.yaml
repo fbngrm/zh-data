@@ -1,0 +1,16 @@
+{
+  "chinese": "我无法判断他的话是真是假。",
+  "english": "I can't determine if his words are true or false.",
+  "pinyin": "wǒ wúfǎ pànduàn tā de huà shì zhēn shì jiǎ。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "无法", "en": "can't", "pi": "wúfǎ"},
+    {"ch": "判断", "en": "determine", "pi": "pànduàn"},
+    {"ch": "他的", "en": "his", "pi": "tā de"},
+    {"ch": "话", "en": "words", "pi": "huà"},
+    {"ch": "是", "en": "are", "pi": "shì"},
+    {"ch": "真", "en": "true", "pi": "zhēn"},
+    {"ch": "是", "en": "or", "pi": "shì"},
+    {"ch": "假", "en": "false", "pi": "jiǎ"}
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "chinese": "她过马路的时候被车撞了。",
+  "english": "She was hit by a car while crossing the road.",
+  "pinyin": "tā guò mǎlù de shíhòu bèi chē zhuàng le。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "过",
+      "en": "was",
+      "pi": "guò"
+    },
+    {
+      "ch": "马路",
+      "en": "road",
+      "pi": "mǎlù"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "时候",
+      "en": "while",
+      "pi": "shíhòu"
+    },
+    {
+      "ch": "被",
+      "en": "by",
+      "pi": "bèi"
+    },
+    {
+      "ch": "车",
+      "en": "car",
+      "pi": "chē"
+    },
+    {
+      "ch": "撞",
+      "en": "hit",
+      "pi": "zhuàng"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

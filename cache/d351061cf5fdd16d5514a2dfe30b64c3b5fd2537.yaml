@@ -1,0 +1,27 @@
+{
+  "chinese": "艾美莉晚餐吃了豆腐。",
+  "english": "Emily had tofu for dinner.",
+  "pinyin": "Ài měi lì wǎn cān chī le dòu fǔ.",
+  "words": [
+    {
+      "ch": "艾美莉",
+      "en": "Emily",
+      "pi": "Ài měi lì"
+    },
+    {
+      "ch": "晚餐",
+      "en": "dinner",
+      "pi": "wǎn cān"
+    },
+    {
+      "ch": "吃了",
+      "en": "had",
+      "pi": "chī le"
+    },
+    {
+      "ch": "豆腐",
+      "en": "tofu",
+      "pi": "dòu fǔ"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "你会说德语吗？",
+  "english": "Do you speak German?",
+  "pinyin": "Nǐ huì shuō déyǔ ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "德语",
+      "en": "German",
+      "pi": "déyǔ"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

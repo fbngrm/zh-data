@@ -1,0 +1,32 @@
+{
+  "chinese": "他一个月去一次伦敦。",
+  "english": "He goes to London once a month.",
+  "pinyin": "tā yī gè yuè qù yī cì lún dūn.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "一个月",
+      "en": "one month",
+      "pi": "yī gè yuè"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "一次",
+      "en": "once",
+      "pi": "yī cì"
+    },
+    {
+      "ch": "伦敦",
+      "en": "London",
+      "pi": "lún dūn"
+    }
+  ]
+}

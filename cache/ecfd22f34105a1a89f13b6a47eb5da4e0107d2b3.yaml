@@ -1,0 +1,47 @@
+{
+  "chinese": "请您把窗户关起来好吗？",
+  "english": "Could you please close the window?",
+  "pinyin": "qǐng nín bǎ chuānghù guān qǐlái hǎo ma?",
+  "words": [
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "您",
+      "en": "you (polite)",
+      "pi": "nín"
+    },
+    {
+      "ch": "把",
+      "en": "take",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "窗户",
+      "en": "window",
+      "pi": "chuānghù"
+    },
+    {
+      "ch": "关",
+      "en": "close",
+      "pi": "guān"
+    },
+    {
+      "ch": "起来",
+      "en": "up",
+      "pi": "qǐlái"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

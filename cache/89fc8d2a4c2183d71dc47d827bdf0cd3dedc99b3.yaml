@@ -1,0 +1,14 @@
+{
+  "chinese": "他的低薪水让他买不了房。",
+  "english": "His low salary prevents him from buying a house.",
+  "pinyin": "Tā de dī xīnshuǐ ràng tā mǎi bù liǎo fáng.",
+  "words": [
+    {"ch": "他的", "en": "his", "pi": "Tā de"},
+    {"ch": "低", "en": "low", "pi": "dī"},
+    {"ch": "薪水", "en": "salary", "pi": "xīnshuǐ"},
+    {"ch": "让", "en": "prevents", "pi": "ràng"},
+    {"ch": "他", "en": "him", "pi": "tā"},
+    {"ch": "买不了", "en": "cannot buy", "pi": "mǎi bù liǎo"},
+    {"ch": "房", "en": "house", "pi": "fáng"}
+  ]
+}

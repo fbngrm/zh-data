@@ -1,0 +1,17 @@
+{
+  "chinese": "汤姆没跟我说太多关于它的事。",
+  "english": "Tom didn't tell me much about it.",
+  "pinyin": "Tāng mǔ méi gēn wǒ shuō tài duō guān yú tā de shì.",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ"},
+    {"ch": "没", "en": "didn't", "pi": "méi"},
+    {"ch": "跟", "en": "tell", "pi": "gēn"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "说", "en": "speak", "pi": "shuō"},
+    {"ch": "太多", "en": "much", "pi": "tài duō"},
+    {"ch": "关于", "en": "about", "pi": "guān yú"},
+    {"ch": "它", "en": "it", "pi": "tā"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "事", "en": "thing", "pi": "shì"}
+  ]
+}

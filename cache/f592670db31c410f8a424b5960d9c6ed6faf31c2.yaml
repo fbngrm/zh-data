@@ -1,0 +1,15 @@
+{
+  "chinese": "我不知道他星期几会来。",
+  "english": "I don't know which day of the week he will come.",
+  "pinyin": "wǒ bù zhī dào tā xīng qī jǐ huì lái.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "不", "en": "don't", "pi": "bù" },
+    { "ch": "知道", "en": "know", "pi": "zhī dào" },
+    { "ch": "他", "en": "he", "pi": "tā" },
+    { "ch": "星期", "en": "week", "pi": "xīng qī" },
+    { "ch": "几", "en": "which", "pi": "jǐ" },
+    { "ch": "会", "en": "will", "pi": "huì" },
+    { "ch": "来", "en": "come", "pi": "lái" }
+  ]
+}

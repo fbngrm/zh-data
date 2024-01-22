@@ -1,0 +1,32 @@
+{
+  "chinese": "那是一只野鸡。",
+  "english": "That is a wild chicken.",
+  "pinyin": "nà shì yī zhī yě jī。",
+  "words": [
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "一",
+      "en": "a",
+      "pi": "yī"
+    },
+    {
+      "ch": "只",
+      "en": "wild",
+      "pi": "zhī"
+    },
+    {
+      "ch": "野鸡",
+      "en": "chicken",
+      "pi": "yě jī"
+    }
+  ]
+}

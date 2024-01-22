@@ -1,0 +1,32 @@
+{
+  "chinese": "我们的棒球队很强。",
+  "english": "Our baseball team is very strong.",
+  "pinyin": "wǒ men de bàng qiú duì hěn qiáng。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "棒球队",
+      "en": "baseball team",
+      "pi": "bàng qiú duì"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "强",
+      "en": "strong",
+      "pi": "qiáng"
+    }
+  ]
+}

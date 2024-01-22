@@ -1,0 +1,14 @@
+{
+  "chinese": "这些文章中有一些非常有趣。",
+  "english": "There are some very interesting articles among these.",
+  "pinyin": "zhè xiē wénzhāng zhōng yǒu yīxiē fēicháng yǒuqù。",
+  "words": [
+    {"ch":"这些","en":"these","pi":"zhèxiē"},
+    {"ch":"文章","en":"articles","pi":"wénzhāng"},
+    {"ch":"中","en":"among","pi":"zhōng"},
+    {"ch":"有","en":"have","pi":"yǒu"},
+    {"ch":"一些","en":"some","pi":"yīxiē"},
+    {"ch":"非常","en":"very","pi":"fēicháng"},
+    {"ch":"有趣","en":"interesting","pi":"yǒuqù"}
+  ]
+}

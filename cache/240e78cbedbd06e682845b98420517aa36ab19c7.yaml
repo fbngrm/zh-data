@@ -1,0 +1,42 @@
+{
+  "chinese": "那辆在树下的自行车是我的。",
+  "english": "The bicycle under the tree is mine.",
+  "pinyin": "nà liàng zài shù xià de zì xíng chē shì wǒ de。",
+  "words": [
+    {
+      "ch": "那辆",
+      "en": "The",
+      "pi": "nà liàng"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "树下",
+      "en": "under the tree",
+      "pi": "shù xià"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "自行车",
+      "en": "bicycle",
+      "pi": "zì xíng chē"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我的",
+      "en": "mine",
+      "pi": "wǒ de"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "chinese": "我可以和你讲一下话吗?",
+  "english": "Can I talk to you for a moment?",
+  "pinyin": "Wǒ kěyǐ hé nǐ jiǎng yīxià huà ma?",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kěyǐ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "讲",
+      "en": "talk",
+      "pi": "jiǎng"
+    },
+    {
+      "ch": "一下",
+      "en": "for a moment",
+      "pi": "yīxià"
+    },
+    {
+      "ch": "话",
+      "en": "to",
+      "pi": "huà"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我把我的相机借给了汤姆。",
+  "english": "I lent my camera to Tom.",
+  "pinyin": "wǒ bǎ wǒ de xiàngjī jiè gěi le tāngmǔ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "把",
+      "en": "lent",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "相机",
+      "en": "camera",
+      "pi": "xiàngjī"
+    },
+    {
+      "ch": "借给",
+      "en": "to",
+      "pi": "jiè gěi"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāngmǔ"
+    }
+  ]
+}

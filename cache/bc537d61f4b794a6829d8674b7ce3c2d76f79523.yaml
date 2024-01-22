@@ -1,0 +1,39 @@
+{
+  "sentences": [
+    {
+      "chinese": "共产主义失败了，而无产阶级专政现在也经被淘汰了。",
+      "english": "Communism has failed, and proletarian dictatorship has now been eliminated.",
+      "pinyin": "Gòngchǎn zhǔyì shībài le, ér wúchǎn jiējí zhuānzhèng xiànzài yě jīng bèi táotài le.",
+      "words": [
+        { "ch": "共产主义", "en": "Communism", "pi": "gòngchǎn zhǔyì" },
+        { "ch": "失败了", "en": "has failed", "pi": "shībài le" },
+        { "ch": "而", "en": "and", "pi": "ér" },
+        { "ch": "无产阶级", "en": "proletarian", "pi": "wúchǎn jiējí" },
+        { "ch": "专政", "en": "dictatorship", "pi": "zhuānzhèng" },
+        { "ch": "现在", "en": "now", "pi": "xiànzài" },
+        { "ch": "也", "en": "also", "pi": "yě" },
+        { "ch": "经被", "en": "has been", "pi": "jīng bèi" },
+        { "ch": "淘汰了", "en": "eliminated", "pi": "táotài le" }
+      ]
+    },
+    {
+      "chinese": "虽然资本主义逐渐取而代之，但现在的资本主义对于人类还是一个威胁。",
+      "english": "Although capitalism is gradually replacing it, the current capitalism is still a threat to humanity.",
+      "pinyin": "Suīrán zīběn zhǔyì zhújiàn qǔ'ér dàizhī, dàn xiànzài de zīběn zhǔyì duì yú rénlèi háishì yí gè wēixié.",
+      "words": [
+        { "ch": "虽然", "en": "Although", "pi": "suīrán" },
+        { "ch": "资本主义", "en": "capitalism", "pi": "zīběn zhǔyì" },
+        { "ch": "逐渐", "en": "gradually", "pi": "zhújiàn" },
+        { "ch": "取而代之", "en": "replacing it", "pi": "qǔ'ér dàizhī" },
+        { "ch": "但", "en": "but", "pi": "dàn" },
+        { "ch": "现在的", "en": "current", "pi": "xiànzài de" },
+        { "ch": "资本主义", "en": "capitalism", "pi": "zīběn zhǔyì" },
+        { "ch": "对于", "en": "to", "pi": "duì yú" },
+        { "ch": "人类", "en": "humanity", "pi": "rénlèi" },
+        { "ch": "还是", "en": "still", "pi": "háishì" },
+        { "ch": "一个", "en": "a", "pi": "yí gè" },
+        { "ch": "威胁", "en": "threat", "pi": "wēixié" }
+      ]
+    }
+  ]
+}

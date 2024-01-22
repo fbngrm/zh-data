@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆和玛丽都生在波士顿。",
+  "english": "Both Tom and Mary were born in Boston.",
+  "pinyin": "Tāng mǔ hé mǎ lì dōu shēng zài bō shì dùn.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "都",
+      "en": "both",
+      "pi": "dōu"
+    },
+    {
+      "ch": "生",
+      "en": "born",
+      "pi": "shēng"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "波士顿",
+      "en": "Boston",
+      "pi": "bō shì dùn"
+    }
+  ]
+}

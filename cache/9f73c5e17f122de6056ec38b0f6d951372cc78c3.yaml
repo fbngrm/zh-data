@@ -1,0 +1,32 @@
+{
+  "chinese": "我不太渴了。",
+  "english": "I'm not very thirsty anymore.",
+  "pinyin": "wǒ bú tài kě le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "太",
+      "en": "very",
+      "pi": "tài"
+    },
+    {
+      "ch": "渴",
+      "en": "thirsty",
+      "pi": "kě"
+    },
+    {
+      "ch": "了",
+      "en": "anymore",
+      "pi": "le"
+    }
+  ]
+}

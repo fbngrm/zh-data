@@ -1,0 +1,27 @@
+{
+  "chinese": "司机被控超速驾驶。",
+  "english": "The driver is charged with speeding.",
+  "pinyin": "Sījī bèi kòng chāosù jiàshǐ.",
+  "words": [
+    {
+      "ch": "司机",
+      "en": "driver",
+      "pi": "sījī"
+    },
+    {
+      "ch": "被控",
+      "en": "charged",
+      "pi": "bèi kòng"
+    },
+    {
+      "ch": "超速",
+      "en": "speeding",
+      "pi": "chāosù"
+    },
+    {
+      "ch": "驾驶",
+      "en": "driving",
+      "pi": "jiàshǐ"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "我八点会跟你见面。",
+  "english": "I will meet you at eight o'clock.",
+  "pinyin": "wǒ bā diǎn huì gēn nǐ jiàn miàn.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "八点", "en": "eight o'clock", "pi": "bā diǎn"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "跟", "en": "with", "pi": "gēn"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "见面", "en": "meet", "pi": "jiàn miàn"}
+  ]
+}

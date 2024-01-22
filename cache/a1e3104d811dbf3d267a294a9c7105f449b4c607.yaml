@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆正给他的好友写信。",
+  "english": "Tom is writing a letter to his good friend.",
+  "pinyin": "tāng mǔ zhèng gěi tā de hǎo yǒu xiě xìn.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "正",
+      "en": "is",
+      "pi": "zhèng"
+    },
+    {
+      "ch": "给",
+      "en": "to",
+      "pi": "gěi"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "好友",
+      "en": "good friend",
+      "pi": "hǎo yǒu"
+    },
+    {
+      "ch": "写信",
+      "en": "writing a letter",
+      "pi": "xiě xìn"
+    }
+  ]
+}

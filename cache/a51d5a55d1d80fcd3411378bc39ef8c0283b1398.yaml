@@ -1,0 +1,32 @@
+{
+  "chinese": "他们有１２个孩子。",
+  "english": "They have 12 children.",
+  "pinyin": "Tāmen yǒu shíèr gè háizi.",
+  "words": [
+    {
+      "ch": "他们",
+      "en": "They",
+      "pi": "Tāmen"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "１２",
+      "en": "12",
+      "pi": "shíèr"
+    },
+    {
+      "ch": "个",
+      "en": "count word",
+      "pi": "gè"
+    },
+    {
+      "ch": "孩子",
+      "en": "children",
+      "pi": "háizi"
+    }
+  ]
+}

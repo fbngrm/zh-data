@@ -1,0 +1,32 @@
+{
+  "chinese": "明天是她五岁生日。",
+  "english": "Tomorrow is her fifth birthday.",
+  "pinyin": "míng tiān shì tā wǔ suì shēng rì。",
+  "words": [
+    {
+      "ch": "明天",
+      "en": "Tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "她",
+      "en": "her",
+      "pi": "tā"
+    },
+    {
+      "ch": "五岁",
+      "en": "five years old",
+      "pi":"wǔ suì"
+    },
+    {
+      "ch": "生日",
+      "en": "birthday",
+      "pi": "shēng rì"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆在学校里，不是么？",
+  "english": "Tom is in school, isn't he?",
+  "pinyin": "tāng mǔ zài xué xiào lǐ, bù shì me?",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "学校",
+      "en": "school",
+      "pi": "xué xiào"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": ""
+    },
+    {
+      "ch": "不是么",
+      "en": "isn't he?",
+      "pi": "bù shì me?"
+    }
+  ]
+}

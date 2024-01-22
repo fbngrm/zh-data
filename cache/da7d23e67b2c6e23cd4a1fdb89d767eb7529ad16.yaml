@@ -1,0 +1,32 @@
+{
+  "chinese": "盒子里有一些蛋。",
+  "english": "There are some eggs in the box.",
+  "pinyin": "Hézi lǐ yǒu yīxiē dàn.",
+  "words": [
+    {
+      "ch": "盒子",
+      "en": "box",
+      "pi": "hézi"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一些",
+      "en": "some",
+      "pi": "yīxiē"
+    },
+    {
+      "ch": "蛋",
+      "en": "eggs",
+      "pi": "dàn"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "只剩下一罐肉了。",
+  "english": "There is only one can of meat left.",
+  "pinyin": "zhǐ shèng xià yī guàn ròu le.",
+  "words": [
+    {"ch": "只", "en": "only", "pi": "zhǐ"},
+    {"ch": "剩下", "en": "left", "pi": "shèng xià"},
+    {"ch": "一", "en": "one", "pi": "yī"},
+    {"ch": "罐", "en": "can", "pi": "guàn"},
+    {"ch": "肉", "en": "meat", "pi": "ròu"},
+    {"ch": "了", "en": "particle indicating completed action", "pi": "le"}
+  ]
+}

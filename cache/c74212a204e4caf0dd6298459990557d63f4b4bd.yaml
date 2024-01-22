@@ -1,0 +1,18 @@
+{
+  "chinese": "根据现在的情况，这个任务在下周之前无法结束。",
+  "english": "Based on the current situation, this task cannot be completed by next week.",
+  "pinyin": "gēn jù xiàn zài de qíng kuàng, zhè gè rèn wù zài xià zhōu zhī qián wú fǎ jié shù。",
+  "words": [
+    {"ch": "根据", "en": "Based on", "pi": "gēn jù"},
+    {"ch": "现在", "en": "current", "pi": "xiàn zài"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "情况", "en": "situation", "pi": "qíng kuàng"},
+    {"ch": "这个", "en": "this", "pi": "zhè gè"},
+    {"ch": "任务", "en": "task", "pi": "rèn wù"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "下周", "en": "next week", "pi": "xià zhōu"},
+    {"ch": "之前", "en": "before", "pi": "zhī qián"},
+    {"ch": "无法", "en": "cannot", "pi": "wú fǎ"},
+    {"ch": "结束", "en": "end", "pi": "jié shù"}
+  ]
+}

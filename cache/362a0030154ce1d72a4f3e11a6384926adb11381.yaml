@@ -1,0 +1,32 @@
+{
+  "chinese": "你今天晚上吃了什么？",
+  "english": "What did you eat tonight?",
+  "pinyin": "Nǐ jīntiān wǎnshàng chīle shénme?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "晚上",
+      "en": "night",
+      "pi": "wǎnshàng"
+    },
+    {
+      "ch": "吃了",
+      "en": "ate",
+      "pi": "chīle"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    }
+  ]
+}

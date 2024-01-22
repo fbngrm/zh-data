@@ -1,0 +1,42 @@
+{
+  "chinese": "我早晨总是喝两杯咖啡。",
+  "english": "I always drink two cups of coffee in the morning.",
+  "pinyin": "Wǒ zǎochén zǒngshì hē liǎng bēi kāfēi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "Wǒ"
+    },
+    {
+      "ch": "早晨",
+      "en": "morning",
+      "pi": "zǎochén"
+    },
+    {
+      "ch": "总是",
+      "en": "always",
+      "pi": "zǒngshì"
+    },
+    {
+      "ch": "喝",
+      "en": "drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "两",
+      "en": "two",
+      "pi": "liǎng"
+    },
+    {
+      "ch": "杯",
+      "en": "cups",
+      "pi": "bēi"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kāfēi"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "这个女孩子在喝茶。",
+  "english": "The girl is drinking tea.",
+  "pinyin": "zhè gè nǚ hái zi zài hē chá.",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "The",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "女孩子",
+      "en": "girl",
+      "pi": "nǚ hái zi"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "喝",
+      "en": "drinking",
+      "pi": "hē"
+    },
+    {
+      "ch": "茶",
+      "en": "tea",
+      "pi": "chá"
+    }
+  ]
+}

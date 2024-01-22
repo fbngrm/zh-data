@@ -1,0 +1,27 @@
+{
+  "chinese": "今晚正在下倾盆大雨。",
+  "english": "It's pouring rain tonight.",
+  "pinyin": "jīn wǎn zhèng zài xià qīng pén dà yǔ。",
+  "words": [
+    {
+      "ch": "今晚",
+      "en": "tonight",
+      "pi": "jīn wǎn"
+    },
+    {
+      "ch": "正在",
+      "en": "is",
+      "pi": "zhèng zài"
+    },
+    {
+      "ch": "下",
+      "en": "pour",
+      "pi": "xià"
+    },
+    {
+      "ch": "倾盆大雨",
+      "en": "heavy rain",
+      "pi": "qīng pén dà yǔ"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆打哈欠了。",
+  "english": "Tom yawned.",
+  "pinyin": "Tāng mǔ dǎ hā qiàn le.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "打",
+      "en": "to",
+      "pi": "dǎ"
+    },
+    {
+      "ch": "哈欠",
+      "en": "yawn",
+      "pi": "hā qiàn"
+    },
+    {
+      "ch": "了",
+      "en": "did",
+      "pi": "le"
+    }
+  ]
+}

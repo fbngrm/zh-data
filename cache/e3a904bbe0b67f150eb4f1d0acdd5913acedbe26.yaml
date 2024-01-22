@@ -1,0 +1,32 @@
+{
+  "chinese": "他们正在读她的书。",
+  "english": "They are reading her book.",
+  "pinyin": "tāmen zhèngzài dú tā de shū。",
+  "words": [
+    {
+      "ch": "他们",
+      "en": "They",
+      "pi": "tāmen"
+    },
+    {
+      "ch": "正在",
+      "en": "are",
+      "pi": "zhèngzài"
+    },
+    {
+      "ch": "读",
+      "en": "reading",
+      "pi": "dú"
+    },
+    {
+      "ch": "她的",
+      "en": "her",
+      "pi": "tā de"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    }
+  ]
+}

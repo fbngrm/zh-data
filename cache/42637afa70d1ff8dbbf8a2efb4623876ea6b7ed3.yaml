@@ -1,0 +1,37 @@
+{
+  "chinese": "学习汉语难不难?",
+  "english": "Is learning Chinese difficult?",
+  "pinyin": "xuéxí hànyǔ nán bù nán?",
+  "words": [
+    {
+      "ch": "学习",
+      "en": "learning",
+      "pi": "xuéxí"
+    },
+    {
+      "ch": "汉语",
+      "en": "Chinese",
+      "pi": "hànyǔ"
+    },
+    {
+      "ch": "难",
+      "en": "difficult",
+      "pi": "nán"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "难",
+      "en": "difficult",
+      "pi": "nán"
+    },
+    {
+      "ch": "?",
+      "en": "",
+      "pi": ""
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "我比汤姆更有经验。",
+  "english": "I have more experience than Tom.",
+  "pinyin": "wǒ bǐ tāng mǔ gèng yǒu jīng yàn。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "更",
+      "en": "more",
+      "pi": "gèng"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "经验",
+      "en": "experience",
+      "pi": "jīng yàn"
+    }
+  ]
+}

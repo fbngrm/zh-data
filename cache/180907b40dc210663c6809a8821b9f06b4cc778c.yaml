@@ -1,0 +1,12 @@
+{
+  "chinese": "Ｔｏｍ今晚必须早点睡觉。",
+  "english": "Tom must go to bed early tonight.",
+  "pinyin": "Tó mǔ jīn wǎn bì xū zǎo diǎn shuì jiào.",
+  "words": [
+    {"ch": "Ｔｏｍ", "en": "Tom", "pi": "Tó mǔ"},
+    {"ch": "今晚", "en": "tonight", "pi": "jīn wǎn"},
+    {"ch": "必须", "en": "must", "pi": "bì xū"},
+    {"ch": "早点", "en": "early", "pi": "zǎo diǎn"},
+    {"ch": "睡觉", "en": "go to bed", "pi": "shuì jiào"}
+  ]
+}

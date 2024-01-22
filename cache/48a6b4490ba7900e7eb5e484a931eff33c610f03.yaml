@@ -1,0 +1,12 @@
+{
+  "chinese": "这件事很重要。",
+  "english": "This matter is important.",
+  "pinyin": "zhè jiàn shì hěn zhòng yào。",
+  "words": [
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "件", "en": "matter", "pi": "jiàn"},
+    {"ch": "事", "en": "is", "pi": "shì"},
+    {"ch": "很", "en": "important", "pi": "hěn"},
+    {"ch": "重要", "en": "important", "pi": "zhòng yào"}
+  ]
+}

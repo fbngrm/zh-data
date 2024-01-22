@@ -1,0 +1,32 @@
+{
+  "chinese": "你们每天都读书吗？",
+  "english": "Do you all read books every day?",
+  "pinyin": "Nǐmen měitiān dōu dúshū ma?",
+  "words": [
+    {
+      "ch": "你们",
+      "en": "you all",
+      "pi": "nǐmen"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měitiān"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "读书",
+      "en": "read books",
+      "pi": "dúshū"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

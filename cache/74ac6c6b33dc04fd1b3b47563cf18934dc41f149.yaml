@@ -1,0 +1,32 @@
+{
+  "chinese": "这是我们的护照。",
+  "english": "This is our passport.",
+  "pinyin": "zhè shì wǒ men de hù zhào.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我们",
+      "en": "our",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "护照",
+      "en": "passport",
+      "pi": "hù zhào"
+    }
+  ]
+}

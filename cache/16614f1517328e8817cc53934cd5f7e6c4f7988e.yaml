@@ -1,0 +1,42 @@
+{
+  "chinese": "有个朋友正在大堂等我。",
+  "english": "A friend is waiting for me in the lobby.",
+  "pinyin": "yǒu gè péngyǒu zhèngzài dàtáng děng wǒ。",
+  "words": [
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "朋友",
+      "en": "friend",
+      "pi": "péngyǒu"
+    },
+    {
+      "ch": "正在",
+      "en": "is",
+      "pi": "zhèngzài"
+    },
+    {
+      "ch": "大堂",
+      "en": "lobby",
+      "pi": "dàtáng"
+    },
+    {
+      "ch": "等",
+      "en": "waiting",
+      "pi": "děng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    }
+  ]
+}

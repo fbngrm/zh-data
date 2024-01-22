@@ -1,0 +1,14 @@
+{
+  "chinese": "他的家不幸有人身亡。",
+  "english": "Someone in his family unfortunately passed away.",
+  "pinyin": "tā de jiā bùxìng yǒu rén shēnwáng。",
+  "words": [
+    { "ch": "他", "en": "He", "pi": "tā" },
+    { "ch": "的", "en": "possessive particle", "pi": "de" },
+    { "ch": "家", "en": "family", "pi": "jiā" },
+    { "ch": "不幸", "en": "unfortunate", "pi": "bùxìng" },
+    { "ch": "有", "en": "have", "pi": "yǒu" },
+    { "ch": "人", "en": "person", "pi": "rén" },
+    { "ch": "身亡", "en": "passed away", "pi": "shēnwáng" }
+  ]
+}

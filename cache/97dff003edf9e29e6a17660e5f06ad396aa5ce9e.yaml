@@ -1,0 +1,37 @@
+{
+  "chinese": "我想把日元换成美元。",
+  "english": "I want to exchange Japanese yen into US dollars.",
+  "pinyin": "wǒ xiǎng bǎ rì yuán huàn chéng měi yuán。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "把",
+      "en": "to",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "日元",
+      "en": "Japanese yen",
+      "pi": "rì yuán"
+    },
+    {
+      "ch": "换成",
+      "en": "exchange",
+      "pi": "huàn chéng"
+    },
+    {
+      "ch": "美元",
+      "en": "US dollars",
+      "pi": "měi yuán"
+    }
+  ]
+}

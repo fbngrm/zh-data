@@ -1,0 +1,13 @@
+{
+  "chinese": "我们的浴室只有一条浴巾。",
+  "english": "Our bathroom only has one towel.",
+  "pinyin": "wǒ men de yù shì zhǐ yǒu yī tiáo yù jīn。",
+  "words": [
+    {"ch": "我们", "en": "Our", "pi": "wǒ men"},
+    {"ch": "的", "en": "de", "pi": "de"},
+    {"ch": "浴室", "en": "bathroom", "pi": "yù shì"},
+    {"ch": "只有", "en": "only has", "pi": "zhǐ yǒu"},
+    {"ch": "一条", "en": "one", "pi": "yī tiáo"},
+    {"ch": "浴巾", "en": "towel", "pi": "yù jīn"}
+  ]
+}

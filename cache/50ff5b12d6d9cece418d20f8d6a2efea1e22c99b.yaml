@@ -1,0 +1,25 @@
+{
+  "chinese": "既然所有的任务都按时完成了，我们已经准备好开始下一阶段的开发了。",
+  "english": "Since all the tasks have been completed on time, we are ready to start the next phase of development.",
+  "pinyin": "jì rán suǒ yǒu de rèn wu dōu àn shí wán chéng le, wǒ men yǐ jīng zhǔn bèi hǎo kāi shǐ xià yī jiē duàn de kāi fā le.",
+  "words": [
+    {"ch": "既然", "en": "since", "pi": "jì rán"},
+    {"ch": "所有", "en": "all", "pi": "suǒ yǒu"},
+    {"ch": "的", "en": "the", "pi": "de"},
+    {"ch": "任务", "en": "task", "pi": "rèn wu"},
+    {"ch": "都", "en": "all", "pi": "dōu"},
+    {"ch": "按时", "en": "on time", "pi": "àn shí"},
+    {"ch": "完成", "en": "complete", "pi": "wán chéng"},
+    {"ch": "了", "en": "have", "pi": "le"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "我们", "en": "we", "pi": "wǒ men"},
+    {"ch": "已经", "en": "already", "pi": "yǐ jīng"},
+    {"ch": "准备好", "en": "ready", "pi": "zhǔn bèi hǎo"},
+    {"ch": "开始", "en": "start", "pi": "kāi shǐ"},
+    {"ch": "下一阶段", "en": "next phase", "pi": "xià yī jiē duàn"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "开发", "en": "development", "pi": "kāi fā"},
+    {"ch": "了", "en": "have", "pi": "le"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

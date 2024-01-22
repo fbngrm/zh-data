@@ -1,0 +1,32 @@
+{
+  "chinese": "他经常在晚上熬夜。",
+  "english": "He often stays up late at night.",
+  "pinyin": "Tā jīngcháng zài wǎnshàng áoyè.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "经常",
+      "en": "often",
+      "pi": "jīngcháng"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "晚上",
+      "en": "night",
+      "pi": "wǎnshàng"
+    },
+    {
+      "ch": "熬夜",
+      "en": "stay up late",
+      "pi": "áoyè"
+    }
+  ]
+}

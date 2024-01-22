@@ -1,0 +1,37 @@
+{
+  "chinese": "我现在还没有吃过午饭。",
+  "english": "I haven't had lunch yet.",
+  "pinyin": "wǒ xiànzài hái méiyǒu chī guò wǔfàn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiànzài"
+    },
+    {
+      "ch": "还",
+      "en": "still",
+      "pi": "hái"
+    },
+    {
+      "ch": "没有",
+      "en": "have not",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "吃过",
+      "en": "had",
+      "pi": "chīguò"
+    },
+    {
+      "ch": "午饭",
+      "en": "lunch",
+      "pi": "wǔfàn"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "過馬路前先左右看一看。",
+  "english": "Before crossing the road, look left and right first.",
+  "pinyin": "guò mǎ lù qián xiān zuǒ yòu kàn yī kàn。",
+  "words": [
+    {"ch": "過", "en": "cross", "pi": "guò"},
+    {"ch": "馬路", "en": "road", "pi": "mǎ lù"},
+    {"ch": "前", "en": "before", "pi": "qián"},
+    {"ch": "先", "en": "first", "pi": "xiān"},
+    {"ch": "左右", "en": "left and right", "pi": "zuǒ yòu"},
+    {"ch": "看", "en": "look", "pi": "kàn"},
+    {"ch": "一看", "en": "one look", "pi": "yī kàn"}
+  ]
+}

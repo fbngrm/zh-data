@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆坐在玛丽旁边。",
+  "english": "Tom is sitting next to Mary.",
+  "pinyin": "Tāng mǔ zuò zài Mǎ lì pángbiān.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "坐",
+      "en": "is sitting",
+      "pi": "zuò"
+    },
+    {
+      "ch": "在",
+      "en": "next to",
+      "pi": "zài"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎ lì"
+    },
+    {
+      "ch": "旁边",
+      "en": "next to",
+      "pi": "pángbiān"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "我休息了一会儿再要出去。",
+  "english": "I will rest for a while and then go out.",
+  "pinyin": "wǒ xiūxi le yīhuǐ'er zài yào chūqù。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "休息", "en": "rest", "pi": "xiūxi"},
+    {"ch": "了", "en": "particle indicating completed action", "pi": "le"},
+    {"ch": "一会儿", "en": "a while", "pi": "yīhuǐ'er"},
+    {"ch": "再", "en": "then", "pi": "zài"},
+    {"ch": "要", "en": "want to", "pi": "yào"},
+    {"ch": "出去", "en": "go out", "pi": "chūqù"}
+  ]
+}

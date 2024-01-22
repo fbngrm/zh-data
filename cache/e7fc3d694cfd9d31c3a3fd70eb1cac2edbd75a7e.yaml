@@ -1,0 +1,42 @@
+{
+  "chinese": "你知道汤姆能在哪里吗？",
+  "english": "Do you know where Tom is?",
+  "pinyin": "Nǐ zhīdào tāngmǔ néng zài nǎlǐ ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "Nǐ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāngmǔ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "在",
+      "en": "where",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪里",
+      "en": "is",
+      "pi": "nǎlǐ"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

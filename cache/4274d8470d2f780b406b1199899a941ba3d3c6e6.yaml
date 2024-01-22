@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆买不起这个东西。",
+  "english": "Tom can't afford this thing.",
+  "pinyin": "Tāngmǔ mǎi bù qǐ zhège dōngxi.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "买不起",
+      "en": "can't afford",
+      "pi": "mǎi bù qǐ"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhège"
+    },
+    {
+      "ch": "东西",
+      "en": "thing",
+      "pi": "dōngxi"
+    }
+  ]
+}

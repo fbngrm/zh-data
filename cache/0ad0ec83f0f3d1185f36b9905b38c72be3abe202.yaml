@@ -1,0 +1,32 @@
+{
+  "chinese": "我是一个好男孩。",
+  "english": "I am a good boy.",
+  "pinyin": "wǒ shì yī gè hǎo nán hái。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "是",
+      "en": "am",
+      "pi": "shì"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "男孩",
+      "en": "boy",
+      "pi": "nán hái"
+    }
+  ]
+}

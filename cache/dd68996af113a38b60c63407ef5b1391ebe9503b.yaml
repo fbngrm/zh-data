@@ -1,0 +1,14 @@
+{
+  "chinese": "2010这个数字里有两个零。",
+  "english": "The number 2010 contains two zeros.",
+  "pinyin": "èr líng yī líng zhè ge shù zì lǐ yǒu liǎng gè líng。",
+  "words": [
+    {"ch": "2010", "en": "2010", "pi": "èr líng yī líng"},
+    {"ch": "这个", "en": "this", "pi": "zhè ge"},
+    {"ch": "数字", "en": "number", "pi": "shù zì"},
+    {"ch": "里", "en": "contains", "pi": "lǐ"},
+    {"ch": "有", "en": "has", "pi": "yǒu"},
+    {"ch": "两个", "en": "two", "pi": "liǎng gè"},
+    {"ch": "零", "en": "zeros", "pi": "líng"}
+  ]
+}

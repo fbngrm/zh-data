@@ -1,0 +1,12 @@
+{
+  "chinese": "我想吃點東西。",
+  "english": "I want to eat something.",
+  "pinyin": "wǒ xiǎng chī diǎn dōngxi.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "想", "en": "want", "pi": "xiǎng"},
+    {"ch": "吃", "en": "to eat", "pi": "chī"},
+    {"ch": "點", "en": "some", "pi": "diǎn"},
+    {"ch": "東西", "en": "something", "pi": "dōngxi"}
+  ]
+}

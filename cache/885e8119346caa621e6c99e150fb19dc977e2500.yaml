@@ -1,0 +1,32 @@
+{
+  "chinese": "四乘以二等于八。",
+  "english": "Four times two equals eight.",
+  "pinyin": "sì chéng yǐ èr děngyú bā。",
+  "words": [
+    {
+      "ch": "四",
+      "en": "four",
+      "pi": "sì"
+    },
+    {
+      "ch": "乘以",
+      "en": "times",
+      "pi": "chéng yǐ"
+    },
+    {
+      "ch": "二",
+      "en": "two",
+      "pi": "èr"
+    },
+    {
+      "ch": "等于",
+      "en": "equals",
+      "pi": "děngyú"
+    },
+    {
+      "ch": "八",
+      "en": "eight",
+      "pi": "bā"
+    }
+  ]
+}

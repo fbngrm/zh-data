@@ -1,0 +1,42 @@
+{
+  "chinese": "请给我们来两杯咖啡。",
+  "english": "Please give us two cups of coffee.",
+  "pinyin": "Qǐng gěi wǒmen lái liǎng bēi kāfēi.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我们",
+      "en": "us",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    },
+    {
+      "ch": "两",
+      "en": "two",
+      "pi": "liǎng"
+    },
+    {
+      "ch": "杯",
+      "en": "cups",
+      "pi": "bēi"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kāfēi"
+    }
+  ]
+}

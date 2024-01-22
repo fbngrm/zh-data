@@ -1,0 +1,42 @@
+{
+  "chinese": "我昨晚做了一个有趣的梦。",
+  "english": "I had an interesting dream last night.",
+  "pinyin": "wǒ zuó wǎn zuò le yí gè yǒu qù de mèng。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "昨晚",
+      "en": "last night",
+      "pi": "zuó wǎn"
+    },
+    {
+      "ch": "做",
+      "en": "had",
+      "pi": "zuò"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "一个",
+      "en": "an",
+      "pi": "yí gè"
+    },
+    {
+      "ch": "有趣的",
+      "en": "interesting",
+      "pi": "yǒu qù de"
+    },
+    {
+      "ch": "梦",
+      "en": "dream",
+      "pi": "mèng"
+    }
+  ]
+}

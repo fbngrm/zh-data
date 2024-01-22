@@ -1,0 +1,32 @@
+{
+  "chinese": "你不要点咖啡吗？",
+  "english": "Don't you want to order coffee?",
+  "pinyin": "nǐ bù yào diǎn kāfēi ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "不要",
+      "en": "don't want",
+      "pi": "bù yào"
+    },
+    {
+      "ch": "点",
+      "en": "to order",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kāfēi"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

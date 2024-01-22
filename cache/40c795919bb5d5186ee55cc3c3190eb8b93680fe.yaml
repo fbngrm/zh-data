@@ -1,0 +1,42 @@
+{
+  "chinese": "鲍勃有太多的书要读。",
+  "english": "Bob has too many books to read.",
+  "pinyin": "Bào bó yǒu tài duō de shū yào dú.",
+  "words": [
+    {
+      "ch": "鲍勃",
+      "en": "Bob",
+      "pi": "Bào bó"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "太多",
+      "en": "too many",
+      "pi": "tài duō"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "书",
+      "en": "books",
+      "pi": "shū"
+    },
+    {
+      "ch": "要",
+      "en": "to",
+      "pi": "yào"
+    },
+    {
+      "ch": "读",
+      "en": "read",
+      "pi": "dú"
+    }
+  ]
+}

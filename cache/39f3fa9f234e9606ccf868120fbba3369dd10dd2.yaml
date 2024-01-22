@@ -1,0 +1,27 @@
+{
+  "chinese": "汽车撞上了卡车。",
+  "english": "The car collided with the truck.",
+  "pinyin": "qìchē zhuàng shàngle kǎchē.",
+  "words": [
+    {
+      "ch": "汽车",
+      "en": "car",
+      "pi": "qìchē"
+    },
+    {
+      "ch": "撞上",
+      "en": "collide with",
+      "pi": "zhuàng shàng"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "卡车",
+      "en": "truck",
+      "pi": "kǎchē"
+    }
+  ]
+}

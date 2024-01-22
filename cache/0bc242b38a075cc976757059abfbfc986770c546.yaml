@@ -1,0 +1,98 @@
+{
+  "sentences": [
+    {
+      "chinese": "这些字母全都左右倒转了！",
+      "english": "All these letters are inverted!",
+      "pinyin": "zhè xiē zì mǔ quán dōu zuǒ yòu dào zhuǎn le！",
+      "words": [
+        {
+          "ch": "这些",
+          "en": "All these",
+          "pi": "zhè xiē"
+        },
+        {
+          "ch": "字母",
+          "en": "letters",
+          "pi": "zì mǔ"
+        },
+        {
+          "ch": "全都",
+          "en": "are all",
+          "pi": "quán dōu"
+        },
+        {
+          "ch": "左右",
+          "en": "inverted",
+          "pi": "zuǒ yòu"
+        },
+        {
+          "ch": "倒转",
+          "en": "!",
+          "pi": "dào zhuǎn"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        }
+      ]
+    },
+    {
+      "chinese": "才不是呢，这是俄文，俄文的字母就是这样写的。",
+      "english": "No way! This is Russian. Russian letters are written like this.",
+      "pinyin": "cái bù shì ne，zhè shì è wén，è wén de zì mǔ jiù shì zhè yàng xiě de。",
+      "words": [
+        {
+          "ch": "才",
+          "en": "No way!",
+          "pi": "cái"
+        },
+        {
+          "ch": "不是",
+          "en": "this is",
+          "pi": "bù shì"
+        },
+        {
+          "ch": "呢",
+          "en": "",
+          "pi": "ne"
+        },
+        {
+          "ch": "这是",
+          "en": "This is",
+          "pi": "zhè shì"
+        },
+        {
+          "ch": "俄文",
+          "en": "Russian",
+          "pi": "è wén"
+        },
+        {
+          "ch": "俄文的",
+          "en": "Russian",
+          "pi": "è wén de"
+        },
+        {
+          "ch": "字母",
+          "en": "letters",
+          "pi": "zì mǔ"
+        },
+        {
+          "ch": "就是",
+          "en": "are",
+          "pi": "jiù shì"
+        },
+        {
+          "ch": "这样",
+          "en": "like this",
+          "pi": "zhè yàng"
+        },
+        {
+          "ch": "写的",
+          "en": "written",
+          "pi": "xiě de"
+        }
+      ]
+    }
+  ]
+}

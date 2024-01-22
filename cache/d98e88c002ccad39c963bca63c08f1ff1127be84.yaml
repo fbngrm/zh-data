@@ -1,0 +1,42 @@
+{
+  "chinese": "请给我看一下你的笔记本。",
+  "english": "Please show me your laptop.",
+  "pinyin": "Qǐng gěi wǒ kàn yīxià nǐ de bǐjìběn.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "Qǐng"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "看",
+      "en": "show",
+      "pi": "kàn"
+    },
+    {
+      "ch": "一下",
+      "en": "a little",
+      "pi": "yīxià"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "笔记本",
+      "en": "laptop",
+      "pi": "bǐjìběn"
+    }
+  ]
+}

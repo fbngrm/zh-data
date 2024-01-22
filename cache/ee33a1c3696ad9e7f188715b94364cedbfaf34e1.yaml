@@ -1,0 +1,32 @@
+{
+  "chinese": "老鹰不会去抓苍蝇。",
+  "english": "Eagles don't catch flies.",
+  "pinyin": "lǎo yīng bù huì qù zhuā cāng yíng。",
+  "words": [
+    {
+      "ch": "老鹰",
+      "en": "eagle",
+      "pi": "lǎo yīng"
+    },
+    {
+      "ch": "不会",
+      "en": "don't",
+      "pi": "bù huì"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "抓",
+      "en": "catch",
+      "pi": "zhuā"
+    },
+    {
+      "ch": "苍蝇",
+      "en": "flies",
+      "pi": "cāng yíng"
+    }
+  ]
+}

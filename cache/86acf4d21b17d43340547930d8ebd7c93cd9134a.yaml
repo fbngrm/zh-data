@@ -1,0 +1,18 @@
+{
+  "chinese": "我以为他是男的，原来她是女的。",
+  "english": "I thought he was male, turns out she is female.",
+  "pinyin": "wǒ yǐwéi tā shì nán de, yuánlái tā shì nǚ de.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "以为", "en": "thought", "pi": "yǐwéi"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "男的", "en": "male", "pi": "nán de"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "原来", "en": "turns out", "pi": "yuánlái"},
+    {"ch": "她", "en": "she", "pi": "tā"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "女的", "en": "female", "pi": "nǚ de"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

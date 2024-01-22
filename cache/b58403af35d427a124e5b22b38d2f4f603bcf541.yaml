@@ -1,0 +1,27 @@
+{
+  "chinese": "你多大了？",
+  "english": "How old are you?",
+  "pinyin": "Nǐ duō dà le?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "多",
+      "en": "how",
+      "pi": "duō"
+    },
+    {
+      "ch": "大",
+      "en": "big",
+      "pi": "dà"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

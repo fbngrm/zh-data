@@ -1,0 +1,42 @@
+{
+  "chinese": "这张是我妈妈的照片。",
+  "english": "This is a photo of my mom.",
+  "pinyin": "zhè zhāng shì wǒ māma de zhàopiàn.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "张",
+      "en": "measure word for flat objects",
+      "pi": "zhāng"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "妈妈",
+      "en": "mom",
+      "pi": "māma"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "照片",
+      "en": "photo",
+      "pi": "zhàopiàn"
+    }
+  ]
+}

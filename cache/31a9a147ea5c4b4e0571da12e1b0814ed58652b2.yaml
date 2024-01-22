@@ -1,0 +1,32 @@
+{
+  "chinese": "现在他应该已经到了。",
+  "english": "He should have arrived by now.",
+  "pinyin": "xiàn zài tā yīng gāi yǐ jīng dào le。",
+  "words": [
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "应该",
+      "en": "should",
+      "pi": "yīng gāi"
+    },
+    {
+      "ch": "已经",
+      "en": "have",
+      "pi": "yǐ jīng"
+    },
+    {
+      "ch": "到了",
+      "en": "arrived",
+      "pi": "dào le"
+    }
+  ]
+}

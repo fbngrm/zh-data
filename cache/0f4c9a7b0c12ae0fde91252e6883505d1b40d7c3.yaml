@@ -1,0 +1,71 @@
+{
+  "sentences": [
+    {
+      "chinese": "如果乳酪是好的,但是蛋糕是個謊言,什麼是乳酪蛋糕?",
+      "english": "If cheese is good, but cake is a lie, what is cheesecake?",
+      "pinyin": "rú guǒ rǔ lào shì hǎo de, dàn shì dàn gāo shì gè huǎng yán, shén me shì rǔ lào dàn gāo?"
+    },
+    {
+      "chinese": "一個好的謊言。",
+      "english": "A good lie.",
+      "pinyin": "yī gè hǎo de huǎng yán."
+    }
+  ],
+  "words": [
+    {
+      "ch": "如果",
+      "en": "if",
+      "pi": "rú guǒ"
+    },
+    {
+      "ch": "乳酪",
+      "en": "cheese",
+      "pi": "rǔ lào"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "好的",
+      "en": "good",
+      "pi": "hǎo de"
+    },
+    {
+      "ch": "但是",
+      "en": "but",
+      "pi": "dàn shì"
+    },
+    {
+      "ch": "蛋糕",
+      "en": "cake",
+      "pi": "dàn gāo"
+    },
+    {
+      "ch": "個",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "謊言",
+      "en": "lie",
+      "pi": "huǎng yán"
+    },
+    {
+      "ch": "什麼",
+      "en": "what",
+      "pi": "shén me"
+    },
+    {
+      "ch": "乳酪蛋糕",
+      "en": "cheesecake",
+      "pi": "rǔ lào dàn gāo"
+    },
+    {
+      "ch": "一個",
+      "en": "a",
+      "pi": "yī gè"
+    }
+  ]
+}

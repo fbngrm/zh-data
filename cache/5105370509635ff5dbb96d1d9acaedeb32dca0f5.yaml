@@ -1,0 +1,27 @@
+{
+  "chinese": "火车向车站驶去。",
+  "english": "The train is going towards the train station.",
+  "pinyin": "huǒ chē xiàng chē zhàn shǐ qù。",
+  "words": [
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒ chē"
+    },
+    {
+      "ch": "向",
+      "en": "towards",
+      "pi": "xiàng"
+    },
+    {
+      "ch": "车站",
+      "en": "train station",
+      "pi": "chē zhàn"
+    },
+    {
+      "ch": "驶去",
+      "en": "going",
+      "pi": "shǐ qù"
+    }
+  ]
+}

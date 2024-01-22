@@ -1,0 +1,26 @@
+{
+  "sentences": [
+    {
+      "chinese": "你该上床了。",
+      "english": "You should go to bed.",
+      "pinyin": "nǐ gāi shàng chuáng le。",
+      "words": [
+        {"ch": "你", "en": "You", "pi": "nǐ"},
+        {"ch": "该", "en": "should", "pi": "gāi"},
+        {"ch": "上床", "en": "go to bed", "pi": "shàng chuáng"},
+        {"ch": "了", "en": "already", "pi": "le"} 
+      ]
+    },
+    {
+      "chinese": "把收音机关了。",
+      "english": "Turn off the radio.",
+      "pinyin": "bǎ shōu yīn jī guān le。",
+      "words": [
+        {"ch": "把", "en": "turn off", "pi": "bǎ"},
+        {"ch": "收音机", "en": "radio", "pi": "shōu yīn jī"},
+        {"ch": "关", "en": "turn off", "pi": "guān"},
+        {"ch": "了", "en": "already", "pi": "le"} 
+      ]
+    }
+  ]
+}

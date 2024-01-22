@@ -1,0 +1,42 @@
+{
+  "chinese": "他的儿子被学校开除了。",
+  "english": "His son was expelled from school.",
+  "pinyin": "Tā de érzi bèi xuéxiào kāichúle.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "儿子",
+      "en": "son",
+      "pi": "érzi"
+    },
+    {
+      "ch": "被",
+      "en": "by",
+      "pi": "bèi"
+    },
+    {
+      "ch": "学校",
+      "en": "school",
+      "pi": "xuéxiào"
+    },
+    {
+      "ch": "开除",
+      "en": "expel",
+      "pi": "kāichú"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

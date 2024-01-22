@@ -1,0 +1,52 @@
+{
+  "chinese": "刮胡子时，我把脸刮破了。",
+  "english": "When shaving, I cut my face.",
+  "pinyin": "guā hú zi shí, wǒ bǎ liǎn guā pò le。",
+  "words": [
+    {
+      "ch": "刮",
+      "en": "shave",
+      "pi": "guā"
+    },
+    {
+      "ch": "胡子",
+      "en": "beard",
+      "pi": "hú zi"
+    },
+    {
+      "ch": "时",
+      "en": "when",
+      "pi": "shí"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "把",
+      "en": "used to shift the object to the beginning of the sentence",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "脸",
+      "en": "face",
+      "pi": "liǎn"
+    },
+    {
+      "ch": "刮",
+      "en": "shave",
+      "pi": "guā"
+    },
+    {
+      "ch": "破",
+      "en": "cut",
+      "pi": "pò"
+    },
+    {
+      "ch": "了",
+      "en": "completed action",
+      "pi": "le"
+    }
+  ]
+}

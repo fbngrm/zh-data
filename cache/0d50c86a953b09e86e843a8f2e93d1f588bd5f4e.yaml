@@ -1,0 +1,17 @@
+{
+  "chinese": "海伦和凯蒂在东京郊区租了个套间。",
+  "english": "Helen and Katie rented a suite in the suburbs of Tokyo.",
+  "pinyin": "hǎi lún hé kǎi dì zài dōng jīng jiāo qū zū le gè tào jiān。",
+  "words": [
+    { "ch": "海伦", "en": "Helen", "pi": "hǎi lún" },
+    { "ch": "和", "en": "and", "pi": "hé" },
+    { "ch": "凯蒂", "en": "Katie", "pi": "kǎi dì" },
+    { "ch": "在", "en": "in", "pi": "zài" },
+    { "ch": "东京", "en": "Tokyo", "pi": "dōng jīng" },
+    { "ch": "郊区", "en": "suburbs", "pi": "jiāo qū" },
+    { "ch": "租", "en": "rented", "pi": "zū" },
+    { "ch": "了", "en": "", "pi": "le" },
+    { "ch": "个", "en": "a", "pi": "gè" },
+    { "ch": "套间", "en": "suite", "pi": "tào jiān" }
+  ]
+}

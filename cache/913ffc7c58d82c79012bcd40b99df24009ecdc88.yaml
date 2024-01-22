@@ -1,0 +1,42 @@
+{
+  "chinese": "你没告诉我玛丽这么漂亮。",
+  "english": "You didn't tell me that Mary is so beautiful.",
+  "pinyin": "nǐ méi gàosù wǒ mǎlì zhème piàoliang.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "没",
+      "en": "didn't",
+      "pi": "méi"
+    },
+    {
+      "ch": "告诉",
+      "en": "tell",
+      "pi": "gàosù"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎlì"
+    },
+    {
+      "ch": "这么",
+      "en": "so",
+      "pi": "zhème"
+    },
+    {
+      "ch": "漂亮",
+      "en": "beautiful",
+      "pi": "piàoliang"
+    }
+  ]
+}

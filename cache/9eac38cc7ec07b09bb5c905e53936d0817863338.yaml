@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆知道玛丽不会让他失望。",
+  "english": "Tom knows Mary won't disappoint him.",
+  "pinyin": "Tāng mǔ zhīdào Mǎlì bù huì ràng tā shīwàng.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎlì"
+    },
+    {
+      "ch": "不会",
+      "en": "won't",
+      "pi": "bù huì"
+    },
+    {
+      "ch": "让",
+      "en": "let",
+      "pi": "ràng"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    },
+    {
+      "ch": "失望",
+      "en": "disappoint",
+      "pi": "shīwàng"
+    }
+  ]
+}

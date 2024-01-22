@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆没吃过生马肉。",
+  "english": "Tom has never eaten raw horse meat.",
+  "pinyin": "tāng mǔ méi chīguò shēng mǎròu.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "没",
+      "en": "has never",
+      "pi": "méi"
+    },
+    {
+      "ch": "吃过",
+      "en": "eaten",
+      "pi": "chīguò"
+    },
+    {
+      "ch": "生",
+      "en": "raw",
+      "pi": "shēng"
+    },
+    {
+      "ch": "马肉",
+      "en": "horse meat",
+      "pi": "mǎròu"
+    }
+  ]
+}

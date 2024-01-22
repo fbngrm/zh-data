@@ -1,0 +1,83 @@
+{
+  "sentences": [
+    {
+      "chinese": "赏面一起去喝杯咖啡吗？",
+      "english": "Would you like to go for a coffee together?",
+      "pinyin": "Shǎng miàn yīqǐ qù hē bēi kāfēi ma?",
+      "words": [
+        {
+          "ch": "赏面",
+          "en": "Would you like",
+          "pi": "shǎng miàn"
+        },
+        {
+          "ch": "一起",
+          "en": "together",
+          "pi": "yīqǐ"
+        },
+        {
+          "ch": "去",
+          "en": "go",
+          "pi": "qù"
+        },
+        {
+          "ch": "喝杯",
+          "en": "for a cup of",
+          "pi": "hē bēi"
+        },
+        {
+          "ch": "咖啡",
+          "en": "coffee",
+          "pi": "kāfēi"
+        },
+        {
+          "ch": "吗",
+          "en": "?",
+          "pi": "ma"
+        }
+      ]
+    },
+    {
+      "chinese": "真不好意思，我已经约了人了。",
+      "english": "I'm sorry, I already have plans.",
+      "pinyin": "Zhēn bù hǎo yìsi, wǒ yǐjīng yuē le rén le.",
+      "words": [
+        {
+          "ch": "真",
+          "en": "I'm sorry",
+          "pi": "zhēn"
+        },
+        {
+          "ch": "不好意思",
+          "en": "embarrassed",
+          "pi": "bù hǎo yìsi"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "已经",
+          "en": "already",
+          "pi": "yǐjīng"
+        },
+        {
+          "ch": "约了",
+          "en": "have plans",
+          "pi": "yuē le"
+        },
+        {
+          "ch": "人",
+          "en": "person",
+          "pi": "rén"
+        },
+        {
+          "ch": "了",
+          "en": "already",
+          "pi": "le"
+        }
+      ]
+    }
+  ]
+}

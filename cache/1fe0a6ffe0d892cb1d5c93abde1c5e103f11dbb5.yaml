@@ -1,0 +1,32 @@
+{
+  "chinese": "热得想吃冰淇淋。",
+  "english": "It's so hot that I want to eat ice cream.",
+  "pinyin": "rè de xiǎng chī bīng qí lín.",
+  "words": [
+    {
+      "ch": "热",
+      "en": "hot",
+      "pi": "rè"
+    },
+    {
+      "ch": "得",
+      "en": "so",
+      "pi": "de"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "冰淇淋",
+      "en": "ice cream",
+      "pi": "bīng qí lín"
+    }
+  ]
+}

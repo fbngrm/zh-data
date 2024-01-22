@@ -1,0 +1,42 @@
+{
+  "chinese": "我一走路，這裏就很痛。",
+  "english": "It hurts a lot when I walk here.",
+  "pinyin": "wǒ yī zǒulù, zhè lǐ jiù hěn tòng。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "一",
+      "en": "one",
+      "pi": "yī"
+    },
+    {
+      "ch": "走路",
+      "en": "walk",
+      "pi": "zǒulù"
+    },
+    {
+      "ch": "這裏",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "就",
+      "en": "just",
+      "pi": "jiù"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "痛",
+      "en": "painful",
+      "pi": "tòng"
+    }
+  ]
+}

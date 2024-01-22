@@ -1,0 +1,15 @@
+{
+  "chinese": "你的旅行是怎么开始的？",
+  "english": "How did your journey begin?",
+  "pinyin": "nǐ de lǚxíng shì zěnme kāishǐ de?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "的", "en": "your", "pi": "de"},
+    {"ch": "旅行", "en": "journey", "pi": "lǚxíng"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "怎么", "en": "how", "pi": "zěnme"},
+    {"ch": "开始", "en": "begin", "pi": "kāishǐ"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "？", "en": "?"}
+  ]
+}

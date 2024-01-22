@@ -1,0 +1,12 @@
+{
+  "chinese": "我吃好饭了。",
+  "english": "I ate a good meal.",
+  "pinyin": "wǒ chī hǎo fàn le.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "吃", "en": "ate", "pi": "chī"},
+    {"ch": "好", "en": "good", "pi": "hǎo"},
+    {"ch": "饭", "en": "meal", "pi": "fàn"},
+    {"ch": "了", "en": "completed action", "pi": "le"}
+  ]
+}

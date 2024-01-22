@@ -1,0 +1,37 @@
+{
+  "chinese": "我们班有四十个学生。",
+  "english": "Our class has forty students.",
+  "pinyin": "wǒmen bān yǒu sìshí gè xuéshēng.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "班",
+      "en": "class",
+      "pi": "bān"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "四十",
+      "en": "forty",
+      "pi": "sìshí"
+    },
+    {
+      "ch": "个",
+      "en": "measure word",
+      "pi": "gè"
+    },
+    {
+      "ch": "学生",
+      "en": "students",
+      "pi": "xuéshēng"
+    }
+  ]
+}

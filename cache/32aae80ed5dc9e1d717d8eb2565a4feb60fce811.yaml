@@ -1,0 +1,37 @@
+{
+  "chinese": "请您稍后再来好吗？",
+  "english": "Can you please come back later?",
+  "pinyin": "qǐng nín shāo hòu zài lái hǎo ma?",
+  "words": [
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "稍后",
+      "en": "later",
+      "pi": "shāo hòu"
+    },
+    {
+      "ch": "再来",
+      "en": "come back",
+      "pi": "zài lái"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

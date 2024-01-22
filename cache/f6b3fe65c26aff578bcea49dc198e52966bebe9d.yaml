@@ -1,0 +1,47 @@
+{
+  "chinese": "不管黑猫白猫，能捉老鼠就是好猫。",
+  "english": "Whether black or white, a cat that can catch mice is a good cat.",
+  "pinyin": "bù guǎn hēi māo bái māo ，néng zhuō lǎo shǔ jiù shì hǎo māo.",
+  "words": [
+    {
+      "ch": "不管",
+      "en": "whether",
+      "pi": "bù guǎn"
+    },
+    {
+      "ch": "黑猫",
+      "en": "black cat",
+      "pi": "hēi māo"
+    },
+    {
+      "ch": "白猫",
+      "en": "white cat",
+      "pi": "bái māo"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "捉",
+      "en": "catch",
+      "pi": "zhuō"
+    },
+    {
+      "ch": "老鼠",
+      "en": "mouse",
+      "pi": "lǎo shǔ"
+    },
+    {
+      "ch": "就是",
+      "en": "is",
+      "pi": "jiù shì"
+    },
+    {
+      "ch": "好猫",
+      "en": "good cat",
+      "pi": "hǎo māo"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "先生，你要点点儿什么？",
+  "english": "Sir, what would you like?",
+  "pinyin": "Xiānshēng, nǐ yào diǎndiǎr shénme?",
+  "words": [
+    {
+      "ch": "先生",
+      "en": "Sir",
+      "pi": "xiānshēng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "点点儿",
+      "en": "something",
+      "pi": "diǎndiǎr"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我在晚上看电视。",
+  "english": "I watch TV in the evening.",
+  "pinyin": "wǒ zài wǎnshàng kàn diànshì.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "晚上",
+      "en": "evening",
+      "pi": "wǎnshàng"
+    },
+    {
+      "ch": "看",
+      "en": "watch",
+      "pi": "kàn"
+    },
+    {
+      "ch": "电视",
+      "en": "TV",
+      "pi": "diànshì"
+    }
+  ]
+}

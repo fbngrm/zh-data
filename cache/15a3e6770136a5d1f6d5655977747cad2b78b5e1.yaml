@@ -1,0 +1,14 @@
+{
+  "chinese": "我在火车上给偷了东西。",
+  "english": "Someone stole something from me on the train.",
+  "pinyin": "wǒ zài huǒchē shàng gěi tōu le dōngxi.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "在", "en": "on", "pi": "zài"},
+    {"ch": "火车上", "en": "on the train", "pi": "huǒchē shàng"},
+    {"ch": "给", "en": "give", "pi": "gěi"},
+    {"ch": "偷", "en": "steal", "pi": "tōu"},
+    {"ch": "了", "en": "le", "pi": "le"},
+    {"ch": "东西", "en": "something", "pi": "dōngxi"}
+  ]
+}

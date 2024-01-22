@@ -1,0 +1,47 @@
+{
+  "chinese": "這藥要每三個小時服一次。",
+  "english": "This medicine should be taken every three hours.",
+  "pinyin": "zhè yào yào měi sān gè xiǎo shí fú yī cì。",
+  "words": [
+    {
+      "ch": "這",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "藥",
+      "en": "medicine",
+      "pi": "yào"
+    },
+    {
+      "ch": "要",
+      "en": "should",
+      "pi": "yào"
+    },
+    {
+      "ch": "每",
+      "en": "every",
+      "pi": "měi"
+    },
+    {
+      "ch": "三個",
+      "en": "three",
+      "pi": "sān gè"
+    },
+    {
+      "ch": "小時",
+      "en": "hours",
+      "pi": "xiǎo shí"
+    },
+    {
+      "ch": "服",
+      "en": "take",
+      "pi": "fú"
+    },
+    {
+      "ch": "一次",
+      "en": "once",
+      "pi": "yī cì"
+    }
+  ]
+}

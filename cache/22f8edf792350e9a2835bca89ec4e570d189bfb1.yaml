@@ -1,0 +1,27 @@
+{
+  "chinese": "你不能一心两用。",
+  "english": "You can't have it both ways.",
+  "pinyin": "nǐ bù néng yī xīn liǎng yòng。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "不能",
+      "en": "cannot",
+      "pi": "bù néng"
+    },
+    {
+      "ch": "一心",
+      "en": "one's whole attention",
+      "pi": "yī xīn"
+    },
+    {
+      "ch": "两用",
+      "en": "do two things at the same time",
+      "pi": "liǎng yòng"
+    }
+  ]
+}

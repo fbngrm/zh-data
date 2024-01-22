@@ -1,0 +1,15 @@
+抱歉，让我再次尝试为您创建一个JSON对象，将简体中文句子转换成带有拼音的形式。
+
+{
+"chinese": "你的答案不对。再试试看。",
+"english": "Your answer is incorrect. Try again.",
+"pinyin": "nǐ de dá'àn bù duì. zài shì shì kàn。",
+"words": [
+{"ch": "你", "en": "you", "pi": "nǐ"},
+{"ch": "的", "en": "your", "pi": "de"},
+{"ch": "答案", "en": "answer", "pi": "dá'àn"},
+{"ch": "不对", "en": "incorrect", "pi": "bù duì"},
+{"ch": "再", "en": "again", "pi": "zài"},
+{"ch": "试试看", "en": "try", "pi": "shì shì kàn"}
+]
+}

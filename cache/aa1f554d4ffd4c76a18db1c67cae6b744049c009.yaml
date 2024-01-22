@@ -1,0 +1,13 @@
+{
+  "chinese": "我想买这条裙子。",
+  "english": "I want to buy this dress.",
+  "pinyin": "wǒ xiǎng mǎi zhè tiáo qúnzi.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "想", "en": "want", "pi": "xiǎng"},
+    {"ch": "买", "en": "to buy", "pi": "mǎi"},
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "条", "en": "measure word for long, narrow objects", "pi": "tiáo"},
+    {"ch": "裙子", "en": "dress", "pi": "qúnzi"}
+  ]
+}

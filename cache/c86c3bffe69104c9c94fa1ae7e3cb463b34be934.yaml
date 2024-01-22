@@ -1,0 +1,47 @@
+{
+   "chinese": "这辆是去波士顿正确的巴士吗?",
+   "english": "Is this the correct bus to Boston?",
+   "pinyin": "zhè liàng shì qù bō shì dùn zhèng què de bā shì ma?",
+   "words": [
+      {
+         "ch": "这",
+         "en": "this",
+         "pi": "zhè"
+      },
+      {
+         "ch": "辆",
+         "en": "vehicle",
+         "pi": "liàng"
+      },
+      {
+         "ch": "是",
+         "en": "is",
+         "pi": "shì"
+      },
+      {
+         "ch": "去",
+         "en": "to",
+         "pi": "qù"
+      },
+      {
+         "ch": "波士顿",
+         "en": "Boston",
+         "pi": "bō shì dùn"
+      },
+      {
+         "ch": "正确的",
+         "en": "correct",
+         "pi": "zhèng què de"
+      },
+      {
+         "ch": "巴士",
+         "en": "bus",
+         "pi": "bā shì"
+      },
+      {
+         "ch": "吗",
+         "en": "question particle",
+         "pi": "ma"
+      }
+   ]
+}

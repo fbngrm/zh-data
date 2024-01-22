@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆知道玛丽什么时候来。",
+  "english": "Tom knows when Mary is coming.",
+  "pinyin": "Tāng mǔ zhīdào Mǎlì shénme shíhòu lái.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "知道",
+      "en": "knows",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎlì"
+    },
+    {
+      "ch": "什么时候",
+      "en": "when",
+      "pi": "shénme shíhòu"
+    },
+    {
+      "ch": "来",
+      "en": "coming",
+      "pi": "lái"
+    }
+  ]
+}

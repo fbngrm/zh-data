@@ -1,0 +1,42 @@
+{
+  "chinese": "我用字卡來學德文生字。",
+  "english": "I use flashcards to learn new German words.",
+  "pinyin": "Wǒ yòng zì kǎ lái xué Dé wén shēng zì.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "用",
+      "en": "use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "字卡",
+      "en": "flashcards",
+      "pi": "zì kǎ"
+    },
+    {
+      "ch": "來",
+      "en": "to",
+      "pi": "lái"
+    },
+    {
+      "ch": "學",
+      "en": "learn",
+      "pi": "xué"
+    },
+    {
+      "ch": "德文",
+      "en": "German",
+      "pi": "Dé wén"
+    },
+    {
+      "ch": "生字",
+      "en": "new words",
+      "pi": "shēng zì"
+    }
+  ]
+}

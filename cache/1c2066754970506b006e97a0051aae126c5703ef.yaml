@@ -1,0 +1,12 @@
+{
+  "chinese": "这些是你的女儿吗？",
+  "english": "Are these your daughters?",
+  "pinyin": "zhè xiē shì nǐ de nǚ ér ma?",
+  "words": [
+    {"ch": "这些", "en": "these", "pi": "zhè xiē"},
+    {"ch": "是", "en": "are", "pi": "shì"},
+    {"ch": "你的", "en": "your", "pi": "nǐ de"},
+    {"ch": "女儿", "en": "daughters", "pi": "nǚ ér"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"} 
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "chinese": "我老婆把瓶子打破了，把厨房弄得满地都是牛奶。",
+  "english": "My wife broke the bottle and made the kitchen full of milk.",
+  "pinyin": "wǒ lǎo pó bǎ píng zi dǎ pò le ，bǎ chú fáng nòng dé mǎn dì dōu shì niú nǎi。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "老婆", "en": "wife", "pi": "lǎo pó"},
+    {"ch": "把", "en": "took", "pi": "bǎ"},
+    {"ch": "瓶子", "en": "bottle", "pi": "píng zi"},
+    {"ch": "打破", "en": "broke", "pi": "dǎ pò"},
+    {"ch": "了", "en": "the", "pi": "le"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "把", "en": "the", "pi": "bǎ"},
+    {"ch": "厨房", "en": "kitchen", "pi": "chú fáng"},
+    {"ch": "弄得", "en": "made", "pi": "nòng dé"},
+    {"ch": "满地", "en": "full of", "pi": "mǎn dì"},
+    {"ch": "都是", "en": "all", "pi": "dōu shì"},
+    {"ch": "牛奶", "en": "milk", "pi": "niú nǎi"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

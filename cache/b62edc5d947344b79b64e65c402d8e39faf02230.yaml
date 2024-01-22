@@ -1,0 +1,32 @@
+{
+  "chinese": "我吃得很饱。",
+  "english": "I ate until I was full.",
+  "pinyin": "wǒ chī dé hěn bǎo.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "吃",
+      "en": "ate",
+      "pi": "chī"
+    },
+    {
+      "ch": "得",
+      "en": "until",
+      "pi": "dé"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "饱",
+      "en": "full",
+      "pi": "bǎo"
+    }
+  ]
+}

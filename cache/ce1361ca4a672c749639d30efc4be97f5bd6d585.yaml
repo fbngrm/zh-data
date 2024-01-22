@@ -1,0 +1,37 @@
+{
+  "chinese": "我爸爸每天都记日记。",
+  "english": "My father writes a diary every day.",
+  "pinyin": "wǒ bàba měi tiān dōu jì rìjì。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "爸爸",
+      "en": "father",
+      "pi": "bàba"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "都",
+      "en": "always",
+      "pi": "dōu"
+    },
+    {
+      "ch": "记",
+      "en": "write",
+      "pi": "jì"
+    },
+    {
+      "ch": "日记",
+      "en": "diary",
+      "pi": "rìjì"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "chinese": "我会在约翰来的时候走。",
+  "english": "I will leave when John comes.",
+  "pinyin": "wǒ huì zài yuē hàn lái de shíhòu zǒu。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "约翰",
+      "en": "John",
+      "pi": "yuē hàn"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    },
+    {
+      "ch": "的",
+      "en": "when (possessive particle)",
+      "pi": "de"
+    },
+    {
+      "ch": "时候",
+      "en": "time",
+      "pi": "shíhòu"
+    },
+    {
+      "ch": "走",
+      "en": "leave",
+      "pi": "zǒu"
+    }
+  ]
+}

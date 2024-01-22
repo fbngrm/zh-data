@@ -1,0 +1,12 @@
+{
+  "chinese": "这个钟每天慢三分钟。",
+  "english": "This clock is three minutes slow every day.",
+  "pinyin": "zhè gè zhōng měi tiān màn sān fēnzhōng。",
+  "words": [
+    { "ch": "这个", "en": "this", "pi": "zhè gè" },
+    { "ch": "钟", "en": "clock", "pi": "zhōng" },
+    { "ch": "每天", "en": "every day", "pi": "měi tiān" },
+    { "ch": "慢", "en": "slow", "pi": "màn" },
+    { "ch": "三分钟", "en": "three minutes", "pi": "sān fēnzhōng" }
+  ]
+}

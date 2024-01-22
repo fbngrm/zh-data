@@ -1,0 +1,42 @@
+{
+  "chinese": "动物园里有很多奇怪的动物。",
+  "english": "There are many strange animals in the zoo.",
+  "pinyin": "dòng wù yuán lǐ yǒu hěn duō qí guài de dòng wù。",
+  "words": [
+    {
+      "ch": "动物园",
+      "en": "zoo",
+      "pi": "dòng wù yuán"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "很多",
+      "en": "many",
+      "pi": "hěn duō"
+    },
+    {
+      "ch": "奇怪",
+      "en": "strange",
+      "pi": "qí guài"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "动物",
+      "en": "animals",
+      "pi": "dòng wù"
+    }
+  ]
+}

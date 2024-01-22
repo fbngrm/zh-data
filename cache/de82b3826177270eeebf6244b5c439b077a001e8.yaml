@@ -1,0 +1,14 @@
+{
+  "chinese": "他不知道如何用英语写信。",
+  "english": "He doesn't know how to write a letter in English.",
+  "pinyin": "tā bù zhī dào rú hé yòng yīng yǔ xiě xìn。",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "不", "en": "does not", "pi": "bù"},
+    {"ch": "知道", "en": "know", "pi": "zhī dào"},
+    {"ch": "如何", "en": "how to", "pi": "rú hé"},
+    {"ch": "用", "en": "use", "pi": "yòng"},
+    {"ch": "英语", "en": "English", "pi": "yīng yǔ"},
+    {"ch": "写信", "en": "write a letter", "pi": "xiě xìn"}
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "天渐渐黑了。我们回家吧。",
+  "english": "The sky is getting dark. Let's go home.",
+  "pinyin": "Tiān jiànjiàn hēi le. Wǒmen huí jiā ba.",
+  "words": [
+    {
+      "ch": "天",
+      "en": "sky",
+      "pi": "tiān"
+    },
+    {
+      "ch": "渐渐",
+      "en": "gradually",
+      "pi": "jiànjiàn"
+    },
+    {
+      "ch": "黑了",
+      "en": "is getting dark",
+      "pi": "hēi le"
+    },
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "回家",
+      "en": "go home",
+      "pi": "huí jiā"
+    },
+    {
+      "ch": "吧",
+      "en": "let's",
+      "pi": "ba"
+    }
+  ]
+}

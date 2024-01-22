@@ -1,0 +1,19 @@
+{
+  "chinese": "因为他是个友好的人，所以大家都喜欢他。",
+  "english": "Because he is a friendly person, everyone likes him.",
+  "pinyin": "yīn wèi tā shì gè yǒu hǎo de rén ，suǒ yǐ dà jiā dōu xǐ huān tā。",
+  "words": [
+    { "ch": "因为", "en": "Because", "pi": "yīn wèi" },
+    { "ch": "他", "en": "he", "pi": "tā" },
+    { "ch": "是", "en": "is", "pi": "shì" },
+    { "ch": "个", "en": "a", "pi": "gè" },
+    { "ch": "友好", "en": "friendly", "pi": "yǒu hǎo" },
+    { "ch": "的", "en": "person", "pi": "de" },
+    { "ch": "人", "en": "everyone", "pi": "rén" },
+    { "ch": "所以", "en": "so", "pi": "suǒ yǐ" },
+    { "ch": "大家", "en": "everyone", "pi": "dà jiā" },
+    { "ch": "都", "en": "likes", "pi": "dōu" },
+    { "ch": "喜欢", "en": "him", "pi": "xǐ huān" },
+    { "ch": "他", "en": "likes", "pi": "tā" }
+  ]
+}

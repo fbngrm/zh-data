@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆不跟任何人说话。",
+  "english": "Tom doesn't talk to anyone.",
+  "pinyin": "Tāng mǔ bù gēn rèn hé rén shuōhuà.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "跟",
+      "en": "with",
+      "pi": "gēn"
+    },
+    {
+      "ch": "任何人",
+      "en": "anyone",
+      "pi": "rèn hé rén"
+    },
+    {
+      "ch": "说话",
+      "en": "talk",
+      "pi": "shuōhuà"
+    }
+  ]
+}

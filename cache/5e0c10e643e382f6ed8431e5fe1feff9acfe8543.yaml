@@ -1,0 +1,42 @@
+{
+  "chinese": "我有一些照片给你看。",
+  "english": "I have some photos to show you.",
+  "pinyin": "wǒ yǒu yīxiē zhàopiàn gěi nǐ kàn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一些",
+      "en": "some",
+      "pi": "yīxiē"
+    },
+    {
+      "ch": "照片",
+      "en": "photos",
+      "pi": "zhàopiàn"
+    },
+    {
+      "ch": "给",
+      "en": "to",
+      "pi": "gěi"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "看",
+      "en": "show",
+      "pi": "kàn"
+    }
+  ]
+}

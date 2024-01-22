@@ -1,0 +1,37 @@
+{
+  "chinese": "这栋房子属于我的叔叔。",
+  "english": "This house belongs to my uncle.",
+  "pinyin": "zhè dòng fángzi shǔyú wǒ de shūshu.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "栋",
+      "en": "house",
+      "pi": "dòng"
+    },
+    {
+      "ch": "房子",
+      "en": "belongs",
+      "pi": "fángzi"
+    },
+    {
+      "ch": "属于",
+      "en": "to",
+      "pi": "shǔyú"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "叔叔",
+      "en": "uncle",
+      "pi": "shūshu"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "这个箱子是用纸造的。",
+  "english": "This box is made of paper.",
+  "pinyin": "zhè ge xiāngzi shì yòng zhǐ zào de。",
+  "words": [
+    {"ch": "这个", "en": "this", "pi": "zhè ge"},
+    {"ch": "箱子", "en": "box", "pi": "xiāngzi"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "用", "en": "used", "pi": "yòng"},
+    {"ch": "纸", "en": "paper", "pi": "zhǐ"},
+    {"ch": "造", "en": "made", "pi": "zào"},
+    {"ch": "的", "en": "of", "pi": "de"}
+  ]
+}

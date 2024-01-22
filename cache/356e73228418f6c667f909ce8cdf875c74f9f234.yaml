@@ -1,0 +1,15 @@
+{ 
+  "chinese": "他不仅给了我们衣服，还有一点钱。",
+  "english": "He not only gave us clothes, but also a little money.",
+  "pinyin": "Tā bùjǐn gěi le wǒmen yīfú, hái yǒu yīdiǎn qián.",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"}, 
+    {"ch": "不仅", "en": "not only", "pi": "bùjǐn"}, 
+    {"ch": "给了", "en": "gave", "pi": "gěile"}, 
+    {"ch": "我们", "en": "us", "pi": "wǒmen"}, 
+    {"ch": "衣服", "en": "clothes", "pi": "yīfú"}, 
+    {"ch": "还有", "en": "but also", "pi": "háiyǒu"}, 
+    {"ch": "一点", "en": "a little", "pi": "yīdiǎn"}, 
+    {"ch": "钱", "en": "money", "pi": "qián"}
+  ]
+}

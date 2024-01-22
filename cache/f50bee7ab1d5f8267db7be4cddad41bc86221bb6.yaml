@@ -1,0 +1,42 @@
+{
+  "chinese": "只有早上5点，但天已经亮了。",
+  "english": "It's only 5 o'clock in the morning, but it's already bright outside.",
+  "pinyin": "zhǐ yǒu zǎo shàng wǔ diǎn ，dàn tiān yǐ jīng liàng le。",
+  "words": [
+    {
+      "ch": "只有",
+      "en": "only",
+      "pi": "zhǐ yǒu"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎo shàng"
+    },
+    {
+      "ch": "5点",
+      "en": "5 o'clock",
+      "pi": "wǔ diǎn"
+    },
+    {
+      "ch": "但",
+      "en": "but",
+      "pi": "dàn"
+    },
+    {
+      "ch": "天",
+      "en": "sky",
+      "pi": "tiān"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐ jīng"
+    },
+    {
+      "ch": "亮了",
+      "en": "bright",
+      "pi": "liàng le"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "万一下雨，我就不去。",
+  "english": "If it rains, I won't go.",
+  "pinyin": "wàn yī xià yǔ，wǒ jiù bù qù。",
+  "words": [
+    {
+      "ch": "万一",
+      "en": "If",
+      "pi": "wàn yī"
+    },
+    {
+      "ch": "下雨",
+      "en": "rain",
+      "pi": "xià yǔ"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "就",
+      "en": "will",
+      "pi": "jiù"
+    },
+    {
+      "ch": "不去",
+      "en": "not go",
+      "pi": "bù qù"
+    }
+  ]
+}

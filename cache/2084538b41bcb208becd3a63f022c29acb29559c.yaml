@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆告诉我们他头疼。",
+  "english": "Tom told us he has a headache.",
+  "pinyin": "Tāng mǔ gàosù wǒmen tā tóuténg.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "告诉",
+      "en": "told",
+      "pi": "gàosù"
+    },
+    {
+      "ch": "我们",
+      "en": "us",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "头疼",
+      "en": "headache",
+      "pi": "tóuténg"
+    }
+  ]
+}

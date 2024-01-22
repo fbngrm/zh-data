@@ -1,0 +1,32 @@
+{
+  "chinese": "我现在想点饮料。",
+  "english": "I want to order a drink now.",
+  "pinyin": "wǒ xiàn zài xiǎng diǎn yǐn liào.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "点",
+      "en": "to order",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "饮料",
+      "en": "drink",
+      "pi": "yǐn liào"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "我忘了你的电话号码。",
+  "english": "I forgot your phone number.",
+  "pinyin": "wǒ wàng le nǐ de diàn huà hào mǎ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "忘了",
+      "en": "forgot",
+      "pi": "wàng le"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "电话号码",
+      "en": "phone number",
+      "pi": "diàn huà hào mǎ"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我想吃完饭再喝咖啡。",
+  "english": "I want to finish eating before drinking coffee.",
+  "pinyin": "wǒ xiǎng chī wán fàn zài hē kā fēi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "吃完",
+      "en": "finish eating",
+      "pi": "chī wán"
+    },
+    {
+      "ch": "饭",
+      "en": "rice",
+      "pi": "fàn"
+    },
+    {
+      "ch": "再",
+      "en": "before",
+      "pi": "zài"
+    },
+    {
+      "ch": "喝",
+      "en": "drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kā fēi"
+    }
+  ]
+}

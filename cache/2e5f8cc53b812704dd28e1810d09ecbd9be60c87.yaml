@@ -1,0 +1,27 @@
+{
+  "chinese": "您经常去吗？",
+  "english": "Do you often go?",
+  "pinyin": "nín jīngcháng qù ma?",
+  "words": [
+    {
+      "ch": "您",
+      "en": "You",
+      "pi": "nín"
+    },
+    {
+      "ch": "经常",
+      "en": "often",
+      "pi": "jīngcháng"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

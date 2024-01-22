@@ -1,0 +1,47 @@
+{
+  "chinese": "你要用走的还是搭公车？",
+  "english": "Are you going to walk or take the bus?",
+  "pinyin": "Nǐ yào yòng zǒu de háishì dā gōngchē?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "用",
+      "en": "use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "走",
+      "en": "walk",
+      "pi": "zǒu"
+    },
+    {
+      "ch": "的",
+      "en": "or",
+      "pi": "de"
+    },
+    {
+      "ch": "还是",
+      "en": "or",
+      "pi": "háishì"
+    },
+    {
+      "ch": "搭",
+      "en": "take",
+      "pi": "dā"
+    },
+    {
+      "ch": "公车",
+      "en": "bus",
+      "pi": "gōngchē"
+    }
+  ]
+}

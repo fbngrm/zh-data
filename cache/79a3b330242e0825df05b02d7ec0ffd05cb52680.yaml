@@ -1,0 +1,37 @@
+{
+  "chinese": "你的来信使我快乐。",
+  "english": "Your letter brings me happiness.",
+  "pinyin": "nǐ de lái xìn shǐ wǒ kuài lè。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "来信",
+      "en": "letter",
+      "pi": "lái xìn"
+    },
+    {
+      "ch": "使",
+      "en": "make",
+      "pi": "shǐ"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "快乐",
+      "en": "happy",
+      "pi": "kuài lè"
+    }
+  ]
+}

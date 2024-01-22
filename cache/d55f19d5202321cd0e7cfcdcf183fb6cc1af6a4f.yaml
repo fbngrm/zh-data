@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆还是不知道真相。",
+  "english": "Tom still doesn't know the truth.",
+  "pinyin": "tāng mǔ hái shì bù zhī dào zhēn xiàng.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "还是",
+      "en": "still",
+      "pi": "hái shì"
+    },
+    {
+      "ch": "不知道",
+      "en": "doesn't know",
+      "pi": "bù zhī dào"
+    },
+    {
+      "ch": "真相",
+      "en": "the truth",
+      "pi": "zhēn xiàng"
+    }
+  ]
+}

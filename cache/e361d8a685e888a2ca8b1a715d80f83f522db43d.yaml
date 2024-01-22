@@ -1,0 +1,27 @@
+{
+  "chinese": "红绿灯一直在运作。",
+  "english": "The traffic light is always operational.",
+  "pinyin": "Hóng lǜ dēng yīzhí zài yùnzuò.",
+  "words": [
+    {
+      "ch": "红绿灯",
+      "en": "traffic light",
+      "pi": "hóng lǜ dēng"
+    },
+    {
+      "ch": "一直",
+      "en": "always",
+      "pi": "yīzhí"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "运作",
+      "en": "operational",
+      "pi": "yùnzuò"
+    }
+  ]
+}

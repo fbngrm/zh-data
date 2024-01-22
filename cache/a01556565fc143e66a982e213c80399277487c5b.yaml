@@ -1,0 +1,27 @@
+{
+  "chinese": "猫弓起背，伸了个懒腰。",
+  "english": "The cat stretched its back and yawned.",
+  "pinyin": "Māo gōng qǐ bèi, shēn le gè lǎn yāo.",
+  "words": [
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    },
+    {
+      "ch": "弓起背",
+      "en": "stretched its back",
+      "pi": "gōng qǐ bèi"
+    },
+    {
+      "ch": "伸了个",
+      "en": "and yawned",
+      "pi": "shēn le gè"
+    },
+    {
+      "ch": "懒腰",
+      "en": "yawned",
+      "pi": "lǎn yāo"
+    }
+  ]
+}

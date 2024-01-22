@@ -1,0 +1,27 @@
+{
+  "chinese": "你们在家吗",
+  "english": "Are you at home?",
+  "pinyin": "nǐmen zài jiā ma",
+  "words": [
+    {
+      "ch": "你们",
+      "en": "you (plural)",
+      "pi": "nǐmen"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "家",
+      "en": "home",
+      "pi": "jiā"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

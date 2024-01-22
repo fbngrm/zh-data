@@ -1,0 +1,14 @@
+{
+  "chinese": "飞机将在一小时后起飞。",
+  "english": "The plane will take off in one hour.",
+  "pinyin": "fēi jī jiāng zài yī xiǎo shí hòu qǐ fēi。",
+  "words": [
+    {"ch": "飞机", "en": "plane", "pi": "fēi jī"},
+    {"ch": "将", "en": "will", "pi": "jiāng"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "一", "en": "one", "pi": "yī"},
+    {"ch": "小时", "en": "hour", "pi": "xiǎo shí"},
+    {"ch": "后", "en": "after", "pi": "hòu"},
+    {"ch": "起飞", "en": "take off", "pi": "qǐ fēi"}
+  ]
+}

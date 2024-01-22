@@ -1,0 +1,32 @@
+{
+  "chinese": "他明天出发去中国。",
+  "english": "He leaves for China tomorrow.",
+  "pinyin": "tā míngtiān chūfā qù zhōngguó.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "出发",
+      "en": "leaves",
+      "pi": "chūfā"
+    },
+    {
+      "ch": "去",
+      "en": "for",
+      "pi": "qù"
+    },
+    {
+      "ch": "中国",
+      "en": "China",
+      "pi": "zhōngguó"
+    }
+  ]
+}

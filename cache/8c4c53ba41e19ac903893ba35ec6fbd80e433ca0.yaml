@@ -1,0 +1,27 @@
+{
+  "chinese": "我们今天不用上学。",
+  "english": "We don't have to go to school today.",
+  "pinyin": "wǒ men jīn tiān bù yòng shàng xué。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "不用",
+      "en": "don't have to",
+      "pi": "bù yòng"
+    },
+    {
+      "ch": "上学",
+      "en": "go to school",
+      "pi": "shàng xué"
+    }
+  ]
+}

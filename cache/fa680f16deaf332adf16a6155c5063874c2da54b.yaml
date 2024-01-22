@@ -1,0 +1,32 @@
+{
+  "chinese": "明天天气可能很好。",
+  "english": "The weather may be good tomorrow.",
+  "pinyin": "míng tiān tiān qì kě néng hěn hǎo。",
+  "words": [
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiān qì"
+    },
+    {
+      "ch": "可能",
+      "en": "may",
+      "pi": "kě néng"
+    },
+    {
+      "ch": "很",
+      "en": "be",
+      "pi": "hěn"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    }
+  ]
+}

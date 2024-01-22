@@ -1,0 +1,17 @@
+{
+  "chinese": "他偶然在古董店里发现了这个旧硬币。",
+  "english": "He accidentally found this old coin in an antique shop.",
+  "pinyin": "Tā ǒurán zài gǔdǒng diàn lǐ fāxiànle zhège jiù yìngbì.",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "偶然", "en": "accidentally", "pi": "ǒurán"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "古董店", "en": "antique shop", "pi": "gǔdǒng diàn"},
+    {"ch": "里", "en": "inside", "pi": "lǐ"},
+    {"ch": "发现", "en": "found", "pi": "fāxiàn"},
+    {"ch": "了", "en": "this", "pi": "le"},
+    {"ch": "这个", "en": "old", "pi": "zhège"},
+    {"ch": "旧", "en": "coin", "pi": "jiù"},
+    {"ch": "硬币", "en": "coin", "pi": "yìngbì"}
+  ]
+}

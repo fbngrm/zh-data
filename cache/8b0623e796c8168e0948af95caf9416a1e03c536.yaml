@@ -1,0 +1,17 @@
+{
+  "chinese": "变量的声明在Ｃ和Ｃ++中极其重要。",
+  "english": "Variable declaration is extremely important in C and C++.",
+  "pinyin": "biàn​liàng​ de​ dé​míng​ zài C hé C++ zhōng jí​qí​ zhòng​yào​.",
+  "words": [
+    {"ch": "变量", "en": "Variable", "pi": "biàn​liàng​"},
+    {"ch": "的", "en": "of", "pi": "de​"},
+    {"ch": "声明", "en": "declaration", "pi": "dé​míng​"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "Ｃ", "en": "C", "pi": "C​"},
+    {"ch": "和", "en": "and", "pi": "hé​"},
+    {"ch": "Ｃ++", "en": "C++", "pi": "C++"},
+    {"ch": "中", "en": "in", "pi": "zhōng"},
+    {"ch": "极其", "en": "extremely", "pi": "jí​qí​"},
+    {"ch": "重要", "en": "important", "pi": "zhòng​yào​"}
+  ]
+}

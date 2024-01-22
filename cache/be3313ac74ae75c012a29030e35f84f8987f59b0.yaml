@@ -1,0 +1,14 @@
+{
+  "chinese": "你会说流利的中文吗?",
+  "english": "Can you speak fluent Chinese?",
+  "pinyin": "nǐ huì shuō liúlì de zhōngwén ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "会", "en": "can/will", "pi": "huì"},
+    {"ch": "说", "en": "speak", "pi": "shuō"},
+    {"ch": "流利", "en": "fluent", "pi": "liúlì"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "中文", "en": "Chinese", "pi": "zhōngwén"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

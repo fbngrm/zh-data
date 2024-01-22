@@ -1,0 +1,88 @@
+{
+  "sentences": [
+    {
+      "chinese": "我家也有八口人。",
+      "english": "There are also eight people in my family.",
+      "pinyin": "wǒ jiā yě yǒu bā kǒu rén。",
+      "words": [
+        {
+          "ch": "我家",
+          "en": "my family",
+          "pi": "wǒ jiā"
+        },
+        {
+          "ch": "也",
+          "en": "also",
+          "pi": "yě"
+        },
+        {
+          "ch": "有",
+          "en": "have",
+          "pi": "yǒu"
+        },
+        {
+          "ch": "八",
+          "en": "eight",
+          "pi": "bā"
+        },
+        {
+          "ch": "口人",
+          "en": "people",
+          "pi": "kǒu rén"
+        }
+      ]
+    },
+    {
+      "chinese": "我父母，三个弟弟，一个妹妹，还有我妻子。",
+      "english": "My parents, three younger brothers, one younger sister, and my wife.",
+      "pinyin": "wǒ fù mǔ, sān gè dì dì, yī gè mèi mèi, hái yǒu wǒ qī zi。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "父母",
+          "en": "parents",
+          "pi": "fù mǔ"
+        },
+        {
+          "ch": "三个",
+          "en": "three",
+          "pi": "sān gè"
+        },
+        {
+          "ch": "弟弟",
+          "en": "younger brother",
+          "pi": "dì dì"
+        },
+        {
+          "ch": "一个",
+          "en": "one",
+          "pi": "yī gè"
+        },
+        {
+          "ch": "妹妹",
+          "en": "younger sister",
+          "pi": "mèi mèi"
+        },
+        {
+          "ch": "还有",
+          "en": "and also",
+          "pi": "hái yǒu"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "妻子",
+          "en": "wife",
+          "pi": "qī zi"
+        }
+      ]
+    }
+  ]
+}

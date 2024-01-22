@@ -1,0 +1,14 @@
+{
+  "chinese": "你哥哥結婚了，不是嗎？",
+  "english": "Your older brother got married, didn't he?",
+  "pinyin": "nǐ gēgē jiéhūn le, bù shì ma?",
+  "words": [
+    {"ch": "你", "en": "your", "pi": "nǐ"},
+    {"ch": "哥哥", "en": "older brother", "pi": "gēgē"},
+    {"ch": "結婚", "en": "get married", "pi": "jiéhūn"},
+    {"ch": "了", "en": "got", "pi": "le"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "不是", "en": "didn't", "pi": "bù shì"},
+    {"ch": "嗎", "en": "he?", "pi": "ma?"}
+  ]
+}

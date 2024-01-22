@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆己经在那里了。",
+  "english": "Tom is already there.",
+  "pinyin": "tāng mǔ jǐ jīng zài nà lǐ le.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "己经",
+      "en": "already",
+      "pi": "jǐ jīng"
+    },
+    {
+      "ch": "在",
+      "en": "there",
+      "pi": "zài"
+    },
+    {
+      "ch": "那里",
+      "en": "there",
+      "pi": "nà lǐ"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

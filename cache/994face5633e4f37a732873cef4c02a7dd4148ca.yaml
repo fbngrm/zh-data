@@ -1,0 +1,62 @@
+{
+    "chinese": "６４位的软件在３２位架构的系统上跑不起来。",
+    "english": "64-bit software cannot run on a 32-bit architecture system.",
+    "pinyin": "liù sì wǔ wèi de ruǎn jiàn zài sān èr wèi jià gòu de xì tǒng shàng pǎo bù qǐ lái。",
+    "words": [
+        {
+            "ch": "６４位",
+            "en": "64-bit",
+            "pi": "liù sì wǔ wèi"
+        },
+        {
+            "ch": "的",
+            "en": "",
+            "pi": "de"
+        },
+        {
+            "ch": "软件",
+            "en": "software",
+            "pi": "ruǎn jiàn"
+        },
+        {
+            "ch": "在",
+            "en": "on",
+            "pi": "zài"
+        },
+        {
+            "ch": "３２位",
+            "en": "32-bit",
+            "pi": "sān èr wèi"
+        },
+        {
+            "ch": "架构",
+            "en": "architecture",
+            "pi": "jià gòu"
+        },
+        {
+            "ch": "的",
+            "en": "",
+            "pi": "de"
+        },
+        {
+            "ch": "系统",
+            "en": "system",
+            "pi": "xì tǒng"
+        },
+        {
+            "ch": "上",
+            "en": "on",
+            "pi": "shàng"
+        },
+        {
+            "ch": "跑",
+            "en": "run",
+            "pi": "pǎo"
+        },
+        {
+            "ch": "不起来",
+            "en": "cannot",
+            "pi": "bù qǐ lái"
+        }
+    ]
+}

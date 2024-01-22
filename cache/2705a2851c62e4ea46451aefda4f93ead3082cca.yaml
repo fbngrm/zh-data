@@ -1,0 +1,57 @@
+{
+  "chinese": "汤姆本该往左转却往右转了。",
+  "english": "Tom should have turned left but turned right instead.",
+  "pinyin": "tāng mǔ běn gāi wǎng zuǒ zhuǎn què wǎng yòu zhuǎn le。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "本该",
+      "en": "should have",
+      "pi": "běn gāi"
+    },
+    {
+      "ch": "往",
+      "en": "to",
+      "pi": "wǎng"
+    },
+    {
+      "ch": "左",
+      "en": "left",
+      "pi": "zuǒ"
+    },
+    {
+      "ch": "转",
+      "en": "turn",
+      "pi": "zhuǎn"
+    },
+    {
+      "ch": "却",
+      "en": "but",
+      "pi": "què"
+    },
+    {
+      "ch": "往",
+      "en": "to",
+      "pi": "wǎng"
+    },
+    {
+      "ch": "右",
+      "en": "right",
+      "pi": "yòu"
+    },
+    {
+      "ch": "转",
+      "en": "turn",
+      "pi": "zhuǎn"
+    },
+    {
+      "ch": "了",
+      "en": "instead",
+      "pi": "le"
+    }
+  ]
+}

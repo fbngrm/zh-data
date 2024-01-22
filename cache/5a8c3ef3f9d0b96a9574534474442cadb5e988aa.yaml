@@ -1,0 +1,36 @@
+{
+  "sentences": [
+    {
+      "chinese": "我就算吃得再多也不会发胖。",
+      "english": "Even if I eat more, I won't gain weight.",
+      "pinyin": "wǒ jiùsuàn chī dé zài duō yě bú huì fā pàng。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "就算", "en": "even if", "pi": "jiùsuàn"},
+        {"ch": "吃", "en": "eat", "pi": "chī"},
+        {"ch": "得", "en": "more", "pi": "dé"},
+        {"ch": "再", "en": "even more", "pi": "zài"},
+        {"ch": "多", "en": "many", "pi": "duō"},
+        {"ch": "也", "en": "also", "pi": "yě"},
+        {"ch": "不会", "en": "won't", "pi": "bú huì"},
+        {"ch": "发胖", "en": "gain weight", "pi": "fā pàng"}
+      ]
+    },
+    {
+      "chinese": "你在那一瞬间成了世界众人的敌人。",
+      "english": "In that moment, you became the enemy of everyone in the world.",
+      "pinyin": "nǐ zài nà yī shùn jiān chéng le shì jiè zhòng rén de dí rén。",
+      "words": [
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "在", "en": "in", "pi": "zài"},
+        {"ch": "那", "en": "that", "pi": "nà"},
+        {"ch": "一瞬间", "en": "moment", "pi": "yī shùn jiān"},
+        {"ch": "成了", "en": "became", "pi": "chéng le"},
+        {"ch": "世界", "en": "world", "pi": "shì jiè"},
+        {"ch": "众人", "en": "everyone", "pi": "zhòng rén"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "敌人", "en": "enemy", "pi": "dí rén"}
+      ]
+    }
+  ]
+}

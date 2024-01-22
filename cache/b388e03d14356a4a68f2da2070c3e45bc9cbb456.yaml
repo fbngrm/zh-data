@@ -1,0 +1,37 @@
+{
+  "chinese": "他在书店买了本英文书。",
+  "english": "He bought an English book at the bookstore.",
+  "pinyin": "Tā zài shūdiàn mǎile běn yīngwén shū.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "书店",
+      "en": "bookstore",
+      "pi": "shūdiàn"
+    },
+    {
+      "ch": "买了",
+      "en": "bought",
+      "pi": "mǎile"
+    },
+    {
+      "ch": "本",
+      "en": "an",
+      "pi": "běn"
+    },
+    {
+      "ch": "英文书",
+      "en": "English book",
+      "pi": "yīngwén shū"
+    }
+  ]
+}

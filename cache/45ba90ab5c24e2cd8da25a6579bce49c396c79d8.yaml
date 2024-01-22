@@ -1,0 +1,27 @@
+{
+  "chinese": "他叫什么名字？",
+  "english": "What is his name?",
+  "pinyin": "Tā jiào shénme míngzì?",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "叫",
+      "en": "is called",
+      "pi": "jiào"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míngzì"
+    }
+  ]
+}

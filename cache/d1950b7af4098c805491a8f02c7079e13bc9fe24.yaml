@@ -1,0 +1,42 @@
+{
+  "chinese": "物理和化学你更喜欢哪个？",
+  "english": "Which do you prefer, physics or chemistry?",
+  "pinyin": "wù lǐ hé huà xué nǐ gèng xǐ huān nǎ ge?",
+  "words": [
+    {
+      "ch": "物理",
+      "en": "physics",
+      "pi": "wù lǐ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "化学",
+      "en": "chemistry",
+      "pi": "huà xué"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "更",
+      "en": "prefer",
+      "pi": "gèng"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐ huān"
+    },
+    {
+      "ch": "哪个",
+      "en": "which",
+      "pi": "nǎ ge"
+    }
+  ]
+}

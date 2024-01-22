@@ -1,0 +1,37 @@
+{
+  "chinese": "他问我快不快乐。",
+  "english": "He asked me if I'm happy or not.",
+  "pinyin": "tā wèn wǒ kuài bù kuài lè。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "问",
+      "en": "ask",
+      "pi": "wèn"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "快",
+      "en": "quick",
+      "pi": "kuài"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "快乐",
+      "en": "happy",
+      "pi": "kuài lè"
+    }
+  ]
+}

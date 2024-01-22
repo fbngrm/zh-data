@@ -1,0 +1,42 @@
+{
+  "chinese": "我在银行存了１０００美金。",
+  "english": "I deposited 1000 US dollars in the bank.",
+  "pinyin": "Wǒ zài yínháng cúnle 1000 měijīn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "in/at",
+      "pi": "zài"
+    },
+    {
+      "ch": "银行",
+      "en": "bank",
+      "pi": "yínháng"
+    },
+    {
+      "ch": "存",
+      "en": "deposit",
+      "pi": "cún"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "１０００",
+      "en": "1000",
+      "pi": "yī qiān"
+    },
+    {
+      "ch": "美金",
+      "en": "US dollars",
+      "pi": "měijīn"
+    }
+  ]
+}

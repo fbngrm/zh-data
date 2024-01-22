@@ -1,0 +1,15 @@
+{
+  "chinese": "杰克刷去了他外套上的灰尘。",
+  "english": "Jack brushed off the dust from his jacket.",
+  "pinyin": "jié kè shuā qù le tā wài tào shàng de huī chén.",
+  "words": [
+    {"ch": "杰克", "en": "Jack", "pi": "jié kè"},
+    {"ch": "刷去", "en": "brush off", "pi": "shuā qù"},
+    {"ch": "了", "en": "off", "pi": "le"},
+    {"ch": "他", "en": "his", "pi": "tā"},
+    {"ch": "外套", "en": "jacket", "pi": "wài tào"},
+    {"ch": "上", "en": "from", "pi": "shàng"},
+    {"ch": "的", "en": "the", "pi": "de"},
+    {"ch": "灰尘", "en": "dust", "pi": "huī chén"}
+  ]
+}

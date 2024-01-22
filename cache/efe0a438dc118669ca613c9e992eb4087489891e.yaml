@@ -1,0 +1,32 @@
+{
+  "chinese": "房间里有很多小孩。",
+  "english": "There are many children in the room.",
+  "pinyin": "Fángjiān lǐ yǒu hěnduō xiǎohái.",
+  "words": [
+    {
+      "ch": "房间",
+      "en": "room",
+      "pi": "fángjiān"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have; there is",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "很多",
+      "en": "many",
+      "pi": "hěnduō"
+    },
+    {
+      "ch": "小孩",
+      "en": "children",
+      "pi": "xiǎohái"
+    }
+  ]
+}

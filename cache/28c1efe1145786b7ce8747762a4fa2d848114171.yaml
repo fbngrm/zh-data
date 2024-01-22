@@ -1,0 +1,13 @@
+{
+  "chinese": "汤姆不知道怎样玩得开心。",
+  "english": "Tom doesn't know how to have fun.",
+  "pinyin": "tāng mǔ bù zhī dào zěn yàng wán dé kāi xīn。",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "不知道", "en": "don't know", "pi": "bù zhī dào"},
+    {"ch": "怎样", "en": "how", "pi": "zěn yàng"},
+    {"ch": "玩", "en": "to play", "pi": "wán"},
+    {"ch": "得", "en": "to", "pi": "dé"},
+    {"ch": "开心", "en": "have fun", "pi": "kāi xīn"}
+  ]
+}

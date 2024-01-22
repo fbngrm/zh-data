@@ -1,0 +1,18 @@
+{
+  "chinese": "为什么你不在这里等到我做完为止？",
+  "english": "Why didn't you wait here until I finished?",
+  "pinyin": "wèi shén me nǐ bú zài zhè lǐ děng dào wǒ zuò wán wéi zhǐ?",
+  "words": [
+    {"ch": "为什么", "en": "Why", "pi": "wèi shén me"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "不", "en": "not", "pi": "bú"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "这里", "en": "here", "pi": "zhè lǐ"},
+    {"ch": "等", "en": "wait", "pi": "děng"},
+    {"ch": "到", "en": "until", "pi": "dào"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "做", "en": "do", "pi": "zuò"},
+    {"ch": "完", "en": "finished", "pi": "wán"},
+    {"ch": "为止", "en": "stop", "pi": "wéi zhǐ"}
+  ]
+}

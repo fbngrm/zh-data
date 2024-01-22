@@ -1,0 +1,32 @@
+{
+  "chinese": "他吃得很多。",
+  "english": "He eats a lot.",
+  "pinyin": "tā chī dé hěn duō.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "得",
+      "en": "adverbial particle",
+      "pi": "dé"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "多",
+      "en": "a lot",
+      "pi": "duō"
+    }
+  ]
+}

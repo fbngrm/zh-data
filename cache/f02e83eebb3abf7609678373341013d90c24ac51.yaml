@@ -1,0 +1,37 @@
+{
+  "chinese": "楼下有人在等您。",
+  "english": "Someone is waiting for you downstairs.",
+  "pinyin": "lóu xià yǒu rén zài děng nín.",
+  "words": [
+    {
+      "ch": "楼下",
+      "en": "downstairs",
+      "pi": "lóu xià"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "人",
+      "en": "person",
+      "pi": "rén"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "等",
+      "en": "wait",
+      "pi": "děng"
+    },
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    }
+  ]
+}

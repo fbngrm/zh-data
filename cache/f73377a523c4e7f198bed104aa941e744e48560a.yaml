@@ -1,0 +1,51 @@
+{
+  "sentences": [
+    {
+      "chinese": "你介意送我回家嗎？她說。",
+      "english": "Do you mind sending me home? She said.",
+      "pinyin": "nǐ jièyì sòng wǒ huíjiā ma? tā shuō。",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "介意",
+          "en": "mind",
+          "pi": "jièyì"
+        },
+        {
+          "ch": "送",
+          "en": "send",
+          "pi": "sòng"
+        },
+        {
+          "ch": "我",
+          "en": "me",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "回家",
+          "en": "home",
+          "pi": "huíjiā"
+        },
+        {
+          "ch": "嗎",
+          "en": "?",
+          "pi": "ma"
+        },
+        {
+          "ch": "她",
+          "en": "she",
+          "pi": "tā"
+        },
+        {
+          "ch": "說",
+          "en": "said",
+          "pi": "shuō"
+        }
+      ]
+    }
+  ]
+}

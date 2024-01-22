@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆需要洗他的车。",
+  "english": "Tom needs to wash his car.",
+  "pinyin": "Tāng mǔ xūyào xǐ tā de chē。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "需要",
+      "en": "needs",
+      "pi": "xūyào"
+    },
+    {
+      "ch": "洗",
+      "en": "to wash",
+      "pi": "xǐ"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "车",
+      "en": "car",
+      "pi": "chē"
+    }
+  ]
+}

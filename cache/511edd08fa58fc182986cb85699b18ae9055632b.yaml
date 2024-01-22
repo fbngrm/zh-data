@@ -1,0 +1,17 @@
+{
+  "chinese": "从远处看，那座山像一头大象。",
+  "english": "From a distance, that mountain looks like an elephant.",
+  "pinyin": "Cóng yuǎnchù kàn, nà zuò shān xiàng yītóu dàxiàng.",
+  "words": [
+    {"ch": "从", "en": "From", "pi": "Cóng"},
+    {"ch": "远处", "en": "a distance", "pi": "yuǎnchù"},
+    {"ch": "看", "en": "look", "pi": "kàn"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "那", "en": "that", "pi": "nà"},
+    {"ch": "座", "en": "mountain", "pi": "zuò"},
+    {"ch": "山", "en": "like", "pi": "shān"},
+    {"ch": "像", "en": "an", "pi": "xiàng"},
+    {"ch": "一头", "en": "elephant", "pi": "yītóu"},
+    {"ch": "大象", "en": "big", "pi": "dàxiàng"}
+  ]
+}

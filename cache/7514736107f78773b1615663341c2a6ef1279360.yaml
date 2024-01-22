@@ -1,0 +1,20 @@
+{
+  "chinese": "他用尽全力地拉，但那块大石还是纹丝不动。",
+  "english": "He pulled with all his strength, but that large stone remained unmoved.",
+  "pinyin": "tā yòng jìn quán lì de lā ，dàn nà kuài dà shí hái shì wén sī bù dòng。",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "用尽", "en": "pulled with all his strength", "pi": "yòng jìn"},
+    {"ch": "全力", "en": "strength", "pi": "quán lì"},
+    {"ch": "地", "en": "", "pi": "de"},
+    {"ch": "拉", "en": "pulled", "pi": "lā"},
+    {"ch": "，", "en": "", "pi": ""},
+    {"ch": "但", "en": "but", "pi": "dàn"},
+    {"ch": "那", "en": "that", "pi": "nà"},
+    {"ch": "块", "en": "piece", "pi": "kuài"},
+    {"ch": "大石", "en": "large stone", "pi": "dà shí"},
+    {"ch": "还是", "en": "still", "pi": "hái shì"},
+    {"ch": "纹丝不动", "en": "remained unmoved", "pi": "wén sī bù dòng"},
+    {"ch": "。", "en": "", "pi": ""}
+  ]
+}

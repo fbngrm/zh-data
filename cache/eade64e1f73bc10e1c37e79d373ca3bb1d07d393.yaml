@@ -1,0 +1,15 @@
+{
+  "chinese": "我爸爸不是每天都走路上班的。",
+  "english": "My dad doesn't walk to work every day.",
+  "pinyin": "Wǒ bàba bùshì měitiān dōu zǒulù shàngbān de.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "爸爸", "en": "dad", "pi": "bàba" },
+    { "ch": "不是", "en": "not", "pi": "bùshì" },
+    { "ch": "每天", "en": "every day", "pi": "měitiān" },
+    { "ch": "都", "en": "always", "pi": "dōu" },
+    { "ch": "走路", "en": "walk", "pi": "zǒulù" },
+    { "ch": "上班", "en": "to work", "pi": "shàngbān" },
+    { "ch": "的", "en": "particle indicating possession", "pi": "de" }
+  ]
+}

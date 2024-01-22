@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆说了他什么也没看到。",
+  "english": "Tom said he didn't see anything.",
+  "pinyin": "Tāngmǔ shuōle tā shénme yě méi kàndào.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "说了",
+      "en": "said",
+      "pi": "shuōle"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "什么",
+      "en": "anything",
+      "pi": "shénme"
+    },
+    {
+      "ch": "也",
+      "en": "didn't",
+      "pi": "yě"
+    },
+    {
+      "ch": "没",
+      "en": "not",
+      "pi": "méi"
+    },
+    {
+      "ch": "看到",
+      "en": "see",
+      "pi": "kàndào"
+    }
+  ]
+}

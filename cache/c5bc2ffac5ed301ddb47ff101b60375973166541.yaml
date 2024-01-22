@@ -1,0 +1,37 @@
+{
+  "chinese": "这药对你有好处。",
+  "english": "This medicine is good for you.",
+  "pinyin": "zhè yào duì nǐ yǒu hǎo chù.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "药",
+      "en": "medicine",
+      "pi": "yào"
+    },
+    {
+      "ch": "对",
+      "en": "for",
+      "pi": "duì"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "好处",
+      "en": "good for",
+      "pi": "hǎo chù"
+    }
+  ]
+}

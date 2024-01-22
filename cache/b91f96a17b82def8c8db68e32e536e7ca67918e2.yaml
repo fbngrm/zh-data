@@ -1,0 +1,37 @@
+{
+  "chinese": "这本书是你的吗？",
+  "english": "Is this book yours?",
+  "pinyin": "zhè běn shū shì nǐ de ma?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "书",
+      "en": "is",
+      "pi": "shū"
+    },
+    {
+      "ch": "是",
+      "en": "yours",
+      "pi": "shì"
+    },
+    {
+      "ch": "你的",
+      "en": "?",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "吗",
+      "en": "Is",
+      "pi": "ma?"
+    }
+  ]
+}

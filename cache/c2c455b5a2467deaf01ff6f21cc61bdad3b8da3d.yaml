@@ -1,0 +1,16 @@
+{
+  "chinese": "在过去的五年里人口增长了一倍。",
+  "english": "The population has doubled in the past five years.",
+  "pinyin": "Zài guòqù de wǔ nián lǐ rénkǒu zēngzhǎngle yībèi。",
+  "words": [
+    {"ch": "在", "en": "in/at/on", "pi": "zài"},
+    {"ch": "过去", "en": "past", "pi": "guòqù"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "五年", "en": "five years", "pi": "wǔ nián"},
+    {"ch":"里", "en":"in", "pi":"lǐ"},
+    {"ch": "人口", "en": "population", "pi": "rénkǒu"},
+    {"ch": "增长", "en": "increase/growth", "pi": "zēngzhǎng"},
+    {"ch": "了", "en": "completed action marker", "pi": "le"},
+    {"ch": "一倍", "en": "double", "pi": "yībèi"}
+  ]
+}

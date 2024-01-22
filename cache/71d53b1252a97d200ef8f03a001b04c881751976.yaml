@@ -1,0 +1,32 @@
+{
+  "chinese": "有人请我帮你。",
+  "english": "Someone asked me to help you.",
+  "pinyin": "yǒu rén qǐng wǒ bāng nǐ.",
+  "words": [
+    {
+      "ch": "有人",
+      "en": "someone",
+      "pi": "yǒu rén"
+    },
+    {
+      "ch": "请",
+      "en": "ask",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "帮",
+      "en": "to help",
+      "pi": "bāng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    }
+  ]
+}

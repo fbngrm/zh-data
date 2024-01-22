@@ -1,0 +1,52 @@
+{
+  "chinese": "我每分钟能打五十个英文字。",
+  "english": "I can type fifty English words per minute.",
+  "pinyin": "wǒ měi fēnzhōng néng dǎ wǔshí gè yīngwén zì.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "每",
+      "en": "every",
+      "pi": "měi"
+    },
+    {
+      "ch": "分钟",
+      "en": "minute",
+      "pi": "fēnzhōng"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "打",
+      "en": "type",
+      "pi": "dǎ"
+    },
+    {
+      "ch": "五十",
+      "en": "fifty",
+      "pi": "wǔshí"
+    },
+    {
+      "ch": "个",
+      "en": "units",
+      "pi": "gè"
+    },
+    {
+      "ch": "英文",
+      "en": "English",
+      "pi": "yīngwén"
+    },
+    {
+      "ch": "字",
+      "en": "characters",
+      "pi": "zì"
+    }
+  ]
+}

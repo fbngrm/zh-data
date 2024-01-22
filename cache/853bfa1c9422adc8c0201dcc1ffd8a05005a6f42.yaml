@@ -1,0 +1,27 @@
+{
+  "chinese": "房间里没有任何人。",
+  "english": "There is no one in the room.",
+  "pinyin": "fáng jiān lǐ méi yǒu rèn hé rén。",
+  "words": [
+    {
+      "ch": "房间里",
+      "en": "in the room",
+      "pi": "fáng jiān lǐ"
+    },
+    {
+      "ch": "没有",
+      "en": "no",
+      "pi": "méi yǒu"
+    },
+    {
+      "ch": "任何",
+      "en": "any",
+      "pi": "rèn hé"
+    },
+    {
+      "ch": "人",
+      "en": "person",
+      "pi": "rén"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "chinese": "我相信你会做的很棒的。",
+  "english": "I believe you will do great.",
+  "pinyin": "wǒ xiāng xìn nǐ huì zuò de hěn bàng de。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "相信", "en": "believe", "pi": "xiāng xìn"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "做", "en": "do", "pi": "zuò"},
+    {"ch": "的", "en": "great", "pi": "de"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "棒", "en": "good", "pi": "bàng"},
+    {"ch": "的", "en": "very", "pi": "de"}
+  ]
+}

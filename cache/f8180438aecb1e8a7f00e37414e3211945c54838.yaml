@@ -1,0 +1,47 @@
+{
+  "chinese": "这是她读过最有趣的书。",
+  "english": "This is the most interesting book she has ever read.",
+  "pinyin": "zhè shì tā dú guò zuì yǒuqù de shū.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "读过",
+      "en": "has read",
+      "pi": "dú guò"
+    },
+    {
+      "ch": "最",
+      "en": "most",
+      "pi": "zuì"
+    },
+    {
+      "ch": "有趣",
+      "en": "interesting",
+      "pi": "yǒuqù"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    }
+  ]
+}

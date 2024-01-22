@@ -1,0 +1,27 @@
+{
+  "chinese": "我昨天去了公园。",
+  "english": "I went to the park yesterday.",
+  "pinyin": "wǒ zuótiān qùle gōngyuán.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "去了",
+      "en": "went",
+      "pi": "qùle"
+    },
+    {
+      "ch": "公园",
+      "en": "park",
+      "pi": "gōngyuán"
+    }
+  ]
+}

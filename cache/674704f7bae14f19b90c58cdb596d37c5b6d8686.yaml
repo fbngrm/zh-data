@@ -1,0 +1,32 @@
+{
+  "chinese": "我在星期日不工作。",
+  "english": "I don't work on Sunday.",
+  "pinyin": "wǒ zài xīng qí rì bù gōng zuò.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "星期日",
+      "en": "Sunday",
+      "pi": "xīng qī rì"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "工作",
+      "en": "work",
+      "pi": "gōng zuò"
+    }
+  ]
+}

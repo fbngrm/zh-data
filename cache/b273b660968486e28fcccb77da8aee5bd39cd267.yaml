@@ -1,0 +1,27 @@
+{
+  "chinese": "我只有５０００日元。",
+  "english": "I only have 5000 yen.",
+  "pinyin": "wǒ zhǐ yǒu wǔ qiān rì yuán。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "只有",
+      "en": "only have",
+      "pi": "zhǐ yǒu"
+    },
+    {
+      "ch": "５０００",
+      "en": "5000",
+      "pi": "wǔ qiān"
+    },
+    {
+      "ch": "日元",
+      "en": "yen",
+      "pi": "rì yuán"
+    }
+  ]
+}

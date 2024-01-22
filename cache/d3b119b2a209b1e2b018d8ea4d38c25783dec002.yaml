@@ -1,0 +1,42 @@
+{
+  "chinese": "这台自行车是我弟弟的。",
+  "english": "This bicycle belongs to my younger brother.",
+  "pinyin": "zhè tái zì xíng chē shì wǒ dì dì de。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "台",
+      "en": "measure word",
+      "pi": "tái"
+    },
+    {
+      "ch": "自行车",
+      "en": "bicycle",
+      "pi": "zì xíng chē"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我",
+      "en": "my",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "弟弟",
+      "en": "younger brother",
+      "pi": "dì dì"
+    },
+    {
+      "ch": "的",
+      "en": "belongs to",
+      "pi": "de"
+    }
+  ]
+}

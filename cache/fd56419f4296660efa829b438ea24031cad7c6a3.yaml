@@ -1,0 +1,15 @@
+{
+  "chinese": "这是我年轻时候住的房子。",
+  "english": "This is the house I lived in when I was young.",
+  "pinyin": "zhè shì wǒ niánqīng shíhòu zhù de fángzi.",
+  "words": [
+    { "ch": "这", "en": "This", "pi": "zhè" },
+    { "ch": "是", "en": "is", "pi": "shì" },
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "年轻", "en": "young", "pi": "niánqīng" },
+    { "ch": "时候", "en": "when", "pi": "shíhòu" },
+    { "ch": "住", "en": "lived", "pi": "zhù" },
+    { "ch": "的", "en": "in", "pi": "de" },
+    { "ch": "房子", "en": "house", "pi": "fángzi" }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "狮子是丛林的王。",
+  "english": "The lion is the king of the jungle.",
+  "pinyin": "shī zi shì cóng lín de wáng。",
+  "words": [
+    {
+      "ch": "狮子",
+      "en": "lion",
+      "pi": "shī zi"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "丛林",
+      "en": "jungle",
+      "pi": "cóng lín"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "王",
+      "en": "king",
+      "pi": "wáng"
+    }
+  ]
+}

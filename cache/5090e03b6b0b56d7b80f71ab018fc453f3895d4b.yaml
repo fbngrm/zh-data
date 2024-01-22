@@ -1,0 +1,63 @@
+{
+  "sentences": [
+    {
+      "chinese": "不要和我开玩笑。",
+      "english": "Don't joke with me.",
+      "pinyin": "bú yào hé wǒ kāi wánxiào。",
+      "words": [
+        {
+          "ch": "不要",
+          "en": "Don't",
+          "pi": "bú yào"
+        },
+        {
+          "ch": "和",
+          "en": "with",
+          "pi": "hé"
+        },
+        {
+          "ch": "我",
+          "en": "me",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "开玩笑",
+          "en": "joke",
+          "pi": "kāi wánxiào"
+        }
+      ]
+    },
+    {
+      "chinese": "我是很严肃的。",
+      "english": "I am very serious.",
+      "pinyin": "wǒ shì hěn yánsù de。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "是",
+          "en": "am",
+          "pi": "shì"
+        },
+        {
+          "ch": "很",
+          "en": "very",
+          "pi": "hěn"
+        },
+        {
+          "ch": "严肃",
+          "en": "serious",
+          "pi": "yánsù"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": "de"
+        }
+      ]
+    }
+  ]
+}

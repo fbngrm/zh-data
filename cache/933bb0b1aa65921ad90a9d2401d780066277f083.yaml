@@ -1,0 +1,16 @@
+{
+  "chinese": "他们在雪地里找到了熊的脚印。",
+  "english": "They found bear footprints in the snow.",
+  "pinyin": "Tāmen zài xuě dì lǐ zhǎodào le xióng de jiǎo yìn.",
+  "words": [
+    { "ch": "他们", "en": "They", "pi": "tāmen" },
+    { "ch": "在", "en": "in", "pi": "zài" },
+    { "ch": "雪地", "en": "snow", "pi": "xuě dì" },
+    { "ch": "里", "en": "inside", "pi": "lǐ" },
+    { "ch": "找到", "en": "found", "pi": "zhǎodào" },
+    { "ch": "了", "en": "", "pi": "le" },
+    { "ch": "熊", "en": "bear", "pi": "xióng" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "脚印", "en": "footprints", "pi": "jiǎo yìn" }
+  ]
+}

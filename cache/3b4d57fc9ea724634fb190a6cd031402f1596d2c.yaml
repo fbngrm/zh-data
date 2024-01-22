@@ -1,0 +1,42 @@
+{
+  "chinese": "这个病人正在稳定地康复中。",
+  "english": "This patient is in stable recovery.",
+  "pinyin": "zhè gè bìng rén zhèng zài wěn dìng dì kāng fù zhōng。",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "病人",
+      "en": "patient",
+      "pi": "bìng rén"
+    },
+    {
+      "ch": "正在",
+      "en": "is",
+      "pi": "zhèng zài"
+    },
+    {
+      "ch": "稳定",
+      "en": "stable",
+      "pi": "wěn dìng"
+    },
+    {
+      "ch": "地",
+      "en": "",
+      "pi": "dì"
+    },
+    {
+      "ch": "康复",
+      "en": "recovery",
+      "pi": "kāng fù"
+    },
+    {
+      "ch": "中",
+      "en": "in",
+      "pi": "zhōng"
+    }
+  ]
+}

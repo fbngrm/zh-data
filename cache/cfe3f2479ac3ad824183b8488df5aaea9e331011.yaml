@@ -1,0 +1,52 @@
+{
+  "chinese": "请问你能不在房间里吸烟吗？",
+  "english": "Can you not smoke in the room, please?",
+  "pinyin": "qǐng wèn nǐ néng bù zài fáng jiān lǐ xī yān ma?",
+  "words": [
+    {
+      "ch": "请问",
+      "en": "Can I ask",
+      "pi": "qǐng wèn"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "房间",
+      "en": "room",
+      "pi": "fáng jiān"
+    },
+    {
+      "ch": "里",
+      "en": "inside",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "吸烟",
+      "en": "smoke",
+      "pi": "xī yān"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

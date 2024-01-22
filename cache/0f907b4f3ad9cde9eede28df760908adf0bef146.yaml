@@ -1,0 +1,37 @@
+{
+  "chinese": "她在床上躺了下来。",
+  "english": "She lay down on the bed.",
+  "pinyin": "tā zài chuáng shàng tǎng le xià lái。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "在",
+      "en": "at/on/in",
+      "pi": "zài"
+    },
+    {
+      "ch": "床上",
+      "en": "on the bed",
+      "pi": "chuáng shàng"
+    },
+    {
+      "ch": "躺",
+      "en": "lie down",
+      "pi": "tǎng"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "下来",
+      "en": "down",
+      "pi": "xià lái"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "sentences": [
+    {
+      "chinese": "刚开始的时候你可能不会喜欢这个啤酒。",
+      "english": "At first, you may not like this beer.",
+      "pinyin": "gāng kāi shǐ de shí hòu nǐ kě néng bú huì xǐ huān zhè gè pí jiǔ。",
+      "words": [
+        {
+          "ch": "刚开始",
+          "en": "At first",
+          "pi": "gāng kāi shǐ"
+        },
+        {
+          "ch": "的时候",
+          "en": "time",
+          "pi": "de shí hòu"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "可能",
+          "en": "may",
+          "pi": "kě néng"
+        },
+        {
+          "ch": "不会",
+          "en": "not",
+          "pi": "bú huì"
+        },
+        {
+          "ch": "喜欢",
+          "en": "like",
+          "pi": "xǐ huān"
+        },
+        {
+          "ch": "这个",
+          "en": "this",
+          "pi": "zhè gè"
+        },
+        {
+          "ch": "啤酒",
+          "en": "beer",
+          "pi": "pí jiǔ"
+        }
+      ]
+    },
+    {
+      "chinese": "这是需要多次品尝去习惯它的口味。",
+      "english": "It takes multiple tastings to get used to its taste.",
+      "pinyin": "zhè shì xū yào duō cì pǐn cháng qù xí guàn tā de kǒu wèi。",
+      "words": [
+        {
+          "ch": "这是",
+          "en": "This is",
+          "pi": "zhè shì"
+        },
+        {
+          "ch": "需要",
+          "en": "takes",
+          "pi": "xū yào"
+        },
+        {
+          "ch": "多次",
+          "en": "multiple",
+          "pi": "duō cì"
+        },
+        {
+          "ch": "品尝",
+          "en": "tastings",
+          "pi": "pǐn cháng"
+        },
+        {
+          "ch": "去",
+          "en": "to",
+          "pi": "qù"
+        },
+        {
+          "ch": "习惯",
+          "en": "get used to",
+          "pi": "xí guàn"
+        },
+        {
+          "ch": "它",
+          "en": "its",
+          "pi": "tā"
+        },
+        {
+          "ch": "的口味",
+          "en": "taste",
+          "pi": "dē kǒu wèi"
+        }
+      ]
+    }
+  ]
+}

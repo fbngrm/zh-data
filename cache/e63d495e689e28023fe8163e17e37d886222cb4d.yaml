@@ -1,0 +1,32 @@
+{
+  "chinese": "你订阅了什么报纸?",
+  "english": "What newspapers have you subscribed to?",
+  "pinyin": "Nǐ dìngyuè le shénme bàozhǐ?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "订阅",
+      "en": "subscribe",
+      "pi": "dìngyuè"
+    },
+    {
+      "ch": "了",
+      "en": "have",
+      "pi": "le"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "报纸",
+      "en": "newspapers",
+      "pi": "bàozhǐ"
+    }
+  ]
+}

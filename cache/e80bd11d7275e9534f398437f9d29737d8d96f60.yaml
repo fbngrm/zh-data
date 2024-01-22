@@ -1,0 +1,32 @@
+{
+  "chinese": "Ｔｏｍ昨天看了电视。",
+  "english": "Tom watched TV yesterday.",
+  "pinyin": "Tom zuótiān kàn le diànshì.",
+  "words": [
+    {
+      "ch": "Ｔｏｍ",
+      "en": "Tom",
+      "pi": "Tom"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "看",
+      "en": "watch",
+      "pi": "kàn"
+    },
+    {
+      "ch": "了",
+      "en": "did",
+      "pi": "le"
+    },
+    {
+      "ch": "电视",
+      "en": "TV",
+      "pi": "diànshì"
+    }
+  ]
+}

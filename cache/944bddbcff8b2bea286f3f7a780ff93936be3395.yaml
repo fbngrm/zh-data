@@ -1,0 +1,15 @@
+{
+  "chinese": "请在建筑的入口处等我。",
+  "english": "Please wait for me at the entrance of the building.",
+  "pinyin": "qǐng zài jiànzhù de rùkǒu chù děng wǒ。",
+  "words": [
+    {"ch": "请", "en": "Please", "pi": "qǐng"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "建筑", "en": "building", "pi": "jiànzhù"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "入口", "en": "entrance", "pi": "rùkǒu"},
+    {"ch": "处", "en": "place", "pi": "chù"},
+    {"ch": "等", "en": "wait", "pi": "děng"},
+    {"ch": "我", "en": "me", "pi": "wǒ"}
+  ]
+}

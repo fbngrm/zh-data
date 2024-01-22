@@ -1,0 +1,37 @@
+{
+  "chinese": "机密文件被藏起来了。",
+  "english": "The confidential documents have been hidden.",
+  "pinyin": "jīmì wénjiàn bèi cáng qǐlái le.",
+  "words": [
+    {
+      "ch": "机密",
+      "en": "confidential",
+      "pi": "jīmì"
+    },
+    {
+      "ch": "文件",
+      "en": "documents",
+      "pi": "wénjiàn"
+    },
+    {
+      "ch": "被",
+      "en": "by",
+      "pi": "bèi"
+    },
+    {
+      "ch": "藏",
+      "en": "hidden",
+      "pi": "cáng"
+    },
+    {
+      "ch": "起来",
+      "en": "been",
+      "pi": "qǐlái"
+    },
+    {
+      "ch": "了",
+      "en": "have",
+      "pi": "le"
+    }
+  ]
+}

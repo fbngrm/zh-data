@@ -1,0 +1,32 @@
+{
+  "chinese": "我晚上没做梦。",
+  "english": "I didn't dream last night.",
+  "pinyin": "wǒ wǎn shàng méi zuò mèng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "晚上",
+      "en": "night",
+      "pi": "wǎn shàng"
+    },
+    {
+      "ch": "没",
+      "en": "didn't",
+      "pi": "méi"
+    },
+    {
+      "ch": "做",
+      "en": "dream",
+      "pi": "zuò"
+    },
+    {
+      "ch": "梦",
+      "en": "dream",
+      "pi": "mèng"
+    }
+  ]
+}

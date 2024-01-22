@@ -1,0 +1,49 @@
+[
+   {
+      "chinese": "张老师每天在教室教学生中文。",
+      "english": "Teacher Zhang teaches Chinese to students in the classroom every day.",
+      "pinyin": "Zhāng lǎoshī měitiān zài jiàoshì jiào xuéshēng zhōngwén.",
+      "words": [
+         {
+            "ch": "张",
+            "en": "Teacher Zhang",
+            "pi": "Zhāng"
+         },
+         {
+            "ch": "老师",
+            "en": "teacher",
+            "pi": "lǎoshī"
+         },
+         {
+            "ch": "每天",
+            "en": "every day",
+            "pi": "měitiān"
+         },
+         {
+            "ch": "在",
+            "en": "in",
+            "pi": "zài"
+         },
+         {
+            "ch": "教室",
+            "en": "classroom",
+            "pi": "jiàoshì"
+         },
+         {
+            "ch": "教",
+            "en": "teach",
+            "pi": "jiào"
+         },
+         {
+            "ch": "学生",
+            "en": "students",
+            "pi": "xuéshēng"
+         },
+         {
+            "ch": "中文",
+            "en": "Chinese",
+            "pi": "zhōngwén"
+         }
+      ]
+   }
+]

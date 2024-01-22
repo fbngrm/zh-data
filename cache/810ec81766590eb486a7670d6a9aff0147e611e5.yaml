@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆想去还欠的钱。",
+  "english": "Tom wants to repay the money he owes.",
+  "pinyin": "Tāng mǔ xiǎng qù huán qiàn de qián.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "想去",
+      "en": "wants to go",
+      "pi": "xiǎng qù"
+    },
+    {
+      "ch": "还",
+      "en": "to repay",
+      "pi": "huán"
+    },
+    {
+      "ch": "欠的",
+      "en": "owed",
+      "pi": "qiàn de"
+    },
+    {
+      "ch": "钱",
+      "en": "money",
+      "pi": "qián"
+    }
+  ]
+}

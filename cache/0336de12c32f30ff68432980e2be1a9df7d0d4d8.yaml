@@ -1,0 +1,14 @@
+{
+  "chinese": "长途步行后我觉得饿了。",
+  "english": "After a long walk, I feel hungry.",
+  "pinyin": "cháng tú bù xíng hòu wǒ jué de è le。",
+  "words": [
+    {"ch": "长途", "en": "long", "pi": "cháng tú"},
+    {"ch": "步行", "en": "walk", "pi": "bù xíng"},
+    {"ch": "后", "en": "after", "pi": "hòu"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "觉得", "en": "feel", "pi": "jué de"},
+    {"ch": "饿", "en": "hungry", "pi": "è"},
+    {"ch": "了", "en": "了", "pi": "le"}
+  ]
+}

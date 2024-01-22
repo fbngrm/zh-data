@@ -1,0 +1,63 @@
+{
+  "sentences": [
+    {
+      "chinese": "实验构造是怎样的？",
+      "english": "What is experimental design like?",
+      "pinyin": "Shíyàn gòuzào shì zěnyàng de?",
+      "words": [
+        {
+          "ch": "实验构造",
+          "en": "experimental design",
+          "pi": "shíyàn gòuzào"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "怎样",
+          "en": "like",
+          "pi": "zěnyàng"
+        },
+        {
+          "ch": "的",
+          "en": "?",
+          "pi": "de"
+        }
+      ]
+    },
+    {
+      "chinese": "它们是如何相连接的？",
+      "english": "How are they connected?",
+      "pinyin": "Tāmen shì rúhé xiāng liánjiē de?",
+      "words": [
+        {
+          "ch": "它们",
+          "en": "they",
+          "pi": "tāmen"
+        },
+        {
+          "ch": "是",
+          "en": "are",
+          "pi": "shì"
+        },
+        {
+          "ch": "如何",
+          "en": "how",
+          "pi": "rúhé"
+        },
+        {
+          "ch": "相连接",
+          "en": "connected",
+          "pi": "xiāng liánjiē"
+        },
+        {
+          "ch": "的",
+          "en": "?",
+          "pi": "de"
+        }
+      ]
+    }
+  ]
+}

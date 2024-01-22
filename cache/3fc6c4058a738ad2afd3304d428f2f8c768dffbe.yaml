@@ -1,0 +1,32 @@
+{
+  "chinese": "看起来这都是天书。",
+  "english": "This all looks like heavenly script.",
+  "pinyin": "kàn qǐ lái zhè dōu shì tiānshū。",
+  "words": [
+    {
+      "ch": "看起来",
+      "en": "look",
+      "pi": "kàn qǐ lái"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "天书",
+      "en": "heavenly script",
+      "pi": "tiānshū"
+    }
+  ]
+}

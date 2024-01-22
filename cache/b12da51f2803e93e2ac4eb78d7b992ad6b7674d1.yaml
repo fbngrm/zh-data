@@ -1,0 +1,42 @@
+{
+  "chinese": "你又犯了相同的错误。",
+  "english": "You made the same mistake again.",
+  "pinyin": "nǐ yòu fàn le xiāng tóng de cuò wù。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "又",
+      "en": "again",
+      "pi": "yòu"
+    },
+    {
+      "ch": "犯",
+      "en": "make",
+      "pi": "fàn"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "相同",
+      "en": "same",
+      "pi": "xiāng tóng"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "错误",
+      "en": "mistake",
+      "pi": "cuò wù"
+    }
+  ]
+}

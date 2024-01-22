@@ -1,0 +1,42 @@
+{
+  "chinese": "我七点钟必须在那里。",
+  "english": "I must be there at 7 o'clock.",
+  "pinyin": "wǒ qī diǎn zhōng bìxū zài nàlǐ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "七",
+      "en": "seven",
+      "pi": "qī"
+    },
+    {
+      "ch": "点",
+      "en": "o'clock",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "钟",
+      "en": "clock",
+      "pi": "zhōng"
+    },
+    {
+      "ch": "必须",
+      "en": "must",
+      "pi": "bìxū"
+    },
+    {
+      "ch": "在",
+      "en": "be at",
+      "pi": "zài"
+    },
+    {
+      "ch": "那里",
+      "en": "there",
+      "pi": "nàlǐ"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我往右拐了。",
+  "english": "I turned right.",
+  "pinyin": "wǒ wǎng yòu guǎi le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "往",
+      "en": "towards",
+      "pi": "wǎng"
+    },
+    {
+      "ch": "右",
+      "en": "right",
+      "pi": "yòu"
+    },
+    {
+      "ch": "拐",
+      "en": "turn",
+      "pi": "guǎi"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

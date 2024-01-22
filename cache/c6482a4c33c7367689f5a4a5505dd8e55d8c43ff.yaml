@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆知道玛丽做了甚么。",
+  "english": "Tom knew what Mary did.",
+  "pinyin": "Tāng mǔ zhī dào mǎ lì zuò le shén me.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "知道",
+      "en": "knew",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "做了",
+      "en": "did",
+      "pi": "zuò le"
+    },
+    {
+      "ch": "甚么",
+      "en": "what",
+      "pi": "shén me"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "她的玩具是被她妹妹弄坏的。",
+  "english": "Her toy was broken by her younger sister.",
+  "pinyin": "tā de wán jù shì bèi tā mèi mei nòng huài de.",
+  "words": [
+    {
+      "ch": "她的",
+      "en": "her",
+      "pi": "tā de"
+    },
+    {
+      "ch": "玩具",
+      "en": "toy",
+      "pi": "wán jù"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "被",
+      "en": "by",
+      "pi": "bèi"
+    },
+    {
+      "ch": "她妹妹",
+      "en": "her younger sister",
+      "pi": "tā mèi mei"
+    },
+    {
+      "ch": "弄坏",
+      "en": "broken",
+      "pi": "nòng huài"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    }
+  ]
+}

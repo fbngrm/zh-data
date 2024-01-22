@@ -1,0 +1,32 @@
+{
+  "chinese": "看不到任何一棵树。",
+  "english": "Can't see any trees.",
+  "pinyin": "kàn bú dào rèn hé yī kē shù.",
+  "words": [
+    {
+      "ch": "看",
+      "en": "see",
+      "pi": "kàn"
+    },
+    {
+      "ch": "不到",
+      "en": "can't reach",
+      "pi": "bú dào"
+    },
+    {
+      "ch": "任何",
+      "en": "any",
+      "pi": "rèn hé"
+    },
+    {
+      "ch": "一棵",
+      "en": "a",
+      "pi": "yī kē"
+    },
+    {
+      "ch": "树",
+      "en": "tree",
+      "pi": "shù"
+    }
+  ]
+}

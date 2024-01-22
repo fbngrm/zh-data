@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆在晚会玩的很开心。",
+  "english": "Tom is having a lot of fun at the party.",
+  "pinyin": "tāng mǔ zài wǎn huì wán de hěn kāi xīn。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "晚会",
+      "en": "party",
+      "pi": "wǎn huì"
+    },
+    {
+      "ch": "玩",
+      "en": "having",
+      "pi": "wán"
+    },
+    {
+      "ch": "的",
+      "en": "a lot of",
+      "pi": "de"
+    },
+    {
+      "ch": "很",
+      "en": "fun",
+      "pi": "hěn"
+    },
+    {
+      "ch": "开心",
+      "en": "happy",
+      "pi": "kāi xīn"
+    }
+  ]
+}

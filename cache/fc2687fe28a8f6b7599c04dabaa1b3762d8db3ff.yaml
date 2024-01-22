@@ -1,0 +1,37 @@
+{
+  "chinese": "小心不要在单行道逆向行驶。",
+  "english": "Be careful not to drive in the opposite direction on a one-way street.",
+  "pinyin": "xiǎo xīn bú yào zài dān xíng dào nì xiàng xíng shǐ。",
+  "words": [
+    {
+      "ch": "小心",
+      "en": "Be careful",
+      "pi": "xiǎo xīn"
+    },
+    {
+      "ch": "不要",
+      "en": "not to",
+      "pi": "bú yào"
+    },
+    {
+      "ch": "在",
+      "en": "on",
+      "pi": "zài"
+    },
+    {
+      "ch": "单行道",
+      "en": "one-way street",
+      "pi": "dān xíng dào"
+    },
+    {
+      "ch": "逆向",
+      "en": "opposite direction",
+      "pi": "nì xiàng"
+    },
+    {
+      "ch": "行驶",
+      "en": "drive",
+      "pi": "xíng shǐ"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "chinese": "你吃不喜欢的食物会消化不良。",
+  "english": "Eating food you don't like can cause indigestion.",
+  "pinyin": "nǐ chī bù xǐhuān de shíwù huì xiāohuà bùliáng.",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "吃", "en": "eat", "pi": "chī"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "喜欢", "en": "like", "pi": "xǐhuān"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "食物", "en": "food", "pi": "shíwù"},
+    {"ch": "会", "en": "can", "pi": "huì"},
+    {"ch": "消化", "en": "digestion", "pi": "xiāohuà"},
+    {"ch": "不良", "en": "indigestion", "pi": "bùliáng"}
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我觉得你新的头发颜色好看。",
+  "english": "I think your new hair color looks good.",
+  "pinyin": "wǒ juéde nǐ xīn de tóufǎ yánsè hǎokàn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "觉得",
+      "en": "think",
+      "pi": "juéde"
+    },
+    {
+      "ch": "你",
+      "en": "your",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "新的",
+      "en": "new",
+      "pi": "xīn de"
+    },
+    {
+      "ch": "头发",
+      "en": "hair",
+      "pi": "tóufa"
+    },
+    {
+      "ch": "颜色",
+      "en": "color",
+      "pi": "yánsè"
+    },
+    {
+      "ch": "好看",
+      "en": "looks good",
+      "pi": "hǎokàn"
+    }
+  ]
+}

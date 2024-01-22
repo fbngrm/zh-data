@@ -1,0 +1,32 @@
+{
+  "chinese": "这些钱都不是你的。",
+  "english": "This money is not yours.",
+  "pinyin": "zhè xiē qián dōu bú shì nǐ de.",
+  "words": [
+    {
+      "ch": "这些",
+      "en": "these",
+      "pi": "zhè xiē"
+    },
+    {
+      "ch": "钱",
+      "en": "money",
+      "pi": "qián"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "不是",
+      "en": "not",
+      "pi": "bú shì"
+    },
+    {
+      "ch": "你的",
+      "en": "yours",
+      "pi": "nǐ de"
+    }
+  ]
+}

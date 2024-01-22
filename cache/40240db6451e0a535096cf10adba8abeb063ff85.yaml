@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆不愿意和玛丽一起工作。",
+  "english": "Tom doesn't want to work with Mary.",
+  "pinyin": "Tāng mǔ bù yuànyì hé Mǎlì yīqǐ gōngzuò.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "不",
+      "en": "doesn't",
+      "pi": "bù"
+    },
+    {
+      "ch": "愿意",
+      "en": "want",
+      "pi": "yuànyì"
+    },
+    {
+      "ch": "和",
+      "en": "to",
+      "pi": "hé"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎlì"
+    },
+    {
+      "ch": "一起",
+      "en": "together",
+      "pi": "yīqǐ"
+    },
+    {
+      "ch": "工作",
+      "en": "work",
+      "pi": "gōngzuò"
+    }
+  ]
+}

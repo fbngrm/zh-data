@@ -1,0 +1,13 @@
+{
+  "chinese": "你的行为引起了许多的麻烦。",
+  "english": "Your behavior has caused a lot of trouble.",
+  "pinyin": "nǐ de xíngwéi yǐnqǐle xǔduō de máfan。",
+  "words": [
+    {"ch": "你的", "en": "Your", "pi": "nǐ de"},
+    {"ch": "行为", "en": "behavior", "pi": "xíngwéi"},
+    {"ch": "引起", "en": "cause", "pi": "yǐnqǐ"},
+    {"ch": "了", "en": "has", "pi": "le"},
+    {"ch": "许多的", "en": "a lot of", "pi": "xǔduō de"},
+    {"ch": "麻烦", "en": "trouble", "pi": "máfan"}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chinese": "我喜欢柚子和橘子。",
+  "english": "I like pomelos and oranges.",
+  "pinyin": "wǒ xǐhuān yòuzi hé júzi.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "喜欢", "en": "like", "pi": "xǐhuān"},
+    {"ch": "柚子", "en": "pomelo", "pi": "yòuzi"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "橘子", "en": "orange", "pi": "júzi"}
+  ]
+}

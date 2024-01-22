@@ -1,0 +1,52 @@
+{
+  "chinese": "你坐火车从北京到你的老家吗？",
+  "english": "Are you taking the train from Beijing to your hometown?",
+  "pinyin": "nǐ zuò huǒchē cóng Běijīng dào nǐ de lǎojiā ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "坐",
+      "en": "take (a mode of transportation)",
+      "pi": "zuò"
+    },
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒchē"
+    },
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "北京",
+      "en": "Beijing",
+      "pi": "Běijīng"
+    },
+    {
+      "ch": "到",
+      "en": "to",
+      "pi": "dào"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "老家",
+      "en": "hometown",
+      "pi": "lǎojiā"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

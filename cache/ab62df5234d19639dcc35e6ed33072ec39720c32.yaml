@@ -1,0 +1,32 @@
+{
+  "chinese": "我在本周日上班。",
+  "english": "I will work this Sunday.",
+  "pinyin": "wǒ zài běn zhōu rì shàng bān。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "本",
+      "en": "this",
+      "pi": "běn"
+    },
+    {
+      "ch": "周日",
+      "en": "Sunday",
+      "pi": "zhōu rì"
+    },
+    {
+      "ch": "上班",
+      "en": "work",
+      "pi": "shàng bān"
+    }
+  ]
+}

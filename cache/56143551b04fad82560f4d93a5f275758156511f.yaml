@@ -1,0 +1,42 @@
+{
+  "chinese": "不论白猫黑猫，抓到老鼠就是好猫！",
+  "english": "No matter if it's a white cat or a black cat, as long as it catches mice, it's a good cat!",
+  "pinyin": "bù lùn bái māo hēi māo, zhuā dào lǎo shǔ jiù shì hǎo māo!",
+  "words": [
+    {
+      "ch": "不论",
+      "en": "no matter",
+      "pi": "bù lùn"
+    },
+    {
+      "ch": "白猫",
+      "en": "white cat",
+      "pi": "bái māo"
+    },
+    {
+      "ch": "黑猫",
+      "en": "black cat",
+      "pi": "hēi māo"
+    },
+    {
+      "ch": "抓到",
+      "en": "catch",
+      "pi": "zhuā dào"
+    },
+    {
+      "ch": "老鼠",
+      "en": "mouse",
+      "pi": "lǎo shǔ"
+    },
+    {
+      "ch": "就是",
+      "en": "is",
+      "pi": "jiù shì"
+    },
+    {
+      "ch": "好猫",
+      "en": "good cat",
+      "pi": "hǎo māo"
+    }
+  ]
+}

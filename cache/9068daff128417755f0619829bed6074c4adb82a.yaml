@@ -1,0 +1,42 @@
+{
+  "chinese": "食物的味道让我饿了。",
+  "english": "The taste of the food makes me hungry.",
+  "pinyin": "shí wù de wèi dào ràng wǒ è le。",
+  "words": [
+    {
+      "ch": "食物",
+      "en": "food",
+      "pi": "shí wù"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "味道",
+      "en": "taste",
+      "pi": "wèi dào"
+    },
+    {
+      "ch": "让",
+      "en": "make",
+      "pi": "ràng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "饿",
+      "en": "hungry",
+      "pi": "è"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

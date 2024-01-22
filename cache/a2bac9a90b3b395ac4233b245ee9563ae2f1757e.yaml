@@ -1,0 +1,37 @@
+{
+  "chinese": "由于天气变差，出发延迟了。",
+  "english": "Due to the worsening weather, the departure was delayed.",
+  "pinyin": "yóu yú tiān qì biàn chà, chū fā yán chí le。",
+  "words": [
+    {
+      "ch": "由于",
+      "en": "Due to",
+      "pi": "yóu yú"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiān qì"
+    },
+    {
+      "ch": "变差",
+      "en": "worsening",
+      "pi": "biàn chà"
+    },
+    {
+      "ch": "出发",
+      "en": "departure",
+      "pi": "chū fā"
+    },
+    {
+      "ch": "延迟",
+      "en": "delayed",
+      "pi": "yán chí"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

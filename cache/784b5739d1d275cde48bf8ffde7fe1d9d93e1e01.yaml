@@ -1,0 +1,37 @@
+{
+  "chinese": "我在暑假里早晨学习。",
+  "english": "I study in the morning during summer vacation.",
+  "pinyin": "wǒ zài shǔjià lǐ zǎochén xuéxí。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "暑假",
+      "en": "summer vacation",
+      "pi": "shǔjià"
+    },
+    {
+      "ch": "里",
+      "en": "during",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "早晨",
+      "en": "morning",
+      "pi": "zǎochén"
+    },
+    {
+      "ch": "学习",
+      "en": "study",
+      "pi": "xuéxí"
+    }
+  ]
+}

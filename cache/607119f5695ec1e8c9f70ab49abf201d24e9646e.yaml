@@ -1,0 +1,32 @@
+{
+  "chinese": "他向那位女士问好。",
+  "english": "He said hello to that woman.",
+  "pinyin": "tā xiàng nà wèi nǚshì wènhǎo.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "向",
+      "en": "to",
+      "pi": "xiàng"
+    },
+    {
+      "ch": "那位",
+      "en": "that",
+      "pi": "nà wèi"
+    },
+    {
+      "ch": "女士",
+      "en": "woman",
+      "pi": "nǚshì"
+    },
+    {
+      "ch": "问好",
+      "en": "said hello",
+      "pi": "wènhǎo"
+    }
+  ]
+}

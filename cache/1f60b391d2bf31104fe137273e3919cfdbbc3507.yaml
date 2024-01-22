@@ -1,0 +1,16 @@
+{
+  "chinese": "他賺那麼多錢，根本用不完。",
+  "english": "He earns so much money, he can't even use it all.",
+  "pinyin": "tā zhuàn nàme duō qián, gēnběn yòng bù wán.",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "賺", "en": "earn", "pi": "zhuàn"},
+    {"ch": "那麼", "en": "so much", "pi": "nàme"},
+    {"ch": "多", "en": "much", "pi": "duō"},
+    {"ch": "錢", "en": "money", "pi": "qián"},
+    {"ch": "根本", "en": "can't even", "pi": "gēnběn"},
+    {"ch": "用", "en": "use", "pi": "yòng"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "完", "en": "all", "pi": "wán"}
+  ]
+}

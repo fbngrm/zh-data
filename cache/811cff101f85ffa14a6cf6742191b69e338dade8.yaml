@@ -1,0 +1,42 @@
+{
+  "chinese": "爸爸去北京出差已经两天了。",
+  "english": "Dad went to Beijing on a business trip two days ago.",
+  "pinyin": "bà ba qù běi jīng chū chāi yǐ jīng liǎng tiān le。",
+  "words": [
+    {
+      "ch": "爸爸",
+      "en": "Dad",
+      "pi": "bà ba"
+    },
+    {
+      "ch": "去",
+      "en": "went",
+      "pi": "qù"
+    },
+    {
+      "ch": "北京",
+      "en": "Beijing",
+      "pi": "běi jīng"
+    },
+    {
+      "ch": "出差",
+      "en": "on a business trip",
+      "pi": "chū chāi"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐ jīng"
+    },
+    {
+      "ch": "两天",
+      "en": "two days",
+      "pi": "liǎng tiān"
+    },
+    {
+      "ch": "了",
+      "en": "ago",
+      "pi": "le"
+    }
+  ]
+}

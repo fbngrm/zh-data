@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆住在波士顿已经一年多了。",
+  "english": "Tom has been living in Boston for over a year.",
+  "pinyin": "tāng mǔ zhù zài bō shì dùn yǐ jīng yī nián duō le.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "住在",
+      "en": "live in",
+      "pi": "zhù zài"
+    },
+    {
+      "ch": "波士顿",
+      "en": "Boston",
+      "pi": "bō shì dùn"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐ jīng"
+    },
+    {
+      "ch": "一年多了",
+      "en": "over a year",
+      "pi": "yī nián duō le"
+    }
+  ]
+}

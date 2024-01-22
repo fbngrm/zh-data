@@ -1,0 +1,42 @@
+{
+  "chinese": "他是我弟弟的一个朋友。",
+  "english": "He is a friend of my younger brother.",
+  "pinyin": "tā shì wǒ dìdì de yīgè péngyǒu。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "弟弟",
+      "en": "younger brother",
+      "pi": "dìdì"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yīgè"
+    },
+    {
+      "ch": "朋友",
+      "en": "friend",
+      "pi": "péngyǒu"
+    }
+  ]
+}

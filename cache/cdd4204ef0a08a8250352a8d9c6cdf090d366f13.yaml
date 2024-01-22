@@ -1,0 +1,47 @@
+{
+  "chinese": "这是我吃过的最好的比萨。",
+  "english": "This is the best pizza I've ever had.",
+  "pinyin": "zhè shì wǒ chī guò de zuì hǎo de bǐ sà.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "吃过",
+      "en": "have had",
+      "pi": "chī guò"
+    },
+    {
+      "ch": "的",
+      "en": "the",
+      "pi": "de"
+    },
+    {
+      "ch": "最好",
+      "en": "best",
+      "pi": "zuì hǎo"
+    },
+    {
+      "ch": "的",
+      "en": "ever",
+      "pi": "de"
+    },
+    {
+      "ch": "比萨",
+      "en": "pizza",
+      "pi": "bǐ sà"
+    }
+  ]
+}

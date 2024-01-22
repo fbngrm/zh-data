@@ -1,0 +1,15 @@
+{
+  "chinese": "我们的房子，我们的规则。",
+  "english": "Our house, our rules.",
+  "pinyin": "wǒmen de fángzi, wǒmen de guīzé.",
+  "words": [
+    { "ch": "我们", "en": "our", "pi": "wǒmen" },
+    { "ch": "的", "en": "possessive particle", "pi": "de" },
+    { "ch": "房子", "en": "house", "pi": "fángzi" },
+    { "ch": "，", "en": ",", "pi": "，" },
+    { "ch": "我们", "en": "our", "pi": "wǒmen" },
+    { "ch": "的", "en": "possessive particle", "pi": "de" },
+    { "ch": "规则", "en": "rules", "pi": "guīzé" },
+    { "ch": "。", "en": ".", "pi": "。" }
+  ]
+}

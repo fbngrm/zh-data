@@ -1,0 +1,37 @@
+{
+  "chinese": "先生，我要存钱，怎么存？",
+  "english": "Sir, I want to deposit money. How can I do that?",
+  "pinyin": "xiān shēng, wǒ yào cún qián, zěn me cún?",
+  "words": [
+    {
+      "ch": "先生",
+      "en": "Sir",
+      "pi": "xiān shēng"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "存钱",
+      "en": "deposit money",
+      "pi": "cún qián"
+    },
+    {
+      "ch": "怎么",
+      "en": "how",
+      "pi": "zěn me"
+    },
+    {
+      "ch": "存",
+      "en": "deposit",
+      "pi": "cún"
+    }
+  ]
+}

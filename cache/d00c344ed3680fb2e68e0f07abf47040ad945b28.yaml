@@ -1,0 +1,36 @@
+{
+   "sentences":[
+      {
+         "chinese":"如有错误，请改正。",
+         "english":"If there are any mistakes, please correct them.",
+         "pinyin":"Rú yǒu cuòwù, qǐng gǎizhèng.",
+         "words":[
+            {
+               "ch":"如",
+               "en":"If",
+               "pi":"rú"
+            },
+            {
+               "ch":"有",
+               "en":"have",
+               "pi":"yǒu"
+            },
+            {
+               "ch":"错误",
+               "en":"mistakes",
+               "pi":"cuòwù"
+            },
+            {
+               "ch":"请",
+               "en":"please",
+               "pi":"qǐng"
+            },
+            {
+               "ch":"改正",
+               "en":"correct",
+               "pi":"gǎizhèng"
+            }
+         ]
+      }
+   ]
+}

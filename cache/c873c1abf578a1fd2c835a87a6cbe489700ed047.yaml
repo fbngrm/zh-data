@@ -1,0 +1,32 @@
+{
+  "chinese": "我不需要任何东西。",
+  "english": "I don't need anything.",
+  "pinyin": "wǒ bù xūyào rènhé dōngxi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "需要",
+      "en": "need",
+      "pi": "xūyào"
+    },
+    {
+      "ch": "任何",
+      "en": "anything",
+      "pi": "rènhé"
+    },
+    {
+      "ch": "东西",
+      "en": "thing",
+      "pi": "dōngxi"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chinese": "我该打扫房间吗?",
+  "english": "Should I clean the room?",
+  "pinyin": "wǒ gāi dǎsǎo fángjiān ma?",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "该", "en": "should", "pi": "gāi"},
+    {"ch": "打扫", "en": "clean", "pi": "dǎsǎo"},
+    {"ch": "房间", "en": "room", "pi": "fángjiān"},
+    {"ch": "吗", "en": "?", "pi": "ma"}
+  ]
+}

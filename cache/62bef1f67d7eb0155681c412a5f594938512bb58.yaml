@@ -1,0 +1,32 @@
+{
+  "chinese": "我什么都能吃。",
+  "english": "I can eat anything.",
+  "pinyin": "wǒ shénme dōu néng chī.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "什么",
+      "en": "anything",
+      "pi": "shénme"
+    },
+    {
+      "ch": "都",
+      "en": "can",
+      "pi": "dōu"
+    },
+    {
+      "ch": "能",
+      "en": "eat",
+      "pi": "néng"
+    },
+    {
+      "ch": "吃",
+      "en": "anything",
+      "pi": "chī"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "汤姆把花瓶放在桌上。",
+  "english": "Tom put the vase on the table.",
+  "pinyin": "Tāng mǔ bǎ huā píng fàng zài zhuō shàng.",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ"},
+    {"ch": "把", "en": "put", "pi": "bǎ"},
+    {"ch": "花瓶", "en": "vase", "pi": "huā píng"},
+    {"ch": "放", "en": "on", "pi": "fàng"},
+    {"ch": "在", "en": "the", "pi": "zài"},
+    {"ch": "桌上", "en": "table", "pi": "zhuō shàng"}
+  ]
+}

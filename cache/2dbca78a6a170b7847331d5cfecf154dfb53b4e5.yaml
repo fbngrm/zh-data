@@ -1,0 +1,37 @@
+{
+  "chinese": "对不起,那不关我的事。",
+  "english": "Sorry, that's none of my business.",
+  "pinyin": "duì bù qǐ, nà bù guān wǒ de shì。",
+  "words": [
+    {
+      "ch": "对不起",
+      "en": "Sorry",
+      "pi": "duì bù qǐ"
+    },
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "不关",
+      "en": "none of",
+      "pi": "bù guān"
+    },
+    {
+      "ch": "我",
+      "en": "my",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "事",
+      "en": "business",
+      "pi": "shì"
+    }
+  ]
+}

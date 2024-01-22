@@ -1,0 +1,37 @@
+{
+  "chinese": "他犯了一些文法错误。",
+  "english": "He made some grammar mistakes.",
+  "pinyin": "tā fàn le yī xiē wén fǎ cuò wù。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "犯",
+      "en": "made",
+      "pi": "fàn"
+    },
+    {
+      "ch": "了",
+      "en": "some",
+      "pi": "le"
+    },
+    {
+      "ch": "一些",
+      "en": "grammar",
+      "pi": "yī xiē"
+    },
+    {
+      "ch": "文法",
+      "en": "mistakes",
+      "pi": "wén fǎ"
+    },
+    {
+      "ch": "错误",
+      "en": "mistakes",
+      "pi": "cuò wù"
+    }
+  ]
+}

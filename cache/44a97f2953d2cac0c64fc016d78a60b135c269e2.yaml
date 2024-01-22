@@ -1,0 +1,32 @@
+{
+  "chinese": "这把刀很锋利。",
+  "english": "This knife is very sharp.",
+  "pinyin": "zhè bǎ dāo hěn fēng lì。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "把",
+      "en": "knife",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "刀",
+      "en": "sharp",
+      "pi": "dāo"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "锋利",
+      "en": "sharp",
+      "pi": "fēng lì"
+    }
+  ]
+}

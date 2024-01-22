@@ -1,0 +1,10 @@
+{ "chinese": "我们用耳朵听。", 
+  "english": "We listen with our ears.", 
+  "pinyin": "Wǒmen yòng ěrduo tīng.", 
+  "words": [ 
+    {"ch": "我们", "en": "We", "pi": "Wǒmen"},
+    {"ch": "用", "en": "use", "pi": "yòng"},
+    {"ch": "耳朵", "en": "ears", "pi": "ěrduo"},
+    {"ch": "听", "en": "listen", "pi": "tīng"}
+  ]
+}

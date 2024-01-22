@@ -1,0 +1,13 @@
+{ 
+   "chinese": "她会讲三种语言。",
+   "english": "She can speak three languages.",
+   "pinyin": "tā huì jiǎng sān zhǒng yǔyán。",
+   "words": [
+      { "ch": "她", "en": "She", "pi":"tā" },
+      { "ch": "会", "en":"can", "pi":"huì" },
+      { "ch": "讲", "en": "speak", "pi": "jiǎng" },
+      { "ch": "三", "en": "three", "pi": "sān" },
+      { "ch": "种", "en": "kinds", "pi": "zhǒng" },
+      { "ch": "语言", "en": "languages", "pi": "yǔyán" }
+   ]
+}

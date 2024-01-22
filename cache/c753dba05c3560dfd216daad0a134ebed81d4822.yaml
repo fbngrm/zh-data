@@ -1,0 +1,28 @@
+{
+  "chinese": "当我还是年轻人的时候，我脑袋上有很多头发，胸上无毛。现在，恰恰相反。",
+  "english": "When I was young, I had a lot of hair on my head and no hair on my chest. Now, it's the opposite.",
+  "pinyin": "Dāng wǒ hái shì niánqīngrén de shíhou, wǒ nǎodai shàng yǒu hěnduō tóufǎ, xīong shàng wú máo. Xiànzài, qià qià xiāngfǎn.",
+  "words": [
+    {"ch": "当", "en": "when", "pi": "dāng"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "还是", "en": "was", "pi": "hái shì"},
+    {"ch": "年轻人", "en": "young", "pi": "niánqīngrén"},
+    {"ch": "的", "en": "", "pi": "de"},
+    {"ch": "时候", "en": "time", "pi": "shíhou"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "脑袋上", "en": "on my head", "pi": "nǎodai shàng"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "很多", "en": "a lot of", "pi": "hěnduō"},
+    {"ch": "头发", "en": "hair", "pi": "tóufǎ"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "胸上", "en": "on my chest", "pi": "xīong shàng"},
+    {"ch": "无", "en": "no", "pi": "wú"},
+    {"ch": "毛", "en": "hair", "pi": "máo"},
+    {"ch": "。", "en": ".", "pi": "。"},
+    {"ch": "现在", "en": "Now", "pi": "xiànzài"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "恰恰相反", "en": "it's the opposite", "pi": "qià qià xiāngfǎn"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

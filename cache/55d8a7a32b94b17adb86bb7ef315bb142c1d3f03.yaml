@@ -1,0 +1,32 @@
+{
+  "chinese": "Ｔｏｍ喝了他的柳橙汁。",
+  "english": "Tom drank his orange juice.",
+  "pinyin": "Tōm hēle tā de liǔchéng zhī.",
+  "words": [
+    {
+      "ch": "Ｔｏｍ",
+      "en": "Tom",
+      "pi": "Tōm"
+    },
+    {
+      "ch": "喝",
+      "en": "drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "了",
+      "en": "past tense particle",
+      "pi": "le"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "柳橙汁",
+      "en": "orange juice",
+      "pi": "liǔchéng zhī"
+    }
+  ]
+}

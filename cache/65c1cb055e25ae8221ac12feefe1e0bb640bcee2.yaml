@@ -1,0 +1,15 @@
+{
+  "chinese": "你能帮我找到我的狗吗？",
+  "english": "Can you help me find my dog?",
+  "pinyin": "nǐ néng bāng wǒ zhǎo dào wǒ de gǒu ma?",
+  "words": [
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "能", "en": "can", "pi": "néng" },
+    { "ch": "帮", "en": "help", "pi": "bāng" },
+    { "ch": "我", "en": "me", "pi": "wǒ" },
+    { "ch": "找到", "en": "find", "pi": "zhǎo dào" },
+    { "ch": "我的", "en": "my", "pi": "wǒ de" },
+    { "ch": "狗", "en": "dog", "pi": "gǒu" },
+    { "ch": "吗", "en": "?", "pi": "ma" }
+  ]
+}

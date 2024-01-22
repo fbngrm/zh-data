@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆有很多朋友住在波士顿。",
+  "english": "Tom has many friends living in Boston.",
+  "pinyin": "tāng mǔ yǒu hěn duō péng yǒu zhù zài bō shì dùn.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "很多",
+      "en": "many",
+      "pi": "hěn duō"
+    },
+    {
+      "ch": "朋友",
+      "en": "friends",
+      "pi": "péng yǒu"
+    },
+    {
+      "ch": "住",
+      "en": "living",
+      "pi": "zhù"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "波士顿",
+      "en": "Boston",
+      "pi": "bō shì dùn"
+    }
+  ]
+}

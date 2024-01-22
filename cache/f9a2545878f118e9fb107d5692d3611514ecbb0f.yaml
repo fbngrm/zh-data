@@ -1,0 +1,32 @@
+{
+  "chinese": "玛丽是汤姆的秘书。",
+  "english": "Mary is Tom's secretary.",
+  "pinyin": "Mǎlì shì Tāngmǔ de mìshū.",
+  "words": [
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎlì"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "的",
+      "en": "'s",
+      "pi": "de"
+    },
+    {
+      "ch": "秘书",
+      "en": "secretary",
+      "pi": "mìshū"
+    }
+  ]
+}

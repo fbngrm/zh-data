@@ -1,0 +1,32 @@
+{
+  "chinese": "我乘船过了河。",
+  "english": "I crossed the river by boat.",
+  "pinyin": "wǒ chéng chuán guò le hé.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "乘船",
+      "en": "by boat",
+      "pi": "chéng chuán"
+    },
+    {
+      "ch": "过",
+      "en": "cross",
+      "pi": "guò"
+    },
+    {
+      "ch": "了",
+      "en": "le",
+      "pi": "le"
+    },
+    {
+      "ch": "河",
+      "en": "river",
+      "pi": "hé"
+    }
+  ]
+}

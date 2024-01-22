@@ -1,0 +1,14 @@
+{
+  "chinese": "你知道他说了什么吗？",
+  "english": "Do you know what he said?",
+  "pinyin": "Nǐ zhīdào tā shuō le shénme ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "知道", "en": "know", "pi": "zhīdào"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "说", "en": "say", "pi": "shuō"},
+    {"ch": "了", "en": "finished", "pi": "le"},
+    {"ch": "什么", "en": "what", "pi": "shénme"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

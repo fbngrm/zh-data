@@ -1,0 +1,12 @@
+{
+  "chinese": "狮子听从驯兽师的指挥。",
+  "english": "The lion obeys the commands of the trainer.",
+  "pinyin": "shī zi tīng cóng xùn shòu shī de zhǐ huī。",
+  "words": [
+    {"ch": "狮子", "en": "lion", "pi": "shī zi"},
+    {"ch": "听从", "en": "obey", "pi": "tīng cóng"},
+    {"ch": "驯兽师", "en": "trainer", "pi": "xùn shòu shī"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "指挥", "en": "command", "pi": "zhǐ huī"}
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "快点，马丁。我们已经迟到了！",
+  "english": "Hurry up, Martin. We're already late!",
+  "pinyin": "kuài diǎn, mǎ dīng. wǒ men yǐ jīng chí dào le!",
+  "words": [
+    {
+      "ch": "快点",
+      "en": "Hurry up",
+      "pi": "kuài diǎn"
+    },
+    {
+      "ch": "马丁",
+      "en": "Martin",
+      "pi": "mǎ dīng"
+    },
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐ jīng"
+    },
+    {
+      "ch": "迟到",
+      "en": "late",
+      "pi": "chí dào"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

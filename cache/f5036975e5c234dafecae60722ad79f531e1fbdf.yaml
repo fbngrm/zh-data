@@ -1,0 +1,42 @@
+{
+  "chinese": "这条路上的车辆不多。",
+  "english": "There are not many vehicles on this road.",
+  "pinyin": "zhè tiáo lù shàng de chē liàng bú duō。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "条",
+      "en": "measure word for elongated objects",
+      "pi": "tiáo"
+    },
+    {
+      "ch": "路",
+      "en": "road",
+      "pi": "lù"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "车辆",
+      "en": "vehicle",
+      "pi": "chē liàng"
+    },
+    {
+      "ch": "不多",
+      "en": "not many",
+      "pi": "bú duō"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆又做了一次。",
+  "english": "Tom did it again.",
+  "pinyin": "tāng mǔ yòu zuò le yī cì.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "又",
+      "en": "again",
+      "pi": "yòu"
+    },
+    {
+      "ch": "做",
+      "en": "did",
+      "pi": "zuò"
+    },
+    {
+      "ch": "了",
+      "en": "it",
+      "pi": "le"
+    },
+    {
+      "ch": "一次",
+      "en": "once",
+      "pi": "yī cì"
+    }
+  ]
+}

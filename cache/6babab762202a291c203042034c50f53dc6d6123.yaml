@@ -1,0 +1,15 @@
+{
+  "chinese": "他吃完肉排又点了一份。",
+  "english": "After finishing the pork chop, he ordered another one.",
+  "pinyin": "tā chī wán ròu pái yòu diǎn le yī fèn。",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "吃", "en": "eat", "pi": "chī"},
+    {"ch": "完", "en": "finish", "pi": "wán"},
+    {"ch": "肉排", "en": "pork chop", "pi": "ròu pái"},
+    {"ch": "又", "en": "again", "pi": "yòu"},
+    {"ch": "点", "en": "order", "pi": "diǎn"},
+    {"ch": "了", "en": "another", "pi": "le"},
+    {"ch": "一份", "en": "one portion", "pi": "yī fèn"}
+  ]
+}

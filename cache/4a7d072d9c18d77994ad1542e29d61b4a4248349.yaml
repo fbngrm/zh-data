@@ -1,0 +1,27 @@
+{
+  "chinese": "她会读中文。",
+  "english": "She can read Chinese.",
+  "pinyin": "tā huì dú zhōng wén.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "读",
+      "en": "read",
+      "pi": "dú"
+    },
+    {
+      "ch": "中文",
+      "en": "Chinese",
+      "pi": "zhōng wén"
+    }
+  ]
+}

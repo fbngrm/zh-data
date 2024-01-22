@@ -1,0 +1,14 @@
+{
+  "chinese": "你可以借我你的脚踏车吗?",
+  "english": "Can you lend me your bicycle?",
+  "pinyin": "Nǐ kěyǐ jiè wǒ nǐ de jiǎotàchē ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "可以", "en": "can", "pi": "kěyǐ"},
+    {"ch": "借", "en": "lend", "pi": "jiè"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "你的", "en": "your", "pi": "nǐ de"},
+    {"ch": "脚踏车", "en": "bicycle", "pi": "jiǎotàchē"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chinese": "你甚麼時候從倫敦回來了？",
+  "english": "When did you come back from London?",
+  "pinyin": "Nǐ shénme shíhou cóng lúndūn huí lái le?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "甚麼", "en": "what", "pi": "shénme"},
+    {"ch": "時候", "en": "when", "pi": "shíhou"},
+    {"ch": "從", "en": "from", "pi": "cóng"},
+    {"ch": "倫敦", "en": "London", "pi": "lúndūn"},
+    {"ch": "回來", "en": "come back", "pi": "huí lái"},
+    {"ch": "了", "en": "did", "pi": "le"},
+    {"ch": "？", "en": "?"}
+  ]
+}

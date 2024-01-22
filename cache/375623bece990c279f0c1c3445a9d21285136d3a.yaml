@@ -1,0 +1,15 @@
+{
+  "chinese": "这是我的ＣＤ，不是吗？",
+  "english": "This is my CD, isn't it?",
+  "pinyin": "zhè shì wǒ de CD, bú shì ma?",
+  "words": [
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "我", "en": "my", "pi": "wǒ"},
+    {"ch": "的", "en": "", "pi": "de"},
+    {"ch": "ＣＤ", "en": "CD", "pi": "CD"},
+    {"ch": "，", "en": "", "pi": ""},
+    {"ch": "不是", "en": "isn't", "pi": "bú shì"},
+    {"ch": "吗", "en": "it?", "pi": "ma"}
+  ]
+}

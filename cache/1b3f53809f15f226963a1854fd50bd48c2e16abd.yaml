@@ -1,0 +1,63 @@
+{
+  "sentences": [
+    {
+      "chinese": "社会保障吗？",
+      "english": "Social security?",
+      "pinyin": "shè huì bǎo zhàng ma?",
+      "words": [
+        {
+          "ch": "社会",
+          "en": "Social",
+          "pi": "shè huì"
+        },
+        {
+          "ch": "保障",
+          "en": "security",
+          "pi": "bǎo zhàng"
+        },
+        {
+          "ch": "吗",
+          "en": "?",
+          "pi": "ma"
+        }
+      ]
+    },
+    {
+      "chinese": "他们在说什么笑话？",
+      "english": "What joke are they talking about?",
+      "pinyin": "tā men zài shuō shén me xiào huà?",
+      "words": [
+        {
+          "ch": "他们",
+          "en": "They",
+          "pi": "tā men"
+        },
+        {
+          "ch": "在",
+          "en": "are",
+          "pi": "zài"
+        },
+        {
+          "ch": "说",
+          "en": "talking",
+          "pi": "shuō"
+        },
+        {
+          "ch": "什么",
+          "en": "what",
+          "pi": "shén me"
+        },
+        {
+          "ch": "笑话",
+          "en": "joke",
+          "pi": "xiào huà"
+        },
+        {
+          "ch": "？",
+          "en": "?",
+          "pi": "?"
+        }
+      ]
+    }
+  ]
+}

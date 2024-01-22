@@ -1,0 +1,37 @@
+{
+  "chinese": "警察会把你关在牢里。",
+  "english": "The police will lock you up in jail.",
+  "pinyin": "jǐng chá huì bǎ nǐ guān zài láo lǐ。",
+  "words": [
+    {
+      "ch": "警察",
+      "en": "police",
+      "pi": "jǐng chá"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "把",
+      "en": "lock",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "关在",
+      "en": "up in",
+      "pi": "guān zài"
+    },
+    {
+      "ch": "牢里。",
+      "en": "jail.",
+      "pi": "láo lǐ。"
+    }
+  ]
+}

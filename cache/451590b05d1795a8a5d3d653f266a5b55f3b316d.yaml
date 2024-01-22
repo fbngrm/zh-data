@@ -1,0 +1,37 @@
+{
+  "chinese": "三小时十五分二十秒",
+  "english": "Three hours, fifteen minutes, twenty seconds",
+  "pinyin": "sān xiǎo shí wǔ fēn èr shí miǎo",
+  "words": [
+    {
+      "ch": "三",
+      "en": "Three",
+      "pi": "sān"
+    },
+    {
+      "ch": "小时",
+      "en": "hours",
+      "pi": "xiǎo shí"
+    },
+    {
+      "ch": "十五",
+      "en": "fifteen",
+      "pi": "shí wǔ"
+    },
+    {
+      "ch": "分",
+      "en": "minutes",
+      "pi": "fēn"
+    },
+    {
+      "ch": "二十",
+      "en": "twenty",
+      "pi": "èr shí"
+    },
+    {
+      "ch": "秒",
+      "en": "seconds",
+      "pi": "miǎo"
+    }
+  ]
+}

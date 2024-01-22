@@ -1,0 +1,13 @@
+{
+    "chinese": "他这个星期一直很忙碌。",
+    "english": "He has been busy all week.",
+    "pinyin": "tā zhè gè xīng qī yī zhí hěn máng lù.",
+    "words": [
+        {"ch": "他", "en": "He", "pi": "tā"},
+        {"ch": "这个", "en": "this", "pi": "zhè gè"},
+        {"ch": "星期", "en": "week", "pi": "xīng qī"},
+        {"ch": "一直", "en": "has been", "pi": "yī zhí"},
+        {"ch": "很", "en": "very", "pi": "hěn"},
+        {"ch": "忙碌", "en": "busy", "pi": "máng lù"}
+    ]
+}

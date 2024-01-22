@@ -1,0 +1,24 @@
+{
+  "chinese": "这家酒店在旅行指南上有四星级的评分，但是却完全没有四星级的水准。",
+  "english": "This hotel has a four-star rating in the travel guide, but it doesn't meet the standards of a four-star hotel.",
+  "pinyin": "zhè jiā jiǔdiàn zài lǚxíng zhǐnán shàng yǒu sì xīng jí de píngfēn, què wánquán méiyǒu sì xīng jí de shuǐzhǔn。",
+  "words": [
+    {"ch": "这家", "en": "this", "pi": "zhè jiā"},
+    {"ch": "酒店", "en": "hotel", "pi": "jiǔdiàn"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "旅行", "en": "travel", "pi": "lǚxíng"},
+    {"ch": "指南", "en": "guide", "pi": "zhǐnán"},
+    {"ch": "上", "en": "on", "pi": "shàng"},
+    {"ch": "有", "en": "has", "pi": "yǒu"},
+    {"ch": "四星级", "en": "four-star", "pi": "sì xīng jí"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "评分", "en": "rating", "pi": "píngfēn"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "但是", "en": "but", "pi": "dànshì"},
+    {"ch": "却", "en": "however", "pi": "què"},
+    {"ch": "完全", "en": "completely", "pi": "wánquán"},
+    {"ch": "没有", "en": "doesn't have", "pi": "méiyǒu"},
+    {"ch": "水准", "en": "standards", "pi": "shuǐzhǔn"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

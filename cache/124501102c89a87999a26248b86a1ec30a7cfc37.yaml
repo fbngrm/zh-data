@@ -1,0 +1,22 @@
+{
+  "chinese": "石头、剪子、布。",
+  "english": "Rock, paper, scissors.",
+  "pinyin": "shí tóu, jiǎn zǐ, bù.",
+  "words": [
+    {
+      "ch": "石头",
+      "en": "Rock",
+      "pi": "shí tóu"
+    },
+    {
+      "ch": "剪子",
+      "en": "Paper",
+      "pi": "jiǎn zǐ"
+    },
+    {
+      "ch": "布",
+      "en": "Scissors",
+      "pi": "bù"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "一辆卡车辗过一只狗。",
+  "english": "A truck ran over a dog.",
+  "pinyin": "yī liàng kǎ chē zhǎn guò yī zhī gǒu.",
+  "words": [
+    {
+      "ch": "一辆",
+      "en": "A",
+      "pi": "yī liàng"
+    },
+    {
+      "ch": "卡车",
+      "en": "truck",
+      "pi": "kǎ chē"
+    },
+    {
+      "ch": "辗过",
+      "en": "ran over",
+      "pi": "zhǎn guò"
+    },
+    {
+      "ch": "一只",
+      "en": "a",
+      "pi": "yī zhī"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    }
+  ]
+}

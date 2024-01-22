@@ -1,0 +1,58 @@
+{
+  "sentences": [
+    {
+      "chinese": "現在幾點鐘？",
+      "english": "What time is it now?",
+      "pinyin": "xiàn zài jǐ diǎn zhōng?",
+      "words": [
+        {
+          "ch": "現在",
+          "en": "now",
+          "pi": "xiàn zài"
+        },
+        {
+          "ch": "幾",
+          "en": "how many",
+          "pi": "jǐ"
+        },      
+        {
+          "ch": "點",
+          "en": "o'clock",
+          "pi": "diǎn"
+        },
+        {
+          "ch": "鐘",
+          "en": "clock",
+          "pi": "zhōng"
+        }
+      ]
+    },
+    {
+      "chinese": "三時二十分。",
+      "english": "Three twenty.",
+      "pinyin": "sān shí èr shí fēn.",
+      "words": [
+        {
+          "ch": "三",
+          "en": "three",
+          "pi": "sān"
+        },
+        {
+          "ch": "時",
+          "en": "hour",
+          "pi": "shí"
+        },
+        {
+          "ch": "二十",
+          "en": "twenty",
+          "pi": "èr shí"
+        },
+        {
+          "ch": "分",
+          "en": "minute",
+          "pi": "fēn"
+        }
+      ]
+    }
+  ]
+}

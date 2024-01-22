@@ -1,0 +1,14 @@
+{
+  "chinese": "他的日语说得很好。",
+  "english": "He speaks Japanese very well.",
+  "pinyin": "Tā de rìyǔ shuō dé hěn hǎo.",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "的", "en": "de", "pi": "de"},
+    {"ch": "日語", "en": "Japanese", "pi": "rìyǔ"},
+    {"ch": "說", "en": "speak", "pi": "shuō"},
+    {"ch": "得", "en": "[particle indicating successful result]", "pi": "dé"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "好", "en": "well", "pi": "hǎo"}
+  ]
+}

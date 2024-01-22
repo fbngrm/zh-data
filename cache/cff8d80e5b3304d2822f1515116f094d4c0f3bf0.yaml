@@ -1,0 +1,16 @@
+{
+  "chinese": "Ｇｃｃ是一个编译器而ｐｙｔｈｏｎ是一个解释器。",
+  "english": "GCC is a compiler and python is an interpreter.",
+  "pinyin": "GCC shì yīgè biānyì qì ér python shì yīgè jiěshì qì.",
+  "words": [
+    {"ch": "Ｇｃｃ", "en": "GCC", "pi": "GCC"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "一个", "en": "a", "pi": "yīgè"},
+    {"ch": "编译器", "en": "compiler", "pi": "biānyì qì"},
+    {"ch": "而", "en": "and", "pi": "ér"},
+    {"ch": "ｐｙｔｈｏｎ", "en": "python", "pi": "python"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "一个", "en": "a", "pi": "yīgè"},
+    {"ch": "解释器", "en": "interpreter", "pi": "jiěshì qì"}
+  ]
+}

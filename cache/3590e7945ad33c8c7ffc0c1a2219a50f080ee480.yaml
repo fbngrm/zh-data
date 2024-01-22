@@ -1,0 +1,24 @@
+{
+  "chinese": "例如，中国的公共交通毫不怀疑比英国的好，但英国的公益事业可能比中国的好。",
+  "english": "For example, there is no doubt that public transportation in China is better than in the UK, but the charitable sector in the UK may be better than in China.",
+  "pinyin": "lì rú ， zhōng guó de gōng gòng jiāo tōng háo bù huái yí bǐ yīng guó de hǎo ， dàn yīng guó de gōng yì shì yè kě néng bǐ zhōng guó de hǎo 。",
+  "words": [
+    {"ch": "例如", "en": "For example", "pi": "lì rú"},
+    {"ch": "中国", "en": "China", "pi": "zhōng guó"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "公共交通", "en": "public transportation", "pi": "gōng gòng jiāo tōng"},
+    {"ch": "毫不怀疑", "en": "no doubt", "pi": "háo bù huái yí"},
+    {"ch": "比", "en": "than", "pi": "bǐ"},
+    {"ch": "英国", "en": "UK", "pi": "yīng guó"},
+    {"ch": "好", "en": "better", "pi": "hǎo"},
+    {"ch": "但", "en": "but", "pi": "dàn"},
+    {"ch": "英国", "en": "UK", "pi": "yīng guó"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "公益事业", "en": "charitable sector", "pi": "gōng yì shì yè"},
+    {"ch": "可能", "en": "may", "pi": "kě néng"},
+    {"ch": "比", "en": "than", "pi": "bǐ"},
+    {"ch": "中国", "en": "China", "pi": "zhōng guó"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "好", "en": "better", "pi": "hǎo"}
+  ]
+}

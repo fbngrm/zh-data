@@ -1,0 +1,27 @@
+{
+  "chinese": "火车６点出发。",
+  "english": "The train departs at 6 o'clock.",
+  "pinyin": "huǒ chē liù diǎn chū fā.",
+  "words": [
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒ chē"
+    },
+    {
+      "ch": "６",
+      "en": "6",
+      "pi": "liù"
+    },
+    {
+      "ch": "点",
+      "en": "o'clock",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "出发",
+      "en": "departure",
+      "pi": "chū fā"
+    }
+  ]
+}

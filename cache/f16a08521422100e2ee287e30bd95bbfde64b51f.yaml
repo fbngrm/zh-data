@@ -1,0 +1,47 @@
+{
+  "chinese": "看，厨房里有一只猫。",
+  "english": "Look, there is a cat in the kitchen.",
+  "pinyin": "Kàn, chúfáng lǐ yǒu yī zhī māo.",
+  "words": [
+    {
+      "ch": "看",
+      "en": "Look",
+      "pi": "Kàn"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": ","
+    },
+    {
+      "ch": "厨房",
+      "en": "kitchen",
+      "pi": "chúfáng"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "there is",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一只",
+      "en": "a",
+      "pi": "yī zhī"
+    },
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "."
+    }
+  ]
+}

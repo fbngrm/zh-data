@@ -1,0 +1,32 @@
+{
+  "chinese": "你昨天上午在哪里?",
+  "english": "Where were you yesterday morning?",
+  "pinyin": "nǐ zuótiān shàngwǔ zài nǎlǐ?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "上午",
+      "en": "morning",
+      "pi": "shàngwǔ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪里",
+      "en": "where",
+      "pi": "nǎlǐ"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "sentences": [
+    {
+      "chinese": "你明天会来我的聚会吗？",
+      "english": "Will you come to my party tomorrow?",
+      "pinyin": "nǐ míngtiān huì lái wǒ de jùhuì ma?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "明天",
+          "en": "tomorrow",
+          "pi": "míngtiān"
+        },
+        {
+          "ch": "会",
+          "en": "will",
+          "pi": "huì"
+        },
+        {
+          "ch": "来",
+          "en": "come",
+          "pi": "lái"
+        },
+        {
+          "ch": "我的",
+          "en": "my",
+          "pi": "wǒ de"
+        },
+        {
+          "ch": "聚会",
+          "en": "party",
+          "pi": "jùhuì"
+        },
+        {
+          "ch": "吗",
+          "en": "question particle",
+          "pi": "ma"
+        }
+      ]
+    },
+    {
+      "chinese": "我尽量来。",
+      "english": "I'll try to come.",
+      "pinyin": "wǒ jǐnliàng lái.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "尽量",
+          "en": "try one's best",
+          "pi": "jǐnliàng"
+        },
+        {
+          "ch": "来",
+          "en": "come",
+          "pi": "lái"
+        }
+      ]
+    }
+  ]
+}

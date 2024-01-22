@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "chinese": "她可能是护士。",
+      "english": "She may be a nurse.",
+      "pinyin": "tā kěnéng shì hùshì。",
+      "words": [
+        {
+          "ch": "她",
+          "en": "She",
+          "pi": "tā"
+        },
+        {
+          "ch": "可能",
+          "en": "may",
+          "pi": "kěnéng"
+        },
+        {
+          "ch": "是",
+          "en": "be",
+          "pi": "shì"
+        },
+        {
+          "ch": "护士",
+          "en": "nurse",
+          "pi": "hùshì"
+        }
+      ]
+    },
+    {
+      "chinese": "我不太肯定。",
+      "english": "I'm not sure.",
+      "pinyin": "wǒ bú tài kěndìng。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "不太",
+          "en": "not very",
+          "pi": "bú tài"
+        },
+        {
+          "ch": "肯定",
+          "en": "sure",
+          "pi": "kěndìng"
+        }
+      ]
+    }
+  ]
+}

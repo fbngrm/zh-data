@@ -1,0 +1,32 @@
+{
+  "chinese": "我向我父亲求助。",
+  "english": "I asked my father for help.",
+  "pinyin": "wǒ xiàng wǒ fù qīn qiú zhù。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "向",
+      "en": "ask",
+      "pi": "xiàng"
+    },
+    {
+      "ch": "我",
+      "en": "my",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "父亲",
+      "en": "father",
+      "pi": "fù qīn"
+    },
+    {
+      "ch": "求助",
+      "en": "help",
+      "pi": "qiú zhù"
+    }
+  ]
+}

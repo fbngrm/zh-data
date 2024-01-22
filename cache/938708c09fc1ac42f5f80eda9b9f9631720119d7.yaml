@@ -1,0 +1,14 @@
+{
+  "chinese": "我讨价还价地买到了这辆自行车。",
+  "english": "I haggled and bought this bike.",
+  "pinyin": "wǒ tǎo jià hái jià de mǎi dào le zhè liàng zì xíng chē。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "讨价还价", "en": "haggle", "pi": "tǎo jià hái jià"},
+    {"ch": "地", "en": "and", "pi": "de"},
+    {"ch": "买到", "en": "bought", "pi": "mǎi dào"},
+    {"ch": "了", "en": "this", "pi": "le"},
+    {"ch": "这辆", "en": "bike", "pi": "zhè liàng"},
+    {"ch": "自行车", "en": "bicycle", "pi": "zì xíng chē"}
+  ]
+}

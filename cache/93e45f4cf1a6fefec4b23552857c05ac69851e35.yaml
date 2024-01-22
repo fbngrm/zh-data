@@ -1,0 +1,37 @@
+{
+  "chinese": "这条路连接东京和大坂。",
+  "english": "This road connects Tokyo and Osaka.",
+  "pinyin": "zhè tiáo lù liánjiē dōngjīng hé dàsǎn.",
+  "words": [
+    {
+      "ch": "这条",
+      "en": "this",
+      "pi": "zhè tiáo"
+    },
+    {
+      "ch": "路",
+      "en": "road",
+      "pi": "lù"
+    },
+    {
+      "ch": "连接",
+      "en": "connects",
+      "pi": "liánjiē"
+    },
+    {
+      "ch": "东京",
+      "en": "Tokyo",
+      "pi": "dōngjīng"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "大坂",
+      "en": "Osaka",
+      "pi": "dàsǎn"
+    }
+  ]
+}

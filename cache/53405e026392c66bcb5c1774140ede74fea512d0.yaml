@@ -1,0 +1,32 @@
+{
+  "chinese": "你是不是医生？",
+  "english": "Are you a doctor?",
+  "pinyin": "nǐ shì bù shì yī shēng?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "医生",
+      "en": "doctor",
+      "pi": "yī shēng"
+    }
+  ]
+}

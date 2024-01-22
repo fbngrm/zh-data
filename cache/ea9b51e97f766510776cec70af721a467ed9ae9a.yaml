@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆穿着鞋睡了。",
+  "english": "Tom went to sleep wearing shoes.",
+  "pinyin": "tāng mǔ chuān zhe xié shuì le。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "穿着",
+      "en": "wearing",
+      "pi": "chuān zhe"
+    },
+    {
+      "ch": "鞋",
+      "en": "shoes",
+      "pi": "xié"
+    },
+    {
+      "ch": "睡了",
+      "en": "went to sleep",
+      "pi": "shuì le"
+    }
+  ]
+}

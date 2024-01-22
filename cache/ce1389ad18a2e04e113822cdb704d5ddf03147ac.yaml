@@ -1,0 +1,32 @@
+{
+  "chinese": "你的鞋在这儿。",
+  "english": "Your shoes are here.",
+  "pinyin": "nǐ de xié zài zhèr.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "鞋",
+      "en": "shoes",
+      "pi": "xié"
+    },
+    {
+      "ch": "在",
+      "en": "are",
+      "pi": "zài"
+    },
+    {
+      "ch": "这儿",
+      "en": "here",
+      "pi": "zhèr"
+    }
+  ]
+}

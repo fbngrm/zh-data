@@ -1,0 +1,32 @@
+{
+  "chinese": "紐約的天氣如何？",
+  "english": "How is the weather in New York?",
+  "pinyin": "niǔ yuē de tiān qì rú hé?",
+  "words": [
+    {
+      "ch": "紐約",
+      "en": "New York",
+      "pi": "niǔ yuē"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "天氣",
+      "en": "weather",
+      "pi": "tiān qì"
+    },
+    {
+      "ch": "如何",
+      "en": "how",
+      "pi": "rú hé"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "?"
+    }
+  ]
+}

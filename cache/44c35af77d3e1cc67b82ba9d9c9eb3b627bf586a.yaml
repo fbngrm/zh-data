@@ -1,0 +1,13 @@
+{
+  "chinese": "一条狗被卡车碾过。",
+  "english": "A dog was run over by a truck.",
+  "pinyin": "yī tiáo gǒu bèi kǎ chē niǎn guò。",
+  "words": [
+    { "ch": "一", "en": "one", "pi": "yī" },
+    { "ch": "条", "en": "measure word for long, narrow objects", "pi": "tiáo" },
+    { "ch": "狗", "en": "dog", "pi": "gǒu" },
+    { "ch": "被", "en": "by", "pi": "bèi" },
+    { "ch": "卡车", "en": "truck", "pi": "kǎ chē" },
+    { "ch": "碾过", "en": "run over", "pi": "niǎn guò" }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "你的年龄是多少？",
+  "english": "What is your age?",
+  "pinyin": "Nǐ de niánlǐng shì duōshǎo?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "年龄",
+      "en": "age",
+      "pi": "niánlǐng"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "多少",
+      "en": "how much",
+      "pi": "duōshǎo"
+    }
+  ]
+}

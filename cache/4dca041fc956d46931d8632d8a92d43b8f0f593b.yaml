@@ -1,0 +1,32 @@
+{
+  "chinese": "这本书不值得一读。",
+  "english": "This book is not worth reading.",
+  "pinyin": "Zhè běn shū bù zhí de yī dú.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本书",
+      "en": "book",
+      "pi": "běn shū"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "值得",
+      "en": "worth",
+      "pi": "zhí de"
+    },
+    {
+      "ch": "一读",
+      "en": "reading",
+      "pi": "yī dú"
+    }
+  ]
+}

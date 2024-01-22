@@ -1,0 +1,52 @@
+{
+  "chinese": "汤姆和玛丽两个人都会说法语。",
+  "english": "Both Tom and Mary can speak French.",
+  "pinyin": "tāng mǔ hé mǎ lì liǎng gè rén dōu huì shuō fǎ yǔ。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "两个",
+      "en": "both",
+      "pi": "liǎng gè"
+    },
+    {
+      "ch": "人",
+      "en": "person",
+      "pi": "rén"
+    },
+    {
+      "ch": "都",
+      "en": "can",
+      "pi": "dōu"
+    },
+    {
+      "ch": "会",
+      "en": "speak",
+      "pi": "huì"
+    },
+    {
+      "ch": "说",
+      "en": "say",
+      "pi": "shuō"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎ yǔ"
+    }
+  ]
+}

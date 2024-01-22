@@ -1,0 +1,37 @@
+{
+  "chinese": "我好像丢了我的钥匙。",
+  "english": "I think I lost my key.",
+  "pinyin": "wǒ hǎoxiàng diūle wǒ de yàoshi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "好像",
+      "en": "think",
+      "pi": "hǎoxiàng"
+    },
+    {
+      "ch": "丢",
+      "en": "lost",
+      "pi": "diū"
+    },
+    {
+      "ch": "了",
+      "en": "my",
+      "pi": "le"
+    },
+    {
+      "ch": "我的",
+      "en": "key",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "钥匙",
+      "en": "key",
+      "pi": "yàoshi"
+    }
+  ]
+}

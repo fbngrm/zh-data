@@ -1,0 +1,27 @@
+{
+  "chinese": "你有没有去过外国？",
+  "english": "Have you ever been to a foreign country?",
+  "pinyin": "nǐ yǒu méiyǒu qùguò wàiguó?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有没有",
+      "en": "have or not",
+      "pi": "yǒu méiyǒu"
+    },
+    {
+      "ch": "去过",
+      "en": "been to",
+      "pi": "qùguò"
+    },
+    {
+      "ch": "外国",
+      "en": "foreign country",
+      "pi": "wàiguó"
+    }
+  ]
+}

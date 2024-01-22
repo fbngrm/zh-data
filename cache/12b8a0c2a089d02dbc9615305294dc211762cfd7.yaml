@@ -1,0 +1,32 @@
+{
+  "chinese": "应该说“你”还是“您”？",
+  "english": "Should I say '你' or '您'?",
+  "pinyin": "Yīnggāi shuō 'nǐ' háishì 'nín'?",
+  "words": [
+    {
+      "ch": "应该",
+      "en": "Should",
+      "pi": "yīng gāi"
+    },
+    {
+      "ch": "说",
+      "en": "I say",
+      "pi": "shuō"
+    },
+    {
+      "ch": "“你”",
+      "en": "'你'",
+      "pi": "'nǐ'"
+    },
+    {
+      "ch": "还是",
+      "en": "or",
+      "pi": "hái shì"
+    },
+    {
+      "ch": "“您”",
+      "en": "'您'",
+      "pi": "'nín'"
+    }
+  ]
+}

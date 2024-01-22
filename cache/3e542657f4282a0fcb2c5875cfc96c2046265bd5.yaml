@@ -1,0 +1,57 @@
+{
+  "chinese": "我吃了炒饭，也喝了啤酒。",
+  "english": "I ate fried rice and also drank beer.",
+  "pinyin": "wǒ chī le chǎo fàn, yě hē le pí jiǔ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "吃",
+      "en": "ate",
+      "pi": "chī"
+    },
+    {
+      "ch": "了",
+      "en": "did",
+      "pi": "le"
+    },
+    {
+      "ch": "炒饭",
+      "en": "fried rice",
+      "pi": "chǎo fàn"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": ","
+    },
+    {
+      "ch": "也",
+      "en": "also",
+      "pi": "yě"
+    },
+    {
+      "ch": "喝",
+      "en": "drank",
+      "pi": "hē"
+    },
+    {
+      "ch": "了",
+      "en": "did",
+      "pi": "le"
+    },
+    {
+      "ch": "啤酒",
+      "en": "beer",
+      "pi": "pí jiǔ"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "."
+    }
+  ]
+}

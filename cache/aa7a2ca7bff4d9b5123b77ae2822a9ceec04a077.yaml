@@ -1,0 +1,10 @@
+{
+  "chinese": "你快乐吗？",
+  "english": "Are you happy?",
+  "pinyin": "Nǐ kuàilè ma?",
+  "words": [
+    { "ch": "你", "en": "You", "pi": "Nǐ" },
+    { "ch": "快乐", "en": "happy", "pi": "kuàilè" },
+    { "ch": "吗", "en": "question particle", "pi": "ma" }
+  ]
+}

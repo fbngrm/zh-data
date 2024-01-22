@@ -1,0 +1,32 @@
+{
+  "chinese": "你在吃东西吗？",
+  "english": "Are you eating?",
+  "pinyin": "nǐ zài chī dōng xi ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "东西",
+      "en": "food",
+      "pi": "dōng xi"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

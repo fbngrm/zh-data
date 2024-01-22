@@ -1,0 +1,63 @@
+{
+  "sentences": [
+    {
+      "chinese": "他还没来。",
+      "english": "He hasn't come yet.",
+      "pinyin": "tā hái méi lái.",
+      "words": [
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "还",
+          "en": "still/yet",
+          "pi": "hái"
+        },
+        {
+          "ch": "没",
+          "en": "haven't",
+          "pi": "méi"
+        },
+        {
+          "ch": "来",
+          "en": "come",
+          "pi": "lái"
+        }
+      ]
+    },
+    {
+      "chinese": "他肯定错过公交车了。",
+      "english": "He must have missed the bus.",
+      "pinyin": "tā kěn dìng cuò guò gōng jiāo chē le.",
+      "words": [
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "肯定",
+          "en": "must",
+          "pi": "kěn dìng"
+        },
+        {
+          "ch": "错过",
+          "en": "miss",
+          "pi": "cuò guò"
+        },
+        {
+          "ch": "公交车",
+          "en": "bus",
+          "pi": "gōng jiāo chē"
+        },
+        {
+          "ch": "了",
+          "en": "了",
+          "pi": "le"
+        }
+      ]
+    }
+  ]
+}

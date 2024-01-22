@@ -1,0 +1,32 @@
+{
+  "chinese": "照片是他拍的。",
+  "english": "The photo was taken by him.",
+  "pinyin": "Zhàopiàn shì tā pāide.",
+  "words": [
+    {
+      "ch": "照片",
+      "en": "photo",
+      "pi": "zhàopiàn"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    },
+    {
+      "ch": "拍",
+      "en": "take",
+      "pi": "pāi"
+    },
+    {
+      "ch": "的",
+      "en": "by",
+      "pi": "de"
+    }
+  ]
+}

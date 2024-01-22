@@ -1,0 +1,17 @@
+{
+  "chinese": "他够大方，借了我一点钱。",
+  "english": "He is generous enough to lend me a little money.",
+  "pinyin": "Tā gòu dàfāng, jiè le wǒ yīdiǎn qián.",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "够", "en": "enough", "pi": "gòu"},
+    {"ch": "大方", "en": "generous", "pi": "dàfāng"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "借", "en": "lend", "pi": "jiè"},
+    {"ch": "了", "en": "me", "pi": "le"},
+    {"ch": "我", "en": "a", "pi": "wǒ"},
+    {"ch": "一点", "en": "little", "pi": "yīdiǎn"},
+    {"ch": "钱", "en": "money", "pi": "qián"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

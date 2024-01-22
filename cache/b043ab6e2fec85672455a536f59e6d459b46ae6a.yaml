@@ -1,0 +1,32 @@
+{
+  "chinese": "我们在那里上了公共汽车。",
+  "english": "We took the bus there.",
+  "pinyin": "wǒmen zài nàlǐ shàngle gōnggòng qìchē。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "那里",
+      "en": "there",
+      "pi": "nàlǐ"
+    },
+    {
+      "ch": "上了",
+      "en": "took",
+      "pi": "shàngle"
+    },
+    {
+      "ch": "公共汽车",
+      "en": "bus",
+      "pi": "gōnggòng qìchē"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我付了他五块美元。",
+  "english": "I paid him five US dollars.",
+  "pinyin": "wǒ fùle tā wǔ kuài měi yuán。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "付",
+      "en": "pay",
+      "pi": "fù"
+    },
+    {
+      "ch": "了",
+      "en": "completed action marker",
+      "pi": "le"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    },
+    {
+      "ch": "五",
+      "en": "five",
+      "pi": "wǔ"
+    },
+    {
+      "ch": "块",
+      "en": "pieces",
+      "pi": "kuài"
+    },
+    {
+      "ch": "美元",
+      "en": "US dollars",
+      "pi": "měi yuán"
+    }
+  ]
+}

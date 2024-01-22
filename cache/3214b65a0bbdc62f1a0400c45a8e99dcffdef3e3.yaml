@@ -1,0 +1,10 @@
+{
+  "chinese": "今天天气怎么样？",
+  "english": "How is the weather today?",
+  "pinyin": "jīn tiān tiān qì zěn me yàng?",
+  "words": [
+    {"ch": "今天", "en": "today", "pi": "jīn tiān"},
+    {"ch": "天气", "en": "weather", "pi": "tiān qì"},
+    {"ch": "怎么样", "en": "how is it", "pi": "zěn me yàng"}
+  ]
+}

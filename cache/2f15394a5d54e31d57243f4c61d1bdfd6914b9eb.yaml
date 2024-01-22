@@ -1,0 +1,37 @@
+{
+  "chinese": "我忘记了他的名字。",
+  "english": "I forgot his name.",
+  "pinyin": "wǒ wàng jì le tā de míng zì.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "忘记",
+      "en": "forgot",
+      "pi": "wàng jì"
+    },
+    {
+      "ch": "了",
+      "en": "his",
+      "pi": "le"
+    },
+    {
+      "ch": "他",
+      "en": "name",
+      "pi": "tā"
+    },
+    {
+      "ch": "的",
+      "en": "name",
+      "pi": "de"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míng zì"
+    }
+  ]
+}

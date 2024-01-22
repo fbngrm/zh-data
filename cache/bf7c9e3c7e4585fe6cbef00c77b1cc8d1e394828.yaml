@@ -1,0 +1,32 @@
+{
+  "chinese": "我有一双鞋。",
+  "english": "I have a pair of shoes.",
+  "pinyin": "wǒ yǒu yī shuāng xié.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一",
+      "en": "a",
+      "pi": "yī"
+    },
+    {
+      "ch": "双",
+      "en": "pair",
+      "pi": "shuāng"
+    },
+    {
+      "ch": "鞋",
+      "en": "shoes",
+      "pi": "xié"
+    }
+  ]
+}

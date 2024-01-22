@@ -1,0 +1,27 @@
+{
+  "chinese": "他在睡觉吗?",
+  "english": "Is he sleeping?",
+  "pinyin": "tā zài shuìjiào ma?",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "睡觉",
+      "en": "sleeping",
+      "pi": "shuìjiào"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

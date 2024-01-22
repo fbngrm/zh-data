@@ -1,0 +1,42 @@
+{
+  "chinese": "上週我休了一天的假。",
+  "english": "Last week I took a day off.",
+  "pinyin": "shàng zhōu wǒ xiū le yī tiān de jià.",
+  "words": [
+    {
+      "ch": "上週",
+      "en": "Last week",
+      "pi": "shàng zhōu"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "休",
+      "en": "take a break",
+      "pi": "xiū"
+    },
+    {
+      "ch": "了",
+      "en": "past tense particle",
+      "pi": "le"
+    },
+    {
+      "ch": "一天",
+      "en": "one day",
+      "pi": "yī tiān"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "假",
+      "en": "holiday",
+      "pi": "jià"
+    }
+  ]
+}

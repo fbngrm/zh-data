@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆会去那里，不是么？",
+  "english": "Tom will go there, right?",
+  "pinyin": "Tāng mǔ huì qù nà lǐ, bù shì me?",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "会去",
+      "en": "will go",
+      "pi": "huì qù"
+    },
+    {
+      "ch": "那里",
+      "en": "there",
+      "pi": "nà lǐ"
+    },
+    {
+      "ch": "不是么",
+      "en": "right",
+      "pi": "bù shì me"
+    }
+  ]
+}

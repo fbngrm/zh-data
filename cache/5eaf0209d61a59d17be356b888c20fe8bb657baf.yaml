@@ -1,0 +1,37 @@
+{
+  "chinese": "父亲给我买了本书。",
+  "english": "My father bought me a book.",
+  "pinyin": "fù qīn gěi wǒ mǎi le běn shū.",
+  "words": [
+    {
+      "ch": "父亲",
+      "en": "father",
+      "pi": "fù qīn"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "买",
+      "en": "buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "了",
+      "en": "(completed action particle)",
+      "pi": "le"
+    },
+    {
+      "ch": "本书",
+      "en": "book",
+      "pi": "běn shū"
+    }
+  ]
+}

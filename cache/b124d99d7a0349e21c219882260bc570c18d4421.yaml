@@ -1,0 +1,32 @@
+{
+  "chinese": "商店从周一开到周六。",
+  "english": "The store is open from Monday to Saturday.",
+  "pinyin": "Shāngdiàn cóng zhōuyī kāi dào zhōuliù.",
+  "words": [
+    {
+      "ch": "商店",
+      "en": "store",
+      "pi": "shāngdiàn"
+    },
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "周一",
+      "en": "Monday",
+      "pi": "zhōuyī"
+    },
+    {
+      "ch": "开",
+      "en": "to",
+      "pi": "kāi"
+    },
+    {
+      "ch": "到",
+      "en": "Saturday",
+      "pi": "zhōuliù"
+    }
+  ]
+}

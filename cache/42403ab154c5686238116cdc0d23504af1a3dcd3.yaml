@@ -1,0 +1,15 @@
+{
+  "chinese": "因为仅一分钟就要差不多花费４镑。",
+  "english": "Because it costs almost £4 in just one minute.",
+  "pinyin": "yīnwèi jǐn yīfēnzhōng jiù yào chàbùduō huāfèi 4 bàng.",
+  "words": [
+    {"ch": "因为", "en": "Because", "pi": "yīnwèi"},
+    {"ch": "仅", "en": "only", "pi": "jǐn"},
+    {"ch": "一分钟", "en": "one minute", "pi": "yī fēnzhōng"},
+    {"ch": "就", "en": "just", "pi": "jiù"},
+    {"ch": "要", "en": "cost", "pi": "yào"},
+    {"ch": "差不多", "en": "almost", "pi": "chàbùduō"},
+    {"ch": "花费", "en": "spend", "pi": "huāfèi"},
+    {"ch": "４镑", "en": "£4", "pi": "4 bàng"}
+  ]
+}

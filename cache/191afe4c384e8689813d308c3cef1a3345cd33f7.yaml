@@ -1,0 +1,42 @@
+{
+  "chinese": "她的帽子被风吹走了。",
+  "english": "Her hat was blown away by the wind.",
+  "pinyin": "tā de màozi bèi fēng chuī zǒu le。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "帽子",
+      "en": "hat",
+      "pi": "màozi"
+    },
+    {
+      "ch": "被",
+      "en": "by",
+      "pi": "bèi"
+    },
+    {
+      "ch": "风",
+      "en": "wind",
+      "pi": "fēng"
+    },
+    {
+      "ch": "吹",
+      "en": "blow",
+      "pi": "chuī"
+    },
+    {
+      "ch": "走了",
+      "en": "blown away",
+      "pi": "zǒu le"
+    }
+  ]
+}

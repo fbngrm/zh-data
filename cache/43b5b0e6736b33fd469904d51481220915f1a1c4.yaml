@@ -1,0 +1,42 @@
+{
+  "chinese": "你可以给我一个提示吗？",
+  "english": "Can you give me a hint?",
+  "pinyin": "Nǐ kěyǐ gěi wǒ yīgè tíshì ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "Nǐ"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kěyǐ"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yīgè"
+    },
+    {
+      "ch": "提示",
+      "en": "hint",
+      "pi": "tíshì"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

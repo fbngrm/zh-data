@@ -1,0 +1,14 @@
+{
+  "chinese": "我让她打扫了我的房间。",
+  "english": "I asked her to clean my room.",
+  "pinyin": "wǒ ràng tā dǎsǎo le wǒ de fángjiān.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "让", "en": "asked", "pi": "ràng"},
+    {"ch": "她", "en": "her", "pi": "tā"},
+    {"ch": "打扫", "en": "to clean", "pi": "dǎsǎo"},
+    {"ch": "了", "en": "finished", "pi": "le"},
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "房间", "en": "room", "pi": "fángjiān"}
+  ]
+}

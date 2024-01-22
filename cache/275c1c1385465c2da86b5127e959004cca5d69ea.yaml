@@ -1,0 +1,15 @@
+{
+  "chinese": "我就只告诉你，他靠不住。",
+  "english": "I'm just telling you, he's not reliable.",
+  "pinyin": "Wǒ jiù zhǐ gàosù nǐ, tā kào bù zhù.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "就", "en": "just", "pi": "jiù"},
+    {"ch": "只", "en": "only", "pi": "zhǐ"},
+    {"ch": "告诉", "en": "tell", "pi": "gàosù"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "靠不住", "en": "not reliable", "pi": "kào bù zhù"}
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我今天早上读了一会儿书。",
+  "english": "I read a book for a while this morning.",
+  "pinyin": "wǒ jīntiān zǎoshang dúle yīhuǐ'er shū.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎoshang"
+    },
+    {
+      "ch": "读",
+      "en": "read",
+      "pi": "dú"
+    },
+    {
+      "ch": "了",
+      "en": "a particle",
+      "pi": "le"
+    },
+    {
+      "ch": "一会儿",
+      "en": "for a while",
+      "pi": "yīhuǐ'er"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    }
+  ]
+}

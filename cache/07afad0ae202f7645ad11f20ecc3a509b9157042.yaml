@@ -1,0 +1,17 @@
+{
+  "chinese": "我们大概去了，不过要看天气怎么样再决定。",
+  "english": "We probably went, but we'll decide depending on the weather.",
+  "pinyin": "wǒ men dà gài qù le, bú guò yào kàn tiān qì zěn me yàng zài jué dìng。",
+  "words": [
+    {"ch": "我们", "en": "We", "pi": "wǒ men"},
+    {"ch": "大概", "en": "probably", "pi": "dà gài"},
+    {"ch": "去了", "en": "went", "pi": "qù le"},
+    {"ch": "不过", "en": "but", "pi": "bú guò"},
+    {"ch": "要", "en": "want", "pi": "yào"},
+    {"ch": "看", "en": "see", "pi": "kàn"},
+    {"ch": "天气", "en": "weather", "pi": "tiān qì"},
+    {"ch": "怎么样", "en": "how", "pi": "zěn me yàng"},
+    {"ch": "再", "en": "again", "pi": "zài"},
+    {"ch": "决定", "en": "decide", "pi": "jué dìng"}
+  ]
+}

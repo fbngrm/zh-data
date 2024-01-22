@@ -1,0 +1,32 @@
+{
+  "chinese": "星期一你必须缴交报告。",
+  "english": "You must submit the report on Monday.",
+  "pinyin": "Xīngqī yī nǐ bìxū jiǎojiāo bàogào.",
+  "words": [
+    {
+      "ch": "星期一",
+      "en": "Monday",
+      "pi": "Xīngqī yī"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "必须",
+      "en": "must",
+      "pi": "bìxū"
+    },
+    {
+      "ch": "缴交",
+      "en": "submit",
+      "pi": "jiǎojiāo"
+    },
+    {
+      "ch": "报告",
+      "en": "report",
+      "pi": "bàogào"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "sentences": [
+    {
+      "chinese": "喂！这里跑步很危险的。",
+      "pinyin": "wéi！zhè lǐ pǎo bù hěn wēi xiǎn de.",
+      "english": "Hey! It's very dangerous to run here.",
+      "words": [
+        {
+          "ch": "喂",
+          "pi": "wéi",
+          "en": "Hey"
+        },
+        {
+          "ch": "这里",
+          "pi": "zhè lǐ",
+          "en": "here"
+        },
+        {
+          "ch": "跑步",
+          "pi": "pǎo bù",
+          "en": "to run"
+        },
+        {
+          "ch": "很",
+          "pi": "hěn",
+          "en": "very"
+        },
+        {
+          "ch": "危险",
+          "pi": "wēi xiǎn",
+          "en": "dangerous"
+        },
+        {
+          "ch": "的",
+          "pi": "de",
+          "en": ""
+        }
+      ]
+    },
+    {
+      "chinese": "嗯？……啊、啊、啊！！",
+      "pinyin": "ǹg？……ā、ā、ā！！",
+      "english": "Huh?... Ah, ah, ah!!",
+      "words": [
+        {
+          "ch": "嗯",
+          "pi": "ǹg",
+          "en": "Huh"
+        },
+        {
+          "ch": "啊",
+          "pi": "ā",
+          "en": "Ah"
+        },
+        {
+          "ch": "啊",
+          "pi": "ā",
+          "en": "Ah"
+        },
+        {
+          "ch": "啊",
+          "pi": "ā",
+          "en": "Ah"
+        },
+        {
+          "ch": "！",
+          "pi": "！",
+          "en": "!"
+        }
+      ]
+    },
+    {
+      "chinese": "唉，我刚才不是和你说了吗？",
+      "pinyin": "āi，wǒ gāng cái bú shì hé nǐ shuō le ma？",
+      "english": "Sigh, didn't I just say it to you?",
+      "words": [
+        {
+          "ch": "唉",
+          "pi": "āi",
+          "en": "Sigh"
+        },
+        {
+          "ch": "，",
+          "pi": "，",
+          "en": ","
+        },
+        {
+          "ch": "我",
+          "pi": "wǒ",
+          "en": "I"
+        },
+        {
+          "ch": "刚才",
+          "pi": "gāng cái",
+          "en": "just"
+        },
+        {
+          "ch": "不是",
+          "pi": "bú shì",
+          "en": "didn't"
+        },
+        {
+          "ch": "和",
+          "pi": "hé",
+          "en": "to"
+        },
+        {
+          "ch": "你",
+          "pi": "nǐ",
+          "en": "you"
+        },
+        {
+          "ch": "说",
+          "pi": "shuō",
+          "en": "say"
+        },
+        {
+          "ch": "了",
+          "pi": "le",
+          "en": ""
+        },
+        {
+          "ch": "吗",
+          "pi": "ma",
+          "en": "?"
+        },
+        {
+          "ch": "？",
+          "pi": "？",
+          "en": "?"
+        }
+      ]
+    }
+  ]
+}

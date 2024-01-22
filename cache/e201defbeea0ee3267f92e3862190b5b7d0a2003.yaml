@@ -1,0 +1,32 @@
+{
+  "chinese": "你把帽子戴反了。",
+  "english": "You're wearing the hat backwards.",
+  "pinyin": "nǐ bǎ mào zi dài fǎn le.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "把",
+      "en": "take",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "帽子",
+      "en": "hat",
+      "pi": "mào zi"
+    },
+    {
+      "ch": "戴",
+      "en": "wear",
+      "pi": "dài"
+    },
+    {
+      "ch": "反了",
+      "en": "backwards",
+      "pi": "fǎn le"
+    }
+  ]
+}

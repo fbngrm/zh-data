@@ -1,0 +1,17 @@
+{
+  "chinese": "我妈在的时候别讨论这件事。",
+  "english": "Don't discuss this matter while my mom is around.",
+  "pinyin": "wǒ mā zài de shí hòu bié tǎo lùn zhè jiàn shì。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "妈", "en": "mom", "pi": "mā"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "时候", "en": "time", "pi": "shí hòu"},
+    {"ch": "别", "en": "don't", "pi": "bié"},
+    {"ch": "讨论", "en": "discuss", "pi": "tǎo lùn"},
+    {"ch": "这件", "en": "this", "pi": "zhè jiàn"},
+    {"ch": "事", "en": "matter", "pi": "shì"}
+  ]
+}
+

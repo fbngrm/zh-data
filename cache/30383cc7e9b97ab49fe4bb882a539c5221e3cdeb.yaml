@@ -1,0 +1,42 @@
+{
+  "chinese": "昨天的台风把树刮倒了。",
+  "english": "The typhoon yesterday blew the tree down.",
+  "pinyin": "zuó tiān de tái fēng bǎ shù guā dǎo le.",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "台风",
+      "en": "typhoon",
+      "pi": "tái fēng"
+    },
+    {
+      "ch": "把",
+      "en": "blow",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "树",
+      "en": "tree",
+      "pi": "shù"
+    },
+    {
+      "ch": "刮倒",
+      "en": "blow down",
+      "pi": "guā dǎo"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

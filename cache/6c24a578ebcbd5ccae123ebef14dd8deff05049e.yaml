@@ -1,0 +1,32 @@
+{
+  "chinese": "我想要两公斤苹果。",
+  "english": "I want two kilograms of apples.",
+  "pinyin": "wǒ xiǎng yào liǎng gōngjīn píngguǒ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想要",
+      "en": "want",
+      "pi": "xiǎng yào"
+    },
+    {
+      "ch": "两",
+      "en": "two",
+      "pi": "liǎng"
+    },
+    {
+      "ch": "公斤",
+      "en": "kilograms",
+      "pi": "gōngjīn"
+    },
+    {
+      "ch": "苹果",
+      "en": "apples",
+      "pi": "píngguǒ"
+    }
+  ]
+}

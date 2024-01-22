@@ -1,0 +1,32 @@
+{
+  "chinese": "我的爸爸现在不在家。",
+  "english": "My dad is not at home now.",
+  "pinyin": "wǒ de bàba xiànzài bú zài jiā。",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "爸爸",
+      "en": "dad",
+      "pi": "bàba"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiànzài"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bú"
+    },
+    {
+      "ch": "在家",
+      "en": "at home",
+      "pi": "zài jiā"
+    }
+  ]
+}

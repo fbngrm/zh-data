@@ -1,0 +1,37 @@
+{
+  "chinese": "你喝了十一瓶啤酒了！",
+  "english": "You have drunk eleven bottles of beer!",
+  "pinyin": "nǐ hē le shí yī píng pí jiǔ le！",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "喝了",
+      "en": "have drunk",
+      "pi": "hē le"
+    },
+    {
+      "ch": "十一",
+      "en": "eleven",
+      "pi": "shí yī"
+    },
+    {
+      "ch": "瓶",
+      "en": "bottles",
+      "pi": "píng"
+    },
+    {
+      "ch": "啤酒",
+      "en": "beer",
+      "pi": "pí jiǔ"
+    },
+    {
+      "ch": "了！",
+      "en": "!",
+      "pi": "le！"
+    }
+  ]
+}

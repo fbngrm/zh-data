@@ -1,0 +1,32 @@
+{
+  "chinese": "你明天要来吗？",
+  "english": "Are you coming tomorrow?",
+  "pinyin": "nǐ míngtiān yào lái ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "来",
+      "en": "to come",
+      "pi": "lái"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

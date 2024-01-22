@@ -1,0 +1,32 @@
+{
+  "chinese": "列车在晚上很挤。",
+  "english": "The train is crowded at night.",
+  "pinyin": "liè chē zài wǎn shàng hěn jǐ.",
+  "words": [
+    {
+      "ch": "列车",
+      "en": "train",
+      "pi": "liè chē"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "晚上",
+      "en": "night",
+      "pi": "wǎn shàng"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "挤",
+      "en": "crowded",
+      "pi": "jǐ"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "她说她每天早上都会刷牙。",
+  "english": "She said that she brushes her teeth every morning.",
+  "pinyin": "tā shuō tā měi tiān zǎo shàng dōu huì shuā yá。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "说",
+      "en": "said",
+      "pi": "shuō"
+    },
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎo shàng"
+    },
+    {
+      "ch": "都会",
+      "en": "always",
+      "pi": "dōu huì"
+    },
+    {
+      "ch": "刷牙",
+      "en": "brushes teeth",
+      "pi": "shuā yá"
+    }
+  ]
+}

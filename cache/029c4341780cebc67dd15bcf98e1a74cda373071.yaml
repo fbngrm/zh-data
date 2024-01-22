@@ -1,0 +1,42 @@
+{
+  "chinese": "我买两朵漂亮的花。",
+  "english": "I buy two beautiful flowers.",
+  "pinyin": "wǒ mǎi liǎng duǒ piàoliang de huā.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "买",
+      "en": "buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "两",
+      "en": "two",
+      "pi": "liǎng"
+    },
+    {
+      "ch": "朵",
+      "en": "measure word for flowers",
+      "pi": "duǒ"
+    },
+    {
+      "ch": "漂亮",
+      "en": "beautiful",
+      "pi": "piàoliang"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "花",
+      "en": "flower",
+      "pi": "huā"
+    }
+  ]
+}

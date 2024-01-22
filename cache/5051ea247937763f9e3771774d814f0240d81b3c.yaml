@@ -1,0 +1,13 @@
+{
+  "chinese": "我在学几门语言。",
+  "english": "I am learning several languages.",
+  "pinyin": "Wǒ zài xué jǐ mén yǔyán.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "在", "en": "am", "pi": "zài"},
+    {"ch": "学", "en": "learning", "pi": "xué"},
+    {"ch": "几", "en": "several", "pi": "jǐ"},
+    {"ch": "门", "en": "", "pi": "mén"},
+    {"ch": "语言", "en": "languages", "pi": "yǔyán"}
+  ]
+}

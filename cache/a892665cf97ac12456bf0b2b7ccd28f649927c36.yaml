@@ -1,0 +1,37 @@
+{
+  "chinese": "大卫能讲流利的法语。",
+  "english": "David can speak fluent French.",
+  "pinyin": "Dà wèi néng jiǎng liú lì de fǎ yǔ.",
+  "words": [
+    {
+      "ch": "大卫",
+      "en": "David",
+      "pi": "dà wèi"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "讲",
+      "en": "speak",
+      "pi": "jiǎng"
+    },
+    {
+      "ch": "流利",
+      "en": "fluent",
+      "pi": "liú lì"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎ yǔ"
+    }
+  ]
+}

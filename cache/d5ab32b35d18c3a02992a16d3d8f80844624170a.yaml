@@ -1,0 +1,32 @@
+{
+  "chinese": "我们不会再见你了。",
+  "english": "We won't see you again.",
+  "pinyin": "wǒmen bù huì zài jiàn nǐ le。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "不会",
+      "en": "won't",
+      "pi": "bù huì"
+    },
+    {
+      "ch": "再见",
+      "en": "see you again",
+      "pi": "zài jiàn"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "了",
+      "en": "again",
+      "pi": "le"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我要这台相机。",
+  "english": "I want this camera.",
+  "pinyin": "wǒ yào zhè tái xiàng jī。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "台",
+      "en": "classifier for machines",
+      "pi": "tái"
+    },
+    {
+      "ch": "相机",
+      "en": "camera",
+      "pi": "xiàng jī"
+    }
+  ]
+}

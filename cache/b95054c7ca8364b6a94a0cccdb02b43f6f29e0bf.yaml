@@ -1,0 +1,32 @@
+{
+  "chinese": "有人在叫你。",
+  "english": "Someone is calling you.",
+  "pinyin": "yǒu rén zài jiào nǐ.",
+  "words": [
+    {
+      "ch": "有",
+      "en": "someone",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "人",
+      "en": "is",
+      "pi": "rén"
+    },
+    {
+      "ch": "在",
+      "en": "calling",
+      "pi": "zài"
+    },
+    {
+      "ch": "叫",
+      "en": "you",
+      "pi": "jiào"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    }
+  ]
+}

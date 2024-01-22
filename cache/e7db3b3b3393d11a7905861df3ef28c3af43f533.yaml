@@ -1,0 +1,32 @@
+{
+  "chinese": "比赛因为下雨取消了。",
+  "english": "The match was canceled due to the rain.",
+  "pinyin": "bǐ sài yīn wèi xià yǔ qǔ xiāo le。",
+  "words": [
+    {
+      "ch": "比赛",
+      "en": "match",
+      "pi": "bǐ sài"
+    },
+    {
+      "ch": "因为",
+      "en": "because",
+      "pi": "yīn wèi"
+    },
+    {
+      "ch": "下雨",
+      "en": "rain",
+      "pi": "xià yǔ"
+    },
+    {
+      "ch": "取消",
+      "en": "cancel",
+      "pi": "qǔ xiāo"
+    },
+    {
+      "ch": "了",
+      "en": "completed action",
+      "pi": "le"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "chinese": "你们好吗？",
+  "english": "How are you?",
+  "pinyin": "nǐ men hǎo ma?",
+  "words": [
+    {
+      "ch": "你们",
+      "en": "you",
+      "pi": "nǐ men"
+    },
+    {
+      "ch": "好",
+      "en": "are",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

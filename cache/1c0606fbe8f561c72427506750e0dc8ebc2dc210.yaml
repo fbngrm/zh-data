@@ -1,0 +1,32 @@
+{
+  "chinese": "他的年龄是她的两倍。",
+  "english": "His age is twice her age.",
+  "pinyin": "tā de niánlíng shì tā de liǎng bèi.",
+  "words": [
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "年龄",
+      "en": "age",
+      "pi": "niánlíng"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "她的",
+      "en": "her",
+      "pi": "tā de"
+    },
+    {
+      "ch": "两倍",
+      "en": "twice",
+      "pi": "liǎng bèi"
+    }
+  ]
+}

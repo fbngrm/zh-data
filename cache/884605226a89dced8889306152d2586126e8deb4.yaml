@@ -1,0 +1,32 @@
+{
+  "chinese": "我今天的心情不好。",
+  "english": "I'm not in a good mood today.",
+  "pinyin": "wǒ jīntiān de xīnqíng bù hǎo.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "心情",
+      "en": "mood",
+      "pi": "xīnqíng"
+    },
+    {
+      "ch": "不好",
+      "en": "not good",
+      "pi": "bù hǎo"
+    }
+  ]
+}

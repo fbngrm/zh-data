@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆帮我搬了家。",
+  "english": "Tom helped me move.",
+  "pinyin": "Tāng mǔ bāng wǒ bān le jiā.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "帮",
+      "en": "help",
+      "pi": "bāng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "搬",
+      "en": "move",
+      "pi": "bān"
+    },
+    {
+      "ch": "了",
+      "en": "了",
+      "pi": "le"
+    },
+    {
+      "ch": "家",
+      "en": "home",
+      "pi": "jiā"
+    }
+  ]
+}

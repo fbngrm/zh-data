@@ -1,0 +1,37 @@
+{
+  "chinese": "我可以用你的笔吗？",
+  "english": "Can I use your pen?",
+  "pinyin": "Wǒ kěyǐ yòng nǐ de bǐ ma?",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kěyǐ"
+    },
+    {
+      "ch": "用",
+      "en": "use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "笔",
+      "en": "pen",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "吗",
+      "en": "",
+      "pi": "ma"
+    }
+  ]
+}

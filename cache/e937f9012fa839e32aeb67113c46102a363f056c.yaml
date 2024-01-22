@@ -1,0 +1,11 @@
+{
+  "chinese": "有人会开车吗？",
+  "english": "Does anyone know how to drive?",
+  "pinyin": "yǒu rén huì kāi chē ma?",
+  "words": [
+    {"ch": "有人", "en": "anyone", "pi": "yǒu rén"},
+    {"ch": "会", "en": "know how to", "pi": "huì"},
+    {"ch": "开车", "en": "drive", "pi": "kāi chē"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

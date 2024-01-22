@@ -1,0 +1,42 @@
+{
+  "chinese": "这本书一点也不有趣。",
+  "english": "This book is not interesting at all.",
+  "pinyin": "zhè běn shū yī diǎn yě bù yǒu qù.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "书",
+      "en": "is",
+      "pi": "shū"
+    },
+    {
+      "ch": "一点",
+      "en": "not",
+      "pi": "yī diǎn"
+    },
+    {
+      "ch": "也",
+      "en": "interesting",
+      "pi": "yě"
+    },
+    {
+      "ch": "不",
+      "en": "at all",
+      "pi": "bù"
+    },
+    {
+      "ch": "有趣",
+      "en": "not interesting",
+      "pi": "yǒu qù"
+    }
+  ]
+}

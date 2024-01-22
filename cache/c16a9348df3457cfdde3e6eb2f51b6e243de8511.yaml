@@ -1,0 +1,47 @@
+{
+  "chinese": "你是这所学校的学生吗？",
+  "english": "Are you a student of this school?",
+  "pinyin": "Nǐ shì zhè suǒ xuéxiào de xuéshēng ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "所",
+      "en": "of",
+      "pi": "suǒ"
+    },
+    {
+      "ch": "学校",
+      "en": "school",
+      "pi": "xuéxiào"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "学生",
+      "en": "student",
+      "pi": "xuéshēng"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

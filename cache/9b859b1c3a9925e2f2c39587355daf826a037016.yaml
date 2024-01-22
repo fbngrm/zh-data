@@ -1,0 +1,15 @@
+{
+  "chinese": "跑上山后，我完全喘不过气来。",
+  "english": "After running up the mountain, I couldn't catch my breath at all.",
+  "pinyin": "Pǎo shàngshān hòu, wǒ wánquán chuǎn bùguò qì lái.",
+  "words": [
+    {"ch": "跑", "en": "run", "pi": "pǎo"},
+    {"ch": "上山", "en": "up the mountain", "pi": "shàngshān"},
+    {"ch": "后", "en": "after", "pi": "hòu"},
+    {"ch": "，", "en": ",", "pi": null},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "完全", "en": "completely", "pi": "wánquán"},
+    {"ch": "喘不过气来", "en": "couldn't catch my breath", "pi": "chuǎn bùguò qì lái"},
+    {"ch": "。", "en": ".", "pi": null}
+  ]
+}

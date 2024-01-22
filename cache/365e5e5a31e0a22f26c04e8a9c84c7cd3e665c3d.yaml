@@ -1,0 +1,32 @@
+{
+  "chinese": "你今天做那个，是吗？",
+  "english": "What are you doing today, right?",
+  "pinyin": "nǐ jīn tiān zuò nà gè, shì ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "做",
+      "en": "doing",
+      "pi": "zuò"
+    },
+    {
+      "ch": "那个",
+      "en": "what",
+      "pi": "nà gè"
+    },
+    {
+      "ch": "是吗",
+      "en": "right",
+      "pi": "shì ma"
+    }
+  ]
+}

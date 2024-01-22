@@ -1,0 +1,32 @@
+{
+  "chinese": "早餐准备好了吗？",
+  "english": "Is breakfast ready?",
+  "pinyin": "zǎo cān zhǔn bèi hǎo le ma?",
+  "words": [
+    {
+      "ch": "早餐",
+      "en": "breakfast",
+      "pi": "zǎo cān"
+    },
+    {
+      "ch": "准备",
+      "en": "ready",
+      "pi": "zhǔn bèi"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "了",
+      "en": "le",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

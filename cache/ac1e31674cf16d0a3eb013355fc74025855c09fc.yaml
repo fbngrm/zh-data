@@ -1,0 +1,32 @@
+{
+  "chinese": "你很了解汤姆吗？",
+  "english": "Do you know Tom well?",
+  "pinyin": "nǐ hěn liǎo jiě tāng mǔ ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "了解",
+      "en": "know",
+      "pi": "liǎo jiě"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

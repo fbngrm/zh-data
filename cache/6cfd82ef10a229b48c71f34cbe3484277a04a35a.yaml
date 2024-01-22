@@ -1,0 +1,42 @@
+{
+  "chinese": "我不知道明年会发生什么。",
+  "english": "I don't know what will happen next year.",
+  "pinyin": "wǒ bù zhīdào míngnián huì fāshēng shénme。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "明年",
+      "en": "next year",
+      "pi": "míngnián"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "发生",
+      "en": "happen",
+      "pi": "fāshēng"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    }
+  ]
+}

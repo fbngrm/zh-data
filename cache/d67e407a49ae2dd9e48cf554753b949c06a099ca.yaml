@@ -1,0 +1,32 @@
+{
+  "chinese": "今天不比昨天悶熱。",
+  "english": "Today is not as hot as yesterday.",
+  "pinyin": "jīn tiān bù bǐ zuó tiān mèn rè。",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "Today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "比",
+      "en": "as",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "悶熱",
+      "en": "hot",
+      "pi": "mèn rè"
+    }
+  ]
+}

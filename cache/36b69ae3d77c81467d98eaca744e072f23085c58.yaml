@@ -1,0 +1,15 @@
+{
+  "chinese": "她每天早上都會喝一瓶牛奶。",
+  "english": "She drinks a bottle of milk every morning.",
+  "pinyin": "Tā měi tiān zǎo shàng dōu huì hē yī píng niú nǎi.",
+  "words": [
+    {"ch": "她", "en": "She", "pi": "tā"},
+    {"ch": "每天", "en": "every day", "pi": "měi tiān"},
+    {"ch": "早上", "en": "morning", "pi": "zǎo shàng"},
+    {"ch": "都", "en": "always", "pi": "dōu"},
+    {"ch": "會", "en": "will", "pi": "huì"},
+    {"ch": "喝", "en": "drink", "pi": "hē"},
+    {"ch": "一瓶", "en": "a bottle of", "pi": "yī píng"},
+    {"ch": "牛奶", "en": "milk", "pi": "niú nǎi"}
+  ]
+}

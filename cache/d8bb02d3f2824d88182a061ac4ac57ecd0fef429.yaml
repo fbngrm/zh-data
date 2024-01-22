@@ -1,0 +1,14 @@
+{
+  "chinese": "敌人在工厂投下了很多炸弹。",
+  "english": "The enemy dropped a lot of bombs in the factory.",
+  "pinyin": "dí rén zài gōng chǎng tóu xià le hěn duō zhà dàn。",
+  "words": [
+    {"ch": "敌人", "en": "enemy", "pi": "dí rén"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "工厂", "en": "factory", "pi": "gōng chǎng"},
+    {"ch": "投下", "en": "dropped", "pi": "tóu xià"},
+    {"ch": "了", "en": "a lot of", "pi": "le"},
+    {"ch": "很多", "en": "bombs", "pi": "hěn duō"},
+    {"ch": "炸弹", "en": "in the factory.", "pi": "zhà dàn"}
+  ]
+}

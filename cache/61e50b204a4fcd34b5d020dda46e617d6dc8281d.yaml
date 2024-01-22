@@ -1,0 +1,42 @@
+{
+  "chinese": "我想看一下里面有什么。",
+  "english": "I want to see what's inside.",
+  "pinyin": "wǒ xiǎng kàn yíxià lǐmiàn yǒu shénme.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "看",
+      "en": "to see",
+      "pi": "kàn"
+    },
+    {
+      "ch": "一下",
+      "en": "a bit",
+      "pi": "yíxià"
+    },
+    {
+      "ch": "里面",
+      "en": "inside",
+      "pi": "lǐmiàn"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    }
+  ]
+}

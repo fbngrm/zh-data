@@ -1,0 +1,16 @@
+{
+  "chinese": "汤姆用尽了火柴，不能点火了。",
+  "english": "Tom ran out of matches and can't start a fire.",
+  "pinyin": "Tāng mǔ yòng jìn le huǒchái, bù néng diǎn huǒ le.",
+  "words": [
+    { "ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ" },
+    { "ch": "用尽", "en": "ran out", "pi": "yòng jìn" },
+    { "ch": "了", "en": "of", "pi": "le" },
+    { "ch": "火柴", "en": "matches", "pi": "huǒchái" },
+    { "ch": "，", "en": ",", "pi": "，" },
+    { "ch": "不能", "en": "can't", "pi": "bù néng" },
+    { "ch": "点火", "en": "start a fire", "pi": "diǎn huǒ" },
+    { "ch": "了", "en": "and", "pi": "le" },
+    { "ch": "。", "en": ".", "pi": "。" }
+  ]
+}

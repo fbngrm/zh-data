@@ -1,0 +1,13 @@
+{
+  "chinese": "公车站牌就在街对面。",
+  "english": "The bus stop is right across the street.",
+  "pinyin": "Gōngchē zhàn pái jiù zài jiē duìmiàn.",
+  "words": [
+    {"ch": "公车", "en": "bus", "pi": "gōngchē"},
+    {"ch": "站牌", "en": "stop", "pi": "zhàn pái"},
+    {"ch": "就", "en": "right", "pi": "jiù"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "街", "en": "street", "pi": "jiē"},
+    {"ch": "对面", "en": "across", "pi": "duìmiàn"}
+  ]
+}

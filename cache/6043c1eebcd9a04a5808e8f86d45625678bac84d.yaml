@@ -1,0 +1,32 @@
+{
+  "chinese": "一百二十三",
+  "english": "One hundred twenty-three",
+  "pinyin": "yī bǎi èr shí sān",
+  "words": [
+    {
+      "ch": "一",
+      "en": "one",
+      "pi": "yī"
+    },
+    {
+      "ch": "百",
+      "en": "hundred",
+      "pi": "bǎi"
+    },
+    {
+      "ch": "二",
+      "en": "two",
+      "pi": "èr"
+    },
+    {
+      "ch": "十",
+      "en": "ten",
+      "pi": "shí"
+    },
+    {
+      "ch": "三",
+      "en": "three",
+      "pi": "sān"
+    }
+  ]
+}

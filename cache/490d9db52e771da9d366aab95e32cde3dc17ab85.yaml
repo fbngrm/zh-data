@@ -1,0 +1,27 @@
+{
+  "chinese": "他昨天去世了。",
+  "english": "He passed away yesterday.",
+  "pinyin": "tā zuótiān qùshìle.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "去世",
+      "en": "passed away",
+      "pi": "qùshì"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

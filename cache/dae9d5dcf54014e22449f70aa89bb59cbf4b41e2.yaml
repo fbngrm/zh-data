@@ -1,0 +1,17 @@
+{
+  "chinese": "我们希望在不久的将来邀请彼得去日本。",
+  "english": "We hope to invite Peter to Japan in the near future.",
+  "pinyin": "wǒ men xī wàng zài bù jiǔ de jiāng lái yāo qǐng bǐ dé qù rì běn。",
+  "words": [
+    {"ch": "我们", "en": "we", "pi": "wǒ men"},
+    {"ch": "希望", "en": "hope", "pi": "xī wàng"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "不久", "en": "near", "pi": "bù jiǔ"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "将来", "en": "future", "pi": "jiāng lái"},
+    {"ch": "邀请", "en": "invite", "pi": "yāo qǐng"},
+    {"ch": "彼得", "en": "Peter", "pi": "bǐ dé"},
+    {"ch": "去", "en": "to", "pi": "qù"},
+    {"ch": "日本", "en": "Japan", "pi": "rì běn"}
+  ]
+}

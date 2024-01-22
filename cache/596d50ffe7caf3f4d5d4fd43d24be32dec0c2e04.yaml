@@ -1,0 +1,12 @@
+{
+  "chinese": "这是谁的茶？",
+  "english": "Whose tea is this?",
+  "pinyin": "zhè shì shéi de chá?",
+  "words": [
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "谁", "en": "whose", "pi": "shéi"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "茶", "en": "tea", "pi": "chá"}
+  ]
+}

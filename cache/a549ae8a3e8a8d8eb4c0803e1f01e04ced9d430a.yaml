@@ -1,0 +1,32 @@
+{
+  "chinese": "皇帝的生日在星期日。",
+  "english": "The emperor's birthday is on Sunday.",
+  "pinyin": "Huángdì de shēngrì zài xīngqīrì.",
+  "words": [
+    {
+      "ch": "皇帝",
+      "en": "emperor",
+      "pi": "huángdì"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "生日",
+      "en": "birthday",
+      "pi": "shēngrì"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "星期日",
+      "en": "Sunday",
+      "pi": "xīngqīrì"
+    }
+  ]
+}

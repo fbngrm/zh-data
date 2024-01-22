@@ -1,0 +1,37 @@
+{
+  "chinese": "您没看人了吗？",
+  "english": "Haven't you seen anyone?",
+  "pinyin": "nín méi kàn rén le ma?",
+  "words": [
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "没",
+      "en": "have not",
+      "pi": "méi"
+    },
+    {
+      "ch": "看",
+      "en": "see",
+      "pi": "kàn"
+    },
+    {
+      "ch": "人",
+      "en": "person",
+      "pi": "rén"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "这本小说的名字出自《圣经》。",
+  "english": "The name of this novel comes from the Bible.",
+  "pinyin": "zhè běn xiǎo shuō de míng zi chū zì shèng jīng。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "小说",
+      "en": "novel",
+      "pi": "xiǎo shuō"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míng zi"
+    },
+    {
+      "ch": "出自",
+      "en": "comes from",
+      "pi": "chū zì"
+    },
+    {
+      "ch": "《圣经》",
+      "en": "the Bible",
+      "pi": "shèng jīng"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "医生用Ｘ光检查我的胃。",
+  "english": "The doctor examined my stomach with an X-ray.",
+  "pinyin": "yī shēng yòng X guāng jiǎn chá wǒ de wèi.",
+  "words": [
+    {
+      "ch": "医生",
+      "en": "doctor",
+      "pi": "yī shēng"
+    },
+    {
+      "ch": "用",
+      "en": "use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "Ｘ光",
+      "en": "X-ray",
+      "pi": "X guāng"
+    },
+    {
+      "ch": "检查",
+      "en": "examine",
+      "pi": "jiǎn chá"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "胃",
+      "en": "stomach",
+      "pi": "wèi"
+    }
+  ]
+}

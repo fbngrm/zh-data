@@ -1,0 +1,47 @@
+{
+  "chinese": "你想和我一起吃午餐吗？",
+  "english": "Do you want to have lunch with me?",
+  "pinyin": "nǐ xiǎng hé wǒ yīqǐ chī wǔcān ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "想",
+      "en": "Want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "和",
+      "en": "And",
+      "pi": "hé"
+    },
+    {
+      "ch": "我",
+      "en": "Me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "一起",
+      "en": "Together",
+      "pi": "yīqǐ"
+    },
+    {
+      "ch": "吃",
+      "en": "Eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "午餐",
+      "en": "Lunch",
+      "pi": "wǔcān"
+    },
+    {
+      "ch": "吗",
+      "en": "Question particle",
+      "pi": "ma"
+    }
+  ]
+}

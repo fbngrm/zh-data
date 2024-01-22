@@ -1,0 +1,32 @@
+{
+  "chinese": "哪只狗是你的？",
+  "english": "Which dog is yours?",
+  "pinyin": "Nǎ zhī gǒu shì nǐ de?",
+  "words": [
+    {
+      "ch": "哪",
+      "en": "Which",
+      "pi": "nǎ"
+    },
+    {
+      "ch": "只",
+      "en": "dog (measure word)",
+      "pi": "zhī"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "你的",
+      "en": "yours",
+      "pi": "nǐ de"
+    }
+  ]
+}

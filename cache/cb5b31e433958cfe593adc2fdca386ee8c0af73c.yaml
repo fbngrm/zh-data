@@ -1,0 +1,13 @@
+{
+  "chinese": "我们得到了一份有趣的情报。",
+  "english": "We have received an interesting intelligence.",
+  "pinyin": "wǒmen dédàole yī fèn yǒuqù de qíngbào.",
+  "words": [
+    { "ch": "我们", "en": "We", "pi": "wǒmen" },
+    { "ch": "得到", "en": "have received", "pi": "dédào" },
+    { "ch": "了", "en": "an", "pi": "le" },
+    { "ch": "一份", "en": "interesting", "pi": "yī fèn" },
+    { "ch": "有趣的", "en": "intelligence", "pi": "yǒuqù de" },
+    { "ch": "情报", "en": "intelligence", "pi": "qíngbào" }
+  ]
+}

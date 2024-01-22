@@ -1,0 +1,37 @@
+{
+  "chinese": "我现在不想吃任何东西。",
+  "english": "I don't want to eat anything now.",
+  "pinyin": "wǒ xiànzài bùxiǎng chī rènhé dōngxi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiànzài"
+    },
+    {
+      "ch": "不想",
+      "en": "don't want",
+      "pi": "bùxiǎng"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "任何",
+      "en": "anything",
+      "pi": "rènhé"
+    },
+    {
+      "ch": "东西",
+      "en": "thing",
+      "pi": "dōngxi"
+    }
+  ]
+}

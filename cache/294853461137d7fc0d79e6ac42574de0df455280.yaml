@@ -1,0 +1,47 @@
+{
+  "chinese": "我的车今天早上坏了，星期五才能修好。",
+  "english": "My car broke down this morning, it can only be fixed on Friday.",
+  "pinyin": "Wǒ de chē jīntiān zǎoshang huài le, xīngqī wǔ cáinéng xiū hǎo.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "车",
+      "en": "car",
+      "pi": "chē"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎoshang"
+    },
+    {
+      "ch": "坏了",
+      "en": "broke down",
+      "pi": "huài le"
+    },
+    {
+      "ch": "星期五",
+      "en": "Friday",
+      "pi": "xīngqī wǔ"
+    },
+    {
+      "ch": "才能",
+      "en": "can only",
+      "pi": "cáinéng"
+    },
+    {
+      "ch": "修好",
+      "en": "be fixed",
+      "pi": "xiū hǎo"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我有几个好朋友。",
+  "english": "I have several good friends.",
+  "pinyin": "wǒ yǒu jǐ gè hǎo péngyǒu。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "几个",
+      "en": "several",
+      "pi": "jǐ gè"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "朋友",
+      "en": "friends",
+      "pi": "péngyǒu"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "第十台在播甚么节目？",
+  "english": "What program is playing on Channel 10?",
+  "pinyin": "Dì shí tái zài bō shén me jié mù?",
+  "words": [
+    {
+      "ch": "第十台",
+      "en": "Channel 10",
+      "pi": "dì shí tái"
+    },
+    {
+      "ch": "在播",
+      "en": "is playing",
+      "pi": "zài bō"
+    },
+    {
+      "ch": "甚么",
+      "en": "what",
+      "pi": "shén me"
+    },
+    {
+      "ch": "节目",
+      "en": "program",
+      "pi": "jié mù"
+    }
+  ]
+}

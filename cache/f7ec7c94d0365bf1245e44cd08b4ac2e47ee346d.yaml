@@ -1,0 +1,27 @@
+{
+  "chinese": "这里有一些图片。",
+  "english": "Here are some pictures.",
+  "pinyin": "zhè lǐ yǒu yīxiē túpiàn.",
+  "words": [
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一些",
+      "en": "some",
+      "pi": "yīxiē"
+    },
+    {
+      "ch": "图片",
+      "en": "pictures",
+      "pi": "túpiàn"
+    }
+  ]
+}

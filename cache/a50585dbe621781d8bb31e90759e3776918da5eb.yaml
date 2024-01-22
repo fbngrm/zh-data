@@ -1,0 +1,32 @@
+{
+  "chinese":"法语课过得怎样？",
+  "english":"How was your French class?",
+  "pinyin":"fǎ yǔ kè guò dé zěn yàng?",
+  "words":[
+    {
+      "ch":"法语",
+      "en":"French",
+      "pi":"fǎ yǔ"
+    },
+    {
+      "ch":"课",
+      "en":"class",
+      "pi":"kè"
+    },
+    {
+      "ch":"过",
+      "en":"was",
+      "pi":"guò"
+    },
+    {
+      "ch":"得",
+      "en":"how",
+      "pi":"dé"
+    },
+    {
+      "ch":"怎样",
+      "en":"How",
+      "pi":"zěn yàng"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我一天花了５００美元。",
+  "english": "I spent $500 in one day.",
+  "pinyin": "Wǒ yītiān huāle 500 měiyuán.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "一天",
+      "en": "one day",
+      "pi": "yītiān"
+    },
+    {
+      "ch": "花了",
+      "en": "spent",
+      "pi": "huāle"
+    },
+    {
+      "ch": "５００",
+      "en": "500",
+      "pi": "wǔbǎi"
+    },
+    {
+      "ch": "美元",
+      "en": "dollars",
+      "pi": "měiyuán"
+    }
+  ]
+}

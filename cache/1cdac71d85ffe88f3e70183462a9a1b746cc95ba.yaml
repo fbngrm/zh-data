@@ -1,0 +1,32 @@
+{
+  "chinese": "你们一直住在一起吗？",
+  "english": "Have you been living together all along?",
+  "pinyin": "Nǐmen yīzhí zhù zài yīqǐ ma?",
+  "words": [
+    {
+      "ch": "你们",
+      "en": "you all",
+      "pi": "Nǐmen"
+    },
+    {
+      "ch": "一直",
+      "en": "all along",
+      "pi": "yīzhí"
+    },
+    {
+      "ch": "住",
+      "en": "live",
+      "pi": "zhù"
+    },
+    {
+      "ch": "在一起",
+      "en": "together",
+      "pi": "zài yīqǐ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

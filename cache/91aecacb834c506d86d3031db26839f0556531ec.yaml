@@ -1,0 +1,32 @@
+{
+  "chinese": "您从哪儿来的？",
+  "english": "Where are you from?",
+  "pinyin": "Nín cóng nǎr lái de?",
+  "words": [
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "哪儿",
+      "en": "where",
+      "pi": "nǎr"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    },
+    {
+      "ch": "的",
+      "en": "?",
+      "pi": "de"
+    }
+  ]
+}

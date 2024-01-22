@@ -1,0 +1,47 @@
+{
+  "chinese": "他在门附近看到了一只狗。",
+  "english": "He saw a dog near the door.",
+  "pinyin": "tā zài mén fùjìn kàn dào le yì zhī gǒu.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "门",
+      "en": "door",
+      "pi": "mén"
+    },
+    {
+      "ch": "附近",
+      "en": "near",
+      "pi": "fùjìn"
+    },
+    {
+      "ch": "看到",
+      "en": "saw",
+      "pi": "kàn dào"
+    },
+    {
+      "ch": "了",
+      "en": "a",
+      "pi": "le"
+    },
+    {
+      "ch": "一只",
+      "en": "dog",
+      "pi": "yì zhī"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    }
+  ]
+}

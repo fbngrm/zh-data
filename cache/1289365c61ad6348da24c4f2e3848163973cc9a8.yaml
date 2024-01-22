@@ -1,0 +1,42 @@
+{
+  "chinese": "我相信这条鱼是淡水鱼。",
+  "english": "I believe this fish is a freshwater fish.",
+  "pinyin": "wǒ xiāng xìn zhè tiáo yú shì dàn shuǐ yú.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "相信",
+      "en": "believe",
+      "pi": "xiāng xìn"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "条",
+      "en": "classifier for fish",
+      "pi": "tiáo"
+    },
+    {
+      "ch": "鱼",
+      "en": "fish",
+      "pi": "yú"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "淡水鱼",
+      "en": "freshwater fish",
+      "pi": "dàn shuǐ yú"
+    }
+  ]
+}

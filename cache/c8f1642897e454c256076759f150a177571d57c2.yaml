@@ -1,0 +1,16 @@
+{
+  "chinese": "照片中的每一個人都在微笑著。",
+  "english": "Everyone in the photo is smiling.",
+  "pinyin": "zhàopiàn zhōng de měi yī gè rén dōu zài wēixiào zhe。",
+  "words": [
+    {"ch": "照片", "en": "photo", "pi": "zhàopiàn"},
+    {"ch": "中", "en": "in", "pi": "zhōng"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "每一個", "en": "everyone", "pi": "měi yī gè"},
+    {"ch": "人", "en": "person", "pi": "rén"},
+    {"ch": "都", "en": "all", "pi": "dōu"},
+    {"ch": "在", "en": "is", "pi": "zài"},
+    {"ch": "微笑", "en": "smiling", "pi": "wēixiào"},
+    {"ch": "著", "en": "", "pi": "zhe"}
+  ]
+}

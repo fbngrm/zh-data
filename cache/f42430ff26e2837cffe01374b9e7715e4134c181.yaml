@@ -1,0 +1,37 @@
+{
+  "chinese": "她在他耳边低声说话。",
+  "english": "She whispered in his ear.",
+  "pinyin": "tā zài tā ěr biān dī shēng shuō huà。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "在",
+      "en": "in/at",
+      "pi": "zài"
+    },
+    {
+      "ch": "他",
+      "en": "he/him",
+      "pi": "tā"
+    },
+    {
+      "ch": "耳边",
+      "en": "ear",
+      "pi": "ěr biān"
+    },
+    {
+      "ch": "低声",
+      "en": "whisper",
+      "pi": "dī shēng"
+    },
+    {
+      "ch": "说话",
+      "en": "speak/talk",
+      "pi": "shuō huà"
+    }
+  ]
+}

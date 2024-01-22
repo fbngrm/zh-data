@@ -1,0 +1,13 @@
+{
+  "chinese": "这支铅笔是白色的。",
+  "english": "This pencil is white.",
+  "pinyin": "zhè zhī qiān bǐ shì bái sè de.",
+  "words": [
+    { "ch": "这", "en": "this", "pi": "zhè" },
+    { "ch": "支", "en": "pencil", "pi": "zhī" },
+    { "ch": "铅笔", "en": "pencil", "pi": "qiān bǐ" },
+    { "ch": "是", "en": "is", "pi": "shì" },
+    { "ch": "白色", "en": "white", "pi": "bái sè" },
+    { "ch": "的", "en": "of", "pi": "de" }
+  ]
+}

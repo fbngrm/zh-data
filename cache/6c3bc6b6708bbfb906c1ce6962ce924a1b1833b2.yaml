@@ -1,0 +1,32 @@
+{
+  "chinese": "我们在公园里散步。",
+  "english": "We are taking a walk in the park.",
+  "pinyin": "wǒmen zài gōngyuán lǐ sànbù.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "在",
+      "en": "are",
+      "pi": "zài"
+    },
+    {
+      "ch": "公园",
+      "en": "park",
+      "pi": "gōngyuán"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "散步",
+      "en": "taking a walk",
+      "pi": "sànbù"
+    }
+  ]
+}

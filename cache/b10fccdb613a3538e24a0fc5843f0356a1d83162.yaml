@@ -1,0 +1,15 @@
+{
+  "chinese": "我听到那消息，十分高兴。",
+  "english": "I heard the news and I'm very happy.",
+  "pinyin": "wǒ tīng dào nà xiāo xī, shí fēn gāo xìng.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "听到", "en": "heard", "pi": "tīng dào"},
+    {"ch": "那", "en": "the", "pi": "nà"},
+    {"ch": "消息", "en": "news", "pi": "xiāo xī"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "十分", "en": "very", "pi": "shí fēn"},
+    {"ch": "高兴", "en": "happy", "pi": "gāo xìng"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

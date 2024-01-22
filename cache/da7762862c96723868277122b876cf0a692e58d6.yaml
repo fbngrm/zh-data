@@ -1,0 +1,32 @@
+{
+  "chinese": "你的鞋子和衣服不合衬。",
+  "english": "Your shoes and clothes don't match.",
+  "pinyin": "nǐ de xié zi hé yī fú bù hé chèn.",
+  "words": [
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "鞋子",
+      "en": "shoes",
+      "pi": "xié zi"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "衣服",
+      "en": "clothes",
+      "pi": "yī fú"
+    },
+    {
+      "ch": "不合衬",
+      "en": "don't match",
+      "pi": "bù hé chèn"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "這本書很容易。",
+  "english": "This book is easy.",
+  "pinyin": "zhè běn shū hěn róngyì.",
+  "words": [
+    {
+      "ch": "這",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "書",
+      "en": "is",
+      "pi": "shū"
+    },
+    {
+      "ch": "很",
+      "en": "easy",
+      "pi": "hěn"
+    },
+    {
+      "ch": "容易",
+      "en": "easy",
+      "pi": "róngyì"
+    }
+  ]
+}

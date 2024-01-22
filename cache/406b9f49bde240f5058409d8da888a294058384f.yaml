@@ -1,0 +1,32 @@
+{
+  "chinese": "她知道您的電話號碼嗎?",
+  "english": "Does she know your phone number?",
+  "pinyin": "tā zhīdào nín de diànhuà hàomǎ ma?",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "您的",
+      "en": "your",
+      "pi": "nín de"
+    },
+    {
+      "ch": "電話號碼",
+      "en": "phone number",
+      "pi": "diànhuà hàomǎ"
+    },
+    {
+      "ch": "嗎",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

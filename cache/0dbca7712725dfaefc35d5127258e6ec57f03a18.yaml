@@ -1,0 +1,32 @@
+{
+  "chinese": "我昨晚看完了这本书。",
+  "english": "I finished reading this book last night.",
+  "pinyin": "wǒ zuó wǎn kàn wán le zhè běn shū.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "昨晚",
+      "en": "last night",
+      "pi": "zuó wǎn"
+    },
+    {
+      "ch": "看完了",
+      "en": "finished reading",
+      "pi": "kàn wán le"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本书",
+      "en": "book",
+      "pi": "běn shū"
+    }
+  ]
+}

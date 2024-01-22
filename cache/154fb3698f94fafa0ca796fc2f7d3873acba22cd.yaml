@@ -1,0 +1,42 @@
+{
+  "chinese": "我开车去了城市买东西。",
+  "english": "I drove to the city to buy things.",
+  "pinyin": "wǒ kāi chē qù le chéngshì mǎi dōngxi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "开车",
+      "en": "drive",
+      "pi": "kāi chē"
+    },
+    {
+      "ch": "去",
+      "en": "to",
+      "pi": "qù"
+    },
+    {
+      "ch": "了",
+      "en": "past tense particle",
+      "pi": "le"
+    },
+    {
+      "ch": "城市",
+      "en": "city",
+      "pi": "chéngshì"
+    },
+    {
+      "ch": "买",
+      "en": "buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "东西",
+      "en": "things",
+      "pi": "dōngxi"
+    }
+  ]
+}

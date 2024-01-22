@@ -1,0 +1,16 @@
+{
+  "chinese": "过马路小心点总没有错的。",
+  "english": "It's always right to be careful when crossing the road.",
+  "pinyin": "guò mǎ lù xiǎo xīn diǎn zǒng méi yǒu cuò de.",
+  "words": [
+    {"ch": "过", "en": "to cross", "pi": "guò"},
+    {"ch": "马路", "en": "road", "pi": "mǎ lù"},
+    {"ch": "小心", "en": "careful", "pi": "xiǎo xīn"},
+    {"ch": "点", "en": "a little", "pi": "diǎn"},
+    {"ch": "总", "en": "always", "pi": "zǒng"},
+    {"ch": "没", "en": "not", "pi": "méi"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "错", "en": "wrong", "pi": "cuò"},
+    {"ch": "的", "en": "particle", "pi": "de"}
+  ]
+}

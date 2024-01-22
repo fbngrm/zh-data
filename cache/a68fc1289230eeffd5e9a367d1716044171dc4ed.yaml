@@ -1,0 +1,32 @@
+{
+  "chinese": "这主意是不错啦。",
+  "english": "This idea is good.",
+  "pinyin": "zhè zhǔyì shì bùcuò la.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "主意",
+      "en": "idea",
+      "pi": "zhǔyì"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "不错",
+      "en": "good",
+      "pi": "bùcuò"
+    },
+    {
+      "ch": "啦",
+      "en": "!",
+      "pi": "la"
+    }
+  ]
+}

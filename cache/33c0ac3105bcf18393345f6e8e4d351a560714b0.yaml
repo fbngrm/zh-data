@@ -1,0 +1,32 @@
+{
+  "chinese": "這支鉛筆有多長？",
+  "english": "How long is this pencil?",
+  "pinyin": "zhè zhī qiān bǐ yǒu duō cháng?",
+  "words": [
+    {
+      "ch": "這",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "支",
+      "en": "Measure word for pens",
+      "pi": "zhī"
+    },
+    {
+      "ch": "鉛筆",
+      "en": "Pencil",
+      "pi": "qiān bǐ"
+    },
+    {
+      "ch": "有",
+      "en": "Have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "多長",
+      "en": "How long",
+      "pi": "duō cháng"
+    }
+  ]
+}

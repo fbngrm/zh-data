@@ -1,0 +1,42 @@
+{
+  "chinese": "巴黎是世界上最美丽的城市。",
+  "english": "Paris is the most beautiful city in the world.",
+  "pinyin": "bā lí shì shì jiè shàng zuì měi lì de chéng shì.",
+  "words": [
+    {
+      "ch": "巴黎",
+      "en": "Paris",
+      "pi": "bā lí"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "世界上",
+      "en": "in the world",
+      "pi": "shì jiè shàng"
+    },
+    {
+      "ch": "最",
+      "en": "most",
+      "pi": "zuì"
+    },
+    {
+      "ch": "美丽",
+      "en": "beautiful",
+      "pi": "měi lì"
+    },
+    {
+      "ch": "的",
+      "en": "the",
+      "pi": "de"
+    },
+    {
+      "ch": "城市",
+      "en": "city",
+      "pi": "chéng shì"
+    }
+  ]
+}

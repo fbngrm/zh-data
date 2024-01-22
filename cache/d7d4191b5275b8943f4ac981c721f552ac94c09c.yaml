@@ -1,0 +1,32 @@
+{
+  "chinese": "我明天要去购物。",
+  "english": "I'm going shopping tomorrow.",
+  "pinyin": "wǒ míngtiān yào qù gòuwù.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "购物",
+      "en": "shopping",
+      "pi": "gòuwù"
+    }
+  ]
+}

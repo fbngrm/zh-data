@@ -1,0 +1,27 @@
+{
+  "chinese": "你无权进入那里。",
+  "english": "You do not have permission to enter there.",
+  "pinyin": "nǐ wú quán jìn rù nà lǐ。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "无权",
+      "en": "do not have permission",
+      "pi": "wú quán"
+    },
+    {
+      "ch": "进入",
+      "en": "to enter",
+      "pi": "jìn rù"
+    },
+    {
+      "ch": "那里",
+      "en": "there",
+      "pi": "nà lǐ"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chinese": "汤姆希望他没有从玛丽那里借书。",
+  "english": "Tom hopes that he didn't borrow books from Mary.",
+  "pinyin": "tāng mǔ xī wàng tā méi yǒu cóng mǎ lì nà lǐ jiè shū。",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "希望", "en": "hopes", "pi": "xī wàng"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "没有", "en": "didn't", "pi": "méi yǒu"},
+    {"ch": "从", "en": "from", "pi": "cóng"},
+    {"ch": "玛丽", "en": "Mary", "pi": "mǎ lì"},
+    {"ch": "那里", "en": "there", "pi": "nà lǐ"},
+    {"ch": "借书", "en": "borrow books", "pi": "jiè shū"}
+  ]
+}

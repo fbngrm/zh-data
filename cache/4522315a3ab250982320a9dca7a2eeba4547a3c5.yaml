@@ -1,0 +1,13 @@
+{
+  "chinese": "他像往常一样五点钟起床。",
+  "english": "He gets up at five o'clock as usual.",
+  "pinyin": "tā xiàng wǎngcháng yīyàng wǔ diǎn zhōng qǐchuáng.",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "像", "en": "like", "pi": "xiàng"},
+    {"ch": "往常", "en": "as usual", "pi": "wǎngcháng"},
+    {"ch": "一样", "en": "same", "pi": "yīyàng"},
+    {"ch": "五点钟", "en": "five o'clock", "pi": "wǔ diǎn zhōng"},
+    {"ch": "起床", "en": "get up", "pi": "qǐchuáng"}
+  ]
+}

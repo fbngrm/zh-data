@@ -1,0 +1,14 @@
+{
+  "chinese": "相信他。他是这方面的专家",
+  "english": "Trust him. He is an expert in this field.",
+  "pinyin": "xiāng xìn tā. tā shì zhè fāng miàn de zhuān jiā",
+  "words": [
+    {"ch": "相信", "en": "trust", "pi": "xiāng xìn"},
+    {"ch": "他", "en": "him", "pi": "tā"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "方面", "en": "field", "pi": "fāng miàn"},
+    {"ch": "的", "en": "", "pi": "de"},
+    {"ch": "专家", "en": "expert", "pi": "zhuān jiā"}
+  ]
+}

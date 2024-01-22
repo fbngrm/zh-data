@@ -1,0 +1,13 @@
+{
+  "chinese": "我在超级市场里找他。",
+  "english": "I am looking for him in the supermarket.",
+  "pinyin": "Wǒ zài chāojí shìchǎng lǐ zhǎo tā.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "在", "en": "am", "pi": "zài"},
+    {"ch": "超级市场", "en": "supermarket", "pi": "chāojí shìchǎng"},
+    {"ch": "里", "en": "in", "pi": "lǐ"},
+    {"ch": "找", "en": "looking", "pi": "zhǎo"},
+    {"ch": "他", "en": "for him", "pi": "tā"}
+  ]
+}

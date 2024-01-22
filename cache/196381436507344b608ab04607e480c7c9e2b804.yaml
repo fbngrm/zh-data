@@ -1,0 +1,46 @@
+[
+   {
+      "chinese":"不，谢谢你。",
+      "english":"No, thank you.",
+      "pinyin":"bù, xièxiè nǐ.",
+      "words":[
+         {
+            "ch":"不",
+            "en":"No",
+            "pi":"bù"
+         },
+         {
+            "ch":"谢谢你",
+            "en":"thank you",
+            "pi":"xièxiè nǐ"
+         }
+      ]
+   },
+   {
+      "chinese":"我只是四处看看。",
+      "english":"I'm just looking around.",
+      "pinyin":"wǒ zhǐshì sìchù kànkan.",
+      "words":[
+         {
+            "ch":"我",
+            "en":"I",
+            "pi":"wǒ"
+         },
+         {
+            "ch":"只是",
+            "en":"just",
+            "pi":"zhǐshì"
+         },
+         {
+            "ch":"四处",
+            "en":"around",
+            "pi":"sìchù"
+         },
+         {
+            "ch":"看看",
+            "en":"looking",
+            "pi":"kànkan"
+         }
+      ]
+   }
+]

@@ -1,0 +1,32 @@
+{
+  "chinese": "你需要我帮忙吗？",
+  "english": "Do you need my help?",
+  "pinyin": "nǐ xū yào wǒ bāng máng ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "需要",
+      "en": "need",
+      "pi": "xū yào"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "帮忙",
+      "en": "help",
+      "pi": "bāng máng"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

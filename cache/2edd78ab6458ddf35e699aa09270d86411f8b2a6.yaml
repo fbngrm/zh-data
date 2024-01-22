@@ -1,0 +1,32 @@
+{
+  "chinese": "建筑物在地震中摇晃。",
+  "english": "The building is shaking during an earthquake.",
+  "pinyin": "jiàn zhù wù zài dì zhèn zhōng yáo huàng。",
+  "words": [
+    {
+      "ch": "建筑物",
+      "en": "building",
+      "pi": "jiàn zhù wù"
+    },
+    {
+      "ch": "在",
+      "en": "during",
+      "pi": "zài"
+    },
+    {
+      "ch": "地震",
+      "en": "earthquake",
+      "pi": "dì zhèn"
+    },
+    {
+      "ch": "中",
+      "en": "in",
+      "pi": "zhōng"
+    },
+    {
+      "ch": "摇晃",
+      "en": "shake",
+      "pi": "yáo huàng"
+    }
+  ]
+}

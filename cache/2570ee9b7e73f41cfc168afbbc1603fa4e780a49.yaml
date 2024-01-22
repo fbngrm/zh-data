@@ -1,0 +1,32 @@
+{
+  "chinese": "他每天早晨读报。",
+  "english": "He reads the newspaper every morning.",
+  "pinyin": "tā měi tiān zǎo chén dú bào。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "早晨",
+      "en": "morning",
+      "pi": "zǎo chén"
+    },
+    {
+      "ch": "读",
+      "en": "read",
+      "pi": "dú"
+    },
+    {
+      "ch": "报",
+      "en": "newspaper",
+      "pi": "bào"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "Tom的房子有三个房间。",
+  "english": "Tom's house has three rooms.",
+  "pinyin": "Tómdé fángzi yǒu sān gè fángjiān.",
+  "words": [
+    {
+      "ch": "Tom",
+      "en": "Tom",
+      "pi": "Tóng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "房子",
+      "en": "house",
+      "pi": "fángzi"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "三个",
+      "en": "three",
+      "pi": "sān gè"
+    },
+    {
+      "ch": "房间",
+      "en": "rooms",
+      "pi": "fángjiān"
+    }
+  ]
+}

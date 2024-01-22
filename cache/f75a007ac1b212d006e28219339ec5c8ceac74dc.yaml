@@ -1,0 +1,37 @@
+{
+  "chinese": "你是个高中生吗?",
+  "english": "Are you a high school student?",
+  "pinyin": "nǐ shì gè gāozhōng shēng ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "高中",
+      "en": "high school",
+      "pi": "gāozhōng"
+    },
+    {
+      "ch": "生",
+      "en": "student",
+      "pi": "shēng"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

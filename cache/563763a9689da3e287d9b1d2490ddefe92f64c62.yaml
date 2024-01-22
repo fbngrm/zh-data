@@ -1,0 +1,47 @@
+{
+  "chinese": "今天的天气真好，不是吗?",
+  "english": "The weather today is really nice, isn't it?",
+  "pinyin": "Jīntiān de tiānqì zhēn hǎo, bùshì ma?",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiānqì"
+    },
+    {
+      "ch": "真好",
+      "en": "really nice",
+      "pi": "zhēn hǎo"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": ","
+    },
+    {
+      "ch": "不是",
+      "en": "isn't",
+      "pi": "bùshì"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    },
+    {
+      "ch": "?",
+      "en": "?",
+      "pi": "?"
+    }
+  ]
+}

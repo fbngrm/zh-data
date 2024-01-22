@@ -1,0 +1,47 @@
+{
+  "chinese": "你在这儿的时候想做什么？",
+  "english": "What do you want to do when you are here?",
+  "pinyin": "nǐ zài zhè'r de shíhou xiǎng zuò shénme?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "这儿",
+      "en": "here",
+      "pi": "zhè'r"
+    },
+    {
+      "ch": "的",
+      "en": "('s)",
+      "pi": "de"
+    },
+    {
+      "ch": "时候",
+      "en": "when",
+      "pi": "shíhou"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "做",
+      "en": "do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    }
+  ]
+}

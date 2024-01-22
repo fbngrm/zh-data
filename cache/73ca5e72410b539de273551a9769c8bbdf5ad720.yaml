@@ -1,0 +1,37 @@
+{
+  "chinese": "小偷迅速地窜入了人群。",
+  "english": "The thief quickly sneaked into the crowd.",
+  "pinyin": "xiǎo tōu xùn sù de cuàn rù le rén qún。",
+  "words": [
+    {
+      "ch": "小偷",
+      "en": "thief",
+      "pi": "xiǎo tōu"
+    },
+    {
+      "ch": "迅速",
+      "en": "quickly",
+      "pi": "xùn sù"
+    },
+    {
+      "ch": "地",
+      "en": "adverbial particle",
+      "pi": "de"
+    },
+    {
+      "ch": "窜入",
+      "en": "sneak into",
+      "pi": "cuàn rù"
+    },
+    {
+      "ch": "了",
+      "en": "indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "人群",
+      "en": "crowd",
+      "pi": "rén qún"
+    }
+  ]
+}

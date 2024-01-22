@@ -1,0 +1,37 @@
+{
+  "chinese": "麻烦你把音量调低一点。",
+  "english": "Could you please lower the volume a bit?",
+  "pinyin": "Máfan nǐ bǎ yīnliàng diào dī yīdiǎn.",
+  "words": [
+    {
+      "ch": "麻烦",
+      "en": "Could you please",
+      "pi": "máfan"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "把",
+      "en": "take",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "音量",
+      "en": "volume",
+      "pi": "yīnliàng"
+    },
+    {
+      "ch": "调低",
+      "en": "lower",
+      "pi": "diào dī"
+    },
+    {
+      "ch": "一点",
+      "en": "a bit",
+      "pi": "yīdiǎn"
+    }
+  ]
+}

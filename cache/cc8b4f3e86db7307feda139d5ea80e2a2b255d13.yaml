@@ -1,0 +1,14 @@
+{
+  "chinese": "这间医院有很多新设备。",
+  "english": "This hospital has a lot of new equipment.",
+  "pinyin": "zhè jiān yī yuàn yǒu hěn duō xīn shè bèi。",
+  "words": [
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "间", "en": "between", "pi": "jiān"},
+    {"ch": "医院", "en": "hospital", "pi": "yī yuàn"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "很多", "en": "a lot of", "pi": "hěn duō"},
+    {"ch": "新", "en": "new", "pi": "xīn"},
+    {"ch": "设备", "en": "equipment", "pi": "shè bèi"}
+  ]
+}

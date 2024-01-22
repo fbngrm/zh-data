@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "chinese": "那是无稽之谈。",
+      "english": "That's nonsense.",
+      "pinyin": "nà shì wú jī zhī tán。",
+      "words": [
+        {
+          "ch": "那",
+          "en": "That",
+          "pi": "nà"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "无稽之谈",
+          "en": "nonsense",
+          "pi": "wú jī zhī tán"
+        }
+      ]
+    },
+    {
+      "chinese": "只有傻瓜才会相信。",
+      "english": "Only a fool would believe it.",
+      "pinyin": "zhǐ yǒu shǎ guā cái huì xiāng xìn。",
+      "words": [
+        {
+          "ch": "只有",
+          "en": "Only",
+          "pi": "zhǐ yǒu"
+        },
+        {
+          "ch": "傻瓜",
+          "en": "fool",
+          "pi": "shǎ guā"
+        },
+        {
+          "ch": "才会",
+          "en": "would",
+          "pi": "cái huì"
+        },
+        {
+          "ch": "相信",
+          "en": "believe",
+          "pi": "xiāng xìn"
+        }
+      ]
+    }
+  ]
+}

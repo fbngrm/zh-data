@@ -1,0 +1,37 @@
+{
+  "chinese": "我想告诉你一件怪事。",
+  "english": "I want to tell you something strange.",
+  "pinyin": "wǒ xiǎng gào sù nǐ yī jiàn guài shì.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi":"wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi":"xiǎng"
+    },
+    {
+      "ch": "告诉",
+      "en": "to tell",
+      "pi":"gào sù"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi":"nǐ"
+    },
+    {
+      "ch": "一件",
+      "en": "one thing",
+      "pi":"yī jiàn"
+    },
+    {
+      "ch": "怪事",
+      "en": "strange",
+      "pi":"guài shì"
+    }
+  ]
+}

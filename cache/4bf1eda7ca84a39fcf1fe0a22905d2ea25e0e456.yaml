@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆这次做得比上次好。",
+  "english": "Tom did better this time than last time.",
+  "pinyin": "Tāng mǔ zhè cì zuò dé bǐ shàng cì hǎo.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "这次",
+      "en": "this time",
+      "pi": "zhè cì"
+    },
+    {
+      "ch": "做得",
+      "en": "did",
+      "pi": "zuò dé"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "上次",
+      "en": "last time",
+      "pi": "shàng cì"
+    },
+    {
+      "ch": "好",
+      "en": "better",
+      "pi": "hǎo"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "我正在把价格涨一倍。",
+  "english": "I'm doubling the price.",
+  "pinyin": "wǒ zhèngzài bǎ jiàgé zhǎng yībèi。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "正在",
+      "en": "am",
+      "pi": "zhèngzài"
+    },
+    {
+      "ch": "把",
+      "en": "the",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "价格",
+      "en": "price",
+      "pi": "jiàgé"
+    },
+    {
+      "ch": "涨",
+      "en": "doubling",
+      "pi": "zhǎng"
+    },
+    {
+      "ch": "一倍",
+      "en": "twice",
+      "pi": "yībèi"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "他喝很少的水。",
+  "english": "He drinks very little water.",
+  "pinyin": "tā hē hěn shǎo de shuǐ.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "喝",
+      "en": "drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "很少",
+      "en": "very little",
+      "pi": "hěn shǎo"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "水",
+      "en": "water",
+      "pi": "shuǐ"
+    }
+  ]
+}

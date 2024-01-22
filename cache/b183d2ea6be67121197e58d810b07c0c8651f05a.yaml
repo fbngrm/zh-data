@@ -1,0 +1,32 @@
+{
+  "chinese": "這個男孩睡了八個小時。",
+  "english": "This boy slept for eight hours.",
+  "pinyin": "Zhè gè nán hái shuì le bā gè xiǎo shí.",
+  "words": [
+    {
+      "ch": "這個",
+      "en": "This",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "男孩",
+      "en": "boy",
+      "pi": "nán hái"
+    },
+    {
+      "ch": "睡了",
+      "en": "slept",
+      "pi": "shuì le"
+    },
+    {
+      "ch": "八個",
+      "en": "eight",
+      "pi": "bā gè"
+    },
+    {
+      "ch": "小時",
+      "en": "hours",
+      "pi": "xiǎo shí"
+    }
+  ]
+}

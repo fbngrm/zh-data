@@ -1,0 +1,16 @@
+{
+  "chinese": "这是本好书，但那本更好。",
+  "english": "This is a good book, but that one is better.",
+  "pinyin": "zhè shì běn hǎo shū，dàn nà běn gèng hǎo。",
+  "words": [
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "本", "en": "a", "pi": "běn"},
+    {"ch": "好书", "en": "good book", "pi": "hǎo shū"},
+    {"ch": "，", "en": ","},
+    {"ch": "但", "en": "but", "pi": "dàn"},
+    {"ch": "那", "en": "that", "pi": "nà"},
+    {"ch": "更好", "en": "better", "pi": "gèng hǎo"},
+    {"ch": "。", "en": "."}
+  ]
+}

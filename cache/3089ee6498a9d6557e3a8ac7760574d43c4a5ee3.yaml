@@ -1,0 +1,32 @@
+{
+  "chinese": "我想更改我的预订。",
+  "english": "I want to change my reservation.",
+  "pinyin": "wǒ xiǎng gēng gǎi wǒ de yù dìng。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "更改",
+      "en": "to change",
+      "pi": "gēng gǎi"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "预订",
+      "en": "reservation",
+      "pi": "yù dìng"
+    }
+  ]
+}

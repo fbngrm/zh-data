@@ -1,0 +1,32 @@
+{
+  "chinese": "下午我们吃一种烧烤。",
+  "english": "In the afternoon, we ate a kind of barbecue.",
+  "pinyin": "Xiàwǔ wǒmen chī yī zhǒng shāokǎo.",
+  "words": [
+    {
+      "ch": "下午",
+      "en": "afternoon",
+      "pi": "xiàwǔ"
+    },
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "一种",
+      "en": "a kind of",
+      "pi": "yī zhǒng"
+    },
+    {
+      "ch": "烧烤",
+      "en": "barbecue",
+      "pi": "shāokǎo"
+    }
+  ]
+}

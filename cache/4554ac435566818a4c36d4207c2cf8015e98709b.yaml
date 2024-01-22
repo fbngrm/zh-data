@@ -1,0 +1,12 @@
+{
+  "chinese": "我和他一起走。",
+  "english": "I walk with him.",
+  "pinyin": "wǒ hé tā yīqǐ zǒu.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "他", "en": "him", "pi": "tā"},
+    {"ch": "一起", "en": "together", "pi": "yīqǐ"},
+    {"ch": "走", "en": "walk", "pi": "zǒu"}
+  ]
+}

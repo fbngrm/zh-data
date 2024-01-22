@@ -1,0 +1,63 @@
+{
+  "sentences": [
+    {
+      "chinese": "你說德語嗎?",
+      "english": "Do you speak German?",
+      "pinyin": "nǐ shuō dé yǔ ma?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "說",
+          "en": "speak",
+          "pi": "shuō"
+        },
+        {
+          "ch": "德語",
+          "en": "German",
+          "pi": "dé yǔ"
+        },
+        {
+          "ch": "嗎",
+          "en": "",
+          "pi": "ma"
+        }
+      ]
+    },
+    {
+      "chinese": "不，我不說。",
+      "english": "No, I don't speak.",
+      "pinyin": "bù, wǒ bù shuō.",
+      "words": [
+        {
+          "ch": "不",
+          "en": "no",
+          "pi": "bù"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "不",
+          "en": "don't",
+          "pi": "bù"
+        },
+        {
+          "ch": "說",
+          "en": "speak",
+          "pi": "shuō"
+        },
+        {
+          "ch": "。",
+          "en": "",
+          "pi": ""
+        }
+      ]
+    }
+  ]
+}

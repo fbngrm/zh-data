@@ -1,0 +1,42 @@
+{
+  "chinese": "珍妮特买了一条裙子和一件衬衫。",
+  "english": "Janet bought a skirt and a shirt.",
+  "pinyin": "zhēn nī tè mǎi le yī tiáo qún zǐ hé yī jiàn chèn shān.",
+  "words": [
+    {
+      "ch": "珍妮特",
+      "en": "Janet",
+      "pi": "zhēn nī tè"
+    },
+    {
+      "ch": "买了",
+      "en": "bought",
+      "pi": "mǎi le"
+    },
+    {
+      "ch": "一条",
+      "en": "a",
+      "pi": "yī tiáo"
+    },
+    {
+      "ch": "裙子",
+      "en": "skirt",
+      "pi": "qún zǐ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "一件",
+      "en": "a",
+      "pi": "yī jiàn"
+    },
+    {
+      "ch": "衬衫",
+      "en": "shirt",
+      "pi": "chèn shān"
+    }
+  ]
+}

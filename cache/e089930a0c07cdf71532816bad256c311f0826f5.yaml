@@ -1,0 +1,42 @@
+{
+  "chinese": "他有五本以上的字典。",
+  "english": "He has more than five dictionaries.",
+  "pinyin": "tā yǒu wǔ běn yǐshàng de zìdiǎn.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "五",
+      "en": "five",
+      "pi": "wǔ"
+    },
+    {
+      "ch": "本",
+      "en": "unit word for books",
+      "pi": "běn"
+    },
+    {
+      "ch": "以上",
+      "en": "more than",
+      "pi": "yǐshàng"
+    },
+    {
+      "ch": "的",
+      "en": " 's",
+      "pi": "de"
+    },
+    {
+      "ch": "字典",
+      "en": "dictionaries",
+      "pi": "zìdiǎn"
+    }
+  ]
+}

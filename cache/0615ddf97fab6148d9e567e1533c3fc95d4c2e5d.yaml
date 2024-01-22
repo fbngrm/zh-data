@@ -1,0 +1,16 @@
+{
+  "chinese": "他们打电话给医生因为这个孩子生病了。",
+  "english": "They called the doctor because the child was sick.",
+  "pinyin": "tāmen dǎ diànhuà gěi yīshēng yīnwèi zhège háizi shēngbìng le。",
+  "words": [
+    {"ch": "他们", "en": "They", "pi": "tāmen"},
+    {"ch": "打电话", "en": "called", "pi": "dǎ diànhuà"},
+    {"ch": "给", "en": "the", "pi": "gěi"},
+    {"ch": "医生", "en": "doctor", "pi": "yīshēng"},
+    {"ch": "因为", "en": "because", "pi": "yīnwèi"},
+    {"ch": "这个", "en": "this", "pi": "zhège"},
+    {"ch": "孩子", "en": "child", "pi": "háizi"},
+    {"ch": "生病", "en": "was sick", "pi": "shēngbìng"},
+    {"ch": "了", "en": "", "pi": "le"}
+  ]
+}

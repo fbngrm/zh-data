@@ -1,0 +1,20 @@
+{
+  "chinese": "我把亚当的手表弄坏了，气得他七窍生烟。",
+  "english": "I broke Adam's watch and made him furious.",
+  "pinyin": "Wǒ bǎ Yàdāng de shǒubiǎo nòng huài le, qì dé tā qīqiāo shēng yān.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "把", "en": "", "pi": "bǎ"},
+    {"ch": "亚当", "en": "Adam", "pi": "Yàdāng"},
+    {"ch": "的", "en": "possessive particle", "pi": "de"},
+    {"ch": "手表", "en": "watch", "pi": "shǒubiǎo"},
+    {"ch": "弄坏", "en": "broke", "pi": "nòng huài"},
+    {"ch": "了", "en": "particle indicating completed action", "pi": "le"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "气得", "en": "furious", "pi": "qì dé"},
+    {"ch": "他", "en": "him", "pi": "tā"},
+    {"ch": "七窍", "en": "seven orifices", "pi": "qīqiāo"},
+    {"ch": "生烟", "en": "to emit smoke", "pi": "shēng yān"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}

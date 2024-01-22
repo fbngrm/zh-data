@@ -1,0 +1,37 @@
+{
+  "chinese": "我听到远处传来狗叫声。",
+  "english": "I hear a dog barking in the distance.",
+  "pinyin": "wǒ tīng dào yuǎn chù chuán lái gǒu jiào shēng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "听到",
+      "en": "hear",
+      "pi": "tīng dào"
+    },
+    {
+      "ch": "远处",
+      "en": "in the distance",
+      "pi": "yuǎn chù"
+    },
+    {
+      "ch": "传来",
+      "en": "coming from",
+      "pi": "chuán lái"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "叫声",
+      "en": "barking",
+      "pi": "jiào shēng"
+    }
+  ]
+}

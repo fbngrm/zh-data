@@ -1,0 +1,47 @@
+{
+  "chinese": "她买了一个玩具给她的孩子。",
+  "english": "She bought a toy for her child.",
+  "pinyin": "tā mǎi le yī gè wán jù gěi tā de hái zǐ。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "买",
+      "en": "bought",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "了",
+      "en": "a particle word indicating a new situation or a completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "一个",
+      "en": "one",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "玩具",
+      "en": "toy",
+      "pi": "wán jù"
+    },
+    {
+      "ch": "给",
+      "en": "to",
+      "pi": "gěi"
+    },
+    {
+      "ch": "她的",
+      "en": "her",
+      "pi": "tā de"
+    },
+    {
+      "ch": "孩子",
+      "en": "child",
+      "pi": "hái zǐ"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我试着在河里游泳。",
+  "english": "I am trying to swim in the river.",
+  "pinyin": "wǒ shì zhe zài hé lǐ yóu yǒng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "试着",
+      "en": "trying to",
+      "pi": "shì zhe"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "河里",
+      "en": "the river",
+      "pi": "hé lǐ"
+    },
+    {
+      "ch": "游泳",
+      "en": "swim",
+      "pi": "yóu yǒng"
+    }
+  ]
+}

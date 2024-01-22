@@ -1,0 +1,32 @@
+{
+  "chinese": "你读完这本书了吗？",
+  "english": "Have you finished reading this book?",
+  "pinyin": "nǐ dú wán zhè běn shū le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "读完",
+      "en": "finished reading",
+      "pi": "dú wán"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本书",
+      "en": "book",
+      "pi": "běn shū"
+    },
+    {
+      "ch": "了吗",
+      "en": "Have you",
+      "pi": "le ma"
+    }
+  ]
+}

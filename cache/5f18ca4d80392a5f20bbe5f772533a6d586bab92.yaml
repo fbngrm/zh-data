@@ -1,0 +1,32 @@
+{
+  "chinese": "我有十三只猫。",
+  "english": "I have thirteen cats.",
+  "pinyin": "wǒ yǒu shí sān zhī māo.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "十三",
+      "en": "thirteen",
+      "pi": "shí sān"
+    },
+    {
+      "ch": "只",
+      "en": "cats",
+      "pi": "zhī"
+    },
+    {
+      "ch": "猫",
+      "en": "cats",
+      "pi": "māo"
+    }
+  ]
+}

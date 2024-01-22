@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆睡到中午。",
+  "english": "Tom sleeps until noon.",
+  "pinyin": "Tāng mǔ shuì dào zhōngwǔ.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "睡",
+      "en": "sleep",
+      "pi": "shuì"
+    },
+    {
+      "ch": "到",
+      "en": "until",
+      "pi": "dào"
+    },
+    {
+      "ch": "中午",
+      "en": "noon",
+      "pi": "zhōngwǔ"
+    }
+  ]
+}

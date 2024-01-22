@@ -1,0 +1,19 @@
+{
+  "chinese": "在汤姆前往波士顿之前，我能和他说话可真算是走了运。",
+  "english": "It's really lucky that I can talk to Tom before he goes to Boston.",
+  "pinyin": "Zài Tāngmǔ qiánwǎng Bōshìdùn zhīqián, wǒ néng hé tā shuōhuà kě zhēn suànshì zǒu le yùn.",
+  "words": [
+    { "ch": "在", "en": "in", "pi": "zài" },
+    { "ch": "汤姆", "en": "Tom", "pi": "Tāngmǔ" },
+    { "ch": "前往", "en": "go to", "pi": "qiánwǎng" },
+    { "ch": "波士顿", "en": "Boston", "pi": "Bōshìdùn" },
+    { "ch": "之前", "en": "before", "pi": "zhīqián" },
+    { "ch": "我能", "en": "I can", "pi": "wǒ néng" },
+    { "ch": "和", "en": "and", "pi": "hé" },
+    { "ch": "他", "en": "he", "pi": "tā" },
+    { "ch": "说话", "en": "talk", "pi": "shuōhuà" },
+    { "ch": "可真", "en": "really", "pi": "kě zhēn" },
+    { "ch": "算是", "en": "consider as", "pi": "suànshì" },
+    { "ch": "走了运", "en": "lucky", "pi": "zǒu le yùn" }
+  ]
+}

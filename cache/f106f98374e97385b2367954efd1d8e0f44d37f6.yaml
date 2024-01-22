@@ -1,0 +1,83 @@
+{
+  "sentences": [
+    {
+      "chinese": "先生,你是一個帝國主義者!",
+      "english": "Sir, you are an imperialist!",
+      "pinyin": "xiān shēng, nǐ shì yī gè dì guó zhǔ yì zhě!",
+      "words": [
+        {
+          "ch": "先生",
+          "en": "Sir",
+          "pi": "xiān shēng"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "是",
+          "en": "are",
+          "pi": "shì"
+        },
+        {
+          "ch": "一個",
+          "en": "a",
+          "pi": "yī gè"
+        },
+        {
+          "ch": "帝國主義者",
+          "en": "imperialist",
+          "pi": "dì guó zhǔ yì zhě"
+        }
+      ]
+    },
+    {
+      "chinese": "而你,先生,是一個巨魔。",
+      "english": "And you, sir, are a troll.",
+      "pinyin": "ér nǐ, xiān shēng, shì yī gè jù mó.",
+      "words": [
+        {
+          "ch": "而",
+          "en": "And",
+          "pi": "ér"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": ",",
+          "en": ",",
+          "pi": ","
+        },
+        {
+          "ch": "先生",
+          "en": "sir",
+          "pi": "xiān shēng"
+        },
+        {
+          "ch": "是",
+          "en": "are",
+          "pi": "shì"
+        },
+        {
+          "ch": "一個",
+          "en": "a",
+          "pi": "yī gè"
+        },
+        {
+          "ch": "巨魔",
+          "en": "troll",
+          "pi": "jù mó"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我是汤姆的助手。",
+  "english": "I am Tom's assistant.",
+  "pinyin": "Wǒ shì tāng mǔ de zhù shǒu.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "Wǒ"
+    },
+    {
+      "ch": "是",
+      "en": "am",
+      "pi": "shì"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "的",
+      "en": "'s",
+      "pi": "de"
+    },
+    {
+      "ch": "助手",
+      "en": "assistant",
+      "pi": "zhù shǒu"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "敌人在夜间攻击了我们。",
+  "english": "The enemy attacked us during the night.",
+  "pinyin": "dí rén zài yè jiān gōng jī le wǒ men.",
+  "words": [
+    {
+      "ch": "敌人",
+      "en": "enemy",
+      "pi": "dí rén"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "夜间",
+      "en": "night",
+      "pi": "yè jiān"
+    },
+    {
+      "ch": "攻击",
+      "en": "attack",
+      "pi": "gōng jī"
+    },
+    {
+      "ch": "了",
+      "en": "past tense particle",
+      "pi": "le"
+    },
+    {
+      "ch": "我们",
+      "en": "us",
+      "pi": "wǒ men"
+    }
+  ]
+}

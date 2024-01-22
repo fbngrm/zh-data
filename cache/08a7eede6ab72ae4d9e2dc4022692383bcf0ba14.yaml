@@ -1,0 +1,27 @@
+{
+  "chinese": "这条狗杂交。",
+  "english": "This dog is a hybrid.",
+  "pinyin": "zhè tiáo gǒu zá jiāo。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "条",
+      "en": "measure word for long objects",
+      "pi": "tiáo"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "杂交",
+      "en": "hybrid",
+      "pi": "zá jiāo"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "你已经按门铃了吗？",
+  "english": "Have you already pressed the doorbell?",
+  "pinyin": "nǐ yǐ jīng àn mén líng le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐ jīng"
+    },
+    {
+      "ch": "按",
+      "en": "press",
+      "pi": "àn"
+    },
+    {
+      "ch": "门铃",
+      "en": "doorbell",
+      "pi": "mén líng"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

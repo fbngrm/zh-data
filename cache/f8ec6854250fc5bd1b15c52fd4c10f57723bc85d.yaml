@@ -1,0 +1,27 @@
+{
+  "chinese": "我现在正在学习。",
+  "english": "I am currently studying.",
+  "pinyin": "Wǒ xiànzài zhèngzài xuéxí.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "现在",
+      "en": "currently",
+      "pi": "xiànzài"
+    },
+    {
+      "ch": "正在",
+      "en": "am",
+      "pi": "zhèngzài"
+    },
+    {
+      "ch": "学习",
+      "en": "studying",
+      "pi": "xuéxí"
+    }
+  ]
+}

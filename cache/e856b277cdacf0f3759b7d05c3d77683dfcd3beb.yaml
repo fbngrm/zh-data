@@ -1,0 +1,32 @@
+{
+  "chinese": "您不会说法语，是吗？",
+  "english": "You don't speak French, do you?",
+  "pinyin": "nín bú huì shuō fǎ yǔ, shì ma?",
+  "words": [
+    {
+      "ch": "您",
+      "en": "You",
+      "pi": "nín"
+    },
+    {
+      "ch": "不会",
+      "en": "don't",
+      "pi": "bú huì"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎ yǔ"
+    },
+    {
+      "ch": "是吗",
+      "en": "do you?",
+      "pi": "shì ma"
+    }
+  ]
+}

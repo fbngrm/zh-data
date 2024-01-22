@@ -1,0 +1,42 @@
+{
+  "chinese": "這把槍是屬於誰的?",
+  "english": "Whose gun is this?",
+  "pinyin": "zhè bǎ qiāng shì shǔ yú shuí de?",
+  "words": [
+    {
+      "ch": "這",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "把",
+      "en": "classifier for guns",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "槍",
+      "en": "gun",
+      "pi": "qiāng"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "屬於",
+      "en": "belong to",
+      "pi": "shǔ yú"
+    },
+    {
+      "ch": "誰",
+      "en": "who",
+      "pi": "shuí"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    }
+  ]
+}

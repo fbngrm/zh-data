@@ -1,0 +1,14 @@
+{
+  "chinese": "你最喜欢的电视节目是什么？",
+  "english": "What is your favorite TV show?",
+  "pinyin": "Nǐ zuì xǐhuān de diànshì jiémù shì shénme?",
+  "words": [
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "最", "en": "most", "pi": "zuì" },
+    { "ch": "喜欢", "en": "like", "pi": "xǐhuān" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "电视节目", "en": "TV show", "pi": "diànshì jiémù" },
+    { "ch": "是", "en": "is", "pi": "shì" },
+    { "ch": "什么", "en": "what", "pi": "shénme" }
+  ]
+}

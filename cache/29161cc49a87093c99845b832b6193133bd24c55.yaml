@@ -1,0 +1,32 @@
+{
+  "chinese": "我很开心你喜欢。",
+  "english": "I'm very happy that you like it.",
+  "pinyin": "wǒ hěn kāixīn nǐ xǐhuān.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "开心",
+      "en": "happy",
+      "pi": "kāixīn"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    }
+  ]
+}

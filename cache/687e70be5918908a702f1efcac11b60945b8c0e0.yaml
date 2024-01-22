@@ -1,0 +1,42 @@
+{
+  "chinese": "这本书的价格是５美元。",
+  "english": "The price of this book is 5 US dollars.",
+  "pinyin": "zhè běn shū de jiàgé shì wǔ měiyuán.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本书",
+      "en": "book",
+      "pi": "běn shū"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "价格",
+      "en": "price",
+      "pi": "jiàgé"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "５",
+      "en": "5",
+      "pi": "wǔ"
+    },
+    {
+      "ch": "美元",
+      "en": "US dollars",
+      "pi": "měiyuán"
+    }
+  ]
+}

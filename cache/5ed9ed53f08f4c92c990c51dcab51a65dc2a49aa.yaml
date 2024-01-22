@@ -1,0 +1,14 @@
+{
+  "chinese": "我很幸运有健康的身体。",
+  "english": "I am fortunate to have a healthy body.",
+  "pinyin": "wǒ hěn xìngyùn yǒu jiànkāng de shēntǐ.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "很", "en": "am", "pi": "hěn"},
+    {"ch": "幸运", "en": "fortunate", "pi": "xìngyùn"},
+    {"ch": "有", "en": "to have", "pi": "yǒu"},
+    {"ch": "健康", "en": "healthy", "pi": "jiànkāng"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "身体", "en": "body", "pi": "shēntǐ"}
+  ]
+}

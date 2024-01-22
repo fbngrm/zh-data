@@ -1,0 +1,32 @@
+{
+  "chinese": "你会拉小提琴吗？",
+  "english": "Can you play the violin?",
+  "pinyin": "nǐ huì lā xiǎo tí qín ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "拉",
+      "en": "play",
+      "pi": "lā"
+    },
+    {
+      "ch": "小提琴",
+      "en": "violin",
+      "pi": "xiǎo tí qín"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

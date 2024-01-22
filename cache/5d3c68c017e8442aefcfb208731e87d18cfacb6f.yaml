@@ -1,0 +1,42 @@
+{
+  "chinese": "我会给你带些咖啡。",
+  "english": "I will bring you some coffee.",
+  "pinyin": "wǒ huì gěi nǐ dài xiē kāfēi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "给",
+      "en": "bring",
+      "pi": "gěi"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "带",
+      "en": "some",
+      "pi": "dài"
+    },
+    {
+      "ch": "些",
+      "en": "coffee",
+      "pi": "xiē"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kāfēi"
+    }
+  ]
+}

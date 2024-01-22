@@ -1,0 +1,32 @@
+{
+  "chinese": "我认为这是真的。",
+  "english": "I think this is true.",
+  "pinyin": "wǒ rèn wéi zhè shì zhēn de.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "认为",
+      "en": "think",
+      "pi": "rèn wéi"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "真的",
+      "en": "true",
+      "pi": "zhēn de"
+    }
+  ]
+}

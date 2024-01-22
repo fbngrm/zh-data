@@ -1,0 +1,14 @@
+{
+  "chinese": "你的第二颗钮扣快掉了。",
+  "english": "Your second button is about to fall off.",
+  "pinyin": "nǐ de dì èr kē niǔkòu kuài diào le。",
+  "words": [
+    {"ch": "你的", "en": "Your", "pi": "nǐ de"},
+    {"ch": "第二", "en": "second", "pi": "dì èr"},
+    {"ch": "颗", "en": "button", "pi": "kē"},
+    {"ch": "钮扣", "en": "is about to", "pi": "niǔkòu"},
+    {"ch": "快", "en": "fall off", "pi": "kuài"},
+    {"ch": "掉", "en": "", "pi": "diào"},
+    {"ch": "了", "en": "", "pi": "le"}
+  ]
+}

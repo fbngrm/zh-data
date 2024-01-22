@@ -1,0 +1,32 @@
+{
+  "chinese": "又过了一天了。",
+  "english": "Another day has passed.",
+  "pinyin": "yòu guò le yī tiān le。",
+  "words": [
+    {
+      "ch": "又",
+      "en": "another",
+      "pi": "yòu"
+    },
+    {
+      "ch": "过",
+      "en": "pass",
+      "pi": "guò"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "一天",
+      "en": "day",
+      "pi": "yī tiān"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

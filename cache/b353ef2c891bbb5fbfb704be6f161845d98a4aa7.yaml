@@ -1,0 +1,37 @@
+{
+  "chinese": "我能和你谈谈吗？",
+  "english": "Can I talk to you?",
+  "pinyin": "wǒ néng hé nǐ tán tán ma?",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "谈谈",
+      "en": "talk",
+      "pi": "tán tán"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "这是我的字典。",
+  "english": "This is my dictionary.",
+  "pinyin": "zhè shì wǒ de zì diǎn。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "字典",
+      "en": "dictionary",
+      "pi": "zì diǎn"
+    }
+  ]
+}

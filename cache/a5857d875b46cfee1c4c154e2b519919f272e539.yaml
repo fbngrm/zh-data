@@ -1,0 +1,42 @@
+{
+  "chinese": "你能替我拷贝这个吗？",
+  "english": "Can you copy this for me?",
+  "pinyin": "nǐ néng tì wǒ kǎo bēi zhè gè ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "替",
+      "en": "to",
+      "pi": "tì"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "拷贝",
+      "en": "copy",
+      "pi": "kǎo bēi"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

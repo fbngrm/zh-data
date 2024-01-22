@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆看来感冒了。",
+  "english": "Tom seems to have caught a cold.",
+  "pinyin": "Tāng mǔ kàn lái gǎnmào le.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "看来",
+      "en": "seems to",
+      "pi": "kàn lái"
+    },
+    {
+      "ch": "感冒",
+      "en": "have a cold",
+      "pi": "gǎnmào"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "le"
+    }
+  ]
+}

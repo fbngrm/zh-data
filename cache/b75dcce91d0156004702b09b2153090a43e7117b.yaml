@@ -1,0 +1,18 @@
+{
+  "chinese": "我很高兴我们录用了你来担任这份工作。",
+  "english": "I'm glad we hired you for this job.",
+  "pinyin": "wǒ hěn gāo xìng wǒ men lù yòng le nǐ lái dān rèn zhè fèn gōng zuò。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "高兴", "en": "glad", "pi": "gāo xìng"},
+    {"ch": "我们", "en": "we", "pi": "wǒ men"},
+    {"ch": "录用", "en": "hired", "pi": "lù yòng"},
+    {"ch": "了", "en": "you", "pi": "le"},
+    {"ch": "来", "en": "for", "pi": "lái"},
+    {"ch": "担任", "en": "this", "pi": "dān rèn"},
+    {"ch": "这", "en": "job", "pi": "zhè"},
+    {"ch": "份", "en": "this", "pi": "fèn"},
+    {"ch": "工作", "en": "job", "pi": "gōng zuò"}
+  ]
+}

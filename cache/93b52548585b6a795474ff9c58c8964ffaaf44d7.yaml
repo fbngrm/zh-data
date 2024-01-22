@@ -1,0 +1,57 @@
+{
+  "chinese": "我找到了一辆出租车，但里面却没有司机。",
+  "english": "I found a taxi, but there was no driver inside.",
+  "pinyin": "wǒ zhǎo dào le yī liàng chū zū chē ，dàn lǐ miàn què méi yǒu sī jī。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "找到",
+      "en": "found",
+      "pi": "zhǎo dào"
+    },
+    {
+      "ch": "了",
+      "en": "a",
+      "pi": "le"
+    },
+    {
+      "ch": "一辆",
+      "en": "taxi",
+      "pi": "yī liàng"
+    },
+    {
+      "ch": "出租车",
+      "en": "taxi",
+      "pi": "chū zū chē"
+    },
+    {
+      "ch": "但",
+      "en": "but",
+      "pi": "dàn"
+    },
+    {
+      "ch": "里面",
+      "en": "inside",
+      "pi": "lǐ miàn"
+    },
+    {
+      "ch": "却",
+      "en": "no",
+      "pi": "què"
+    },
+    {
+      "ch": "没有",
+      "en": "driver",
+      "pi": "méi yǒu"
+    },
+    {
+      "ch": "司机",
+      "en": "driver",
+      "pi": "sī jī"
+    }
+  ]
+}

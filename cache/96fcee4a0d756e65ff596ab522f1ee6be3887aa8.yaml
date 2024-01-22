@@ -1,0 +1,32 @@
+{
+  "chinese": "昨天他写信给我。",
+  "english": "Yesterday he wrote a letter to me.",
+  "pinyin": "Zuótiān tā xiě xìn gěi wǒ.",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "Yesterday",
+      "pi": "Zuótiān"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "写信",
+      "en": "wrote a letter",
+      "pi": "xiě xìn"
+    },
+    {
+      "ch": "给",
+      "en": "to",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    }
+  ]
+}

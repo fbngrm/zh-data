@@ -1,0 +1,85 @@
+{
+  "sentences": [
+    {
+      "chinese": "哦，好吧。",
+      "english": "Oh, okay.",
+      "pinyin": "ò, hǎo ba.",
+      "words": [
+        {
+          "ch": "哦",
+          "en": "Oh",
+          "pi": "ò"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": ""
+        },
+        {
+          "ch": "好",
+          "en": "okay",
+          "pi": "hǎo"
+        },
+        {
+          "ch": "吧",
+          "en": "okay",
+          "pi": "ba"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": ""
+        }
+      ]
+    },
+    {
+      "chinese": "再见。",
+      "english": "Goodbye.",
+      "pinyin": "zài jiàn.",
+      "words": [
+        {
+          "ch": "再见",
+          "en": "Goodbye",
+          "pi": "zài jiàn"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": ""
+        }
+      ]
+    },
+    {
+      "chinese": "但是开车要小心。",
+      "english": "But be careful while driving.",
+      "pinyin": "dàn shì kāi chē yào xiǎo xīn.",
+      "words": [
+        {
+          "ch": "但是",
+          "en": "But",
+          "pi": "dàn shì"
+        },
+        {
+          "ch": "开车",
+          "en": "driving",
+          "pi": "kāi chē"
+        },
+        {
+          "ch": "要",
+          "en": "be",
+          "pi": "yào"
+        },
+        {
+          "ch": "小心",
+          "en": "careful",
+          "pi": "xiǎo xīn"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": ""
+        }
+      ]
+    }
+  ]
+}

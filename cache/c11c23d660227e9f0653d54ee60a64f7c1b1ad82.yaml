@@ -1,0 +1,32 @@
+{
+  "chinese": "世界各地都說英語。",
+  "english": "English is spoken all over the world.",
+  "pinyin": "shì jiè gè dì dōu shuō yīng yǔ。",
+  "words": [
+    {
+      "ch": "世界",
+      "en": "world",
+      "pi": "shì jiè"
+    },
+    {
+      "ch": "各地",
+      "en": "all over",
+      "pi": "gè dì"
+    },
+    {
+      "ch": "都",
+      "en": "also",
+      "pi": "dōu"
+    },
+    {
+      "ch": "說",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "英語",
+      "en": "English",
+      "pi": "yīng yǔ"
+    }
+  ]
+}

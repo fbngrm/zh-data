@@ -1,0 +1,32 @@
+{
+  "chinese": "你身体不舒服吗？",
+  "english": "Are you feeling unwell?",
+  "pinyin": "Nǐ shēntǐ bù shūfú ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "身体",
+      "en": "body",
+      "pi": "shēntǐ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "舒服",
+      "en": "comfortable",
+      "pi": "shūfú"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

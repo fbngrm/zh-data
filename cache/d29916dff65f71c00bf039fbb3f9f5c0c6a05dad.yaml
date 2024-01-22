@@ -1,0 +1,37 @@
+{
+  "chinese": "这场演讲持续了两个小时。",
+  "english": "This speech lasted for two hours.",
+  "pinyin": "zhè chǎng yǎn jiǎng chí xù le liǎng gè xiǎo shí。",
+  "words": [
+    {
+      "ch": "这场",
+      "en": "this",
+      "pi": "zhè chǎng"
+    },
+    {
+      "ch": "演讲",
+      "en": "speech",
+      "pi": "yǎn jiǎng"
+    },
+    {
+      "ch": "持续",
+      "en": "last",
+      "pi": "chí xù"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "两个",
+      "en": "two",
+      "pi": "liǎng gè"
+    },
+    {
+      "ch": "小时",
+      "en": "hours",
+      "pi": "xiǎo shí"
+    }
+  ]
+}

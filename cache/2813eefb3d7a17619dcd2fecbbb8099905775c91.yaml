@@ -1,0 +1,15 @@
+{
+  "chinese": "今天晚上你在什么地方有约会？",
+  "english": "Where are you meeting tonight?",
+  "pinyin": "jīn tiān wǎn shàng nǐ zài shén me dì fāng yǒu yuē huì?",
+  "words": [
+    {"ch": "今天", "en": "today", "pi": "jīn tiān"},
+    {"ch": "晚上", "en": "tonight", "pi": "wǎn shàng"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "什么", "en": "what", "pi": "shén me"},
+    {"ch": "地方", "en": "place", "pi": "dì fāng"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "约会", "en": "meeting", "pi": "yuē huì"}
+  ]
+}

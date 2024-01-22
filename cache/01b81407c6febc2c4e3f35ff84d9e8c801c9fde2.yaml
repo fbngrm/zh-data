@@ -1,0 +1,37 @@
+{
+  "chinese": "这列火车时速２０英里。",
+  "english": "This train has a speed of 20 miles per hour.",
+  "pinyin": "zhè liè huǒ chē shí sù èr shí yīng lǐ。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "列",
+      "en": "train",
+      "pi": "liè"
+    },
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒ chē"
+    },
+    {
+      "ch": "时速",
+      "en": "speed",
+      "pi": "shí sù"
+    },
+    {
+      "ch": "２０",
+      "en": "20",
+      "pi": "èr shí"
+    },
+    {
+      "ch": "英里",
+      "en": "miles",
+      "pi": "yīng lǐ"
+    }
+  ]
+}

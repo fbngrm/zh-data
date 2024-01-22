@@ -1,0 +1,32 @@
+{
+  "chinese": "我学习英语和日语。",
+  "english": "I study English and Japanese.",
+  "pinyin": "wǒ xuéxí yīngyǔ hé rìyǔ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "学习",
+      "en": "study",
+      "pi": "xuéxí"
+    },
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīngyǔ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "日语",
+      "en": "Japanese",
+      "pi": "rìyǔ"
+    }
+  ]
+}

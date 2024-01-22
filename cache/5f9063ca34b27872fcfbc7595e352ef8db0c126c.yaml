@@ -1,0 +1,32 @@
+{
+  "chinese": "我还没有吃早餐。",
+  "english": "I haven't had breakfast yet.",
+  "pinyin": "wǒ hái méiyǒu chī zǎocān.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "还",
+      "en": "still/yet",
+      "pi": "hái"
+    },
+    {
+      "ch": "没有",
+      "en": "haven't",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "早餐",
+      "en": "breakfast",
+      "pi": "zǎocān"
+    }
+  ]
+}

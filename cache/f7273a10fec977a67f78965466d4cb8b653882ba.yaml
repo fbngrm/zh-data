@@ -1,0 +1,32 @@
+{
+  "chinese": "我不想吃晚饭。",
+  "english": "I don't want to eat dinner.",
+  "pinyin": "wǒ bùxiǎng chī wǎnfàn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "晚饭",
+      "en": "dinner",
+      "pi": "wǎnfàn"
+    }
+  ]
+}

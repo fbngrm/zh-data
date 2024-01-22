@@ -1,0 +1,37 @@
+{
+  "chinese": "您不知道我是谁。",
+  "english": "You don't know who I am.",
+  "pinyin": "Nín bù zhīdào wǒ shì shéi.",
+  "words": [
+    {
+      "ch": "您",
+      "en": "You",
+      "pi": "Nín"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "是",
+      "en": "am",
+      "pi": "shì"
+    },
+    {
+      "ch": "谁",
+      "en": "who",
+      "pi": "shéi"
+    }
+  ]
+}

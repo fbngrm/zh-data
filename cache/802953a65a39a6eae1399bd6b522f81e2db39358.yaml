@@ -1,0 +1,42 @@
+{
+  "chinese": "这张照片是最近拍的吗？",
+  "english": "Was this photo taken recently?",
+  "pinyin": "zhè zhāng zhào piàn shì zuì jìn pāi de ma?",
+  "words": [
+    {
+      "ch": "这张",
+      "en": "this",
+      "pi": "zhè zhāng"
+    },
+    {
+      "ch": "照片",
+      "en": "photo",
+      "pi": "zhào piàn"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "最近",
+      "en": "recently",
+      "pi": "zuì jìn"
+    },
+    {
+      "ch": "拍",
+      "en": "take",
+      "pi": "pāi"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "吗",
+      "en": "",
+      "pi": "ma"
+    }
+  ]
+}

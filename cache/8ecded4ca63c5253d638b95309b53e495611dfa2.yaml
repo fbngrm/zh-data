@@ -1,0 +1,37 @@
+{
+  "chinese": "我们吃北京烤鸭在中国餐厅了。",
+  "english": "We ate Peking Duck at a Chinese restaurant.",
+  "pinyin": "wǒmen chī běijīng kǎoyā zài zhōngguó cāntīng le.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "吃",
+      "en": "ate",
+      "pi": "chī"
+    },
+    {
+      "ch": "北京烤鸭",
+      "en": "Peking Duck",
+      "pi": "běijīng kǎoyā"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "中国餐厅",
+      "en": "Chinese restaurant",
+      "pi": "zhōngguó cāntīng"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "le"
+    }
+  ]
+}

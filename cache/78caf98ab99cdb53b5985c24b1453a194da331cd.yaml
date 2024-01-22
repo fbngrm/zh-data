@@ -1,0 +1,37 @@
+{
+  "chinese": "你想要这件衬衫吗？",
+  "english": "Do you want this shirt?",
+  "pinyin": "nǐ xiǎng yào zhè jiàn chèn shān ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "想要",
+      "en": "want",
+      "pi": "xiǎng yào"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "件",
+      "en": "piece",
+      "pi": "jiàn"
+    },
+    {
+      "ch": "衬衫",
+      "en": "shirt",
+      "pi": "chèn shān"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

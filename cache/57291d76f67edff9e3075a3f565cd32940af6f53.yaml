@@ -1,0 +1,47 @@
+{
+  "chinese": "如果今天是星期日，我会去钓鱼。",
+  "english": "If today is Sunday, I will go fishing.",
+  "pinyin": "Rúguǒ jīntiān shì xīngqīrì, wǒ huì qù diàoyú.",
+  "words": [
+    {
+      "ch": "如果",
+      "en": "if",
+      "pi": "rúguǒ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "星期日",
+      "en": "Sunday",
+      "pi": "xīngqīrì"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "钓鱼",
+      "en": "fishing",
+      "pi": "diàoyú"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "chinese": "你认为他是自己独立完成这份工的吗？",
+  "english": "Do you think he completed this work independently?",
+  "pinyin": "nǐ rèn wéi tā shì zì jǐ dú lì wán chéng zhè fèn gōng de ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "认为", "en": "think", "pi": "rèn wéi"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "自己", "en": "self", "pi": "zì jǐ"},
+    {"ch": "独立", "en": "independent", "pi": "dú lì"},
+    {"ch": "完成", "en": "complete", "pi": "wán chéng"},
+    {"ch": "这份", "en": "this", "pi": "zhè fèn"},
+    {"ch": "工的", "en": "work", "pi": "gōng de"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

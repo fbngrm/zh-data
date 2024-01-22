@@ -1,0 +1,15 @@
+{
+  "chinese": "那个女孩是谁？\"那是惠子。\"",
+  "english": "Who is that girl? \"That is Hui Zi.\"",
+  "pinyin": "Nàgè nǚhái shì shéi? \"Nà shì Huì Zǐ.\"",
+  "words": [
+    {"ch": "那个", "en": "that", "pi": "nàgè"},
+    {"ch": "女孩", "en": "girl", "pi": "nǚhái"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "谁", "en": "who", "pi": "shéi"},
+    {"ch": "？", "en": "?", "pi": ""},
+    {"ch": "\"那是", "en": "\"That", "pi": "nà shì"},
+    {"ch": "惠子", "en": "Hui Zi", "pi": "Huì Zǐ"},
+    {"ch": "。\"", "en": ".\"", "pi": ""}
+  ]
+}

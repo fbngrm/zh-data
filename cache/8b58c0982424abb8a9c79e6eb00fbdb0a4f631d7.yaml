@@ -1,0 +1,37 @@
+{
+  "chinese": "我们从伦敦飞到纽约。",
+  "english": "We fly from London to New York.",
+  "pinyin": "wǒmen cóng lúndūn fēi dào niǔyuē.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "伦敦",
+      "en": "London",
+      "pi": "lúndūn"
+    },
+    {
+      "ch": "飞",
+      "en": "fly",
+      "pi": "fēi"
+    },
+    {
+      "ch": "到",
+      "en": "to",
+      "pi": "dào"
+    },
+    {
+      "ch": "纽约",
+      "en": "New York",
+      "pi": "niǔyuē"
+    }
+  ]
+}

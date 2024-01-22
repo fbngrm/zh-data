@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆在课堂上睡着了。",
+  "english": "Tom fell asleep in class.",
+  "pinyin": "Tāng mǔ zài kè táng shàng shuì zháo le.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "课堂上",
+      "en": "class",
+      "pi": "kè táng shàng"
+    },
+    {
+      "ch": "睡着",
+      "en": "fell asleep",
+      "pi": "shuì zháo"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我看了看周圍。",
+  "english": "I looked around.",
+  "pinyin": "wǒ kànle kàn zhōuwéi。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "看了",
+      "en": "looked",
+      "pi": "kànle"
+    },
+    {
+      "ch": "看",
+      "en": "look",
+      "pi": "kàn"
+    },
+    {
+      "ch": "了",
+      "en": "completed action marker",
+      "pi": "le"
+    },
+    {
+      "ch": "周圍",
+      "en": "around",
+      "pi": "zhōuwéi"
+    }
+  ]
+}

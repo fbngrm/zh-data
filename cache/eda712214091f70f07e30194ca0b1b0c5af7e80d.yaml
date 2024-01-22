@@ -1,0 +1,13 @@
+{
+  "chinese": "這是一道深奧的數學題。",
+  "english": "This is a profound mathematical problem.",
+  "pinyin": "zhè shì yī dào shēn ào de shù xué tí。",
+  "words": [
+    {"ch": "這", "en": "This", "pi": "zhè"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "一道", "en": "a", "pi": "yī dào"},
+    {"ch": "深奧", "en": "profound", "pi": "shēn ào"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "數學題", "en": "mathematical problem", "pi": "shù xué tí"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "她有很多英文书。",
+  "english": "She has many English books.",
+  "pinyin": "tā yǒu hěn duō yīngwén shū.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "很多",
+      "en": "many",
+      "pi": "hěn duō"
+    },
+    {
+      "ch": "英文",
+      "en": "English",
+      "pi": "yīngwén"
+    },
+    {
+      "ch": "书",
+      "en": "books",
+      "pi": "shū"
+    }
+  ]
+}

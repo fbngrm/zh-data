@@ -1,0 +1,81 @@
+{
+  "sentences": [
+    {
+      "chinese": "妈妈，我能吃一块饼干吗？",
+      "english": "Mom, can I have a cookie?",
+      "pinyin": "māma, wǒ néng chī yī kuài bǐnggān ma?"
+    },
+    {
+      "chinese": "不行，不该在3餐间吃。",
+      "english": "No, you shouldn't eat between meals.",
+      "pinyin": "bù xíng, bù gāi zài sān cān jiān chī."
+    }
+  ],
+  "words": [
+    {
+      "ch": "妈妈",
+      "en": "Mom",
+      "pi": "māma"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "一",
+      "en": "one",
+      "pi": "yī"
+    },
+    {
+      "ch": "块",
+      "en": "piece",
+      "pi": "kuài"
+    },
+    {
+      "ch": "饼干",
+      "en": "cookie",
+      "pi": "bǐnggān"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    },
+    {
+      "ch": "不行",
+      "en": "no",
+      "pi": "bù xíng"
+    },
+    {
+      "ch": "不该",
+      "en": "should not",
+      "pi": "bù gāi"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "3",
+      "en": "3",
+      "pi": "sān"
+    },
+    {
+      "ch": "餐间",
+      "en": "between meals",
+      "pi": "cān jiān"
+    }
+  ]
+}

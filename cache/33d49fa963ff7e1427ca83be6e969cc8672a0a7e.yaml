@@ -1,0 +1,32 @@
+{
+  "chinese": "演唱会上有许多人。",
+  "english": "There are many people at the concert.",
+  "pinyin": "yǎn chàng huì shàng yǒu xǔ duō rén.",
+  "words": [
+    {
+      "ch": "演唱会",
+      "en": "concert",
+      "pi": "yǎn chàng huì"
+    },
+    {
+      "ch": "上",
+      "en": "at",
+      "pi": "shàng"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "许多",
+      "en": "many",
+      "pi": "xǔ duō"
+    },
+    {
+      "ch": "人",
+      "en": "people",
+      "pi": "rén"
+    }
+  ]
+}

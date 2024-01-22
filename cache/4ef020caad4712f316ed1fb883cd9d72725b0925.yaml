@@ -1,0 +1,37 @@
+{
+  "chinese": "这不是我喜欢的类型。",
+  "english": "This is not the type I like.",
+  "pinyin": "zhè bù shì wǒ xǐhuān de lèixíng.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "不是",
+      "en": "is not",
+      "pi": "bù shì"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "的",
+      "en": "the",
+      "pi": "de"
+    },
+    {
+      "ch": "类型",
+      "en": "type",
+      "pi": "lèixíng"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "chinese": "他在那次意外中失去了他的视力。",
+  "english": "He lost his vision in that accident.",
+  "pinyin": "Tā zài nà cì yìwài zhōng shīqùle tā de shìlì.",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "Tā"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "那次", "en": "that", "pi": "nà cì"},
+    {"ch": "意外", "en": "accident", "pi": "yìwài"},
+    {"ch": "中", "en": "in", "pi": "zhōng"},
+    {"ch": "失去", "en": "lost", "pi": "shīqù"},
+    {"ch": "了", "en": "", "pi": "le"},
+    {"ch": "他的", "en": "his", "pi": "tā de"},
+    {"ch": "视力", "en": "vision", "pi": "shìlì"}
+  ]
+}

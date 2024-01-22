@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆买了张彩票。",
+  "english": "Tom bought a lottery ticket.",
+  "pinyin": "Tāng mǔ mǎi le zhāng cǎi piào.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "买了",
+      "en": "bought",
+      "pi": "mǎi le"
+    },
+    {
+      "ch": "张",
+      "en": "a",
+      "pi": "zhāng"
+    },
+    {
+      "ch": "彩票",
+      "en": "lottery ticket",
+      "pi": "cǎi piào"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "你应该现在做功课。",
+  "english": "You should do your homework now.",
+  "pinyin": "nǐ yīng gāi xiàn zài zuò gōng kè。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "应该",
+      "en": "should",
+      "pi": "yīng gāi"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "做",
+      "en": "do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "功课",
+      "en": "homework",
+      "pi": "gōng kè"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chinese": "人们整晚都在给我买饮料。",
+  "english": "People were buying drinks for me all night.",
+  "pinyin": "rén mén zhěng wǎn dōu zài gěi wǒ mǎi yǐn liào。",
+  "words": [
+    { "ch": "人们", "en": "People", "pi": "rén mén"},
+    { "ch": "整晚", "en": "all night", "pi": "zhěng wǎn"},
+    { "ch": "都", "en": "were", "pi": "dōu"},
+    { "ch": "在", "en": "in", "pi": "zài"},
+    { "ch": "给", "en": "giving", "pi": "gěi"},
+    { "ch": "我", "en": "me", "pi": "wǒ"},
+    { "ch": "买", "en": "buying", "pi": "mǎi"},
+    { "ch": "饮料", "en": "drinks", "pi": "yǐn liào"}
+  ]
+}

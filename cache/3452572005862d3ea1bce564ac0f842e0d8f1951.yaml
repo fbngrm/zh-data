@@ -1,0 +1,14 @@
+{
+  "chinese": "我打算八点在房里吃早餐。",
+  "english": "I plan to have breakfast in my room at eight o'clock.",
+  "pinyin": "wǒ dǎ suàn bā diǎn zài fáng lǐ chī zǎo cān。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "打算", "en": "plan", "pi": "dǎ suàn"},
+    {"ch": "八点", "en": "eight o'clock", "pi": "bā diǎn"},
+    {"ch": "在", "en": "in/at", "pi": "zài"},
+    {"ch": "房里", "en": "my room", "pi": "fáng lǐ"},
+    {"ch": "吃", "en": "eat", "pi": "chī"},
+    {"ch": "早餐", "en": "breakfast", "pi": "zǎo cān"}
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我到家以后会给你打电话。",
+  "english": "I will give you a call after I get home.",
+  "pinyin": "wǒ dào jiā yǐ hòu huì gěi nǐ dǎ diàn huà。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "到家",
+      "en": "get home",
+      "pi": "dào jiā"
+    },
+    {
+      "ch": "以后",
+      "en": "after",
+      "pi": "yǐ hòu"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "打电话",
+      "en": "call",
+      "pi": "dǎ diàn huà"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "嗨，比尔。你好吗?",
+  "english": "Hi, Bill. How are you?",
+  "pinyin": "hāi, bǐ ěr. nǐ hǎo ma?",
+  "words": [
+    {
+      "ch": "嗨",
+      "en": "Hi",
+      "pi": "hāi"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": "，"
+    },
+    {
+      "ch": "比尔",
+      "en": "Bill",
+      "pi": "bǐ ěr"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "。"
+    },
+    {
+      "ch": "你好",
+      "en": "how are you",
+      "pi": "nǐ hǎo"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

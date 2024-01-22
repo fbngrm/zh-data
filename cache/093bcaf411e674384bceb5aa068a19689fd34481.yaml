@@ -1,0 +1,14 @@
+{
+  "chinese": "那位选手在这次比赛中取得了三连胜。",
+  "english": "That player achieved three consecutive victories in this competition.",
+  "pinyin": "nà wèi xuǎn shǒu zài zhè cì bǐ sài zhōng qǔ dé le sān lián shèng。",
+  "words": [
+    {"ch": "那位", "en": "that player", "pi": "nà wèi"},
+    {"ch": "选手", "en": "athlete/player", "pi": "xuǎn shǒu"},
+    {"ch": "在", "en": "in/at", "pi": "zài"},
+    {"ch": "这次", "en": "this", "pi": "zhè cì"},
+    {"ch": "比赛中", "en": "competition", "pi": "bǐ sài zhōng"},
+    {"ch": "取得了", "en": "achieved", "pi": "qǔ dé le"},
+    {"ch": "三连胜", "en": "three consecutive victories", "pi": "sān lián shèng"}
+  ]
+}

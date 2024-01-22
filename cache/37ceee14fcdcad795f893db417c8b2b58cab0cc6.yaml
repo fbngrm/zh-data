@@ -1,0 +1,13 @@
+{
+  "chinese": "摩天大厦里的电梯是至关重要的。",
+  "english": "Elevators in skyscrapers are crucial.",
+  "pinyin": "Mótiān dàshà lǐ de diàntī shì zhìguān zhòngyào de.",
+  "words": [
+    {"ch": "摩天大厦", "en": "skyscraper", "pi": "mótiān dàshà"},
+    {"ch": "里", "en": "in", "pi": "lǐ"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "电梯", "en": "elevator", "pi": "diàntī"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "至关重要的", "en": "crucial", "pi": "zhìguān zhòngyào de"}
+  ]
+}

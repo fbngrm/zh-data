@@ -1,0 +1,18 @@
+{
+  "chinese": "今天没有空做晚饭，所以我去买了盒饭。",
+  "english": "Today I didn't have time to cook dinner, so I bought a boxed meal.",
+  "pinyin": "Jīntiān méiyǒu kòng zuò wǎnfàn, suǒyǐ wǒ qù mǎile héfàn.",
+  "words": [
+    {"ch":"今天", "en":"Today", "pi":"jīntiān"},
+    {"ch":"没有", "en":"didn't have", "pi":"méiyǒu"},
+    {"ch":"空", "en":"time", "pi":"kòng"},
+    {"ch":"做", "en":"to cook", "pi":"zuò"},
+    {"ch":"晚饭", "en":"dinner", "pi":"wǎnfàn"},
+    {"ch":"所以", "en":"so", "pi":"suǒyǐ"},
+    {"ch":"我", "en":"I", "pi":"wǒ"},
+    {"ch":"去", "en":"to go", "pi":"qù"},
+    {"ch":"买", "en":"to buy", "pi":"mǎi"},
+    {"ch":"了", "en":"a", "pi":"le"},
+    {"ch":"盒饭", "en":"boxed meal", "pi":"héfàn"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "这朵玫瑰很漂亮。",
+  "english": "This rose is beautiful.",
+  "pinyin": "zhè duǒ méiguī hěn piàoliang.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "朵",
+      "en": "rose",
+      "pi": "duǒ"
+    },
+    {
+      "ch": "玫瑰",
+      "en": "is",
+      "pi": "méiguī"
+    },
+    {
+      "ch": "很",
+      "en": "beautiful",
+      "pi": "hěn"
+    },
+    {
+      "ch": "漂亮",
+      "en": ".",
+      "pi": "piàoliang"
+    }
+  ]
+}

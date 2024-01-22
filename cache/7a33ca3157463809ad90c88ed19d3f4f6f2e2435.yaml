@@ -1,0 +1,78 @@
+{
+  "sentences": [
+    {
+      "chinese": "你去哪儿了？",
+      "english": "Where did you go?",
+      "pinyin": "Nǐ qù nǎ'er le?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "去",
+          "en": "go",
+          "pi": "qù"
+        },
+        {
+          "ch": "哪儿",
+          "en": "where",
+          "pi": "nǎ'er"
+        },
+        {
+          "ch": "了",
+          "en": "did",
+          "pi": "le"
+        }
+      ]
+    },
+    {
+      "chinese": "我去了火车站送我的一个朋友。",
+      "english": "I went to the train station to send off a friend.",
+      "pinyin": "Wǒ qù le huǒchē zhàn sòng wǒ de yīgè péngyǒu.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "去",
+          "en": "went",
+          "pi": "qù"
+        },
+        {
+          "ch": "了",
+          "en": "to",
+          "pi": "le"
+        },
+        {
+          "ch": "火车站",
+          "en": "train station",
+          "pi": "huǒchē zhàn"
+        },
+        {
+          "ch": "送",
+          "en": "send",
+          "pi": "sòng"
+        },
+        {
+          "ch": "我的",
+          "en": "my",
+          "pi": "wǒ de"
+        },
+        {
+          "ch": "一个",
+          "en": "a",
+          "pi": "yīgè"
+        },
+        {
+          "ch": "朋友",
+          "en": "friend",
+          "pi": "péngyǒu"
+        }
+      ]
+    }
+  ]
+}

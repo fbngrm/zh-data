@@ -1,0 +1,32 @@
+{
+  "chinese": "宝宝还不会使用勺子。",
+  "english": "The baby still can't use a spoon.",
+  "pinyin": "bǎo bǎo hái bù huì shǐ yòng sháo zi.",
+  "words": [
+    {
+      "ch": "宝宝",
+      "en": "baby",
+      "pi": "bǎo bǎo"
+    },
+    {
+      "ch": "还",
+      "en": "still",
+      "pi": "hái"
+    },
+    {
+      "ch": "不会",
+      "en": "can't",
+      "pi": "bù huì"
+    },
+    {
+      "ch": "使用",
+      "en": "use",
+      "pi": "shǐ yòng"
+    },
+    {
+      "ch": "勺子",
+      "en": "spoon",
+      "pi": "sháo zi"
+    }
+  ]
+}

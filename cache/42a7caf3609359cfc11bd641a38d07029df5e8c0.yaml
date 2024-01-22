@@ -1,0 +1,32 @@
+{
+  "chinese": "我想写篇文章。",
+  "english": "I want to write an article.",
+  "pinyin": "Wǒ xiǎng xiě piān wénzhāng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "Wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "写",
+      "en": "to write",
+      "pi": "xiě"
+    },
+    {
+      "ch": "篇",
+      "en": "an",
+      "pi": "piān"
+    },
+    {
+      "ch": "文章",
+      "en": "article",
+      "pi": "wénzhāng"
+    }
+  ]
+}

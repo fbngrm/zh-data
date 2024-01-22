@@ -1,0 +1,32 @@
+{
+  "chinese": "我终于找到工作了。",
+  "english": "I finally found a job.",
+  "pinyin": "Wǒ zhōngyú zhǎodào gōngzuò le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "Wǒ"
+    },
+    {
+      "ch": "终于",
+      "en": "finally",
+      "pi": "zhōngyú"
+    },
+    {
+      "ch": "找到",
+      "en": "found",
+      "pi": "zhǎodào"
+    },
+    {
+      "ch": "工作",
+      "en": "job",
+      "pi": "gōngzuò"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

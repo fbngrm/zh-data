@@ -1,0 +1,52 @@
+{
+  "chinese": "我用我的字典查了那几个字。",
+  "english": "I looked up those characters in my dictionary.",
+  "pinyin": "wǒ yòng wǒ de zìdiǎn chále nà jǐ ge zì.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "用",
+      "en": "use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "字典",
+      "en": "dictionary",
+      "pi": "zìdiǎn"
+    },
+    {
+      "ch": "查",
+      "en": "look up",
+      "pi": "chá"
+    },
+    {
+      "ch": "了",
+      "en": "up",
+      "pi": "le"
+    },
+    {
+      "ch": "那",
+      "en": "those",
+      "pi": "nà"
+    },
+    {
+      "ch": "几个",
+      "en": "several",
+      "pi": "jǐ ge"
+    },
+    {
+      "ch": "字",
+      "en": "characters",
+      "pi": "zì"
+    }
+  ]
+}

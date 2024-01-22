@@ -1,0 +1,47 @@
+{
+  "chinese": "我做了一个苹果派给你。",
+  "english": "I made an apple pie for you.",
+  "pinyin": "wǒ zuò le yī gè píngguǒ pài gěi nǐ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "做",
+      "en": "made",
+      "pi": "zuò"
+    },
+    {
+      "ch": "了",
+      "en": "an",
+      "pi": "le"
+    },
+    {
+      "ch": "一个",
+      "en": "apple",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "苹果",
+      "en": "pie",
+      "pi": "píngguǒ"
+    },
+    {
+      "ch": "派",
+      "en": "for",
+      "pi": "pài"
+    },
+    {
+      "ch": "给",
+      "en": "you",
+      "pi": "gěi"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    }
+  ]
+}

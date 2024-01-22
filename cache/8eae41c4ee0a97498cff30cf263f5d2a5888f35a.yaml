@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "chinese": "你什么时候回来？",
+      "english": "When will you come back?",
+      "pinyin": "nǐ shénme shíhòu huílái?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "什么时候",
+          "en": "when",
+          "pi": "shénme shíhòu"
+        },
+        {
+          "ch": "回来",
+          "en": "come back",
+          "pi": "huílái"
+        }
+      ]
+    },
+    {
+      "chinese": "这取决于天气如何。",
+      "english": "It depends on the weather.",
+      "pinyin": "zhè qǔjué yú tiānqì rúhé.",
+      "words": [
+        {
+          "ch": "这",
+          "en": "this",
+          "pi": "zhè"
+        },
+        {
+          "ch": "取决于",
+          "en": "depends on",
+          "pi": "qǔjué yú"
+        },
+        {
+          "ch": "天气",
+          "en": "weather",
+          "pi": "tiānqì"
+        },
+        {
+          "ch": "如何",
+          "en": "how",
+          "pi": "rúhé"
+        }
+      ]
+    }
+  ]
+}

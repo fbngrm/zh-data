@@ -1,0 +1,14 @@
+{
+  "chinese": "他从乔治那里拿走了报纸。",
+  "english": "He took the newspaper from George.",
+  "pinyin": "Tā cóng Qiáozhì nàlǐ názǒu le bàozhǐ.",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "从", "en": "from", "pi": "cóng"},
+    {"ch": "乔治", "en": "George", "pi": "Qiáozhì"},
+    {"ch": "那里", "en": "there", "pi": "nàlǐ"},
+    {"ch": "拿走", "en": "take away", "pi": "názǒu"},
+    {"ch": "了", "en": "particle indicating completed action", "pi": "le"},
+    {"ch": "报纸", "en": "newspaper", "pi": "bàozhǐ"}
+  ]
+}

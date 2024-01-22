@@ -1,0 +1,15 @@
+{
+  "chinese": "尽管下着雨，我还是出了门。",
+  "english": "Even though it was raining, I still went out.",
+  "pinyin": "jǐn guǎn xià zhe yǔ ，wǒ hái shì chū le mén。",
+  "words": [
+    {"ch": "尽管", "en": "even though", "pi": "jǐn guǎn"},
+    {"ch": "下着", "en": "raining", "pi": "xià zhe"},
+    {"ch": "雨", "en": "rain", "pi": "yǔ"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "还是", "en": "still", "pi": "hái shì"},
+    {"ch": "出", "en": "go out", "pi": "chū"},
+    {"ch": "了", "en": "finished", "pi": "le"},
+    {"ch": "门", "en": "door", "pi": "mén"}
+  ]
+}

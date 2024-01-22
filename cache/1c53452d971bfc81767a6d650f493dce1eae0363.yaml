@@ -1,0 +1,37 @@
+{
+  "chinese": "美国国旗的颜色是红白蓝。",
+  "english": "The color of the American flag is red, white, and blue.",
+  "pinyin": "měi guó guó qí de yán sè shì hóng bái lán。",
+  "words": [
+    {
+      "ch": "美国",
+      "en": "America",
+      "pi": "měi guó"
+    },
+    {
+      "ch": "国旗",
+      "en": "flag",
+      "pi": "guó qí"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "颜色",
+      "en": "color",
+      "pi": "yán sè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "红白蓝",
+      "en": "red, white, and blue",
+      "pi": "hóng bái lán"
+    }
+  ]
+}

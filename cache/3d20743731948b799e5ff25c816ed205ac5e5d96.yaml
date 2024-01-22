@@ -1,0 +1,13 @@
+{
+  "chinese": "那位戴眼镜的男士是谁？",
+  "english": "Who is the man wearing glasses?",
+  "pinyin": "Nà wèi dài yǎnjìng de nánshì shì shuí?",
+  "words": [
+    { "ch": "那位", "en": "Who", "pi": "nà wèi" },
+    { "ch": "戴眼镜", "en": "wearing glasses", "pi": "dài yǎnjìng" },
+    { "ch": "的", "en": "is", "pi": "de" },
+    { "ch": "男士", "en": "man", "pi": "nánshì" },
+    { "ch": "是", "en": "?", "pi": "shì" },
+    { "ch": "谁", "en": "who", "pi": "shuí" }
+  ]
+}

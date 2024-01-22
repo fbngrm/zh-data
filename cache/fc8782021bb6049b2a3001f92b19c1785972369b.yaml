@@ -1,0 +1,47 @@
+{
+  "chinese": "我在这家餐厅订了位子。",
+  "english": "I made a reservation at this restaurant.",
+  "pinyin": "wǒ zài zhè jiā cāntīng dìng le wèi zi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "家",
+      "en": "place",
+      "pi": "jiā"
+    },
+    {
+      "ch": "餐厅",
+      "en": "restaurant",
+      "pi": "cāntīng"
+    },
+    {
+      "ch": "订",
+      "en": "made",
+      "pi": "dìng"
+    },
+    {
+      "ch": "了",
+      "en": "a",
+      "pi": "le"
+    },
+    {
+      "ch": "位子",
+      "en": "reservation",
+      "pi": "wèi zi"
+    }
+  ]
+}

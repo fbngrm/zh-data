@@ -1,0 +1,16 @@
+{
+  "chinese": "我不喜欢吸烟，因为吸烟对身体不好。",
+  "english": "I don't like smoking because it's bad for health.",
+  "pinyin": "wǒ bù xǐhuān xīyān, yīnwèi xīyān duì shēntǐ bù hǎo。",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "不", "en": "don't", "pi": "bù" },
+    { "ch": "喜欢", "en": "like", "pi": "xǐhuān" },
+    { "ch": "吸烟", "en": "smoking", "pi": "xīyān" },
+    { "ch": "因为", "en": "because", "pi": "yīnwèi" },
+    { "ch": "吸烟", "en": "smoking", "pi": "xīyān" },
+    { "ch": "对", "en": "for", "pi": "duì" },
+    { "ch": "身体", "en": "health", "pi": "shēntǐ" },
+    { "ch": "不好", "en": "bad", "pi": "bù hǎo" }
+  ]
+}

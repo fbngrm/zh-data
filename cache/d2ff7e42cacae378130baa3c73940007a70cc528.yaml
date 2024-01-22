@@ -1,0 +1,47 @@
+{
+  "chinese": "如果下雨的话，我还是要去公园。",
+  "english": "If it rains, I still want to go to the park.",
+  "pinyin": "rú guǒ xià yǔ de huà, wǒ hái shì yào qù gōng yuán。",
+  "words": [
+    {
+      "ch": "如果",
+      "en": "if",
+      "pi": "rú guǒ"
+    },
+    {
+      "ch": "下雨",
+      "en": "rain",
+      "pi": "xià yǔ"
+    },
+    {
+      "ch": "的话",
+      "en": "to say",
+      "pi": "de huà"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "还是",
+      "en": "still",
+      "pi": "hái shì"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "去",
+      "en": "go to",
+      "pi": "qù"
+    },
+    {
+      "ch": "公园",
+      "en": "park",
+      "pi": "gōng yuán"
+    }
+  ]
+}

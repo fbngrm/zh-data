@@ -1,0 +1,27 @@
+{
+  "chinese": "你结束了吗？",
+  "english": "Are you finished?",
+  "pinyin": "nǐ jiéshù le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "结束",
+      "en": "finished",
+      "pi": "jiéshù"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

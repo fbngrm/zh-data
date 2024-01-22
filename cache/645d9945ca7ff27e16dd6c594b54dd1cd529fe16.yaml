@@ -1,0 +1,32 @@
+{
+  "chinese": "我爱那本书。",
+  "english": "I love that book.",
+  "pinyin": "wǒ ài nà běn shū",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "爱",
+      "en": "love",
+      "pi": "ài"
+    },
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    }
+  ]
+}

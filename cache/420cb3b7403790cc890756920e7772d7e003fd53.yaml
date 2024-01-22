@@ -1,0 +1,37 @@
+{
+  "chinese": "王老师，你有几个孩子？",
+  "english": "Teacher Wang, how many children do you have?",
+  "pinyin": "Wáng lǎoshī, nǐ yǒu jǐ gè háizi?",
+  "words": [
+    {
+      "ch": "王",
+      "en": "Wang",
+      "pi": "wáng"
+    },
+    {
+      "ch": "老师",
+      "en": "teacher",
+      "pi": "lǎoshī"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "几个",
+      "en": "how many",
+      "pi": "jǐ gè"
+    },
+    {
+      "ch": "孩子",
+      "en": "children",
+      "pi": "háizi"
+    }
+  ]
+}

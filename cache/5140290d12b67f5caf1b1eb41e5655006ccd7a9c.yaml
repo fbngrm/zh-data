@@ -1,0 +1,42 @@
+{
+  "chinese": "电脑被用来通过电子邮件发送信息。",
+  "english": "Computers are used to send information via email.",
+  "pinyin": "diàn nǎo bèi yòng lái tōng guò diàn zǐ yóu jiàn fā sòng xìn xī。",
+  "words": [
+    {
+      "ch": "电脑",
+      "en": "computers",
+      "pi": "diàn nǎo"
+    },
+    {
+      "ch": "被",
+      "en": "are",
+      "pi": "bèi"
+    },
+    {
+      "ch": "用来",
+      "en": "used to",
+      "pi": "yòng lái"
+    },
+    {
+      "ch": "通过",
+      "en": "via",
+      "pi": "tōng guò"
+    },
+    {
+      "ch": "电子邮件",
+      "en": "email",
+      "pi": "diàn zǐ yóu jiàn"
+    },
+    {
+      "ch": "发送",
+      "en": "send",
+      "pi": "fā sòng"
+    },
+    {
+      "ch": "信息",
+      "en": "information",
+      "pi": "xìn xī"
+    }
+  ]
+}

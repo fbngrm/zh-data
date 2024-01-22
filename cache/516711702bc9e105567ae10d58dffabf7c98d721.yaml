@@ -1,0 +1,33 @@
+{
+  "sentences": [
+    {
+      "chinese": "好的,好的",
+      "english": "Okay, okay.",
+      "pinyin": "hǎo de, hǎo de",
+      "words": [
+        {"ch": "好的", "en": "okay", "pi": "hǎo de"},
+        {"ch": "好的", "en": "okay", "pi": "hǎo de"}
+      ]
+    },
+    {
+      "chinese": "醫生說。",
+      "english": "The doctor said.",
+      "pinyin": "yī shēng shuō",
+      "words": [
+        {"ch": "醫生", "en": "doctor", "pi": "yī shēng"},
+        {"ch": "說", "en": "said", "pi": "shuō"}
+      ]
+    },
+    {
+      "chinese": "我一定檢查她。",
+      "english": "I will definitely check her.",
+      "pinyin": "wǒ yí dìng jiǎn chá tā",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "一定", "en": "definitely", "pi": "yí dìng"},
+        {"ch": "檢查", "en": "check", "pi": "jiǎn chá"},
+        {"ch": "她", "en": "her", "pi": "tā"}
+      ]
+    }
+  ]
+}

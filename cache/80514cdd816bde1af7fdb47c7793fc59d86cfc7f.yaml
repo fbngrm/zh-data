@@ -1,0 +1,37 @@
+{
+  "chinese": "周日是一周的最后一天。",
+  "english": "Sunday is the last day of the week.",
+  "pinyin": "Zhōu rì shì yī zhōu de zuìhòu yī tiān。",
+  "words": [
+    {
+      "ch": "周日",
+      "en": "Sunday",
+      "pi": "Zhōu rì"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "一周",
+      "en": "week",
+      "pi": "yī zhōu"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "最后",
+      "en": "last",
+      "pi": "zuìhòu"
+    },
+    {
+      "ch": "一天",
+      "en": "day",
+      "pi": "yī tiān"
+    }
+  ]
+}

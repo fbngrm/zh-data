@@ -1,0 +1,32 @@
+{
+  "chinese": "会议将在东京举行。",
+  "english": "The meeting will be held in Tokyo.",
+  "pinyin": "huì yì jiāng zài dōng jīng jǔ xíng。",
+  "words": [
+    {
+      "ch": "会议",
+      "en": "meeting",
+      "pi": "huì yì"
+    },
+    {
+      "ch": "将",
+      "en": "will",
+      "pi": "jiāng"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "东京",
+      "en": "Tokyo",
+      "pi": "dōng jīng"
+    },
+    {
+      "ch": "举行",
+      "en": "held",
+      "pi": "jǔ xíng"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "他在门前走来走去，不知道该不该进去。",
+  "english": "He walks back and forth in front of the door, not knowing whether to go in or not.",
+  "pinyin": "tā zài mén qián zǒu lái zǒu qù, bù zhī dào gāi bù gāi jìn qù。",
+  "words": [
+    { "ch": "他", "en": "he", "pi": "tā" },
+    { "ch": "在", "en": "in", "pi": "zài" },
+    { "ch": "门前", "en": "in front of the door", "pi": "mén qián" },
+    { "ch": "走来走去", "en": "walk back and forth", "pi": "zǒu lái zǒu qù" },
+    { "ch": "不知道", "en": "don't know", "pi": "bù zhī dào" },
+    { "ch": "该不该", "en": "whether or not", "pi": "gāi bù gāi" },
+    { "ch": "进去", "en": "go in", "pi": "jìn qù" }
+  ]
+}

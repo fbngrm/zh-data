@@ -1,0 +1,37 @@
+{
+  "chinese": "大家都喜欢吃辣吗？",
+  "english": "Does everyone like to eat spicy food?",
+  "pinyin": "dà jiā dōu xǐ huān chī là ma?",
+  "words": [
+    {
+      "ch": "大家",
+      "en": "everyone",
+      "pi": "dà jiā"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐ huān"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "辣",
+      "en": "spicy",
+      "pi": "là"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

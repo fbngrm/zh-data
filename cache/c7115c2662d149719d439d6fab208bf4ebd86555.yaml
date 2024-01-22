@@ -1,0 +1,57 @@
+{
+  "chinese": "我不行了！我已经三天没睡过了！",
+  "english": "I can't do it anymore! I haven't slept for three days!",
+  "pinyin": "wǒ bù xíng le! wǒ yǐ jīng sān tiān méi shuì guò le!",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不行",
+      "en": "can't do it",
+      "pi": "bù xíng"
+    },
+    {
+      "ch": "了",
+      "en": "anymore",
+      "pi": "le"
+    },
+    {
+      "ch": "！",
+      "en": "!",
+      "pi": "!"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐ jīng"
+    },
+    {
+      "ch": "三天",
+      "en": "three days",
+      "pi": "sān tiān"
+    },
+    {
+      "ch": "没睡过",
+      "en": "haven't slept",
+      "pi": "méi shuì guò"
+    },
+    {
+      "ch": "了",
+      "en": "for",
+      "pi": "le"
+    },
+    {
+      "ch": "！",
+      "en": "!",
+      "pi": "!"
+    }
+  ]
+}

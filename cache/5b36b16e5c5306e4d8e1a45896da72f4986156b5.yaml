@@ -1,0 +1,32 @@
+{
+  "chinese": "我在放学后做作业。",
+  "english": "I do homework after school.",
+  "pinyin": "Wǒ zài fàngxué hòu zuò zuòyè.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "at/in",
+      "pi": "zài"
+    },
+    {
+      "ch": "放学后",
+      "en": "after school",
+      "pi": "fàngxué hòu"
+    },
+    {
+      "ch": "做",
+      "en": "do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "作业",
+      "en": "homework",
+      "pi": "zuòyè"
+    }
+  ]
+}

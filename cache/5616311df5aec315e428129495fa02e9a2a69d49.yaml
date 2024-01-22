@@ -1,0 +1,27 @@
+{
+  "chinese": "一家人一起吃了晚饭。",
+  "english": "The whole family had dinner together.",
+  "pinyin": "Yī jiā rén yīqǐ chīle wǎnfàn.",
+  "words": [
+    {
+      "ch": "一家人",
+      "en": "the whole family",
+      "pi": "yī jiā rén"
+    },
+    {
+      "ch": "一起",
+      "en": "together",
+      "pi": "yīqǐ"
+    },
+    {
+      "ch": "吃了",
+      "en": "had",
+      "pi": "chīle"
+    },
+    {
+      "ch": "晚饭",
+      "en": "dinner",
+      "pi": "wǎnfàn"
+    }
+  ]
+}

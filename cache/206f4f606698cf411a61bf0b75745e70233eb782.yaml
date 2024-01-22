@@ -1,0 +1,13 @@
+{
+  "chinese": "他比我重十公斤。",
+  "english": "He is ten kilograms heavier than me.",
+  "pinyin": "tā bǐ wǒ zhòng shí gōngjīn.",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "比", "en": "is", "pi": "bǐ"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "重", "en": "heavier", "pi": "zhòng"},
+    {"ch": "十", "en": "ten", "pi": "shí"},
+    {"ch": "公斤", "en": "kilograms", "pi": "gōngjīn"}
+  ]
+}

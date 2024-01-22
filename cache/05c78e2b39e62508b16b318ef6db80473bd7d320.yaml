@@ -1,0 +1,32 @@
+{
+  "chinese": "約翰昨天來到了日本。",
+  "english": "John arrived in Japan yesterday.",
+  "pinyin": "Yuēhàn zuótiān láidào le Rìběn.",
+  "words": [
+    {
+      "ch": "約翰",
+      "en": "John",
+      "pi": "Yuēhàn"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "來到",
+      "en": "arrived",
+      "pi": "láidào"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "日本",
+      "en": "Japan",
+      "pi": "Rìběn"
+    }
+  ]
+}

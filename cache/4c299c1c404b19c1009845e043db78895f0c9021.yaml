@@ -1,0 +1,32 @@
+{
+  "chinese": "他是第一個來到的。",
+  "english": "He is the first one to arrive.",
+  "pinyin": "tā shì dì yī gè lái dào de。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "第一個",
+      "en": "the first one",
+      "pi": "dì yī gè"
+    },
+    {
+      "ch": "來到",
+      "en": "to arrive",
+      "pi": "lái dào"
+    },
+    {
+      "ch": "的",
+      "en": "particle to form a modifier",
+      "pi": "de"
+    }
+  ]
+}

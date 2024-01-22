@@ -1,0 +1,37 @@
+{
+  "chinese": "他试图跟我们说法语。",
+  "english": "He is trying to speak French with us.",
+  "pinyin": "tā shì tú gēn wǒmen shuō fǎyǔ.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "试图",
+      "en": "is trying",
+      "pi": "shì tú"
+    },
+    {
+      "ch": "跟",
+      "en": "to",
+      "pi": "gēn"
+    },
+    {
+      "ch": "我们",
+      "en": "us",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎyǔ"
+    }
+  ]
+}

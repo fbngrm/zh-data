@@ -1,0 +1,17 @@
+{
+  "chinese": "他们在那棵大树的树荫下坐了下来。",
+  "english": "They sat down under the shade of the big tree.",
+  "pinyin": "Tāmen zài nà kē dà shù de shù yīn xià zuò le xià lái.",
+  "words": [
+    {"ch": "他们", "en": "They", "pi": "Tāmen"},
+    {"ch": "在", "en": "in, at", "pi": "zài"},
+    {"ch": "那棵", "en": "the", "pi": "nà kē"},
+    {"ch": "大树", "en": "big tree", "pi": "dà shù"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "树荫", "en": "shade", "pi": "shù yīn"},
+    {"ch": "下", "en": "under", "pi": "xià"},
+    {"ch": "坐", "en": "sit", "pi": "zuò"},
+    {"ch": "了", "en": "down", "pi": "le"},
+    {"ch": "下来", "en": "came", "pi": "xià lái"}
+  ]
+}

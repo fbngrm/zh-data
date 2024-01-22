@@ -1,0 +1,37 @@
+{
+  "chinese": "我能在这里拍照吗？",
+  "english": "Can I take photos here?",
+  "pinyin": "wǒ néng zài zhèlǐ pāizhào ma?",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "在",
+      "en": "here",
+      "pi": "zài"
+    },
+    {
+      "ch": "这里",
+      "en": "this place",
+      "pi": "zhèlǐ"
+    },
+    {
+      "ch": "拍照",
+      "en": "take photos",
+      "pi": "pāizhào"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

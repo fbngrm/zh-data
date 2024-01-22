@@ -1,0 +1,32 @@
+{
+  "chinese": "你有两本书。",
+  "english": "You have two books.",
+  "pinyin": "nǐ yǒu liǎng běn shū。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "两",
+      "en": "two",
+      "pi": "liǎng"
+    },
+    {
+      "ch": "本",
+      "en": "measure word for books",
+      "pi": "běn"
+    },
+    {
+      "ch": "书",
+      "en": "books",
+      "pi": "shū"
+    }
+  ]
+}

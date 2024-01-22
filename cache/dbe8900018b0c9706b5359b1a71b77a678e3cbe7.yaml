@@ -1,0 +1,32 @@
+{
+  "chinese": "我很喜欢学外语。",
+  "english": "I really enjoy learning foreign languages.",
+  "pinyin": "wǒ hěn xǐhuān xué wàiyǔ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "喜欢",
+      "en": "enjoy",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "学",
+      "en": "learn",
+      "pi": "xué"
+    },
+    {
+      "ch": "外语",
+      "en": "foreign language",
+      "pi": "wàiyǔ"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "你可以带我去吗？",
+  "english": "Can you take me there?",
+  "pinyin": "Nǐ kěyǐ dài wǒ qù ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kěyǐ"
+    },
+    {
+      "ch": "带",
+      "en": "take",
+      "pi": "dài"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "去",
+      "en": "there",
+      "pi": "qù"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

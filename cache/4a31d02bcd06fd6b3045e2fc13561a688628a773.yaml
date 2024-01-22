@@ -1,0 +1,52 @@
+{
+  "chinese": "这个进程必须立即停止，否则服务器会故障。",
+  "english": "This process must be stopped immediately, otherwise the server will malfunction.",
+  "pinyin": "zhè gè jìn chéng bì xū lì jí tíng zhǐ ，fǒu zé fú wù qì huì gù zhàng 。",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "This",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "进程",
+      "en": "process",
+      "pi": "jìn chéng"
+    },
+    {
+      "ch": "必须",
+      "en": "must",
+      "pi": "bì xū"
+    },
+    {
+      "ch": "立即",
+      "en": "immediately",
+      "pi": "lì jí"
+    },
+    {
+      "ch": "停止",
+      "en": "stop",
+      "pi": "tíng zhǐ"
+    },
+    {
+      "ch": "否则",
+      "en": "otherwise",
+      "pi": "fǒu zé"
+    },
+    {
+      "ch": "服务器",
+      "en": "server",
+      "pi": "fú wù qì"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "故障",
+      "en": "malfunction",
+      "pi": "gù zhàng"
+    }
+  ]
+}

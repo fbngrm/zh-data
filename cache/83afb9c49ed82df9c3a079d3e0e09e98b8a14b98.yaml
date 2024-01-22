@@ -1,0 +1,16 @@
+{
+  "chinese": "我要这项工作在五点前完成。",
+  "english": "I want this task to be completed before 5 o'clock.",
+  "pinyin": "wǒ yào zhè xiàng gōngzuò zài wǔ diǎn qián wánchéng。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "要", "en": "want", "pi": "yào"},
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "项", "en": "task", "pi": "xiàng"},
+    {"ch": "工作", "en": "work", "pi": "gōngzuò"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "五点", "en": "5 o'clock", "pi": "wǔ diǎn"},
+    {"ch": "前", "en": "before", "pi": "qián"},
+    {"ch": "完成", "en": "completed", "pi": "wánchéng"}
+  ]
+}

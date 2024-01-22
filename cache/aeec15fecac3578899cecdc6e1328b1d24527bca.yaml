@@ -1,0 +1,14 @@
+{
+  "chinese": "我需要工具来给花园除草。",
+  "english": "I need tools to weed the garden.",
+  "pinyin": "Wǒ xūyào gōngjù lái gěi huāyuán chúcǎo。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "Wǒ"},
+    {"ch": "需要", "en": "need", "pi": "xūyào"},
+    {"ch": "工具", "en": "tools", "pi": "gōngjù"},
+    {"ch": "来", "en": "to", "pi": "lái"},
+    {"ch": "给", "en": "give", "pi": "gěi"},
+    {"ch": "花园", "en": "garden", "pi": "huāyuán"},
+    {"ch": "除草", "en": "weed", "pi": "chúcǎo"}
+  ]
+}

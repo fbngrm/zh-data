@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆在休一天假。",
+  "english": "Tom is taking a day off.",
+  "pinyin": "Tāng mǔ zài xiū yī tiān jià.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "休",
+      "en": "taking",
+      "pi": "xiū"
+    },
+    {
+      "ch": "一天",
+      "en": "a day",
+      "pi": "yī tiān"
+    },
+    {
+      "ch": "假",
+      "en": "off",
+      "pi": "jià"
+    }
+  ]
+}

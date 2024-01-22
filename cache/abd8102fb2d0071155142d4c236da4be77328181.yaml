@@ -1,0 +1,42 @@
+{
+  "chinese": "请告诉我什么时候该走。",
+  "english": "Please tell me when I should leave.",
+  "pinyin": "qǐng gàosù wǒ shénme shíhou gāi zǒu.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "告诉",
+      "en": "tell",
+      "pi": "gàosù"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "时候",
+      "en": "when",
+      "pi": "shíhou"
+    },
+    {
+      "ch": "该",
+      "en": "should",
+      "pi": "gāi"
+    },
+    {
+      "ch": "走",
+      "en": "leave",
+      "pi": "zǒu"
+    }
+  ]
+}

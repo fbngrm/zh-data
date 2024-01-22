@@ -1,0 +1,42 @@
+{
+  "chinese": "我生病了，很难受！",
+  "english": "I'm sick and feeling very uncomfortable!",
+  "pinyin": "wǒ shēngbìng le, hěn nánshòu!",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "生病",
+      "en": "sick",
+      "pi": "shēngbìng"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "，",
+      "en": "",
+      "pi": ","
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "难受",
+      "en": "uncomfortable",
+      "pi": "nánshòu"
+    },
+    {
+      "ch": "！",
+      "en": "",
+      "pi": "!"
+    }
+  ]
+}

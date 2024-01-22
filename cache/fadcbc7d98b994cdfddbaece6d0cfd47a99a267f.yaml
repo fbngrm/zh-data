@@ -1,0 +1,32 @@
+{
+  "chinese": "篮子里有一些苹果。",
+  "english": "There are some apples in the basket.",
+  "pinyin": "lán zi lǐ yǒu yī xiē píng guǒ。",
+  "words": [
+    {
+      "ch": "篮子",
+      "en": "basket",
+      "pi": "lán zi"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一些",
+      "en": "some",
+      "pi": "yī xiē"
+    },
+    {
+      "ch": "苹果",
+      "en": "apples",
+      "pi": "píng guǒ"
+    }
+  ]
+}

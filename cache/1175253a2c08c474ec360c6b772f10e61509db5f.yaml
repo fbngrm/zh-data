@@ -1,0 +1,32 @@
+{
+  "chinese": "她很长时间没见过他。",
+  "english": "She hasn't seen him for a long time.",
+  "pinyin": "tā hěn cháng shíjiān méi jiànguò tā。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "很",
+      "en": "hasn't",
+      "pi": "hěn"
+    },
+    {
+      "ch": "长时间",
+      "en": "for a long time",
+      "pi": "cháng shíjiān"
+    },
+    {
+      "ch": "没见过",
+      "en": "hasn't seen",
+      "pi": "méi jiànguò"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chinese": "我可以喝一点热的东西吗?",
+  "english": "Can I drink something hot?",
+  "pinyin": "wǒ kěyǐ hē yīdiǎn rè de dōngxi ma?",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "可以", "en": "can", "pi": "kěyǐ"},
+    {"ch": "喝", "en": "drink", "pi": "hē"},
+    {"ch": "一点", "en": "somewhat", "pi": "yīdiǎn"},
+    {"ch": "热", "en": "hot", "pi": "rè"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "东西", "en": "thing", "pi": "dōngxi"},
+    {"ch": "吗", "en": "?", "pi": "ma"}
+  ]
+}

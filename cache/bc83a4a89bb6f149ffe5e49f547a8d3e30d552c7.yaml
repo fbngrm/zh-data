@@ -1,0 +1,37 @@
+{
+  "chinese": "我父亲的名字叫Fritz。",
+  "english": "My father's name is Fritz.",
+  "pinyin": "Wǒ fùqīn de míngzì jiào Fritz.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "父亲",
+      "en": "father",
+      "pi": "fùqīn"
+    },
+    {
+      "ch": "的",
+      "en": "'s",
+      "pi": "de"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míngzì"
+    },
+    {
+      "ch": "叫",
+      "en": "is called",
+      "pi": "jiào"
+    },
+    {
+      "ch": "Fritz",
+      "en": "Fritz",
+      "pi": "Fritz"
+    }
+  ]
+}

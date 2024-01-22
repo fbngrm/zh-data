@@ -1,0 +1,47 @@
+{
+  "chinese": "不好意思，请问您知道现在几点了吗？",
+  "english": "Excuse me, do you know what time it is now?",
+  "pinyin": "bù hǎo yì si, qǐng wèn nín zhī dào xiàn zài jǐ diǎn le ma?",
+  "words": [
+    {
+      "ch": "不好意思",
+      "en": "Excuse me",
+      "pi": "bù hǎo yì si"
+    },
+    {
+      "ch": "请问",
+      "en": "do you know",
+      "pi": "qǐng wèn"
+    },
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "几点",
+      "en": "what time",
+      "pi": "jǐ diǎn"
+    },
+    {
+      "ch": "了",
+      "en": "is",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

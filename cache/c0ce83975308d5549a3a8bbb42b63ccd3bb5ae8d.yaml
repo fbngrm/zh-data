@@ -1,0 +1,42 @@
+{
+  "chinese": "你想睡哪张床?",
+  "english": "Which bed do you want to sleep on?",
+  "pinyin": "Nǐ xiǎng shuì nǎ zhāng chuáng?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "睡",
+      "en": "to sleep",
+      "pi": "shuì"
+    },
+    {
+      "ch": "哪",
+      "en": "which",
+      "pi": "nǎ"
+    },
+    {
+      "ch": "张",
+      "en": "measure word for flat objects",
+      "pi": "zhāng"
+    },
+    {
+      "ch": "床",
+      "en": "bed",
+      "pi": "chuáng"
+    },
+    {
+      "ch": "?",
+      "en": "",
+      "pi": "?"
+    }
+  ]
+}

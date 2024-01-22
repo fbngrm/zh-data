@@ -1,0 +1,16 @@
+{
+  "chinese": "昨晚我们听了总统在电视上的讲话。",
+  "english": "Last night we listened to the President's speech on TV.",
+  "pinyin": "zuó wǎn wǒ men tīng le zǒng tǒng zài diàn shì shàng de jiǎng huà。",
+  "words": [
+    {"ch": "昨晚", "en": "Last night", "pi": "zuó wǎn"},
+    {"ch": "我们", "en": "we", "pi": "wǒ men"},
+    {"ch": "听", "en": "listen", "pi": "tīng"},
+    {"ch": "了", "en": "to", "pi": "le"},
+    {"ch": "总统", "en": "President", "pi": "zǒng tǒng"},
+    {"ch": "在", "en": "on", "pi": "zài"},
+    {"ch": "电视上", "en": "TV", "pi": "diàn shì shàng"},
+    {"ch": "的", "en": "speech", "pi": "de"},
+    {"ch": "讲话", "en": "talk", "pi": "jiǎng huà"}
+  ]
+}

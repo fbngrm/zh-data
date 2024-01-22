@@ -1,0 +1,42 @@
+{
+  "chinese": "我想你读一读这本书。",
+  "english": "I want you to read this book.",
+  "pinyin": "Wǒ xiǎng nǐ dú yī dú zhè běn shū.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "读",
+      "en": "to read",
+      "pi": "dú"
+    },
+    {
+      "ch": "一读",
+      "en": "to read",
+      "pi": "yī dú"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本书",
+      "en": "book",
+      "pi": "běn shū"
+    }
+  ]
+}

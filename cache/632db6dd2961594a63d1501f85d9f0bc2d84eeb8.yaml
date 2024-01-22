@@ -1,0 +1,18 @@
+{
+  "chinese": "你告诉她你已经在三天前完成这个工作了。",
+  "english": "You tell her that you have already finished this work three days ago.",
+  "pinyin": "nǐ gào sù tā nǐ yǐ jīng zài sān tiān qián wán chéng zhè ge gōng zuò le。",
+  "words": [
+    {"ch": "你", "en": "You", "pi": "nǐ"},
+    {"ch": "告诉", "en": "tell", "pi": "gào sù"},
+    {"ch": "她", "en": "her", "pi": "tā"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "已经", "en": "already", "pi": "yǐ jīng"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "三天前", "en": "three days ago", "pi": "sān tiān qián"},
+    {"ch": "完成", "en": "finished", "pi": "wán chéng"},
+    {"ch": "这个", "en": "this", "pi": "zhè ge"},
+    {"ch": "工作", "en": "work", "pi": "gōng zuò"},
+    {"ch": "了", "en": "了", "pi": "le"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "这个森林里猴子成群。",
+  "english": "In this forest, monkeys gather in groups.",
+  "pinyin": "zhè gè sēn lín lǐ hóu zi chéng qún。",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "森林",
+      "en": "forest",
+      "pi": "sēn lín"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "猴子",
+      "en": "monkey",
+      "pi": "hóu zi"
+    },
+    {
+      "ch": "成群",
+      "en": "gather in groups",
+      "pi": "chéng qún"
+    }
+  ]
+}

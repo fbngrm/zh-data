@@ -1,0 +1,32 @@
+{
+  "chinese": "火车将经过元町站。",
+  "english": "The train will pass through the Motomachi station.",
+  "pinyin": "huǒ chē jiāng jīng guò yuán chǎng zhàn。",
+  "words": [
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒ chē"
+    },
+    {
+      "ch": "将",
+      "en": "will",
+      "pi": "jiāng"
+    },
+    {
+      "ch": "经过",
+      "en": "pass through",
+      "pi": "jīng guò"
+    },
+    {
+      "ch": "元町",
+      "en": "Motomachi",
+      "pi": "yuán chǎng"
+    },
+    {
+      "ch": "站",
+      "en": "station",
+      "pi": "zhàn"
+    }
+  ]
+}

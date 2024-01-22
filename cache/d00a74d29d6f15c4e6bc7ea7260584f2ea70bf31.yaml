@@ -1,0 +1,13 @@
+{
+  "chinese": "你一次能干多少个活？",
+  "english": "How many tasks can you do at once?",
+  "pinyin": "Nǐ yīcì néng gàn duōshǎo gè huó?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "一次", "en": "once", "pi": "yīcì"},
+    {"ch": "能", "en": "can", "pi": "néng"},
+    {"ch": "干", "en": "do", "pi": "gàn"},
+    {"ch": "多少个", "en": "how many", "pi": "duōshǎo gè"},
+    {"ch": "活", "en": "tasks", "pi": "huó"}
+  ]
+}

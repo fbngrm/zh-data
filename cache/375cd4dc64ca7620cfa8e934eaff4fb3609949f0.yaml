@@ -1,0 +1,16 @@
+{
+  "chinese": "那个男孩的一口法语流利得有点儿不可置信。",
+  "english": "It's unbelievable how fluently that boy speaks French.",
+  "pinyin": "nà gè nán hái de yī kǒu fǎ yǔ liú lì dé yǒu diǎn er bù kě zhì xìn.",
+  "words": [
+    {"ch": "那个", "en": "that", "pi": "nà gè"},
+    {"ch": "男孩", "en": "boy", "pi": "nán hái"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "一口", "en": "fluently", "pi": "yī kǒu"},
+    {"ch": "法语", "en": "French", "pi": "fǎ yǔ"},
+    {"ch": "流利", "en": "fluent", "pi": "liú lì"},
+    {"ch": "得", "en": "how", "pi": "dé"},
+    {"ch": "有点儿", "en": "a bit", "pi": "yǒu diǎn er"},
+    {"ch": "不可置信", "en": "unbelievable", "pi": "bù kě zhì xìn"}
+  ]
+}

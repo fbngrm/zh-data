@@ -1,0 +1,30 @@
+{
+  "sentences": [
+    {
+      "chinese": "我想给妻子买一件礼物。",
+      "english": "I want to buy a gift for my wife.",
+      "pinyin": "Wǒ xiǎng gěi qīzi mǎi yí jiàn lǐwù。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "想", "en": "want", "pi": "xiǎng"},
+        {"ch": "给", "en": "to give", "pi": "gěi"},
+        {"ch": "妻子", "en": "wife", "pi": "qīzi"},
+        {"ch": "买", "en": "to buy", "pi": "mǎi"},
+        {"ch": "一件", "en": "one", "pi": "yí jiàn"},
+        {"ch": "礼物", "en": "gift", "pi": "lǐwù"}
+      ]
+    },
+    {
+      "chinese": "我打算买一条围巾。",
+      "english": "I plan to buy a scarf.",
+      "pinyin": "Wǒ dǎsuàn mǎi yì tiáo wéijīn。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "打算", "en": "plan", "pi": "dǎsuàn"},
+        {"ch": "买", "en": "to buy", "pi": "mǎi"},
+        {"ch": "一条", "en": "one", "pi": "yì tiáo"},
+        {"ch": "围巾", "en": "scarf", "pi": "wéijīn"}
+      ]
+    }
+  ]
+}

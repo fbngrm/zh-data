@@ -1,0 +1,14 @@
+{
+  "chinese": "我从美国订购了一些新书。",
+  "english": "I ordered some new books from the United States.",
+  "pinyin": "wǒ cóng měiguó dìnggòu le yīxiē xīnshū。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "从", "en": "from", "pi": "cóng"},
+    {"ch": "美国", "en": "United States", "pi": "měiguó"},
+    {"ch": "订购", "en": "order", "pi": "dìnggòu"},
+    {"ch": "了", "en": "some", "pi": "le"},
+    {"ch": "一些", "en": "new", "pi": "yīxiē"},
+    {"ch": "新书", "en": "books", "pi": "xīnshū"}
+  ]
+}

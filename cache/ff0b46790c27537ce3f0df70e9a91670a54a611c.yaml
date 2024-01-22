@@ -1,0 +1,42 @@
+{
+  "chinese": "我住在一个大城市里。",
+  "english": "I live in a big city.",
+  "pinyin": "Wǒ zhù zài yīgè dà chéngshì lǐ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "Wǒ"
+    },
+    {
+      "ch": "住",
+      "en": "live",
+      "pi": "zhù"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yīgè"
+    },
+    {
+      "ch": "大",
+      "en": "big",
+      "pi": "dà"
+    },
+    {
+      "ch": "城市",
+      "en": "city",
+      "pi": "chéngshì"
+    },
+    {
+      "ch": "里",
+      "en": "inside",
+      "pi": "lǐ"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "你后天有时间吗？",
+  "english": "Do you have time the day after tomorrow?",
+  "pinyin": "Nǐ hòutiān yǒu shíjiān ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "后天",
+      "en": "day after tomorrow",
+      "pi": "hòutiān"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "时间",
+      "en": "time",
+      "pi": "shíjiān"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆一直在说谎。",
+  "english": "Tom has been lying all the time.",
+  "pinyin": "Tāng mǔ yīzhí zài shuōhuǎng.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "一直",
+      "en": "all the time",
+      "pi": "yīzhí"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "说谎",
+      "en": "lying",
+      "pi": "shuōhuǎng"
+    }
+  ]
+}

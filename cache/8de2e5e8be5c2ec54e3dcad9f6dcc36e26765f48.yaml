@@ -1,0 +1,32 @@
+{
+  "chinese": "我爷爷是个木匠。",
+  "english": "My grandfather is a carpenter.",
+  "pinyin": "wǒ yéyé shì gè mùjiàng。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "爷爷",
+      "en": "grandfather",
+      "pi": "yéyé"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "木匠",
+      "en": "carpenter",
+      "pi": "mùjiàng"
+    }
+  ]
+}

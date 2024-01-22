@@ -1,0 +1,12 @@
+{ 
+  "chinese": "你不要学习了。",
+  "english": "You don't need to study anymore.",
+  "pinyin": "nǐ bù yào xuéxí le。",
+  "words": [
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "不", "en": "do not", "pi": "bù" },
+    { "ch": "要", "en": "need", "pi": "yào" },
+    { "ch": "学习", "en": "to study", "pi": "xuéxí" },
+    { "ch": "了", "en": "anymore", "pi": "le" }
+  ]
+}

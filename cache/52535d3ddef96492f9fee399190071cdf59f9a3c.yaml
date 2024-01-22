@@ -1,0 +1,27 @@
+{
+  "chinese": "昨天的天氣壞透了。",
+  "english": "The weather was terrible yesterday.",
+  "pinyin": "Zuótiān de tiānqì huài tòu le。",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "天氣",
+      "en": "weather",
+      "pi": "tiānqì"
+    },
+    {
+      "ch": "壞透了",
+      "en": "was terrible",
+      "pi": "huài tòu le"
+    }
+  ]
+}

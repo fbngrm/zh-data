@@ -1,0 +1,15 @@
+{
+  "chinese": "我不知道他是否已经为我做好了。",
+  "english": "I don't know if he has prepared it for me.",
+  "pinyin": "wǒ bù zhīdào tā shìfǒu yǐjīng wèi wǒ zuòhǎo le.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "知道", "en": "know", "pi": "zhīdào"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "是否", "en": "whether", "pi": "shìfǒu"},
+    {"ch": "已经", "en": "already", "pi": "yǐjīng"},
+    {"ch": "为我", "en": "for me", "pi": "wèi wǒ"},
+    {"ch": "做好了", "en": "prepared", "pi": "zuòhǎo le"}
+  ]
+}

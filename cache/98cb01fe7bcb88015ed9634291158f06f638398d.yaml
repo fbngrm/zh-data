@@ -1,0 +1,15 @@
+{
+  "chinese": "明天下午之前我会把它完成。",
+  "english": "I will finish it before tomorrow afternoon.",
+  "pinyin": "Míngtiān xiàwǔ zhīqián wǒ huì bǎ tā wánchéng.",
+  "words": [
+    {"ch": "明天", "en": "tomorrow", "pi": "míngtiān"},
+    {"ch": "下午", "en": "afternoon", "pi": "xiàwǔ"},
+    {"ch": "之前", "en": "before", "pi": "zhīqián"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "把", "en": "finish", "pi": "bǎ"},
+    {"ch": "它", "en": "it", "pi": "tā"},
+    {"ch": "完成", "en": "complete", "pi": "wánchéng"}
+  ]
+}

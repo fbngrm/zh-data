@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆站在我后面。",
+  "english": "Tom is standing behind me.",
+  "pinyin": "Tāngmǔ zhàn zài wǒ hòumiàn.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "站",
+      "en": "is standing",
+      "pi": "zhàn"
+    },
+    {
+      "ch": "在",
+      "en": "behind",
+      "pi": "zài"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "后面",
+      "en": "behind",
+      "pi": "hòumiàn"
+    }
+  ]
+}

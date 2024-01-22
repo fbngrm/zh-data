@@ -1,0 +1,32 @@
+{
+  "chinese": "天黑之后他从不出门。",
+  "english": "He never goes out after dark.",
+  "pinyin": "tiān hēi zhīhòu tā cóng bù chūmén。",
+  "words": [
+    {
+      "ch": "天黑",
+      "en": "dark",
+      "pi": "tiān hēi"
+    },
+    {
+      "ch": "之后",
+      "en": "after",
+      "pi": "zhīhòu"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "从不",
+      "en": "never",
+      "pi": "cóng bù"
+    },
+    {
+      "ch": "出门",
+      "en": "go out",
+      "pi": "chūmén"
+    }
+  ]
+}

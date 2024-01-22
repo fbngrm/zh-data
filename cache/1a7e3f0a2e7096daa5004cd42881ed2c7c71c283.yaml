@@ -1,0 +1,14 @@
+{
+  "chinese": "我要给我妈妈一个卉。",
+  "english": "I want to give my mom a flower.",
+  "pinyin": "wǒ yào gěi wǒ māmā yī gè huì.",
+  "words": [
+    {"ch":"我", "en":"I", "pi":"wǒ"},
+    {"ch":"要", "en":"want", "pi":"yào"},
+    {"ch":"给", "en":"give", "pi":"gěi"},
+    {"ch":"我", "en":"my", "pi":"wǒ"},
+    {"ch":"妈妈", "en":"mom", "pi":"māmā"},
+    {"ch":"一个", "en":"a", "pi":"yī gè"},
+    {"ch":"卉", "en":"flower", "pi":"huì"}
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "chinese": "我来自一个美丽的城市-成都。",
+  "english": "I come from a beautiful city - Chengdu.",
+  "pinyin": "wǒ láizì yīgè měilì de chéngshì - chéngdū.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "来自",
+      "en": "come from",
+      "pi": "láizì"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yīgè"
+    },
+    {
+      "ch": "美丽",
+      "en": "beautiful",
+      "pi": "měilì"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "城市",
+      "en": "city",
+      "pi": "chéngshì"
+    },
+    {
+      "ch": "-",
+      "en": "-",
+      "pi": "-"
+    },
+    {
+      "ch": "成都",
+      "en": "Chengdu",
+      "pi": "chéngdū"
+    }
+  ]
+}

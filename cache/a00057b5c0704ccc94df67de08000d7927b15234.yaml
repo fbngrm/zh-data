@@ -1,0 +1,47 @@
+{
+  "chinese": "我在商店选了一个新帽子。",
+  "english": "I picked a new hat at the store.",
+  "pinyin": "wǒ zài shāng diàn xuǎn le yī gè xīn mào zi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "商店",
+      "en": "store",
+      "pi": "shāng diàn"
+    },
+    {
+      "ch": "选",
+      "en": "picked",
+      "pi": "xuǎn"
+    },
+    {
+      "ch": "了",
+      "en": "a",
+      "pi": "le"
+    },
+    {
+      "ch": "一个",
+      "en": "new",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "新",
+      "en": "hat",
+      "pi": "xīn"
+    },
+    {
+      "ch": "帽子",
+      "en": "hat",
+      "pi": "mào zi"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "今天的推荐餐是什么?",
+  "english": "What is today's recommended meal?",
+  "pinyin": "Jīn tiān de tuī jiàn cān shì shén me?",
+  "words": [
+    {"ch": "今天", "en": "today", "pi": "jīn tiān"},
+    {"ch": "的", "en": "possessive particle", "pi": "de"},
+    {"ch": "推荐", "en": "recommend", "pi": "tuī jiàn"},
+    {"ch": "餐", "en": "meal", "pi": "cān"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "什么", "en": "what", "pi": "shén me"}
+  ]
+}

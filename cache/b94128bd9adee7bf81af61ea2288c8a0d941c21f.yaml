@@ -1,0 +1,37 @@
+{
+  "chinese": "他吃了一盒巧克力。",
+  "english": "He ate a box of chocolates.",
+  "pinyin": "tā chī le yī hé qiǎo kè lì.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "吃",
+      "en": "ate",
+      "pi": "chī"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "一",
+      "en": "a",
+      "pi": "yī"
+    },
+    {
+      "ch": "盒",
+      "en": "box",
+      "pi": "hé"
+    },
+    {
+      "ch": "巧克力",
+      "en": "chocolates",
+      "pi": "qiǎo kè lì"
+    }
+  ]
+}

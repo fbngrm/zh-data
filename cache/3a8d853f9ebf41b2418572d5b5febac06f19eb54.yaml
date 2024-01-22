@@ -1,0 +1,13 @@
+{
+  "chinese": "海明威的寫作風格很差勁。",
+  "english": "Hemingway's writing style is very poor.",
+  "pinyin": "hǎi míng wēi de xiě zuò fēng gé hěn chà jìn。",
+  "words": [
+    { "ch": "海明威", "en": "Hemingway", "pi": "hǎi míng wēi" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "寫作", "en": "writing", "pi": "xiě zuò" },
+    { "ch": "風格", "en": "style", "pi": "fēng gé" },
+    { "ch": "很", "en": "very", "pi": "hěn" },
+    { "ch": "差勁", "en": "poor", "pi": "chà jìn" }
+  ]
+}

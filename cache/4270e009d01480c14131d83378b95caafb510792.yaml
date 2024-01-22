@@ -1,0 +1,32 @@
+{
+  "chinese": "你有没有妹妹吗？",
+  "english": "Do you have a younger sister?",
+  "pinyin": "nǐ yǒu méiyǒu mèimei ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "没有",
+      "en": "do not have",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "妹妹",
+      "en": "younger sister",
+      "pi": "mèimei"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

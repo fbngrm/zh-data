@@ -1,0 +1,37 @@
+{
+  "chinese": "他赢了三等奖。",
+  "english": "He won the third prize.",
+  "pinyin": "tā yíng le sān děng jiǎng。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "赢",
+      "en": "win",
+      "pi": "yíng"
+    },
+    {
+      "ch": "了",
+      "en": "past tense particle",
+      "pi": "le"
+    },
+    {
+      "ch": "三",
+      "en": "three",
+      "pi": "sān"
+    },
+    {
+      "ch": "等",
+      "en": "ranking",
+      "pi": "děng"
+    },
+    {
+      "ch": "奖",
+      "en": "prize",
+      "pi": "jiǎng"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "你注意到汤姆的头发了吗？",
+  "english": "Did you notice Tom's hair?",
+  "pinyin": "nǐ zhù yì dào tāng mǔ de tóu fà le ma?",
+  "words": [
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "注意到", "en": "notice", "pi": "zhù yì dào" },
+    { "ch": "汤姆", "en": "Tom", "pi": "tāng mǔ" },
+    { "ch": "的", "en": " 's", "pi": "de" },
+    { "ch": "头发", "en": "hair", "pi": "tóu fà" },
+    { "ch": "了", "en": "did", "pi": "le" },
+    { "ch": "吗", "en": "you", "pi": "ma" }
+  ]
+}

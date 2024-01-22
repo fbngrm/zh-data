@@ -1,0 +1,32 @@
+{
+  "chinese": "你会游泳,不是吗？",
+  "english": "You can swim, right?",
+  "pinyin": "nǐ huì yóu yǒng, bù shì ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "游泳",
+      "en": "swim",
+      "pi": "yóu yǒng"
+    },
+    {
+      "ch": "不是",
+      "en": "right",
+      "pi": "bù shì"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

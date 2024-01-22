@@ -1,0 +1,42 @@
+{
+  "chinese": "我爸爸会在这周末回家。",
+  "english": "My dad will come back home this weekend.",
+  "pinyin": "Wǒ bàba huì zài zhè zhōumò huíjiā.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "爸爸",
+      "en": "dad",
+      "pi": "bàba"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "周末",
+      "en": "weekend",
+      "pi": "zhōumò"
+    },
+    {
+      "ch": "回家",
+      "en": "come back home",
+      "pi": "huíjiā"
+    }
+  ]
+}

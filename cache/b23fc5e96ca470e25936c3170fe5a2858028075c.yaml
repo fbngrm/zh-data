@@ -1,0 +1,37 @@
+{
+  "chinese": "他回家的时候已经十二点了。",
+  "english": "By the time he got home, it was already twelve o'clock.",
+  "pinyin": "tā huí jiā de shí hòu yǐ jīng shí èr diǎn le。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "回家",
+      "en": "go home",
+      "pi": "huí jiā"
+    },
+    {
+      "ch": "的时候",
+      "en": "when",
+      "pi": "de shí hòu"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐ jīng"
+    },
+    {
+      "ch": "十二点",
+      "en": "twelve o'clock",
+      "pi": "shí èr diǎn"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "这种水果形状像橙子，味道像菠萝。",
+  "english": "This fruit looks like an orange and tastes like a pineapple.",
+  "pinyin": "zhè zhǒng shuǐguǒ xíngzhuàng xiàng chéngzi, wèidào xiàng bōluó.",
+  "words": [
+    {
+      "ch": "这种",
+      "en": "this kind",
+      "pi": "zhè zhǒng"
+    },
+    {
+      "ch": "水果",
+      "en": "fruit",
+      "pi": "shuǐguǒ"
+    },
+    {
+      "ch": "形状",
+      "en": "shape",
+      "pi": "xíngzhuàng"
+    },
+    {
+      "ch": "像",
+      "en": "like",
+      "pi": "xiàng"
+    },
+    {
+      "ch": "橙子",
+      "en": "orange",
+      "pi": "chéngzi"
+    },
+    {
+      "ch": "味道",
+      "en": "taste",
+      "pi": "wèidào"
+    },
+    {
+      "ch": "菠萝",
+      "en": "pineapple",
+      "pi": "bōluó"
+    }
+  ]
+}

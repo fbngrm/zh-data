@@ -1,0 +1,42 @@
+{
+  "chinese": "昨天我爸爸抓到了3条鱼。",
+  "english": "Yesterday my dad caught 3 fish.",
+  "pinyin": "Zuótiān wǒ bàba zhuā dàole 3 tiáo yú.",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "爸爸",
+      "en": "dad",
+      "pi": "bàba"
+    },
+    {
+      "ch": "抓到了",
+      "en": "caught",
+      "pi": "zhuā dàole"
+    },
+    {
+      "ch": "3",
+      "en": "3",
+      "pi": "3"
+    },
+    {
+      "ch": "条",
+      "en": "measure word for fish",
+      "pi": "tiáo"
+    },
+    {
+      "ch": "鱼",
+      "en": "fish",
+      "pi": "yú"
+    }
+  ]
+}

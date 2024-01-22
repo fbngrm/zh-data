@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆打开了车的雾灯。",
+  "english": "Tom turned on the car's fog lights.",
+  "pinyin": "tāng mǔ dǎ kāi le chē de wù dēng.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "打开",
+      "en": "turn on",
+      "pi": "dǎ kāi"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completion",
+      "pi": "le"
+    },
+    {
+      "ch": "车",
+      "en": "car",
+      "pi": "chē"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "雾灯",
+      "en": "fog lights",
+      "pi": "wù dēng"
+    }
+  ]
+}

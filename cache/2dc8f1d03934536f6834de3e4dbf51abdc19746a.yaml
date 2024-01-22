@@ -1,0 +1,155 @@
+{
+  "sentences": [
+    {
+      "chinese": "从前有个占卜师告诉哥伦布他将来会成名。",
+      "english": "Once upon a time, a fortune teller told Columbus that he would become famous.",
+      "pinyin": "Cóngqián yǒu gè zhānbǔ shī gàosù Gēlúnbù tā jiānglái huì chéngmíng."
+    },
+    {
+      "chinese": "哥伦布听到了，就生气地要求退钱：“这么简单的事实，就连三岁小孩也懂！”",
+      "english": "When Columbus heard it, he angrily demanded a refund: \"Even a three-year-old child understands such a simple fact!\"",
+      "pinyin": "Gēlúnbù tīng dàole, jiù shēngqì de yāoqiú tuìqián: \"zhème jiǎndān de shìshí, jiù lián sān suì xiǎohái yě dǒng!\""
+    }
+  ],
+  "words": [
+    [
+      {
+        "ch": "从前",
+        "en": "Once upon a time",
+        "pi": "cóngqián"
+      },
+      {
+        "ch": "有",
+        "en": "have",
+        "pi": "yǒu"
+      },
+      {
+        "ch": "个",
+        "en": "a",
+        "pi": "gè"
+      },
+      {
+        "ch": "占卜师",
+        "en": "fortune teller",
+        "pi": "zhānbǔ shī"
+      },
+      {
+        "ch": "告诉",
+        "en": "told",
+        "pi": "gàosù"
+      },
+      {
+        "ch": "哥伦布",
+        "en": "Columbus",
+        "pi": "Gēlúnbù"
+      },
+      {
+        "ch": "他",
+        "en": "he",
+        "pi": "tā"
+      },
+      {
+        "ch": "将来",
+        "en": "future",
+        "pi": "jiānglái"
+      },
+      {
+        "ch": "会",
+        "en": "will",
+        "pi": "huì"
+      },
+      {
+        "ch": "成名",
+        "en": "become famous",
+        "pi": "chéngmíng"
+      }
+    ],
+    [
+      {
+        "ch": "哥伦布",
+        "en": "Columbus",
+        "pi": "Gēlúnbù"
+      },
+      {
+        "ch": "听到",
+        "en": "heard",
+        "pi": "tīng dào"
+      },
+      {
+        "ch": "了",
+        "en": "it",
+        "pi": "le"
+      },
+      {
+        "ch": "就",
+        "en": "then",
+        "pi": "jiù"
+      },
+      {
+        "ch": "生气地",
+        "en": "angrily",
+        "pi": "shēngqì de"
+      },
+      {
+        "ch": "要求",
+        "en": "demanded",
+        "pi": "yāoqiú"
+      },
+      {
+        "ch": "退钱",
+        "en": "refund",
+        "pi": "tuìqián"
+      },
+      {
+        "ch": "这么",
+        "en": "such",
+        "pi": "zhème"
+      },
+      {
+        "ch": "简单",
+        "en": "simple",
+        "pi": "jiǎndān"
+      },
+      {
+        "ch": "的",
+        "en": "of",
+        "pi": "de"
+      },
+      {
+        "ch": "事实",
+        "en": "fact",
+        "pi": "shìshí"
+      },
+      {
+        "ch": "就",
+        "en": "even",
+        "pi": "jiù"
+      },
+      {
+        "ch": "连",
+        "en": "also",
+        "pi": "lián"
+      },
+      {
+        "ch": "三岁",
+        "en": "three-year-old",
+        "pi": "sān suì"
+      },
+      {
+        "ch": "小孩",
+        "en": "child",
+        "pi": "xiǎohái"
+      },
+      {
+        "ch": "也",
+        "en": "also",
+        "pi": "yě"
+      },
+      {
+        "ch": "懂",
+        "en": "understands",
+        "pi": "dǒng"
+      }
+    ]
+  ]
+}

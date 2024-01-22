@@ -1,0 +1,42 @@
+{
+  "chinese": "我不在的时候有没有人来？",
+  "english": "Did anyone come while I was gone?",
+  "pinyin": "wǒ bú zài de shí hòu yǒu méi yǒu rén lái?",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不在",
+      "en": "not here",
+      "pi": "bú zài"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "时候",
+      "en": "time",
+      "pi": "shí hòu"
+    },
+    {
+      "ch": "有没有",
+      "en": "did",
+      "pi": "yǒu méi yǒu"
+    },
+    {
+      "ch": "人",
+      "en": "anyone",
+      "pi": "rén"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    }
+  ]
+}

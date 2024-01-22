@@ -1,0 +1,37 @@
+{
+  "chinese": "玛丽日语说得很慢。",
+  "english": "Mary speaks Japanese very slowly.",
+  "pinyin": "Mǎlì rìyǔ shuō de hěn màn.",
+  "words": [
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎlì"
+    },
+    {
+      "ch": "日语",
+      "en": "Japanese",
+      "pi": "rìyǔ"
+    },
+    {
+      "ch": "说",
+      "en": "speaks",
+      "pi": "shuō"
+    },
+    {
+      "ch": "得",
+      "en": "very",
+      "pi": "de"
+    },
+    {
+      "ch": "很",
+      "en": "slowly",
+      "pi": "hěn"
+    },
+    {
+      "ch": "慢",
+      "en": "slow",
+      "pi": "màn"
+    }
+  ]
+}

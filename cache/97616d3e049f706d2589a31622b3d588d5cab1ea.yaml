@@ -1,0 +1,32 @@
+{
+  "chinese": "我的句子在哪里？",
+  "english": "Where are my sentences?",
+  "pinyin": "Wǒ de jùzǐ zài nǎlǐ?",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "Wǒ de"
+    },
+    {
+      "ch": "句子",
+      "en": "sentences",
+      "pi": "jùzǐ"
+    },
+    {
+      "ch": "在",
+      "en": "are",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪里",
+      "en": "where",
+      "pi": "nǎlǐ"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "?"
+    }
+  ]
+}

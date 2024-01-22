@@ -1,0 +1,32 @@
+{
+  "chinese": "天开始下雨了。",
+  "english": "It started raining.",
+  "pinyin": "Tiān kāishǐ xiàyǔ le.",
+  "words": [
+    {
+      "ch": "天",
+      "en": "sky/day",
+      "pi": "tiān"
+    },
+    {
+      "ch": "开始",
+      "en": "start/beginning",
+      "pi": "kāishǐ"
+    },
+    {
+      "ch": "下",
+      "en": "down",
+      "pi": "xià"
+    },
+    {
+      "ch": "雨",
+      "en": "rain",
+      "pi": "yǔ"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

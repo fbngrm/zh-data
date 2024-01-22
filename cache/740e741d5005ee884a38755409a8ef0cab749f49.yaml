@@ -1,0 +1,13 @@
+{
+    "chinese": "这块肉烤得不错。",
+    "english": "This piece of meat is roasted well.",
+    "pinyin": "zhè kuài ròu kǎo dé bú cuò.",
+    "words": [
+        { "ch": "这", "en": "this", "pi": "zhè" },
+        { "ch": "块", "en": "piece", "pi": "kuài" },
+        { "ch": "肉", "en": "meat", "pi": "ròu" },
+        { "ch": "烤", "en": "roasted", "pi": "kǎo" },
+        { "ch": "得", "en": "well", "pi": "dé" },
+        { "ch": "不错", "en": "good", "pi": "bú cuò" }
+    ]
+}

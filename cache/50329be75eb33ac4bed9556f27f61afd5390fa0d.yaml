@@ -1,0 +1,42 @@
+{
+  "chinese": "他朝着狗扔了块石头。",
+  "english": "He threw a stone at the dog.",
+  "pinyin": "tā cháo zhe gǒu rēng le kuài shí tóu.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "朝着",
+      "en": "towards",
+      "pi": "cháo zhe"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "扔",
+      "en": "threw",
+      "pi": "rēng"
+    },
+    {
+      "ch": "了",
+      "en": "a",
+      "pi": "le"
+    },
+    {
+      "ch": "块",
+      "en": "stone",
+      "pi": "kuài"
+    },
+    {
+      "ch": "石头",
+      "en": "at",
+      "pi": "shí tóu"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "你有没有去过加拿大？",
+  "english": "Have you been to Canada?",
+  "pinyin": "nǐ yǒu méiyǒu qù guò jiānádà?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有没有",
+      "en": "have or not",
+      "pi": "yǒu méiyǒu"
+    },
+    {
+      "ch": "去过",
+      "en": "been to",
+      "pi": "qù guò"
+    },
+    {
+      "ch": "加拿大",
+      "en": "Canada",
+      "pi": "jiānádà"
+    }
+  ]
+}

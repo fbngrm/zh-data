@@ -1,0 +1,13 @@
+{
+  "chinese": "汤姆有一天会成为教师。",
+  "english": "Tom will become a teacher one day.",
+  "pinyin": "Tāng mǔ yǒu yī tiān huì chéng wéi jiào shī.",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "一天", "en": "one day", "pi": "yī tiān"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "成为", "en": "become", "pi": "chéng wéi"},
+    {"ch": "教师", "en": "teacher", "pi": "jiào shī"}
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "这只企鹅宝宝太可爱了！",
+  "english": "This baby penguin is so cute!",
+  "pinyin": "Zhè zhī qǐ'é bǎobǎo tài kě'ài le!",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "只",
+      "en": "baby",
+      "pi": "zhī"
+    },
+    {
+      "ch": "企鹅",
+      "en": "penguin",
+      "pi": "qǐ'é"
+    },
+    {
+      "ch": "宝宝",
+      "en": "baby",
+      "pi": "bǎobǎo"
+    },
+    {
+      "ch": "太",
+      "en": "too",
+      "pi": "tài"
+    },
+    {
+      "ch": "可爱",
+      "en": "cute",
+      "pi": "kě'ài"
+    },
+    {
+      "ch": "了",
+      "en": "!",
+      "pi": "le"
+    }
+  ]
+}

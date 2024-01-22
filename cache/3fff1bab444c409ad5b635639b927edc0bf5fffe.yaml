@@ -1,0 +1,42 @@
+{
+  "chinese": "马、狮、犬、羊：这些是动物。",
+  "english": "Horse, lion, dog, sheep: these are animals.",
+  "pinyin": "mǎ, shī, quǎn, yáng: zhèxiē shì dòngwù.",
+  "words": [
+    {
+      "ch": "马",
+      "en": "Horse",
+      "pi": "mǎ"
+    },
+    {
+      "ch": "狮",
+      "en": "Lion",
+      "pi": "shī"
+    },
+    {
+      "ch": "犬",
+      "en": "Dog",
+      "pi": "quǎn"
+    },
+    {
+      "ch": "羊",
+      "en": "Sheep",
+      "pi": "yáng"
+    },
+    {
+      "ch": "这些",
+      "en": "These",
+      "pi": "zhèxiē"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "动物",
+      "en": "animals",
+      "pi": "dòngwù"
+    }
+  ]
+}

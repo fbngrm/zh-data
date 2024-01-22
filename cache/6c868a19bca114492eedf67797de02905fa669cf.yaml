@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆知道我们不高兴。",
+  "english": "Tom knows that we are not happy.",
+  "pinyin": "Tāng mǔ zhīdào wǒmen bù gāoxìng.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "知道",
+      "en": "knows",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "高兴",
+      "en": "happy",
+      "pi": "gāoxìng"
+    }
+  ]
+}

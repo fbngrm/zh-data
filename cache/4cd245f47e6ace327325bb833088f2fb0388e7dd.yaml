@@ -1,0 +1,42 @@
+{
+  "chinese": "这间班房只能容纳三十个学生。",
+  "english": "This classroom can only accommodate thirty students.",
+  "pinyin": "zhè jiān bān fáng zhǐ néng róng nà sānshí gè xuéshēng。",
+  "words": [
+    {
+      "ch": "这间",
+      "en": "this",
+      "pi": "zhè jiān"
+    },
+    {
+      "ch": "班房",
+      "en": "classroom",
+      "pi": "bān fáng"
+    },
+    {
+      "ch": "只能",
+      "en": "can only",
+      "pi": "zhǐ néng"
+    },
+    {
+      "ch": "容纳",
+      "en": "accommodate",
+      "pi": "róng nà"
+    },
+    {
+      "ch": "三十",
+      "en": "thirty",
+      "pi": "sānshí"
+    },
+    {
+      "ch": "个",
+      "en": "measure word",
+      "pi": "gè"
+    },
+    {
+      "ch": "学生",
+      "en": "students",
+      "pi": "xuéshēng"
+    }
+  ]
+}

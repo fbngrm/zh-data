@@ -1,0 +1,42 @@
+{
+  "chinese": "我问了他叫什么名字。",
+  "english": "I asked him what his name is.",
+  "pinyin": "wǒ wèn le tā jiào shénme míngzi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "问",
+      "en": "ask",
+      "pi": "wèn"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating past tense",
+      "pi": "le"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    },
+    {
+      "ch": "叫",
+      "en": "call",
+      "pi": "jiào"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míngzi"
+    }
+  ]
+}

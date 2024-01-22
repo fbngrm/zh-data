@@ -1,0 +1,32 @@
+{
+  "chinese": "这张火车票能报销吗？",
+  "english": "Can I get reimbursed for this train ticket?",
+  "pinyin": "zhè zhāng huǒ chē piào néng bào xiāo ma?",
+  "words": [
+    {
+      "ch": "这张",
+      "en": "this",
+      "pi": "zhè zhāng"
+    },
+    {
+      "ch": "火车票",
+      "en": "train ticket",
+      "pi": "huǒ chē piào"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "报销",
+      "en": "reimburse",
+      "pi": "bào xiāo"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

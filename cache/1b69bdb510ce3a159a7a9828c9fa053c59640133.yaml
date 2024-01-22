@@ -1,0 +1,32 @@
+{
+  "chinese": "我和她是兄妹。",
+  "english": "She and I are siblings.",
+  "pinyin": "wǒ hé tā shì xiōng mèi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "兄妹",
+      "en": "siblings",
+      "pi": "xiōng mèi"
+    }
+  ]
+}

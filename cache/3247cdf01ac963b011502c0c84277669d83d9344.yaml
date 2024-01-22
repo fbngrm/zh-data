@@ -1,0 +1,37 @@
+{
+  "chinese": "这朵花很美，不是吗？",
+  "english": "This flower is beautiful, isn't it?",
+  "pinyin": "Zhè duǒ huā hěn měi, bú shì ma?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "朵",
+      "en": "flower (measure word)",
+      "pi": "duǒ"
+    },
+    {
+      "ch": "花",
+      "en": "flower",
+      "pi": "huā"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "美",
+      "en": "beautiful",
+      "pi": "měi"
+    },
+    {
+      "ch": "不是吗",
+      "en": "isn't it?",
+      "pi": "bú shì ma"
+    }
+  ]
+}

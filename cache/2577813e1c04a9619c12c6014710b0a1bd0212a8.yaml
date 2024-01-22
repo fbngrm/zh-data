@@ -1,0 +1,42 @@
+{
+  "chinese": "我扔了块石头打向鸟儿。",
+  "english": "I threw a stone and hit the bird.",
+  "pinyin": "wǒ rēng le kuài shí tóu dǎ xiàng niǎo ér.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "扔",
+      "en": "threw",
+      "pi": "rēng"
+    },
+    {
+      "ch": "了",
+      "en": "a",
+      "pi": "le"
+    },
+    {
+      "ch": "块",
+      "en": "stone",
+      "pi": "kuài"
+    },
+    {
+      "ch": "石头",
+      "en": "and",
+      "pi": "shí tóu"
+    },
+    {
+      "ch": "打向",
+      "en": "hit",
+      "pi": "dǎ xiàng"
+    },
+    {
+      "ch": "鸟儿",
+      "en": "the bird",
+      "pi": "niǎo ér"
+    }
+  ]
+}

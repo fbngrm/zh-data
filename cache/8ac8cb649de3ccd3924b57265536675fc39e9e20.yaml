@@ -1,0 +1,37 @@
+{
+  "chinese": "我汉字写得很慢。",
+  "english": "I write Chinese characters very slowly.",
+  "pinyin": "wǒ hànzì xiě dé hěn màn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "汉字",
+      "en": "Chinese characters",
+      "pi": "hànzì"
+    },
+    {
+      "ch": "写",
+      "en": "write",
+      "pi": "xiě"
+    },
+    {
+      "ch": "得",
+      "en": "very",
+      "pi": "dé"
+    },
+    {
+      "ch": "很",
+      "en": "slowly",
+      "pi": "hěn"
+    },
+    {
+      "ch": "慢",
+      "en": "slow",
+      "pi": "màn"
+    }
+  ]
+}

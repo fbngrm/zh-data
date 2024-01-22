@@ -1,0 +1,22 @@
+{
+  "chinese": "我叫Jack。",
+  "english": "My name is Jack.",
+  "pinyin": "wǒ jiào Jack.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "叫",
+      "en": "called",
+      "pi": "jiào"
+    },
+    {
+      "ch": "Jack",
+      "en": "Jack",
+      "pi": "Jack"
+    }
+  ]
+}

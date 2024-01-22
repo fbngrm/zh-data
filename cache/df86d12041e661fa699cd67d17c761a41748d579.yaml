@@ -1,0 +1,57 @@
+{
+  "chinese": "您是在这儿用餐，还是给您打包带走？",
+  "english": "Are you dining here or would you like it to be packed for takeout?",
+  "pinyin": "Nín shì zài zhè'er yòngcān, háishì gěi nín dǎbāo dàizǒu?",
+  "words": [
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "这儿",
+      "en": "here",
+      "pi": "zhè'er"
+    },
+    {
+      "ch": "用餐",
+      "en": "dining",
+      "pi": "yòngcān"
+    },
+    {
+      "ch": "还是",
+      "en": "or",
+      "pi": "háishì"
+    },
+    {
+      "ch": "给",
+      "en": "to",
+      "pi": "gěi"
+    },
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "打包",
+      "en": "pack",
+      "pi": "dǎbāo"
+    },
+    {
+      "ch": "带走",
+      "en": "takeout",
+      "pi": "dàizǒu"
+    }
+  ]
+}

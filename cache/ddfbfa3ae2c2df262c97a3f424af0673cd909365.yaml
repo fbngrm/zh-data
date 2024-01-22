@@ -1,0 +1,32 @@
+{
+  "chinese": "我妹妹很像我妈妈。",
+  "english": "My younger sister looks a lot like my mother.",
+  "pinyin": "Wǒ mèimèi hěn xiàng wǒ māmā.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "妹妹",
+      "en": "younger sister",
+      "pi": "mèimèi"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "像",
+      "en": "like",
+      "pi": "xiàng"
+    },
+    {
+      "ch": "妈妈",
+      "en": "mother",
+      "pi": "māmā"
+    }
+  ]
+}

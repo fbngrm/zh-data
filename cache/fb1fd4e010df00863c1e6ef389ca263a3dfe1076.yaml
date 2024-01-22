@@ -1,0 +1,42 @@
+{
+  "chinese": "马是种很有用的动物。",
+  "english": "Horses are very useful animals.",
+  "pinyin": "mǎ shì zhǒng hěn yǒu yòng de dòng wù。",
+  "words": [
+    {
+      "ch": "马",
+      "en": "horse",
+      "pi": "mǎ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "种",
+      "en": "kind",
+      "pi": "zhǒng"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "有用",
+      "en": "useful",
+      "pi": "yǒu yòng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "动物",
+      "en": "animals",
+      "pi": "dòng wù"
+    }
+  ]
+}

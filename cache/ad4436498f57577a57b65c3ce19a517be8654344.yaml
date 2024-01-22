@@ -1,0 +1,37 @@
+{
+  "chinese": "他问了我的妈妈。",
+  "english": "He asked my mother.",
+  "pinyin": "tā wèn le wǒ de māmā。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "问",
+      "en": "ask",
+      "pi": "wèn"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "我",
+      "en": "my",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "的",
+      "en": "particle indicating possession",
+      "pi": "de"
+    },
+    {
+      "ch": "妈妈",
+      "en": "mother",
+      "pi": "māmā"
+    }
+  ]
+}

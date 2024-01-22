@@ -1,0 +1,47 @@
+{
+  "chinese": "喂，这橘子多少钱买一斤啊？",
+  "english": "Hello, how much does this orange cost per kilogram?",
+  "pinyin": "Wèi, zhè júzi duōshao qián mǎi yī jīn a?",
+  "words": [
+    {
+      "ch": "喂",
+      "en": "Hello",
+      "pi": "Wèi"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "橘子",
+      "en": "orange",
+      "pi": "júzi"
+    },
+    {
+      "ch": "多少",
+      "en": "how much",
+      "pi": "duōshao"
+    },
+    {
+      "ch": "钱",
+      "en": "money",
+      "pi": "qián"
+    },
+    {
+      "ch": "买",
+      "en": "buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "一斤",
+      "en": "per kilogram",
+      "pi": "yī jīn"
+    },
+    {
+      "ch": "啊",
+      "en": "ah?",
+      "pi": "a"
+    }
+  ]
+}

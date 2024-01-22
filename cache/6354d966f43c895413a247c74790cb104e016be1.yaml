@@ -1,0 +1,14 @@
+{
+  "chinese": "還有五十公里就到巴黎了。",
+  "english": "Just 50 kilometers left to reach Paris.",
+  "pinyin": "hái yǒu wǔ shí gōng lǐ jiù dào bā lí le。",
+  "words": [
+    {"ch": "還有", "en": "Just", "pi": "hái yǒu"},
+    {"ch": "五十", "en": "50", "pi": "wǔ shí"},
+    {"ch": "公里", "en": "kilometers", "pi": "gōng lǐ"},
+    {"ch": "就", "en": "left", "pi": "jiù"},
+    {"ch": "到", "en": "to", "pi": "dào"},
+    {"ch": "巴黎", "en": "Paris", "pi": "bā lí"},
+    {"ch": "了", "en": "reached", "pi": "le"}
+  ]
+}

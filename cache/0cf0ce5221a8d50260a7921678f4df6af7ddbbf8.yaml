@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆完全不懂得法语。",
+  "english": "Tom doesn't understand French at all.",
+  "pinyin": "Tāng mǔ wánquán bù dǒng dé fǎyǔ.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "完全",
+      "en": "completely",
+      "pi": "wánquán"
+    },
+    {
+      "ch": "不懂得",
+      "en": "don't understand",
+      "pi": "bù dǒng dé"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎyǔ"
+    }
+  ]
+}

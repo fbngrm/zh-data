@@ -1,0 +1,42 @@
+{
+  "chinese": "她在５年里写了５本小说。",
+  "english": "She wrote five novels in five years.",
+  "pinyin": "tā zài wǔ nián lǐ xiě le wǔ běn xiǎo shuō。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "５年",
+      "en": "five years",
+      "pi": "wǔ nián"
+    },
+    {
+      "ch": "里",
+      "en": "within",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "写了",
+      "en": "wrote",
+      "pi": "xiě le"
+    },
+    {
+      "ch": "５本",
+      "en": "five",
+      "pi": "wǔ běn"
+    },
+    {
+      "ch": "小说",
+      "en": "novels",
+      "pi": "xiǎo shuō"
+    }
+  ]
+}

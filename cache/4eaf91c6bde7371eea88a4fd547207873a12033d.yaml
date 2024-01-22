@@ -1,0 +1,27 @@
+{
+  "chinese": "我的伯叔住在纽约。",
+  "english": "My uncle lives in New York.",
+  "pinyin": "Wǒ de bóshū zhù zài niǔyuē.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "My",
+      "pi": "Wǒ de"
+    },
+    {
+      "ch": "伯叔",
+      "en": "uncle",
+      "pi": "bóshū"
+    },
+    {
+      "ch": "住在",
+      "en": "lives in",
+      "pi": "zhù zài"
+    },
+    {
+      "ch": "纽约",
+      "en": "New York",
+      "pi": "niǔyuē"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "他的长相与年龄不符。",
+  "english": "His appearance is not consistent with his age.",
+  "pinyin": "Tā de zhǎngxiàng yǔ niánlíng bùfú.",
+  "words": [
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "长相",
+      "en": "appearance",
+      "pi": "zhǎngxiàng"
+    },
+    {
+      "ch": "与",
+      "en": "with",
+      "pi": "yǔ"
+    },
+    {
+      "ch": "年龄",
+      "en": "age",
+      "pi": "niánlíng"
+    },
+    {
+      "ch": "不符",
+      "en": "not consistent",
+      "pi": "bùfú"
+    }
+  ]
+}

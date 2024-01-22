@@ -1,0 +1,16 @@
+{
+  "chinese": "我拿到了他还我的书。",
+  "english": "I got back the book he borrowed from me.",
+  "pinyin": "wǒ ná dào le tā huán wǒ de shū。",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "拿", "en": "to take", "pi": "ná" },
+    { "ch": "到", "en": "to", "pi": "dào" },
+    { "ch": "了", "en": "obtained", "pi": "le" },
+    { "ch": "他", "en": "he", "pi": "tā" },
+    { "ch": "还", "en": "to return", "pi": "huán" },
+    { "ch": "我", "en": "my", "pi": "wǒ" },
+    { "ch": "的", "en": "possessive particle", "pi": "de" },
+    { "ch": "书", "en": "book", "pi": "shū" }
+  ]
+}

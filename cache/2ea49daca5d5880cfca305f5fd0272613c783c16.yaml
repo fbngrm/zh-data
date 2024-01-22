@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆不知道玛丽真实的意思。",
+  "english": "Tom does not know the true meaning of Mary.",
+  "pinyin": "tāng mǔ bù zhī dào mǎ lì zhēn shí de yì sī.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "真实",
+      "en": "true",
+      "pi": "zhēn shí"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "意思",
+      "en": "meaning",
+      "pi": "yì sī"
+    }
+  ]
+}

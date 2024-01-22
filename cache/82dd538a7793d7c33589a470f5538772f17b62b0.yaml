@@ -1,0 +1,32 @@
+{
+  "chinese": "厨房里有咖啡吗？",
+  "english": "Is there coffee in the kitchen?",
+  "pinyin": "Chúfáng lǐ yǒu kāfēi ma?",
+  "words": [
+    {
+      "ch": "厨房",
+      "en": "kitchen",
+      "pi": "chúfáng"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kāfēi"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "chinese": "我在街上聽到有人叫我的名字。",
+  "english": "I heard someone calling my name on the street.",
+  "pinyin": "wǒ zài jiē shàng tīng dào yǒu rén jiào wǒ de míngzì.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "街上",
+      "en": "on the street",
+      "pi": "jiēshàng"
+    },
+    {
+      "ch": "聽到",
+      "en": "heard",
+      "pi": "tīngdào"
+    },
+    {
+      "ch": "有人",
+      "en": "someone",
+      "pi": "yǒurén"
+    },
+    {
+      "ch": "叫",
+      "en": "calling",
+      "pi": "jiào"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒde"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míngzì"
+    }
+  ]
+}

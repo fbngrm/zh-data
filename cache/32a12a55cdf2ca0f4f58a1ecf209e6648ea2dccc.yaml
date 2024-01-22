@@ -1,0 +1,14 @@
+{
+  "chinese": "罗密欧啊罗密欧，你为什么要是罗密欧呢？",
+  "english": "Oh Romeo, why must you be Romeo?",
+  "pinyin": "luō mì ōu a luō mì ōu, nǐ wèi shén me yào shì luō mì ōu ne?",
+  "words": [
+    {"ch": "罗密欧", "en": "Romeo", "pi": "luō mì ōu"},
+    {"ch": "啊", "en": "Oh", "pi": "a"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "为什么", "en": "why", "pi": "wèi shén me"},
+    {"ch": "要", "en": "must", "pi": "yào"},
+    {"ch": "是", "en": "be", "pi": "shì"},
+    {"ch": "呢", "en": "", "pi": "ne"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "你家的电话号码几号？",
+  "english": "What is your home telephone number?",
+  "pinyin": "nǐ jiā de diànhuà hàomǎ jǐ hào?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "家",
+      "en": "home",
+      "pi": "jiā"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "电话号码",
+      "en": "telephone number",
+      "pi": "diànhuà hàomǎ"
+    },
+    {
+      "ch": "几号",
+      "en": "which number",
+      "pi": "jǐ hào"
+    }
+  ]
+}

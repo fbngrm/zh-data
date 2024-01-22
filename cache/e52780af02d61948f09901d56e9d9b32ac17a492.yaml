@@ -1,0 +1,47 @@
+{
+  "chinese": "如果我拼错了的话，请你纠正。",
+  "english": "If I spelled it wrong, please correct me.",
+  "pinyin": "Rúguǒ wǒ pīn cuò le de huà, qǐng nǐ jiūzhèng.",
+  "words": [
+    {
+      "ch": "如果",
+      "en": "if",
+      "pi": "rúguǒ"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "拼错",
+      "en": "spelled wrong",
+      "pi": "pīn cuò"
+    },
+    {
+      "ch": "了",
+      "en": "it",
+      "pi": "le"
+    },
+    {
+      "ch": "的话",
+      "en": "speaking",
+      "pi": "de huà"
+    },
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "纠正",
+      "en": "correct",
+      "pi": "jiūzhèng"
+    }
+  ]
+}

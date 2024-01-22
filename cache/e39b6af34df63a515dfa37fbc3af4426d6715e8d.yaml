@@ -1,0 +1,27 @@
+{
+  "chinese": "这不是鱼。",
+  "english": "This is not a fish.",
+  "pinyin": "zhè bú shì yú.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bú"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "鱼",
+      "en": "fish",
+      "pi": "yú"
+    }
+  ]
+}

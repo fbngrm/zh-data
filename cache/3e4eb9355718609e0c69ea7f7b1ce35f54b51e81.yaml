@@ -1,0 +1,133 @@
+{
+  "sentences": [
+    {
+      "chinese": "Johny以前是個化學家，但現在Johny不再是了。",
+      "english": "Johny used to be a chemist, but now he is not anymore.",
+      "pinyin": "Johny yǐqián shì gè huàxuéjiā, dàn xiànzài Johny bù zài shì le。",
+      "words": [
+        {
+          "ch": "Johny",
+          "en": "Johny",
+          "pi": "Johny"
+        },
+        {
+          "ch": "以前",
+          "en": "used to",
+          "pi": "yǐqián"
+        },
+        {
+          "ch": "是",
+          "en": "be",
+          "pi": "shì"
+        },
+        {
+          "ch": "個",
+          "en": "a",
+          "pi": "gè"
+        },
+        {
+          "ch": "化學家",
+          "en": "chemist",
+          "pi": "huàxuéjiā"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": "，"
+        },
+        {
+          "ch": "但",
+          "en": "but",
+          "pi": "dàn"
+        },
+        {
+          "ch": "現在",
+          "en": "now",
+          "pi": "xiànzài"
+        },
+        {
+          "ch": "不再",
+          "en": "not anymore",
+          "pi": "bù zài"
+        },
+        {
+          "ch": "是",
+          "en": "be",
+          "pi": "shì"
+        },
+        {
+          "ch": "了",
+          "en": "anymore",
+          "pi": "le"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    },
+    {
+      "chinese": "他以前所想的是水，是硫酸。",
+      "english": "What he used to think before was water, it was sulfuric acid.",
+      "pinyin": "Tā yǐqián suǒ xiǎng de shì shuǐ, shì liúsuān。",
+      "words": [
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "以前",
+          "en": "used to",
+          "pi": "yǐqián"
+        },
+        {
+          "ch": "所",
+          "en": "what",
+          "pi": "suǒ"
+        },
+        {
+          "ch": "想",
+          "en": "think",
+          "pi": "xiǎng"
+        },
+        {
+          "ch": "的",
+          "en": "before",
+          "pi": "de"
+        },
+        {
+          "ch": "是",
+          "en": "was",
+          "pi": "shì"
+        },
+        {
+          "ch": "水",
+          "en": "water",
+          "pi": "shuǐ"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": "，"
+        },
+        {
+          "ch": "是",
+          "en": "it",
+          "pi": "shì"
+        },
+        {
+          "ch": "硫酸",
+          "en": "sulfuric acid",
+          "pi": "liúsuān"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    }
+  ]
+}

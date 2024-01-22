@@ -1,0 +1,33 @@
+{ 
+  "chinese": "因为有些公司对待雇员和顾客的态度可以随时影响它们的股价，所以对公司的成功或失敗不可避免地有巨大的影响。",
+  "english": "Because the attitude of some companies towards employees and customers can affect their stock prices at any time, it inevitably has a huge impact on the success or failure of the company.",
+  "pinyin": "yīnwèi yǒuxiē gōngsī duìdài gùyuán hé gùkè de tàidù kěyǐ suíshí yǐngxiǎng tāmen de gǔjià, suǒyǐ duì gōngsī de chénggōng huò shībài bùkěbìmiǎn de yǒu jùdà de yǐngxiǎng。",
+  "words": [
+    {"ch": "因为", "en": "Because", "pi": "yīnwèi"},
+    {"ch": "有些", "en": "some", "pi": "yǒuxiē"},
+    {"ch": "公司", "en": "companies", "pi": "gōngsī"},
+    {"ch": "对待", "en": "towards", "pi": "duìdài"},
+    {"ch": "雇员", "en": "employees", "pi": "gùyuán"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "顾客", "en": "customers", "pi": "gùkè"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "态度", "en": "attitude", "pi": "tàidù"},
+    {"ch": "可以", "en": "can", "pi": "kěyǐ"},
+    {"ch": "随时", "en": "at any time", "pi": "suíshí"},
+    {"ch": "影响", "en": "affect", "pi": "yǐngxiǎng"},
+    {"ch": "它们", "en": "their", "pi": "tāmen"},
+    {"ch": "股价", "en": "stock prices", "pi": "gǔjià"},
+    {"ch": "所以", "en": "so", "pi": "suǒyǐ"},
+    {"ch": "对", "en": "to", "pi": "duì"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "公司", "en": "company", "pi": "gōngsī"},
+    {"ch": "成功", "en": "success", "pi": "chénggōng"},
+    {"ch": "或", "en": "or", "pi": "huò"},
+    {"ch": "失败", "en": "failure", "pi": "shībài"},
+    {"ch": "不可避免地", "en": "inevitably", "pi": "bùkěbìmiǎn de"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "巨大", "en": "huge", "pi": "jùdà"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "影响", "en": "impact", "pi": "yǐngxiǎng"}
+  ]
+}

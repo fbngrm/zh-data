@@ -1,0 +1,52 @@
+{
+  "chinese": "我有一個哥哥和一個妹妹。",
+  "english": "I have one older brother and one younger sister.",
+  "pinyin": "wǒ yǒu yī gè gēgē hé yī gè mèimei.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一",
+      "en": "one",
+      "pi": "yī"
+    },
+    {
+      "ch": "個",
+      "en": "one",
+      "pi": "gè"
+    },
+    {
+      "ch": "哥哥",
+      "en": "older brother",
+      "pi": "gēgē"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "一",
+      "en": "one",
+      "pi": "yī"
+    },
+    {
+      "ch": "個",
+      "en": "one",
+      "pi": "gè"
+    },
+    {
+      "ch": "妹妹",
+      "en": "younger sister",
+      "pi": "mèimei"
+    }
+  ]
+}

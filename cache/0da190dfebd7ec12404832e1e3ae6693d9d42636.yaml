@@ -1,0 +1,32 @@
+{
+  "chinese": "这班飞机准时起飞。",
+  "english": "The plane takes off on time.",
+  "pinyin": "zhè bān fēi jī zhǔn shí qǐ fēi。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "班",
+      "en": "class",
+      "pi": "bān"
+    },
+    {
+      "ch": "飞机",
+      "en": "plane",
+      "pi": "fēi jī"
+    },
+    {
+      "ch": "准时",
+      "en": "on time",
+      "pi": "zhǔn shí"
+    },
+    {
+      "ch": "起飞",
+      "en": "take off",
+      "pi": "qǐ fēi"
+    }
+  ]
+}

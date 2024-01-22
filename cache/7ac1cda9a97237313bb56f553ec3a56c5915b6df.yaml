@@ -1,0 +1,32 @@
+{
+  "chinese": "Ｋｅｎ有两只猫。",
+  "english": "Ken has two cats.",
+  "pinyin": "Kěn yǒu liǎng zhī māo.",
+  "words": [
+    {
+      "ch": "Ｋｅｎ",
+      "en": "Ken",
+      "pi": "Kěn"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "两",
+      "en": "two",
+      "pi": "liǎng"
+    },
+    {
+      "ch": "只",
+      "en": "cats",
+      "pi": "zhī"
+    },
+    {
+      "ch": "猫",
+      "en": "cats",
+      "pi": "māo"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chinese": "因为他迟到了，所以我很生气。",
+  "english": "Because he was late, I am very angry.",
+  "pinyin": "yīnwèi tā chídào le, suǒyǐ wǒ hěn shēngqì.",
+  "words": [
+    {"ch": "因为", "en": "Because", "pi": "yīnwèi"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "迟到", "en": "be late", "pi": "chídào"},
+    {"ch": "了", "en": "was", "pi": "le"},
+    {"ch": "所以", "en": "so", "pi": "suǒyǐ"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "生气", "en": "angry", "pi": "shēngqì"}
+  ]
+}

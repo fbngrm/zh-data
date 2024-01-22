@@ -1,0 +1,27 @@
+{
+  "chinese": "我的英文成绩很好。",
+  "english": "My English grades are very good.",
+  "pinyin": "Wǒ de yīngwén chéngjī hěn hǎo.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "英文",
+      "en": "English",
+      "pi": "yīngwén"
+    },
+    {
+      "ch": "成绩",
+      "en": "grades",
+      "pi": "chéngjī"
+    },
+    {
+      "ch": "很好",
+      "en": "very good",
+      "pi": "hěn hǎo"
+    }
+  ]
+}

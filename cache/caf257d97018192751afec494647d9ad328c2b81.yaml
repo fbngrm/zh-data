@@ -1,0 +1,58 @@
+{
+  "sentences": [
+    {
+      "chinese": "你在哪里？",
+      "english": "Where are you?",
+      "pinyin": "nǐ zài nǎlǐ?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "在",
+          "en": "are",
+          "pi": "zài"
+        },
+        {
+          "ch": "哪里",
+          "en": "where",
+          "pi": "nǎlǐ"
+        }
+      ]
+    },
+    {
+      "chinese": "我在一个朋友家。",
+      "english": "I'm at a friend's house.",
+      "pinyin": "wǒ zài yīgè péngyǒu jiā.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "在",
+          "en": "am",
+          "pi": "zài"
+        },
+        {
+          "ch": "一个",
+          "en": "a",
+          "pi": "yīgè"
+        },
+        {
+          "ch": "朋友",
+          "en": "friend's",
+          "pi": "péngyǒu"
+        },
+        {
+          "ch": "家",
+          "en": "house",
+          "pi": "jiā"
+        }
+      ]
+    }
+  ]
+}

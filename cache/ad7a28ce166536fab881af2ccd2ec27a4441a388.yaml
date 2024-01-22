@@ -1,0 +1,42 @@
+{
+  "chinese": "您在日本待多久了呢？",
+  "english": "How long have you been in Japan?",
+  "pinyin": "Nín zài Rìběn dāi duōjiǔle ne?",
+  "words": [
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "日本",
+      "en": "Japan",
+      "pi": "Rìběn"
+    },
+    {
+      "ch": "待",
+      "en": "stay",
+      "pi": "dāi"
+    },
+    {
+      "ch": "多久",
+      "en": "how long",
+      "pi": "duōjiǔ"
+    },
+    {
+      "ch": "了",
+      "en": "have",
+      "pi": "le"
+    },
+    {
+      "ch": "呢",
+      "en": "question particle",
+      "pi": "ne"
+    }
+  ]
+}

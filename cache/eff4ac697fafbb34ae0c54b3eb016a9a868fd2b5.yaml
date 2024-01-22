@@ -1,0 +1,15 @@
+{
+  "chinese": "我向乡里的父母写了信。",
+  "english": "I wrote a letter to my parents in the countryside.",
+  "pinyin": "wǒ xiàng xiāng lǐ de fù mǔ xiě le xìn.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "向", "en": "to", "pi": "xiàng"},
+    {"ch": "乡里", "en": "countryside", "pi": "xiāng lǐ"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "父母", "en": "parents", "pi": "fù mǔ"},
+    {"ch": "写", "en": "to write", "pi": "xiě"},
+    {"ch": "了", "en": "a letter to", "pi": "le"},
+    {"ch": "信", "en": "letter", "pi": "xìn"}
+  ]
+}

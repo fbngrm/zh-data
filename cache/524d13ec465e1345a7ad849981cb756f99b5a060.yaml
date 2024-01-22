@@ -1,0 +1,42 @@
+{
+  "chinese": "祖父的年龄比我大五倍。",
+  "english": "My grandfather is five times older than me.",
+  "pinyin": "zǔfù de niánlíng bǐ wǒ dà wǔ bèi。",
+  "words": [
+    {
+      "ch": "祖父",
+      "en": "grandfather",
+      "pi": "zǔfù"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "年龄",
+      "en": "age",
+      "pi": "niánlíng"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "大",
+      "en": "big",
+      "pi": "dà"
+    },
+    {
+      "ch": "五倍",
+      "en": "five times",
+      "pi": "wǔ bèi"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆不会伤害任何人。",
+  "english": "Tom will not harm anyone.",
+  "pinyin": "Tāngmǔ bù huì shānghài rènhé rén.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāngmǔ"
+    },
+    {
+      "ch": "不会",
+      "en": "will not",
+      "pi": "bù huì"
+    },
+    {
+      "ch": "伤害",
+      "en": "harm",
+      "pi": "shānghài"
+    },
+    {
+      "ch": "任何人",
+      "en": "anyone",
+      "pi": "rènhé rén"
+    }
+  ]
+}

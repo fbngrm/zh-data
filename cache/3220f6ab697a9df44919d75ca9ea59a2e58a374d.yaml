@@ -1,0 +1,42 @@
+{
+  "chinese": "你知道现在哪本书卖得好吗？",
+  "english": "Do you know which book sells well now?",
+  "pinyin": "nǐ zhī dào xiàn zài nǎ běn shū mài dé hǎo ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "哪",
+      "en": "which",
+      "pi": "nǎ"
+    },
+    {
+      "ch": "本书",
+      "en": "book",
+      "pi": "běn shū"
+    },
+    {
+      "ch": "卖得好",
+      "en": "sells well",
+      "pi": "mài dé hǎo"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

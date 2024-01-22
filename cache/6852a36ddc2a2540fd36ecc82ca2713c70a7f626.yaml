@@ -1,0 +1,47 @@
+{
+  "chinese": "汤姆没有让我回答玛莉的问题。",
+  "english": "Tom didn't let me answer Mary's question.",
+  "pinyin": "Tāng mǔ méiyǒu ràng wǒ huídá mǎlì de wèntí.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "没有",
+      "en": "didn't",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "让",
+      "en": "let",
+      "pi": "ràng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "回答",
+      "en": "answer",
+      "pi": "huídá"
+    },
+    {
+      "ch": "玛莉",
+      "en": "Mary",
+      "pi": "mǎlì"
+    },
+    {
+      "ch": "的",
+      "en": "'s",
+      "pi": "de"
+    },
+    {
+      "ch": "问题",
+      "en": "question",
+      "pi": "wèntí"
+    }
+  ]
+}

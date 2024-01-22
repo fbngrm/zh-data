@@ -1,0 +1,32 @@
+{
+  "chinese": "我在车站碰到他。",
+  "english": "I met him at the train station.",
+  "pinyin": "Wǒ zài chēzhàn pèngdào tā.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "Wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "车站",
+      "en": "train station",
+      "pi": "chēzhàn"
+    },
+    {
+      "ch": "碰到",
+      "en": "met",
+      "pi": "pèngdào"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    }
+  ]
+}

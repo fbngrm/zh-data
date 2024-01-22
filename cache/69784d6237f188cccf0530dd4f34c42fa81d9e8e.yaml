@@ -1,0 +1,42 @@
+{
+  "chinese": "我不知道汤姆拿到了甚么。",
+  "english": "I don't know what Tom got.",
+  "pinyin": "wǒ bù zhīdào Tāngmǔ ná dào le shénme。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "拿到",
+      "en": "got",
+      "pi": "ná dào"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "甚么",
+      "en": "what",
+      "pi": "shénme"
+    }
+  ]
+}

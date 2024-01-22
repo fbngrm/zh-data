@@ -1,0 +1,42 @@
+{
+  "chinese": "这些是男孩和那些是女孩。",
+  "english": "These are boys and those are girls.",
+  "pinyin": "zhè xiē shì nán hái hé nà xiē shì nǚ hái。",
+  "words": [
+    {
+      "ch": "这些",
+      "en": "These",
+      "pi": "zhè xiē"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "男孩",
+      "en": "boys",
+      "pi": "nán hái"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "那些",
+      "en": "those",
+      "pi": "nà xiē"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "女孩",
+      "en": "girls",
+      "pi": "nǚ hái"
+    }
+  ]
+}

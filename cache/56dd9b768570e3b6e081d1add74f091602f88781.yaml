@@ -1,0 +1,73 @@
+{
+  "sentences": [
+    {
+      "chinese": "你認為他會來嗎?",
+      "english": "Do you think he will come?",
+      "pinyin": "nǐ rèn wéi tā huì lái ma?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "認為",
+          "en": "think",
+          "pi": "rèn wéi"
+        },
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "會",
+          "en": "will",
+          "pi": "huì"
+        },
+        {
+          "ch": "來",
+          "en": "come",
+          "pi": "lái"
+        },
+        {
+          "ch": "嗎",
+          "en": "?",
+          "pi": "ma"
+        }
+      ]
+    },
+    {
+      "chinese": "我希望不會。",
+      "english": "I hope not.",
+      "pinyin": "wǒ xī wàng bú huì.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "希望",
+          "en": "hope",
+          "pi": "xī wàng"
+        },
+        {
+          "ch": "不",
+          "en": "not",
+          "pi": "bú"
+        },
+        {
+          "ch": "會",
+          "en": "will",
+          "pi": "huì"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": null
+        }
+      ]
+    }
+  ]
+}

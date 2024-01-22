@@ -1,0 +1,20 @@
+{
+  "chinese": "只有你来了，她才会来我的生日派对。",
+  "english": "Only when you come, will she come to my birthday party.",
+  "pinyin": "zhǐ yǒu nǐ lái le ，tā cái huì lái wǒ de shēng rì pài duì。",
+  "words": [
+    {"ch": "只有", "en": "Only", "pi": "zhǐ yǒu"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "来了", "en": "come", "pi": "lái le"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "她", "en": "she", "pi": "tā"},
+    {"ch": "才", "en": "will", "pi": "cái"},
+    {"ch": "会", "en": "come", "pi": "huì"},
+    {"ch": "来", "en": "come", "pi": "lái"},
+    {"ch": "我", "en": "my", "pi": "wǒ"},
+    {"ch": "的", "en": "to", "pi": "de"},
+    {"ch": "生日", "en": "birthday", "pi": "shēng rì"},
+    {"ch": "派对", "en": "party", "pi": "pài duì"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

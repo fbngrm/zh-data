@@ -1,0 +1,42 @@
+{
+  "chinese": "地图帮助我们知道所在的位置。",
+  "english": "A map helps us know our location.",
+  "pinyin": "dì tú bāng zhù wǒ men zhī dào suǒ zài de wèi zhi。",
+  "words": [
+    {
+      "ch": "地图",
+      "en": "map",
+      "pi": "dì tú"
+    },
+    {
+      "ch": "帮助",
+      "en": "help",
+      "pi": "bāng zhù"
+    },
+    {
+      "ch": "我们",
+      "en": "us",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "所在",
+      "en": "location",
+      "pi": "suǒ zài"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "位置",
+      "en": "position",
+      "pi": "wèi zhi"
+    }
+  ]
+}

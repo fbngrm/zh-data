@@ -1,0 +1,32 @@
+{
+  "chinese": "你有一只鸟吗？",
+  "english": "Do you have a bird?",
+  "pinyin": "nǐ yǒu yī zhī niǎo ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一只",
+      "en": "a",
+      "pi": "yī zhī"
+    },
+    {
+      "ch": "鸟",
+      "en": "bird",
+      "pi": "niǎo"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "猫在喝你的牛奶。",
+  "english": "The cat is drinking your milk.",
+  "pinyin": "māo zài hē nǐ de niúnǎi.",
+  "words": [
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "喝",
+      "en": "drinking",
+      "pi": "hē"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "牛奶",
+      "en": "milk",
+      "pi": "niúnǎi"
+    }
+  ]
+}

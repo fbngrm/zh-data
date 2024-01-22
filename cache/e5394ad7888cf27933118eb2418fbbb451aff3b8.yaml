@@ -1,0 +1,32 @@
+{
+  "chinese": "你能找到它吗？",
+  "english": "Can you find it?",
+  "pinyin": "nǐ néng zhǎo dào tā ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "找到",
+      "en": "find",
+      "pi": "zhǎo dào"
+    },
+    {
+      "ch": "它",
+      "en": "it",
+      "pi": "tā"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

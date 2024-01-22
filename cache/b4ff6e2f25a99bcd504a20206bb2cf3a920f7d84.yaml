@@ -1,0 +1,14 @@
+{
+  "chinese": "我会再喝一杯啤酒。",
+  "english": "I will have another beer.",
+  "pinyin": "wǒ huì zài hē yī bēi pí jiǔ.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "再", "en": "another", "pi": "zài"},
+    {"ch": "喝", "en": "drink", "pi": "hē"},
+    {"ch": "一", "en": "one", "pi": "yī"},
+    {"ch": "杯", "en": "cup", "pi": "bēi"},
+    {"ch": "啤酒", "en": "beer", "pi": "pí jiǔ"}
+  ]
+}

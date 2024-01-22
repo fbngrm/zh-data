@@ -1,0 +1,32 @@
+{
+  "chinese": "我打了他的肚子。",
+  "english": "I punched him in the stomach.",
+  "pinyin": "wǒ dǎ le tā de dù zi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "打",
+      "en": "punch",
+      "pi": "dǎ"
+    },
+    {
+      "ch": "了",
+      "en": "him",
+      "pi": "le"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "肚子",
+      "en": "stomach",
+      "pi": "dù zi"
+    }
+  ]
+}

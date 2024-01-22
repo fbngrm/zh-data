@@ -1,0 +1,37 @@
+{
+  "chinese": "这个词对我很有用。",
+  "english": "This word is very useful to me.",
+  "pinyin": "zhè gè cí duì wǒ hěn yǒu yòng。",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "词",
+      "en": "word",
+      "pi": "cí"
+    },
+    {
+      "ch": "对",
+      "en": "to",
+      "pi": "duì"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "有用",
+      "en": "useful",
+      "pi": "yǒu yòng"
+    }
+  ]
+}

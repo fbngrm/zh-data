@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆被闪电击中过三次。",
+  "english": "Tom has been struck by lightning three times.",
+  "pinyin": "tāng mǔ bèi shǎn diàn jī zhòng guò sān cì。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "被",
+      "en": "has been",
+      "pi": "bèi"
+    },
+    {
+      "ch": "闪电",
+      "en": "lightning",
+      "pi": "shǎn diàn"
+    },
+    {
+      "ch": "击中",
+      "en": "struck",
+      "pi": "jī zhòng"
+    },
+    {
+      "ch": "过",
+      "en": "by",
+      "pi": "guò"
+    },
+    {
+      "ch": "三次",
+      "en": "three times",
+      "pi": "sān cì"
+    }
+  ]
+}

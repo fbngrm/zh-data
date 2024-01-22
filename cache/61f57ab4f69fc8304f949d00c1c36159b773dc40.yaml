@@ -1,0 +1,16 @@
+{
+  "chinese": "我们公司今季的赤字上涨了差不多一成。",
+  "english": "Our company's deficit increased by almost ten percent this quarter.",
+  "pinyin": "wǒ men gōng sī jīn jì de chì zì shàng zhǎng le chà bù duō yī chéng。",
+  "words": [
+    {"ch": "我们", "en": "we", "pi": "wǒ men"},
+    {"ch": "公司", "en": "company", "pi": "gōng sī"},
+    {"ch": "今季", "en": "this quarter", "pi": "jīn jì"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "赤字", "en": "deficit", "pi": "chì zì"},
+    {"ch": "上涨", "en": "increased", "pi": "shàng zhǎng"},
+    {"ch": "了", "en": "by", "pi": "le"},
+    {"ch": "差不多", "en": "almost", "pi": "chà bù duō"},
+    {"ch": "一成", "en": "ten percent", "pi": "yī chéng"}
+  ]
+}

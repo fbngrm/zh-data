@@ -1,0 +1,42 @@
+{
+  "chinese": "这两条线成直角相交。",
+  "english": "These two lines intersect at a right angle.",
+  "pinyin": "zhè liǎng tiáo xiàn chéng zhí jiǎo xiāng jiāo。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "两",
+      "en": "two",
+      "pi": "liǎng"
+    },
+    {
+      "ch": "条",
+      "en": "measure word for long and narrow objects",
+      "pi": "tiáo"
+    },
+    {
+      "ch": "线",
+      "en": "line",
+      "pi": "xiàn"
+    },
+    {
+      "ch": "成",
+      "en": "become",
+      "pi": "chéng"
+    },
+    {
+      "ch": "直角",
+      "en": "right angle",
+      "pi": "zhí jiǎo"
+    },
+    {
+      "ch": "相交",
+      "en": "intersect",
+      "pi": "xiāng jiāo"
+    }
+  ]
+}

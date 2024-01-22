@@ -1,0 +1,32 @@
+{
+  "chinese": "我的成绩高于平均水平。",
+  "english": "My score is higher than the average level.",
+  "pinyin": "Wǒ de chéngjī gāo yú píngjūn shuǐpíng.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "My",
+      "pi": "Wǒ de"
+    },
+    {
+      "ch": "成绩",
+      "en": "score",
+      "pi": "chéngjī"
+    },
+    {
+      "ch": "高于",
+      "en": "higher than",
+      "pi": "gāo yú"
+    },
+    {
+      "ch": "平均",
+      "en": "average",
+      "pi": "píngjūn"
+    },
+    {
+      "ch": "水平",
+      "en": "level",
+      "pi": "shuǐpíng"
+    }
+  ]
+}

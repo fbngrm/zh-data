@@ -1,0 +1,32 @@
+{
+  "chinese": "你去上學，不是嗎?",
+  "english": "Are you going to school?",
+  "pinyin": "Nǐ qù shàngxué, bùshì ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "上學",
+      "en": "to school",
+      "pi": "shàngxué"
+    },
+    {
+      "ch": "不是",
+      "en": "are not",
+      "pi": "bùshì"
+    },
+    {
+      "ch": "嗎",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

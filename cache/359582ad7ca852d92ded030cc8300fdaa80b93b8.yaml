@@ -1,0 +1,52 @@
+{
+  "chinese": "汤姆是你的好朋友，不是么？",
+  "english": "Tom is your good friend, right?",
+  "pinyin": "Tāng mǔ shì nǐ de hǎo péngyǒu, bù shì me?",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "朋友",
+      "en": "friend",
+      "pi": "péngyǒu"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": "，"
+    },
+    {
+      "ch": "不是",
+      "en": "not",
+      "pi": "bù shì"
+    },
+    {
+      "ch": "么",
+      "en": "right",
+      "pi": "me"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "？"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "左边的车门将会打开。",
+  "english": "The left door will open.",
+  "pinyin": "zuǒ biān de chē mén jiāng huì dǎ kāi.",
+  "words": [
+    {
+      "ch": "左边",
+      "en": "left",
+      "pi": "zuǒ biān"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "车门",
+      "en": "door",
+      "pi": "chē mén"
+    },
+    {
+      "ch": "将会",
+      "en": "will",
+      "pi": "jiāng huì"
+    },
+    {
+      "ch": "打开",
+      "en": "open",
+      "pi": "dǎ kāi"
+    }
+  ]
+}

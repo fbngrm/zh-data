@@ -1,0 +1,37 @@
+{
+  "chinese": "这个图书馆有超过５００００册书。",
+  "english": "This library has over 50,000 books.",
+  "pinyin": "zhè gè tú shū guǎn yǒu chāo guò wǔwàn cè shū。",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "图书馆",
+      "en": "library",
+      "pi": "tú shū guǎn"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "超过",
+      "en": "over",
+      "pi": "chāo guò"
+    },
+    {
+      "ch": "５００００",
+      "en": "50,000",
+      "pi": "wǔwàn"
+    },
+    {
+      "ch": "册书",
+      "en": "books",
+      "pi": "cè shū"
+    }
+  ]
+}

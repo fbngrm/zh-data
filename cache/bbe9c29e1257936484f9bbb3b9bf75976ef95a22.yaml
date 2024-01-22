@@ -1,0 +1,37 @@
+{
+  "chinese": "你有比汤姆重吗?",
+  "english": "Are you heavier than Tom?",
+  "pinyin": "nǐ yǒu bǐ tāng mǔ zhòng ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "重",
+      "en": "heavy",
+      "pi": "zhòng"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

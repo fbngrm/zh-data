@@ -1,0 +1,15 @@
+{
+  "chinese": "我们在港口里看到了许多船。",
+  "english": "We saw many ships in the harbor.",
+  "pinyin": "wǒmen zài gǎngkǒu lǐ kàndàole xǔduō chuán。",
+  "words": [
+    {"ch": "我们", "en": "we", "pi": "wǒmen"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "港口", "en": "harbor", "pi": "gǎngkǒu"},
+    {"ch": "里", "en": "inside", "pi": "lǐ"},
+    {"ch": "看到", "en": "saw", "pi": "kàndào"},
+    {"ch": "了", "en": "many", "pi": "le"},
+    {"ch": "许多", "en": "ships", "pi": "xǔduō"},
+    {"ch": "船", "en": "ships", "pi": "chuán"}
+  ]
+}

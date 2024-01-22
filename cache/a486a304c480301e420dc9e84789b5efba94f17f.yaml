@@ -1,0 +1,32 @@
+{
+  "chinese": "我刚吃过午饭。",
+  "english": "I just had lunch.",
+  "pinyin": "wǒ gāng chī guò wǔfàn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "刚",
+      "en": "just",
+      "pi": "gāng"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "过",
+      "en": "had",
+      "pi": "guò"
+    },
+    {
+      "ch": "午饭",
+      "en": "lunch",
+      "pi": "wǔfàn"
+    }
+  ]
+}

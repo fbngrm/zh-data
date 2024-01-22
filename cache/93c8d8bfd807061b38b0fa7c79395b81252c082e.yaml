@@ -1,0 +1,27 @@
+{
+  "chinese": "上个月是十一月吗？",
+  "english": "Is last month November?",
+  "pinyin": "Shàng gè yuè shì shí yī yuè ma?",
+  "words": [
+    {
+      "ch": "上个月",
+      "en": "last month",
+      "pi": "shàng gè yuè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "十一月",
+      "en": "November",
+      "pi": "shí yī yuè"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

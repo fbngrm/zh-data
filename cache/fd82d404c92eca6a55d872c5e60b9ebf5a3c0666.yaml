@@ -1,0 +1,42 @@
+{
+  "chinese": "您想去电影院还是去剧院吗？",
+  "english": "Do you want to go to the cinema or the theater?",
+  "pinyin": "Nín xiǎng qù diànyǐngyuàn háishì qù jùyuàn ma?",
+  "words": [
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "电影院",
+      "en": "cinema",
+      "pi": "diànyǐngyuàn"
+    },
+    {
+      "ch": "还是",
+      "en": "or",
+      "pi": "háishì"
+    },
+    {
+      "ch": "剧院",
+      "en": "theater",
+      "pi": "jùyuàn"
+    },
+    {
+      "ch": "吗",
+      "en": "",
+      "pi": "ma"
+    }
+  ]
+}

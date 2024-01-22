@@ -1,0 +1,11 @@
+{
+  "chinese": "她读完这本书了吗？",
+  "english": "Did she finish reading this book?",
+  "pinyin": "tā dú wán zhè běn shū le ma?",
+  "words": [
+    { "ch": "她", "en": "she", "pi": "tā" },
+    { "ch": "读完", "en": "finish reading", "pi": "dú wán" },
+    { "ch": "这本书", "en": "this book", "pi": "zhè běn shū" },
+    { "ch": "了吗", "en": "did", "pi": "le ma" }
+  ]
+}

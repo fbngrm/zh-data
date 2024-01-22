@@ -1,0 +1,27 @@
+{
+  "chinese": "最后一班车已经走了。",
+  "english": "The last bus has already left.",
+  "pinyin": "zuì hòu yī bān chē yǐ jīng zǒu le。",
+  "words": [
+    {
+      "ch": "最后",
+      "en": "last",
+      "pi": "zuì hòu"
+    },
+    {
+      "ch": "一班车",
+      "en": "bus",
+      "pi": "yī bān chē"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐ jīng"
+    },
+    {
+      "ch": "走了",
+      "en": "left",
+      "pi": "zǒu le"
+    }
+  ]
+}

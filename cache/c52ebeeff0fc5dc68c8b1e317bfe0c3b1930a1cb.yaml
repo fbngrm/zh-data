@@ -1,0 +1,32 @@
+{
+  "chinese": "我试图解决这个问题。",
+  "english": "I am trying to solve this problem.",
+  "pinyin": "wǒ shì tái jiějué zhège wèntí.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "试图",
+      "en": "trying to",
+      "pi": "shì tái"
+    },
+    {
+      "ch": "解决",
+      "en": "solve",
+      "pi": "jiějué"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhège"
+    },
+    {
+      "ch": "问题",
+      "en": "problem",
+      "pi": "wèntí"
+    }
+  ]
+}

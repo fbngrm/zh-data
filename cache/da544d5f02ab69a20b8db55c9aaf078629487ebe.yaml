@@ -1,0 +1,32 @@
+{
+  "chinese": "你的家庭有多大？",
+  "english": "How big is your family?",
+  "pinyin": "Nǐ de jiātíng yǒu duō dà?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "家庭",
+      "en": "family",
+      "pi": "jiātíng"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "多大",
+      "en": "how big",
+      "pi": "duō dà"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "今天的汇率是多少？",
+  "english": "What is today's exchange rate?",
+  "pinyin": "jīn tiān de huì lǜ shì duō shǎo?",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "汇率",
+      "en": "exchange rate",
+      "pi": "huì lǜ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "多少",
+      "en": "how much",
+      "pi": "duō shǎo"
+    },
+    {
+      "ch": "？",
+      "en": "",
+      "pi": "?"
+    }
+  ]
+}

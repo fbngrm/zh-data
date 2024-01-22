@@ -1,0 +1,32 @@
+{
+  "chinese": "你拿错钥匙了。",
+  "english": "You took the wrong key.",
+  "pinyin": "nǐ ná cuò yàoshi le。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "拿",
+      "en": "take",
+      "pi": "ná"
+    },
+    {
+      "ch": "错",
+      "en": "wrong",
+      "pi": "cuò"
+    },
+    {
+      "ch": "钥匙",
+      "en": "key",
+      "pi": "yàoshi"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

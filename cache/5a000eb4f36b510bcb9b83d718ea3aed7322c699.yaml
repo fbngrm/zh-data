@@ -1,0 +1,37 @@
+{
+  "chinese": "他们喝了两瓶酒。",
+  "english": "They drank two bottles of wine.",
+  "pinyin": "Tāmen hē le liǎng píng jiǔ.",
+  "words": [
+    {
+      "ch": "他们",
+      "en": "They",
+      "pi": "tāmen"
+    },
+    {
+      "ch": "喝",
+      "en": "drank",
+      "pi": "hē"
+    },
+    {
+      "ch": "了",
+      "en": "added emphasis to the action",
+      "pi": "le"
+    },
+    {
+      "ch": "两",
+      "en": "two",
+      "pi": "liǎng"
+    },
+    {
+      "ch": "瓶",
+      "en": "bottles",
+      "pi": "píng"
+    },
+    {
+      "ch": "酒",
+      "en": "wine",
+      "pi": "jiǔ"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "chinese": "我整个下午都在看那本书。",
+  "english": "I was reading that book the whole afternoon.",
+  "pinyin": "wǒ zhěng gè xiàwǔ dōu zài kàn nà běn shū。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "整个", "en": "whole", "pi": "zhěng gè"},
+    {"ch": "下午", "en": "afternoon", "pi": "xiàwǔ"},
+    {"ch": "都", "en": "all", "pi": "dōu"},
+    {"ch": "在", "en": "at, in", "pi": "zài"},
+    {"ch": "看", "en": "read", "pi": "kàn"},
+    {"ch": "那", "en": "that", "pi": "nà"},
+    {"ch": "本", "en": "book", "pi": "běn"},
+    {"ch": "书", "en": "book", "pi": "shū"}
+  ]
+}

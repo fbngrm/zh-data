@@ -1,0 +1,42 @@
+{
+  "chinese": "昨天的派对你玩得开心吗?",
+  "english": "Did you have fun at the party yesterday?",
+  "pinyin": "zuó tiān de pài duì nǐ wán dé kāi xīn ma?",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "派对",
+      "en": "party",
+      "pi": "pài duì"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "玩得",
+      "en": "have fun",
+      "pi": "wán dé"
+    },
+    {
+      "ch": "开心",
+      "en": "happy",
+      "pi": "kāi xīn"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

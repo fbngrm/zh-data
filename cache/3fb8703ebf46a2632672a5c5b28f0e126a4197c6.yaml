@@ -1,0 +1,17 @@
+{
+  "chinese": "你不知道乳酪是用牛奶做的嗎？",
+  "english": "Don't you know that cheese is made from milk?",
+  "pinyin": "Nǐ bù zhīdào rǔlào shì yòng niúnǎi zuò de ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "知道", "en": "know", "pi": "zhīdào"},
+    {"ch": "乳酪", "en": "cheese", "pi": "rǔlào"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "用", "en": "made from", "pi": "yòng"},
+    {"ch": "牛奶", "en": "milk", "pi": "niúnǎi"},
+    {"ch": "做", "en": "made", "pi": "zuò"},
+    {"ch": "的", "en": "from", "pi": "de"},
+    {"ch": "嗎", "en": "question particle", "pi": "ma"}
+  ]
+}

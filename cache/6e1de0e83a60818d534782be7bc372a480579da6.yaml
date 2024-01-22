@@ -1,0 +1,37 @@
+{
+  "chinese": "今晚你能打电话给我吗？",
+  "english": "Can you call me tonight?",
+  "pinyin": "jīn wǎn nǐ néng dǎ diàn huà gěi wǒ ma?",
+  "words": [
+    {
+      "ch": "今晚",
+      "en": "tonight",
+      "pi": "jīn wǎn"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "打电话",
+      "en": "call",
+      "pi": "dǎ diàn huà"
+    },
+    {
+      "ch": "给",
+      "en": "me",
+      "pi": "gěi"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma?"
+    }
+  ]
+}

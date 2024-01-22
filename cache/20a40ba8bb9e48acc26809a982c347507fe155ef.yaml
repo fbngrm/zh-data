@@ -1,0 +1,42 @@
+{
+  "chinese": "我有一个朋友住在奈良。",
+  "english": "I have a friend who lives in Nara.",
+  "pinyin": "wǒ yǒu yí gè péngyǒu zhù zài nàlà.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yí gè"
+    },
+    {
+      "ch": "朋友",
+      "en": "friend",
+      "pi": "péngyǒu"
+    },
+    {
+      "ch": "住",
+      "en": "live",
+      "pi": "zhù"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "奈良",
+      "en": "Nara",
+      "pi": "nàlà"
+    }
+  ]
+}

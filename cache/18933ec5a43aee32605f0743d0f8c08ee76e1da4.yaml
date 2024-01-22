@@ -1,0 +1,32 @@
+{
+  "chinese": "這間房子很大。",
+  "english": "This house is very big.",
+  "pinyin": "zhè jiān fángzi hěn dà.",
+  "words": [
+    {
+      "ch": "這",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "間",
+      "en": "house",
+      "pi": "jiān"
+    },
+    {
+      "ch": "房子",
+      "en": "is",
+      "pi": "fángzi"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "大",
+      "en": "big",
+      "pi": "dà"
+    }
+  ]
+}

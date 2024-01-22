@@ -1,0 +1,332 @@
+{
+  "sentences": [
+    {
+      "chinese": "我从来不是最有可能获得这一职务的候选人。",
+      "english": "I was never the most likely candidate to win this position.",
+      "pinyin": "wǒ cónglái bùshì zuì yǒu kěnéng huòdé zhè yī zhíwù de hòuxuǎnrén。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "从来",
+          "en": "never",
+          "pi": "cónglái"
+        },
+        {
+          "ch": "不是",
+          "en": "not",
+          "pi": "bùshì"
+        },
+        {
+          "ch": "最",
+          "en": "most",
+          "pi": "zuì"
+        },
+        {
+          "ch": "有可能",
+          "en": "likely",
+          "pi": "yǒu kěnéng"
+        },
+        {
+          "ch": "获得",
+          "en": "to win",
+          "pi": "huòdé"
+        },
+        {
+          "ch": "这一",
+          "en": "this",
+          "pi": "zhè yī"
+        },
+        {
+          "ch": "职务",
+          "en": "position",
+          "pi": "zhíwù"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": "de"
+        },
+        {
+          "ch": "候选人",
+          "en": "candidate",
+          "pi": "hòuxuǎnrén"
+        }
+      ]
+    },
+    {
+      "chinese": "我们刚开始并没有太多资金，也没有得到许多人的支持。",
+      "english": "We didn't have much funding at the beginning and didn't receive much support from many people.",
+      "pinyin": "wǒmen gāng kāishǐ bìng méiyǒu tài duō zījīn, yě méiyǒu dédào xǔduō rén de zhīchí。",
+      "words": [
+        {
+          "ch": "我们",
+          "en": "we",
+          "pi": "wǒmen"
+        },
+        {
+          "ch": "刚开始",
+          "en": "at the beginning",
+          "pi": "gāng kāishǐ"
+        },
+        {
+          "ch": "并没有",
+          "en": "didn't have",
+          "pi": "bìng méiyǒu"
+        },
+        {
+          "ch": "太多",
+          "en": "much",
+          "pi": "tài duō"
+        },
+        {
+          "ch": "资金",
+          "en": "funding",
+          "pi": "zījīn"
+        },
+        {
+          "ch": "也没有",
+          "en": "didn't receive",
+          "pi": "yě méiyǒu"
+        },
+        {
+          "ch": "得到",
+          "en": "to receive",
+          "pi": "dédào"
+        },
+        {
+          "ch": "许多",
+          "en": "many",
+          "pi": "xǔduō"
+        },
+        {
+          "ch": "人的",
+          "en": "people's",
+          "pi": "rén de"
+        },
+        {
+          "ch": "支持",
+          "en": "support",
+          "pi": "zhīchí"
+        }
+      ]
+    },
+    {
+      "chinese": "我们的竞选活动并非始自华盛顿的大厅里，而是始于得梅因、康科德、查尔斯顿这些地方的普通民众家中。",
+      "english": "Our campaign did not start in the halls of Washington, but in the homes of ordinary people in Des Moines, Concord, and Charleston.",
+      "pinyin": "wǒmen de jìngxuǎn huódòng bìng fēi shǐ zì huáshèngdùn de dàtīng lǐ, ér shì shǐ yú Dé méi yīn, kāng kē dé, chá ěr sī dùn zhèxiē dìfāng de pǔtōng mínzhòng jiā zhōng。",
+      "words": [
+        {
+          "ch": "我们的",
+          "en": "our",
+          "pi": "wǒmen de"
+        },
+        {
+          "ch": "竞选",
+          "en": "campaign",
+          "pi": "jìngxuǎn"
+        },
+        {
+          "ch": "活动",
+          "en": "activity",
+          "pi": "huódòng"
+        },
+        {
+          "ch": "并非",
+          "en": "did not",
+          "pi": "bìng fēi"
+        },
+        {
+          "ch": "始自",
+          "en": "start from",
+          "pi": "shǐ zì"
+        },
+        {
+          "ch": "华盛顿",
+          "en": "Washington",
+          "pi": "huáshèngdùn"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": "de"
+        },
+        {
+          "ch": "大厅",
+          "en": "hall",
+          "pi": "dàtīng"
+        },
+        {
+          "ch": "里",
+          "en": "in",
+          "pi": "lǐ"
+        },
+        {
+          "ch": "而是",
+          "en": "but",
+          "pi": "ér shì"
+        },
+        {
+          "ch": "始于",
+          "en": "start from",
+          "pi": "shǐ yú"
+        },
+        {
+          "ch": "得梅因",
+          "en": "Des Moines",
+          "pi": "Dé méi yīn"
+        },
+        {
+          "ch": "、",
+          "en": ",",
+          "pi": "、"
+        },
+        {
+          "ch": "康科德",
+          "en": "Concord",
+          "pi": "kāng kē dé"
+        },
+        {
+          "ch": "、",
+          "en": ",",
+          "pi": "、"
+        },
+        {
+          "ch": "查尔斯顿",
+          "en": "Charleston",
+          "pi": "chá ěr sī dùn"
+        },
+        {
+          "ch": "这些",
+          "en": "these",
+          "pi": "zhèxiē"
+        },
+        {
+          "ch": "地方的",
+          "en": "of",
+          "pi": "dìfāng de"
+        },
+        {
+          "ch": "普通民众",
+          "en": "ordinary people",
+          "pi": "pǔtōng mínzhòng"
+        },
+        {
+          "ch": "家中",
+          "en": "in homes",
+          "pi": "jiā zhōng"
+        }
+      ]
+    },
+    {
+      "chinese": "那些辛勤工作的人们从自己微薄的储蓄中捐出5美元、10美元、20美元。",
+      "english": "Those hardworking individuals donated $5, $10, and $20 from their modest savings.",
+      "pinyin": "nàxiē xīnqín gōngzuò de rénmen cóng zìjǐ wéibó de chǔxù zhōng juān chū 5 Měiyuán, 10 Měiyuán, 20 Měiyuán。",
+      "words": [
+        {
+          "ch": "那些",
+          "en": "those",
+          "pi": "nàxiē"
+        },
+        {
+          "ch": "辛勤",
+          "en": "hardworking",
+          "pi": "xīnqín"
+        },
+        {
+          "ch": "工作",
+          "en": "work",
+          "pi": "gōngzuò"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": "de"
+        },
+        {
+          "ch": "人们",
+          "en": "individuals",
+          "pi": "rénmen"
+        },
+        {
+          "ch": "从",
+          "en": "from",
+          "pi": "cóng"
+        },
+        {
+          "ch": "自己",
+          "en": "their own",
+          "pi": "zìjǐ"
+        },
+        {
+          "ch": "微薄",
+          "en": "modest",
+          "pi": "wéibó"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": "de"
+        },
+        {
+          "ch": "储蓄",
+          "en": "savings",
+          "pi": "chǔxù"
+        },
+        {
+          "ch": "中",
+          "en": "in",
+          "pi": "zhōng"
+        },
+        {
+          "ch": "捐出",
+          "en": "donated",
+          "pi": "juān chū"
+        },
+        {
+          "ch": "5",
+          "en": "5",
+          "pi": "Měi yuán"
+        },
+        {
+          "ch": "美元",
+          "en": "dollars",
+          "pi": "Měiyuán"
+        },
+        {
+          "ch": "、",
+          "en": ",",
+          "pi": "、"
+        },
+        {
+          "ch": "10",
+          "en": "10",
+          "pi": "Měi yuán"
+        },
+        {
+          "ch": "美元",
+          "en": "dollars",
+          "pi": "Měiyuán"
+        },
+        {
+          "ch": "、",
+          "en": ",",
+          "pi": "、"
+        },
+        {
+          "ch": "20",
+          "en": "20",
+          "pi": "Měi yuán"
+        },
+        {
+          "ch": "美元",
+          "en": "dollars",
+          "pi": "Měiyuán"
+        }
+      ]
+    }
+  ]
+}

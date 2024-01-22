@@ -1,0 +1,32 @@
+{
+  "chinese": "他看起来是个好男孩。",
+  "english": "He looks like a good boy.",
+  "pinyin": "tā kàn qǐlái shì gè hǎo nánhái。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "看起来",
+      "en": "looks like",
+      "pi": "kàn qǐlái"
+    },
+    {
+      "ch": "是个",
+      "en": "a",
+      "pi": "shì gè"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "男孩",
+      "en": "boy",
+      "pi": "nánhái"
+    }
+  ]
+}

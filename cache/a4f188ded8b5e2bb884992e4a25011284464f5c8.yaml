@@ -1,0 +1,37 @@
+{
+  "chinese": "我恐怕您打错电话了。",
+  "english": "I'm afraid you dialed the wrong number.",
+  "pinyin": "wǒ kǒngpà nín dǎ cuò diànhuàle.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "恐怕",
+      "en": "afraid",
+      "pi": "kǒngpà"
+    },
+    {
+      "ch": "您",
+      "en": "you (polite)",
+      "pi": "nín"
+    },
+    {
+      "ch": "打错",
+      "en": "dialed wrongly",
+      "pi": "dǎ cuò"
+    },
+    {
+      "ch": "电话",
+      "en": "phone number",
+      "pi": "diànhuà"
+    },
+    {
+      "ch": "了",
+      "en": "finished",
+      "pi": "le"
+    }
+  ]
+}

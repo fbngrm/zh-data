@@ -1,0 +1,42 @@
+{
+  "chinese": "我明天要跟你去图书馆。",
+  "english": "I'm going to the library with you tomorrow.",
+  "pinyin": "wǒ míngtiān yào gēn nǐ qù túshūguǎn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "要",
+      "en": "want to",
+      "pi": "yào"
+    },
+    {
+      "ch": "跟",
+      "en": "with",
+      "pi": "gēn"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "图书馆",
+      "en": "library",
+      "pi": "túshūguǎn"
+    }
+  ]
+}

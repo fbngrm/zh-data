@@ -1,0 +1,32 @@
+{
+  "chinese": "我猜想您喜欢他。",
+  "english": "I guess you like him.",
+  "pinyin": "wǒ cāixiǎng nín xǐhuān tā。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "猜想",
+      "en": "guess",
+      "pi": "cāixiǎng"
+    },
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    }
+  ]
+}

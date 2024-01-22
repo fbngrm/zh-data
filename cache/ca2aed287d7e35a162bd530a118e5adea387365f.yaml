@@ -1,0 +1,152 @@
+{
+  "sentences": [
+    {
+      "chinese": "我的父母都退休了。",
+      "english": "Both of my parents have retired.",
+      "pinyin": "wǒ de fù mǔ dōu tuì xiū le。",
+      "words": [
+        {
+          "ch": "我的",
+          "en": "my",
+          "pi": "wǒ de"
+        },
+        {
+          "ch": "父母",
+          "en": "parents",
+          "pi": "fù mǔ"
+        },
+        {
+          "ch": "都",
+          "en": "both",
+          "pi": "dōu"
+        },
+        {
+          "ch": "退休",
+          "en": "retired",
+          "pi": "tuì xiū"
+        },
+        {
+          "ch": "了",
+          "en": "have",
+          "pi": "le"
+        }
+      ]
+    },
+    {
+      "chinese": "我爸爸以前是工程师。",
+      "english": "My dad used to be an engineer.",
+      "pinyin": "wǒ bà ba yǐ qián shì gōng chéng shī。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "爸爸",
+          "en": "dad",
+          "pi": "bà ba"
+        },
+        {
+          "ch": "以前",
+          "en": "used to",
+          "pi": "yǐ qián"
+        },
+        {
+          "ch": "是",
+          "en": "be",
+          "pi": "shì"
+        },
+        {
+          "ch": "工程师",
+          "en": "engineer",
+          "pi": "gōng chéng shī"
+        }
+      ]
+    },
+    {
+      "chinese": "我妈妈是大夫。",
+      "english": "My mom is a doctor.",
+      "pinyin": "wǒ mā mā shì dà fū。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "妈妈",
+          "en": "mom",
+          "pi": "mā mā"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "大夫",
+          "en": "doctor",
+          "pi": "dà fū"
+        }
+      ]
+    },
+    {
+      "chinese": "我也有一个弟弟，他是开出租车的。",
+      "english": "I also have a younger brother who is a taxi driver.",
+      "pinyin": "wǒ yě yǒu yī gè dì dì，tā shì kāi chū zū chē de。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "也",
+          "en": "also",
+          "pi": "yě"
+        },
+        {
+          "ch": "有",
+          "en": "have",
+          "pi": "yǒu"
+        },
+        {
+          "ch": "一个",
+          "en": "one",
+          "pi": "yī gè"
+        },
+        {
+          "ch": "弟弟",
+          "en": "younger brother",
+          "pi": "dì dì"
+        },
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "开",
+          "en": "drive",
+          "pi": "kāi"
+        },
+        {
+          "ch": "出租车",
+          "en": "taxi",
+          "pi": "chū zū chē"
+        },
+        {
+          "ch": "的",
+          "en": "who",
+          "pi": "de"
+        }
+      ]
+    }
+  ]
+}

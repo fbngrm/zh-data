@@ -1,0 +1,14 @@
+{
+  "chinese": "他继续工作了一整天。",
+  "english": "He continued working for a whole day.",
+  "pinyin": "Tā jìxù gōngzuòle yī zhěngtiān.",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "Tā"},
+    {"ch": "继续", "en": "continue", "pi": "jìxù"},
+    {"ch": "工作", "en": "work", "pi": "gōngzuò"},
+    {"ch": "了", "en": "particle indicating completed action", "pi": "le"},
+    {"ch": "一", "en": "one", "pi": "yī"},
+    {"ch": "整", "en": "whole", "pi": "zhěng"},
+    {"ch": "天", "en": "day", "pi": "tiān"}
+  ]
+}

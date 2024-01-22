@@ -1,0 +1,37 @@
+{
+  "chinese": "我只吃了一口面包。",
+  "english": "I only took a bite of the bread.",
+  "pinyin": "wǒ zhǐ chī le yī kǒu miàn bāo.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "只",
+      "en": "only",
+      "pi": "zhǐ"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "了",
+      "en": "did",
+      "pi": "le"
+    },
+    {
+      "ch": "一口",
+      "en": "a bite",
+      "pi": "yī kǒu"
+    },
+    {
+      "ch": "面包",
+      "en": "bread",
+      "pi": "miàn bāo"
+    }
+  ]
+}

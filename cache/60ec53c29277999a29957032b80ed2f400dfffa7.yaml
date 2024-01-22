@@ -1,0 +1,13 @@
+{
+  "chinese": "这个消息让我感到不安。",
+  "english": "This news makes me feel unsettled.",
+  "pinyin": "zhè gè xiāoxi ràng wǒ gǎndào bù'ān。",
+  "words": [
+    { "ch": "这个", "en": "this", "pi": "zhè gè" },
+    { "ch": "消息", "en": "news", "pi": "xiāoxi" },
+    { "ch": "让", "en": "make", "pi": "ràng" },
+    { "ch": "我", "en": "me", "pi": "wǒ" },
+    { "ch": "感到", "en": "feel", "pi": "gǎndào" },
+    { "ch": "不安", "en": "unsettled", "pi": "bù'ān" }
+  ]
+}

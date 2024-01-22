@@ -1,0 +1,32 @@
+{ 
+  "chinese": "今天早上我看到了利兹。",
+  "english": "I saw Leeds this morning.",
+  "pinyin": "jīn tiān zǎo shàng wǒ kàn dào le lì zī。",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎo shàng"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "看到",
+      "en": "saw",
+      "pi": "kàn dào"
+    },
+    {
+      "ch": "了",
+      "en": "Leeds",
+      "pi": "lì zī"
+    }
+  ]
+}

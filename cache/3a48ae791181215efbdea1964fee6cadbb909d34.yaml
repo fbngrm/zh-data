@@ -1,0 +1,47 @@
+{
+  "chinese": "我觉得这张桌子低了点。",
+  "english": "I think this table is a bit low.",
+  "pinyin": "wǒ juéde zhè zhāng zhuōzi dī le diǎn。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "觉得",
+      "en": "think",
+      "pi": "juéde"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "张",
+      "en": "table",
+      "pi": "zhāng"
+    },
+    {
+      "ch": "桌子",
+      "en": "is",
+      "pi": "zhuōzi"
+    },
+    {
+      "ch": "低",
+      "en": "a bit",
+      "pi": "dī"
+    },
+    {
+      "ch": "了",
+      "en": "low",
+      "pi": "le"
+    },
+    {
+      "ch": "点",
+      "en": "point",
+      "pi": "diǎn"
+    }
+  ]
+}

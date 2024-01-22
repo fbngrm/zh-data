@@ -1,0 +1,37 @@
+{
+  "chinese": "你的袋子里有什么？",
+  "english": "What do you have in your bag?",
+  "pinyin": "Nǐ de dàizi lǐ yǒu shénme?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "袋子",
+      "en": "bag",
+      "pi": "dàizi"
+    },
+    {
+      "ch": "里",
+      "en": "inside",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    }
+  ]
+}

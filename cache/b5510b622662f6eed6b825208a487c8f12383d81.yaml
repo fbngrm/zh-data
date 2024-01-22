@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆教了我法语。",
+  "english": "Tom taught me French.",
+  "pinyin": "Tāng mǔ jiāo le wǒ fǎ yǔ.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "教",
+      "en": "teach",
+      "pi": "jiāo"
+    },
+    {
+      "ch": "了",
+      "en": "me",
+      "pi": "le"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎ yǔ"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "对不起。你会讲英语吗？",
+  "english": "I'm sorry. Do you speak English?",
+  "pinyin": "duì bù qǐ. nǐ huì jiǎng yīng yǔ ma?",
+  "words": [
+    { "ch": "对不起", "en": "I'm sorry", "pi": "duì bù qǐ" },
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "会", "en": "can", "pi": "huì" },
+    { "ch": "讲", "en": "speak", "pi": "jiǎng" },
+    { "ch": "英语", "en": "English", "pi": "yīng yǔ" },
+    { "ch": "吗", "en": "question word", "pi": "ma" }
+  ]
+}

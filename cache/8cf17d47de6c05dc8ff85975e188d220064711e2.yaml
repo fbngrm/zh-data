@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆不想去做那件事。",
+  "english": "Tom doesn't want to do that.",
+  "pinyin": "Tāng mǔ bù xiǎng qù zuò nà jiàn shì.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "不想",
+      "en": "don't want",
+      "pi": "bù xiǎng"
+    },
+    {
+      "ch": "去",
+      "en": "to",
+      "pi": "qù"
+    },
+    {
+      "ch": "做",
+      "en": "do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "那件事",
+      "en": "that",
+      "pi": "nà jiàn shì"
+    }
+  ]
+}

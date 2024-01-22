@@ -1,0 +1,42 @@
+{
+  "chinese": "他们有两个儿子和一个女儿。",
+  "english": "They have two sons and one daughter.",
+  "pinyin": "tā men yǒu liǎng gè ér zi hé yī gè nǚ ér。",
+  "words": [
+    {
+      "ch": "他们",
+      "en": "They",
+      "pi": "tā men"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "两个",
+      "en": "two",
+      "pi": "liǎng gè"
+    },
+    {
+      "ch": "儿子",
+      "en": "sons",
+      "pi": "ér zi"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "一个",
+      "en": "one",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "女儿",
+      "en": "daughter",
+      "pi": "nǚ ér"
+    }
+  ]
+}

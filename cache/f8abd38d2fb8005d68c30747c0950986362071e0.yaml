@@ -1,0 +1,27 @@
+{
+   "chinese": "你好吗，汤姆？",
+   "english": "How are you, Tom?",
+   "pinyin": "nǐ hǎo ma, tāng mǔ?",
+   "words": [
+      {
+         "ch": "你",
+         "en": "you",
+         "pi": "nǐ"
+      },
+      {
+         "ch": "好",
+         "en": "good",
+         "pi": "hǎo"
+      },
+      {
+         "ch": "吗",
+         "en": "question particle",
+         "pi": "ma"
+      },
+      {
+         "ch": "汤姆",
+         "en": "Tom",
+         "pi": "tāng mǔ"
+      }
+   ]
+}

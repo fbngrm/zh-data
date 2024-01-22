@@ -1,0 +1,14 @@
+{
+  "chinese": "我能借一下你的刀吗？",
+  "english": "Can I borrow your knife for a moment?",
+  "pinyin": "Wǒ néng jiè yīxià nǐ de dāo ma?",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "Wǒ" },
+    { "ch": "能", "en": "can", "pi": "néng" },
+    { "ch": "借", "en": "borrow", "pi": "jiè" },
+    { "ch": "一下", "en": "for a moment", "pi": "yīxià" },
+    { "ch": "你的", "en": "your", "pi": "nǐ de" },
+    { "ch": "刀", "en": "knife", "pi": "dāo" },
+    { "ch": "吗", "en": "question particle", "pi": "ma" }
+  ]
+}

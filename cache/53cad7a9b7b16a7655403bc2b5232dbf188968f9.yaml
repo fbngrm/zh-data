@@ -1,0 +1,42 @@
+{
+  "chinese": "我吃完晚饭后看电视。",
+  "english": "After I finish eating dinner, I will watch TV.",
+  "pinyin": "wǒ chī wán wǎn fàn hòu kàn diàn shì。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "完",
+      "en": "finish",
+      "pi": "wán"
+    },
+    {
+      "ch": "晚饭",
+      "en": "dinner",
+      "pi": "wǎn fàn"
+    },
+    {
+      "ch": "后",
+      "en": "after",
+      "pi": "hòu"
+    },
+    {
+      "ch": "看",
+      "en": "watch",
+      "pi": "kàn"
+    },
+    {
+      "ch": "电视",
+      "en": "TV",
+      "pi": "diàn shì"
+    }
+  ]
+}

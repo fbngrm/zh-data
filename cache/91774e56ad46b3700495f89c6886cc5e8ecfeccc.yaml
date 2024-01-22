@@ -1,0 +1,16 @@
+{
+  "chinese": "你不是加拿大人，是吗？",
+  "english": "You are not Canadian, are you?",
+  "pinyin": "nǐ bú shì jiā ná dà rén, shì ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "不", "en": "not", "pi": "bú"},
+    {"ch": "是", "en": "are", "pi": "shì"},
+    {"ch": "加拿大", "en": "Canada", "pi": "jiā ná dà"},
+    {"ch": "人", "en": "person", "pi": "rén"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "是", "en": "are", "pi": "shì"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"},
+    {"ch": "？", "en": "?", "pi": "？"}
+  ]
+}

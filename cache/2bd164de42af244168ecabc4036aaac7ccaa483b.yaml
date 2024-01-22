@@ -1,0 +1,32 @@
+{
+  "chinese": "你会用电脑吗？",
+  "english": "Can you use a computer?",
+  "pinyin": "nǐ huì yòng diàn nǎo ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "用",
+      "en": "use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "电脑",
+      "en": "computer",
+      "pi": "diàn nǎo"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

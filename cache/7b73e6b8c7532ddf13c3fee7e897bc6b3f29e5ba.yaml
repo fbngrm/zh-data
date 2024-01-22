@@ -1,0 +1,37 @@
+{
+  "chinese": "这很对我的味口。",
+  "english": "This is to my taste.",
+  "pinyin": "zhè hěn duì wǒ de wèi kǒu。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "很",
+      "en": "is",
+      "pi": "hěn"
+    },
+    {
+      "ch": "对",
+      "en": "to",
+      "pi": "duì"
+    },
+    {
+      "ch": "我",
+      "en": "my",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "味口",
+      "en": "taste",
+      "pi": "wèi kǒu"
+    }
+  ]
+}

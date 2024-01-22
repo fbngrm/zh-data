@@ -1,0 +1,37 @@
+{
+  "chinese": "请告诉约翰我打过电话。",
+  "english": "Please tell John that I called.",
+  "pinyin": "qǐng gàosù yuē hàn wǒ dǎ guò diànhuà.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "告诉",
+      "en": "tell",
+      "pi": "gàosù"
+    },
+    {
+      "ch": "约翰",
+      "en": "John",
+      "pi": "yuē hàn"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "打过",
+      "en": "called",
+      "pi": "dǎ guò"
+    },
+    {
+      "ch": "电话",
+      "en": "phone",
+      "pi": "diànhuà"
+    }
+  ]
+}

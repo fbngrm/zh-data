@@ -1,0 +1,32 @@
+{
+  "chinese": "我在读你的书。",
+  "english": "I am reading your book.",
+  "pinyin": "wǒ zài dú nǐ de shū.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "am",
+      "pi": "zài"
+    },
+    {
+      "ch": "读",
+      "en": "reading",
+      "pi": "dú"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    }
+  ]
+}

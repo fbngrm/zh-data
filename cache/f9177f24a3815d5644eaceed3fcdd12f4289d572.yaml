@@ -1,0 +1,32 @@
+{
+  "chinese": "我在公园里走。",
+  "english": "I am walking in the park.",
+  "pinyin": "wǒ zài gōngyuán lǐ zǒu。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "am",
+      "pi": "zài"
+    },
+    {
+      "ch": "公园",
+      "en": "park",
+      "pi": "gōngyuán"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "走",
+      "en": "walking",
+      "pi": "zǒu"
+    }
+  ]
+}

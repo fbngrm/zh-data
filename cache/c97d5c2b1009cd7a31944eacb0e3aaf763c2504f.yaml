@@ -1,0 +1,15 @@
+{
+  "chinese": "四亿人以英语作为他们的第一语言。",
+  "english": "Four hundred million people speak English as their first language.",
+  "pinyin": "sì yì rén yǐ yīng yǔ zuò wéi tā men de dì yī yǔ yán。",
+  "words": [
+    {"ch": "四亿", "en": "Four hundred million", "pi": "sì yì"},
+    {"ch": "人", "en": "people", "pi": "rén"},
+    {"ch": "以", "en": "speak", "pi": "yǐ"},
+    {"ch": "英语", "en": "English", "pi": "yīng yǔ"},
+    {"ch": "作为", "en": "as", "pi": "zuò wéi"},
+    {"ch": "他们的", "en": "their", "pi": "tā men de"},
+    {"ch": "第一", "en": "first", "pi": "dì yī"},
+    {"ch": "语言", "en": "language", "pi": "yǔ yán"}
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我对汤姆做了什么？",
+  "english": "What did I do to Tom?",
+  "pinyin": "wǒ duì tāng mǔ zuò le shén me?",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "对",
+      "en": "to",
+      "pi": "duì"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "做",
+      "en": "do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shén me"
+    },
+    {
+      "ch": "？",
+      "en": "",
+      "pi": "?"
+    }
+  ]
+}

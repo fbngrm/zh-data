@@ -1,0 +1,42 @@
+{
+  "chinese": "请你打电话把结果告诉我。",
+  "english": "Please call me and tell me the results.",
+  "pinyin": "qǐng nǐ dǎ diànhuà bǎ jiéguǒ gàosù wǒ.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "打电话",
+      "en": "call",
+      "pi": "dǎ diànhuà"
+    },
+    {
+      "ch": "把",
+      "en": "me",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "结果",
+      "en": "results",
+      "pi": "jiéguǒ"
+    },
+    {
+      "ch": "告诉",
+      "en": "tell",
+      "pi": "gàosù"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    }
+  ]
+}

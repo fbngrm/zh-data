@@ -1,0 +1,17 @@
+{
+  "chinese": "我每天都会花一小时来学英文。",
+  "english": "I spend one hour every day learning English.",
+  "pinyin": "wǒ měi tiān dōu huì huā yī xiǎo shí lái xué yīng wén。",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "每天", "en": "every day", "pi": "měi tiān" },
+    { "ch": "都", "en": "all", "pi": "dōu" },
+    { "ch": "会", "en": "spend", "pi": "huì" },
+    { "ch": "花", "en": "one", "pi": "huā" },
+    { "ch": "一", "en": "hour", "pi": "yī" },
+    { "ch": "小时", "en": "learning", "pi": "xiǎo shí" },
+    { "ch": "来", "en": "English", "pi": "lái" },
+    { "ch": "学", "en": "to", "pi": "xué" },
+    { "ch": "英文", "en": "learn", "pi": "yīng wén" }
+  ]
+}

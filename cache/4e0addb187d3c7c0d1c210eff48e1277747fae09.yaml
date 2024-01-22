@@ -1,0 +1,15 @@
+{
+  "chinese": "明天中午叫他打给我一个电话。",
+  "english": "Ask him to call me at noon tomorrow.",
+  "pinyin": "míng tiān zhōng wǔ jiào tā dǎ gěi wǒ yī gè diàn huà。",
+  "words": [
+    {"ch": "明天", "en": "tomorrow", "pi": "míng tiān"},
+    {"ch": "中午", "en": "noon", "pi": "zhōng wǔ"},
+    {"ch": "叫", "en": "ask", "pi": "jiào"},
+    {"ch": "他", "en": "him", "pi": "tā"},
+    {"ch": "打给", "en": "to call", "pi": "dǎ gěi"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "一个", "en": "one", "pi": "yī gè"},
+    {"ch": "电话", "en": "telephone", "pi": "diàn huà"}
+  ]
+}

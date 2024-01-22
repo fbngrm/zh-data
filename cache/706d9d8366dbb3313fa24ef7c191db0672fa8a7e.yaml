@@ -1,0 +1,12 @@
+{
+  "chinese": "汤姆真要做吗？",
+  "english": "Does Tom really want to do it?",
+  "pinyin": "Tāng mǔ zhēn yào zuò ma?",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "真", "en": "really", "pi": "zhēn"},
+    {"ch": "要", "en": "want", "pi": "yào"},
+    {"ch": "做", "en": "to do", "pi": "zuò"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

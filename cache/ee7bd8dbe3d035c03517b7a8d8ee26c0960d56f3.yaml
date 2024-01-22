@@ -1,0 +1,32 @@
+{
+  "chinese": "上个月我换了我的地址。",
+  "english": "Last month I changed my address.",
+  "pinyin": "Shàng gè yuè wǒ huàn le wǒ de dìzhǐ.",
+  "words": [
+    {
+      "ch": "上个月",
+      "en": "Last month",
+      "pi": "Shàng gè yuè"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "换了",
+      "en": "changed",
+      "pi": "huàn le"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "地址",
+      "en": "address",
+      "pi": "dìzhǐ"
+    }
+  ]
+}

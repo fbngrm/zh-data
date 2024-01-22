@@ -1,0 +1,37 @@
+{
+  "chinese": "那位学生会说些英语。",
+  "english": "That student can speak some English.",
+  "pinyin": "nà wèi xuéshēng huì shuō xiē yīngyǔ。",
+  "words": [
+    {
+      "ch": "那位",
+      "en": "that",
+      "pi": "nà wèi"
+    },
+    {
+      "ch": "学生",
+      "en": "student",
+      "pi": "xuéshēng"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "些",
+      "en": "some",
+      "pi": "xiē"
+    },
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīngyǔ"
+    }
+  ]
+}

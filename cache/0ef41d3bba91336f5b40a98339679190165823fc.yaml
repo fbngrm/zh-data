@@ -1,0 +1,63 @@
+{
+  "sentences": [
+    {
+      "chinese": "我的房间很乱。",
+      "english": "My room is very messy.",
+      "pinyin": "Wǒ de fángjiān hěn luàn.",
+      "words": [
+        {
+          "ch": "我的",
+          "en": "My",
+          "pi": "Wǒ de"
+        },
+        {
+          "ch": "房间",
+          "en": "room",
+          "pi": "fángjiān"
+        },
+        {
+          "ch": "很",
+          "en": "very",
+          "pi": "hěn"
+        },
+        {
+          "ch": "乱",
+          "en": "messy",
+          "pi": "luàn"
+        }
+      ]
+    },
+    {
+      "chinese": "我必须把它弄整齐。",
+      "english": "I must tidy it up.",
+      "pinyin": "Wǒ bìxū bǎ tā nòng zhěngqí.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "Wǒ"
+        },
+        {
+          "ch": "必须",
+          "en": "must",
+          "pi": "bìxū"
+        },
+        {
+          "ch": "把",
+          "en": "to",
+          "pi": "bǎ"
+        },
+        {
+          "ch": "它",
+          "en": "it",
+          "pi": "tā"
+        },
+        {
+          "ch": "弄整齐",
+          "en": "tidy up",
+          "pi": "nòng zhěngqí"
+        }
+      ]
+    }
+  ]
+}

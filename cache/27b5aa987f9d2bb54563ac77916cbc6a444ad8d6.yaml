@@ -1,0 +1,68 @@
+{
+  "sentences": [
+    {
+      "chinese": "也许你说得对。",
+      "english": "Maybe you're right.",
+      "pinyin": "yě xǔ nǐ shuō dé duì。",
+      "words": [
+        {
+          "ch": "也许",
+          "en": "Maybe",
+          "pi": "yě xǔ"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "说",
+          "en": "speak",
+          "pi": "shuō"
+        },
+        {
+          "ch": "得",
+          "en": "obtain",
+          "pi": "dé"
+        },
+        {
+          "ch": "对",
+          "en": "right",
+          "pi": "duì"
+        }
+      ]
+    },
+    {
+      "chinese": "我一直都很自私。",
+      "english": "I have always been selfish.",
+      "pinyin": "wǒ yī zhí dōu hěn zì sī。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "一直",
+          "en": "always",
+          "pi": "yī zhí"
+        },
+        {
+          "ch": "都",
+          "en": "all",
+          "pi": "dōu"
+        },
+        {
+          "ch": "很",
+          "en": "very",
+          "pi": "hěn"
+        },
+        {
+          "ch": "自私",
+          "en": "selfish",
+          "pi": "zì sī"
+        }
+      ]
+    }
+  ]
+}

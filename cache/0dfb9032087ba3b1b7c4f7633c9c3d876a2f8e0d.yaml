@@ -1,0 +1,32 @@
+{
+  "chinese": "这种动物以草为食。",
+  "english": "This animal eats grass.",
+  "pinyin": "zhè zhǒng dòngwù yǐ cǎo wèi shí.",
+  "words": [
+    {
+      "ch": "这种",
+      "en": "this kind of",
+      "pi": "zhè zhǒng"
+    },
+    {
+      "ch": "动物",
+      "en": "animal",
+      "pi": "dòngwù"
+    },
+    {
+      "ch": "以",
+      "en": "with",
+      "pi": "yǐ"
+    },
+    {
+      "ch": "草",
+      "en": "grass",
+      "pi": "cǎo"
+    },
+    {
+      "ch": "为食",
+      "en": "as food",
+      "pi": "wèi shí"
+    }
+  ]
+}

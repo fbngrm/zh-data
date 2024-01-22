@@ -1,0 +1,27 @@
+{
+  "chinese": "雨过天晴。",
+  "english": "The rain stops and the sky clears up.",
+  "pinyin": "yǔ guò tiān qíng.",
+  "words": [
+    {
+      "ch": "雨",
+      "en": "rain",
+      "pi": "yǔ"
+    },
+    {
+      "ch": "过",
+      "en": "stops",
+      "pi": "guò"
+    },
+    {
+      "ch": "天",
+      "en": "sky",
+      "pi": "tiān"
+    },
+    {
+      "ch": "晴",
+      "en": "clears up",
+      "pi": "qíng"
+    }
+  ]
+}

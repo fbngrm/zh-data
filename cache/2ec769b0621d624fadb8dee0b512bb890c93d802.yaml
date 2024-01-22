@@ -1,0 +1,37 @@
+{
+  "chinese": "我是这个学校的学生。",
+  "english": "I am a student in this school.",
+  "pinyin": "Wǒ shì zhè gè xuéxiào de xuéshēng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "是",
+      "en": "am",
+      "pi": "shì"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "学校",
+      "en": "school",
+      "pi": "xuéxiào"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "学生",
+      "en": "student",
+      "pi": "xuéshēng"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "哪顶帽子是你的？",
+  "english": "Which hat is yours?",
+  "pinyin": "nǎ dǐng màozi shì nǐ de?",
+  "words": [
+    {
+      "ch": "哪",
+      "en": "which",
+      "pi": "nǎ"
+    },
+    {
+      "ch": "顶",
+      "en": "hat",
+      "pi": "dǐng"
+    },
+    {
+      "ch": "帽子",
+      "en": "is",
+      "pi": "màozi"
+    },
+    {
+      "ch": "是",
+      "en": "yours",
+      "pi": "shì"
+    },
+    {
+      "ch": "你的",
+      "en": "?",
+      "pi": "nǐ de?"
+    }
+  ]
+}

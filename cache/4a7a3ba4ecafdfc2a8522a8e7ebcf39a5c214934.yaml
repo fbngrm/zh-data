@@ -1,0 +1,32 @@
+{
+  "chinese": "我要去公司开会。",
+  "english": "I need to go to the company for a meeting.",
+  "pinyin": "wǒ yào qù gōngsī kāihuì.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "要",
+      "en": "need, want",
+      "pi": "yào"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "公司",
+      "en": "company",
+      "pi": "gōngsī"
+    },
+    {
+      "ch": "开会",
+      "en": "meeting",
+      "pi": "kāihuì"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "这班有五十个学生。",
+  "english": "This class has fifty students.",
+  "pinyin": "zhè bān yǒu wǔ shí gè xué shēng.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "班",
+      "en": "class",
+      "pi": "bān"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "五十",
+      "en": "fifty",
+      "pi": "wǔ shí"
+    },
+    {
+      "ch": "个",
+      "en": "individuals",
+      "pi": "gè"
+    },
+    {
+      "ch": "学生",
+      "en": "students",
+      "pi": "xué shēng"
+    }
+  ]
+}

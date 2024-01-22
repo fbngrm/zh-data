@@ -1,0 +1,52 @@
+{
+  "chinese": "我今早起床时，我爸已经吃过早饭了。",
+  "english": "When I woke up this morning, my dad had already eaten breakfast.",
+  "pinyin": "wǒ jīn zǎo qǐ chuáng shí，wǒ bà yǐ jīng chī guò zǎo fàn le。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "今早",
+      "en": "this morning",
+      "pi": "jīn zǎo"
+    },
+    {
+      "ch": "起床",
+      "en": "wake up",
+      "pi": "qǐ chuáng"
+    },
+    {
+      "ch": "时",
+      "en": "when",
+      "pi": "shí"
+    },
+    {
+      "ch": "我爸",
+      "en": "my dad",
+      "pi": "wǒ bà"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐ jīng"
+    },
+    {
+      "ch": "吃过",
+      "en": "had eaten",
+      "pi": "chī guò"
+    },
+    {
+      "ch": "早饭",
+      "en": "breakfast",
+      "pi": "zǎo fàn"
+    },
+    {
+      "ch": "了",
+      "en": "了",
+      "pi": "le"
+    }
+  ]
+}

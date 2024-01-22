@@ -1,0 +1,32 @@
+{
+  "chinese": "士兵給了我水。",
+  "english": "The soldier gave me water.",
+  "pinyin": "shì bīng gěi le wǒ shuǐ.",
+  "words": [
+    {
+      "ch": "士兵",
+      "en": "soldier",
+      "pi": "shì bīng"
+    },
+    {
+      "ch": "給",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "水",
+      "en": "water",
+      "pi": "shuǐ"
+    }
+  ]
+}

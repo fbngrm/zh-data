@@ -1,0 +1,78 @@
+{
+  "sentences": [
+    {
+      "chinese": "你到底做了什么？",
+      "english": "What have you done in the end?",
+      "pinyin": "nǐ dào dǐ zuò le shén me？",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "到底",
+          "en": "in the end",
+          "pi": "dào dǐ"
+        },
+        {
+          "ch": "做",
+          "en": "do",
+          "pi": "zuò"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        },
+        {
+          "ch": "什么",
+          "en": "what",
+          "pi": "shén me"
+        }
+      ]
+    },
+    {
+      "chinese": "你不也是我的朋友吗？",
+      "english": "Aren't you also my friend?",
+      "pinyin": "nǐ bù yě shì wǒ de péng yǒu ma?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "不",
+          "en": "not",
+          "pi": "bù"
+        },
+        {
+          "ch": "也",
+          "en": "also",
+          "pi": "yě"
+        },
+        {
+          "ch": "是",
+          "en": "are",
+          "pi": "shì"
+        },
+        {
+          "ch": "我的",
+          "en": "my",
+          "pi": "wǒ de"
+        },
+        {
+          "ch": "朋友",
+          "en": "friend",
+          "pi": "péng yǒu"
+        },
+        {
+          "ch": "吗",
+          "en": "",
+          "pi": "ma"
+        }
+      ]
+    }
+  ]
+}

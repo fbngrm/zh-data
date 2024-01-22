@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆认为我太年轻。",
+  "english": "Tom thinks I'm too young.",
+  "pinyin": "Tāng mǔ rèn wéi wǒ tài nián qīng.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "认为",
+      "en": "thinks",
+      "pi": "rèn wéi"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "太",
+      "en": "too",
+      "pi": "tài"
+    },
+    {
+      "ch": "年轻",
+      "en": "young",
+      "pi": "nián qīng"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "修理我的腳踏車花了我一千日圓。",
+  "english": "It cost me 1000 Japanese yen to repair my bicycle.",
+  "pinyin": "xiūlǐ wǒ de jiǎotàchē huāle wǒ yīqiān rì yuán。",
+  "words": [
+    {"ch": "修理", "en": "repair", "pi": "xiūlǐ"},
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "腳踏車", "en": "bicycle", "pi": "jiǎotàchē"},
+    {"ch": "花", "en": "cost", "pi": "huā"},
+    {"ch": "了", "en": "me", "pi": "le"},
+    {"ch": "一千", "en": "1000", "pi": "yīqiān"},
+    {"ch": "日圓", "en": "Japanese yen", "pi": "rì yuán"}
+  ]
+}

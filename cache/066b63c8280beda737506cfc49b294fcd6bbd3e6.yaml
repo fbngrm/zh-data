@@ -1,0 +1,20 @@
+{
+  "chinese": "当你在阳光下的时候，遮住你的头。",
+  "english": "When you are in the sun, cover your head.",
+  "pinyin": "Dāng nǐ zài yángguāng xià de shíhou, zhēzhù nǐ de tóu。",
+  "words": [
+    {"ch": "当", "en": "when", "pi": "dāng"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "阳光", "en": "sun", "pi": "yángguāng"},
+    {"ch": "下", "en": "below", "pi": "xià"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "时候", "en": "time", "pi": "shíhou"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "遮住", "en": "cover", "pi": "zhēzhù"},
+    {"ch": "你", "en": "your", "pi": "nǐ"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "头", "en": "head", "pi": "tóu"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

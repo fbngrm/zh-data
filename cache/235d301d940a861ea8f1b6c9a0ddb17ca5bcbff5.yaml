@@ -1,0 +1,15 @@
+{
+  "chinese": "你给我的资料没有多大的用处。",
+  "english": "The information you gave me is not very useful.",
+  "pinyin": "nǐ gěi wǒ de zī liào méi yǒu duō dà de yòng chù。",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "给", "en": "give", "pi": "gěi"},
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "资料", "en": "information", "pi": "zī liào"},
+    {"ch": "没有", "en": "not", "pi": "méi yǒu"},
+    {"ch": "多大", "en": "very", "pi": "duō dà"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "用处", "en": "useful", "pi": "yòng chù"}
+  ]
+}

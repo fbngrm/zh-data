@@ -1,0 +1,15 @@
+{
+  "chinese": "汤姆是我朋友中的其中一位。",
+  "english": "Tom is one of my friends.",
+  "pinyin": "tāng mǔ shì wǒ péng yǒu zhōng de qí zhōng yī wèi。",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "我", "en": "my", "pi": "wǒ"},
+    {"ch": "朋友", "en": "friend", "pi": "péng yǒu"},
+    {"ch": "中", "en": "among", "pi": "zhōng"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "其中", "en": "one of", "pi": "qí zhōng"},
+    {"ch": "一位", "en": "one person", "pi": "yī wèi"}
+  ]
+}

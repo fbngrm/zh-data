@@ -1,0 +1,32 @@
+{
+  "chinese": "他喝了一杯咖啡。",
+  "english": "He drank a cup of coffee.",
+  "pinyin": "tā hē le yī bēi kāfēi.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "喝",
+      "en": "drank",
+      "pi": "hē"
+    },
+    {
+      "ch": "了",
+      "en": "a",
+      "pi": "le"
+    },
+    {
+      "ch": "一杯",
+      "en": "cup of",
+      "pi": "yī bēi"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kāfēi"
+    }
+  ]
+}

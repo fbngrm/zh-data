@@ -1,0 +1,32 @@
+{
+  "chinese": "這隻烏鴉飛走了。",
+  "english": "The crow flew away.",
+  "pinyin": "zhè zhī wū yā fēi zǒu le。",
+  "words": [
+    {
+      "ch": "這",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "隻",
+      "en": "measure word for birds",
+      "pi": "zhī"
+    },
+    {
+      "ch": "烏鴉",
+      "en": "crow",
+      "pi": "wū yā"
+    },
+    {
+      "ch": "飛走",
+      "en": "flew away",
+      "pi": "fēi zǒu"
+    },
+    {
+      "ch": "了",
+      "en": "indicating completion",
+      "pi": "le"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "你做完功课了吗？",
+  "english": "Have you finished your homework?",
+  "pinyin": "nǐ zuò wán gōngkè le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "做完",
+      "en": "finished",
+      "pi": "zuò wán"
+    },
+    {
+      "ch": "功课",
+      "en": "homework",
+      "pi": "gōngkè"
+    },
+    {
+      "ch": "了",
+      "en": "have",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

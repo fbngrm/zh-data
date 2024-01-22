@@ -1,0 +1,37 @@
+{
+  "chinese": "我今天感觉比昨天好。",
+  "english": "I feel better today than yesterday.",
+  "pinyin": "Wǒ jīntiān gǎnjué bǐ zuótiān hǎo.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "感觉",
+      "en": "feel",
+      "pi": "gǎnjué"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    }
+  ]
+}

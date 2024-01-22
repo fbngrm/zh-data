@@ -1,0 +1,15 @@
+{
+  "chinese": "很多中国人认为红色是最好的颜色。",
+  "english": "Many Chinese people believe that red is the best color.",
+  "pinyin": "Hěn duō zhōngguó rén rènwéi hóngsè shì zuìhǎo de yánsè.",
+  "words": [
+    {"ch": "很多", "en": "Many", "pi": "hěn duō"},
+    {"ch": "中国人", "en": "Chinese people", "pi": "zhōngguó rén"},
+    {"ch": "认为", "en": "believe", "pi": "rènwéi"},
+    {"ch": "红色", "en": "red", "pi": "hóngsè"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "最好", "en": "best", "pi": "zuìhǎo"},
+    {"ch": "的", "en": "the", "pi": "de"},
+    {"ch": "颜色", "en": "color", "pi": "yánsè"}
+  ]
+}

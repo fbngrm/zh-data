@@ -1,0 +1,12 @@
+{
+  "chinese": "这些书都是我的。",
+  "english": "These books are all mine.",
+  "pinyin": "Zhèxiē shū dōu shì wǒ de.",
+  "words": [
+    {"ch": "这些", "en": "these", "pi": "zhèxiē"},
+    {"ch": "书", "en": "books", "pi": "shū"},
+    {"ch": "都", "en": "all", "pi": "dōu"},
+    {"ch": "是", "en": "are", "pi": "shì"},
+    {"ch": "我的", "en": "mine", "pi": "wǒ de"}
+  ]
+}

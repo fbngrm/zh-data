@@ -1,0 +1,15 @@
+{
+  "chinese": "汤姆告诉我他不想跟我们走。",
+  "english": "Tom told me that he doesn't want to go with us.",
+  "pinyin": "tāng mǔ gào su wǒ tā bù xiǎng gēn wǒ men zǒu.",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "告诉", "en": "tell", "pi": "gào su"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "不想", "en": "doesn't want", "pi": "bù xiǎng"},
+    {"ch": "跟", "en": "to", "pi": "gēn"},
+    {"ch": "我们", "en": "us", "pi": "wǒ men"},
+    {"ch": "走", "en": "go", "pi": "zǒu"}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "chinese": "汤姆找他的钢笔。",
+  "english": "Tom is looking for his pen.",
+  "pinyin": "Tāng mǔ zhǎo tā de gāngbǐ.",
+  "words": [
+    { "ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ" },
+    { "ch": "找", "en": "is looking for", "pi": "zhǎo" },
+    { "ch": "他的", "en": "his", "pi": "tā de" },
+    { "ch": "钢笔", "en": "pen", "pi": "gāngbǐ" }
+  ]
+}

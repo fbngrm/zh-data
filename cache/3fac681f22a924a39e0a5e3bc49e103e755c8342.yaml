@@ -1,0 +1,32 @@
+{
+  "chinese": "他的音乐会非常好。",
+  "english": "His concert is very good.",
+  "pinyin": "tā de yīn yuè huì fēi cháng hǎo.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "音乐会",
+      "en": "concert",
+      "pi": "yīn yuè huì"
+    },
+    {
+      "ch": "非常",
+      "en": "very",
+      "pi": "fēi cháng"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    }
+  ]
+}

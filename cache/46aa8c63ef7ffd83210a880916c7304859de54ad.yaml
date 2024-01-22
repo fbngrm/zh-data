@@ -1,0 +1,27 @@
+{
+  "chinese": "很多小学生学不好代数。",
+  "english": "Many elementary school students cannot learn algebra well.",
+  "pinyin": "hěn duō xiǎo xué shēng xué bù hǎo dài shù。",
+  "words": [
+    {
+      "ch": "很多",
+      "en": "Many",
+      "pi": "hěn duō"
+    },
+    {
+      "ch": "小学生",
+      "en": "elementary school student",
+      "pi": "xiǎo xué shēng"
+    },
+    {
+      "ch": "学不好",
+      "en": "cannot learn well",
+      "pi": "xué bù hǎo"
+    },
+    {
+      "ch": "代数",
+      "en": "algebra",
+      "pi": "dài shù"
+    }
+  ]
+}

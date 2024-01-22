@@ -1,0 +1,27 @@
+{
+  "chinese": "你有没有缝衣针？",
+  "english": "Do you have a sewing needle?",
+  "pinyin": "nǐ yǒu méiyǒu féng yī zhēn?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "没有",
+      "en": "do not have",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "缝衣针",
+      "en": "sewing needle",
+      "pi": "féng yī zhēn"
+    }
+  ]
+}

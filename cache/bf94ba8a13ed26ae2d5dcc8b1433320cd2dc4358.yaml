@@ -1,0 +1,32 @@
+{
+  "chinese": "我们的母语是日语。",
+  "english": "Our native language is Japanese.",
+  "pinyin": "wǒmen de mǔyǔ shì rìyǔ.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "的",
+      "en": "of, possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "母语",
+      "en": "native language",
+      "pi": "mǔyǔ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "日语",
+      "en": "Japanese",
+      "pi": "rìyǔ"
+    }
+  ]
+}

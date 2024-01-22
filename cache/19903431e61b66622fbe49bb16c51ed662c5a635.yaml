@@ -1,0 +1,47 @@
+{
+  "chinese": "你最喜欢哪类的衣服？",
+  "english": "What type of clothes do you like the most?",
+  "pinyin": "nǐ zuì xǐhuān nǎ lèi de yīfú?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "最",
+      "en": "most",
+      "pi": "zuì"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "哪",
+      "en": "which",
+      "pi": "nǎ"
+    },
+    {
+      "ch": "类",
+      "en": "type",
+      "pi": "lèi"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "衣服",
+      "en": "clothes",
+      "pi": "yīfú"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "?"
+    }
+  ]
+}

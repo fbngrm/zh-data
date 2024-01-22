@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆将很快就会游泳了。",
+  "english": "Tom will be able to swim soon.",
+  "pinyin": "Tāng mǔ jiāng hěn kuài jiù huì yóuyǒng le.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "将",
+      "en": "will",
+      "pi": "jiāng"
+    },
+    {
+      "ch": "很快",
+      "en": "soon",
+      "pi": "hěn kuài"
+    },
+    {
+      "ch": "就会",
+      "en": "be able to",
+      "pi": "jiù huì"
+    },
+    {
+      "ch": "游泳",
+      "en": "swim",
+      "pi": "yóuyǒng"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

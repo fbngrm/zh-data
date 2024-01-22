@@ -1,0 +1,42 @@
+{
+  "chinese": "我听到聚会的事很高兴。",
+  "english": "I am very happy to hear about the party.",
+  "pinyin": "wǒ tīng dào jù huì de shì hěn gāo xìng。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "听到",
+      "en": "hear",
+      "pi": "tīng dào"
+    },
+    {
+      "ch": "聚会",
+      "en": "party",
+      "pi": "jù huì"
+    },
+    {
+      "ch": "的",
+      "en": "about",
+      "pi":"de"
+    },
+    {
+      "ch": "事",
+      "en": "matter",
+      "pi": "shì"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "高兴",
+      "en": "happy",
+      "pi": "gāo xìng"
+    }
+  ]
+}

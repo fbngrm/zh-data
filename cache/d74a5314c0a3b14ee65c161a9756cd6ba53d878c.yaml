@@ -1,0 +1,37 @@
+{
+  "chinese": "约翰现在应该随时会在这里。",
+  "english": "John should be here anytime now.",
+  "pinyin": "yuē hàn xiàn zài yīng gāi suí shí huì zài zhè lǐ。",
+  "words": [
+    {
+      "ch": "约翰",
+      "en": "John",
+      "pi": "yuē hàn"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "应该",
+      "en": "should",
+      "pi": "yīng gāi"
+    },
+    {
+      "ch": "随时",
+      "en": "anytime",
+      "pi": "suí shí"
+    },
+    {
+      "ch": "会",
+      "en": "be",
+      "pi": "huì"
+    },
+    {
+      "ch": "在这里",
+      "en": "here",
+      "pi": "zài zhè lǐ"
+    }
+  ]
+}

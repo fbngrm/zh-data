@@ -1,0 +1,14 @@
+{
+  "chinese": "我要打给我女儿一个电话。",
+  "english": "I want to give my daughter a call.",
+  "pinyin": "wǒ yào dǎ gěi wǒ nǚ ér yī gè diàn huà。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "要", "en": "want to", "pi": "yào"},
+    {"ch": "打给", "en": "give a call to", "pi": "dǎ gěi"},
+    {"ch": "我", "en": "my", "pi": "wǒ"},
+    {"ch": "女儿", "en": "daughter", "pi": "nǚ ér"},
+    {"ch": "一个", "en": "a", "pi": "yī gè"},
+    {"ch": "电话", "en": "phone call", "pi": "diàn huà"}
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "chinese": "昨天，我去我叔叔家作客。",
+  "english": "Yesterday, I went to visit my uncle's house.",
+  "pinyin": "Zuótiān, wǒ qù wǒ shūshu jiā zuòkè.",
+  "words": [
+    {"ch": "昨天", "en": "yesterday", "pi": "zuótiān"},
+    {"ch": "，", "en": ",", "pi": null},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "我", "en": "my", "pi": "wǒ"},
+    {"ch": "叔叔", "en": "uncle", "pi": "shūshu"},
+    {"ch": "家", "en": "house", "pi": "jiā"},
+    {"ch": "作客", "en": "visit", "pi": "zuòkè"},
+    {"ch": "。", "en": ".", "pi": null}
+  ]
+}

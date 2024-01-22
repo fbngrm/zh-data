@@ -1,0 +1,42 @@
+{
+  "chinese": "我的英语书不多于１０本。",
+  "english": "I have no more than 10 English books.",
+  "pinyin": "wǒ de yīngyǔ shū bù duō yú shí běn.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīngyǔ"
+    },
+    {
+      "ch": "书",
+      "en": "books",
+      "pi": "shū"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "多于",
+      "en": "more than",
+      "pi": "duō yú"
+    },
+    {
+      "ch": "１０",
+      "en": "10",
+      "pi": "shí"
+    },
+    {
+      "ch": "本",
+      "en": "measure word for books",
+      "pi": "běn"
+    }
+  ]
+}

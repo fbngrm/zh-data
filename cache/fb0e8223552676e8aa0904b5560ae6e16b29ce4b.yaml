@@ -1,0 +1,14 @@
+{
+  "chinese": "你有多喜欢这场音乐会？",
+  "english": "How much do you like this concert?",
+  "pinyin": "nǐ yǒu duō xǐhuān zhè chǎng yīnyuèhuì？",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "多", "en": "how much", "pi": "duō"},
+    {"ch": "喜欢", "en": "like", "pi": "xǐhuān"},
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "场", "en": "concert", "pi": "chǎng"},
+    {"ch": "音乐会", "en": "music concert", "pi": "yīnyuèhuì"}
+  ]
+}

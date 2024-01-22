@@ -1,0 +1,32 @@
+{
+  "chinese": "我剛剛吃完了午飯。",
+  "english": "I just finished lunch.",
+  "pinyin": "wǒ gānggāng chī wánle wǔfàn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "剛剛",
+      "en": "just",
+      "pi": "gānggāng"
+    },
+    {
+      "ch": "吃完",
+      "en": "finished eating",
+      "pi": "chī wán"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "午飯",
+      "en": "lunch",
+      "pi": "wǔfàn"
+    }
+  ]
+}

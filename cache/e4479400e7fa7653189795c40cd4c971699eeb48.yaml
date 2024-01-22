@@ -1,0 +1,27 @@
+{
+  "chinese": "哪个杯子是你的？",
+  "english": "Which cup is yours?",
+  "pinyin": "Nǎge bēizi shì nǐ de?",
+  "words": [
+    {
+      "ch": "哪个",
+      "en": "Which",
+      "pi": "nǎge"
+    },
+    {
+      "ch": "杯子",
+      "en": "cup",
+      "pi": "bēizi"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "你的",
+      "en": "yours",
+      "pi": "nǐ de"
+    }
+  ]
+}

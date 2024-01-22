@@ -1,0 +1,14 @@
+{
+  "chinese": "她每个星期发送给我信件。",
+  "english": "She sends me letters every week.",
+  "pinyin": "tā měi gè xīngqí fāsòng gěi wǒ xìnjiàn。",
+  "words": [
+    { "ch": "她", "en": "She", "pi": "tā" },
+    { "ch": "每个", "en": "every", "pi": "měi gè" },
+    { "ch": "星期", "en": "week", "pi": "xīngqí" },
+    { "ch": "发送", "en": "sends", "pi": "fāsòng" },
+    { "ch": "给", "en": "me", "pi": "gěi" },
+    { "ch": "我", "en": "letters", "pi": "wǒ" },
+    { "ch": "信件", "en": "letters", "pi": "xìnjiàn" }
+  ]
+}

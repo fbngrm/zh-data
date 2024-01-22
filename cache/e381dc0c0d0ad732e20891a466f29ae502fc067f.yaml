@@ -1,0 +1,27 @@
+{
+  "chinese": "他八点上床睡觉。",
+  "english": "He goes to bed at 8 o'clock to sleep.",
+  "pinyin": "tā bā diǎn shàng chuáng shuì jiào。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "八点",
+      "en": "8 o'clock",
+      "pi": "bā diǎn"
+    },
+    {
+      "ch": "上床",
+      "en": "goes to bed",
+      "pi": "shàng chuáng"
+    },
+    {
+      "ch": "睡觉",
+      "en": "to sleep",
+      "pi": "shuì jiào"
+    }
+  ]
+}

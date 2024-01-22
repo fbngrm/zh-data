@@ -1,0 +1,52 @@
+{
+  "chinese": "请你再告诉我一遍你的名字?",
+  "english": "Can you please tell me your name again?",
+  "pinyin": "qǐng nǐ zài gào sù wǒ yī biàn nǐ de míng zì?",
+  "words": [
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "再",
+      "en": "again",
+      "pi": "zài"
+    },
+    {
+      "ch": "告诉",
+      "en": "tell",
+      "pi": "gào sù"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "一遍",
+      "en": "once again",
+      "pi": "yī biàn"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míng zì"
+    },
+    {
+      "ch": "?",
+      "en": "?",
+      "pi": ""
+    }
+  ]
+}

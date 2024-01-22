@@ -1,0 +1,26 @@
+{
+  "sentences": [
+    {
+      "chinese": "别狼吞虎咽的。",
+      "english": "Don't wolf down your food.",
+      "pinyin": "bié láng tūn hǔ yàn de.",
+      "words": [
+        {"ch": "别", "en": "Don't", "pi": "bié"},
+        {"ch": "狼吞虎咽", "en": "wolf down", "pi": "láng tūn hǔ yàn"},
+        {"ch": "的", "en": "your", "pi": "de"}
+      ]
+    },
+    {
+      "chinese": "你最好细嚼慢咽地吃。",
+      "english": "You'd better chew your food slowly.",
+      "pinyin": "nǐ zuì hǎo xì jiáo màn yàn dì chī.",
+      "words": [
+        {"ch": "你", "en": "You", "pi": "nǐ"},
+        {"ch": "最好", "en": "better", "pi": "zuì hǎo"},
+        {"ch": "细嚼慢咽", "en": "chew slowly", "pi": "xì jiáo màn yàn"},
+        {"ch": "地", "en": "", "pi": "dì"},
+        {"ch": "吃", "en": "eat", "pi": "chī"}
+      ]
+    }
+  ]
+}

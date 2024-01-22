@@ -1,0 +1,32 @@
+{
+  "chinese": "他上星期去了美國。",
+  "english": "He went to the United States last week.",
+  "pinyin": "tā shàng xīngqī qù le měiguó.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "上星期",
+      "en": "last week",
+      "pi": "shàng xīngqī"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "了",
+      "en": "to",
+      "pi": "le"
+    },
+    {
+      "ch": "美國",
+      "en": "United States",
+      "pi": "měiguó"
+    }
+  ]
+}

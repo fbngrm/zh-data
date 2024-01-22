@@ -1,0 +1,32 @@
+{
+  "chinese": "這個符號代表答案正確。",
+  "english": "This symbol represents the answer is correct.",
+  "pinyin": "zhè gè fú hào dài biǎo dá àn zhèng què。",
+  "words": [
+    {
+      "ch": "這個",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "符號",
+      "en": "symbol",
+      "pi": "fú hào"
+    },
+    {
+      "ch": "代表",
+      "en": "represents",
+      "pi": "dài biǎo"
+    },
+    {
+      "ch": "答案",
+      "en": "answer",
+      "pi": "dá àn"
+    },
+    {
+      "ch": "正確",
+      "en": "correct",
+      "pi": "zhèng què"
+    }
+  ]
+}

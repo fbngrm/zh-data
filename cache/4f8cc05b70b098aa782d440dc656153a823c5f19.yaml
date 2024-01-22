@@ -1,0 +1,37 @@
+{
+  "chinese": "那男人偷了我的钱包。",
+  "english": "That man stole my wallet.",
+  "pinyin": "nà nán rén tōu le wǒ de qián bāo.",
+  "words": [
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "男人",
+      "en": "man",
+      "pi": "nán rén"
+    },
+    {
+      "ch": "偷",
+      "en": "steal",
+      "pi": "tōu"
+    },
+    {
+      "ch": "了",
+      "en": "past tense particle",
+      "pi": "le"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "钱包",
+      "en": "wallet",
+      "pi": "qián bāo"
+    }
+  ]
+}

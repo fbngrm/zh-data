@@ -1,0 +1,32 @@
+{
+  "chinese": "這是一支鉛筆。",
+  "english": "This is a pencil.",
+  "pinyin": "zhè shì yī zhī qiān bǐ。",
+  "words": [
+    {
+      "ch": "這",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "一",
+      "en": "a",
+      "pi": "yī"
+    },
+    {
+      "ch": "支",
+      "en": "pencil",
+      "pi": "zhī"
+    },
+    {
+      "ch": "鉛筆",
+      "en": "pencil",
+      "pi": "qiān bǐ"
+    }
+  ]
+}

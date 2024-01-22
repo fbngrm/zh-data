@@ -1,0 +1,32 @@
+{
+  "chinese": "玛丽手上有一朵花。",
+  "english": "Mary has a flower in her hand.",
+  "pinyin": "Mǎlì shǒu shàng yǒu yī duǒ huā.",
+  "words": [
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎlì"
+    },
+    {
+      "ch": "手上",
+      "en": "on hand",
+      "pi": "shǒu shàng"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一朵",
+      "en": "a",
+      "pi": "yī duǒ"
+    },
+    {
+      "ch": "花",
+      "en": "flower",
+      "pi": "huā"
+    }
+  ]
+}

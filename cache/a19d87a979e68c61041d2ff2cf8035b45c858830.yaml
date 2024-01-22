@@ -1,0 +1,32 @@
+{
+  "chinese": "快点！我们要迟到了。",
+  "english": "Hurry up! We're going to be late.",
+  "pinyin": "kuài diǎn! wǒmen yào chí dào le.",
+  "words": [
+    {
+      "ch": "快点",
+      "en": "Hurry up",
+      "pi": "kuài diǎn"
+    },
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "要",
+      "en": "going to",
+      "pi": "yào"
+    },
+    {
+      "ch": "迟到",
+      "en": "be late",
+      "pi": "chí dào"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

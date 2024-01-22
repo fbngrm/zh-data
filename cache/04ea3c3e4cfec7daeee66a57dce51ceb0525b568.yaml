@@ -1,0 +1,32 @@
+{
+  "chinese": "你喜欢日本料理吗？",
+  "english": "Do you like Japanese cuisine?",
+  "pinyin": "nǐ xǐhuān rìběn liàolǐ ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "日本",
+      "en": "Japanese",
+      "pi": "rìběn"
+    },
+    {
+      "ch": "料理",
+      "en": "cuisine",
+      "pi": "liàolǐ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

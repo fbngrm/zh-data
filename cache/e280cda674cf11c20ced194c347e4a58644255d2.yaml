@@ -1,0 +1,42 @@
+{
+  "chinese": "这条路因为下雨所以是湿的。",
+  "english": "This road is wet because of the rain.",
+  "pinyin": "zhè tiáo lù yīn wèi xià yǔ suǒ yǐ shì shī de.",
+  "words": [
+    {
+      "ch": "这条",
+      "en": "this",
+      "pi": "zhè tiáo"
+    },
+    {
+      "ch": "路",
+      "en": "road",
+      "pi": "lù"
+    },
+    {
+      "ch": "因为",
+      "en": "because",
+      "pi": "yīn wèi"
+    },
+    {
+      "ch": "下雨",
+      "en": "rain",
+      "pi": "xià yǔ"
+    },
+    {
+      "ch": "所以",
+      "en": "so",
+      "pi": "suǒ yǐ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "湿的",
+      "en": "wet",
+      "pi": "shī de"
+    }
+  ]
+}

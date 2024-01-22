@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆在这以东三哩的地方住。",
+  "english": "Tom lives three miles east of here.",
+  "pinyin": "Tāng mǔ zài zhè yǐ dōng sān lǐ de dì fāng zhù。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "在",
+      "en": "in/at",
+      "pi": "zài"
+    },
+    {
+      "ch": "这",
+      "en": "here",
+      "pi": "zhè"
+    },
+    {
+      "ch": "以东三哩",
+      "en": "three miles east",
+      "pi": "yǐ dōng sān lǐ"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "地方",
+      "en": "place",
+      "pi": "dì fāng"
+    },
+    {
+      "ch": "住",
+      "en": "live",
+      "pi": "zhù"
+    }
+  ]
+}

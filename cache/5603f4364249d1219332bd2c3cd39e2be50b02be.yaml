@@ -1,0 +1,37 @@
+{
+  "chinese": "你成功完成任务了吗？",
+  "english": "Did you successfully complete the task?",
+  "pinyin": "Nǐ chénggōng wánchéng rènwù le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "成功",
+      "en": "successful",
+      "pi": "chénggōng"
+    },
+    {
+      "ch": "完成",
+      "en": "complete",
+      "pi": "wánchéng"
+    },
+    {
+      "ch": "任务",
+      "en": "task",
+      "pi": "rènwù"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "",
+      "pi": "ma"
+    }
+  ]
+}

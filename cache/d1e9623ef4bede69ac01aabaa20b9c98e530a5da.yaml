@@ -1,0 +1,88 @@
+{
+  "sentences": [
+    {
+      "chinese": "洞里发生了什么？我很好奇。",
+      "english": "What happened in the cave? I am very curious.",
+      "pinyin": "dòng lǐ fā shēng le shén me? wǒ hěn hào qí.",
+      "words": [
+        {
+          "ch": "洞里",
+          "en": "in the cave",
+          "pi": "dòng lǐ"
+        },
+        {
+          "ch": "发生了",
+          "en": "happened",
+          "pi": "fā shēng le"
+        },
+        {
+          "ch": "什么",
+          "en": "what",
+          "pi": "shén me"
+        },
+        {
+          "ch": "？",
+          "en": "?",
+          "pi": "？"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "很",
+          "en": "very",
+          "pi": "hěn"
+        },
+        {
+          "ch": "好奇",
+          "en": "curious",
+          "pi": "hào qí"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    },
+    {
+      "chinese": "我一点也不知道。",
+      "english": "I have no idea.",
+      "pinyin": "wǒ yī diǎn yě bù zhī dào.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "一点",
+          "en": "a little",
+          "pi": "yī diǎn"
+        },
+        {
+          "ch": "也",
+          "en": "also",
+          "pi": "yě"
+        },
+        {
+          "ch": "不",
+          "en": "not",
+          "pi": "bù"
+        },
+        {
+          "ch": "知道",
+          "en": "know",
+          "pi": "zhī dào"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    }
+  ]
+}

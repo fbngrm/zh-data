@@ -1,0 +1,32 @@
+{
+  "chinese": "这本课本很好。",
+  "english": "This textbook is very good.",
+  "pinyin": "zhè běn kèběn hěn hǎo.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "课本",
+      "en": "textbook",
+      "pi": "kèběn"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    }
+  ]
+}

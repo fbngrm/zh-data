@@ -1,0 +1,12 @@
+{
+  "chinese": "我明天要去上海。",
+  "english": "I'm going to Shanghai tomorrow.",
+  "pinyin": "wǒ míngtiān yào qù shànghǎi.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "明天", "en": "tomorrow", "pi": "míngtiān"},
+    {"ch": "要", "en": "to want", "pi": "yào"},
+    {"ch": "去", "en": "to go", "pi": "qù"},
+    {"ch": "上海", "en": "Shanghai", "pi": "shànghǎi"}
+  ]
+}

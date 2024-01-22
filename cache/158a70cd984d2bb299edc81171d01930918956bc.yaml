@@ -1,0 +1,32 @@
+{
+  "chinese": "苹果被用来当作甜点。",
+  "english": "Apples are used as dessert.",
+  "pinyin": "píng guǒ bèi yòng lái dāng zuò tián diǎn。",
+  "words": [
+    {
+      "ch": "苹果",
+      "en": "apples",
+      "pi": "píng guǒ"
+    },
+    {
+      "ch": "被",
+      "en": "are",
+      "pi": "bèi"
+    },
+    {
+      "ch": "用来",
+      "en": "used as",
+      "pi": "yòng lái"
+    },
+    {
+      "ch": "当作",
+      "en": "as",
+      "pi": "dāng zuò"
+    },
+    {
+      "ch": "甜点",
+      "en": "dessert",
+      "pi": "tián diǎn"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆问玛丽她的男朋友是谁。",
+  "english": "Tom asked Mary who her boyfriend is.",
+  "pinyin": "Tāng mǔ wèn mǎ lì tā de nán péng yǒu shì shuí.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "问",
+      "en": "ask",
+      "pi": "wèn"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "她的",
+      "en": "her",
+      "pi": "tā de"
+    },
+    {
+      "ch": "男朋友",
+      "en": "boyfriend",
+      "pi": "nán péng yǒu"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "谁",
+      "en": "who",
+      "pi": "shuí"
+    }
+  ]
+}

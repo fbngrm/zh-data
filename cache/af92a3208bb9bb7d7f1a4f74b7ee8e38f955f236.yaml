@@ -1,0 +1,32 @@
+{
+  "chinese": "这只火鸡味道很好。",
+  "english": "This turkey tastes really good.",
+  "pinyin": "zhè zhī huǒ jī wèi dào hěn hǎo.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "只",
+      "en": "turkey",
+      "pi": "zhī"
+    },
+    {
+      "ch": "火鸡",
+      "en": "tastes",
+      "pi": "huǒ jī"
+    },
+    {
+      "ch": "味道",
+      "en": "really",
+      "pi": "wèi dào"
+    },
+    {
+      "ch": "很好",
+      "en": "good",
+      "pi": "hěn hǎo"
+    }
+  ]
+}

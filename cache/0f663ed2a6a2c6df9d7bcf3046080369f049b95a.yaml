@@ -1,0 +1,32 @@
+{
+  "chinese": "我确实喜欢我的同事。",
+  "english": "I really like my colleague.",
+  "pinyin": "wǒ quèshí xǐhuan wǒ de tóngshì.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "确实",
+      "en": "really",
+      "pi": "quèshí"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuan"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "同事",
+      "en": "colleague",
+      "pi": "tóngshì"
+    }
+  ]
+}

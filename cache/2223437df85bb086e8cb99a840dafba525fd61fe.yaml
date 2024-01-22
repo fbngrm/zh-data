@@ -1,0 +1,12 @@
+{
+  "chinese": "你可以用我的字典。",
+  "english": "You can use my dictionary.",
+  "pinyin": "nǐ kě yǐ yòng wǒ de zì diǎn.",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "可以", "en": "can", "pi": "kě yǐ"},
+    {"ch": "用", "en": "use", "pi": "yòng"},
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "字典", "en": "dictionary", "pi": "zì diǎn"}
+  ]
+}

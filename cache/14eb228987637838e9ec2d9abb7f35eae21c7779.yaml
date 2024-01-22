@@ -1,0 +1,37 @@
+{
+  "chinese": "您的牛排要几分熟？",
+  "english": "How would you like your steak cooked?",
+  "pinyin": "Nín de niúpái yào jǐ fēn shú?",
+  "words": [
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "的",
+      "en": "your",
+      "pi": "de"
+    },
+    {
+      "ch": "牛排",
+      "en": "steak",
+      "pi": "niúpái"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "几分",
+      "en": "how",
+      "pi": "jǐ fēn"
+    },
+    {
+      "ch": "熟",
+      "en": "cooked",
+      "pi": "shú"
+    }
+  ]
+}

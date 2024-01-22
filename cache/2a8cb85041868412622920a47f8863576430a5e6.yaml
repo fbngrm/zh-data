@@ -1,0 +1,32 @@
+{
+  "chinese": "你喜欢你的职业吗？",
+  "english": "Do you like your profession?",
+  "pinyin": "nǐ xǐhuān nǐ de zhíyè ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "职业",
+      "en": "profession",
+      "pi": "zhíyè"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

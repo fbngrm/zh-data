@@ -1,0 +1,32 @@
+{
+  "chinese": "他有多少册图书？",
+  "english": "How many books does he have?",
+  "pinyin": "Tā yǒu duōshǎo cè túshū?",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "多少",
+      "en": "how many",
+      "pi": "duōshǎo"
+    },
+    {
+      "ch": "册",
+      "en": "books",
+      "pi": "cè"
+    },
+    {
+      "ch": "图书",
+      "en": "library",
+      "pi": "túshū"
+    }
+  ]
+}

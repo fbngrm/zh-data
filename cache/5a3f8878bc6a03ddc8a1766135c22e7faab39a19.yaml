@@ -1,0 +1,20 @@
+{
+  "chinese": "买这么贵的机器真是浪费,而他甚至不知道怎么用电脑。",
+  "english": "Buying such an expensive machine is such a waste, and he doesn't even know how to use a computer.",
+  "pinyin": "mǎi zhème guì de jīqì zhēn shì làngfèi, ér tā shènzhì bù zhīdào zěnme yòng diànnǎo.",
+  "words": [
+    {"ch": "买", "en": "buy", "pi": "mǎi"},
+    {"ch": "这么", "en": "such", "pi": "zhème"},
+    {"ch": "贵的", "en": "expensive", "pi": "guì de"},
+    {"ch": "机器", "en": "machine", "pi": "jīqì"},
+    {"ch": "真是", "en": "such", "pi": "zhēn shì"},
+    {"ch": "浪费", "en": "waste", "pi": "làngfèi"},
+    {"ch": "而", "en": "and", "pi": "ér"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "甚至", "en": "even", "pi": "shènzhì"},
+    {"ch": "不知道", "en": "don't know", "pi": "bù zhīdào"},
+    {"ch": "怎么", "en": "how", "pi": "zěnme"},
+    {"ch": "用", "en": "to use", "pi": "yòng"},
+    {"ch": "电脑", "en": "computer", "pi": "diànnǎo"}
+  ]
+}

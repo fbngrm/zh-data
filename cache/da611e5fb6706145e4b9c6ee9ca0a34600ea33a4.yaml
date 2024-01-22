@@ -1,0 +1,32 @@
+{
+  "chinese": "我妈妈每天洗衣服。",
+  "english": "My mom washes clothes every day.",
+  "pinyin": "wǒ māmā měi tiān xǐ yīfú.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "妈妈",
+      "en": "mom",
+      "pi": "māmā"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měitiān"
+    },
+    {
+      "ch": "洗",
+      "en": "wash",
+      "pi": "xǐ"
+    },
+    {
+      "ch": "衣服",
+      "en": "clothes",
+      "pi": "yīfú"
+    }
+  ]
+}

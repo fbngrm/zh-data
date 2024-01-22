@@ -1,0 +1,42 @@
+{
+  "chinese": "你會游泳，我卻不會。",
+  "english": "You can swim, but I can't.",
+  "pinyin": "nǐ huì yóuyǒng，wǒ què bù huì。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "會",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "游泳",
+      "en": "swim",
+      "pi": "yóuyǒng"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "卻",
+      "en": "but",
+      "pi": "què"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "會",
+      "en": "can't",
+      "pi": "huì"
+    }
+  ]
+}

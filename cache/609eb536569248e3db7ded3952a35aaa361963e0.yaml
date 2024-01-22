@@ -1,0 +1,26 @@
+{
+  "sentences": [
+    {
+      "chinese": "发生了什么事？",
+      "english": "What happened?",
+      "pinyin": "fā shēng le shén me shì?",
+      "words": [
+        {"ch": "发生", "en": "happen", "pi": "fā shēng"},
+        {"ch": "了", "en": "past tense indicator", "pi": "le"},
+        {"ch": "什么", "en": "what", "pi": "shén me"},
+        {"ch": "事", "en": "matter", "pi": "shì"}
+      ]
+    },
+    {
+      "chinese": "车子慢下来了。",
+      "english": "The car slowed down.",
+      "pinyin": "chē zi màn xià lái le.",
+      "words": [
+        {"ch": "车子", "en": "car", "pi": "chē zi"},
+        {"ch": "慢", "en": "slow", "pi": "màn"},
+        {"ch": "下来", "en": "slow down", "pi": "xià lái"},
+        {"ch": "了", "en": "past tense indicator", "pi": "le"}
+      ]
+    }
+  ]
+}

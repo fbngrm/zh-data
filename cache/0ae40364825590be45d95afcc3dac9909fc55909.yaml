@@ -1,0 +1,32 @@
+{
+  "chinese": "从这儿往前走，到人民路往右走。",
+  "english": "Go straight from here and turn right onto People's Road.",
+  "pinyin": "cóng zhèr wǎng qián zǒu, dào rén mín lù wǎng yòu zǒu.",
+  "words": [
+    {
+      "ch": "从这儿",
+      "en": "From here",
+      "pi": "cóng zhèr"
+    },
+    {
+      "ch": "往前走",
+      "en": "Go straight",
+      "pi": "wǎng qián zǒu"
+    },
+    {
+      "ch": "到",
+      "en": "to",
+      "pi": "dào"
+    },
+    {
+      "ch": "人民路",
+      "en": "People's Road",
+      "pi": "rén mín lù"
+    },
+    {
+      "ch": "往右走",
+      "en": "Turn right",
+      "pi": "wǎng yòu zǒu"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "他是中国的公民。",
+  "english": "He is a citizen of China.",
+  "pinyin": "tā shì zhōngguó de gōngmín.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "中国",
+      "en": "China",
+      "pi": "zhōngguó"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "公民",
+      "en": "citizen",
+      "pi": "gōngmín"
+    }
+  ]
+}

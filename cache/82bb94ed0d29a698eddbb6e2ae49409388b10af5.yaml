@@ -1,0 +1,27 @@
+{
+  "chinese": "现在轮到你了。",
+  "english": "Now it's your turn.",
+  "pinyin": "xiàn zài lún dào nǐ le.",
+  "words": [
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "轮到",
+      "en": "to turn",
+      "pi": "lún dào"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "了",
+      "en": "modal particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

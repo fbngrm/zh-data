@@ -1,0 +1,48 @@
+{
+  "sentences": [
+    {
+      "chinese": "出拳就是出拳。",
+      "english": "To punch is to punch.",
+      "pinyin": "Chū quán jiùshì chū quán.",
+      "words": [
+        {
+          "ch": "出拳",
+          "en": "punch",
+          "pi": "chū quán"
+        },
+        {
+          "ch": "就是",
+          "en": "is",
+          "pi": "jiùshì"
+        },
+        {
+          "ch": "出拳",
+          "en": "punch",
+          "pi": "chū quán"
+        }
+      ]
+    },
+    {
+      "chinese": "出脚就是出脚。",
+      "english": "To kick is to kick.",
+      "pinyin": "Chū jiǎo jiùshì chū jiǎo.",
+      "words": [
+        {
+          "ch": "出脚",
+          "en": "kick",
+          "pi": "chū jiǎo"
+        },
+        {
+          "ch": "就是",
+          "en": "is",
+          "pi": "jiùshì"
+        },
+        {
+          "ch": "出脚",
+          "en": "kick",
+          "pi": "chū jiǎo"
+        }
+      ]
+    }
+  ]
+}

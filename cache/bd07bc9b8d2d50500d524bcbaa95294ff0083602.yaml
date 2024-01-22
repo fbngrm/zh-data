@@ -1,0 +1,32 @@
+{
+  "chinese": "我們在雪地裡迷了路。",
+  "english": "We got lost in the snow.",
+  "pinyin": "wǒmen zài xuě dì lǐ mí le lù.",
+  "words": [
+    {
+      "ch": "我們",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "雪地",
+      "en": "snow",
+      "pi": "xuě dì"
+    },
+    {
+      "ch": "裡",
+      "en": "inside",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "迷了路",
+      "en": "got lost",
+      "pi": "mí le lù"
+    }
+  ]
+}

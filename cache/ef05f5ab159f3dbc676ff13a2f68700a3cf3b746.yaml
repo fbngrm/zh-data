@@ -1,0 +1,47 @@
+{
+  "chinese": "这咖啡热得我没办法喝。",
+  "english": "This coffee is too hot for me to drink.",
+  "pinyin": "zhè kāfēi rè de wǒ méi bànfǎ hē.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kāfēi"
+    },
+    {
+      "ch": "热",
+      "en": "hot",
+      "pi": "rè"
+    },
+    {
+      "ch": "得",
+      "en": "to",
+      "pi": "de"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "没",
+      "en": "not",
+      "pi": "méi"
+    },
+    {
+      "ch": "办法",
+      "en": "way",
+      "pi": "bànfǎ"
+    },
+    {
+      "ch": "喝",
+      "en": "to drink",
+      "pi": "hē"
+    }
+  ]
+}

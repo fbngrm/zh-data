@@ -1,0 +1,32 @@
+{
+  "chinese": "你跟我一样大。",
+  "english": "You are the same age as me.",
+  "pinyin": "nǐ gēn wǒ yīyàng dà.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "跟",
+      "en": "with",
+      "pi": "gēn"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "一样",
+      "en": "same",
+      "pi": "yīyàng"
+    },
+    {
+      "ch": "大",
+      "en": "age",
+      "pi": "dà"
+    }
+  ]
+}

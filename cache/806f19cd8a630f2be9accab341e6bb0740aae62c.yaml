@@ -1,0 +1,14 @@
+{
+  "chinese": "汤姆造了他自己的摩托车。",
+  "english": "Tom made his own motorcycle.",
+  "pinyin": "Tāng mǔ zào le tā zìjǐ de mótuōchē.",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ"},
+    {"ch": "造", "en": "made", "pi": "zào"},
+    {"ch": "了", "en": "his", "pi": "le"},
+    {"ch": "他", "en": "own", "pi": "tā"},
+    {"ch": "自己", "en": "motorcycle", "pi": "zìjǐ"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "摩托车", "en": "motorcycle", "pi": "mótuōchē"}
+  ]
+}

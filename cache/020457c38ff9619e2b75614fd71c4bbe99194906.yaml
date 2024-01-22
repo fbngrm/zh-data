@@ -1,0 +1,15 @@
+{
+  "chinese": "服务生，请给我一些水。",
+  "english": "Waiter, please give me some water.",
+  "pinyin": "Fúwùshēng, qǐng gěi wǒ yīxiē shuǐ.",
+  "words": [
+    {"ch": "服务生", "en": "waiter", "pi": "fúwùshēng"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "请", "en": "please", "pi": "qǐng"},
+    {"ch": "给", "en": "give", "pi": "gěi"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "一些", "en": "some", "pi": "yīxiē"},
+    {"ch": "水", "en": "water", "pi": "shuǐ"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}

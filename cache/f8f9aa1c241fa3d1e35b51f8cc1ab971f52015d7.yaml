@@ -1,0 +1,42 @@
+{
+  "chinese": "你怎么样？旅游愉快吗？",
+  "english": "How are you? Did you have a pleasant trip?",
+  "pinyin": "nǐ zěnme yàng？lǚyóu yúkuài ma？",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "怎么样",
+      "en": "how are you",
+      "pi": "zěnme yàng"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "？"
+    },
+    {
+      "ch": "旅游",
+      "en": "travel",
+      "pi": "lǚyóu"
+    },
+    {
+      "ch": "愉快",
+      "en": "pleasant",
+      "pi": "yúkuài"
+    },
+    {
+      "ch": "吗",
+      "en": "did",
+      "pi": "ma"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "？"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆现在应该已经完成了。",
+  "english": "Tom should have finished by now.",
+  "pinyin": "tāng mǔ xiàn zài yīng gāi yǐ jīng wán chéng le。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "应该",
+      "en": "should",
+      "pi": "yīng gāi"
+    },
+    {
+      "ch": "已经",
+      "en": "have",
+      "pi": "yǐ jīng"
+    },
+    {
+      "ch": "完成",
+      "en": "finished",
+      "pi": "wán chéng"
+    },
+    {
+      "ch": "了",
+      "en": "by",
+      "pi": "le"
+    }
+  ]
+}

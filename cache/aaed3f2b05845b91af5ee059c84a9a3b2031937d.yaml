@@ -1,0 +1,42 @@
+{
+  "chinese": "我给你发了封邮件。",
+  "english": "I sent you an email.",
+  "pinyin": "wǒ gěi nǐ fā le fēng yóu jiàn。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "给",
+      "en": "to",
+      "pi": "gěi"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "发",
+      "en": "send",
+      "pi": "fā"
+    },
+    {
+      "ch": "了",
+      "en": "past tense marker",
+      "pi": "le"
+    },
+    {
+      "ch": "封",
+      "en": "a measure word for letters",
+      "pi": "fēng"
+    },
+    {
+      "ch": "邮件",
+      "en": "email",
+      "pi": "yóu jiàn"
+    }
+  ]
+}

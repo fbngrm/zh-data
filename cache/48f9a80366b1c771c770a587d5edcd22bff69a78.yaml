@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆一般不吃早饭。",
+  "english": "Tom generally doesn't eat breakfast.",
+  "pinyin": "Tāng mǔ yìbān bù chī zǎofàn.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "一般",
+      "en": "generally",
+      "pi": "yìbān"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "早饭",
+      "en": "breakfast",
+      "pi": "zǎofàn"
+    }
+  ]
+}

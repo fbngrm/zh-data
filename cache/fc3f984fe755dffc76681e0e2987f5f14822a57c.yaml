@@ -1,0 +1,16 @@
+{
+  "chinese": "他问我，是不是知道她的电话号码。",
+  "english": "He asked me if I knew her phone number.",
+  "pinyin": "Tā wèn wǒ, shì bù shì zhīdào tā de diànhuà hàomǎ.",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "问", "en": "ask", "pi": "wèn"},
+    {"ch": "我", "en": "me/I", "pi": "wǒ"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "是不是", "en": "whether or not", "pi": "shì bù shì"},
+    {"ch": "知道", "en": "know", "pi": "zhīdào"},
+    {"ch": "她的", "en": "her", "pi": "tā de"},
+    {"ch": "电话号码", "en": "phone number", "pi": "diànhuà hàomǎ"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}

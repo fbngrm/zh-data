@@ -1,0 +1,27 @@
+{
+  "chinese": "晚上好，你好吗？",
+  "english": "Good evening, how are you?",
+  "pinyin": "Wǎnshàng hǎo, nǐ hǎo ma?",
+  "words": [
+    {
+      "ch": "晚上",
+      "en": "evening",
+      "pi": "wǎnshàng"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "吗",
+      "en": "how",
+      "pi": "ma"
+    }
+  ]
+}

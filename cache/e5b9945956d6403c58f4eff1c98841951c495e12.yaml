@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆是聪明的孩子。",
+  "english": "Tom is a smart child.",
+  "pinyin": "tāng mǔ shì cōng míng de hái zi.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "聪明",
+      "en": "smart",
+      "pi": "cōng míng"
+    },
+    {
+      "ch": "的",
+      "en": "a",
+      "pi": "de"
+    },
+    {
+      "ch": "孩子",
+      "en": "child",
+      "pi": "hái zi"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "这个城市毁于火灾。",
+  "english": "This city was destroyed by a fire.",
+  "pinyin": "zhè gè chéng shì huǐ yú huǒ zāi。",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "城市",
+      "en": "city",
+      "pi": "chéng shì"
+    },
+    {
+      "ch": "毁于",
+      "en": "was destroyed by",
+      "pi": "huǐ yú"
+    },
+    {
+      "ch": "火灾",
+      "en": "fire",
+      "pi": "huǒ zāi"
+    }
+  ]
+}

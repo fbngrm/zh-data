@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆正在清理花园。",
+  "english": "Tom is cleaning the garden.",
+  "pinyin": "Tāng mǔ zhèngzài qīnglǐ huāyuán.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "正在",
+      "en": "is",
+      "pi": "zhèngzài"
+    },
+    {
+      "ch": "清理",
+      "en": "cleaning",
+      "pi": "qīnglǐ"
+    },
+    {
+      "ch": "花园",
+      "en": "garden",
+      "pi": "huāyuán"
+    }
+  ]
+}

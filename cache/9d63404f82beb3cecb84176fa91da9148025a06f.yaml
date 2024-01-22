@@ -1,0 +1,27 @@
+{
+  "chinese": "这里夏天非常炎热。",
+  "english": "It is very hot here in the summer.",
+  "pinyin": "zhè lǐ xià tiān fēi cháng yán rè.",
+  "words": [
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "夏天",
+      "en": "summer",
+      "pi": "xià tiān"
+    },
+    {
+      "ch": "非常",
+      "en": "very",
+      "pi": "fēi cháng"
+    },
+    {
+      "ch": "炎热",
+      "en": "hot",
+      "pi": "yán rè"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "今天的最低氣溫是三度。",
+  "english": "The lowest temperature today is three degrees.",
+  "pinyin": "jīn tiān de zuì dī qì wēn shì sān dù。",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "最低",
+      "en": "lowest",
+      "pi": "zuì dī"
+    },
+    {
+      "ch": "氣溫",
+      "en": "temperature",
+      "pi": "qì wēn"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "三度",
+      "en": "three degrees",
+      "pi": "sān dù"
+    }
+  ]
+}

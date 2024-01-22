@@ -1,0 +1,68 @@
+{
+  "sentences": [
+    {
+      "chinese": "我对这里不熟。",
+      "english": "I'm not familiar with this place.",
+      "pinyin": "wǒ duì zhè lǐ bù shú.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "对",
+          "en": "to",
+          "pi": "duì"
+        },
+        {
+          "ch": "这里",
+          "en": "this place",
+          "pi": "zhè lǐ"
+        },
+        {
+          "ch": "不",
+          "en": "not",
+          "pi": "bù"
+        },
+        {
+          "ch": "熟",
+          "en": "familiar",
+          "pi": "shú"
+        }
+      ]
+    },
+    {
+      "chinese": "恐怕我不能帮你。",
+      "english": "I'm afraid I can't help you.",
+      "pinyin": "kǒng pà wǒ bù néng bāng nǐ.",
+      "words": [
+        {
+          "ch": "恐怕",
+          "en": "afraid",
+          "pi": "kǒng pà"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "不能",
+          "en": "cannot",
+          "pi": "bù néng"
+        },
+        {
+          "ch": "帮",
+          "en": "help",
+          "pi": "bāng"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        }
+      ]
+    }
+  ]
+}

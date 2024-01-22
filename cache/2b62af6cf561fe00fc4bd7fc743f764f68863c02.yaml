@@ -1,0 +1,19 @@
+{
+  "chinese": "他没有接电话，所以我给他发了封邮件。",
+  "english": "He didn't answer the call, so I sent him an email.",
+  "pinyin": "tā méiyǒu jiē diànhuà, suǒyǐ wǒ gěi tā fāle fēng yóujiàn.",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "没有", "en": "didn't", "pi": "méiyǒu"},
+    {"ch": "接", "en": "answer", "pi": "jiē"},
+    {"ch": "电话", "en": "call", "pi": "diànhuà"},
+    {"ch": "所以", "en": "so", "pi": "suǒyǐ"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "给", "en": "sent", "pi": "gěi"},
+    {"ch": "他", "en": "him", "pi": "tā"},
+    {"ch": "发", "en": "an", "pi": "fā"},
+    {"ch": "了", "en": "email", "pi": "le"},
+    {"ch": "封", "en": "so", "pi": "fēng"},
+    {"ch": "邮件", "en": "email", "pi": "yóujiàn"}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "你太太在生你的气。",
+  "english": "Your wife is mad at you.",
+  "pinyin": "nǐ tàitai zài shēng nǐ de qì。",
+  "words": [
+    {"ch":"你", "en":"you", "pi":"nǐ"},
+    {"ch":"太太", "en":"wife", "pi":"tàitai"},
+    {"ch":"在", "en":"is", "pi":"zài"},
+    {"ch":"生", "en":"mad", "pi":"shēng"},
+    {"ch":"你", "en":"at", "pi":"nǐ"},
+    {"ch":"的", "en":"you", "pi":"de"},
+    {"ch":"气", "en":"mad", "pi":"qì"}
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "你想再来些蛋糕吗？",
+  "english": "Do you want more cake?",
+  "pinyin": "nǐ xiǎng zài lái xiē dàngāo ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "再",
+      "en": "more",
+      "pi": "zài"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    },
+    {
+      "ch": "些",
+      "en": "some",
+      "pi": "xiē"
+    },
+    {
+      "ch": "蛋糕",
+      "en": "cake",
+      "pi": "dàngāo"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

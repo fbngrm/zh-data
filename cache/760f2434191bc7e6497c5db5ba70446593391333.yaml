@@ -1,0 +1,42 @@
+{
+  "chinese": "我媽媽讓我吃點藥。",
+  "english": "My mom told me to take some medicine.",
+  "pinyin": "Wǒ māma ràng wǒ chī diǎn yào.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "媽媽",
+      "en": "mom",
+      "pi": "māma"
+    },
+    {
+      "ch": "讓",
+      "en": "told",
+      "pi": "ràng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "吃",
+      "en": "to take",
+      "pi": "chī"
+    },
+    {
+      "ch": "點",
+      "en": "some",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "藥",
+      "en": "medicine",
+      "pi": "yào"
+    }
+  ]
+}

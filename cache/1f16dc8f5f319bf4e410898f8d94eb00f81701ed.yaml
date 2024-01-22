@@ -1,0 +1,15 @@
+{
+  "chinese": "我想在这条河里游泳。",
+  "english": "I want to swim in this river.",
+  "pinyin": "wǒ xiǎng zài zhè tiáo hé lǐ yóuyǒng.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "想", "en": "want", "pi": "xiǎng"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "条", "en": "measure word for rivers", "pi": "tiáo"},
+    {"ch": "河", "en": "river", "pi": "hé"},
+    {"ch": "里", "en": "inside", "pi": "lǐ"},
+    {"ch": "游泳", "en": "swim", "pi": "yóuyǒng"}
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chinese": "你知道为什么吗？是猫的缘故。",
+  "english": "Do you know why? It's because of the cat.",
+  "pinyin": "nǐ zhī dào wèi shénme ma? shì māo de yuán gù.",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "知道", "en": "know", "pi": "zhī dào"},
+    {"ch": "为什么", "en": "why", "pi": "wèi shénme"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "猫", "en": "cat", "pi": "māo"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "缘故", "en": "reason", "pi": "yuán gù"}
+  ]
+}

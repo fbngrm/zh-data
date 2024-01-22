@@ -1,0 +1,42 @@
+{
+  "chinese": "我感觉有人拍了拍我的肩。",
+  "english": "I feel someone pat my shoulder.",
+  "pinyin": "wǒ gǎnjué yǒurén pāile pāi wǒ de jiān。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "感觉",
+      "en": "feel",
+      "pi": "gǎnjué"
+    },
+    {
+      "ch": "有人",
+      "en": "someone",
+      "pi": "yǒurén"
+    },
+    {
+      "ch": "拍了",
+      "en": "pat",
+      "pi": "pāile"
+    },
+    {
+      "ch": "拍",
+      "en": "pat",
+      "pi": "pāi"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "肩",
+      "en": "shoulder",
+      "pi": "jiān"
+    }
+  ]
+}

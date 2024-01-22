@@ -1,0 +1,32 @@
+{
+  "chinese": "他用英文写信吗?",
+  "english": "Does he write the letter in English?",
+  "pinyin": "Tā yòng yīngwén xiě xìn ma?",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "用",
+      "en": "use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "英文",
+      "en": "English",
+      "pi": "yīngwén"
+    },
+    {
+      "ch": "写信",
+      "en": "write a letter",
+      "pi": "xiě xìn"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

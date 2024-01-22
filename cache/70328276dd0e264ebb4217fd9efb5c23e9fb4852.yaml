@@ -1,0 +1,13 @@
+{
+  "chinese": "他们买了跟你同款的相机。",
+  "english": "They bought the same camera as you.",
+  "pinyin": "tāmen mǎile gēn nǐ tóng kuǎn de xiàngjī。",
+  "words": [
+    {"ch": "他们", "en": "They", "pi": "tāmen"},
+    {"ch": "买了", "en": "bought", "pi": "mǎile"},
+    {"ch": "跟", "en": "the same", "pi": "gēn"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "同款的", "en": "same", "pi": "tóng kuǎn de"},
+    {"ch": "相机", "en": "camera", "pi": "xiàngjī"}
+  ]
+}

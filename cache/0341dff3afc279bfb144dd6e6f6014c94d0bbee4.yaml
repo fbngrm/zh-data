@@ -1,0 +1,27 @@
+{
+  "chinese": "這葡萄酒非常好喝。",
+  "english": "This wine is very delicious.",
+  "pinyin": "zhè pú táo jiǔ fēi cháng hǎo hē.",
+  "words": [
+    {
+      "ch": "這",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "葡萄酒",
+      "en": "wine",
+      "pi": "pú táo jiǔ"
+    },
+    {
+      "ch": "非常",
+      "en": "very",
+      "pi": "fēi cháng"
+    },
+    {
+      "ch": "好喝",
+      "en": "delicious",
+      "pi": "hǎo hē"
+    }
+  ]
+}

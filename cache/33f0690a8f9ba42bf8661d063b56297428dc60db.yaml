@@ -1,0 +1,27 @@
+{
+  "chinese": "下班前别忘了打卡。",
+  "english": "Don't forget to clock out before leaving.",
+  "pinyin": "xià bān qián bié wàng le dǎ kǎ.",
+  "words": [
+    {
+      "ch": "下班前",
+      "en": "before leaving work",
+      "pi": "xià bān qián"
+    },
+    {
+      "ch": "别",
+      "en": "don't",
+      "pi": "bié"
+    },
+    {
+      "ch": "忘了",
+      "en": "forget",
+      "pi": "wàng le"
+    },
+    {
+      "ch": "打卡",
+      "en": "clock in/out",
+      "pi": "dǎ kǎ"
+    }
+  ]
+}

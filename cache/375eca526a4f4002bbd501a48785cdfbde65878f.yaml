@@ -1,0 +1,15 @@
+{
+  "chinese": "你有任何要申报的东西吗？",
+  "english": "Do you have anything to declare?",
+  "pinyin": "nǐ yǒu rènhé yào shēnbào de dōngxi ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "任何", "en": "anything", "pi": "rènhé"},
+    {"ch": "要", "en": "to", "pi": "yào"},
+    {"ch": "申报", "en": "declare", "pi": "shēnbào"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "东西", "en": "thing", "pi": "dōngxi"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

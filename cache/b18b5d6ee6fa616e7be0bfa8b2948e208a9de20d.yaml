@@ -1,0 +1,37 @@
+{
+  "chinese": "你的新电脑运行得好吗？",
+  "english": "Is your new computer running well?",
+  "pinyin": "nǐ de xīn diànnǎo yùnxíng dé hǎo ma?",
+  "words": [
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "新",
+      "en": "new",
+      "pi": "xīn"
+    },
+    {
+      "ch": "电脑",
+      "en": "computer",
+      "pi": "diànnǎo"
+    },
+    {
+      "ch": "运行",
+      "en": "running",
+      "pi": "yùnxíng"
+    },
+    {
+      "ch": "得",
+      "en": "well",
+      "pi": "dé"
+    },
+    {
+      "ch": "好吗",
+      "en": "good?",
+      "pi": "hǎo ma?"
+    }
+  ]
+}

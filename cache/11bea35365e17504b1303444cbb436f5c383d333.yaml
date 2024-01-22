@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆在他的桌边工作。",
+  "english": "Tom is working at his desk.",
+  "pinyin": "Tāng mǔ zài tā de zhuō biān gōng zuò。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "他的",
+      "en": "at his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "桌边",
+      "en": "desk",
+      "pi": "zhuō biān"
+    },
+    {
+      "ch": "工作",
+      "en": "working",
+      "pi": "gōng zuò"
+    }
+  ]
+}

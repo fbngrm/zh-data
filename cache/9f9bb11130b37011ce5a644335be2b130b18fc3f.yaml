@@ -1,0 +1,47 @@
+{
+  "chinese": "我在人行道上发现了一枚硬币。",
+  "english": "I found a coin on the sidewalk.",
+  "pinyin": "wǒ zài rén xíng dào shàng fā xiàn le yī méi yìng bì。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "on",
+      "pi": "zài"
+    },
+    {
+      "ch": "人行道",
+      "en": "sidewalk",
+      "pi": "rén xíng dào"
+    },
+    {
+      "ch": "上",
+      "en": "above",
+      "pi": "shàng"
+    },
+    {
+      "ch": "发现",
+      "en": "found",
+      "pi": "fā xiàn"
+    },
+    {
+      "ch": "了",
+      "en": "a",
+      "pi": "le"
+    },
+    {
+      "ch": "一枚",
+      "en": "coin",
+      "pi": "yī méi"
+    },
+    {
+      "ch": "硬币",
+      "en": "coin",
+      "pi": "yìng bì"
+    }
+  ]
+}

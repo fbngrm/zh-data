@@ -1,0 +1,88 @@
+{
+  "sentences": [
+    {
+      "chinese": "勇气是非常重要的。",
+      "english": "Courage is extremely important.",
+      "pinyin": "yǒng qì shì fēi cháng zhòng yào de。",
+      "words": [
+        {
+          "ch": "勇气",
+          "en": "courage",
+          "pi": "yǒng qì"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "非常",
+          "en": "extremely",
+          "pi": "fēi cháng"
+        },
+        {
+          "ch": "重要",
+          "en": "important",
+          "pi": "zhòng yào"
+        },
+        {
+          "ch": "的",
+          "en": "。",
+          "pi": "de。"
+        }
+      ]
+    },
+    {
+      "chinese": "比如肌肉，经常使用才得以加强。",
+      "english": "For example, muscles can only be strengthened through regular use.",
+      "pinyin": "bǐ rú jī ròu，jīng cháng shǐ yòng cái dé yǐ jiā qiáng。",
+      "words": [
+        {
+          "ch": "比如",
+          "en": "for example",
+          "pi": "bǐ rú"
+        },
+        {
+          "ch": "肌肉",
+          "en": "muscles",
+          "pi": "jī ròu"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": "，"
+        },
+        {
+          "ch": "经常",
+          "en": "regularly",
+          "pi": "jīng cháng"
+        },
+        {
+          "ch": "使用",
+          "en": "use",
+          "pi": "shǐ yòng"
+        },
+        {
+          "ch": "才",
+          "en": "only",
+          "pi": "cái"
+        },
+        {
+          "ch": "得以",
+          "en": "can",
+          "pi": "dé yǐ"
+        },
+        {
+          "ch": "加强",
+          "en": "be strengthened",
+          "pi": "jiā qiáng"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    }
+  ]
+}

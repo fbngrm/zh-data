@@ -1,0 +1,37 @@
+{
+  "chinese": "听天气预报说今晚有雨。",
+  "english": "I heard the weather forecast saying that it will rain tonight.",
+  "pinyin": "tīngtiānqìyùbào shuō jīnwǎn yǒu yǔ。",
+  "words": [
+    {
+      "ch": "听",
+      "en": "hear",
+      "pi": "tīng"
+    },
+    {
+      "ch": "天气预报",
+      "en": "weather forecast",
+      "pi": "tiānqìyùbào"
+    },
+    {
+      "ch": "说",
+      "en": "say",
+      "pi": "shuō"
+    },
+    {
+      "ch": "今晚",
+      "en": "tonight",
+      "pi": "jīnwǎn"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "雨",
+      "en": "rain",
+      "pi": "yǔ"
+    }
+  ]
+}

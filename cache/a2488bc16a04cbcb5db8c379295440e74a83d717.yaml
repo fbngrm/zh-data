@@ -1,0 +1,18 @@
+{
+  "chinese": "你问她了吗？她说了什么？",
+  "english": "Did you ask her? What did she say?",
+  "pinyin": "Nǐ wèn tā le ma? Tā shuō le shénme?",
+  "words": [
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "问", "en": "ask", "pi": "wèn" },
+    { "ch": "她", "en": "her", "pi": "tā" },
+    { "ch": "了", "en": "did/finished", "pi": "le" },
+    { "ch": "吗", "en": "question particle", "pi": "ma" },
+    { "ch": "？", "en": "?", "pi": "？" },
+    { "ch": "她", "en": "she", "pi": "tā" },
+    { "ch": "说", "en": "say", "pi": "shuō" },
+    { "ch": "了", "en": "did/finished", "pi": "le" },
+    { "ch": "什么", "en": "what", "pi": "shénme" },
+    { "ch": "？", "en": "?", "pi": "？" }
+  ]
+}

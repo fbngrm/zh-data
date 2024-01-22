@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆可能已经走了。",
+  "english": "Tom may have left.",
+  "pinyin": "Tāng mǔ kěnéng yǐjīng zǒu le.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "可能",
+      "en": "may",
+      "pi": "kěnéng"
+    },
+    {
+      "ch": "已经",
+      "en": "have",
+      "pi": "yǐjīng"
+    },
+    {
+      "ch": "走了",
+      "en": "left",
+      "pi": "zǒu le"
+    }
+  ]
+}

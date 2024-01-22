@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆是甚么时候来到这里的？",
+  "english": "When did Tom come here?",
+  "pinyin": "tāng mǔ shì shén me shí hòu lái dào zhè lǐ de?",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "甚么",
+      "en": "what",
+      "pi": "shén me"
+    },
+    {
+      "ch": "时候",
+      "en": "when",
+      "pi": "shí hòu"
+    },
+    {
+      "ch": "来到",
+      "en": "come",
+      "pi": "lái dào"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "的",
+      "en": "?",
+      "pi": "de"
+    }
+  ]
+}

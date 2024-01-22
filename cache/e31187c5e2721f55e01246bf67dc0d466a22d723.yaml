@@ -1,0 +1,13 @@
+{
+  "chinese": "我想喝点热的饮料。",
+  "english": "I want to drink some hot beverages.",
+  "pinyin": "wǒ xiǎng hē diǎn rè de yǐnliào.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "想", "en": "want", "pi": "xiǎng"},
+    {"ch": "喝", "en": "to drink", "pi": "hē"},
+    {"ch": "点", "en": "some", "pi": "diǎn"},
+    {"ch": "热的", "en": "hot", "pi": "rè de"},
+    {"ch": "饮料", "en": "beverages", "pi": "yǐnliào"}
+  ]
+}

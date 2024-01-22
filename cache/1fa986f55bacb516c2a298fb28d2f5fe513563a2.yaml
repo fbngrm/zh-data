@@ -1,0 +1,37 @@
+{
+  "chinese": "请给我一张票。",
+  "english": "Please give me a ticket.",
+  "pinyin": "qǐng gěi wǒ yī zhāng piào.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "一",
+      "en": "a",
+      "pi": "yī"
+    },
+    {
+      "ch": "张",
+      "en": "ticket",
+      "pi": "zhāng"
+    },
+    {
+      "ch": "票",
+      "en": "ticket",
+      "pi": "piào"
+    }
+  ]
+}

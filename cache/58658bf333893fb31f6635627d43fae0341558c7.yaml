@@ -1,0 +1,11 @@
+{
+  "chinese": "我在下一站下车。",
+  "english": "I'm getting off at the next stop.",
+  "pinyin": "wǒ zài xià yī zhàn xià chē。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "下一站", "en": "the next stop", "pi": "xià yī zhàn"},
+    {"ch": "下车", "en": "get off", "pi": "xià chē"}
+  ]
+}

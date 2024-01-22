@@ -1,0 +1,42 @@
+{
+  "chinese": "立刻起床,否则你上学会迟到。",
+  "english": "Get up immediately, otherwise you will be late for school.",
+  "pinyin": "lì kè qǐ chuáng, fǒu zé nǐ shàng xué huì chí dào。",
+  "words": [
+    {
+      "ch": "立刻",
+      "en": "immediately",
+      "pi": "lì kè"
+    },
+    {
+      "ch": "起床",
+      "en": "get up",
+      "pi": "qǐ chuáng"
+    },
+    {
+      "ch": "否则",
+      "en": "otherwise",
+      "pi": "fǒu zé"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "上学",
+      "en": "go to school",
+      "pi": "shàng xué"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "迟到",
+      "en": "be late",
+      "pi": "chí dào"
+    }
+  ]
+}

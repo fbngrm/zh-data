@@ -1,0 +1,32 @@
+{
+  "chinese": "我哥哥是个大学生。",
+  "english": "My brother is a college student.",
+  "pinyin": "Wǒ gēge shì gè dàxuéshēng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "哥哥",
+      "en": "brother",
+      "pi": "gēge"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "大学生",
+      "en": "college student",
+      "pi": "dàxuéshēng"
+    }
+  ]
+}

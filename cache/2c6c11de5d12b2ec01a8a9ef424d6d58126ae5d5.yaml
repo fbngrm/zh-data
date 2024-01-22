@@ -1,0 +1,32 @@
+{
+  "chinese": "那是我的包。",
+  "english": "That is my bag.",
+  "pinyin": "nà shì wǒ de bāo.",
+  "words": [
+    {
+      "ch": "那",
+      "en": "That",
+      "pi": "nà"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我",
+      "en": "my",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "的",
+      "en": "bag",
+      "pi": "de"
+    },
+    {
+      "ch": "包",
+      "en": "bag",
+      "pi": "bāo"
+    }
+  ]
+}

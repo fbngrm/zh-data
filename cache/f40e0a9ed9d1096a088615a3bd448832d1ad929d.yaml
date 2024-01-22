@@ -1,0 +1,61 @@
+{
+  "sentences": [
+    {
+      "chinese": "我很累，我想我要去睡觉了。",
+      "english": "I'm very tired, I think I'm going to sleep.",
+      "pinyin": "wǒ hěn lèi, wǒ xiǎng wǒ yào qù shuìjiào le。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "很",
+          "en": "very",
+          "pi": "hěn"
+        },
+        {
+          "ch": "累",
+          "en": "tired",
+          "pi": "lèi"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "想",
+          "en": "think",
+          "pi": "xiǎng"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "要",
+          "en": "going to",
+          "pi": "yào"
+        },
+        {
+          "ch": "去",
+          "en": "go",
+          "pi": "qù"
+        },
+        {
+          "ch": "睡觉",
+          "en": "sleep",
+          "pi": "shuìjiào"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        }
+      ]
+    }
+  ]
+}

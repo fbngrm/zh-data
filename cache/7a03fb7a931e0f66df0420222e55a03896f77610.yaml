@@ -1,0 +1,42 @@
+{
+  "chinese": "我有一只黑狗和一只白狗。",
+  "english": "I have a black dog and a white dog.",
+  "pinyin": "wǒ yǒu yī zhī hēi gǒu hé yī zhī bái gǒu.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一只",
+      "en": "a",
+      "pi": "yī zhī"
+    },
+    {
+      "ch": "黑狗",
+      "en": "black dog",
+      "pi": "hēi gǒu"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "一只",
+      "en": "a",
+      "pi": "yī zhī"
+    },
+    {
+      "ch": "白狗",
+      "en": "white dog",
+      "pi": "bái gǒu"
+    }
+  ]
+}

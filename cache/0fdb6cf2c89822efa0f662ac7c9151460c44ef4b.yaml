@@ -1,0 +1,37 @@
+{
+  "chinese": "我今天想去看电影。",
+  "english": "I want to go watch a movie today.",
+  "pinyin": "wǒ jīntiān xiǎng qù kàn diànyǐng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "去",
+      "en": "to go",
+      "pi": "qù"
+    },
+    {
+      "ch": "看",
+      "en": "to watch",
+      "pi": "kàn"
+    },
+    {
+      "ch": "电影",
+      "en": "movie",
+      "pi": "diànyǐng"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我想知道明天是否会下雨。",
+  "english": "I want to know if it will rain tomorrow.",
+  "pinyin": "wǒ xiǎng zhīdào míngtiān shìfǒu huì xiàyǔ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "知道",
+      "en": "to know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "是否",
+      "en": "if",
+      "pi": "shìfǒu"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "下雨",
+      "en": "rain",
+      "pi": "xiàyǔ"
+    }
+  ]
+}

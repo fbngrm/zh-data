@@ -1,0 +1,32 @@
+{
+  "chinese": "你在研读英语吗？",
+  "english": "Are you studying English?",
+  "pinyin": "nǐ zài yándú yīngyǔ ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "研读",
+      "en": "study",
+      "pi": "yándú"
+    },
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīngyǔ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

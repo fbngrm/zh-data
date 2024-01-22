@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆不会让你进他的屋子。",
+  "english": "Tom won't let you into his house.",
+  "pinyin": "Tāng mǔ bù huì ràng nǐ jìn tā de wū zǐ.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "不会",
+      "en": "won't",
+      "pi": "bù huì"
+    },
+    {
+      "ch": "让",
+      "en": "let",
+      "pi": "ràng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "进",
+      "en": "into",
+      "pi": "jìn"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "屋子",
+      "en": "house",
+      "pi": "wū zǐ"
+    }
+  ]
+}

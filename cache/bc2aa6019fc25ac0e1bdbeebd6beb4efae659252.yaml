@@ -1,0 +1,32 @@
+{
+  "chinese": "我现在不想吃午饭。",
+  "english": "I don't want to eat lunch now.",
+  "pinyin": "wǒ xiàn zài bù xiǎng chī wǔ fàn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "不想",
+      "en": "don't want to",
+      "pi": "bù xiǎng"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "午饭",
+      "en": "lunch",
+      "pi": "wǔ fàn"
+    }
+  ]
+}

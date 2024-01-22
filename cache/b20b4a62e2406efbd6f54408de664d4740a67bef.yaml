@@ -1,0 +1,47 @@
+{
+  "chinese": "你把那点钱怎么花的？",
+  "english": "How did you spend that little money?",
+  "pinyin": "nǐ bǎ nà diǎn qián zěnme huā de?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "把",
+      "en": "used to introduce the object of a verb",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "点",
+      "en": "a bit",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "钱",
+      "en": "money",
+      "pi": "qián"
+    },
+    {
+      "ch": "怎么",
+      "en": "how",
+      "pi": "zěnme"
+    },
+    {
+      "ch": "花",
+      "en": "to spend",
+      "pi": "huā"
+    },
+    {
+      "ch": "的",
+      "en": "'s, particle used to form a possessive",
+      "pi": "de"
+    }
+  ]
+}

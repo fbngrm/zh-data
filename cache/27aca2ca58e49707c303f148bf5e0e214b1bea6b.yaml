@@ -1,0 +1,83 @@
+{
+    "sentences": [
+        {
+            "chinese": "从这儿怎么去地铁站？",
+            "english": "How can I get to the subway station from here?",
+            "pinyin": "cóng zhèr zěnme qù dìtiě zhàn？",
+            "words": [
+                {
+                    "ch": "从",
+                    "en": "from",
+                    "pi": "cóng"
+                },
+                {
+                    "ch": "这儿",
+                    "en": "here",
+                    "pi": "zhèr"
+                },
+                {
+                    "ch": "怎么",
+                    "en": "how",
+                    "pi": "zěnme"
+                },
+                {
+                    "ch": "去",
+                    "en": "go",
+                    "pi": "qù"
+                },
+                {
+                    "ch": "地铁站",
+                    "en": "subway station",
+                    "pi": "dìtiě zhàn"
+                },
+                {
+                    "ch": "？",
+                    "en": "?",
+                    "pi": "？"
+                }
+            ]
+        },
+        {
+            "chinese": "你可以坐公共汽车去地铁站。",
+            "english": "You can take the bus to the subway station.",
+            "pinyin": "nǐ kěyǐ zuò gōnggòng qìchē qù dìtiě zhàn。",
+            "words": [
+                {
+                    "ch": "你",
+                    "en": "you",
+                    "pi": "nǐ"
+                },
+                {
+                    "ch": "可以",
+                    "en": "can",
+                    "pi": "kěyǐ"
+                },
+                {
+                    "ch": "坐",
+                    "en": "take",
+                    "pi": "zuò"
+                },
+                {
+                    "ch": "公共汽车",
+                    "en": "bus",
+                    "pi": "gōnggòng qìchē"
+                },
+                {
+                    "ch": "去",
+                    "en": "to",
+                    "pi": "qù"
+                },
+                {
+                    "ch": "地铁站",
+                    "en": "subway station",
+                    "pi": "dìtiě zhàn"
+                },
+                {
+                    "ch": "。",
+                    "en": ".",
+                    "pi": "。"
+                }
+            ]
+        }
+    ]
+}

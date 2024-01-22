@@ -1,0 +1,42 @@
+{
+  "chinese": "我的英文沒有他說得那麼好。",
+  "english": "My English is not as good as his.",
+  "pinyin": "Wǒ de yīngwén méiyǒu tā shuō dé nàme hǎo.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "英文",
+      "en": "English",
+      "pi": "yīngwén"
+    },
+    {
+      "ch": "沒有",
+      "en": "not have",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "說得",
+      "en": "speaks",
+      "pi": "shuō dé"
+    },
+    {
+      "ch": "那麼",
+      "en": "as",
+      "pi": "nàme"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    }
+  ]
+}

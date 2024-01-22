@@ -1,0 +1,42 @@
+{
+  "chinese": "送比萨的人还没来。",
+  "english": "The person who is supposed to deliver the pizza hasn't arrived yet.",
+  "pinyin": "sòng bǐ sà de rén hái méi lái.",
+  "words": [
+    {
+      "ch": "送",
+      "en": "deliver",
+      "pi": "sòng"
+    },
+    {
+      "ch": "比萨",
+      "en": "pizza",
+      "pi": "bǐ sà"
+    },
+    {
+      "ch": "的",
+      "en": "who",
+      "pi": "de"
+    },
+    {
+      "ch": "人",
+      "en": "person",
+      "pi": "rén"
+    },
+    {
+      "ch": "还",
+      "en": "not yet",
+      "pi": "hái"
+    },
+    {
+      "ch": "没",
+      "en": "haven't",
+      "pi": "méi"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    }
+  ]
+}

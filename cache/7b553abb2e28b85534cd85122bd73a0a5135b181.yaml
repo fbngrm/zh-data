@@ -1,0 +1,13 @@
+{
+  "chinese": "不要再忘做那个，好吗？",
+  "english": "Don't forget to do that again, okay?",
+  "pinyin": "bù yào zài wàng zuò nà gè, hǎo ma?",
+  "words": [
+    {"ch": "不要", "en": "Don't", "pi": "bù yào"},
+    {"ch": "再", "en": "again", "pi": "zài"},
+    {"ch": "忘", "en": "forget", "pi": "wàng"},
+    {"ch": "做", "en": "to do", "pi": "zuò"},
+    {"ch": "那个", "en": "that", "pi": "nà gè"},
+    {"ch": "好吗", "en": "okay?", "pi": "hǎo ma"}
+  ]
+}

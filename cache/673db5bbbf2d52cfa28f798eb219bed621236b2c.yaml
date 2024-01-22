@@ -1,0 +1,17 @@
+{
+  "chinese": "我今天早上起来的时候雨下得很大。",
+  "english": "When I woke up this morning, it was raining heavily.",
+  "pinyin": "Wǒ jīntiān zǎoshang qǐlái de shíhou yǔ xià dé hěn dà。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "今天", "en": "today", "pi": "jīntiān"},
+    {"ch": "早上", "en": "morning", "pi": "zǎoshang"},
+    {"ch": "起来", "en": "woke up", "pi": "qǐlái"},
+    {"ch": "的", "en": "modifiers marker", "pi": "de"},
+    {"ch": "时候", "en": "when", "pi": "shíhou"},
+    {"ch": "雨", "en": "rain", "pi": "yǔ"},
+    {"ch": "下", "en": "fall", "pi": "xià"},
+    {"ch": "得", "en": "very", "pi": "dé"},
+    {"ch": "很大", "en": "heavily", "pi": "hěn dà"}
+  ]
+}

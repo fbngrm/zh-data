@@ -1,0 +1,37 @@
+{
+  "chinese": "昨天他带我去公园。",
+  "english": "Yesterday he took me to the park.",
+  "pinyin": "Zuótiān tā dài wǒ qù gōngyuán.",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "Yesterday",
+      "pi": "Zuótiān"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "带",
+      "en": "took",
+      "pi": "dài"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "去",
+      "en": "to",
+      "pi": "qù"
+    },
+    {
+      "ch": "公园",
+      "en": "park",
+      "pi": "gōngyuán"
+    }
+  ]
+}

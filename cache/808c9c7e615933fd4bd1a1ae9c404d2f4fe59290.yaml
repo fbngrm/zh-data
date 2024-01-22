@@ -1,0 +1,47 @@
+{
+  "chinese": "汤姆说他认为他该学法语。",
+  "english": "Tom says he thinks he should learn French.",
+  "pinyin": "Tāng mǔ shuō tā rèn wéi tā gāi xué fǎ yǔ.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "说",
+      "en": "says",
+      "pi": "shuō"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "认为",
+      "en": "thinks",
+      "pi": "rèn wéi"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "该",
+      "en": "should",
+      "pi": "gāi"
+    },
+    {
+      "ch": "学",
+      "en": "learn",
+      "pi": "xué"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎ yǔ"
+    }
+  ]
+}

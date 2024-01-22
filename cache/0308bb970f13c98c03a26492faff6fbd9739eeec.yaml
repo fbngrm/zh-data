@@ -1,0 +1,32 @@
+{
+  "chinese": "你喜欢打排球吗？",
+  "english": "Do you like playing volleyball?",
+  "pinyin": "nǐ xǐhuān dǎ páiqiú ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "打",
+      "en": "playing",
+      "pi": "dǎ"
+    },
+    {
+      "ch": "排球",
+      "en": "volleyball",
+      "pi": "páiqiú"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

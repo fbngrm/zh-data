@@ -1,0 +1,37 @@
+{
+  "chinese": "你好吗，迈克？",
+  "english": "How are you, Mike?",
+  "pinyin": "nǐ hǎo ma, mài kè?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": "，"
+    },
+    {
+      "ch": "迈克",
+      "en": "Mike",
+      "pi": "mài kè"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "？"
+    }
+  ]
+}

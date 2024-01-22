@@ -1,0 +1,32 @@
+{
+  "chinese": "他正吃着一个苹果。",
+  "english": "He is eating an apple.",
+  "pinyin": "tā zhèng chī zhe yī gè píngguǒ.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "正",
+      "en": "is",
+      "pi": "zhèng"
+    },
+    {
+      "ch": "吃着",
+      "en": "eating",
+      "pi": "chīzhe"
+    },
+    {
+      "ch": "一个",
+      "en": "an",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "苹果",
+      "en": "apple",
+      "pi": "píngguǒ"
+    }
+  ]
+}

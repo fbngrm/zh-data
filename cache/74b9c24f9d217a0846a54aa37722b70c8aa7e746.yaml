@@ -1,0 +1,82 @@
+{
+  "chinese": "这本书是打算给不以日语为母语的学生所使用的。",
+  "english": "This book is intended for students whose mother tongue is not Japanese.",
+  "pinyin": "zhè běn shū shì dǎ suàn gěi bù yǐ rì yǔ wéi mǔ yǔ de xué shēng suǒ shǐ yòng de。",
+  "words": [
+    {
+      "ch": "这",
+	  "en": "this",
+	  "pi": "zhè"
+    },
+    {
+      "ch": "本",
+	  "en": "book",
+	  "pi": "běn"
+    },
+    {
+      "ch": "书",
+	  "en": "book",
+	  "pi": "shū"
+    },
+    {
+      "ch": "是",
+	  "en": "is",
+	  "pi": "shì"
+    },
+    {
+      "ch": "打算",
+	  "en": "intend",
+	  "pi": "dǎ suàn"
+    },
+    {
+      "ch": "给",
+	  "en": "for",
+	  "pi": "gěi"
+    },
+    {
+      "ch": "不",
+	  "en": "not",
+	  "pi": "bù"
+    },
+    {
+      "ch": "以",
+	  "en": "as",
+	  "pi": "yǐ"
+    },
+    {
+      "ch": "日语",
+	  "en": "Japanese",
+	  "pi": "rì yǔ"
+    },
+    {
+      "ch": "为",
+	  "en": "mother tongue",
+	  "pi": "wéi"
+    },
+    {
+      "ch": "母语",
+	  "en": "mother tongue",
+	  "pi": "mǔ yǔ"
+    },
+    {
+      "ch": "的",
+	  "en": "of",
+	  "pi": "de"
+    },
+    {
+      "ch": "学生",
+	  "en": "students",
+	  "pi": "xué shēng"
+    },
+    {
+      "ch": "所",
+	  "en": "whose",
+	  "pi": "suǒ"
+    },
+    {
+      "ch": "使用",
+	  "en": "use",
+	  "pi": "shǐ yòng"
+    }
+  ]
+}

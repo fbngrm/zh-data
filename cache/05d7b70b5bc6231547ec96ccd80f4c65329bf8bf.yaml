@@ -1,0 +1,42 @@
+{
+  "sentences": [
+    {
+      "chinese": "你想去那么多国家旅行,打算怎么和别人交流？",
+      "english": "How do you plan to communicate with others when you want to travel to so many countries?",
+      "pinyin": "Nǐ xiǎng qù nàme duō guójiā lǚxíng, dǎsuàn zěnme hé biérén jiāoliú？",
+      "words": [
+        { "ch": "你", "en": "you", "pi": "nǐ" },
+        { "ch": "想", "en": "want", "pi": "xiǎng" },
+        { "ch": "去", "en": "to go", "pi": "qù" },
+        { "ch": "那么", "en": "so", "pi": "nàme" },
+        { "ch": "多", "en": "many", "pi": "duō" },
+        { "ch": "国家", "en": "countries", "pi": "guójiā" },
+        { "ch": "旅行", "en": "travel", "pi": "lǚxíng" },
+        { "ch": ",", "en": ",", "pi": null },
+        { "ch": "打算", "en": "to plan", "pi": "dǎsuàn" },
+        { "ch": "怎么", "en": "how", "pi": "zěnme" },
+        { "ch": "和", "en": "and", "pi": "hé" },
+        { "ch": "别人", "en": "others", "pi": "biérén" },
+        { "ch": "交流", "en": "communicate", "pi": "jiāoliú" },
+        { "ch": "？", "en": "?", "pi": null }
+      ]
+    },
+    {
+      "chinese": "这是没问题的。我会世界语。",
+      "english": "That's not a problem. I can speak Esperanto.",
+      "pinyin": "Zhè shì méi wèntí de. Wǒ huì shìjièyǔ.",
+      "words": [
+        { "ch": "这", "en": "this", "pi": "zhè" },
+        { "ch": "是", "en": "is", "pi": "shì" },
+        { "ch": "没", "en": "not", "pi": "méi" },
+        { "ch": "问题", "en": "problem", "pi": "wèntí" },
+        { "ch": "的", "en": "'s", "pi": "de" },
+        { "ch": "。", "en": ".", "pi": null },
+        { "ch": "我", "en": "I", "pi": "wǒ" },
+        { "ch": "会", "en": "can", "pi": "huì" },
+        { "ch": "世界语", "en": "Esperanto", "pi": "shìjièyǔ" },
+        { "ch": "。", "en": ".", "pi": null }
+      ]
+    }
+  ]
+}

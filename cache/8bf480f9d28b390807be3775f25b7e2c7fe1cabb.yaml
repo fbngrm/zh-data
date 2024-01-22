@@ -1,0 +1,32 @@
+{
+  "chinese": "这些天下了好多雪。",
+  "english": "It has snowed a lot these days.",
+  "pinyin": "zhè xiē tiān xià le hǎo duō xuě.",
+  "words": [
+    {
+      "ch": "这些",
+      "en": "these",
+      "pi": "zhè xiē"
+    },
+    {
+      "ch": "天",
+      "en": "days",
+      "pi": "tiān"
+    },
+    {
+      "ch": "下了",
+      "en": "has snowed",
+      "pi": "xià le"
+    },
+    {
+      "ch": "好多",
+      "en": "a lot",
+      "pi": "hǎo duō"
+    },
+    {
+      "ch": "雪",
+      "en": "snow",
+      "pi": "xuě"
+    }
+  ]
+}

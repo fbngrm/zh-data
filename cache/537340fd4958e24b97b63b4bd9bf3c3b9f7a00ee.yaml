@@ -1,0 +1,32 @@
+{
+  "chinese": "我家附近有一座教堂。",
+  "english": "There is a church near my house.",
+  "pinyin": "wǒ jiā fù jìn yǒu yī zuò jiào táng.",
+  "words": [
+    {
+      "ch": "我家",
+      "en": "my house",
+      "pi": "wǒ jiā"
+    },
+    {
+      "ch": "附近",
+      "en": "nearby",
+      "pi": "fù jìn"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一座",
+      "en": "a",
+      "pi": "yī zuò"
+    },
+    {
+      "ch": "教堂",
+      "en": "church",
+      "pi": "jiào táng"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "你喜欢苹果吗？",
+  "english": "Do you like apples?",
+  "pinyin": "nǐ xǐhuān píngguǒ ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "苹果",
+      "en": "apples",
+      "pi": "píngguǒ"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

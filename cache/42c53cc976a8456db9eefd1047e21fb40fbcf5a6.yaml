@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "chinese": "那不是猫。",
+      "english": "That is not a cat.",
+      "pinyin": "nà bù shì māo。",
+      "words": [
+        {
+          "ch": "那",
+          "en": "that",
+          "pi": "nà"
+        },
+        {
+          "ch": "不",
+          "en": "not",
+          "pi": "bù"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "猫",
+          "en": "cat",
+          "pi": "māo"
+        }
+      ]
+    },
+    {
+      "chinese": "那是狗。",
+      "english": "That is a dog.",
+      "pinyin": "nà shì gǒu。",
+      "words": [
+        {
+          "ch": "那",
+          "en": "that",
+          "pi": "nà"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "狗",
+          "en": "dog",
+          "pi": "gǒu"
+        }
+      ]
+    }
+  ]
+}

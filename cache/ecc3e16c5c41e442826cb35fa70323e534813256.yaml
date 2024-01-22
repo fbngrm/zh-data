@@ -1,0 +1,16 @@
+{
+  "chinese": "昨天突然传出了两间公司合并的消息。",
+  "english": "Yesterday, news of the merger of two companies suddenly emerged.",
+  "pinyin": "zuótiān túrán chuánchūle liǎng jiàn gōngsī hébìng de xiāoxi.",
+  "words": [
+    {"ch": "昨天", "en": "Yesterday", "pi": "zuótiān"},
+    {"ch": "突然", "en": "suddenly", "pi": "túrán"},
+    {"ch": "传出", "en": "emerged", "pi": "chuánchūle"},
+    {"ch": "了", "en": "", "pi": "le"},
+    {"ch": "两间", "en": "two companies", "pi": "liǎng jiàn"},
+    {"ch": "公司", "en": "companies", "pi": "gōngsī"},
+    {"ch": "合并", "en": "merger", "pi": "hébìng"},
+    {"ch": "的", "en": "", "pi": "de"},
+    {"ch": "消息", "en": "news", "pi": "xiāoxi"}
+  ]
+}

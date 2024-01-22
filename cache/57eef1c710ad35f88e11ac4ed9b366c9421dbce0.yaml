@@ -1,0 +1,42 @@
+{
+   "chinese": "除我以外每个人都在歌唱。",
+   "english": "Everyone except me is singing.",
+   "pinyin": "chú wǒ yǐ wài měi gè rén dōu zài gē chàng。",
+   "words": [
+      {
+         "ch": "除",
+         "en": "except",
+         "pi": "chú"
+      },
+      {
+         "ch": "我",
+         "en": "me",
+         "pi": "wǒ"
+      },
+      {
+         "ch": "以外",
+         "en": "except for",
+         "pi": "yǐ wài"
+      },
+      {
+         "ch": "每个人",
+         "en": "everyone",
+         "pi": "měi gè rén"
+      },
+      {
+         "ch": "都",
+         "en": "all",
+         "pi": "dōu"
+      },
+      {
+         "ch": "在",
+         "en": "is",
+         "pi": "zài"
+      },
+      {
+         "ch": "歌唱",
+         "en": "singing",
+         "pi": "gē chàng"
+      }
+   ]
+}

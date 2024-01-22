@@ -1,0 +1,15 @@
+{
+  "chinese": "尽管很忙，她还是来送我了。",
+  "english": "Although she was busy, she still came to see me off.",
+  "pinyin": "jǐn guǎn hěn máng, tā hái shì lái sòng wǒ le。",
+  "words": [
+    {"ch": "尽管", "en": "Although", "pi": "jǐn guǎn"},
+    {"ch": "很忙", "en": "busy", "pi": "hěn máng"},
+    {"ch": "她", "en": "she", "pi": "tā"},
+    {"ch": "还是", "en": "still", "pi": "hái shì"},
+    {"ch": "来", "en": "come", "pi": "lái"},
+    {"ch": "送", "en": "see off", "pi": "sòng"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "了", "en": "particle indicating completed action", "pi": "le"}
+  ]
+}

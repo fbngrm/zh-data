@@ -1,0 +1,37 @@
+{
+  "chinese": "由于火车延误，我迟到了。",
+  "english": "I was late due to train delay.",
+  "pinyin": "yóu yú huǒ chē yán wù, wǒ chí dào le.",
+  "words": [
+    {
+      "ch": "由于",
+      "en": "due to",
+      "pi": "yóu yú"
+    },
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒ chē"
+    },
+    {
+      "ch": "延误",
+      "en": "delay",
+      "pi": "yán wù"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "迟到",
+      "en": "late",
+      "pi": "chí dào"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

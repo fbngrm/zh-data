@@ -1,0 +1,32 @@
+{
+  "chinese": "今天晚上可能会下雪。",
+  "english": "It may snow tonight.",
+  "pinyin": "jīn tiān wǎn shàng kě néng huì xià xuě.",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "晚上",
+      "en": "night",
+      "pi": "wǎn shàng"
+    },
+    {
+      "ch": "可能",
+      "en": "may",
+      "pi": "kě néng"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "下雪",
+      "en": "snow",
+      "pi": "xià xuě"
+    }
+  ]
+}

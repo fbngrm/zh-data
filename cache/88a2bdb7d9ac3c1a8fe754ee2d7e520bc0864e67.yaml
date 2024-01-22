@@ -1,0 +1,42 @@
+{
+  "chinese": "上星期天我的家庭去了动物园看熊猫。",
+  "english": "Last Sunday, my family went to the zoo to see pandas.",
+  "pinyin": "Shàng xīngqítiān wǒ de jiātíng qù le dòngwùyuán kàn xióngmāo.",
+  "words": [
+    {
+      "ch": "上星期天",
+      "en": "Last Sunday",
+      "pi": "Shàng xīngqítiān"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "家庭",
+      "en": "family",
+      "pi": "jiātíng"
+    },
+    {
+      "ch": "去了",
+      "en": "went",
+      "pi": "qù le"
+    },
+    {
+      "ch": "动物园",
+      "en": "zoo",
+      "pi": "dòngwùyuán"
+    },
+    {
+      "ch": "看",
+      "en": "see",
+      "pi": "kàn"
+    },
+    {
+      "ch": "熊猫",
+      "en": "pandas",
+      "pi": "xióngmāo"
+    }
+  ]
+}

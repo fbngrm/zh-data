@@ -1,0 +1,32 @@
+{
+  "chinese": "告诉汤姆一切都好。",
+  "english": "Tell Tom everything is fine.",
+  "pinyin": "gào sù tāng mǔ yī qiè dōu hǎo.",
+  "words": [
+    {
+      "ch": "告诉",
+      "en": "Tell",
+      "pi": "gào sù"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "一切",
+      "en": "everything",
+      "pi": "yī qiè"
+    },
+    {
+      "ch": "都",
+      "en": "is",
+      "pi": "dōu"
+    },
+    {
+      "ch": "好",
+      "en": "fine",
+      "pi": "hǎo"
+    }
+  ]
+}

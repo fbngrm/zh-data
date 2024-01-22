@@ -1,0 +1,15 @@
+{
+  "chinese": "今天可以借你的網球拍一用嗎？",
+  "english": "Can I borrow your tennis racket today?",
+  "pinyin": "jīn tiān kě yǐ jiè nǐ de wǎng qiú pāi yī yòng ma?",
+  "words": [
+    {"ch": "今天", "en": "today", "pi": "jīn tiān"},
+    {"ch": "可以", "en": "can", "pi": "kě yǐ"},
+    {"ch": "借", "en": "borrow", "pi": "jiè"},
+    {"ch": "你的", "en": "your", "pi": "nǐ de"},
+    {"ch": "網球拍", "en": "tennis racket", "pi": "wǎng qiú pāi"},
+    {"ch": "一", "en": "one", "pi": "yī"},
+    {"ch": "用", "en": "use", "pi": "yòng"},
+    {"ch": "嗎", "en": "?", "pi": "ma"}
+  ]
+}

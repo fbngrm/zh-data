@@ -1,0 +1,23 @@
+{
+  "sentences": [
+    {
+      "chinese": "是谁？",
+      "english": "Who is it?",
+      "pinyin": "shì shuí?",
+      "words": [
+        {"ch": "是", "en": "is", "pi": "shì"},
+        {"ch": "谁", "en": "who", "pi": "shuí"}
+      ]
+    },
+    {
+      "chinese": "是你妈妈。",
+      "english": "It's your mother.",
+      "pinyin": "shì nǐ māmā.",
+      "words": [
+        {"ch": "是", "en": "is", "pi": "shì"},
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "妈妈", "en": "mother", "pi": "māmā"}
+      ]
+    }
+  ]
+}

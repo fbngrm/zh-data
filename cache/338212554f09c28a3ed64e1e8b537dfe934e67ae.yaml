@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆吃了一惊。",
+  "english": "Tom was taken aback.",
+  "pinyin": "Tāng mǔ chī le yī jīng.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "了",
+      "en": "past tense marker",
+      "pi": "le"
+    },
+    {
+      "ch": "一",
+      "en": "one",
+      "pi": "yī"
+    },
+    {
+      "ch": "惊",
+      "en": "startled",
+      "pi": "jīng"
+    }
+  ]
+}

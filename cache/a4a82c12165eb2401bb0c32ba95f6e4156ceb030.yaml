@@ -1,0 +1,16 @@
+{
+  "chinese": "每个人都知道他对那狗的感情。",
+  "english": "Everyone knows his feelings for that dog.",
+  "pinyin": "měi gè rén dōu zhī dào tā duì nà gǒu de gǎn qíng。",
+  "words": [
+    {"ch": "每个人", "en": "everyone", "pi": "měi gè rén"},
+    {"ch": "都", "en": "all", "pi": "dōu"},
+    {"ch": "知道", "en": "know", "pi": "zhī dào"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "对", "en": "for", "pi": "duì"},
+    {"ch": "那", "en": "that", "pi": "nà"},
+    {"ch": "狗", "en": "dog", "pi": "gǒu"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "感情", "en": "feelings", "pi": "gǎn qíng"}
+  ]
+}

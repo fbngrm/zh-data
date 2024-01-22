@@ -1,0 +1,16 @@
+{
+  "chinese": "３月１５日将是我最后一天上学的日子。",
+  "english": "March 15th will be my last day of school.",
+  "pinyin": "sān yuè yī wǔ rì jiāng shì wǒ zuì hòu yī tiān shàng xué de rì zi。",
+  "words": [
+    {"ch": "３月", "en": "March", "pi": "sān yuè"},
+    {"ch": "１５日", "en": "15th", "pi": "yī wǔ rì"},
+    {"ch": "将是", "en": "will be", "pi": "jiāng shì"},
+    {"ch": "我", "en": "my", "pi": "wǒ"},
+    {"ch": "最后", "en": "last", "pi": "zuì hòu"},
+    {"ch": "一天", "en": "day", "pi": "yī tiān"},
+    {"ch": "上学", "en": "school", "pi": "shàng xué"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "日子", "en": "day", "pi": "rì zi"}
+  ]
+}

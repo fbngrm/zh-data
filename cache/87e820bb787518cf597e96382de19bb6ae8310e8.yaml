@@ -1,0 +1,32 @@
+{
+  "chinese": "九点钟锁门。",
+  "english": "Close the door at nine o'clock.",
+  "pinyin": "jiǔ diǎn zhōng suǒ mén.",
+  "words": [
+    {
+      "ch": "九",
+      "en": "nine",
+      "pi": "jiǔ"
+    },
+    {
+      "ch": "点",
+      "en": "o'clock",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "钟",
+      "en": "clock",
+      "pi": "zhōng"
+    },
+    {
+      "ch": "锁",
+      "en": "lock",
+      "pi": "suǒ"
+    },
+    {
+      "ch": "门",
+      "en": "door",
+      "pi": "mén"
+    }
+  ]
+}

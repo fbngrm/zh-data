@@ -1,0 +1,42 @@
+{
+  "chinese": "我不会给汤姆买那东西。",
+  "english": "I will not buy that thing for Tom.",
+  "pinyin": "wǒ bù huì gěi tāng mǔ mǎi nà dōng xi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不会",
+      "en": "will not",
+      "pi": "bù huì"
+    },
+    {
+      "ch": "给",
+      "en": "to",
+      "pi": "gěi"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "买",
+      "en": "buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "东西",
+      "en": "thing",
+      "pi": "dōng xi"
+    }
+  ]
+}

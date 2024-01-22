@@ -1,0 +1,68 @@
+{
+  "sentences": [
+      {
+        "chinese": "昨天到几点钟才睡觉的？",
+        "english": "What time did you go to sleep yesterday?",
+        "pinyin": "Zuótiān dào jǐ diǎn zhōng cái shuìjiào de?",
+        "words": [
+          {
+            "ch": "昨天",
+            "en": "yesterday",
+            "pi": "zuótiān"
+          },
+          {
+            "ch": "到",
+            "en": "go to",
+            "pi": "dào"
+          },
+          {
+            "ch": "几点钟",
+            "en": "what time",
+            "pi": "jǐ diǎn zhōng"
+          },
+          {
+            "ch": "才",
+            "en": "only",
+            "pi": "cái"
+          },
+          {
+            "ch": "睡觉",
+            "en": "go to sleep",
+            "pi": "shuìjiào"
+          },
+          {
+            "ch": "的",
+            "en": "particle",
+            "pi": "de"
+          }
+        ]
+      },
+      {
+        "chinese": "大概两点半。",
+        "english": "Around two thirty.",
+        "pinyin": "Dàgài liǎng diǎn bàn.",
+        "words": [
+          {
+            "ch": "大概",
+            "en": "around",
+            "pi": "dàgài"
+          },
+          {
+            "ch": "两",
+            "en": "two",
+            "pi": "liǎng"
+          },
+          {
+            "ch": "点",
+            "en": "o'clock",
+            "pi": "diǎn"
+          },
+          {
+            "ch": "半",
+            "en": "half",
+            "pi": "bàn"
+          }
+        ]
+      }
+   ]
+}

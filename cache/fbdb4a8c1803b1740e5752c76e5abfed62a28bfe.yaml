@@ -1,0 +1,13 @@
+{
+  "chinese": "你应该直接跟汤姆说。",
+  "english": "You should speak directly to Tom.",
+  "pinyin": "nǐ yīng gāi zhí jiē gēn tāng mǔ shuō。",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "应该", "en": "should", "pi": "yīng gāi"},
+    {"ch": "直接", "en": "directly", "pi": "zhí jiē"},
+    {"ch": "跟", "en": "to", "pi": "gēn"},
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "说", "en": "speak", "pi": "shuō"}
+  ]
+}

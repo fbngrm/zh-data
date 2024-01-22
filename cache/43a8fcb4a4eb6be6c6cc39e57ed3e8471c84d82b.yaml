@@ -1,0 +1,62 @@
+{
+  "chinese": "他在20岁的时候写了这本书。",
+  "english": "He wrote this book when he was 20 years old.",
+  "pinyin": "tā zài èrshí suì de shíhou xiě le zhè běn shū。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "20",
+      "en": "20",
+      "pi": "èrshí"
+    },
+    {
+      "ch": "岁",
+      "en": "years old",
+      "pi": "suì"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "时候",
+      "en": "time",
+      "pi": "shíhou"
+    },
+    {
+      "ch": "写",
+      "en": "write",
+      "pi": "xiě"
+    },
+    {
+      "ch": "了",
+      "en": "completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本",
+      "en": "measure word for book",
+      "pi": "běn"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    }
+  ]
+}

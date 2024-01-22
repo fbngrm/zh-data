@@ -1,0 +1,27 @@
+{
+  "chinese": "你今早几点起床？",
+  "english": "What time did you wake up this morning?",
+  "pinyin": "Nǐ jīn zǎo jǐ diǎn qǐ chuáng?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "今早",
+      "en": "this morning",
+      "pi": "jīn zǎo"
+    },
+    {
+      "ch": "几点",
+      "en": "what time",
+      "pi": "jǐ diǎn"
+    },
+    {
+      "ch": "起床",
+      "en": "wake up",
+      "pi": "qǐ chuáng"
+    }
+  ]
+}

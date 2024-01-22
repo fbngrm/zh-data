@@ -1,0 +1,32 @@
+{
+  "chinese": "这本书多少钱？",
+  "english": "How much does this book cost?",
+  "pinyin": "zhè běn shū duō shǎo qián?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    },
+    {
+      "ch": "多少",
+      "en": "how much",
+      "pi": "duō shǎo"
+    },
+    {
+      "ch": "钱",
+      "en": "money",
+      "pi": "qián"
+    }
+  ]
+}

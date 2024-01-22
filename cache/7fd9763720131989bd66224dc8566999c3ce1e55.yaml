@@ -1,0 +1,32 @@
+{
+  "chinese": "我欠你一千美元。",
+  "english": "I owe you one thousand dollars.",
+  "pinyin": "wǒ qiàn nǐ yīqiān měiyuán.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "欠",
+      "en": "owe",
+      "pi": "qiàn"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "一千",
+      "en": "one thousand",
+      "pi": "yīqiān"
+    },
+    {
+      "ch": "美元",
+      "en": "dollars",
+      "pi": "měiyuán"
+    }
+  ]
+}

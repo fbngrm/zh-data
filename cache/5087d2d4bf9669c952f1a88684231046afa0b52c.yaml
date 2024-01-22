@@ -1,0 +1,42 @@
+{
+  "chinese": "这封信约一个星期左右到达。",
+  "english": "This letter will arrive in about a week.",
+  "pinyin": "zhè fēng xìn yuē yī gè xīng qī zuǒ yòu dào dá。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "封信",
+      "en": "letter",
+      "pi": "fēng xìn"
+    },
+    {
+      "ch": "约",
+      "en": "about",
+      "pi": "yuē"
+    },
+    {
+      "ch": "一个",
+      "en": "one",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "星期",
+      "en": "week",
+      "pi": "xīng qī"
+    },
+    {
+      "ch": "左右",
+      "en": "approximately",
+      "pi": "zuǒ yòu"
+    },
+    {
+      "ch": "到达",
+      "en": "arrive",
+      "pi": "dào dá"
+    }
+  ]
+}

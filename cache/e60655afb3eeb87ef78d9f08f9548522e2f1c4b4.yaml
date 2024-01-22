@@ -1,0 +1,42 @@
+{
+  "chinese": "他是其中一个市长的候选人。",
+  "english": "He is one of the candidates for mayor.",
+  "pinyin": "tā shì qí zhōng yī gè shì zhǎng de hòu xuǎn rén。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "其中",
+      "en": "one of",
+      "pi": "qí zhōng"
+    },
+    {
+      "ch": "一个",
+      "en": "one",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "市长",
+      "en": "mayor",
+      "pi": "shì zhǎng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "候选人",
+      "en": "candidate",
+      "pi": "hòu xuǎn rén"
+    }
+  ]
+}

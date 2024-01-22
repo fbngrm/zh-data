@@ -1,0 +1,14 @@
+{
+  "chinese": "我不知道應該接受還是拒絕。",
+  "english": "I don't know whether to accept or reject.",
+  "pinyin": "wǒ bù zhīdào yīnggāi jiēshòu háishì jùjué。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "不", "en": "don't", "pi": "bù"},
+    {"ch": "知道", "en": "know", "pi": "zhīdào"},
+    {"ch": "應該", "en": "whether", "pi": "yīnggāi"},
+    {"ch": "接受", "en": "to accept", "pi": "jiēshòu"},
+    {"ch": "還是", "en": "or", "pi": "háishì"},
+    {"ch": "拒絕", "en": "to reject", "pi": "jùjué"}
+  ]
+}

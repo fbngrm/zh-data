@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆买了新手套。",
+  "english": "Tom bought new gloves.",
+  "pinyin": "Tāng mǔ mǎi le xīn shǒu tào.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "买",
+      "en": "bought",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "新",
+      "en": "new",
+      "pi": "xīn"
+    },
+    {
+      "ch": "手套",
+      "en": "gloves",
+      "pi": "shǒu tào"
+    }
+  ]
+}

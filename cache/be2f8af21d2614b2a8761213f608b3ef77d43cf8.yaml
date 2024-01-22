@@ -1,0 +1,32 @@
+{
+  "chinese": "那辆是他的车子。",
+  "english": "That car is his.",
+  "pinyin": "Nà liàng shì tā de chēzi.",
+  "words": [
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "辆",
+      "en": "car",
+      "pi": "liàng"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "车子",
+      "en": "car",
+      "pi": "chēzi"
+    }
+  ]
+}

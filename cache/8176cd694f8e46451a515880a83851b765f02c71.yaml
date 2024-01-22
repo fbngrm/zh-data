@@ -1,0 +1,32 @@
+{
+  "chinese": "你为什么总是发短信？",
+  "english": "Why do you always send text messages?",
+  "pinyin": "nǐ wèi shénme zǒng shì fā duǎn xìn?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "为什么",
+      "en": "why",
+      "pi": "wèi shénme"
+    },
+    {
+      "ch": "总是",
+      "en": "always",
+      "pi": "zǒng shì"
+    },
+    {
+      "ch": "发",
+      "en": "send",
+      "pi": "fā"
+    },
+    {
+      "ch": "短信",
+      "en": "text message",
+      "pi": "duǎn xìn"
+    }
+  ]
+}

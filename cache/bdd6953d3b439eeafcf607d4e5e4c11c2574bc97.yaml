@@ -1,0 +1,32 @@
+{
+  "chinese": "我来了好长时间了。",
+  "english": "I've been here for a long time.",
+  "pinyin": "wǒ lái le hǎo cháng shí jiān le。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "来了",
+      "en": "have been here",
+      "pi": "lái le"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "长时间",
+      "en": "for a long time",
+      "pi": "cháng shí jiān"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "le"
+    }
+  ]
+}

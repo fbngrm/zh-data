@@ -1,0 +1,37 @@
+{
+  "chinese": "如果车子坏了，我们就走路。",
+  "english": "If the car is broken, we will walk.",
+  "pinyin": "Rúguǒ chēzi huài le, wǒmen jiù zǒulù.",
+  "words": [
+    {
+      "ch": "如果",
+      "en": "if",
+      "pi": "rúguǒ"
+    },
+    {
+      "ch": "车子",
+      "en": "car",
+      "pi": "chēzi"
+    },
+    {
+      "ch": "坏了",
+      "en": "is broken",
+      "pi": "huài le"
+    },
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "就",
+      "en": "will",
+      "pi": "jiù"
+    },
+    {
+      "ch": "走路",
+      "en": "walk",
+      "pi": "zǒulù"
+    }
+  ]
+}

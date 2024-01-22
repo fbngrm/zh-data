@@ -1,0 +1,32 @@
+{
+  "chinese": "它是我们的秘密。",
+  "english": "It is our secret.",
+  "pinyin": "tā shì wǒmen de mìmì.",
+  "words": [
+    {
+      "ch": "它",
+      "en": "It",
+      "pi": "tā"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我们",
+      "en": "our",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "秘密",
+      "en": "secret",
+      "pi": "mìmì"
+    }
+  ]
+}

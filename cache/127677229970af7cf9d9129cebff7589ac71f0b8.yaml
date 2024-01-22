@@ -1,0 +1,37 @@
+{
+  "chinese": "受害者在医院里死去了。",
+  "english": "The victim died in the hospital.",
+  "pinyin": "shòu hài zhě zài yī yuàn lǐ sǐ qù le。",
+  "words": [
+    {
+      "ch": "受害者",
+      "en": "victim",
+      "pi": "shòu hài zhě"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "医院",
+      "en": "hospital",
+      "pi": "yī yuàn"
+    },
+    {
+      "ch": "里",
+      "en": "inside",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "死去",
+      "en": "die",
+      "pi": "sǐ qù"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

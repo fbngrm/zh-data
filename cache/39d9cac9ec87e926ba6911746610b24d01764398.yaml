@@ -1,0 +1,32 @@
+{
+  "chinese": "你家里都有谁？",
+  "english": "Who is in your family?",
+  "pinyin": "nǐ jiā lǐ dōu yǒu shuí?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "家里",
+      "en": "at home",
+      "pi": "jiā lǐ"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "谁",
+      "en": "who",
+      "pi": "shuí"
+    }
+  ]
+}

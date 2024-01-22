@@ -1,0 +1,13 @@
+{
+  "chinese": "我觉的这个规则有问题。",
+  "english": "I think this rule has a problem.",
+  "pinyin": "wǒ jué de zhè ge guī zé yǒu wèn tí。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "觉的", "en": "think", "pi": "jué de"},
+    {"ch": "这个", "en": "this", "pi": "zhè ge"},
+    {"ch": "规则", "en": "rule", "pi": "guī zé"},
+    {"ch": "有", "en": "has", "pi": "yǒu"},
+    {"ch": "问题", "en": "problem", "pi": "wèn tí"}
+  ]
+}

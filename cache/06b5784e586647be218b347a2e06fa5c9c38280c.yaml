@@ -1,0 +1,78 @@
+{
+  "sentences": [
+    {
+      "chinese": "我知道你们的所做的一切并不只是为了赢得选举，我也知道你们做这一切并不是为了我。",
+      "english": "I know everything you have done is not just to win the election, and I also know that you are not doing it for me.",
+      "pinyin": "wǒ zhī dào nǐ men de suǒ zuò de yī qiè bìng bú zhǐ shì wèi le yíng dé xuǎn jǔ wǒ yě zhī dào nǐ men zuò zhè yī qiè bìng bú shì wèi le wǒ 。"
+    },
+    {
+      "chinese": "你们这样做是因为你们明白前面的任务有多么艰巨。",
+      "english": "You do this because you understand how difficult the tasks ahead are.",
+      "pinyin": "nǐ men zhè yàng zuò shì yīn wèi nǐ men míng bai qián mian de rèn wu yǒu duō me jiān jù 。"
+    },
+    {
+      "chinese": "即便我们今晚欢呼庆祝，我们也知道明天将面临我们一生之中最艰难的挑战——两场战争、一个面临危险的星球，一个世纪以来最严重的金融危机。",
+      "english": "Even if we celebrate tonight, we know that tomorrow we will face the most difficult challenges of our lives - two wars, a planet in danger, and the most serious financial crisis in a century.",
+      "pinyin": "jí biàn wǒ men jīn wǎn huān hū qìng zhù wǒ men yě zhī dào míng tiān jiāng miàn lín wǒ men yī shēng zhī zhōng zuì jiān nán de tiǎo zhàn liǎng chǎng zhàn zhēng yī gè miàn lín wēi xiǎn de xīng qiú yī gè shì jì yǐ lái zuì yán zhòng de jīn róng wēi jī 。"
+    }
+  ],
+  "words": [
+    [
+      { "ch": "我", "en": "I", "pi": "wǒ" },
+      { "ch": "知道", "en": "know", "pi": "zhī dào" },
+      { "ch": "你们", "en": "you", "pi": "nǐ men" },
+      { "ch": "的", "en": "possessive", "pi": "de" },
+      { "ch": "所做", "en": "done", "pi": "suǒ zuò" },
+      { "ch": "一切", "en": "everything", "pi": "yī qiè" },
+      { "ch": "并不", "en": "not", "pi": "bìng bú" },
+      { "ch": "只是", "en": "just", "pi": "zhǐ shì" },
+      { "ch": "为了", "en": "for", "pi": "wèi le" },
+      { "ch": "赢得", "en": "win", "pi": "yíng dé" },
+      { "ch": "选举", "en": "election", "pi": "xuǎn jǔ" }
+    ],
+    [
+      { "ch": "我", "en": "I", "pi": "wǒ" },
+      { "ch": "也", "en": "also", "pi": "yě" },
+      { "ch": "知道", "en": "know", "pi": "zhī dào" },
+      { "ch": "你们", "en": "you", "pi": "nǐ men" },
+      { "ch": "做", "en": "do", "pi": "zuò" },
+      { "ch": "这一切", "en": "this", "pi": "zhè yī qiè" },
+      { "ch": "并不", "en": "not", "pi": "bìng bú" },
+      { "ch": "是为了", "en": "for", "pi": "shì wèi le" },
+      { "ch": "我", "en": "me", "pi": "wǒ" }
+    ],
+    [
+      { "ch": "你们", "en": "you", "pi": "nǐ men" },
+      { "ch": "这样", "en": "this way", "pi": "zhè yàng" },
+      { "ch": "做", "en": "do", "pi": "zuò" },
+      { "ch": "是因为", "en": "because", "pi": "shì yīn wèi" },
+      { "ch": "你们", "en": "you", "pi": "nǐ men" },
+      { "ch": "明白", "en": "understand", "pi": "míng bai" },
+      { "ch": "前面", "en": "ahead", "pi": "qián mian" },
+      { "ch": "的", "en": "possessive", "pi": "de" },
+      { "ch": "任务", "en": "task", "pi": "rèn wu" },
+      { "ch": "有多么", "en": "how", "pi": "yǒu duō me" },
+      { "ch": "艰巨", "en": "difficult", "pi": "jiān jù" }
+    ],
+    [
+      { "ch": "即便", "en": "even if", "pi": "jí biàn" },
+      { "ch": "我们", "en": "we", "pi": "wǒ men" },
+      { "ch": "今晚", "en": "tonight", "pi": "jīn wǎn" },
+      { "ch": "欢呼庆祝", "en": "celebrate", "pi": "huān hū qìng zhù" },
+      { "ch": "我们", "en": "we", "pi": "wǒ men" },
+      { "ch": "也", "en": "also", "pi": "yě" },
+      { "ch": "知道", "en": "know", "pi": "zhī dào" },
+      { "ch": "明天", "en": "tomorrow", "pi": "míng tiān" },
+      { "ch": "将面临", "en": "will face", "pi": "jiāng miàn lín" },
+      { "ch": "我们", "en": "our", "pi": "wǒ men" },
+      { "ch": "一生之中", "en": "of our lives", "pi": "yī shēng zhī zhōng" },
+      { "ch": "最", "en": "most", "pi": "zuì" },
+      { "ch": "艰难", "en": "difficult", "pi": "jiān nán" },
+      { "ch": "的", "en": "possessive", "pi": "de" },
+      { "ch": "挑战", "en": "challenge", "pi": "tiǎo zhàn" },
+      { "ch": "两场战争", "en": "two wars", "pi": "liǎng chǎng zhàn zhēng" },
+      { "ch": "一个面临危险的星球", "en": "a planet in danger", "pi": "yī gè miàn lín wēi xiǎn de xīng qǐu" },
+      { "ch": "一个世纪以来最严重的金融危机", "en": "the most serious financial crisis in a century", "pi": "yī gè shì jì yǐ lái zuì yán zhòng de jīn róng wēi jī" }
+    ]
+  ]
+}

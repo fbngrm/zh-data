@@ -1,0 +1,37 @@
+{
+  "chinese": "你知道他住在哪里吗？",
+  "english": "Do you know where he lives?",
+  "pinyin": "nǐ zhī dào tā zhù zài nǎlǐ ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "住在",
+      "en": "live",
+      "pi": "zhù zài"
+    },
+    {
+      "ch": "哪里",
+      "en": "where",
+      "pi": "nǎlǐ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

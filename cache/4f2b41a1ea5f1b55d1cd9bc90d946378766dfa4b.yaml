@@ -1,0 +1,42 @@
+{
+  "chinese": "我们用筷子，不用刀叉。",
+  "english": "We use chopsticks, not knife and fork.",
+  "pinyin": "wǒmen yòng kuàizi, bùyòng dāochā.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "用",
+      "en": "use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "筷子",
+      "en": "chopsticks",
+      "pi": "kuàizi"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": ","
+    },
+    {
+      "ch": "不用",
+      "en": "not use",
+      "pi": "bùyòng"
+    },
+    {
+      "ch": "刀叉",
+      "en": "knife and fork",
+      "pi": "dāochā"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "."
+    }
+  ]
+}

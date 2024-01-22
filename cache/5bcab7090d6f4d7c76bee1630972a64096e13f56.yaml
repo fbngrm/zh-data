@@ -1,0 +1,42 @@
+{
+  "chinese": "你应该把这句话放进括号。",
+  "english": "You should put this sentence in parentheses.",
+  "pinyin": "nǐ yīng gāi bǎ zhè jù huà fàng jìn kuò hào.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "应该",
+      "en": "should",
+      "pi": "yīng gāi"
+    },
+    {
+      "ch": "把",
+      "en": "put",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "句话",
+      "en": "sentence",
+      "pi": "jù huà"
+    },
+    {
+      "ch": "放进",
+      "en": "in",
+      "pi": "fàng jìn"
+    },
+    {
+      "ch": "括号",
+      "en": "parentheses",
+      "pi": "kuò hào"
+    }
+  ]
+}

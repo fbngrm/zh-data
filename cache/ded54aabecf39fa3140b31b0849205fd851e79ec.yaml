@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆必须马上去做。",
+  "english": "Tom must do it right away.",
+  "pinyin": "Tāng mǔ bìxū mǎshàng qù zuò.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "必须",
+      "en": "must",
+      "pi": "bì xū"
+    },
+    {
+      "ch": "马上",
+      "en": "right away",
+      "pi": "mǎ shàng"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "做",
+      "en": "do",
+      "pi": "zuò"
+    }
+  ]
+}

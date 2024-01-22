@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆唱歌总跑调。",
+  "english": "Tom always sings off-key.",
+  "pinyin": "tāng mǔ chàng gē zǒng pǎo diào.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "唱歌",
+      "en": "sings",
+      "pi": "chàng gē"
+    },
+    {
+      "ch": "总",
+      "en": "always",
+      "pi": "zǒng"
+    },
+    {
+      "ch": "跑调",
+      "en": "off-key",
+      "pi": "pǎo diào"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "chinese": "王先生学德文，因为他想在德国工作。",
+  "english": "Mr. Wang is learning German because he wants to work in Germany.",
+  "pinyin": "Wáng xiānshēng xué déwén, yīnwèi tā xiǎng zài déguó gōngzuò.",
+  "words": [
+    {
+      "ch": "王先生",
+      "en": "Mr. Wang",
+      "pi": "Wáng xiānshēng"
+    },
+    {
+      "ch": "学",
+      "en": "to learn",
+      "pi": "xué"
+    },
+    {
+      "ch": "德文",
+      "en": "German language",
+      "pi": "déwén"
+    },
+    {
+      "ch": "因为",
+      "en": "because",
+      "pi": "yīnwèi"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "想",
+      "en": "to want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "德国",
+      "en": "Germany",
+      "pi": "déguó"
+    },
+    {
+      "ch": "工作",
+      "en": "to work",
+      "pi": "gōngzuò"
+    }
+  ]
+}

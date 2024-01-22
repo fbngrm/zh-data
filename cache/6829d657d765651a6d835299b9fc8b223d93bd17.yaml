@@ -1,0 +1,27 @@
+{
+  "chinese": "我对英语感兴趣。",
+  "english": "I am interested in English.",
+  "pinyin": "wǒ duì yīngyǔ gǎn xìngqù.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "对",
+      "en": "am interested in",
+      "pi": "duì"
+    },
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīngyǔ"
+    },
+    {
+      "ch": "感兴趣",
+      "en": "interested in",
+      "pi": "gǎn xìngqù"
+    }
+  ]
+}

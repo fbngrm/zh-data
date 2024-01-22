@@ -1,0 +1,32 @@
+{
+  "chinese": "这条河叫什么名字?",
+  "english": "What is the name of this river?",
+  "pinyin": "Zhè tiáo hé jiào shénme míngzì?",
+  "words": [
+    {
+      "ch": "这条",
+      "en": "this",
+      "pi": "zhè tiáo"
+    },
+    {
+      "ch": "河",
+      "en": "river",
+      "pi": "hé"
+    },
+    {
+      "ch": "叫",
+      "en": "is called",
+      "pi": "jiào"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míngzì"
+    }
+  ]
+}

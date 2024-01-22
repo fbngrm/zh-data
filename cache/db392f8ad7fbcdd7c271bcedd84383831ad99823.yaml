@@ -1,0 +1,47 @@
+{
+  "chinese": "你必须在中午以前完成这个工作。",
+  "english": "You must complete this task before noon.",
+  "pinyin": "nǐ bìxū zài zhōngwǔ yǐqián wánchéng zhège gōngzuò。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "必须",
+      "en": "must",
+      "pi": "bìxū"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "中午",
+      "en": "noon",
+      "pi": "zhōngwǔ"
+    },
+    {
+      "ch": "以前",
+      "en": "before",
+      "pi": "yǐqián"
+    },
+    {
+      "ch": "完成",
+      "en": "complete",
+      "pi": "wánchéng"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhège"
+    },
+    {
+      "ch": "工作",
+      "en": "task",
+      "pi": "gōngzuò"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "这里离博物馆多远？",
+  "english": "How far is it from here to the museum?",
+  "pinyin": "zhè lǐ lí bó wù guǎn duō yuǎn?",
+  "words": [
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "离",
+      "en": "from",
+      "pi": "lí"
+    },
+    {
+      "ch": "博物馆",
+      "en": "museum",
+      "pi": "bó wù guǎn"
+    },
+    {
+      "ch": "多远",
+      "en": "how far",
+      "pi": "duō yuǎn"
+    }
+  ]
+}

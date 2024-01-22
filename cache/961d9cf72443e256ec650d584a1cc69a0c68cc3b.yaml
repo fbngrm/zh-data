@@ -1,0 +1,49 @@
+{
+  "sentence1": {
+    "chinese": "有人喜欢夏天，有人喜欢冬天。",
+    "english": "Some people like summer, some people like winter.",
+    "pinyin": "yǒurén xǐhuān xiàtiān, yǒurén xǐhuān dōngtiān.",
+    "words": [
+      {
+        "ch": "有人",
+        "en": "Some people",
+        "pi": "yǒurén"
+      },
+      {
+        "ch": "喜欢",
+        "en": "like",
+        "pi": "xǐhuān"
+      },
+      {
+        "ch": "夏天",
+        "en": "summer",
+        "pi": "xiàtiān"
+      },
+      {
+        "ch": "，",
+        "en": ",",
+        "pi": "，"
+      },
+      {
+        "ch": "有人",
+        "en": "some people",
+        "pi": "yǒurén"
+      },
+      {
+        "ch": "喜欢",
+        "en": "like",
+        "pi": "xǐhuān"
+      },
+      {
+        "ch": "冬天",
+        "en": "winter",
+        "pi": "dōngtiān"
+      },
+      {
+        "ch": "。",
+        "en": ".",
+        "pi": "。"
+      }
+    ]
+  }
+}

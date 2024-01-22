@@ -1,0 +1,13 @@
+{"chinese": "你刚才把一个玩意儿落在桌上了。",
+ "english": "You just left something on the table.",
+ "pinyin": "Nǐ gāngcái bǎ yīgè wányì er luò zài zhuōshàng le.",
+ "words": [{"ch": "你", "en": "you", "pi": "nǐ"},
+           {"ch": "刚才", "en": "just now", "pi": "gāngcái"},
+           {"ch": "把", "en": "take", "pi": "bǎ"},
+           {"ch": "一个", "en": "one", "pi": "yīgè"},
+           {"ch": "玩意儿", "en": "thing", "pi": "wányì er"},
+           {"ch": "落", "en": "leave", "pi": "luò"},
+           {"ch": "在", "en": "on", "pi": "zài"},
+           {"ch": "桌上", "en": "table", "pi": "zhuōshàng"},
+           {"ch": "了", "en": "particle indicating completed action", "pi": "le."}]
+}

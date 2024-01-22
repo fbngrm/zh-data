@@ -1,0 +1,42 @@
+{
+  "chinese": "我有一个兄弟和两个姐妹。",
+  "english": "I have one brother and two sisters.",
+  "pinyin": "wǒ yǒu yī gè xiōngdì hé liǎng gè jiěmèi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一个",
+      "en": "one",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "兄弟",
+      "en": "brother",
+      "pi": "xiōngdì"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "两个",
+      "en": "two",
+      "pi": "liǎng gè"
+    },
+    {
+      "ch": "姐妹",
+      "en": "sisters",
+      "pi": "jiěmèi"
+    }
+  ]
+}

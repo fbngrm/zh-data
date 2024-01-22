@@ -1,0 +1,47 @@
+{
+  "chinese": "汤姆从他的椅子上跳了起来。",
+  "english": "Tom jumped up from his chair.",
+  "pinyin": "Tāngmǔ cóng tā de yǐzi shàng tiào le qǐlái.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "椅子",
+      "en": "chair",
+      "pi": "yǐzi"
+    },
+    {
+      "ch": "上",
+      "en": "up",
+      "pi": "shàng"
+    },
+    {
+      "ch": "跳",
+      "en": "jump",
+      "pi": "tiào"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "起来",
+      "en": "",
+      "pi": "qǐlái"
+    }
+  ]
+}

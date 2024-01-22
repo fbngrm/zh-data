@@ -1,0 +1,14 @@
+{
+  "chinese": "我承认我不知道怎么做。",
+  "english": "I admit that I don't know how to do it.",
+  "pinyin": "Wǒ chéngrèn wǒ bù zhīdào zěnme zuò.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "承认", "en": "admit", "pi": "chéngrèn"},
+    {"ch": "我", "en": "that", "pi": "wǒ"},
+    {"ch": "不", "en": "don't", "pi": "bù"},
+    {"ch": "知道", "en": "know", "pi": "zhīdào"},
+    {"ch": "怎么", "en": "how to", "pi": "zěnme"},
+    {"ch": "做", "en": "do", "pi": "zuò"}
+  ]
+}

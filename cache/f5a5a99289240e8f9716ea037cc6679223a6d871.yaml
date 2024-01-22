@@ -1,0 +1,32 @@
+{
+  "chinese": "他抓住了她的胳膊。",
+  "english": "He grabbed her arm.",
+  "pinyin": "tā zhuā zhù le tā de gē bo。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "抓住",
+      "en": "grab",
+      "pi": "zhuā zhù"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "她的",
+      "en": "her",
+      "pi": "tā de"
+    },
+    {
+      "ch": "胳膊",
+      "en": "arm",
+      "pi": "gē bo"
+    }
+  ]
+}

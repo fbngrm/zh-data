@@ -1,0 +1,28 @@
+{
+  "sentences": [
+    {
+      "chinese": "一名伟大的战士放射出力量。",
+      "english": "A great warrior radiates power.",
+      "pinyin": "yī míng wěi dà de zhàn shì fàng shè chū lì liàng。",
+      "words": [
+        {"ch": "一名", "en": "A", "pi": "yī míng"},
+        {"ch": "伟大", "en": "great", "pi": "wěi dà"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "战士", "en": "warrior", "pi": "zhàn shì"},
+        {"ch": "放射", "en": "radiate", "pi": "fàng shè"},
+        {"ch": "出", "en": "out", "pi": "chū"},
+        {"ch": "力量", "en": "power", "pi": "lì liàng"}
+      ]
+    },
+    {
+      "chinese": "他不用死战。",
+      "english": "He doesn't need to fight to the death.",
+      "pinyin": "tā bù yòng sǐ zhàn。",
+      "words": [
+        {"ch": "他", "en": "he", "pi": "tā"},
+        {"ch": "不用", "en": "doesn't need", "pi": "bù yòng"},
+        {"ch": "死战", "en": "to fight to the death", "pi": "sǐ zhàn"}
+      ]
+    }
+  ]
+}

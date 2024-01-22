@@ -1,0 +1,42 @@
+{
+  "chinese": "我等我的一个朋友等了一小时。",
+  "english": "I waited for my friend for an hour.",
+  "pinyin": "wǒ děng wǒ de yīgè péngyǒu děngle yīxiǎoshí。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "等",
+      "en": "wait",
+      "pi": "děng"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "一个",
+      "en": "one",
+      "pi": "yīgè"
+    },
+    {
+      "ch": "朋友",
+      "en": "friend",
+      "pi": "péngyǒu"
+    },
+    {
+      "ch": "等了",
+      "en": "waited",
+      "pi": "děngle"
+    },
+    {
+      "ch": "一小时",
+      "en": "for an hour",
+      "pi": "yīxiǎoshí"
+    }
+  ]
+}

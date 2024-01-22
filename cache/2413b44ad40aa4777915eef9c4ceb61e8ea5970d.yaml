@@ -1,0 +1,237 @@
+{
+  "sentences": [
+    {
+      "chinese": "您好，您要点什么？",
+      "english": "Hello, what would you like to order?",
+      "pinyin": "nín hǎo, nín yào diǎn shén me?",
+      "words": [
+        {
+          "ch": "您好",
+          "en": "hello",
+          "pi": "nín hǎo"
+        },
+        {
+          "ch": "您",
+          "en": "you",
+          "pi": "nín"
+        },
+        {
+          "ch": "要",
+          "en": "want",
+          "pi": "yào"
+        },
+        {
+          "ch": "点",
+          "en": "to",
+          "pi": "diǎn"
+        },
+        {
+          "ch": "什么",
+          "en": "what",
+          "pi": "shén me"
+        }
+      ]
+    },
+    {
+      "chinese": "我要一个鸡肉汉堡，一份薯条，还要一杯可乐。",
+      "english": "I would like a chicken burger, a serving of fries, and a coke.",
+      "pinyin": "wǒ yào yī gè jī ròu hàn bǎo, yī fèn shǔ tiáo, hái yào yī bēi kě lè.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "要",
+          "en": "want",
+          "pi": "yào"
+        },
+        {
+          "ch": "一个",
+          "en": "one",
+          "pi": "yī gè"
+        },
+        {
+          "ch": "鸡肉汉堡",
+          "en": "chicken burger",
+          "pi": "jī ròu hàn bǎo"
+        },
+        {
+          "ch": "一份",
+          "en": "a serving of",
+          "pi": "yī fèn"
+        },
+        {
+          "ch": "薯条",
+          "en": "fries",
+          "pi": "shǔ tiáo"
+        },
+        {
+          "ch": "还要",
+          "en": "also want",
+          "pi": "hái yào"
+        },
+        {
+          "ch": "一杯",
+          "en": "a glass of",
+          "pi": "yī bēi"
+        },
+        {
+          "ch": "可乐",
+          "en": "coke",
+          "pi": "kě lè"
+        }
+      ]
+    },
+    {
+      "chinese": "就这些马？",
+      "english": "Is that all?",
+      "pinyin": "jiù zhè xiē ma?",
+      "words": [
+        {
+          "ch": "就",
+          "en": "just",
+          "pi": "jiù"
+        },
+        {
+          "ch": "这些",
+          "en": "these",
+          "pi": "zhè xiē"
+        },
+        {
+          "ch": "马",
+          "en": "horse",
+          "pi": "ma"
+        }
+      ]
+    },
+    {
+      "chinese": "就这些。",
+      "english": "That's all.",
+      "pinyin": "jiù zhè xiē.",
+      "words": [
+        {
+          "ch": "就",
+          "en": "just",
+          "pi": "jiù"
+        },
+        {
+          "ch": "这些",
+          "en": "these",
+          "pi": "zhè xiē"
+        }
+      ]
+    },
+    {
+      "chinese": "好的，在这儿吃还是带走？",
+      "english": "Okay, for here or to go?",
+      "pinyin": "hǎo de, zài zhèr chī hái shi dài zǒu?",
+      "words": [
+        {
+          "ch": "好的",
+          "en": "okay",
+          "pi": "hǎo de"
+        },
+        {
+          "ch": "在这儿",
+          "en": "for here",
+          "pi": "zài zhèr"
+        },
+        {
+          "ch": "吃",
+          "en": "eat",
+          "pi": "chī"
+        },
+        {
+          "ch": "还是",
+          "en": "or",
+          "pi": "hái shi"
+        },
+        {
+          "ch": "带走",
+          "en": "to go",
+          "pi": "dài zǒu"
+        }
+      ]
+    },
+    {
+      "chinese": "带走。",
+      "english": "To go.",
+      "pinyin": "dài zǒu.",
+      "words": [
+        {
+          "ch": "带走",
+          "en": "to go",
+          "pi": "dài zǒu"
+        }
+      ]
+    },
+    {
+      "chinese": "好的，总共四十八。",
+      "english": "Okay, that's a total of forty-eight.",
+      "pinyin": "hǎo de, zǒng gòng sì shí bā.",
+      "words": [
+        {
+          "ch": "好的",
+          "en": "okay",
+          "pi": "hǎo de"
+        },
+        {
+          "ch": "总共",
+          "en": "total",
+          "pi": "zǒng gòng"
+        },
+        {
+          "ch": "四十八",
+          "en": "forty-eight",
+          "pi": "sì shí bā"
+        }
+      ]
+    },
+    {
+      "chinese": "给您无视。",
+      "english": "Here's your change.",
+      "pinyin": "gěi nín wú shì.",
+      "words": [
+        {
+          "ch": "给",
+          "en": "give",
+          "pi": "gěi"
+        },
+        {
+          "ch": "您",
+          "en": "you",
+          "pi": "nín"
+        },
+        {
+          "ch": "无视",
+          "en": "change",
+          "pi": "wú shì"
+        }
+      ]
+    },
+    {
+      "chinese": "找您两块。",
+      "english": "Here's two yuan for you.",
+      "pinyin": "zhǎo nín liǎng kuài.",
+      "words": [
+        {
+          "ch": "找",
+          "en": "here",
+          "pi": "zhǎo"
+        },
+        {
+          "ch": "您",
+          "en": "you",
+          "pi": "nín"
+        },
+        {
+          "ch": "两块",
+          "en": "two yuan",
+          "pi": "liǎng kuài"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "有人偷了我的行李。",
+  "english": "Someone stole my luggage.",
+  "pinyin": "Yǒu rén tōu le wǒ de xínglǐ.",
+  "words": [
+    {
+      "ch": "有",
+      "en": "someone",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "人",
+      "en": "person",
+      "pi": "rén"
+    },
+    {
+      "ch": "偷",
+      "en": "steal",
+      "pi": "tōu"
+    },
+    {
+      "ch": "了",
+      "en": "past tense marker",
+      "pi": "le"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "行李",
+      "en": "luggage",
+      "pi": "xínglǐ"
+    }
+  ]
+}

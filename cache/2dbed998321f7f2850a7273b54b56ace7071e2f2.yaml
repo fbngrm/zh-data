@@ -1,0 +1,32 @@
+{ 
+  "chinese": "他开卡车到达拉斯。",
+  "english": "He drove a truck to Dallas.",
+  "pinyin": "tā kāi kǎchē dàodá lāsī。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "开",
+      "en": "drive",
+      "pi": "kāi"
+    },
+    {
+      "ch": "卡车",
+      "en": "truck",
+      "pi": "kǎchē"
+    },
+    {
+      "ch": "到达",
+      "en": "to",
+      "pi": "dàodá"
+    },
+    {
+      "ch": "拉斯",
+      "en": "Dallas",
+      "pi": "lāsī"
+    }
+  ]
+}

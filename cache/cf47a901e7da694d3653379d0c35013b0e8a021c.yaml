@@ -1,0 +1,13 @@
+{
+    "chinese": "汤姆哄玛丽做他的作业。",
+    "english": "Tom persuaded Mary to do his homework.",
+    "pinyin": "Tāng mǔ hōng mǎ lì zuò tā de zuò yè.",
+    "words": [
+        {"ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ"},
+        {"ch": "哄", "en": "persuade", "pi": "hōng"},
+        {"ch": "玛丽", "en": "Mary", "pi": "mǎ lì"},
+        {"ch": "做", "en": "to do", "pi": "zuò"},
+        {"ch": "他的", "en": "his", "pi": "tā de"},
+        {"ch": "作业", "en": "homework", "pi": "zuò yè"}
+    ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我的兴趣是弹吉他。",
+  "english": "My hobby is playing the guitar.",
+  "pinyin": "Wǒ de xìngqù shì tán jítā.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "My",
+      "pi": "Wǒ de"
+    },
+    {
+      "ch": "兴趣",
+      "en": "hobby",
+      "pi": "xìngqù"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "弹",
+      "en": "playing",
+      "pi": "tán"
+    },
+    {
+      "ch": "吉他",
+      "en": "guitar",
+      "pi": "jítā"
+    }
+  ]
+}

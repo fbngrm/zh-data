@@ -1,0 +1,32 @@
+{
+  "chinese": "我父亲非常喜欢披萨。",
+  "english": "My father really likes pizza.",
+  "pinyin": "wǒ fùqīn fēicháng xǐhuān pīsà.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "父亲",
+      "en": "father",
+      "pi": "fùqīn"
+    },
+    {
+      "ch": "非常",
+      "en": "really",
+      "pi": "fēicháng"
+    },
+    {
+      "ch": "喜欢",
+      "en": "likes",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "披萨",
+      "en": "pizza",
+      "pi": "pīsà"
+    }
+  ]
+}

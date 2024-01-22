@@ -1,0 +1,32 @@
+{
+  "chinese": "这些书都没有用。",
+  "english": "These books are useless.",
+  "pinyin": "zhè xiē shū dōu méiyǒu yòng.",
+  "words": [
+    {
+      "ch": "这些",
+      "en": "These",
+      "pi": "zhè xiē"
+    },
+    {
+      "ch": "书",
+      "en": "books",
+      "pi": "shū"
+    },
+    {
+      "ch": "都",
+      "en": "are",
+      "pi": "dōu"
+    },
+    {
+      "ch": "没有",
+      "en": "useless",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "用",
+      "en": "no",
+      "pi": "yòng"
+    }
+  ]
+}

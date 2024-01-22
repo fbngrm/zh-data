@@ -1,0 +1,32 @@
+{
+  "chinese": "猴子从树上掉了下来。",
+  "english": "The monkey fell from the tree.",
+  "pinyin": "hóuzi cóng shù shàng diào le xiàlái.",
+  "words": [
+    {
+      "ch": "猴子",
+      "en": "monkey",
+      "pi": "hóuzi"
+    },
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "树上",
+      "en": "tree",
+      "pi": "shù shàng"
+    },
+    {
+      "ch": "掉了",
+      "en": "fell",
+      "pi": "diào le"
+    },
+    {
+      "ch": "下来",
+      "en": "down",
+      "pi": "xiàlái"
+    }
+  ]
+}

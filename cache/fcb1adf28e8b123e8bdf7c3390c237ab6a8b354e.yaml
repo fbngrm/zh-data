@@ -1,0 +1,42 @@
+{
+  "chinese": "天气预报说明天下午会下雨。",
+  "english": "The weather forecast says it will rain tomorrow afternoon.",
+  "pinyin": "tiānqì yùbào shuōmíng tiān xiàwǔ huì xiàyǔ。",
+  "words": [
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiānqì"
+    },
+    {
+      "ch": "预报",
+      "en": "forecast",
+      "pi": "yùbào"
+    },
+    {
+      "ch": "说明",
+      "en": "explain",
+      "pi": "shuōmíng"
+    },
+    {
+      "ch": "天",
+      "en": "day",
+      "pi": "tiān"
+    },
+    {
+      "ch": "下午",
+      "en": "afternoon",
+      "pi": "xiàwǔ"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "下雨",
+      "en": "rain",
+      "pi": "xiàyǔ"
+    }
+  ]
+}

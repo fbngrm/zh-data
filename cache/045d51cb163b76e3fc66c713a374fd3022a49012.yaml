@@ -1,0 +1,47 @@
+{
+  "chinese": "我答應了弟弟教他做功課。",
+  "english": "I promised my younger brother to teach him how to do homework.",
+  "pinyin": "wǒ dāyìngle dìdi jiāo tā zuò gōngkè.",
+  "words": [
+    {
+      "ch":"我",
+      "en":"I",
+      "pi":"wǒ"
+    },
+    {
+      "ch":"答應",
+      "en":"promise",
+      "pi":"dāyìng"
+    },
+    {
+      "ch":"了",
+      "en":"(completed action marker)",
+      "pi":"le"
+    },
+    {
+      "ch":"弟弟",
+      "en":"younger brother",
+      "pi":"dìdi"
+    },
+    {
+      "ch":"教",
+      "en":"teach",
+      "pi":"jiāo"
+    },
+    {
+      "ch":"他",
+      "en":"him",
+      "pi":"tā"
+    },
+    {
+      "ch":"做",
+      "en":"do",
+      "pi":"zuò"
+    },
+    {
+      "ch":"功課",
+      "en":"homework",
+      "pi":"gōngkè"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chinese": "给我一个枕头和毛毯好吗？",
+  "english": "Can I have a pillow and a blanket, please?",
+  "pinyin": "gěi wǒ yīgè zhěntou hé máotǎn hǎo ma?",
+  "words": [
+    {"ch": "给", "en": "give", "pi": "gěi"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "一个", "en": "one", "pi": "yīgè"},
+    {"ch": "枕头", "en": "pillow", "pi": "zhěntou"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "毛毯", "en": "blanket", "pi": "máotǎn"},
+    {"ch": "好", "en": "good", "pi": "hǎo"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆不喜欢这种颜色。",
+  "english": "Tom doesn't like this color.",
+  "pinyin": "tāng mǔ bù xǐ huān zhè zhǒng yán sè。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "不喜欢",
+      "en": "doesn't like",
+      "pi": "bù xǐ huān"
+    },
+    {
+      "ch": "这种",
+      "en": "this kind",
+      "pi": "zhè zhǒng"
+    },
+    {
+      "ch": "颜色",
+      "en": "color",
+      "pi": "yán sè"
+    }
+  ]
+}

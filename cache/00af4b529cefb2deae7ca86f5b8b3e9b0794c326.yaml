@@ -1,0 +1,47 @@
+{
+  "chinese": "这座城市的人口约有１０００００。",
+  "english": "The population of this city is approximately 100,000.",
+  "pinyin": "zhè zuò chéngshì de rénkǒu yuē yǒu yī líng wàn.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "座",
+      "en": "city",
+      "pi": "zuò"
+    },
+    {
+      "ch": "城市",
+      "en": "city",
+      "pi": "chéngshì"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "人口",
+      "en": "population",
+      "pi": "rénkǒu"
+    },
+    {
+      "ch": "约",
+      "en": "approximately",
+      "pi": "yuē"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "１０００００",
+      "en": "100,000",
+      "pi": "yī líng wàn"
+    }
+  ]
+}

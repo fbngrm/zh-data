@@ -1,0 +1,37 @@
+{
+  "chinese": "我和一位朋友住在一起。",
+  "english": "I live with a friend.",
+  "pinyin": "wǒ hé yī wèi péng yǒu zhù zài yī qǐ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "一位",
+      "en": "a",
+      "pi": "yī wèi"
+    },
+    {
+      "ch": "朋友",
+      "en": "friend",
+      "pi": "péng yǒu"
+    },
+    {
+      "ch": "住在",
+      "en": "live",
+      "pi": "zhù zài"
+    },
+    {
+      "ch": "一起",
+      "en": "together",
+      "pi": "yī qǐ"
+    }
+  ]
+}

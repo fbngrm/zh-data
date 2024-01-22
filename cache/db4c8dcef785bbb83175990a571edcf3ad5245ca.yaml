@@ -1,0 +1,32 @@
+{
+  "chinese": "你为什么这么晚回家？",
+  "english": "Why are you coming home so late?",
+  "pinyin": "nǐ wèi shénme zhème wǎn huí jiā？",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "为什么",
+      "en": "why",
+      "pi": "wèi shénme"
+    },
+    {
+      "ch": "这么",
+      "en": "so",
+      "pi": "zhème"
+    },
+    {
+      "ch": "晚",
+      "en": "late",
+      "pi": "wǎn"
+    },
+    {
+      "ch": "回家",
+      "en": "come home",
+      "pi": "huí jiā"
+    }
+  ]
+}

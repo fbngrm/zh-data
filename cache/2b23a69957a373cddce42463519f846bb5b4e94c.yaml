@@ -1,0 +1,11 @@
+{
+  "chinese": "列车晚到了十分钟。",
+  "english": "The train is ten minutes late.",
+  "pinyin": "liè chē wǎn dào le shí fēn zhōng。",
+  "words": [
+    {"ch": "列车", "en": "train", "pi": "liè chē"},
+    {"ch": "晚到", "en": "late", "pi": "wǎn dào"},
+    {"ch": "了", "en": "is", "pi": "le"},
+    {"ch": "十分钟", "en": "ten minutes", "pi": "shí fēn zhōng"}
+  ]
+}

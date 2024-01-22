@@ -1,0 +1,37 @@
+{
+  "chinese": "我打电话订了个披萨。",
+  "english": "I made a phone call to order a pizza.",
+  "pinyin": "wǒ dǎ diàn huà dìng le gè pī sà.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "打电话",
+      "en": "made a phone call",
+      "pi": "dǎ diàn huà"
+    },
+    {
+      "ch": "订",
+      "en": "to order",
+      "pi": "dìng"
+    },
+    {
+      "ch": "了",
+      "en": "a",
+      "pi": "le"
+    },
+    {
+      "ch": "个",
+      "en": "one",
+      "pi": "gè"
+    },
+    {
+      "ch": "披萨",
+      "en": "pizza",
+      "pi": "pī sà"
+    }
+  ]
+}

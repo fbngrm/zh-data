@@ -1,0 +1,37 @@
+{
+  "chinese": "她明年会去美国吗?",
+  "english": "Will she go to the United States next year?",
+  "pinyin": "Tā míngnián huì qù Měiguó ma?",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "明年",
+      "en": "next year",
+      "pi": "míngnián"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "去",
+      "en": "go to",
+      "pi": "qù"
+    },
+    {
+      "ch": "美国",
+      "en": "United States",
+      "pi": "Měiguó"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "sentences": [
+    {
+      "chinese": "Ｊｕｍａ会和Ｈａｓａｎｉ一起去赶集么？",
+      "english": "Will Juma go to the market with Hasani?",
+      "pinyin": "Juma huì hé Hasani yīqǐ qù gǎnjí ma?",
+      "words": [
+        {
+          "ch": "Ｊｕｍａ",
+          "en": "Juma",
+          "pi": "Juma"
+        },
+        {
+          "ch": "会",
+          "en": "will",
+          "pi": "huì"
+        },
+        {
+          "ch": "和",
+          "en": "with",
+          "pi": "hé"
+        },
+        {
+          "ch": "Ｈａｓａｎｉ",
+          "en": "Hasani",
+          "pi": "Hasani"
+        },
+        {
+          "ch": "一起",
+          "en": "together",
+          "pi": "yīqǐ"
+        },
+        {
+          "ch": "去",
+          "en": "go",
+          "pi": "qù"
+        },
+        {
+          "ch": "赶集",
+          "en": "to the market",
+          "pi": "gǎnjí"
+        },
+        {
+          "ch": "么",
+          "en": "?",
+          "pi": "ma"
+        }
+      ]
+    },
+    {
+      "chinese": "不，他会一个人去。",
+      "english": "No, he will go alone.",
+      "pinyin": "Bù, tā huì yīgèrén qù.",
+      "words": [
+        {
+          "ch": "不",
+          "en": "No",
+          "pi": "Bù"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": ","
+        },
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "会",
+          "en": "will",
+          "pi": "huì"
+        },
+        {
+          "ch": "一个人",
+          "en": "alone",
+          "pi": "yīgèrén"
+        },
+        {
+          "ch": "去",
+          "en": "go",
+          "pi": "qù"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "学生们其中的一个今天没来。",
+  "english": "One of the students didn't come today.",
+  "pinyin": "xuéshēng men qízhōng de yīgè jīntiān méi lái.",
+  "words": [
+    {
+      "ch": "学生们",
+      "en": "students",
+      "pi": "xuéshēng men"
+    },
+    {
+      "ch": "其中",
+      "en": "among",
+      "pi": "qízhōng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "一个",
+      "en": "one",
+      "pi": "yīgè"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "没来",
+      "en": "didn't come",
+      "pi": "méi lái"
+    }
+  ]
+}

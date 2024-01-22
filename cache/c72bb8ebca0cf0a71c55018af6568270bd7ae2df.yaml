@@ -1,0 +1,32 @@
+{
+  "chinese": "我想汤姆不会来。",
+  "english": "I don't think Tom will come.",
+  "pinyin": "wǒ xiǎng tāng mǔ bú huì lái.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "think",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "不会",
+      "en": "will not",
+      "pi": "bú huì"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    }
+  ]
+}

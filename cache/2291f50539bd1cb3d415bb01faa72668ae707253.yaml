@@ -1,0 +1,47 @@
+{
+  "chinese": "这只狗长的像匹马。",
+  "english": "This dog looks like a horse.",
+  "pinyin": "zhè zhī gǒu zhǎng de xiàng pǐ mǎ.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "只",
+      "en": "measure word",
+      "pi": "zhī"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "长",
+      "en": "looks",
+      "pi": "zhǎng"
+    },
+    {
+      "ch": "的",
+      "en": "like",
+      "pi": "de"
+    },
+    {
+      "ch": "像",
+      "en": "similar to",
+      "pi": "xiàng"
+    },
+    {
+      "ch": "匹",
+      "en": "measure word",
+      "pi": "pǐ"
+    },
+    {
+      "ch": "马",
+      "en": "horse",
+      "pi": "mǎ"
+    }
+  ]
+}

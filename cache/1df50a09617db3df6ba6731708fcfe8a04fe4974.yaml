@@ -1,0 +1,32 @@
+{
+  "chinese": "请问公车站该怎么去？",
+  "english": "Excuse me, how do I get to the bus station?",
+  "pinyin": "Qǐngwèn gōngchē zhàn gāi zěnme qù?",
+  "words": [
+    {
+      "ch": "请问",
+      "en": "Excuse me",
+      "pi": "qǐngwèn"
+    },
+    {
+      "ch": "公车站",
+      "en": "bus station",
+      "pi": "gōngchē zhàn"
+    },
+    {
+      "ch": "该",
+      "en": "how to",
+      "pi": "gāi"
+    },
+    {
+      "ch": "怎么",
+      "en": "how",
+      "pi": "zěnme"
+    },
+    {
+      "ch": "去",
+      "en": "go to",
+      "pi": "qù"
+    }
+  ]
+}

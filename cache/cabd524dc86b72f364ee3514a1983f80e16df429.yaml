@@ -1,0 +1,32 @@
+{
+  "chinese": "村里有两头母牛。",
+  "english": "There are two cows in the village.",
+  "pinyin": "Cūn lǐ yǒu liǎng tóu mǔ niú.",
+  "words": [
+    {
+      "ch": "村里",
+      "en": "in the village",
+      "pi": "cūn lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "两",
+      "en": "two",
+      "pi": "liǎng"
+    },
+    {
+      "ch": "头",
+      "en": "measure word (for animals)",
+      "pi": "tóu"
+    },
+    {
+      "ch": "母牛",
+      "en": "cows",
+      "pi": "mǔ niú"
+    }
+  ]
+}

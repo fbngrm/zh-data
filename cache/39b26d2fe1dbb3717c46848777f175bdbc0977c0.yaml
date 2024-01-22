@@ -1,0 +1,32 @@
+{
+  "chinese": "这件大衣十分适合你。",
+  "english": "This coat suits you very well.",
+  "pinyin": "zhè jiàn dàyī shífēn shìhé nǐ。",
+  "words": [
+    {
+      "ch": "这件",
+      "en": "This",
+      "pi": "zhè jiàn"
+    },
+    {
+      "ch": "大衣",
+      "en": "coat",
+      "pi": "dàyī"
+    },
+    {
+      "ch": "十分",
+      "en": "very",
+      "pi": "shífēn"
+    },
+    {
+      "ch": "适合",
+      "en": "suits",
+      "pi": "shìhé"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    }
+  ]
+}

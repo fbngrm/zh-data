@@ -1,0 +1,52 @@
+{
+  "chinese": "汤姆和玛丽已经在这里待了三个小时。",
+  "english": "Tom and Mary have been here for three hours.",
+  "pinyin": "Tāng mǔ hé mǎ lì yǐ jīng zài zhè lǐ dài le sān gè xiǎo shí。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "已经",
+      "en": "have",
+      "pi": "yǐ jīng"
+    },
+    {
+      "ch": "在这里",
+      "en": "here",
+      "pi": "zài zhè lǐ"
+    },
+    {
+      "ch": "待",
+      "en": "been",
+      "pi": "dài"
+    },
+    {
+      "ch": "了",
+      "en": "for",
+      "pi": "le"
+    },
+    {
+      "ch": "三个",
+      "en": "three",
+      "pi": "sān gè"
+    },
+    {
+      "ch": "小时",
+      "en": "hours",
+      "pi": "xiǎo shí"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "sentences": [
+    {
+      "chinese": "Ｔａｔｏｅｂａ现在有六句蒙古语的句子。",
+      "english": "Tatoeba now has six sentences in Mongolian.",
+      "pinyin": "Tatoebǎ xiànzài yǒu liù jù Ménggǔyǔ de jùzi.",
+      "words": [
+        {
+          "ch": "Ｔａｔｏｅｂａ",
+          "en": "Tatoeba",
+          "pi": "Tatoebǎ"
+        },
+        {
+          "ch": "现在",
+          "en": "now",
+          "pi": "xiànzài"
+        },
+        {
+          "ch": "有",
+          "en": "has",
+          "pi": "yǒu"
+        },
+        {
+          "ch": "六",
+          "en": "six",
+          "pi": "liù"
+        },
+        {
+          "ch": "句",
+          "en": "sentences",
+          "pi": "jù"
+        },
+        {
+          "ch": "蒙古语",
+          "en": "Mongolian",
+          "pi": "Ménggǔyǔ"
+        },
+        {
+          "ch": "的",
+          "en": "in",
+          "pi": "de"
+        },
+        {
+          "ch": "句子",
+          "en": "sentences",
+          "pi": "jùzi"
+        }
+      ]
+    }
+  ]
+}

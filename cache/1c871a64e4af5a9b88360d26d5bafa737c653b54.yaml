@@ -1,0 +1,32 @@
+{
+  "chinese": "他听到某人叫救命。",
+  "english": "He heard someone shout for help.",
+  "pinyin": "tā tīng dào mǒu rén jiào jiù mìng。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "听到",
+      "en": "heard",
+      "pi": "tīng dào"
+    },
+    {
+      "ch": "某人",
+      "en": "someone",
+      "pi": "mǒu rén"
+    },
+    {
+      "ch": "叫",
+      "en": "shout",
+      "pi": "jiào"
+    },
+    {
+      "ch": "救命",
+      "en": "help",
+      "pi": "jiù mìng"
+    }
+  ]
+}

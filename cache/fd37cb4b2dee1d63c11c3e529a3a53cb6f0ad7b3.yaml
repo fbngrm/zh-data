@@ -1,0 +1,47 @@
+{
+   "chinese":"这种昆虫在英语中叫什么？",
+   "english":"What is this insect called in English?",
+   "pinyin":"zhè zhǒng kūn chóng zài yīng yǔ zhōng jiào shén me?",
+   "words":[
+      {
+         "ch":"这种",
+         "en":"this",
+         "pi":"zhè zhǒng"
+      },
+      {
+         "ch":"昆虫",
+         "en":"insect",
+         "pi":"kūn chóng"
+      },
+      {
+         "ch":"在",
+         "en":"in",
+         "pi":"zài"
+      },
+      {
+         "ch":"英语",
+         "en":"English",
+         "pi":"yīng yǔ"
+      },
+      {
+         "ch":"中",
+         "en":"in",
+         "pi":"zhōng"
+      },
+      {
+         "ch":"叫",
+         "en":"called",
+         "pi":"jiào"
+      },
+      {
+         "ch":"什么",
+         "en":"what",
+         "pi":"shén me"
+      },
+      {
+         "ch":"？",
+         "en":"?",
+         "pi":"?"
+      }
+   ]
+}

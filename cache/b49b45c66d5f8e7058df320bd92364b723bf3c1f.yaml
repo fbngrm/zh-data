@@ -1,0 +1,32 @@
+{
+  "chinese": "我明天会去美国。",
+  "english": "I will go to the United States tomorrow.",
+  "pinyin": "wǒ míngtiān huì qù měiguó.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "美国",
+      "en": "United States",
+      "pi": "měiguó"
+    }
+  ]
+}

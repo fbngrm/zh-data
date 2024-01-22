@@ -1,0 +1,42 @@
+{
+  "chinese": "我是你的，而你是我的。",
+  "english": "I am yours, and you are mine.",
+  "pinyin": "wǒ shì nǐ de, ér nǐ shì wǒ de.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "是",
+      "en": "am",
+      "pi": "shì"
+    },
+    {
+      "ch": "你的",
+      "en": "yours",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "而",
+      "en": "and",
+      "pi": "ér"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "我的",
+      "en": "mine",
+      "pi": "wǒ de"
+    }
+  ]
+}

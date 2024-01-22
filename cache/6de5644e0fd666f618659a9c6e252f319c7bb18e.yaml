@@ -1,0 +1,37 @@
+{
+  "chinese": "我能叫你Ｂｏｂ吗？",
+  "english": "Can I call you Bob?",
+  "pinyin": "wǒ néng jiào nǐ B o b ma?",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "叫",
+      "en": "call",
+      "pi": "jiào"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "Ｂｏｂ",
+      "en": "Bob",
+      "pi": "B o b"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

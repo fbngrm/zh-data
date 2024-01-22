@@ -1,0 +1,32 @@
+{
+  "chinese": "我提供了他食物。",
+  "english": "I provided him with food.",
+  "pinyin": "wǒ tí gōng le tā shí wù。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "提供",
+      "en": "provide",
+      "pi": "tí gōng"
+    },
+    {
+      "ch": "了",
+      "en": "past tense marker",
+      "pi": "le"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    },
+    {
+      "ch": "食物",
+      "en": "food",
+      "pi": "shí wù"
+    }
+  ]
+}

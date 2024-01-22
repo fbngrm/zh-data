@@ -1,0 +1,13 @@
+{
+  "chinese": "你今天有看电视吗？",
+  "english": "Did you watch TV today?",
+  "pinyin": "Nǐ jīntiān yǒu kàn diànshì ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "今天", "en": "today", "pi": "jīntiān"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "看", "en": "watch", "pi": "kàn"},
+    {"ch": "电视", "en": "TV", "pi": "diànshì"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

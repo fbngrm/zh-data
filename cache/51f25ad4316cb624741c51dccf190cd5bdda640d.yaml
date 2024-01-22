@@ -1,0 +1,32 @@
+{
+  "chinese": "因为我，汤姆在这里。",
+  "english": "Because of me, Tom is here.",
+  "pinyin": "yīnwèi wǒ, tāngmǔ zài zhèlǐ.",
+  "words": [
+    {
+      "ch": "因为",
+      "en": "because",
+      "pi": "yīnwèi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāngmǔ"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhèlǐ"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "chinese": "这是一家专门为学生提供服务的商店。",
+  "english": "This is a shop dedicated to providing services for students.",
+  "pinyin": "zhè shì yī jiā zhuān mén wèi xué shēng tí gōng fú wù de shāng diàn。",
+  "words": [
+    {"ch": "这", "en": "this", "pi": "zhè" },
+    {"ch": "是", "en": "is", "pi": "shì" },
+    {"ch": "一", "en": "a", "pi": "yī" },
+    {"ch": "家", "en": "shop", "pi": "jiā" },
+    {"ch": "专门", "en": "dedicated", "pi": "zhuān mén" },
+    {"ch": "为", "en": "to", "pi": "wèi" },
+    {"ch": "学生", "en": "students", "pi": "xué shēng" },
+    {"ch": "提供", "en": "providing", "pi": "tí gōng" },
+    {"ch": "服务", "en": "services", "pi": "fú wù" },
+    {"ch": "的", "en": "for", "pi": "de" },
+    {"ch": "商店", "en": "shop", "pi": "shāng diàn" }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chinese": "再来点蛋糕吗？",
+  "english": "Would you like some more cake?",
+  "pinyin": "zài lái diǎn dàngāo ma?",
+  "words": [
+    {"ch": "再", "en": "again", "pi": "zài"},
+    {"ch": "来", "en": "come", "pi": "lái"},
+    {"ch": "点", "en": "some", "pi": "diǎn"},
+    {"ch": "蛋糕", "en": "cake", "pi": "dàngāo"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

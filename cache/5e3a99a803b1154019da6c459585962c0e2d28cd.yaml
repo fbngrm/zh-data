@@ -1,0 +1,48 @@
+{
+  "sentences": [
+    {
+      "chinese": "我想要按摩。",
+      "english": "I want a massage.",
+      "pinyin": "wǒ xiǎng yào àn mó。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "想要",
+          "en": "want",
+          "pi": "xiǎng yào"
+        },
+        {
+          "ch": "按摩",
+          "en": "massage",
+          "pi": "àn mó"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要放松。",
+      "english": "I need to relax.",
+      "pinyin": "wǒ xū yào fàng sōng。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "需要",
+          "en": "need",
+          "pi": "xū yào"
+        },
+        {
+          "ch": "放松",
+          "en": "to relax",
+          "pi": "fàng sōng"
+        }
+      ]
+    }
+  ]
+}

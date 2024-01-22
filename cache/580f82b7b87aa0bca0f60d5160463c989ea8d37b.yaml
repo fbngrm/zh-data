@@ -1,0 +1,32 @@
+{
+  "chinese": "你现在在哪里呢？",
+  "english": "Where are you now?",
+  "pinyin": "nǐ xiàn zài zài nǎ lǐ ne?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "在",
+      "en": "are",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪里",
+      "en": "where",
+      "pi": "nǎ lǐ"
+    },
+    {
+      "ch": "呢",
+      "en": "question particle",
+      "pi": "ne"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "去医院要坐哪一路公交？",
+  "english": "Which bus should I take to the hospital?",
+  "pinyin": "qù yīyuàn yào zuò nǎ yīlù gōngjiāo?",
+  "words": [
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "医院", "en": "hospital", "pi": "yīyuàn"},
+    {"ch": "要", "en": "should", "pi": "yào"},
+    {"ch": "坐", "en": "take", "pi": "zuò"},
+    {"ch": "哪", "en": "which", "pi": "nǎ"},
+    {"ch": "一路", "en": "bus route", "pi": "yīlù"},
+    {"ch": "公交", "en": "bus", "pi": "gōngjiāo"}
+  ]
+}

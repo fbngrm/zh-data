@@ -1,0 +1,42 @@
+{
+  "chinese": "我建议你别太相信汤姆。",
+  "english": "I suggest you not to trust Tom too much.",
+  "pinyin": "wǒ jiànyì nǐ bié tài xiāngxìn tāng mǔ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "建议",
+      "en": "suggest",
+      "pi": "jiànyì"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "别",
+      "en": "not",
+      "pi": "bié"
+    },
+    {
+      "ch": "太",
+      "en": "too",
+      "pi": "tài"
+    },
+    {
+      "ch": "相信",
+      "en": "trust",
+      "pi": "xiāngxìn"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    }
+  ]
+}

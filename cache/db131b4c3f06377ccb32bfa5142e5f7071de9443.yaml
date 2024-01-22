@@ -1,0 +1,37 @@
+{
+  "chinese": "我今天下午会很忙。",
+  "english": "I will be busy this afternoon.",
+  "pinyin": "wǒ jīntiān xiàwǔ huì hěn máng。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "下午",
+      "en": "afternoon",
+      "pi": "xiàwǔ"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "很",
+      "en": "be",
+      "pi": "hěn"
+    },
+    {
+      "ch": "忙",
+      "en": "busy",
+      "pi": "máng"
+    }
+  ]
+}

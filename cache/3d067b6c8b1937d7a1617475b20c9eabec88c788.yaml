@@ -1,0 +1,100 @@
+{
+   "sentences":[
+      {
+         "chinese":"喂，宿舍甚么时候锁门？",
+         "english":"Hey, what time does the dormitory lock the door?",
+         "pinyin":"Wèi, sùshè shénme shíhou suǒmén?",
+         "words":[
+            {
+               "ch":"喂",
+               "en":"Hey",
+               "pi":"Wèi"
+            },
+            {
+               "ch":"宿舍",
+               "en":"dormitory",
+               "pi":"sùshè"
+            },
+            {
+               "ch":"甚么",
+               "en":"what",
+               "pi":"shénme"
+            },
+            {
+               "ch":"时候",
+               "en":"time",
+               "pi":"shíhou"
+            },
+            {
+               "ch":"锁门",
+               "en":"lock the door",
+               "pi":"suǒmén"
+            }
+         ]
+      },
+      {
+         "chinese":"九点。",
+         "english":"Nine o'clock.",
+         "pinyin":"jiǔ diǎn.",
+         "words":[
+            {
+               "ch":"九点",
+               "en":"Nine o'clock",
+               "pi":"jiǔ diǎn"
+            }
+         ]
+      },
+      {
+         "chinese":"糟了，我们不跑回去的话就赶不及了！",
+         "english":"Oh no, if we don't run back, we'll be late!",
+         "pinyin":"Zāole, wǒmen bù pǎo huíqù de huà jiù gǎnbùjíle!",
+         "words":[
+            {
+               "ch":"糟了",
+               "en":"Oh no",
+               "pi":"Zāole"
+            },
+            {
+               "ch":"我们",
+               "en":"we",
+               "pi":"wǒmen"
+            },
+            {
+               "ch":"不",
+               "en":"don't",
+               "pi":"bù"
+            },
+            {
+               "ch":"跑",
+               "en":"run",
+               "pi":"pǎo"
+            },
+            {
+               "ch":"回去",
+               "en":"back",
+               "pi":"huíqù"
+            },
+            {
+               "ch":"的话",
+               "en":"if",
+               "pi":"de huà"
+            },
+            {
+               "ch":"就",
+               "en":"will",
+               "pi":"jiù"
+            },
+            {
+               "ch":"赶不及",
+               "en":"be late",
+               "pi":"gǎnbùjí"
+            },
+            {
+               "ch":"了",
+               "en":"",
+               "pi":"le"
+            }
+         ]
+      }
+   ]
+}

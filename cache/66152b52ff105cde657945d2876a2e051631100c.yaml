@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆游泳游得非常快。",
+  "english": "Tom swims very fast.",
+  "pinyin": "Tāng mǔ yóuyǒng yóude fēicháng kuài.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "游泳",
+      "en": "swims",
+      "pi": "yóuyǒng"
+    },
+    {
+      "ch": "游得",
+      "en": "very",
+      "pi": "yóude"
+    },
+    {
+      "ch": "非常",
+      "en": "fast",
+      "pi": "fēicháng"
+    },
+    {
+      "ch": "快",
+      "en": "fast",
+      "pi": "kuài"
+    }
+  ]
+}

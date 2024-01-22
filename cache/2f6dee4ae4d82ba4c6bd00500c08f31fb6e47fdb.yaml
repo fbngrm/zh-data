@@ -1,0 +1,32 @@
+{
+  "chinese": "谁做的这个蛋糕？",
+  "english": "Who made this cake?",
+  "pinyin": "Shuí zuò de zhège dàngāo?",
+  "words": [
+    {
+      "ch": "谁",
+      "en": "Who",
+      "pi": "Shuí"
+    },
+    {
+      "ch": "做",
+      "en": "made",
+      "pi": "zuò"
+    },
+    {
+      "ch": "的",
+      "en": "this",
+      "pi": "de"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhège"
+    },
+    {
+      "ch": "蛋糕",
+      "en": "cake",
+      "pi": "dàngāo"
+    }
+  ]
+}

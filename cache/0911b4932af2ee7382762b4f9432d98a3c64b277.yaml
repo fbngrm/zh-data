@@ -1,0 +1,47 @@
+{
+  "chinese": "汤姆和我每天都在学校见面。",
+  "english": "Tom and I meet at the school every day.",
+  "pinyin": "Tāng mǔ hé wǒ měi tiān dōu zài xué xiào jiàn miàn.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "学校",
+      "en": "school",
+      "pi": "xué xiào"
+    },
+    {
+      "ch": "见面",
+      "en": "meet",
+      "pi": "jiàn miàn"
+    }
+  ]
+}

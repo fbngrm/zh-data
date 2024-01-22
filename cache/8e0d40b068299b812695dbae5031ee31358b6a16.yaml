@@ -1,0 +1,32 @@
+{
+  "chinese": "他晚回来了两天。",
+  "english": "He came back two days late.",
+  "pinyin": "tā wǎn huí lái le liǎng tiān。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "晚",
+      "en": "late",
+      "pi": "wǎn"
+    },
+    {
+      "ch": "回来",
+      "en": "come back",
+      "pi": "huí lái"
+    },
+    {
+      "ch": "了",
+      "en": "indicating a completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "两天",
+      "en": "two days",
+      "pi": "liǎng tiān"
+    }
+  ]
+}

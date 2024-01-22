@@ -1,0 +1,47 @@
+{
+  "chinese": "我和往常一样起得很早。",
+  "english": "I woke up early as usual.",
+  "pinyin": "wǒ hé wǎng cháng yí yàng qǐ dé hěn zǎo。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "往常",
+      "en": "as usual",
+      "pi": "wǎng cháng"
+    },
+    {
+      "ch": "一样",
+      "en": "the same",
+      "pi": "yí yàng"
+    },
+    {
+      "ch": "起",
+      "en": "wake up",
+      "pi": "qǐ"
+    },
+    {
+      "ch": "得",
+      "en": "verb complement",
+      "pi": "dé"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "早",
+      "en": "early",
+      "pi": "zǎo"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "你卧室里有电视吗？",
+  "english": "Do you have a TV in your bedroom?",
+  "pinyin": "nǐ wòshì lǐ yǒu diànshì ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "卧室",
+      "en": "bedroom",
+      "pi": "wòshì"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "电视",
+      "en": "TV",
+      "pi": "diànshì"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

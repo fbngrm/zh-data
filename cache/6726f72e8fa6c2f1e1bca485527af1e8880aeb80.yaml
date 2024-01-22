@@ -1,0 +1,32 @@
+{
+  "chinese": "你不是我的朋友了。",
+  "english": "You are no longer my friend.",
+  "pinyin": "nǐ bù shì wǒ de péngyǒu le.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "不是",
+      "en": "not",
+      "pi": "bù shì"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "朋友",
+      "en": "friend",
+      "pi": "péngyǒu"
+    },
+    {
+      "ch": "了",
+      "en": "no longer",
+      "pi": "le"
+    }
+  ]
+}

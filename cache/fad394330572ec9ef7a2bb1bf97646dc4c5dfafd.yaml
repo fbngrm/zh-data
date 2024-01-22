@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆带他的狗出去走。",
+  "english": "Tom takes his dog for a walk.",
+  "pinyin": "Tāng mǔ dài tā de gǒu chūqù zǒu.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "带",
+      "en": "takes",
+      "pi": "dài"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "出去",
+      "en": "for a walk",
+      "pi": "chūqù"
+    },
+    {
+      "ch": "走",
+      "en": "walk",
+      "pi": "zǒu"
+    }
+  ]
+}

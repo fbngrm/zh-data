@@ -1,0 +1,32 @@
+{
+  "chinese": "医生决定立刻动手术。",
+  "english": "The doctor decided to perform the operation immediately.",
+  "pinyin": "yī shēng jué dìng lì kè dòng shǒu shù。",
+  "words": [
+    {
+      "ch": "医生",
+      "en": "doctor",
+      "pi": "yī shēng"
+    },
+    {
+      "ch": "决定",
+      "en": "decide",
+      "pi": "jué dìng"
+    },
+    {
+      "ch": "立刻",
+      "en": "immediately",
+      "pi": "lì kè"
+    },
+    {
+      "ch": "动",
+      "en": "to move",
+      "pi": "dòng"
+    },
+    {
+      "ch": "手术",
+      "en": "operation",
+      "pi": "shǒu shù"
+    }
+  ]
+}

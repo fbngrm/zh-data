@@ -1,0 +1,12 @@
+{
+  "chinese": "你听过这首曲子吗？",
+  "english": "Have you heard this melody?",
+  "pinyin": "nǐ tīng guò zhè shǒu qǔ zǐ ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "听过", "en": "heard", "pi": "tīng guò"},
+    {"ch": "这首", "en": "this", "pi": "zhè shǒu"},
+    {"ch": "曲子", "en": "melody", "pi": "qǔ zǐ"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

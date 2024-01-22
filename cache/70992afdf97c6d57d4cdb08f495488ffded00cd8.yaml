@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆帮我叫了辆计程车。",
+  "english": "Tom helped me call a taxi.",
+  "pinyin": "Tāng mǔ bāng wǒ jiào le liàng jì ché.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "帮",
+      "en": "help",
+      "pi": "bāng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "叫",
+      "en": "call",
+      "pi": "jiào"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "辆",
+      "en": "a",
+      "pi": "liàng"
+    },
+    {
+      "ch": "计程车",
+      "en": "taxi",
+      "pi": "jì ché"
+    }
+  ]
+}

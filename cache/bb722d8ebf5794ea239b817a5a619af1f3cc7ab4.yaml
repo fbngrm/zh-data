@@ -1,0 +1,47 @@
+{
+  "chinese": "你明天早上七点可不可以叫我起床。",
+  "english": "Can you wake me up at 7 o'clock tomorrow morning?",
+  "pinyin": "nǐ míngtiān zǎoshàng qī diǎn kě bù kěyǐ jiào wǒ qǐchuáng.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎoshàng"
+    },
+    {
+      "ch": "七点",
+      "en": "7 o'clock",
+      "pi": "qī diǎn"
+    },
+    {
+      "ch": "可不可以",
+      "en": "can or not",
+      "pi": "kě bù kěyǐ"
+    },
+    {
+      "ch": "叫",
+      "en": "call",
+      "pi": "jiào"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "起床",
+      "en": "wake up",
+      "pi": "qǐchuáng"
+    }
+  ]
+}

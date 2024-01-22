@@ -1,0 +1,474 @@
+{
+  "sentences": [
+    {
+      "chinese": "２１个月前在寒冬所开始的一切不应当在今天这个秋夜结束。",
+      "english": "Everything that began in the bitter winter 21 months ago should not end on this autumn night.",
+      "pinyin": "èrshí yī gè yuè qián zài hán dōng suǒ kāi shǐ de yī qiē bù yīng dāng zài jīn tiān zhè ge qiū yè jié shù。",
+      "words": [
+        {
+          "ch": "２１个月",
+          "en": "21 months",
+          "pi": "èrshí yī gè yuè"
+        },
+        {
+          "ch": "前",
+          "en": "ago",
+          "pi": "qián"
+        },
+        {
+          "ch": "在",
+          "en": "in",
+          "pi": "zài"
+        },
+        {
+          "ch": "寒冬",
+          "en": "bitter winter",
+          "pi": "hán dōng"
+        },
+        {
+          "ch": "所",
+          "en": "that",
+          "pi": "suǒ"
+        },
+        {
+          "ch": "开始",
+          "en": "began",
+          "pi": "kāi shǐ"
+        },
+        {
+          "ch": "的",
+          "en": "of",
+          "pi": "de"
+        },
+        {
+          "ch": "一切",
+          "en": "everything",
+          "pi": "yī qiē"
+        },
+        {
+          "ch": "不应当",
+          "en": "should not",
+          "pi": "bù yīng dāng"
+        },
+        {
+          "ch": "在",
+          "en": "on",
+          "pi": "zài"
+        },
+        {
+          "ch": "今天",
+          "en": "today",
+          "pi": "jīn tiān"
+        },
+        {
+          "ch": "这个",
+          "en": "this",
+          "pi": "zhè ge"
+        },
+        {
+          "ch": "秋夜",
+          "en": "autumn night",
+          "pi": "qiū yè"
+        },
+        {
+          "ch": "结束",
+          "en": "end",
+          "pi": "jié shù"
+        }
+      ]
+    },
+    {
+      "chinese": "今天的选举胜利并不是我们所寻求的改变--这只是我们进行改变的机会。",
+      "english": "Today's election victory is not the change we seek - it is only the opportunity for us to make that change.",
+      "pinyin": "jīn tiān de xuǎn jǔ shèng lì bìng bú shì wǒ men suǒ xún qiú de gǎi biàn -- zhè zhǐ shì wǒ men jìn xíng gǎi biàn de jī huì。",
+      "words": [
+        {
+          "ch": "今天",
+          "en": "Today",
+          "pi": "jīn tiān"
+        },
+        {
+          "ch": "的",
+          "en": "of",
+          "pi": "de"
+        },
+        {
+          "ch": "选举",
+          "en": "election",
+          "pi": "xuǎn jǔ"
+        },
+        {
+          "ch": "胜利",
+          "en": "victory",
+          "pi": "shèng lì"
+        },
+        {
+          "ch": "并不是",
+          "en": "is not",
+          "pi": "bìng bú shì"
+        },
+        {
+          "ch": "我们",
+          "en": "we",
+          "pi": "wǒ men"
+        },
+        {
+          "ch": "所",
+          "en": "that",
+          "pi": "suǒ"
+        },
+        {
+          "ch": "寻求",
+          "en": "seek",
+          "pi": "xún qiú"
+        },
+        {
+          "ch": "的",
+          "en": "the",
+          "pi": "de"
+        },
+        {
+          "ch": "改变",
+          "en": "change",
+          "pi": "gǎi biàn"
+        },
+        {
+          "ch": "--",
+          "en": "-",
+          "pi": "--"
+        },
+        {
+          "ch": "这只是",
+          "en": "it is only",
+          "pi": "zhè zhǐ shì"
+        },
+        {
+          "ch": "我们",
+          "en": "us",
+          "pi": "wǒ men"
+        },
+        {
+          "ch": "进行",
+          "en": "to make",
+          "pi": "jìn xíng"
+        },
+        {
+          "ch": "改变",
+          "en": "change",
+          "pi": "gǎi biàn"
+        },
+        {
+          "ch": "的",
+          "en": "the",
+          "pi": "de"
+        },
+        {
+          "ch": "机会",
+          "en": "opportunity",
+          "pi": "jī huì"
+        }
+      ]
+    },
+    {
+      "chinese": "如果我们仍然按照过去的方式行事，我们所寻求的改变将不会发生。",
+      "english": "If we continue to act in the same way as before, the change we seek will not happen.",
+      "pinyin": "rú guǒ wǒ men réng rán àn zhào guò qù de fāng shì xíng shì， wǒ men suǒ xún qiú de gǎi biàn jiāng bú huì fā shēng。",
+      "words": [
+        {
+          "ch": "如果",
+          "en": "If",
+          "pi": "rú guǒ"
+        },
+        {
+          "ch": "我们",
+          "en": "we",
+          "pi": "wǒ men"
+        },
+        {
+          "ch": "仍然",
+          "en": "continue to",
+          "pi": "réng rán"
+        },
+        {
+          "ch": "按照",
+          "en": "in the same way as",
+          "pi": "àn zhào"
+        },
+        {
+          "ch": "过去",
+          "en": "before",
+          "pi": "guò qù"
+        },
+        {
+          "ch": "的",
+          "en": "of",
+          "pi": "de"
+        },
+        {
+          "ch": "方式",
+          "en": "way",
+          "pi": "fāng shì"
+        },
+        {
+          "ch": "行事",
+          "en": "act",
+          "pi": "xíng shì"
+        },
+        {
+          "ch": "我们",
+          "en": "we",
+          "pi": "wǒ men"
+        },
+        {
+          "ch": "所",
+          "en": "that",
+          "pi": "suǒ"
+        },
+        {
+          "ch": "寻求",
+          "en": "seek",
+          "pi": "xún qiú"
+        },
+        {
+          "ch": "的",
+          "en": "the",
+          "pi": "de"
+        },
+        {
+          "ch": "改变",
+          "en": "change",
+          "pi": "gǎi biàn"
+        },
+        {
+          "ch": "将",
+          "en": "will",
+          "pi": "jiāng"
+        },
+        {
+          "ch": "不会",
+          "en": "not happen",
+          "pi": "bú huì"
+        },
+        {
+          "ch": "发生",
+          "en": "happen",
+          "pi": "fā shēng"
+        }
+      ]
+    },
+    {
+      "chinese": "没有你们，没有服务和牺牲的新精神，就不可能发生改变。",
+      "english": "Without you, without the spirit of service and sacrifice, change is not possible.",
+      "pinyin": "méi yǒu nǐ men，méi yǒu fú wù hé xī shēng de xīn jīng shén，jiù bù kě néng fā shēng gǎi biàn。",
+      "words": [
+        {
+          "ch": "没有",
+          "en": "Without",
+          "pi": "méi yǒu"
+        },
+        {
+          "ch": "你们",
+          "en": "you",
+          "pi": "nǐ men"
+        },
+        {
+          "ch": "没有",
+          "en": "without",
+          "pi": "méi yǒu"
+        },
+        {
+          "ch": "服务",
+          "en": "service",
+          "pi": "fú wù"
+        },
+        {
+          "ch": "和",
+          "en": "and",
+          "pi": "hé"
+        },
+        {
+          "ch": "牺牲",
+          "en": "sacrifice",
+          "pi": "xī shēng"
+        },
+        {
+          "ch": "的",
+          "en": "of",
+          "pi": "de"
+        },
+        {
+          "ch": "新",
+          "en": "new",
+          "pi": "xīn"
+        },
+        {
+          "ch": "精神",
+          "en": "spirit",
+          "pi": "jīng shén"
+        },
+        {
+          "ch": "就",
+          "en": "is",
+          "pi": "jiù"
+        },
+        {
+          "ch": "不可能",
+          "en": "not possible",
+          "pi": "bù kě néng"
+        },
+        {
+          "ch": "发生",
+          "en": "change",
+          "pi": "fā shēng"
+        }
+      ]
+    },
+    {
+      "chinese": "因此，让我们发扬新的爱国和负责精神，所有的人都下定决心参与其中，更加努力地工作，不仅是为自己而是为彼此。",
+      "english": "Therefore, let us carry forward the new spirit of patriotism and responsibility, and let everyone make a firm commitment to participate, work harder, not only for ourselves but also for each other.",
+      "pinyin": "yīn cǐ，ràng wǒ men fā yáng xīn de ài guó hé fù zé jīng shén，suǒ yǒu de rén dōu xià dìng jué xīn cān yù qí zhōng，gèng jiā nǔ lì de gōng zuò，bú jǐn shì wèi zì jǐ ér shì wèi bǐ cǐ。",
+      "words": [
+        {
+          "ch": "因此",
+          "en": "Therefore",
+          "pi": "yīn cǐ"
+        },
+        {
+          "ch": "让",
+          "en": "let",
+          "pi": "ràng"
+        },
+        {
+          "ch": "我们",
+          "en": "us",
+          "pi": "wǒ men"
+        },
+        {
+          "ch": "发扬",
+          "en": "carry forward",
+          "pi": "fā yáng"
+        },
+        {
+          "ch": "新",
+          "en": "new",
+          "pi": "xīn"
+        },
+        {
+          "ch": "的",
+          "en": "of",
+          "pi": "de"
+        },
+        {
+          "ch": "爱国",
+          "en": "patriotism",
+          "pi": "ài guó"
+        },
+        {
+          "ch": "和",
+          "en": "and",
+          "pi": "hé"
+        },
+        {
+          "ch": "负责",
+          "en": "responsibility",
+          "pi": "fù zé"
+        },
+        {
+          "ch": "精神",
+          "en": "spirit",
+          "pi": "jīng shén"
+        },
+        {
+          "ch": "所有",
+          "en": "everyone",
+          "pi": "suǒ yǒu"
+        },
+        {
+          "ch": "的",
+          "en": "of",
+          "pi": "de"
+        },
+        {
+          "ch": "人",
+          "en": "people",
+          "pi": "rén"
+        },
+        {
+          "ch": "都",
+          "en": "all",
+          "pi": "dōu"
+        },
+        {
+          "ch": "下定决心",
+          "en": "make a firm commitment",
+          "pi": "xià dìng jué xīn"
+        },
+        {
+          "ch": "参与",
+          "en": "participate",
+          "pi": "cān yù"
+        },
+        {
+          "ch": "其中",
+          "en": "in",
+          "pi": "qí zhōng"
+        },
+        {
+          "ch": "更加",
+          "en": "harder",
+          "pi": "gèng jiā"
+        },
+        {
+          "ch": "努力",
+          "en": "work",
+          "pi": "nǔ lì"
+        },
+        {
+          "ch": "地",
+          "en": "",
+          "pi": "de"
+        },
+        {
+          "ch": "工作",
+          "en": "work",
+          "pi": "gōng zuò"
+        },
+        {
+          "ch": "不仅",
+          "en": "not only",
+          "pi": "bù jǐn"
+        },
+        {
+          "ch": "是",
+          "en": "for",
+          "pi": "shì"
+        },
+        {
+          "ch": "为",
+          "en": "ourselves",
+          "pi": "wèi"
+        },
+        {
+          "ch": "自己",
+          "en": "but also",
+          "pi": "zì jǐ"
+        },
+        {
+          "ch": "而是",
+          "en": "for each other",
+          "pi": "ér shì"
+        },
+        {
+          "ch": "为",
+          "en": "for",
+          "pi": "wèi"
+        },
+        {
+          "ch": "彼此",
+          "en": "each other",
+          "pi": "bǐ cǐ"
+        }
+      ]
+    }
+  ]
+}

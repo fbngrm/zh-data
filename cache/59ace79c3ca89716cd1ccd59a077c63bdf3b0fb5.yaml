@@ -1,0 +1,37 @@
+{
+  "chinese": "玛丽告诉约翰这个秘密了。",
+  "english": "Mary told John this secret.",
+  "pinyin": "Mǎlì gàosù yuē hàn zhège mìmì le.",
+  "words": [
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎlì"
+    },
+    {
+      "ch": "告诉",
+      "en": "told",
+      "pi": "gàosù"
+    },
+    {
+      "ch": "约翰",
+      "en": "John",
+      "pi": "yuē hàn"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhège"
+    },
+    {
+      "ch": "秘密",
+      "en": "secret",
+      "pi": "mìmì"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我问他喜不喜欢中国菜。",
+  "english": "I asked him if he likes Chinese food or not.",
+  "pinyin": "wǒ wèn tā xǐ bù xǐhuān zhōngguó cài.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "问",
+      "en": "ask",
+      "pi": "wèn"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    },
+    {
+      "ch": "喜不喜欢",
+      "en": "like or not",
+      "pi": "xǐ bù xǐhuān"
+    },
+    {
+      "ch": "中国菜",
+      "en": "Chinese food",
+      "pi": "zhōngguó cài"
+    }
+  ]
+}

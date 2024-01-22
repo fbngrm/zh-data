@@ -1,0 +1,15 @@
+{
+  "chinese": "我在草地上直躺下来了。",
+  "english": "I lay down directly on the grass.",
+  "pinyin": "wǒ zài cǎo dì shàng zhí tǎng xià lái le.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "草地", "en": "grass", "pi": "cǎo dì"},
+    {"ch": "上", "en": "on", "pi": "shàng"},
+    {"ch": "直", "en": "directly", "pi": "zhí"},
+    {"ch": "躺", "en": "lie down", "pi": "tǎng"},
+    {"ch": "下来", "en": "down", "pi": "xià lái"},
+    {"ch": "了", "en": "了", "pi": "le"}
+  ]
+}

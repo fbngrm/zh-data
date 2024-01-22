@@ -1,0 +1,27 @@
+{
+  "chinese": "今天沒有昨天潮溼。",
+  "english": "Today is not as humid as yesterday.",
+  "pinyin": "jīn tiān méi yǒu zuó tiān cháo shī。",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "沒有",
+      "en": "not have",
+      "pi": "méi yǒu"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "潮溼",
+      "en": "humid",
+      "pi": "cháo shī"
+    }
+  ]
+}

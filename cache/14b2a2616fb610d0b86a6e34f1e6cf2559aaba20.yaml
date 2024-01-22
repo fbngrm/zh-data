@@ -1,0 +1,32 @@
+{
+  "chinese": "孩子们的房间很乱。",
+  "english": "The children's room is very messy.",
+  "pinyin": "Hái zǐ men de fáng jiān hěn luàn.",
+  "words": [
+    {
+      "ch": "孩子们",
+      "en": "children",
+      "pi": "hái zǐ men"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "房间",
+      "en": "room",
+      "pi": "fáng jiān"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "乱",
+      "en": "messy",
+      "pi": "luàn"
+    }
+  ]
+}

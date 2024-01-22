@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆想让玛丽说爱他。",
+  "english": "Tom wants Mary to say she loves him.",
+  "pinyin": "Tāngmǔ xiǎng ràng Mǎlì shuō ài tā。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "想",
+      "en": "wants",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "让",
+      "en": "to",
+      "pi": "ràng"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎlì"
+    },
+    {
+      "ch": "说",
+      "en": "say",
+      "pi": "shuō"
+    },
+    {
+      "ch": "爱",
+      "en": "love",
+      "pi": "ài"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "宝宝已经会说话了。",
+  "english": "The baby can already speak.",
+  "pinyin": "bǎo bǎo yǐ jīng huì shuō huà le.",
+  "words": [
+    {
+      "ch": "宝宝",
+      "en": "baby",
+      "pi": "bǎo bǎo"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐ jīng"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "说话",
+      "en": "speak",
+      "pi": "shuō huà"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

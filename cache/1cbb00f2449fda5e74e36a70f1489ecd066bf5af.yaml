@@ -1,0 +1,13 @@
+{
+  "chinese": "大坂是日本的商业中心。",
+  "english": "Osaka is the commercial center of Japan.",
+  "pinyin": "Dàsǎn shì Rìběn de shāngyè zhōngxīn.",
+  "words": [
+    { "ch": "大坂", "en": "Osaka", "pi": "Dàsǎn" },
+    { "ch": "是", "en": "is", "pi": "shì" },
+    { "ch": "日本", "en": "Japan", "pi": "Rìběn" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "商业", "en": "commercial", "pi": "shāngyè" },
+    { "ch": "中心", "en": "center", "pi": "zhōngxīn" }
+  ]
+}

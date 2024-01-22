@@ -1,0 +1,13 @@
+{
+  "chinese": "他是数学系的导师。",
+  "english": "He is a supervisor in the mathematics department.",
+  "pinyin": "tā shì shù xué xì de dǎo shī。",
+  "words": [
+    { "ch": "他", "en": "he", "pi": "tā" },
+    { "ch": "是", "en": "is", "pi": "shì" },
+    { "ch": "数学", "en": "mathematics", "pi": "shù xué" },
+    { "ch": "系", "en": "department", "pi": "xì" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "导师", "en": "supervisor", "pi": "dǎo shī" }
+  ]
+}

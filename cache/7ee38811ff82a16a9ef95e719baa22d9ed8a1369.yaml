@@ -1,0 +1,37 @@
+{
+  "chinese": "你想跟汤姆说话吗？",
+  "english": "Do you want to talk to Tom?",
+  "pinyin": "Nǐ xiǎng gēn Tāngmǔ shuōhuà ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "Nǐ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "跟",
+      "en": "to",
+      "pi": "gēn"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "说话",
+      "en": "talk",
+      "pi": "shuōhuà"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

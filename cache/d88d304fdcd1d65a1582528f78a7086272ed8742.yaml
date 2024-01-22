@@ -1,0 +1,13 @@
+{
+  "chinese": "嗨,我要一個炸薄餅卷。",
+  "english": "Hi, I would like a deep-fried pancake roll.",
+  "pinyin": "Hāi, wǒ yào yīgè zhá bó bǐng juǎn。",
+  "words": [
+    {"ch": "嗨", "en": "Hi", "pi": "hāi"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "要", "en": "would like", "pi": "yào"},
+    {"ch": "一個", "en": "a", "pi": "yīgè"},
+    {"ch": "炸", "en": "deep-fried", "pi": "zhá"},
+    {"ch": "薄餅卷", "en": "pancake roll", "pi": "bó bǐng juǎn"}
+  ]
+}

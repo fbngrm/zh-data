@@ -1,0 +1,32 @@
+{
+  "chinese": "你按了按钮吗?",
+  "english": "Did you press the button?",
+  "pinyin": "nǐ àn le àn niǔ mǎ?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "按",
+      "en": "press",
+      "pi": "àn"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "le"
+    },
+    {
+      "ch": "按钮",
+      "en": "button",
+      "pi": "àn niǔ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "mǎ"
+    }
+  ]
+}

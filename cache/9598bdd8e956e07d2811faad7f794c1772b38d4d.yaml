@@ -1,0 +1,27 @@
+{
+  "chinese": "北京今天空气很好。",
+  "english": "The air in Beijing is very good today.",
+  "pinyin": "Běijīng jīntiān kōngqì hěn hǎo.",
+  "words": [
+    {
+      "ch": "北京",
+      "en": "Beijing",
+      "pi": "Běijīng"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "空气",
+      "en": "air",
+      "pi": "kōngqì"
+    },
+    {
+      "ch": "很好",
+      "en": "very good",
+      "pi": "hěn hǎo"
+    }
+  ]
+}

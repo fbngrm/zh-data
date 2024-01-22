@@ -1,0 +1,32 @@
+{
+  "chinese": "海伦正在院子里玩。",
+  "english": "Helen is playing in the yard.",
+  "pinyin": "Hǎi lún zhèng zài yuàn zi lǐ wán.",
+  "words": [
+    {
+      "ch": "海伦",
+      "en": "Helen",
+      "pi": "Hǎi lún"
+    },
+    {
+      "ch": "正在",
+      "en": "is",
+      "pi": "zhèng zài"
+    },
+    {
+      "ch": "院子",
+      "en": "yard",
+      "pi": "yuàn zi"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "玩",
+      "en": "playing",
+      "pi": "wán"
+    }
+  ]
+}

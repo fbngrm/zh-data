@@ -1,0 +1,27 @@
+{
+  "chinese": "警官逮捕了窃贼。",
+  "english": "The police officer arrested the thief.",
+  "pinyin": "jǐng guān dàǐ bǔ le qiè zéi。",
+  "words": [
+    {
+      "ch": "警官",
+      "en": "police officer",
+      "pi": "jǐng guān"
+    },
+    {
+      "ch": "逮捕",
+      "en": "arrest",
+      "pi": "dàǐ bǔ"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "窃贼",
+      "en": "thief",
+      "pi": "qiè zéi"
+    }
+  ]
+}

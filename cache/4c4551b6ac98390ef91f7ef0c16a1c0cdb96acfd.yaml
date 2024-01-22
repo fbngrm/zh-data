@@ -1,0 +1,27 @@
+{
+  "chinese": "这里附近有没有邮箱？",
+  "english": "Is there a mailbox nearby?",
+  "pinyin": "zhè lǐ fù jìn yǒu méi yǒu yóu xiāng?",
+  "words": [
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "附近",
+      "en": "nearby",
+      "pi": "fù jìn"
+    },
+    {
+      "ch": "有没有",
+      "en": "is there",
+      "pi": "yǒu méi yǒu"
+    },
+    {
+      "ch": "邮箱",
+      "en": "mailbox",
+      "pi": "yóu xiāng"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "他有点像他的父亲。",
+  "english": "He looks a bit like his father.",
+  "pinyin": "tā yǒudiǎn xiàng tā de fùqīn.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "有点",
+      "en": "a bit",
+      "pi": "yǒudiǎn"
+    },
+    {
+      "ch": "像",
+      "en": "like",
+      "pi": "xiàng"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "父亲",
+      "en": "father",
+      "pi": "fùqīn"
+    }
+  ]
+}

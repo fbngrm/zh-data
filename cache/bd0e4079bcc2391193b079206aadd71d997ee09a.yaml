@@ -1,0 +1,19 @@
+{
+  "chinese": "我父母在的时候，请你言语注意分寸。",
+  "english": "Please be mindful of your words when my parents are around.",
+  "pinyin": "wǒ fù mǔ zài de shí hòu, qǐng nǐ yán yǔ zhù yì fēn cùn。",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "父母", "en": "parents", "pi": "fù mǔ" },
+    { "ch": "在", "en": "are", "pi": "zài" },
+    { "ch": "的", "en": "possessive particle", "pi": "de" },
+    { "ch": "时候", "en": "time", "pi": "shí hòu" },
+    { "ch": "，", "en": ",", "pi": "，" },
+    { "ch": "请", "en": "please", "pi": "qǐng" },
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "言语", "en": "words", "pi": "yán yǔ" },
+    { "ch": "注意", "en": "be mindful of", "pi": "zhù yì" },
+    { "ch": "分寸", "en": "propriety", "pi": "fēn cùn" },
+    { "ch": "。", "en": ".", "pi": "。" }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我遇到了玛丽的一位朋友。",
+  "english": "I met a friend of Mary's.",
+  "pinyin": "wǒ yù dào le mǎ lì de yī wèi péng yǒu.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "遇到",
+      "en": "meet",
+      "pi": "yù dào"
+    },
+    {
+      "ch": "了",
+      "en": "a particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "一位",
+      "en": "a",
+      "pi": "yī wèi"
+    },
+    {
+      "ch": "朋友",
+      "en": "friend",
+      "pi": "péng yǒu"
+    }
+  ]
+}

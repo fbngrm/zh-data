@@ -1,0 +1,37 @@
+{
+  "chinese": "你是什么时候来的？",
+  "english": "When did you come?",
+  "pinyin": "nǐ shì shénme shíhòu lái de?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "时候",
+      "en": "time",
+      "pi": "shíhòu"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    },
+    {
+      "ch": "的",
+      "en": "particle",
+      "pi": "de"
+    }
+  ]
+}

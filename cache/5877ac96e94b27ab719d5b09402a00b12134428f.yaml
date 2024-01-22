@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆买了新笔记本。",
+  "english": "Tom bought a new laptop.",
+  "pinyin": "tāng mǔ mǎi le xīn bǐ jì běn。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "买了",
+      "en": "bought",
+      "pi": "mǎi le"
+    },
+    {
+      "ch": "新",
+      "en": "new",
+      "pi": "xīn"
+    },
+    {
+      "ch": "笔记本",
+      "en": "laptop",
+      "pi": "bǐ jì běn"
+    }
+  ]
+}

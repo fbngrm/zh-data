@@ -1,0 +1,32 @@
+{
+  "chinese": "这个男人死于车祸。",
+  "english": "This man died in a car accident.",
+  "pinyin": "zhè gè nán rén sǐ yú chē huò。",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "This",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "男人",
+      "en": "man",
+      "pi": "nán rén"
+    },
+    {
+      "ch": "死",
+      "en": "died",
+      "pi": "sǐ"
+    },
+    {
+      "ch": "于",
+      "en": "in",
+      "pi": "yú"
+    },
+    {
+      "ch": "车祸",
+      "en": "car accident",
+      "pi": "chē huò"
+    }
+  ]
+}

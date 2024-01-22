@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆没来，简也没来。",
+  "english": "Tom didn't come, Jane didn't come.",
+  "pinyin": "Tāng mǔ méi lái, jiǎn yě méi lái.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "没来",
+      "en": "didn't come",
+      "pi": "méi lái"
+    },
+    {
+      "ch": "简",
+      "en": "Jane",
+      "pi": "jiǎn"
+    },
+    {
+      "ch": "也",
+      "en": "also",
+      "pi": "yě"
+    },
+    {
+      "ch": "没来",
+      "en": "didn't come",
+      "pi": "méi lái"
+    }
+  ]
+}

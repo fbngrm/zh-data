@@ -1,0 +1,37 @@
+{
+  "chinese": "你想要來些炒蛋嗎？",
+  "english": "Do you want some scrambled eggs?",
+  "pinyin": "nǐ xiǎng yào lái xiē chǎo dàn ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "想要",
+      "en": "want",
+      "pi": "xiǎng yào"
+    },
+    {
+      "ch": "來",
+      "en": "come",
+      "pi": "lái"
+    },
+    {
+      "ch": "些",
+      "en": "some",
+      "pi": "xiē"
+    },
+    {
+      "ch": "炒蛋",
+      "en": "scrambled eggs",
+      "pi": "chǎo dàn"
+    },
+    {
+      "ch": "嗎",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "chinese": "在任何情况下你都不能离开这个房间。",
+  "english": "Under no circumstances can you leave this room.",
+  "pinyin": "Zài rènhé qíngkuàng xià nǐ dōu bùnéng líkāi zhège fángjiān.",
+  "words": [
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "任何", "en": "any", "pi": "rènhé"},
+    {"ch": "情况", "en": "circumstance", "pi": "qíngkuàng"},
+    {"ch": "下", "en": "under", "pi": "xià"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "都", "en": "all", "pi": "dōu"},
+    {"ch": "不能", "en": "cannot", "pi": "bùnéng"},
+    {"ch": "离开", "en": "leave", "pi": "líkāi"},
+    {"ch": "这个", "en": "this", "pi": "zhège"},
+    {"ch": "房间", "en": "room", "pi": "fángjiān"}
+  ]
+}

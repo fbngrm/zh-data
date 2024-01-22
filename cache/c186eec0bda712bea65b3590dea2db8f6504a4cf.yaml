@@ -1,0 +1,32 @@
+{
+  "chinese": "男孩观察了一整天鸟。",
+  "english": "The boy observed birds all day.",
+  "pinyin": "nán hái guān chá le yī zhěng tiān niǎo.",
+  "words": [
+    {
+      "ch": "男孩",
+      "en": "boy",
+      "pi": "nán hái"
+    },
+    {
+      "ch": "观察",
+      "en": "observe",
+      "pi": "guān chá"
+    },
+    {
+      "ch": "了",
+      "en": "completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "一整天",
+      "en": "all day",
+      "pi": "yī zhěng tiān"
+    },
+    {
+      "ch": "鸟",
+      "en": "bird",
+      "pi": "niǎo"
+    }
+  ]
+}

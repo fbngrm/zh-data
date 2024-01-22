@@ -1,0 +1,47 @@
+{
+  "chinese": "汤姆在大学里学的是哲学。",
+  "english": "Tom studied philosophy at the university.",
+  "pinyin": "Tāng mǔ zài dà xué lǐ xué de shì zhé xué.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "大学",
+      "en": "university",
+      "pi": "dà xué"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "学",
+      "en": "study",
+      "pi": "xué"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "哲学",
+      "en": "philosophy",
+      "pi": "zhé xué"
+    }
+  ]
+}

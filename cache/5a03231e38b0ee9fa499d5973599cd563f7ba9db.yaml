@@ -1,0 +1,37 @@
+{
+  "chinese": "我很累所以早睡了。",
+  "english": "I'm tired so I slept early.",
+  "pinyin": "wǒ hěn lèi suǒyǐ zǎo shuì le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "很",
+      "en": "am",
+      "pi": "hěn"
+    },
+    {
+      "ch": "累",
+      "en": "tired",
+      "pi": "lèi"
+    },
+    {
+      "ch": "所以",
+      "en": "so",
+      "pi": "suǒyǐ"
+    },
+    {
+      "ch": "早",
+      "en": "early",
+      "pi": "zǎo"
+    },
+    {
+      "ch": "睡了",
+      "en": "slept",
+      "pi": "shuì le"
+    }
+  ]
+}

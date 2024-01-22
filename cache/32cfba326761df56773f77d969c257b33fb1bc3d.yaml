@@ -1,0 +1,14 @@
+{
+  "chinese": "我不知道明天会不会下雨。",
+  "english": "I don't know if it will rain tomorrow.",
+  "pinyin": "wǒ bù zhīdào míngtiān huì bù huì xià yǔ。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "不", "en": "don't", "pi": "bù"},
+    {"ch": "知道", "en": "know", "pi": "zhīdào"},
+    {"ch": "明天", "en": "tomorrow", "pi": "míngtiān"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "不会", "en": "if", "pi": "bù huì"},
+    {"ch": "下雨", "en": "rain", "pi": "xià yǔ"}
+  ]
+}

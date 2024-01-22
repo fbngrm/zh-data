@@ -1,0 +1,52 @@
+{
+  "chinese": "非方矩阵的逆阵是一个危险的东西。",
+  "english": "Inverse of a non-square matrix is a dangerous thing.",
+  "pinyin": "fēi fāng jǔ zhèng de nì zhèn shì yī gè wēi xiǎn de dōng xī。",
+  "words": [
+    {
+      "ch": "非",
+      "en": "non-",
+      "pi": "fēi"
+    },
+    {
+      "ch": "方矩阵",
+      "en": "square matrix",
+      "pi": "fāng jǔ zhèng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "逆阵",
+      "en": "inverse matrix",
+      "pi": "nì zhèn"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "危险",
+      "en": "dangerous",
+      "pi": "wēi xiǎn"
+    },
+    {
+      "ch": "的",
+      "en": "thing",
+      "pi": "de"
+    },
+    {
+      "ch": "东西",
+      "en": "thing",
+      "pi": "dōng xī"
+    }
+  ]
+}

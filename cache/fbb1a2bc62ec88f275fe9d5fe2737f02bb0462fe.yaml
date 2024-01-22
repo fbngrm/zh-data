@@ -1,0 +1,32 @@
+{
+  "chinese": "二十美金等于一百四十元。",
+  "english": "Twenty US dollars is equal to one hundred and forty yuan.",
+  "pinyin": "èr shí měi jīn děng yú yī bǎi sì shí yuán.",
+  "words": [
+    {
+      "ch": "二十",
+      "en": "twenty",
+      "pi": "èr shí"
+    },
+    {
+      "ch": "美金",
+      "en": "US dollars",
+      "pi": "měi jīn"
+    },
+    {
+      "ch": "等于",
+      "en": "is equal to",
+      "pi": "děng yú"
+    },
+    {
+      "ch": "一百四十",
+      "en": "one hundred and forty",
+      "pi": "yī bǎi sì shí"
+    },
+    {
+      "ch": "元",
+      "en": "yuan",
+      "pi": "yuán"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "有些人不知道那件事。",
+  "english": "Some people don't know about that thing.",
+  "pinyin": "yǒu xiē rén bù zhī dào nà jiàn shì。",
+  "words": [
+    {
+      "ch": "有些",
+      "en": "Some",
+      "pi": "yǒu xiē"
+    },
+    {
+      "ch": "人",
+      "en": "people",
+      "pi": "rén"
+    },
+    {
+      "ch": "不知道",
+      "en": "don't know",
+      "pi": "bù zhī dào"
+    },
+    {
+      "ch": "那件事",
+      "en": "about that thing",
+      "pi": "nà jiàn shì"
+    }
+  ]
+}

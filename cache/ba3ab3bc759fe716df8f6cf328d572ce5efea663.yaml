@@ -1,0 +1,32 @@
+{
+  "chinese": "我认为安喜欢杰克。",
+  "english": "I think Ann likes Jack.",
+  "pinyin": "wǒ rèn wéi ān xǐ huān jié kè.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "认为",
+      "en": "think",
+      "pi": "rèn wéi"
+    },
+    {
+      "ch": "安",
+      "en": "Ann",
+      "pi": "ān"
+    },
+    {
+      "ch": "喜欢",
+      "en": "likes",
+      "pi": "xǐ huān"
+    },
+    {
+      "ch": "杰克",
+      "en": "Jack",
+      "pi": "jié kè"
+    }
+  ]
+}

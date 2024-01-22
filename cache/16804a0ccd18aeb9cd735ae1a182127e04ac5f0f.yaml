@@ -1,0 +1,47 @@
+{
+  "chinese": "他的书掉在地板上了。",
+  "english": "His book fell on the floor.",
+  "pinyin": "tā de shū diào zài dìbǎn shàng le.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    },
+    {
+      "ch": "掉",
+      "en": "fell",
+      "pi": "diào"
+    },
+    {
+      "ch": "在",
+      "en": "on",
+      "pi": "zài"
+    },
+    {
+      "ch": "地板",
+      "en": "floor",
+      "pi": "dìbǎn"
+    },
+    {
+      "ch": "上",
+      "en": "above",
+      "pi": "shàng"
+    },
+    {
+      "ch": "了",
+      "en": "particle of completed action",
+      "pi": "le"
+    }
+  ]
+}

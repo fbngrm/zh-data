@@ -1,0 +1,37 @@
+{
+  "chinese": "晚饭前您想喝一杯吗？",
+  "english": "Would you like to have a drink before dinner?",
+  "pinyin": "Wǎnfàn qián nín xiǎng hē yī bēi ma?",
+  "words": [
+    {
+      "ch": "晚饭前",
+      "en": "before dinner",
+      "pi": "wǎnfàn qián"
+    },
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "喝",
+      "en": "to drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "一杯",
+      "en": "a cup",
+      "pi": "yī bēi"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

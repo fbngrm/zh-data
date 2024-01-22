@@ -1,0 +1,32 @@
+{
+  "chinese": "房间里挤满了客人。",
+  "english": "The room is crowded with guests.",
+  "pinyin": "fáng jiān lǐ jǐ mǎn le kè rén.",
+  "words": [
+    {
+      "ch": "房间",
+      "en": "room",
+      "pi": "fáng jiān"
+    },
+    {
+      "ch": "里",
+      "en": "inside",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "挤满",
+      "en": "crowded with",
+      "pi": "jǐ mǎn"
+    },
+    {
+      "ch": "了",
+      "en": "with",
+      "pi": "le"
+    },
+    {
+      "ch": "客人",
+      "en": "guests",
+      "pi": "kè rén"
+    }
+  ]
+}

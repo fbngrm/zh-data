@@ -1,0 +1,14 @@
+{
+  "chinese": "請讓我試試這個遊戲吧。",
+  "english": "Please let me try this game.",
+  "pinyin": "qǐng ràng wǒ shì shi zhè gè yóu xì ba.",
+  "words": [
+    {"ch": "請", "en": "Please", "pi": "qǐng"},
+    {"ch": "讓", "en": "let", "pi": "ràng"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "試試", "en": "try", "pi": "shì shi"},
+    {"ch": "這個", "en": "this", "pi": "zhè gè"},
+    {"ch": "遊戲", "en": "game", "pi": "yóu xì"},
+    {"ch": "吧", "en": "please", "pi": "ba"}
+  ]
+}

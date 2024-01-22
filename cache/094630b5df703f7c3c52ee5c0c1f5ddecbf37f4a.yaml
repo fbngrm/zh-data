@@ -1,0 +1,42 @@
+{
+  "chinese": "你可以把音量调低一点吗？",
+  "english": "Can you turn the volume down a bit?",
+  "pinyin": "nǐ kěyǐ bǎ yīnliàng diào dī yīdiǎn ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kěyǐ"
+    },
+    {
+      "ch": "把",
+      "en": "turn",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "音量",
+      "en": "volume",
+      "pi": "yīnliàng"
+    },
+    {
+      "ch": "调低",
+      "en": "down",
+      "pi": "diào dī"
+    },
+    {
+      "ch": "一点",
+      "en": "a bit",
+      "pi": "yīdiǎn"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

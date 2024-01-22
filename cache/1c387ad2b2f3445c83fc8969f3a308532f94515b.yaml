@@ -1,0 +1,21 @@
+{
+  "chinese": "我必须要换衣服，因为我现在穿的衣服不适合这个环境。",
+  "english": "I must change clothes because the clothes I'm wearing now are not suitable for this environment.",
+  "pinyin": "wǒ bìxū yào huàn yīfú, yīnwèi wǒ xiànzài chuān de yīfú bù shìhé zhège huánjìng。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "必须", "en": "must", "pi": "bìxū"},
+    {"ch": "要", "en": "to", "pi": "yào"},
+    {"ch": "换衣服", "en": "change clothes", "pi": "huàn yīfú"},
+    {"ch": "因为", "en": "because", "pi": "yīnwèi"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "现在", "en": "now", "pi": "xiànzài"},
+    {"ch": "穿", "en": "wear", "pi": "chuān"},
+    {"ch": "的", "en": "the", "pi": "de"},
+    {"ch": "衣服", "en": "clothes", "pi": "yīfú"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "适合", "en": "suitable", "pi": "shìhé"},
+    {"ch": "这个", "en": "this", "pi": "zhège"},
+    {"ch": "环境", "en": "environment", "pi": "huánjìng"}
+  ]
+}

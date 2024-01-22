@@ -1,0 +1,14 @@
+{
+  "chinese": "他说他怕天会下雨。",
+  "english": "He said he is afraid that it will rain.",
+  "pinyin": "tā shuō tā pà tiān huì xià yǔ。",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "说", "en": "said", "pi": "shuō"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "怕", "en": "is afraid", "pi": "pà"},
+    {"ch": "天", "en": "that", "pi": "tiān"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "下雨", "en": "rain", "pi": "xià yǔ"}
+  ]
+}

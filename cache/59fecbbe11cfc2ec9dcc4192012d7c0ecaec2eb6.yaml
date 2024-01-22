@@ -1,0 +1,27 @@
+{
+  "chinese": "你家在哪里？",
+  "english": "Where is your home?",
+  "pinyin": "nǐ jiā zài nǎ lǐ?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "家",
+      "en": "home",
+      "pi": "jiā"
+    },
+    {
+      "ch": "在",
+      "en": "is/at",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪里",
+      "en": "where",
+      "pi": "nǎ lǐ"
+    }
+  ]
+}

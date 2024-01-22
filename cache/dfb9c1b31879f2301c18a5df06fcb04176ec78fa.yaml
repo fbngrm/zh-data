@@ -1,0 +1,32 @@
+{
+  "chinese": "猫在椅子上睡觉。",
+  "english": "The cat is sleeping on the chair.",
+  "pinyin": "māo zài yǐ zi shàng shuì jiào。",
+  "words": [
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "椅子",
+      "en": "chair",
+      "pi": "yǐ zi"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "睡觉",
+      "en": "sleeping",
+      "pi": "shuì jiào"
+    }
+  ]
+}

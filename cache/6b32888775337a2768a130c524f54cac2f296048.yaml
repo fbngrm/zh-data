@@ -1,0 +1,42 @@
+{
+  "chinese": "今天是周五，明天就是周末了！",
+  "english": "Today is Friday, tomorrow is the weekend!",
+  "pinyin": "jīn tiān shì zhōu wǔ，míng tiān jiù shì zhōu mò le！",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "周五",
+      "en": "Friday",
+      "pi": "zhōu wǔ"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "就是",
+      "en": "is",
+      "pi": "jiù shì"
+    },
+    {
+      "ch": "周末",
+      "en": "weekend",
+      "pi": "zhōu mò"
+    },
+    {
+      "ch": "了",
+      "en": "!",
+      "pi": "le"
+    }
+  ]
+}

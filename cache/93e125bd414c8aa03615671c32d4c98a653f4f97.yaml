@@ -1,0 +1,32 @@
+{
+  "chinese": "我想要一个MP3播放器！",
+  "english": "I want an MP3 player!",
+  "pinyin": "wǒ xiǎng yào yī gè MP3 bō fàng qì!",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想要",
+      "en": "want",
+      "pi": "xiǎng yào"
+    },
+    {
+      "ch": "一个",
+      "en": "an",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "MP3",
+      "en": "MP3",
+      "pi": "MP3"
+    },
+    {
+      "ch": "播放器",
+      "en": "player",
+      "pi": "bō fàng qì"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "这个湖里有很多鱼。",
+  "english": "There are a lot of fish in this lake.",
+  "pinyin": "zhè gè hú lǐ yǒu hěn duō yú.",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "湖里",
+      "en": "in the lake",
+      "pi": "hú lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "很多",
+      "en": "a lot of",
+      "pi": "hěn duō"
+    },
+    {
+      "ch": "鱼",
+      "en": "fish",
+      "pi": "yú"
+    }
+  ]
+}

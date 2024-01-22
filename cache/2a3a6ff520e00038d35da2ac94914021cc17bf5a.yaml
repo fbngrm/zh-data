@@ -1,0 +1,15 @@
+{
+  "chinese": "你住在波士顿，不是么？",
+  "english": "You live in Boston, don't you?",
+  "pinyin": "nǐ zhù zài bō shì dùn, bú shì me?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "住", "en": "live", "pi": "zhù"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "波士顿", "en": "Boston", "pi": "bō shì dùn"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "不是", "en": "don't", "pi": "bú shì"},
+    {"ch": "么", "en": "you", "pi": "me"},
+    {"ch": "？", "en": "?", "pi": ""}
+  ]
+}

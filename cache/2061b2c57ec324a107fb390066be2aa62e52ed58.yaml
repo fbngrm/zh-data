@@ -1,0 +1,32 @@
+{
+  "chinese": "他是我的一个邻居。",
+  "english": "He is one of my neighbors.",
+  "pinyin": "tā shì wǒ de yī gè línjū。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "一个",
+      "en": "one",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "邻居",
+      "en": "neighbor",
+      "pi": "línjū"
+    }
+  ]
+}

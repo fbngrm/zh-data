@@ -1,0 +1,32 @@
+{
+  "chinese": "他收起了他的玩具。",
+  "english": "He put away his toys.",
+  "pinyin": "tā shōu qǐ le tā de wán jù。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "收起",
+      "en": "put away",
+      "pi": "shōu qǐ"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "玩具",
+      "en": "toys",
+      "pi": "wán jù"
+    }
+  ]
+}

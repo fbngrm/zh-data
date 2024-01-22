@@ -1,0 +1,37 @@
+{
+  "chinese": "老師要我們重複這個字。",
+  "english": "The teacher wants us to repeat this word.",
+  "pinyin": "lǎo shī yào wǒ men chóng fù zhè ge zì。",
+  "words": [
+    {
+      "ch": "老師",
+      "en": "teacher",
+      "pi": "lǎo shī"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "我們",
+      "en": "us",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "重複",
+      "en": "repeat",
+      "pi": "chóng fù"
+    },
+    {
+      "ch": "這個",
+      "en": "this",
+      "pi": "zhè ge"
+    },
+    {
+      "ch": "字",
+      "en": "word",
+      "pi": "zì"
+    }
+  ]
+}

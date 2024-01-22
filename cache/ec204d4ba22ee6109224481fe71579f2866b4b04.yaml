@@ -1,0 +1,27 @@
+{
+  "chinese": "这个消息没有道理。",
+  "english": "This news doesn't make sense.",
+  "pinyin": "zhè gè xiāo xī méi yǒu dào lǐ.",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "消息",
+      "en": "news",
+      "pi": "xiāo xī"
+    },
+    {
+      "ch": "没有",
+      "en": "don't have",
+      "pi": "méi yǒu"
+    },
+    {
+      "ch": "道理",
+      "en": "sense",
+      "pi": "dào lǐ"
+    }
+  ]
+}

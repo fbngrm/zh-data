@@ -1,0 +1,16 @@
+{
+  "chinese": "你两三天就会回复健康了。",
+  "english": "You will recover in just two or three days.",
+  "pinyin": "nǐ liǎng sān tiān jiù huì huífù jiànkāng le.",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "两", "en": "two", "pi": "liǎng"},
+    {"ch": "三", "en": "three", "pi": "sān"},
+    {"ch": "天", "en": "day", "pi": "tiān"},
+    {"ch": "就", "en": "just", "pi": "jiù"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "回复", "en": "recover", "pi": "huífù"},
+    {"ch": "健康", "en": "healthy", "pi": "jiànkāng"},
+    {"ch": "了", "en": "in", "pi": "le"}
+  ]
+}

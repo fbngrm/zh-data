@@ -1,0 +1,15 @@
+{
+  "chinese": "我们约的是今天还是明天？",
+  "english": "Are we meeting today or tomorrow?",
+  "pinyin": "wǒmen yuē de shì jīntiān háishì míngtiān?",
+  "words": [
+    {"ch": "我们", "en": "we", "pi": "wǒmen"},
+    {"ch": "约", "en": "meet", "pi": "yuē"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "今天", "en": "today", "pi": "jīntiān"},
+    {"ch": "还是", "en": "or", "pi": "háishì"},
+    {"ch": "明天", "en": "tomorrow", "pi": "míngtiān"},
+    {"ch": "？", "en": "?"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "chinese": "你要不在了，那我就不在了。",
+  "english": "If you're not here, then I won't be either.",
+  "pinyin": "nǐ yào bù zài le, nà wǒ jiù bù zài le。",
+  "words": [
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "要", "en": "want", "pi": "yào" },
+    { "ch": "不", "en": "not", "pi": "bù" },
+    { "ch": "在", "en": "be", "pi": "zài" },
+    { "ch": "了", "en": "already", "pi": "le" },
+    { "ch": "，", "en": ",", "pi": null },
+    { "ch": "那", "en": "then", "pi": "nà" },
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "就", "en": "then", "pi": "jiù" },
+    { "ch": "不", "en": "not", "pi": "bù" },
+    { "ch": "在", "en": "be", "pi": "zài" },
+    { "ch": "了", "en": "already", "pi": "le" },
+    { "ch": "。", "en": ".", "pi": null }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "明天是个大日子。",
+  "english": "Tomorrow is a big day.",
+  "pinyin": "míng tiān shì gè dà rì zi",
+  "words": [
+    {
+      "ch": "明天",
+      "en": "Tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "大",
+      "en": "big",
+      "pi": "dà"
+    },
+    {
+      "ch": "日子",
+      "en": "day",
+      "pi": "rì zi"
+    }
+  ]
+}

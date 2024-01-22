@@ -1,0 +1,52 @@
+{
+  "chinese": "昨天晚上没睡好，所以我今天精神不振。",
+  "english": "I didn't sleep well last night, so I feel mentally sluggish today.",
+  "pinyin": "zuó tiān wǎn shàng méi shuì hǎo ，suǒ yǐ wǒ jīn tiān jīng shén bù zhēn。",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "晚上",
+      "en": "evening",
+      "pi": "wǎn shàng"
+    },
+    {
+      "ch": "没",
+      "en": "didn't",
+      "pi": "méi"
+    },
+    {
+      "ch": "睡好",
+      "en": "sleep well",
+      "pi": "shuì hǎo"
+    },
+    {
+      "ch": "所以",
+      "en": "so",
+      "pi": "suǒ yǐ"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "精神",
+      "en": "mentally",
+      "pi": "jīng shén"
+    },
+    {
+      "ch": "不振",
+      "en": "sluggish",
+      "pi": "bù zhēn"
+    }
+  ]
+}

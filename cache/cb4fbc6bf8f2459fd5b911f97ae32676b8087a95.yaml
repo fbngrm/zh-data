@@ -1,0 +1,17 @@
+{
+  "chinese": "我们可以在这个公园里玩四轮熘冰吗?",
+  "english": "Can we ride four-wheel roller skates in this park?",
+  "pinyin": "wǒmen kěyǐ zài zhège gōngyuán lǐ wán sìlún liū bīng ma?",
+  "words": [
+    {"ch": "我们", "en": "we", "pi": "wǒmen"},
+    {"ch": "可以", "en": "can", "pi": "kěyǐ"},
+    {"ch": "在", "en": "in, at", "pi": "zài"},
+    {"ch": "这个", "en": "this", "pi": "zhège"},
+    {"ch": "公园", "en": "park", "pi": "gōngyuán"},
+    {"ch": "里", "en": "inside", "pi": "lǐ"},
+    {"ch": "玩", "en": "play", "pi": "wán"},
+    {"ch": "四轮", "en": "four-wheel", "pi": "sìlún"},
+    {"ch": "熘冰", "en": "roller skates", "pi": "liū bīng"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

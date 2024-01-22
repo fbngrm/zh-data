@@ -1,0 +1,20 @@
+{
+  "chinese": "汤姆对玛丽笑了笑，她也笑着回应了。",
+  "english": "Tom smiled at Mary, and she smiled back.",
+  "pinyin": "Tāng mǔ duì Mǎ lì xiào le xiào, tā yě xiào zhe huí yìng le.",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ"},
+    {"ch": "对", "en": "at", "pi": "duì"},
+    {"ch": "玛丽", "en": "Mary", "pi": "Mǎ lì"},
+    {"ch": "笑", "en": "smile", "pi": "xiào"},
+    {"ch": "了", "en": "at", "pi": "le"},
+    {"ch": "笑", "en": "smile", "pi": "xiào"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "她", "en": "she", "pi": "tā"},
+    {"ch": "也", "en": "also", "pi": "yě"},
+    {"ch": "笑着", "en": "smiled", "pi": "xiào zhe"},
+    {"ch": "回应", "en": "back", "pi": "huí yìng"},
+    {"ch": "了", "en": "at", "pi": "le"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "面包是用小麦做成的。",
+  "english": "Bread is made from wheat.",
+  "pinyin": "miàn bāo shì yòng xiǎo mài zuò chéng de。",
+  "words": [
+    {
+      "ch": "面包",
+      "en": "bread",
+      "pi": "miàn bāo"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "用",
+      "en": "use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "小麦",
+      "en": "wheat",
+      "pi": "xiǎo mài"
+    },
+    {
+      "ch": "做成",
+      "en": "made",
+      "pi": "zuò chéng"
+    },
+    {
+      "ch": "的",
+      "en": "from",
+      "pi": "de"
+    }
+  ]
+}

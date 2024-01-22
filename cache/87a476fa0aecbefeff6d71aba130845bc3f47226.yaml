@@ -1,0 +1,57 @@
+{
+  "chinese": "我会普通话、西南官话、吴语和西班牙语。",
+  "english": "I can speak Mandarin, Southwest Mandarin, Wu dialect and Spanish.",
+  "pinyin": "Wǒ huì pǔtōnghuà, Xīnán guānhuà, Wúyǔ hé Xībānyáyǔ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "普通话",
+      "en": "Mandarin",
+      "pi": "pǔtōnghuà"
+    },
+    {
+      "ch": "、",
+      "en": ",",
+      "pi": "、"
+    },
+    {
+      "ch": "西南官话",
+      "en": "Southwest Mandarin",
+      "pi": "Xīnán guānhuà"
+    },
+    {
+      "ch": "、",
+      "en": ",",
+      "pi": "、"
+    },
+    {
+      "ch": "吴语",
+      "en": "Wu dialect",
+      "pi": "Wúyǔ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "西班牙语",
+      "en": "Spanish",
+      "pi": "Xībānyáyǔ"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "。"
+    }
+  ]
+}

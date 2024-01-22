@@ -1,0 +1,13 @@
+{
+  "chinese": "我问了汤姆几个问题。",
+  "english": "I asked Tom a few questions.",
+  "pinyin": "wǒ wèn le tāng mǔ jǐ gè wèn tí.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "问", "en": "ask", "pi": "wèn"},
+    {"ch": "了", "en": "past tense indicator", "pi": "le"},
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "几个", "en": "a few", "pi": "jǐ gè"},
+    {"ch": "问题", "en": "questions", "pi": "wèn tí"}
+  ]
+}

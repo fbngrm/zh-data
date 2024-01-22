@@ -1,0 +1,42 @@
+{
+  "chinese": "我们正在上课，请你等一会儿。",
+  "english": "We are in class, please wait a moment.",
+  "pinyin": "wǒmén zhèngzài shàngkè，qǐng nǐ děng yīhuǐ'er。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmén"
+    },
+    {
+      "ch": "正在",
+      "en": "are",
+      "pi": "zhèngzài"
+    },
+    {
+      "ch": "上课",
+      "en": "in class",
+      "pi": "shàngkè"
+    },
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "等",
+      "en": "wait",
+      "pi": "děng"
+    },
+    {
+      "ch": "一会儿",
+      "en": "a moment",
+      "pi": "yīhuǐ'er"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "sentences": [
+    {
+      "chinese": "放松点。",
+      "english": "Relax.",
+      "pinyin": "fàng sōng diǎn。",
+      "words": [
+        {
+          "ch": "放松",
+          "en": "Relax",
+          "pi": "fàng sōng"
+        },
+        {
+          "ch": "点",
+          "en": "dot; point",
+          "pi": "diǎn"
+        }
+      ]
+    },
+    {
+      "chinese": "这是个草人而已。",
+      "english": "It's just a scarecrow.",
+      "pinyin": "zhè shì gè cǎo rén ér yǐ。",
+      "words": [
+        {
+          "ch": "这是",
+          "en": "This is",
+          "pi": "zhè shì"
+        },
+        {
+          "ch": "个",
+          "en": "a",
+          "pi": "gè"
+        },
+        {
+          "ch": "草人",
+          "en": "scarecrow",
+          "pi": "cǎo rén"
+        },
+        {
+          "ch": "而已",
+          "en": "just",
+          "pi": "ér yǐ"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "你打电话给她了吗?",
+  "english": "Did you call her?",
+  "pinyin": "Nǐ dǎ diànhuà gěi tā le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "打电话",
+      "en": "call",
+      "pi": "dǎ diànhuà"
+    },
+    {
+      "ch": "给",
+      "en": "to",
+      "pi": "gěi"
+    },
+    {
+      "ch": "她",
+      "en": "her",
+      "pi": "tā"
+    },
+    {
+      "ch": "了吗",
+      "en": "did",
+      "pi": "le ma"
+    }
+  ]
+}

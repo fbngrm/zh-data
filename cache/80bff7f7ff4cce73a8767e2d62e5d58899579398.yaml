@@ -1,0 +1,47 @@
+{
+  "chinese": "你确定你不喜欢别的东西了？",
+  "english": "Are you sure you don't like anything else?",
+  "pinyin": "nǐ quèdìng nǐ bù xǐhuan bié de dōngxī le?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "确定",
+      "en": "sure",
+      "pi": "quèdìng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuan"
+    },
+    {
+      "ch": "别的",
+      "en": "else",
+      "pi": "bié de"
+    },
+    {
+      "ch": "东西",
+      "en": "anything",
+      "pi": "dōngxī"
+    },
+    {
+      "ch": "了",
+      "en": "anymore",
+      "pi": "le"
+    }
+  ]
+}

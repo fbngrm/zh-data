@@ -1,0 +1,27 @@
+{
+  "chinese": "我昨晚睡得很好。",
+  "english": "I slept well last night.",
+  "pinyin": "wǒ zuó wǎn shuì de hěn hǎo.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "昨晚",
+      "en": "last night",
+      "pi": "zuó wǎn"
+    },
+    {
+      "ch": "睡得",
+      "en": "slept",
+      "pi": "shuì de"
+    },
+    {
+      "ch": "很好",
+      "en": "well",
+      "pi": "hěn hǎo"
+    }
+  ]
+}

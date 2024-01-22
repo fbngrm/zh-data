@@ -1,0 +1,108 @@
+{
+  "sentences": [
+    {
+      "chinese": "你为什么要唤我起来，告诉我如此晴天霹雳的消息?",
+      "english": "Why did you wake me up to tell me such shocking news?",
+      "pinyin": "nǐ wèi shén me yào huàn wǒ qǐ lái, gào su wǒ rú cǐ qíng tiān pī lì de xiāo xī?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "为什么",
+          "en": "why",
+          "pi": "wèi shén me"
+        },
+        {
+          "ch": "要",
+          "en": "did",
+          "pi": "yào"
+        },
+        {
+          "ch": "唤",
+          "en": "wake",
+          "pi": "huàn"
+        },
+        {
+          "ch": "我",
+          "en": "me",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "起来",
+          "en": "up",
+          "pi": "qǐ lái"
+        },
+        {
+          "ch": "告诉",
+          "en": "tell",
+          "pi": "gào su"
+        },
+        {
+          "ch": "如此",
+          "en": "such",
+          "pi": "rú cǐ"
+        },
+        {
+          "ch": "晴天霹雳",
+          "en": "shocking",
+          "pi": "qíng tiān pī lì"
+        },
+        {
+          "ch": "的",
+          "en": "news",
+          "pi": "de"
+        },
+        {
+          "ch": "消息",
+          "en": "news",
+          "pi": "xiāo xī"
+        }
+      ]
+    },
+    {
+      "chinese": "现在你教我如何认真工作?",
+      "english": "Now, how do you teach me to work seriously?",
+      "pinyin": "xiàn zài nǐ jiào wǒ rú hé rèn zhēn gōng zuò?",
+      "words": [
+        {
+          "ch": "现在",
+          "en": "now",
+          "pi": "xiàn zài"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "教",
+          "en": "teach",
+          "pi": "jiào"
+        },
+        {
+          "ch": "我",
+          "en": "me",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "如何",
+          "en": "how",
+          "pi": "rú hé"
+        },
+        {
+          "ch": "认真",
+          "en": "seriously",
+          "pi": "rèn zhēn"
+        },
+        {
+          "ch": "工作",
+          "en": "work",
+          "pi": "gōng zuò"
+        }
+      ]
+    }
+  ]
+}

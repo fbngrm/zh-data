@@ -1,0 +1,32 @@
+{
+  "chinese": "五的二次方是二十五。",
+  "english": "The square of five is twenty-five.",
+  "pinyin": "wǔ de èr cì fāng shì èr shí wǔ。",
+  "words": [
+    {
+      "ch": "五",
+      "en": "five",
+      "pi": "wǔ"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "二次方",
+      "en": "square",
+      "pi": "èr cì fāng"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "二十五",
+      "en": "twenty-five",
+      "pi": "èr shí wǔ"
+    }
+  ]
+}

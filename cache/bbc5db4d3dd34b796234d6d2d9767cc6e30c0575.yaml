@@ -1,0 +1,13 @@
+{
+  "chinese": "弹钢琴的女孩是我妹妹。",
+  "english": "The girl who plays piano is my younger sister.",
+  "pinyin": "tán gāng qín de nǚ hái shì wǒ mèi mèi。",
+  "words": [
+    {"ch": "弹钢琴", "en": "play piano", "pi": "tán gāng qín"},
+    {"ch": "的", "en": "who/which/the", "pi": "de"},
+    {"ch": "女孩", "en": "girl", "pi": "nǚ hái"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "我", "en": "I/me", "pi": "wǒ"},
+    {"ch": "妹妹", "en": "younger sister", "pi": "mèi mèi"}
+  ]
+}

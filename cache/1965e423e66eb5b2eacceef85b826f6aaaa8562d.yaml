@@ -1,0 +1,37 @@
+{
+  "chinese": "这是一本关于星星的书。",
+  "english": "This is a book about stars.",
+  "pinyin": "zhè shì yī běn guān yú xīng xīng de shū。",
+  "words": [
+    {
+      "ch": "这是",
+      "en": "This is",
+      "pi": "zhè shì"
+    },
+    {
+      "ch": "一本",
+      "en": "a book",
+      "pi": "yī běn"
+    },
+    {
+      "ch": "关于",
+      "en": "about",
+      "pi": "guān yú"
+    },
+    {
+      "ch": "星星",
+      "en": "stars",
+      "pi": "xīng xīng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    }
+  ]
+}

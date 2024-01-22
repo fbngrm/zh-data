@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆说他的家里有把枪。",
+  "english": "Tom said there is a gun in his house.",
+  "pinyin": "Tāng mǔ shuō tā de jiā lǐ yǒu bǎ qiāng.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "说",
+      "en": "said",
+      "pi": "shuō"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "家里",
+      "en": "house",
+      "pi": "jiā lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "there is",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "把",
+      "en": "a",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "枪",
+      "en": "gun",
+      "pi": "qiāng"
+    }
+  ]
+}

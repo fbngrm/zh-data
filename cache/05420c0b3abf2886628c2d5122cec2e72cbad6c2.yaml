@@ -1,0 +1,19 @@
+{
+  "chinese": "我今天、明天还是后天清理我的房间有什么不同吗？",
+  "english": "Is there any difference when I clean my room today, tomorrow, or the day after tomorrow?",
+  "pinyin": "wǒ jīn tiān, míng tiān hái shì hòu tiān qīng lǐ wǒ de fáng jiān yǒu shén me bù tóng ma?",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "今天", "en": "today", "pi": "jīn tiān"},
+    {"ch": "明天", "en": "tomorrow", "pi": "míng tiān"},
+    {"ch": "还是", "en": "or", "pi": "hái shì"},
+    {"ch": "后天", "en": "the day after tomorrow", "pi": "hòu tiān"},
+    {"ch": "清理", "en": "clean", "pi": "qīng lǐ"},
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "房间", "en": "room", "pi": "fáng jiān"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "什么", "en": "what", "pi": "shén me"},
+    {"ch": "不同", "en": "difference", "pi": "bù tóng"},
+    {"ch": "吗", "en": "?", "pi": "ma"}
+  ]
+}

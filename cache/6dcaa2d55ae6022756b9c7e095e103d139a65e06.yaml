@@ -1,0 +1,16 @@
+{
+  "chinese": "我叫他不要太晚弹钢琴。",
+  "english": "I told him not to play the piano too late.",
+  "pinyin": "wǒ jiào tā bú yào tài wǎn tán gāng qín.",
+  "words": [
+      {"ch": "我", "en": "I", "pi": "wǒ"},
+      {"ch": "叫", "en": "tell", "pi": "jiào"},
+      {"ch": "他", "en": "him", "pi": "tā"},
+      {"ch": "不", "en": "not", "pi": "bú"},
+      {"ch": "要", "en": "to", "pi": "yào"},
+      {"ch": "太", "en": "too", "pi": "tài"},
+      {"ch": "晚", "en": "late", "pi": "wǎn"},
+      {"ch": "弹", "en": "play", "pi": "tán"},
+      {"ch": "钢琴", "en": "piano", "pi": "gāng qín"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我在东京站换火车。",
+  "english": "I am changing trains at Tokyo Station.",
+  "pinyin": "wǒ zài dōng jīng zhàn huàn huǒ chē。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "东京站",
+      "en": "Tokyo Station",
+      "pi": "dōng jīng zhàn"
+    },
+    {
+      "ch": "换",
+      "en": "change",
+      "pi": "huàn"
+    },
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒ chē"
+    }
+  ]
+}

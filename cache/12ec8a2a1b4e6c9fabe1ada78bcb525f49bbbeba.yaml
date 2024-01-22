@@ -1,0 +1,27 @@
+{
+  "chinese": "我在学汉字。",
+  "english": "I am learning Chinese characters.",
+  "pinyin": "wǒ zài xué hànzì.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "am",
+      "pi": "zài"
+    },
+    {
+      "ch": "学",
+      "en": "learning",
+      "pi": "xué"
+    },
+    {
+      "ch": "汉字",
+      "en": "Chinese characters",
+      "pi": "hànzì"
+    }
+  ]
+}

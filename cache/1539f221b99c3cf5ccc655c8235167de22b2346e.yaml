@@ -1,0 +1,32 @@
+{
+  "chinese": "我有十只钢笔",
+  "english": "I have ten pens",
+  "pinyin": "wǒ yǒu shí zhī gāngbǐ",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "十",
+      "en": "ten",
+      "pi": "shí"
+    },
+    {
+      "ch": "只",
+      "en": "measure word for pens",
+      "pi": "zhī"
+    },
+    {
+      "ch": "钢笔",
+      "en": "pens",
+      "pi": "gāngbǐ"
+    }
+  ]
+}

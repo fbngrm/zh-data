@@ -1,0 +1,13 @@
+{
+  "chinese": "明年你会是几岁？",
+  "english": "How old will you be next year?",
+  "pinyin": "míng nián nǐ huì shì jǐ suì?",
+  "words": [
+    {"ch": "明年", "en": "next year", "pi": "míng nián"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "是", "en": "be", "pi": "shì"},
+    {"ch": "几", "en": "how many", "pi": "jǐ"},
+    {"ch": "岁", "en": "years old", "pi": "suì"}
+  ]
+}

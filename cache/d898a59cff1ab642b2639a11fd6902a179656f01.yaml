@@ -1,0 +1,42 @@
+{
+  "chinese": "你能用Ｃ小调演奏吗？",
+  "english": "Can you play in the key of C minor?",
+  "pinyin": "nǐ néng yòng C xiǎo diào yǎnzòu ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "用",
+      "en": "use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "Ｃ",
+      "en": "C",
+      "pi": "C"
+    },
+    {
+      "ch": "小调",
+      "en": "minor key",
+      "pi": "xiǎo diào"
+    },
+    {
+      "ch": "演奏",
+      "en": "play",
+      "pi": "yǎnzòu"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

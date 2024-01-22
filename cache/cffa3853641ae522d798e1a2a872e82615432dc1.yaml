@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "chinese": "你什么时候回来？",
+      "english": "When are you coming back?",
+      "pinyin": "nǐ shénme shíhòu huílái?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "什么时候",
+          "en": "when",
+          "pi": "shénme shíhòu"
+        },
+        {
+          "ch": "回来",
+          "en": "come back",
+          "pi": "huílái"
+        }
+      ]
+    },
+    {
+      "chinese": "请你吃一顿饭。",
+      "english": "Please have a meal.",
+      "pinyin": "qǐng nǐ chī yī dùn fàn.",
+      "words": [
+        {
+          "ch": "请",
+          "en": "please",
+          "pi": "qǐng"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "吃",
+          "en": "eat",
+          "pi": "chī"
+        },
+        {
+          "ch": "一顿饭",
+          "en": "a meal",
+          "pi": "yī dùn fàn"
+        }
+      ]
+    }
+  ]
+}

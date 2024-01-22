@@ -1,0 +1,32 @@
+{
+  "chinese": "这本书非常酷。",
+  "english": "This book is very cool.",
+  "pinyin": "zhè běn shū fēi cháng kù.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "书",
+      "en": "is",
+      "pi": "shū"
+    },
+    {
+      "ch": "非常",
+      "en": "very",
+      "pi": "fēi cháng"
+    },
+    {
+      "ch": "酷",
+      "en": "cool",
+      "pi": "kù"
+    }
+  ]
+}

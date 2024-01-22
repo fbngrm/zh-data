@@ -1,0 +1,15 @@
+{
+  "chinese": "Bob不仅会弹吉他还会吹笛。",
+  "english": "Bob not only knows how to play the guitar but also knows how to play the flute.",
+  "pinyin": "Bob bù jǐn huì tán jí tā hái huì chuī dí.",
+  "words": [
+    {"ch": "Bob", "en": "Bob", "pi": "Bob"},
+    {"ch": "不仅", "en": "not only", "pi": "bù jǐn"},
+    {"ch": "会", "en": "knows how to", "pi": "huì"},
+    {"ch": "弹", "en": "to play (a string instrument)", "pi": "tán"},
+    {"ch": "吉他", "en": "guitar", "pi": "jí tā"},
+    {"ch": "还", "en": "but also", "pi": "hái"},
+    {"ch": "吹", "en": "to play (a wind instrument)", "pi": "chuī"},
+    {"ch": "笛", "en": "flute", "pi": "dí"}
+  ]
+}

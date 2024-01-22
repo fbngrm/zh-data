@@ -1,0 +1,32 @@
+{
+  "chinese": "你家有几口人？",
+  "english": "How many people are there in your family?",
+  "pinyin": "Nǐ jiā yǒu jǐ kǒu rén?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "家",
+      "en": "home",
+      "pi": "jiā"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "几",
+      "en": "how many",
+      "pi": "jǐ"
+    },
+    {
+      "ch": "口人",
+      "en": "people",
+      "pi": "kǒu rén"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我们去了我告诉过你的咖啡店。",
+  "english": "We went to the coffee shop I told you about.",
+  "pinyin": "wǒ men qù le wǒ gào sù guò nǐ de kā fēi diàn.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "去了",
+      "en": "went",
+      "pi": "qù le"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "告诉过",
+      "en": "told",
+      "pi": "gào sù guò"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "about",
+      "pi": "de"
+    },
+    {
+      "ch": "咖啡店",
+      "en": "coffee shop",
+      "pi": "kā fēi diàn"
+    }
+  ]
+}

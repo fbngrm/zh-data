@@ -1,0 +1,57 @@
+{
+  "chinese": "请给我们两把刀和四把叉。",
+  "english": "Please give us two knives and four forks.",
+  "pinyin": "qǐng gěi wǒmen liǎng bǎ dāo hé sì bǎ chā.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我们",
+      "en": "us",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "两",
+      "en": "two",
+      "pi": "liǎng"
+    },
+    {
+      "ch": "把",
+      "en": "classifier for knives",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "刀",
+      "en": "knife",
+      "pi": "dāo"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "四",
+      "en": "four",
+      "pi": "sì"
+    },
+    {
+      "ch": "把",
+      "en": "classifier for forks",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "叉",
+      "en": "fork",
+      "pi": "chā"
+    }
+  ]
+}

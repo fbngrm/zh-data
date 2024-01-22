@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆现在是软体工程师。",
+  "english": "Tom is a software engineer now.",
+  "pinyin": "Tāng mǔ xiàn zài shì ruǎn tǐ gōng chéng shī.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "软体",
+      "en": "software",
+      "pi": "ruǎn tǐ"
+    },
+    {
+      "ch": "工程师",
+      "en": "engineer",
+      "pi": "gōng chéng shī"
+    }
+  ]
+}

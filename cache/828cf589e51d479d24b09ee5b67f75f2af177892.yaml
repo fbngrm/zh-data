@@ -1,0 +1,42 @@
+{
+  "chinese": "比尔拿了一杯水给我。",
+  "english": "Bill brought me a glass of water.",
+  "pinyin": "bǐ ěr ná le yī bēi shuǐ gěi wǒ.",
+  "words": [
+    {
+      "ch": "比尔",
+      "en": "Bill",
+      "pi": "bǐ ěr"
+    },
+    {
+      "ch": "拿",
+      "en": "brought",
+      "pi": "ná"
+    },
+    {
+      "ch": "了",
+      "en": "me",
+      "pi": "le"
+    },
+    {
+      "ch": "一杯",
+      "en": "a glass of",
+      "pi": "yī bēi"
+    },
+    {
+      "ch": "水",
+      "en": "water",
+      "pi": "shuǐ"
+    },
+    {
+      "ch": "给",
+      "en": "to",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    }
+  ]
+}

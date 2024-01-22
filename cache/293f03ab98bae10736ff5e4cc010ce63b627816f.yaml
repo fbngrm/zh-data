@@ -1,0 +1,47 @@
+{
+  "chinese": "我见了一个叫史密斯的男人。",
+  "english": "I saw a man named Smith.",
+  "pinyin": "Wǒ jiàn le yī gè jiào Shǐ Mì Sī de nán rén.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "见",
+      "en": "saw",
+      "pi": "jiàn"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "叫",
+      "en": "named",
+      "pi": "jiào"
+    },
+    {
+      "ch": "史密斯",
+      "en": "Smith",
+      "pi": "Shǐ Mì Sī"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "男人",
+      "en": "man",
+      "pi": "nán rén"
+    }
+  ]
+}

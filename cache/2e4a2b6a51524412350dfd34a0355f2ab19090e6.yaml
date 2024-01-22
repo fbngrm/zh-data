@@ -1,0 +1,32 @@
+{
+  "chinese": "问问他会不会说日语。",
+  "english": "Ask him if he can speak Japanese.",
+  "pinyin": "wèn wèn tā huì bu huì shuō rì yǔ。",
+  "words": [
+    {
+      "ch": "问问",
+      "en": "Ask",
+      "pi": "wèn wèn"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    },
+    {
+      "ch": "会不会",
+      "en": "can or cannot",
+      "pi": "huì bu huì"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "日语",
+      "en": "Japanese",
+      "pi": "rì yǔ"
+    }
+  ]
+}

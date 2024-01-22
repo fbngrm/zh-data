@@ -1,0 +1,37 @@
+{
+  "chinese": "请问，我可以加入你们吗？",
+  "english": "Excuse me, can I join you?",
+  "pinyin": "Qǐngwèn, wǒ kěyǐ jiārù nǐmen ma?",
+  "words": [
+    {
+      "ch": "请问",
+      "en": "Excuse me",
+      "pi": "Qǐngwèn"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kěyǐ"
+    },
+    {
+      "ch": "加入",
+      "en": "join",
+      "pi": "jiārù"
+    },
+    {
+      "ch": "你们",
+      "en": "you",
+      "pi": "nǐmen"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

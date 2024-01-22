@@ -1,0 +1,42 @@
+{
+  "chinese": "我既不是雅典人也不是希腊人。",
+  "english": "I am neither an Athenian nor a Greek.",
+  "pinyin": "wǒ jì bù shì yǎ diǎn rén yě bù shì xī là rén。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "既",
+      "en": "neither",
+      "pi": "jì"
+    },
+    {
+      "ch": "不是",
+      "en": "am not",
+      "pi": "bù shì"
+    },
+    {
+      "ch": "雅典人",
+      "en": "Athenian",
+      "pi": "yǎ diǎn rén"
+    },
+    {
+      "ch": "也",
+      "en": "nor",
+      "pi": "yě"
+    },
+    {
+      "ch": "不是",
+      "en": "am not",
+      "pi": "bù shì"
+    },
+    {
+      "ch": "希腊人",
+      "en": "Greek",
+      "pi": "xī là rén"
+    }
+  ]
+}

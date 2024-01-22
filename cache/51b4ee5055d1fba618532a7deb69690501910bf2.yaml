@@ -1,0 +1,13 @@
+{
+  "chinese": "我们两个人都是学生。",
+  "english": "Both of us are students.",
+  "pinyin": "wǒmen liǎng gè rén dōu shì xuéshēng.",
+  "words": [
+    {"ch": "我们", "en": "We", "pi": "wǒmen"},
+    {"ch": "两个", "en": "both", "pi": "liǎng gè"},
+    {"ch": "人", "en": "person", "pi": "rén"},
+    {"ch": "都", "en": "all", "pi": "dōu"},
+    {"ch": "是", "en": "are", "pi": "shì"},
+    {"ch": "学生", "en": "students", "pi": "xuéshēng"}
+  ]
+}

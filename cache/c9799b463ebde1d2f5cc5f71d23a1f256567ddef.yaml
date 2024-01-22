@@ -1,0 +1,32 @@
+{
+  "chinese": "这里游泳很危险的。",
+  "english": "Swimming here is very dangerous.",
+  "pinyin": "zhè lǐ yóu yǒng hěn wēi xiǎn de.",
+  "words": [
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "游泳",
+      "en": "swimming",
+      "pi": "yóu yǒng"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "危险",
+      "en": "dangerous",
+      "pi": "wēi xiǎn"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我的头发很容易打卷。",
+  "english": "My hair is very easy to curl.",
+  "pinyin": "wǒ de tóu fǎ hěn róng yì dǎ juǎn.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "头发",
+      "en": "hair",
+      "pi": "tóu fǎ"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "容易",
+      "en": "easy",
+      "pi": "róng yì"
+    },
+    {
+      "ch": "打卷",
+      "en": "to curl",
+      "pi": "dǎ juǎn"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我爸爸不吸烟、不喝酒。",
+  "english": "My dad doesn't smoke or drink alcohol.",
+  "pinyin": "Wǒ bàba bù xīyān, bù hējiǔ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "爸爸",
+      "en": "dad",
+      "pi": "bàba"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "吸烟",
+      "en": "smoke",
+      "pi": "xīyān"
+    },
+    {
+      "ch": "、",
+      "en": ",",
+      "pi": "、"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "喝酒",
+      "en": "drink alcohol",
+      "pi": "hējiǔ"
+    }
+  ]
+}

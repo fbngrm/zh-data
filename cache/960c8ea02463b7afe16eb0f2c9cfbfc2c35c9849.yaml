@@ -1,0 +1,47 @@
+{
+  "chinese": "我的祖父每天早上都会去散步。",
+  "english": "My grandfather goes for a walk every morning.",
+  "pinyin": "Wǒ de zǔfù měitiān zǎoshang dōu huì qù sànbù.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "祖父",
+      "en": "grandfather",
+      "pi": "zǔfù"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měitiān"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎoshang"
+    },
+    {
+      "ch": "都",
+      "en": "always",
+      "pi": "dōu"
+    },
+    {
+      "ch": "会",
+      "en": "to",
+      "pi": "huì"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "散步",
+      "en": "for a walk",
+      "pi": "sànbù"
+    }
+  ]
+}

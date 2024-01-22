@@ -1,0 +1,32 @@
+{
+  "chinese": "我们明天要去跳舞。",
+  "english": "We are going to dance tomorrow.",
+  "pinyin": "wǒmen míngtiān yào qù tiàowǔ.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "要",
+      "en": "to",
+      "pi": "yào"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "跳舞",
+      "en": "dance",
+      "pi": "tiàowǔ"
+    }
+  ]
+}

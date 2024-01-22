@@ -1,0 +1,37 @@
+{
+  "chinese": "他会说十种语言。",
+  "english": "He can speak ten languages.",
+  "pinyin": "tā huì shuō shí zhǒng yǔyán.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "十",
+      "en": "ten",
+      "pi": "shí"
+    },
+    {
+      "ch": "种",
+      "en": "kinds",
+      "pi": "zhǒng"
+    },
+    {
+      "ch": "语言",
+      "en": "languages",
+      "pi": "yǔyán"
+    }
+  ]
+}

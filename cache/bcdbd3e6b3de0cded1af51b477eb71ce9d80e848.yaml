@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆总是在看电视。",
+  "english": "Tom always watches TV.",
+  "pinyin": "Tāng mǔ zǒng shì zài kàn diànshì.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "总是",
+      "en": "always",
+      "pi": "zǒng shì"
+    },
+    {
+      "ch": "在",
+      "en": "in/at",
+      "pi": "zài"
+    },
+    {
+      "ch": "看",
+      "en": "watch",
+      "pi": "kàn"
+    },
+    {
+      "ch": "电视",
+      "en": "TV",
+      "pi": "diànshì"
+    }
+  ]
+}

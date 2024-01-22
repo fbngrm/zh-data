@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆是个很好的歌手。",
+  "english": "Tom is a very good singer.",
+  "pinyin": "Tāng mǔ shì gè hěn hǎo de gēshǒu.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "很好",
+      "en": "very good",
+      "pi": "hěn hǎo"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "歌手",
+      "en": "singer",
+      "pi": "gēshǒu"
+    }
+  ]
+}

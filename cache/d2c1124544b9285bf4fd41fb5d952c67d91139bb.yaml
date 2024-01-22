@@ -1,0 +1,14 @@
+{
+  "chinese": "这是昨天来的那个女孩。",
+  "english": "This is the girl who came yesterday.",
+  "pinyin": "zhè shì zuó tiān lái de nà gè nǚ hái。",
+  "words": [
+    { "ch": "这", "en": "this", "pi": "zhè" },
+    { "ch": "是", "en": "is", "pi": "shì" },
+    { "ch": "昨天", "en": "yesterday", "pi": "zuó tiān" },
+    { "ch": "来", "en": "came", "pi": "lái" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "那个", "en": "that", "pi": "nà gè" },
+    { "ch": "女孩", "en": "girl", "pi": "nǚ hái" }
+  ]
+}

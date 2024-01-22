@@ -1,0 +1,16 @@
+{
+  "chinese": "这个月一直都很热，但今天是个例外。",
+  "english": "It has been hot all month, but today is an exception.",
+  "pinyin": "zhè gè yuè yīzhí dōu hěn rè, dàn jīntiān shì gè lìwài。",
+  "words": [
+    { "ch": "这个月", "en": "this month", "pi": "zhè gè yuè" },
+    { "ch": "一直", "en": "always", "pi": "yīzhí" },
+    { "ch": "都很", "en": "very", "pi": "dōu hěn" },
+    { "ch": "热", "en": "hot", "pi": "rè" },
+    { "ch": "但", "en": "but", "pi": "dàn" },
+    { "ch": "今天", "en": "today", "pi": "jīntiān" },
+    { "ch": "是", "en": "is", "pi": "shì" },
+    { "ch": "个", "en": "an", "pi": "gè" },
+    { "ch": "例外", "en": "exception", "pi": "lìwài" }
+  ]
+}

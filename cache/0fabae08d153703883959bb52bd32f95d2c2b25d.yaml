@@ -1,0 +1,57 @@
+{
+  "chinese": "昨天下了雨，还下了雪。",
+  "english": "It rained yesterday and it snowed as well.",
+  "pinyin": "zuó tiān xià le yǔ, hái xià le xuě.",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "下",
+      "en": "rained",
+      "pi": "xià"
+    },
+    {
+      "ch": "了",
+      "en": "and",
+      "pi": "le"
+    },
+    {
+      "ch": "雨",
+      "en": "rain",
+      "pi": "yǔ"
+    },
+    {
+      "ch": "，",
+      "en": "comma",
+      "pi": "，"
+    },
+    {
+      "ch": "还",
+      "en": "as well",
+      "pi": "hái"
+    },
+    {
+      "ch": "下",
+      "en": "snowed",
+      "pi": "xià"
+    },
+    {
+      "ch": "了",
+      "en": "and",
+      "pi": "le"
+    },
+    {
+      "ch": "雪",
+      "en": "snow",
+      "pi": "xuě"
+    },
+    {
+      "ch": "。",
+      "en": "period",
+      "pi": "。"
+    }
+  ]
+}

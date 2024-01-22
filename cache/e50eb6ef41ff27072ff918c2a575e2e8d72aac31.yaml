@@ -1,0 +1,32 @@
+{
+  "chinese": "昨天我遇见了玛丽。",
+  "english": "Yesterday I met Mary.",
+  "pinyin": "Zuótiān wǒ yùjiàn le Mǎlì.",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "遇见",
+      "en": "met",
+      "pi": "yùjiàn"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎlì"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "这是我的日本朋友。",
+  "english": "This is my Japanese friend.",
+  "pinyin": "zhè shì wǒ de rì běn péng yǒu.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "日本",
+      "en": "Japanese",
+      "pi": "rì běn"
+    },
+    {
+      "ch": "朋友",
+      "en": "friend",
+      "pi": "péng yǒu"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "我们选择了约翰当队长。",
+  "english": "We chose John as the team captain.",
+  "pinyin": "wǒmen xuǎnzéle yāohàn dāng duìzhǎng。",
+  "words": [
+    {"ch": "我们", "en": "we", "pi": "wǒmen"},
+    {"ch": "选择", "en": "choose", "pi": "xuǎnzé"},
+    {"ch": "了", "en": "past tense marker", "pi": "le"},
+    {"ch": "约翰", "en": "John", "pi": "yāohàn"},
+    {"ch": "当", "en": "as", "pi": "dāng"},
+    {"ch": "队长", "en": "team captain", "pi": "duìzhǎng"}
+  ]
+}

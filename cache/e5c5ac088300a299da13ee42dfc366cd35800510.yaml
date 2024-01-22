@@ -1,0 +1,32 @@
+{
+  "chinese": "我的母亲在做蛋糕。",
+  "english": "My mother is making a cake.",
+  "pinyin": "Wǒ de mǔqīn zài zuò dàngāo.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "My",
+      "pi": "Wǒ de"
+    },
+    {
+      "ch": "母亲",
+      "en": "mother",
+      "pi": "mǔqīn"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "做",
+      "en": "making",
+      "pi": "zuò"
+    },
+    {
+      "ch": "蛋糕",
+      "en": "cake",
+      "pi": "dàngāo"
+    }
+  ]
+}

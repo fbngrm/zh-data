@@ -1,0 +1,42 @@
+{
+  "chinese": "昨晚你发生了什么事？",
+  "english": "What happened to you last night?",
+  "pinyin": "Zuó wǎn nǐ fāshēngle shénme shì?",
+  "words": [
+    {
+      "ch": "昨晚",
+      "en": "last night",
+      "pi": "zuó wǎn"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "发生",
+      "en": "happened",
+      "pi": "fāshēng"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "事",
+      "en": "thing",
+      "pi": "shì"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "?"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "有些人喜欢运动，有些人不喜欢。",
+  "english": "Some people like sports, some people don't.",
+  "pinyin": "yǒu xiē rén xǐhuān yùndòng, yǒu xiē rén bù xǐhuān.",
+  "words": [
+    {"ch": "有些人", "en": "Some people", "pi": "yǒu xiē rén"},
+    {"ch": "喜欢", "en": "like", "pi": "xǐhuān"},
+    {"ch": "运动", "en": "sports", "pi": "yùndòng"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "有些人", "en": "some people", "pi": "yǒu xiē rén"},
+    {"ch": "不喜欢", "en": "don't like", "pi": "bù xǐhuān"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}

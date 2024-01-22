@@ -1,0 +1,13 @@
+{ 
+  "chinese": "我们仍然有更多的时间。",
+  "english": "We still have more time.",
+  "pinyin": "wǒmen réngrán yǒu gèngduō de shíjiān.",
+  "words": [
+    { "ch": "我们", "en": "we", "pi": "wǒmen" },
+    { "ch": "仍然", "en": "still", "pi": "réngrán" },
+    { "ch": "有", "en": "have", "pi": "yǒu" },
+    { "ch": "更多", "en": "more", "pi": "gèngduō" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "时间", "en": "time", "pi": "shíjiān" }
+  ]
+}

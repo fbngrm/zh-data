@@ -1,0 +1,32 @@
+{
+  "chinese": "我今天早上看了电视。",
+  "english": "I watched TV this morning.",
+  "pinyin": "wǒ jīntiān zǎoshang kàn le diànshì.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎoshang"
+    },
+    {
+      "ch": "看了",
+      "en": "watched",
+      "pi": "kàn le"
+    },
+    {
+      "ch": "电视",
+      "en": "TV",
+      "pi": "diànshì"
+    }
+  ]
+}

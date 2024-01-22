@@ -1,0 +1,32 @@
+{
+  "chinese": "都是猫的错。",
+  "english": "It's all the cat's fault.",
+  "pinyin": "dōu shì māo de cuò.",
+  "words": [
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "错",
+      "en": "fault",
+      "pi": "cuò"
+    }
+  ]
+}

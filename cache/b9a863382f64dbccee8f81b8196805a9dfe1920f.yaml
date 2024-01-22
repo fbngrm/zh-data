@@ -1,0 +1,13 @@
+{
+  "chinese": "汤姆和玛丽在同一个班级。",
+  "english": "Tom and Mary are in the same class.",
+  "pinyin": "Tāng mǔ hé mǎ lì zài tóng yī gè bān jí.",
+  "words": [
+    { "ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ" },
+    { "ch": "和", "en": "and", "pi": "hé" },
+    { "ch": "玛丽", "en": "Mary", "pi": "mǎ lì" },
+    { "ch": "在", "en": "are", "pi": "zài" },
+    { "ch": "同一个", "en": "the same", "pi": "tóng yī gè" },
+    { "ch": "班级", "en": "class", "pi": "bān jí" }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "星期天不是我的工作日。",
+  "english": "Sunday is not my working day.",
+  "pinyin": "Xīngqītiān bùshì wǒ de gōngzuò rì.",
+  "words": [
+    {
+      "ch": "星期天",
+      "en": "Sunday",
+      "pi": "Xīngqītiān"
+    },
+    {
+      "ch": "不是",
+      "en": "not",
+      "pi": "bùshì"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "工作日",
+      "en": "working day",
+      "pi": "gōngzuò rì"
+    }
+  ]
+}

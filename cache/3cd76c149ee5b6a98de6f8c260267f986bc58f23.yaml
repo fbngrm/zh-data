@@ -1,0 +1,32 @@
+{
+  "chinese": "我有个坏消息。",
+  "english": "I have bad news.",
+  "pinyin": "wǒ yǒu gè huài xiāo xi。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "坏",
+      "en": "bad",
+      "pi": "huài"
+    },
+    {
+      "ch": "消息",
+      "en": "news",
+      "pi": "xiāo xi"
+    }
+  ]
+}

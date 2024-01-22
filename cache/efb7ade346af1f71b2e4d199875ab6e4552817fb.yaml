@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆在给玛丽买花。",
+  "english": "Tom is buying flowers for Mary.",
+  "pinyin": "tāng mǔ zài gěi mǎ lì mǎi huā.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "给",
+      "en": "buying",
+      "pi": "gěi"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "买",
+      "en": "flowers",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "花",
+      "en": "for",
+      "pi": "huā"
+    }
+  ]
+}

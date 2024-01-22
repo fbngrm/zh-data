@@ -1,0 +1,37 @@
+{
+  "chinese": "我累得走不動了。",
+  "english": "I'm too tired to walk.",
+  "pinyin": "wǒ lèi dé zǒu bù dòng le。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "累",
+      "en": "tired",
+      "pi": "lèi"
+    },
+    {
+      "ch": "得",
+      "en": "too",
+      "pi": "de"
+    },
+    {
+      "ch": "走",
+      "en": "walk",
+      "pi": "zǒu"
+    },
+    {
+      "ch": "不動",
+      "en": "cannot move",
+      "pi": "bù dòng"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

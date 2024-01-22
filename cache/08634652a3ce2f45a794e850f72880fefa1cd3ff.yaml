@@ -1,0 +1,255 @@
+{
+  "sentences": [
+    {
+      "chinese": "随着北朝鲜在２６号宣布了按照六方谈话上达成的共识所制定的核计划发展，美国将其从美国的恐怖主义捐助国的名单上去除。",
+      "english": "As North Korea announced on the 26th the development of its nuclear program based on the consensus reached in the six-party talks, the United States removed it from the list of countries sponsoring terrorism.",
+      "pinyin": "suí zhe běi cháo xiǎn zhe èr shí liù hào xuān bù le àn zhào liù fāng tán huà shàng dá chéng de gòng shì suǒ zhì dìng de hé jì huà fā zhǎn měi guó jiāng qí cóng měi guó de kǒng bù zhǔ yì juān zhù guó de míng dān shàng qù chú."
+    },
+    {
+      "chinese": "被绑架者的家属表达了不安，因为这有可能造成对绑架问题的放弃。",
+      "english": "Families of the kidnapped expressed their concerns because this could lead to the abandonment of the abduction issue.",
+      "pinyin": "bèi bǎng jiá zhě de jiā shǔ biǎo dá le bù ān yīn wèi zhè yǒu kě néng zào chéng duì bǎng jiá wèn tí de fàng qì."
+    }
+  ],
+  "words": [
+    [
+      {
+        "ch": "随着",
+        "en": "as",
+        "pi": "suí zhe"
+      },
+      {
+        "ch": "北朝鲜",
+        "en": "North Korea",
+        "pi": "běi cháo xiǎn"
+      },
+      {
+        "ch": "在",
+        "en": "in",
+        "pi": "zài"
+      },
+      {
+        "ch": "２６号",
+        "en": "26th",
+        "pi": "èr shí liù hào"
+      },
+      {
+        "ch": "宣布",
+        "en": "announced",
+        "pi": "xuān bù"
+      },
+      {
+        "ch": "了",
+        "en": "",
+        "pi": "le"
+      },
+      {
+        "ch": "按照",
+        "en": "based on",
+        "pi": "àn zhào"
+      },
+      {
+        "ch": "六方谈话",
+        "en": "six-party talks",
+        "pi": "liù fāng tán huà"
+      },
+      {
+        "ch": "上",
+        "en": "on",
+        "pi": "shàng"
+      },
+      {
+        "ch": "达成",
+        "en": "reached",
+        "pi": "dá chéng"
+      },
+      {
+        "ch": "的",
+        "en": "",
+        "pi": "de"
+      },
+      {
+        "ch": "共识",
+        "en": "consensus",
+        "pi": "gòng shì"
+      },
+      {
+        "ch": "所",
+        "en": "",
+        "pi": "suǒ"
+      },
+      {
+        "ch": "制定",
+        "en": "formulated",
+        "pi": "zhì dìng"
+      },
+      {
+        "ch": "核计划",
+        "en": "nuclear program",
+        "pi": "hé jì huà"
+      },
+      {
+        "ch": "发展",
+        "en": "development",
+        "pi": "fā zhǎn"
+      },
+      {
+        "ch": "，",
+        "en": "",
+        "pi": ","
+      },
+      {
+        "ch": "美国",
+        "en": "United States",
+        "pi": "měi guó"
+      },
+      {
+        "ch": "将",
+        "en": "removed",
+        "pi": "jiāng"
+      },
+      {
+        "ch": "其",
+        "en": "it",
+        "pi": "qí"
+      },
+      {
+        "ch": "从",
+        "en": "from",
+        "pi": "cóng"
+      },
+      {
+        "ch": "恐怖主义",
+        "en": "terrorism",
+        "pi": "kǒng bù zhǔ yì"
+      },
+      {
+        "ch": "捐助国",
+        "en": "countries sponsoring",
+        "pi": "juān zhù guó"
+      },
+      {
+        "ch": "的",
+        "en": "",
+        "pi": "de"
+      },
+      {
+        "ch": "名单",
+        "en": "list",
+        "pi": "míng dān"
+      },
+      {
+        "ch": "上",
+        "en": "",
+        "pi": "shàng"
+      },
+      {
+        "ch": "去除",
+        "en": "removed",
+        "pi": "qù chú"
+      },
+      {
+        "ch": "。",
+        "en": "",
+        "pi": "."
+      }
+    ],
+    [
+      {
+        "ch": "被",
+        "en": "by",
+        "pi": "bèi"
+      },
+      {
+        "ch": "绑架者",
+        "en": "kidnapped",
+        "pi": "bǎng jiá zhě"
+      },
+      {
+        "ch": "的",
+        "en": "",
+        "pi": "de"
+      },
+      {
+        "ch": "家属",
+        "en": "families",
+        "pi": "jiā shǔ"
+      },
+      {
+        "ch": "表达",
+        "en": "expressed",
+        "pi": "biǎo dá"
+      },
+      {
+        "ch": "了",
+        "en": "",
+        "pi": "le"
+      },
+      {
+        "ch": "不安",
+        "en": "concerns",
+        "pi": "bù ān"
+      },
+      {
+        "ch": "，",
+        "en": "",
+        "pi": ","
+      },
+      {
+        "ch": "因为",
+        "en": "because",
+        "pi": "yīn wèi"
+      },
+      {
+        "ch": "这",
+        "en": "this",
+        "pi": "zhè"
+      },
+      {
+        "ch": "有",
+        "en": "could",
+        "pi": "yǒu"
+      },
+      {
+        "ch": "可能",
+        "en": "likely",
+        "pi": "kě néng"
+      },
+      {
+        "ch": "造成",
+        "en": "lead to",
+        "pi": "zào chéng"
+      },
+      {
+        "ch": "对",
+        "en": "of",
+        "pi": "duì"
+      },
+      {
+        "ch": "绑架",
+        "en": "abduction",
+        "pi": "bǎng jiá"
+      },
+      {
+        "ch": "问题",
+        "en": "issue",
+        "pi": "wèn tí"
+      },
+      {
+        "ch": "的",
+        "en": "",
+        "pi": "de"
+      },
+      {
+        "ch": "放弃",
+        "en": "abandonment",
+        "pi": "fàng qì"
+      },
+      {
+        "ch": "。",
+        "en": "",
+        "pi": "."
+      }
+    ]
+  ]
+}

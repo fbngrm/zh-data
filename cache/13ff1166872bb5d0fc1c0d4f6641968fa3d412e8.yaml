@@ -1,0 +1,14 @@
+{
+  "chinese": "他用水装满了瓶子。",
+  "english": "He filled the bottle with water.",
+  "pinyin": "tā yòng shuǐ zhuāng mǎn le píngzi.",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "用", "en": "use", "pi": "yòng"},
+    {"ch": "水", "en": "water", "pi": "shuǐ"},
+    {"ch": "装", "en": "fill", "pi": "zhuāng"},
+    {"ch": "满", "en": "full", "pi": "mǎn"},
+    {"ch": "了", "en": "with", "pi": "le"},
+    {"ch": "瓶子", "en": "bottle", "pi": "píngzi"}
+  ]
+}

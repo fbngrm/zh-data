@@ -1,0 +1,15 @@
+{
+  "chinese": "这只狗是两个月前出生的。",
+  "english": "This dog was born two months ago.",
+  "pinyin": "zhè zhī gǒu shì liǎng gè yuè qián chū shēng de.",
+  "words": [
+    {"ch": "这只", "en": "this", "pi": "zhè zhī"},
+    {"ch": "狗", "en": "dog", "pi": "gǒu"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "两个", "en": "two", "pi": "liǎng gè"},
+    {"ch": "月", "en": "months", "pi": "yuè"},
+    {"ch": "前", "en": "ago", "pi": "qián"},
+    {"ch": "出生", "en": "born", "pi": "chū shēng"},
+    {"ch": "的", "en": "of", "pi": "de"}
+  ]
+}

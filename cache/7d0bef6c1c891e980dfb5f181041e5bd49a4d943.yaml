@@ -1,0 +1,42 @@
+{
+  "chinese": "她为我们煮了蔬菜汤。",
+  "english": "She cooked vegetable soup for us.",
+  "pinyin": "tā wèi wǒmen zhǔ le shūcài tāng.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "为",
+      "en": "for",
+      "pi": "wèi"
+    },
+    {
+      "ch": "我们",
+      "en": "us",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "煮",
+      "en": "cooked",
+      "pi": "zhǔ"
+    },
+    {
+      "ch": "了",
+      "en": "past tense marker",
+      "pi": "le"
+    },
+    {
+      "ch": "蔬菜",
+      "en": "vegetable",
+      "pi": "shūcài"
+    },
+    {
+      "ch": "汤",
+      "en": "soup",
+      "pi": "tāng"
+    }
+  ]
+}

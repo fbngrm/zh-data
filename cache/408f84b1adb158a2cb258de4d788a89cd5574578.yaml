@@ -1,0 +1,42 @@
+{
+  "chinese": "他大概在六点离开了建筑物。",
+  "english": "He probably left the building around six o'clock.",
+  "pinyin": "tā dàgài zài liù diǎn líkāile jiànzhúwù.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "大概",
+      "en": "probably",
+      "pi": "dàgài"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "六点",
+      "en": "six o'clock",
+      "pi": "liù diǎn"
+    },
+    {
+      "ch": "离开",
+      "en": "left",
+      "pi": "líkāi"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "建筑物",
+      "en": "building",
+      "pi": "jiànzhúwù"
+    }
+  ]
+}

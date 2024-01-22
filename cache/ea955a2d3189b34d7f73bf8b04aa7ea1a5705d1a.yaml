@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆看他在镜中的映像。",
+  "english": "Tom looks at his reflection in the mirror.",
+  "pinyin": "Tāng mǔ kàn tā zài jìng zhōng de yìng xiàng.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "看",
+      "en": "looks at",
+      "pi": "kàn"
+    },
+    {
+      "ch": "他",
+      "en": "his",
+      "pi": "tā"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "镜中",
+      "en": "the mirror",
+      "pi": "jìng zhōng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "映像",
+      "en": "reflection",
+      "pi": "yìng xiàng"
+    }
+  ]
+}

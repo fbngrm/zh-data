@@ -1,0 +1,27 @@
+{
+  "chinese": "明天天气晴转阵雨。",
+  "english": "The weather tomorrow will be sunny with showers.",
+  "pinyin": "míng tiān tiān qì qíng zhuǎn zhèn yǔ。",
+  "words": [
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiān qì"
+    },
+    {
+      "ch": "晴转",
+      "en": "sunny with",
+      "pi": "qíng zhuǎn"
+    },
+    {
+      "ch": "阵雨",
+      "en": "showers",
+      "pi": "zhèn yǔ"
+    }
+  ]
+}

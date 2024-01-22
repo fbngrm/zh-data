@@ -1,0 +1,16 @@
+{
+  "chinese": "你必须付三个月的房租作为押金。",
+  "english": "You must pay three months' rent as a deposit.",
+  "pinyin": "nǐ bìxū fù sān gè yuè de fángzū zuòwéi yājīn。",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "必须", "en": "must", "pi": "bìxū"},
+    {"ch": "付", "en": "pay", "pi": "fù"},
+    {"ch": "三个", "en": "three", "pi": "sān gè"},
+    {"ch": "月", "en": "months", "pi": "yuè"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "房租", "en": "rent", "pi": "fángzū"},
+    {"ch": "作为", "en": "as", "pi": "zuòwéi"},
+    {"ch": "押金", "en": "deposit", "pi": "yājīn"}
+  ]
+}

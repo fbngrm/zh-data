@@ -1,0 +1,13 @@
+{
+  "chinese": "你打算在这儿待多久？",
+  "english": "How long do you plan to stay here?",
+  "pinyin": "nǐ dǎsuàn zài zhèr dāi duōjiǔ?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "打算", "en": "plan", "pi": "dǎsuàn"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "这儿", "en": "here", "pi": "zhèr"},
+    {"ch": "待", "en": "stay", "pi": "dāi"},
+    {"ch": "多久", "en": "how long", "pi": "duōjiǔ"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "一天有二十四个小时。",
+  "english": "There are twenty-four hours in a day.",
+  "pinyin": "Yī tiān yǒu èr shí sì gè xiǎo shí.",
+  "words": [
+    {
+      "ch": "一天",
+      "en": "one day",
+      "pi": "yī tiān"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "二十四",
+      "en": "twenty-four",
+      "pi": "èr shí sì"
+    },
+    {
+      "ch": "个",
+      "en": "measure word",
+      "pi": "gè"
+    },
+    {
+      "ch": "小时",
+      "en": "hours",
+      "pi": "xiǎo shí"
+    }
+  ]
+}

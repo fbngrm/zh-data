@@ -1,0 +1,32 @@
+{
+  "chinese": "医生治好了他的癌症。",
+  "english": "The doctor cured his cancer.",
+  "pinyin": "yī shēng zhì hǎo le tā de ái zhèng.",
+  "words": [
+    {
+      "ch": "医生",
+      "en": "doctor",
+      "pi": "yī shēng"
+    },
+    {
+      "ch": "治好",
+      "en": "cured",
+      "pi": "zhì hǎo"
+    },
+    {
+      "ch": "了",
+      "en": "his",
+      "pi": "le"
+    },
+    {
+      "ch": "他的",
+      "en": "cancer",
+      "pi": "tā de"
+    },
+    {
+      "ch": "癌症",
+      "en": "cancer",
+      "pi": "ái zhèng"
+    }
+  ]
+}

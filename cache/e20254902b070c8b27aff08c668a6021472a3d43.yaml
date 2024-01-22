@@ -1,0 +1,37 @@
+{
+  "chinese": "火车今天晚了十分钟。",
+  "english": "The train is ten minutes late today.",
+  "pinyin": "huǒ chē jīn tiān wǎn le shí fēn zhōng。",
+  "words": [
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒ chē"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "晚",
+      "en": "late",
+      "pi": "wǎn"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "十",
+      "en": "ten",
+      "pi": "shí"
+    },
+    {
+      "ch": "分钟",
+      "en": "minutes",
+      "pi": "fēn zhōng"
+    }
+  ]
+}

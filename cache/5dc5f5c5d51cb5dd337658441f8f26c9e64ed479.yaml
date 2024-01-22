@@ -1,0 +1,32 @@
+{
+  "chinese": "这个男孩子在吃面包。",
+  "english": "This boy is eating bread.",
+  "pinyin": "zhè gè nán hái zǐ zài chī miàn bāo。",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "This",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "男孩子",
+      "en": "boy",
+      "pi": "nán hái zǐ"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "吃",
+      "en": "eating",
+      "pi": "chī"
+    },
+    {
+      "ch": "面包",
+      "en": "bread",
+      "pi": "miàn bāo"
+    }
+  ]
+}

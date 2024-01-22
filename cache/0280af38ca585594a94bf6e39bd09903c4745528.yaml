@@ -1,0 +1,47 @@
+{
+  "chinese": "明天天气不好，不是晴天，要下雪，很冷。",
+  "english": "The weather will be bad tomorrow, it won't be sunny, it will snow, very cold.",
+  "pinyin": "míng tiān tiān qì bù hǎo, bú shì qíng tiān, yào xià xuě, hěn lěng.",
+  "words": [
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiān qì"
+    },
+    {
+      "ch": "不好",
+      "en": "bad",
+      "pi": "bù hǎo"
+    },
+    {
+      "ch": "不是",
+      "en": "won't be",
+      "pi": "bú shì"
+    },
+    {
+      "ch": "晴天",
+      "en": "sunny",
+      "pi": "qíng tiān"
+    },
+    {
+      "ch": "要",
+      "en": "will",
+      "pi": "yào"
+    },
+    {
+      "ch": "下雪",
+      "en": "snow",
+      "pi": "xià xuě"
+    },
+    {
+      "ch": "很冷",
+      "en": "very cold",
+      "pi": "hěn lěng"
+    }
+  ]
+}

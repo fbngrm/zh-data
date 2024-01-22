@@ -1,0 +1,42 @@
+{
+  "chinese": "不要把它放在我的桌子上。",
+  "english": "Don't put it on my desk.",
+  "pinyin": "bù yào bǎ tā fàng zài wǒ de zhuō zi shàng。",
+  "words": [
+    {
+      "ch": "不要",
+      "en": "Don't",
+      "pi": "bù yào"
+    },
+    {
+      "ch": "把",
+      "en": "put",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "它",
+      "en": "it",
+      "pi": "tā"
+    },
+    {
+      "ch": "放在",
+      "en": "on",
+      "pi": "fàng zài"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "桌子",
+      "en": "desk",
+      "pi": "zhuō zi"
+    },
+    {
+      "ch": "上",
+      "en": "above",
+      "pi": "shàng"
+    }
+  ]
+}

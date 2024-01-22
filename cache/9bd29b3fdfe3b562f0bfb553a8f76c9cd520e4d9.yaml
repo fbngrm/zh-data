@@ -1,0 +1,15 @@
+{
+  "chinese": "這是我讀過最長的一本小說。",
+  "english": "This is the longest novel I have ever read.",
+  "pinyin": "zhè shì wǒ dú guò zuì cháng de yī běn xiǎo shuō.",
+  "words": [
+    {"ch": "這", "en": "This", "pi": "zhè"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "讀過", "en": "have read", "pi": "dú guò"},
+    {"ch": "最長", "en": "longest", "pi": "zuì cháng"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "一本", "en": "one", "pi": "yī běn"},
+    {"ch": "小說", "en": "novel", "pi": "xiǎo shuō"}
+  ]
+}

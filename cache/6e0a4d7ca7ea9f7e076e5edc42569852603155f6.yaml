@@ -1,0 +1,32 @@
+{
+  "chinese": "我的手表每天快一分钟。",
+  "english": "My watch is one minute fast every day.",
+  "pinyin": "wǒ de shǒubiǎo měitiān kuài yī fēnzhōng.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "手表",
+      "en": "watch",
+      "pi": "shǒubiǎo"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měitiān"
+    },
+    {
+      "ch": "快",
+      "en": "fast",
+      "pi": "kuài"
+    },
+    {
+      "ch": "一分钟",
+      "en": "one minute",
+      "pi": "yī fēnzhōng"
+    }
+  ]
+}

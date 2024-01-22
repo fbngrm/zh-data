@@ -1,0 +1,47 @@
+{
+  "chinese": "有人把我锁在这房间里。",
+  "english": "Someone locked me in this room.",
+  "pinyin": "yǒu rén bǎ wǒ suǒ zài zhè fáng jiān lǐ。",
+  "words": [
+    {
+      "ch": "有人",
+      "en": "someone",
+      "pi": "yǒu rén"
+    },
+    {
+      "ch": "把",
+      "en": "lock",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "锁",
+      "en": "lock",
+      "pi": "suǒ"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "房间",
+      "en": "room",
+      "pi": "fáng jiān"
+    },
+    {
+      "ch": "里",
+      "en": "inside",
+      "pi": "lǐ"
+    }
+  ]
+}

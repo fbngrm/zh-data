@@ -1,0 +1,15 @@
+{
+  "chinese": "寶拉為今天的考試唸書了嗎?",
+  "english": "Has Paula studied for today's exam?",
+  "pinyin": "bǎo lā wèi jīn tiān de kǎo shì niàn shū le ma?",
+  "words": [
+    {"ch": "寶拉", "en": "Paula", "pi": "bǎo lā"},
+    {"ch": "為", "en": "for", "pi": "wèi"},
+    {"ch": "今天", "en": "today", "pi": "jīn tiān"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "考試", "en": "exam", "pi": "kǎo shì"},
+    {"ch": "唸書", "en": "study", "pi": "niàn shū"},
+    {"ch": "了", "en": "has", "pi": "le"},
+    {"ch": "嗎", "en": "question particle", "pi": "ma"}
+  ]
+}

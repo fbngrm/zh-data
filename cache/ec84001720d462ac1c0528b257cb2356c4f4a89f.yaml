@@ -1,0 +1,12 @@
+{
+  "chinese": "我昨天去河里游泳了。",
+  "english": "I went swimming in the river yesterday.",
+  "pinyin": "wǒ zuótiān qù hé lǐ yóu yǒng le。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "昨天", "en": "yesterday", "pi": "zuótiān"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "河里", "en": "in the river", "pi": "hé lǐ"},
+    {"ch": "游泳", "en": "swimming", "pi": "yóu yǒng"},
+    {"ch": "了", "en": "did", "pi": "le"}]
+}

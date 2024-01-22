@@ -1,0 +1,15 @@
+{
+  "chinese": "我不知道狗游泳游得好。",
+  "english": "I don't know if dogs swim well.",
+  "pinyin": "wǒ bù zhīdào gǒu yóuyǒng yóu dé hǎo.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "不", "en": "don't", "pi": "bù"},
+    {"ch": "知道", "en": "know", "pi": "zhīdào"},
+    {"ch": "狗", "en": "dog", "pi": "gǒu"},
+    {"ch": "游泳", "en": "swim", "pi": "yóuyǒng"},
+    {"ch": "游", "en": "well", "pi": "yóu"},
+    {"ch": "得", "en": "good", "pi": "dé"},
+    {"ch": "好", "en": "well", "pi": "hǎo"}
+  ]
+}

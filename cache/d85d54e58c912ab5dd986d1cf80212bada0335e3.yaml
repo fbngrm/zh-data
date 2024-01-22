@@ -1,0 +1,13 @@
+{
+    "chinese": "我要去沙滩，你呢？",
+    "english": "I want to go to the beach, how about you?",
+    "pinyin": "wǒ yào qù shātān, nǐ ne?",
+    "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "要", "en": "want to", "pi": "yào"},
+        {"ch": "去", "en": "go to", "pi": "qù"},
+        {"ch": "沙滩", "en": "beach", "pi": "shātān"},
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "呢", "en": "how about", "pi": "ne"}
+    ]
+}

@@ -1,0 +1,88 @@
+{
+  "sentences": [
+    {
+      "chinese": "等他回来，我要让他给你打电话吗？",
+      "english": "Should I ask him to call you when he returns?",
+      "pinyin": "děng tā huílái, wǒ yào ràng tā gěi nǐ dǎ diànhuà ma？",
+      "words": [
+        {
+          "ch": "等",
+          "en": "wait",
+          "pi": "děng"
+        },
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "回来",
+          "en": "return",
+          "pi": "huílái"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "要",
+          "en": "want",
+          "pi": "yào"
+        },
+        {
+          "ch": "让",
+          "en": "let",
+          "pi": "ràng"
+        },
+        {
+          "ch": "他",
+          "en": "him",
+          "pi": "tā"
+        },
+        {
+          "ch": "给",
+          "en": "give",
+          "pi": "gěi"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "打电话",
+          "en": "call",
+          "pi": "dǎ diànhuà"
+        },
+        {
+          "ch": "吗",
+          "en": "question particle",
+          "pi": "ma"
+        }
+      ]
+    },
+    {
+      "chinese": "是的，谢谢。",
+      "english": "Yes, thank you.",
+      "pinyin": "shì de, xièxiè.",
+      "words": [
+        {
+          "ch": "是",
+          "en": "yes",
+          "pi": "shì"
+        },
+        {
+          "ch": "的",
+          "en": "particle",
+          "pi": "de"
+        },
+        {
+          "ch": "谢谢",
+          "en": "thank you",
+          "pi": "xièxiè"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "大象是巨大的动物。",
+  "english": "Elephants are large animals.",
+  "pinyin": "dà xiàng shì jù dà de dòng wù.",
+  "words": [
+    {
+      "ch": "大象",
+      "en": "Elephant",
+      "pi": "dà xiàng"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "巨大",
+      "en": "large",
+      "pi": "jù dà"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "动物",
+      "en": "animal",
+      "pi": "dòng wù"
+    }
+  ]
+}

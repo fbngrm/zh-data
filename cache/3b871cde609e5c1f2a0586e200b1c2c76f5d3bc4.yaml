@@ -1,0 +1,32 @@
+{
+  "chinese": "告诉我汤姆的情况。",
+  "english": "Tell me about Tom's situation.",
+  "pinyin": "gào sù wǒ tāng mǔ de qíng kuàng。",
+  "words": [
+    {
+      "ch": "告诉",
+      "en": "Tell",
+      "pi": "gào sù"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "情况",
+      "en": "situation",
+      "pi": "qíng kuàng"
+    }
+  ]
+}

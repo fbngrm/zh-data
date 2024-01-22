@@ -1,0 +1,18 @@
+{
+  "chinese": "我不想去那儿，他也不想。",
+  "english": "I don't want to go there, he doesn't want to either.",
+  "pinyin": "wǒ bù xiǎng qù nàr, tā yě bù xiǎng。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "想", "en": "want", "pi": "xiǎng"},
+    {"ch": "去", "en": "to go", "pi": "qù"},
+    {"ch": "那儿", "en": "there", "pi": "nàr"},
+    {"ch": "，", "en": ",", "pi": null},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "也", "en": "also", "pi": "yě"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "想", "en": "want", "pi": "xiǎng"},
+    {"ch": "。", "en": ".", "pi": null}
+  ]
+}

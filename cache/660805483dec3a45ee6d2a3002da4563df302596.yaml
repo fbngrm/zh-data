@@ -1,0 +1,47 @@
+{
+  "chinese": "請你幫我個忙好嗎?",
+  "english": "Could you do me a favor?",
+  "pinyin": "qǐng nǐ bāng wǒ gè máng hǎo ma?",
+  "words": [
+    {
+      "ch": "請",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "幫",
+      "en": "help",
+      "pi": "bāng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "個",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "忙",
+      "en": "favor",
+      "pi": "máng"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "嗎",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我弟弟是个一年级的学生。",
+  "english": "My little brother is a first grade student.",
+  "pinyin": "Wǒ dìdì shì gè yī niánjí de xuéshēng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "弟弟",
+      "en": "brother",
+      "pi": "dìdì"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "一年级",
+      "en": "first grade",
+      "pi": "yī niánjí"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "学生",
+      "en": "student",
+      "pi": "xuéshēng"
+    }
+  ]
+}

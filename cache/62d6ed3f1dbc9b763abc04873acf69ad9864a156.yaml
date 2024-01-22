@@ -1,0 +1,57 @@
+{
+  "chinese": "您刚刚说了什么？请重复一遍好吗。",
+  "english": "What did you just say? Could you please repeat it?",
+  "pinyin": "Nín gānggāng shuōle shénme? Qǐng chóngfù yībiàn hǎo ma?",
+  "words": [
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "刚刚",
+      "en": "just now",
+      "pi": "gānggāng"
+    },
+    {
+      "ch": "说",
+      "en": "say",
+      "pi": "shuō"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "重复",
+      "en": "repeat",
+      "pi": "chóngfù"
+    },
+    {
+      "ch": "一遍",
+      "en": "one more time",
+      "pi": "yībiàn"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "吗",
+      "en": "particle indicating a question",
+      "pi": "ma"
+    }
+  ]
+}

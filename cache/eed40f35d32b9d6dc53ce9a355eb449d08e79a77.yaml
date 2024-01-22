@@ -1,0 +1,13 @@
+{
+  "chinese": "他是我最好的朋友。",
+  "english": "He is my best friend.",
+  "pinyin": "Tā shì wǒ zuì hǎo de péngyǒu.",
+  "words": [
+    { "ch": "他", "en": "he", "pi": "tā" },
+    { "ch": "是", "en": "is", "pi": "shì" },
+    { "ch": "我", "en": "my", "pi": "wǒ" },
+    { "ch": "最好", "en": "best", "pi": "zuì hǎo" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "朋友", "en": "friend", "pi": "péngyǒu" }
+  ]
+}

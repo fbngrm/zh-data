@@ -1,0 +1,43 @@
+{
+  "sentences": [
+    {
+      "chinese": "是的。",
+      "english": "Yes.",
+      "pinyin": "shì de.",
+      "words": [
+        {
+          "ch": "是",
+          "en": "Yes",
+          "pi": "shì"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": "de"
+        }
+      ]
+    },
+    {
+      "chinese": "没错。",
+      "english": "That's right.",
+      "pinyin": "méi cuò.",
+      "words": [
+        {
+          "ch": "没",
+          "en": "Not",
+          "pi": "méi"
+        },
+        {
+          "ch": "错",
+          "en": "Wrong",
+          "pi": "cuò"
+        },
+        {
+          "ch": "。",
+          "en": "",
+          "pi": ""
+        }
+      ]
+    }
+  ]
+}

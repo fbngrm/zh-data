@@ -1,0 +1,13 @@
+{
+  "chinese": "看起来像是汤姆赢得了比赛。",
+  "english": "It looks like Tom won the game.",
+  "pinyin": "kàn qǐlái xiàng shì Tāngmǔ yíngdéle bǐsài.",
+  "words": [
+    { "ch": "看起来", "en": "It looks like", "pi": "kàn qǐlái" },
+    { "ch": "像是", "en": "like", "pi": "xiàng shì" },
+    { "ch": "汤姆", "en": "Tom", "pi": "Tāngmǔ" },
+    { "ch": "赢得", "en": "won", "pi": "yíngdé" },
+    { "ch": "了", "en": "", "pi": "le" },
+    { "ch": "比赛", "en": "game", "pi": "bǐsài" }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我什么时间到达东京？",
+  "english": "What time will I arrive in Tokyo?",
+  "pinyin": "Wǒ shénme shíjiān dàodá Dōngjīng?",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "时间",
+      "en": "time",
+      "pi": "shíjiān"
+    },
+    {
+      "ch": "到达",
+      "en": "arrive",
+      "pi": "dàodá"
+    },
+    {
+      "ch": "东京",
+      "en": "Tokyo",
+      "pi": "Dōngjīng"
+    }
+  ]
+}

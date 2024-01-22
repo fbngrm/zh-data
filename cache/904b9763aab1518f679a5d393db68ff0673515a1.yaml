@@ -1,0 +1,16 @@
+{
+  "chinese": "食物、衣服和住所都是生活的必需品。",
+  "english": "Food, clothing, and shelter are basic necessities of life.",
+  "pinyin": "shí wù, yī fú hé zhù suǒ dōu shì shēng huó de bì xū pǐn。",
+  "words": [
+    {"ch": "食物", "en": "food", "pi": "shí wù"},
+    {"ch": "衣服", "en": "clothing", "pi": "yī fú"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "住所", "en": "shelter", "pi": "zhù suǒ"},
+    {"ch": "都", "en": "are", "pi": "dōu"},
+    {"ch": "是", "en": "are", "pi": "shì"},
+    {"ch": "生活", "en": "life", "pi": "shēng huó"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "必需品", "en": "necessities", "pi": "bì xū pǐn"}
+  ]
+}

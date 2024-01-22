@@ -1,0 +1,37 @@
+{
+  "chinese": "这件衣服花了我４００００日元。",
+  "english": "This piece of clothing cost me 40,000 yen.",
+  "pinyin": "Zhè jiàn yīfú huā le wǒ sì wàn rì yuán.",
+  "words": [
+    {
+      "ch": "这件",
+      "en": "this piece",
+      "pi": "zhè jiàn"
+    },
+    {
+      "ch": "衣服",
+      "en": "clothing",
+      "pi": "yī fú"
+    },
+    {
+      "ch": "花了",
+      "en": "cost",
+      "pi": "huā le"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "４００００",
+      "en": "40,000",
+      "pi": "sì wàn"
+    },
+    {
+      "ch": "日元",
+      "en": "yen",
+      "pi": "rì yuán"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "sentences": [
+    {
+      "chinese": "请开一下窗。",
+      "english": "Please open the window.",
+      "pinyin": "qǐng kāi yīxià chuāng。",
+      "words": [
+        {
+          "ch": "请",
+          "en": "please",
+          "pi": "qǐng"
+        },
+        {
+          "ch": "开",
+          "en": "open",
+          "pi": "kāi"
+        },
+        {
+          "ch": "一下",
+          "en": "a bit",
+          "pi": "yīxià"
+        },
+        {
+          "ch": "窗",
+          "en": "window",
+          "pi": "chuāng"
+        }
+      ]
+    },
+    {
+      "chinese": "这里像烤炉一样热。",
+      "english": "It's as hot as an oven here.",
+      "pinyin": "zhèlǐ xiàng kǎolú yīyàng rè。",
+      "words": [
+        {
+          "ch": "这里",
+          "en": "here",
+          "pi": "zhèlǐ"
+        },
+        {
+          "ch": "像",
+          "en": "like",
+          "pi": "xiàng"
+        },
+        {
+          "ch": "烤炉",
+          "en": "oven",
+          "pi": "kǎolú"
+        },
+        {
+          "ch": "一样",
+          "en": "as",
+          "pi": "yīyàng"
+        },
+        {
+          "ch": "热",
+          "en": "hot",
+          "pi": "rè"
+        }
+      ]
+    }
+  ]
+}

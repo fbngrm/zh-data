@@ -1,0 +1,42 @@
+{
+  "chinese": "他病了，所以没有上学。",
+  "english": "He is sick, so he didn't go to school.",
+  "pinyin": "Tā bìngle, suǒyǐ méiyǒu shàngxué.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "Tā"
+    },
+    {
+      "ch": "病了",
+      "en": "is sick",
+      "pi": "bìngle"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": "，"
+    },
+    {
+      "ch": "所以",
+      "en": "so",
+      "pi": "suǒyǐ"
+    },
+    {
+      "ch": "没有",
+      "en": "didn't",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "上学",
+      "en": "go to school",
+      "pi": "shàngxué"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "。"
+    }
+  ]
+}

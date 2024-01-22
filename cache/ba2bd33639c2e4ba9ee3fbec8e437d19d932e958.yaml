@@ -1,0 +1,42 @@
+{
+  "chinese": "我能在这附近打车吗？",
+  "english": "Can I take a taxi around here?",
+  "pinyin": "wǒ néng zài zhè fùjìn dǎchē ma?",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "在",
+      "en": "at/in",
+      "pi": "zài"
+    },
+    {
+      "ch": "这",
+      "en": "here",
+      "pi": "zhè"
+    },
+    {
+      "ch": "附近",
+      "en": "nearby",
+      "pi": "fùjìn"
+    },
+    {
+      "ch": "打车",
+      "en": "take a taxi",
+      "pi": "dǎchē"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

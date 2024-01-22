@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆和我生在同一个城市。",
+  "english": "Tom and I were born in the same city.",
+  "pinyin": "Tāng mǔ hé wǒ shēng zài tóng yī gè chéng shì.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "生在",
+      "en": "were born",
+      "pi": "shēng zài"
+    },
+    {
+      "ch": "同一个",
+      "en": "the same",
+      "pi": "tóng yī gè"
+    },
+    {
+      "ch": "城市",
+      "en": "city",
+      "pi": "chéng shì"
+    }
+  ]
+}

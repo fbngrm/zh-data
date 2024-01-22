@@ -1,0 +1,9 @@
+{ "chinese": "我喜欢中国。",
+  "english": "I like China.",
+  "pinyin": "wǒ xǐ huān zhōng guó",
+  "words": [
+      { "ch": "我", "en": "I", "pi": "wǒ" },
+      { "ch": "喜欢", "en": "like", "pi": "xǐ huān" },
+      { "ch": "中国", "en": "China", "pi": "zhōng guó" }
+  ]
+}

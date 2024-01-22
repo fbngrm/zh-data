@@ -1,0 +1,15 @@
+{
+  "chinese": "我认识坐在那里的那个男人。",
+  "english": "I know the man who is sitting there.",
+  "pinyin": "wǒ rènshì zuò zài nàlǐ de nàge nánrén.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "认识", "en": "know", "pi": "rènshì"},
+    {"ch": "坐", "en": "sit", "pi": "zuò"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "那里", "en": "there", "pi": "nàlǐ"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "那个", "en": "that", "pi": "nàge"},
+    {"ch": "男人", "en": "man", "pi": "nánrén"}
+  ]
+}

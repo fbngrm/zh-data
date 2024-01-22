@@ -1,0 +1,12 @@
+{
+  "chinese": "她昨天买了一些蔬菜。",
+  "english": "She bought some vegetables yesterday.",
+  "pinyin": "tā zuótiān mǎile yīxiē shūcài.",
+  "words":[
+    {"ch": "她", "en": "she", "pi": "tā"},
+    {"ch": "昨天", "en": "yesterday", "pi": "zuótiān"},
+    {"ch": "买了", "en": "bought", "pi": "mǎile"},
+    {"ch": "一些", "en": "some", "pi": "yīxiē"},
+    {"ch": "蔬菜", "en": "vegetables", "pi": "shūcài"}
+  ]
+}

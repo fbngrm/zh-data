@@ -1,0 +1,345 @@
+{
+  "sentences": [
+    {
+      "chinese": "我 是 语言 学院 的 学生。",
+      "english": "I am a student of the Language Institute.",
+      "pinyin": "wǒ shì yǔyán xuéyuàn de xuéshēng。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "是",
+          "en": "am",
+          "pi": "shì"
+        },
+        {
+          "ch": "语言",
+          "en": "language",
+          "pi": "yǔyán"
+        },
+        {
+          "ch": "学院",
+          "en": "institute",
+          "pi": "xuéyuàn"
+        },
+        {
+          "ch": "的",
+          "en": "of",
+          "pi": "de"
+        },
+        {
+          "ch": "学生",
+          "en": "student",
+          "pi": "xuéshēng"
+        }
+      ]
+    },
+    {
+      "chinese": "我 姓 林，叫 林娜。",
+      "english": "My surname is Lin, my given name is Lina.",
+      "pinyin": "wǒ xìng lín, jiào lín nà。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "姓",
+          "en": "surname",
+          "pi": "xìng"
+        },
+        {
+          "ch": "林",
+          "en": "Lin",
+          "pi": "lín"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": "，"
+        },
+        {
+          "ch": "叫",
+          "en": "given name is",
+          "pi": "jiào"
+        },
+        {
+          "ch": "林娜",
+          "en": "Lina",
+          "pi": "lín nà"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    },
+    {
+      "chinese": "我 是 英国 人。",
+      "english": "I am British.",
+      "pinyin": "wǒ shì yīngguó rén。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "是",
+          "en": "am",
+          "pi": "shì"
+        },
+        {
+          "ch": "英国",
+          "en": "British",
+          "pi": "yīngguó"
+        },
+        {
+          "ch": "人",
+          "en": "person",
+          "pi": "rén"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    },
+    {
+      "chinese": "你 姓 什么？",
+      "english": "What is your surname?",
+      "pinyin": "nǐ xìng shén me？",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "姓",
+          "en": "surname",
+          "pi": "xìng"
+        },
+        {
+          "ch": "什么",
+          "en": "what",
+          "pi": "shén me"
+        },
+        {
+          "ch": "？",
+          "en": "?",
+          "pi": "？"
+        }
+      ]
+    },
+    {
+      "chinese": "我 姓 马， 叫 马 大为。",
+      "english": "My surname is Ma, my given name is Dawei.",
+      "pinyin": "wǒ xìng mǎ, jiào mǎ dà wéi。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "姓",
+          "en": "surname",
+          "pi": "xìng"
+        },
+        {
+          "ch": "马",
+          "en": "Ma",
+          "pi": "mǎ"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": "，"
+        },
+        {
+          "ch": "叫",
+          "en": "given name is",
+          "pi": "jiào"
+        },
+        {
+          "ch": "马大为",
+          "en": "Dawei",
+          "pi": "mǎ dà wéi"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    },
+    {
+      "chinese": "你 是 加拿大 人 吗？",
+      "english": "Are you Canadian?",
+      "pinyin": "nǐ shì jiā ná dà rén ma？",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "是",
+          "en": "are",
+          "pi": "shì"
+        },
+        {
+          "ch": "加拿大",
+          "en": "Canadian",
+          "pi": "jiā ná dà"
+        },
+        {
+          "ch": "人",
+          "en": "person",
+          "pi": "rén"
+        },
+        {
+          "ch": "吗",
+          "en": "?",
+          "pi": "ma"
+        },
+        {
+          "ch": "？",
+          "en": "?",
+          "pi": "？"
+        }
+      ]
+    },
+    {
+      "chinese": "我 不 是 加拿大 人，我 是 美国 人，也 是 语言 学院 的 学生。",
+      "english": "I am not Canadian, I am American, also a student of the Language Institute.",
+      "pinyin": "wǒ bù shì jiā ná dà rén, wǒ shì měi guó rén, yě shì yǔyán xuéyuàn de xuéshēng。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "不",
+          "en": "not",
+          "pi": "bù"
+        },
+        {
+          "ch": "是",
+          "en": "am",
+          "pi": "shì"
+        },
+        {
+          "ch": "加拿大",
+          "en": "Canadian",
+          "pi": "jiā ná dà"
+        },
+        {
+          "ch": "人",
+          "en": "person",
+          "pi": "rén"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": "，"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "是",
+          "en": "am",
+          "pi": "shì"
+        },
+        {
+          "ch": "美国",
+          "en": "American",
+          "pi": "měi guó"
+        },
+        {
+          "ch": "人",
+          "en": "person",
+          "pi": "rén"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": "，"
+        },
+        {
+          "ch": "也",
+          "en": "also",
+          "pi": "yě"
+        },
+        {
+          "ch": "是",
+          "en": "am",
+          "pi": "shì"
+        },
+        {
+          "ch": "语言",
+          "en": "language",
+          "pi": "yǔyán"
+        },
+        {
+          "ch": "学院",
+          "en": "institute",
+          "pi": "xuéyuàn"
+        },
+        {
+          "ch": "的",
+          "en": "of",
+          "pi": "de"
+        },
+        {
+          "ch": "学生",
+          "en": "student",
+          "pi": "xuéshēng"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    },
+    {
+      "chinese": "我 学习 汉语。",
+      "english": "I study Chinese.",
+      "pinyin": "wǒ xuéxí hànyǔ。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "学习",
+          "en": "study",
+          "pi": "xuéxí"
+        },
+        {
+          "ch": "汉语",
+          "en": "Chinese",
+          "pi": "hànyǔ"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    }
+  ]
+}

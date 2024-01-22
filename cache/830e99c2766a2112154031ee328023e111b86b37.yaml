@@ -1,0 +1,42 @@
+{
+  "chinese": "你从昨天开始就忙吗？",
+  "english": "Have you been busy since yesterday?",
+  "pinyin": "Nǐ cóng zuótiān kāishǐ jiù máng ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "从",
+      "en": "since",
+      "pi": "cóng"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "开始",
+      "en": "start",
+      "pi": "kāishǐ"
+    },
+    {
+      "ch": "就",
+      "en": "just",
+      "pi": "jiù"
+    },
+    {
+      "ch": "忙",
+      "en": "busy",
+      "pi": "máng"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "你应该多吃蔬菜。",
+  "english": "You should eat more vegetables.",
+  "pinyin": "nǐ yīng gāi duō chī shū cài。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "应该",
+      "en": "should",
+      "pi": "yīng gāi"
+    },
+    {
+      "ch": "多",
+      "en": "more",
+      "pi": "duō"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "蔬菜",
+      "en": "vegetables",
+      "pi": "shū cài"
+    }
+  ]
+}

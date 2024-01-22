@@ -1,0 +1,32 @@
+{
+  "chinese": "我们的分店布满全国。",
+  "english": "Our branches are spread across the country.",
+  "pinyin": "wǒmen de fēndiǎn bùmǎn quánguó。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "our",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "分店",
+      "en": "branch",
+      "pi": "fēndiǎn"
+    },
+    {
+      "ch": "布满",
+      "en": "spread across",
+      "pi": "bùmǎn"
+    },
+    {
+      "ch": "全国",
+      "en": "country",
+      "pi": "quánguó"
+    }
+  ]
+}

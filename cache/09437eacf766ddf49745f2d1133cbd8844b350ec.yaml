@@ -1,0 +1,42 @@
+{
+  "chinese": "你可以照顾一下我的猫吗?",
+  "english": "Can you take care of my cat for a while?",
+  "pinyin": "nǐ kěyǐ zhàogù yīxià wǒ de māo ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kěyǐ"
+    },
+    {
+      "ch": "照顾",
+      "en": "take care of",
+      "pi": "zhàogù"
+    },
+    {
+      "ch": "一下",
+      "en": "for a while",
+      "pi": "yīxià"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

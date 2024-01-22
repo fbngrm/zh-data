@@ -1,0 +1,27 @@
+{
+  "chinese": "这个瓶子装满了水。",
+  "english": "This bottle is filled with water.",
+  "pinyin": "zhè gè píngzi zhuāng mǎn le shuǐ.",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "瓶子",
+      "en": "bottle",
+      "pi": "píngzi"
+    },
+    {
+      "ch": "装满了",
+      "en": "is filled with",
+      "pi": "zhuāng mǎn le"
+    },
+    {
+      "ch": "水",
+      "en": "water",
+      "pi": "shuǐ"
+    }
+  ]
+}

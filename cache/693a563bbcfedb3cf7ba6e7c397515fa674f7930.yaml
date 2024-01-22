@@ -1,0 +1,13 @@
+{
+  "chinese": "请给我一杯牛奶。",
+  "english": "Please give me a glass of milk.",
+  "pinyin": "Qǐng gěi wǒ yī bēi niúnǎi.",
+  "words": [
+    {"ch": "请", "en": "please", "pi": "qǐng"},
+    {"ch": "给", "en": "give", "pi": "gěi"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "一", "en": "one", "pi": "yī"},
+    {"ch": "杯", "en": "glass", "pi": "bēi"},
+    {"ch": "牛奶", "en": "milk", "pi": "niúnǎi"}
+  ]
+}

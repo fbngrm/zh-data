@@ -1,0 +1,47 @@
+{
+  "chinese": "这辆计程车载了两名乘客。",
+  "english": "This taxi carried two passengers.",
+  "pinyin": "zhè liàng jì chéng chē zài le liǎng míng chéng kè。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "辆",
+      "en": "taxi",
+      "pi": "liàng"
+    },
+    {
+      "ch": "计程车",
+      "en": "taxi",
+      "pi": "jì chéng chē"
+    },
+    {
+      "ch": "载",
+      "en": "carried",
+      "pi": "zài"
+    },
+    {
+      "ch": "了",
+      "en": "(particle indicating completion)",
+      "pi": "le"
+    },
+    {
+      "ch": "两",
+      "en": "two",
+      "pi": "liǎng"
+    },
+    {
+      "ch": "名",
+      "en": "passengers",
+      "pi": "míng"
+    },
+    {
+      "ch": "乘客",
+      "en": "passengers",
+      "pi": "chéng kè"
+    }
+  ]
+}

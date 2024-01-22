@@ -1,0 +1,42 @@
+{
+  "chinese": "我穿这条裤子很合身。",
+  "english": "These pants fit me well.",
+  "pinyin": "wǒ chuān zhè tiáo kùzi hěn héshēn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "穿",
+      "en": "wear",
+      "pi": "chuān"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "条",
+      "en": "measure word for long, narrow objects",
+      "pi": "tiáo"
+    },
+    {
+      "ch": "裤子",
+      "en": "pants",
+      "pi": "kùzi"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "合身",
+      "en": "fit",
+      "pi": "héshēn"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "特快火车正驶进轨道。",
+  "english": "The express train is entering the track.",
+  "pinyin": "tè kuài huǒ chē zhèng shǐ jìn guǐ dào.",
+  "words": [
+    {
+      "ch": "特快",
+      "en": "express",
+      "pi": "tè kuài"
+    },
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒ chē"
+    },
+    {
+      "ch": "正",
+      "en": "is",
+      "pi": "zhèng"
+    },
+    {
+      "ch": "驶进",
+      "en": "entering",
+      "pi": "shǐ jìn"
+    },
+    {
+      "ch": "轨道",
+      "en": "track",
+      "pi": "guǐ dào"
+    }
+  ]
+}

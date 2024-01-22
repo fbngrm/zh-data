@@ -1,0 +1,37 @@
+{
+  "chinese": "火车大概会在中午前到站。",
+  "english": "The train will probably arrive before noon.",
+  "pinyin": "Huǒchē dàgài huì zài zhōngwǔ qián dào zhàn.",
+  "words": [
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒchē"
+    },
+    {
+      "ch": "大概",
+      "en": "probably",
+      "pi": "dàgài"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "中午前",
+      "en": "before noon",
+      "pi": "zhōngwǔ qián"
+    },
+    {
+      "ch": "到站",
+      "en": "arrive",
+      "pi": "dào zhàn"
+    }
+  ]
+}

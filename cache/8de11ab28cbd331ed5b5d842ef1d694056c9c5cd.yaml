@@ -1,0 +1,32 @@
+{
+  "chinese": "我们通常饭后喝茶。",
+  "english": "We usually drink tea after meals.",
+  "pinyin": "wǒmen tōngcháng fànhòu hē chá。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "通常",
+      "en": "usually",
+      "pi": "tōngcháng"
+    },
+    {
+      "ch": "饭后",
+      "en": "after meals",
+      "pi": "fànhòu"
+    },
+    {
+      "ch": "喝",
+      "en": "drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "茶",
+      "en": "tea",
+      "pi": "chá"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "chinese": "汤姆是一个非常好的网球选手。",
+  "english": "Tom is a very good tennis player.",
+  "pinyin": "Tāng mǔ shì yī gè fēi cháng hǎo de wǎng qiú xuǎn shǒu.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "非常",
+      "en": "very",
+      "pi": "fēi cháng"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "网球",
+      "en": "tennis",
+      "pi": "wǎng qiú"
+    },
+    {
+      "ch": "选手",
+      "en": "player",
+      "pi": "xuǎn shǒu"
+    }
+  ]
+}

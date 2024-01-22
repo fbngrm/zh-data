@@ -1,0 +1,14 @@
+{
+  "chinese": "现在才6点半，怎么会堵车呢？",
+  "english": "It's only 6:30 now, why is there traffic?",
+  "pinyin": "xiàn zài cái liù diǎn bàn, zěn me huì dǔ chē ne?",
+  "words": [
+    {"ch": "现在", "en": "now", "pi": "xiàn zài"},
+    {"ch": "才", "en": "only", "pi": "cái"},
+    {"ch": "6点半", "en": "6:30", "pi": "liù diǎn bàn"},
+    {"ch": "怎么", "en": "why/how", "pi": "zěn me"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "堵车", "en": "traffic", "pi": "dǔ chē"},
+    {"ch": "呢", "en": "particle used for rhetorical questions", "pi": "ne"}
+  ]
+}

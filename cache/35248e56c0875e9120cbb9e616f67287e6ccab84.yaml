@@ -1,0 +1,37 @@
+{
+  "chinese": "这儿除了我，一个人也没有。",
+  "english": "There's no one here but me.",
+  "pinyin": "zhè er chú le wǒ ， yī gè rén yě méi yǒu。",
+  "words": [
+    {
+      "ch": "这儿",
+      "en": "here",
+      "pi": "zhè er"
+    },
+    {
+      "ch": "除了",
+      "en": "except for",
+      "pi": "chú le"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "一个人",
+      "en": "one person",
+      "pi": "yī gè rén"
+    },
+    {
+      "ch": "也",
+      "en": "also",
+      "pi": "yě"
+    },
+    {
+      "ch": "没有",
+      "en": "no",
+      "pi": "méi yǒu"
+    }
+  ]
+}

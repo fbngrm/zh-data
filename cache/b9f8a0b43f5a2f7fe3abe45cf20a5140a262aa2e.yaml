@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆就是那一个，不是他么？",
+  "english": "Tom is the one, isn't he?",
+  "pinyin": "tāng mǔ jiù shì nà yī gè bú shì tā me?",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "就是",
+      "en": "is",
+      "pi": "jiù shì"
+    },
+    {
+      "ch": "那一个",
+      "en": "the one",
+      "pi": "nà yī gè"
+    },
+    {
+      "ch": "不是",
+      "en": "isn't",
+      "pi": "bú shì"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "么",
+      "en": "?",
+      "pi": "me?"
+    }
+  ]
+}

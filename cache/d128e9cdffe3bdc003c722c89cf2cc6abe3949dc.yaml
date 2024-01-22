@@ -1,0 +1,42 @@
+{
+  "chinese": "这本书写得很好。",
+  "english": "This book is written very well.",
+  "pinyin": "zhè běn shū xiě de hěn hǎo.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "书",
+      "en": "is",
+      "pi": "shū"
+    },
+    {
+      "ch": "写",
+      "en": "written",
+      "pi": "xiě"
+    },
+    {
+      "ch": "得",
+      "en": "very",
+      "pi": "de"
+    },
+    {
+      "ch": "很",
+      "en": "well",
+      "pi": "hěn"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    }
+  ]
+}

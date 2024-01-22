@@ -1,0 +1,37 @@
+{
+  "chinese": "我喜欢读这本小说。",
+  "english": "I like to read this novel.",
+  "pinyin": "wǒ xǐhuān dú zhè běn xiǎoshuō.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "读",
+      "en": "to read",
+      "pi": "dú"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "小说",
+      "en": "novel",
+      "pi": "xiǎoshuō"
+    }
+  ]
+}

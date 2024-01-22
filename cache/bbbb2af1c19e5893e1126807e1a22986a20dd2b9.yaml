@@ -1,0 +1,42 @@
+{
+  "chinese": "刚才桌子上有一本书吗？",
+  "english": "Was there a book on the table just now?",
+  "pinyin": "gāng cái zhuō zi shàng yǒu yī běn shū ma?",
+  "words": [
+    {
+      "ch": "刚才",
+      "en": "just now",
+      "pi": "gāng cái"
+    },
+    {
+      "ch": "桌子",
+      "en": "table",
+      "pi": "zhuō zi"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一",
+      "en": "one",
+      "pi": "yī"
+    },
+    {
+      "ch": "本书",
+      "en": "book",
+      "pi": "běn shū"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

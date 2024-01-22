@@ -1,0 +1,15 @@
+{
+  "chinese": "五点半=五点三十分",
+  "english": "Five-thirty = Five thirty",
+  "pinyin": "wǔ diǎn bàn = wǔ diǎn sānshí fēn",
+  "words": [
+    { "ch": "五", "en": "Five", "pi": "wǔ" },
+    { "ch": "点", "en": "o'clock", "pi": "diǎn" },
+    { "ch": "半", "en": "half", "pi": "bàn" },
+    { "ch": "=", "en": "=", "pi": "=" },
+    { "ch": "五", "en": "Five", "pi": "wǔ" },
+    { "ch": "点", "en": "o'clock", "pi": "diǎn" },
+    { "ch": "三十", "en": "thirty", "pi": "sānshí" },
+    { "ch": "分", "en": "minutes", "pi": "fēn" }
+  ]
+}

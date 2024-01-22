@@ -1,0 +1,28 @@
+{
+  "sentences": [
+    {
+      "chinese": "我们从２００９年起就没见过面。",
+      "english": "We haven't seen each other since 2009.",
+      "pinyin": "wǒmen cóng èr líng líng jiǔ nián qǐ jiù méi jiàn guò miàn。",
+      "words": [
+        { "ch": "我们", "en": "we", "pi": "wǒ men" },
+        { "ch": "从", "en": "from", "pi": "cóng" },
+        { "ch": "２００９年", "en": "2009", "pi": "èr líng líng jiǔ nián" },
+        { "ch": "起", "en": "since", "pi": "qǐ" },
+        { "ch": "就", "en": "then", "pi": "jiù" },
+        { "ch": "没见过", "en": "haven't seen", "pi": "méi jiàn guò" },
+        { "ch": "面", "en": "each other", "pi": "miàn" }
+      ]
+    },
+    {
+      "chinese": "有那么久吗？",
+      "english": "Has it been that long?",
+      "pinyin": "yǒu nà me jiǔ ma?",
+      "words": [
+        { "ch": "有", "en": "has", "pi": "yǒu" },
+        { "ch": "那么久", "en": "that long", "pi": "nà me jiǔ" },
+        { "ch": "吗", "en": "question particle", "pi": "ma" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "chinese": "他没带钥匙，用铁丝拨动了两下，门居然开了。",
+  "english": "He didn't bring the key, but he used an iron wire to twist it twice, and the door unexpectedly opened.",
+  "pinyin": "tā méi dài yào shi，yòng tiě sī bō dòng le liǎng xià，mén jū rán kāi le。",
+  "words": [
+    { "ch": "他", "en": "He", "pi": "tā" },
+    { "ch": "没", "en": "didn't", "pi": "méi" },
+    { "ch": "带", "en": "bring", "pi": "dài" },
+    { "ch": "钥匙", "en": "key", "pi": "yào shi" },
+    { "ch": "用", "en": "use", "pi": "yòng" },
+    { "ch": "铁丝", "en": "iron wire", "pi": "tiě sī" },
+    { "ch": "拨动", "en": "twist", "pi": "bō dòng" },
+    { "ch": "了", "en": "twice", "pi": "liǎng xià" },
+    { "ch": "两下", "en": "door", "pi": "mén" },
+    { "ch": "门", "en": "unexpectedly", "pi": "jū rán" },
+    { "ch": "居然", "en": "opened", "pi": "kāi le" }
+  ]
+}

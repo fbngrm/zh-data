@@ -1,0 +1,37 @@
+{
+  "chinese": "请再给我一点咖啡。",
+  "english": "Please give me a little more coffee.",
+  "pinyin": "Qǐng zài gěi wǒ yīdiǎn kāfēi.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "再",
+      "en": "again",
+      "pi": "zài"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "一点",
+      "en": "a little",
+      "pi": "yīdiǎn"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kāfēi"
+    }
+  ]
+}

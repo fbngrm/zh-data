@@ -1,0 +1,27 @@
+{
+  "chinese": "医生向病人用药。",
+  "english": "The doctor prescribes medicine to the patient.",
+  "pinyin": "yī shēng xiàng bìng rén yòng yào.",
+  "words": [
+    {
+      "ch": "医生",
+      "en": "doctor",
+      "pi": "yī shēng"
+    },
+    {
+      "ch": "向",
+      "en": "to",
+      "pi": "xiàng"
+    },
+    {
+      "ch": "病人",
+      "en": "patient",
+      "pi": "bìng rén"
+    },
+    {
+      "ch": "用药",
+      "en": "prescribes medicine",
+      "pi": "yòng yào"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我今天有个面试。",
+  "english": "I have an interview today.",
+  "pinyin": "wǒ jīntiān yǒu gè miànshì。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "个",
+      "en": "an",
+      "pi": "gè"
+    },
+    {
+      "ch": "面试",
+      "en": "interview",
+      "pi": "miànshì"
+    }
+  ]
+}

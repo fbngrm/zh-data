@@ -1,0 +1,32 @@
+{
+  "chinese": "他在森林中迷了路。",
+  "english": "He got lost in the forest.",
+  "pinyin": "tā zài sēn lín zhōng mí le lù.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "森林",
+      "en": "forest",
+      "pi": "sēn lín"
+    },
+    {
+      "ch": "中",
+      "en": "in",
+      "pi": "zhōng"
+    },
+    {
+      "ch": "迷了路",
+      "en": "got lost",
+      "pi": "mí le lù"
+    }
+  ]
+}

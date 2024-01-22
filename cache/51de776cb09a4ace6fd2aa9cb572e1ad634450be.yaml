@@ -1,0 +1,14 @@
+{
+  "chinese": "鲍勃比他兄弟稍胖点。",
+  "english": "Bob is slightly fatter than his brother.",
+  "pinyin": "Bàobó bǐ tā xiōngdì shāo pàng diǎn。",
+  "words": [
+    { "ch": "鲍勃", "en": "Bob", "pi": "Bàobó" },
+    { "ch": "比", "en": "is", "pi": "bǐ" },
+    { "ch": "他", "en": "he", "pi": "tā" },
+    { "ch": "兄弟", "en": "brother", "pi": "xiōngdì" },
+    { "ch": "稍", "en": "slightly", "pi": "shāo" },
+    { "ch": "胖", "en": "fatter", "pi": "pàng" },
+    { "ch": "点", "en": "than", "pi": "diǎn" }
+  ]
+}

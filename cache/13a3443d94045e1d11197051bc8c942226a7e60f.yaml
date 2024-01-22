@@ -1,0 +1,42 @@
+{
+  "chinese": "星期天前我们将会待在这里。",
+  "english": "We will stay here until Sunday.",
+  "pinyin": "xīngqītiān qián wǒmen jiāng huì dāi zài zhèlǐ。",
+  "words": [
+    {
+      "ch": "星期天",
+      "en": "Sunday",
+      "pi": "xīngqītiān"
+    },
+    {
+      "ch": "前",
+      "en": "before",
+      "pi": "qián"
+    },
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "将会",
+      "en": "will",
+      "pi": "jiāng huì"
+    },
+    {
+      "ch": "待",
+      "en": "stay",
+      "pi": "dāi"
+    },
+    {
+      "ch": "在",
+      "en": "here",
+      "pi": "zài"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhèlǐ"
+    }
+  ]
+}

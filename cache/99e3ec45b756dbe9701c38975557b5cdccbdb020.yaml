@@ -1,0 +1,37 @@
+{
+  "chinese": "我们在厨房里吃早餐。",
+  "english": "We eat breakfast in the kitchen.",
+  "pinyin": "wǒmen zài chúfáng lǐ chī zǎocān.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "厨房",
+      "en": "kitchen",
+      "pi": "chúfáng"
+    },
+    {
+      "ch": "里",
+      "en": "inside",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "早餐",
+      "en": "breakfast",
+      "pi": "zǎocān"
+    }
+  ]
+}

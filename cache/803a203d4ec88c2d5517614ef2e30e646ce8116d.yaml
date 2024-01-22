@@ -1,0 +1,15 @@
+{
+  "chinese": "我应该去找到解决问题的办法。",
+  "english": "I should find a solution to the problem.",
+  "pinyin": "wǒ yīng gāi qù zhǎo dào jiě jué wèn tí de bàn fǎ。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "应该", "en": "should", "pi": "yīng gāi"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "找到", "en": "find", "pi": "zhǎo dào"},
+    {"ch": "解决", "en": "solve", "pi": "jiě jué"},
+    {"ch": "问题", "en": "problem", "pi": "wèn tí"},
+    {"ch": "的", "en": "the", "pi": "de"},
+    {"ch": "办法", "en": "solution", "pi": "bàn fǎ"}
+  ]
+}

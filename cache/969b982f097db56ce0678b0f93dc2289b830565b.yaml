@@ -1,0 +1,34 @@
+[{
+  "chinese": "我们将要到室外去观察大自然。",
+  "english": "We are going outside to observe nature.",
+  "pinyin": "wǒ men jiāng yào dào shì wài qù guān chá dà zì rán。",
+  "words": [
+    {"ch": "我们", "en": "We", "pi": "wǒ men"},
+    {"ch": "将要", "en": "are going to", "pi": "jiāng yào"},
+    {"ch": "到", "en": "to", "pi": "dào"},
+    {"ch": "室外", "en": "outside", "pi": "shì wài"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "观察", "en": "observe", "pi": "guān chá"},
+    {"ch": "大自然", "en": "nature", "pi": "dà zì rán"}
+  ]
+},
+{
+  "chinese": "因此，一支好的笔，橡皮和大概一支画笔是必需的。",
+  "english": "Therefore, a good pen, eraser, and probably a paintbrush are necessary.",
+  "pinyin": "yīn cǐ，yì zhī hǎo de bǐ，xiàng pí hé dà gài yì zhī huà bǐ shì bì xū de。",
+  "words": [
+    {"ch": "因此", "en": "Therefore", "pi": "yīn cǐ"},
+    {"ch": "一支", "en": "a", "pi": "yì zhī"},
+    {"ch": "好的", "en": "good", "pi": "hǎo de"},
+    {"ch": "笔", "en": "pen", "pi": "bǐ"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "橡皮", "en": "eraser", "pi": "xiàng pí"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "大概", "en": "probably", "pi": "dà gài"},
+    {"ch": "一支", "en": "a", "pi": "yì zhī"},
+    {"ch": "画笔", "en": "paintbrush", "pi": "huà bǐ"},
+    {"ch": "是", "en": "are", "pi": "shì"},
+    {"ch": "必需的", "en": "necessary", "pi": "bì xū de"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}]

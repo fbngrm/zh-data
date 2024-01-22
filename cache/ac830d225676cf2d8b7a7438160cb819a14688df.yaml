@@ -1,0 +1,32 @@
+{
+  "chinese": "玛丽明天会帮我们。",
+  "english": "Mary will help us tomorrow.",
+  "pinyin": "Mǎ lì míng tiān huì bāng wǒ men.",
+  "words": [
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎ lì"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "帮",
+      "en": "help",
+      "pi": "bāng"
+    },
+    {
+      "ch": "我们",
+      "en": "us",
+      "pi": "wǒ men"
+    }
+  ]
+}

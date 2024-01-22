@@ -1,0 +1,32 @@
+{
+  "chinese": "她没有玛丽年纪大。",
+  "english": "She is not older than Mary.",
+  "pinyin": "tā méiyǒu mǎlì niánjì dà。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "没有",
+      "en": "not",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎlì"
+    },
+    {
+      "ch": "年纪",
+      "en": "age",
+      "pi": "niánjì"
+    },
+    {
+      "ch": "大",
+      "en": "older",
+      "pi": "dà"
+    }
+  ]
+}

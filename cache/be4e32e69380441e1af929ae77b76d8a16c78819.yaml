@@ -1,0 +1,37 @@
+{
+  "chinese": "我正在在波士顿读博士。",
+  "english": "I am studying for a Ph.D. in Boston.",
+  "pinyin": "wǒ zhèngzài zài bōshìdùn dú bóshì.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "正在",
+      "en": "am",
+      "pi": "zhèngzài"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "波士顿",
+      "en": "Boston",
+      "pi": "bōshìdùn"
+    },
+    {
+      "ch": "读",
+      "en": "study",
+      "pi": "dú"
+    },
+    {
+      "ch": "博士",
+      "en": "Ph.D.",
+      "pi": "bóshì"
+    }
+  ]
+}

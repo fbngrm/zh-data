@@ -1,0 +1,57 @@
+{
+  "chinese": "汤姆在１０岁的时候就学骑了自行车。",
+  "english": "Tom learned to ride a bicycle when he was 10 years old.",
+  "pinyin": "Tāng mǔ zài shí suì de shí hòu jiù xué qí le zì xíng chē.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "在",
+      "en": "in/at",
+      "pi": "zài"
+    },
+    {
+      "ch": "１０岁",
+      "en": "10 years old",
+      "pi": "shí suì"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "时候",
+      "en": "time",
+      "pi": "shí hòu"
+    },
+    {
+      "ch": "就",
+      "en": "already",
+      "pi": "jiù"
+    },
+    {
+      "ch": "学",
+      "en": "learn",
+      "pi": "xué"
+    },
+    {
+      "ch": "骑",
+      "en": "ride",
+      "pi": "qí"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "自行车",
+      "en": "bicycle",
+      "pi": "zì xíng chē"
+    }
+  ]
+}

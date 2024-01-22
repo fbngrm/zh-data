@@ -1,0 +1,27 @@
+{
+  "chinese": "玛丽给汤姆礼物。",
+  "english": "Mary gives Tom a gift.",
+  "pinyin": "Mǎlì gěi tāngmǔ lǐwù.",
+  "words": [
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎlì"
+    },
+    {
+      "ch": "给",
+      "en": "gives",
+      "pi": "gěi"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāngmǔ"
+    },
+    {
+      "ch": "礼物",
+      "en": "gift",
+      "pi": "lǐwù"
+    }
+  ]
+}

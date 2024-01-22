@@ -1,0 +1,32 @@
+{
+  "chinese": "老师叫我站起来。",
+  "english": "The teacher asked me to stand up.",
+  "pinyin": "Lǎoshī jiào wǒ zhàn qǐlái.",
+  "words": [
+    {
+      "ch": "老师",
+      "en": "teacher",
+      "pi": "lǎoshī"
+    },
+    {
+      "ch": "叫",
+      "en": "ask",
+      "pi": "jiào"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "站",
+      "en": "stand",
+      "pi": "zhàn"
+    },
+    {
+      "ch": "起来",
+      "en": "up",
+      "pi": "qǐlái"
+    }
+  ]
+}

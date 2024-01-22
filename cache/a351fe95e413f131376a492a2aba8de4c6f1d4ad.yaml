@@ -1,0 +1,37 @@
+{
+  "chinese": "你早餐吃了些甚麼？",
+  "english": "What did you have for breakfast?",
+  "pinyin": "nǐ zǎocān chī le xiē shénme？",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "早餐",
+      "en": "breakfast",
+      "pi": "zǎocān"
+    },
+    {
+      "ch": "吃",
+      "en": "have",
+      "pi": "chī"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "些",
+      "en": "some",
+      "pi": "xiē"
+    },
+    {
+      "ch": "甚麼",
+      "en": "what",
+      "pi": "shénme"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "sentences": [
+    {
+      "chinese": "警方很能明白有人偷了我的信用卡，并提了好多钱。",
+      "english": "The police can understand very well that someone stole my credit card and withdrew a lot of money.",
+      "pinyin": "jǐng fāng hěn néng míng bai yǒu rén tōu le wǒ de xìn yòng kǎ bìng tí le hǎo duō qián。",
+      "words": [
+        {
+          "ch": "警方",
+          "en": "the police",
+          "pi": "jǐng fāng"
+        },
+        {
+          "ch": "很",
+          "en": "very",
+          "pi": "hěn"
+        },
+        {
+          "ch": "能",
+          "en": "can",
+          "pi": "néng"
+        },
+        {
+          "ch": "明白",
+          "en": "understand",
+          "pi": "míng bai"
+        },
+        {
+          "ch": "有人",
+          "en": "someone",
+          "pi": "yǒu rén"
+        },
+        {
+          "ch": "偷",
+          "en": "steal",
+          "pi": "tōu"
+        },
+        {
+          "ch": "了",
+          "en": "already",
+          "pi": "le"
+        },
+        {
+          "ch": "我的",
+          "en": "my",
+          "pi": "wǒ de"
+        },
+        {
+          "ch": "信用卡",
+          "en": "credit card",
+          "pi": "xìn yòng kǎ"
+        },
+        {
+          "ch": "并",
+          "en": "and",
+          "pi": "bìng"
+        },
+        {
+          "ch": "提",
+          "en": "withdraw",
+          "pi": "tí"
+        },
+        {
+          "ch": "了",
+          "en": "already",
+          "pi": "le"
+        },
+        {
+          "ch": "好多",
+          "en": "a lot of",
+          "pi": "hǎo duō"
+        },
+        {
+          "ch": "钱",
+          "en": "money",
+          "pi": "qián"
+        }
+      ]
+    },
+    {
+      "chinese": "让他们相信“有人偷了我的魔剑”要难得多。",
+      "english": "It is much harder to make them believe that someone stole my magic sword.",
+      "pinyin": "ràng tā men xiāng xìn “yǒu rén tōu le wǒ de mó jiàn” yào nán dé duō。",
+      "words": [
+        {
+          "ch": "让",
+          "en": "make",
+          "pi": "ràng"
+        },
+        {
+          "ch": "他们",
+          "en": "them",
+          "pi": "tā men"
+        },
+        {
+          "ch": "相信",
+          "en": "believe",
+          "pi": "xiāng xìn"
+        },
+        {
+          "ch": "“",
+          "en": "\"",
+          "pi": ""
+        },
+        {
+          "ch": "有人",
+          "en": "someone",
+          "pi": "yǒu rén"
+        },
+        {
+          "ch": "偷",
+          "en": "steal",
+          "pi": "tōu"
+        },
+        {
+          "ch": "了",
+          "en": "already",
+          "pi": "le"
+        },
+        {
+          "ch": "我",
+          "en": "my",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": "de"
+        },
+        {
+          "ch": "魔剑",
+          "en": "magic sword",
+          "pi": "mó jiàn"
+        },
+        {
+          "ch": "”",
+          "en": "\"",
+          "pi": ""
+        },
+        {
+          "ch": "要",
+          "en": "must",
+          "pi": "yào"
+        },
+        {
+          "ch": "难得多",
+          "en": "much harder",
+          "pi": "nán dé duō"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "请问，我可以开户头吗?",
+  "english": "Excuse me, can I open an account?",
+  "pinyin": "qǐngwèn, wǒ kěyǐ kāi hùtóu ma?",
+  "words": [
+    {
+      "ch": "请问",
+      "en": "Excuse me",
+      "pi": "qǐngwèn"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kěyǐ"
+    },
+    {
+      "ch": "开户头",
+      "en": "open an account",
+      "pi": "kāi hùtóu"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "箱子里有一只蜘蛛。",
+  "english": "There is a spider in the box.",
+  "pinyin": "xiāng zi lǐ yǒu yī zhī zhī zhū。",
+  "words": [
+    {
+      "ch": "箱子里",
+      "en": "in the box",
+      "pi": "xiāng zi lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一只",
+      "en": "a",
+      "pi": "yī zhī"
+    },
+    {
+      "ch": "蜘蛛",
+      "en": "spider",
+      "pi": "zhī zhū"
+    }
+  ]
+}

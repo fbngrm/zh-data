@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆说他不知道怎么游泳。",
+  "english": "Tom said he doesn't know how to swim.",
+  "pinyin": "tāng mǔ shuō tā bù zhī dào zěn me yóu yǒng.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "说",
+      "en": "said",
+      "pi": "shuō"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "怎么",
+      "en": "how",
+      "pi": "zěn me"
+    },
+    {
+      "ch": "游泳",
+      "en": "to swim",
+      "pi": "yóu yǒng"
+    }
+  ]
+}

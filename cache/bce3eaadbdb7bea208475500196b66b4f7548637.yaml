@@ -1,0 +1,32 @@
+{
+  "chinese": "我养了只狗。",
+  "english": "I have a dog.",
+  "pinyin": "wǒ yǎng le zhī gǒu.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "养",
+      "en": "have",
+      "pi": "yǎng"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "只",
+      "en": "a",
+      "pi": "zhī"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    }
+  ]
+}

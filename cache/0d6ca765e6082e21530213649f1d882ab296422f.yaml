@@ -1,0 +1,13 @@
+{
+  "chinese": "她儿子在车祸中丧生。",
+  "english": "Her son died in a car accident.",
+  "pinyin": "tā ér zi zài chē huō zhōng sàng shēng。",
+  "words": [
+    { "ch": "她", "en": "she", "pi": "tā" },
+    { "ch": "儿子", "en": "son", "pi": "ér zi" },
+    { "ch": "在", "en": "in", "pi": "zài" },
+    { "ch": "车祸", "en": "car accident", "pi": "chē huò" },
+    { "ch": "中", "en": "in", "pi": "zhōng" },
+    { "ch": "丧生", "en": "died", "pi": "sàng shēng" }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "七点钟我打电话给你。",
+  "english": "I'll call you at seven o'clock.",
+  "pinyin": "qī diǎn zhōng wǒ dǎ diànhuà gěi nǐ.",
+  "words": [
+    {
+      "ch": "七点钟",
+      "en": "seven o'clock",
+      "pi": "qī diǎn zhōng"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "打电话",
+      "en": "call",
+      "pi": "dǎ diànhuà"
+    },
+    {
+      "ch": "给",
+      "en": "you",
+      "pi": "gěi"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    }
+  ]
+}

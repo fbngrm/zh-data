@@ -1,0 +1,52 @@
+{
+  "chinese": "前往剑桥的列车将于五号月台开出。",
+  "english": "The train to Cambridge will depart from platform five.",
+  "pinyin": "Qiánwǎng jiàncáo de lièchē jiāng yú wǔ hào yuètái kāichū.",
+  "words": [
+    {
+      "ch": "前往",
+      "en": "to go to",
+      "pi": "qiánwǎng"
+    },
+    {
+      "ch": "剑桥",
+      "en": "Cambridge",
+      "pi": "jiàncáo"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "列车",
+      "en": "train",
+      "pi": "lièchē"
+    },
+    {
+      "ch": "将",
+      "en": "will",
+      "pi": "jiāng"
+    },
+    {
+      "ch": "于",
+      "en": "from",
+      "pi": "yú"
+    },
+    {
+      "ch": "五号",
+      "en": "five",
+      "pi": "wǔ hào"
+    },
+    {
+      "ch": "月台",
+      "en": "platform",
+      "pi": "yuètái"
+    },
+    {
+      "ch": "开出",
+      "en": "depart",
+      "pi": "kāichū"
+    }
+  ]
+}

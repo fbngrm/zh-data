@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆总是让我笑。",
+  "english": "Tom always makes me laugh.",
+  "pinyin": "Tāng mǔ zǒng shì ràng wǒ xiào.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "总是",
+      "en": "always",
+      "pi": "zǒng shì"
+    },
+    {
+      "ch": "让",
+      "en": "makes",
+      "pi": "ràng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "笑",
+      "en": "laugh",
+      "pi": "xiào"
+    }
+  ]
+}

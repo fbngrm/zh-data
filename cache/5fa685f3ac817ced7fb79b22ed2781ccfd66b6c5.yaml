@@ -1,0 +1,48 @@
+{
+  "sentences": [
+    {
+      "chinese": "她喜欢音乐。",
+      "english": "She likes music.",
+      "pinyin": "tā xǐhuān yīnyuè。",
+      "words": [
+        {
+          "ch": "她",
+          "en": "She",
+          "pi": "tā"
+        },
+        {
+          "ch": "喜欢",
+          "en": "likes",
+          "pi": "xǐhuān"
+        },
+        {
+          "ch": "音乐",
+          "en": "music",
+          "pi": "yīnyuè"
+        }
+      ]
+    },
+    {
+      "chinese": "我也是。",
+      "english": "Me too.",
+      "pinyin": "wǒ yěshì。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "Me",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "也",
+          "en": "too",
+          "pi": "yě"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        }
+      ]
+    }
+  ]
+}

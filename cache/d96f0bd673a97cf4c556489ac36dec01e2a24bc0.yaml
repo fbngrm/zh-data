@@ -1,0 +1,14 @@
+{
+  "chinese": "他在学校的表现很好。",
+  "english": "He performs well in school.",
+  "pinyin": "Tā zài xuéxiào de biǎoxiàn hěn hǎo.",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "在", "en": "in/at", "pi": "zài"},
+    {"ch": "学校", "en": "school", "pi": "xuéxiào"},
+    {"ch": "的", "en": "possessive marker", "pi": "de"},
+    {"ch": "表现", "en": "performance", "pi": "biǎoxiàn"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "好", "en": "good", "pi": "hǎo"}
+  ]
+}

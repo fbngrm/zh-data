@@ -1,0 +1,11 @@
+{
+  "chinese": "我是个香蕉。",
+  "english": "I am a banana.",
+  "pinyin": "wǒ shì gè xiāng jiāo.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "是", "en": "am", "pi": "shì"},
+    {"ch": "个", "en": "a", "pi": "gè"},
+    {"ch": "香蕉", "en": "banana", "pi": "xiāng jiāo"}
+  ]
+}

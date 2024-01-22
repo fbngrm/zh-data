@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆老是发牢骚。",
+  "english": "Tom is always complaining.",
+  "pinyin": "tāng mǔ lǎo shì fā láo sāo。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "老是",
+      "en": "always",
+      "pi": "lǎo shì"
+    },
+    {
+      "ch": "发",
+      "en": "complain",
+      "pi": "fā"
+    },
+    {
+      "ch": "牢骚",
+      "en": "complaining",
+      "pi": "láo sāo"
+    }
+  ]
+}

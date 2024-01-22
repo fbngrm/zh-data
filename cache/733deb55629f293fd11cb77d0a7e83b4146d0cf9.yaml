@@ -1,0 +1,27 @@
+{
+  "chinese": "塞纳河穿越了巴黎。",
+  "english": "The Seine runs through Paris.",
+  "pinyin": "Sāi nà hé chuān yuè le bā lí.",
+  "words": [
+    {
+      "ch": "塞纳河",
+      "en": "Seine River",
+      "pi": "Sāi nà hé"
+    },
+    {
+      "ch": "穿越",
+      "en": "runs through",
+      "pi": "chuān yuè"
+    },
+    {
+      "ch": "了",
+      "en": "past tense marker",
+      "pi": "le"
+    },
+    {
+      "ch": "巴黎",
+      "en": "Paris",
+      "pi": "bā lí"
+    }
+  ]
+}

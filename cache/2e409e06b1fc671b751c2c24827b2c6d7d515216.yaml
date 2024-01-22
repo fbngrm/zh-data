@@ -1,0 +1,48 @@
+{
+  "sentences": [
+    {
+      "chinese": "你星期天几点起床？",
+      "english": "What time do you wake up on Sunday?",
+      "pinyin": "Nǐ xīngqítiān jǐ diǎn qǐchuáng?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "星期天",
+          "en": "Sunday",
+          "pi": "xīngqítiān"
+        },
+        {
+          "ch": "几点",
+          "en": "what time",
+          "pi": "jǐ diǎn"
+        },
+        {
+          "ch": "起床",
+          "en": "wake up",
+          "pi": "qǐchuáng"
+        }
+      ]
+    },
+    {
+      "chinese": "几点睡觉？",
+      "english": "What time do you go to sleep?",
+      "pinyin": "Jǐ diǎn shuìjiào?",
+      "words": [
+        {
+          "ch": "几点",
+          "en": "what time",
+          "pi": "jǐ diǎn"
+        },
+        {
+          "ch": "睡觉",
+          "en": "go to sleep",
+          "pi": "shuìjiào"
+        }
+      ]
+    }
+  ]
+}

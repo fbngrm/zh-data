@@ -1,0 +1,14 @@
+{
+  "chinese": "对不起,明天早上我有兼职的工作。",
+  "english": "I'm sorry, I have part-time work tomorrow morning.",
+  "pinyin": "duì bù qǐ, míng tiān zǎo shàng wǒ yǒu jiān zhí de gōng zuò。",
+  "words": [
+    {"ch": "对不起", "en": "I'm sorry", "pi": "duì bù qǐ"},
+    {"ch": "明天早上", "en": "tomorrow morning", "pi": "míng tiān zǎo shàng"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "兼职", "en": "part-time work", "pi": "jiān zhí"},
+    {"ch": "的", "en": "", "pi": "de"},
+    {"ch": "工作", "en": "work", "pi": "gōng zuò"}
+  ]
+}

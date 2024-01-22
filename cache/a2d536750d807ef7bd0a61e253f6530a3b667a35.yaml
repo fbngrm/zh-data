@@ -1,0 +1,27 @@
+{
+  "chinese": "玛丽很喜欢牛奶。",
+  "english": "Mary likes milk very much.",
+  "pinyin": "mǎlì hěn xǐhuān niúnǎi.",
+  "words": [
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎlì"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "喜欢",
+      "en": "likes",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "牛奶",
+      "en": "milk",
+      "pi": "niúnǎi"
+    }
+  ]
+}

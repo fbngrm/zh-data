@@ -1,0 +1,37 @@
+{
+  "chinese": "你确定你的资料属实吗？",
+  "english": "Are you sure your information is true?",
+  "pinyin": "Nǐ quèdìng nǐ de zīliào shǔshí ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "确定",
+      "en": "sure",
+      "pi": "quèdìng"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "资料",
+      "en": "information",
+      "pi": "zīliào"
+    },
+    {
+      "ch": "属实",
+      "en": "true",
+      "pi": "shǔshí"
+    },
+    {
+      "ch": "吗",
+      "en": "is",
+      "pi": "ma"
+    }
+  ]
+}

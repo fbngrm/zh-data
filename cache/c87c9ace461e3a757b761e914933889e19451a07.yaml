@@ -1,0 +1,42 @@
+{
+  "chinese": "他摇了摇儿子的肩。",
+  "english": "He shook his son's shoulder.",
+  "pinyin": "tā yáo le yáo érzi de jiān.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "摇",
+      "en": "shake",
+      "pi": "yáo"
+    },
+    {
+      "ch": "了",
+      "en": "past tense particle",
+      "pi": "le"
+    },
+    {
+      "ch": "摇",
+      "en": "shake",
+      "pi": "yáo"
+    },
+    {
+      "ch": "儿子",
+      "en": "son",
+      "pi": "érzi"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "肩",
+      "en": "shoulder",
+      "pi": "jiān"
+    }
+  ]
+}

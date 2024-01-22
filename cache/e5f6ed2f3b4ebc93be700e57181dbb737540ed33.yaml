@@ -1,0 +1,42 @@
+{
+  "chinese": "我饿了，所以我要吃东西。",
+  "english": "I'm hungry, so I want to eat something.",
+  "pinyin": "wǒ è le, suǒ yǐ wǒ yào chī dōngxi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "饿了",
+      "en": "hungry",
+      "pi": "è le"
+    },
+    {
+      "ch": "所以",
+      "en": "so",
+      "pi": "suǒ yǐ"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "东西",
+      "en": "something",
+      "pi": "dōngxi"
+    }
+  ]
+}

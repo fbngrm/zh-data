@@ -1,0 +1,42 @@
+{
+  "chinese": "我前一天遇见了他。",
+  "english": "I met him the day before.",
+  "pinyin": "wǒ qián yī tiān yù jiàn le tā。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "前",
+      "en": "before",
+      "pi": "qián"
+    },
+    {
+      "ch": "一",
+      "en": "one",
+      "pi": "yī"
+    },
+    {
+      "ch": "天",
+      "en": "day",
+      "pi": "tiān"
+    },
+    {
+      "ch": "遇见",
+      "en": "meet",
+      "pi": "yù jiàn"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    }
+  ]
+}

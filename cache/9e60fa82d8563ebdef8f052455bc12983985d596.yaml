@@ -1,0 +1,32 @@
+{
+  "chinese": "我们这里没有很多访客。",
+  "english": "We don't have many visitors here.",
+  "pinyin": "wǒmen zhèlǐ méiyǒu hěnduō fǎngkè。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen" 
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhèlǐ"
+    },
+    {
+      "ch": "没有",
+      "en": "don't have",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "很多",
+      "en": "many",
+      "pi": "hěnduō"
+    },
+    {
+      "ch": "访客",
+      "en": "visitors",
+      "pi": "fǎngkè"
+    }
+  ]
+}

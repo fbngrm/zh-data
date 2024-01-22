@@ -1,0 +1,32 @@
+{
+  "chinese": "我妈妈讲话很慢。",
+  "english": "My mother speaks very slowly.",
+  "pinyin": "wǒ māma jiǎnghuà hěn màn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "妈妈",
+      "en": "mother",
+      "pi": "māma"
+    },
+    {
+      "ch": "讲话",
+      "en": "speak",
+      "pi": "jiǎnghuà"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "慢",
+      "en": "slow",
+      "pi": "màn"
+    }
+  ]
+}

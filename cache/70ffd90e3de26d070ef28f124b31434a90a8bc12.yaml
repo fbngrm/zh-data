@@ -1,0 +1,15 @@
+{
+  "chinese": "这是我度过的最好的夜晚之一。",
+  "english": "This is one of the best nights I've ever had.",
+  "pinyin": "zhè shì wǒ dù guò de zuì hǎo de yè wǎn zhī yī。",
+  "words": [
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "度过", "en": "pass", "pi": "dù guò"},
+    {"ch": "的", "en": "the", "pi": "de"},
+    {"ch": "最好的", "en": "best", "pi": "zuì hǎo de"},
+    {"ch": "夜晚", "en": "night", "pi": "yè wǎn"},
+    {"ch": "之一", "en": "one", "pi": "zhī yī"}
+  ]
+}

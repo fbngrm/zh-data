@@ -1,0 +1,32 @@
+{
+  "chinese": "妈妈正在厨房里做饭。",
+  "english": "Mom is cooking in the kitchen.",
+  "pinyin": "māmā zhèngzài chúfáng lǐ zuòfàn.",
+  "words": [
+    {
+      "ch": "妈妈",
+      "en": "mom",
+      "pi": "māmā"
+    },
+    {
+      "ch": "正在",
+      "en": "is",
+      "pi": "zhèngzài"
+    },
+    {
+      "ch": "厨房",
+      "en": "kitchen",
+      "pi": "chúfáng"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "做饭",
+      "en": "cooking",
+      "pi": "zuòfàn"
+    }
+  ]
+}

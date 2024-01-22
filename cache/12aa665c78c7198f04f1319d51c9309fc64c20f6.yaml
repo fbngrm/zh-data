@@ -1,0 +1,32 @@
+{
+  "chinese": "国王摧毁了他的敌人。",
+  "english": "The king destroyed his enemies.",
+  "pinyin": "guó wáng cuī huǐ le tā de dí rén.",
+  "words": [
+    {
+      "ch": "国王",
+      "en": "king",
+      "pi": "guó wáng"
+    },
+    {
+      "ch": "摧毁",
+      "en": "destroy",
+      "pi": "cuī huǐ"
+    },
+    {
+      "ch": "了",
+      "en": "past tense marker",
+      "pi": "le"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "敌人",
+      "en": "enemies",
+      "pi": "dí rén"
+    }
+  ]
+}

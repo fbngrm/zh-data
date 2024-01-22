@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆没法发动他的车。",
+  "english": "Tom can't start his car.",
+  "pinyin": "Tāng mǔ méi fǎ fādòng tā de chē.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "没法",
+      "en": "can't",
+      "pi": "méi fǎ"
+    },
+    {
+      "ch": "发动",
+      "en": "start",
+      "pi": "fādòng"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "车",
+      "en": "car",
+      "pi": "chē"
+    }
+  ]
+}

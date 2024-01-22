@@ -1,0 +1,31 @@
+{
+  "chinese": "我需要一个医生！",
+  "english": "I need a doctor!",
+  "pinyin": "wǒ xūyào yīgè yīshēng!",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "需要",
+      "en": "need",
+      "pi": "xūyào"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yīgè"
+    },
+    {
+      "ch": "医生",
+      "en": "doctor",
+      "pi": "yīshēng"
+    },
+    {
+      "ch": "！",
+      "en": "!"
+    }
+  ]
+}

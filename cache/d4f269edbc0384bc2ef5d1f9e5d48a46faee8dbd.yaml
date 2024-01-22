@@ -1,0 +1,32 @@
+{
+  "chinese": "警察把小偷抓住了。",
+  "english": "The police caught the thief.",
+  "pinyin": "jǐng chá bǎ xiǎo tōu zhuā zhù le。",
+  "words": [
+    {
+      "ch": "警察",
+      "en": "police",
+      "pi": "jǐng chá"
+    },
+    {
+      "ch": "把",
+      "en": "catch",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "小偷",
+      "en": "thief",
+      "pi": "xiǎo tōu"
+    },
+    {
+      "ch": "抓住",
+      "en": "caught",
+      "pi": "zhuā zhù"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

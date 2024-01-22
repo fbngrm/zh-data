@@ -1,0 +1,22 @@
+{
+    "chinese": "她讲中文。",
+    "english": "She speaks Chinese.",
+    "pinyin": "tā jiǎng zhōngwén.",
+    "words": [
+        {
+            "ch": "她",
+            "en": "She",
+            "pi": "tā"
+        },
+        {
+            "ch": "讲",
+            "en": "speaks",
+            "pi": "jiǎng"
+        },
+        {
+            "ch": "中文",
+            "en": "Chinese",
+            "pi": "zhōngwén"
+        }
+    ]
+}

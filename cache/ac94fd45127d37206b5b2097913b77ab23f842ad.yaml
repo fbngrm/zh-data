@@ -1,0 +1,32 @@
+{
+  "chinese": "我藏在桌子底下。",
+  "english": "I am hiding under the table.",
+  "pinyin": "wǒ cáng zài zhuōzi dǐxià.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "藏",
+      "en": "hide",
+      "pi": "cáng"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "桌子",
+      "en": "table",
+      "pi": "zhuōzi"
+    },
+    {
+      "ch": "底下",
+      "en": "under",
+      "pi": "dǐxià"
+    }
+  ]
+}

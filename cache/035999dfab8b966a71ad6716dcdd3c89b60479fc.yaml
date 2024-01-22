@@ -1,0 +1,32 @@
+{
+  "chinese": "不好意思，我必须要走了。",
+  "english": "I'm sorry, but I have to go.",
+  "pinyin": "bù hǎo yì si, wǒ bì xū yào zǒu le。",
+  "words": [
+    {
+      "ch": "不好意思",
+      "en": "I'm sorry",
+      "pi": "bù hǎo yì si"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "必须",
+      "en": "have to",
+      "pi": "bì xū"
+    },
+    {
+      "ch": "要",
+      "en": "go",
+      "pi": "yào"
+    },
+    {
+      "ch": "走了",
+      "en": "leave",
+      "pi": "zǒu le"
+    }
+  ]
+}

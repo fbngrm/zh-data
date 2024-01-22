@@ -1,0 +1,15 @@
+{
+  "chinese": "他们把他埋葬在教堂旁的墓园。",
+  "english": "They buried him in the cemetery next to the church.",
+  "pinyin": "Tāmen bǎ tā máizàng zài jiàotáng páng de mùyuán。",
+  "words": [
+    {"ch": "他们", "en": "They", "pi": "tāmen"},
+    {"ch": "把", "en": "buried", "pi": "bǎ"},
+    {"ch": "他", "en": "him", "pi": "tā"},
+    {"ch": "埋葬", "en": "buried", "pi": "máizàng"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "教堂旁", "en": "next to the church", "pi": "jiàotáng páng"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "墓园", "en": "cemetery", "pi": "mùyuán"}
+  ]
+}

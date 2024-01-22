@@ -1,0 +1,42 @@
+{
+  "chinese": "提交申请的最后期限是星期五。",
+  "english": "The deadline for submitting the application is Friday.",
+  "pinyin": "tí jiāo shēn qǐng de zuì hòu qī xiàn shì xīng qī wǔ。",
+  "words": [
+    {
+      "ch": "提交",
+      "en": "submit",
+      "pi": "tí jiāo"
+    },
+    {
+      "ch": "申请",
+      "en": "application",
+      "pi": "shēn qǐng"
+    },
+    {
+      "ch": "的",
+      "en": "for",
+      "pi": "de"
+    },
+    {
+      "ch": "最后",
+      "en": "last",
+      "pi": "zuì hòu"
+    },
+    {
+      "ch": "期限",
+      "en": "deadline",
+      "pi": "qī xiàn"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "星期五",
+      "en": "Friday",
+      "pi": "xīng qī wǔ"
+    }
+  ]
+}

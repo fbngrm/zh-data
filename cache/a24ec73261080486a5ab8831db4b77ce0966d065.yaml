@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆放下了他的画笔。",
+  "english": "Tom put down his paintbrush.",
+  "pinyin": "Tāng mǔ fàng xià le tā de huà bǐ.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "放下",
+      "en": "put down",
+      "pi": "fàng xià"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "画笔",
+      "en": "paintbrush",
+      "pi": "huà bǐ"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "这是他出生的城市。",
+  "english": "This is the city where he was born.",
+  "pinyin": "zhè shì tā chūshēng de chéngshì。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "出生",
+      "en": "born",
+      "pi": "chūshēng"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "城市",
+      "en": "city",
+      "pi": "chéngshì"
+    }
+  ]
+}

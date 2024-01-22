@@ -1,0 +1,32 @@
+{
+  "chinese": "这家饭馆开门了吗？",
+  "english": "Is this restaurant open?",
+  "pinyin": "zhè jiā fàn guǎn kāi mén le ma?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "家",
+      "en": "restaurant",
+      "pi": "jiā"
+    },
+    {
+      "ch": "饭馆",
+      "en": "open",
+      "pi": "fàn guǎn"
+    },
+    {
+      "ch": "开门",
+      "en": "door",
+      "pi": "kāi mén"
+    },
+    {
+      "ch": "了吗",
+      "en": "is",
+      "pi": "le ma"
+    }
+  ]
+}

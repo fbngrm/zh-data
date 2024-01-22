@@ -1,0 +1,153 @@
+{
+  "sentences": [
+    {
+      "chinese": "我相信马太,马可,路加和约翰所说的话。",
+      "english": "I believe the words spoken by Matthew, Mark, Luke, and John.",
+      "pinyin": "wǒ xiāng xìn mǎ tài, mǎ kě, lù jiā hé yuē hàn suǒ shuō de huà。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "相信",
+          "en": "believe",
+          "pi": "xiāng xìn"
+        },
+        {
+          "ch": "马太",
+          "en": "Matthew",
+          "pi": "mǎ tài"
+        },
+        {
+          "ch": "马可",
+          "en": "Mark",
+          "pi": "mǎ kě"
+        },
+        {
+          "ch": "路加",
+          "en": "Luke",
+          "pi": "lù jiā"
+        },
+        {
+          "ch": "和",
+          "en": "and",
+          "pi": "hé"
+        },
+        {
+          "ch": "约翰",
+          "en": "John",
+          "pi": "yuē hàn"
+        },
+        {
+          "ch": "所说的话",
+          "en": "the words spoken",
+          "pi": "suǒ shuō de huà"
+        }
+      ]
+    },
+    {
+      "chinese": "假如我在一场车祸中是受害者的话，如果他们成为我的证人（目击者）我会很欣慰。",
+      "english": "If I were a victim in a car accident, I would be relieved if they became my witnesses (eyewitnesses).",
+      "pinyin": "jiǎ rú wǒ zài yī chǎng chē huò zhōng shì shòu hài zhě de huà, rú guǒ tā men chéng wéi wǒ de zhèng rén （mù jī zhě）wǒ huì hěn xīn wèi。",
+      "words": [
+        {
+          "ch": "假如",
+          "en": "if",
+          "pi": "jiǎ rú"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "在",
+          "en": "in",
+          "pi": "zài"
+        },
+        {
+          "ch": "一场",
+          "en": "a",
+          "pi": "yī chǎng"
+        },
+        {
+          "ch": "车祸",
+          "en": "car accident",
+          "pi": "chē huò"
+        },
+        {
+          "ch": "中",
+          "en": "in",
+          "pi": "zhōng"
+        },
+        {
+          "ch": "是",
+          "en": "were",
+          "pi": "shì"
+        },
+        {
+          "ch": "受害者",
+          "en": "victim",
+          "pi": "shòu hài zhě"
+        },
+        {
+          "ch": "的话",
+          "en": "if",
+          "pi": "de huà"
+        },
+        {
+          "ch": "如果",
+          "en": "if",
+          "pi": "rú guǒ"
+        },
+        {
+          "ch": "他们",
+          "en": "they",
+          "pi": "tā men"
+        },
+        {
+          "ch": "成为",
+          "en": "became",
+          "pi": "chéng wéi"
+        },
+        {
+          "ch": "我的",
+          "en": "my",
+          "pi": "wǒ de"
+        },
+        {
+          "ch": "证人",
+          "en": "witnesses",
+          "pi": "zhèng rén"
+        },
+        {
+          "ch": "（目击者）",
+          "en": "(eyewitnesses)",
+          "pi": "（mù jī zhě）"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "会",
+          "en": "would",
+          "pi": "huì"
+        },
+        {
+          "ch": "很",
+          "en": "be",
+          "pi": "hěn"
+        },
+        {
+          "ch": "欣慰",
+          "en": "relieved",
+          "pi": "xīn wèi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "他是个很棒的网球选手。",
+  "english": "He is a great tennis player.",
+  "pinyin": "tā shì gè hěn bàng de wǎngqiú xuǎnshǒu。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "很棒",
+      "en": "great",
+      "pi": "hěn bàng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "网球",
+      "en": "tennis",
+      "pi": "wǎngqiú"
+    },
+    {
+      "ch": "选手",
+      "en": "player",
+      "pi": "xuǎnshǒu"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+"chinese": "汤姆进了厨房，给自己倒了杯咖啡。",
+"english": "Tom went into the kitchen and poured himself a cup of coffee.",
+"pinyin": "Tāng mǔ jìn le chú fáng, gěi zì jǐ dào le bēi kā fēi.",
+"words": [
+  {
+    "ch": "汤姆",
+    "en": "Tom",
+    "pi": "Tāng mǔ"
+  },
+  {
+    "ch": "进了",
+    "en": "went into",
+    "pi": "jìn le"
+  },
+  {
+    "ch": "厨房",
+    "en": "kitchen",
+    "pi": "chú fáng"
+  },
+  {
+    "ch": "给",
+    "en": "gave",
+    "pi": "gěi"
+  },
+  {
+    "ch": "自己",
+    "en": "himself",
+    "pi": "zì jǐ"
+  },
+  {
+    "ch": "倒了",
+    "en": "poured",
+    "pi": "dào le"
+  },
+  {
+    "ch": "杯",
+    "en": "cup",
+    "pi": "bēi"
+  },
+  {
+    "ch": "咖啡",
+    "en": "coffee",
+    "pi": "kā fēi"
+  }
+ ]
+}

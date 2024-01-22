@@ -1,0 +1,63 @@
+{
+  "sentences": [
+    {
+      "chinese": "我需要一支新的笔。",
+      "english": "I need a new pen.",
+      "pinyin": "wǒ xūyào yī zhī xīn de bǐ。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "需要",
+          "en": "need",
+          "pi": "xūyào"
+        },
+        {
+          "ch": "一支",
+          "en": "a",
+          "pi": "yī zhī"
+        },
+        {
+          "ch": "新的",
+          "en": "new",
+          "pi": "xīn de"
+        },
+        {
+          "ch": "笔",
+          "en": "pen",
+          "pi": "bǐ"
+        }
+      ]
+    },
+    {
+      "chinese": "我会买一支。",
+      "english": "I will buy one.",
+      "pinyin": "wǒ huì mǎi yī zhī。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "会",
+          "en": "will",
+          "pi": "huì"
+        },
+        {
+          "ch": "买",
+          "en": "buy",
+          "pi": "mǎi"
+        },
+        {
+          "ch": "一支",
+          "en": "one",
+          "pi": "yī zhī"
+        }
+      ]
+    }
+  ]
+}

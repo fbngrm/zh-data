@@ -1,0 +1,14 @@
+{
+  "chinese": "你故意犯這個錯,是嗎?",
+  "english": "Did you deliberately make this mistake?",
+  "pinyin": "nǐ gùyì fàn zhège cuò, shì ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "故意", "en": "deliberately", "pi": "gùyì"},
+    {"ch": "犯", "en": "make", "pi": "fàn"},
+    {"ch": "这个", "en": "this", "pi": "zhège"},
+    {"ch": "错误", "en": "mistake", "pi": "cuò"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "吗", "en": "?"}
+  ]
+}

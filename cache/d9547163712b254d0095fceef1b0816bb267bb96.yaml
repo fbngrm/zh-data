@@ -1,0 +1,37 @@
+{
+  "chinese": "我不喜歡他這種人。",
+  "english": "I don't like this kind of person.",
+  "pinyin": "wǒ bù xǐhuan tā zhè zhǒng rén。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "喜歡",
+      "en": "like",
+      "pi": "xǐhuan"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "這種",
+      "en": "this kind of",
+      "pi": "zhè zhǒng"
+    },
+    {
+      "ch": "人",
+      "en": "person",
+      "pi": "rén"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "你在私立高中读书吗？",
+  "english": "Are you studying at a private high school?",
+  "pinyin": "Nǐ zài sīlì gāozhōng dúshū ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "私立",
+      "en": "private",
+      "pi": "sīlì"
+    },
+    {
+      "ch": "高中",
+      "en": "high school",
+      "pi": "gāozhōng"
+    },
+    {
+      "ch": "读书",
+      "en": "study",
+      "pi": "dúshū"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

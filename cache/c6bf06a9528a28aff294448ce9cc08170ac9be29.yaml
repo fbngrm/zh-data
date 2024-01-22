@@ -1,0 +1,52 @@
+{
+  "chinese": "约翰看起来很勇敢，但其实是个胆小鬼。",
+  "english": "John looks very brave, but he's actually a coward.",
+  "pinyin": "Yuēhàn kàn qǐlái hěn yǒnggǎn, dàn qíshí shì gè dǎnxiǎoguǐ。",
+  "words": [
+    {
+      "ch": "约翰",
+      "en": "John",
+      "pi": "Yuēhàn"
+    },
+    {
+      "ch": "看起来",
+      "en": "looks",
+      "pi": "kàn qǐlái"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "勇敢",
+      "en": "brave",
+      "pi": "yǒnggǎn"
+    },
+    {
+      "ch": "但",
+      "en": "but",
+      "pi": "dàn"
+    },
+    {
+      "ch": "其实",
+      "en": "actually",
+      "pi": "qíshí"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "胆小鬼",
+      "en": "coward",
+      "pi": "dǎnxiǎoguǐ"
+    }
+  ]
+}

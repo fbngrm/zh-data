@@ -1,0 +1,42 @@
+{
+  "chinese": "她給我摘了一個蘋果。",
+  "english": "She picked an apple for me.",
+  "pinyin": "tā gěi wǒ zhāi le yī gè píngguǒ.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "給",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "摘",
+      "en": "pick",
+      "pi": "zhāi"
+    },
+    {
+      "ch": "了",
+      "en": "a",
+      "pi": "le"
+    },
+    {
+      "ch": "一個",
+      "en": "an",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "蘋果",
+      "en": "apple",
+      "pi": "píngguǒ"
+    }
+  ]
+}

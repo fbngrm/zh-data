@@ -1,0 +1,42 @@
+{
+  "chinese": "我想再要一杯咖啡。",
+  "english": "I want another cup of coffee.",
+  "pinyin": "wǒ xiǎng zài yào yī bēi kāfēi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "再",
+      "en": "another",
+      "pi": "zài"
+    },
+    {
+      "ch": "要",
+      "en": "cup",
+      "pi": "yào"
+    },
+    {
+      "ch": "一",
+      "en": "of",
+      "pi": "yī"
+    },
+    {
+      "ch": "杯",
+      "en": "coffee",
+      "pi": "bēi"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kāfēi"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "嘿，你！请稍候。",
+  "english": "Hey, you! Please wait.",
+  "pinyin": "hēi, nǐ! qǐng shāo hòu。",
+  "words": [
+    {
+      "ch": "嘿",
+      "en": "Hey",
+      "pi": "hēi"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "！",
+      "en": "!",
+      "pi": "！"
+    },
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "稍候",
+      "en": "wait",
+      "pi": "shāo hòu"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "。"
+    }
+  ]
+}

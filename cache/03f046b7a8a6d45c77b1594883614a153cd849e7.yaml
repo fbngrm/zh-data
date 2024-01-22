@@ -1,0 +1,42 @@
+{
+  "chinese": "小丁的桌子上放着很多照片。",
+  "english": "There are many photos on Xiaoding's desk.",
+  "pinyin": "Xiǎo dīng de zhuō zi shàng fàng zhe hěn duō zhào piàn.",
+  "words": [
+    {
+      "ch": "小丁",
+      "en": "Xiaoding",
+      "pi": "Xiǎo dīng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "桌子",
+      "en": "desk",
+      "pi": "zhuō zi"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "放着",
+      "en": "are placed",
+      "pi": "fàng zhe"
+    },
+    {
+      "ch": "很多",
+      "en": "many",
+      "pi": "hěn duō"
+    },
+    {
+      "ch": "照片",
+      "en": "photos",
+      "pi": "zhào piàn"
+    }
+  ]
+}

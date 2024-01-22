@@ -1,0 +1,32 @@
+{
+  "chinese": "我们每个星期六踢足球。",
+  "english": "We play football every Saturday.",
+  "pinyin": "wǒmen měi gè xīngqīliù tī zúqiú.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "每个",
+      "en": "every",
+      "pi": "měi gè"
+    },
+    {
+      "ch": "星期六",
+      "en": "Saturday",
+      "pi": "xīngqīliù"
+    },
+    {
+      "ch": "踢",
+      "en": "play",
+      "pi": "tī"
+    },
+    {
+      "ch": "足球",
+      "en": "football",
+      "pi": "zúqiú"
+    }
+  ]
+}

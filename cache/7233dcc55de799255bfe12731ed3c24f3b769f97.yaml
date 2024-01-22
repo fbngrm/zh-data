@@ -1,0 +1,37 @@
+{
+  "chinese": "他和他的儿子放风筝了。",
+  "english": "He and his son flew a kite.",
+  "pinyin": "tā hé tā de ér zi fàng fēng zheng le。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "儿子",
+      "en": "son",
+      "pi": "ér zi"
+    },
+    {
+      "ch": "放风筝",
+      "en": "fly a kite",
+      "pi": "fàng fēng zheng"
+    },
+    {
+      "ch": "了",
+      "en": "completed action marker",
+      "pi": "le"
+    }
+  ]
+}

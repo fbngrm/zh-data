@@ -1,0 +1,18 @@
+{
+  "chinese": "汤姆你能给那些饥肠辘辘的人们一些吃的吗?",
+  "english": "Tom, can you give those hungry people something to eat?",
+  "pinyin": "tāng mǔ nǐ néng gěi nà xiē jī cháng lù lù de rén men yī xiē chī de ma?",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "能", "en": "can", "pi": "néng"},
+    {"ch": "给", "en": "give", "pi": "gěi"},
+    {"ch": "那些", "en": "those", "pi": "nà xiē"},
+    {"ch": "饥肠辘辘", "en": "hungry", "pi": "jī cháng lù lù"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "人们", "en": "people", "pi": "rén men"},
+    {"ch": "一些", "en": "something", "pi": "yī xiē"},
+    {"ch": "吃的", "en": "to eat", "pi": "chī de"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

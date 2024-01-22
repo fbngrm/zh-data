@@ -1,0 +1,32 @@
+{
+  "chinese": "火车每站都停。",
+  "english": "The train stops at every station.",
+  "pinyin": "huǒ chē měi zhàn dōu tíng.",
+  "words": [
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒ chē"
+    },
+    {
+      "ch": "每",
+      "en": "every",
+      "pi": "měi"
+    },
+    {
+      "ch": "站",
+      "en": "station",
+      "pi": "zhàn"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "停",
+      "en": "stop",
+      "pi": "tíng"
+    }
+  ]
+}

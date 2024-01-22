@@ -1,0 +1,14 @@
+{
+  "chinese": "很久以前你就應該告訴我的。",
+  "english": "You should have told me a long time ago.",
+  "pinyin": "hěn jiǔ yǐ qián nǐ jiù yīng gāi gào sù wǒ de.",
+  "words": [
+    {"ch": "很久", "en": "a long time", "pi": "hěn jiǔ"},
+    {"ch": "以前", "en": "ago", "pi": "yǐ qián"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "就", "en": "should have", "pi": "jiù"},
+    {"ch": "應該", "en": "should", "pi": "yīng gāi"},
+    {"ch": "告訴", "en": "tell", "pi": "gào sù"},
+    {"ch": "我的", "en": "me", "pi": "wǒ de"}
+  ]
+}

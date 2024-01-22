@@ -1,0 +1,27 @@
+{
+  "sentences": [
+    {
+      "chinese": "笨蛋！她说她爱你不是真心的。还没有发现吗？她只是钓凯子的。",
+      "english": "Fool! She doesn't truly love you. Haven't you realized it yet? She's just playing games.",
+      "pinyin": "bèn dàn! tā shuō tā ài nǐ bù shì zhēn xīn de. hái méi yǒu fā xiàn ma? tā zhī shì diào kǎi zi de.",
+      "words": [
+        {"ch": "笨蛋", "en": "Fool", "pi": "bèn dàn"},
+        {"ch": "她", "en": "She", "pi": "tā"},
+        {"ch": "说", "en": "says", "pi": "shuō"},
+        {"ch": "她", "en": "she", "pi": "tā"},
+        {"ch": "爱", "en": "love", "pi": "ài"},
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "不是", "en": "not", "pi": "bù shì"},
+        {"ch": "真心的", "en": "truly", "pi": "zhēn xīn de"},
+        {"ch": "还", "en": "still", "pi": "hái"},
+        {"ch": "没有", "en": "have not", "pi": "méi yǒu"},
+        {"ch": "发现", "en": "realized", "pi": "fā xiàn"},
+        {"ch": "吗", "en": "yet", "pi": "ma"},
+        {"ch": "她", "en": "she", "pi": "tā"},
+        {"ch": "只是", "en": "just", "pi": "zhī shì"},
+        {"ch": "钓", "en": "playing", "pi": "diào"},
+        {"ch": "凯子的", "en": "games", "pi": "kǎi zi de"}
+      ]
+    }
+  ]
+}

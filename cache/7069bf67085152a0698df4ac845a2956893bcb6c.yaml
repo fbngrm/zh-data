@@ -1,0 +1,32 @@
+{
+  "chinese": "我丢了我的伞。",
+  "english": "I lost my umbrella.",
+  "pinyin": "wǒ diū le wǒ de sǎn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "丢",
+      "en": "lost",
+      "pi": "diū"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "伞",
+      "en": "umbrella",
+      "pi": "sǎn"
+    }
+  ]
+}

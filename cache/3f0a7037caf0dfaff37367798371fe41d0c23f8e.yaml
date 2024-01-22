@@ -1,0 +1,13 @@
+{
+  "chinese": "这把伞是不是你的？",
+  "english": "Is this umbrella yours?",
+  "pinyin": "zhè bǎ sǎn shì bú shì nǐ de?",
+  "words": [
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "把", "en": "measure word for umbrellas", "pi": "bǎ"},
+    {"ch": "伞", "en": "umbrella", "pi": "sǎn"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "不是", "en": "not", "pi": "bú shì"},
+    {"ch": "你的", "en": "yours", "pi": "nǐ de"}
+  ]
+}

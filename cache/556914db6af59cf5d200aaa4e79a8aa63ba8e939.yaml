@@ -1,0 +1,32 @@
+{
+  "chinese": "知道这首歌吗？",
+  "english": "Do you know this song?",
+  "pinyin": "zhī dào zhè shǒu gē ma?",
+  "words": [
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "首",
+      "en": "song",
+      "pi": "shǒu"
+    },
+    {
+      "ch": "歌",
+      "en": "do",
+      "pi": "gē"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

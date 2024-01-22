@@ -1,0 +1,27 @@
+{
+  "chinese": "昨天上午下大雨。",
+  "english": "It rained heavily yesterday morning.",
+  "pinyin": "zuó tiān shàng wǔ xià dà yǔ。",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "上午",
+      "en": "morning",
+      "pi": "shàng wǔ"
+    },
+    {
+      "ch": "下",
+      "en": "down",
+      "pi": "xià"
+    },
+    {
+      "ch": "大雨",
+      "en": "heavy rain",
+      "pi": "dà yǔ"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "我小时总是很早起床。",
+  "english": "When I was young, I always woke up early.",
+  "pinyin": "Wǒ xiǎoshí zǒngshì hěn zǎo qǐchuáng.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "小时", "en": "when I was young", "pi": "xiǎoshí" },
+    { "ch": "总是", "en": "always", "pi": "zǒngshì" },
+    { "ch": "很", "en": "very", "pi": "hěn" },
+    { "ch": "早", "en": "early", "pi": "zǎo" },
+    { "ch": "起床", "en": "wake up", "pi": "qǐchuáng" }
+  ]
+}

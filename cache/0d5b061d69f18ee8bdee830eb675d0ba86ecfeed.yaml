@@ -1,0 +1,32 @@
+{
+  "chinese": "我的房里有部电话。",
+  "english": "There is a telephone in my room.",
+  "pinyin": "Wǒ de fáng lǐ yǒu bù diànhuà。",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "房里",
+      "en": "room",
+      "pi": "fáng lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "部",
+      "en": "a",
+      "pi": "bù"
+    },
+    {
+      "ch": "电话",
+      "en": "telephone",
+      "pi": "diànhuà"
+    }
+  ]
+}

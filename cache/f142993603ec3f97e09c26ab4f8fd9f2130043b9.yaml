@@ -1,0 +1,32 @@
+{
+  "chinese": "大家都嘲笑了杰克。",
+  "english": "Everyone laughed at Jack.",
+  "pinyin": "dà jiā dōu cháo xiào le jié kè.",
+  "words": [
+    {
+      "ch": "大家",
+      "en": "everyone",
+      "pi": "dà jiā"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "嘲笑",
+      "en": "laugh at",
+      "pi": "cháo xiào"
+    },
+    {
+      "ch": "了",
+      "en": "at",
+      "pi": "le"
+    },
+    {
+      "ch": "杰克",
+      "en": "Jack",
+      "pi": "jié kè"
+    }
+  ]
+}

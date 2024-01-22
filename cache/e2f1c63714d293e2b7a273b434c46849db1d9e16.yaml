@@ -1,0 +1,92 @@
+{
+  "chinese": "由于最初设计中的一个缺陷，我们的网站易受到ＳＱＬ注入攻击。",
+  "english": "Due to a flaw in the initial design, our website is vulnerable to SQL injection attacks.",
+  "pinyin": "yóuyú zuìchū shèjì zhōng de yīgè quēxiàn, wǒmen de wǎngzhàn yì shòudào SQL zhùrù gōngjí.",
+  "words": [
+    {
+      "ch": "由于",
+      "en": "due to",
+      "pi": "yóuyú"
+    },
+    {
+      "ch": "最初",
+      "en": "initial",
+      "pi": "zuìchū"
+    },
+    {
+      "ch": "设计",
+      "en": "design",
+      "pi": "shèjì"
+    },
+    {
+      "ch": "中",
+      "en": "in the",
+      "pi": "zhōng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "一个",
+      "en": "one",
+      "pi": "yīgè"
+    },
+    {
+      "ch": "缺陷",
+      "en": "flaw",
+      "pi": "quēxiàn"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": "，"
+    },
+    {
+      "ch": "我们",
+      "en": "our",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "网站",
+      "en": "website",
+      "pi": "wǎngzhàn"
+    },
+    {
+      "ch": "易",
+      "en": "is",
+      "pi": "yì"
+    },
+    {
+      "ch": "受到",
+      "en": "vulnerable to",
+      "pi": "shòudào"
+    },
+    {
+      "ch": "ＳＱＬ",
+      "en": "SQL",
+      "pi": "SQL"
+    },
+    {
+      "ch": "注入",
+      "en": "injection",
+      "pi": "zhùrù"
+    },
+    {
+      "ch": "攻击",
+      "en": "attacks",
+      "pi": "gōngjí"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "。"
+    }
+  ]
+}

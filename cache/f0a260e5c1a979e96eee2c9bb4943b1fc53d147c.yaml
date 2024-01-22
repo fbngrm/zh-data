@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆给玛丽买了一束玫瑰花。",
+  "english": "Tom bought a bouquet of roses for Mary.",
+  "pinyin": "Tāng mǔ gěi mǎ lì mǎi le yī shù méi guī huā.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "买",
+      "en": "buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "了",
+      "en": "a",
+      "pi": "le"
+    },
+    {
+      "ch": "一束",
+      "en": "bouquet",
+      "pi": "yī shù"
+    },
+    {
+      "ch": "玫瑰花",
+      "en": "roses",
+      "pi": "méi guī huā"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "chinese": "在她的帮助下，我的法语逐渐进步了。",
+  "english": "With her help, my French has gradually improved.",
+  "pinyin": "zài tā de bāng zhù xià, wǒ de fǎ yǔ zhú jiàn jìn bù le。",
+  "words": [
+    {"ch": "在", "en": "in, at", "pi": "zài"},
+    {"ch": "她的", "en": "her", "pi": "tā de"},
+    {"ch": "帮助", "en": "help", "pi": "bāng zhù"},
+    {"ch": "下", "en": "under", "pi": "xià"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "法语", "en": "French", "pi": "fǎ yǔ"},
+    {"ch": "逐渐", "en": "gradually", "pi": "zhú jiàn"},
+    {"ch": "进步", "en": "improve", "pi": "jìn bù"},
+    {"ch": "了", "en": "have", "pi": "le"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

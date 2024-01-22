@@ -1,0 +1,32 @@
+{
+  "chinese": "我想喝点冷饮。",
+  "english": "I want to have some cold drinks.",
+  "pinyin": "wǒ xiǎng hē diǎn lěng yǐn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "喝",
+      "en": "to have",
+      "pi": "hē"
+    },
+    {
+      "ch": "点",
+      "en": "some",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "冷饮",
+      "en": "cold drinks",
+      "pi": "lěng yǐn"
+    }
+  ]
+}

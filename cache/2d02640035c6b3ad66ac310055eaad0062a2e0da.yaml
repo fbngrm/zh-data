@@ -1,0 +1,52 @@
+{
+  "chinese": "您愿意听我说几分钟话吗？",
+  "english": "Would you like to listen to me for a few minutes?",
+  "pinyin": "Nín yuànyì tīng wǒ shuō jǐ fēnzhōng huà ma?",
+  "words": [
+    {
+      "ch": "您",
+      "en": "You",
+      "pi": "Nín"
+    },
+    {
+      "ch": "愿意",
+      "en": "Would like",
+      "pi": "yuànyì"
+    },
+    {
+      "ch": "听",
+      "en": "Listen",
+      "pi": "tīng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "几",
+      "en": "a few",
+      "pi": "jǐ"
+    },
+    {
+      "ch": "分钟",
+      "en": "minutes",
+      "pi": "fēnzhōng"
+    },
+    {
+      "ch": "话",
+      "en": "words",
+      "pi": "huà"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

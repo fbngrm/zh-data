@@ -1,0 +1,27 @@
+{
+  "chinese": "你喜欢印度菜吗？",
+  "english": "Do you like Indian food?",
+  "pinyin": "nǐ xǐ huān yìn dù cài ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐ huān"
+    },
+    {
+      "ch": "印度菜",
+      "en": "Indian food",
+      "pi": "yìn dù cài"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

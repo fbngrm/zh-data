@@ -1,0 +1,32 @@
+{
+   "chinese": "我１０分钟后回来。",
+   "english": "I will be back in 10 minutes.",
+   "pinyin": "wǒ shí fēnzhōng hòu huí lái.",
+   "words": [
+      {
+         "ch": "我",
+         "en": "I",
+         "pi": "wǒ"
+      },
+      {
+         "ch": "１０",
+         "en": "10",
+         "pi": "shí"
+      },
+      {
+         "ch": "分钟",
+         "en": "minutes",
+         "pi": "fēnzhōng"
+      },
+      {
+         "ch": "后",
+         "en": "later",
+         "pi": "hòu"
+      },
+      {
+         "ch": "回来",
+         "en": "come back",
+         "pi": "huí lái"
+      }
+   ]
+}

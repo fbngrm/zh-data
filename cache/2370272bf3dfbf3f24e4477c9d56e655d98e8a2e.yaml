@@ -1,0 +1,16 @@
+{
+  "chinese": "給我看看你在巴黎拍的照片吧。",
+  "english": "Show me the photos you took in Paris.",
+  "pinyin": "gěi wǒ kàn kàn nǐ zài bā lí pāi de zhào piàn ba.",
+  "words": [
+    {"ch": "給我", "en": "Show me", "pi": "gěi wǒ"},
+    {"ch": "看看", "en": "the photos", "pi": "kàn kàn"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "巴黎", "en": "Paris", "pi": "bā lí"},
+    {"ch": "拍", "en": "took", "pi": "pāi"},
+    {"ch": "的", "en": "the", "pi": "de"},
+    {"ch": "照片", "en": "photos", "pi": "zhào piàn"},
+    {"ch": "吧", "en": "please", "pi": "ba"}
+  ]
+}

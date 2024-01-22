@@ -1,0 +1,42 @@
+{
+  "chinese": "你的表慢了１０分钟。",
+  "english": "Your watch is 10 minutes slow.",
+  "pinyin": "nǐ de biǎo màn le shí fēn zhōng.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "possession",
+      "pi": "de"
+    },
+    {
+      "ch": "表",
+      "en": "watch",
+      "pi": "biǎo"
+    },
+    {
+      "ch": "慢",
+      "en": "slow",
+      "pi": "màn"
+    },
+    {
+      "ch": "了",
+      "en": "past tense",
+      "pi": "le"
+    },
+    {
+      "ch": "１０",
+      "en": "10",
+      "pi": "shí"
+    },
+    {
+      "ch": "分钟",
+      "en": "minutes",
+      "pi": "fēn zhōng"
+    }
+  ]
+}

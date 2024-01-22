@@ -1,0 +1,27 @@
+{
+  "chinese": "猴子爬上了树。",
+  "english": "The monkey climbed up the tree.",
+  "pinyin": "hóu zi pá shàng le shù.",
+  "words": [
+    {
+      "ch": "猴子",
+      "en": "monkey",
+      "pi": "hóu zi"
+    },
+    {
+      "ch": "爬上",
+      "en": "climbed up",
+      "pi": "pá shàng"
+    },
+    {
+      "ch": "了",
+      "en": "past particle indicating action is complete",
+      "pi": "le"
+    },
+    {
+      "ch": "树",
+      "en": "tree",
+      "pi": "shù"
+    }
+  ]
+}

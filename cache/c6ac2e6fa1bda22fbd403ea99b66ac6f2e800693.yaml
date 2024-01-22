@@ -1,0 +1,32 @@
+{
+  "chinese": "您想要茶还是咖啡？",
+  "english": "Would you like tea or coffee?",
+  "pinyin": "Nín xiǎng yào chá háishì kāfēi?",
+  "words": [
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "想要",
+      "en": "like",
+      "pi": "xiǎng yào"
+    },
+    {
+      "ch": "茶",
+      "en": "tea",
+      "pi": "chá"
+    },
+    {
+      "ch": "还是",
+      "en": "or",
+      "pi": "háishì"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kāfēi"
+    }
+  ]
+}

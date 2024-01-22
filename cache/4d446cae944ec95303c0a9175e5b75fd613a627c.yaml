@@ -1,0 +1,13 @@
+{
+  "chinese": "只有你回答了这个问题。",
+  "english": "Only you answered this question.",
+  "pinyin": "zhǐ yǒu nǐ huídá le zhè gè wèn tí.",
+  "words": [
+    {"ch": "只有", "en": "Only", "pi": "zhǐ yǒu"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "回答", "en": "answered", "pi": "huídá"},
+    {"ch": "了", "en": "this", "pi": "le"},
+    {"ch": "这个", "en": "question", "pi": "zhè gè"},
+    {"ch": "问题", "en": "question", "pi": "wèn tí"}
+  ]
+}

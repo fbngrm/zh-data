@@ -1,0 +1,17 @@
+{
+  "chinese": "这是三十年以来雨下得最少的六月。",
+  "english": "This is the driest June in the past thirty years.",
+  "pinyin": "zhè shì sānshí nián yǐlái yǔ xià de zuìshǎo de liù yuè。",
+  "words": [
+    { "ch": "这", "en": "this", "pi": "zhè" },
+    { "ch": "是", "en": "is", "pi": "shì" },
+    { "ch": "三十年", "en": "thirty years", "pi": "sān shí nián" },
+    { "ch": "以来", "en": "in the past", "pi": "yǐ lái" },
+    { "ch": "雨", "en": "rain", "pi": "yǔ" },
+    { "ch": "下", "en": "to fall", "pi": "xià" },
+    { "ch": "得", "en": "to", "pi": "de" },
+    { "ch": "最少", "en": "the least", "pi": "zuì shǎo" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "六月", "en": "June", "pi": "liù yuè" }
+  ]
+}

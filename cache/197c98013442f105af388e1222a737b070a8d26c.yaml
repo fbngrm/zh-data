@@ -1,0 +1,16 @@
+{
+  "chinese": "玛丽和汤姆从８年级开始就相爱了。",
+  "english": "Mary and Tom have been in love since 8th grade.",
+  "pinyin": "Mǎ lì hé tāng mǔ cóng bā nián jí kāi shǐ jiù xiāng ài le.",
+  "words": [
+    { "ch": "玛丽", "en": "Mary", "pi": "Mǎ lì" },
+    { "ch": "和", "en": "and", "pi": "hé" },
+    { "ch": "汤姆", "en": "Tom", "pi": "tāng mǔ" },
+    { "ch": "从", "en": "from", "pi": "cóng" },
+    { "ch": "８年级", "en": "8th grade", "pi": "bā nián jí" },
+    { "ch": "开始", "en": "start", "pi": "kāi shǐ" },
+    { "ch": "就", "en": "since", "pi": "jiù" },
+    { "ch": "相爱", "en": "be in love", "pi": "xiāng ài" },
+    { "ch": "了", "en": "did", "pi": "le" }
+  ]
+}

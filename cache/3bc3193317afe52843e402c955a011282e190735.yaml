@@ -1,0 +1,32 @@
+{
+    "chinese": "我已經來了兩個小時。",
+    "english": "I have been here for two hours.",
+    "pinyin": "wǒ yǐ jīng lái le liǎng gè xiǎo shí。",
+    "words": [
+        {
+            "ch": "我",
+            "en": "I",
+            "pi": "wǒ"
+        },
+        {
+            "ch": "已經",
+            "en": "have been",
+            "pi": "yǐ jīng"
+        },
+        {
+            "ch": "來了",
+            "en": "here",
+            "pi": "lái le"
+        },
+        {
+            "ch": "兩個",
+            "en": "two",
+            "pi": "liǎng gè"
+        },
+        {
+            "ch": "小時",
+            "en": "hours",
+            "pi": "xiǎo shí"
+        }
+    ]
+}

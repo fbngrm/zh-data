@@ -1,0 +1,42 @@
+{
+  "chinese": "你能告诉我你的手机号吗？",
+  "english": "Can you tell me your phone number?",
+  "pinyin": "nǐ néng gàosu wǒ nǐ de shǒujī hàoma ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "告诉",
+      "en": "tell",
+      "pi": "gàosu"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "手机号",
+      "en": "phone number",
+      "pi": "shǒujī hàoma"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

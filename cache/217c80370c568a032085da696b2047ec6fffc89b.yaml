@@ -1,0 +1,20 @@
+{
+  "chinese": "由于一些写得糟糕的函数，系统大多数情况下不稳定。",
+  "english": "Due to some poorly written functions, the system is often unstable.",
+  "pinyin": "Yóuyú yīxiē xiě de zāogāo de hánshù, xìtǒng dàduōshù qíngkuàng xià bùwěndìng.",
+  "words": [
+    { "ch": "由于", "en": "Due to", "pi": "Yóuyú" },
+    { "ch": "一些", "en": "some", "pi": "yīxiē" },
+    { "ch": "写", "en": "written", "pi": "xiě" },
+    { "ch": "得", "en": "got", "pi": "de" },
+    { "ch": "糟糕", "en": "poorly", "pi": "zāogāo" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "函数", "en": "functions", "pi": "hánshù" },
+    { "ch": "，", "en": ",", "pi": "，" },
+    { "ch": "系统", "en": "system", "pi": "xìtǒng" },
+    { "ch": "大多数", "en": "often", "pi": "dàduōshù" },
+    { "ch": "情况下", "en": "under", "pi": "qíngkuàng xià" },
+    { "ch": "不稳定", "en": "unstable", "pi": "bùwěndìng" },
+    { "ch": "。", "en": ".", "pi": "。" }
+  ]
+}

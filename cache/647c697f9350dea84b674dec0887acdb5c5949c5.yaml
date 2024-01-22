@@ -1,0 +1,14 @@
+{
+  "chinese": "从这里到公园距离两英里。",
+  "english": "The distance from here to the park is two miles.",
+  "pinyin": "cóng zhèlǐ dào gōngyuán jùlí liǎng yīnglǐ。",
+  "words": [
+    {"ch": "从", "en": "from", "pi": "cóng"},
+    {"ch":"这里", "en": "here", "pi": "zhèlǐ"},
+    {"ch": "到", "en": "to", "pi": "dào"},
+    {"ch": "公园", "en": "park", "pi": "gōngyuán"},
+    {"ch": "距离", "en": "distance", "pi": "jùlí"},
+    {"ch": "两", "en": "two", "pi": "liǎng"},
+    {"ch": "英里", "en": "miles", "pi": "yīnglǐ"}
+  ]
+}

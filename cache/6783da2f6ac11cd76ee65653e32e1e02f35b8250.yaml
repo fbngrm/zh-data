@@ -1,0 +1,19 @@
+{
+  "chinese": "超市现在已经关了，我们只能加减用一下冰箱里剩的食物。",
+  "english": "The supermarket is already closed, so we can only make do with the remaining food in the refrigerator.",
+  "pinyin": "chāo shì xiàn zài yǐ jīng guān le ，wǒ men zhǐ néng jiā jiǎn yòng yī xià bīng xiāng lǐ shèng de shí wù 。",
+  "words": [
+    {"ch": "超市", "en": "supermarket", "pi": "chāo shì"},
+    {"ch": "现在", "en": "now", "pi": "xiàn zài"},
+    {"ch": "已经", "en": "already", "pi": "yǐ jīng"},
+    {"ch": "关了", "en": "closed", "pi": "guān le"},
+    {"ch": "我们", "en": "we", "pi": "wǒ men"},
+    {"ch": "只能", "en": "only can", "pi": "zhǐ néng"},
+    {"ch": "加减", "en": "make do", "pi": "jiā jiǎn"},
+    {"ch": "用一下", "en": "use for a while", "pi": "yòng yī xià"},
+    {"ch": "冰箱", "en": "refrigerator", "pi": "bīng xiāng"},
+    {"ch": "里", "en": "inside", "pi": "lǐ"},
+    {"ch": "剩的", "en": "remaining", "pi": "shèng de"},
+    {"ch": "食物", "en": "food", "pi": "shí wù"}
+  ]
+}

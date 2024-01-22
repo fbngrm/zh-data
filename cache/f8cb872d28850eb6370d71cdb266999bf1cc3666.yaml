@@ -1,0 +1,32 @@
+{
+  "chinese": "我爱这首歌。",
+  "english": "I love this song.",
+  "pinyin": "wǒ ài zhè shǒu gē.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "爱",
+      "en": "love",
+      "pi": "ài"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "首",
+      "en": "song",
+      "pi": "shǒu"
+    },
+    {
+      "ch": "歌",
+      "en": "song",
+      "pi": "gē"
+    }
+  ]
+}

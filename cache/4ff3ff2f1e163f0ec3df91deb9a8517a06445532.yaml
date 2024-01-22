@@ -1,0 +1,47 @@
+{
+  "chinese": "这架飞机飞越了这座山。",
+  "english": "The plane flew over this mountain.",
+  "pinyin": "zhè jià fēijī fēiyuè le zhè zuò shān.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "架",
+      "en": "plane",
+      "pi": "jià"
+    },
+    {
+      "ch": "飞机",
+      "en": "aircraft",
+      "pi": "fēijī"
+    },
+    {
+      "ch": "飞越",
+      "en": "fly over",
+      "pi": "fēiyuè"
+    },
+    {
+      "ch": "了",
+      "en": "past tense particle",
+      "pi": "le"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "座",
+      "en": "mountain",
+      "pi": "zuò"
+    },
+    {
+      "ch": "山",
+      "en": "mountain",
+      "pi": "shān"
+    }
+  ]
+}

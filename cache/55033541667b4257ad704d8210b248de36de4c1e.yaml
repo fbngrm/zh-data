@@ -1,0 +1,37 @@
+{
+  "chinese": "老师说明了词的意思。",
+  "english": "The teacher explained the meaning of the word.",
+  "pinyin": "lǎoshī shuōmíngle cí de yìsi.",
+  "words": [
+    {
+      "ch": "老师",
+      "en": "teacher",
+      "pi": "lǎoshī"
+    },
+    {
+      "ch": "说明",
+      "en": "explain",
+      "pi": "shuōmíng"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating change or completion",
+      "pi": "le"
+    },
+    {
+      "ch": "词",
+      "en": "word",
+      "pi": "cí"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "意思",
+      "en": "meaning",
+      "pi": "yìsi"
+    }
+  ]
+}

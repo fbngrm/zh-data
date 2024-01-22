@@ -1,0 +1,11 @@
+{
+  "chinese": "你演奏乐器吗？",
+  "english": "Do you play any musical instruments?",
+  "pinyin": "Nǐ yǎnzòu yuèqì ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "Nǐ"},
+    {"ch": "演奏", "en": "play", "pi": "yǎnzòu"},
+    {"ch": "乐器", "en": "musical instruments", "pi": "yuèqì"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

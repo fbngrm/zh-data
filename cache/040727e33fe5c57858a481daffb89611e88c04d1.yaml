@@ -1,0 +1,17 @@
+{
+  "chinese": "他跟我说了他明天从北京机场飞往英格兰。",
+  "english": "He told me that he will fly from Beijing Airport to England tomorrow.",
+  "pinyin": "tā gēn wǒ shuō le tā míng tiān cóng běi jīng jī chǎng fēi wǎng yīng gé lán。",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "跟", "en": "told", "pi": "gēn"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "说了", "en": "said", "pi": "shuō le"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "明天", "en": "tomorrow", "pi": "míng tiān"},
+    {"ch": "从", "en": "from", "pi": "cóng"},
+    {"ch": "北京机场", "en": "Beijing Airport", "pi": "běi jīng jī chǎng"},
+    {"ch": "飞往", "en": "fly to", "pi": "fēi wǎng"},
+    {"ch": "英格兰", "en": "England", "pi": "yīng gé lán"}
+  ]
+}

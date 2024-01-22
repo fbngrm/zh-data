@@ -1,0 +1,13 @@
+{
+  "chinese": "我明天会去拜访布朗先生。",
+  "english": "I will visit Mr. Brown tomorrow.",
+  "pinyin": "wǒ míng tiān huì qù bài fǎng bù lǎng xiān shēng。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "明天", "en": "tomorrow", "pi": "míng tiān"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "拜访", "en": "visit", "pi": "bài fǎng"},
+    {"ch": "布朗先生", "en": "Mr. Brown", "pi": "bù lǎng xiān shēng"}
+  ]
+}

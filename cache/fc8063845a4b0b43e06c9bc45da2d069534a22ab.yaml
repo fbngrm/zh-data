@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆给了我一枝笔。",
+  "english": "Tom gave me a pen.",
+  "pinyin": "tāng mǔ gěi le wǒ yī zhī bǐ。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "给了",
+      "en": "gave",
+      "pi": "gěi le"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "一枝",
+      "en": "a",
+      "pi": "yī zhī"
+    },
+    {
+      "ch": "笔",
+      "en": "pen",
+      "pi": "bǐ"
+    }
+  ]
+}

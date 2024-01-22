@@ -1,0 +1,32 @@
+{
+  "chinese": "这些都是他的文具。",
+  "english": "These are all his stationery.",
+  "pinyin": "zhè xiē dōu shì tā de wén jù。",
+  "words": [
+    {
+      "ch": "这些",
+      "en": "These",
+      "pi": "zhè xiē"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "文具",
+      "en": "stationery",
+      "pi": "wén jù"
+    }
+  ]
+}

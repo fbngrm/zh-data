@@ -1,0 +1,37 @@
+{
+  "chinese": "这被认为是一件大事。",
+  "english": "This is considered a big event.",
+  "pinyin": "zhè bèi rènwéi shì yī jiàn dàshì.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "被",
+      "en": "is",
+      "pi": "bèi"
+    },
+    {
+      "ch": "认为",
+      "en": "considered",
+      "pi": "rènwéi"
+    },
+    {
+      "ch": "是",
+      "en": "a",
+      "pi": "shì"
+    },
+    {
+      "ch": "一件",
+      "en": "big",
+      "pi": "yī jiàn"
+    },
+    {
+      "ch": "大事",
+      "en": "event",
+      "pi": "dàshì"
+    }
+  ]
+}

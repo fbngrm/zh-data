@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆的父母都是教师。",
+  "english": "Tom's parents are both teachers.",
+  "pinyin": "tāng mǔ de fù mǔ dōu shì jiào shī 。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "父母",
+      "en": "parents",
+      "pi": "fù mǔ"
+    },
+    {
+      "ch": "都",
+      "en": "both",
+      "pi": "dōu"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "教师",
+      "en": "teachers",
+      "pi": "jiào shī"
+    }
+  ]
+}

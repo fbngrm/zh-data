@@ -1,0 +1,32 @@
+{
+  "chinese": "这些食物看起来很好吃。",
+  "english": "These foods look delicious.",
+  "pinyin": "zhè xiē shí wù kàn qǐ lái hěn hǎo chī。",
+  "words": [
+    {
+      "ch": "这些",
+      "en": "These",
+      "pi": "zhè xiē"
+    },
+    {
+      "ch": "食物",
+      "en": "foods",
+      "pi": "shí wù"
+    },
+    {
+      "ch": "看起来",
+      "en": "look",
+      "pi": "kàn qǐ lái"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "好吃",
+      "en": "delicious",
+      "pi": "hǎo chī"
+    }
+  ]
+}

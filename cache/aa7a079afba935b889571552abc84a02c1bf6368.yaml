@@ -1,0 +1,32 @@
+{
+  "chinese": "蛋的价格正在上涨。",
+  "english": "The price of eggs is rising.",
+  "pinyin": "Dàn de jiàgé zhèngzài shàngzhǎng.",
+  "words": [
+    {
+      "ch": "蛋",
+      "en": "egg",
+      "pi": "dàn"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "价格",
+      "en": "price",
+      "pi": "jiàgé"
+    },
+    {
+      "ch": "正在",
+      "en": "is",
+      "pi": "zhèngzài"
+    },
+    {
+      "ch": "上涨",
+      "en": "rising",
+      "pi": "shàngzhǎng"
+    }
+  ]
+}

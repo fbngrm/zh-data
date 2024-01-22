@@ -1,0 +1,42 @@
+{
+  "chinese": "這句句子的文法是對的。",
+  "english": "The grammar of this sentence is correct.",
+  "pinyin": "zhè jù jùzi de wénfǎ shì duì de.",
+  "words": [
+    {
+      "ch": "這",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "句",
+      "en": "sentence",
+      "pi": "jù"
+    },
+    {
+      "ch": "句子",
+      "en": "sentence",
+      "pi": "jùzi"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "文法",
+      "en": "grammar",
+      "pi": "wénfǎ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "對",
+      "en": "correct",
+      "pi": "duì"
+    }
+  ]
+}

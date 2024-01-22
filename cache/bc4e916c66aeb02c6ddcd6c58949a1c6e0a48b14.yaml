@@ -1,0 +1,32 @@
+{
+  "chinese": "我们给他一个苹果。",
+  "english": "We give him an apple.",
+  "pinyin": "wǒmen gěi tā yī gè píngguǒ.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    },
+    {
+      "ch": "一个",
+      "en": "an",
+      "pi": "yī"
+    },
+    {
+      "ch": "苹果",
+      "en": "apple",
+      "pi": "píngguǒ"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "這個男孩從窗戶進去了。",
+  "english": "The boy went in through the window.",
+  "pinyin": "zhè ge nán hái cóng chuāng hù jìn qù le。",
+  "words": [
+    {"ch": "這個", "en": "this", "pi": "zhè ge"},
+    {"ch": "男孩", "en": "boy", "pi": "nán hái"},
+    {"ch": "從", "en": "from", "pi": "cóng"},
+    {"ch": "窗戶", "en": "window", "pi": "chuāng hù"},
+    {"ch": "進去", "en": "go in", "pi": "jìn qù"},
+    {"ch": "了", "en": "successfully", "pi": "le"}
+  ]
+}

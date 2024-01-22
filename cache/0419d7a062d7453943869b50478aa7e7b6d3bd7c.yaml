@@ -1,0 +1,47 @@
+{
+  "chinese": "你是这栋房子的主人吗？",
+  "english": "Are you the owner of this house?",
+  "pinyin": "nǐ shì zhè dòng fángzi de zhǔrén ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "栋",
+      "en": "measure word for buildings",
+      "pi": "dòng"
+    },
+    {
+      "ch": "房子",
+      "en": "house",
+      "pi": "fángzi"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "主人",
+      "en": "owner",
+      "pi": "zhǔrén"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

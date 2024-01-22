@@ -1,0 +1,52 @@
+{
+  "chinese": "Jones先生幫我糾正了文章的錯誤。",
+  "english": "Mr. Jones corrected the mistakes in my article for me.",
+  "pinyin": "Jones xiānshēng bāng wǒ jiūzhèng le wénzhāng de cuòwù。",
+  "words": [
+    {
+      "ch": "Jones",
+      "en": "Mr. Jones",
+      "pi": "xiānshēng"
+    },
+    {
+      "ch": "先生",
+      "en": "Mr.",
+      "pi": "xiānshēng"
+    },
+    {
+      "ch": "幫",
+      "en": "help",
+      "pi": "bāng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "糾正",
+      "en": "correct",
+      "pi": "jiūzhèng"
+    },
+    {
+      "ch": "了",
+      "en": "the",
+      "pi": "le"
+    },
+    {
+      "ch": "文章",
+      "en": "article",
+      "pi": "wénzhāng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "錯誤",
+      "en": "mistakes",
+      "pi": "cuòwù"
+    }
+  ]
+}

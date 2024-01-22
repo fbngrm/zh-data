@@ -1,0 +1,32 @@
+{
+  "chinese": "这里已经是午夜了。",
+  "english": "It is midnight here.",
+  "pinyin": "zhè lǐ yǐ jīng shì wǔ yè le.",
+  "words": [
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐ jīng"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "午夜",
+      "en": "midnight",
+      "pi": "wǔ yè"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating new situation",
+      "pi": "le"
+    }
+  ]
+}

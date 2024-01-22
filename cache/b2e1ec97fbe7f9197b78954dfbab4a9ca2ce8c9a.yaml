@@ -1,0 +1,47 @@
+{
+  "chinese": "我的钢笔不像你那支那么好。",
+  "english": "My pen is not as good as yours.",
+  "pinyin": "Wǒ de gāngbǐ bù xiàng nǐ nà zhī nàme hǎo.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "My",
+      "pi": "Wǒ de"
+    },
+    {
+      "ch": "钢笔",
+      "en": "pen",
+      "pi": "gāngbǐ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "像",
+      "en": "as",
+      "pi": "xiàng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "那支",
+      "en": "yours",
+      "pi": "nà zhī"
+    },
+    {
+      "ch": "那么",
+      "en": "so",
+      "pi": "nàme"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "能不能请你把窗关了?",
+  "english": "Can you please close the window?",
+  "pinyin": "néng bù néng qǐng nǐ bǎ chuāng guān le?",
+  "words": [
+    {
+      "ch": "能不能",
+      "en": "Can you please",
+      "pi": "néng bù néng"
+    },
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "把",
+      "en": "close",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "窗",
+      "en": "window",
+      "pi": "chuāng"
+    },
+    {
+      "ch": "关",
+      "en": "",
+      "pi": "guān"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "chinese": "我想打牌。",
+      "english": "I want to play cards.",
+      "pinyin": "wǒ xiǎng dǎ pái。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "想",
+          "en": "want",
+          "pi": "xiǎng"
+        },
+        {
+          "ch": "打",
+          "en": "to play",
+          "pi": "dǎ"
+        },
+        {
+          "ch": "牌",
+          "en": "cards",
+          "pi": "pái"
+        }
+      ]
+    },
+    {
+      "chinese": "我也是。",
+      "english": "Me too.",
+      "pinyin": "wǒ yě shì。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "也",
+          "en": "too",
+          "pi": "yě"
+        },
+        {
+          "ch": "是",
+          "en": "am",
+          "pi": "shì"
+        }
+      ]
+    }
+  ]
+}

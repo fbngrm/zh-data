@@ -1,0 +1,13 @@
+{
+  "chinese": "我是不是五月出生的？",
+  "english": "Am I born in May?",
+  "pinyin": "wǒ shì bùshì wǔ yuè chūshēng de?",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "是", "en": "am", "pi": "shì"},
+    {"ch": "不是", "en": "not", "pi": "bùshì"},
+    {"ch": "五月", "en": "May", "pi": "wǔ yuè"},
+    {"ch": "出生", "en": "born", "pi": "chūshēng"},
+    {"ch": "的", "en": "in", "pi": "de"}
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆说他丢了钥匙。",
+  "english": "Tom said he lost the key.",
+  "pinyin": "tāng mǔ shuō tā diū le yào shi。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "说",
+      "en": "said",
+      "pi": "shuō"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "丢",
+      "en": "lost",
+      "pi": "diū"
+    },
+    {
+      "ch": "了",
+      "en": "the",
+      "pi": "le"
+    },
+    {
+      "ch": "钥匙",
+      "en": "key",
+      "pi": "yào shi"
+    }
+  ]
+}

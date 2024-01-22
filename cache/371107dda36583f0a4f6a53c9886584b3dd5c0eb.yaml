@@ -1,0 +1,42 @@
+{
+  "chinese": "你好，我都快饿死了！",
+  "english": "Hello, I'm so hungry!",
+  "pinyin": "nǐ hǎo, wǒ dōu kuài è sǐ le!",
+  "words": [
+    {
+      "ch": "你好",
+      "en": "Hello",
+      "pi": "nǐ hǎo"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "都",
+      "en": "am",
+      "pi": "dōu"
+    },
+    {
+      "ch": "快",
+      "en": "so",
+      "pi": "kuài"
+    },
+    {
+      "ch": "饿",
+      "en": "hungry",
+      "pi": "è"
+    },
+    {
+      "ch": "死",
+      "en": "dying",
+      "pi": "sǐ"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

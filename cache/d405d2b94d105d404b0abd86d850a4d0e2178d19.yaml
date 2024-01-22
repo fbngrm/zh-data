@@ -1,0 +1,13 @@
+{
+  "chinese": "我工作了一整天，很累。",
+  "english": "I've been working all day, I'm very tired.",
+  "pinyin": "wǒ gōngzuò le yī zhěng tiān, hěn lèi.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "工作", "en": "work", "pi": "gōngzuò" },
+    { "ch": "了", "en": "have been", "pi": "le" },
+    { "ch": "一整天", "en": "all day", "pi": "yī zhěng tiān" },
+    { "ch": "很", "en": "very", "pi": "hěn" },
+    { "ch": "累", "en": "tired", "pi": "lèi" }
+  ]
+}

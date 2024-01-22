@@ -1,0 +1,42 @@
+{
+  "chinese": "我所有的朋友都喜欢足球。",
+  "english": "All my friends like football.",
+  "pinyin": "wǒ suǒ yǒu de péngyou dōu xǐhuān zúqiú.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "所有",
+      "en": "all",
+      "pi": "suǒyǒu"
+    },
+    {
+      "ch": "的",
+      "en": "my",
+      "pi": "de"
+    },
+    {
+      "ch": "朋友",
+      "en": "friends",
+      "pi": "péngyou"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "足球",
+      "en": "football",
+      "pi": "zúqiú"
+    }
+  ]
+}

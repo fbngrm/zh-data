@@ -1,0 +1,32 @@
+{
+  "chinese": "你几点钟去学校？",
+  "english": "What time do you go to school?",
+  "pinyin": "nǐ jǐ diǎn zhōng qù xuéxiào?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "几",
+      "en": "how many",
+      "pi": "jǐ"
+    },
+    {
+      "ch": "点钟",
+      "en": "o'clock",
+      "pi": "diǎn zhōng"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "学校",
+      "en": "school",
+      "pi": "xuéxiào"
+    }
+  ]
+}

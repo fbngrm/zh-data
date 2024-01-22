@@ -1,0 +1,42 @@
+{
+  "chinese": "我在這場交通意外中受了傷。",
+  "english": "I got injured in this traffic accident.",
+  "pinyin": "wǒ zài zhè chǎng jiāo tōng yì wài zhōng shòu le shāng。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "in, at",
+      "pi": "zài"
+    },
+    {
+      "ch": "這場",
+      "en": "this",
+      "pi": "zhè chǎng"
+    },
+    {
+      "ch": "交通意外",
+      "en": "traffic accident",
+      "pi": "jiāo tōng yì wài"
+    },
+    {
+      "ch": "中",
+      "en": "in, during",
+      "pi": "zhōng"
+    },
+    {
+      "ch": "受了",
+      "en": "got",
+      "pi": "shòu le"
+    },
+    {
+      "ch": "傷",
+      "en": "injured",
+      "pi": "shāng"
+    }
+  ]
+}

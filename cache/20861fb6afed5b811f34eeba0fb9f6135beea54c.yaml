@@ -1,0 +1,27 @@
+{
+  "chinese": "你有几个小孩?",
+  "english": "How many children do you have?",
+  "pinyin": "Nǐ yǒu jǐ gè xiǎo hái?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "几个",
+      "en": "how many",
+      "pi": "jǐ gè"
+    },
+    {
+      "ch": "小孩",
+      "en": "children",
+      "pi": "xiǎo hái"
+    }
+  ]
+}

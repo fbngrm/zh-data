@@ -1,0 +1,47 @@
+{
+  "chinese": "这家店从星期一到星期六都营业。",
+  "english": "This store is open from Monday to Saturday.",
+  "pinyin": "zhè jiā diàn cóng xīng qī yī dào xīng qī liù dōu yíng yè。",
+  "words": [
+    {
+      "ch": "这家",
+      "en": "This store",
+      "pi": "zhè jiā"
+    },
+    {
+      "ch": "店",
+      "en": "store",
+      "pi": "diàn"
+    },
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "星期一",
+      "en": "Monday",
+      "pi": "xīng qī yī"
+    },
+    {
+      "ch": "到",
+      "en": "to",
+      "pi": "dào"
+    },
+    {
+      "ch": "星期六",
+      "en": "Saturday",
+      "pi": "xīng qī liù"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "营业",
+      "en": "open",
+      "pi": "yíng yè"
+    }
+  ]
+}

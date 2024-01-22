@@ -1,0 +1,123 @@
+{
+  "sentences": [
+    {
+      "chinese": "我不知道對那個傢伙該怎麼辦。",
+      "english": "I don't know what to do with that guy.",
+      "pinyin": "wǒ bù zhīdào duì nàgè jiāhuo gāi zěnme bàn。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "不知道",
+          "en": "don't know",
+          "pi": "bù zhīdào"
+        },
+        {
+          "ch": "對",
+          "en": "with",
+          "pi": "duì"
+        },
+        {
+          "ch": "那個",
+          "en": "that",
+          "pi": "nàgè"
+        },
+        {
+          "ch": "傢伙",
+          "en": "guy",
+          "pi": "jiāhuo"
+        },
+        {
+          "ch": "該",
+          "en": "what to",
+          "pi": "gāi"
+        },
+        {
+          "ch": "怎麼辦",
+          "en": "do",
+          "pi": "zěnme bàn"
+        }
+      ]
+    },
+    {
+      "chinese": "不論我對他生多大的氣,他就是蠻不在乎而且置之不理。",
+      "english": "No matter how angry I am with him, he just doesn't care and ignores it.",
+      "pinyin": "bùlùn wǒ duì tā shēng duōdà de qì, tā jiùshì mán bù zàihū érqiě zhìzhī bùlǐ。",
+      "words": [
+        {
+          "ch": "不論",
+          "en": "no matter",
+          "pi": "bùlùn"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "對",
+          "en": "with",
+          "pi": "duì"
+        },
+        {
+          "ch": "他",
+          "en": "him",
+          "pi": "tā"
+        },
+        {
+          "ch": "生",
+          "en": "angry",
+          "pi": "shēng"
+        },
+        {
+          "ch": "多大的",
+          "en": "how",
+          "pi": "duōdà de"
+        },
+        {
+          "ch": "氣",
+          "en": "angry",
+          "pi": "qì"
+        },
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "就",
+          "en": "just",
+          "pi": "jiù"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "蠻",
+          "en": "doesn't care",
+          "pi": "mán"
+        },
+        {
+          "ch": "不在乎",
+          "en": "doesn't care",
+          "pi": "bù zàihū"
+        },
+        {
+          "ch": "而且",
+          "en": "and",
+          "pi": "érqiě"
+        },
+        {
+          "ch": "置之不理",
+          "en": "ignores it",
+          "pi": "zhìzhī bùlǐ"
+        }
+      ]
+    }
+  ]
+}

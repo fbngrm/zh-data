@@ -1,0 +1,16 @@
+{
+  "chinese": "我有点儿小事情想请你帮忙。",
+  "english": "I have a small favor to ask for your help.",
+  "pinyin": "wǒ yǒu diǎn er xiǎo shì qíng xiǎng qǐng nǐ bāng máng。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "点儿", "en": "a little", "pi": "diǎn er"},
+    {"ch": "小", "en": "small", "pi": "xiǎo"},
+    {"ch": "事情", "en": "favor", "pi": "shì qíng"},
+    {"ch": "想", "en": "want", "pi": "xiǎng"},
+    {"ch": "请", "en": "ask", "pi": "qǐng"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "帮忙", "en": "help", "pi": "bāng máng"}
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "chinese": "我在那匹马下十美元的赌注。",
+  "english": "I placed a ten-dollar bet on that horse.",
+  "pinyin": "wǒ zài nà pǐ mǎ xià shí měi yuán de dǔ zhū。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "在", "en": "placed", "pi": "zài"},
+    {"ch": "那", "en": "that", "pi": "nà"},
+    {"ch": "匹", "en": "horse", "pi": "pǐ"},
+    {"ch": "马", "en": "horse", "pi": "mǎ"},
+    {"ch": "下", "en": "on", "pi": "xià"},
+    {"ch": "十", "en": "ten", "pi": "shí"},
+    {"ch": "美元", "en": "dollar", "pi": "měi yuán"},
+    {"ch": "的", "en": ""},
+    {"ch": "赌注", "en": "bet", "pi": "dǔ zhū"}
+  ]
+}

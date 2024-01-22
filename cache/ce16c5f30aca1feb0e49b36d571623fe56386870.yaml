@@ -1,0 +1,48 @@
+{
+  "sentences": [
+    {
+      "chinese": "他明天去游泳吗？",
+      "english": "Is he going swimming tomorrow?",
+      "pinyin": "Tā míngtiān qù yóuyǒng ma?",
+      "words": [
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "明天",
+          "en": "tomorrow",
+          "pi": "míngtiān"
+        },
+        {
+          "ch": "去",
+          "en": "go",
+          "pi": "qù"
+        },
+        {
+          "ch": "游泳",
+          "en": "swimming",
+          "pi": "yóuyǒng"
+        },
+        {
+          "ch": "吗",
+          "en": "question particle",
+          "pi": "ma"
+        }
+      ]
+    },
+    {
+      "chinese": "没错",
+      "english": "That's right.",
+      "pinyin": "Méi cuò",
+      "words": [
+        {
+          "ch": "没错",
+          "en": "That's right",
+          "pi": "Méi cuò"
+        }
+      ]
+    }
+  ]
+}

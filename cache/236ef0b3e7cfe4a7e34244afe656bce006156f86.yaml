@@ -1,0 +1,32 @@
+{
+  "chinese": "刚刚有人给你打电话。",
+  "english": "Someone just called you.",
+  "pinyin": "gāng gāng yǒu rén gěi nǐ dǎ diàn huà.",
+  "words": [
+    {
+      "ch": "刚刚",
+      "en": "just now",
+      "pi": "gāng gāng"
+    },
+    {
+      "ch": "有人",
+      "en": "someone",
+      "pi": "yǒu rén"
+    },
+    {
+      "ch": "给",
+      "en": "to",
+      "pi": "gěi"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "打电话",
+      "en": "called",
+      "pi": "dǎ diàn huà"
+    }
+  ]
+}

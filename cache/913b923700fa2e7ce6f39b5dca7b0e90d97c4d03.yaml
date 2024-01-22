@@ -1,0 +1,42 @@
+{
+  "chinese": "我从前学习英文、德文和中文。",
+  "english": "I used to study English, German, and Chinese.",
+  "pinyin": "Wǒ cóngqián xuéxí yīngwén, déwén hé zhōngwén.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "从前",
+      "en": "used to",
+      "pi": "cóngqián"
+    },
+    {
+      "ch": "学习",
+      "en": "study",
+      "pi": "xuéxí"
+    },
+    {
+      "ch": "英文",
+      "en": "English",
+      "pi": "yīngwén"
+    },
+    {
+      "ch": "德文",
+      "en": "German",
+      "pi": "déwén"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "中文",
+      "en": "Chinese",
+      "pi": "zhōngwén"
+    }
+  ]
+}

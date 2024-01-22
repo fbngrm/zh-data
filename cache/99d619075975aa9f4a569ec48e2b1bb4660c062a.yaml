@@ -1,0 +1,15 @@
+{ 
+  "chinese": "在海里游泳并不意味着就拥有大海。",
+  "english": "Swimming in the sea does not mean you own the ocean.",
+  "pinyin": "Zài hǎi lǐ yóuyǒng bìng bù yìwèizhe jiù yǒngyǒu dàhǎi.",
+  "words": [
+    { "ch": "在", "en": "in", "pi": "zài" },
+    { "ch": "海里", "en": "sea", "pi": "hǎi lǐ" },
+    { "ch": "游泳", "en": "swimming", "pi": "yóuyǒng" },
+    { "ch": "并不", "en": "does not", "pi": "bìng bù" },
+    { "ch": "意味着", "en": "mean", "pi": "yìwèizhe" },
+    { "ch": "就", "en": "you", "pi": "jiù" },
+    { "ch": "拥有", "en": "own", "pi": "yǒngyǒu" },
+    { "ch": "大海", "en": "the ocean", "pi": "dàhǎi" }
+  ]
+}

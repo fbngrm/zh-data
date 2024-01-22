@@ -1,0 +1,14 @@
+{
+  "chinese": "这儿有张德国的大地图。",
+  "english": "Here is a large map of Germany.",
+  "pinyin": "zhè ér yǒu zhāng dé guó de dà dì tú。",
+  "words": [
+    {"ch": "这儿", "en": "here", "pi": "zhè ér"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "张", "en": "a", "pi": "zhāng"},
+    {"ch": "德国", "en": "Germany", "pi": "dé guó"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "大", "en": "big", "pi": "dà"},
+    {"ch": "地图", "en": "map", "pi": "dì tú"}
+  ]
+}

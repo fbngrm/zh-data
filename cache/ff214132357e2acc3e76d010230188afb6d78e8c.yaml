@@ -1,0 +1,32 @@
+{
+  "chinese": "她早上七点起床的。",
+  "english": "She wakes up at seven in the morning.",
+  "pinyin": "tā zǎoshang qī diǎn qǐchuáng de.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎoshang"
+    },
+    {
+      "ch": "七点",
+      "en": "seven",
+      "pi": "qī diǎn"
+    },
+    {
+      "ch": "起床",
+      "en": "wake up",
+      "pi": "qǐchuáng"
+    },
+    {
+      "ch": "的",
+      "en": "particle",
+      "pi": "de"
+    }
+  ]
+}

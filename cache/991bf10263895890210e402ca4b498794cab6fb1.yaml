@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆是这队棒球队的队长。",
+  "english": "Tom is the captain of this baseball team.",
+  "pinyin": "Tāng mǔ shì zhè duì bàngqiú duì de duìzhǎng。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "队",
+      "en": "team",
+      "pi": "duì"
+    },
+    {
+      "ch": "棒球队",
+      "en": "baseball team",
+      "pi": "bàngqiú duì"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "队长",
+      "en": "captain",
+      "pi": "duìzhǎng"
+    }
+  ]
+}

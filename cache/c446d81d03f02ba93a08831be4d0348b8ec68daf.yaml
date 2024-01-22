@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆去年去了波士顿。",
+  "english": "Tom went to Boston last year.",
+  "pinyin": "Tāng mǔ qù nián qù le bō shì dùn.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "去年",
+      "en": "last year",
+      "pi": "qù nián"
+    },
+    {
+      "ch": "去了",
+      "en": "went",
+      "pi": "qù le"
+    },
+    {
+      "ch": "波士顿",
+      "en": "Boston",
+      "pi": "bō shì dùn"
+    }
+  ]
+}

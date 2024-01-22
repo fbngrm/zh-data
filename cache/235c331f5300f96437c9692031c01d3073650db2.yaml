@@ -1,0 +1,32 @@
+{
+  "chinese": "天看起来要下雨了。",
+  "english": "It looks like it's going to rain.",
+  "pinyin": "tiān kàn qǐlái yào xià yǔ le.",
+  "words": [
+    {
+      "ch": "天",
+      "en": "day",
+      "pi": "tiān"
+    },
+    {
+      "ch": "看起来",
+      "en": "looks like",
+      "pi": "kàn qǐlái"
+    },
+    {
+      "ch": "要",
+      "en": "going to",
+      "pi": "yào"
+    },
+    {
+      "ch": "下雨",
+      "en": "rain",
+      "pi": "xià yǔ"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

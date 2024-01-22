@@ -1,0 +1,37 @@
+{
+  "chinese": "我明天把它寄给你。",
+  "english": "I will send it to you tomorrow.",
+  "pinyin": "wǒ míngtiān bǎ tā jì gěi nǐ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "把",
+      "en": "will",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "它",
+      "en": "it",
+      "pi": "tā"
+    },
+    {
+      "ch": "寄给",
+      "en": "send to",
+      "pi": "jì gěi"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    }
+  ]
+}

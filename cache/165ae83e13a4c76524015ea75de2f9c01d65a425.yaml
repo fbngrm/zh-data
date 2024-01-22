@@ -1,0 +1,32 @@
+{
+  "chinese": "这把吉他是谁的？",
+  "english": "Whose guitar is this?",
+  "pinyin": "zhè bǎ jítā shì shéi de?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "把",
+      "en": "measure word for guitar",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "吉他",
+      "en": "guitar",
+      "pi": "jítā"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "谁的",
+      "en": "whose",
+      "pi": "shéi de"
+    }
+  ]
+}

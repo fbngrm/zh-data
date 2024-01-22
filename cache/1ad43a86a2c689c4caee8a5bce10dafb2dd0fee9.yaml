@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆不必知道我要去哪。",
+  "english": "Tom doesn't need to know where I'm going.",
+  "pinyin": "tāng mǔ bù bì zhī dào wǒ yào qù nǎ.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "不必",
+      "en": "doesn't need to",
+      "pi": "bù bì"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "去",
+      "en": "to go",
+      "pi": "qù"
+    },
+    {
+      "ch": "哪",
+      "en": "where",
+      "pi": "nǎ"
+    }
+  ]
+}

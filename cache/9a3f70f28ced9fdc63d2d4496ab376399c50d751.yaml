@@ -1,0 +1,37 @@
+{
+  "chinese": "他今天下午会来的。",
+  "english": "He will come this afternoon.",
+  "pinyin": "tā jīn tiān xià wǔ huì lái de.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "下午",
+      "en": "afternoon",
+      "pi": "xià wǔ"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    },
+    {
+      "ch": "的",
+      "en": "particle indicating completion",
+      "pi": "de"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "他写了这份报告。",
+  "english": "He wrote this report.",
+  "pinyin": "tā xiě le zhè fèn bào gào。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "写",
+      "en": "write",
+      "pi": "xiě"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "这份",
+      "en": "this",
+      "pi": "zhè fèn"
+    },
+    {
+      "ch": "报告",
+      "en": "report",
+      "pi": "bào gào"
+    }
+  ]
+}

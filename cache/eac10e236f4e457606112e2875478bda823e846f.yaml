@@ -1,0 +1,14 @@
+{
+  "chinese": "是谁忘了把仓库的门锁上？",
+  "english": "Who forgot to lock the warehouse door?",
+  "pinyin": "shì shéi wàng le bǎ cāngkù de mén suǒshàng?",
+  "words": [
+    {"ch": "是", "en": "Who", "pi": "shì"},
+    {"ch": "谁", "en": "forgot", "pi": "shéi"},
+    {"ch": "忘了", "en": "to", "pi": "wàng le"},
+    {"ch": "把", "en": "lock", "pi": "bǎ"},
+    {"ch": "仓库的", "en": "the", "pi": "cāngkù de"},
+    {"ch": "门", "en": "warehouse", "pi": "mén"},
+    {"ch": "锁上", "en": "door", "pi": "suǒ shàng"}
+  ]
+}

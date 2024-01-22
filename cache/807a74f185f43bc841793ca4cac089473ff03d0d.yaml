@@ -1,0 +1,14 @@
+{
+    "chinese": "我请妈妈四点叫我起床。",
+    "english": "I asked my mom to wake me up at four o'clock.",
+    "pinyin": "wǒ qǐng māmā sì diǎn jiào wǒ qǐchuáng.",
+    "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "请", "en": "asked", "pi": "qǐng"},
+        {"ch": "妈妈", "en": "mom", "pi": "māmā"},
+        {"ch": "四点", "en": "four o'clock", "pi": "sì diǎn"},
+        {"ch": "叫", "en": "to wake", "pi": "jiào"},
+        {"ch": "我", "en": "me", "pi": "wǒ"},
+        {"ch": "起床", "en": "wake up", "pi": "qǐchuáng"}
+    ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "这张票的有效期是三天。",
+  "english": "The validity period of this ticket is three days.",
+  "pinyin": "zhè zhāng piào de yǒu xiào qī shì sān tiān。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "张",
+      "en": "counter for tickets",
+      "pi": "zhāng"
+    },
+    {
+      "ch": "票",
+      "en": "ticket",
+      "pi": "piào"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "有效期",
+      "en": "validity period",
+      "pi": "yǒu xiào qī"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "三天",
+      "en": "three days",
+      "pi": "sān tiān"
+    }
+  ]
+}

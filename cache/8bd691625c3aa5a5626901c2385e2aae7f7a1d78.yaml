@@ -1,0 +1,32 @@
+{
+  "chinese": "你怎么拼这个字？",
+  "english": "How do you spell this character?",
+  "pinyin": "Nǐ zěnme pīn zhège zì?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "怎么",
+      "en": "how",
+      "pi": "zěnme"
+    },
+    {
+      "ch": "拼",
+      "en": "spell",
+      "pi": "pīn"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhège"
+    },
+    {
+      "ch": "字",
+      "en": "character",
+      "pi": "zì"
+    }
+  ]
+}

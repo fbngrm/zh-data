@@ -1,0 +1,43 @@
+{
+  "sentences": [
+    {
+      "chinese": "我要睡了。",
+      "english": "I'm going to sleep.",
+      "pinyin": "wǒ yào shuì le。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "要",
+          "en": "want",
+          "pi": "yào"
+        },
+        {
+          "ch": "睡",
+          "en": "sleep",
+          "pi": "shuì"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        }
+      ]
+    },
+    {
+      "chinese": "晚安。",
+      "english": "Good night.",
+      "pinyin": "wǎn ān。",
+      "words": [
+        {
+          "ch": "晚安",
+          "en": "Good night",
+          "pi": "wǎn ān"
+        }
+      ]
+    }
+  ]
+}

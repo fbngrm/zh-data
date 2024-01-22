@@ -1,0 +1,13 @@
+{
+  "chinese": "他們聽到遠處傳來一下槍聲。",
+  "english": "They heard a gunshot coming from a distance.",
+  "pinyin": "tā men tīng dào yuǎn chù chuán lái yī xià qiāng shēng.",
+  "words": [
+    {"ch": "他們", "en": "They", "pi": "tā men"},
+    {"ch": "聽到", "en": "heard", "pi": "tīng dào"},
+    {"ch": "遠處", "en": "from a distance", "pi": "yuǎn chù"},
+    {"ch": "傳來", "en": "coming from", "pi": "chuán lái"},
+    {"ch": "一下", "en": "a", "pi": "yī xià"},
+    {"ch": "槍聲", "en": "gunshot", "pi": "qiāng shēng"}
+  ]
+}

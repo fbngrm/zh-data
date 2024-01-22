@@ -1,0 +1,32 @@
+{
+  "chinese": "你會說義大利語嗎？",
+  "english": "Can you speak Italian?",
+  "pinyin": "Nǐ huì shuō yì dà lì yǔ ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "會",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "說",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "義大利語",
+      "en": "Italian",
+      "pi": "yì dà lì yǔ"
+    },
+    {
+      "ch": "嗎",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

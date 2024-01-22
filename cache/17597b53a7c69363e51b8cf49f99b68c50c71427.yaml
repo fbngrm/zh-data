@@ -1,0 +1,37 @@
+{
+  "chinese": "我上周开始学中文了。",
+  "english": "I started learning Chinese last week.",
+  "pinyin": "wǒ shàng zhōu kāi shǐ xué zhōng wén le。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "上周",
+      "en": "last week",
+      "pi": "shàng zhōu"
+    },
+    {
+      "ch": "开始",
+      "en": "start",
+      "pi": "kāi shǐ"
+    },
+    {
+      "ch": "学",
+      "en": "learn",
+      "pi": "xué"
+    },
+    {
+      "ch": "中文",
+      "en": "Chinese",
+      "pi": "zhōng wén"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "le"
+    }
+  ]
+}

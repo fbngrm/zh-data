@@ -1,0 +1,13 @@
+{
+  "chinese": "他是这个国家的总理。",
+  "english": "He is the prime minister of this country.",
+  "pinyin": "tā shì zhè ge guó jiā de zǒng lǐ。",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "这个", "en": "this", "pi": "zhè ge"},
+    {"ch": "国家", "en": "country", "pi": "guó jiā"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "总理", "en": "prime minister", "pi": "zǒng lǐ"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我們住在學校附近。",
+  "english": "We live near the school.",
+  "pinyin": "wǒmen zhù zài xuéxiào fùjìn.",
+  "words": [
+    {
+      "ch": "我們",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "住",
+      "en": "live",
+      "pi": "zhù"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "學校",
+      "en": "school",
+      "pi": "xuéxiào"
+    },
+    {
+      "ch": "附近",
+      "en": "nearby",
+      "pi": "fùjìn"
+    }
+  ]
+}

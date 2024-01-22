@@ -1,0 +1,11 @@
+{
+  "chinese": "种瓜得瓜，种豆得豆。",
+  "english": "As you sow, so shall you reap.",
+  "pinyin": "zhǒng guā dé guā, zhǒng dòu dé dòu.",
+  "words": [
+    { "ch": "种瓜", "en": "sow melons", "pi": "zhǒng guā"},
+    { "ch": "得瓜", "en": "reap melons", "pi": "dé guā"},
+    { "ch": "种豆", "en": "sow beans", "pi": "zhǒng dòu"},
+    { "ch": "得豆", "en": "reap beans", "pi": "dé dòu"}
+  ]
+}

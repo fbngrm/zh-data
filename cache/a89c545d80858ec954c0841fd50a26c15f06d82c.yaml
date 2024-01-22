@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆在芝加哥住了一年。",
+  "english": "Tom lived in Chicago for a year.",
+  "pinyin": "Tāngmǔ zài zhī jiā gē zhù le yī nián.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "芝加哥",
+      "en": "Chicago",
+      "pi": "zhī jiā gē"
+    },
+    {
+      "ch": "住",
+      "en": "lived",
+      "pi": "zhù"
+    },
+    {
+      "ch": "了",
+      "en": "for",
+      "pi": "le"
+    },
+    {
+      "ch": "一年",
+      "en": "a year",
+      "pi": "yī nián"
+    }
+  ]
+}

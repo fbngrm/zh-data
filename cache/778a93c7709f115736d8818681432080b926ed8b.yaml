@@ -1,0 +1,32 @@
+{
+  "chinese": "他每天研读英语吗？",
+  "english": "Does he study English every day?",
+  "pinyin": "tā měi tiān yán dú yīng yǔ ma?",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "研读",
+      "en": "study",
+      "pi": "yán dú"
+    },
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīng yǔ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

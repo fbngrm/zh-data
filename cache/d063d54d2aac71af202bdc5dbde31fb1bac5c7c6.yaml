@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆昨天修好了他家的屋顶。",
+  "english": "Tom fixed the roof of his house yesterday.",
+  "pinyin": "Tāng mǔ zuótiān xiū hǎo le tā jiā de wūdǐng.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "修好",
+      "en": "fixed",
+      "pi": "xiū hǎo"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "他家",
+      "en": "his house",
+      "pi": "tā jiā"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "屋顶",
+      "en": "roof",
+      "pi": "wūdǐng"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "这房子位于山坡上。",
+  "english": "This house is located on a hillside.",
+  "pinyin": "zhè fáng zi wèi yú shān pō shàng。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "房子",
+      "en": "house",
+      "pi": "fáng zi"
+    },
+    {
+      "ch": "位于",
+      "en": "located on",
+      "pi": "wèi yú"
+    },
+    {
+      "ch": "山坡",
+      "en": "hillside",
+      "pi": "shān pō"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    }
+  ]
+}

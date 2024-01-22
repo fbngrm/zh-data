@@ -1,0 +1,32 @@
+{
+  "chinese": "对不起，我们不接受信用卡。",
+  "english": "I'm sorry, we do not accept credit cards.",
+  "pinyin": "duì bù qǐ, wǒ men bù jiē shòu xìn yòng kǎ。",
+  "words": [
+    {
+      "ch": "对不起",
+      "en": "I'm sorry",
+      "pi": "duì bù qǐ"
+    },
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "不",
+      "en": "do not",
+      "pi": "bù"
+    },
+    {
+      "ch": "接受",
+      "en": "accept",
+      "pi": "jiē shòu"
+    },
+    {
+      "ch": "信用卡",
+      "en": "credit card",
+      "pi": "xìn yòng kǎ"
+    }
+  ]
+}

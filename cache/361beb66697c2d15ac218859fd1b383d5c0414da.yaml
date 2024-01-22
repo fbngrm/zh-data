@@ -1,0 +1,32 @@
+{
+  "chinese": "现在是零下十度。",
+  "english": "It is currently minus ten degrees.",
+  "pinyin": "xiàn zài shì líng xià shí dù.",
+  "words": [
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "零下",
+      "en": "minus",
+      "pi": "líng xià"
+    },
+    {
+      "ch": "十",
+      "en": "ten",
+      "pi": "shí"
+    },
+    {
+      "ch": "度",
+      "en": "degrees",
+      "pi": "dù"
+    }
+  ]
+}

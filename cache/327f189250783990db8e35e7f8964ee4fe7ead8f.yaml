@@ -1,0 +1,15 @@
+{
+  "chinese": "请不要在图书馆的书籍上写字。",
+  "english": "Please do not write on the books in the library.",
+  "pinyin": "qǐng bùyào zài túshūguǎn de shūjí shàng xiězì。",
+  "words": [
+    {"ch": "请", "en": "please", "pi": "qǐng"},
+    {"ch": "不要", "en": "do not", "pi": "bùyào"},
+    {"ch": "在", "en": "on", "pi": "zài"},
+    {"ch": "图书馆", "en": "library", "pi": "túshūguǎn"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "书籍", "en": "books", "pi": "shūjí"},
+    {"ch": "上", "en": "on", "pi": "shàng"},
+    {"ch": "写字", "en": "write", "pi": "xiězì"}
+  ]
+}

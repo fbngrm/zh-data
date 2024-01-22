@@ -1,0 +1,37 @@
+{
+  "chinese": "这一次鲍伯可能会赢。",
+  "english": "This time Bob might win.",
+  "pinyin": "zhè yī cì bào bó kě néng huì yíng。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "一次",
+      "en": "time",
+      "pi": "yī cì"
+    },
+    {
+      "ch": "鲍伯",
+      "en": "Bob",
+      "pi": "bào bó"
+    },
+    {
+      "ch": "可能",
+      "en": "might",
+      "pi": "kě néng"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "赢",
+      "en": "win",
+      "pi": "yíng"
+    }
+  ]
+}

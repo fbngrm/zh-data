@@ -1,0 +1,37 @@
+{
+  "chinese": "Ｃ语言的变量名是区分大小写的。",
+  "english": "Variable names in C language are case-sensitive.",
+  "pinyin": "C yǔyán de biànliàng míng shì qūfēn dàxiǎoxiě de.",
+  "words": [
+    {
+      "ch": "Ｃ语言",
+      "en": "C language",
+      "pi": "C yǔyán"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "变量名",
+      "en": "variable names",
+      "pi": "biànliàng míng"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "区分大小写",
+      "en": "case-sensitive",
+      "pi": "qūfēn dàxiǎoxiě"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    }
+  ]
+}

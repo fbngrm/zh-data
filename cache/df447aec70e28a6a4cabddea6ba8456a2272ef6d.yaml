@@ -1,0 +1,16 @@
+{
+  "chinese": "这道菜里有点大蒜的味道。",
+  "english": "This dish has a hint of garlic flavor.",
+  "pinyin": "zhè dào cài lǐ yǒu diǎn dà suàn de wèi dào。",
+  "words": [
+    {"ch": "这", "en": "This", "pi": "zhè"},
+    {"ch": "道", "en": "dish", "pi": "dào"},
+    {"ch": "菜", "en": "vegetable", "pi": "cài"},
+    {"ch": "里", "en": "in", "pi": "lǐ"},
+    {"ch": "有", "en": "has", "pi": "yǒu"},
+    {"ch": "点", "en": "a hint of", "pi": "diǎn"},
+    {"ch": "大蒜", "en": "garlic", "pi": "dà suàn"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "味道", "en": "flavor", "pi": "wèi dào"}
+  ]
+}

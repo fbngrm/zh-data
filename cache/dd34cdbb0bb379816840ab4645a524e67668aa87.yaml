@@ -1,0 +1,37 @@
+{
+  "chinese": "地铁一号线比地铁二号线长。",
+  "english": "Subway Line 1 is longer than Subway Line 2.",
+  "pinyin": "Dìtiě yī hào xiàn bǐ dìtiě èr hào xiàn zhǎng.",
+  "words": [
+    {
+      "ch": "地铁",
+      "en": "subway",
+      "pi": "dìtiě"
+    },
+    {
+      "ch": "一号线",
+      "en": "Line 1",
+      "pi": "yī hào xiàn"
+    },
+    {
+      "ch": "比",
+      "en": "compared to",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "二号线",
+      "en": "Line 2",
+      "pi": "èr hào xiàn"
+    },
+    {
+      "ch": "长",
+      "en": "long",
+      "pi": "zhǎng"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "。"
+    }
+  ]
+}

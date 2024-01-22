@@ -1,0 +1,47 @@
+{
+  "chinese": "他们明天晚上都会去北京大学上课。",
+  "english": "They will all go to Peking University for class tomorrow night.",
+  "pinyin": "Tāmen míngtiān wǎnshàng dōu huì qù Běijīng Dàxué shàngkè.",
+  "words": [
+    {
+      "ch": "他们",
+      "en": "They",
+      "pi": "tāmen"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "晚上",
+      "en": "night",
+      "pi": "wǎnshàng"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "北京大学",
+      "en": "Peking University",
+      "pi": "Běijīng Dàxué"
+    },
+    {
+      "ch": "上课",
+      "en": "for class",
+      "pi": "shàngkè"
+    }
+  ]
+}

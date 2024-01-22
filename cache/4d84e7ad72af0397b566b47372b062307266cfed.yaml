@@ -1,0 +1,14 @@
+{
+  "chinese": "你认为是谁打破了窗户?",
+  "english": "Who do you think broke the window?",
+  "pinyin": "nǐ rèn wéi shì shuí dǎ pò le chuāng hù?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "认为", "en": "think", "pi": "rèn wéi"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "谁", "en": "who", "pi": "shuí"},
+    {"ch": "打破", "en": "broke", "pi": "dǎ pò"},
+    {"ch": "了", "en": "the", "pi": "le"},
+    {"ch": "窗户", "en": "window", "pi": "chuāng hù"}
+  ]
+}

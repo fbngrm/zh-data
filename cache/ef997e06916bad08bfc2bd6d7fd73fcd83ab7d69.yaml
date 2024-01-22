@@ -1,0 +1,42 @@
+{
+  "chinese": "现在东京当地时间是几点钟？",
+  "english": "What time is it in Tokyo now?",
+  "pinyin": "xiàn zài dōng jīng dāng dì shí jiān shì jǐ diǎn zhōng?",
+  "words": [
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "东京",
+      "en": "Tokyo",
+      "pi": "dōng jīng"
+    },
+    {
+      "ch": "当地",
+      "en": "local",
+      "pi": "dāng dì"
+    },
+    {
+      "ch": "时间",
+      "en": "time",
+      "pi": "shí jiān"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "几",
+      "en": "what",
+      "pi": "jǐ"
+    },
+    {
+      "ch": "点钟",
+      "en": "o'clock",
+      "pi": "diǎn zhōng"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "晚上六点到上午八点在家。",
+  "english": "At home from six in the evening to eight in the morning.",
+  "pinyin": "wǎn shàng liù diǎn dào shàngwǔ bā diǎn zài jiā。",
+  "words": [
+    {
+      "ch": "晚上",
+      "en": "evening",
+      "pi": "wǎn shàng"
+    },
+    {
+      "ch": "六点",
+      "en": "six o'clock",
+      "pi": "liù diǎn"
+    },
+    {
+      "ch": "到",
+      "en": "to",
+      "pi": "dào"
+    },
+    {
+      "ch": "上午",
+      "en": "morning",
+      "pi": "shàngwǔ"
+    },
+    {
+      "ch": "八点",
+      "en": "eight o'clock",
+      "pi": "bā diǎn"
+    },
+    {
+      "ch": "在家",
+      "en": "at home",
+      "pi": "zài jiā"
+    }
+  ]
+}

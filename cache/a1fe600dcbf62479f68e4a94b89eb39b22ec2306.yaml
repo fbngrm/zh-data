@@ -1,0 +1,32 @@
+{
+  "chinese": "此药只供外用。",
+  "english": "This medicine is for external use only.",
+  "pinyin": "cǐ yào zhǐ gòng wài yòng。",
+  "words": [
+    {
+      "ch": "此",
+      "en": "this",
+      "pi": "cǐ"
+    },
+    {
+      "ch": "药",
+      "en": "medicine",
+      "pi": "yào"
+    },
+    {
+      "ch": "只",
+      "en": "only",
+      "pi": "zhǐ"
+    },
+    {
+      "ch": "供",
+      "en": "for",
+      "pi": "gòng"
+    },
+    {
+      "ch": "外用",
+      "en": "external use",
+      "pi": "wài yòng"
+    }
+  ]
+}

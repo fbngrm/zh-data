@@ -1,0 +1,37 @@
+{
+  "chinese": "有辆车停在入口。",
+  "english": "There is a car parked at the entrance.",
+  "pinyin": "yǒu liàng chē tíng zài rù kǒu.",
+  "words": [
+    {
+      "ch": "有",
+      "en": "There is",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "辆",
+      "en": "a (measure word for vehicles)",
+      "pi": "liàng"
+    },
+    {
+      "ch": "车",
+      "en": "car",
+      "pi": "chē"
+    },
+    {
+      "ch": "停",
+      "en": "parked",
+      "pi": "tíng"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "入口",
+      "en": "entrance",
+      "pi": "rù kǒu"
+    }
+  ]
+}

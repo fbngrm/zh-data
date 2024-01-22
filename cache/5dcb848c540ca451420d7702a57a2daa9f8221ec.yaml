@@ -1,0 +1,37 @@
+{
+  "chinese": "这是你自己做的吗?",
+  "english": "Did you do this by yourself?",
+  "pinyin": "zhè shì nǐ zìjǐ zuò de ma?",
+  "words": [
+    {
+      "ch": "这是",
+      "en": "this is",
+      "pi": "zhè shì"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "自己",
+      "en": "self",
+      "pi": "zìjǐ"
+    },
+    {
+      "ch": "做",
+      "en": "do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

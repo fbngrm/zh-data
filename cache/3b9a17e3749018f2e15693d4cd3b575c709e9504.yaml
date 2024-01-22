@@ -1,0 +1,32 @@
+{
+  "chinese": "狗被卡车撞了。",
+  "english": "The dog was hit by a truck.",
+  "pinyin": "gǒu bèi kǎ chē zhuàng le.",
+  "words": [
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "被",
+      "en": "was",
+      "pi": "bèi"
+    },
+    {
+      "ch": "卡车",
+      "en": "truck",
+      "pi": "kǎ chē"
+    },
+    {
+      "ch": "撞",
+      "en": "hit",
+      "pi": "zhuàng"
+    },
+    {
+      "ch": "了",
+      "en": "by",
+      "pi": "le"
+    }
+  ]
+}

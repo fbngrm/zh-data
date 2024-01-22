@@ -1,0 +1,32 @@
+{
+  "chinese": "戴维先生好像很累。",
+  "english": "Mr. David seems tired.",
+  "pinyin": "Dài wéi xiān shēng hǎo xiàng hěn lèi.",
+  "words": [
+    {
+      "ch": "戴维",
+      "en": "Mr. David",
+      "pi": "Dài wéi"
+    },
+    {
+      "ch": "先生",
+      "en": "Mr.",
+      "pi": "xiān shēng"
+    },
+    {
+      "ch": "好像",
+      "en": "seems",
+      "pi": "hǎo xiàng"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "累",
+      "en": "tired",
+      "pi": "lèi"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "sentences": [
+    {
+      "chinese": "我怎么可能是机器人呢？",
+      "english": "How could I possibly be a robot?",
+      "pinyin": "wǒ zěnme kěnéng shì jīqìrén ne?",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "怎么",
+          "en": "how",
+          "pi": "zěnme"
+        },
+        {
+          "ch": "可能",
+          "en": "could",
+          "pi": "kěnéng"
+        },
+        {
+          "ch": "是",
+          "en": "be",
+          "pi": "shì"
+        },
+        {
+          "ch": "机器人",
+          "en": "robot",
+          "pi": "jīqìrén"
+        },
+        {
+          "ch": "呢",
+          "en": "",
+          "pi": "ne"
+        }
+      ]
+    },
+    {
+      "chinese": "机器人不会做梦。",
+      "english": "Robots don't dream.",
+      "pinyin": "jīqìrén bù huì zuò mèng.",
+      "words": [
+        {
+          "ch": "机器人",
+          "en": "robot",
+          "pi": "jīqìrén"
+        },
+        {
+          "ch": "不会",
+          "en": "don't",
+          "pi": "bù huì"
+        },
+        {
+          "ch": "做",
+          "en": "do",
+          "pi": "zuò"
+        },
+        {
+          "ch": "梦",
+          "en": "dream",
+          "pi": "mèng"
+        }
+      ]
+    }
+  ]
+}

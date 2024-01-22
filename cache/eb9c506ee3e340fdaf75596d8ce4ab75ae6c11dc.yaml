@@ -1,0 +1,14 @@
+{
+  "chinese": "Ａｌｉｃｅ从上周日起就感冒了。",
+  "english": "Alice has had a cold since last Sunday.",
+  "pinyin": "Ā lì sī cóng shàng zhōu rì qǐ jiù gǎn mào le.",
+  "words": [
+    {"ch": "Ａｌｉｃｅ", "en": "Alice", "pi": "Ā lì sī"},
+    {"ch": "从", "en": "from", "pi": "cóng"},
+    {"ch": "上周日", "en": "last Sunday", "pi": "shàng zhōu rì"},
+    {"ch": "起", "en": "since", "pi": "qǐ"},
+    {"ch": "就", "en": "have", "pi": "jiù"},
+    {"ch": "感冒", "en": "a cold", "pi": "gǎn mào"},
+    {"ch": "了", "en": "has", "pi": "le"}
+  ]
+}

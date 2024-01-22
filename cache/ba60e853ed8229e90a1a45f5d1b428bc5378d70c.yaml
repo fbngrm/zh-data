@@ -1,0 +1,31 @@
+{
+  "chinese": "中国的汉字数量繁多，推行汉字简化的目的，是把结构复杂的繁体字转换成易学易记的简体字，从而提高国民的识字水平。",
+  "english": "The number of Chinese characters in China is large. The purpose of simplifying Chinese characters is to transform complicated traditional characters into simplified characters that are easy to learn and remember, thus improving the literacy level of the people.",
+  "pinyin": "Zhōngguó de hànzì shùliàng fánduō, tuīxíng hànzì jiǎnhuà de mùdì, shì bǎ jiégòu fùzá de fántǐzì zhuǎnhuàn chéng yìxué yìjì de jiǎntǐzì, cóng'ér tígāo guómín de shízì shuǐpíng.",
+  "words": [
+    { "ch": "中国", "en": "China", "pi": "Zhōngguó" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "汉字", "en": "Chinese characters", "pi": "hànzì" },
+    { "ch": "数量", "en": "number", "pi": "shùliàng" },
+    { "ch": "繁多", "en": "large", "pi": "fánduō" },
+    { "ch": "推行", "en": "promote", "pi": "tuīxíng" },
+    { "ch": "汉字简化", "en": "simplification of Chinese characters", "pi": "hànzì jiǎnhuà" },
+    { "ch": "目的", "en": "purpose", "pi": "mùdì" },
+    { "ch": "是", "en": "is", "pi": "shì" },
+    { "ch": "把", "en": "transform", "pi": "bǎ" },
+    { "ch": "结构", "en": "structure", "pi": "jiégòu" },
+    { "ch": "复杂", "en": "complicated", "pi": "fùzá" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "繁体字", "en": "traditional characters", "pi": "fántǐzì" },
+    { "ch": "转换", "en": "convert", "pi": "zhuǎnhuàn" },
+    { "ch": "成", "en": "into", "pi": "chéng" },
+    { "ch": "易学易记", "en": "easy to learn and remember", "pi": "yìxué yìjì" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "简体字", "en": "simplified characters", "pi": "jiǎntǐzì" },
+    { "ch": "从而", "en": "thus", "pi": "cóng'ér" },
+    { "ch": "提高", "en": "improve", "pi": "tígāo" },
+    { "ch": "国民", "en": "people", "pi": "guómín" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "识字水平", "en": "literacy level", "pi": "shízì shuǐpíng" }
+  ]
+}

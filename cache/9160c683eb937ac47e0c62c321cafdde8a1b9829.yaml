@@ -1,0 +1,42 @@
+{
+  "chinese": "约翰明天会来看我们吗？",
+  "english": "Will John come to see us tomorrow?",
+  "pinyin": "Yuē hàn míngtiān huì lái kàn wǒmen ma?",
+  "words": [
+    {
+      "ch": "约翰",
+      "en": "John",
+      "pi": "Yuē hàn"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    },
+    {
+      "ch": "看",
+      "en": "see",
+      "pi": "kàn"
+    },
+    {
+      "ch": "我们",
+      "en": "us",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

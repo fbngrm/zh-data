@@ -1,0 +1,27 @@
+{
+  "chinese": "天黑以后不要出门。",
+  "english": "Don't go out after dark.",
+  "pinyin": "tiān hēi yǐhòu bú yào chū mén。",
+  "words": [
+    {
+      "ch": "天黑",
+      "en": "dark",
+      "pi": "tiān hēi"
+    },
+    {
+      "ch": "以后",
+      "en": "after",
+      "pi": "yǐhòu"
+    },
+    {
+      "ch": "不要",
+      "en": "don't",
+      "pi": "bú yào"
+    },
+    {
+      "ch": "出门",
+      "en": "go out",
+      "pi": "chū mén"
+    }
+  ]
+}

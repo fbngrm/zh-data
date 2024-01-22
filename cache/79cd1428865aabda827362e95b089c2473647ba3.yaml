@@ -1,0 +1,32 @@
+{
+  "chinese": "你想买什么蔬菜？",
+  "english": "What vegetables do you want to buy?",
+  "pinyin": "nǐ xiǎng mǎi shénme shūcài?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "买",
+      "en": "buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "蔬菜",
+      "en": "vegetables",
+      "pi": "shūcài"
+    }
+  ]
+}

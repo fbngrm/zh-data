@@ -1,0 +1,37 @@
+{
+  "chinese": "我有一辆旧的脚踏车。",
+  "english": "I have an old bicycle.",
+  "pinyin": "wǒ yǒu yī liàng jiù de jiǎo tà chē。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一",
+      "en": "an",
+      "pi": "yī"
+    },
+    {
+      "ch": "辆",
+      "en": "one (measure word for vehicles)",
+      "pi": "liàng"
+    },
+    {
+      "ch": "旧的",
+      "en": "old",
+      "pi": "jiù de"
+    },
+    {
+      "ch": "脚踏车",
+      "en": "bicycle",
+      "pi": "jiǎo tà chē"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "sentences": [
+    {
+      "chinese": "酒水免费吗？",
+      "english": "Is the alcohol free?",
+      "pinyin": "jiǔ shuǐ miǎn fèi ma?",
+      "words": [
+        {
+          "ch": "酒水",
+          "en": "alcohol",
+          "pi": "jiǔ shuǐ"
+        },
+        {
+          "ch": "免费",
+          "en": "free",
+          "pi": "miǎn fèi"
+        },
+        {
+          "ch": "吗",
+          "en": "is",
+          "pi": "ma"
+        }
+      ]
+    },
+    {
+      "chinese": "仅女士而已。",
+      "english": "Only for ladies.",
+      "pinyin": "jǐn nǚ shì ér yǐ.",
+      "words": [
+        {
+          "ch": "仅",
+          "en": "only",
+          "pi": "jǐn"
+        },
+        {
+          "ch": "女士",
+          "en": "ladies",
+          "pi": "nǚ shì"
+        },
+        {
+          "ch": "而已",
+          "en": "already",
+          "pi": "ér yǐ"
+        }
+      ]
+    }
+  ]
+}

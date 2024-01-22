@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆很有信心，不是么？",
+  "english": "Tom is very confident, isn't he?",
+  "pinyin": "Tāng mǔ hěn yǒu xìn xīn, bù shì me?",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "信心",
+      "en": "confidence",
+      "pi": "xìn xīn"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": ","
+    },
+    {
+      "ch": "不是",
+      "en": "isn't",
+      "pi": "bù shì"
+    },
+    {
+      "ch": "么",
+      "en": "he?",
+      "pi": "me?"
+    }
+  ]
+}

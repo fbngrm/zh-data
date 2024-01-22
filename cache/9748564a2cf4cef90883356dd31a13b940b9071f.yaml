@@ -1,0 +1,113 @@
+{
+  "sentences": [
+    {
+      "chinese": "对，我和我的家人来吃饭。",
+      "english": "Yes, me and my family come to eat.",
+      "pinyin": "duì, wǒ hé wǒ de jiārén lái chīfàn.",
+      "words": [
+        {
+          "ch": "对",
+          "en": "Yes",
+          "pi": "duì"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": ""
+        },
+        {
+          "ch": "我",
+          "en": "me",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "和",
+          "en": "and",
+          "pi": "hé"
+        },
+        {
+          "ch": "我",
+          "en": "my",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "的",
+          "en": "family",
+          "pi": "de"
+        },        
+        {
+          "ch": "家人",
+          "en": "come",
+          "pi": "jiārén"
+        },
+        {
+          "ch": "来",
+          "en": "eat",
+          "pi": "lái"
+        },
+        {
+          "ch": "吃饭",
+          "en": "to",
+          "pi": "chīfàn"
+        },
+        {
+          "ch": "。",
+          "en": "eat",
+          "pi": ""
+        }
+      ]
+    },
+    {
+      "chinese": "我的朋友说这里的广东菜很好吃。",
+      "english": "My friend says the Cantonese food here is delicious.",
+      "pinyin": "wǒ de péngyǒu shuō zhèlǐ de guǎngdōng cài hěn hǎo chī.",
+      "words": [
+        {
+          "ch": "我的",
+          "en": "My",
+          "pi": "wǒ de"
+        },
+        {
+          "ch": "朋友",
+          "en": "friend",
+          "pi": "péngyǒu"
+        },
+        {
+          "ch": "说",
+          "en": "says",
+          "pi": "shuō"
+        },
+        {
+          "ch": "这里",
+          "en": "here",
+          "pi": "zhèlǐ"
+        },
+        {
+          "ch": "的",
+          "en": "the",
+          "pi": "de"
+        },
+        {
+          "ch": "广东菜",
+          "en": "Cantonese food",
+          "pi": "guǎngdōng cài"
+        },
+        {
+          "ch": "很",
+          "en": "is",
+          "pi": "hěn"
+        },
+        {
+          "ch": "好吃",
+          "en": "delicious",
+          "pi": "hǎo chī"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": ""
+        }
+      ]
+    }
+  ]
+}

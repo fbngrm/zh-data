@@ -1,0 +1,47 @@
+{
+  "chinese": "鲸是被公认为最大的哺乳动物。",
+  "english": "Whales are recognized as the largest mammals.",
+  "pinyin": "jīng shì bèi gōng rèn wéi zuì dà de bǔ rǔ dòng wù。",
+  "words": [
+    { 
+      "ch": "鲸", 
+      "en": "whale", 
+      "pi": "jīng" 
+    },
+    { 
+      "ch": "是", 
+      "en": "are", 
+      "pi": "shì" 
+    },
+    { 
+      "ch": "被", 
+      "en": "recognized as", 
+      "pi": "bèi" 
+    },
+    { 
+      "ch": "公认", 
+      "en": "recognized", 
+      "pi": "gōng rèn" 
+    },
+    { 
+      "ch": "为", 
+      "en": "as", 
+      "pi": "wéi" 
+    },
+    { 
+      "ch": "最大", 
+      "en": "largest", 
+      "pi": "zuì dà" 
+    },
+    { 
+      "ch": "的", 
+      "en": "", 
+      "pi": "de" 
+    },
+    { 
+      "ch": "哺乳动物", 
+      "en": "mammals", 
+      "pi": "bǔ rǔ dòng wù" 
+    }
+  ]
+}

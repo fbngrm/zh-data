@@ -1,0 +1,48 @@
+{
+  "sentences": [
+    {
+      "chinese": "闻起来像爆米花。",
+      "english": "Smells like popcorn.",
+      "pinyin": "wén qǐ lái xiàng bào mǐ huā。",
+      "words": [
+        {
+          "ch": "闻起来",
+          "en": "smells",
+          "pi": "wén qǐ lái"
+        },
+        {
+          "ch": "像",
+          "en": "like",
+          "pi": "xiàng"
+        },
+        {
+          "ch": "爆米花",
+          "en": "popcorn",
+          "pi": "bào mǐ huā"
+        }
+      ]
+    },
+    {
+      "chinese": "你说的对！",
+      "english": "You're right!",
+      "pinyin": "nǐ shuō de duì！",
+      "words": [
+        {
+          "ch": "你",
+          "en": "You",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "说的",
+          "en": "say",
+          "pi": "shuō de"
+        },
+        {
+          "ch": "对",
+          "en": "right",
+          "pi": "duì"
+        }
+      ]
+    }
+  ]
+}

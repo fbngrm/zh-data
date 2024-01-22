@@ -1,0 +1,32 @@
+{
+  "chinese": "我想做一个程序员。",
+  "english": "I want to be a programmer.",
+  "pinyin": "wǒ xiǎng zuò yī gè chéngxùyuán。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "做",
+      "en": "to be",
+      "pi": "zuò"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "程序员",
+      "en": "programmer",
+      "pi": "chéngxùyuán"
+    }
+  ]
+}

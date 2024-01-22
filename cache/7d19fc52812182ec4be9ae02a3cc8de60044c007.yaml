@@ -1,0 +1,42 @@
+{
+  "chinese": "我知道玛丽觉得我很蠢。",
+  "english": "I know Mary thinks I'm stupid.",
+  "pinyin": "wǒ zhīdào mǎlì juéde wǒ hěn chǔn。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎlì"
+    },
+    {
+      "ch": "觉得",
+      "en": "thinks",
+      "pi": "juéde"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "蠢",
+      "en": "stupid",
+      "pi": "chǔn"
+    }
+  ]
+}

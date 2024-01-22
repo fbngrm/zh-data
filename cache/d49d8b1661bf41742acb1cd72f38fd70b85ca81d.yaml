@@ -1,0 +1,37 @@
+{
+  "chinese": "你应该去睡觉了吧。",
+  "english": "You should go to bed.",
+  "pinyin": "nǐ yīng gāi qù shuì jiào le ba。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "应该",
+      "en": "should",
+      "pi": "yīng gāi"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "睡觉",
+      "en": "to bed",
+      "pi": "shuì jiào"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "le"
+    },
+    {
+      "ch": "吧",
+      "en": "right?",
+      "pi": "ba"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "我的狗跟我睡一个房间。",
+  "english": "My dog sleeps in the same room as me.",
+  "pinyin": "wǒ de gǒu gēn wǒ shuì yī gè fángjiān.",
+  "words": [
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "狗", "en": "dog", "pi": "gǒu"},
+    {"ch": "跟", "en": "with", "pi": "gēn"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "睡", "en": "sleep", "pi": "shuì"},
+    {"ch": "一个", "en": "one", "pi": "yī gè"},
+    {"ch": "房间", "en": "room", "pi": "fángjiān"}
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "你要留言吗？",
+  "english": "Do you want to leave a message?",
+  "pinyin": "nǐ yào liúyán ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "留言",
+      "en": "leave a message",
+      "pi": "liúyán"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

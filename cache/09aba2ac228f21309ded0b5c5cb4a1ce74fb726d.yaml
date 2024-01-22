@@ -1,0 +1,27 @@
+{
+  "chinese": "这只狗跑得很快。",
+  "english": "This dog runs very fast.",
+  "pinyin": "zhè zhī gǒu pǎo dé hěn kuài.",
+  "words": [
+    {
+      "ch": "这只",
+      "en": "This",
+      "pi": "zhè zhī"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "跑得",
+      "en": "runs",
+      "pi": "pǎo dé"
+    },
+    {
+      "ch": "很快",
+      "en": "very fast",
+      "pi": "hěn kuài"
+    }
+  ]
+}

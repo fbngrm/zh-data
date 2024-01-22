@@ -1,0 +1,11 @@
+{
+  "chinese": "汤姆去年得了心脏病。",
+  "english": "Tom had a heart disease last year.",
+  "pinyin": "Tāng mǔ qù nián dé liǎo xīn zàng bìng.",
+  "words": [
+    {"ch":"汤姆", "en":"Tom", "pi":"Tāng mǔ"},
+    {"ch":"去年", "en":"last year", "pi":"qù nián"},
+    {"ch":"得了", "en":"had", "pi":"dé liǎo"},
+    {"ch":"心脏病", "en":"heart disease", "pi":"xīn zàng bìng"}
+  ]
+}

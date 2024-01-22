@@ -1,0 +1,14 @@
+{
+  "chinese": "这家银行一週前被抢劫。",
+  "english": "This bank was robbed a week ago.",
+  "pinyin": "zhè jiā yínháng yī zhōu qián bèi qiǎngjié.",
+  "words": [
+    { "ch": "这", "en": "this", "pi": "zhè" },
+    { "ch": "家", "en": "bank", "pi": "jiā" },
+    { "ch": "银行", "en": "was", "pi": "yínháng" },
+    { "ch": "一週", "en": "robbed", "pi": "yī zhōu" },
+    { "ch": "前", "en": "a week ago", "pi": "qián" },
+    { "ch": "被", "en": "ago", "pi": "bèi" },
+    { "ch": "抢劫", "en": "robbed", "pi": "qiǎngjié" }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "你能回答这条问题吗？",
+  "english": "Can you answer this question?",
+  "pinyin": "nǐ néng huídá zhè tiáo wèntí ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "回答",
+      "en": "answer",
+      "pi": "huídá"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "条",
+      "en": "measure word",
+      "pi": "tiáo"
+    },
+    {
+      "ch": "问题",
+      "en": "question",
+      "pi": "wèntí"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "sentences": [
+    {
+      "chinese": "Nick说葡萄牙语说得很好。",
+      "english": "Nick speaks Portuguese very well.",
+      "pinyin": "Nick shuō pú táo yá yǔ shuō dé hěn hǎo。",
+      "words": [
+        {
+          "ch": "Nick",
+          "en": "Nick",
+          "pi": "Níck"
+        },
+        {
+          "ch": "说",
+          "en": "speak",
+          "pi": "shuō"
+        },
+        {
+          "ch": "葡萄牙语",
+          "en": "Portuguese",
+          "pi": "pú táo yá yǔ"
+        },
+        {
+          "ch": "说得",
+          "en": "speaks",
+          "pi": "shuō dé"
+        },
+        {
+          "ch": "很好",
+          "en": "very well",
+          "pi": "hěn hǎo"
+        }
+      ]
+    },
+    {
+      "chinese": "那是因为他学了有5年了。",
+      "english": "That's because he has been studying for 5 years.",
+      "pinyin": "Nà shì yīn wèi tā xué le yǒu 5 nián le。",
+      "words": [
+        {
+          "ch": "那是",
+          "en": "That's",
+          "pi": "Nà shì"
+        },
+        {
+          "ch": "因为",
+          "en": "because",
+          "pi": "yīn wèi"
+        },
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "学",
+          "en": "study",
+          "pi": "xué"
+        },
+        {
+          "ch": "了",
+          "en": "has",
+          "pi": "le"
+        },
+        {
+          "ch": "有",
+          "en": "been",
+          "pi": "yǒu"
+        },
+        {
+          "ch": "5年",
+          "en": "5 years",
+          "pi": "5 nián"
+        },
+        {
+          "ch": "了",
+          "en": "for",
+          "pi": "le"
+        }
+      ]
+    }
+  ]
+}

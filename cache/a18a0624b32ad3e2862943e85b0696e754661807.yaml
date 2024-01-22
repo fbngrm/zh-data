@@ -1,0 +1,32 @@
+{
+  "chinese": "我明天下午有空。",
+  "english": "I have free time tomorrow afternoon.",
+  "pinyin": "wǒ míngtiān xiàwǔ yǒu kòng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "下午",
+      "en": "afternoon",
+      "pi": "xiàwǔ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "空",
+      "en": "free time",
+      "pi": "kòng"
+    }
+  ]
+}

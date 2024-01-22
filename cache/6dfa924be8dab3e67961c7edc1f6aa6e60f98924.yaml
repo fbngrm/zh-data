@@ -1,0 +1,32 @@
+{
+  "chinese": "鲍伯在早上作早餐。",
+  "english": "Bob is making breakfast in the morning.",
+  "pinyin": "Bào bó zài zǎo shàng zuò zǎo cān.",
+  "words": [
+    {
+      "ch": "鲍伯",
+      "en": "Bob",
+      "pi": "bào bó"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎo shàng"
+    },
+    {
+      "ch": "作",
+      "en": "making",
+      "pi": "zuò"
+    },
+    {
+      "ch": "早餐",
+      "en": "breakfast",
+      "pi": "zǎo cān"
+    }
+  ]
+}

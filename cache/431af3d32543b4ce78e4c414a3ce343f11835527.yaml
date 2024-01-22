@@ -1,0 +1,37 @@
+{
+  "chinese": "请你接听一下电话，好吗？",
+  "english": "Can you please answer the phone?",
+  "pinyin": "Qǐng nǐ jiētīng yīxià diànhuà, hǎo ma?",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Can",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "接听",
+      "en": "answer",
+      "pi": "jiētīng"
+    },
+    {
+      "ch": "一下",
+      "en": "please",
+      "pi": "yīxià"
+    },
+    {
+      "ch": "电话",
+      "en": "phone",
+      "pi": "diànhuà"
+    },
+    {
+      "ch": "好吗",
+      "en": "?",
+      "pi": "hǎo ma"
+    }
+  ]
+}

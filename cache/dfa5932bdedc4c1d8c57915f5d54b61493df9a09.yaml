@@ -1,0 +1,47 @@
+{
+  "chinese" : "刚出生的小鸡还没有睁开眼睛。",
+  "english" : "The newly born chick hasn't opened its eyes yet.",
+  "pinyin" : "gāng chū shēng de xiǎo jī hái méi yǒu zhēng kāi yǎn jīng。",
+  "words" : [
+    {
+      "ch" : "刚",
+      "en" : "just",
+      "pi" : "gāng"
+    },
+    {
+      "ch" : "出生",
+      "en" : "born",
+      "pi" : "chū shēng"
+    },
+    {
+      "ch" : "的",
+      "en" : "of",
+      "pi" : "de"
+    },
+    {
+      "ch" : "小鸡",
+      "en" : "chick",
+      "pi" : "xiǎo jī"
+    },
+    {
+      "ch" : "还",
+      "en" : "still",
+      "pi" : "hái"
+    },
+    {
+      "ch" : "没有",
+      "en" : "haven't",
+      "pi" : "méi yǒu"
+    },
+    {
+      "ch" : "睁开",
+      "en" : "open",
+      "pi" : "zhēng kāi"
+    },
+    {
+      "ch" : "眼睛",
+      "en" : "eyes",
+      "pi" : "yǎn jīng"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "chinese": "暴风雨过后，那条路被倒下来的树堵住了。",
+  "english": "After the storm, the road was blocked by a fallen tree.",
+  "pinyin": "Bào fēng yǔ guò hòu, nà tiáo lù bèi dǎo xià lái de shù dǔ zhù le.",
+  "words": [
+    { "ch": "暴风雨", "en": "storm", "pi": "bào fēng yǔ" },
+    { "ch": "过后", "en": "after", "pi": "guò hòu" },
+    { "ch": "那", "en": "that", "pi": "nà" },
+    { "ch": "条", "en": "measure word", "pi": "tiáo" },
+    { "ch": "路", "en": "road", "pi": "lù" },
+    { "ch": "被", "en": "by", "pi": "bèi" },
+    { "ch": "倒下来", "en": "fallen", "pi": "dǎo xià lái" },
+    { "ch": "的", "en": "possessive particle", "pi": "de" },
+    { "ch": "树", "en": "tree", "pi": "shù" },
+    { "ch": "堵住", "en": "block", "pi": "dǔ zhù" },
+    { "ch": "了", "en": "particle indicating completed action", "pi": "le" }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "chinese": "如果我不记得了，那我早就已经忘了。",
+  "english": "If I don't remember, then I've already forgotten.",
+  "pinyin": "Rúguǒ wǒ bù jìdé le, nà wǒ zǎo jiù yǐjīng wàng le.",
+  "words": [
+    {"ch": "如果", "en": "if", "pi": "rú guǒ"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "不", "en": "don't", "pi": "bù"},
+    {"ch": "记得", "en": "remember", "pi": "jì dé"},
+    {"ch": "了", "en": "then", "pi": "le"},
+    {"ch": "，", "en": ","},
+    {"ch": "那", "en": "then", "pi": "nà"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "早就", "en": "already", "pi": "zǎo jiù"},
+    {"ch": "已经", "en": "have", "pi": "yǐjīng"},
+    {"ch": "忘了", "en": "forgotten", "pi": "wàng le"},
+    {"ch": "。", "en": "."}
+  ]
+}

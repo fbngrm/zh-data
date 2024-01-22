@@ -1,0 +1,14 @@
+{
+  "chinese": "他们已经不住在中国了。",
+  "english": "They no longer live in China.",
+  "pinyin": "Tāmen yǐjīng bù zhù zài Zhōngguó le.",
+  "words": [
+    {"ch": "他们", "en": "They", "pi": "Tāmen"},
+    {"ch": "已经", "en": "already", "pi": "yǐjīng"},
+    {"ch": "不", "en": "no", "pi": "bù"},
+    {"ch": "住", "en": "live", "pi": "zhù"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "中国", "en": "China", "pi": "Zhōngguó"},
+    {"ch": "了", "en": "anymore", "pi": "le"}
+  ]
+}

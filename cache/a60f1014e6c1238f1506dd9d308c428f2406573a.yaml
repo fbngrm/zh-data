@@ -1,0 +1,15 @@
+{
+  "chinese": "我刮了胡子并理了发。",
+  "english": "I shaved my beard and got a haircut.",
+  "pinyin": "wǒ guā le hú zi bìng lǐ le fǎ.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "刮", "en": "shaved", "pi": "guā" },
+    { "ch": "了", "en": "", "pi": "le" },
+    { "ch": "胡子", "en": "beard", "pi": "hú zi" },
+    { "ch": "并", "en": "and", "pi": "bìng" },
+    { "ch": "理", "en": "got", "pi": "lǐ" },
+    { "ch": "了", "en": "", "pi": "le" },
+    { "ch": "发", "en": "haircut", "pi": "fǎ" }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我不是很擅长游泳。",
+  "english": "I'm not very good at swimming.",
+  "pinyin": "wǒ bùshì hěn shàncháng yóuyǒng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不是",
+      "en": "not",
+      "pi": "bùshì"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "擅长",
+      "en": "good at",
+      "pi": "shàncháng"
+    },
+    {
+      "ch": "游泳",
+      "en": "swimming",
+      "pi": "yóuyǒng"
+    }
+  ]
+}

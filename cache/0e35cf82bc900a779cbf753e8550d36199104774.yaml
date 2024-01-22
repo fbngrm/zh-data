@@ -1,0 +1,32 @@
+{
+  "chinese": "我八点有个约会。",
+  "english": "I have an appointment at 8 o'clock.",
+  "pinyin": "wǒ bā diǎn yǒu gè yuēhuì。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "八点",
+      "en": "8 o'clock",
+      "pi": "bā diǎn"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "个",
+      "en": "an",
+      "pi": "gè"
+    },
+    {
+      "ch": "约会",
+      "en": "appointment",
+      "pi": "yuēhuì"
+    }
+  ]
+}

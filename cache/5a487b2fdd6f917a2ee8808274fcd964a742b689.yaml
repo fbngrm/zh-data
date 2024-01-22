@@ -1,0 +1,12 @@
+{ 
+   "chinese": "那不是刀。这个才是！",
+   "english": "That is not a knife. This is the knife!",
+   "pinyin": "Nà bú shì dāo. Zhègè cái shì!",
+   "words": [
+      {"ch": "那", "en": "that", "pi": "nà"},
+      {"ch": "不是", "en": "is not", "pi": "bú shì"},
+      {"ch": "刀", "en": "knife", "pi": "dāo"},
+      {"ch": "这个", "en": "this", "pi": "zhègè"},
+      {"ch": "才是", "en": "is", "pi": "cái shì"}
+   ]
+}

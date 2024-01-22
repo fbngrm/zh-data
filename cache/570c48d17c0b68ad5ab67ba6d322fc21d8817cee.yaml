@@ -1,0 +1,37 @@
+{
+  "chinese": "他的健康狀況很差。",
+  "english": "His health condition is very poor.",
+  "pinyin": "tā de jiànkāng zhuàngkuàng hěn chà.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "健康",
+      "en": "health",
+      "pi": "jiànkāng"
+    },
+    {
+      "ch": "狀況",
+      "en": "condition",
+      "pi": "zhuàngkuàng"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "差",
+      "en": "poor",
+      "pi": "chà"
+    }
+  ]
+}

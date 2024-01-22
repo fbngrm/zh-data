@@ -1,0 +1,47 @@
+{
+  "chinese": "這本是我讀過最好的書。",
+  "english": "This is the best book I've ever read.",
+  "pinyin": "zhè běn shì wǒ dú guò zuì hǎo de shū。",
+  "words": [
+    {
+      "ch": "這",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "讀過",
+      "en": "have read",
+      "pi": "dú guò"
+    },
+    {
+      "ch": "最好",
+      "en": "best",
+      "pi": "zuì hǎo"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "書。",
+      "en": "book.",
+      "pi": "shū。"
+    }
+  ]
+}

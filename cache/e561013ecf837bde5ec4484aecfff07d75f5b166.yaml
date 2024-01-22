@@ -1,0 +1,14 @@
+{
+  "chinese": "我就要读完这本书了。",
+  "english": "I'm about to finish reading this book.",
+  "pinyin": "wǒ jiù yào dú wán zhè běn shū le.",
+  "words": [
+    {"ch":"我", "en":"I", "pi":"wǒ"},
+    {"ch":"就", "en":"about", "pi":"jiù"},
+    {"ch":"要", "en":"to", "pi":"yào"},
+    {"ch":"读完", "en":"finish reading", "pi":"dú wán"},
+    {"ch":"这", "en":"this", "pi":"zhè"},
+    {"ch":"本书", "en":"book", "pi":"běn shū"},
+    {"ch":"了", "en":"le", "pi":"le"}
+  ]
+}

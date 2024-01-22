@@ -1,0 +1,13 @@
+{
+  "chinese": "我昨天去了理髮店理髮。",
+  "english": "Yesterday I went to the barbershop to get a haircut.",
+  "pinyin": "Wǒ zuótiān qùle lǐfà diàn lǐfà.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "昨天", "en": "yesterday", "pi": "zuótiān" },
+    { "ch": "去", "en": "go", "pi": "qù" },
+    { "ch": "了", "en": "to", "pi": "le" },
+    { "ch": "理髮店", "en": "barbershop", "pi": "lǐfà diàn" },
+    { "ch": "理髮", "en": "haircut", "pi": "lǐfà" }
+  ]
+}

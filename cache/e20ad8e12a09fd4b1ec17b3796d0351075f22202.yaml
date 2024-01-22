@@ -1,0 +1,27 @@
+{
+  "chinese": "你好，我是胡安。",
+  "english": "Hello, I am Juan.",
+  "pinyin": "nǐ hǎo, wǒ shì hú ān.",
+  "words": [
+    {
+      "ch": "你好",
+      "en": "Hello",
+      "pi": "nǐ hǎo"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "是",
+      "en": "am",
+      "pi": "shì"
+    },
+    {
+      "ch": "胡安",
+      "en": "Juan",
+      "pi": "hú ān"
+    }
+  ]
+}

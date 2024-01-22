@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆真的那么说了吗？",
+  "english": "Did Tom really say that?",
+  "pinyin": "Tāng mǔ zhēn de nàme shuō le ma?",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "真的",
+      "en": "really",
+      "pi": "zhēn de"
+    },
+    {
+      "ch": "那么",
+      "en": "that",
+      "pi": "nàme"
+    },
+    {
+      "ch": "说了",
+      "en": "say",
+      "pi": "shuō le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

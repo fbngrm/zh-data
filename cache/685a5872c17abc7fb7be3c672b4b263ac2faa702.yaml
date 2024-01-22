@@ -1,0 +1,32 @@
+{
+  "chinese": "小李，你家现在有几个人？",
+  "english": "Li, how many people are there in your family now?",
+  "pinyin": "Xiǎo Lǐ, nǐ jiā xiànzài yǒu jǐ gè rén?",
+  "words": [
+    {
+      "ch": "小李",
+      "en": "Li",
+      "pi": "Xiǎo Lǐ"
+    },
+    {
+      "ch": "你家",
+      "en": "your family",
+      "pi": "nǐ jiā"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiànzài"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "几个人",
+      "en": "how many people",
+      "pi": "jǐ gè rén"
+    }
+  ]
+}

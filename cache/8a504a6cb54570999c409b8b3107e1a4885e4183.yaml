@@ -1,0 +1,37 @@
+{
+  "chinese": "你和你的父母同住吗？",
+  "english": "Do you live with your parents?",
+  "pinyin": "nǐ hé nǐ de fù mǔ tóng zhù ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "父母",
+      "en": "parents",
+      "pi": "fù mǔ"
+    },
+    {
+      "ch": "同住",
+      "en": "live together",
+      "pi": "tóng zhù"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

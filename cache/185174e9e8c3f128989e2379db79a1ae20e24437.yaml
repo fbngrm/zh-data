@@ -1,0 +1,52 @@
+{
+  "chinese": "我会说中文，但是我不会读中文。",
+  "english": "I can speak Chinese, but I can't read Chinese.",
+  "pinyin": "wǒ huì shuō zhōng wén, dàn shì wǒ bú huì dú zhōng wén.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "中文",
+      "en": "Chinese",
+      "pi": "zhōng wén"
+    },
+    {
+      "ch": "但是",
+      "en": "but",
+      "pi": "dàn shì"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不会",
+      "en": "can't",
+      "pi": "bú huì"
+    },
+    {
+      "ch": "读",
+      "en": "read",
+      "pi": "dú"
+    },
+    {
+      "ch": "中文",
+      "en": "Chinese",
+      "pi": "zhōng wén"
+    }
+  ]
+}

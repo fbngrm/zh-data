@@ -1,0 +1,37 @@
+{
+  "chinese": "请寄给我一张你的照片。",
+  "english": "Please send me a picture of yourself.",
+  "pinyin": "qǐng jì gěi wǒ yī zhāng nǐ de zhào piàn.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "寄给",
+      "en": "send",
+      "pi": "jì gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "一张",
+      "en": "a",
+      "pi": "yī zhāng"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "照片",
+      "en": "picture",
+      "pi": "zhào piàn"
+    }
+  ]
+}

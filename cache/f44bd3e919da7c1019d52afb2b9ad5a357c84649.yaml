@@ -1,0 +1,32 @@
+{
+  "chinese": "我现在想回家了。",
+  "english": "I want to go home now.",
+  "pinyin": "wǒ xiàn zài xiǎng huí jiā le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "回家",
+      "en": "to go home",
+      "pi": "huí jiā"
+    },
+    {
+      "ch": "了",
+      "en": "now",
+      "pi": "le"
+    }
+  ]
+}

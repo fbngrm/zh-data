@@ -1,0 +1,13 @@
+{
+  "chinese": "这不关你的事。",
+  "english": "This is none of your business.",
+  "pinyin": "zhè bù guān nǐ de shì。",
+  "words": [
+    { "ch": "这", "en": "this", "pi": "zhè" },
+    { "ch": "不", "en": "not", "pi": "bù" },
+    { "ch": "关", "en": "related", "pi": "guān" },
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "的", "en": "possessive particle", "pi": "de" },
+    { "ch": "事", "en": "matter", "pi": "shì" }
+  ]
+}

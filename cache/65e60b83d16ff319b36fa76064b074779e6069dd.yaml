@@ -1,0 +1,13 @@
+{
+  "chinese": "佐藤先生在週末练习射箭。",
+  "english": "Mr. Sato practices archery on weekends.",
+  "pinyin": "zuǒ táng xiān shēng zài zhōu mò liàn xí shè jiàn。",
+  "words": [
+    {"ch": "佐藤", "en": "Mr. Sato", "pi": "zuǒ táng"},
+    {"ch": "先生", "en": "Mr.", "pi": "xiān shēng"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "週末", "en": "weekend", "pi": "zhōu mò"},
+    {"ch": "练习", "en": "practices", "pi": "liàn xí"},
+    {"ch": "射箭", "en": "archery", "pi": "shè jiàn"}
+  ]
+}

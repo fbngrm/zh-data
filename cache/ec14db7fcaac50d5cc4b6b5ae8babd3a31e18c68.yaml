@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆说的不是真的。",
+  "english": "Tom's words are not true.",
+  "pinyin": "Tāng mǔ shuō de bù shì zhēn de.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "说",
+      "en": "said",
+      "pi": "shuō"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "不是",
+      "en": "not",
+      "pi": "bù shì"
+    },
+    {
+      "ch": "真的",
+      "en": "true",
+      "pi": "zhēn de"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "兔子有长耳朵和短尾巴。",
+  "english": "Rabbits have long ears and short tails.",
+  "pinyin": "tù zǐ yǒu zhǎng ěr duo hé duǎn wěi ba。",
+  "words": [
+    {
+      "ch": "兔子",
+      "en": "rabbit",
+      "pi": "tù zǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "长耳朵",
+      "en": "long ears",
+      "pi": "zhǎng ěr duo"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "短尾巴",
+      "en": "short tails",
+      "pi": "duǎn wěi ba"
+    }
+  ]
+}

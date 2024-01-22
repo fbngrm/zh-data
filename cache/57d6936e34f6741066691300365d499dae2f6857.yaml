@@ -1,0 +1,16 @@
+{
+  "chinese": "你最后一次拜访你的父母是什么时候？",
+  "english": "When was the last time you visited your parents?",
+  "pinyin": "nǐ zuìhòu yīcì bàifǎng nǐ de fùmǔ shì shénme shíhòu?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "最后", "en": "last", "pi": "zuìhòu"},
+    {"ch": "一次", "en": "time", "pi": "yīcì"},
+    {"ch": "拜访", "en": "visit", "pi": "bàifǎng"},
+    {"ch": "你的", "en": "your", "pi": "nǐ de"},
+    {"ch": "父母", "en": "parents", "pi": "fùmǔ"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "什么", "en": "what", "pi": "shénme"},
+    {"ch": "时候", "en": "time", "pi": "shíhòu"}
+  ]
+}

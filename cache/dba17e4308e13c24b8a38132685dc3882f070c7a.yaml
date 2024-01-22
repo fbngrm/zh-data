@@ -1,0 +1,42 @@
+{
+  "chinese": "我想请你们帮个忙。",
+  "english": "I would like to ask for your help.",
+  "pinyin": "wǒ xiǎng qǐng nǐ mén bāng gè máng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "请",
+      "en": "ask",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "你们",
+      "en": "you",
+      "pi": "nǐ mén"
+    },
+    {
+      "ch": "帮",
+      "en": "help",
+      "pi": "bāng"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "忙",
+      "en": "favor",
+      "pi": "máng"
+    }
+  ]
+}

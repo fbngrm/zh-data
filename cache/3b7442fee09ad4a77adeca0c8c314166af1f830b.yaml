@@ -1,0 +1,63 @@
+{
+  "sentences": [
+    {
+      "chinese": "来杯茶吗？",
+      "english": "Would you like a cup of tea?",
+      "pinyin": "Lái bēi chá ma?",
+      "words": [
+        {
+          "ch": "来",
+          "en": "come",
+          "pi": "lái"
+        },
+        {
+          "ch": "杯",
+          "en": "cup",
+          "pi": "bēi"
+        },
+        {
+          "ch": "茶",
+          "en": "tea",
+          "pi": "chá"
+        },
+        {
+          "ch": "吗",
+          "en": "question particle",
+          "pi": "ma"
+        }
+      ]
+    },
+    {
+      "chinese": "嗯，好的。",
+      "english": "Hmm, okay.",
+      "pinyin": "En, hǎo de.",
+      "words": [
+        {
+          "ch": "嗯",
+          "en": "Hmm",
+          "pi": "en"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": null
+        },
+        {
+          "ch": "好",
+          "en": "good",
+          "pi": "hǎo"
+        },
+        {
+          "ch": "的",
+          "en": "particle",
+          "pi": "de"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": null
+        }
+      ]
+    }
+  ]
+}

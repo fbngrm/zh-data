@@ -1,0 +1,14 @@
+{
+  "chinese": "我今天可以使用你的汽车吗?",
+  "english": "Can I use your car today?",
+  "pinyin": "wǒ jīntiān kěyǐ shǐyòng nǐ de qìchē ma?",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "今天", "en": "today", "pi": "jīntiān"},
+    {"ch": "可以", "en": "can", "pi": "kěyǐ"},
+    {"ch": "使用", "en": "use", "pi": "shǐyòng"},
+    {"ch": "你的", "en": "your", "pi": "nǐ de"},
+    {"ch": "汽车", "en": "car", "pi": "qìchē"},
+    {"ch": "吗", "en": "?", "pi": "ma"}
+  ]
+}

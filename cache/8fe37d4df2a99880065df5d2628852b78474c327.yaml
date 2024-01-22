@@ -1,0 +1,42 @@
+{
+  "chinese": "你不能在沼泽地上建造建筑物。",
+  "english": "You cannot build buildings on the swamp.",
+  "pinyin": "Nǐ bùnéng zài zhǎozé dì shàng jiànzào jiànzhùwù.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "不能",
+      "en": "cannot",
+      "pi": "bùnéng"
+    },
+    {
+      "ch": "在",
+      "en": "on",
+      "pi": "zài"
+    },
+    {
+      "ch": "沼泽地",
+      "en": "swamp",
+      "pi": "zhǎozé dì"
+    },
+    {
+      "ch": "上",
+      "en": "above",
+      "pi": "shàng"
+    },
+    {
+      "ch": "建造",
+      "en": "build",
+      "pi": "jiànzào"
+    },
+    {
+      "ch": "建筑物",
+      "en": "buildings",
+      "pi": "jiànzhùwù"
+    }
+  ]
+}

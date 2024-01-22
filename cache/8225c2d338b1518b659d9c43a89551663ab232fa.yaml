@@ -1,0 +1,27 @@
+{
+  "chinese": "你喜欢做菜吗？",
+  "english": "Do you like cooking?",
+  "pinyin": "nǐ xǐhuān zuò cài ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "做菜",
+      "en": "cooking",
+      "pi": "zuò cài"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

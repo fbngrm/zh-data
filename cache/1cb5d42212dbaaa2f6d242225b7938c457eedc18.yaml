@@ -1,0 +1,13 @@
+{
+  "chinese": "妈妈在厨房里围着围裙。",
+  "english": "Mom is in the kitchen wearing an apron.",
+  "pinyin": "mā ma zài chú fáng lǐ wéi zhe wéi qún。",
+  "words": [
+    { "ch": "妈妈", "en": "mom", "pi": "mā ma" },
+    { "ch": "在", "en": "is", "pi": "zài" },
+    { "ch": "厨房", "en": "kitchen", "pi": "chú fáng" },
+    { "ch": "里", "en": "in", "pi": "lǐ" },
+    { "ch": "围着", "en": "wearing", "pi": "wéi zhe" },
+    { "ch": "围裙", "en": "apron", "pi": "wéi qún" }
+  ]
+}

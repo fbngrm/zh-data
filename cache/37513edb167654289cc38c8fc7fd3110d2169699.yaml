@@ -1,0 +1,12 @@
+{
+  "chinese": "这个花叫什么名字？",
+  "english": "What is this flower called?",
+  "pinyin": "zhè gè huā jiào shénme míngzì?",
+  "words": [
+    {"ch": "这个", "en": "this", "pi": "zhè gè"},
+    {"ch": "花", "en": "flower", "pi": "huā"},
+    {"ch": "叫", "en": "called", "pi": "jiào"},
+    {"ch": "什么", "en": "what", "pi": "shénme"},
+    {"ch": "名字", "en": "name", "pi": "míngzì"}
+  ]
+}

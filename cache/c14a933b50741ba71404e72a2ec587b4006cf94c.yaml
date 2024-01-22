@@ -1,0 +1,16 @@
+{
+  "chinese": "她在十二月的一个寒夜里去世了。",
+  "english": "She passed away on a cold night in December.",
+  "pinyin": "tā zài shíèr yuè de yīgè hán yè lǐ qùshìle。",
+  "words": [
+    {"ch": "她", "en": "She", "pi": "tā"},
+    {"ch": "在", "en": "on", "pi": "zài"},
+    {"ch": "十二月", "en": "December", "pi": "shíèr yuè"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "一个", "en": "a", "pi": "yīgè"},
+    {"ch": "寒夜", "en": "cold night", "pi": "hán yè"},
+    {"ch": "里", "en": "in", "pi": "lǐ"},
+    {"ch": "去世", "en": "pass away", "pi": "qùshì"},
+    {"ch": "了", "en": "", "pi": "le"}
+  ]
+}

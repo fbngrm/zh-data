@@ -1,0 +1,42 @@
+{
+  "chinese": "我回到家的时候肚子十分饿。",
+  "english": "When I got home, my stomach was very hungry.",
+  "pinyin": "wǒ huí dào jiā de shí hòu dù zi shí fēn è。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "回到",
+      "en": "got home",
+      "pi": "huí dào"
+    },
+    {
+      "ch": "家",
+      "en": "home",
+      "pi": "jiā"
+    },
+    {
+      "ch": "的时候",
+      "en": "when",
+      "pi": "de shí hòu"
+    },
+    {
+      "ch": "肚子",
+      "en": "stomach",
+      "pi": "dù zi"
+    },
+    {
+      "ch": "十分",
+      "en": "very",
+      "pi": "shí fēn"
+    },
+    {
+      "ch": "饿",
+      "en": "hungry",
+      "pi": "è"
+    }
+  ]
+}

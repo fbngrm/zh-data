@@ -1,0 +1,42 @@
+{
+  "chinese": "学校离我家有五公里远。",
+  "english": "The school is five kilometers away from my house.",
+  "pinyin": "xué xiào lí wǒ jiā yǒu wǔ gōng lǐ yuǎn.",
+  "words": [
+    {
+      "ch": "学校",
+      "en": "school",
+      "pi": "xué xiào"
+    },
+    {
+      "ch": "离",
+      "en": "away from",
+      "pi": "lí"
+    },
+    {
+      "ch": "我家",
+      "en": "my house",
+      "pi": "wǒ jiā"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "五",
+      "en": "five",
+      "pi": "wǔ"
+    },
+    {
+      "ch": "公里",
+      "en": "kilometers",
+      "pi": "gōng lǐ"
+    },
+    {
+      "ch": "远",
+      "en": "far",
+      "pi": "yuǎn"
+    }
+  ]
+}

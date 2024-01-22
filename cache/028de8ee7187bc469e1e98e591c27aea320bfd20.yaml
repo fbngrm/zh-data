@@ -1,0 +1,27 @@
+{
+  "chinese": "史密斯夫妇住在我家附近。",
+  "english": "The Smiths live near my house.",
+  "pinyin": "shǐ mì sī fū fù zhù zài wǒ jiā fù jìn。",
+  "words": [
+    {
+      "ch": "史密斯夫妇",
+      "en": "The Smiths",
+      "pi": "shǐ mì sī fū fù"
+    },
+    {
+      "ch": "住在",
+      "en": "live",
+      "pi": "zhù zài"
+    },
+    {
+      "ch": "我家",
+      "en": "my house",
+      "pi": "wǒ jiā"
+    },
+    {
+      "ch": "附近",
+      "en": "near",
+      "pi": "fù jìn"
+    }
+  ]
+}

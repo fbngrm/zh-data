@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆不喜欢网球，从来不。",
+  "english": "Tom doesn't like tennis, never has.",
+  "pinyin": "Tāng mǔ bù xǐ huān wǎng qiú, cóng lái bù.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "不",
+      "en": "doesn't",
+      "pi": "bù"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐ huān"
+    },
+    {
+      "ch": "网球",
+      "en": "tennis",
+      "pi": "wǎng qiú"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": "，"
+    },
+    {
+      "ch": "从来不",
+      "en": "never has",
+      "pi": "cóng lái bù"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "。"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "这些画是他画的。",
+  "english": "These paintings were painted by him.",
+  "pinyin": "zhè xiē huà shì tā huà de。",
+  "words": [
+    {
+      "ch": "这些",
+      "en": "these",
+      "pi": "zhè xiē"
+    },
+    {
+      "ch": "画",
+      "en": "paintings",
+      "pi": "huà"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    },
+    {
+      "ch": "画的",
+      "en": "painted by",
+      "pi": "huà de"
+    }
+  ]
+}

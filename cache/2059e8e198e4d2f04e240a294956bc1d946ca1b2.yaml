@@ -1,0 +1,37 @@
+{
+  "chinese": "她不是去了伦敦就是巴黎。",
+  "english": "She went either to London or to Paris.",
+  "pinyin": "tā bùshì qù le lúndūn jiùshì bālí.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "不是",
+      "en": "not",
+      "pi": "bùshì"
+    },
+    {
+      "ch": "去了",
+      "en": "went",
+      "pi": "qù le"
+    },
+    {
+      "ch": "伦敦",
+      "en": "London",
+      "pi": "lúndūn"
+    },
+    {
+      "ch": "就是",
+      "en": "either",
+      "pi": "jiùshì"
+    },
+    {
+      "ch": "巴黎",
+      "en": "Paris",
+      "pi": "bālí"
+    }
+  ]
+}

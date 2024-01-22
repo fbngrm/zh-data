@@ -1,0 +1,32 @@
+{
+  "chinese": "美国的首都是华盛顿。",
+  "english": "The capital of the United States is Washington.",
+  "pinyin": "Měiguó de shǒudū shì Huáshèngdùn.",
+  "words": [
+    {
+      "ch": "美国",
+      "en": "United States",
+      "pi": "Měiguó"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "首都",
+      "en": "capital",
+      "pi": "shǒudū"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "华盛顿",
+      "en": "Washington",
+      "pi": "Huáshèngdùn"
+    }
+  ]
+}

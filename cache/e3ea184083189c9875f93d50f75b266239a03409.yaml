@@ -1,0 +1,16 @@
+{
+  "chinese": "一个是新的，另一个是旧的。",
+  "english": "One is new, the other is old.",
+  "pinyin": "Yīgè shì xīn de, lìng yīgè shì jiù de.",
+  "words": [
+    {"ch": "一个", "en": "one", "pi": "yī gè"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "新的", "en": "new", "pi": "xīn de"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "另", "en": "the other", "pi": "lìng"},
+    {"ch": "一个", "en": "one", "pi": "yī gè"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "旧的", "en": "old", "pi": "jiù de"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

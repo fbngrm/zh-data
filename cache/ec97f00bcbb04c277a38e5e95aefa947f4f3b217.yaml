@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆不是真的爱玛丽。",
+  "english": "Tom doesn't really love Mary.",
+  "pinyin": "Tāng mǔ bù shì zhēn de ài mǎ lì.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "不是",
+      "en": "doesn't",
+      "pi": "bù shì"
+    },
+    {
+      "ch": "真的",
+      "en": "really",
+      "pi": "zhēn de"
+    },
+    {
+      "ch": "爱",
+      "en": "love",
+      "pi": "ài"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    }
+  ]
+}

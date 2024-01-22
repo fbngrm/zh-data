@@ -1,0 +1,42 @@
+{
+  "chinese": "我昨晚想到了一个好点子。",
+  "english": "I came up with a good idea last night.",
+  "pinyin": "wǒ zuó wǎn xiǎng dào le yí gè hǎo diǎn zi。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "昨晚",
+      "en": "last night",
+      "pi": "zuó wǎn"
+    },
+    {
+      "ch": "想到",
+      "en": "came up with",
+      "pi": "xiǎng dào"
+    },
+    {
+      "ch": "了",
+      "en": "a particle indicating a completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yí gè"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "点子",
+      "en": "idea",
+      "pi": "diǎn zi"
+    }
+  ]
+}

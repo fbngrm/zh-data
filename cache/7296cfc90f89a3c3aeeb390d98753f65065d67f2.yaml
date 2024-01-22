@@ -1,0 +1,42 @@
+{
+  "chinese": "你应该每天睡八个小时觉。",
+  "english": "You should sleep for eight hours every day.",
+  "pinyin": "nǐ yīnggāi měitiān shuì bā gè xiǎoshí jué.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "应该",
+      "en": "should",
+      "pi": "yīnggāi"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měitiān"
+    },
+    {
+      "ch": "睡",
+      "en": "sleep",
+      "pi": "shuì"
+    },
+    {
+      "ch": "八个",
+      "en": "eight",
+      "pi": "bā gè"
+    },
+    {
+      "ch": "小时",
+      "en": "hours",
+      "pi": "xiǎoshí"
+    },
+    {
+      "ch": "觉",
+      "en": "to sleep",
+      "pi": "jué"
+    }
+  ]
+}

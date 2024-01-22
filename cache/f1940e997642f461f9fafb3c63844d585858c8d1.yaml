@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆感觉不太好。",
+  "english": "Tom doesn't feel very well.",
+  "pinyin": "tāng mǔ gǎn jué bù tài hǎo.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "感觉",
+      "en": "feel",
+      "pi": "gǎn jué"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "太好",
+      "en": "very well",
+      "pi": "tài hǎo"
+    }
+  ]
+}

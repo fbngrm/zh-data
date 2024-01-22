@@ -1,0 +1,32 @@
+{
+  "chinese": "我打开盒子看看里面。",
+  "english": "I open the box and look inside.",
+  "pinyin": "wǒ dǎ kāi hé zǐ kàn kàn lǐ miàn。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "打开",
+      "en": "open",
+      "pi": "dǎ kāi"
+    },
+    {
+      "ch": "盒子",
+      "en": "box",
+      "pi": "hé zǐ"
+    },
+    {
+      "ch": "看看",
+      "en": "look",
+      "pi": "kàn kàn"
+    },
+    {
+      "ch": "里面",
+      "en": "inside",
+      "pi": "lǐ miàn"
+    }
+  ]
+}

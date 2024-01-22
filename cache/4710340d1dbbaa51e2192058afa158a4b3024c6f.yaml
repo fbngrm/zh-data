@@ -1,0 +1,11 @@
+{
+    "chinese": "这不是我的包。",
+    "english": "This is not my bag.",
+    "pinyin": "zhè bú shì wǒ de bāo。",
+    "words": [
+        {"ch": "这", "en": "this", "pi": "zhè"},
+        {"ch": "不是", "en": "is not", "pi": "bú shì"},
+        {"ch": "我的", "en": "my", "pi": "wǒ de"},
+        {"ch": "包", "en": "bag", "pi": "bāo"}
+    ]
+}

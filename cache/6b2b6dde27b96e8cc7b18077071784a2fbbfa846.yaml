@@ -1,0 +1,32 @@
+{
+  "chinese": "这辆公车客满了。",
+  "english": "This bus is full of passengers.",
+  "pinyin": "zhè liàng gōng chē kè mǎn le.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "辆",
+      "en": "bus",
+      "pi": "liàng"
+    },
+    {
+      "ch": "公车",
+      "en": "bus",
+      "pi": "gōng chē"
+    },
+    {
+      "ch": "客满",
+      "en": "full of passengers",
+      "pi": "kè mǎn"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

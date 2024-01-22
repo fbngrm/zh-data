@@ -1,0 +1,42 @@
+{
+  "chinese": "我的名字没有出现在名单上。",
+  "english": "My name is not on the list.",
+  "pinyin": "wǒ de míngzì méiyǒu chūxiàn zài míngdān shàng。",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "My",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míngzì"
+    },
+    {
+      "ch": "没有",
+      "en": "not",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "出现",
+      "en": "on",
+      "pi": "chūxiàn"
+    },
+    {
+      "ch": "在",
+      "en": "",
+      "pi": "zài"
+    },
+    {
+      "ch": "名单",
+      "en": "list",
+      "pi": "míngdān"
+    },
+    {
+      "ch": "上",
+      "en": "",
+      "pi": "shàng"
+    }
+  ]
+}

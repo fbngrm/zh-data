@@ -1,0 +1,37 @@
+{
+  "chinese": "你真的吃得下这东西?",
+  "english": "Can you really eat this?",
+  "pinyin": "nǐ zhēn de chī dé xià zhè dōngxi?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "真的",
+      "en": "really",
+      "pi": "zhēn de"
+    },
+    {
+      "ch": "吃得下",
+      "en": "eat",
+      "pi": "chī dé xià"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "东西",
+      "en": "thing",
+      "pi": "dōngxi"
+    },
+    {
+      "ch": "?",
+      "en": "",
+      "pi": "?"
+    }
+  ]
+}

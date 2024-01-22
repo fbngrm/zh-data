@@ -1,0 +1,42 @@
+{
+  "chinese": "有一些漂亮的花在花瓶。",
+  "english": "There are some beautiful flowers in the vase.",
+  "pinyin": "yǒu yī xiē piàoliang de huā zài huāpíng。",
+  "words": [
+    {
+      "ch": "有",
+      "en": "there is",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一些",
+      "en": "some",
+      "pi": "yī xiē"
+    },
+    {
+      "ch": "漂亮",
+      "en": "beautiful",
+      "pi": "piàoliang"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "花",
+      "en": "flowers",
+      "pi": "huā"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "花瓶",
+      "en": "vase",
+      "pi": "huāpíng"
+    }
+  ]
+}

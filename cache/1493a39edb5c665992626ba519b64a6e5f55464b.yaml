@@ -1,0 +1,27 @@
+{
+  "chinese": "我的宠物生病了。",
+  "english": "My pet is sick.",
+  "pinyin": "Wǒ de chǒngwù shēngbìngle.",
+  "words": [
+     {
+        "ch": "我的",
+        "en": "My",
+        "pi": "Wǒ de"
+     },
+     {
+        "ch": "宠物",
+        "en": "pet",
+        "pi": "chǒngwù"
+     },
+     {
+        "ch": "生病",
+        "en": "sick",
+        "pi": "shēngbìng"
+     },
+     {
+        "ch": "了",
+        "en": "",
+        "pi": "le"
+     }
+   ]
+}

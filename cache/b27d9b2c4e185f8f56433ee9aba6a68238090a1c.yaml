@@ -1,0 +1,27 @@
+{
+  "chinese": "上个月他们爬了富士山。",
+  "english": "They climbed Mount Fuji last month.",
+  "pinyin": "Shàng gè yuè tāmen pá le Fùshìshān.",
+  "words": [
+    {
+      "ch": "上个月",
+      "en": "last month",
+      "pi": "shàng gè yuè"
+    },
+    {
+      "ch": "他们",
+      "en": "they",
+      "pi": "tāmen"
+    },
+    {
+      "ch": "爬了",
+      "en": "climbed",
+      "pi": "pá le"
+    },
+    {
+      "ch": "富士山",
+      "en": "Mount Fuji",
+      "pi": "Fùshìshān"
+    }
+  ]
+}

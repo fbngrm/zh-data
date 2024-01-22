@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆养了一条叫「曲奇」的狗。",
+  "english": "Tom has a dog named 'Cookie'.",
+  "pinyin": "Tāng mǔ yǎng le yī tiáo jiào \" qǔ qí \" de gǒu.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "养了",
+      "en": "has",
+      "pi": "yǎng le"
+    },
+    {
+      "ch": "一条",
+      "en": "a",
+      "pi": "yī tiáo"
+    },
+    {
+      "ch": "叫",
+      "en": "named",
+      "pi": "jiào"
+    },
+    {
+      "ch": "「曲奇」",
+      "en": "'Cookie'",
+      "pi": "\"qǔ qí\""
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    }
+  ]
+}

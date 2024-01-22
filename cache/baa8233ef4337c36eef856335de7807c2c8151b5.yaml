@@ -1,0 +1,32 @@
+{
+  "chinese": "我关机前忘了存盘。",
+  "english": "I forgot to save before shutting down.",
+  "pinyin": "wǒ guānjī qián wàng le cúnpán。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "关机",
+      "en": "shut down",
+      "pi": "guānjī"
+    },
+    {
+      "ch": "前",
+      "en": "before",
+      "pi": "qián"
+    },
+    {
+      "ch": "忘了",
+      "en": "forgot",
+      "pi": "wàng le"
+    },
+    {
+      "ch": "存盘",
+      "en": "to save",
+      "pi": "cúnpán"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "chinese": "麻烦你把付了钱的人的名字删掉。",
+  "english": "Could you please delete the names of the people who have paid?",
+  "pinyin": "Máfan nǐ bǎ fù le qián de rén de míngzi shān diào.",
+  "words": [
+    {
+      "ch": "麻烦",
+      "en": "Could you please",
+      "pi": "máfan"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "把",
+      "en": "delete",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "付了",
+      "en": "paid",
+      "pi": "fù le"
+    },
+    {
+      "ch": "钱",
+      "en": "money",
+      "pi": "qián"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "人",
+      "en": "people",
+      "pi": "rén"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "名字",
+      "en": "names",
+      "pi": "míngzi"
+    },
+    {
+      "ch": "删掉",
+      "en": "delete",
+      "pi": "shān diào"
+    }
+  ]
+}

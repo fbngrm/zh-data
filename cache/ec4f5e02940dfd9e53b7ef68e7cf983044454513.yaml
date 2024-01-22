@@ -1,0 +1,42 @@
+{
+  "chinese": "有些药品会对身体产生危害。",
+  "english": "Some medications can be harmful to the body.",
+  "pinyin": "yǒu xiē yào pǐn huì duì shēn tǐ chǎn shēng wēi hài。",
+  "words": [
+    {
+      "ch": "有些",
+      "en": "Some",
+      "pi": "yǒu xiē"
+    },
+    {
+      "ch": "药品",
+      "en": "medications",
+      "pi": "yào pǐn"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "对",
+      "en": "to",
+      "pi": "duì"
+    },
+    {
+      "ch": "身体",
+      "en": "body",
+      "pi": "shēn tǐ"
+    },
+    {
+      "ch": "产生",
+      "en": "produce",
+      "pi": "chǎn shēng"
+    },
+    {
+      "ch": "危害",
+      "en": "harmful",
+      "pi": "wēi hài"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "你有买果汁吗？",
+  "english": "Did you buy fruit juice?",
+  "pinyin": "nǐ yǒu mǎi guǒzhī ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "买",
+      "en": "buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "果汁",
+      "en": "fruit juice",
+      "pi": "guǒzhī"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

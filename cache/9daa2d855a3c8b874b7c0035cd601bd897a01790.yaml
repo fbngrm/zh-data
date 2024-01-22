@@ -1,0 +1,42 @@
+{
+  "chinese": "我的祖父要用拐杖才能走路。",
+  "english": "My grandfather needs a cane to walk.",
+  "pinyin": "wǒ de zǔ fù yào yòng guǎi zhàng cái néng zǒu lù.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "祖父",
+      "en": "grandfather",
+      "pi": "zǔ fù"
+    },
+    {
+      "ch": "要",
+      "en": "needs",
+      "pi": "yào"
+    },
+    {
+      "ch": "用",
+      "en": "to use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "拐杖",
+      "en": "cane",
+      "pi": "guǎi zhàng"
+    },
+    {
+      "ch": "才能",
+      "en": "to be able to",
+      "pi": "cái néng"
+    },
+    {
+      "ch": "走路",
+      "en": "to walk",
+      "pi": "zǒu lù"
+    }
+  ]
+}

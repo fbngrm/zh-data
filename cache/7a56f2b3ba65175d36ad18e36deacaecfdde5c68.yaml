@@ -1,0 +1,24 @@
+{
+  "chinese": "明天，明天，只是不是今天-所有的懒惰的人都这么说。",
+  "english": "Tomorrow, tomorrow, it's just not today - that's what all lazy people say.",
+  "pinyin": "míng tiān, míng tiān, zhǐ shì bú shì jīn tiān - suǒ yǒu de lǎn duò de rén dōu zhè me shuō。",
+  "words": [
+    {"ch": "明天", "en": "tomorrow", "pi": "míng tiān"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "明天", "en": "tomorrow", "pi": "míng tiān"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "只是", "en": "just", "pi": "zhǐ shì"},
+    {"ch": "不是", "en": "not", "pi": "bú shì"},
+    {"ch": "今天", "en": "today", "pi": "jīn tiān"},
+    {"ch": "-", "en": "-", "pi": "-"},
+    {"ch": "所有", "en": "all", "pi": "suǒ yǒu"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "懒惰", "en": "lazy", "pi": "lǎn duò"},
+    {"ch": "的", "en": "people", "pi": "de"},
+    {"ch": "人", "en": "say", "pi": "rén"},
+    {"ch": "都", "en": "so", "pi": "dōu"},
+    {"ch": "这么", "en": "this", "pi": "zhè me"},
+    {"ch": "说", "en": "say", "pi": "shuō"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

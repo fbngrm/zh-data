@@ -1,0 +1,13 @@
+{
+  "chinese": "我听到汤姆在低声啜泣。",
+  "english": "I hear Tom sobbing softly.",
+  "pinyin": "wǒ tīng dào tāng mǔ zài dī shēng chuò qì。",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "听到", "en": "hear", "pi": "tīng dào" },
+    { "ch": "汤姆", "en": "Tom", "pi": "tāng mǔ" },
+    { "ch": "在", "en": "in", "pi": "zài" },
+    { "ch": "低声", "en": "softly", "pi": "dī shēng" },
+    { "ch": "啜泣", "en": "sobbing", "pi": "chuò qì" }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "这是你的铅笔吗？",
+  "english": "Is this your pencil?",
+  "pinyin": "zhè shì nǐ de qiān bǐ ma?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "铅笔",
+      "en": "pencil",
+      "pi": "qiān bǐ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

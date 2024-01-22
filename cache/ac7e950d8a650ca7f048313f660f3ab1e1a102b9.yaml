@@ -1,0 +1,20 @@
+{
+  "chinese": "二零零九年我高中毕业了可是还没上大学。",
+  "english": "I graduated from high school in 2009, but haven't started college yet.",
+  "pinyin": "èr líng líng jiǔ nián wǒ gāo zhōng bì yè le kě shì hái méi shàng dà xué。",
+  "words": [
+    {"ch": "二", "en": "two", "pi": "èr"},
+    {"ch": "零", "en": "zero", "pi": "líng"},
+    {"ch": "零", "en": "zero", "pi": "líng"},
+    {"ch": "九", "en": "nine", "pi": "jiǔ"},
+    {"ch": "年", "en": "year", "pi": "nián"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "高中", "en": "high school", "pi": "gāo zhōng"},
+    {"ch": "毕业", "en": "graduate", "pi": "bì yè"},
+    {"ch": "了", "en": "finished", "pi": "le"},
+    {"ch": "可是", "en": "but", "pi": "kě shì"},
+    {"ch": "还没", "en": "have not yet", "pi": "hái méi"},
+    {"ch": "上", "en": "start", "pi": "shàng"},
+    {"ch": "大学", "en": "college", "pi": "dà xué"}
+  ]
+}

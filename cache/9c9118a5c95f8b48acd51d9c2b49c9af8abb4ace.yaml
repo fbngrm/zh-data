@@ -1,0 +1,27 @@
+{
+  "chinese": "这辆公车多久前离开的?",
+  "english": "How long ago did this bus leave?",
+  "pinyin": "zhè liàng gōng chē duō jiǔ qián lí kāi de?",
+  "words": [
+    {
+      "ch": "这辆",
+      "en": "this",
+      "pi": "zhè liàng"
+    },
+    {
+      "ch": "公车",
+      "en": "bus",
+      "pi": "gōng chē"
+    },
+    {
+      "ch": "多久前",
+      "en": "how long ago",
+      "pi": "duō jiǔ qián"
+    },
+    {
+      "ch": "离开的",
+      "en": "left",
+      "pi": "lí kāi de"
+    }
+  ]
+}

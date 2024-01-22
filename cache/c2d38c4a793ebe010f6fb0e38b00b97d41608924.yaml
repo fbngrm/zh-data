@@ -1,0 +1,13 @@
+{
+  "chinese": "我的照相机在火车上被偷了。",
+  "english": "My camera was stolen on the train.",
+  "pinyin": "Wǒ de zhàoxiàngjī zài huǒchē shàng bèi tōule.",
+  "words": [
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "照相机", "en": "camera", "pi": "zhàoxiàngjī"},
+    {"ch": "在", "en": "on", "pi": "zài"},
+    {"ch": "火车上", "en": "train", "pi": "huǒchē shàng"},
+    {"ch": "被偷", "en": "stolen", "pi": "bèi tōu"},
+    {"ch": "了", "en": "was", "pi": "le"}
+  ]
+}

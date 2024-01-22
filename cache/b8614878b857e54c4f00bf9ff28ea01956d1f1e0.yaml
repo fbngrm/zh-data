@@ -1,0 +1,11 @@
+{
+  "chinese": "我累死了。",
+  "english": "I'm exhausted.",
+  "pinyin": "wǒ lèi sǐ le.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "累", "en": "exhausted", "pi": "lèi" },
+    { "ch": "死", "en": "dead", "pi": "sǐ" },
+    { "ch": "了", "en": "particle indicating completed action", "pi": "le" }
+  ]
+}

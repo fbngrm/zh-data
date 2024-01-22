@@ -1,0 +1,37 @@
+{
+  "chinese": "这辆车很容易操控。",
+  "english": "This car is very easy to control.",
+  "pinyin": "zhè liàng chē hěn róng yì cāo kòng。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "辆",
+      "en": "car",
+      "pi": "liàng"
+    },
+    {
+      "ch": "车",
+      "en": "is",
+      "pi": "chē"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "容易",
+      "en": "easy",
+      "pi": "róng yì"
+    },
+    {
+      "ch": "操控",
+      "en": "to control",
+      "pi": "cāo kòng"
+    }
+  ]
+}

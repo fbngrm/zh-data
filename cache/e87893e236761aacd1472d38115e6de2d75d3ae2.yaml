@@ -1,0 +1,48 @@
+{
+  "sentences": [
+    {
+      "chinese": "为什么你不来？",
+      "english": "Why aren't you coming?",
+      "pinyin": "wèi shén me nǐ bú lái?",
+      "words": [
+        {
+          "ch": "为什么",
+          "en": "Why",
+          "pi": "wèi shén me"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "不来",
+          "en": "aren't coming",
+          "pi": "bú lái"
+        }
+      ]
+    },
+    {
+      "chinese": "因为我不想。",
+      "english": "Because I don't want to.",
+      "pinyin": "yīn wèi wǒ bù xiǎng.",
+      "words": [
+        {
+          "ch": "因为",
+          "en": "Because",
+          "pi": "yīn wèi"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "不想",
+          "en": "don't want to",
+          "pi": "bù xiǎng"
+        }
+      ]
+    }
+  ]
+}

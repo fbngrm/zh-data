@@ -1,0 +1,32 @@
+{
+  "chinese": "我明年想学汉语。",
+  "english": "I want to learn Chinese next year.",
+  "pinyin": "Wǒ míngnián xiǎng xué hànyǔ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "明年",
+      "en": "next year",
+      "pi": "míngnián"
+    },
+    {
+      "ch": "想",
+      "en": "want to",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "学",
+      "en": "learn",
+      "pi": "xué"
+    },
+    {
+      "ch": "汉语",
+      "en": "Chinese",
+      "pi": "hànyǔ"
+    }
+  ]
+}

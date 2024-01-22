@@ -1,0 +1,32 @@
+{
+  "chinese": "我很久没有抽烟了。",
+  "english": "I haven't smoked in a long time.",
+  "pinyin": "wǒ hěn jiǔ méiyǒu chōu yān le。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "很久",
+      "en": "a long time",
+      "pi": "hěn jiǔ"
+    },
+    {
+      "ch": "没有",
+      "en": "haven't",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "抽烟",
+      "en": "smoked",
+      "pi": "chōu yān"
+    },
+    {
+      "ch": "了",
+      "en": "in",
+      "pi": "le"
+    }
+  ]
+}

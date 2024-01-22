@@ -1,0 +1,27 @@
+{
+  "chinese": "他们俩在同一个年龄。",
+  "english": "They are the same age.",
+  "pinyin": "tā men liǎ zài tóng yí gè nián líng。",
+  "words": [
+    {
+      "ch": "他们俩",
+      "en": "They",
+      "pi": "tā men liǎ"
+    },
+    {
+      "ch": "在",
+      "en": "are",
+      "pi": "zài"
+    },
+    {
+      "ch": "同一个",
+      "en": "same",
+      "pi": "tóng yí gè"
+    },
+    {
+      "ch": "年龄",
+      "en": "age",
+      "pi": "nián líng"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chinese": "我在读短篇小说",
+  "english": "I am reading a short story",
+  "pinyin": "wǒ zài dú duǎnpiān xiǎoshuō",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "在", "en": "am", "pi": "zài"},
+    {"ch": "读", "en": "reading", "pi": "dú"},
+    {"ch": "短篇", "en": "short", "pi": "duǎnpiān"},
+    {"ch": "小说", "en": "story", "pi": "xiǎoshuō"}
+  ]
+}

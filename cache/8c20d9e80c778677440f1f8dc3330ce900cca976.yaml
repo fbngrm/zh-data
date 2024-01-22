@@ -1,0 +1,32 @@
+{
+  "chinese": "我昨天没有打网球。",
+  "english": "I didn't play tennis yesterday.",
+  "pinyin": "wǒ zuótiān méiyǒu dǎ wǎngqiú.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "没有",
+      "en": "didn't",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "打",
+      "en": "play",
+      "pi": "dǎ"
+    },
+    {
+      "ch": "网球",
+      "en": "tennis",
+      "pi": "wǎngqiú"
+    }
+  ]
+}

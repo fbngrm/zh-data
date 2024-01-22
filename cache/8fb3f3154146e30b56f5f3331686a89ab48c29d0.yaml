@@ -1,0 +1,15 @@
+{
+  "chinese": "你怎麼這麼晚才來看我們？",
+  "english": "Why are you coming to see us so late?",
+  "pinyin": "nǐ zěnme zhème wǎn cái lái kàn wǒmen?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "怎麼", "en": "how", "pi": "zěnme"},
+    {"ch": "這麼", "en": "so", "pi": "zhème"},
+    {"ch": "晚", "en": "late", "pi": "wǎn"},
+    {"ch": "才", "en": "just", "pi": "cái"},
+    {"ch": "來", "en": "come", "pi": "lái"},
+    {"ch": "看", "en": "see", "pi": "kàn"},
+    {"ch": "我們", "en": "us", "pi": "wǒmen"}
+  ]
+}

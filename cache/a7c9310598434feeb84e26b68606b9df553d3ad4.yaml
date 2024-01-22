@@ -1,0 +1,42 @@
+{
+  "chinese": "玛丽说她会做她的功课。",
+  "english": "Mary said she will do her homework.",
+  "pinyin": "mǎ lì shuō tā huì zuò tā de gōng kè。",
+  "words": [
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "说",
+      "en": "said",
+      "pi": "shuō"
+    },
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "做",
+      "en": "do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "她的",
+      "en": "her",
+      "pi": "tā de"
+    },
+    {
+      "ch": "功课",
+      "en": "homework",
+      "pi": "gōng kè"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "这座城市位于山脚下。",
+  "english": "This city is located at the foot of the mountain.",
+  "pinyin": "zhè zuò chéngshì wèiyú shānjiǎo xià.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "座",
+      "en": "city",
+      "pi": "zuò"
+    },
+    {
+      "ch": "城市",
+      "en": "is located",
+      "pi": "chéngshì"
+    },
+    {
+      "ch": "位于",
+      "en": "at",
+      "pi": "wèiyú"
+    },
+    {
+      "ch": "山脚下",
+      "en": "the foot of the mountain",
+      "pi": "shānjiǎo xià"
+    }
+  ]
+}

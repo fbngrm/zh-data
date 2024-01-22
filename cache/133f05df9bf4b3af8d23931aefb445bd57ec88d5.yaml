@@ -1,0 +1,32 @@
+{
+  "chinese": "我被迫吃了藥。",
+  "english": "I was forced to take medicine.",
+  "pinyin": "wǒ bèi pò chī le yào.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "被迫",
+      "en": "forced",
+      "pi": "bèi pò"
+    },
+    {
+      "ch": "吃",
+      "en": "to take",
+      "pi": "chī"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "藥",
+      "en": "medicine",
+      "pi": "yào"
+    }
+  ]
+}

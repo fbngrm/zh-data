@@ -1,0 +1,14 @@
+{
+  "chinese": "我需要一个会说法语的助理。",
+  "english": "I need an assistant who can speak French.",
+  "pinyin": "wǒ xū yào yī gè huì shuō fǎ yǔ de zhù lǐ。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "需要", "en": "need", "pi": "xū yào"},
+    {"ch": "一个", "en": "an", "pi": "yī gè"},
+    {"ch": "会说", "en": "can speak", "pi": "huì shuō"},
+    {"ch": "法语", "en": "French", "pi": "fǎ yǔ"},
+    {"ch": "的", "en": "who", "pi": "de"},
+    {"ch": "助理", "en": "assistant", "pi": "zhù lǐ"}
+  ]
+}

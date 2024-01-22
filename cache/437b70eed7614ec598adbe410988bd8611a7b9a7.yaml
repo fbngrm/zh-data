@@ -1,0 +1,103 @@
+{
+  "sentences": [
+    {
+      "chinese": "你不能指望他们认不出你的伪装。",
+      "english": "You can't expect them to not recognize your disguise.",
+      "pinyin": "nǐ bù néng zhǐwàng tāmen rèn bù chū nǐ de wěizhuāng。",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "不能",
+          "en": "can't",
+          "pi": "bù néng"
+        },
+        {
+          "ch": "指望",
+          "en": "expect",
+          "pi": "zhǐwàng"
+        },
+        {
+          "ch": "他们",
+          "en": "them",
+          "pi": "tāmen"
+        },
+        {
+          "ch": "认不出",
+          "en": "recognize",
+          "pi": "rèn bù chū"
+        },
+        {
+          "ch": "你的",
+          "en": "your",
+          "pi": "nǐ de"
+        },
+        {
+          "ch": "伪装",
+          "en": "disguise",
+          "pi": "wěizhuāng"
+        }
+      ]
+    },
+    {
+      "chinese": "那个歪半边的一角店胡子是致命漏洞！",
+      "english": "That crooked half-cornered shop beard is a fatal flaw!",
+      "pinyin": "nà gè wāi bàn biān de yī jiǎo diàn hú zi shì zhìmìng lòu dòng！",
+      "words": [
+        {
+          "ch": "那个",
+          "en": "that",
+          "pi": "nà gè"
+        },
+        {
+          "ch": "歪",
+          "en": "crooked",
+          "pi": "wāi"
+        },
+        {
+          "ch": "半边",
+          "en": "half",
+          "pi": "bàn biān"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": "de"
+        },
+        {
+          "ch": "一角",
+          "en": "cornered",
+          "pi": "yī jiǎo"
+        },
+        {
+          "ch": "店",
+          "en": "shop",
+          "pi": "diàn"
+        },
+        {
+          "ch": "胡子",
+          "en": "beard",
+          "pi": "hú zi"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "致命",
+          "en": "fatal",
+          "pi": "zhìmìng"
+        },
+        {
+          "ch": "漏洞",
+          "en": "flaw",
+          "pi": "lòu dòng"
+        }
+      ]
+    }
+  ]
+}

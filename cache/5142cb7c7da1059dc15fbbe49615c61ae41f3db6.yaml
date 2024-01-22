@@ -1,0 +1,32 @@
+{
+  "chinese": "她非常喜欢她的学校。",
+  "english": "She really likes her school.",
+  "pinyin": "tā fēi cháng xǐ huān tā de xué xiào.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "非常",
+      "en": "really",
+      "pi": "fēi cháng"
+    },
+    {
+      "ch": "喜欢",
+      "en": "likes",
+      "pi": "xǐ huān"
+    },
+    {
+      "ch": "她的",
+      "en": "her",
+      "pi": "tā de"
+    },
+    {
+      "ch": "学校",
+      "en": "school",
+      "pi": "xué xiào"
+    }
+  ]
+}

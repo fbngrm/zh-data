@@ -1,0 +1,17 @@
+{
+  "chinese": "我們去市區吃飯，然後再看場電影吧。",
+  "english": "Let's go to the city for a meal, and then watch a movie.",
+  "pinyin": "wǒmen qù shìqū chīfàn, ránhòu zài kàn chǎng diànyǐng ba.",
+  "words": [
+    {"ch": "我們", "en": "we", "pi": "wǒmen"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "市區", "en": "city", "pi": "shìqū"},
+    {"ch": "吃飯", "en": "eat a meal", "pi": "chīfàn"},
+    {"ch": "然後", "en": "then", "pi": "ránhòu"},
+    {"ch": "再", "en": "again", "pi": "zài"},
+    {"ch": "看", "en": "watch", "pi": "kàn"},
+    {"ch": "場", "en": "a", "pi": "chǎng"},
+    {"ch": "電影", "en": "movie", "pi": "diànyǐng"},
+    {"ch": "吧", "en": "particle used to suggest or soften a statement", "pi": "ba"}
+  ]
+}

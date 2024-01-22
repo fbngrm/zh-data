@@ -1,0 +1,37 @@
+{
+  "chinese": "你今晚想出去吃吗？",
+  "english": "Do you want to go out for dinner tonight?",
+  "pinyin": "nǐ jīn wǎn xiǎng chū qù chī ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "今晚",
+      "en": "tonight",
+      "pi": "jīn wǎn"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "出去",
+      "en": "go out",
+      "pi": "chū qù"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

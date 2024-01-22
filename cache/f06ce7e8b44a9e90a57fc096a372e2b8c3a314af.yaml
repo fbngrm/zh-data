@@ -1,0 +1,37 @@
+{
+  "chinese": "我们学校在车站的附近。",
+  "english": "Our school is near the train station.",
+  "pinyin": "Wǒmen xuéxiào zài chēzhàn de fùjìn.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "学校",
+      "en": "school",
+      "pi": "xuéxiào"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "车站",
+      "en": "train station",
+      "pi": "chēzhàn"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "附近",
+      "en": "near",
+      "pi": "fùjìn"
+    }
+  ]
+}

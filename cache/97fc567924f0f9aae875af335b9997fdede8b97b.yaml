@@ -1,0 +1,32 @@
+{
+  "chinese": "您下午做啥呢？",
+  "english": "What are you doing in the afternoon?",
+  "pinyin": "Nín xiàwǔ zuò shá ne?",
+  "words": [
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "下午",
+      "en": "afternoon",
+      "pi": "xiàwǔ"
+    },
+    {
+      "ch": "做",
+      "en": "doing",
+      "pi": "zuò"
+    },
+    {
+      "ch": "啥",
+      "en": "what",
+      "pi": "shá"
+    },
+    {
+      "ch": "呢",
+      "en": "particle indicating inquiry",
+      "pi": "ne"
+    }
+  ]
+}

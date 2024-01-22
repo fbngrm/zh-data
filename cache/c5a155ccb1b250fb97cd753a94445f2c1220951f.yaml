@@ -1,0 +1,14 @@
+{
+  "chinese": "您今天一个人来的吗？",
+  "english": "Did you come alone today?",
+  "pinyin": "Nín jīntiān yī gèrén lái de ma?",
+  "words": [
+    {"ch": "您", "en": "you", "pi": "nín"},
+    {"ch": "今天", "en": "today", "pi": "jīntiān"},
+    {"ch": "一个", "en": "one", "pi": "yī gè"},
+    {"ch": "人", "en": "person", "pi": "rén"},
+    {"ch": "来", "en": "come", "pi": "lái"},
+    {"ch": "的", "en": "particle", "pi": "de"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

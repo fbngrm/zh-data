@@ -1,0 +1,42 @@
+{
+  "chinese": "這棟房子是那棟的兩倍大。",
+  "english": "This house is twice as big as that one.",
+  "pinyin": "zhè dòng fáng zi shì nà dòng de liǎng bèi dà.",
+  "words": [
+    {
+      "ch": "這棟",
+      "en": "This",
+      "pi": "zhè dòng"
+    },
+    {
+      "ch": "房子",
+      "en": "house",
+      "pi": "fáng zi"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "那棟",
+      "en": "that",
+      "pi": "nà dòng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "兩倍",
+      "en": "twice",
+      "pi": "liǎng bèi"
+    },
+    {
+      "ch": "大",
+      "en": "big",
+      "pi": "dà"
+    }
+  ]
+}

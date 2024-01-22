@@ -1,0 +1,47 @@
+{
+  "chinese": "汤姆每天都要在工作时说法语。",
+  "english": "Tom has to speak French while working every day.",
+  "pinyin": "tāng mǔ měi tiān dōu yào zài gōng zuò shí shuō fǎ yǔ.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "都要",
+      "en": "has to",
+      "pi": "dōu yào"
+    },
+    {
+      "ch": "在",
+      "en": "while",
+      "pi": "zài"
+    },
+    {
+      "ch": "工作",
+      "en": "working",
+      "pi": "gōng zuò"
+    },
+    {
+      "ch": "时",
+      "en": "during",
+      "pi": "shí"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎ yǔ"
+    }
+  ]
+}

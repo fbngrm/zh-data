@@ -1,0 +1,14 @@
+{
+  "chinese": "暴风雨过后，他们的房子成了废墟。",
+  "english": "After the storm, their house became ruins.",
+  "pinyin": "Bào fēng yǔ guòhòu, tāmen de fángzi chéngle fèixū.",
+  "words": [
+    {"ch": "暴风雨", "en": "storm", "pi": "bào fēng yǔ"},
+    {"ch": "过后", "en": "after", "pi": "guò hòu"},
+    {"ch": "他们", "en": "they", "pi": "tāmen"},
+    {"ch": "的", "en": "their", "pi": "de"},
+    {"ch": "房子", "en": "house", "pi": "fángzi"},
+    {"ch": "成了", "en": "became", "pi": "chéngle"},
+    {"ch": "废墟", "en": "ruins", "pi": "fèixū"}
+  ]
+}

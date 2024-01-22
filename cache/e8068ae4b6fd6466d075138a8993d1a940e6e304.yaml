@@ -1,0 +1,32 @@
+{
+  "chinese": "你有其他家人吗？",
+  "english": "Do you have any other family members?",
+  "pinyin": "nǐ yǒu qítā jiārén ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "其他",
+      "en": "other",
+      "pi": "qítā"
+    },
+    {
+      "ch": "家人",
+      "en": "family members",
+      "pi": "jiārén"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chinese": "他是在网上发现这个信息的。",
+  "english": "He found this information on the internet.",
+  "pinyin": "Tā shì zài wǎngshàng fāxiàn zhège xìnxī de.",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "在", "en": "on/in", "pi": "zài"},
+    {"ch": "网上", "en": "on the internet", "pi": "wǎngshàng"},
+    {"ch": "发现", "en": "found", "pi": "fāxiàn"},
+    {"ch": "这个", "en": "this", "pi": "zhège"},
+    {"ch": "信息", "en": "information", "pi": "xìnxī"},
+    {"ch": "的", "en": "s", "pi": "de"}
+  ]
+}

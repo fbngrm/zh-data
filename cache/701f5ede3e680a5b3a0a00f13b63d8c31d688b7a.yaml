@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆好，但不够好。",
+  "english": "Tom is good, but not good enough.",
+  "pinyin": "Tāng mǔ hǎo, dàn bùgòu hǎo.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "但",
+      "en": "but",
+      "pi": "dàn"
+    },
+    {
+      "ch": "不够好",
+      "en": "not good enough",
+      "pi": "bùgòu hǎo"
+    }
+  ]
+}

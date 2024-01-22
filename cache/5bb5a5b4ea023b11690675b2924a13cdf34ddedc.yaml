@@ -1,0 +1,32 @@
+{
+  "chinese": "这家旅馆不提供午餐。",
+  "english": "This hotel does not provide lunch.",
+  "pinyin": "zhè jiā lǚ guǎn bù tígōng wǔ cān。",
+  "words": [
+    {
+      "ch": "这家",
+      "en": "This",
+      "pi": "zhè jiā"
+    },
+    {
+      "ch": "旅馆",
+      "en": "hotel",
+      "pi": "lǚ guǎn"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "提供",
+      "en": "provide",
+      "pi": "tígōng"
+    },
+    {
+      "ch": "午餐",
+      "en": "lunch",
+      "pi": "wǔ cān"
+    }
+  ]
+}

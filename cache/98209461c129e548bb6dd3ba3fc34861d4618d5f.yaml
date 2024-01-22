@@ -1,0 +1,42 @@
+{
+  "chinese": "她把蘋果切成了兩半。",
+  "english": "She cut the apple in half.",
+  "pinyin": "tā bǎ píngguǒ qiē chéng le liǎngbàn。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "把",
+      "en": "to",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "蘋果",
+      "en": "apple",
+      "pi": "píngguǒ"
+    },
+    {
+      "ch": "切",
+      "en": "cut",
+      "pi": "qiē"
+    },
+    {
+      "ch": "成",
+      "en": "in",
+      "pi": "chéng"
+    },
+    {
+      "ch": "了",
+      "en": "half",
+      "pi": "le"
+    },
+    {
+      "ch": "兩半",
+      "en": "in half",
+      "pi": "liǎngbàn"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "汤姆什么都没告诉你吗？",
+  "english": "Did Tom not tell you anything?",
+  "pinyin": "Tāng mǔ shénme dōu méi gàosù nǐ ma?",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ"},
+    {"ch": "什么", "en": "what", "pi": "shénme"},
+    {"ch": "都", "en": "all", "pi": "dōu"},
+    {"ch": "没", "en": "not", "pi": "méi"},
+    {"ch": "告诉", "en": "tell", "pi": "gàosù"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

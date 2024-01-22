@@ -1,0 +1,22 @@
+{
+  "chinese": "我是猫。",
+  "english": "I am a cat.",
+  "pinyin": "wǒ shì māo.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "是",
+      "en": "am",
+      "pi": "shì"
+    },
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    }
+  ]
+}

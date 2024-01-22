@@ -1,0 +1,42 @@
+{
+  "chinese": "我把水倒入了桶子里。",
+  "english": "I poured water into the bucket.",
+  "pinyin": "wǒ bǎ shuǐ dào rù le tǒng zi lǐ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "把",
+      "en": "poured",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "水",
+      "en": "water",
+      "pi": "shuǐ"
+    },
+    {
+      "ch": "倒入",
+      "en": "into",
+      "pi": "dào rù"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "桶子",
+      "en": "bucket",
+      "pi": "tǒng zi"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    }
+  ]
+}

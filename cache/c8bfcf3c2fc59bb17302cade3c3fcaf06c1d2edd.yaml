@@ -1,0 +1,14 @@
+{
+  "chinese": "從這裡到上野有多遠?",
+  "english": "How far is it from here to Ueno?",
+  "pinyin": "Cóng zhèlǐ dào Shàngyē yǒu duō yuǎn?",
+  "words": [
+    {"ch": "從", "en": "from", "pi": "cóng"},
+    {"ch": "這裡", "en": "here", "pi": "zhè lǐ"},
+    {"ch": "到", "en": "to", "pi": "dào"},
+    {"ch": "上野", "en": "Ueno", "pi": "Shàng yē"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "多", "en": "how many", "pi": "duō"},
+    {"ch": "遠", "en": "far", "pi": "yuǎn"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我有很多外國朋友。",
+  "english": "I have many foreign friends.",
+  "pinyin": "wǒ yǒu hěn duō wài guó péng yǒu.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "很多",
+      "en": "many",
+      "pi": "hěn duō"
+    },
+    {
+      "ch": "外國",
+      "en": "foreign",
+      "pi": "wài guó"
+    },
+    {
+      "ch": "朋友",
+      "en": "friends",
+      "pi": "péng yǒu"
+    }
+  ]
+}

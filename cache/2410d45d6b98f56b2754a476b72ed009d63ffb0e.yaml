@@ -1,0 +1,27 @@
+{
+  "chinese": "猫正在吃老鼠。",
+  "english": "The cat is eating a mouse.",
+  "pinyin": "māo zhèngzài chī lǎoshǔ.",
+  "words": [
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    },
+    {
+      "ch": "正在",
+      "en": "is",
+      "pi": "zhèngzài"
+    },
+    {
+      "ch": "吃",
+      "en": "eating",
+      "pi": "chī"
+    },
+    {
+      "ch": "老鼠",
+      "en": "mouse",
+      "pi": "lǎoshǔ"
+    }
+  ]
+}

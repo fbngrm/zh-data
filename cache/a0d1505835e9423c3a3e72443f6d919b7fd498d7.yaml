@@ -1,0 +1,14 @@
+{
+  "chinese": "我不知道该怎么答他。",
+  "english": "I don't know how to answer him.",
+  "pinyin": "wǒ bù zhīdào gāi zěnme dá tā。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "不", "en": "don't", "pi": "bù"},
+    {"ch": "知道", "en": "know", "pi": "zhīdào"},
+    {"ch": "该", "en": "how", "pi": "gāi"},
+    {"ch": "怎么", "en": "to", "pi": "zěnme"},
+    {"ch": "答", "en": "answer", "pi": "dá"},
+    {"ch": "他", "en": "him", "pi": "tā"}
+  ]
+}

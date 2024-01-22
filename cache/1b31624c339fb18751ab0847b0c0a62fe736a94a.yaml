@@ -1,0 +1,32 @@
+{
+  "chinese": "机场大巴从哪里出发？",
+  "english": "Where does the airport shuttle depart from?",
+  "pinyin": "Jīchǎng dàbā cóng nǎlǐ chūfā?",
+  "words": [
+    {
+      "ch": "机场",
+      "en": "airport",
+      "pi": "jīchǎng"
+    },
+    {
+      "ch": "大巴",
+      "en": "shuttle",
+      "pi": "dàbā"
+    },
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "哪里",
+      "en": "where",
+      "pi": "nǎlǐ"
+    },
+    {
+      "ch": "出发",
+      "en": "depart",
+      "pi": "chūfā"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆今晚不能工作。",
+  "english": "Tom cannot work tonight.",
+  "pinyin": "Tāng mǔ jīn wǎn bù néng gōngzuò.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "今晚",
+      "en": "tonight",
+      "pi": "jīn wǎn"
+    },
+    {
+      "ch": "不能",
+      "en": "cannot",
+      "pi": "bù néng"
+    },
+    {
+      "ch": "工作",
+      "en": "work",
+      "pi": "gōngzuò"
+    }
+  ]
+}

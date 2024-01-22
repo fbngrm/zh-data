@@ -1,0 +1,37 @@
+{
+  "chinese": "二十四小时三十分十七秒",
+  "english": "24 hours 30 minutes 17 seconds",
+  "pinyin": "èr shí sì xiǎo shí sān fēn shí qī miǎo",
+  "words": [
+    {
+      "ch": "二十四",
+      "en": "24",
+      "pi": "èr shí sì"
+    },
+    {
+      "ch": "小时",
+      "en": "hours",
+      "pi": "xiǎo shí"
+    },
+    {
+      "ch": "三十",
+      "en": "30",
+      "pi": "sān shí"
+    },
+    {
+      "ch": "分",
+      "en": "minutes",
+      "pi": "fēn"
+    },
+    {
+      "ch": "十七",
+      "en": "17",
+      "pi": "shí qī"
+    },
+    {
+      "ch": "秒",
+      "en": "seconds",
+      "pi": "miǎo"
+    }
+  ]
+}

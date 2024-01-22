@@ -1,0 +1,14 @@
+{
+  "chinese": "我看完电视才去做功课。",
+  "english": "I will do my homework after watching TV.",
+  "pinyin": "wǒ kàn wán diànshì cái qù zuò gōngkè。",
+  "words": [
+    {"ch": "我", "en": "I", "pi":"wǒ"},
+    {"ch": "看完", "en": "finish watching", "pi":"kàn wán"},
+    {"ch": "电视", "en": "TV", "pi":"diànshì"},
+    {"ch": "才", "en": "only then", "pi":"cái"},
+    {"ch": "去", "en": "go", "pi":"qù"},
+    {"ch": "做", "en": "do", "pi":"zuò"},
+    {"ch": "功课", "en": "homework", "pi":"gōngkè"}
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chinese": "抱歉，我刚才在吃饭，没有看到信息。",
+  "english": "Sorry, I was eating just now and didn't see the message.",
+  "pinyin": "Bàoqiàn, wǒ gāngcái zài chīfàn, méiyǒu kàndào xìnxī.",
+  "words": [
+    {"ch": "抱歉", "en": "Sorry", "pi": "bàoqiàn"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "刚才", "en": "just now", "pi": "gāngcái"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "吃饭", "en": "eating", "pi": "chīfàn"},
+    {"ch": "没有", "en": "didn't", "pi": "méiyǒu"},
+    {"ch": "看到", "en": "see", "pi": "kàndào"},
+    {"ch": "信息", "en": "message", "pi": "xìnxī"}
+  ]
+}

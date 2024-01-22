@@ -1,0 +1,19 @@
+{
+  "chinese": "一盏电灯不亮了，你帮我来看看好吗？",
+  "english": "A light bulb is not working, can you help me take a look?",
+  "pinyin": "yī zhǎn diàn dēng bù liàng le, nǐ bāng wǒ lái kàn kàn hǎo ma?",
+  "words": [
+    {"ch": "一", "en": "A", "pi": "yī"},
+    {"ch": "盏", "en": "light bulb", "pi": "zhǎn"},
+    {"ch": "电灯", "en": "electric light", "pi": "diàn dēng"},
+    {"ch": "不亮", "en": "not working", "pi": "bù liàng"},
+    {"ch": "了", "en": "anymore", "pi": "le"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "帮", "en": "help", "pi": "bāng"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "来", "en": "to", "pi": "lái"},
+    {"ch": "看看", "en": "take a look", "pi": "kàn kàn"},
+    {"ch": "好吗", "en": "can you", "pi": "hǎo ma"}
+  ]
+}

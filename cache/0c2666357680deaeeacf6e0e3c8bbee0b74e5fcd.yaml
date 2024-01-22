@@ -1,0 +1,27 @@
+{
+  "chinese": "好象火车晚点了。",
+  "english": "It seems like the train is delayed.",
+  "pinyin": "Hǎoxiàng huǒchē wǎndiǎn le.",
+  "words": [
+    {
+      "ch": "好象",
+      "en": "It seems like",
+      "pi": "hǎoxiàng"
+    },
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒchē"
+    },
+    {
+      "ch": "晚点",
+      "en": "delayed",
+      "pi": "wǎndiǎn"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

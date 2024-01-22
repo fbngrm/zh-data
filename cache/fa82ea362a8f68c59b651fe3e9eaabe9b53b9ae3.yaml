@@ -1,0 +1,18 @@
+{
+  "chinese": "如果您有关于这份问卷信息的使用条件，请在这里指定。",
+  "english": "If you have any terms and conditions regarding the use of this questionnaire, please specify them here.",
+  "pinyin": "Rúguǒ nín yǒu guānyú zhè fèn wènjuàn xìnxī de shǐyòng tiáojiàn, qǐng zài zhèlǐ zhǐdìng。",
+  "words": [
+    { "ch": "如果", "en": "If", "pi": "rúguǒ" },
+    { "ch": "您", "en": "you", "pi": "nín" },
+    { "ch": "有关", "en": "have any terms and conditions regarding", "pi": "yǒuguān" },
+    { "ch": "这份", "en": "this", "pi": "zhèfèn" },
+    { "ch": "问卷", "en": "questionnaire", "pi": "wènjuàn" },
+    { "ch": "信息", "en": "information", "pi": "xìnxī" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "使用条件", "en": "use of terms and conditions", "pi": "shǐyòng tiáojiàn" },
+    { "ch": "请", "en": "please", "pi": "qǐng" },
+    { "ch": "在这里", "en": "here", "pi": "zàilǐ" },
+    { "ch": "指定", "en": "specify", "pi": "zhǐdìng" }
+  ]
+}

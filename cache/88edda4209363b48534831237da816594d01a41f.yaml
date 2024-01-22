@@ -1,0 +1,36 @@
+{
+  "sentences": [
+    {
+      "chinese": "两个句子是一致的。",
+      "english": "The two sentences are identical.",
+      "pinyin": "liǎng gè jùzi shì yīzhì de。",
+      "words": [
+        {
+          "ch": "两个",
+          "en": "two",
+          "pi": "liǎng gè"
+        },
+        {
+          "ch": "句子",
+          "en": "sentences",
+          "pi": "jùzi"
+        },
+        {
+          "ch": "是",
+          "en": "are",
+          "pi": "shì"
+        },
+        {
+          "ch": "一致",
+          "en": "identical",
+          "pi": "yīzhì"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": "de"
+        }
+      ]
+    }
+  ]
+}

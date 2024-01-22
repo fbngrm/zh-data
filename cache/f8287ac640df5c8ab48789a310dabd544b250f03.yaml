@@ -1,0 +1,15 @@
+{
+   "chinese": "妈妈为我们做了乳酪三明治当午餐。",
+   "english": "Mom made us cheese sandwiches for lunch.",
+   "pinyin": "māma wèi wǒmen zuòle rǔyào sānmíngzhì dāng wǔcān。",
+   "words": [
+      {"ch": "妈妈", "en": "Mom", "pi": "māma"},
+      {"ch": "为", "en": "made", "pi": "wèi"},
+      {"ch": "我们", "en": "us", "pi": "wǒmen"},
+      {"ch": "做了", "en": "made", "pi": "zuòle"},
+      {"ch": "乳酪", "en": "cheese", "pi": "rǔyào"},
+      {"ch": "三明治", "en": "sandwiches", "pi": "sānmíngzhì"},
+      {"ch": "当", "en": "for", "pi": "dāng"},
+      {"ch": "午餐", "en": "lunch", "pi": "wǔcān"}
+   ]
+}

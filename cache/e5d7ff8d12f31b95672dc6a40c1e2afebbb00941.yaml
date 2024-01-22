@@ -1,0 +1,15 @@
+{
+  "chinese": "到了你该去睡觉的时候了。",
+  "english": "It's time for you to go to sleep.",
+  "pinyin": "dào le nǐ gāi qù shuì jiào de shíhòu le.",
+  "words": [
+    { "ch": "到了", "en": "arrived", "pi": "dào le" },
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "该", "en": "should", "pi": "gāi" },
+    { "ch": "去", "en": "go", "pi": "qù" },
+    { "ch": "睡觉", "en": "sleep", "pi": "shuì jiào" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "时候", "en": "time", "pi": "shíhòu" },
+    { "ch": "了", "en": "already", "pi": "le" }
+  ]
+}

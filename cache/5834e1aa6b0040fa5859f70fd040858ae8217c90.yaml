@@ -1,0 +1,32 @@
+{
+  "chinese": "这个袋子里是什么？",
+  "english": "What is in this bag?",
+  "pinyin": "zhè gè dàizi lǐ shì shénme?",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "袋子",
+      "en": "bag",
+      "pi": "dàizi"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆在学校里不专心。",
+  "english": "Tom is not focused at school.",
+  "pinyin": "tāng mǔ zài xué xiào lǐ bù zhuān xīn。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "学校",
+      "en": "school",
+      "pi": "xué xiào"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "专心",
+      "en": "focused",
+      "pi": "zhuān xīn"
+    }
+  ]
+}

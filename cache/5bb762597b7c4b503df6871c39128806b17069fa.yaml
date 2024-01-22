@@ -1,0 +1,13 @@
+{
+  "chinese": "这收音机不比火柴盒大。",
+  "english": "This radio is not bigger than a matchbox.",
+  "pinyin": "zhè shōu yīn jī bù bǐ huǒ chái hé dà。",
+  "words": [
+    { "ch": "这", "en": "this", "pi": "zhè" },
+    { "ch": "收音机", "en": "radio", "pi": "shōu yīn jī" },
+    { "ch": "不", "en": "not", "pi": "bù" },
+    { "ch": "比", "en": "than", "pi": "bǐ" },
+    { "ch": "火柴盒", "en": "matchbox", "pi": "huǒ chái hé" },
+    { "ch": "大", "en": "bigger", "pi": "dà" }
+  ]
+}

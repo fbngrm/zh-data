@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆和我是队友。",
+  "english": "Tom and I are teammates.",
+  "pinyin": "Tāng mǔ hé wǒ shì duì yǒu.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "是",
+      "en": "am",
+      "pi": "shì"
+    },
+    {
+      "ch": "队友",
+      "en": "teammates",
+      "pi": "duì yǒu"
+    }
+  ]
+}

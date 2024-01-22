@@ -1,0 +1,37 @@
+{ 
+  "chinese": "女孩把鸟儿从笼中放了出来。",
+  "english": "The girl let the bird out of the cage.",
+  "pinyin": "Nǚ hái bǎ niǎo ér cóng lóng zhōng fàng le chū lái.",
+  "words": [
+    {
+      "ch": "女孩",
+      "en": "girl",
+      "pi": "nǚ hái"
+    },
+    {
+      "ch": "把",
+      "en": "let",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "鸟儿",
+      "en": "bird",
+      "pi": "niǎo ér"
+    },
+    {
+      "ch": "从",
+      "en": "out of",
+      "pi": "cóng"
+    },
+    {
+      "ch": "笼中",
+      "en": "cage",
+      "pi": "lóng zhōng"
+    },
+    {
+      "ch": "放了出来",
+      "en": "released",
+      "pi": "fàng le chū lái"
+    }
+  ]
+}

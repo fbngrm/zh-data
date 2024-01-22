@@ -1,0 +1,25 @@
+{
+  "chinese": "這兩天我沒時間洗碗，現在廚房的洗碗槽裏已經堆滿了碗碗碟碟。",
+  "english": "I haven't had time to wash the dishes these past two days. Now the sink in the kitchen is full of bowls and plates.",
+  "pinyin": "zhè liǎng tiān wǒ méi shí jiān xǐ wǎn, xiàn zài chú fáng de xǐ wǎn cáo lǐ yǐ jīng duī mǎn le wǎn wǎn dié dié.",
+  "words": [
+    {"ch": "這", "en": "this", "pi": "zhè"},
+    {"ch": "兩天", "en": "two days", "pi": "liǎng tiān"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "沒", "en": "haven't", "pi": "méi"},
+    {"ch": "時間", "en": "time", "pi": "shí jiān"},
+    {"ch": "洗碗", "en": "wash dishes", "pi": "xǐ wǎn"},
+    {"ch": "，", "en": ",", "pi": null},
+    {"ch": "現在", "en": "now", "pi": "xiàn zài"},
+    {"ch": "廚房", "en": "kitchen", "pi": "chú fáng"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "洗碗槽", "en": "sink", "pi": "xǐ wǎn cáo"},
+    {"ch": "裏", "en": "inside", "pi": "lǐ"},
+    {"ch": "已經", "en": "already", "pi": "yǐ jīng"},
+    {"ch": "堆滿", "en": "full of", "pi": "duī mǎn"},
+    {"ch": "了", "en": "", "pi": "le"},
+    {"ch": "碗碗", "en": "bowls", "pi": "wǎn wǎn"},
+    {"ch": "碟碟", "en": "plates", "pi": "dié dié"},
+    {"ch": "。", "en": ".", "pi": null}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "飞机向西飞了。",
+  "english": "The airplane flew west.",
+  "pinyin": "fēijī xiàng xī fēi le.",
+  "words": [
+    {
+      "ch": "飞机",
+      "en": "airplane",
+      "pi": "fēijī"
+    },
+    {
+      "ch": "向",
+      "en": "to",
+      "pi": "xiàng"
+    },
+    {
+      "ch": "西",
+      "en": "west",
+      "pi": "xī"
+    },
+    {
+      "ch": "飞",
+      "en": "fly",
+      "pi": "fēi"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

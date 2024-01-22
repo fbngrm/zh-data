@@ -1,0 +1,42 @@
+{
+  "chinese": "我建议我们应该去看电影。",
+  "english": "I suggest that we should go watch a movie.",
+  "pinyin": "Wǒ jiànyì wǒmen yīnggāi qù kàn diànyǐng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "建议",
+      "en": "suggest",
+      "pi": "jiànyì"
+    },
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "应该",
+      "en": "should",
+      "pi": "yīnggāi"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "看",
+      "en": "watch",
+      "pi": "kàn"
+    },
+    {
+      "ch": "电影",
+      "en": "movie",
+      "pi": "diànyǐng"
+    }
+  ]
+}

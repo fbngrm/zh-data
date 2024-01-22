@@ -1,0 +1,32 @@
+{
+  "chinese": "你上个月在美国吗?",
+  "english": "Were you in the United States last month?",
+  "pinyin": "Nǐ shàng gè yuè zài měiguó ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "上个月",
+      "en": "last month",
+      "pi": "shàng gè yuè"
+    },
+    {
+      "ch": "在",
+      "en": "in, at",
+      "pi": "zài"
+    },
+    {
+      "ch": "美国",
+      "en": "United States",
+      "pi": "měiguó"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

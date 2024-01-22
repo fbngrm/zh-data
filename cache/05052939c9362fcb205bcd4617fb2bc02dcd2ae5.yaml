@@ -1,0 +1,42 @@
+{
+  "chinese": "今天我要去买些材料。",
+  "english": "Today I'm going to buy some materials.",
+  "pinyin": "jīn tiān wǒ yào qù mǎi xiē cái liào。",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "要",
+      "en": "want, going to",
+      "pi": "yào"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "买",
+      "en": "buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "些",
+      "en": "some",
+      "pi": "xiē"
+    },
+    {
+      "ch": "材料",
+      "en": "materials",
+      "pi": "cái liào"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "这是一条河吗?",
+  "english": "Is this a river?",
+  "pinyin": "zhè shì yī tiáo hé ma?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "一条",
+      "en": "a",
+      "pi": "yī tiáo"
+    },
+    {
+      "ch": "河",
+      "en": "river",
+      "pi": "hé"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "吉姆为贝蒂写这封信。",
+  "english": "Jim writes this letter for Betty.",
+  "pinyin": "jí mǔ wèi bèi dì xiě zhè fēng xìn。",
+  "words": [
+    {"ch": "吉姆", "en": "Jim", "pi": "jí mǔ"},
+    {"ch": "为", "en": "for", "pi": "wèi"},
+    {"ch": "贝蒂", "en": "Betty", "pi": "bèi dì"},
+    {"ch": "写", "en": "writes", "pi": "xiě"},
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "封", "en": "letter", "pi": "fēng"},
+    {"ch": "信", "en": "for", "pi": "xìn"}
+  ]
+}

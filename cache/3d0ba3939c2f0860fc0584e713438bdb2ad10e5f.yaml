@@ -1,0 +1,47 @@
+{
+  "chinese": "对不起,你要联系的人没空。",
+  "english": "Sorry, the person you want to contact is not available.",
+  "pinyin": "duì bù qǐ, nǐ yào lián xì de rén méi kòng。",
+  "words": [
+    {
+      "ch": "对不起",
+      "en": "Sorry",
+      "pi": "duì bù qǐ"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "联系",
+      "en": "to contact",
+      "pi": "lián xì"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "人",
+      "en": "person",
+      "pi": "rén"
+    },
+    {
+      "ch": "没",
+      "en": "not",
+      "pi": "méi"
+    },
+    {
+      "ch": "空",
+      "en": "available",
+      "pi": "kòng"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "玛丽，这是乔的兄弟大卫。",
+  "english": "Mary, this is Joe's brother David.",
+  "pinyin": "Mǎlì, zhè shì Qiáo de xiōngdì Dàwèi.",
+  "words": [
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎlì"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "乔",
+      "en": "Joe",
+      "pi": "Qiáo"
+    },
+    {
+      "ch": "的",
+      "en": "\'s",
+      "pi": "de"
+    },
+    {
+      "ch": "兄弟",
+      "en": "brother",
+      "pi": "xiōngdì"
+    },
+    {
+      "ch": "大卫",
+      "en": "David",
+      "pi": "Dàwèi"
+    }
+  ]
+}

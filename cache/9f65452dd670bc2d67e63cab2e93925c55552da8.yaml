@@ -1,0 +1,32 @@
+{
+  "chinese": "我上週看到了爷爷。",
+  "english": "I saw my grandfather last week.",
+  "pinyin": "wo3 shang4 zhou1 kan4 dao4 le ye2 ye.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wo3"
+    },
+    {
+      "ch": "上週",
+      "en": "last week",
+      "pi": "shang4 zhou1"
+    },
+    {
+      "ch": "看到",
+      "en": "saw",
+      "pi": "kan4 dao4"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "爷爷",
+      "en": "grandfather",
+      "pi": "ye2 ye"
+    }
+  ]
+}

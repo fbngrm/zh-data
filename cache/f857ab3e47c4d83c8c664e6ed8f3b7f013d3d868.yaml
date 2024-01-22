@@ -1,0 +1,18 @@
+{
+  "chinese": "从他们的表情可以知道，他们大概是失败了。",
+  "english": "From their expressions, we can tell that they probably failed.",
+  "pinyin": "Cóng tāmen de biǎoqíng kěyǐ zhīdào, tāmen dàgài shì shībài le.",
+  "words": [
+    {"ch": "从", "en": "From", "pi": "cóng"},
+    {"ch": "他们", "en": "their", "pi": "tāmen"},
+    {"ch": "的", "en": "expression", "pi": "de"},
+    {"ch": "表情", "en": "can tell", "pi": "biǎoqíng"},
+    {"ch": "可以", "en": "that", "pi": "kěyǐ"},
+    {"ch": "知道", "en": "probably", "pi": "zhīdào"},
+    {"ch": "他们", "en": "failed", "pi": "tāmen"},
+    {"ch": "大概", "en": "probably", "pi": "dàgài"},
+    {"ch": "是", "en": "failed", "pi": "shībài"},
+    {"ch": "失败", "en": "failed", "pi": "shībài"},
+    {"ch": "了", "en": "failed", "pi": "le"}
+  ]
+}

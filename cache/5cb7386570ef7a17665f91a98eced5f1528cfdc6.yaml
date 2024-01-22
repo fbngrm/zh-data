@@ -1,0 +1,32 @@
+{
+  "chinese": "这个价格含了税。",
+  "english": "This price includes tax.",
+  "pinyin": "zhè gè jià gé hán le shuì。",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "This",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "价格",
+      "en": "price",
+      "pi": "jià gé"
+    },
+    {
+      "ch": "含",
+      "en": "includes",
+      "pi": "hán"
+    },
+    {
+      "ch": "了",
+      "en": "tax",
+      "pi": "le"
+    },
+    {
+      "ch": "税",
+      "en": "tax",
+      "pi": "shuì"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "今天下午到我家来一趟。",
+  "english": "Come to my house this afternoon.",
+  "pinyin": "jīn tiān xià wǔ dào wǒ jiā lái yī tàng。",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "下午",
+      "en": "afternoon",
+      "pi": "xià wǔ"
+    },
+    {
+      "ch": "到",
+      "en": "to",
+      "pi": "dào"
+    },
+    {
+      "ch": "我家",
+      "en": "my house",
+      "pi": "wǒ jiā"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    },
+    {
+      "ch": "一趟",
+      "en": "one time",
+      "pi": "yī tàng"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆不会在这里久留。",
+  "english": "Tom won't stay here for long.",
+  "pinyin": "tāng mǔ bú huì zài zhè lǐ jiǔ liú。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "不会",
+      "en": "won't",
+      "pi": "bú huì"
+    },
+    {
+      "ch": "在这里",
+      "en": "here",
+      "pi": "zài zhè lǐ"
+    },
+    {
+      "ch": "久留",
+      "en": "stay for long",
+      "pi": "jiǔ liú"
+    }
+  ]
+}

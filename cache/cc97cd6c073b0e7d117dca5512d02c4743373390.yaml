@@ -1,0 +1,11 @@
+{
+  "chinese": "我是个英雄。",
+  "english": "I am a hero.",
+  "pinyin": "wǒ shì gè yīngxióng.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "是", "en": "am", "pi": "shì"},
+    {"ch": "个", "en": "a", "pi": "gè"},
+    {"ch": "英雄", "en": "hero", "pi": "yīngxióng"}
+  ]
+}

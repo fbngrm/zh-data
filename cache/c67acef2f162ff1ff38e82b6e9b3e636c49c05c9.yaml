@@ -1,0 +1,27 @@
+{
+  "chinese": "你喜欢游泳吗？",
+  "english": "Do you like swimming?",
+  "pinyin": "nǐ xǐhuān yóuyǒng ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "游泳",
+      "en": "swimming",
+      "pi": "yóuyǒng"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

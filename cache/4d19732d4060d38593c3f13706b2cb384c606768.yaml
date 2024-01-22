@@ -1,0 +1,37 @@
+{
+  "chinese": "我昨天买了这个打印机。",
+  "english": "I bought this printer yesterday.",
+  "pinyin": "wǒ zuó tiān mǎi le zhè gè dǎ yìn jī。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "买",
+      "en": "bought",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "了",
+      "en": "this",
+      "pi": "le"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè ge"
+    },
+    {
+      "ch": "打印机",
+      "en": "printer",
+      "pi": "dǎ yìn jī"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "我们看见汤姆跟玛丽说话。",
+  "english": "We see Tom talking to Mary.",
+  "pinyin": "wǒmen kànjiàn Tāngmǔ gēn Mǎlì shuōhuà.",
+  "words": [
+    { "ch": "我们", "en": "We", "pi": "wǒmen" },
+    { "ch": "看见", "en": "see", "pi": "kànjiàn" },
+    { "ch": "汤姆", "en": "Tom", "pi": "Tāngmǔ" },
+    { "ch": "跟", "en": "to", "pi": "gēn" },
+    { "ch": "玛丽", "en": "Mary", "pi": "Mǎlì" },
+    { "ch": "说话", "en": "talk", "pi": "shuōhuà" }
+  ]
+}

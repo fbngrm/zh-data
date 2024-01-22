@@ -1,0 +1,37 @@
+{
+  "chinese": "你有没有看完整本书？",
+  "english": "Did you finish reading the entire book?",
+  "pinyin": "nǐ yǒu méi yǒu kàn wán zhěng běn shū?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "没有",
+      "en": "did not/don't have",
+      "pi": "méi yǒu"
+    },
+    {
+      "ch": "看",
+      "en": "to read/to watch",
+      "pi": "kàn"
+    },
+    {
+      "ch": "完整",
+      "en": "complete/entire",
+      "pi": "wán zhěng"
+    },
+    {
+      "ch": "本书",
+      "en": "book",
+      "pi": "běn shū"
+    }
+  ]
+}

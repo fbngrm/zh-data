@@ -1,0 +1,37 @@
+{
+  "chinese": "我知道你住在这里。",
+  "english": "I know you live here.",
+  "pinyin": "Wǒ zhīdào nǐ zhù zài zhèlǐ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "Wǒ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "住",
+      "en": "live",
+      "pi": "zhù"
+    },
+    {
+      "ch": "在",
+      "en": "here",
+      "pi": "zài"
+    },
+    {
+      "ch": "这里",
+      "en": "this place",
+      "pi": "zhèlǐ"
+    }
+  ]
+}

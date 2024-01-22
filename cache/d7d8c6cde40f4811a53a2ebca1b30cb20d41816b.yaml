@@ -1,0 +1,15 @@
+{
+  "chinese": "请再在我的茶里加点牛奶。",
+  "english": "Please add some milk to my tea.",
+  "pinyin": "qǐng zài zài wǒ de chá lǐ jiā diǎn niú nǎi。",
+  "words": [
+    {"ch": "请", "en": "Please", "pi": "qǐng"},
+    {"ch": "再", "en": "again", "pi": "zài"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "茶", "en": "tea", "pi": "chá"},
+    {"ch": "里", "en": "inside", "pi": "lǐ"},
+    {"ch": "加点", "en": "add some", "pi": "jiā diǎn"},
+    {"ch": "牛奶", "en": "milk", "pi": "niú nǎi"}
+  ]
+}

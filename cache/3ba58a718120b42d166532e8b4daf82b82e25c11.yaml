@@ -1,0 +1,32 @@
+{
+  "chinese": "我看到桌上有本书。",
+  "english": "I see a book on the table.",
+  "pinyin": "wǒ kàn dào zhuō shàng yǒu běn shū。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "看到",
+      "en": "see",
+      "pi": "kàn dào"
+    },
+    {
+      "ch": "桌上",
+      "en": "on the table",
+      "pi": "zhuō shàng"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "本书",
+      "en": "a book",
+      "pi": "běn shū"
+    }
+  ]
+}

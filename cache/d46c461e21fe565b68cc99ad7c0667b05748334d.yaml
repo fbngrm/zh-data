@@ -1,0 +1,11 @@
+{
+    "chinese": "我已经吃完了。",
+    "english": "I have already finished eating.",
+    "pinyin": "wǒ yǐ jīng chī wán le.",
+    "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "已经", "en": "already", "pi": "yǐ jīng"},
+        {"ch": "吃完", "en": "finished eating", "pi": "chī wán"},
+        {"ch": "了", "en": "particle of past tense", "pi": "le"}
+    ]
+}

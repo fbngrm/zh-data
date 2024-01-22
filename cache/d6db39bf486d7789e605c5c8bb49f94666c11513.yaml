@@ -1,0 +1,14 @@
+{
+  "chinese": "你正在找的書在這裡。",
+  "english": "The book you are looking for is here.",
+  "pinyin": "nǐ zhèng zài zhǎo de shū zài zhèlǐ.",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "正在", "en": "are", "pi": "zhèng zài"},
+    {"ch": "找", "en": "looking for", "pi": "zhǎo"},
+    {"ch": "的", "en": "the", "pi": "de"},
+    {"ch": "書", "en": "book", "pi": "shū"},
+    {"ch": "在", "en": "is", "pi": "zài"},
+    {"ch": "這裡", "en": "here", "pi": "zhèlǐ"}
+  ]
+}

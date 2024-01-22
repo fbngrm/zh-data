@@ -1,0 +1,27 @@
+{
+  "chinese": "危险！高压电流。",
+  "english": "Danger! High voltage current.",
+  "pinyin": "wēi xiǎn！gāo yā diàn liú。",
+  "words": [
+    {
+      "ch": "危险",
+      "en": "Danger",
+      "pi": "wēi xiǎn"
+    },
+    {
+      "ch": "！",
+      "en": "",
+      "pi": ""
+    },
+    {
+      "ch": "高压",
+      "en": "High voltage",
+      "pi": "gāo yā"
+    },
+    {
+      "ch": "电流",
+      "en": "Current",
+      "pi": "diàn liú"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "他们星期五每晚都去喝酒。",
+  "english": "They go out for drinks every Friday night.",
+  "pinyin": "Tāmen xīngqīwǔ měi wǎn dōu qù hējiǔ.",
+  "words": [
+    {"ch": "他们", "en": "They", "pi": "tāmen"},
+    {"ch": "星期五", "en": "Friday", "pi": "xīngqīwǔ"},
+    {"ch": "每晚", "en": "every night", "pi": "měi wǎn"},
+    {"ch": "都", "en": "all", "pi": "dōu"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "喝酒", "en": "for drinks", "pi": "hējiǔ"}
+  ]
+}

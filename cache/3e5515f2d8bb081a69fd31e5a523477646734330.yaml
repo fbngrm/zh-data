@@ -1,0 +1,42 @@
+{
+  "chinese": "你把我的头发剪得太短了。",
+  "english": "You cut my hair too short.",
+  "pinyin": "Nǐ bǎ wǒ de tóufǎ jiǎn dé tài duǎn le。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "Nǐ"
+    },
+    {
+      "ch": "把",
+      "en": "cut",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "头发",
+      "en": "hair",
+      "pi": "tóufǎ"
+    },
+    {
+      "ch": "剪得",
+      "en": "cut",
+      "pi": "jiǎn dé"
+    },
+    {
+      "ch": "太短",
+      "en": "too short",
+      "pi": "tài duǎn"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

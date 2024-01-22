@@ -1,0 +1,32 @@
+{
+  "chinese": "彼得的农舍非常大。",
+  "english": "Peter's farmhouse is very big.",
+  "pinyin": "bǐ dé de nóng shè fēi cháng dà。",
+  "words": [
+    {
+      "ch": "彼得",
+      "en": "Peter",
+      "pi": "bǐ dé"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "农舍",
+      "en": "farmhouse",
+      "pi": "nóng shè"
+    },
+    {
+      "ch": "非常",
+      "en": "very",
+      "pi": "fēi cháng"
+    },
+    {
+      "ch": "大",
+      "en": "big",
+      "pi": "dà"
+    }
+  ]
+}

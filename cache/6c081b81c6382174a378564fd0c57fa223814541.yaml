@@ -1,0 +1,42 @@
+{
+  "chinese": "这只狗攻击了这个小男孩。",
+  "english": "This dog attacked the little boy.",
+  "pinyin": "zhè zhī gǒu gōng jī le zhè ge xiǎo nán hái.",
+  "words": [
+    {
+      "ch": "这只",
+      "en": "this",
+      "pi": "zhè zhī"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "攻击",
+      "en": "attacked",
+      "pi": "gōng jī"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "这个",
+      "en": "the",
+      "pi": "zhè ge"
+    },
+    {
+      "ch": "小",
+      "en": "little",
+      "pi": "xiǎo"
+    },
+    {
+      "ch": "男孩",
+      "en": "boy",
+      "pi": "nán hái"
+    }
+  ]
+}

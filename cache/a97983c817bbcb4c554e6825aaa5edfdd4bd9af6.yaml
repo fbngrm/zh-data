@@ -1,0 +1,98 @@
+{
+  "sentences": [
+    {
+      "chinese": "八口人。",
+      "english": "Eight people.",
+      "pinyin": "bā kǒu rén.",
+      "words": [
+        {
+          "ch": "八",
+          "en": "eight",
+          "pi": "bā"
+        },
+        {
+          "ch": "口",
+          "en": "mouth",
+          "pi": "kǒu"
+        },
+        {
+          "ch": "人",
+          "en": "people",
+          "pi": "rén"
+        }
+      ]
+    },
+    {
+      "chinese": "我父母，我弟弟，我妹妹，我爷爷，我奶奶，还有我丈夫。",
+      "english": "My parents, my younger brother, my younger sister, my grandfather, my grandmother, and also my husband.",
+      "pinyin": "wǒ fù mǔ, wǒ dì dì, wǒ mèi mei, wǒ yé ye, wǒ nǎi nai, hái yǒu wǒ zhàng fu.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "父母",
+          "en": "parents",
+          "pi": "fù mǔ"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "弟弟",
+          "en": "younger brother",
+          "pi": "dì dì"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "妹妹",
+          "en": "younger sister",
+          "pi": "mèi mei"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "爷爷",
+          "en": "grandfather",
+          "pi": "yé ye"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "奶奶",
+          "en": "grandmother",
+          "pi": "nǎi nai"
+        },
+        {
+          "ch": "还有",
+          "en": "and also",
+          "pi": "hái yǒu"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "丈夫",
+          "en": "husband",
+          "pi": "zhàng fu"
+        }
+      ]
+    }
+  ]
+}

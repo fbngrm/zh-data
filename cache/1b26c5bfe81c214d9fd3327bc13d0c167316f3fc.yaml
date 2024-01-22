@@ -1,0 +1,37 @@
+{
+  "chinese": "我们别再讨论了吧。",
+  "english": "Let's not discuss it anymore, shall we?",
+  "pinyin": "wǒ men bié zài tǎo lùn le ba.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we, us",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "别",
+      "en": "don't",
+      "pi": "bié"
+    },
+    {
+      "ch": "再",
+      "en": "again",
+      "pi": "zài"
+    },
+    {
+      "ch": "讨论",
+      "en": "discuss",
+      "pi": "tǎo lùn"
+    },
+    {
+      "ch": "了",
+      "en": "exclamation particle",
+      "pi": "le"
+    },
+    {
+      "ch": "吧",
+      "en": "modal particle",
+      "pi": "ba"
+    }
+  ]
+}

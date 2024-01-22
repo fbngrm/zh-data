@@ -1,0 +1,32 @@
+{
+  "chinese": "我在公园遇到了Ken。",
+  "english": "I met Ken in the park.",
+  "pinyin": "Wǒ zài gōngyuán yùdào le Ken.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "公园",
+      "en": "park",
+      "pi": "gōngyuán"
+    },
+    {
+      "ch": "遇到了",
+      "en": "met",
+      "pi": "yùdào le"
+    },
+    {
+      "ch": "Ken",
+      "en": "Ken",
+      "pi": "Ken"
+    }
+  ]
+}

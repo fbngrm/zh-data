@@ -1,0 +1,42 @@
+{
+  "chinese": "我把这个杯子倒满了牛奶",
+  "english": "I filled this cup with milk.",
+  "pinyin": "wǒ bǎ zhège bēizi dào mǎn le niúnǎi",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "把",
+      "en": "to",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhège"
+    },
+    {
+      "ch": "杯子",
+      "en": "cup",
+      "pi": "bēizi"
+    },
+    {
+      "ch": "倒",
+      "en": "filled",
+      "pi": "dào"
+    },
+    {
+      "ch": "满了",
+      "en": "with",
+      "pi": "mǎn le"
+    },
+    {
+      "ch": "牛奶",
+      "en": "milk",
+      "pi": "niúnǎi"
+    }
+  ]
+}

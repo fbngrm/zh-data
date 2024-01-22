@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆今早出发晚了。",
+  "english": "Tom left late this morning.",
+  "pinyin": "tāng mǔ jīn zǎo chū fā wǎn le.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "今早",
+      "en": "this morning",
+      "pi": "jīn zǎo"
+    },
+    {
+      "ch": "出发",
+      "en": "left",
+      "pi": "chū fā"
+    },
+    {
+      "ch": "晚",
+      "en": "late",
+      "pi": "wǎn"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

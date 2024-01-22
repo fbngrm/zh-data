@@ -1,0 +1,32 @@
+{
+  "chinese": "是关门的时候了。",
+  "english": "It's time to close the door.",
+  "pinyin": "shì guānmén de shíhòu le.",
+  "words": [
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "关门",
+      "en": "close the door",
+      "pi": "guānmén"
+    },
+    {
+      "ch": "的",
+      "en": "particle indicating possession",
+      "pi": "de"
+    },
+    {
+      "ch": "时候",
+      "en": "time",
+      "pi": "shíhòu"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

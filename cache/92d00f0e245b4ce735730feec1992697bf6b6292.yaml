@@ -1,0 +1,14 @@
+{
+  "chinese": "我被邀请去幸子的派对。",
+  "english": "I was invited to Xingzi's party.",
+  "pinyin": "wǒ bèi yāo qǐng qù xìng zǐ de pài duì。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "被", "en": "was", "pi": "bèi"},
+    {"ch": "邀请", "en": "invited", "pi": "yāo qǐng"},
+    {"ch": "去", "en": "to", "pi": "qù"},
+    {"ch": "幸子", "en": "Xingzi", "pi": "xìng zǐ"},
+    {"ch": "的", "en": "'s", "pi": "de"},
+    {"ch": "派对", "en": "party", "pi": "pài duì"}
+  ]
+}

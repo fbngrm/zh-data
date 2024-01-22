@@ -1,0 +1,27 @@
+{
+  "chinese": "我想阻止汤姆。",
+  "english": "I want to stop Tom.",
+  "pinyin": "wǒ xiǎng zǔ zhǐ tāng mǔ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "阻止",
+      "en": "to stop",
+      "pi": "zǔ zhǐ"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    }
+  ]
+}

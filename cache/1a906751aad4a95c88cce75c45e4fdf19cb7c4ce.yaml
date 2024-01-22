@@ -1,0 +1,42 @@
+{
+  "chinese": "他是国立大学的一名教授。",
+  "english": "He is a professor at a national university.",
+  "pinyin": "Tā shì guólì dàxué de yī míng jiàoshòu.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "国立",
+      "en": "national",
+      "pi": "guólì"
+    },
+    {
+      "ch": "大学",
+      "en": "university",
+      "pi": "dàxué"
+    },
+    {
+      "ch": "的",
+      "en": "at",
+      "pi": "de"
+    },
+    {
+      "ch": "一名",
+      "en": "a",
+      "pi": "yī míng"
+    },
+    {
+      "ch": "教授",
+      "en": "professor",
+      "pi": "jiàoshòu"
+    }
+  ]
+}

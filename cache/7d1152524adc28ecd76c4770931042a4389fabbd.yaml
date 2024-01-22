@@ -1,0 +1,19 @@
+{
+  "chinese": "现在是三时正，我一个小时后再来吧。",
+  "english": "It's three o'clock now, I'll come back in an hour.",
+  "pinyin": "xiàn zài shì sān shí zhèng, wǒ yī gè xiǎo shí hòu zài lái ba.",
+  "words": [
+    { "ch": "现在", "en": "now", "pi": "xiàn zài" },
+    { "ch": "是", "en": "is", "pi": "shì" },
+    { "ch": "三时", "en": "three o'clock", "pi": "sān shí" },
+    { "ch": "正", "en": "o'clock (exact)", "pi": "zhèng" },
+    { "ch": "，", "en": ",", "pi": null },
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "一个", "en": "one", "pi": "yī gè" },
+    { "ch": "小时", "en": "hour", "pi": "xiǎo shí" },
+    { "ch": "后", "en": "later", "pi": "hòu" },
+    { "ch": "再来", "en": "come back", "pi": "zài lái" },
+    { "ch": "吧", "en": "let me tell you", "pi": "ba" },
+    { "ch": "。", "en": ".", "pi": null }
+  ]
+}

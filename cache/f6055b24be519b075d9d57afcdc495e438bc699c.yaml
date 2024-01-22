@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆在电影院睡着了。",
+  "english": "Tom fell asleep in the cinema.",
+  "pinyin": "Tāng mǔ zài diàn yǐng yuàn shuì zháo le.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "电影院",
+      "en": "cinema",
+      "pi": "diàn yǐng yuàn"
+    },
+    {
+      "ch": "睡着",
+      "en": "fell asleep",
+      "pi": "shuì zháo"
+    },
+    {
+      "ch": "了",
+      "en": "in",
+      "pi": "le"
+    }
+  ]
+}

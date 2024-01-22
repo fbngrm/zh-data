@@ -1,0 +1,32 @@
+{
+  "chinese": "咖啡不能引起我的兴趣。",
+  "english": "Coffee cannot arouse my interest.",
+  "pinyin": "kāfēi bù néng yǐn qǐ wǒ de xìngqù。",
+  "words": [
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kāfēi"
+    },
+    {
+      "ch": "不能",
+      "en": "cannot",
+      "pi": "bù néng"
+    },
+    {
+      "ch": "引起",
+      "en": "arouse",
+      "pi": "yǐn qǐ"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "兴趣",
+      "en": "interest",
+      "pi": "xìngqù"
+    }
+  ]
+}

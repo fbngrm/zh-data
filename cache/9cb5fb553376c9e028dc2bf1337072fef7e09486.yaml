@@ -1,0 +1,37 @@
+{
+  "chinese": "请告诉我你的问题。",
+  "english": "Please tell me your question.",
+  "pinyin": "qǐng gàosu wǒ nǐ de wèntí.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "告诉",
+      "en": "tell",
+      "pi": "gàosu"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "你",
+      "en": "your",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "question",
+      "pi": "de"
+    },
+    {
+      "ch": "问题",
+      "en": "question",
+      "pi": "wèntí"
+    }
+  ]
+}

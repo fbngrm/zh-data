@@ -1,0 +1,15 @@
+{
+  "chinese": "昨天是星期五，后天是星期一。",
+  "english": "Yesterday was Friday, the day after tomorrow is Monday.",
+  "pinyin": "Zuótiān shì xīngqīwǔ, hòutiān shì xīngqīyī.",
+  "words": [
+    {"ch": "昨天", "en": "Yesterday", "pi": "zuótiān"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "星期五", "en": "Friday", "pi": "xīngqīwǔ"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "后天", "en": "day after tomorrow", "pi": "hòutiān"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "星期一", "en": "Monday", "pi": "xīngqīyī"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "sentences": [
+    {
+      "chinese": "哼，就算是这样，我的分数还是比你高得多呀！",
+      "english": "Hmph, even so, my score is still much higher than yours!",
+      "pinyin": "Hēng, jiùsuàn shì zhèyàng, wǒ de fēnshù háishì bǐ nǐ gāo dé duō ya!",
+      "words": [
+        {
+          "ch": "哼",
+          "en": "Hmph",
+          "pi": "hēng"
+        },
+        {
+          "ch": "就算是",
+          "en": "even so",
+          "pi": "jiùsuàn shì"
+        },
+        {
+          "ch": "这样",
+          "en": "like this",
+          "pi": "zhèyàng"
+        },
+        {
+          "ch": "我的",
+          "en": "my",
+          "pi": "wǒ de"
+        },
+        {
+          "ch": "分数",
+          "en": "score",
+          "pi": "fēnshù"
+        },
+        {
+          "ch": "还是",
+          "en": "still",
+          "pi": "háishì"
+        },
+        {
+          "ch": "比",
+          "en": "than",
+          "pi": "bǐ"
+        },
+        {
+          "ch": "你",
+          "en": "your",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "高得多",
+          "en": "much higher",
+          "pi": "gāo dé duō"
+        },
+        {
+          "ch": "呀",
+          "en": "!",
+          "pi": "ya"
+        }
+      ]
+    },
+    {
+      "chinese": "你说甚么？！如果我用尽全力，你还会是我的对手吗？",
+      "english": "What did you say?! If I give it my all, will you still be my opponent?",
+      "pinyin": "Nǐ shuō shénme?！Rúguǒ wǒ yòng jǐn quánlì，nǐ hái huì shì wǒ de duìshǒu ma?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "说",
+          "en": "say",
+          "pi": "shuō"
+        },
+        {
+          "ch": "甚么",
+          "en": "what",
+          "pi": "shénme"
+        },
+        {
+          "ch": "？！",
+          "en": "?!",
+          "pi": ""
+        },
+        {
+          "ch": "如果",
+          "en": "if",
+          "pi": "rúguǒ"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "用尽",
+          "en": "give it my all",
+          "pi": "yòng jǐn"
+        },
+        {
+          "ch": "全力",
+          "en": "full effort",
+          "pi": "quánlì"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "还会",
+          "en": "still be",
+          "pi": "hái huì"
+        },
+        {
+          "ch": "是",
+          "en": "will",
+          "pi": "shì"
+        },
+        {
+          "ch": "我的",
+          "en": "my",
+          "pi": "wǒ de"
+        },
+        {
+          "ch": "对手",
+          "en": "opponent",
+          "pi": "duìshǒu"
+        },
+        {
+          "ch": "吗",
+          "en": "?",
+          "pi": "ma"
+        }
+      ]
+    }
+  ]
+}

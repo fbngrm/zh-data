@@ -1,0 +1,37 @@
+{
+  "chinese": "我有一米九高。",
+  "english": "I am one meter and ninety centimeters tall.",
+  "pinyin": "wǒ yǒu yī mǐ jiǔ gāo.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一",
+      "en": "one",
+      "pi": "yī"
+    },
+    {
+      "ch": "米",
+      "en": "meter",
+      "pi": "mǐ"
+    },
+    {
+      "ch": "九",
+      "en": "nine",
+      "pi": "jiǔ"
+    },
+    {
+      "ch": "高",
+      "en": "tall",
+      "pi": "gāo"
+    }
+  ]
+}

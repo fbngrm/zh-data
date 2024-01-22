@@ -1,0 +1,32 @@
+{
+  "chinese": "哈利今年才四十岁。",
+  "english": "Harry is only forty this year.",
+  "pinyin": "Hā lì jīn nián cái sìshí suì。",
+  "words": [
+    {
+      "ch": "哈利",
+      "en": "Harry",
+      "pi": "Hā lì"
+    },
+    {
+      "ch": "今年",
+      "en": "this year",
+      "pi": "jīn nián"
+    },
+    {
+      "ch": "才",
+      "en": "only",
+      "pi": "cái"
+    },
+    {
+      "ch": "四十",
+      "en": "forty",
+      "pi": "sìshí"
+    },
+    {
+      "ch": "岁",
+      "en": "years old",
+      "pi": "suì"
+    }
+  ]
+}

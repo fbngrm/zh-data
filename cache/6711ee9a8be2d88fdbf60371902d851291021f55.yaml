@@ -1,0 +1,63 @@
+{
+  "sentences": [
+    {
+      "chinese": "天色開始暗了。",
+      "english": "The sky is starting to get dark.",
+      "pinyin": "Tiānsè kāishǐ àn le。",
+      "words": [
+        {
+          "ch": "天色",
+          "en": "sky",
+          "pi": "tiānsè"
+        },
+        {
+          "ch": "開始",
+          "en": "start",
+          "pi": "kāishǐ"
+        },
+        {
+          "ch": "暗了",
+          "en": "get dark",
+          "pi": "àn le"
+        }
+      ]
+    },
+    {
+      "chinese": "麻煩你幫我開燈。",
+      "english": "Could you please turn on the light for me?",
+      "pinyin": "Máfan nǐ bāng wǒ kāi dēng。",
+      "words": [
+        {
+          "ch": "麻煩",
+          "en": "trouble",
+          "pi": "máfan"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "幫",
+          "en": "help",
+          "pi": "bāng"
+        },
+        {
+          "ch": "我",
+          "en": "me",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "開",
+          "en": "turn on",
+          "pi": "kāi"
+        },
+        {
+          "ch": "燈",
+          "en": "light",
+          "pi": "dēng"
+        }
+      ]
+    }
+  ]
+}

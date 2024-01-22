@@ -1,0 +1,37 @@
+{
+  "chinese": "你有外套和帽子吗？",
+  "english": "Do you have a coat and a hat?",
+  "pinyin": "nǐ yǒu wàitào hé màozi ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "外套",
+      "en": "coat",
+      "pi": "wàitào"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "帽子",
+      "en": "hat",
+      "pi": "màozi"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

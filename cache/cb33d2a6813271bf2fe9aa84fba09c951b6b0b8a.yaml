@@ -1,0 +1,42 @@
+{
+  "chinese": "请你为我解释规则好吗?",
+  "english": "Can you explain the rules to me please?",
+  "pinyin": "qǐng nǐ wèi wǒ jiěshì guīzé hǎo ma?",
+  "words": [
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "为",
+      "en": "to",
+      "pi": "wèi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "解释",
+      "en": "explain",
+      "pi": "jiěshì"
+    },
+    {
+      "ch": "规则",
+      "en": "rules",
+      "pi": "guīzé"
+    },
+    {
+      "ch": "好吗",
+      "en": "please",
+      "pi": "hǎo ma"
+    }
+  ]
+}

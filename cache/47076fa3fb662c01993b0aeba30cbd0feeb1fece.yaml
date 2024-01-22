@@ -1,0 +1,27 @@
+{
+  "chinese": "波士顿有动物园吗？",
+  "english": "Is there a zoo in Boston?",
+  "pinyin": "bō shì dù yǒu dòng wù yuán ma?",
+  "words": [
+    {
+      "ch": "波士顿",
+      "en": "Boston",
+      "pi": "bō shì dùn"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "动物园",
+      "en": "zoo",
+      "pi": "dòng wù yuán"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

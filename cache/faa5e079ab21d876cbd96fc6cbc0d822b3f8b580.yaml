@@ -1,0 +1,52 @@
+{
+  "chinese": "火车晚点了，所以我不能准时赶到那里。",
+  "english": "The train is delayed, so I can't arrive on time.",
+  "pinyin": "Huǒchē wǎndiǎn le, suǒyǐ wǒ bùnéng zhǔnshí gǎndào nàlǐ.",
+  "words": [
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒchē"
+    },
+    {
+      "ch": "晚点",
+      "en": "delayed",
+      "pi": "wǎndiǎn"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "所以",
+      "en": "so",
+      "pi": "suǒyǐ"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不能",
+      "en": "can't",
+      "pi": "bùnéng"
+    },
+    {
+      "ch": "准时",
+      "en": "on time",
+      "pi": "zhǔnshí"
+    },
+    {
+      "ch": "赶到",
+      "en": "arrive",
+      "pi": "gǎndào"
+    },
+    {
+      "ch": "那里",
+      "en": "there",
+      "pi": "nàlǐ"
+    }
+  ]
+}

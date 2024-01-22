@@ -1,0 +1,18 @@
+{
+  "chinese": "为了把小偷抓住，警察逐家逐户地搜查了。",
+  "english": "In order to catch the thief, the police searched every house one by one.",
+  "pinyin": "wèi le bǎ xiǎo tōu zhuā zhù, jǐng chá zhú jiā zhú hù de sōu chá le.",
+  "words": [
+    {"ch": "为了", "en": "In order to", "pi": "wèi le"},
+    {"ch": "把", "en": "catch", "pi": "bǎ"},
+    {"ch": "小偷", "en": "thief", "pi": "xiǎo tōu"},
+    {"ch": "抓住", "en": "to catch", "pi": "zhuā zhù"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "警察", "en": "police", "pi": "jǐng chá"},
+    {"ch": "逐家", "en": "every house", "pi": "zhú jiā"},
+    {"ch": "逐户地", "en": "one by one", "pi": "zhú hù de"},
+    {"ch": "搜查", "en": "searched", "pi": "sōu chá"},
+    {"ch": "了", "en": "", "pi": "le"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}

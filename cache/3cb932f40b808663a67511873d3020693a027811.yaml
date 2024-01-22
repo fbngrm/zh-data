@@ -1,0 +1,20 @@
+{
+  "chinese": "本以为他不会及格，但最终还是及格了。",
+  "english": "I thought he wouldn't pass, but in the end he did pass.",
+  "pinyin": "běn yǐwéi tā bú huì jígé, dàn zuìzhōng háishì jígéle.",
+  "words": [
+    {"ch": "本", "en": "I", "pi": "běn"},
+    {"ch": "以为", "en": "thought", "pi": "yǐwéi"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "不", "en": "not", "pi": "bú"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "及格", "en": "pass", "pi": "jígé"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "但", "en": "but", "pi": "dàn"},
+    {"ch": "最终", "en": "in the end", "pi": "zuìzhōng"},
+    {"ch": "还是", "en": "still", "pi": "háishì"},
+    {"ch": "及格", "en": "pass", "pi": "jígé"},
+    {"ch": "了", "en": "did", "pi": "le"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}

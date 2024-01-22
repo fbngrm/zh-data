@@ -1,0 +1,32 @@
+{
+  "chinese": "她拿了她的书。",
+  "english": "She took her book.",
+  "pinyin": "Tā ná le tā de shū.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "拿",
+      "en": "took",
+      "pi": "ná"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "她的",
+      "en": "her",
+      "pi": "tā de"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    }
+  ]
+}

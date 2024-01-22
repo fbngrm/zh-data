@@ -1,0 +1,42 @@
+{
+  "chinese": "喂？你还在吗？",
+  "english": "Hello? Are you still there?",
+  "pinyin": "wèi？nǐ hái zài ma？",
+  "words": [
+    {
+      "ch": "喂",
+      "en": "Hello",
+      "pi": "wèi"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": ""
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "还",
+      "en": "still",
+      "pi": "hái"
+    },
+    {
+      "ch": "在",
+      "en": "there",
+      "pi": "zài"
+    },
+    {
+      "ch": "吗",
+      "en": "",
+      "pi": "ma"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": ""
+    }
+  ]
+}

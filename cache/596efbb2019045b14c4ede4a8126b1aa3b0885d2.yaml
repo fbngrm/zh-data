@@ -1,0 +1,19 @@
+{
+  "chinese": "请你帮我在这张纸上画个草图。",
+  "english": "Please help me draw a sketch on this piece of paper.",
+  "pinyin": "qǐng nǐ bāng wǒ zài zhè zhāng zhǐ shàng huà gè cǎo tú。",
+  "words": [
+    {"ch": "请", "en": "Please", "pi": "qǐng"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "帮", "en": "help", "pi": "bāng"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "在", "en": "on", "pi": "zài"},
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "张", "en": "piece", "pi": "zhāng"},
+    {"ch": "纸", "en": "paper", "pi": "zhǐ"},
+    {"ch": "上", "en": "on", "pi": "shàng"},
+    {"ch": "画", "en": "draw", "pi": "huà"},
+    {"ch": "个", "en": "a", "pi": "gè"},
+    {"ch": "草图", "en": "sketch", "pi": "cǎo tú"}
+  ]
+}

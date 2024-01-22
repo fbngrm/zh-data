@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆亲了玛丽脸颊。",
+  "english": "Tom kissed Mary's cheek.",
+  "pinyin": "Tāng mǔ qīnle Mǎ lì liǎnjiá.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "亲了",
+      "en": "kissed",
+      "pi": "qīnle"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎ lì"
+    },
+    {
+      "ch": "脸颊",
+      "en": "cheek",
+      "pi": "liǎnjiá"
+    }
+  ]
+}

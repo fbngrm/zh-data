@@ -1,0 +1,13 @@
+{
+  "chinese": "汤姆可能知道我是谁。",
+  "english": "Tom may know who I am.",
+  "pinyin": "Tāng mǔ kě néng zhī dào wǒ shì shuí.",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ"},
+    {"ch": "可能", "en": "may", "pi": "kě néng"},
+    {"ch": "知道", "en": "know", "pi": "zhī dào"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "是", "en": "am", "pi": "shì"},
+    {"ch": "谁", "en": "who", "pi": "shuí"}
+  ]
+}

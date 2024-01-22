@@ -1,0 +1,32 @@
+{
+  "chinese": "你们需要重新启动电脑。",
+  "english": "You need to restart the computer.",
+  "pinyin": "Nǐmen xūyào chóngxīn qǐdòng diànnǎo.",
+  "words": [
+    {
+      "ch": "你们",
+      "en": "You",
+      "pi": "Nǐmen"
+    },
+    {
+      "ch": "需要",
+      "en": "need",
+      "pi": "xūyào"
+    },
+    {
+      "ch": "重新",
+      "en": "to restart",
+      "pi": "chóngxīn"
+    },
+    {
+      "ch": "启动",
+      "en": "to start up",
+      "pi": "qǐdòng"
+    },
+    {
+      "ch": "电脑",
+      "en": "computer",
+      "pi": "diànnǎo"
+    }
+  ]
+}

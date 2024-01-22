@@ -1,0 +1,13 @@
+{
+  "chinese": "她会唱歌而且舞跳得很美。",
+  "english": "She can sing and dance beautifully.",
+  "pinyin": "tā huì chàng gē ér qiě wǔ tiào dé hěn měi.",
+  "words": [
+    {"ch": "她", "en": "She", "pi": "tā"},
+    {"ch": "会", "en": "can", "pi": "huì"},
+    {"ch": "唱歌", "en": "sing", "pi": "chàng gē"},
+    {"ch": "而且", "en": "and", "pi": "ér qiě"},
+    {"ch": "舞跳", "en": "dance", "pi": "wǔ tiào"},
+    {"ch": "得很美", "en": "beautifully", "pi": "dé hěn měi"}
+  ]
+}

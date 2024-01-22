@@ -1,0 +1,37 @@
+{
+  "chinese": "一个是日本人，另一个是意大利人。",
+  "english": "One is Japanese, the other is Italian.",
+  "pinyin": "Yī gè shì Rìběn rén, lìng yī gè shì Yìdàlì rén。",
+  "words": [
+    {
+      "ch": "一个",
+      "en": "one",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "日本人",
+      "en": "Japanese",
+      "pi": "Rìběn rén"
+    },
+    {
+      "ch": "另一个",
+      "en": "another",
+      "pi": "lìng yī gè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "意大利人",
+      "en": "Italian",
+      "pi": "Yìdàlì rén"
+    }
+  ]
+}

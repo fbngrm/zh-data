@@ -1,0 +1,32 @@
+{
+  "chinese": "一瓶啤酒多少钱？",
+  "english": "How much is a bottle of beer?",
+  "pinyin": "yī píng pí jiǔ duō shǎo qián?",
+  "words": [
+    {
+      "ch": "一",
+      "en": "one",
+      "pi": "yī"
+    },
+    {
+      "ch": "瓶",
+      "en": "bottle",
+      "pi": "píng"
+    },
+    {
+      "ch": "啤酒",
+      "en": "beer",
+      "pi": "pí jiǔ"
+    },
+    {
+      "ch": "多少",
+      "en": "how much",
+      "pi": "duō shǎo"
+    },
+    {
+      "ch": "钱",
+      "en": "money",
+      "pi": "qián"
+    }
+  ]
+}

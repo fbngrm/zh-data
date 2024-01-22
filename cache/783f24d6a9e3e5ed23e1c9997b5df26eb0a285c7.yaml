@@ -1,0 +1,13 @@
+{
+  "chinese": "每个学生都被问了一个问题。",
+  "english": "Every student was asked a question.",
+  "pinyin": "měi gè xué shēng dōu bèi wèn le yī gè wèn tí。",
+  "words": [
+    { "ch": "每个", "en": "Every", "pi": "měi gè" },
+    { "ch": "学生", "en": "student", "pi": "xué shēng" },
+    { "ch": "都", "en": "was", "pi": "dōu" },
+    { "ch": "被问了", "en": "asked", "pi": "bèi wèn le" },
+    { "ch": "一个", "en": "a", "pi": "yī gè" },
+    { "ch": "问题", "en": "question", "pi": "wèn tí" }
+  ]
+}

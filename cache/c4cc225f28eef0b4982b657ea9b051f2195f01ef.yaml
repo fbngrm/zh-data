@@ -1,0 +1,37 @@
+{
+   "chinese": "请用铅笔写下你的名字。",
+   "english": "Please write your name with a pencil.",
+   "pinyin": "qǐng yòng qiān bǐ xiě xià nǐ de míng zì。",
+   "words": [
+      {
+         "ch": "请",
+         "en": "Please",
+         "pi": "qǐng"
+      },
+      {
+         "ch": "用",
+         "en": "use",
+         "pi": "yòng"
+      },
+      {
+         "ch": "铅笔",
+         "en": "pencil",
+         "pi": "qiān bǐ"
+      },
+      {
+         "ch": "写下",
+         "en":"write down",
+         "pi": "xiě xià"
+      },
+      {
+         "ch": "你的",
+         "en":"your",
+         "pi": "nǐ de"
+      },
+      {
+         "ch": "名字",
+         "en":"name",
+         "pi": "míng zì"
+      }
+   ]
+}

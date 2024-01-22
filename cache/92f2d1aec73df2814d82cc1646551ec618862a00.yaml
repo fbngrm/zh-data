@@ -1,0 +1,32 @@
+{
+  "chinese": "Ken的狗很大。",
+  "english": "Ken's dog is very big.",
+  "pinyin": "Ken de gǒu hěn dà.",
+  "words": [
+    {
+      "ch": "Ken",
+      "en": "Ken",
+      "pi": "Ken"
+    },
+    {
+      "ch": "的",
+      "en": "'s",
+      "pi": "de"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "大",
+      "en": "big",
+      "pi": "dà"
+    }
+  ]
+}

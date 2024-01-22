@@ -1,0 +1,58 @@
+{
+  "sentences": [
+    {
+      "chinese": "他不是我的兄弟。",
+      "english": "He is not my brother.",
+      "pinyin": "tā bù shì wǒ de xiōng dì。",
+      "words": [
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "不是",
+          "en": "is not",
+          "pi": "bù shì"
+        },
+        {
+          "ch": "我的",
+          "en": "my",
+          "pi": "wǒ de"
+        },
+        {
+          "ch": "兄弟",
+          "en": "brother",
+          "pi": "xiōng dì"
+        }
+      ]
+    },
+    {
+      "chinese": "他是我的表弟。",
+      "english": "He is my cousin younger than me.",
+      "pinyin": "tā shì wǒ de biǎo dì。",
+      "words": [
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "我的",
+          "en": "my",
+          "pi": "wǒ de"
+        },
+        {
+          "ch": "表弟",
+          "en": "cousin younger than me",
+          "pi": "biǎo dì"
+        }
+      ]
+    }
+  ]
+}

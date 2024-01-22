@@ -1,0 +1,37 @@
+{
+  "chinese": "早餐时间在七点到九点。",
+  "english": "Breakfast time is from 7 to 9.",
+  "pinyin": "Zǎocān shíjiān zài qī diǎn dào jiǔ diǎn.",
+  "words": [
+    {
+      "ch": "早餐",
+      "en": "Breakfast",
+      "pi": "Zǎocān"
+    },
+    {
+      "ch": "时间",
+      "en": "time",
+      "pi": "shíjiān"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "七点",
+      "en": "7",
+      "pi": "qī diǎn"
+    },
+    {
+      "ch": "到",
+      "en": "to",
+      "pi": "dào"
+    },
+    {
+      "ch": "九点",
+      "en": "9",
+      "pi": "jiǔ diǎn"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "这是份好报纸，不是吗？",
+  "english": "Is this a good newspaper?",
+  "pinyin": "zhè shì fèn hǎo bàozhǐ, bùshì ma?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "份",
+      "en": "a measure word for newspapers",
+      "pi": "fèn"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "报纸",
+      "en": "newspaper",
+      "pi": "bàozhǐ"
+    },
+    {
+      "ch": "不是",
+      "en": "isn't it",
+      "pi": "bùshì"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "chinese": "他會成功嗎?",
+      "english": "Will he succeed?",
+      "pinyin": "tā huì chénggōng ma?",
+      "words": [
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "會",
+          "en": "will",
+          "pi": "huì"
+        },
+        {
+          "ch": "成功",
+          "en": "succeed",
+          "pi": "chénggōng"
+        },
+        {
+          "ch": "嗎",
+          "en": "?",
+          "pi": "ma"
+        }
+      ]
+    },
+    {
+      "chinese": "恐怕不會。",
+      "english": "I'm afraid not.",
+      "pinyin": "kǒngpà bù huì.",
+      "words": [
+        {
+          "ch": "恐怕",
+          "en": "I'm afraid",
+          "pi": "kǒngpà"
+        },
+        {
+          "ch": "不",
+          "en": "not",
+          "pi": "bù"
+        },
+        {
+          "ch": "會",
+          "en": "will",
+          "pi": "huì"
+        }
+      ]
+    }
+  ]
+}

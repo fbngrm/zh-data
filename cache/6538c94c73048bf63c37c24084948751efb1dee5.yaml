@@ -1,0 +1,42 @@
+{
+  "chinese": "请帮我做我的家庭作业。",
+  "english": "Please help me with my homework.",
+  "pinyin": "Qǐng bāng wǒ zuò wǒ de jiātíng zuòyè.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "帮",
+      "en": "help",
+      "pi": "bāng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "做",
+      "en": "do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "家庭",
+      "en": "home",
+      "pi": "jiātíng"
+    },
+    {
+      "ch": "作业",
+      "en": "homework",
+      "pi": "zuòyè"
+    }
+  ]
+}

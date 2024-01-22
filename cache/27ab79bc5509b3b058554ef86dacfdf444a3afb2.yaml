@@ -1,0 +1,32 @@
+{
+  "chinese": "你该早一点起床。",
+  "english": "You should wake up earlier.",
+  "pinyin": "nǐ gāi zǎo yīdiǎn qǐchuáng.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "该",
+      "en": "should",
+      "pi": "gāi"
+    },
+    {
+      "ch": "早",
+      "en": "early",
+      "pi": "zǎo"
+    },
+    {
+      "ch": "一点",
+      "en": "a bit",
+      "pi": "yīdiǎn"
+    },
+    {
+      "ch": "起床",
+      "en": "wake up",
+      "pi": "qǐchuáng"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chinese": "我向他的妹妹借了这个漫画。",
+  "english": "I borrowed this comic from his sister.",
+  "pinyin": "wǒ xiàng tā de mèi mèi jiè le zhè gè màn huà.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "向", "en": "to", "pi": "xiàng"},
+    {"ch": "他的", "en": "his", "pi": "tā de"},
+    {"ch": "妹妹", "en": "sister", "pi": "mèi mèi"},
+    {"ch": "借", "en": "borrow", "pi": "jiè"},
+    {"ch": "了", "en": "to", "pi": "le"},
+    {"ch": "这个", "en": "this", "pi": "zhè gè"},
+    {"ch": "漫画", "en": "comic", "pi": "màn huà"}
+  ]
+}

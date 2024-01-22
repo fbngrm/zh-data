@@ -1,0 +1,42 @@
+{
+  "chinese": "我的预感被证明是正确的。",
+  "english": "My intuition has been proven correct.",
+  "pinyin": "Wǒ de yùgǎn bèi zhèngmíng shì zhèngquè de。",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "预感",
+      "en": "intuition",
+      "pi": "yùgǎn"
+    },
+    {
+      "ch": "被",
+      "en": "been",
+      "pi": "bèi"
+    },
+    {
+      "ch": "证明",
+      "en": "proven",
+      "pi": "zhèngmíng"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "正确",
+      "en": "correct",
+      "pi": "zhèngquè"
+    },
+    {
+      "ch": "的",
+      "en": "particle indicating possession",
+      "pi": "de"
+    }
+  ]
+}

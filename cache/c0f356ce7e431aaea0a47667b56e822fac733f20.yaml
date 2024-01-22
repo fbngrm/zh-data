@@ -1,0 +1,26 @@
+{
+    "chinese": "我不喜欢那些数学家知道的比我多得多，却不知道清楚地表达自己。",
+    "english": "I don't like those mathematicians who know much more than me but can't express themselves clearly.",
+    "pinyin": "wǒ bù xǐhuān nàxiē shùxuéjiā zhīdào de bǐ wǒ duō de duō, què bù zhīdào qīngchǔ de biǎodá zìjǐ。",
+    "words": [
+        {"ch":"我", "en":"I", "pi":"wǒ"},
+        {"ch":"不", "en":"don't", "pi":"bù"},
+        {"ch":"喜欢", "en":"like", "pi":"xǐhuān"},
+        {"ch":"那些", "en":"those", "pi":"nàxiē"},
+        {"ch":"数学家", "en":"mathematicians", "pi":"shùxuéjiā"},
+        {"ch":"知道", "en":"know", "pi":"zhīdào"},
+        {"ch":"的", "en":"- 's", "pi":"de"},
+        {"ch":"比", "en":"than", "pi":"bǐ"},
+        {"ch":"我", "en":"me", "pi":"wǒ"},
+        {"ch":"多", "en":"more", "pi":"duō"},
+        {"ch":"得多", "en":"much more", "pi":"de duō"},
+        {"ch":"，", "en":"but", "pi":"què"},
+        {"ch":"却", "en":"can't", "pi":"què"},
+        {"ch":"不", "en":"not", "pi":"bù"},
+        {"ch":"知道", "en":"know", "pi":"zhīdào"},
+        {"ch":"清楚地", "en":"clearly", "pi":"qīngchǔ de"},
+        {"ch":"表达", "en":"express", "pi":"biǎodá"},
+        {"ch":"自己", "en":"themselves", "pi":"zìjǐ"},
+        {"ch":"。", "en":".", "pi":""}
+    ]
+}

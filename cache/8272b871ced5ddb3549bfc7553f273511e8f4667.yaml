@@ -1,0 +1,42 @@
+{
+  "chinese": "我有一辆红色的自行车。",
+  "english": "I have a red bicycle.",
+  "pinyin": "wǒ yǒu yī liàng hóng sè de zì xíng chē。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一",
+      "en": "a",
+      "pi": "yī"
+    },
+    {
+      "ch": "辆",
+      "en": "vehicle",
+      "pi": "liàng"
+    },
+    {
+      "ch": "红色",
+      "en": "red",
+      "pi": "hóng sè"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "自行车",
+      "en": "bicycle",
+      "pi": "zì xíng chē"
+    }
+  ]
+}

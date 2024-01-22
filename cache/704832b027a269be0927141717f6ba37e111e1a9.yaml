@@ -1,0 +1,42 @@
+{
+  "chinese": "雨从早上一直下到现在。",
+  "english": "The rain has been falling since this morning.",
+  "pinyin": "yǔ cóng zǎoshang yīzhí xià dào xiànzài。",
+  "words": [
+    {
+      "ch": "雨",
+      "en": "rain",
+      "pi": "yǔ"
+    },
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎoshang"
+    },
+    {
+      "ch": "一直",
+      "en": "continuously",
+      "pi": "yīzhí"
+    },
+    {
+      "ch": "下",
+      "en": "fall",
+      "pi": "xià"
+    },
+    {
+      "ch": "到",
+      "en": "until",
+      "pi": "dào"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiànzài"
+    }
+  ]
+}

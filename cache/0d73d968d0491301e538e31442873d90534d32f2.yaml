@@ -1,0 +1,32 @@
+{
+  "chinese": "男孩在玩玩具兵。",
+  "english": "The boy is playing with toy soldiers.",
+  "pinyin": "nán hái zài wán wán jù bīng。",
+  "words": [
+    {
+      "ch": "男孩",
+      "en": "boy",
+      "pi": "nán hái"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "玩",
+      "en": "playing",
+      "pi": "wán"
+    },
+    {
+      "ch": "玩具",
+      "en": "toy",
+      "pi": "wán jù"
+    },
+    {
+      "ch": "兵",
+      "en": "soldiers",
+      "pi": "bīng"
+    }
+  ]
+}

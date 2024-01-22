@@ -1,0 +1,14 @@
+{
+  "chinese": "我们在公园里跑了步。",
+  "english": "We ran in the park.",
+  "pinyin": "wǒmen zài gōngyuán lǐ pǎo le bù.",
+  "words": [
+    {"ch": "我们", "en": "we", "pi": "wǒmen"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "公园", "en": "park", "pi": "gōngyuán"},
+    {"ch": "里", "en": "inside", "pi": "lǐ"},
+    {"ch": "跑", "en": "run", "pi": "pǎo"},
+    {"ch": "了", "en": "", "pi": "le"},
+    {"ch": "步", "en": "steps", "pi": "bù"}
+  ]
+}

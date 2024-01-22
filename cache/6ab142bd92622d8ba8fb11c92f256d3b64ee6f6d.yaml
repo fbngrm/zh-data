@@ -1,0 +1,42 @@
+{
+  "chinese": "雨是自云落下的水。",
+  "english": "Rain is water falling from clouds.",
+  "pinyin": "yǔ shì zì yún luò xià de shuǐ.",
+  "words": [
+    {
+      "ch": "雨",
+      "en": "rain",
+      "pi": "yǔ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "自",
+      "en": "self",
+      "pi": "zì"
+    },
+    {
+      "ch": "云",
+      "en": "cloud",
+      "pi": "yún"
+    },
+    {
+      "ch": "落下",
+      "en": "fall",
+      "pi": "luò xià"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "水",
+      "en": "water",
+      "pi": "shuǐ"
+    }
+  ]
+}

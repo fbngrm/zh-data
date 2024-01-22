@@ -1,0 +1,42 @@
+{
+  "chinese": "玛丽喝咖啡不喜欢放糖。",
+  "english": "Mary drinks coffee without sugar.",
+  "pinyin": "Mǎ lì hē kā fēi bù xǐ huān fàng táng。",
+  "words": [
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎ lì"
+    },
+    {
+      "ch": "喝",
+      "en": "drinks",
+      "pi": "hē"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kā fēi"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "喜欢",
+      "en": "likes",
+      "pi": "xǐ huān"
+    },
+    {
+      "ch": "放",
+      "en": "put",
+      "pi": "fàng"
+    },
+    {
+      "ch": "糖",
+      "en": "sugar",
+      "pi": "táng"
+    }
+  ]
+}

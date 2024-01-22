@@ -1,0 +1,15 @@
+{
+  "chinese": "我在三个月后收到了一封信。",
+  "english": "I received a letter three months later.",
+  "pinyin": "wǒ zài sān gè yuè hòu shōu dào le yī fēng xìn。",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "在", "en": "at/in", "pi": "zài" },
+    { "ch": "三个", "en": "three", "pi": "sān gè" },
+    { "ch": "月后", "en": "months later", "pi": "yuè hòu" },
+    { "ch": "收到", "en": "receive", "pi": "shōu dào" },
+    { "ch": "了", "en": "a particle indicating completed action", "pi": "le" },
+    { "ch": "一封", "en": "a letter", "pi": "yī fēng" },
+    { "ch": "信", "en": "letter", "pi": "xìn" }
+  ]
+}

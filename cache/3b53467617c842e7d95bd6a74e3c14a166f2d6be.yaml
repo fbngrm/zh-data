@@ -1,0 +1,19 @@
+{
+  "chinese": "我对她做了一个手势，叫她坐下。",
+  "english": "I made a gesture to her, asking her to sit down.",
+  "pinyin": "Wǒ duì tā zuòle yīgè shǒushì, jiào tā zuòxià.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "对", "en": "to", "pi": "duì"},
+    {"ch": "她", "en": "her", "pi": "tā"},
+    {"ch": "做", "en": "made/do", "pi": "zuò"},
+    {"ch": "了", "en": "a", "pi": "le"},
+    {"ch": "一个", "en": "gesture", "pi": "yīgè"},
+    {"ch": "手势", "en": "to", "pi": "shǒushì"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "叫", "en": "asking", "pi": "jiào"},
+    {"ch": "她", "en": "her", "pi": "tā"},
+    {"ch": "坐下", "en": "to sit down", "pi": "zuòxià"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

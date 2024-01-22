@@ -1,0 +1,32 @@
+{
+  "chinese": "你有英語詞典嗎？",
+  "english": "Do you have an English dictionary?",
+  "pinyin": "Nǐ yǒu yīngyǔ cídiǎn ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "英語",
+      "en": "English",
+      "pi": "yīngyǔ"
+    },
+    {
+      "ch": "詞典",
+      "en": "dictionary",
+      "pi": "cídiǎn"
+    },
+    {
+      "ch": "嗎",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

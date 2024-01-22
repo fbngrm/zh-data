@@ -1,0 +1,32 @@
+{
+  "chinese": "你喜欢哪一种法国红酒？",
+  "english": "Which type of French red wine do you like?",
+  "pinyin": "nǐ xǐhuān nǎ yī zhǒng fǎguó hóngjiǔ?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "哪一种",
+      "en": "which type",
+      "pi": "nǎ yī zhǒng"
+    },
+    {
+      "ch": "法国",
+      "en": "France",
+      "pi": "fǎguó"
+    },
+    {
+      "ch": "红酒",
+      "en": "red wine",
+      "pi": "hóngjiǔ"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我昨晚很累了。",
+  "english": "I was very tired last night.",
+  "pinyin": "wǒ zuówǎn hěn lèi le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "昨晚",
+      "en": "last night",
+      "pi": "zuówǎn"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "累",
+      "en": "tired",
+      "pi": "lèi"
+    },
+    {
+      "ch": "了",
+      "en": "indicating past tense",
+      "pi": "le"
+    }
+  ]
+}

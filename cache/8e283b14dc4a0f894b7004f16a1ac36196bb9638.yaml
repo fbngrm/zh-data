@@ -1,0 +1,48 @@
+{
+  "sentences": [
+    {
+      "chinese": "你几岁？",
+      "english": "How old are you?",
+      "pinyin": "nǐ jǐ suì?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "几",
+          "en": "how many",
+          "pi": "jǐ"
+        },
+        {
+          "ch": "岁",
+          "en": "years old",
+          "pi": "suì"
+        }
+      ]
+    },
+    {
+      "chinese": "我十六岁。",
+      "english": "I'm sixteen years old.",
+      "pinyin": "wǒ shíliù suì.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "十六",
+          "en": "sixteen",
+          "pi": "shíliù"
+        },
+        {
+          "ch": "岁",
+          "en": "years old",
+          "pi": "suì"
+        }
+      ]
+    }
+  ]
+}

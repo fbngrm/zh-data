@@ -1,0 +1,32 @@
+{
+  "chinese": "我妈妈现在在医院。",
+  "english": "My mother is in the hospital now.",
+  "pinyin": "wǒ mā mā xiàn zài zài yī yuàn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "妈妈",
+      "en": "mother",
+      "pi": "mā mā"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "在",
+      "en": "is in",
+      "pi": "zài"
+    },
+    {
+      "ch": "医院",
+      "en": "hospital",
+      "pi": "yī yuàn"
+    }
+  ]
+}

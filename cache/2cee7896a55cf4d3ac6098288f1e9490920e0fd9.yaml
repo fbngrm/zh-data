@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆试着杀死玛丽。",
+  "english": "Tom tried to kill Mary.",
+  "pinyin": "tāng mǔ shì zhe shā sǐ mǎ lì。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "试着",
+      "en": "tried to",
+      "pi": "shì zhe"
+    },
+    {
+      "ch": "杀死",
+      "en": "kill",
+      "pi": "shā sǐ"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    }
+  ]
+}

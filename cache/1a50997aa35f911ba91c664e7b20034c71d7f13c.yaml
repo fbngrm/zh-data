@@ -1,0 +1,16 @@
+{
+  "chinese": "这个国家的经济环境变得更糟糕了。",
+  "english": "The economic environment of this country has worsened.",
+  "pinyin": "zhè gè guó jiā de jīng jì huán jìng biàn de gèng zāo gāo le。",
+  "words": [
+    {"ch": "这个", "en": "this", "pi": "zhè gè"},
+    {"ch": "国家", "en": "country", "pi": "guó jiā"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "经济", "en": "economic", "pi": "jīng jì"},
+    {"ch": "环境", "en": "environment", "pi": "huán jìng"},
+    {"ch": "变得", "en": "has become", "pi": "biàn de"},
+    {"ch": "更", "en": "more", "pi": "gèng"},
+    {"ch": "糟糕", "en": "worsened", "pi": "zāo gāo"},
+    {"ch": "了", "en": "already", "pi": "le"}
+  ]
+}

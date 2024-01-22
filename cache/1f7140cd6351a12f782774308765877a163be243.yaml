@@ -1,0 +1,14 @@
+{
+  "chinese": "我们工作完后就回家了。",
+  "english": "After we finish work, we go home.",
+  "pinyin": "wǒmen gōngzuò wán hòu jiù huí jiā le.",
+  "words": [
+    {"ch": "我们", "en": "we", "pi": "wǒmen"},
+    {"ch": "工作", "en": "work", "pi": "gōngzuò"},
+    {"ch": "完", "en": "finish", "pi": "wán"},
+    {"ch": "后", "en": "after", "pi": "hòu"},
+    {"ch": "就", "en": "then", "pi": "jiù"},
+    {"ch": "回家", "en": "go home", "pi": "huí jiā"},
+    {"ch": "了", "en": "end", "pi": "le"}
+  ]
+}

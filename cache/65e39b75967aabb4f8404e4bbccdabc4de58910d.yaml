@@ -1,0 +1,32 @@
+{
+  "chinese": "我在东京出生长大。",
+  "english": "I was born and raised in Tokyo.",
+  "pinyin": "wǒ zài dōng jīng chū shēng zhǎng dà.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "东京",
+      "en": "Tokyo",
+      "pi": "dōng jīng"
+    },
+    {
+      "ch": "出生",
+      "en": "born",
+      "pi": "chū shēng"
+    },
+    {
+      "ch": "长大",
+      "en": "raised",
+      "pi": "zhǎng dà"
+    }
+  ]
+}

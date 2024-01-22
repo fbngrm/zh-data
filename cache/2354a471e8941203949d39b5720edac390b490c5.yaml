@@ -1,0 +1,47 @@
+{
+  "chinese": "所有持有學生證的學生均可進入圖書館。",
+  "english": "All students with a student ID can enter the library.",
+  "pinyin": "Suǒyǒu chíyǒu xuéshēngzhèng de xuéshēng jūn kě jìnrù túshū guǎn。",
+  "words": [
+    {
+      "ch": "所有",
+      "en": "All",
+      "pi": "suǒyǒu"
+    },
+    {
+      "ch": "持有",
+      "en": "hold",
+      "pi": "chíyǒu"
+    },
+    {
+      "ch": "學生證",
+      "en": "student ID",
+      "pi": "xuéshēngzhèng"
+    },
+    {
+      "ch": "的",
+      "en": "with",
+      "pi": "de"
+    },
+    {
+      "ch": "學生",
+      "en": "student",
+      "pi": "xuéshēng"
+    },
+    {
+      "ch": "均可",
+      "en": "can",
+      "pi": "jūn kě"
+    },
+    {
+      "ch": "進入",
+      "en": "enter",
+      "pi": "jìnrù"
+    },
+    {
+      "ch": "圖書館",
+      "en": "library",
+      "pi": "túshū guǎn"
+    }
+  ]
+}

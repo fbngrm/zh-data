@@ -1,0 +1,32 @@
+{
+  "chinese": "这鸡肉是粉红色的。",
+  "english": "This chicken is pink.",
+  "pinyin": "zhè jīròu shì fěnhóngsè de.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "鸡肉",
+      "en": "chicken",
+      "pi": "jīròu"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "粉红色",
+      "en": "pink",
+      "pi": "fěnhóngsè"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    }
+  ]
+}

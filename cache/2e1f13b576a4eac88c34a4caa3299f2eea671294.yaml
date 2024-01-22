@@ -1,0 +1,18 @@
+{
+  "chinese": "水和冰虽然形态不同，但其实是同一种物质。",
+  "english": "Although water and ice have different forms, they are actually the same substance.",
+  "pinyin": "shuǐ hé bīng suīrán xíngtài bùtóng, dàn qíshí shì tóng yī zhǒng wùzhì。",
+  "words": [
+    {"ch": "水", "en": "water", "pi": "shuǐ"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "冰", "en": "ice", "pi": "bīng"},
+    {"ch": "虽然", "en": "although", "pi": "suīrán"},
+    {"ch": "形态", "en": "form", "pi": "xíngtài"},
+    {"ch": "不同", "en": "different", "pi": "bùtóng"},
+    {"ch": "但", "en": "but", "pi": "dàn"},
+    {"ch": "其实", "en": "actually", "pi": "qíshí"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "同一种", "en": "the same", "pi": "tóng yī zhǒng"},
+    {"ch": "物质", "en": "substance", "pi": "wùzhì"}
+  ]
+}

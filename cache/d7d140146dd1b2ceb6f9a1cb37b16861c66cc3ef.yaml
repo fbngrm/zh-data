@@ -1,0 +1,27 @@
+{
+  "chinese": "我不喜欢玉米。",
+  "english": "I don't like corn.",
+  "pinyin": "wǒ bù xǐ huān yù mǐ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "do not",
+      "pi": "bù"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐ huān"
+    },
+    {
+      "ch": "玉米",
+      "en": "corn",
+      "pi": "yù mǐ"
+    }
+  ]
+}

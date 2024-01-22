@@ -1,0 +1,32 @@
+{
+  "chinese": "我的公寓在这附近。",
+  "english": "My apartment is nearby.",
+  "pinyin": "wǒ de gōngyù zài zhè fùjìn。",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "公寓",
+      "en": "apartment",
+      "pi": "gōngyù"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "这",
+      "en": "nearby",
+      "pi": "zhè"
+    },
+    {
+      "ch": "附近",
+      "en": ".",
+      "pi": "fùjìn"
+    }
+  ]
+}

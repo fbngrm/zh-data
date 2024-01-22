@@ -1,0 +1,32 @@
+{
+  "chinese": "她昨天生了一个女儿。",
+  "english": "She gave birth to a daughter yesterday.",
+  "pinyin": "tā zuótiān shēng le yīgè nǚér.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "生了",
+      "en": "gave birth to",
+      "pi": "shēng le"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yīgè"
+    },
+    {
+      "ch": "女儿",
+      "en": "daughter",
+      "pi": "nǚér"
+    }
+  ]
+}

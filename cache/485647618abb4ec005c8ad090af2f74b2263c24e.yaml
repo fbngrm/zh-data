@@ -1,0 +1,37 @@
+{
+  "chinese": "你在读哪本书？",
+  "english": "Which book are you reading?",
+  "pinyin": "Nǐ zài dú nǎ běn shū?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "读",
+      "en": "reading",
+      "pi": "dú"
+    },
+    {
+      "ch": "哪",
+      "en": "which",
+      "pi": "nǎ"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "书",
+      "en": "are",
+      "pi": "shū"
+    }
+  ]
+}

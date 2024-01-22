@@ -1,0 +1,73 @@
+{
+  "sentences": [
+    {
+      "chinese": "行动比语言更有说服力。",
+      "english": "Actions speak louder than words.",
+      "pinyin": "xíng dòng bǐ yǔ yán gèng yǒu shuō fú lì。",
+      "words": [
+        {
+          "ch": "行动",
+          "en": "Actions",
+          "pi": "xíng dòng"
+        },
+        {
+          "ch": "比",
+          "en": "than",
+          "pi": "bǐ"
+        },
+        {
+          "ch": "语言",
+          "en": "words",
+          "pi": "yǔ yán"
+        },
+        {
+          "ch": "更",
+          "en": "speak",
+          "pi": "gèng"
+        },
+        {
+          "ch": "有",
+          "en": "louder",
+          "pi": "yǒu"
+        },
+        {
+          "ch": "说服力",
+          "en": "persuasiveness",
+          "pi": "shuō fú lì"
+        }
+      ]
+    },
+    {
+      "chinese": "别发牢骚多做事。",
+      "english": "Don't complain, just do more.",
+      "pinyin": "bié fā láo sāo duō zuò shì。",
+      "words": [
+        {
+          "ch": "别",
+          "en": "Don't",
+          "pi": "bié"
+        },
+        {
+          "ch": "发",
+          "en": "complain",
+          "pi": "fā"
+        },
+        {
+          "ch": "牢骚",
+          "en": "whine",
+          "pi": "láo sāo"
+        },
+        {
+          "ch": "多",
+          "en": "more",
+          "pi": "duō"
+        },
+        {
+          "ch": "做事",
+          "en": "do",
+          "pi": "zuò shì"
+        }
+      ]
+    }
+  ]
+}

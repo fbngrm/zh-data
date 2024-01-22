@@ -1,0 +1,37 @@
+{
+  "chinese": "这辆车超越了我。",
+  "english": "This car surpassed me.",
+  "pinyin": "zhè liàng chē chāo yuè le wǒ.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "辆",
+      "en": "car",
+      "pi": "liàng"
+    },
+    {
+      "ch": "车",
+      "en": "vehicle",
+      "pi": "chē"
+    },
+    {
+      "ch": "超越",
+      "en": "surpass",
+      "pi": "chāo yuè"
+    },
+    {
+      "ch": "了",
+      "en": "past particle",
+      "pi": "le"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    }
+  ]
+}

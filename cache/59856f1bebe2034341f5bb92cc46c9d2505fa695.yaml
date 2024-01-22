@@ -1,0 +1,32 @@
+{
+  "chinese": "给我来一个糖醋排骨。",
+  "english": "I want a sweet and sour spare ribs.",
+  "pinyin": "gěi wǒ lái yī gè táng cù pái gǔ。",
+  "words": [
+    {
+      "ch": "给我",
+      "en": "I want",
+      "pi": "gěi wǒ"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "糖醋",
+      "en": "sweet and sour",
+      "pi": "táng cù"
+    },
+    {
+      "ch": "排骨",
+      "en": "spare ribs",
+      "pi": "pái gǔ"
+    }
+  ]
+}

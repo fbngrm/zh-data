@@ -1,0 +1,47 @@
+{
+  "chinese": "今天妈妈生日，我订了一个蛋糕。",
+  "english": "Today is my mom's birthday, I ordered a cake.",
+  "pinyin": "jīn tiān mā mā shēng rì, wǒ dìng le yī gè dàn gāo。",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "Today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "妈妈",
+      "en": "mom",
+      "pi": "mā mā"
+    },
+    {
+      "ch": "生日",
+      "en": "birthday",
+      "pi": "shēng rì"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "订",
+      "en": "ordered",
+      "pi": "dìng"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "蛋糕",
+      "en": "cake",
+      "pi": "dàn gāo"
+    }
+  ]
+}

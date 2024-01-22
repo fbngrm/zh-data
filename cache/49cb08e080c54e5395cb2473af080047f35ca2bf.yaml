@@ -1,0 +1,37 @@
+{
+  "chinese": "水在摄氏零度时结冰。",
+  "english": "Water freezes at zero degrees Celsius.",
+  "pinyin": "shuǐ zài shèshì líng dù shí jiébīng。",
+  "words": [
+    {
+      "ch": "水",
+      "en": "water",
+      "pi": "shuǐ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "摄氏",
+      "en": "degrees Celsius",
+      "pi": "shèshì"
+    },
+    {
+      "ch": "零度",
+      "en": "zero degrees",
+      "pi": "líng dù"
+    },
+    {
+      "ch": "时",
+      "en": "time",
+      "pi": "shí"
+    },
+    {
+      "ch": "结冰",
+      "en": "freeze",
+      "pi": "jiébīng"
+    }
+  ]
+}

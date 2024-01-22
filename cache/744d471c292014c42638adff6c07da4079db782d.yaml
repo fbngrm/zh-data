@@ -1,0 +1,32 @@
+{
+  "chinese": "我昨天完成了工作。",
+  "english": "I finished the work yesterday.",
+  "pinyin": "Wǒ zuótiān wánchéngle gōngzuò.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "Wǒ"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "完成",
+      "en": "finished",
+      "pi": "wánchéng"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "工作",
+      "en": "work",
+      "pi": "gōngzuò"
+    }
+  ]
+}

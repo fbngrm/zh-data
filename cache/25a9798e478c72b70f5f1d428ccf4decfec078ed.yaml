@@ -1,0 +1,15 @@
+{
+  "chinese": "這首歌讓我想起了我的童年。",
+  "english": "This song reminds me of my childhood.",
+  "pinyin": "zhè shǒu gē ràng wǒ xiǎng qǐ le wǒ de tóng nián.",
+  "words": [
+    {"ch": "這首", "en": "this song", "pi": "zhè shǒu"},
+    {"ch": "歌", "en": "song", "pi": "gē"},
+    {"ch": "讓", "en": "reminds", "pi": "ràng"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "想起", "en": "reminds", "pi": "xiǎng qǐ"},
+    {"ch": "了", "en": "of", "pi": "le"},
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "童年", "en": "childhood", "pi": "tóng nián"}
+  ]
+}

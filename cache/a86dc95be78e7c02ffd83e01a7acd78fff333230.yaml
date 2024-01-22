@@ -1,0 +1,32 @@
+{
+  "chinese": "飞机十分钟后起飞。",
+  "english": "The plane will take off in ten minutes.",
+  "pinyin": "fēijī shí fēnzhōng hòu qǐfēi.",
+  "words": [
+    {
+      "ch": "飞机",
+      "en": "plane",
+      "pi": "fēijī"
+    },
+    {
+      "ch": "十",
+      "en": "ten",
+      "pi": "shí"
+    },
+    {
+      "ch": "分钟",
+      "en": "minutes",
+      "pi": "fēnzhōng"
+    },
+    {
+      "ch": "后",
+      "en": "after",
+      "pi": "hòu"
+    },
+    {
+      "ch": "起飞",
+      "en": "take off",
+      "pi": "qǐfēi"
+    }
+  ]
+}

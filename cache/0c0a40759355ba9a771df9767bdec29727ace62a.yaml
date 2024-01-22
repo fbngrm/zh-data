@@ -1,0 +1,41 @@
+{
+  "sentences": [
+    {
+      "chinese": "即使是现在，我偶尔还是想见到你。",
+      "english": "Even now, I occasionally still want to see you.",
+      "pinyin": "jí shǐ shì xiàn zài, wǒ ǒu ěr hái shì xiǎng jiàn dào nǐ。",
+      "words": [
+        {"ch": "即使", "en": "Even", "pi": "jí shǐ"},
+        {"ch": "是", "en": "is", "pi": "shì"},
+        {"ch": "现在", "en": "now", "pi": "xiàn zài"},
+        {"ch": "，", "en": ",", "pi": "，"},
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "偶尔", "en": "occasionally", "pi": "ǒu ěr"},
+        {"ch": "还是", "en": "still", "pi": "hái shì"},
+        {"ch": "想", "en": "want", "pi": "xiǎng"},
+        {"ch": "见到", "en": "see", "pi": "jiàn dào"},
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "。", "en": ".", "pi": "。"}
+      ]
+    },
+    {
+      "chinese": "不是今天的你，而是我记忆中曾经的你。",
+      "english": "Not the you of today, but the you in my memories.",
+      "pinyin": "bú shì jīn tiān de nǐ, ér shì wǒ jì yì zhōng céng jīng de nǐ。",
+      "words": [
+        {"ch": "不是", "en": "not", "pi": "bú shì"},
+        {"ch": "今天", "en": "today", "pi": "jīn tiān"},
+        {"ch": "的", "en": "'s", "pi": "de"},
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "，", "en": ",", "pi": "，"},
+        {"ch": "而是", "en": "but", "pi": "ér shì"},
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "记忆中", "en": "in my memories", "pi": "jì yì zhōng"},
+        {"ch": "曾经", "en": "past", "pi": "céng jīng"},
+        {"ch": "的", "en": "'s", "pi": "de"},
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "。", "en": ".", "pi": "。"}
+      ]
+    }
+  ]
+}

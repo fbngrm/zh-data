@@ -1,0 +1,42 @@
+{
+  "chinese": "我想要用挂号寄这封信。",
+  "english": "I want to send this letter by registered mail.",
+  "pinyin": "wǒ xiǎng yào yòng guà hào jì zhè fēng xìn。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想要",
+      "en": "want to",
+      "pi": "xiǎng yào"
+    },
+    {
+      "ch": "用",
+      "en": "use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "挂号",
+      "en": "registered mail",
+      "pi": "guà hào"
+    },
+    {
+      "ch": "寄",
+      "en": "send",
+      "pi": "jì"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "封信",
+      "en": "letter",
+      "pi": "fēng xìn"
+    }
+  ]
+}

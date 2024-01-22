@@ -1,0 +1,42 @@
+{
+  "chinese": "我妈妈是一个很棒的厨师。",
+  "english": "My mom is a very good cook.",
+  "pinyin": "wǒ māmā shì yīgè hěn bàng de chúshī.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "妈妈",
+      "en": "mom",
+      "pi": "māmā"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yīgè"
+    },
+    {
+      "ch": "很棒",
+      "en": "very good",
+      "pi": "hěn bàng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "厨师",
+      "en": "cook",
+      "pi": "chúshī"
+    }
+  ]
+}

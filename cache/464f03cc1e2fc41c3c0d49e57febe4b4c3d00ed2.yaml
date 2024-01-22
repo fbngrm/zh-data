@@ -1,0 +1,32 @@
+{
+  "chinese": "我的房間就在樓上。",
+  "english": "My room is upstairs.",
+  "pinyin": "wǒ de fáng jiān jiù zài lóu shàng。",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "My",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "房間",
+      "en": "room",
+      "pi": "fáng jiān"
+    },
+    {
+      "ch": "就",
+      "en": "is",
+      "pi": "jiù"
+    },
+    {
+      "ch": "在",
+      "en": "upstairs",
+      "pi": "zài"
+    },
+    {
+      "ch": "樓上",
+      "en": "upstairs",
+      "pi": "lóu shàng"
+    }
+  ]
+}

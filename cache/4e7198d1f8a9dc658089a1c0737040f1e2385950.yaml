@@ -1,0 +1,42 @@
+{
+  "chinese": "我认为我犯了个错。",
+  "english": "I think I made a mistake.",
+  "pinyin": "wǒ rènwéi wǒ fàn le gè cuò。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "认为",
+      "en": "think",
+      "pi": "rènwéi"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "犯",
+      "en": "made",
+      "pi": "fàn"
+    },
+    {
+      "ch": "了",
+      "en": "a",
+      "pi": "le"
+    },
+    {
+      "ch": "个",
+      "en": "",
+      "pi": "gè"
+    },
+    {
+      "ch": "错",
+      "en": "mistake",
+      "pi": "cuò"
+    }
+  ]
+}

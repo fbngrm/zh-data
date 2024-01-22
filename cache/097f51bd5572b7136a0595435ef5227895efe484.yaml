@@ -1,0 +1,61 @@
+{
+  "sentences": [
+    {
+      "chinese": "孩子因糖果受骗，大人因誓言上当。",
+      "english": "The child was deceived by candy, adults were fooled by oaths.",
+      "pinyin": "hái zi yīn táng guǒ shòu piàn , dà rén yīn shì yán shàng dàng。",
+      "words": [
+        {
+          "ch": "孩子",
+          "en": "child",
+          "pi": "hái zi"
+        },
+        {
+          "ch": "因",
+          "en": "because of",
+          "pi": "yīn"
+        },
+        {
+          "ch": "糖果",
+          "en": "candy",
+          "pi": "táng guǒ"
+        },
+        {
+          "ch": "受骗",
+          "en": "deceived",
+          "pi": "shòu piàn"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": "，"
+        },
+        {
+          "ch": "大人",
+          "en": "adults",
+          "pi": "dà rén"
+        },
+        {
+          "ch": "因",
+          "en": "because of",
+          "pi": "yīn"
+        },
+        {
+          "ch": "誓言",
+          "en": "oaths",
+          "pi": "shì yán"
+        },
+        {
+          "ch": "上当",
+          "en": "fooled",
+          "pi": "shàng dàng"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    }
+  ]
+}

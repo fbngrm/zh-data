@@ -1,0 +1,32 @@
+{
+  "chinese": "我明天会去医院。",
+  "english": "I will go to the hospital tomorrow.",
+  "pinyin": "wǒ míng tiān huì qù yī yuàn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "医院",
+      "en": "hospital",
+      "pi": "yī yuàn"
+    }
+  ]
+}

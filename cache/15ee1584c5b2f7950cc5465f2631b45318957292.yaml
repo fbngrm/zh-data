@@ -1,0 +1,37 @@
+{
+  "chinese": "１、３、５都是奇数。",
+  "english": "1, 3, 5 are all odd numbers.",
+  "pinyin": "yī, sān, wǔ dōu shì jī shù.",
+  "words": [
+    {
+      "ch": "１",
+      "en": "1",
+      "pi": "yī"
+    },
+    {
+      "ch": "３",
+      "en": "3",
+      "pi": "sān"
+    },
+    {
+      "ch": "５",
+      "en": "5",
+      "pi": "wǔ"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "奇数",
+      "en": "odd numbers",
+      "pi": "jī shù"
+    }
+  ]
+}

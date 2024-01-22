@@ -1,0 +1,32 @@
+{
+  "chinese": "这本书是红色。",
+  "english": "This book is red.",
+  "pinyin": "zhè běn shū shì hóngsè.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "书",
+      "en": "is",
+      "pi": "shū"
+    },
+    {
+      "ch": "是",
+      "en": "red",
+      "pi": "shì"
+    },
+    {
+      "ch": "红色",
+      "en": "color",
+      "pi": "hóngsè"
+    }
+  ]
+}

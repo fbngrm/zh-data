@@ -1,0 +1,15 @@
+{
+  "chinese": "我承认这可能不是最好的方法。",
+  "english": "I admit this may not be the best method.",
+  "pinyin": "wǒ chéng rèn zhè kě néng bú shì zuì hǎo de fāng fǎ。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "承认", "en": "admit", "pi": "chéng rèn"},
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "可能", "en": "may", "pi": "kě néng"},
+    {"ch": "不是", "en": "not be", "pi": "bú shì"},
+    {"ch": "最好", "en": "best", "pi": "zuì hǎo"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "方法", "en": "method", "pi": "fāng fǎ"}
+  ]
+}

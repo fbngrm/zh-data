@@ -1,0 +1,32 @@
+{
+  "chinese": "老师说地球是圆的。",
+  "english": "The teacher said that the earth is round.",
+  "pinyin": "lǎo shī shuō dì qiú shì yuán de.",
+  "words": [
+    {
+      "ch": "老师",
+      "en": "teacher",
+      "pi": "lǎo shī"
+    },
+    {
+      "ch": "说",
+      "en": "said",
+      "pi": "shuō"
+    },
+    {
+      "ch": "地球",
+      "en": "earth",
+      "pi": "dì qiú"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "圆的",
+      "en": "round",
+      "pi": "yuán de"
+    }
+  ]
+}

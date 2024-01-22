@@ -1,0 +1,68 @@
+{
+  "sentences": [
+    {
+      "chinese": "我的记性不好。",
+      "english": "I have a bad memory.",
+      "pinyin": "wǒ de jìxìng bù hǎo。",
+      "words": [
+        {
+          "ch": "我的",
+          "en": "my",
+          "pi": "wǒ de"
+        },
+        {
+          "ch": "记性",
+          "en": "memory",
+          "pi": "jìxìng"
+        },
+        {
+          "ch": "不好",
+          "en": "bad",
+          "pi": "bù hǎo"
+        }
+      ]
+    },
+    {
+      "chinese": "我简直不记得他的名字了。",
+      "english": "I simply can't remember his name anymore.",
+      "pinyin": "wǒ jiǎnzhí bù jìde tā de míngzì le。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "简直",
+          "en": "simply",
+          "pi": "jiǎnzhí"
+        },
+        {
+          "ch": "不",
+          "en": "not",
+          "pi": "bù"
+        },
+        {
+          "ch": "记得",
+          "en": "remember",
+          "pi": "jìde"
+        },
+        {
+          "ch": "他的",
+          "en": "his",
+          "pi": "tā de"
+        },
+        {
+          "ch": "名字",
+          "en": "name",
+          "pi": "míngzì"
+        },
+        {
+          "ch": "了",
+          "en": "anymore",
+          "pi": "le"
+        }
+      ]
+    }
+  ]
+}

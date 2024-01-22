@@ -1,0 +1,37 @@
+{
+   "chinese": "昨晚我们这里发生了地震。",
+   "english": "There was an earthquake here last night.",
+   "pinyin": "zuó wǎn wǒmen zhèlǐ fāshēngle dìzhèn.",
+   "words": [
+      {
+         "ch": "昨晚",
+         "en": "last night",
+         "pi": "zuó wǎn"
+      },
+      {
+         "ch": "我们",
+         "en": "we",
+         "pi": "wǒmen"
+      },
+      {
+         "ch": "这里",
+         "en": "here",
+         "pi": "zhèlǐ"
+      },
+      {
+         "ch": "发生",
+         "en": "happen",
+         "pi": "fāshēng"
+      },
+      {
+         "ch": "了",
+         "en": "particle indicating completed action",
+         "pi": "le"
+      },
+      {
+         "ch": "地震",
+         "en": "earthquake",
+         "pi": "dìzhèn"
+      }
+   ]
+}

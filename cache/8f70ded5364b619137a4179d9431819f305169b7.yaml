@@ -1,0 +1,47 @@
+{
+  "chinese": "对不起，没有身份证是不能领汇款的。",
+  "english": "I'm sorry, you cannot receive money without an ID card.",
+  "pinyin": "duì bù qǐ，méi yǒu shēn fèn zhèng shì bù néng lǐng huì kuǎn de。",
+  "words": [
+    {
+      "ch": "对不起",
+      "en": "I'm sorry",
+      "pi": "duì bù qǐ"
+    },
+    {
+      "ch": "没有",
+      "en": "no",
+      "pi": "méi yǒu"
+    },
+    {
+      "ch": "身份证",
+      "en": "ID card",
+      "pi": "shēn fèn zhèng"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "不能",
+      "en": "cannot",
+      "pi": "bù néng"
+    },
+    {
+      "ch": "领",
+      "en": "receive",
+      "pi": "lǐng"
+    },
+    {
+      "ch": "汇款",
+      "en": "money transfer",
+      "pi": "huì kuǎn"
+    },
+    {
+      "ch": "的",
+      "en": "without",
+      "pi": "de"
+    }
+  ]
+}

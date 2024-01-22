@@ -1,0 +1,32 @@
+{
+  "chinese": "他造了一个机器人。",
+  "english": "He made a robot.",
+  "pinyin": "tā zào le yí gè jī qì rén。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "造",
+      "en": "make",
+      "pi": "zào"
+    },
+    {
+      "ch": "了",
+      "en": "(indicating a completed action)",
+      "pi": "le"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yí gè"
+    },
+    {
+      "ch": "机器人",
+      "en": "robot",
+      "pi": "jī qì rén"
+    }
+  ]
+}

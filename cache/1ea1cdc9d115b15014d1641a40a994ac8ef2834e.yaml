@@ -1,0 +1,68 @@
+{
+  "sentences": [
+    {
+      "chinese": "他心里对自己说“不！”",
+      "english": "He said to himself in his heart, 'No!'",
+      "pinyin": "tā xīnlǐ duì zìjǐ shuō 'bù!'",
+      "words": [
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "心里",
+          "en": "in his heart",
+          "pi": "xīnlǐ"
+        },
+        {
+          "ch": "对",
+          "en": "to",
+          "pi": "duì"
+        },
+        {
+          "ch": "自己",
+          "en": "himself",
+          "pi": "zìjǐ"
+        },
+        {
+          "ch": "说",
+          "en": "said",
+          "pi": "shuō"
+        },
+        {
+          "ch": "不",
+          "en": "no",
+          "pi": "bù"
+        }
+      ]
+    },
+    {
+      "chinese": "他大声说出“是。”",
+      "english": "He said out loud, 'Yes.'",
+      "pinyin": "tā dàshēng shuō chū 'shì.'",
+      "words": [
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "大声",
+          "en": "out loud",
+          "pi": "dàshēng"
+        },
+        {
+          "ch": "说出",
+          "en": "said",
+          "pi": "shuō chū"
+        },
+        {
+          "ch": "是",
+          "en": "yes",
+          "pi": "shì"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我有一条狗。",
+  "english": "I have a dog.",
+  "pinyin": "wǒ yǒu yī tiáo gǒu.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一",
+      "en": "a",
+      "pi": "yī"
+    },
+    {
+      "ch": "条",
+      "en": "classifier for long, narrow objects",
+      "pi": "tiáo"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    }
+  ]
+}

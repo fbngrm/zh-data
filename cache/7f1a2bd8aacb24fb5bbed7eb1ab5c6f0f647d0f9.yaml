@@ -1,0 +1,32 @@
+{
+  "chinese": "这钥匙能打开什么？",
+  "english": "What can this key open?",
+  "pinyin": "zhè yào shi néng dǎ kāi shén me?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "钥匙",
+      "en": "key",
+      "pi": "yào shi"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "打开",
+      "en": "open",
+      "pi": "dǎ kāi"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shén me"
+    }
+  ]
+}

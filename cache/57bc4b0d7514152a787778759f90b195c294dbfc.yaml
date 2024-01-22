@@ -1,0 +1,47 @@
+{
+  "chinese": "这则讯息将在五秒后自动销毁。",
+  "english": "This message will self destruct in five seconds.",
+  "pinyin": "zhè zé xùn xī jiāng zài wǔ miǎo hòu zì dòng xiāo huǐ。",
+  "words": [
+    {
+      "ch": "这则",
+      "en": "this",
+      "pi": "zhè zé"
+    },
+    {
+      "ch": "讯息",
+      "en": "message",
+      "pi": "xùn xī"
+    },
+    {
+      "ch": "将",
+      "en": "will",
+      "pi": "jiāng"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "五",
+      "en": "five",
+      "pi": "wǔ"
+    },
+    {
+      "ch": "秒后",
+      "en": "seconds later",
+      "pi": "miǎo hòu"
+    },
+    {
+      "ch": "自动",
+      "en": "self",
+      "pi": "zì dòng"
+    },
+    {
+      "ch": "销毁",
+      "en": "destruct",
+      "pi": "xiāo huǐ"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我很确定汤姆住在公园街。",
+  "english": "I am certain that Tom lives on Park Street.",
+  "pinyin": "Wǒ hěn quèdìng Tāngmǔ zhù zài gōngyuán jiē。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "很",
+      "en": "am",
+      "pi": "hěn"
+    },
+    {
+      "ch": "确定",
+      "en": "certain",
+      "pi": "quèdìng"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "住",
+      "en": "lives",
+      "pi": "zhù"
+    },
+    {
+      "ch": "在",
+      "en": "on",
+      "pi": "zài"
+    },
+    {
+      "ch": "公园街",
+      "en": "Park Street",
+      "pi": "gōngyuán jiē"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "这种动物日语叫甚么名字？",
+  "english": "What is this animal called in Japanese?",
+  "pinyin": "zhè zhǒng dòngwù rìyǔ jiào shénme míngzì?",
+  "words": [
+    {
+      "ch": "这种",
+      "en": "this",
+      "pi": "zhè zhǒng"
+    },
+    {
+      "ch": "动物",
+      "en": "animal",
+      "pi": "dòngwù"
+    },
+    {
+      "ch": "日语",
+      "en": "Japanese",
+      "pi": "rìyǔ"
+    },
+    {
+      "ch": "叫",
+      "en": "called",
+      "pi": "jiào"
+    },
+    {
+      "ch": "甚么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míngzì"
+    }
+  ]
+}

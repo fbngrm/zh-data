@@ -1,0 +1,13 @@
+{
+  "chinese": "你知道RieMiyazawa是谁吗?",
+  "english": "Do you know who Rie Miyazawa is?",
+  "pinyin": "nǐ zhī dào Rie Miyazawa shì shéi ma?",
+  "words": [
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "知道", "en": "know", "pi": "zhī dào" },
+    { "ch": "RieMiyazawa", "en": "Rie Miyazawa", "pi": "Rie Miyazawa" },
+    { "ch": "是", "en": "is", "pi": "shì" },
+    { "ch": "谁", "en": "who", "pi": "shéi" },
+    { "ch": "吗", "en": "question particle", "pi": "ma" }
+  ]
+}

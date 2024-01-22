@@ -1,0 +1,13 @@
+{
+  "chinese": "她犯了和以前同樣的錯誤。",
+  "english": "She made the same mistake as before.",
+  "pinyin": "tā fàn le hé yǐqián tóngyàng de cuòwù。",
+  "words": [
+    {"ch": "她", "en": "She", "pi": "tā"},
+    {"ch": "犯了", "en": "made", "pi": "fàn le"},
+    {"ch": "和", "en": "the same", "pi": "hé"},
+    {"ch": "以前", "en": "as before", "pi": "yǐqián"},
+    {"ch": "同樣的", "en": "same", "pi": "tóngyàng de"},
+    {"ch": "錯誤", "en": "mistake", "pi": "cuòwù"}
+  ]
+}

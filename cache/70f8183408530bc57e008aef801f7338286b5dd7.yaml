@@ -1,0 +1,14 @@
+{
+    "chinese": "我喜欢喝热一点儿的茶。",
+    "english": "I like to drink tea that's a little hot.",
+    "pinyin": "wǒ xǐ huān hē rè yī diǎn er de chá.",
+    "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "喜欢", "en": "like", "pi": "xǐ huān"},
+        {"ch": "喝", "en": "drink", "pi": "hē"},
+        {"ch": "热", "en": "hot", "pi": "rè"},
+        {"ch": "一点儿", "en": "a little", "pi": "yī diǎn ér"},
+        {"ch": "的", "en": "that's", "pi": "de"},
+        {"ch": "茶", "en": "tea", "pi": "chá"}
+    ]
+}

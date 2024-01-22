@@ -1,0 +1,13 @@
+{
+  "chinese": "看看玛丽那漂亮的房子。",
+  "english": "Look at Mary's beautiful house.",
+  "pinyin": "Kàn kàn mǎ lì nà piào liàng de fáng zi.",
+  "words": [
+    {"ch": "看看", "en": "Look at", "pi": "Kàn kàn"},
+    {"ch": "玛丽", "en": "Mary", "pi": "mǎ lì"},
+    {"ch": "那", "en": "that", "pi": "nà"},
+    {"ch": "漂亮", "en": "beautiful", "pi": "piào liàng"},
+    {"ch": "的", "en": " 's (possessive)", "pi": "de"},
+    {"ch": "房子", "en": "house", "pi": "fáng zi"}
+  ]
+}

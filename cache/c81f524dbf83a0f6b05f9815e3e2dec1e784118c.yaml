@@ -1,0 +1,52 @@
+{
+  "chinese": "你收到了我发的邮件了吗？",
+  "english": "Did you receive the email I sent?",
+  "pinyin": "nǐ shōudào le wǒ fā de yóujiàn le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "收到",
+      "en": "receive",
+      "pi": "shōudào"
+    },
+    {
+      "ch": "了",
+      "en": "did",
+      "pi": "le"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "发",
+      "en": "send",
+      "pi": "fā"
+    },
+    {
+      "ch": "的",
+      "en": "the",
+      "pi": "de"
+    },
+    {
+      "ch": "邮件",
+      "en": "email",
+      "pi": "yóujiàn"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

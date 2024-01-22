@@ -1,0 +1,32 @@
+{
+  "chinese": "英文比日文更難嗎？",
+  "english": "Is English more difficult than Japanese?",
+  "pinyin": "Yīngwén bǐ rìwén gèng nán ma?",
+  "words": [
+    {
+      "ch": "英文",
+      "en": "English",
+      "pi": "Yīngwén"
+    },
+    {
+      "ch": "比",
+      "en": "more than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "日文",
+      "en": "Japanese",
+      "pi": "rìwén"
+    },
+    {
+      "ch": "更難",
+      "en": "more difficult",
+      "pi": "gèng nán"
+    },
+    {
+      "ch": "嗎",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

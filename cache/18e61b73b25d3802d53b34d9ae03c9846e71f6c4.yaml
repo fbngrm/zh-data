@@ -1,0 +1,32 @@
+{
+  "chinese": "我不想谈论天气。",
+  "english": "I don't want to talk about the weather.",
+  "pinyin": "wǒ bù xiǎng tán lùn tiān qì。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "谈论",
+      "en": "to talk about",
+      "pi": "tán lùn"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiān qì"
+    }
+  ]
+}

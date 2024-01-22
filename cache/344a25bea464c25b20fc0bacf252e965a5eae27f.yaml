@@ -1,0 +1,32 @@
+{
+  "chinese": "这个女人生了一个女婴。",
+  "english": "This woman gave birth to a baby girl.",
+  "pinyin": "zhè gè nǚ rén shēng le yí gè nǚ yīng。",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "女人",
+      "en": "woman",
+      "pi": "nǚ rén"
+    },
+    {
+      "ch": "生了",
+      "en": "gave birth to",
+      "pi": "shēng le"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yí gè"
+    },
+    {
+      "ch": "女婴",
+      "en": "baby girl",
+      "pi": "nǚ yīng"
+    }
+  ]
+}

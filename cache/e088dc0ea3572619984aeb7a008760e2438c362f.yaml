@@ -1,0 +1,32 @@
+{
+  "chinese": "你找到几只虫子？",
+  "english": "How many bugs did you find?",
+  "pinyin": "nǐ zhǎodào jǐ zhī chóngzi?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "找到",
+      "en": "find",
+      "pi": "zhǎodào"
+    },
+    {
+      "ch": "几",
+      "en": "how many",
+      "pi": "jǐ"
+    },
+    {
+      "ch": "只",
+      "en": "measure word for animals",
+      "pi": "zhī"
+    },
+    {
+      "ch": "虫子",
+      "en": "bugs",
+      "pi": "chóngzi"
+    }
+  ]
+}

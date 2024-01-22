@@ -1,0 +1,47 @@
+{
+  "chinese": "他从早上九点工作到下午五点半。",
+  "english": "He works from 9 AM to 5:30 PM.",
+  "pinyin": "tā cóng zǎo shàng jiǔ diǎn gōng zuò dào xià wǔ wǔ diǎn bàn。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎo shàng"
+    },
+    {
+      "ch": "九点",
+      "en": "9 AM",
+      "pi": "jiǔ diǎn"
+    },
+    {
+      "ch": "工作",
+      "en": "work",
+      "pi": "gōng zuò"
+    },
+    {
+      "ch": "到",
+      "en": "to",
+      "pi": "dào"
+    },
+    {
+      "ch": "下午",
+      "en": "afternoon",
+      "pi": "xià wǔ"
+    },
+    {
+      "ch": "五点半",
+      "en": "5:30 PM",
+      "pi": "wǔ diǎn bàn"
+    }
+  ]
+}

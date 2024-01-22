@@ -1,0 +1,15 @@
+{
+  "chinese": "这个传闻后来被证明是真的了。",
+  "english": "This rumor was later proven to be true.",
+  "pinyin": "zhè gè chuán wén hòu lái bèi zhèng míng shì zhēn de le.",
+  "words": [
+    {"ch": "这个", "en": "This", "pi": "zhè gè"},
+    {"ch": "传闻", "en": "rumor", "pi": "chuán wén"},
+    {"ch": "后来", "en": "later", "pi": "hòu lái"},
+    {"ch": "被", "en": "was", "pi": "bèi"},
+    {"ch": "证明", "en": "proven", "pi": "zhèng míng"},
+    {"ch": "是", "en": "to be", "pi": "shì"},
+    {"ch": "真的", "en": "true", "pi": "zhēn de"},
+    {"ch": "了", "en": "already", "pi": "le"}
+  ]
+}

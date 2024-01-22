@@ -1,0 +1,27 @@
+{
+  "chinese": "狗叫了吗？",
+  "english": "Did the dog bark?",
+  "pinyin": "gǒu jiào le ma?",
+  "words": [
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "叫",
+      "en": "bark",
+      "pi": "jiào"
+    },
+    {
+      "ch": "了",
+      "en": "did",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

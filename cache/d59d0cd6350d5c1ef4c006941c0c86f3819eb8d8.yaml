@@ -1,0 +1,18 @@
+{
+  "chinese": "我有四个孩子，两个儿子，两个女儿。",
+  "english": "I have four children, two sons and two daughters.",
+  "pinyin": "wǒ yǒu sì gè hái zi, liǎng gè ér zi, liǎng gè nǚ ér.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "有", "en": "have", "pi": "yǒu" },
+    { "ch": "四个", "en": "four", "pi": "sì gè" },
+    { "ch": "孩子", "en": "children", "pi": "hái zi" },
+    { "ch": "，", "en": ",", "pi": "," },
+    { "ch": "两个", "en": "two", "pi": "liǎng gè" },
+    { "ch": "儿子", "en": "sons", "pi": "ér zi" },
+    { "ch": "，", "en": ",", "pi": "," },
+    { "ch": "两个", "en": "two", "pi": "liǎng gè" },
+    { "ch": "女儿", "en": "daughters", "pi": "nǚ ér" },
+    { "ch": "。", "en": ".", "pi": "." }
+  ]
+}

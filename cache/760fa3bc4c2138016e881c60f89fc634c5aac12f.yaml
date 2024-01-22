@@ -1,0 +1,34 @@
+[
+  {
+    "chinese": "我想写很多句子",
+    "english": "I want to write many sentences",
+    "pinyin": "wǒ xiǎng xiě hěn duō jùzi",
+    "words": [
+      {
+        "ch": "我",
+        "en": "I",
+        "pi": "wǒ"
+      },
+      {
+        "ch": "想",
+        "en": "want",
+        "pi": "xiǎng"
+      },
+      {
+        "ch": "写",
+        "en": "to write",
+        "pi": "xiě"
+      },
+      {
+        "ch": "很多",
+        "en": "many",
+        "pi": "hěn duō"
+      },
+      {
+        "ch": "句子",
+        "en": "sentences",
+        "pi": "jùzi"
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "chinese": "电话响了。我来接。",
+  "english": "The phone is ringing. I will answer.",
+  "pinyin": "Diànhuà xiǎng le. Wǒ lái jiē.",
+  "words": [
+    {
+      "ch": "电话",
+      "en": "phone",
+      "pi": "diànhuà"
+    },
+    {
+      "ch": "响",
+      "en": "ringing",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "了",
+      "en": "is",
+      "pi": "le"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "来",
+      "en": "will",
+      "pi": "lái"
+    },
+    {
+      "ch": "接",
+      "en": "answer",
+      "pi": "jiē"
+    }
+  ]
+}

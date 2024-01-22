@@ -1,0 +1,32 @@
+{
+  "chinese": "你的英语正在进步。",
+  "english": "Your English is improving.",
+  "pinyin": "Nǐ de yīngyǔ zhèngzài jìnbù.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīngyǔ"
+    },
+    {
+      "ch": "正在",
+      "en": "in the process of",
+      "pi": "zhèngzài"
+    },
+    {
+      "ch": "进步",
+      "en": "improving",
+      "pi": "jìnbù"
+    }
+  ]
+}

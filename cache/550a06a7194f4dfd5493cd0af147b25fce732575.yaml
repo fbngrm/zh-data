@@ -1,0 +1,32 @@
+{
+  "chinese": "我正在找一个助手。",
+  "english": "I am looking for an assistant.",
+  "pinyin": "wǒ zhèngzài zhǎo yī gè zhùshǒu。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "正在",
+      "en": "am",
+      "pi": "zhèngzài"
+    },
+    {
+      "ch": "找",
+      "en": "looking for",
+      "pi": "zhǎo"
+    },
+    {
+      "ch": "一个",
+      "en": "an",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "助手",
+      "en": "assistant",
+      "pi": "zhùshǒu"
+    }
+  ]
+}

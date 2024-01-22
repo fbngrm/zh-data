@@ -1,0 +1,32 @@
+{
+  "chinese": "我们被暴风雨袭击了。",
+  "english": "We were attacked by a storm.",
+  "pinyin": "wǒmen bèi bào fēng yǔ xí jī le。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "被",
+      "en": "by",
+      "pi": "bèi"
+    },
+    {
+      "ch": "暴风雨",
+      "en": "storm",
+      "pi": "bào fēng yǔ"
+    },
+    {
+      "ch": "袭击",
+      "en": "attack",
+      "pi": "xí jī"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

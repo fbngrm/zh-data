@@ -1,0 +1,17 @@
+{
+  "chinese": "一些司机笑的笑，喊的喊。",
+  "english": "Some drivers laughed and shouted.",
+  "pinyin": "yī xiē sī jī xiào de xiào, hǎn de hǎn。",
+  "words": [
+    {"ch": "一些", "en": "some", "pi": "yī xiē"},
+    {"ch": "司机", "en": "drivers", "pi": "sī jī"},
+    {"ch": "笑", "en": "laughed", "pi": "xiào"},
+    {"ch": "的", "en": "and", "pi": "de"},
+    {"ch": "笑", "en": "laughed", "pi": "xiào"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "喊", "en": "shouted", "pi": "hǎn"},
+    {"ch": "的", "en": "and", "pi": "de"},
+    {"ch": "喊", "en": "shouted", "pi": "hǎn"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

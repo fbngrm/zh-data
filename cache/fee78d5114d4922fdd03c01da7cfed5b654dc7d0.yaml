@@ -1,0 +1,27 @@
+{
+  "chinese": "电梯内不准吸烟。",
+  "english": "No smoking in the elevator.",
+  "pinyin": "diàn tī nèi bù zhǔn xī yān.",
+  "words": [
+    {
+      "ch": "电梯",
+      "en": "elevator",
+      "pi": "diàn tī"
+    },
+    {
+      "ch": "内",
+      "en": "in",
+      "pi": "nèi"
+    },
+    {
+      "ch": "不准",
+      "en": "not allowed",
+      "pi": "bù zhǔn"
+    },
+    {
+      "ch": "吸烟",
+      "en": "smoking",
+      "pi": "xī yān"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆是波士顿本地人。",
+  "english": "Tom is a local in Boston.",
+  "pinyin": "Tāng mǔ shì bō shì dùn běn dì rén。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "波士顿",
+      "en": "Boston",
+      "pi": "bō shì dùn"
+    },
+    {
+      "ch": "本地人",
+      "en": "local",
+      "pi": "běn dì rén"
+    }
+  ]
+}

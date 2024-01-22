@@ -1,0 +1,42 @@
+{
+  "chinese": "这辆车停在银行前。",
+  "english": "This car is parked in front of the bank.",
+  "pinyin": "zhè liàng chē tíng zài yín háng qián.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "辆",
+      "en": "car (measure word)",
+      "pi": "liàng"
+    },
+    {
+      "ch": "车",
+      "en": "car",
+      "pi": "chē"
+    },
+    {
+      "ch": "停",
+      "en": "park",
+      "pi": "tíng"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "银行",
+      "en": "bank",
+      "pi": "yín háng"
+    },
+    {
+      "ch": "前",
+      "en": "front",
+      "pi": "qián"
+    }
+  ]
+}

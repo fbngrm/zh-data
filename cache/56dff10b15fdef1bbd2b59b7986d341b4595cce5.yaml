@@ -1,0 +1,27 @@
+{
+  "chinese": "现在我吃米饭。",
+  "english": "Now I am eating rice.",
+  "pinyin": "Xiàn zài wǒ chī mǐ fàn.",
+  "words": [
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "米饭",
+      "en": "rice",
+      "pi": "mǐ fàn"
+    }
+  ]
+}

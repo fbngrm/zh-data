@@ -1,0 +1,32 @@
+{
+  "chinese": "他喜欢音乐和运动。",
+  "english": "He likes music and sports.",
+  "pinyin": "tā xǐhuān yīnyuè hé yùndòng.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "喜欢",
+      "en": "likes",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "音乐",
+      "en": "music",
+      "pi": "yīnyuè"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "运动",
+      "en": "sports",
+      "pi": "yùndòng"
+    }
+  ]
+}

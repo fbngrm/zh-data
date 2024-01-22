@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆可能能在明天来。",
+  "english": "Tom might be able to come tomorrow.",
+  "pinyin": "tāng mǔ kě néng néng zài míng tiān lái。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "可能",
+      "en": "might",
+      "pi": "kě néng"
+    },
+    {
+      "ch": "能",
+      "en": "be able to",
+      "pi": "néng"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    }
+  ]
+}

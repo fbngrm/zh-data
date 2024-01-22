@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆忘了做作业。",
+  "english": "Tom forgot to do his homework.",
+  "pinyin": "tāng mǔ wàng le zuò zuò yè.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "忘了",
+      "en": "forgot",
+      "pi": "wàng le"
+    },
+    {
+      "ch": "做",
+      "en": "to do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "作业",
+      "en": "homework",
+      "pi": "zuò yè"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "在这里有人会说汉语吗？",
+  "english": "Is there anyone here who can speak Chinese?",
+  "pinyin": "Zài zhèlǐ yǒu rén huì shuō hànyǔ ma?",
+  "words": [
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhèlǐ"
+    },
+    {
+      "ch": "有人",
+      "en": "anyone",
+      "pi": "yǒurén"
+    },
+    {
+      "ch": "会说",
+      "en": "can speak",
+      "pi": "huì shuō"
+    },
+    {
+      "ch": "汉语",
+      "en": "Chinese",
+      "pi": "hànyǔ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

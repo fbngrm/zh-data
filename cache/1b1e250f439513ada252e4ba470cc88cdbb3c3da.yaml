@@ -1,0 +1,37 @@
+{
+  "chinese": "麦克叫他的狗波奇吗？",
+  "english": "Does Mike call his dog Boqi?",
+  "pinyin": "mài kè jiào tā de gǒu bō qí ma?",
+  "words": [
+    {
+      "ch": "麦克",
+      "en": "Mike",
+      "pi": "mài kè"
+    },
+    {
+      "ch": "叫",
+      "en": "call",
+      "pi": "jiào"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "波奇",
+      "en": "Boqi",
+      "pi": "bō qí"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

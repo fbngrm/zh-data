@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆跟他爸爸一样高。",
+  "english": "Tom is as tall as his father.",
+  "pinyin": "Tāng mǔ gēn tā bàba yīyàng gāo.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "跟",
+      "en": "is",
+      "pi": "gēn"
+    },
+    {
+      "ch": "他",
+      "en": "as",
+      "pi": "tā"
+    },
+    {
+      "ch": "爸爸",
+      "en": "tall",
+      "pi": "bàba"
+    },
+    {
+      "ch": "一样",
+      "en": "as",
+      "pi": "yīyàng"
+    },
+    {
+      "ch": "高",
+      "en": "as his father",
+      "pi": "gāo"
+    }
+  ]
+}

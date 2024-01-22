@@ -1,0 +1,42 @@
+{
+  "chinese": "我有两个女儿和两个儿子。",
+  "english": "I have two daughters and two sons.",
+  "pinyin": "wǒ yǒu liǎng gè nǚ'ér hé liǎng gè érzi。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "两个",
+      "en": "two",
+      "pi": "liǎng gè"
+    },
+    {
+      "ch": "女儿",
+      "en": "daughters",
+      "pi": "nǚ'ér"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "两个",
+      "en": "two",
+      "pi": "liǎng gè"
+    },
+    {
+      "ch": "儿子",
+      "en": "sons",
+      "pi": "érzi"
+    }
+  ]
+}

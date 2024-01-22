@@ -1,0 +1,37 @@
+{
+  "chinese": "这个女孩正在做家庭作业。",
+  "english": "The girl is doing homework.",
+  "pinyin": "zhè gè nǚ hái zhèng zùo jiā tíng zuò yè。",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "the",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "女孩",
+      "en": "girl",
+      "pi": "nǚ hái"
+    },
+    {
+      "ch": "正在",
+      "en": "is",
+      "pi": "zhèng zùo"
+    },
+    {
+      "ch": "做",
+      "en": "doing",
+      "pi": "zuò"
+    },
+    {
+      "ch": "家庭",
+      "en": "homework",
+      "pi": "jiā tíng"
+    },
+    {
+      "ch": "作业",
+      "en": "homework",
+      "pi": "zuò yè"
+    }
+  ]
+}

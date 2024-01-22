@@ -1,0 +1,37 @@
+{
+  "chinese": "现在有点慢，能不能等一下？",
+  "english": "It's a little slow now, can you wait a moment?",
+  "pinyin": "xiàn zài yǒu diǎn màn, néng bù néng děng yī xià?",
+  "words": [
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "有点",
+      "en": "a little",
+      "pi": "yǒu diǎn"
+    },
+    {
+      "ch": "慢",
+      "en": "slow",
+      "pi": "màn"
+    },
+    {
+      "ch": "能不能",
+      "en": "can you",
+      "pi": "néng bù néng"
+    },
+    {
+      "ch": "等",
+      "en": "wait",
+      "pi": "děng"
+    },
+    {
+      "ch": "一下",
+      "en": "a moment",
+      "pi": "yī xià"
+    }
+  ]
+}

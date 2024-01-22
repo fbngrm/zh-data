@@ -1,0 +1,42 @@
+{
+  "chinese": "昨夜温度计显示气温下降到零度。",
+  "english": "Last night the thermometer showed the temperature dropped to zero degrees.",
+  "pinyin": "Zuó yè wēn dù jì xiǎn shì qì wēn xià jiàng dào líng dù。",
+  "words": [
+    {
+      "ch": "昨夜",
+      "en": "Last night",
+      "pi": "zuó yè"
+    },
+    {
+      "ch": "温度计",
+      "en": "thermometer",
+      "pi": "wēn dù jì"
+    },
+    {
+      "ch": "显示",
+      "en": "show",
+      "pi": "xiǎn shì"
+    },
+    {
+      "ch": "气温",
+      "en": "temperature",
+      "pi": "qì wēn"
+    },
+    {
+      "ch": "下降",
+      "en": "drop",
+      "pi": "xià jiàng"
+    },
+    {
+      "ch": "到",
+      "en": "to",
+      "pi": "dào"
+    },
+    {
+      "ch": "零度",
+      "en": "zero degrees",
+      "pi": "líng dù"
+    }
+  ]
+}

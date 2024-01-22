@@ -1,0 +1,37 @@
+{
+  "chinese": "你叔叔住在什么地方？",
+  "english": "Where does your uncle live?",
+  "pinyin": "Nǐ shūshu zhù zài shénme dìfāng?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "叔叔",
+      "en": "uncle",
+      "pi": "shūshu"
+    },
+    {
+      "ch": "住",
+      "en": "live",
+      "pi": "zhù"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "地方",
+      "en": "place",
+      "pi": "dìfāng"
+    }
+  ]
+}

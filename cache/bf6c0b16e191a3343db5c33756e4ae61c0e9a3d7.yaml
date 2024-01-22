@@ -1,0 +1,42 @@
+{
+  "chinese": "我甚至不知道汤姆有没有上过大学。",
+  "english": "I don't even know if Tom went to college.",
+  "pinyin": "wǒ shèn zhì bù zhī dào tāng mǔ yǒu méi yǒu shàng guò dà xué。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "甚至",
+      "en": "even",
+      "pi": "shèn zhì"
+    },
+    {
+      "ch": "不知道",
+      "en": "don't know",
+      "pi": "bù zhī dào"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "有没有",
+      "en": "whether or not",
+      "pi": "yǒu méi yǒu"
+    },
+    {
+      "ch": "上过",
+      "en": "went to",
+      "pi": "shàng guò"
+    },
+    {
+      "ch": "大学",
+      "en": "college",
+      "pi": "dà xué"
+    }
+  ]
+}

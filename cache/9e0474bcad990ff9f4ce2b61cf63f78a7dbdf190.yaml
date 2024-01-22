@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆走得很慢。",
+  "english": "Tom walks slowly.",
+  "pinyin": "Tāng mǔ zǒu de hěn màn.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "走",
+      "en": "walk",
+      "pi": "zǒu"
+    },
+    {
+      "ch": "得",
+      "en": "very",
+      "pi": "de"
+    },
+    {
+      "ch": "很",
+      "en": "slowly",
+      "pi": "hěn"
+    },
+    {
+      "ch": "慢",
+      "en": "slow",
+      "pi": "màn"
+    }
+  ]
+}

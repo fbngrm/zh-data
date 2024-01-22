@@ -1,0 +1,27 @@
+{
+  "chinese": "昨天我去电影院。",
+  "english": "Yesterday I went to the cinema.",
+  "pinyin": "zuó tiān wǒ qù diàn yǐng yuàn.",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "Yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "去",
+      "en": "went",
+      "pi": "qù"
+    },
+    {
+      "ch": "电影院",
+      "en": "cinema",
+      "pi": "diàn yǐng yuàn"
+    }
+  ]
+}

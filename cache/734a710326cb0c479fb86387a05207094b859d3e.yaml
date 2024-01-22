@@ -1,0 +1,32 @@
+{
+  "chinese": "我现在在打排球。",
+  "english": "I am playing volleyball now.",
+  "pinyin": "wǒ xiànzài zài dǎ páiqiú.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiànzài"
+    },
+    {
+      "ch": "在",
+      "en": "am",
+      "pi": "zài"
+    },
+    {
+      "ch": "打",
+      "en": "playing",
+      "pi": "dǎ"
+    },
+    {
+      "ch": "排球",
+      "en": "volleyball",
+      "pi": "páiqiú"
+    }
+  ]
+}

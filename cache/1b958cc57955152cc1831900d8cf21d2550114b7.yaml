@@ -1,0 +1,32 @@
+{
+  "chinese": "你们怎么读这个词？",
+  "english": "How do you pronounce this word?",
+  "pinyin": "nǐ men zěn me dú zhè ge cí?",
+  "words": [
+    {
+      "ch": "你们",
+      "en": "you (plural)",
+      "pi": "nǐ men"
+    },
+    {
+      "ch": "怎么",
+      "en": "how",
+      "pi": "zěn me"
+    },
+    {
+      "ch": "读",
+      "en": "to pronounce",
+      "pi": "dú"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè ge"
+    },
+    {
+      "ch": "词",
+      "en": "word",
+      "pi": "cí"
+    }
+  ]
+}

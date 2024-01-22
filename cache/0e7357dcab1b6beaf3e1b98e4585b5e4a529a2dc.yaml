@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆想要玛丽马上离开。",
+  "english": "Tom wants Mary to leave immediately.",
+  "pinyin": "tāng mǔ xiǎng yào mǎ lì mǎ shàng lí kāi。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "想要",
+      "en": "wants",
+      "pi": "xiǎng yào"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "马上",
+      "en": "immediately",
+      "pi": "mǎ shàng"
+    },
+    {
+      "ch": "离开",
+      "en": "to leave",
+      "pi": "lí kāi"
+    }
+  ]
+}

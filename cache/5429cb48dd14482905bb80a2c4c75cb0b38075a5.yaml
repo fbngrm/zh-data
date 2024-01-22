@@ -1,0 +1,12 @@
+{
+  "chinese": "你是日语学生吗？",
+  "english": "Are you a Japanese student?",
+  "pinyin": "nǐ shì rì yǔ xué shēng ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "是", "en": "are", "pi": "shì"},
+    {"ch": "日语", "en": "Japanese", "pi": "rì yǔ"},
+    {"ch": "学生", "en": "student", "pi": "xué shēng"},
+    {"ch": "吗", "en": "?", "pi": "ma"}
+  ]
+}

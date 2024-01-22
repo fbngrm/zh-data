@@ -1,0 +1,27 @@
+{
+  "chinese": "你是阿拉伯人吗？",
+  "english": "Are you Arab?",
+  "pinyin": "Nǐ shì ālābó rén ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "阿拉伯人",
+      "en": "Arab",
+      "pi": "ālābó rén"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

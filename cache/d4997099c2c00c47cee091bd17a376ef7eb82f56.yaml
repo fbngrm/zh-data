@@ -1,0 +1,14 @@
+{
+  "chinese": "世界上许多学生正在学习英语。",
+  "english": "Many students around the world are learning English.",
+  "pinyin": "shì jiè shàng xǔ duō xué shēng zhèng zài xué xí yīng yǔ。",
+  "words": [
+    {"ch": "世界", "en": "world", "pi": "shì jiè"},
+    {"ch": "上", "en": "above", "pi": "shàng"},
+    {"ch": "许多", "en": "many", "pi": "xǔ duō"},
+    {"ch": "学生", "en": "student", "pi": "xué shēng"},
+    {"ch": "正在", "en": "currently", "pi": "zhèng zài"},
+    {"ch": "学习", "en": "learn", "pi": "xué xí"},
+    {"ch": "英语", "en": "English", "pi": "yīng yǔ"}
+  ]
+}

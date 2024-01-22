@@ -1,0 +1,32 @@
+{
+  "chinese": "我把麦克风递给他。",
+  "english": "I handed the microphone to him.",
+  "pinyin": "wǒ bǎ mài kè fēng dì gěi tā。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "把",
+      "en": "handed",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "麦克风",
+      "en": "microphone",
+      "pi": "mài kè fēng"
+    },
+    {
+      "ch": "递给",
+      "en": "to",
+      "pi": "dì gěi"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    }
+  ]
+}

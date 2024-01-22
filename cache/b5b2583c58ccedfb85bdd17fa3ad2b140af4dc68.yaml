@@ -1,0 +1,32 @@
+{
+  "chinese": "她用刀子切苹果。",
+  "english": "She uses a knife to cut the apple.",
+  "pinyin": "tā yòng dāo zi qiē píng guǒ.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "用",
+      "en": "uses",
+      "pi": "yòng"
+    },
+    {
+      "ch": "刀子",
+      "en": "knife",
+      "pi": "dāo zi"
+    },
+    {
+      "ch": "切",
+      "en": "to cut",
+      "pi": "qiē"
+    },
+    {
+      "ch": "苹果",
+      "en": "apple",
+      "pi": "píng guǒ"
+    }
+  ]
+}

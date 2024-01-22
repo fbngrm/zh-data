@@ -1,0 +1,42 @@
+{
+  "chinese": "今天下午我会再见到你。",
+  "english": "I will see you again this afternoon.",
+  "pinyin": "jīntiān xiàwǔ wǒ huì zài jiàn dào nǐ.",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "下午",
+      "en": "afternoon",
+      "pi": "xiàwǔ"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "再见",
+      "en": "see you again",
+      "pi": "zài jiàn"
+    },
+    {
+      "ch": "到",
+      "en": "to",
+      "pi": "dào"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    }
+  ]
+}

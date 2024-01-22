@@ -1,0 +1,18 @@
+{
+  "chinese": "我用英語和他說話，但是他聽不懂。",
+  "english": "I speak to him in English, but he doesn't understand.",
+  "pinyin": "wǒ yòng yīngyǔ hé tā shuōhuà, dànshì tā tīng bù dǒng.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "用", "en": "use", "pi": "yòng" },
+    { "ch": "英語", "en": "English", "pi": "yīngyǔ" },
+    { "ch": "和", "en": "and", "pi": "hé" },
+    { "ch": "他", "en": "him", "pi": "tā" },
+    { "ch": "說話", "en": "speak", "pi": "shuōhuà" },
+    { "ch": "，", "en": ",", "pi": "dànshì" },
+    { "ch": "但是", "en": "but", "pi": "tā" },
+    { "ch": "他", "en": "he", "pi": "tā" },
+    { "ch": "聽不懂", "en": "doesn't understand", "pi": "tīng bù dǒng" },
+    { "ch": "。", "en": ".", "pi": "." }
+  ]
+}

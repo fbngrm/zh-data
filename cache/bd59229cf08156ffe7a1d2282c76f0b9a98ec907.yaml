@@ -1,0 +1,13 @@
+{
+  "chinese": "这个岛屿位于日本的西边。",
+  "english": "This island is located to the west of Japan.",
+  "pinyin": "zhè gè dǎo yǔ wèi yú rì běn de xī biān。",
+  "words": [
+    {"ch": "这个", "en": "this", "pi": "zhè gè"},
+    {"ch": "岛屿", "en": "island", "pi": "dǎo yǔ"},
+    {"ch": "位于", "en": "located", "pi": "wèi yú"},
+    {"ch": "日本", "en": "Japan", "pi": "rì běn"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "西边", "en": "west", "pi": "xī biān"}
+  ]
+}

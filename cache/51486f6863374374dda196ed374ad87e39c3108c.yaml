@@ -1,0 +1,32 @@
+{
+  "chinese": "人群聚集在这条街上。",
+  "english": "The crowd gathers on this street.",
+  "pinyin": "rén qún jù jí zài zhè tiáo jiē shàng。",
+  "words": [
+    {
+      "ch": "人群",
+      "en": "crowd",
+      "pi": "rén qún"
+    },
+    {
+      "ch": "聚集",
+      "en": "gather",
+      "pi": "jù jí"
+    },
+    {
+      "ch": "在",
+      "en": "on",
+      "pi": "zài"
+    },
+    {
+      "ch": "这条",
+      "en": "this",
+      "pi": "zhè tiáo"
+    },
+    {
+      "ch": "街上",
+      "en": "street",
+      "pi": "jiē shàng"
+    }
+  ]
+}

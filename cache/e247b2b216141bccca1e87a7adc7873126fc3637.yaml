@@ -1,0 +1,42 @@
+{
+  "chinese": "我八点钟吃了早餐。",
+  "english": "I had breakfast at eight o'clock.",
+  "pinyin": "wǒ bā diǎn zhōng chī le zǎo cān.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "八",
+      "en": "eight",
+      "pi": "bā"
+    },
+    {
+      "ch": "点",
+      "en": "o'clock",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "钟",
+      "en": "",
+      "pi": "zhōng"
+    },
+    {
+      "ch": "吃",
+      "en": "have",
+      "pi": "chī"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "早餐",
+      "en": "breakfast",
+      "pi": "zǎo cān"
+    }
+  ]
+}

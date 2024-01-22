@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆不在这里工作。",
+  "english": "Tom doesn't work here.",
+  "pinyin": "Tāng mǔ bù zài zhè lǐ gōng zuò.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "工作",
+      "en": "work",
+      "pi": "gōng zuò"
+    }
+  ]
+}

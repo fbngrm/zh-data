@@ -1,0 +1,42 @@
+{
+  "chinese": "他昨天在這場比賽中受了傷。",
+  "english": "He got injured in this game yesterday.",
+  "pinyin": "Tā zuótiān zài zhè chǎng bǐsài zhōng shòule shāng。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "Tā"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "這場",
+      "en": "this game",
+      "pi": "zhè chǎng"
+    },
+    {
+      "ch": "比賽",
+      "en": "game",
+      "pi": "bǐsài"
+    },
+    {
+      "ch": "中",
+      "en": "in",
+      "pi": "zhōng"
+    },
+    {
+      "ch": "受了傷",
+      "en": "got injured",
+      "pi": "shòule shāng"
+    }
+  ]
+}

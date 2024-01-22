@@ -1,0 +1,32 @@
+{
+  "chinese": "医院离这儿很远。",
+  "english": "The hospital is far from here.",
+  "pinyin": "Yīyuàn lí zhè'er hěn yuǎn.",
+  "words": [
+    {
+      "ch": "医院",
+      "en": "hospital",
+      "pi": "yīyuàn"
+    },
+    {
+      "ch": "离",
+      "en": "away from / distant from",
+      "pi": "lí"
+    },
+    {
+      "ch": "这儿",
+      "en": "here",
+      "pi": "zhè'er"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "远",
+      "en": "far",
+      "pi": "yuǎn"
+    }
+  ]
+}

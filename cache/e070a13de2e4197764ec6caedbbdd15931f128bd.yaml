@@ -1,0 +1,42 @@
+{
+  "chinese": "從這裡到倫敦要八英里。",
+  "english": "It is eight miles from here to London.",
+  "pinyin": "Cóng zhèlǐ dào lúndūn yào bā yīnglǐ.",
+  "words": [
+    {
+      "ch": "從",
+      "en": "From",
+      "pi": "cóng"
+    },
+    {
+      "ch": "這裡",
+      "en": "here",
+      "pi": "zhèlǐ"
+    },
+    {
+      "ch": "到",
+      "en": "to",
+      "pi": "dào"
+    },
+    {
+      "ch": "倫敦",
+      "en": "London",
+      "pi": "lúndūn"
+    },
+    {
+      "ch": "要",
+      "en": "be",
+      "pi": "yào"
+    },
+    {
+      "ch": "八",
+      "en": "eight",
+      "pi": "bā"
+    },
+    {
+      "ch": "英里",
+      "en": "miles",
+      "pi": "yīnglǐ"
+    }
+  ]
+}

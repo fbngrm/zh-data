@@ -1,0 +1,27 @@
+{
+  "chinese": "歌手你喜欢谁？",
+  "english": "Which singer do you like?",
+  "pinyin": "Gēshǒu nǐ xǐhuān shéi?",
+  "words": [
+    {
+      "ch": "歌手",
+      "en": "singer",
+      "pi": "gēshǒu"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "谁",
+      "en": "who",
+      "pi": "shéi"
+    }
+  ]
+}

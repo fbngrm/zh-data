@@ -1,0 +1,27 @@
+{
+  "chinese": "服务生，我要点菜。",
+  "english": "Waiter, I want to order food.",
+  "pinyin": "Fúwùshēng, wǒ yào diǎn cài.",
+  "words": [
+    {
+      "ch": "服务生",
+      "en": "Waiter",
+      "pi": "Fúwùshēng"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "点菜",
+      "en": "to order food",
+      "pi": "diǎn cài"
+    }
+  ]
+}

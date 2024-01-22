@@ -1,0 +1,47 @@
+{
+  "chinese": "我已经在这里工作了十年。",
+  "english": "I have been working here for ten years.",
+  "pinyin": "wǒ yǐjīng zài zhèlǐ gōngzuò le shí nián。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "已经",
+      "en": "have been",
+      "pi": "yǐjīng"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhèlǐ"
+    },
+    {
+      "ch": "工作",
+      "en": "work",
+      "pi": "gōngzuò"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating past tense",
+      "pi": "le"
+    },
+    {
+      "ch": "十",
+      "en": "ten",
+      "pi": "shí"
+    },
+    {
+      "ch": "年",
+      "en": "years",
+      "pi": "nián"
+    }
+  ]
+}

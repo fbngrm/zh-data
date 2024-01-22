@@ -1,0 +1,21 @@
+{
+  "chinese": "生气的时候，由一数到十；若气得不得了，就数到一百。",
+  "english": "When angry, count from one to ten; if extremely angry, count to one hundred.",
+  "pinyin": "shēng qì de shí hòu, yóu yī shǔ dào shí; ruò qì dé bù dé liǎo, jiù shǔ dào yī bǎi。",
+  "words": [
+    { "ch": "生气", "en": "angry", "pi": "shēng qì" },
+    { "ch": "的时候", "en": "when", "pi": "de shí hòu" },
+    { "ch": "由", "en": "from", "pi": "yóu" },
+    { "ch": "一", "en": "one", "pi": "yī" },
+    { "ch": "数", "en": "count", "pi": "shǔ" },
+    { "ch": "到", "en": "to", "pi": "dào" },
+    { "ch": "十", "en": "ten", "pi": "shí" },
+    { "ch": "若", "en": "if", "pi": "ruò" },
+    { "ch": "气得", "en": "angry", "pi": "qì dé" },
+    { "ch": "不得了", "en": "extremely", "pi": "bù dé liǎo" },
+    { "ch": "就", "en": "then", "pi": "jiù" },
+    { "ch": "数", "en": "count", "pi": "shǔ" },
+    { "ch": "到", "en": "to", "pi": "dào" },
+    { "ch": "一百", "en": "one hundred", "pi": "yī bǎi" }
+  ]
+}

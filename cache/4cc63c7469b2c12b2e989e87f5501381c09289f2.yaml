@@ -1,0 +1,32 @@
+{
+  "chinese": "这本小说很无聊。",
+  "english": "This novel is boring.",
+  "pinyin": "zhè běn xiǎo shuō hěn wú liáo.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "小说",
+      "en": "novel",
+      "pi": "xiǎo shuō"
+    },
+    {
+      "ch": "很",
+      "en": "is",
+      "pi": "hěn"
+    },
+    {
+      "ch": "无聊",
+      "en": "boring",
+      "pi": "wú liáo"
+    }
+  ]
+}

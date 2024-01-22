@@ -1,0 +1,32 @@
+{
+  "chinese": "我喜欢跟汤姆唱歌。",
+  "english": "I like singing with Tom.",
+  "pinyin": "wǒ xǐhuān gēn tāng mǔ chànggē.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "跟",
+      "en": "with",
+      "pi": "gēn"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "唱歌",
+      "en": "singing",
+      "pi": "chànggē"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "我的病给他治好了。",
+  "english": "He cured my illness.",
+  "pinyin": "wǒ de bìng gěi tā zhì hǎo le.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "病",
+      "en": "illness",
+      "pi": "bìng"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    },
+    {
+      "ch": "治好",
+      "en": "cured",
+      "pi": "zhì hǎo"
+    },
+    {
+      "ch": "了",
+      "en": "completed",
+      "pi": "le"
+    }
+  ]
+}

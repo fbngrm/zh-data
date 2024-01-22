@@ -1,0 +1,27 @@
+{
+  "chinese": "我是一个大学生。",
+  "english": "I am a college student.",
+  "pinyin": "wǒ shì yī gè dà xué shēng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "是",
+      "en": "am",
+      "pi": "shì"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "大学生",
+      "en": "college student",
+      "pi": "dà xué shēng"
+    }
+  ]
+}

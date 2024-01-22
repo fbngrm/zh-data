@@ -1,0 +1,37 @@
+{
+  "chinese": "箱子里有任何东西吗?",
+  "english": "Is there anything inside the box?",
+  "pinyin": "xiāng zi lǐ yǒu rèn hé dōng xi ma?",
+  "words": [
+    {
+      "ch": "箱子",
+      "en": "box",
+      "pi": "xiāng zi"
+    },
+    {
+      "ch": "里",
+      "en": "inside",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "任何",
+      "en": "any",
+      "pi": "rèn hé"
+    },
+    {
+      "ch": "东西",
+      "en": "thing",
+      "pi": "dōng xi"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

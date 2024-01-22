@@ -1,0 +1,47 @@
+{
+  "chinese": "我不知道今天是星期二还是星期三。",
+  "english": "I don't know if today is Tuesday or Wednesday.",
+  "pinyin": "wǒ bù zhīdào jīntiān shì xīngqí'èr háishì xīngqí'sān。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "星期二",
+      "en": "Tuesday",
+      "pi": "xīngqí'èr"
+    },
+    {
+      "ch": "还是",
+      "en": "or",
+      "pi": "háishì"
+    },
+    {
+      "ch": "星期三",
+      "en": "Wednesday",
+      "pi": "xīngqí'sān"
+    }
+  ]
+}

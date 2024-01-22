@@ -1,0 +1,16 @@
+{
+  "chinese": "不论你有没有钱，我都爱你。",
+  "english": "Whether you have money or not, I love you.",
+  "pinyin": "bù lùn nǐ yǒu méi yǒu qián, wǒ dōu ài nǐ。",
+  "words": [
+    {"ch":"不论", "en":"Whether", "pi":"bù lùn"},
+    {"ch":"你", "en":"you", "pi":"nǐ"},
+    {"ch":"有", "en":"have", "pi":"yǒu"},
+    {"ch":"没有", "en":"don't have", "pi":"méi yǒu"},
+    {"ch":"钱", "en":"money", "pi":"qián"},
+    {"ch":"我", "en":"I", "pi":"wǒ"},
+    {"ch":"都", "en":"both", "pi":"dōu"},
+    {"ch":"爱", "en":"love", "pi":"ài"},
+    {"ch":"你", "en":"you", "pi":"nǐ"}
+  ]
+}

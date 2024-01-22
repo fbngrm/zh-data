@@ -1,0 +1,11 @@
+{
+  "chinese": "我们是熟人吗？",
+  "english": "Are we familiar?",
+  "pinyin": "wǒmen shì shúrén ma?",
+  "words": [
+    {"ch": "我们", "en": "we", "pi": "wǒmen"},
+    {"ch": "是", "en": "are", "pi": "shì"},
+    {"ch": "熟人", "en": "familiar", "pi": "shúrén"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆知道怎么做那事。",
+  "english": "Tom knows how to do that.",
+  "pinyin": "Tāng mǔ zhī dào zěnme zuò nà shì.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "怎么",
+      "en": "how",
+      "pi": "zěnme"
+    },
+    {
+      "ch": "做",
+      "en": "to do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "那事",
+      "en": "that",
+      "pi": "nà shì"
+    }
+  ]
+}

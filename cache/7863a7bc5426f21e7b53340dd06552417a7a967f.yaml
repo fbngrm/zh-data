@@ -1,0 +1,32 @@
+{
+  "chinese": "他学了两个小时。",
+  "english": "He studied for two hours.",
+  "pinyin": "tā xué le liǎng gè xiǎoshí.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "学",
+      "en": "study",
+      "pi": "xué"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "两个",
+      "en": "two",
+      "pi": "liǎng gè"
+    },
+    {
+      "ch": "小时",
+      "en": "hours",
+      "pi": "xiǎoshí"
+    }
+  ]
+}

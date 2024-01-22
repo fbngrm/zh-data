@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆是个无聊的人。",
+  "english": "Tom is a boring person.",
+  "pinyin": "Tāng mǔ shì gè wú liáo de rén.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "无聊",
+      "en": "boring",
+      "pi": "wú liáo"
+    },
+    {
+      "ch": "的",
+      "en": "person",
+      "pi": "de"
+    },
+    {
+      "ch": "人",
+      "en": "person",
+      "pi": "rén"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "chinese": "我想你将我认成别人了。",
+  "english": "I think you mistook me for someone else.",
+  "pinyin": "wǒ xiǎng nǐ jiāng wǒ rèn chéng bié rén le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "think",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "将",
+      "en": "mistook",
+      "pi": "jiāng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "认成",
+      "en": "for",
+      "pi": "rèn chéng"
+    },
+    {
+      "ch": "别人",
+      "en": "someone else",
+      "pi": "bié rén"
+    },
+    {
+      "ch": "了",
+      "en": "end particle",
+      "pi": "le"
+    }
+  ]
+}

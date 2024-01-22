@@ -1,0 +1,15 @@
+{
+  "chinese": "请写信告诉我你们学校的情况。",
+  "english": "Please write a letter to tell me about the situation of your school.",
+  "pinyin": "Qǐng xiě xìn gàosu wǒ nǐmen xuéxiào de qíngkuàng.",
+  "words": [
+    {"ch": "请", "en": "Please", "pi": "qǐng"},
+    {"ch": "写信", "en": "write a letter", "pi": "xiě xìn"},
+    {"ch": "告诉", "en": "tell", "pi": "gàosu"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "你们", "en": "your", "pi": "nǐmen"},
+    {"ch": "学校", "en": "school", "pi": "xuéxiào"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "情况", "en": "situation", "pi": "qíngkuàng"}
+  ]
+}

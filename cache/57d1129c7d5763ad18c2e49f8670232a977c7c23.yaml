@@ -1,0 +1,37 @@
+{
+  "chinese": "我收到了她的来信。",
+  "english": "I have received her letter.",
+  "pinyin": "wǒ shōu dào le tā de lái xìn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "收到",
+      "en": "receive",
+      "pi": "shōu dào"
+    },
+    {
+      "ch": "了",
+      "en": "have",
+      "pi": "le"
+    },
+    {
+      "ch": "她",
+      "en": "her",
+      "pi": "tā"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "来信",
+      "en": "letter",
+      "pi": "lái xìn"
+    }
+  ]
+}

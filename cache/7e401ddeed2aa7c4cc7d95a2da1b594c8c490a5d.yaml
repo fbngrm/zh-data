@@ -1,0 +1,15 @@
+{
+  "chinese": "这种荒谬的迷信已不复存在了。",
+  "english": "This absurd superstition no longer exists.",
+  "pinyin": "zhè zhǒng huāng mìu de mí xìn yǐ bù fù cún zài le.",
+  "words": [
+    {"ch": "这种", "en": "this kind", "pi": "zhè zhǒng"},
+    {"ch": "荒谬", "en": "absurd", "pi": "huāng mìu"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "迷信", "en": "superstition", "pi": "mí xìn"},
+    {"ch": "已", "en": "already", "pi": "yǐ"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "复存在", "en": "exist anymore", "pi": "fù cún zài"},
+    {"ch": "了", "en": "anymore", "pi": "le"}
+  ]
+}

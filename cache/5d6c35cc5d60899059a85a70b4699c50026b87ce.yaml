@@ -1,0 +1,13 @@
+{
+  "chinese": "我不知道汤姆没有驾照。",
+  "english": "I don't know that Tom doesn't have a driver's license.",
+  "pinyin": "wǒ bù zhīdào Tāngmǔ méiyǒu jiàzhào.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "不", "en": "don't", "pi": "bù"},
+    {"ch": "知道", "en": "know", "pi": "zhīdào"},
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāngmǔ"},
+    {"ch": "没有", "en": "doesn't have", "pi": "méiyǒu"},
+    {"ch": "驾照", "en": "driver's license", "pi": "jiàzhào"}
+  ]
+}

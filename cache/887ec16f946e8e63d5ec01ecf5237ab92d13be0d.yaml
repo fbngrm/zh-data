@@ -1,0 +1,32 @@
+{
+  "chinese": "汽车在汽车工厂生产的。",
+  "english": "Cars are produced in car factories.",
+  "pinyin": "qìchē zài qìchē gōngchǎng shēngchǎn de.",
+  "words": [
+    {
+      "ch": "汽车",
+      "en": "Cars",
+      "pi": "qìchē"
+    },
+    {
+      "ch": "在",
+      "en": "are",
+      "pi": "zài"
+    },
+    {
+      "ch": "汽车工厂",
+      "en": "car factories",
+      "pi": "qìchē gōngchǎng"
+    },
+    {
+      "ch": "生产",
+      "en": "produced",
+      "pi": "shēngchǎn"
+    },
+    {
+      "ch": "的",
+      "en": "in",
+      "pi": "de"
+    }
+  ]
+}

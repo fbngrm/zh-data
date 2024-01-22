@@ -1,0 +1,13 @@
+{
+  "chinese": "小老虎看起來像隻大貓。",
+  "english": "The little tiger looks like a big cat.",
+  "pinyin": "xiǎo lǎo hǔ kàn qǐ lái xiàng zhī dà māo.",
+  "words": [
+    {"ch": "小", "en": "little", "pi": "xiǎo"},
+    {"ch": "老虎", "en": "tiger", "pi": "lǎo hǔ"},
+    {"ch": "看起來", "en": "looks like", "pi": "kàn qǐ lái"},
+    {"ch": "像", "en": "like", "pi": "xiàng"},
+    {"ch": "隻", "en": "a", "pi": "zhī"},
+    {"ch": "大貓", "en": "big cat", "pi": "dà māo"}
+  ]
+}

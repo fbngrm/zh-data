@@ -1,0 +1,42 @@
+{
+  "chinese": "我是个兵库大学的学生。",
+  "english": "I am a student at Hyogo University.",
+  "pinyin": "wǒ shì gè bīngkù dàxué de xuéshēng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "是",
+      "en": "am",
+      "pi": "shì"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "兵库",
+      "en": "Hyogo",
+      "pi": "bīngkù"
+    },
+    {
+      "ch": "大学",
+      "en": "University",
+      "pi": "dàxué"
+    },
+    {
+      "ch": "的",
+      "en": "at",
+      "pi": "de"
+    },
+    {
+      "ch": "学生",
+      "en": "student",
+      "pi": "xuéshēng"
+    }
+  ]
+}

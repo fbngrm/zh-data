@@ -1,0 +1,55 @@
+{
+  "chinese": "这台电脑是你的，不是吗？",
+  "english": "Is this computer yours?",
+  "pinyin": "zhè tái diàn nǎo shì nǐ de, bú shì ma?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "台",
+      "en": "computer",
+      "pi": "tái"
+    },
+    {
+      "ch": "电脑",
+      "en": "is",
+      "pi": "diàn nǎo"
+    },
+    {
+      "ch": "是",
+      "en": "yours",
+      "pi": "shì"
+    },
+    {
+      "ch": "你的",
+      "en": "isn't it?",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "，",
+      "en": ","
+    },
+    {
+      "ch": "不",
+      "en": "no",
+      "pi": "bú"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    },
+    {
+      "ch": "？",
+      "en": "?"
+    }
+  ]
+}

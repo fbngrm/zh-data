@@ -1,0 +1,42 @@
+{
+  "chinese": "这家公司由一个外国人经营。",
+  "english": "This company is managed by a foreigner.",
+  "pinyin": "zhè jiā gōngsī yóu yī gè wàiguó rén jīngyíng。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "家",
+      "en": "company",
+      "pi": "jiā"
+    },
+    {
+      "ch": "公司",
+      "en": "company",
+      "pi": "gōngsī"
+    },
+    {
+      "ch": "由",
+      "en": "by",
+      "pi": "yóu"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "外国人",
+      "en": "foreigner",
+      "pi": "wàiguó rén"
+    },
+    {
+      "ch": "经营",
+      "en": "to manage",
+      "pi": "jīngyíng"
+    }
+  ]
+}

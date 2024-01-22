@@ -1,0 +1,27 @@
+{
+  "chinese": "一些人用手吃寿司。",
+  "english": "Some people eat sushi with their hands.",
+  "pinyin": "yī xiē rén yòng shǒu chī shòu sī.",
+  "words": [
+    {
+      "ch": "一些人",
+      "en": "Some people",
+      "pi": "yī xiē rén"
+    },
+    {
+      "ch": "用手",
+      "en": "with their hands",
+      "pi": "yòng shǒu"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "寿司",
+      "en": "sushi",
+      "pi": "shòu sī"
+    }
+  ]
+}

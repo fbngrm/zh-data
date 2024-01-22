@@ -1,0 +1,32 @@
+{
+  "chinese": "每２０分钟有一班车。",
+  "english": "There is a bus every 20 minutes.",
+  "pinyin": "Měi èr shí fēnzhōng yǒu yī bānchē.",
+  "words": [
+    {
+      "ch": "每",
+      "en": "every",
+      "pi": "měi"
+    },
+    {
+      "ch": "２０",
+      "en": "20",
+      "pi": "èr shí"
+    },
+    {
+      "ch": "分钟",
+      "en": "minutes",
+      "pi": "fēnzhōng"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一班车",
+      "en": "a bus",
+      "pi": "yī bānchē"
+    }
+  ]
+}

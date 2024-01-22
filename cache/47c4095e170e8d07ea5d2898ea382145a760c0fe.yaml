@@ -1,0 +1,32 @@
+{
+  "chinese": "他才从图书馆回来。",
+  "english": "He just came back from the library.",
+  "pinyin": "tā cái cóng túshūguǎn huí lái.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "才",
+      "en": "just",
+      "pi": "cái"
+    },
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "图书馆",
+      "en": "library",
+      "pi": "túshūguǎn"
+    },
+    {
+      "ch": "回来",
+      "en": "came back",
+      "pi": "huí lái"
+    }
+  ]
+}

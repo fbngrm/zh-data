@@ -1,0 +1,37 @@
+{
+  "chinese": "这本书的内容是什么？",
+  "english": "What is the content of this book?",
+  "pinyin": "zhè běn shū de nèi róng shì shén me?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本书",
+      "en": "book",
+      "pi": "běn shū"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "内容",
+      "en": "content",
+      "pi": "nèi róng"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shén me"
+    }
+  ]
+}

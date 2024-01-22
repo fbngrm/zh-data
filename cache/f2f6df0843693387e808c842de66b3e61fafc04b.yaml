@@ -1,0 +1,32 @@
+{
+  "chinese": "你什么时候出生的?",
+  "english": "When were you born?",
+  "pinyin": "Nǐ shénme shíhòu chūshēng de?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "时候",
+      "en": "when",
+      "pi": "shíhòu"
+    },
+    {
+      "ch": "出生",
+      "en": "born",
+      "pi": "chūshēng"
+    },
+    {
+      "ch": "的",
+      "en": "particle",
+      "pi": "de"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "您有电邮地址吗？",
+  "english": "Do you have an email address?",
+  "pinyin": "Nín yǒu diànyóu dìzhǐ ma?",
+  "words": [
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "电邮",
+      "en": "email",
+      "pi": "diànyóu"
+    },
+    {
+      "ch": "地址",
+      "en": "address",
+      "pi": "dìzhǐ"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

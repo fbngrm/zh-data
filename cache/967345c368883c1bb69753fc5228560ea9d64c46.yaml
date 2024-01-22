@@ -1,0 +1,14 @@
+{
+  "chinese": "你只需要回答头一个问题。",
+  "english": "You only need to answer the first question.",
+  "pinyin": "nǐ zhǐ xūyào huídá tóu yīgè wèntí.",
+  "words": [
+    {"ch": "你", "en": "You", "pi": "nǐ"},
+    {"ch": "只", "en": "only", "pi": "zhǐ"},
+    {"ch": "需要", "en": "need", "pi": "xūyào"},
+    {"ch": "回答", "en": "answer", "pi": "huídá"},
+    {"ch": "头", "en": "first", "pi": "tóu"},
+    {"ch": "一个", "en": "one", "pi": "yīgè"},
+    {"ch": "问题", "en": "question", "pi": "wèntí"}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "不好意思，這本書已經賣完了。",
+  "english": "Sorry, this book is already sold out.",
+  "pinyin": "bù hǎo yì si, zhè běn shū yǐ jīng mài wán le。",
+  "words": [
+    {"ch": "不好意思", "en": "Sorry", "pi": "bù hǎo yì si"},
+    {"ch": "這", "en": "this", "pi": "zhè"},
+    {"ch": "本書", "en": "book", "pi": "běn shū"},
+    {"ch": "已經", "en": "already", "pi": "yǐ jīng"},
+    {"ch": "賣完", "en": "sold out", "pi": "mài wán"},
+    {"ch": "了", "en": "is", "pi": "le"}
+  ]
+}

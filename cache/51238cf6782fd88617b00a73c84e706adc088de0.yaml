@@ -1,0 +1,32 @@
+{
+  "chinese": "我会说一点日文。",
+  "english": "I can speak a little Japanese.",
+  "pinyin": "wǒ huì shuō yī diǎn rì wén.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "一点",
+      "en": "a little",
+      "pi": "yī diǎn"
+    },
+    {
+      "ch": "日文",
+      "en": "Japanese",
+      "pi": "rì wén"
+    }
+  ]
+}

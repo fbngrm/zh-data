@@ -1,0 +1,32 @@
+{
+  "chinese": "这里有个更好的。",
+  "english": "Here is a better one.",
+  "pinyin": "zhè lǐ yǒu gè gèng hǎo de.",
+  "words": [
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have/is",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "更好",
+      "en": "better",
+      "pi": "gèng hǎo"
+    },
+    {
+      "ch": "的",
+      "en": "one",
+      "pi": "de"
+    }
+  ]
+}

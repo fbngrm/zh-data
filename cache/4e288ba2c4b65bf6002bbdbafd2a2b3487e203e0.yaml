@@ -1,0 +1,42 @@
+{
+  "chinese": "他给这只狗一些肉。",
+  "english": "He gave the dog some meat.",
+  "pinyin": "tā gěi zhè zhī gǒu yīxiē ròu.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "给",
+      "en": "gave",
+      "pi": "gěi"
+    },
+    {
+      "ch": "这",
+      "en": "the",
+      "pi": "zhè"
+    },
+    {
+      "ch": "只",
+      "en": "dog",
+      "pi": "zhī"
+    },
+    {
+      "ch": "狗",
+      "en": "some",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "一些",
+      "en": "meat",
+      "pi": "yīxiē"
+    },
+    {
+      "ch": "肉",
+      "en": "meat",
+      "pi": "ròu"
+    }
+  ]
+}

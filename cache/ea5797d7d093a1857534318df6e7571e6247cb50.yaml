@@ -1,0 +1,32 @@
+{
+  "chinese": "领带和我的西装不配。",
+  "english": "The tie doesn't match my suit.",
+  "pinyin": "lǐng dài hé wǒ de xī zhuāng bù pèi.",
+  "words": [
+    {
+      "ch": "领带",
+      "en": "tie",
+      "pi": "lǐng dài"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "西装",
+      "en": "suit",
+      "pi": "xī zhuāng"
+    },
+    {
+      "ch": "不配",
+      "en": "not match",
+      "pi": "bù pèi"
+    }
+  ]
+}

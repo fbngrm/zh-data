@@ -1,0 +1,15 @@
+{
+  "chinese": "是你準備好茶的時候了。",
+  "english": "It's time for you to prepare tea.",
+  "pinyin": "shì nǐ zhǔn bèi hǎo chá de shí hòu le。",
+  "words": [
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "準備", "en": "prepare", "pi": "zhǔn bèi"},
+    {"ch": "好", "en": "good", "pi": "hǎo"},
+    {"ch": "茶", "en": "tea", "pi": "chá"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "時候", "en": "time", "pi": "shí hòu"},
+    {"ch": "了", "en": "already", "pi": "le"}
+  ]
+}

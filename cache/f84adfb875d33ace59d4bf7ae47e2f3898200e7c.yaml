@@ -1,0 +1,32 @@
+{
+  "chinese": "猎人在田野追兔子",
+  "english": "The hunter is chasing rabbits in the field",
+  "pinyin": "liè rén zài tián yě zhuī tù zi",
+  "words": [
+    {
+      "ch": "猎人",
+      "en": "hunter",
+      "pi": "liè rén"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "田野",
+      "en": "field",
+      "pi": "tián yě"
+    },
+    {
+      "ch": "追",
+      "en": "chasing",
+      "pi": "zhuī"
+    },
+    {
+      "ch": "兔子",
+      "en": "rabbits",
+      "pi": "tù zi"
+    }
+  ]
+}

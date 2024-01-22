@@ -1,0 +1,32 @@
+{
+  "chinese": "你打扫你的房间了吗？",
+  "english": "Have you cleaned your room?",
+  "pinyin": "nǐ dǎsǎo nǐ de fángjiān le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "打扫",
+      "en": "clean",
+      "pi": "dǎsǎo"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "房间",
+      "en": "room",
+      "pi": "fángjiān"
+    },
+    {
+      "ch": "了吗",
+      "en": "have you",
+      "pi": "le ma"
+    }
+  ]
+}

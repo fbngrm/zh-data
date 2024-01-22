@@ -1,0 +1,128 @@
+{
+  "sentences": [
+    {
+      "chinese": "第十一页的地图看起来十分奇怪。",
+      "english": "The map on the tenth page looks very strange.",
+      "pinyin": "dì shí yī yè de dì tú kàn qǐ lái shí fēn qí guài。",
+      "words": [
+        {
+          "ch": "第十一页",
+          "en": "tenth page",
+          "pi": "dì shí yī yè"
+        },
+        {
+          "ch": "的",
+          "en": "of",
+          "pi": "de"
+        },
+        {
+          "ch": "地图",
+          "en": "map",
+          "pi": "dì tú"
+        },
+        {
+          "ch": "看起来",
+          "en": "looks",
+          "pi": "kàn qǐ lái"
+        },
+        {
+          "ch": "十分",
+          "en": "very",
+          "pi": "shí fēn"
+        },
+        {
+          "ch": "奇怪",
+          "en": "strange",
+          "pi": "qí guài"
+        }
+      ]
+    },
+    {
+      "chinese": "可是，把它上下倒转来看的话，就会变回你所熟悉的地图了。",
+      "english": "However, if you turn it upside down, it will become a map you're familiar with.",
+      "pinyin": "kě shì，bǎ tā shàng xià dào zhuǎn lái kàn de huà，jiù huì biàn huí nǐ suǒ shú xī de dì tú le。",
+      "words": [
+        {
+          "ch": "可是",
+          "en": "however",
+          "pi": "kě shì"
+        },
+        {
+          "ch": "把",
+          "en": "turn",
+          "pi": "bǎ"
+        },
+        {
+          "ch": "它",
+          "en": "it",
+          "pi": "tā"
+        },
+        {
+          "ch": "上下",
+          "en": "upside down",
+          "pi": "shàng xià"
+        },
+        {
+          "ch": "倒转",
+          "en": "reverse",
+          "pi": "dào zhuǎn"
+        },
+        {
+          "ch": "来",
+          "en": "to",
+          "pi": "lái"
+        },
+        {
+          "ch": "看",
+          "en": "look",
+          "pi": "kàn"
+        },
+        {
+          "ch": "的话",
+          "en": "if",
+          "pi": "de huà"
+        },
+        {
+          "ch": "就会",
+          "en": "will",
+          "pi": "jiù huì"
+        },
+        {
+          "ch": "变回",
+          "en": "become",
+          "pi": "biàn huí"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "所",
+          "en": "of",
+          "pi": "suǒ"
+        },
+        {
+          "ch": "熟悉",
+          "en": "familiar with",
+          "pi": "shú xī"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": ""
+        },
+        {
+          "ch": "地图",
+          "en": "map",
+          "pi": "dì tú"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": ""
+        }
+      ]
+    }
+  ]
+}

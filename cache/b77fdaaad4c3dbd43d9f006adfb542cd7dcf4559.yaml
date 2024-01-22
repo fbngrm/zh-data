@@ -1,0 +1,42 @@
+{
+  "chinese": "这些书里没有一本是有用的。",
+  "english": "None of these books are useful.",
+  "pinyin": "zhè xiē shū lǐ méi yǒu yī běn shì yǒu yòng de.",
+  "words": [
+    {
+      "ch": "这些",
+      "en": "these",
+      "pi": "zhè xiē"
+    },
+    {
+      "ch": "书",
+      "en": "books",
+      "pi": "shū"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "没有",
+      "en": "no",
+      "pi": "méi yǒu"
+    },
+    {
+      "ch": "一本",
+      "en": "a",
+      "pi": "yī běn"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "有用的",
+      "en": "useful",
+      "pi": "yǒu yòng de"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "菜单上有各种各样的菜色。",
+  "english": "There are various dishes on the menu.",
+  "pinyin": "cài dān shàng yǒu gè zhǒng gè yàng de cài sè.",
+  "words": [
+    {"ch": "菜单", "en": "menu", "pi": "cài dān"},
+    {"ch": "上", "en": "on", "pi": "shàng"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "各种各样", "en": "various", "pi": "gè zhǒng gè yàng"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "菜色", "en": "dishes", "pi": "cài sè"}
+  ]
+}

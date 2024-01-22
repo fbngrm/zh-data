@@ -1,0 +1,32 @@
+{
+  "chinese": "我见过狗游泳渡河。",
+  "english": "I have seen a dog swimming across the river.",
+  "pinyin": "wǒ jiànguò gǒu yóuyǒng dùhé.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "见过",
+      "en": "have seen",
+      "pi": "jiànguò"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "游泳",
+      "en": "swimming",
+      "pi": "yóuyǒng"
+    },
+    {
+      "ch": "渡河",
+      "en": "across the river",
+      "pi": "dùhé"
+    }
+  ]
+}

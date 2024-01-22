@@ -1,0 +1,32 @@
+{
+  "chinese": "这是一座古城。",
+  "english": "This is an ancient city.",
+  "pinyin": "zhè shì yī zuò gǔ chéng.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "一",
+      "en": "an",
+      "pi": "yī"
+    },
+    {
+      "ch": "座",
+      "en": "ancient",
+      "pi": "zuò"
+    },
+    {
+      "ch": "古城",
+      "en": "city",
+      "pi": "gǔ chéng"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "我明天有课。",
+  "pinyin": "wǒ míng tiān yǒu kè。",
+  "english": "I have class tomorrow.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "课",
+      "en": "class",
+      "pi": "kè"
+    }
+  ]
+}

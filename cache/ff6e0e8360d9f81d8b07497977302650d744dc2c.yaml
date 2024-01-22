@@ -1,0 +1,27 @@
+{
+  "chinese": "你好！我叫小雨。",
+  "english": "Hello! My name is Xiaoyu.",
+  "pinyin": "nǐ hǎo！wǒ jiào xiǎo yǔ.",
+  "words": [
+    {
+      "ch": "你好",
+      "en": "Hello",
+      "pi": "nǐ hǎo"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "叫",
+      "en": "call",
+      "pi": "jiào"
+    },
+    {
+      "ch": "小雨",
+      "en": "Xiaoyu",
+      "pi": "xiǎo yǔ"
+    }
+  ]
+}

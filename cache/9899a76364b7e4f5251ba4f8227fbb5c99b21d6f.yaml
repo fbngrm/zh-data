@@ -1,0 +1,17 @@
+{
+  "chinese": "昨天太冷了，我只好待在家里。",
+  "english": "Yesterday was too cold, so I had to stay at home.",
+  "pinyin": "Zuótiān tài lěng le, wǒ zhǐhǎo dāizài jiālǐ.",
+  "words": [
+    {"ch": "昨天", "en": "yesterday", "pi": "zuótiān"},
+    {"ch": "太", "en": "too", "pi": "tài"},
+    {"ch": "冷", "en": "cold", "pi": "lěng"},
+    {"ch": "了", "en": "was", "pi": "le"},
+    {"ch": "，", "en": "", "pi": ""},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "只好", "en": "had to", "pi": "zhǐhǎo"},
+    {"ch": "待在", "en": "stay", "pi": "dāizài"},
+    {"ch": "家里", "en": "at home", "pi": "jiālǐ"},
+    {"ch": "。", "en": "", "pi": ""}
+  ]
+}

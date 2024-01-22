@@ -1,0 +1,32 @@
+{
+  "chinese": "我们先吃饭，然后去。",
+  "english": "We eat first, then go.",
+  "pinyin": "wǒmen xiān chīfàn, ránhòu qù.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "先",
+      "en": "first",
+      "pi": "xiān"
+    },
+    {
+      "ch": "吃饭",
+      "en": "eat",
+      "pi": "chīfàn"
+    },
+    {
+      "ch": "然后",
+      "en": "then",
+      "pi": "ránhòu"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    }
+  ]
+}

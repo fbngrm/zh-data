@@ -1,0 +1,14 @@
+{
+  "chinese": "这不是标准的英式读法。",
+  "english": "This is not the standard British pronunciation.",
+  "pinyin": "zhè bú shì biāo zhǔn de yīng shì dú fǎ。",
+  "words": [
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "不", "en": "not", "pi": "bú"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "标准", "en": "standard", "pi": "biāo zhǔn"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "英式", "en": "British", "pi": "yīng shì"},
+    {"ch": "读法", "en": "pronunciation", "pi": "dú fǎ"}
+  ]
+}

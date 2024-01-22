@@ -1,0 +1,14 @@
+{
+  "chinese": "我叔叔送了我一样礼物。",
+  "english": "My uncle gave me a gift.",
+  "pinyin": "wǒ shūshu sòng le wǒ yīyàng lǐwù.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "叔叔", "en": "uncle", "pi": "shūshu"},
+    {"ch": "送", "en": "give", "pi": "sòng"},
+    {"ch": "了", "en": "particle indicating completion", "pi": "le"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "一样", "en": "same", "pi": "yīyàng"},
+    {"ch": "礼物", "en": "gift", "pi": "lǐwù"}
+  ]
+}

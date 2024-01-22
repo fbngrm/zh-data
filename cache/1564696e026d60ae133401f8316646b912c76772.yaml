@@ -1,0 +1,42 @@
+{
+  "chinese": "我不知道汤姆往哪去了。",
+  "english": "I don't know where Tom went.",
+  "pinyin": "wǒ bù zhīdào tāng mǔ wǎng nǎ qù le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "往",
+      "en": "went",
+      "pi": "wǎng"
+    },
+    {
+      "ch": "哪",
+      "en": "where",
+      "pi": "nǎ"
+    },
+    {
+      "ch": "去了",
+      "en": "went",
+      "pi": "qù le"
+    }
+  ]
+}

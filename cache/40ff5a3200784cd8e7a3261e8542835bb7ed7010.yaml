@@ -1,0 +1,32 @@
+{
+  "chinese": "您有日本啤酒吗？",
+  "english": "Do you have Japanese beer?",
+  "pinyin": "nín yǒu Rìběn píjiǔ ma?",
+  "words": [
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "日本",
+      "en": "Japanese",
+      "pi": "Rìběn"
+    },
+    {
+      "ch": "啤酒",
+      "en": "beer",
+      "pi": "píjiǔ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

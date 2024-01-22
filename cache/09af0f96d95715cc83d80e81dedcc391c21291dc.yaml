@@ -1,0 +1,42 @@
+{
+  "chinese": "我打算明天在家里待一天。",
+  "english": "I plan to stay at home all day tomorrow.",
+  "pinyin": "wǒ dǎ suàn míng tiān zài jiā lǐ dāi yī tiān.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "打算",
+      "en": "plan",
+      "pi": "dǎ suàn"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "家里",
+      "en": "home",
+      "pi": "jiā lǐ"
+    },
+    {
+      "ch": "待",
+      "en": "stay",
+      "pi": "dāi"
+    },
+    {
+      "ch": "一天",
+      "en": "all day",
+      "pi": "yī tiān"
+    }
+  ]
+}

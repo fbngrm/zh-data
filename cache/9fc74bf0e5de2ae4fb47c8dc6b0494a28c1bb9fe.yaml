@@ -1,0 +1,37 @@
+{
+  "chinese": "我们这周的主题是：_____。",
+  "english": "The theme of our week is: _____.",
+  "pinyin": "wǒmen zhè zhōu de zhǔtí shì: _____.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "这周",
+      "en": "this week",
+      "pi": "zhè zhōu"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "主题",
+      "en": "theme",
+      "pi": "zhǔtí"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "_____",
+      "en": "_____",
+      "pi": "_____"
+    }
+  ]
+}

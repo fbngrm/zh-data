@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆的自行车昨天被偷了。",
+  "english": "Tom's bike was stolen yesterday.",
+  "pinyin": "Tāng mǔ de zì xíng chē zuó tiān bèi tōu liǎo.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "自行车",
+      "en": "bike",
+      "pi": "zì xíng chē"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "被",
+      "en": "by",
+      "pi": "bèi"
+    },
+    {
+      "ch": "偷",
+      "en": "stolen",
+      "pi": "tōu"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "liǎo"
+    }
+  ]
+}

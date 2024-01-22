@@ -1,0 +1,27 @@
+{
+  "chinese": "白天越来越长了。",
+  "english": "The days are getting longer.",
+  "pinyin": "bái tiān yuè lái yuè cháng le.",
+  "words": [
+    {
+      "ch": "白天",
+      "en": "daytime",
+      "pi": "bái tiān"
+    },
+    {
+      "ch": "越来越",
+      "en": "getting more and more",
+      "pi": "yuè lái yuè"
+    },
+    {
+      "ch": "长",
+      "en": "long",
+      "pi": "cháng"
+    },
+    {
+      "ch": "了",
+      "en": "(particle indicating a completed action)",
+      "pi": "le"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我看到天花板上有一只苍蝇",
+  "english": "I saw a fly on the ceiling",
+  "pinyin": "Wǒ kàndào tiānhuābǎn shàng yǒu yì zhī cāngyíng",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "看到",
+      "en": "saw",
+      "pi": "kàndào"
+    },
+    {
+      "ch": "天花板",
+      "en": "ceiling",
+      "pi": "tiānhuābǎn"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一只",
+      "en": "a",
+      "pi": "yì zhī"
+    },
+    {
+      "ch": "苍蝇",
+      "en": "fly",
+      "pi": "cāngyíng"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我看了他的书。",
+  "english": "I read his book.",
+  "pinyin": "wǒ kànle tā de shū.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "看",
+      "en": "read",
+      "pi": "kàn"
+    },
+    {
+      "ch": "了",
+      "en": "了",
+      "pi": "le"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "书。",
+      "en": "book.",
+      "pi": "shū."
+    }
+  ]
+}

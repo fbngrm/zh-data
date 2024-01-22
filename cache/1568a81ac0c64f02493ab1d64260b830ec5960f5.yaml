@@ -1,0 +1,14 @@
+{
+  "chinese": "我给你五块钱吧。",
+  "english": "I'll give you five yuan.",
+  "pinyin": "wǒ gěi nǐ wǔ kuài qián ba.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "给", "en": "give", "pi": "gěi" },
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "五", "en": "five", "pi": "wǔ" },
+    { "ch": "块", "en": "yuan", "pi": "kuài" },
+    { "ch": "钱", "en": "money", "pi": "qián" },
+    { "ch": "吧", "en": "particle indicating suggestion", "pi": "ba" }
+  ]
+}

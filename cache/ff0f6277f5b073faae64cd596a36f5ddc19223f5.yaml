@@ -1,0 +1,42 @@
+{
+  "chinese": "她告诉我她认识我的哥哥。",
+  "english": "She told me that she knows my brother.",
+  "pinyin": "tā gàosu wǒ tā rènshì wǒ de gēgē。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "告诉",
+      "en": "told",
+      "pi": "gàosu"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "认识",
+      "en": "knows",
+      "pi": "rènshì"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "哥哥",
+      "en": "brother",
+      "pi": "gēgē"
+    }
+  ]
+}

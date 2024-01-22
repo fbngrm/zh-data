@@ -1,0 +1,42 @@
+{
+  "chinese": "我能看懂德语，但不会说。",
+  "english": "I can understand German, but I can't speak it.",
+  "pinyin": "wǒ néng kàn dǒng dé yǔ, dàn bù huì shuō.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "看懂",
+      "en": "understand",
+      "pi": "kàn dǒng"
+    },
+    {
+      "ch": "德语",
+      "en": "German",
+      "pi": "dé yǔ"
+    },
+    {
+      "ch": "但",
+      "en": "but",
+      "pi": "dàn"
+    },
+    {
+      "ch": "不会",
+      "en": "can't",
+      "pi": "bù huì"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    }
+  ]
+}

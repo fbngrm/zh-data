@@ -1,0 +1,42 @@
+{
+  "chinese": "我每天吃过晚饭后都会学法语。",
+  "english": "I learn French every day after eating dinner.",
+  "pinyin": "wǒ měi tiān chī guò wǎn fàn hòu dōu huì xué fǎ yǔ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "吃过",
+      "en": "eating",
+      "pi": "chī guò"
+    },
+    {
+      "ch": "晚饭后",
+      "en": "after dinner",
+      "pi": "wǎn fàn hòu"
+    },
+    {
+      "ch": "都会",
+      "en": "will",
+      "pi": "dōu huì"
+    },
+    {
+      "ch": "学",
+      "en": "learn",
+      "pi": "xué"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎ yǔ"
+    }
+  ]
+}

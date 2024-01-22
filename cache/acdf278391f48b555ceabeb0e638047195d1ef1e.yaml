@@ -1,0 +1,42 @@
+{
+  "chinese": "每天早晚，我给我的猫喂食。",
+  "english": "Every morning and evening, I feed my cat.",
+  "pinyin": "měi tiān zǎo wǎn, wǒ gěi wǒ de māo wèi shí.",
+  "words": [
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "早晚",
+      "en": "morning and evening",
+      "pi": "zǎo wǎn"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    },
+    {
+      "ch": "喂食",
+      "en": "feed",
+      "pi": "wèi shí"
+    }
+  ]
+}

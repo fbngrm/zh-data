@@ -1,0 +1,14 @@
+{
+  "chinese": "我今晚可以去看电影吗?",
+  "english": "Can I go to the movies tonight?",
+  "pinyin": "wǒ jīn wǎn kě yǐ qù kàn diàn yǐng ma?",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "今晚", "en": "tonight", "pi": "jīn wǎn"},
+    {"ch": "可以", "en": "can", "pi": "kě yǐ"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "看", "en": "to watch", "pi": "kàn"},
+    {"ch": "电影", "en": "movies", "pi": "diàn yǐng"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

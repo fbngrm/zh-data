@@ -1,0 +1,37 @@
+{
+  "chinese": "她七点钟到车站。",
+  "english": "She arrives at the station at seven o'clock.",
+  "pinyin": "tā qī diǎn zhōng dào chē zhàn。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "七",
+      "en": "seven",
+      "pi": "qī"
+    },
+    {
+      "ch": "点",
+      "en": "o'clock",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "钟",
+      "en": "clock",
+      "pi": "zhōng"
+    },
+    {
+      "ch": "到",
+      "en": "arrive",
+      "pi": "dào"
+    },
+    {
+      "ch": "车站",
+      "en": "station",
+      "pi": "chē zhàn"
+    }
+  ]
+}

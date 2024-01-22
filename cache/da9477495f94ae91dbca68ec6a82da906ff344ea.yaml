@@ -1,0 +1,32 @@
+{
+  "chinese": "这些苹果看起来很新鲜。",
+  "english": "These apples look very fresh.",
+  "pinyin": "zhè xiē píngguǒ kàn qǐlái hěn xīnxiān。",
+  "words": [
+    {
+      "ch": "这些",
+      "en": "These",
+      "pi": "zhè xiē"
+    },
+    {
+      "ch": "苹果",
+      "en": "apples",
+      "pi": "píngguǒ"
+    },
+    {
+      "ch": "看起来",
+      "en": "look",
+      "pi": "kàn qǐlái"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "新鲜",
+      "en": "fresh",
+      "pi": "xīnxiān"
+    }
+  ]
+}

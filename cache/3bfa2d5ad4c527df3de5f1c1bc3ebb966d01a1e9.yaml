@@ -1,0 +1,27 @@
+{
+  "chinese": "玛丽下楼到厨房。",
+  "english": "Mary goes downstairs to the kitchen.",
+  "pinyin": "Mǎ lì xià lóu dào chú fáng。",
+  "words": [
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "下楼",
+      "en": "go downstairs",
+      "pi": "xià lóu"
+    },
+    {
+      "ch": "到",
+      "en": "to",
+      "pi": "dào"
+    },
+    {
+      "ch": "厨房",
+      "en": "kitchen",
+      "pi": "chú fáng"
+    }
+  ]
+}

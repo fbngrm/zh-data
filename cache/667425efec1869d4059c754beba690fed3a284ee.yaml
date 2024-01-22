@@ -1,0 +1,42 @@
+{
+  "chinese": "昨天晚上我的女儿一点半才回家。",
+  "english": "Last night, my daughter didn't come back home until one thirty.",
+  "pinyin": "zuó tiān wǎn shàng wǒ de nǚ ér yī diǎn bàn cái huí jiā。",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "Yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "晚上",
+      "en": "night",
+      "pi": "wǎn shàng"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "女儿",
+      "en": "daughter",
+      "pi": "nǚ ér"
+    },
+    {
+      "ch": "一点半",
+      "en": "one thirty",
+      "pi": "yī diǎn bàn"
+    },
+    {
+      "ch": "才",
+      "en": "only",
+      "pi": "cái"
+    },
+    {
+      "ch": "回家",
+      "en": "come back home",
+      "pi": "huí jiā"
+    }
+  ]
+}

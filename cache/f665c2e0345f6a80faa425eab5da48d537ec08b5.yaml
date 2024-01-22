@@ -1,0 +1,15 @@
+{
+  "chinese": "我拿到了他还我的书。",
+  "english": "I got back the book that he returned to me.",
+  "pinyin": "wǒ ná dào le tā hái wǒ de shū.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "拿到", "en": "got back", "pi": "ná dào"},
+    {"ch": "了", "en": "the", "pi": "le"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "还", "en": "returned", "pi": "hái"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "的", "en": "the", "pi": "de"},
+    {"ch": "书", "en": "book", "pi": "shū"}
+  ]
+}

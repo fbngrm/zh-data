@@ -1,0 +1,42 @@
+{
+  "chinese": "我发现他在花园里干活。",
+  "english": "I found him working in the garden.",
+  "pinyin": "wǒ fāxiàn tā zài huāyuán lǐ gàn huó.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "发现",
+      "en": "found",
+      "pi": "fāxiàn"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "花园",
+      "en": "garden",
+      "pi": "huāyuán"
+    },
+    {
+      "ch": "里",
+      "en": "inside",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "干活",
+      "en": "working",
+      "pi": "gàn huó"
+    }
+  ]
+}

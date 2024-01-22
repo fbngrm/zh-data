@@ -1,0 +1,32 @@
+{
+  "chinese": "他手里拿着一本书。",
+  "english": "He is holding a book in his hand.",
+  "pinyin": "tā shǒu lǐ názhe yī běn shū.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "手里",
+      "en": "in his hand",
+      "pi": "shǒu lǐ"
+    },
+    {
+      "ch": "拿着",
+      "en": "holding",
+      "pi": "názhe"
+    },
+    {
+      "ch": "一本",
+      "en": "a",
+      "pi": "yī běn"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    }
+  ]
+}

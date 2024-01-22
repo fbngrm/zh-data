@@ -1,0 +1,32 @@
+{
+  "chinese": "我睡得很好。",
+  "english": "I slept very well.",
+  "pinyin": "wǒ shuì dé hěn hǎo.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "睡",
+      "en": "sleep",
+      "pi": "shuì"
+    },
+    {
+      "ch": "得",
+      "en": "very",
+      "pi": "dé"
+    },
+    {
+      "ch": "很",
+      "en": "well",
+      "pi": "hěn"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    }
+  ]
+}

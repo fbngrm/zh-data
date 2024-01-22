@@ -1,0 +1,68 @@
+{
+  "sentences": [
+    {
+      "chinese": "让我在这打断你。",
+      "english": "Let me interrupt you here.",
+      "pinyin": "ràng wǒ zài zhè dǎduàn nǐ.",
+      "words": [
+        {
+          "ch": "让",
+          "en": "let",
+          "pi": "ràng"
+        },
+        {
+          "ch": "我",
+          "en": "me",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "在",
+          "en": "here",
+          "pi": "zài"
+        },
+        {
+          "ch": "这",
+          "en": "interrupt",
+          "pi": "dǎduàn"
+        },
+        {
+          "ch": "打断",
+          "en": "you",
+          "pi": "nǐ"
+        }
+      ]
+    },
+    {
+      "chinese": "我们不想听那个话题。",
+      "english": "We don't want to listen to that topic.",
+      "pinyin": "wǒmen bù xiǎng tīng nà gè huàtí.",
+      "words": [
+        {
+          "ch": "我们",
+          "en": "we",
+          "pi": "wǒmen"
+        },
+        {
+          "ch": "不想",
+          "en": "don't want",
+          "pi": "bù xiǎng"
+        },
+        {
+          "ch": "听",
+          "en": "to listen",
+          "pi": "tīng"
+        },
+        {
+          "ch": "那个",
+          "en": "that",
+          "pi": "nà gè"
+        },
+        {
+          "ch": "话题",
+          "en": "topic",
+          "pi": "huàtí"
+        }
+      ]
+    }
+  ]
+}

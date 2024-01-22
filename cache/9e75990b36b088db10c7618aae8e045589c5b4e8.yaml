@@ -1,0 +1,32 @@
+{
+  "chinese": "他们的母语是法语。",
+  "english": "Their mother tongue is French.",
+  "pinyin": "Tāmen de mǔyǔ shì fǎyǔ.",
+  "words": [
+    {
+      "ch": "他们",
+      "en": "They",
+      "pi": "tāmen"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "母语",
+      "en": "mother tongue",
+      "pi": "mǔyǔ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎyǔ"
+    }
+  ]
+}

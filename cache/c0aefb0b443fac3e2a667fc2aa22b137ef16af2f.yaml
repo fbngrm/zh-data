@@ -1,0 +1,57 @@
+{
+  "chinese": "我经常使用SSH来远程连接到我的电脑。",
+  "english": "I often use SSH to remotely connect to my computer.",
+  "pinyin": "wǒ jīngcháng shǐyòng SSH lái yuǎnchéng liánjiē dào wǒ de diànnǎo。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "经常",
+      "en": "often",
+      "pi": "jīngcháng"
+    },
+    {
+      "ch": "使用",
+      "en": "use",
+      "pi": "shǐyòng"
+    },
+    {
+      "ch": "SSH",
+      "en": "SSH",
+      "pi": "SSH"
+    },
+    {
+      "ch": "来",
+      "en": "to",
+      "pi": "lái"
+    },
+    {
+      "ch": "远程",
+      "en": "remote",
+      "pi": "yuǎnchéng"
+    },
+    {
+      "ch": "连接",
+      "en": "connect",
+      "pi": "liánjiē"
+    },
+    {
+      "ch": "到",
+      "en": "to",
+      "pi": "dào"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "电脑",
+      "en": "computer",
+      "pi": "diànnǎo"
+    }
+  ]
+}

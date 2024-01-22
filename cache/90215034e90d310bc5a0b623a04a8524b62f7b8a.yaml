@@ -1,0 +1,42 @@
+{
+  "chinese": "他每天早上都会喝一杯水。",
+  "english": "He drinks a glass of water every morning.",
+  "pinyin": "tā měi tiān zǎo shàng dōu huì hē yī bēi shuǐ。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎo shàng"
+    },
+    {
+      "ch": "都会",
+      "en": "will",
+      "pi": "dōu huì"
+    },
+    {
+      "ch": "喝",
+      "en": "drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "一杯",
+      "en": "a glass of",
+      "pi": "yī bēi"
+    },
+    {
+      "ch": "水",
+      "en": "water",
+      "pi": "shuǐ"
+    }
+  ]
+}

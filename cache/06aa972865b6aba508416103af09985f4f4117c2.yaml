@@ -1,0 +1,37 @@
+{
+  "chinese": "他的话让我吃惊。",
+  "english": "His words surprised me.",
+  "pinyin": "Tā de huà ràng wǒ chījīng.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "话",
+      "en": "words",
+      "pi": "huà"
+    },
+    {
+      "ch": "让",
+      "en": "let",
+      "pi": "ràng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "吃惊",
+      "en": "surprised",
+      "pi": "chījīng"
+    }
+  ]
+}

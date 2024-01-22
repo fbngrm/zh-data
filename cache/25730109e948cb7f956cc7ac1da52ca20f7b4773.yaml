@@ -1,0 +1,32 @@
+{
+  "chinese": "有人为您服务吗？",
+  "english": "Is there anyone to help you?",
+  "pinyin": "Yǒu rén wèi nín fú wù ma?",
+  "words": [
+    {
+      "ch": "有人",
+      "en": "anyone",
+      "pi": "yǒu rén"
+    },
+    {
+      "ch": "为",
+      "en": "to",
+      "pi": "wèi"
+    },
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "服务",
+      "en": "to help",
+      "pi": "fú wù"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

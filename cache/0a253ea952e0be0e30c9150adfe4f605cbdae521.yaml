@@ -1,0 +1,32 @@
+{
+  "chinese": "这两个词容易混淆。",
+  "english": "These two words are easy to confuse.",
+  "pinyin": "zhè liǎng gè cí róngyì hùnxiáo.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "两个",
+      "en": "two",
+      "pi": "liǎng gè"
+    },
+    {
+      "ch": "词",
+      "en": "words",
+      "pi": "cí"
+    },
+    {
+      "ch": "容易",
+      "en": "easy",
+      "pi": "róngyì"
+    },
+    {
+      "ch": "混淆",
+      "en": "to confuse",
+      "pi": "hùnxiáo"
+    }
+  ]
+}

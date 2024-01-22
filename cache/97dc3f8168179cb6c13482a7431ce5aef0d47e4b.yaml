@@ -1,0 +1,42 @@
+{
+  "chinese": "五和三的总和是八。",
+  "english": "The sum of five and three is eight.",
+  "pinyin": "wǔ hé sān de zǒng hé shì bā.",
+  "words": [
+    {
+      "ch": "五",
+      "en": "five",
+      "pi": "wǔ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "三",
+      "en": "three",
+      "pi": "sān"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "总和",
+      "en": "sum",
+      "pi": "zǒng hé"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "八",
+      "en": "eight",
+      "pi": "bā"
+    }
+  ]
+}

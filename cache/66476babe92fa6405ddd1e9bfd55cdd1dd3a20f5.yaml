@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆想知道玛丽是否有男朋友？",
+  "english": "Tom wants to know if Mary has a boyfriend.",
+  "pinyin": "Tāng mǔ xiǎng zhīdào mǎlì shìfǒu yǒu nánpéngyǒu?",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "想知道",
+      "en": "wants to know",
+      "pi": "xiǎng zhīdào"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎlì"
+    },
+    {
+      "ch": "是否",
+      "en": "if",
+      "pi": "shìfǒu"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "男朋友",
+      "en": "a boyfriend",
+      "pi": "nánpéngyǒu"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "chinese": "会议一直开到五点。",
+  "english": "The meeting continues until five o'clock.",
+  "pinyin": "huì yì yī zhí kāi dào wǔ diǎn。",
+  "words": [
+    {"ch": "会议", "en": "meeting", "pi": "huì yì"},
+    {"ch": "一直", "en": "continues", "pi": "yī zhí"},
+    {"ch": "开到", "en": "until", "pi": "kāi dào"},
+    {"ch": "五点", "en": "five o'clock", "pi": "wǔ diǎn"}
+  ]
+}

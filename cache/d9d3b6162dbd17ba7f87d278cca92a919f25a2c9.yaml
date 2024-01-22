@@ -1,0 +1,37 @@
+{
+  "chinese": "我睡了个好觉。",
+  "english": "I had a good sleep.",
+  "pinyin": "wǒ shuì le gè hǎo jiào。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "睡",
+      "en": "sleep",
+      "pi": "shuì"
+    },
+    {
+      "ch": "了",
+      "en": "(past tense marker)",
+      "pi": "le"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "觉",
+      "en": "sleep",
+      "pi": "jiào"
+    }
+  ]
+}

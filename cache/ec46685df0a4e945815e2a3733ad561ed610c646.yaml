@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆没吃午饭。",
+  "english": "Tom didn't eat lunch.",
+  "pinyin": "Tāng mǔ méi chī wǔfàn.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "没",
+      "en": "didn't",
+      "pi": "méi"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "午饭",
+      "en": "lunch",
+      "pi": "wǔfàn"
+    }
+  ]
+}

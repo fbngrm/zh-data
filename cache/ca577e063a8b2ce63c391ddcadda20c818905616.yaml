@@ -1,0 +1,27 @@
+{
+  "chinese": "你不能待在床上。",
+  "english": "You cannot stay in bed.",
+  "pinyin": "nǐ bù néng dāi zài chuáng shàng.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "不能",
+      "en": "cannot",
+      "pi": "bù néng"
+    },
+    {
+      "ch": "待在",
+      "en": "stay in",
+      "pi": "dāi zài"
+    },
+    {
+      "ch": "床上",
+      "en": "bed",
+      "pi": "chuáng shàng"
+    }
+  ]
+}

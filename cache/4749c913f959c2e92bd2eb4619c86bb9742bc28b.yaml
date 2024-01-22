@@ -1,0 +1,32 @@
+{
+  "chinese": "我们应该去请医生。",
+  "english": "We should go ask the doctor.",
+  "pinyin": "wǒmen yīnggāi qù qǐng yīshēng。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "应该",
+      "en": "should",
+      "pi": "yīnggāi"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "请",
+      "en": "ask",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "医生",
+      "en": "doctor",
+      "pi": "yīshēng"
+    }
+  ]
+}

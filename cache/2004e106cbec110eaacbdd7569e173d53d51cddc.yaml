@@ -1,0 +1,32 @@
+{
+  "chinese": "我昨晚写了一封信。",
+  "english": "I wrote a letter last night.",
+  "pinyin": "Wǒ zuówǎn xiě le yī fēng xìn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "昨晚",
+      "en": "last night",
+      "pi": "zuówǎn"
+    },
+    {
+      "ch": "写了",
+      "en": "wrote",
+      "pi": "xiě le"
+    },
+    {
+      "ch": "一封",
+      "en": "a letter",
+      "pi": "yī fēng"
+    },
+    {
+      "ch": "信",
+      "en": "letter",
+      "pi": "xìn"
+    }
+  ]
+}

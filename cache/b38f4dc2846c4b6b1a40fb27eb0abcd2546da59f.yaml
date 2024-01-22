@@ -1,0 +1,27 @@
+{
+  "chinese": "医生检查了病人。",
+  "english": "The doctor examined the patient.",
+  "pinyin": "yī shēng jiǎn chá le bìng rén.",
+  "words": [
+    {
+      "ch": "医生",
+      "en": "doctor",
+      "pi": "yī shēng"
+    },
+    {
+      "ch": "检查",
+      "en": "examine",
+      "pi": "jiǎn chá"
+    },
+    {
+      "ch": "了",
+      "en": "did",
+      "pi": "le"
+    },
+    {
+      "ch": "病人",
+      "en": "patient",
+      "pi": "bìng rén"
+    }
+  ]
+}

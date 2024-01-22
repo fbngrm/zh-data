@@ -1,0 +1,52 @@
+{
+  "chinese": "汤姆有很重要的事要告诉玛丽。",
+  "english": "Tom has something important to tell Mary.",
+  "pinyin": "tāng mǔ yǒu hěn zhòng yào shì yào gào sù mǎ lì.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "很",
+      "en": "something",
+      "pi": "hěn"
+    },
+    {
+      "ch": "重要",
+      "en": "important",
+      "pi": "zhòng yào"
+    },
+    {
+      "ch": "的",
+      "en": "to",
+      "pi": "de"
+    },
+    {
+      "ch": "事",
+      "en": "tell",
+      "pi": "shì"
+    },
+    {
+      "ch": "要",
+      "en": "Mary",
+      "pi": "yào"
+    },
+    {
+      "ch": "告诉",
+      "en": "important",
+      "pi": "gào sù"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    }
+  ]
+}

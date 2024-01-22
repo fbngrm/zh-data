@@ -1,0 +1,13 @@
+{
+  "chinese": "这是你的狗。我的呢？",
+  "english": "This is your dog. What about mine?",
+  "pinyin": "zhè shì nǐ de gǒu. wǒ de ne?",
+  "words": [
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "你的", "en": "your", "pi": "nǐ de"},
+    {"ch": "狗", "en": "dog", "pi": "gǒu"},
+    {"ch": "我的", "en": "mine", "pi": "wǒ de"},
+    {"ch": "呢", "en": "what about", "pi": "ne"}
+  ]
+}

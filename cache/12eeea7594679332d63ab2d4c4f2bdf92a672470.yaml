@@ -1,0 +1,32 @@
+{
+  "chinese": "他和他的朋友握手。",
+  "english": "He shakes hands with his friend.",
+  "pinyin": "tā hé tā de péngyǒu wòshǒu。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "朋友",
+      "en": "friend",
+      "pi": "péngyǒu"
+    },
+    {
+      "ch": "握手",
+      "en": "shake hands",
+      "pi": "wòshǒu"
+    }
+  ]
+}

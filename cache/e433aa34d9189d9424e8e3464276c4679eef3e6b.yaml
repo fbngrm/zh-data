@@ -1,0 +1,14 @@
+{
+  "chinese": "您想再喝杯茶吗？",
+  "english": "Would you like another cup of tea?",
+  "pinyin": "nín xiǎng zài hē bēi chá ma?",
+  "words": [
+    {"ch": "您", "en": "you", "pi": "nín"},
+    {"ch": "想", "en": "like", "pi": "xiǎng"},
+    {"ch": "再", "en": "another", "pi": "zài"},
+    {"ch": "喝", "en": "drink", "pi": "hē"},
+    {"ch": "杯", "en": "cup", "pi": "bēi"},
+    {"ch": "茶", "en": "tea", "pi": "chá"},
+    {"ch": "吗", "en": "", "pi": "ma"}
+  ]
+}

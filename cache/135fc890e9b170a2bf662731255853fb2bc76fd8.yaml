@@ -1,0 +1,37 @@
+{
+  "chinese": "这牛奶有特殊的气味。",
+  "english": "This milk has a special smell.",
+  "pinyin": "zhè niúnǎi yǒu tèshū de qìwèi.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "牛奶",
+      "en": "milk",
+      "pi": "niúnǎi"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "特殊",
+      "en": "special",
+      "pi": "tèshū"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "气味",
+      "en": "smell",
+      "pi": "qìwèi"
+    }
+  ]
+}

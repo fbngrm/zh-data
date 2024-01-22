@@ -1,0 +1,13 @@
+{
+  "chinese": "你知道我住哪吗？",
+  "english": "Do you know where I live?",
+  "pinyin": "nǐ zhī dào wǒ zhù nǎ ma?",
+  "words": [
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "知道", "en": "know", "pi": "zhī dào" },
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "住", "en": "live", "pi": "zhù" },
+    { "ch": "哪", "en": "where", "pi": "nǎ" },
+    { "ch": "吗", "en": "question particle", "pi": "ma" }
+  ]
+}

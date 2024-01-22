@@ -1,0 +1,47 @@
+{
+  "chinese": "这男孩的口袋里有个苹果。",
+  "english": "The boy has an apple in his pocket.",
+  "pinyin": "zhè nán hái de kǒu dài lǐ yǒu gè píng guǒ.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "男孩",
+      "en": "boy",
+      "pi": "nán hái"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "口袋",
+      "en": "pocket",
+      "pi": "kǒu dài"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "苹果",
+      "en": "apple",
+      "pi": "píng guǒ"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "这口井里的水很少。",
+  "english": "There is very little water in this well.",
+  "pinyin": "zhè kǒu jǐng lǐ de shuǐ hěn shǎo。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "口",
+      "en": "well",
+      "pi": "kǒu"
+    },
+    {
+      "ch": "井",
+      "en": "well",
+      "pi": "jǐng"
+    },
+    {
+      "ch": "里",
+      "en": "inside",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "水",
+      "en": "water",
+      "pi": "shuǐ"
+    },
+    {
+      "ch": "很少",
+      "en": "very little",
+      "pi": "hěn shǎo"
+    }
+  ]
+}

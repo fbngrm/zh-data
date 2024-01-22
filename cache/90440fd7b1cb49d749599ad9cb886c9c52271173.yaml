@@ -1,0 +1,25 @@
+{
+  "chinese": "光傳播得比聲音快，所以我們先看到閃電，然後才會聽見雷聲。",
+  "english": "Light travels faster than sound, so we see lightning before we hear thunder.",
+  "pinyin": "Guāng chuánbō dé bǐ shēngyīn kuài, suǒyǐ wǒmen xiān kàn dào shǎndiàn, ránhòu cái huì tīngjiàn léishēng.",
+  "words": [
+    {"ch": "光", "en": "light", "pi": "guāng"},
+    {"ch": "傳播", "en": "transmit", "pi": "chuánbō"},
+    {"ch": "得", "en": "to", "pi": "dé"},
+    {"ch": "比", "en": "than", "pi": "bǐ"},
+    {"ch": "聲音", "en": "sound", "pi": "shēngyīn"},
+    {"ch": "快", "en": "fast", "pi": "kuài"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "所以", "en": "so", "pi": "suǒyǐ"},
+    {"ch": "我們", "en": "we", "pi": "wǒmen"},
+    {"ch": "先", "en": "before", "pi": "xiān"},
+    {"ch": "看到", "en": "see", "pi": "kàn dào"},
+    {"ch": "閃電", "en": "lightning", "pi": "shǎndiàn"},
+    {"ch": "然後", "en": "then", "pi": "ránhòu"},
+    {"ch": "才", "en": "only", "pi": "cái"},
+    {"ch": "會", "en": "hear", "pi": "huì"},
+    {"ch": "聽見", "en": "thunder", "pi": "tīngjiàn"},
+    {"ch": "雷聲", "en": "thunder", "pi": "léishēng"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

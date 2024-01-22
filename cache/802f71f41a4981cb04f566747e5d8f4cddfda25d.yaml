@@ -1,0 +1,97 @@
+{
+  "sentences": [
+    {
+      "chinese": "一次就像是從未有",
+      "english": "It's like never before",
+      "pinyin": "yī cì jiù xiàng shì cóng wèi yǒu",
+      "words": [
+        {
+          "ch": "一次",
+          "en": "once",
+          "pi": "yī cì"
+        },
+        {
+          "ch": "就像",
+          "en": "like",
+          "pi": "jiù xiàng"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "從未",
+          "en": "never",
+          "pi": "cóng wèi"
+        },
+        {
+          "ch": "有",
+          "en": "have",
+          "pi": "yǒu"
+        }
+      ]
+    },
+    {
+      "chinese": "年輕的姑娘暗示",
+      "english": "The young girl hinted",
+      "pinyin": "nián qīng de gū niang àn shì",
+      "words": [
+        {
+          "ch": "年輕",
+          "en": "young",
+          "pi": "nián qīng"
+        },
+        {
+          "ch": "的",
+          "en": "possessive particle",
+          "pi": "de"
+        },
+        {
+          "ch": "姑娘",
+          "en": "girl",
+          "pi": "gū niang"
+        },
+        {
+          "ch": "暗示",
+          "en": "hint",
+          "pi": "àn shì"
+        }
+      ]
+    },
+    {
+      "chinese": "然而，婦科醫生暗示",
+      "english": "However, the gynecologist hinted",
+      "pinyin": "rán ér, fù kē yī shēng àn shì",
+      "words": [
+        {
+          "ch": "然而",
+          "en": "however",
+          "pi": "rán ér"
+        },
+        {
+          "ch": "婦科醫生",
+          "en": "gynecologist",
+          "pi": "fù kē yī shēng"
+        },
+        {
+          "ch": "暗示",
+          "en": "hint",
+          "pi": "àn shì"
+        }
+      ]
+    },
+    {
+      "chinese": "雙胞胎",
+      "english": "Twins",
+      "pinyin": "shuāng bāo tāi",
+      "words": [
+        {
+          "ch": "雙胞胎",
+          "en": "twins",
+          "pi": "shuāng bāo tāi"
+        }
+      ]
+    }
+  ]
+}

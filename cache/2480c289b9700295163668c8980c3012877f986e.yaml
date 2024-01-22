@@ -1,0 +1,14 @@
+{
+  "chinese": "有人听到了他洗澡的时候唱歌。",
+  "english": "Someone heard him singing while he was taking a shower.",
+  "pinyin": "yǒu rén tīng dào le tā xǐ zǎo de shí hou chàng gē.",
+  "words": [
+    { "ch": "有人", "en": "someone", "pi": "yǒu rén" },
+    { "ch": "听到", "en": "hear", "pi": "tīng dào" },
+    { "ch": "了", "en": "was/were", "pi": "le" },
+    { "ch": "他", "en": "he", "pi": "tā" },
+    { "ch": "洗澡", "en": "taking a shower", "pi": "xǐ zǎo" },
+    { "ch": "的时候", "en": "while", "pi": "de shí hou" },
+    { "ch": "唱歌", "en": "singing", "pi": "chàng gē" }
+  ]
+}

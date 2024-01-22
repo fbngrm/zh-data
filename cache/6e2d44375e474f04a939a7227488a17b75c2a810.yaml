@@ -1,0 +1,15 @@
+{
+  "chinese": "你有任何治感冒的东西吗?",
+  "english": "Do you have anything to treat cold?",
+  "pinyin": "nǐ yǒu rènhé zhì gǎnmào de dōngxi ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "任何", "en": "anything", "pi": "rènhé"},
+    {"ch": "治", "en": "treat", "pi": "zhì"},
+    {"ch": "感冒", "en": "cold", "pi": "gǎnmào"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "东西", "en": "thing", "pi": "dōngxi"},
+    {"ch": "吗", "en": "question mark", "pi": "ma"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "chinese": "我想要打个电话到日本东京，号码是３２０２－５６２５。",
+  "english": "I want to make a phone call to Tokyo, Japan, the number is 3202-5625.",
+  "pinyin": "wǒ xiǎng yào dǎ gè diàn huà dào rì běn dōng jīng, hào mǎ shì 3202-5625.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "想要", "en": "want", "pi": "xiǎng yào" },
+    { "ch": "打", "en": "to make", "pi": "dǎ" },
+    { "ch": "个", "en": "a", "pi": "gè" },
+    { "ch": "电话", "en": "phone call", "pi": "diàn huà" },
+    { "ch": "到", "en": "to", "pi": "dào" },
+    { "ch": "日本", "en": "Japan", "pi": "rì běn" },
+    { "ch": "东京", "en": "Tokyo", "pi": "dōng jīng" },
+    { "ch": "，", "en": ",", "pi": "，" },
+    { "ch": "号码", "en": "number", "pi": "hào mǎ" },
+    { "ch": "是", "en": "is", "pi": "shì" },
+    { "ch": "３２０２－５６２５", "en": "3202-5625", "pi": "3202-5625" },
+    { "ch": "。", "en": ".", "pi": "。" }
+  ]
+}

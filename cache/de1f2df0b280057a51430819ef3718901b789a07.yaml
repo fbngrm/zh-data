@@ -1,0 +1,32 @@
+{
+  "chinese": "这辆自行车是我的。",
+  "english": "This bike is mine.",
+  "pinyin": "zhè liàng zìxíngchē shì wǒ de.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "辆",
+      "en": "bike",
+      "pi": "liàng"
+    },
+    {
+      "ch": "自行车",
+      "en": "bicycle",
+      "pi": "zìxíngchē"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我的",
+      "en": "mine",
+      "pi": "wǒ de"
+    }
+  ]
+}

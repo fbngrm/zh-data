@@ -1,0 +1,14 @@
+{
+  "chinese": "有人告诉过我汤姆要被开除。",
+  "english": "Someone told me that Tom is going to be fired.",
+  "pinyin": "Yǒu rén gàosù guò wǒ Tāngmǔ yào bèi kāichú.",
+  "words": [
+    {"ch": "有人", "en": "Someone", "pi": "yǒurén"},
+    {"ch": "告诉过", "en": "told", "pi": "gàosùguò"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāngmǔ"},
+    {"ch": "要", "en": "is going to", "pi": "yào"},
+    {"ch": "被", "en": "be", "pi": "bèi"},
+    {"ch": "开除", "en": "fired", "pi": "kāichú"}
+  ]
+}

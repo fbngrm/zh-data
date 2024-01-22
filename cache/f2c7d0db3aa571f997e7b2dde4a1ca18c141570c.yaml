@@ -1,0 +1,42 @@
+{
+  "chinese": "我因为门关着进不去。",
+  "english": "I can't get in because the door is closed.",
+  "pinyin": "wǒ yīnwèi mén guānzhe jìn bù qù。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "因为",
+      "en": "because",
+      "pi": "yīnwèi"
+    },
+    {
+      "ch": "门",
+      "en": "door",
+      "pi": "mén"
+    },
+    {
+      "ch": "关着",
+      "en": "closed",
+      "pi": "guānzhe"
+    },
+    {
+      "ch": "进",
+      "en": "enter",
+      "pi": "jìn"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    }
+  ]
+}

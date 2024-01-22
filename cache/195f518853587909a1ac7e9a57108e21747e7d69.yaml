@@ -1,0 +1,113 @@
+{
+  "sentences": [
+    {
+      "chinese": "我找不到任何英文拼写的逻辑。",
+      "english": "I can't find any logic in the spelling of English.",
+      "pinyin": "wǒ zhǎo bù dào rèn hé yīng wén pīn xiě de luó jí。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "找不到",
+          "en": "can't find",
+          "pi": "zhǎo bù dào"
+        },
+        {
+          "ch": "任何",
+          "en": "any",
+          "pi": "rèn hé"
+        },
+        {
+          "ch": "英文",
+          "en": "English",
+          "pi": "yīng wén"
+        },
+        {
+          "ch": "拼写",
+          "en": "spelling",
+          "pi": "pīn xiě"
+        },
+        {
+          "ch": "的",
+          "en": "of",
+          "pi": "de"
+        },
+        {
+          "ch": "逻辑",
+          "en": "logic",
+          "pi": "luó jí"
+        }
+      ]
+    },
+    {
+      "chinese": "\"Ｔ-Ｏ-Ｇ-Ｈ\"可以被发音成\"ｆｉｓｈ\"。",
+      "english": "\"T-O-G-H\" can be pronounced as \"fish\".",
+      "pinyin": "\"T-Ō-G-H\" kě yǐ bèi fā yīn chéng \"f-i-s-h\"。",
+      "words": [
+        {
+          "ch": "Ｔ",
+          "en": "T",
+          "pi": "T"
+        },
+        {
+          "ch": "-",
+          "en": "-",
+          "pi": "-"
+        },
+        {
+          "ch": "Ｏ",
+          "en": "O",
+          "pi": "Ō"
+        },
+        {
+          "ch": "-",
+          "en": "-",
+          "pi": "-"
+        },
+        {
+          "ch": "Ｇ",
+          "en": "G",
+          "pi": "G"
+        },
+        {
+          "ch": "-",
+          "en": "-",
+          "pi": "-"
+        },
+        {
+          "ch": "Ｈ",
+          "en": "H",
+          "pi": "H"
+        },
+        {
+          "ch": "可以",
+          "en": "can",
+          "pi": "kě yǐ"
+        },
+        {
+          "ch": "被",
+          "en": "be",
+          "pi": "bèi"
+        },
+        {
+          "ch": "发音",
+          "en": "pronounced",
+          "pi": "fā yīn"
+        },
+        {
+          "ch": "成",
+          "en": "as",
+          "pi": "chéng"
+        },
+        {
+          "ch": "ｆｉｓｈ",
+          "en": "fish",
+          "pi": "f-i-s-h"
+        }
+      ]
+    }
+  ]
+}

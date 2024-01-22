@@ -1,0 +1,32 @@
+{
+  "chinese": "你可以叫我鲍勃。",
+  "english": "You can call me Bob.",
+  "pinyin": "nǐ kěyǐ jiào wǒ bào bó.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kěyǐ"
+    },
+    {
+      "ch": "叫",
+      "en": "call",
+      "pi": "jiào"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "鲍勃",
+      "en": "Bob",
+      "pi": "bào bó"
+    }
+  ]
+}

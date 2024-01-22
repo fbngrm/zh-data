@@ -1,0 +1,44 @@
+[
+  {
+    "chinese": "明天的天气预报怎么说？",
+    "english": "How to say tomorrow's weather forecast?",
+    "pinyin": "Míngtiān de tiānqì yùbào zěnme shuō?",
+    "words": [
+      {
+        "ch": "明天",
+        "en": "tomorrow",
+        "pi": "míngtiān"
+      },
+      {
+        "ch": "的",
+        "en": "of",
+        "pi": "de"
+      },
+      {
+        "ch": "天气",
+        "en": "weather",
+        "pi": "tiānqì"
+      },
+      {
+        "ch": "预报",
+        "en": "forecast",
+        "pi": "yùbào"
+      },
+      {
+        "ch": "怎么",
+        "en": "how",
+        "pi": "zěnme"
+      },
+      {
+        "ch": "说",
+        "en": "to say",
+        "pi": "shuō"
+      },
+      {
+        "ch": "？",
+        "en": "?",
+        "pi": "?"
+      }
+    ]
+  }
+]

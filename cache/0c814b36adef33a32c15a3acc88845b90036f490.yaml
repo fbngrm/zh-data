@@ -1,0 +1,42 @@
+{
+  "chinese": "妈妈买了一条新的裙子给我。",
+  "english": "Mom bought me a new dress.",
+  "pinyin": "māmā mǎile yī tiáo xīn de qúnzi gěi wǒ。",
+  "words": [
+    {
+      "ch": "妈妈",
+      "en": "Mom",
+      "pi": "māmā"
+    },
+    {
+      "ch": "买了",
+      "en": "bought",
+      "pi": "mǎile"
+    },
+    {
+      "ch": "一条",
+      "en": "a",
+      "pi": "yī tiáo"
+    },
+    {
+      "ch": "新的",
+      "en": "new",
+      "pi": "xīn de"
+    },
+    {
+      "ch": "裙子",
+      "en": "dress",
+      "pi": "qúnzi"
+    },
+    {
+      "ch": "给",
+      "en": "me",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "今天我们多买点鸡蛋。",
+  "english": "Today let's buy some more eggs.",
+  "pinyin": "Jīn tiān wǒ men duō mǎi diǎn jī dàn.",
+  "words": [
+    {"ch": "今天", "en": "Today", "pi": "Jīn tiān"},
+    {"ch": "我们", "en": "we/us", "pi": "wǒ men"},
+    {"ch": "多", "en": "more", "pi": "duō"},
+    {"ch": "买", "en": "to buy", "pi": "mǎi"},
+    {"ch": "点", "en": "some", "pi": "diǎn"},
+    {"ch": "鸡蛋", "en": "eggs", "pi": "jī dàn"}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "我的律师表哥现在在法国。",
+  "english": "My cousin who is a lawyer is now in France.",
+  "pinyin": "Wǒ de lǜshī biǎogē xiànzài zài fǎguó.",
+  "words": [
+    {"ch": "我的", "en": "My", "pi": "wǒ de"},
+    {"ch": "律师", "en": "lawyer", "pi": "lǜshī"},
+    {"ch": "表哥", "en": "cousin (older male)", "pi": "biǎogē"},
+    {"ch": "现在", "en": "now", "pi": "xiànzài"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "法国", "en": "France", "pi": "fǎguó"}
+  ]
+}

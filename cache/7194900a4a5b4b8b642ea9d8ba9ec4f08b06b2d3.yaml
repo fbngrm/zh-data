@@ -1,0 +1,12 @@
+{
+  "chinese": "京都有很多所大学。",
+  "english": "There are many universities in Kyoto.",
+  "pinyin": "jīng dū yǒu hěn duō suǒ dà xué。",
+  "words": [
+    {"ch": "京都", "en": "Kyoto", "pi": "jīng dū"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "很多", "en": "many", "pi": "hěn duō"},
+    {"ch": "所", "en": "measure word for universities", "pi": "suǒ"},
+    {"ch": "大学", "en": "university", "pi": "dà xué"}
+  ]
+}

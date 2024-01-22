@@ -1,0 +1,32 @@
+{
+  "chinese": "你在找工作吗？",
+  "english": "Are you looking for a job?",
+  "pinyin": "nǐ zài zhǎo gōngzuò ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "找",
+      "en": "look for",
+      "pi": "zhǎo"
+    },
+    {
+      "ch": "工作",
+      "en": "job",
+      "pi": "gōngzuò"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

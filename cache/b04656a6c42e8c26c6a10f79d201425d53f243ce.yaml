@@ -1,0 +1,32 @@
+{
+  "chinese": "你在哪里说世界语？",
+  "english": "Where do you speak Esperanto?",
+  "pinyin": "Nǐ zài nǎlǐ shuō shìjiè yǔ?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪里",
+      "en": "where",
+      "pi": "nǎlǐ"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "世界语",
+      "en": "Esperanto",
+      "pi": "shìjiè yǔ"
+    }
+  ]
+}

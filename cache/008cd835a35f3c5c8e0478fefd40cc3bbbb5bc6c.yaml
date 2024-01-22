@@ -1,0 +1,32 @@
+{
+  "chinese": "我在街上遇到Fred。",
+  "english": "I met Fred on the street.",
+  "pinyin": "wǒ zài jiē shàng yù dào Fred.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "街上",
+      "en": "on the street",
+      "pi": "jiē shàng"
+    },
+    {
+      "ch": "遇到",
+      "en": "met",
+      "pi": "yù dào"
+    },
+    {
+      "ch": "Fred",
+      "en": "Fred",
+      "pi": "Fred"
+    }
+  ]
+}

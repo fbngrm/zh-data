@@ -1,0 +1,14 @@
+{
+  "chinese": "怎么你昨晚没有给我打电话？",
+  "english": "Why didn't you call me last night?",
+  "pinyin": "zěnme nǐ zuó wǎn méiyǒu gěi wǒ dǎ diànhuà?",
+  "words": [
+    {"ch": "怎么", "en": "why", "pi": "zěnme"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "昨晚", "en": "last night", "pi": "zuó wǎn"},
+    {"ch": "没有", "en": "didn't have", "pi": "méiyǒu"},
+    {"ch": "给", "en": "give", "pi": "gěi"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "打电话", "en": "call", "pi": "dǎ diànhuà"}
+  ]
+}

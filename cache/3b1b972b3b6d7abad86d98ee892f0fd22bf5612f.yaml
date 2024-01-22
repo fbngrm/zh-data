@@ -1,0 +1,32 @@
+{
+  "chinese": "玩具部门在第五层。",
+  "english": "The toy department is on the fifth floor.",
+  "pinyin": "Wán jù bù mén zài dì wǔ céng.",
+  "words": [
+    {
+      "ch": "玩具",
+      "en": "toy",
+      "pi": "wán jù"
+    },
+    {
+      "ch": "部门",
+      "en": "department",
+      "pi": "bù mén"
+    },
+    {
+      "ch": "在",
+      "en": "is on",
+      "pi": "zài"
+    },
+    {
+      "ch": "第五",
+      "en": "fifth",
+      "pi": "dì wǔ"
+    },
+    {
+      "ch": "层",
+      "en": "floor",
+      "pi": "céng"
+    }
+  ]
+}

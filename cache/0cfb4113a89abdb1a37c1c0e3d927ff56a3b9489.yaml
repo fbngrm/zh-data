@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆拍了这张照。",
+  "english": "Tom took this photo.",
+  "pinyin": "Tāng mǔ pāi le zhè zhāng zhào.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "拍",
+      "en": "took",
+      "pi": "pāi"
+    },
+    {
+      "ch": "了",
+      "en": "this",
+      "pi": "le"
+    },
+    {
+      "ch": "这张",
+      "en": "photo",
+      "pi": "zhè zhāng"
+    },
+    {
+      "ch": "照",
+      "en": "key",
+      "pi": "zhào"
+    }
+  ]
+}

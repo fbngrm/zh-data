@@ -1,0 +1,15 @@
+{
+  "chinese": "他因为没有被邀请而气得快疯了。",
+  "english": "He was furious because he wasn't invited.",
+  "pinyin": "tā yīnwèi méiyǒu bèi yāoqǐng ér qì de kuài fēng le。",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "因为", "en": "because", "pi": "yīnwèi"},
+    {"ch": "没有", "en": "doesn't have", "pi": "méiyǒu"},
+    {"ch": "被", "en": "by", "pi": "bèi"},
+    {"ch": "邀请", "en": "invite", "pi": "yāoqǐng"},
+    {"ch": "而", "en": "and", "pi": "ér"},
+    {"ch": "气得", "en": "furious", "pi": "qì de"},
+    {"ch": "快疯了", "en": "going crazy", "pi": "kuài fēng le"}
+  ]
+}

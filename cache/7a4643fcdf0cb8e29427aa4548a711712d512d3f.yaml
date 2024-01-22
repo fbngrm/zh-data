@@ -1,0 +1,14 @@
+{
+  "chinese": "他是这所大学的学生。",
+  "english": "He is a student of this university.",
+  "pinyin": "tā shì zhè suǒ dàxué de xuéshēng.",
+  "words": [
+    { "ch": "他", "en": "he", "pi": "tā" },
+    { "ch": "是", "en": "is", "pi": "shì" },
+    { "ch": "这", "en": "this", "pi": "zhè" },
+    { "ch": "所", "en": "of", "pi": "suǒ" },
+    { "ch": "大学", "en": "university", "pi": "dàxué" },
+    { "ch": "的", "en": "de", "pi": "de" },
+    { "ch": "学生", "en": "student", "pi": "xuéshēng" }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "这颗钻石不是真的。",
+  "english": "This diamond is not real.",
+  "pinyin": "zhè kē zuàn shí bú shì zhēn de.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "颗",
+      "en": "classifier for small objects",
+      "pi": "kē"
+    },
+    {
+      "ch": "钻石",
+      "en": "diamond",
+      "pi": "zuàn shí"
+    },
+    {
+      "ch": "不是",
+      "en": "not",
+      "pi": "bú shì"
+    },
+    {
+      "ch": "真的",
+      "en": "real",
+      "pi": "zhēn de"
+    }
+  ]
+}

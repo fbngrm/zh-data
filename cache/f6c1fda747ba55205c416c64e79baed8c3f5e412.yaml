@@ -1,0 +1,32 @@
+{
+  "chinese": "他有红色的花。",
+  "english": "He has red flowers.",
+  "pinyin": "Tā yǒu hóngsè de huā.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "Tā"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "红色",
+      "en": "red",
+      "pi": "hóngsè"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "花",
+      "en": "flowers",
+      "pi": "huā"
+    }
+  ]
+}

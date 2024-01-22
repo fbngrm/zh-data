@@ -1,0 +1,42 @@
+{
+  "chinese": "努力学习,那么你就会成功。",
+  "english": "If you study hard, then you will succeed.",
+  "pinyin": "Nǔlì xuéxí, nàme nǐ jiù huì chénggōng.",
+  "words": [
+    {
+      "ch": "努力",
+      "en": "effort",
+      "pi": "nǔlì"
+    },
+    {
+      "ch": "学习",
+      "en": "study",
+      "pi": "xuéxí"
+    },
+    {
+      "ch": "那么",
+      "en": "then",
+      "pi": "nàme"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "就",
+      "en": "will",
+      "pi": "jiù"
+    },
+    {
+      "ch": "会",
+      "en": "able",
+      "pi": "huì"
+    },
+    {
+      "ch": "成功",
+      "en": "succeed",
+      "pi": "chénggōng"
+    }
+  ]
+}

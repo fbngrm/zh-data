@@ -1,0 +1,15 @@
+{
+  "chinese": "他把信读了一遍又一遍。",
+  "english": "He read the letter again and again.",
+  "pinyin": "tā bǎ xìn dú le yī biàn yòu yī biàn。",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "把", "en": "take", "pi": "bǎ"},
+    {"ch": "信", "en": "letter", "pi": "xìn"},
+    {"ch": "读", "en": "read", "pi": "dú"},
+    {"ch": "了", "en": "particle indicating a completed action", "pi": "le"},
+    {"ch": "一遍", "en": "again and again", "pi": "yī biàn"},
+    {"ch": "又", "en": "again", "pi": "yòu"},
+    {"ch": "一遍", "en": "again and again", "pi": "yī biàn"}
+  ]
+}

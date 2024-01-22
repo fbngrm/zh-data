@@ -1,0 +1,47 @@
+{
+  "chinese": "数学是艾伯特的最喜欢的科目。",
+  "english": "Math is Albert's favorite subject.",
+  "pinyin": "Shùxué shì ài bó tè de zuì xǐhuān de kēmù.",
+  "words": [
+    {
+      "ch": "数学",
+      "en": "Math",
+      "pi": "shùxué"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "艾伯特",
+      "en": "Albert",
+      "pi": "ài bó tè"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "最",
+      "en": "favorite",
+      "pi": "zuì"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "科目",
+      "en": "subject",
+      "pi": "kēmù"
+    }
+  ]
+}

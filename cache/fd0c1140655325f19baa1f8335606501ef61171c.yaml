@@ -1,0 +1,52 @@
+{
+  "chinese": "你赞成他在书中说的话吗？",
+  "english": "Do you agree with what he said in the book?",
+  "pinyin": "nǐ zànchéng tā zài shū zhōng shuō de huà ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "赞成",
+      "en": "agree",
+      "pi": "zànchéng"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "书中",
+      "en": "in the book",
+      "pi": "shū zhōng"
+    },
+    {
+      "ch": "说",
+      "en": "said",
+      "pi": "shuō"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "话",
+      "en": "words",
+      "pi": "huà"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

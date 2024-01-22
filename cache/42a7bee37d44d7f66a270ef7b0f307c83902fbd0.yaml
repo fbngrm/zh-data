@@ -1,0 +1,113 @@
+{
+  "sentences": [
+    {
+      "chinese": "是人都会犯错。",
+      "english": "Everyone makes mistakes.",
+      "pinyin": "shì rén dōu huì fàn cuò。",
+      "words": [
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "人",
+          "en": "people",
+          "pi": "rén"
+        },
+        {
+          "ch": "都",
+          "en": "all",
+          "pi": "dōu"
+        },
+        {
+          "ch": "会",
+          "en": "will",
+          "pi": "huì"
+        },
+        {
+          "ch": "犯错",
+          "en": "make mistakes",
+          "pi": "fàn cuò"
+        }
+      ]
+    },
+    {
+      "chinese": "为你自己的错误指责别人，更是人类会做的事。",
+      "english": "Blaming others for your own mistakes is something that humans do.",
+      "pinyin": "wèi nǐ zì jǐ de cuò wù zhǐ zé bié rén，gèng shì rén lèi huì zuò de shì。",
+      "words": [
+        {
+          "ch": "为",
+          "en": "for",
+          "pi": "wèi"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "自己",
+          "en": "yourself",
+          "pi": "zì jǐ"
+        },
+        {
+          "ch": "的",
+          "en": "possessive particle",
+          "pi": "de"
+        },
+        {
+          "ch": "错误",
+          "en": "mistake",
+          "pi": "cuò wù"
+        },
+        {
+          "ch": "指责",
+          "en": "blame",
+          "pi": "zhǐ zé"
+        },
+        {
+          "ch": "别人",
+          "en": "others",
+          "pi": "bié rén"
+        },
+        {
+          "ch": "更",
+          "en": "even more",
+          "pi": "gèng"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "人类",
+          "en": "human",
+          "pi": "rén lèi"
+        },
+        {
+          "ch": "会",
+          "en": "will",
+          "pi": "huì"
+        },
+        {
+          "ch": "做",
+          "en": "do",
+          "pi": "zuò"
+        },
+        {
+          "ch": "的",
+          "en": "possessive particle",
+          "pi": "de"
+        },
+        {
+          "ch": "事",
+          "en": "thing",
+          "pi": "shì"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "这个玩具是木制的。",
+  "english": "This toy is made of wood.",
+  "pinyin": "zhè gè wán jù shì mù zhì de.",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "玩具",
+      "en": "toy",
+      "pi": "wán jù"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "木制",
+      "en": "wooden",
+      "pi": "mù zhì"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    }
+  ]
+}

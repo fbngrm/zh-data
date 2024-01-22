@@ -1,0 +1,37 @@
+{
+  "chinese": "你的车很快，但是我的更快。",
+  "english": "Your car is fast, but mine is faster.",
+  "pinyin": "nǐ de chē hěn kuài ，dàn shì wǒ de gèng kuài 。",
+  "words": [
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "车",
+      "en": "car",
+      "pi": "chē"
+    },
+    {
+      "ch": "很快",
+      "en": "fast",
+      "pi": "hěn kuài"
+    },
+    {
+      "ch": "但是",
+      "en": "but",
+      "pi": "dàn shì"
+    },
+    {
+      "ch": "我的",
+      "en": "mine",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "更快",
+      "en": "faster",
+      "pi": "gèng kuài"
+    }
+  ]
+}

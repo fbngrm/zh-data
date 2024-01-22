@@ -1,0 +1,37 @@
+{
+  "chinese": "这本书在英国印刷。",
+  "english": "This book was printed in England.",
+  "pinyin": "zhè běn shū zài yīng guó yìn shuā.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "书",
+      "en": "was",
+      "pi": "shū"
+    },
+    {
+      "ch": "在",
+      "en": "printed",
+      "pi": "zài"
+    },
+    {
+      "ch": "英国",
+      "en": "in",
+      "pi": "yīng guó"
+    },
+    {
+      "ch": "印刷",
+      "en": "England",
+      "pi": "yìn shuā"
+    }
+  ]
+}

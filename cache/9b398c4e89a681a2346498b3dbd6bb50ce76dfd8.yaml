@@ -1,0 +1,52 @@
+{
+  "chinese": "这本字典包含了约４万个词条。",
+  "english": "This dictionary contains about 40,000 entries.",
+  "pinyin": "zhè běn zì diǎn bāo hán le yuē sì wàn gè cí tiáo。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "字典",
+      "en": "dictionary",
+      "pi": "zì diǎn"
+    },
+    {
+      "ch": "包含",
+      "en": "contain",
+      "pi": "bāo hán"
+    },
+    {
+      "ch": "了",
+      "en": "record particle",
+      "pi": "le"
+    },
+    {
+      "ch": "约",
+      "en": "about",
+      "pi": "yuē"
+    },
+    {
+      "ch": "４万",
+      "en": "40,000",
+      "pi": "sì wàn"
+    },
+    {
+      "ch": "个",
+      "en": "measure word",
+      "pi": "gè"
+    },
+    {
+      "ch": "词条",
+      "en": "entries",
+      "pi": "cí tiáo"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "所有人除了汤姆都吃了比萨。",
+  "english": "Everyone except Tom ate pizza.",
+  "pinyin": "suǒ yǒurén chúle tāngmǔ dōu chīle bǐsà.",
+  "words": [
+    {
+      "ch": "所有人",
+      "en": "Everyone",
+      "pi": "suǒ yǒurén"
+    },
+    {
+      "ch": "除了",
+      "en": "except",
+      "pi": "chúle"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāngmǔ"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "吃了",
+      "en": "ate",
+      "pi": "chīle"
+    },
+    {
+      "ch": "比萨",
+      "en": "pizza",
+      "pi": "bǐsà"
+    }
+  ]
+}

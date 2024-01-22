@@ -1,0 +1,42 @@
+{
+  "chinese": "今天我有很多功课要做。",
+  "english": "Today I have a lot of homework to do.",
+  "pinyin": "jīn tiān wǒ yǒu hěn duō gōng kè yào zuò.",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "很多",
+      "en": "a lot of",
+      "pi": "hěn duō"
+    },
+    {
+      "ch": "功课",
+      "en": "homework",
+      "pi": "gōng kè"
+    },
+    {
+      "ch": "要",
+      "en": "to",
+      "pi": "yào"
+    },
+    {
+      "ch": "做",
+      "en": "do",
+      "pi": "zuò"
+    }
+  ]
+}

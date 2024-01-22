@@ -1,0 +1,37 @@
+{
+  "chinese": "我昨晚睡了五小时。",
+  "english": "I slept for five hours last night.",
+  "pinyin": "wǒ zuówǎn shuì le wǔ xiǎoshí。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "昨晚",
+      "en": "last night",
+      "pi": "zuówǎn"
+    },
+    {
+      "ch": "睡",
+      "en": "slept",
+      "pi": "shuì"
+    },
+    {
+      "ch": "了",
+      "en": "for",
+      "pi": "le"
+    },
+    {
+      "ch": "五",
+      "en": "five",
+      "pi": "wǔ"
+    },
+    {
+      "ch": "小时",
+      "en": "hours",
+      "pi": "xiǎoshí"
+    }
+  ]
+}

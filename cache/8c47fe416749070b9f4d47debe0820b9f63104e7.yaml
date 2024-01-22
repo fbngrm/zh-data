@@ -1,0 +1,37 @@
+{
+  "chinese": "我们该吃午饭了吧？",
+  "english": "Should we have lunch now?",
+  "pinyin": "wǒmen gāi chī wǔfàn le ba?",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "该",
+      "en": "should",
+      "pi": "gāi"
+    },
+    {
+      "ch": "吃",
+      "en": "have",
+      "pi": "chī"
+    },
+    {
+      "ch": "午饭",
+      "en": "lunch",
+      "pi": "wǔfàn"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "吧",
+      "en": "",
+      "pi": "ba"
+    }
+  ]
+}

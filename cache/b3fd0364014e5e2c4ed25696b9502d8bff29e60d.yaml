@@ -1,0 +1,14 @@
+{
+  "chinese": "汤姆没有错过一场玛丽的音乐会。",
+  "english": "Tom didn't miss Mary's concert.",
+  "pinyin": "Tāng mǔ méiyǒu cuòguò yī chǎng mǎlì de yīnyuèhuì.",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ"},
+    {"ch": "没有", "en": "didn't have", "pi": "méiyǒu"},
+    {"ch": "错过", "en": "miss", "pi": "cuòguò"},
+    {"ch": "一场", "en": "a", "pi": "yī chǎng"},
+    {"ch": "玛丽", "en": "Mary", "pi": "mǎlì"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "音乐会", "en": "concert", "pi": "yīnyuèhuì"}
+  ]
+}

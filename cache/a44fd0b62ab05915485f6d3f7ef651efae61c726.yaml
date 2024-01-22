@@ -1,0 +1,73 @@
+{
+  "sentences": [
+    {
+      "chinese": "你有火柴吗？",
+      "english": "Do you have matches?",
+      "pinyin": "nǐ yǒu huǒ chái ma?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "有",
+          "en": "have",
+          "pi": "yǒu"
+        },
+        {
+          "ch": "火柴",
+          "en": "matches",
+          "pi": "huǒ chái"
+        },
+        {
+          "ch": "吗",
+          "en": "?",
+          "pi": "ma"
+        }
+      ]
+    },
+    {
+      "chinese": "很抱歉，我不抽菸。",
+      "english": "I'm sorry, I don't smoke.",
+      "pinyin": "hěn bào qiàn, wǒ bù chōu yān.",
+      "words": [
+        {
+          "ch": "很",
+          "en": "very",
+          "pi": "hěn"
+        },
+        {
+          "ch": "抱歉",
+          "en": "sorry",
+          "pi": "bào qiàn"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": ","
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "不",
+          "en": "don't",
+          "pi": "bù"
+        },
+        {
+          "ch": "抽菸",
+          "en": "smoke",
+          "pi": "chōu yān"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "."
+        }
+      ]
+    }
+  ]
+}

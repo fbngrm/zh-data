@@ -1,0 +1,32 @@
+{
+  "chinese": "超级市场在十点开门。",
+  "english": "The supermarket opens at ten o'clock.",
+  "pinyin": "chāo jí shì chǎng zài shí diǎn kāi mén.",
+  "words": [
+    {
+      "ch": "超级",
+      "en": "super",
+      "pi": "chāo jí"
+    },
+    {
+      "ch": "市场",
+      "en": "market",
+      "pi": "shì chǎng"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "十点",
+      "en": "ten o'clock",
+      "pi": "shí diǎn"
+    },
+    {
+      "ch": "开门",
+      "en": "open",
+      "pi": "kāi mén"
+    }
+  ]
+}

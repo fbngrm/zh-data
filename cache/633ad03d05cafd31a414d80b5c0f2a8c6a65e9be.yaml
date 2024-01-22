@@ -1,0 +1,11 @@
+{
+  "chinese": "这堵墙长三十码。",
+  "english": "This wall is thirty meters long.",
+  "pinyin": "zhè dǔ qiáng zhǎng sānshímǎ.",
+  "words": [
+    {"ch": "这", "en": "This", "pi": "zhè"},
+    {"ch": "堵墙", "en": "wall", "pi": "dǔ qiáng"},
+    {"ch": "长", "en": "is", "pi": "zhǎng"},
+    {"ch": "三十码", "en": "thirty meters long", "pi": "sānshímǎ"}
+  ]
+}

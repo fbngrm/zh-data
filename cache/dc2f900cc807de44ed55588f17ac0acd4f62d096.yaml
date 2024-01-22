@@ -1,0 +1,14 @@
+{
+  "chinese": "发生意外的话按这个红按钮。",
+  "english": "In case of an accident, press this red button.",
+  "pinyin": "fā shēng yì wài de huà àn zhàn zhè gè hóng àn niǔ."
+  "words": [
+    {"ch": "发生", "en": "occur", "pi": "fā shēng"},
+    {"ch": "意外", "en": "accident", "pi": "yì wài"},
+    {"ch": "的话", "en": "if", "pi": "de huà"},
+    {"ch": "按", "en": "press", "pi": "àn"},
+    {"ch": "这个", "en": "this", "pi": "zhè gè"},
+    {"ch": "红", "en": "red", "pi": "hóng"},
+    {"ch": "按钮", "en": "button", "pi": "àn niǔ"}
+  ]
+}

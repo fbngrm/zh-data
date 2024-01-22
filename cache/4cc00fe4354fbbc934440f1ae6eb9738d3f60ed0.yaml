@@ -1,0 +1,42 @@
+{
+  "chinese": "这张照片里的女孩是谁？",
+  "english": "Who is the girl in this photo?",
+  "pinyin": "zhè zhāng zhàopiàn lǐ de nǚhái shì shuí?",
+  "words": [
+    {
+      "ch": "这张",
+      "en": "this",
+      "pi": "zhè zhāng"
+    },
+    {
+      "ch": "照片",
+      "en": "photo",
+      "pi": "zhàopiàn"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "女孩",
+      "en": "girl",
+      "pi": "nǚhái"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "谁",
+      "en": "who",
+      "pi": "shuí"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "她懂得很多英文生字。",
+  "english": "She knows a lot of English vocabulary words.",
+  "pinyin": "Tā dǒng de hěnduō yīngwén shēngzì.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "懂得",
+      "en": "knows",
+      "pi": "dǒng de"
+    },
+    {
+      "ch": "很多",
+      "en": "a lot of",
+      "pi": "hěnduō"
+    },
+    {
+      "ch": "英文",
+      "en": "English",
+      "pi": "yīngwén"
+    },
+    {
+      "ch": "生字",
+      "en": "vocabulary words",
+      "pi": "shēngzì"
+    }
+  ]
+}

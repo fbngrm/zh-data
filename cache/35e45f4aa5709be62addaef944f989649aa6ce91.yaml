@@ -1,0 +1,37 @@
+{
+  "chinese": "我在名古屋读的小学。",
+  "english": "I studied at an elementary school in Nagoya.",
+  "pinyin": "wǒ zài mínggǔwū dú de xiǎoxué。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "名古屋",
+      "en": "Nagoya",
+      "pi": "mínggǔwū"
+    },
+    {
+      "ch": "读",
+      "en": "study",
+      "pi": "dú"
+    },
+    {
+      "ch": "的",
+      "en": "at",
+      "pi": "de"
+    },
+    {
+      "ch": "小学",
+      "en": "elementary school",
+      "pi": "xiǎoxué"
+    }
+  ]
+}

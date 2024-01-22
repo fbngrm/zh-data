@@ -1,0 +1,32 @@
+{
+  "chinese": "我看见他逃跑了。",
+  "english": "I saw him run away.",
+  "pinyin": "Wǒ kànjiàn tā táo pǎo le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "看见",
+      "en": "saw",
+      "pi": "kànjiàn"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    },
+    {
+      "ch": "逃跑",
+      "en": "run away",
+      "pi": "táo pǎo"
+    },
+    {
+      "ch": "了",
+      "en": "completed action",
+      "pi": "le"
+    }
+  ]
+}

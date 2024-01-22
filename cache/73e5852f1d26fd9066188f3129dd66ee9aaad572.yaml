@@ -1,0 +1,16 @@
+{
+  "chinese": "无论我去哪里，我的狗都跟着我。",
+  "english": "Wherever I go, my dog follows me.",
+  "pinyin": "wú lùn wǒ qù nǎ lǐ, wǒ de gǒu dōu gēn zhe wǒ.",
+  "words": [
+    {"ch":"无论", "en":"wherever", "pi":"wú lùn"},
+    {"ch":"我", "en":"I", "pi":"wǒ"},
+    {"ch":"去", "en":"go", "pi":"qù"},
+    {"ch":"哪里", "en":"where", "pi":"nǎ lǐ"},
+    {"ch":"我的", "en":"my", "pi":"wǒ de"},
+    {"ch":"狗", "en":"dog", "pi":"gǒu"},
+    {"ch":"都", "en":"always", "pi":"dōu"},
+    {"ch":"跟着", "en":"follows", "pi":"gēn zhe"},
+    {"ch":"我", "en":"me", "pi":"wǒ"}
+  ]
+}

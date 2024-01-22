@@ -1,0 +1,46 @@
+{
+  "sentences": [
+    {
+      "chinese": "智者談論想法，知識分子談論事實，普通人談論他吃什麼。",
+      "english": "Wise men talk about ideas, intellectuals talk about facts, ordinary people talk about what they eat.",
+      "pinyin": "zhì zhě tán lùn xiǎng fǎ, zhī shì fēn zǐ tán lùn shì shí, pǔ tōng rén tán lùn tā chī shén me。",
+      "words": [
+        {
+          "ch": "智者",
+          "en": "wise men",
+          "pi": "zhì zhě"
+        },
+        {
+          "ch": "談論",
+          "en": "talk about",
+          "pi": "tán lùn"
+        },
+        {
+          "ch": "想法",
+          "en": "ideas",
+          "pi": "xiǎng fǎ"
+        },
+        {
+          "ch": "知識分子",
+          "en": "intellectuals",
+          "pi": "zhī shì fēn zǐ"
+        },
+        {
+          "ch": "事實",
+          "en": "facts",
+          "pi": "shì shí"
+        },
+        {
+          "ch": "普通人",
+          "en": "ordinary people",
+          "pi": "pǔ tōng rén"
+        },
+        {
+          "ch": "他吃什麼",
+          "en": "what they eat",
+          "pi": "tā chī shén me"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "那条黄瓜多长啊！",
+  "english": "How long is that cucumber!",
+  "pinyin": "Nà tiáo huángguā duō cháng a!",
+  "words": [
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "条",
+      "en": "classifier for long, narrow objects",
+      "pi": "tiáo"
+    },
+    {
+      "ch": "黄瓜",
+      "en": "cucumber",
+      "pi": "huángguā"
+    },
+    {
+      "ch": "多长",
+      "en": "how long",
+      "pi": "duō cháng"
+    },
+    {
+      "ch": "啊",
+      "en": "exclamation particle",
+      "pi": "a"
+    }
+  ]
+}

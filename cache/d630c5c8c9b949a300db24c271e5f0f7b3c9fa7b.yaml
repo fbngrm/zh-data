@@ -1,0 +1,32 @@
+{
+  "chinese": "这是真实的世界。",
+  "english": "This is the real world.",
+  "pinyin": "zhè shì zhēnshí de shìjiè.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "真实",
+      "en": "real",
+      "pi": "zhēnshí"
+    },
+    {
+      "ch": "的",
+      "en": "the",
+      "pi": "de"
+    },
+    {
+      "ch": "世界",
+      "en": "world",
+      "pi": "shìjiè"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "你最近有他的消息吗？",
+  "english": "Have you heard any news about him recently?",
+  "pinyin": "nǐ zuìjìn yǒu tā de xiāoxi ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "最近",
+      "en": "recently",
+      "pi": "zuìjìn"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    },
+    {
+      "ch": "的",
+      "en": "about",
+      "pi": "de"
+    },
+    {
+      "ch": "消息",
+      "en": "news",
+      "pi": "xiāoxi"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

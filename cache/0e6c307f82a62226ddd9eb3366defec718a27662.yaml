@@ -1,0 +1,32 @@
+{
+  "chinese": "你的学校有多远？",
+  "english": "How far is your school?",
+  "pinyin": "nǐ de xuéxiào yǒu duō yuǎn?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "your",
+      "pi": "de"
+    },
+    {
+      "ch": "学校",
+      "en": "school",
+      "pi": "xuéxiào"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "多远",
+      "en": "how far",
+      "pi": "duō yuǎn"
+    }
+  ]
+}

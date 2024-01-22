@@ -1,0 +1,19 @@
+{
+  "chinese": "和你说句实话，我觉得我做不到。",
+  "english": "To be honest with you, I don't think I can do it.",
+  "pinyin": "hé nǐ shuō jù shíhuà, wǒ juédé wǒ zuò bùdào。",
+  "words": [
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "说", "en": "speak", "pi": "shuō"},
+    {"ch": "句", "en": "sentence", "pi": "jù"},
+    {"ch": "实话", "en": "truth", "pi": "shíhuà"},
+    {"ch": "，", "en": ",", "pi": null},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "觉得", "en": "think", "pi": "juédé"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "做", "en": "do", "pi": "zuò"},
+    {"ch": "不到", "en": "can't", "pi": "bùdào"},
+    {"ch": "。", "en": ".", "pi": null}
+  ]
+}

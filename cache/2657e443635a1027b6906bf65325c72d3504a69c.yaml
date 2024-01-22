@@ -1,0 +1,32 @@
+{
+  "chinese": "Ｔｏｍ能说法文吗？",
+  "english": "Can Tom speak French?",
+  "pinyin": "Tóméng shuō fǎwén ma?",
+  "words": [
+    {
+      "ch": "Ｔｏｍ",
+      "en": "Tom",
+      "pi": "Tóméng"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "法文",
+      "en": "French",
+      "pi": "fǎwén"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

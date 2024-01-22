@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆不想一个人走。",
+  "english": "Tom doesn't want to walk alone.",
+  "pinyin": "Tāng mǔ bùxiǎng yī gè rén zǒu.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "不想",
+      "en": "doesn't want",
+      "pi": "bùxiǎng"
+    },
+    {
+      "ch": "一个人",
+      "en": "alone",
+      "pi": "yī gè rén"
+    },
+    {
+      "ch": "走",
+      "en": "to walk",
+      "pi": "zǒu"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "chinese": "我今天必須把書還給圖書館。",
+  "english": "I must return the book to the library today.",
+  "pinyin": "wǒ jīntiān bìxū bǎ shū huán gěi túshū guǎn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "必須",
+      "en": "must",
+      "pi": "bìxū"
+    },
+    {
+      "ch": "把",
+      "en": "to",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "書",
+      "en": "book",
+      "pi": "shū"
+    },
+    {
+      "ch": "還",
+      "en": "return",
+      "pi": "huán"
+    },
+    {
+      "ch": "給",
+      "en": "to",
+      "pi": "gěi"
+    },
+    {
+      "ch": "圖書館",
+      "en": "library",
+      "pi": "túshū guǎn"
+    }
+  ]
+}

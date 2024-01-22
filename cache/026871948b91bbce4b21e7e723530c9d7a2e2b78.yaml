@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆骑摩托车上班。",
+  "english": "Tom rides a motorcycle to work.",
+  "pinyin": "Tāng mǔ qí mó tuō chē shàng bān.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "骑",
+      "en": "rides",
+      "pi": "qí"
+    },
+    {
+      "ch": "摩托车",
+      "en": "motorcycle",
+      "pi": "mó tuō chē"
+    },
+    {
+      "ch": "上班",
+      "en": "to work",
+      "pi": "shàng bān"
+    }
+  ]
+}

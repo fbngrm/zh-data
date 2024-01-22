@@ -1,0 +1,47 @@
+{
+  "chinese": "我的手提包，一只是大的，另一只是中号的。",
+  "english": "My handbag, one is large and the other is medium-sized.",
+  "pinyin": "Wǒ de shǒutí bāo, yī zhī shì dà de, lìng yī zhī shì zhōng hào de.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "手提包",
+      "en": "handbag",
+      "pi": "shǒutí bāo"
+    },
+    {
+      "ch": "一只",
+      "en": "one",
+      "pi": "yī zhī"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "大的",
+      "en": "large",
+      "pi": "dà de"
+    },
+    {
+      "ch": "另一只",
+      "en": "the other",
+      "pi": "lìng yī zhī"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "中号的",
+      "en": "medium-sized",
+      "pi": "zhōng hào de"
+    }
+  ]
+}

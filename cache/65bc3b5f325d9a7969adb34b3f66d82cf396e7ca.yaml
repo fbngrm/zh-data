@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆是个好工人。",
+  "english": "Tom is a good worker.",
+  "pinyin": "tāng mǔ shì gè hǎo gōng rén.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "工人",
+      "en": "worker",
+      "pi": "gōng rén"
+    }
+  ]
+}

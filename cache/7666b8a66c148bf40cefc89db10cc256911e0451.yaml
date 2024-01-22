@@ -1,0 +1,37 @@
+{
+  "chinese": "孩子们跑步，有的快，有的慢。",
+  "english": "The children are running, some are fast, some are slow.",
+  "pinyin": "Háizimen pǎobù, yǒude kuài, yǒude màn.",
+  "words": [
+    {
+      "ch": "孩子们",
+      "en": "children",
+      "pi": "háizimen"
+    },
+    {
+      "ch": "跑步",
+      "en": "running",
+      "pi": "pǎobù"
+    },
+    {
+      "ch": "有的",
+      "en": "some",
+      "pi": "yǒude"
+    },
+    {
+      "ch": "快",
+      "en": "fast",
+      "pi": "kuài"
+    },
+    {
+      "ch": "有的",
+      "en": "some",
+      "pi": "yǒude"
+    },
+    {
+      "ch": "慢",
+      "en": "slow",
+      "pi": "màn"
+    }
+  ]
+}

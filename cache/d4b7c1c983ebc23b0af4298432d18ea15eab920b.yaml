@@ -1,0 +1,32 @@
+{
+  "chinese": "洗衣服是我的工作。",
+  "english": "Washing clothes is my job.",
+  "pinyin": "Xǐ yīfú shì wǒ de gōngzuò。",
+  "words": [
+    {
+      "ch": "洗",
+      "en": "Wash",
+      "pi": "Xǐ"
+    },
+    {
+      "ch": "衣服",
+      "en": "Clothes",
+      "pi": "Yīfú"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "工作",
+      "en": "job",
+      "pi": "gōngzuò"
+    }
+  ]
+}

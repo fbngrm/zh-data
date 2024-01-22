@@ -1,0 +1,37 @@
+{
+  "chinese": "你知道我幾歲嗎？",
+  "english": "Do you know how old I am?",
+  "pinyin": "nǐ zhī dào wǒ jǐ suì ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "幾",
+      "en": "how many",
+      "pi": "jǐ"
+    },
+    {
+      "ch": "歲",
+      "en": "years old",
+      "pi": "suì"
+    },
+    {
+      "ch": "嗎",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

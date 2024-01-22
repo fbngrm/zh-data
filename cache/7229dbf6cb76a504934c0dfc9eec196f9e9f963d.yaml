@@ -1,0 +1,37 @@
+{
+  "chinese": "如果明天下雨，我就不去。",
+  "english": "If it rains tomorrow, I won't go.",
+  "pinyin": "Rúguǒ míngtiān xiàyǔ, wǒ jiù bù qù。",
+  "words": [
+    {
+      "ch": "如果",
+      "en": "if",
+      "pi": "rúguǒ"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "下雨",
+      "en": "rains",
+      "pi": "xiàyǔ"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "就",
+      "en": "will",
+      "pi": "jiù"
+    },
+    {
+      "ch": "不去",
+      "en": "not go",
+      "pi": "bù qù"
+    }
+  ]
+}

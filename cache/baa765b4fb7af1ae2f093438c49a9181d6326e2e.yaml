@@ -1,0 +1,37 @@
+{
+  "chinese": "飛機在三千米的高空飛行。",
+  "english": "The plane is flying at an altitude of three kilometers.",
+  "pinyin": "fēijī zài sān qiān mǐ de gāokōng fēixíng.",
+  "words": [
+    {
+      "ch": "飛機",
+      "en": "plane",
+      "pi": "fēijī"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "三千米",
+      "en": "three kilometers",
+      "pi": "sān qiān mǐ"
+    },
+    {
+      "ch": "的",
+      "en": "at",
+      "pi": "de"
+    },
+    {
+      "ch": "高空",
+      "en": "altitude",
+      "pi": "gāokōng"
+    },
+    {
+      "ch": "飛行",
+      "en": "flying",
+      "pi": "fēixíng"
+    }
+  ]
+}

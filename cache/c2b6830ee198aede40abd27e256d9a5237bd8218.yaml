@@ -1,0 +1,16 @@
+{
+  "chinese": "我一喝了酒就立刻变得通红。",
+  "english": "I immediately turned red as soon as I had a drink.",
+  "pinyin": "wǒ yī hē le jiǔ jiù lì kè biàn de tōng hóng.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "一", "en": "as soon as", "pi": "yī"},
+    {"ch": "喝", "en": "have a drink", "pi": "hē"},
+    {"ch": "了", "en": "particle indicating completed action", "pi": "le"},
+    {"ch": "酒", "en": "alcohol", "pi": "jiǔ"},
+    {"ch": "就", "en": "then", "pi": "jiù"},
+    {"ch": "立刻", "en": "immediately", "pi": "lì kè"},
+    {"ch": "变得", "en": "become", "pi": "biàn de"},
+    {"ch": "通红", "en": "red", "pi": "tōng hóng"}
+  ]
+}

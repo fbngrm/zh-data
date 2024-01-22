@@ -1,0 +1,32 @@
+{
+  "chinese": "我唱歌唱得很好。",
+  "english": "I sing very well.",
+  "pinyin": "wǒ chàng gē chàng dé hěn hǎo.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "唱歌",
+      "en": "sing",
+      "pi": "chàng gē"
+    },
+    {
+      "ch": "唱得",
+      "en": "sing",
+      "pi": "chàng dé"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "好",
+      "en": "well",
+      "pi": "hǎo"
+    }
+  ]
+}

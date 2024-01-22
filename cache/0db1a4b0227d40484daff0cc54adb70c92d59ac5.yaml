@@ -1,0 +1,26 @@
+{
+  "sentences": [
+    {
+      "chinese": "请改正错误。",
+      "english": "Please correct the mistake.",
+      "pinyin": "qǐng gǎi zhèng cuòwù。",
+      "words": [
+        {
+          "ch": "请",
+          "en": "Please",
+          "pi": "qǐng"
+        },
+        {
+          "ch": "改正",
+          "en": "correct",
+          "pi": "gǎi zhèng"
+        },
+        {
+          "ch": "错误",
+          "en": "mistake",
+          "pi": "cuòwù"
+        }
+      ]
+    }
+  ]
+}

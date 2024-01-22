@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆会在几天后到达那里。",
+  "english": "Tom will arrive there in a few days.",
+  "pinyin": "tāng mǔ huì zài jǐ tiān hòu dào dá nà lǐ。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "几",
+      "en": "a few",
+      "pi": "jǐ"
+    },
+    {
+      "ch": "天后",
+      "en": "days later",
+      "pi": "tiān hòu"
+    },
+    {
+      "ch": "到达",
+      "en": "arrive",
+      "pi": "dào dá"
+    },
+    {
+      "ch": "那里",
+      "en": "there",
+      "pi": "nà lǐ"
+    }
+  ]
+}

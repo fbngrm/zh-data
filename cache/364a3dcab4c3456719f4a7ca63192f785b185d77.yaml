@@ -1,0 +1,37 @@
+{
+  "chinese": "你是否坐公共汽车去上学？",
+  "english": "Do you take the bus to school?",
+  "pinyin": "nǐ shìfǒu zuò gōnggòng qìchē qù shàngxué?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "是否",
+      "en": "do",
+      "pi": "shìfǒu"
+    },
+    {
+      "ch": "坐",
+      "en": "take",
+      "pi": "zuò"
+    },
+    {
+      "ch": "公共汽车",
+      "en": "bus",
+      "pi": "gōnggòng qìchē"
+    },
+    {
+      "ch": "去",
+      "en": "to",
+      "pi": "qù"
+    },
+    {
+      "ch": "上学",
+      "en": "school",
+      "pi": "shàngxué"
+    }
+  ]
+}

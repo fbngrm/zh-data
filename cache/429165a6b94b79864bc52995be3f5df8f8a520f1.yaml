@@ -1,0 +1,27 @@
+{
+   "chinese": "这班火车九点钟发车。",
+   "english": "This train departs at nine o'clock.",
+   "pinyin": "zhè bān huǒ chē jiǔ diǎn zhōng fā chē。",
+   "words": [
+      {
+         "ch": "这班",
+         "en": "this train",
+         "pi": "zhè bān"
+      },
+      {
+         "ch": "火车",
+         "en": "train",
+         "pi": "huǒ chē"
+      },
+      {
+         "ch": "九点钟",
+         "en": "nine o'clock",
+         "pi": "jiǔ diǎn zhōng"
+      },
+      {
+         "ch": "发车",
+         "en": "departs",
+         "pi": "fā chē"
+      }
+   ]
+}

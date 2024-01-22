@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆昨天用刀切到自己了。",
+  "english": "Tom cut himself with a knife yesterday.",
+  "pinyin": "Tāngmǔ zuótiān yòng dāo qiè dào zìjǐle.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "用",
+      "en": "use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "刀",
+      "en": "knife",
+      "pi": "dāo"
+    },
+    {
+      "ch": "切到",
+      "en": "cut",
+      "pi": "qiè dào"
+    },
+    {
+      "ch": "自己",
+      "en": "oneself",
+      "pi": "zìjǐ"
+    },
+    {
+      "ch": "了",
+      "en": "finished",
+      "pi": "le"
+    }
+  ]
+}

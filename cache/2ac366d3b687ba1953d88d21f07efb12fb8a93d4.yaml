@@ -1,0 +1,12 @@
+{
+  "chinese": "他把球扔了。",
+  "english": "He threw the ball.",
+  "pinyin": "tā bǎ qiú rēng le.",
+  "words": [
+    { "ch": "他", "en": "he", "pi": "tā" },
+    { "ch": "把", "en": "take", "pi": "bǎ" },
+    { "ch": "球", "en": "ball", "pi": "qiú" },
+    { "ch": "扔", "en": "throw", "pi": "rēng" },
+    { "ch": "了", "en": "completed action", "pi": "le" }
+  ]
+}

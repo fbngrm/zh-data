@@ -1,0 +1,22 @@
+{ 
+  "chinese": "生活多么复杂！", 
+  "english": "Life is so complicated!", 
+  "pinyin": "shēng huó duō me fù zá!", 
+  "words": [ 
+    { 
+      "ch": "生活", 
+      "en": "Life", 
+      "pi": "shēng huó" 
+    }, 
+    { 
+      "ch": "多么", 
+      "en": "so", 
+      "pi": "duō me" 
+    }, 
+    { 
+      "ch": "复杂", 
+      "en": "complicated", 
+      "pi": "fù zá" 
+    } 
+  ] 
+}

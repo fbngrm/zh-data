@@ -1,0 +1,37 @@
+{
+  "chinese": "我只睡了两小时。",
+  "english": "I only slept for two hours.",
+  "pinyin": "wǒ zhǐ shuì le liǎng xiǎo shí。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "只",
+      "en": "only",
+      "pi": "zhǐ"
+    },
+    {
+      "ch": "睡",
+      "en": "to sleep",
+      "pi": "shuì"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "两",
+      "en": "two",
+      "pi": "liǎng"
+    },
+    {
+      "ch": "小时",
+      "en": "hours",
+      "pi": "xiǎo shí"
+    }
+  ]
+}

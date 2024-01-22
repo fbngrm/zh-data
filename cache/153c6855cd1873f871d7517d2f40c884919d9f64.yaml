@@ -1,0 +1,13 @@
+{
+  "chinese": "电话公司上个月切了我的线。",
+  "english": "The telephone company cut off my line last month.",
+  "pinyin": "diàn huà gōng sī shàng gè yuè qiē le wǒ de xiàn。",
+  "words": [
+    {"ch": "电话", "en": "telephone", "pi": "diàn huà"},
+    {"ch": "公司", "en": "company", "pi": "gōng sī"},
+    {"ch": "上个月", "en": "last month", "pi": "shàng gè yuè"},
+    {"ch": "切了", "en": "cut off", "pi": "qiē le"},
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "线", "en": "line", "pi": "xiàn"}
+  ]
+}

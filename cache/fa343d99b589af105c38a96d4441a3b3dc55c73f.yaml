@@ -1,0 +1,15 @@
+{
+  "chinese": "你比汤姆的大部分朋友都高。",
+  "english": "You are taller than most of Tom's friends.",
+  "pinyin": "nǐ bǐ tāng mǔ de dà bù fèn péng yǒu dōu gāo。",
+  "words": [
+    { "ch": "你", "en": "You", "pi": "nǐ" },
+    { "ch": "比", "en": "than", "pi": "bǐ" },
+    { "ch": "汤姆", "en": "Tom", "pi": "tāng mǔ" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "大部分", "en": "most", "pi": "dà bù fèn" },
+    { "ch": "朋友", "en": "friends", "pi": "péng yǒu" },
+    { "ch": "都", "en": "all", "pi": "dōu" },
+    { "ch": "高", "en": "taller", "pi": "gāo" }
+  ]
+}

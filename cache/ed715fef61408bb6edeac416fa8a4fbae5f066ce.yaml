@@ -1,0 +1,14 @@
+{
+  "chinese": "人們常說日文很難學。",
+  "english": "People often say that learning Japanese is difficult.",
+  "pinyin": "rén men cháng shuō rì wén hěn nán xué。",
+  "words": [
+     {"ch": "人們", "en": "people", "pi": "rén men"},
+     {"ch": "常", "en": "often", "pi": "cháng"},
+     {"ch": "說", "en": "say", "pi": "shuō"},
+     {"ch": "日文", "en": "Japanese", "pi": "rì wén"},
+     {"ch": "很", "en": "very", "pi": "hěn"},
+     {"ch": "難", "en": "difficult", "pi": "nán"},
+     {"ch": "學", "en": "learn", "pi": "xué"}
+  ]
+}

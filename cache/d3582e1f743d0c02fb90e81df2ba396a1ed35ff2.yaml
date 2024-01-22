@@ -1,0 +1,57 @@
+{
+  "chinese": "什么？你说的话我听不见。",
+  "english": "What? I can't hear what you're saying.",
+  "pinyin": "Shénme? Nǐ shuō de huà wǒ tīng bù jiàn.",
+  "words": [
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "ma"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "说",
+      "en": "say",
+      "pi": "shuō"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "话",
+      "en": "words",
+      "pi": "huà"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "听",
+      "en": "hear",
+      "pi": "tīng"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "见",
+      "en": "see",
+      "pi": "jiàn"
+    }
+  ]
+}

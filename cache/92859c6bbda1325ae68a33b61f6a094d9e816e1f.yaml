@@ -1,0 +1,15 @@
+{
+  "chinese": "我很抱歉给你添麻烦了。",
+  "english": "I'm sorry to have caused you trouble.",
+  "pinyin": "wǒ hěn bào qiàn gěi nǐ tiān má fan le。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "抱歉", "en": "sorry", "pi": "bào qiàn"},
+    {"ch": "给", "en": "to", "pi": "gěi"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "添", "en": "add", "pi": "tiān"},
+    {"ch": "麻烦", "en": "trouble", "pi": "má fan"},
+    {"ch": "了", "en": "have", "pi": "le"}
+  ]
+}

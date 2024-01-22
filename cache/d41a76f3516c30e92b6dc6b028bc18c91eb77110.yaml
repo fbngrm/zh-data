@@ -1,0 +1,52 @@
+{
+  "chinese": "大家都知道她的英语说得很好。",
+  "english": "Everyone knows that she speaks English very well.",
+  "pinyin": "dà jiā dōu zhī dào tā de yīng yǔ shuō dé hěn hǎo。",
+  "words": [
+    {
+      "ch": "大家",
+      "en": "everyone",
+      "pi": "dà jiā"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīng yǔ"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "得",
+      "en": "very",
+      "pi": "dé"
+    },
+    {
+      "ch": "很好",
+      "en": "well",
+      "pi": "hěn hǎo"
+    }
+  ]
+}

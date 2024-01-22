@@ -1,0 +1,13 @@
+{
+  "chinese": "日本人和中國人有時很難分辨。",
+  "english": "Sometimes it's hard to distinguish between Japanese and Chinese people.",
+  "pinyin": "Rìběn rén hé Zhōngguó rén yǒu shí hěn nán fēnbiàn.",
+  "words": [
+    {"ch": "日本人", "en": "Japanese people", "pi": "Rìběn rén"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "中國人", "en": "Chinese people", "pi": "Zhōngguó rén"},
+    {"ch": "有時", "en": "sometimes", "pi": "yǒu shí"},
+    {"ch": "很難", "en": "hard", "pi": "hěn nán"},
+    {"ch": "分辨", "en": "distinguish", "pi": "fēnbiàn"}
+  ]
+}

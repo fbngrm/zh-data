@@ -1,0 +1,32 @@
+{
+  "chinese": "风吹得很猛。",
+  "english": "The wind is blowing heavily.",
+  "pinyin": "fēng chuī dé hěn měng.",
+  "words": [
+    {
+      "ch": "风",
+      "en": "wind",
+      "pi": "fēng"
+    },
+    {
+      "ch": "吹",
+      "en": "blow",
+      "pi": "chuī"
+    },
+    {
+      "ch": "得",
+      "en": "",
+      "pi": "dé"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "猛",
+      "en": "heavily",
+      "pi": "měng"
+    }
+  ]
+}

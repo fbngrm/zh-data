@@ -1,0 +1,32 @@
+{
+  "chinese": "亨利詹姆斯出生于美国。",
+  "english": "Henry James was born in the United States.",
+  "pinyin": "Hēng lì zhān mǔ sī chū shēng yú měi guó.",
+  "words": [
+    {
+      "ch": "亨利",
+      "en": "Henry",
+      "pi": "Hēng lì"
+    },
+    {
+      "ch": "詹姆斯",
+      "en": "James",
+      "pi": "zhān mǔ sī"
+    },
+    {
+      "ch": "出生",
+      "en": "born",
+      "pi": "chū shēng"
+    },
+    {
+      "ch": "于",
+      "en": "in",
+      "pi": "yú"
+    },
+    {
+      "ch": "美国",
+      "en": "United States",
+      "pi": "měi guó"
+    }
+  ]
+}

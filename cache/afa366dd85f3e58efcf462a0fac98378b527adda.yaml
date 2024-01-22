@@ -1,0 +1,38 @@
+{
+  "sentences": [
+    {
+      "chinese": "谁在车里？",
+      "english": "Who is in the car?",
+      "pinyin": "shéi zài chē lǐ?",
+      "words": [
+        {
+          "ch": "谁",
+          "en": "Who",
+          "pi": "shéi"
+        },
+        {
+          "ch": "在",
+          "en": "is",
+          "pi": "zài"
+        },
+        {
+          "ch": "车里",
+          "en": "in the car",
+          "pi": "chē lǐ"
+        }
+      ]
+    },
+    {
+      "chinese": "汤姆。",
+      "english": "Tom.",
+      "pinyin": "tāng mǔ.",
+      "words": [
+        {
+          "ch": "汤姆",
+          "en": "Tom",
+          "pi": "tāng mǔ"
+        }
+      ]
+    }
+  ]
+}

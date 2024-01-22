@@ -1,0 +1,32 @@
+{
+  "chinese": "三点钟可以吗？",
+  "english": "Is three o'clock possible?",
+  "pinyin": "sān diǎn zhōng kěyǐ ma?",
+  "words": [
+    {
+      "ch": "三",
+      "en": "three",
+      "pi": "sān"
+    },
+    {
+      "ch": "点",
+      "en": "o'clock",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "钟",
+      "en": "clock",
+      "pi": "zhōng"
+    },
+    {
+      "ch": "可以",
+      "en": "possible",
+      "pi": "kěyǐ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

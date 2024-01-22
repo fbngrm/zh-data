@@ -1,0 +1,42 @@
+{
+  "chinese": "你会开车送我回家吗？",
+  "english": "Can you drive me home?",
+  "pinyin": "Nǐ huì kāichē sòng wǒ huíjiā ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "Nǐ"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "开车",
+      "en": "drive",
+      "pi": "kāichē"
+    },
+    {
+      "ch": "送",
+      "en": "bring",
+      "pi": "sòng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "回家",
+      "en": "home",
+      "pi": "huíjiā"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

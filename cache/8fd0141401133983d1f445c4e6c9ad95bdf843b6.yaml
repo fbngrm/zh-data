@@ -1,0 +1,20 @@
+{
+  "chinese": "这本书是用简单英语写成的，让初学者看得懂。",
+  "english": "This book is written in simple English, so beginners can understand it.",
+  "pinyin": "zhè běn shū shì yòng jiǎn dān yīng yǔ xiě chéng de ， ràng chū xué zhě kàn dé dǒng。",
+  "words": [
+    {"ch": "这", "en": "This", "pi": "zhè"},
+    {"ch": "本", "en": "book", "pi": "běn"},
+    {"ch": "书", "en": "is", "pi": "shū"},
+    {"ch": "是", "en": "written", "pi": "shì"},
+    {"ch": "用", "en": "in", "pi": "yòng"},
+    {"ch": "简单", "en": "simple", "pi": "jiǎn dān"},
+    {"ch": "英语", "en": "English", "pi": "yīng yǔ"},
+    {"ch": "写成", "en": "so", "pi": "xiě chéng"},
+    {"ch": "的", "en": "beginners", "pi": "de"},
+    {"ch": "，", "en": "can", "pi": "ràng"},
+    {"ch": "让", "en": "understand", "pi": "chū xué zhě"},
+    {"ch": "初学者", "en": "it", "pi": "kàn dé"},
+    {"ch": "看得懂", "en": ".", "pi": "dǒng"}
+  ]
+}

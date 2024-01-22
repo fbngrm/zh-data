@@ -1,0 +1,32 @@
+{
+  "chinese": "上周日你去哪儿了？",
+  "english": "Where did you go last Sunday?",
+  "pinyin": "Shàng zhōu rì nǐ qù nǎ'er le?",
+  "words": [
+    {
+      "ch": "上周日",
+      "en": "last Sunday",
+      "pi": "shàng zhōu rì"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "哪儿",
+      "en": "where",
+      "pi": "nǎ'er"
+    },
+    {
+      "ch": "了",
+      "en": "did",
+      "pi": "le"
+    }
+  ]
+}

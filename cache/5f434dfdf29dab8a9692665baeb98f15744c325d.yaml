@@ -1,0 +1,27 @@
+{
+  "chinese": "哪一位法官审理此案？",
+  "english": "Which judge is handling this case?",
+  "pinyin": "nǎ yī wèi fǎ guān shěn lǐ cǐ àn?",
+  "words": [
+    {
+      "ch": "哪一位",
+      "en": "Which",
+      "pi": "nǎ yī wèi"
+    },
+    {
+      "ch": "法官",
+      "en": "judge",
+      "pi": "fǎ guān"
+    },
+    {
+      "ch": "审理",
+      "en": "handle",
+      "pi": "shěn lǐ"
+    },
+    {
+      "ch": "此案",
+      "en": "this case",
+      "pi": "cǐ àn"
+    }
+  ]
+}

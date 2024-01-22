@@ -1,0 +1,16 @@
+{
+  "chinese": "这听起来可能像是我在自吹自擂,但是...",
+  "english": "This may sound like I'm bragging, but...",
+  "pinyin": "zhè tīng qǐ lái kě néng xiàng shì wǒ zài zì chuī zì léi, dàn shì...",
+  "words": [
+    { "ch": "这", "en": "this", "pi": "zhè" },
+    { "ch": "听起来", "en": "sound like", "pi": "tīng qǐ lái" },
+    { "ch": "可能", "en": "may", "pi": "kě néng" },
+    { "ch": "像", "en": "like", "pi": "xiàng" },
+    { "ch": "是", "en": "am", "pi": "shì" },
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "在", "en": "in", "pi": "zài" },
+    { "ch": "自吹自擂", "en": "bragging", "pi": "zì chuī zì léi" },
+    { "ch": "但是", "en": "but", "pi": "dàn shì" }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chinese": "她喜欢网球并成为了一个网球教练。",
+  "english": "She likes tennis and became a tennis coach.",
+  "pinyin": "tā xǐhuān wǎngqiú bìng chéngwéile yīgè wǎngqiú jiàoliàn。",
+  "words": [
+    { "ch": "她", "en": "She", "pi": "tā" },
+    { "ch": "喜欢", "en": "likes", "pi": "xǐhuān" },
+    { "ch": "网球", "en": "tennis", "pi": "wǎngqiú" },
+    { "ch": "并", "en": "and", "pi": "bìng" },
+    { "ch": "成为", "en": "became", "pi": "chéngwéi" },
+    { "ch": "了", "en": "a", "pi": "le" },
+    { "ch": "一个", "en": "tennis", "pi": "yīgè" },
+    { "ch": "网球", "en": "coach", "pi": "jiàoliàn" }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "你会去访问其他国家吗？",
+  "english": "Will you visit other countries?",
+  "pinyin": "nǐ huì qù fǎngwèn qítā guójiā ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "访问", "en": "visit", "pi": "fǎngwèn"},
+    {"ch": "其他", "en": "other", "pi": "qítā"},
+    {"ch": "国家", "en": "countries", "pi": "guójiā"},
+    {"ch": "吗", "en": "?", "pi": "ma"}
+  ]
+}

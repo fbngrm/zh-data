@@ -1,0 +1,27 @@
+{
+  "chinese": "这个节目九点开始。",
+  "english": "This program starts at nine o'clock.",
+  "pinyin": "zhè gè jié mù jiǔ diǎn kāi shǐ。",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "节目",
+      "en": "program",
+      "pi": "jié mù"
+    },
+    {
+      "ch": "九点",
+      "en": "nine o'clock",
+      "pi": "jiǔ diǎn"
+    },
+    {
+      "ch": "开始",
+      "en": "start",
+      "pi": "kāi shǐ"
+    }
+  ]
+}

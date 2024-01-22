@@ -1,0 +1,48 @@
+{
+  "sentences": [
+    {
+      "chinese": "这张椅子是谁的？",
+      "english": "Whose chair is this?",
+      "pinyin": "zhè zhāng yǐzi shì shéi de?",
+      "words": [
+        {
+          "ch": "这张",
+          "en": "this",
+          "pi": "zhè zhāng"
+        },
+        {
+          "ch": "椅子",
+          "en": "chair",
+          "pi": "yǐzi"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "谁的",
+          "en": "whose",
+          "pi": "shéi de"
+        }
+      ]
+    },
+    {
+      "chinese": "是我的。",
+      "english": "It's mine.",
+      "pinyin": "shì wǒ de.",
+      "words": [
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "我的",
+          "en": "mine",
+          "pi": "wǒ de"
+        }
+      ]
+    }
+  ]
+}

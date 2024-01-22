@@ -1,0 +1,32 @@
+{
+  "chinese": "她的手表慢了十分钟。",
+  "english": "Her watch is ten minutes slow.",
+  "pinyin": "tā de shǒubiǎo mànle shí fēnzhōng.",
+  "words": [
+    {
+      "ch": "她的",
+      "en": "Her",
+      "pi": "tā de"
+    },
+    {
+      "ch": "手表",
+      "en": "watch",
+      "pi": "shǒubiǎo"
+    },
+    {
+      "ch": "慢了",
+      "en": "is slow",
+      "pi": "mànle"
+    },
+    {
+      "ch": "十",
+      "en": "ten",
+      "pi": "shí"
+    },
+    {
+      "ch": "分钟",
+      "en": "minutes",
+      "pi": "fēnzhōng"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "她给他一件毛衣。",
+  "english": "She gave him a sweater.",
+  "pinyin": "Tā gěi tā yī jiàn máoyī.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "给",
+      "en": "gave",
+      "pi": "gěi"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    },
+    {
+      "ch": "一件",
+      "en": "a",
+      "pi": "yī jiàn"
+    },
+    {
+      "ch": "毛衣",
+      "en": "sweater",
+      "pi": "máoyī"
+    }
+  ]
+}

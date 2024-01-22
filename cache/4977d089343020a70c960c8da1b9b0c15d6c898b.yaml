@@ -1,0 +1,17 @@
+{
+  "chinese": "他在指定时间的五分钟后到了。",
+  "english": "He arrived five minutes after the designated time.",
+  "pinyin": "tā zài zhǐdìng shíjiān de wǔ fēnzhōng hòu dàole。",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "指定", "en": "designated", "pi": "zhǐdìng"},
+    {"ch": "时间", "en": "time", "pi": "shíjiān"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "五", "en": "five", "pi": "wǔ"},
+    {"ch": "分钟", "en": "minutes", "pi": "fēnzhōng"},
+    {"ch": "后", "en": "after", "pi": "hòu"},
+    {"ch": "到", "en": "arrived", "pi": "dàole"},
+    {"ch": "了", "en": "", "pi": ""}
+  ]
+}

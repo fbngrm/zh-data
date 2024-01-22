@@ -1,0 +1,37 @@
+{
+  "chinese": "天气太差，我们只好迟点出发。",
+  "english": "The weather is too bad, so we have to leave later.",
+  "pinyin": "tiān qì tài chà, wǒ men zhǐ hǎo chí diǎn chū fā.",
+  "words": [
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiān qì"
+    },
+    {
+      "ch": "太差",
+      "en": "too bad",
+      "pi": "tài chà"
+    },
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "只好",
+      "en": "have to",
+      "pi": "zhǐ hǎo"
+    },
+    {
+      "ch": "迟点",
+      "en": "later",
+      "pi": "chí diǎn"
+    },
+    {
+      "ch": "出发",
+      "en": "leave",
+      "pi": "chū fā"
+    }
+  ]
+}

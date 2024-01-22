@@ -1,0 +1,12 @@
+{
+  "chinese": "你來自加拿大的哪裡?",
+  "english": "Where in Canada are you from?",
+  "pinyin": "nǐ lái zì jiā ná dà de nǎ lǐ?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "來自", "en": "come from", "pi": "lái zì"},
+    {"ch": "加拿大", "en": "Canada", "pi": "jiā ná dà"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "哪裡", "en": "where", "pi": "nǎ lǐ"}
+  ]
+}

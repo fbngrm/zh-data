@@ -1,0 +1,42 @@
+{
+  "chinese": "我想吃點新鮮的魚。",
+  "english": "I want to eat some fresh fish.",
+  "pinyin": "wǒ xiǎng chī diǎn xīnxiān de yú.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "點",
+      "en": "some",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "新鮮",
+      "en": "fresh",
+      "pi": "xīnxiān"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "魚",
+      "en": "fish",
+      "pi": "yú"
+    }
+  ]
+}

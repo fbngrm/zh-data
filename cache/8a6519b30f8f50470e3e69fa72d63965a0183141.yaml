@@ -1,0 +1,20 @@
+{
+  "chinese": "他跟我说我很苍白，并问我怎么了。",
+  "english": "He told me I looked pale and asked what was wrong with me.",
+  "pinyin": "tā gēn wǒ shuō wǒ hěn cāngbái, bìng wèn wǒ zěnme le.",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "跟", "en": "with", "pi": "gēn"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "说", "en": "said", "pi": "shuō"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "苍白", "en": "pale", "pi": "cāngbái"},
+    {"ch": "，", "en": ",", "pi": "bìng"},
+    {"ch": "并", "en": "and", "pi": "bìng"},
+    {"ch": "问", "en": "asked", "pi": "wèn"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "怎么了", "en": "what was wrong with", "pi": "zěnme le"},
+    {"ch": "。", "en": ".", "pi": "le"}
+  ]
+}

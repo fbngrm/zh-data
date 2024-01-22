@@ -1,0 +1,52 @@
+{
+  "chinese": "您能把这件大衣放在某个地方？",
+  "english": "Can you put this coat somewhere?",
+  "pinyin": "Nín néng bǎ zhè jiàn dàyī fàng zài mǒu gè dìfāng?",
+  "words": [
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "把",
+      "en": "put",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "这件",
+      "en": "this",
+      "pi": "zhè jiàn"
+    },
+    {
+      "ch": "大衣",
+      "en": "coat",
+      "pi": "dàyī"
+    },
+    {
+      "ch": "放在",
+      "en": "put somewhere",
+      "pi": "fàng zài"
+    },
+    {
+      "ch": "某个",
+      "en": "somewhere",
+      "pi": "mǒu gè"
+    },
+    {
+      "ch": "地方",
+      "en": "place",
+      "pi": "dìfāng"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "?"
+    }
+  ]
+}

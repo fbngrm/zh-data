@@ -1,0 +1,32 @@
+{
+  "chinese": "你现在可以删除它。",
+  "english": "You can delete it now.",
+  "pinyin": "nǐ xiàn zài kě yǐ shān chú tā.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kě yǐ"
+    },
+    {
+      "ch": "删除",
+      "en": "delete",
+      "pi": "shān chú"
+    },
+    {
+      "ch": "它",
+      "en": "it",
+      "pi": "tā"
+    }
+  ]
+}

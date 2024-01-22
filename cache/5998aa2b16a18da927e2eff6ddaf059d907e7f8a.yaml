@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆经常在孩子们不在家时阅读。",
+  "english": "Tom often reads when the children are not at home.",
+  "pinyin": "Tāngmǔ jīngcháng zài háizimen bù zàijiā shí yuèdú.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "经常",
+      "en": "often",
+      "pi": "jīngcháng"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "孩子们",
+      "en": "children",
+      "pi": "háizimen"
+    },
+    {
+      "ch": "不在家",
+      "en": "not at home",
+      "pi": "bù zàijiā"
+    },
+    {
+      "ch": "时",
+      "en": "when",
+      "pi": "shí"
+    },
+    {
+      "ch": "阅读",
+      "en": "reads",
+      "pi": "yuèdú"
+    }
+  ]
+}

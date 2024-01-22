@@ -1,0 +1,42 @@
+{
+  "chinese": "他让我在舞台上唱歌。",
+  "english": "He asked me to sing on the stage.",
+  "pinyin": "tā ràng wǒ zài wǔ tái shàng chàng gē。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "让",
+      "en": "asked",
+      "pi": "ràng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "on/in",
+      "pi": "zài"
+    },
+    {
+      "ch": "舞台",
+      "en": "stage",
+      "pi": "wǔ tái"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "唱歌",
+      "en": "to sing",
+      "pi": "chàng gē"
+    }
+  ]
+}

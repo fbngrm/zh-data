@@ -1,0 +1,32 @@
+{
+  "chinese": "没有人知道他的真名字。",
+  "english": "Nobody knows his real name.",
+  "pinyin": "Méiyǒu rén zhīdào tā de zhēn míngzì",
+  "words": [
+    {
+      "ch": "没有人",
+      "en": "nobody",
+      "pi": "Méiyǒurén"
+    },
+    {
+      "ch": "知道",
+      "en": "knows",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tāde"
+    },
+    {
+      "ch": "真",
+      "en": "real",
+      "pi": "zhēn"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míngzì"
+    }
+  ]
+}

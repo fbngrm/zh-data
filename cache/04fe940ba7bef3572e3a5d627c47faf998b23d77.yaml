@@ -1,0 +1,32 @@
+{
+  "chinese": "这条河里有很多鲑鱼。",
+  "english": "There are many salmon in this river.",
+  "pinyin": "zhè tiáo hé lǐ yǒu hěn duō guī yú。",
+  "words": [
+    {
+      "ch": "这条",
+      "en": "this",
+      "pi": "zhè tiáo"
+    },
+    {
+      "ch": "河里",
+      "en": "river",
+      "pi": "hé lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "很多",
+      "en": "many",
+      "pi": "hěn duō"
+    },
+    {
+      "ch": "鲑鱼",
+      "en": "salmon",
+      "pi": "guī yú"
+    }
+  ]
+}

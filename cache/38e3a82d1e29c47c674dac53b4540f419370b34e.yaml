@@ -1,0 +1,127 @@
+{
+  "sentences": [
+    {
+      "chinese": "她在说些甚么？",
+      "english": "What is she saying?",
+      "pinyin": "Tā zài shuō xiē shénme?",
+      "words": [
+        {
+          "ch": "她",
+          "en": "she",
+          "pi": "tā"
+        },
+        {
+          "ch": "在",
+          "en": "is",
+          "pi": "zài"
+        },
+        {
+          "ch": "说",
+          "en": "saying",
+          "pi": "shuō"
+        },
+        {
+          "ch": "些",
+          "en": "what",
+          "pi": "xiē"
+        },
+        {
+          "ch": "甚么",
+          "en": "is",
+          "pi": "shénme"
+        }
+      ]
+    },
+    {
+      "chinese": "你连『祝词』也不知道吗？",
+      "english": "You don't even know 'blessing phrases?'",
+      "pinyin": "Nǐ lián 'zhùcí' yě bù zhīdào ma?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "连",
+          "en": "even",
+          "pi": "lián"
+        },
+        {
+          "ch": "『祝词』",
+          "en": "'blessing phrases'",
+          "pi": "'zhùcí'"
+        },
+        {
+          "ch": "也",
+          "en": "also",
+          "pi": "yě"
+        },
+        {
+          "ch": "不",
+          "en": "don't",
+          "pi": "bù"
+        },
+        {
+          "ch": "知道",
+          "en": "know",
+          "pi": "zhīdào"
+        },
+        {
+          "ch": "吗",
+          "en": "?",
+          "pi": "ma"
+        }
+      ]
+    },
+    {
+      "chinese": "祝词？",
+      "english": "'Blessing phrases?'",
+      "pinyin": "'Zhùcí'?",
+      "words": [
+        {
+          "ch": "祝词",
+          "en": "'blessing phrases'",
+          "pi": "'zhùcí'"
+        }
+      ]
+    },
+    {
+      "chinese": "就是神道咒语之类的东西。",
+      "english": "It's things like divine incantations.",
+      "pinyin": "Jiùshì shéndào zhòuyǔ zhīlèi de dōngxi.",
+      "words": [
+        {
+          "ch": "就是",
+          "en": "it's",
+          "pi": "jiùshì"
+        },
+        {
+          "ch": "神道",
+          "en": "divine",
+          "pi": "shéndào"
+        },
+        {
+          "ch": "咒语",
+          "en": "incantations",
+          "pi": "zhòuyǔ"
+        },
+        {
+          "ch": "之类",
+          "en": "like",
+          "pi": "zhīlèi"
+        },
+        {
+          "ch": "的",
+          "en": "'s",
+          "pi": "de"
+        },
+        {
+          "ch": "东西",
+          "en": "things",
+          "pi": "dōngxi"
+        }
+      ]
+    }
+  ]
+}

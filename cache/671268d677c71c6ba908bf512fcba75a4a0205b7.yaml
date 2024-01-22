@@ -1,0 +1,42 @@
+{
+  "chinese": "我阿姨在她的花园种番茄。",
+  "english": "My aunt is planting tomatoes in her garden.",
+  "pinyin": "wǒ ā yí zài tā de huā yuán zhòng fān qié。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "阿姨",
+      "en": "aunt",
+      "pi": "ā yí"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "她的",
+      "en": "her",
+      "pi": "tā de"
+    },
+    {
+      "ch": "花园",
+      "en": "garden",
+      "pi": "huā yuán"
+    },
+    {
+      "ch": "种",
+      "en": "planting",
+      "pi": "zhòng"
+    },
+    {
+      "ch": "番茄",
+      "en": "tomatoes",
+      "pi": "fān qié"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "你可以使用我的新车。",
+  "english": "You can use my new car.",
+  "pinyin": "Nǐ kěyǐ shǐyòng wǒ de xīnchē。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "Nǐ"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kěyǐ"
+    },
+    {
+      "ch": "使用",
+      "en": "use",
+      "pi": "shǐyòng"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "新车",
+      "en": "new car",
+      "pi": "xīnchē"
+    }
+  ]
+}

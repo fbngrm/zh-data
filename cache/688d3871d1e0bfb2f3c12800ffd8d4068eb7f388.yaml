@@ -1,0 +1,32 @@
+{
+  "chinese": "他明天将抵达巴黎。",
+  "english": "He will arrive in Paris tomorrow.",
+  "pinyin": "tā míngtiān jiāng dǐdá bālí。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "将",
+      "en": "will",
+      "pi": "jiāng"
+    },
+    {
+      "ch": "抵达",
+      "en": "arrive",
+      "pi": "dǐdá"
+    },
+    {
+      "ch": "巴黎",
+      "en": "Paris",
+      "pi": "bālí"
+    }
+  ]
+}

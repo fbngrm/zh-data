@@ -1,0 +1,32 @@
+{
+  "chinese": "我去洗个澡。",
+  "english": "I'm going to take a shower.",
+  "pinyin": "wǒ qù xǐ gè zǎo。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "洗",
+      "en": "to wash",
+      "pi": "xǐ"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "澡",
+      "en": "shower",
+      "pi": "zǎo"
+    }
+  ]
+}

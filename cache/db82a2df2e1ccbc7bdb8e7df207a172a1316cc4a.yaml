@@ -1,0 +1,37 @@
+{
+  "chinese": "红色和蓝色，你喜欢那一个?",
+  "english": "Red or blue, which one do you like?",
+  "pinyin": "Hóngsè hé lán sè, nǐ xǐhuān nǎ yīgè?",
+  "words": [
+    {
+      "ch": "红色",
+      "en": "red",
+      "pi": "hóngsè"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "蓝色",
+      "en": "blue",
+      "pi": "lán sè"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "那一个",
+      "en": "which one",
+      "pi": "nǎ yīgè"
+    }
+  ]
+}

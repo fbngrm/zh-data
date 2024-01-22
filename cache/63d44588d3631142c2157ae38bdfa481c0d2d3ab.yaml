@@ -1,0 +1,37 @@
+{
+  "chinese": "麻烦牛排三分熟和一份马铃薯。",
+  "english": "Please have the steak medium rare and a serving of potatoes.",
+  "pinyin": "má fan niú pái sān fēn shóu hé yī fèn mǎ líng shǔ。",
+  "words": [
+    {
+      "ch": "麻烦",
+      "en": "please",
+      "pi": "má fan"
+    },
+    {
+      "ch": "牛排",
+      "en": "steak",
+      "pi": "niú pái"
+    },
+    {
+      "ch": "三分熟",
+      "en": "medium rare",
+      "pi": "sān fēn shóu"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "一份",
+      "en": "a serving of",
+      "pi": "yī fèn"
+    },
+    {
+      "ch": "马铃薯",
+      "en": "potatoes",
+      "pi": "mǎ líng shǔ"
+    }
+  ]
+}

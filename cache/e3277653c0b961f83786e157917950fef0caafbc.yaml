@@ -1,0 +1,13 @@
+{
+  "chinese": "你累了，不是吗？",
+  "english": "Are you tired?",
+  "pinyin": "nǐ lèi le, bú shì ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "累了", "en": "tired", "pi": "lèi le"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "不是", "en": "are", "pi": "bú shì"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"},
+    {"ch": "？", "en": "?", "pi": "？"}
+  ]
+}

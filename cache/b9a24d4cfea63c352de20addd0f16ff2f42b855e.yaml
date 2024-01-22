@@ -1,0 +1,37 @@
+{
+  "chinese": "你的礼貌不是很好。",
+  "english": "Your manners are not very good.",
+  "pinyin": "nǐ de lǐmào bù shì hěn hǎo.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "礼貌",
+      "en": "manners",
+      "pi": "lǐmào"
+    },
+    {
+      "ch": "不是",
+      "en": "not",
+      "pi": "bù shì"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    }
+  ]
+}

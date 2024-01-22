@@ -1,0 +1,16 @@
+{
+  "chinese": "汤姆是我所知道的最有钱的家伙。",
+  "english": "Tom is the richest guy I know.",
+  "pinyin": "Tāng mǔ shì wǒ suǒ zhī dào de zuì yǒu qián de jiāhuo.",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "所知道", "en": "know", "pi": "suǒ zhī dào"},
+    {"ch": "的", "en": "the", "pi": "de"},
+    {"ch": "最", "en": "most", "pi": "zuì"},
+    {"ch": "有钱", "en": "richest", "pi": "yǒu qián"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "家伙", "en": "guy", "pi": "jiāhuo"}
+  ]
+}

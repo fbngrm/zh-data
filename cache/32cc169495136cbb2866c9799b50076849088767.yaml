@@ -1,0 +1,12 @@
+{
+  "chinese": "您隶属哪家俱乐部吗？",
+  "english": "Which club do you belong to?",
+  "pinyin": "nín lì shǔ nǎ jiā jù lè bù ma?",
+  "words": [
+    {"ch": "您", "en": "you", "pi": "nín"},
+    {"ch": "隶属", "en": "belong to", "pi": "lì shǔ"},
+    {"ch": "哪家", "en": "which", "pi": "nǎ jiā"},
+    {"ch": "俱乐部", "en": "club", "pi": "jù lè bù"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

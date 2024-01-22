@@ -1,0 +1,11 @@
+{
+  "chinese": "他好像病了。",
+  "english": "He seems to be sick.",
+  "pinyin": "tā hǎoxiàng bìng le.",
+  "words": [
+    { "ch": "他", "en": "he", "pi": "tā" },
+    { "ch": "好像", "en": "seems", "pi": "hǎoxiàng" },
+    { "ch": "病", "en": "sick", "pi": "bìng" },
+    { "ch": "了", "en": "particle indicating completed action", "pi": "le" }
+  ]
+}

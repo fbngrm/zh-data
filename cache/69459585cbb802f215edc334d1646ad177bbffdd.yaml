@@ -1,0 +1,32 @@
+{
+  "chinese": "校长想跟你谈话。",
+  "english": "The principal wants to talk to you.",
+  "pinyin": "xiào zhǎng xiǎng gēn nǐ tán huà。",
+  "words": [
+    {
+      "ch": "校长",
+      "en": "principal",
+      "pi": "xiào zhǎng"
+    },
+    {
+      "ch": "想",
+      "en": "wants",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "跟",
+      "en": "to",
+      "pi": "gēn"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "谈话",
+      "en": "talk",
+      "pi": "tán huà"
+    }
+  ]
+}

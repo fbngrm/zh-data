@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆打棒球打的非常好。",
+  "english": "Tom plays baseball very well.",
+  "pinyin": "Tāng mǔ dǎ bàngqiú dǎ de fēicháng hǎo.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "打",
+      "en": "plays",
+      "pi": "dǎ"
+    },
+    {
+      "ch": "棒球",
+      "en": "baseball",
+      "pi": "bàngqiú"
+    },
+    {
+      "ch": "打",
+      "en": "plays",
+      "pi": "dǎ"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "非常",
+      "en": "very",
+      "pi": "fēicháng"
+    },
+    {
+      "ch": "好",
+      "en": "well",
+      "pi": "hǎo"
+    }
+  ]
+}

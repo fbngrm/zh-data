@@ -1,0 +1,42 @@
+{
+  "chinese": "我听到一辆车停了下来。",
+  "english": "I heard a car stop.",
+  "pinyin": "wǒ tīng dào yī liàng chē tíng le xià lái。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "听到",
+      "en": "heard",
+      "pi": "tīng dào"
+    },
+    {
+      "ch": "一辆",
+      "en": "a",
+      "pi": "yī liàng"
+    },
+    {
+      "ch": "车",
+      "en": "car",
+      "pi": "chē"
+    },
+    {
+      "ch": "停",
+      "en": "stop",
+      "pi": "tíng"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "下来",
+      "en": "",
+      "pi": "xià lái"
+    }
+  ]
+}

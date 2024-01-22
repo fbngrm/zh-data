@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆是最后下巴士车的人。",
+  "english": "Tom is the last person to get off the bus.",
+  "pinyin": "Tāng mǔ shì zuìhòu xià bāshì chē de rén。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "最后",
+      "en": "last",
+      "pi": "zuìhòu"
+    },
+    {
+      "ch": "下",
+      "en": "to get off",
+      "pi": "xià"
+    },
+    {
+      "ch": "巴士车",
+      "en": "bus",
+      "pi": "bāshì chē"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "人",
+      "en": "person",
+      "pi": "rén"
+    }
+  ]
+}

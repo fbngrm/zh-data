@@ -1,0 +1,32 @@
+{
+  "chinese": "这猫是很肥。",
+  "english": "This cat is very fat.",
+  "pinyin": "zhè māo shì hěn féi.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "肥",
+      "en": "fat",
+      "pi": "féi"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "chinese": "汤姆想把房子漆成绿色，是真的吗？",
+  "english": "Tom wants to paint the house green, is that true?",
+  "pinyin": "Tāng mǔ xiǎng bǎ fáng zi qī chéng lǜ sè, shì zhēn de ma?",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "想", "en": "wants", "pi": "xiǎng"},
+    {"ch": "把", "en": "to", "pi": "bǎ"},
+    {"ch": "房子", "en": "house", "pi": "fáng zi"},
+    {"ch": "漆成", "en": "paint", "pi": "qī chéng"},
+    {"ch": "绿色", "en": "green", "pi": "lǜ sè"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "真的", "en": "true", "pi": "zhēn de"},
+    {"ch": "吗", "en": "?", "pi": "ma"}
+  ]
+}

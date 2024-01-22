@@ -1,0 +1,32 @@
+{
+  "chinese": "他有二十个孩子。",
+  "english": "He has twenty children.",
+  "pinyin": "tā yǒu èrshí gè háizi.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "二十",
+      "en": "twenty",
+      "pi": "èrshí"
+    },
+    {
+      "ch": "个",
+      "en": "count word",
+      "pi": "gè"
+    },
+    {
+      "ch": "孩子",
+      "en": "children",
+      "pi": "háizi"
+    }
+  ]
+}

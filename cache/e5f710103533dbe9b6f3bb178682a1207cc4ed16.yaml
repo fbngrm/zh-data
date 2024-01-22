@@ -1,0 +1,37 @@
+{
+  "chinese": "她的英语比法语说得好。",
+  "english": "She speaks English better than French.",
+  "pinyin": "tā de yīng yǔ bǐ fǎ yǔ shuō dé hǎo。",
+  "words": [
+    {
+      "ch": "她的",
+      "en": "She",
+      "pi": "tā de"
+    },
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīng yǔ"
+    },
+    {
+      "ch": "比",
+      "en": "better than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎ yǔ"
+    },
+    {
+      "ch": "说得",
+      "en": "speaks",
+      "pi": "shuō dé"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    }
+  ]
+}

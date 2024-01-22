@@ -1,0 +1,32 @@
+{
+  "chinese": "他是个日本少年。",
+  "english": "He is a Japanese boy.",
+  "pinyin": "tā shì gè rìběn shàonián。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "日本",
+      "en": "Japanese",
+      "pi": "rìběn"
+    },
+    {
+      "ch": "少年",
+      "en": "boy",
+      "pi": "shàonián"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "请把门锁上。",
+  "english": "Please lock the door.",
+  "pinyin": "qǐng bǎ mén suǒ shàng.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "把",
+      "en": "lock",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "门",
+      "en": "door",
+      "pi": "mén"
+    },
+    {
+      "ch": "锁",
+      "en": "on",
+      "pi": "suǒ"
+    },
+    {
+      "ch": "上",
+      "en": "the",
+      "pi": "shàng"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "sentences": [
+    {
+      "chinese": "我是警察。",
+      "english": "I am a police officer.",
+      "pinyin": "wǒ shì jǐng chá."
+    },
+    {
+      "chinese": "你可以到警察局来吗?",
+      "english": "Can you come to the police station?",
+      "pinyin": "nǐ kěyǐ dào jǐng chá jú lái ma?"
+    },
+    {
+      "chinese": "\"为-为什么?\"",
+      "english": "\"Why?\"",
+      "pinyin": "\"wèi-wèi shén me?\""
+    },
+    {
+      "chinese": "\"你不能认为在市中心开枪射击不是犯罪行为?!\"",
+      "english": "\"Do you really think shooting in the city center is not a criminal act?!\"",
+      "pinyin": "\"nǐ bù néng rèn wéi zài shì zhōng xīn kāi qiāng shè jí bú shì fàn zuì xíng wéi?!\""
+    }
+  ],
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "是",
+      "en": "am",
+      "pi": "shì"
+    },
+    {
+      "ch": "警察",
+      "en": "police officer",
+      "pi": "jǐng chá"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kě yǐ"
+    },
+    {
+      "ch": "到",
+      "en": "to",
+      "pi": "dào"
+    },
+    {
+      "ch": "警察局",
+      "en": "police station",
+      "pi": "jǐng chá jú"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    },
+    {
+      "ch": "\"为-为什么?\"",
+      "en": "\"Why?\"",
+      "pi": "\"wèi-wèi shén me?\""
+    },
+    {
+      "ch": "\"你",
+      "en": "\"Do you",
+      "pi": "\"nǐ"
+    },
+    {
+      "ch": "不能",
+      "en": "cannot",
+      "pi": "bù néng"
+    },
+    {
+      "ch": "认为",
+      "en": "think",
+      "pi": "rèn wéi"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "市中心",
+      "en": "city center",
+      "pi": "shì zhōng xīn"
+    },
+    {
+      "ch": "开枪",
+      "en": "shooting",
+      "pi": "kāi qiāng"
+    },
+    {
+      "ch": "射击",
+      "en": "shoot",
+      "pi": "shè jí"
+    },
+    {
+      "ch": "不是",
+      "en": "not",
+      "pi": "bú shì"
+    },
+    {
+      "ch": "犯罪行为",
+      "en": "criminal act",
+      "pi": "fàn zuì xíng wéi"
+    },
+    {
+      "ch": "?!\"",
+      "en": "?!\"",
+      "pi": "?!\""
+    }
+  ]
+}

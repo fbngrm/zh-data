@@ -1,0 +1,81 @@
+{
+  "sentences": [
+    {
+      "chinese": "我有一个孙子，一个孙女。",
+      "english": "I have a grandson and a granddaughter.",
+      "pinyin": "wǒ yǒu yī gè sūn zǐ, yī gè sūn nǚ。"
+    },
+    {
+      "chinese": "我孙子是大学三年级的学生。",
+      "english": "My grandson is a junior in college.",
+      "pinyin": "wǒ sūn zǐ shì dà xué sān nián jí de xué shēng。"
+    },
+    {
+      "chinese": "我孙女是护士。",
+      "english": "My granddaughter is a nurse.",
+      "pinyin": "wǒ sūn nǚ shì hù shi。"
+    }
+  ],
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "孙子",
+      "en": "grandson",
+      "pi": "sūn zǐ"
+    },
+    {
+      "ch": "孙女",
+      "en": "granddaughter",
+      "pi": "sūn nǚ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "大学",
+      "en": "college",
+      "pi": "dà xué"
+    },
+    {
+      "ch": "三",
+      "en": "three",
+      "pi": "sān"
+    },
+    {
+      "ch": "年级",
+      "en": "grade",
+      "pi": "nián jí"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "学生",
+      "en": "student",
+      "pi": "xué shēng"
+    },
+    {
+      "ch": "护士",
+      "en": "nurse",
+      "pi": "hù shi"
+    }
+  ]
+}

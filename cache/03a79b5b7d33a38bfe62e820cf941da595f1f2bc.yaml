@@ -1,0 +1,42 @@
+{
+  "chinese": "你不能在电视上骂粗口。",
+  "english": "You can't swear on TV.",
+  "pinyin": "nǐ bù néng zài diànshì shàng mà cūkǒu.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "不能",
+      "en": "can't",
+      "pi": "bù néng"
+    },
+    {
+      "ch": "在",
+      "en": "on",
+      "pi": "zài"
+    },
+    {
+      "ch": "电视",
+      "en": "TV",
+      "pi": "diànshì"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "骂",
+      "en": "swear",
+      "pi": "mà"
+    },
+    {
+      "ch": "粗口",
+      "en": "curse words",
+      "pi": "cūkǒu"
+    }
+  ]
+}

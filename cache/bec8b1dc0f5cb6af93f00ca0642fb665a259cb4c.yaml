@@ -1,0 +1,37 @@
+{
+  "chinese": "这只狗快要死了。",
+  "english": "This dog is about to die.",
+  "pinyin": "zhè zhī gǒu kuài yào sǐ le.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "只",
+      "en": "dog",
+      "pi": "zhī"
+    },
+    {
+      "ch": "狗",
+      "en": "is",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "快要",
+      "en": "about to",
+      "pi": "kuài yào"
+    },
+    {
+      "ch": "死",
+      "en": "die",
+      "pi": "sǐ"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "le"
+    }
+  ]
+}

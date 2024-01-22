@@ -1,0 +1,37 @@
+{
+  "chinese": "她一定坐错公交车了。",
+  "english": "She must have taken the wrong bus.",
+  "pinyin": "Tā yīdìng zuò cuò gōngjiāochē le.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "一定",
+      "en": "must",
+      "pi": "yīdìng"
+    },
+    {
+      "ch": "坐",
+      "en": "to take",
+      "pi": "zuò"
+    },
+    {
+      "ch": "错",
+      "en": "wrong",
+      "pi": "cuò"
+    },
+    {
+      "ch": "公交车",
+      "en": "bus",
+      "pi": "gōngjiāochē"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

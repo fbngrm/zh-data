@@ -1,0 +1,37 @@
+{
+  "chinese": "世界就像是一本书，走一步等于翻了一页。",
+  "english": "The world is like a book, every step is like turning a page.",
+  "pinyin": "shì jiè jiù xiàng shì yī běn shū ， zǒu yī bù děng yú fān le yī yè。",
+  "words": [
+    {
+      "ch": "世界",
+      "en": "world",
+      "pi": "shì jiè"
+    },
+    {
+      "ch": "就像是",
+      "en": "is like",
+      "pi": "jiù xiàng shì"
+    },
+    {
+      "ch": "一本书",
+      "en": "a book",
+      "pi": "yī běn shū"
+    },
+    {
+      "ch": "走一步",
+      "en": "every step",
+      "pi": "zǒu yī bù"
+    },
+    {
+      "ch": "等于",
+      "en": "is like",
+      "pi": "děng yú"
+    },
+    {
+      "ch": "翻了一页",
+      "en": "turning a page",
+      "pi": "fān le yī yè"
+    }
+  ]
+}

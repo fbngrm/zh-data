@@ -1,0 +1,47 @@
+{
+  "chinese": "火车以每小时５０英里的速度前行。",
+  "english": "The train is moving at a speed of 50 miles per hour.",
+  "pinyin": "huǒ chē yǐ měi xiǎo shí wǔ shí yīng lǐ de sù dù qián xíng。",
+  "words": [
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒ chē"
+    },
+    {
+      "ch": "以",
+      "en": "at",
+      "pi": "yǐ"
+    },
+    {
+      "ch": "每小时",
+      "en": "per hour",
+      "pi": "měi xiǎo shí"
+    },
+    {
+      "ch": "５０",
+      "en": "50",
+      "pi": "wǔ shí"
+    },
+    {
+      "ch": "英里",
+      "en": "miles",
+      "pi": "yīng lǐ"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "速度",
+      "en": "speed",
+      "pi": "sù dù"
+    },
+    {
+      "ch": "前行",
+      "en": "moving",
+      "pi": "qián xíng"
+    }
+  ]
+}

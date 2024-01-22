@@ -1,0 +1,37 @@
+{
+  "chinese": "不好意思，请问这条路通往地铁站吗？",
+  "english": "Excuse me, does this road lead to the subway station?",
+  "pinyin": "bù hǎo yì sī, qǐng wèn zhè tiáo lù tōng wǎng dì tiě zhàn ma?",
+  "words": [
+    {
+      "ch": "不好意思",
+      "en": "Excuse me",
+      "pi": "bù hǎo yì sī"
+    },
+    {
+      "ch": "请问",
+      "en": "May I ask",
+      "pi": "qǐng wèn"
+    },
+    {
+      "ch": "这条路",
+      "en": "this road",
+      "pi": "zhè tiáo lù"
+    },
+    {
+      "ch": "通往",
+      "en": "lead to",
+      "pi": "tōng wǎng"
+    },
+    {
+      "ch": "地铁站",
+      "en": "subway station",
+      "pi": "dì tiě zhàn"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

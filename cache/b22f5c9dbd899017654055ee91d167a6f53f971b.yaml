@@ -1,0 +1,27 @@
+{
+  "chinese": "你好苏珊，你好吗？",
+  "english": "Hello Susan, how are you?",
+  "pinyin": "nǐ hǎo sū shān, nǐ hǎo ma?",
+  "words": [
+    {
+      "ch": "你好",
+      "en": "Hello",
+      "pi": "nǐ hǎo"
+    },
+    {
+      "ch": "苏珊",
+      "en": "Susan",
+      "pi": "sū shān"
+    },
+    {
+      "ch": "你好",
+      "en": "Hello",
+      "pi": "nǐ hǎo"
+    },
+    {
+      "ch": "吗",
+      "en": "how",
+      "pi": "ma"
+    }
+  ]
+}

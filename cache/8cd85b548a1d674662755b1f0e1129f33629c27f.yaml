@@ -1,0 +1,27 @@
+{
+  "chinese": "我找不到我的手提箱。",
+  "english": "I can't find my suitcase.",
+  "pinyin": "wǒ zhǎobùdào wǒ de shǒutíxiāng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "找不到",
+      "en": "can't find",
+      "pi": "zhǎobùdào"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "手提箱",
+      "en": "suitcase",
+      "pi": "shǒutíxiāng"
+    }
+  ]
+}

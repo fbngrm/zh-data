@@ -1,0 +1,32 @@
+{
+  "chinese": "下了很多的雪。",
+  "english": "There has been a lot of snow.",
+  "pinyin": "xià le hěn duō de xuě.",
+  "words": [
+    {
+      "ch": "下",
+      "en": "down",
+      "pi": "xià"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "很多",
+      "en": "a lot of",
+      "pi": "hěn duō"
+    },
+    {
+      "ch": "的",
+      "en": "adjectival modifier",
+      "pi": "de"
+    },
+    {
+      "ch": "雪",
+      "en": "snow",
+      "pi": "xuě"
+    }
+  ]
+}

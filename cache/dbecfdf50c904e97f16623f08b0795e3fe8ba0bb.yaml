@@ -1,0 +1,42 @@
+{
+  "chinese": "班上每個人都爬上了這個山坡。",
+  "english": "Everyone in the class climbed up this hill.",
+  "pinyin": "bān shàng měi gè rén dōu pá shàng le zhè gè shān pō。",
+  "words": [
+    {
+      "ch": "班上",
+      "en": "class",
+      "pi": "bān shàng"
+    },
+    {
+      "ch": "每個人",
+      "en": "everyone",
+      "pi": "měi gè rén"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "爬上",
+      "en": "climbed up",
+      "pi": "pá shàng"
+    },
+    {
+      "ch": "了",
+      "en": "this",
+      "pi": "le"
+    },
+    {
+      "ch": "這個",
+      "en": "hill",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "山坡",
+      "en": "hill",
+      "pi": "shān pō"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+    "chinese": "我们的学校被烧成了灰烬。",
+    "english": "Our school has been burned to ashes.",
+    "pinyin": "wǒ men de xué xiào bèi shāo chéng le huī jìn。",
+    "words": [
+        {"ch": "我们", "en": "we", "pi": "wǒ men"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "学校", "en": "school", "pi": "xué xiào"},
+        {"ch": "被", "en": "by", "pi": "bèi"},
+        {"ch": "烧成", "en": "burned to", "pi": "shāo chéng"},
+        {"ch": "了", "en": "as", "pi": "le"},
+        {"ch": "灰烬", "en": "ashes", "pi": "huī jìn"}
+    ]
+}

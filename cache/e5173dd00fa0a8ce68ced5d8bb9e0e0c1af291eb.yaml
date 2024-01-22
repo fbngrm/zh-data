@@ -1,0 +1,12 @@
+{
+  "chinese": "海伦凯勒眼盲，耳聋，又哑。",
+  "english": "Helen Keller is blind, deaf, and mute.",
+  "pinyin": "Hǎi lúnn kǎi lè yǎn máng, ěr lóng, yòu yǎ.",
+  "words": [
+    {"ch": "海伦", "en": "Helen", "pi": "Hǎi lún"},
+    {"ch": "凯勒", "en": "Keller", "pi": "Kǎi lè"},
+    {"ch": "眼盲", "en": "blind", "pi": "yǎn máng"},
+    {"ch": "耳聋", "en": "deaf", "pi": "ěr lóng"},
+    {"ch": "又哑", "en": "mute", "pi": "yòu yǎ"}
+  ]
+}

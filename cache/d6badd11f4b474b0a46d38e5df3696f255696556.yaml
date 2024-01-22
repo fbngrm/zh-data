@@ -1,0 +1,32 @@
+{
+  "chinese": "你看来不喜欢汤姆。",
+  "english": "You don't seem to like Tom.",
+  "pinyin": "nǐ kàn lái bù xǐhuān tāngmǔ.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "看来",
+      "en": "seem to",
+      "pi": "kàn lái"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāngmǔ"
+    }
+  ]
+}

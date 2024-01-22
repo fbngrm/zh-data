@@ -1,0 +1,37 @@
+{
+  "chinese": "约翰五分钟后会到这里。",
+  "english": "John will arrive here in five minutes.",
+  "pinyin": "Yuēhàn wǔ fēnzhōng hòu huì dào zhèlǐ.",
+  "words": [
+    {
+      "ch": "约翰",
+      "en": "John",
+      "pi": "Yuēhàn"
+    },
+    {
+      "ch": "五",
+      "en": "five",
+      "pi": "wǔ"
+    },
+    {
+      "ch": "分钟",
+      "en": "minutes",
+      "pi": "fēnzhōng"
+    },
+    {
+      "ch": "后",
+      "en": "after",
+      "pi": "hòu"
+    },
+    {
+      "ch": "会到",
+      "en": "will arrive",
+      "pi": "huì dào"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhèlǐ"
+    }
+  ]
+}

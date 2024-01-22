@@ -1,0 +1,12 @@
+{
+  "chinese": "谁是你的汉语老师?",
+  "english": "Who is your Chinese teacher?",
+  "pinyin": "shéi shì nǐ de hànyǔ lǎoshī?",
+  "words": [
+    {"ch": "谁", "en": "Who", "pi": "shéi"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "你的", "en": "your", "pi": "nǐ de"},
+    {"ch": "汉语", "en": "Chinese", "pi": "hànyǔ"},
+    {"ch": "老师", "en": "teacher", "pi": "lǎoshī"}
+  ]
+}

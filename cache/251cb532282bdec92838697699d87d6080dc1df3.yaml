@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆没有告诉我他的祕密。",
+  "english": "Tom didn't tell me his secret.",
+  "pinyin": "Tāng mǔ méiyǒu gàosù wǒ tā de mìmì.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "没有",
+      "en": "didn't",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "告诉",
+      "en": "tell",
+      "pi": "gàosù"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "祕密",
+      "en": "secret",
+      "pi": "mìmì"
+    }
+  ]
+}

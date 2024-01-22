@@ -1,0 +1,68 @@
+{
+  "sentences": [
+    {
+      "chinese": "这班公车客满了。",
+      "english": "This bus is full.",
+      "pinyin": "zhè bān gōng chē kè mǎn le。",
+      "words": [
+        {
+          "ch": "这",
+          "en": "this",
+          "pi": "zhè"
+        },
+        {
+          "ch": "班",
+          "en": "bus",
+          "pi": "bān"
+        },
+        {
+          "ch": "公车",
+          "en": "bus",
+          "pi": "gōng chē"
+        },
+        {
+          "ch": "客满",
+          "en": "full",
+          "pi": "kè mǎn"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        }
+      ]
+    },
+    {
+      "chinese": "你必须等下一班。",
+      "english": "You must wait for the next one.",
+      "pinyin": "nǐ bì xū děng xià yī bān。",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "必须",
+          "en": "must",
+          "pi": "bì xū"
+        },
+        {
+          "ch": "等",
+          "en": "wait",
+          "pi": "děng"
+        },
+        {
+          "ch": "下一班",
+          "en": "next one",
+          "pi": "xià yī bān"
+        },
+        {
+          "ch": "。",
+          "en": "",
+          "pi": "。"
+        }
+      ]
+    }
+  ]
+}

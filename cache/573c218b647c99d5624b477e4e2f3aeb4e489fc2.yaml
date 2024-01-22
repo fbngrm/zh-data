@@ -1,0 +1,32 @@
+{
+  "chinese": "国王统治了这个国家。",
+  "english": "The king ruled this country.",
+  "pinyin": "guó wáng tǒng zhì le zhè ge guó jiā。",
+  "words": [
+    {
+      "ch": "国王",
+      "en": "king",
+      "pi": "guó wáng"
+    },
+    {
+      "ch": "统治",
+      "en": "ruled",
+      "pi": "tǒng zhì"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè ge"
+    },
+    {
+      "ch": "国家",
+      "en": "country",
+      "pi": "guó jiā"
+    }
+  ]
+}

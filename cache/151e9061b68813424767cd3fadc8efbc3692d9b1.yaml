@@ -1,0 +1,37 @@
+{
+  "chinese": "我想告诉你一些事情。",
+  "english": "I want to tell you something.",
+  "pinyin": "wǒ xiǎng gàosù nǐ yīxiē shìqíng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "告诉",
+      "en": "to tell",
+      "pi": "gàosù"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "一些",
+      "en": "some",
+      "pi": "yīxiē"
+    },
+    {
+      "ch": "事情",
+      "en": "something",
+      "pi": "shìqíng"
+    }
+  ]
+}

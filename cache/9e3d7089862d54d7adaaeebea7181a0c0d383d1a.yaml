@@ -1,0 +1,27 @@
+{
+  "chinese": "爱迪生发明了电灯。",
+  "english": "Edison invented the light bulb.",
+  "pinyin": "Ài dí shēng fā míng le diàn dēng.",
+  "words": [
+    {
+      "ch": "爱迪生",
+      "en": "Edison",
+      "pi": "Ài dí shēng"
+    },
+    {
+      "ch": "发明",
+      "en": "invented",
+      "pi": "fā míng"
+    },
+    {
+      "ch": "了",
+      "en": "the",
+      "pi": "le"
+    },
+    {
+      "ch": "电灯",
+      "en": "light bulb",
+      "pi": "diàn dēng"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "我可以在哪里搭公车？",
+  "english": "Where can I catch a bus?",
+  "pinyin": "Wǒ kěyǐ zài nǎlǐ dā gōngchē?",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "可以", "en": "can", "pi": "kěyǐ" },
+    { "ch": "在", "en": "where", "pi": "zài" },
+    { "ch": "哪里", "en": "where", "pi": "nǎlǐ" },
+    { "ch": "搭", "en": "catch", "pi": "dā" },
+    { "ch": "公车", "en": "bus", "pi": "gōngchē" }
+  ]
+}

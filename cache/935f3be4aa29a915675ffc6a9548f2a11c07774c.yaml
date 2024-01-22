@@ -1,0 +1,32 @@
+{
+  "chinese": "对不起。我收回我的话。",
+  "english": "I'm sorry. I take back what I said.",
+  "pinyin": "duì bù qǐ. wǒ shōu huí wǒ de huà。",
+  "words": [
+    {
+      "ch": "对不起",
+      "en": "I'm sorry",
+      "pi": "duì bù qǐ"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "收回",
+      "en": "take back",
+      "pi": "shōu huí"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "话",
+      "en": "what I said",
+      "pi": "huà"
+    }
+  ]
+}

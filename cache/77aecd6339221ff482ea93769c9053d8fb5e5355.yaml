@@ -1,0 +1,12 @@
+{
+  "chinese": "你最近看過他嗎?",
+  "english": "Have you seen him recently?",
+  "pinyin": "Nǐ zuìjìn kànguò tā ma?",
+  "words": [
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "最近", "en": "recently", "pi": "zuìjìn" },
+    { "ch": "看過", "en": "seen", "pi": "kànguò" },
+    { "ch": "他", "en": "him", "pi": "tā" },
+    { "ch": "嗎", "en": "question particle", "pi": "ma" }
+  ]
+}

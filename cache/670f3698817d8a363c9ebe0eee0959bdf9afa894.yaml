@@ -1,0 +1,13 @@
+{
+  "chinese": "汤姆没给玛丽写回复。",
+  "english": "Tom didn't reply to Mary.",
+  "pinyin": "Tāng mǔ méi gěi mǎ lì xiě huífù.",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ"},
+    {"ch": "没", "en": "didn't", "pi": "méi"},
+    {"ch": "给", "en": "to", "pi": "gěi"},
+    {"ch": "玛丽", "en": "Mary", "pi": "mǎ lì"},
+    {"ch": "写", "en": "reply", "pi": "xiě"},
+    {"ch": "回复", "en": "to", "pi": "huífù"}
+  ]
+}

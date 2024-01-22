@@ -1,0 +1,27 @@
+{
+  "chinese": "他吃了所有的苹果。",
+  "english": "He ate all the apples.",
+  "pinyin": "tā chī le suǒ yǒu de píngguǒ.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "吃了",
+      "en": "ate",
+      "pi": "chī le"
+    },
+    {
+      "ch": "所有的",
+      "en": "all the",
+      "pi": "suǒ yǒu de"
+    },
+    {
+      "ch": "苹果",
+      "en": "apples",
+      "pi": "píngguǒ"
+    }
+  ]
+}

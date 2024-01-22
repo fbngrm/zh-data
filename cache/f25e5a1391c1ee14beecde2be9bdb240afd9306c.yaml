@@ -1,0 +1,32 @@
+{
+  "chinese": "昨天我帮了他。",
+  "english": "Yesterday I helped him.",
+  "pinyin": "Zuótiān wǒ bāng le tā.",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "Yesterday",
+      "pi": "Zuótiān"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "帮",
+      "en": "helped",
+      "pi": "bāng"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    }
+  ]
+}

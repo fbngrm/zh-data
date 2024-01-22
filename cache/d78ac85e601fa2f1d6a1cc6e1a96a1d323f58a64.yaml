@@ -1,0 +1,42 @@
+{
+  "chinese": "你乘飞机还是乘火车去？",
+  "english": "Are you going by plane or by train?",
+  "pinyin": "nǐ chéng fēijī háishì chéng huǒchē qù?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "乘",
+      "en": "to take",
+      "pi": "chéng"
+    },
+    {
+      "ch": "飞机",
+      "en": "plane",
+      "pi": "fēijī"
+    },
+    {
+      "ch": "还是",
+      "en": "or",
+      "pi": "háishì"
+    },
+    {
+      "ch": "乘",
+      "en": "to take",
+      "pi": "chéng"
+    },
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒchē"
+    },
+    {
+      "ch": "去",
+      "en": "to go",
+      "pi": "qù"
+    }
+  ]
+}

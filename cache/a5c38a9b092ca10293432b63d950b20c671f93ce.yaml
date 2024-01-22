@@ -1,0 +1,32 @@
+{
+  "sentences": [
+    {
+      "chinese": "我不能再向你多说什么了。",
+      "english": "I can't tell you more.",
+      "pinyin": "wǒ bùnéng zài xiàng nǐ duō shuō shénme le。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "不能", "en": "can't", "pi": "bùnéng"},
+        {"ch": "再", "en": "anymore", "pi": "zài"},
+        {"ch": "向", "en": "to", "pi": "xiàng"},
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "多", "en": "more", "pi": "duō"},
+        {"ch": "说", "en": "tell", "pi": "shuō"},
+        {"ch": "什么", "en": "what", "pi": "shénme"},
+        {"ch": "了", "en": "already", "pi": "le"}
+      ]
+    },
+    {
+      "chinese": "我已经透露太多了。",
+      "english": "I have revealed too much.",
+      "pinyin": "wǒ yǐjīng tòulù tài duō le。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "已经", "en": "have", "pi": "yǐjīng"},
+        {"ch": "透露", "en": "revealed", "pi": "tòulù"},
+        {"ch": "太多", "en": "too much", "pi": "tài duō"},
+        {"ch": "了", "en": "already", "pi": "le"}
+      ]
+    }
+  ]
+}

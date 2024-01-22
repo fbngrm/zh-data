@@ -1,0 +1,42 @@
+{
+  "chinese": "等一下请打电话到我住的旅馆。",
+  "english": "Please call the hotel where I am staying in a moment.",
+  "pinyin": "děng yī xià qǐng dǎ diàn huà dào wǒ zhù de lǚ guǎn.",
+  "words": [
+    {
+      "ch": "等一下",
+      "en": "in a moment",
+      "pi": "děng yī xià"
+    },
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "打电话",
+      "en": "call",
+      "pi": "dǎ diàn huà"
+    },
+    {
+      "ch": "到",
+      "en": "to",
+      "pi": "dào"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "住的",
+      "en": "where I am staying",
+      "pi": "zhù de"
+    },
+    {
+      "ch": "旅馆",
+      "en": "hotel",
+      "pi": "lǚ guǎn"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "我的血型是A型血阳性。",
+  "english": "My blood type is A positive.",
+  "pinyin": "wǒ de xiě xíng shì A xíng xiě yáng xìng。",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "My",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "血型",
+      "en": "blood type",
+      "pi": "xiě xíng"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "A型",
+      "en": "A type",
+      "pi": "A xíng"
+    },
+    {
+      "ch": "血",
+      "en": "blood",
+      "pi": "xiě"
+    },
+    {
+      "ch": "阳性",
+      "en": "positive",
+      "pi": "yáng xìng"
+    }
+  ]
+}

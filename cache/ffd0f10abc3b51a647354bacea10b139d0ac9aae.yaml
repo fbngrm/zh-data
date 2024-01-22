@@ -1,0 +1,17 @@
+{
+  "chinese": "他们在还很年轻的时候就结婚了。",
+  "english": "They got married when they were still very young.",
+  "pinyin": "Tāmen zài hái hěn niánqīng de shíhòu jiù jiéhūn le.",
+  "words": [
+    {"ch": "他们", "en": "They", "pi": "Tāmen"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "还", "en": "still", "pi": "hái"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "年轻", "en": "young", "pi": "niánqīng"},
+    {"ch": "的", "en": "de", "pi": "de"},
+    {"ch": "时候", "en": "time", "pi": "shíhòu"},
+    {"ch": "就", "en": "already", "pi": "jiù"},
+    {"ch": "结婚", "en": "got married", "pi": "jiéhūn"},
+    {"ch": "了", "en": "了", "pi": "le"}
+  ]
+}

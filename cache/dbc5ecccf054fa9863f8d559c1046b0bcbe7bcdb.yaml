@@ -1,0 +1,14 @@
+{
+  "chinese": "你们打算坐火车去还是开车去？",
+  "english": "Are you planning to go by train or by car?",
+  "pinyin": "nǐ men dǎ suàn zuò huǒ chē qù hái shì kāi chē qù？",
+  "words": [
+    {"ch": "你们", "en": "you", "pi": "nǐ men"},
+    {"ch": "打算", "en": "plan", "pi": "dǎ suàn"},
+    {"ch": "坐", "en": "to take", "pi": "zuò"},
+    {"ch": "火车", "en": "train", "pi": "huǒ chē"},
+    {"ch": "去", "en": "to go", "pi": "qù"},
+    {"ch": "还是", "en": "or", "pi": "hái shì"},
+    {"ch": "开车", "en": "to drive", "pi": "kāi chē"}
+  ]
+}

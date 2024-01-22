@@ -1,0 +1,37 @@
+{
+  "chinese": "这些球拍中哪一支是你的？",
+  "english": "Which racket is yours among these?",
+  "pinyin": "zhè xiē qiúpāi zhōng nǎ yī zhī shì nǐ de?",
+  "words": [
+    {
+      "ch": "这些",
+      "en": "these",
+      "pi": "zhè xiē"
+    },
+    {
+      "ch": "球拍",
+      "en": "racket",
+      "pi": "qiúpāi"
+    },
+    {
+      "ch": "中",
+      "en": "among",
+      "pi": "zhōng"
+    },
+    {
+      "ch": "哪一支",
+      "en": "which one",
+      "pi": "nǎ yī zhī"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "你的",
+      "en": "yours",
+      "pi": "nǐ de"
+    }
+  ]
+}

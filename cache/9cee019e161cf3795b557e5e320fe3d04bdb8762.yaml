@@ -1,0 +1,42 @@
+{
+  "chinese": "我打算搭十点三十分的火车。",
+  "english": "I plan to take the train at ten thirty.",
+  "pinyin": "wǒ dǎ suàn dā shí diǎn sān shí fēn de huǒ chē。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "打算",
+      "en": "plan",
+      "pi": "dǎ suàn"
+    },
+    {
+      "ch": "搭",
+      "en": "take",
+      "pi": "dā"
+    },
+    {
+      "ch": "十点",
+      "en": "ten o'clock",
+      "pi": "shí diǎn"
+    },
+    {
+      "ch": "三十分",
+      "en": "thirty minutes",
+      "pi": "sān shí fēn"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒ chē"
+    }
+  ]
+}

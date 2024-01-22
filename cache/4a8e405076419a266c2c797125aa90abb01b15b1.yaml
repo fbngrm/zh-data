@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆买了一双黑色皮鞋。",
+  "english": "Tom bought a pair of black leather shoes.",
+  "pinyin": "tāng mǔ mǎi le yī shuāng hēi sè pí xié.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "买了",
+      "en": "bought",
+      "pi": "mǎi le"
+    },
+    {
+      "ch": "一双",
+      "en": "a pair",
+      "pi": "yī shuāng"
+    },
+    {
+      "ch": "黑色",
+      "en": "black",
+      "pi": "hēi sè"
+    },
+    {
+      "ch": "皮鞋",
+      "en": "leather shoes",
+      "pi": "pí xié"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "警察看来很清楚我们在哪里。",
+  "english": "The police seem to know where we are.",
+  "pinyin": "jǐng chá kàn lái hěn qīng chǔ wǒ men zài nǎ lǐ。",
+  "words": [
+    {
+      "ch": "警察",
+      "en": "police",
+      "pi": "jǐng chá"
+    },
+    {
+      "ch": "看来",
+      "en": "seem to",
+      "pi": "kàn lái"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "清楚",
+      "en": "know",
+      "pi": "qīng chǔ"
+    },
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "在",
+      "en": "where",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪里",
+      "en": "we are",
+      "pi": "nǎ lǐ"
+    }
+  ]
+}

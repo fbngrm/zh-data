@@ -1,0 +1,32 @@
+{
+  "chinese": "不是现在，请等一下。",
+  "english": "Not now, please wait a moment.",
+  "pinyin": "bù shì xiàn zài, qǐng děng yī xià.",
+  "words": [
+    {
+      "ch": "不是",
+      "en": "Not",
+      "pi": "bù shì"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "等",
+      "en": "wait",
+      "pi": "děng"
+    },
+    {
+      "ch": "一下",
+      "en": "a moment",
+      "pi": "yī xià"
+    }
+  ]
+}

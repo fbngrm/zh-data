@@ -1,0 +1,18 @@
+{
+  "chinese": "我上个星期五是跟我女朋友在饭馆吃饭的。",
+  "english": "Last Friday, I went to a restaurant with my girlfriend.",
+  "pinyin": "Wǒ shàng gè xīngqīwǔ shì gēn wǒ nǚ péngyǒu zài fànguǎn chīfàn de.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "上个", "en": "last", "pi": "shàng gè"},
+    {"ch": "星期五", "en": "Friday", "pi": "xīngqīwǔ"},
+    {"ch": "是", "en": "was", "pi": "shì"},
+    {"ch": "跟", "en": "with", "pi": "gēn"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "女朋友", "en": "girlfriend", "pi": "nǚ péngyǒu"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "饭馆", "en": "restaurant", "pi": "fànguǎn"},
+    {"ch": "吃饭", "en": "eat", "pi": "chīfàn"},
+    {"ch": "的", "en": "sentence-ending particle", "pi": "de"}
+  ]
+}

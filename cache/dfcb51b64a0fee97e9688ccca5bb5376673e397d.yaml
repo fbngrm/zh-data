@@ -1,0 +1,37 @@
+{
+  "chinese": "我今天晚上想吃花枝。",
+  "english": "I want to eat squid tonight.",
+  "pinyin": "wǒ jīntiān wǎnshàng xiǎng chī huāzhī。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "晚上",
+      "en": "evening",
+      "pi": "wǎnshàng"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "花枝",
+      "en": "squid",
+      "pi": "huāzhī"
+    }
+  ]
+}

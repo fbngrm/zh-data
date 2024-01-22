@@ -1,0 +1,37 @@
+{
+  "chinese": "你的作业做完了吗？",
+  "english": "Did you finish your homework?",
+  "pinyin": "nǐ de zuòyè zuò wánle ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "作业",
+      "en": "homework",
+      "pi": "zuòyè"
+    },
+    {
+      "ch": "做完",
+      "en": "finished",
+      "pi": "zuò wán"
+    },
+    {
+      "ch": "了",
+      "en": "yet",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

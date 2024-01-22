@@ -1,0 +1,37 @@
+{
+  "chinese": "根据天气预报，雨季下周会开始。",
+  "english": "According to the weather forecast, the rainy season will begin next week.",
+  "pinyin": "Gēnjù tiānqì yùbào, yǔjì xiàzhōu huì kāishǐ.",
+  "words": [
+    {
+      "ch": "根据",
+      "en": "according to",
+      "pi": "gēnjù"
+    },
+    {
+      "ch": "天气预报",
+      "en": "weather forecast",
+      "pi": "tiānqì yùbào"
+    },
+    {
+      "ch": "雨季",
+      "en": "rainy season",
+      "pi": "yǔjì"
+    },
+    {
+      "ch": "下周",
+      "en": "next week",
+      "pi": "xiàzhōu"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "开始",
+      "en": "begin",
+      "pi": "kāishǐ"
+    }
+  ]
+}

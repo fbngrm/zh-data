@@ -1,0 +1,14 @@
+{
+  "chinese": "我们在调查事故发生的原因。",
+  "english": "We are investigating the cause of the accident.",
+  "pinyin": "wǒmen zài diàochá shìgù fāshēng de yuányīn.",
+  "words": [
+    {"ch": "我们", "en": "we", "pi": "wǒmen"},
+    {"ch": "在", "en": "are", "pi": "zài"},
+    {"ch": "调查", "en": "investigating", "pi": "diàochá"},
+    {"ch": "事故", "en": "accident", "pi": "shìgù"},
+    {"ch": "发生", "en": "happen", "pi": "fāshēng"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "原因", "en": "cause", "pi": "yuányīn"}
+  ]
+}

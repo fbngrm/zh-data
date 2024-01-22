@@ -1,0 +1,32 @@
+{
+  "chinese": "我不确定汤姆能不能帮忙。",
+  "english": "I'm not sure if Tom can help.",
+  "pinyin": "wǒ bù quèdìng tāng mǔ néng bùnéng bāngmáng。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不确定",
+      "en": "not sure",
+      "pi": "bù quèdìng"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "能不能",
+      "en": "can or cannot",
+      "pi": "néng bùnéng"
+    },
+    {
+      "ch": "帮忙",
+      "en": "help",
+      "pi": "bāngmáng"
+    }
+  ]
+}

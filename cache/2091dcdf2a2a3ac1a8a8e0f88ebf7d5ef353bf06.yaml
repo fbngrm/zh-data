@@ -1,0 +1,27 @@
+{
+  "chinese": "这是我的爸爸",
+  "english": "This is my father.",
+  "pinyin": "zhè shì wǒ de bàba",
+  "words": [
+    {
+      "ch": "这",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒde"
+    },
+    {
+      "ch": "爸爸",
+      "en": "father",
+      "pi": "bàba"
+    }
+  ]
+}

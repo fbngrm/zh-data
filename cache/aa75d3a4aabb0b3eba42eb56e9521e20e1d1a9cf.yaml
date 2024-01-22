@@ -1,0 +1,15 @@
+{
+  "chinese": "他們警告過這艘船這個危險。",
+  "english": "They have warned about this danger to this ship.",
+  "pinyin": "tā men jǐng gào guò zhè sōu chuán zhè gè wēi xiǎn。",
+  "words": [
+    {"ch": "他們", "en": "They", "pi": "tā men"},
+    {"ch": "警告", "en": "warned", "pi": "jǐng gào"},
+    {"ch": "過", "en": "about", "pi": "guò"},
+    {"ch": "這", "en": "this", "pi": "zhè"},
+    {"ch": "艘", "en": "ship", "pi": "sōu"},
+    {"ch": "船", "en": "ship", "pi": "chuán"},
+    {"ch": "這個", "en": "this", "pi": "zhè gè"},
+    {"ch": "危險", "en": "danger", "pi": "wēi xiǎn"}
+  ]
+}

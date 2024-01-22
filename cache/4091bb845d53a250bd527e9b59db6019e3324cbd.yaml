@@ -1,0 +1,42 @@
+{
+  "chinese": "玛丽用５美元买了午饭。",
+  "english": "Mary bought lunch with $5.",
+  "pinyin": "Mǎlì yòng wǔ měiyuán mǎile wǔfàn.",
+  "words": [
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎlì"
+    },
+    {
+      "ch": "用",
+      "en": "use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "５",
+      "en": "$5",
+      "pi": "wǔ"
+    },
+    {
+      "ch": "美元",
+      "en": "dollars",
+      "pi": "měiyuán"
+    },
+    {
+      "ch": "买",
+      "en": "bought",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "午饭",
+      "en": "lunch",
+      "pi": "wǔfàn"
+    }
+  ]
+}

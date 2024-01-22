@@ -1,0 +1,42 @@
+{
+  "chinese": "我们班至少有三十个学生。",
+  "english": "Our class has at least thirty students.",
+  "pinyin": "wǒ mén bān zhì shǎo yǒu sān shí gè xué shēng.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒ mén"
+    },
+    {
+      "ch": "班",
+      "en": "class",
+      "pi": "bān"
+    },
+    {
+      "ch": "至少",
+      "en": "at least",
+      "pi": "zhì shǎo"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "三十",
+      "en": "thirty",
+      "pi": "sān shí"
+    },
+    {
+      "ch": "个",
+      "en": "individual",
+      "pi": "gè"
+    },
+    {
+      "ch": "学生",
+      "en": "students",
+      "pi": "xué shēng"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "会议于下午４点结束。",
+  "english": "The meeting ends at 4pm.",
+  "pinyin": "huì yì yú xià wǔ sì diǎn jié shù。",
+  "words": [
+    {
+      "ch": "会议",
+      "en": "meeting",
+      "pi": "huì yì"
+    },
+    {
+      "ch": "于",
+      "en": "at",
+      "pi": "yú"
+    },
+    {
+      "ch": "下午",
+      "en": "afternoon",
+      "pi": "xià wǔ"
+    },
+    {
+      "ch": "４点",
+      "en": "4pm",
+      "pi": "sì diǎn"
+    },
+    {
+      "ch": "结束",
+      "en": "ends",
+      "pi": "jié shù"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "sentences": [
+    {
+      "chinese": "他反对垄断。",
+      "english": "He opposes monopolies.",
+      "pinyin": "tā fǎn duì lǒng duàn。",
+      "words": [
+        {"ch": "他", "en": "he", "pi": "tā"},
+        {"ch": "反对", "en": "oppose", "pi": "fǎn duì"},
+        {"ch": "垄断", "en": "monopoly", "pi": "lǒng duàn"}
+      ]
+    },
+    {
+      "chinese": "他曾经/以前反对垄断",
+      "english": "He used to oppose monopolies.",
+      "pinyin": "tā céng jīng/yǐ qián fǎn duì lǒng duàn。",
+      "words": [
+        {"ch": "他", "en": "he", "pi": "tā"},
+        {"ch": "曾经", "en": "used to", "pi": "céng jīng/yǐ qián"},
+        {"ch": "以前", "en": "previously", "pi": "céng jīng/yǐ qián"},
+        {"ch": "反对", "en": "oppose", "pi": "fǎn duì"},
+        {"ch": "垄断", "en": "monopoly", "pi": "lǒng duàn"}
+      ]
+    }
+  ]
+}

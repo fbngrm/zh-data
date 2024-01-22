@@ -1,0 +1,12 @@
+{
+  "chinese": "他问我喜不喜欢数学。",
+  "english": "He asked me if I like math.",
+  "pinyin": "tā wèn wǒ xǐ bù xǐ huān shù xué。",
+  "words": [
+    {"ch": "他", "en": "he", "pinyin": "tā"},
+    {"ch": "问", "en": "ask", "pinyin": "wèn"},
+    {"ch": "我", "en": "me, I", "pinyin": "wǒ"},
+    {"ch": "喜不喜欢", "en": "like", "pinyin": "xǐ bù xǐ huān"},
+    {"ch": "数学", "en": "math", "pinyin": "shù xué"}
+  ]
+}

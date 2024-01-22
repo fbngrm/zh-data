@@ -1,0 +1,15 @@
+{
+  "chinese": "我想要我的晚餐送到房间里来。",
+  "english": "I want my dinner delivered to my room.",
+  "pinyin": "wǒ xiǎng yào wǒ de wǎn cān sòng dào fáng jiān lǐ lái.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "想要", "en": "want", "pi": "xiǎng yào"},
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "晚餐", "en": "dinner", "pi": "wǎn cān"},
+    {"ch": "送到", "en": "delivered to", "pi": "sòng dào"},
+    {"ch": "房间", "en": "room", "pi": "fáng jiān"},
+    {"ch": "里", "en": "to", "pi": "lǐ"},
+    {"ch": "来", "en": "come", "pi": "lái"}
+  ]
+}

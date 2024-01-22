@@ -1,0 +1,32 @@
+{
+  "chinese": "太阳总是从东方升起。",
+  "english": "The sun always rises in the east.",
+  "pinyin": "tài yáng zǒng shì cóng dōng fāng shēng qǐ。",
+  "words": [
+    {
+      "ch": "太阳",
+      "en": "sun",
+      "pi": "tài yáng"
+    },
+    {
+      "ch": "总是",
+      "en": "always",
+      "pi": "zǒng shì"
+    },
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "东方",
+      "en": "east",
+      "pi": "dōng fāng"
+    },
+    {
+      "ch": "升起",
+      "en": "rises",
+      "pi": "shēng qǐ"
+    }
+  ]
+}

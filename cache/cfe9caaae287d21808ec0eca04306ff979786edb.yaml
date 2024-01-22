@@ -1,0 +1,10 @@
+{
+  "chinese": "狗在叫。",
+  "english": "The dog is barking.",
+  "pinyin": "gǒu zài jiào.",
+  "words": [
+    {"ch": "狗", "en": "dog", "pi": "gǒu"},
+    {"ch": "在", "en": "is", "pi": "zài"},
+    {"ch": "叫", "en": "barking", "pi": "jiào"}
+  ]
+}

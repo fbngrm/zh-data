@@ -1,0 +1,32 @@
+{
+  "chinese": "我的父亲买了一辆新车。",
+  "english": "My father bought a new car.",
+  "pinyin": "wǒ de fù qīn mǎi le yī liàng xīn chē。",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "父亲",
+      "en": "father",
+      "pi": "fù qīn"
+    },
+    {
+      "ch": "买了",
+      "en": "bought",
+      "pi": "mǎi le"
+    },
+    {
+      "ch": "一辆",
+      "en": "a",
+      "pi": "yī liàng"
+    },
+    {
+      "ch": "新车",
+      "en": "new car",
+      "pi": "xīn chē"
+    }
+  ]
+}

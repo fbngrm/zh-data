@@ -1,0 +1,42 @@
+{
+  "chinese": "他们给他们的儿子取名叫汤姆。",
+  "english": "They named their son Tom.",
+  "pinyin": "Tāmen gěi tāmen de érzi qǔmíng jiào Tāngmǔ。",
+  "words": [
+    {
+      "ch": "他们",
+      "en": "They",
+      "pi": "tāmen"
+    },
+    {
+      "ch": "给",
+      "en": "gave",
+      "pi": "gěi"
+    },
+    {
+      "ch": "他们的",
+      "en": "their",
+      "pi": "tāmende"
+    },
+    {
+      "ch": "儿子",
+      "en": "son",
+      "pi": "érzi"
+    },
+    {
+      "ch": "取名",
+      "en": "named",
+      "pi": "qǔmíng"
+    },
+    {
+      "ch": "叫",
+      "en": "called",
+      "pi": "jiào"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    }
+  ]
+}

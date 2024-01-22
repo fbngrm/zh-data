@@ -1,0 +1,27 @@
+{
+  "chinese": "这个比那个更小。",
+  "english": "This one is smaller than that one.",
+  "pinyin": "zhè gè bǐ nà gè gèng xiǎo.",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this one",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "那个",
+      "en": "that one",
+      "pi": "nà gè"
+    },
+    {
+      "ch": "更小",
+      "en": "smaller",
+      "pi": "gèng xiǎo"
+    }
+  ]
+}

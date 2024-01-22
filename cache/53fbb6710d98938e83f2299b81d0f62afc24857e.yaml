@@ -1,0 +1,14 @@
+{
+  "chinese": "我三时左右随便吃了点东西。",
+  "english": "I had something to eat around three o'clock.",
+  "pinyin": "wǒ sān shí zuǒ yòu suí biàn chī le diǎn dōng xī。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "三时", "en": "three o'clock", "pi": "sān shí"},
+    {"ch": "左右", "en": "around", "pi": "zuǒ yòu"},
+    {"ch": "随便", "en": "casually", "pi": "suí biàn"},
+    {"ch": "吃了", "en": "had", "pi": "chī le"},
+    {"ch": "点", "en": "something", "pi": "diǎn"},
+    {"ch": "东西", "en": "to eat", "pi": "dōng xī"}
+  ]
+}

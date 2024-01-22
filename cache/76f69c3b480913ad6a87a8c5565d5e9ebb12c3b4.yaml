@@ -1,0 +1,15 @@
+{
+  "chinese": "汤姆是个很有才华的作家。",
+  "english": "Tom is a very talented writer.",
+  "pinyin": "Tāng mǔ shì gè hěn yǒu cái huá de zuò jiā.",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "个", "en": "a", "pi": "gè"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "才华", "en": "talent", "pi": "cái huá"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "作家", "en": "writer", "pi": "zuò jiā"}
+  ]
+}

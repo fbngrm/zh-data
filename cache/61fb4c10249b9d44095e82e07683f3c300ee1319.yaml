@@ -1,0 +1,42 @@
+{
+  "chinese": "他拍了拍我的肩膀。",
+  "english": "He patted my shoulder.",
+  "pinyin": "tā pāi le pāi wǒ de jiānbǎng.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "拍",
+      "en": "pat",
+      "pi": "pāi"
+    },
+    {
+      "ch": "了",
+      "en": "past tense marker",
+      "pi": "le"
+    },
+    {
+      "ch": "拍",
+      "en": "pat",
+      "pi": "pāi"
+    },
+    {
+      "ch": "我",
+      "en": "my",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "肩膀",
+      "en": "shoulder",
+      "pi": "jiānbǎng"
+    }
+  ]
+}

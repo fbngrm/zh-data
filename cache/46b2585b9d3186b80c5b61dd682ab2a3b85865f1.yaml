@@ -1,0 +1,14 @@
+{
+  "chinese": "你曾经用英语演讲过吗？",
+  "english": "Have you ever given a speech in English?",
+  "pinyin": "nǐ céngjīng yòng yīngyǔ yǎnjiǎng guò ma?",
+  "words": [
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "曾经", "en": "ever", "pi": "céngjīng" },
+    { "ch": "用", "en": "use", "pi": "yòng" },
+    { "ch": "英语", "en": "English", "pi": "yīngyǔ" },
+    { "ch": "演讲", "en": "give a speech", "pi": "yǎnjiǎng" },
+    { "ch": "过", "en": "ever", "pi": "guò" },
+    { "ch": "吗", "en": "?", "pi": "ma" }
+  ]
+}

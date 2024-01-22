@@ -1,0 +1,32 @@
+{
+  "chinese": "他们在花园里种花。",
+  "english": "They are planting flowers in the garden.",
+  "pinyin": "tā men zài huā yuán lǐ zhòng huā。",
+  "words": [
+    {
+      "ch": "他们",
+      "en": "They",
+      "pi": "tā men"
+    },
+    {
+      "ch": "在",
+      "en": "are",
+      "pi": "zài"
+    },
+    {
+      "ch": "花园里",
+      "en": "in the garden",
+      "pi": "huā yuán lǐ"
+    },
+    {
+      "ch": "种",
+      "en": "planting",
+      "pi": "zhòng"
+    },
+    {
+      "ch": "花",
+      "en": "flowers",
+      "pi": "huā"
+    }
+  ]
+}

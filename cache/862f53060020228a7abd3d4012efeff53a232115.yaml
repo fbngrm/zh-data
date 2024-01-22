@@ -1,0 +1,13 @@
+{
+  "chinese": "我能用信用卡支付吗？",
+  "english": "Can I pay with a credit card?",
+  "pinyin": "wǒ néng yòng xìn yòng kǎ zhī fù ma?",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "能", "en": "can", "pi": "néng" },
+    { "ch": "用", "en": "use", "pi": "yòng" },
+    { "ch": "信用卡", "en": "credit card", "pi": "xìn yòng kǎ" },
+    { "ch": "支付", "en": "pay", "pi": "zhī fù" },
+    { "ch": "吗", "en": "question particle", "pi": "ma" }
+  ]
+}

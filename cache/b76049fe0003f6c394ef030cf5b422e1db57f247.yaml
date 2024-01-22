@@ -1,0 +1,78 @@
+{
+  "sentences": [
+    {
+      "chinese": "你沒結婚吧!?",
+      "english": "You're not married, right?",
+      "pinyin": "nǐ méi jié hūn ba!?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "You",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "沒",
+          "en": "not",
+          "pi": "méi"
+        },
+        {
+          "ch": "結婚",
+          "en": "married",
+          "pi": "jié hūn"
+        },
+        {
+          "ch": "吧",
+          "en": "right?",
+          "pi": "ba"
+        }
+      ]
+    },
+    {
+      "chinese": "哦，我們分手了。我們解除婚約了。",
+      "english": "Oh, we broke up. We canceled the engagement.",
+      "pinyin": "ò, wǒ men fēn shǒu le. wǒ men jiě chú hūn yuē le.",
+      "words": [
+        {
+          "ch": "哦",
+          "en": "Oh",
+          "pi": "ò"
+        },
+        {
+          "ch": "我們",
+          "en": "we",
+          "pi": "wǒ men"
+        },
+        {
+          "ch": "分手",
+          "en": "broke up",
+          "pi": "fēn shǒu"
+        },
+        {
+          "ch": "了",
+          "en": "completed",
+          "pi": "le"
+        },
+        {
+          "ch": "我們",
+          "en": "we",
+          "pi": "wǒ men"
+        },
+        {
+          "ch": "解除",
+          "en": "cancel",
+          "pi": "jiě chú"
+        },
+        {
+          "ch": "婚約",
+          "en": "engagement",
+          "pi": "hūn yuē"
+        },
+        {
+          "ch": "了",
+          "en": "completed",
+          "pi": "le"
+        }
+      ]
+    }
+  ]
+}

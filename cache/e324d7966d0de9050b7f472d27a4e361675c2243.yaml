@@ -1,0 +1,47 @@
+{
+  "chinese": "我们有三只狗,一白两黑.",
+  "english": "We have three dogs, one white and two black.",
+  "pinyin": "wǒmen yǒu sān zhī gǒu, yī bái liǎng hēi.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "三只",
+      "en": "three",
+      "pi": "sān zhī"
+    },
+    {
+      "ch": "狗",
+      "en": "dogs",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "一",
+      "en": "one",
+      "pi": "yī"
+    },
+    {
+      "ch": "白",
+      "en": "white",
+      "pi": "bái"
+    },
+    {
+      "ch": "两",
+      "en": "two",
+      "pi": "liǎng"
+    },
+    {
+      "ch": "黑",
+      "en": "black",
+      "pi": "hēi"
+    }
+  ]
+}

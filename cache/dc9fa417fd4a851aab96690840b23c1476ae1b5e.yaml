@@ -1,0 +1,13 @@
+{
+  "chinese": "在美国人们说哪些语言？",
+  "english": "What languages do people speak in the United States?",
+  "pinyin": "zài měi guó rén men shuō nǎ xiē yǔ yán?",
+  "words": [
+    { "ch": "在", "en": "in", "pi": "zài" },
+    { "ch": "美国", "en": "United States", "pi": "měi guó" },
+    { "ch": "人们", "en": "people", "pi": "rén men" },
+    { "ch": "说", "en": "speak", "pi": "shuō" },
+    { "ch": "哪些", "en": "which", "pi": "nǎ xiē" },
+    { "ch": "语言", "en": "languages", "pi": "yǔ yán" }
+  ]
+}

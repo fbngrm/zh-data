@@ -1,0 +1,18 @@
+{
+  "chinese": "如果你把自行车留在雨中，它会生锈的。",
+  "english": "If you leave your bike in the rain, it will rust.",
+  "pinyin": "Rúguǒ nǐ bǎ zìxíngchē liú zài yǔ zhōng, tā huì shēngxiù de.",
+  "words": [
+    {"ch": "如果", "en": "If", "pi": "rúguǒ"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "把", "en": "leave", "pi": "bǎ"},
+    {"ch": "自行车", "en": "bike", "pi": "zìxíngchē"},
+    {"ch": "留", "en": "in", "pi": "liú"},
+    {"ch": "在", "en": "the", "pi": "zài"},
+    {"ch": "雨中", "en": "rain", "pi": "yǔ zhōng"},
+    {"ch": "它", "en": "it", "pi": "tā"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "生锈", "en": "rust", "pi": "shēngxiù"},
+    {"ch": "的", "en": "."},
+  ]
+}

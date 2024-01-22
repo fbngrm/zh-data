@@ -1,0 +1,32 @@
+{
+  "chinese": "给猫喂点肉。",
+  "english": "Feed the cat some meat.",
+  "pinyin": "gěi māo wèi diǎn ròu.",
+  "words": [
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    },
+    {
+      "ch": "喂",
+      "en": "feed",
+      "pi": "wèi"
+    },
+    {
+      "ch": "点",
+      "en": "some",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "肉",
+      "en": "meat",
+      "pi": "ròu"
+    }
+  ]
+}

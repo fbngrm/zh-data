@@ -1,0 +1,15 @@
+{
+  "chinese": "等我一到就写信给你。",
+  "english": "I will write to you as soon as I arrive.",
+  "pinyin": "děng wǒ yí dào jiù xiě xìn gěi nǐ。",
+  "words": [
+    {"ch": "等", "en": "wait", "pi": "děng"},
+    {"ch": "我", "en": "I, me", "pi": "wǒ"},
+    {"ch": "一", "en": "one", "pi": "yí"},
+    {"ch": "到", "en": "arrive", "pi": "dào"},
+    {"ch": "就", "en": "as soon as", "pi": "jiù"},
+    {"ch": "写信", "en": "write a letter", "pi": "xiě xìn"},
+    {"ch": "给", "en": "to", "pi": "gěi"},
+    {"ch": "你", "en": "you", "pi": "nǐ"}
+  ]
+}

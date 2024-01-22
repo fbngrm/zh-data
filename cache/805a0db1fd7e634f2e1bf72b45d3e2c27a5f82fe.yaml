@@ -1,0 +1,32 @@
+{
+  "chinese": "Ken每天都踢足球。",
+  "english": "Ken plays football every day.",
+  "pinyin": "Ken měi tiān dōu tī zú qiú.",
+  "words": [
+    {
+      "ch": "Ken",
+      "en": "Ken",
+      "pi": "Ken"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "都",
+      "en": "always",
+      "pi": "dōu"
+    },
+    {
+      "ch": "踢",
+      "en": "play",
+      "pi": "tī"
+    },
+    {
+      "ch": "足球",
+      "en": "football",
+      "pi": "zú qiú"
+    }
+  ]
+}

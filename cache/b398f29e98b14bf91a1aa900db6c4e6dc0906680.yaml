@@ -1,0 +1,19 @@
+{
+  "chinese": "别担心，狄马尝试让店员镇定下来：那不是我的血。",
+  "english": "Don't worry," Dima tried to calm the shop assistant down, "That is not my blood.",
+  "pinyin": "bié dān xīn, dí mǎ cháng shì ràng diàn yuán zhèn dìng xià lái: nà bú shì wǒ de xiě.",
+  "words": [
+    {"ch": "别", "en": "Don't", "pi":"bié"},
+    {"ch": "担心", "en": "worry", "pi":"dān xīn"},
+    {"ch": "狄马", "en": "Dima", "pi":"dí mǎ"},
+    {"ch": "尝试", "en": "tried", "pi":"cháng shì"},
+    {"ch": "让", "en": "to", "pi":"ràng"},
+    {"ch": "店员", "en": "shop assistant", "pi":"diàn yuán"},
+    {"ch": "镇定", "en": "calm", "pi":"zhèn dìng"},
+    {"ch": "下来", "en": "down", "pi":"xià lái"},
+    {"ch": "那", "en": "That", "pi":"nà"},
+    {"ch": "不是", "en": "is not", "pi":"bú shì"},
+    {"ch": "我的", "en": "my", "pi":"wǒ de"},
+    {"ch": "血", "en": "blood", "pi":"xiě"}
+  ]
+}

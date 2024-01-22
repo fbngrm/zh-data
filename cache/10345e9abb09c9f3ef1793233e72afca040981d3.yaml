@@ -1,0 +1,42 @@
+{
+  "chinese": "这里有点吵，请你讲话大点声。",
+  "english": "It's a bit noisy here, can you speak louder?",
+  "pinyin": "zhè lǐ yǒu diǎn chǎo, qǐng nǐ jiǎng huà dà diǎn shēng。",
+  "words": [
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "有点",
+      "en": "a bit",
+      "pi": "yǒu diǎn"
+    },
+    {
+      "ch": "吵",
+      "en": "noisy",
+      "pi": "chǎo"
+    },
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "讲话",
+      "en": "speak",
+      "pi": "jiǎng huà"
+    },
+    {
+      "ch": "大点声",
+      "en": "louder",
+      "pi": "dà diǎn shēng"
+    }
+  ]
+}

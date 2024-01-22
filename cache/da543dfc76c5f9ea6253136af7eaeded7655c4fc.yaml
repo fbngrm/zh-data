@@ -1,0 +1,14 @@
+{
+  "chinese": "请您用中文或英文回答。",
+  "english": "Please answer in Chinese or English.",
+  "pinyin": "qing3 nin2 yong4 zhong1 wen2 huo4 ying1 wen2 hui2 da2.",
+  "words": [
+    {"ch": "请", "en": "Please", "pi": "qing3"},
+    {"ch": "您", "en": "you (polite)", "pi": "nin2"},
+    {"ch": "用", "en": "use", "pi": "yong4"},
+    {"ch": "中文", "en": "Chinese language", "pi": "zhong1 wen2"},
+    {"ch": "或", "en": "or", "pi": "huo4"},
+    {"ch": "英文", "en": "English language", "pi": "ying1 wen2"},
+    {"ch": "回答", "en": "answer", "pi": "hui2 da2"}
+  ]
+}

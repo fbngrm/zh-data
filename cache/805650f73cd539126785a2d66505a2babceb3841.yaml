@@ -1,0 +1,37 @@
+{
+  "chinese": "我明天会打电话给你。",
+  "english": "I will call you tomorrow.",
+  "pinyin": "wǒ míngtiān huì dǎ diànhuà gěi nǐ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "打电话",
+      "en": "call",
+      "pi": "dǎ diànhuà"
+    },
+    {
+      "ch": "给",
+      "en": "you",
+      "pi": "gěi"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    }
+  ]
+}

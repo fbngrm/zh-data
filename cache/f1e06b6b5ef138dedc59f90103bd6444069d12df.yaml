@@ -1,0 +1,37 @@
+{
+  "chinese": "明天你能准备好离开吗？",
+  "english": "Can you be ready to leave tomorrow?",
+  "pinyin": "míng tiān nǐ néng zhǔn bèi hǎo lí kāi ma?",
+  "words": [
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "准备好",
+      "en": "be ready",
+      "pi": "zhǔn bèi hǎo"
+    },
+    {
+      "ch": "离开",
+      "en": "leave",
+      "pi": "lí kāi"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

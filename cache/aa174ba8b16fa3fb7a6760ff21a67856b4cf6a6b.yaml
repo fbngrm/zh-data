@@ -1,0 +1,108 @@
+{
+  "sentences": [
+    {
+      "chinese": "我把整个止汗剂抹遍全身。",
+      "english": "I spread the entire antiperspirant all over my body.",
+      "pinyin": "wǒ bǎ zhěng gè zhǐ hàn jì mā biàn quán shēn。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "把",
+          "en": "spread",
+          "pi": "bǎ"
+        },
+        {
+          "ch": "整个",
+          "en": "entire",
+          "pi": "zhěng gè"
+        },
+        {
+          "ch": "止汗剂",
+          "en": "antiperspirant",
+          "pi": "zhǐ hàn jì"
+        },
+        {
+          "ch": "抹",
+          "en": "all over",
+          "pi": "mā"
+        },
+        {
+          "ch": "遍",
+          "en": "throughout",
+          "pi": "biàn"
+        },
+        {
+          "ch": "全身",
+          "en": "body",
+          "pi": "quán shēn"
+        }
+      ]
+    },
+    {
+      "chinese": "如果汗从我脑顶喷出来，你就知道原因了。",
+      "english": "If sweat sprays out from the top of my head, then you will know the reason.",
+      "pinyin": "rú guǒ hàn cóng wǒ nǎo dǐng pēn chū lái，nǐ jiù zhī dào yuán yīn le。",
+      "words": [
+        {
+          "ch": "如果",
+          "en": "if",
+          "pi": "rú guǒ"
+        },
+        {
+          "ch": "汗",
+          "en": "sweat",
+          "pi": "hàn"
+        },
+        {
+          "ch": "从",
+          "en": "from",
+          "pi": "cóng"
+        },
+        {
+          "ch": "我",
+          "en": "my",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "脑顶",
+          "en": "top of the head",
+          "pi": "nǎo dǐng"
+        },
+        {
+          "ch": "喷出来",
+          "en": "sprays out",
+          "pi": "pēn chū lái"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "就",
+          "en": "then",
+          "pi": "jiù"
+        },
+        {
+          "ch": "知道",
+          "en": "know",
+          "pi": "zhī dào"
+        },
+        {
+          "ch": "原因",
+          "en": "reason",
+          "pi": "yuán yīn"
+        },
+        {
+          "ch": "了",
+          "en": "will",
+          "pi": "le"
+        }
+      ]
+    }
+  ]
+}

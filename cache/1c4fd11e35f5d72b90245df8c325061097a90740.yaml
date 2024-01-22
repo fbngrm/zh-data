@@ -1,0 +1,27 @@
+{
+  "chinese": "铃声在八点钟响起。",
+  "english": "The bell rings at eight o'clock.",
+  "pinyin": "líng shēng zài bā diǎn zhōng xiǎng qǐ。",
+  "words": [
+    {
+      "ch": "铃声",
+      "en": "bell",
+      "pi": "líng shēng"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "八点钟",
+      "en": "eight o'clock",
+      "pi": "bā diǎn zhōng"
+    },
+    {
+      "ch": "响起",
+      "en": "rings",
+      "pi": "xiǎng qǐ"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "猫抓住了老鼠。",
+  "english": "The cat caught a mouse.",
+  "pinyin": "māo zhuā zhù le lǎo shǔ.",
+  "words": [
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    },
+    {
+      "ch": "抓住",
+      "en": "caught",
+      "pi": "zhuā zhù"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "老鼠",
+      "en": "mouse",
+      "pi": "lǎo shǔ"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "chinese": "他问我那幅画是谁画的。",
+  "english": "He asked me who painted that picture.",
+  "pinyin": "tā wèn wǒ nà fú huà shì shuí huà de.",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "问", "en": "asked", "pi": "wèn"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "那", "en": "that", "pi": "nà"},
+    {"ch": "幅", "en": "picture", "pi": "fú"},
+    {"ch": "画", "en": "paint", "pi": "huà"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "谁", "en": "who", "pi": "shuí"},
+    {"ch": "的", "en": "of", "pi": "de"}
+  ]
+}

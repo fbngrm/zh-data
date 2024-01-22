@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆在花园里站着。",
+  "english": "Tom is standing in the garden.",
+  "pinyin": "Tāng mǔ zài huā yuán lǐ zhàn zhe.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "花园",
+      "en": "garden",
+      "pi": "huā yuán"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "站着",
+      "en": "standing",
+      "pi": "zhàn zhe"
+    }
+  ]
+}

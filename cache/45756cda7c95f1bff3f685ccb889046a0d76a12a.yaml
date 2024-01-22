@@ -1,0 +1,47 @@
+{
+  "chinese": "有人在火车上偷了我的钱包。",
+  "english": "Someone stole my wallet on the train.",
+  "pinyin": "yǒu rén zài huǒ chē shàng tōu le wǒ de qián bāo.",
+  "words": [
+    {
+      "ch": "有人",
+      "en": "someone",
+      "pi": "yǒu rén"
+    },
+    {
+      "ch": "在",
+      "en": "on",
+      "pi": "zài"
+    },
+    {
+      "ch": "火车上",
+      "en": "train",
+      "pi": "huǒ chē shàng"
+    },
+    {
+      "ch": "偷",
+      "en": "stole",
+      "pi": "tōu"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "钱包",
+      "en": "wallet",
+      "pi": "qián bāo"
+    },
+    {
+      "ch": "。",
+      "en": "",
+      "pi": "。"
+    }
+  ]
+}

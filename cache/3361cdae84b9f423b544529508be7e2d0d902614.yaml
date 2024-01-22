@@ -1,0 +1,42 @@
+{
+  "chinese": "这个机器对我们都很有用。",
+  "english": "This machine is useful to all of us.",
+  "pinyin": "zhè gè jī qì duì wǒ men dōu hěn yǒu yòng。",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "机器",
+      "en": "machine",
+      "pi": "jī qì"
+    },
+    {
+      "ch": "对",
+      "en": "to",
+      "pi": "duì"
+    },
+    {
+      "ch": "我们",
+      "en": "us",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "有用",
+      "en": "useful",
+      "pi": "yǒu yòng"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我应该打扫我的房间。",
+  "english": "I should clean my room.",
+  "pinyin": "wǒ yīnggāi dǎsǎo wǒ de fángjiān.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "应该",
+      "en": "should",
+      "pi": "yīnggāi"
+    },
+    {
+      "ch": "打扫",
+      "en": "clean",
+      "pi": "dǎsǎo"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "房间",
+      "en": "room",
+      "pi": "fángjiān"
+    }
+  ]
+}

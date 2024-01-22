@@ -1,0 +1,37 @@
+{
+  "chinese": "我不知道这是不是真的。",
+  "english": "I don't know if this is true or not.",
+  "pinyin": "wǒ bù zhī dào zhè shì bú shì zhēn de.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是不是",
+      "en": "if",
+      "pi": "shì bú shì"
+    },
+    {
+      "ch": "真的",
+      "en": "true",
+      "pi": "zhēn de"
+    }
+  ]
+}

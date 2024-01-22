@@ -1,0 +1,32 @@
+{
+  "chinese": "据我所知，他不会说汉语。",
+  "english": "As far as I know, he can't speak Chinese.",
+  "pinyin": "jù wǒ suǒ zhī, tā bù huì shuō hàn yǔ.",
+  "words": [
+    {
+      "ch": "据我所知",
+      "en": "As far as I know",
+      "pi": "jù wǒ suǒ zhī"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "不会",
+      "en": "can't",
+      "pi": "bù huì"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "汉语",
+      "en": "Chinese",
+      "pi": "hàn yǔ"
+    }
+  ]
+}

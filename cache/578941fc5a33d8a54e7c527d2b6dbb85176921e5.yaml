@@ -1,0 +1,37 @@
+{
+  "chinese": "事故耽误了我们半小时。",
+  "english": "The accident delayed us for half an hour.",
+  "pinyin": "shì gù dān wù le wǒ men bàn xiǎo shí.",
+  "words": [
+    {
+      "ch": "事故",
+      "en": "accident",
+      "pi": "shì gù"
+    },
+    {
+      "ch": "耽误",
+      "en": "delay",
+      "pi": "dān wù"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "我们",
+      "en": "us",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "半",
+      "en": "half",
+      "pi": "bàn"
+    },
+    {
+      "ch": "小时",
+      "en": "hour",
+      "pi": "xiǎo shí"
+    }
+  ]
+}

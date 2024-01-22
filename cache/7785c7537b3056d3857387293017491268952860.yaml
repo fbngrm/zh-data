@@ -1,0 +1,42 @@
+{
+  "chinese": "你住在这家旅馆吗？",
+  "english": "Do you stay at this hotel?",
+  "pinyin": "nǐ zhù zài zhè jiā lǚguǎn ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "住",
+      "en": "stay",
+      "pi": "zhù"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "家",
+      "en": "home",
+      "pi": "jiā"
+    },
+    {
+      "ch": "旅馆",
+      "en": "hotel",
+      "pi": "lǚguǎn"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

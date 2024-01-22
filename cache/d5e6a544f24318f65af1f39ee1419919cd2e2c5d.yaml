@@ -1,0 +1,15 @@
+{
+  "chinese": "我把她的电话号码记了下来。",
+  "english": "I wrote down her phone number.",
+  "pinyin": "wǒ bǎ tā de diànhuà hàomǎ jì le xiàlái。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "把", "en": "take", "pi": "bǎ"},
+    {"ch": "她", "en": "her", "pi": "tā"},
+    {"ch": "的", "en": "possessive particle", "pi": "de"},
+    {"ch": "电话号码", "en": "phone number", "pi": "diànhuà hàomǎ"},
+    {"ch": "记", "en": "write down", "pi": "jì"},
+    {"ch": "了", "en": "completed action", "pi": "le"},
+    {"ch": "下来", "en": "down", "pi": "xiàlái"}
+  ]
+}

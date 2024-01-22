@@ -1,0 +1,47 @@
+{
+  "chinese": "我说话的时候请你不要插嘴。",
+  "english": "Please don't interrupt me when I speak.",
+  "pinyin": "wǒ shuōhuà de shíhou qǐng nǐ bùyào chāzuǐ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "说话",
+      "en": "speak",
+      "pi": "shuōhuà"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "时候",
+      "en": "when",
+      "pi": "shíhou"
+    },
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "不要",
+      "en": "don't",
+      "pi": "bùyào"
+    },
+    {
+      "ch": "插嘴",
+      "en": "interrupt",
+      "pi": "chāzuǐ"
+    }
+  ]
+}

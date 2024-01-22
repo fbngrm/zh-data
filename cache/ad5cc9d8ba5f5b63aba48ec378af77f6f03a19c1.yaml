@@ -1,0 +1,12 @@
+{
+  "chinese": "哪本是你的书？",
+  "english": "Which book is yours?",
+  "pinyin": "nǎ běn shì nǐ de shū?",
+  "words": [
+    { "ch": "哪", "en": "which", "pi": "nǎ" },
+    { "ch": "本", "en": "measure word for books", "pi": "běn" },
+    { "ch": "是", "en": "is", "pi": "shì" },
+    { "ch": "你的", "en": "yours", "pi": "nǐ de" },
+    { "ch": "书", "en": "book", "pi": "shū" }
+  ]
+}

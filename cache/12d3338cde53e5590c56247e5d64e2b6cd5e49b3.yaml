@@ -1,0 +1,37 @@
+{
+  "chinese": "你在家里不说英语。",
+  "english": "You don't speak English at home.",
+  "pinyin": "nǐ zài jiā lǐ bù shuō yīng yǔ。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "家里",
+      "en": "home",
+      "pi": "jiā lǐ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīng yǔ"
+    }
+  ]
+}

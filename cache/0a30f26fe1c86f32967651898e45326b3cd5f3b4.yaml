@@ -1,0 +1,72 @@
+{
+  "chinese": "昨天的天气很冷，所以我戴了一顶帽子。",
+  "english": "The weather was very cold yesterday, so I wore a hat.",
+  "pinyin": "Zuótiān de tiānqì hěn lěng, suǒyǐ wǒ dài le yī dǐng màozi.",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiānqì"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "冷",
+      "en": "cold",
+      "pi": "lěng"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": ""
+    },
+    {
+      "ch": "所以",
+      "en": "so",
+      "pi": "suǒyǐ"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "戴",
+      "en": "wear",
+      "pi": "dài"
+    },
+    {
+      "ch": "了",
+      "en": "end of action",
+      "pi": "le"
+    },
+    {
+      "ch": "一顶",
+      "en": "a",
+      "pi": "yī dǐng"
+    },
+    {
+      "ch": "帽子",
+      "en": "hat",
+      "pi": "màozi"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": ""
+    }
+  ]
+}

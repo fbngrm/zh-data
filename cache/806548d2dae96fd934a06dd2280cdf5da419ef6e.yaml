@@ -1,0 +1,37 @@
+{
+  "chinese": "每个人看到Tom都很惊讶。",
+  "english": "Everyone is surprised to see Tom.",
+  "pinyin": "měi gè rén kàn dào Tom dōu hěn jīng yà.",
+  "words": [
+    {
+      "ch": "每个人",
+      "en": "everyone",
+      "pi": "měi gè rén"
+    },
+    {
+      "ch": "看到",
+      "en": "see",
+      "pi": "kàn dào"
+    },
+    {
+      "ch": "Tom",
+      "en": "Tom",
+      "pi": "Tom"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "惊讶",
+      "en": "surprised",
+      "pi": "jīng yà"
+    }
+  ]
+}

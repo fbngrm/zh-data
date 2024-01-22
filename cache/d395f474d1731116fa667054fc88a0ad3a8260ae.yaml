@@ -1,0 +1,13 @@
+{
+  "chinese": "中文是有四声的语言。",
+  "english": "Chinese is a language with four tones.",
+  "pinyin": "zhōng wén shì yǒu sì shēng de yǔ yán。",
+  "words": [
+    {"ch": "中文", "en": "Chinese", "pi": "zhōng wén"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "四声", "en": "four tones", "pi": "sì shēng"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "语言", "en": "language", "pi": "yǔ yán"}
+  ]
+}

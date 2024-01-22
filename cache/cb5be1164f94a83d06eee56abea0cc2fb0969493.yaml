@@ -1,0 +1,32 @@
+{
+  "chinese": "我真的很喜欢法国菜。",
+  "english": "I really like French cuisine.",
+  "pinyin": "wǒ zhēn de hěn xǐ huān fǎ guó cài.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "真的",
+      "en": "really",
+      "pi": "zhēn de"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐ huān"
+    },
+    {
+      "ch": "法国菜",
+      "en": "French cuisine",
+      "pi": "fǎ guó cài"
+    }
+  ]
+}

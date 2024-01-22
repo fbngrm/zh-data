@@ -1,0 +1,32 @@
+{
+  "chinese": "这是他们的书。",
+  "english": "This is their book.",
+  "pinyin": "zhè shì tāmen de shū。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "他们",
+      "en": "their",
+      "pi": "tāmen"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    }
+  ]
+}

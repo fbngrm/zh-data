@@ -1,0 +1,32 @@
+{
+  "chinese": "她是汤姆的妹妹。",
+  "english": "She is Tom's younger sister.",
+  "pinyin": "Tā shì tāng mǔ de mèimei.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "妹妹",
+      "en": "younger sister",
+      "pi": "mèimei"
+    }
+  ]
+}

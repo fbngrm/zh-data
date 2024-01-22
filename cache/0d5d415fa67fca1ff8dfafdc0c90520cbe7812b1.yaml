@@ -1,0 +1,32 @@
+{
+  "chinese": "我晚上六点去散步。",
+  "english": "I go for a walk at six o'clock in the evening.",
+  "pinyin": "Wǒ wǎnshàng liù diǎn qù sànbù.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "晚上",
+      "en": "evening",
+      "pi": "wǎnshàng"
+    },
+    {
+      "ch": "六点",
+      "en": "six o'clock",
+      "pi": "liù diǎn"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "散步",
+      "en": "walk",
+      "pi": "sànbù"
+    }
+  ]
+}

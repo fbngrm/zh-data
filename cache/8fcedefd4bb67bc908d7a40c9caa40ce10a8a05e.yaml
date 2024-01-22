@@ -1,0 +1,15 @@
+{
+  "chinese": "来吧，我帮你盛。",
+  "english": "Come on, let me help you pour.",
+  "pinyin": "lái ba, wǒ bāng nǐ shèng.",
+  "words": [
+    {"ch": "来", "en": "come", "pi": "lái"},
+    {"ch": "吧", "en": "on", "pi": "ba"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "帮", "en": "help", "pi": "bāng"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "盛", "en": "pour", "pi": "shèng"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "chinese": "無論如何我明天都會打電話給你。",
+  "english": "No matter what, I will call you tomorrow.",
+  "pinyin": "wú lùn rú hé wǒ míng tiān dōu huì dǎ diàn huà gěi nǐ。",
+  "words": [
+    { "ch": "無論如何", "en": "No matter what", "pi": "wú lùn rú hé" },
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "明天", "en": "tomorrow", "pi": "míng tiān" },
+    { "ch": "都", "en": "will", "pi": "dōu" },
+    { "ch": "會", "en": "call", "pi": "huì" },
+    { "ch": "打", "en": "you", "pi": "dǎ" },
+    { "ch": "電話", "en": "phone", "pi": "diàn huà" },
+    { "ch": "給", "en": "to", "pi": "gěi" },
+    { "ch": "你", "en": "you", "pi": "nǐ" }
+  ]
+}

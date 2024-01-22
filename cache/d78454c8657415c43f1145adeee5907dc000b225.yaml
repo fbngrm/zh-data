@@ -1,0 +1,32 @@
+{
+  "chinese": "我的衣服有点儿短。",
+  "english": "My clothes are a bit short.",
+  "pinyin": "wǒ de yī fú yǒu diǎn ér duǎn。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I, me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "的",
+      "en": "of, 's",
+      "pi": "de"
+    },
+    {
+      "ch": "衣服",
+      "en": "clothes",
+      "pi": "yī fú"
+    },
+    {
+      "ch": "有点儿",
+      "en": "a bit",
+      "pi": "yǒu diǎn ér"
+    },
+    {
+      "ch": "短",
+      "en": "short",
+      "pi": "duǎn"
+    }
+  ]
+}

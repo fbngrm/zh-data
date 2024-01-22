@@ -1,0 +1,15 @@
+{
+  "chinese": "昨晚你把她送回家了吗？",
+  "english": "Did you take her home last night?",
+  "pinyin": "Zuó wǎn nǐ bǎ tā sòng huí jiā le ma?",
+  "words": [
+    {"ch": "昨晚", "en": "last night", "pi": "zuó wǎn"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "把", "en": "take", "pi": "bǎ"},
+    {"ch": "她", "en": "her", "pi": "tā"},
+    {"ch": "送", "en": "home", "pi": "sòng"},
+    {"ch": "回家", "en": "back home", "pi": "huí jiā"},
+    {"ch": "了", "en": "did", "pi": "le"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chinese": "打了這針，你就不會那麼痛了。",
+  "english": "Once you get this shot, you won't feel so much pain.",
+  "pinyin": "dǎ le zhè zhēn, nǐ jiù bú huì nàme tòng le。",
+  "words": [
+    {"ch": "打了", "en": "Once you get", "pi": "dǎ le"},
+    {"ch": "這針", "en": "this shot", "pi": "zhè zhēn"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "你就", "en": "you", "pi": "nǐ jiù"},
+    {"ch": "不會", "en": "won't", "pi": "bú huì"},
+    {"ch": "那麼", "en": "so much", "pi": "nàme"},
+    {"ch": "痛了", "en": "feel pain", "pi": "tòng le"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "你去看医生了吗？",
+  "english": "Did you go to see the doctor?",
+  "pinyin": "Nǐ qù kàn yīshēng le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "去",
+      "en": "to go",
+      "pi": "qù"
+    },
+    {
+      "ch": "看",
+      "en": "to see",
+      "pi": "kàn"
+    },
+    {
+      "ch": "医生",
+      "en": "doctor",
+      "pi": "yīshēng"
+    },
+    {
+      "ch": "了",
+      "en": "did",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "",
+      "pi": "ma"
+    }
+  ]
+}

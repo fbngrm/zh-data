@@ -1,0 +1,37 @@
+{
+  "chinese": "我的网路连线被切断了。",
+  "english": "My internet connection has been cut off.",
+  "pinyin": "wǒ de wǎng lù lián xiàn bèi qiē duàn le.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "My",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "网路",
+      "en": "internet",
+      "pi": "wǎng lù"
+    },
+    {
+      "ch": "连线",
+      "en": "connection",
+      "pi": "lián xiàn"
+    },
+    {
+      "ch": "被",
+      "en": "has been",
+      "pi": "bèi"
+    },
+    {
+      "ch": "切断",
+      "en": "cut off",
+      "pi": "qiē duàn"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

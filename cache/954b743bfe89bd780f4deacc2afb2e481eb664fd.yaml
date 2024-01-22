@@ -1,0 +1,27 @@
+{
+  "chinese": "六點鐘你方便嗎?",
+  "english": "Are you available at 6 o'clock?",
+  "pinyin": "liù diǎn zhōng nǐ fāng biàn ma?",
+  "words": [
+    {
+      "ch": "六點鐘",
+      "en": "6 o'clock",
+      "pi": "liù diǎn zhōng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "方便",
+      "en": "available",
+      "pi": "fāng biàn"
+    },
+    {
+      "ch": "嗎",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

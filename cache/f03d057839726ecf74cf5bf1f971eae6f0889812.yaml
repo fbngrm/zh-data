@@ -1,0 +1,27 @@
+{
+  "chinese": "我看不懂法语。",
+  "english": "I don't understand French.",
+  "pinyin": "wǒ kàn bù dǒng fǎ yǔ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "看",
+      "en": "look",
+      "pi": "kàn"
+    },
+    {
+      "ch": "不懂",
+      "en": "don't understand",
+      "pi": "bù dǒng"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎ yǔ"
+    }
+  ]
+}

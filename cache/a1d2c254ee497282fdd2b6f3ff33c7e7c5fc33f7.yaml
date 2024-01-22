@@ -1,0 +1,32 @@
+{
+  "chinese": "暴风雨袭来，气温随之下降。",
+  "english": "A storm is coming, and the temperature is dropping with it.",
+  "pinyin": "Bào fēng yǔ xí lái, qì wēn suí zhī xià jiàng。",
+  "words": [
+    {
+      "ch": "暴风雨",
+      "en": "storm",
+      "pi": "bào fēng yǔ"
+    },
+    {
+      "ch": "袭来",
+      "en": "is coming",
+      "pi": "xí lái"
+    },
+    {
+      "ch": "气温",
+      "en": "temperature",
+      "pi": "qì wēn"
+    },
+    {
+      "ch": "随之",
+      "en": "with it",
+      "pi": "suí zhī"
+    },
+    {
+      "ch": "下降",
+      "en": "is dropping",
+      "pi": "xià jiàng"
+    }
+  ]
+}

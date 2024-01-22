@@ -1,0 +1,15 @@
+{
+  "chinese": "我们的学校是在一九九零年创立的。",
+  "english": "Our school was founded in 1990.",
+  "pinyin": "wǒmen de xuéxiào shì zài yī jiǔ jiǔ líng nián chuànglì de.",
+  "words": [
+    {"ch": "我们", "en": "we", "pi": "wǒmen"},
+    {"ch": "的", "en": "possessive particle", "pi": "de"},
+    {"ch": "学校", "en": "school", "pi": "xuéxiào"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "一九九零年", "en": "1990", "pi": "yī jiǔ jiǔ líng nián"},
+    {"ch": "创立", "en": "founded", "pi": "chuànglì"},
+    {"ch": "的", "en": "possessive particle", "pi": "de"}
+  ]
+}

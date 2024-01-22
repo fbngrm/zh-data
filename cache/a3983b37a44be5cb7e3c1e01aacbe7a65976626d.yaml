@@ -1,0 +1,52 @@
+{
+  "chinese": "我在这，你想聊天吗？",
+  "english": "I'm here, do you want to chat?",
+  "pinyin": "wǒ zài zhè, nǐ xiǎng liáo tiān ma?",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "at/in",
+      "pi": "zài"
+    },
+    {
+      "ch": "这",
+      "en": "here",
+      "pi": "zhè"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": ""
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "聊天",
+      "en": "to chat",
+      "pi": "liáo tiān"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": ""
+    }
+  ]
+}

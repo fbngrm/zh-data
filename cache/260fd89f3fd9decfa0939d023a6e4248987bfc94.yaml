@@ -1,0 +1,16 @@
+{
+  "chinese": "我不会再跟你说法文了。",
+  "english": "I won't speak French with you anymore.",
+  "pinyin": "wǒ bú huì zài gēn nǐ shuō fǎ wén le。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "再", "en": "again", "pi": "zài"},
+    {"ch": "跟", "en": "with", "pi": "gēn"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "说", "en": "speak", "pi": "shuō"},
+    {"ch": "法文", "en": "French", "pi": "fǎ wén"},
+    {"ch": "了", "en": "anymore", "pi": "le"}
+  ]
+}

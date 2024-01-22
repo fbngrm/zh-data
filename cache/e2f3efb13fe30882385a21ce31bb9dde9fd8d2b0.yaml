@@ -1,0 +1,32 @@
+{
+  "chinese": "鲍勃将在六点钟回家。",
+  "english": "Bob will go home at six o'clock.",
+  "pinyin": "bào bó jiāng zài liù diǎn zhōng huí jiā.",
+  "words": [
+    {
+      "ch": "鲍勃",
+      "en": "Bob",
+      "pi": "bào bó"
+    },
+    {
+      "ch": "将",
+      "en": "will",
+      "pi": "jiāng"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "六点钟",
+      "en": "six o'clock",
+      "pi": "liù diǎn zhōng"
+    },
+    {
+      "ch": "回家",
+      "en": "go home",
+      "pi": "huí jiā"
+    }
+  ]
+}

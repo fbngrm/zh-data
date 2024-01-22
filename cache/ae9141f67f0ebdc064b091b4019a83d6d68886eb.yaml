@@ -1,0 +1,27 @@
+{
+  "chinese": "约翰住在哪里？",
+  "english": "Where does John live?",
+  "pinyin": "Yuēhàn zhù zài nǎlǐ?",
+  "words": [
+    {
+      "ch": "约翰",
+      "en": "John",
+      "pi": "Yuēhàn"
+    },
+    {
+      "ch": "住",
+      "en": "live",
+      "pi": "zhù"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪里",
+      "en": "where",
+      "pi": "nǎlǐ"
+    }
+  ]
+}

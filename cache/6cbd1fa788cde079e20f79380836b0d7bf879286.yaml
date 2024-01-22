@@ -1,0 +1,42 @@
+{
+  "chinese": "我花了五元买这本书。",
+  "english": "I spent five yuan to buy this book.",
+  "pinyin": "wǒ huā le wǔ yuán mǎi zhè běn shū。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "花了",
+      "en": "spent",
+      "pi": "huā le"
+    },
+    {
+      "ch": "五",
+      "en": "five",
+      "pi": "wǔ"
+    },
+    {
+      "ch": "元",
+      "en": "yuan",
+      "pi": "yuán"
+    },
+    {
+      "ch": "买",
+      "en": "to buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本书",
+      "en": "book",
+      "pi": "běn shū"
+    }
+  ]
+}

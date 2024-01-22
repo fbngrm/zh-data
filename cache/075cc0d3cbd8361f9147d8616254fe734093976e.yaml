@@ -1,0 +1,13 @@
+{
+  "chinese": "别人都坐下了，汤姆还站着。",
+  "english": "Everyone else has sat down, but Tom is still standing.",
+  "pinyin": "Bié rén dōu zuòxià le, Tāngmǔ hái zhàn zhe.",
+  "words": [
+    {"ch": "别人", "en": "Everyone else", "pi": "bié rén"},
+    {"ch": "都", "en": "all", "pi": "dōu"},
+    {"ch": "坐下了", "en": "has sat down", "pi": "zuòxià le"},
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāngmǔ"},
+    {"ch": "还", "en": "still", "pi": "hái"},
+    {"ch": "站着", "en": "standing", "pi": "zhàn zhe"}
+  ]
+}

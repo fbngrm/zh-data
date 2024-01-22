@@ -1,0 +1,27 @@
+{
+  "chinese": "拍照片光线不够亮。",
+  "english": "The lighting is not bright enough for taking photos.",
+  "pinyin": "pāi zhào piàn guāng xiàn bù gòu liàng.",
+  "words": [
+    {
+      "ch": "拍照片",
+      "en": "taking photos",
+      "pi": "pāi zhào piàn"
+    },
+    {
+      "ch": "光线",
+      "en": "lighting",
+      "pi": "guāng xiàn"
+    },
+    {
+      "ch": "不够",
+      "en": "not enough",
+      "pi": "bù gòu"
+    },
+    {
+      "ch": "亮",
+      "en": "bright",
+      "pi": "liàng"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆不会喜欢它。",
+  "english": "Tom won't like it.",
+  "pinyin": "Tāngmǔ búhuì xǐhuan tā.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "不会",
+      "en": "won't",
+      "pi": "búhuì"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuan"
+    },
+    {
+      "ch": "它",
+      "en": "it",
+      "pi": "tā"
+    }
+  ]
+}

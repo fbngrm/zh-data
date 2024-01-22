@@ -1,0 +1,20 @@
+{
+  "chinese": "姐姐在市场买了一点茄子、土豆、西葫芦和大白菜。",
+  "english": "The older sister bought some eggplants, potatoes, zucchinis, and Chinese cabbage at the market.",
+  "pinyin": "jiě jiě zài shì chǎng mǎi le yī diǎn qié zi, tǔ dòu, xī hu lu hé dà bái cài.",
+  "words": [
+    { "ch": "姐姐", "en": "older sister", "pi": "jiě jiě" },
+    { "ch": "在", "en": "at, in", "pi": "zài" },
+    { "ch": "市场", "en": "market", "pi": "shì chǎng" },
+    { "ch": "买", "en": "buy", "pi": "mǎi" },
+    { "ch": "了", "en": "particle indicating completed action", "pi": "le" },
+    { "ch": "一点", "en": "some", "pi": "yī diǎn" },
+    { "ch": "茄子", "en": "eggplant", "pi": "qié zi" },
+    { "ch": "、", "en": "and", "pi": "、" },
+    { "ch": "土豆", "en": "potato", "pi": "tǔ dòu" },
+    { "ch": "、", "en": "and", "pi": "、" },
+    { "ch": "西葫芦", "en": "zucchini", "pi": "xī hu lu" },
+    { "ch": "和", "en": "and", "pi": "hé" },
+    { "ch": "大白菜", "en": "Chinese cabbage", "pi": "dà bái cài" }
+  ]
+}

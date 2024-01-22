@@ -1,0 +1,32 @@
+{
+  "chinese": "这是个旧部件。",
+  "english": "This is an old component.",
+  "pinyin": "zhè shì gè jiù bù jiàn。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "个",
+      "en": "an",
+      "pi": "gè"
+    },
+    {
+      "ch": "旧",
+      "en": "old",
+      "pi": "jiù"
+    },
+    {
+      "ch": "部件",
+      "en": "component",
+      "pi": "bù jiàn"
+    }
+  ]
+}

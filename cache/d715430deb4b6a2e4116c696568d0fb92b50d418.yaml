@@ -1,0 +1,37 @@
+{
+  "chinese": "这是一个寒冷的早晨。",
+  "english": "This is a cold morning.",
+  "pinyin": "zhè shì yí gè hán lěng de zǎo chén.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yí gè"
+    },
+    {
+      "ch": "寒冷",
+      "en": "cold",
+      "pi": "hán lěng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "早晨",
+      "en": "morning",
+      "pi": "zǎo chén"
+    }
+  ]
+}

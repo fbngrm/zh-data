@@ -1,0 +1,18 @@
+{
+  "chinese": "他写了很多书讲述他在外国的经历。",
+  "english": "He wrote many books that recount his experiences abroad.",
+  "pinyin": "tā xiě le hěn duō shū jiǎng shù tā zài wài guó de jīng lì。",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "写", "en": "wrote", "pi": "xiě"},
+    {"ch": "了", "en": "many", "pi": "le"},
+    {"ch": "很多", "en": "books", "pi": "hěn duō"},
+    {"ch": "书", "en": "that", "pi": "shū"},
+    {"ch": "讲述", "en": "recount", "pi": "jiǎng shù"},
+    {"ch": "他", "en": "his", "pi": "tā"},
+    {"ch": "在", "en": "experiences", "pi": "zài"},
+    {"ch": "外国", "en": "abroad", "pi": "wài guó"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "经历", "en": "experiences", "pi": "jīng lì"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我身上没带这个地址。",
+  "english": "I don't have this address with me.",
+  "pinyin": "wǒ shēn shang méi dài zhè ge dì zhǐ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "身上",
+      "en": "on me",
+      "pi": "shēn shang"
+    },
+    {
+      "ch": "没带",
+      "en": "didn't bring",
+      "pi": "méi dài"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè ge"
+    },
+    {
+      "ch": "地址",
+      "en": "address",
+      "pi": "dì zhǐ"
+    }
+  ]
+}

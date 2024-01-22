@@ -1,0 +1,27 @@
+{
+  "sentences": [
+    {
+      "chinese": "握着我的手。",
+      "english": "Hold my hand.",
+      "pinyin": "wò zhe wǒ de shǒu。",
+      "words": [
+        {"ch": "握着", "en": "Hold", "pi": "wò zhe"},
+        {"ch": "我的", "en": "my", "pi": "wǒ de"},
+        {"ch": "手", "en": "hand", "pi": "shǒu"}
+      ]
+    },
+    {
+      "chinese": "我们两个将要建立一个乌托邦。",
+      "english": "We two are going to build a utopia.",
+      "pinyin": "wǒ men liǎng gè jiāng yào jiàn lì yī gè wū tuō bāng。",
+      "words": [
+        {"ch": "我们", "en": "We", "pi": "wǒ men"},
+        {"ch": "两个", "en": "two", "pi": "liǎng gè"},
+        {"ch": "将要", "en": "are going to", "pi": "jiāng yào"},
+        {"ch": "建立", "en": "build", "pi": "jiàn lì"},
+        {"ch": "一个", "en": "a", "pi": "yī gè"},
+        {"ch": "乌托邦", "en": "utopia", "pi": "wū tuō bāng"}
+      ]
+    }
+  ]
+}

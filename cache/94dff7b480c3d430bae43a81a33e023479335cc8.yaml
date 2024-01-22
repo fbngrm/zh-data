@@ -1,0 +1,32 @@
+{
+  "chinese": "您应该乘５路车。",
+  "english": "You should take bus number 5.",
+  "pinyin": "Nín yīng gāi chéng wǔ lù chē。",
+  "words": [
+    {
+      "ch": "您",
+      "en": "You",
+      "pi": "Nín"
+    },
+    {
+      "ch": "应该",
+      "en": "should",
+      "pi": "yīng gāi"
+    },
+    {
+      "ch": "乘",
+      "en": "take",
+      "pi": "chéng"
+    },
+    {
+      "ch": "５",
+      "en": "number 5",
+      "pi": "wǔ"
+    },
+    {
+      "ch": "路车",
+      "en": "bus",
+      "pi": "lù chē"
+    }
+  ]
+}

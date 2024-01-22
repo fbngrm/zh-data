@@ -1,0 +1,42 @@
+{
+  "chinese": "你告诉汤姆你的问题了吗？",
+  "english": "Did you tell Tom about your problem?",
+  "pinyin": "nǐ gàosù tāng mǔ nǐ de wèn tí le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "告诉",
+      "en": "Tell",
+      "pi": "gàosù"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "你的",
+      "en": "Your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "问题",
+      "en": "Problem",
+      "pi": "wèn tí"
+    },
+    {
+      "ch": "了",
+      "en": "Did",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "Question particle",
+      "pi": "ma"
+    }
+  ]
+}

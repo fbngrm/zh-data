@@ -1,0 +1,32 @@
+{
+  "chinese": "这条河汇入太平洋。",
+  "english": "This river flows into the Pacific Ocean.",
+  "pinyin": "zhè tiáo hé huì rù tài píng yáng。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "条",
+      "en": "measure word for rivers",
+      "pi": "tiáo"
+    },
+    {
+      "ch": "河",
+      "en": "river",
+      "pi": "hé"
+    },
+    {
+      "ch": "汇入",
+      "en": "flows into",
+      "pi": "huì rù"
+    },
+    {
+      "ch": "太平洋",
+      "en": "Pacific Ocean",
+      "pi": "tài píng yáng"
+    }
+  ]
+}

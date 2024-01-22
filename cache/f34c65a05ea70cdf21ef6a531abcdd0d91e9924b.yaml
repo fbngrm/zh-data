@@ -1,0 +1,114 @@
+{
+  "sentences": [
+    {
+      "chinese": "《Ｔｏｍ和Ｍａｒｙ离开了。》",
+      "english": "Tom and Mary left.",
+      "pinyin": "Tó m hé Mǎ lì kāi le.",
+      "words": [
+        {
+          "ch": "《",
+          "en": " ",
+          "pi": " ",
+          "type": "punctuation"
+        },
+        {
+          "ch": "Ｔｏｍ",
+          "en": "Tom",
+          "pi": "Tó m",
+          "type": "word"
+        },
+        {
+          "ch": "和",
+          "en": "and",
+          "pi": "hé",
+          "type": "word"
+        },
+        {
+          "ch": "Ｍａｒｙ",
+          "en": "Mary",
+          "pi": "Mǎ",
+          "type": "word"
+        },
+        {
+          "ch": "离开",
+          "en": "left",
+          "pi": "lì kāi",
+          "type": "word"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le",
+          "type": "word"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": ".",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "chinese": "《这是的从前的故事。》",
+      "english": "This is a story from the past.",
+      "pinyin": "Zhè shì de cóng qián de gù shi.",
+      "words": [
+        {
+          "ch": "《",
+          "en": "",
+          "pi": "",
+          "type": "punctuation"
+        },
+        {
+          "ch": "这",
+          "en": "this",
+          "pi": "Zhè",
+          "type": "word"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì",
+          "type": "word"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": "de",
+          "type": "word"
+        },
+        {
+          "ch": "从前",
+          "en": "from the past",
+          "pi": "cóng qián",
+          "type": "word"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": "de",
+          "type": "word"
+        },
+        {
+          "ch": "故事",
+          "en": "story",
+          "pi": "gù shi",
+          "type": "word"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": ".",
+          "type": "punctuation"
+        },
+        {
+          "ch": "》",
+          "en": "",
+          "pi": "",
+          "type": "punctuation"
+        }
+      ]
+    }
+  ]
+}

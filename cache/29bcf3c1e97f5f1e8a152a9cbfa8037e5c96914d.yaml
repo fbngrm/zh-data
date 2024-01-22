@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆的评论不合适。",
+  "english": "Tom's comments are not appropriate.",
+  "pinyin": "Tāng mǔ de pínglùn bù héshì.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "评论",
+      "en": "comments",
+      "pi": "pínglùn"
+    },
+    {
+      "ch": "不合适",
+      "en": "not appropriate",
+      "pi": "bù héshì"
+    }
+  ]
+}

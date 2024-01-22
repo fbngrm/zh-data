@@ -1,0 +1,42 @@
+{
+  "chinese": "您想听听这件事的真相吗？",
+  "english": "Do you want to hear the truth about this?",
+  "pinyin": "nín xiǎng tīng tīng zhè jiàn shì de zhēnxiàng ma?",
+  "words": [
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "听听",
+      "en": "hear",
+      "pi": "tīng tīng"
+    },
+    {
+      "ch": "这件事",
+      "en": "this",
+      "pi": "zhè jiàn shì"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "真相",
+      "en": "truth",
+      "pi": "zhēnxiàng"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

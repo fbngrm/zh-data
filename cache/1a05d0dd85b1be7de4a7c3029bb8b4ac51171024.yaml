@@ -1,0 +1,37 @@
+{
+  "chinese": "你班里有多少人？",
+  "english": "How many people are there in your class?",
+  "pinyin": "Nǐ bān lǐ yǒu duōshǎo rén?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "班",
+      "en": "class",
+      "pi": "bān"
+    },
+    {
+      "ch": "里",
+      "en": "inside",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "多少",
+      "en": "how many",
+      "pi": "duōshǎo"
+    },
+    {
+      "ch": "人",
+      "en": "people",
+      "pi": "rén"
+    }
+  ]
+}

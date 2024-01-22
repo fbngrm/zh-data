@@ -1,0 +1,32 @@
+{
+  "chinese": "你是对的吗？",
+  "english": "Are you right?",
+  "pinyin": "nǐ shì duì de ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "对",
+      "en": "right",
+      "pi": "duì"
+    },
+    {
+      "ch": "的",
+      "en": "particle",
+      "pi": "de"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

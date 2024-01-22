@@ -1,0 +1,13 @@
+{
+  "chinese": "汤姆和简快认识一年了。",
+  "english": "Tom and Jane have known each other for a year.",
+  "pinyin": "Tāngmǔ hé jiǎn kuài rènshì yī niánle.",
+  "words": [
+    { "ch": "汤姆", "en": "Tom", "pi": "Tāngmǔ" },
+    { "ch": "和", "en": "and", "pi": "hé" },
+    { "ch": "简快", "en": "Jane", "pi": "jiǎn kuài" },
+    { "ch": "认识", "en": "know", "pi": "rènshì" },
+    { "ch": "一年", "en": "a year", "pi": "yī nián" },
+    { "ch": "了", "en": "have", "pi": "le" }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "海啸席卷稻田,淹没了城镇。",
+  "english": "The tsunami swept through the rice fields, submerging the town.",
+  "pinyin": "hǎi xiào xí juàn dào tián, yān mò le chéng zhèn。",
+  "words": [
+    { "ch": "海啸", "en": "tsunami", "pi": "hǎi xiào" },
+    { "ch": "席卷", "en": "swept", "pi": "xí juàn" },
+    { "ch": "稻田", "en": "rice fields", "pi": "dào tián" },
+    { "ch": "淹没", "en": "submerge", "pi": "yān mò" },
+    { "ch": "了", "en": "through", "pi": "le" },
+    { "ch": "城镇", "en": "town", "pi": "chéng zhèn" }
+  ]
+}

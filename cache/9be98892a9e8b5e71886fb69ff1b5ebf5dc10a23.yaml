@@ -1,0 +1,13 @@
+{
+  "chinese": "他把球掷向墙上。",
+  "english": "He threw the ball against the wall.",
+  "pinyin": "tā bǎ qiú zhì xiàng qiáng shàng。",
+  "words": [
+    { "ch": "他", "en": "he", "pi": "tā" },
+    { "ch": "把", "en": "take", "pi": "bǎ" },
+    { "ch": "球", "en": "ball", "pi": "qiú" },
+    { "ch": "掷", "en": "throw", "pi": "zhì" },
+    { "ch": "向", "en": "towards", "pi": "xiàng" },
+    { "ch": "墙上", "en": "against the wall", "pi": "qiáng shàng" }
+  ]
+}

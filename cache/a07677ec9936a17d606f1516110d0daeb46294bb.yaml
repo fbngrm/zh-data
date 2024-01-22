@@ -1,0 +1,16 @@
+{
+  "chinese": "我跟你说过的那个女生住在这儿。",
+  "english": "The girl I told you about lives here.",
+  "pinyin": "wǒ gēn nǐ shuō guò de nà gè nǚ shēng zhù zài zhèr.",
+  "words": [
+    { "ch": "我", "en": "I, me", "pi": "wǒ" },
+    { "ch": "跟", "en": "with", "pi": "gēn" },
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "说过", "en": "told", "pi": "shuō guò" },
+    { "ch": "的", "en": "about", "pi": "de" },
+    { "ch": "那个", "en": "that", "pi": "nà gè" },
+    { "ch": "女生", "en": "girl", "pi": "nǚ shēng" },
+    { "ch": "住在", "en": "lives", "pi": "zhù zài" },
+    { "ch": "这儿", "en": "here", "pi": "zhèr" }
+  ]
+}

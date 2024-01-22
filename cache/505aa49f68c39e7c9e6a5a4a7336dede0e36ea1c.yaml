@@ -1,0 +1,32 @@
+{
+  "chinese": "他去欧洲旅行了。",
+  "english": "He went on a trip to Europe.",
+  "pinyin": "tā qù ōuzhōu lǚxíng le.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "欧洲",
+      "en": "Europe",
+      "pi": "ōuzhōu"
+    },
+    {
+      "ch": "旅行",
+      "en": "travel",
+      "pi": "lǚxíng"
+    },
+    {
+      "ch": "了",
+      "en": "completed action",
+      "pi": "le"
+    }
+  ]
+}

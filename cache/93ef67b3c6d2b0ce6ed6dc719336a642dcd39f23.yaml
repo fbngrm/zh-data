@@ -1,0 +1,27 @@
+{
+  "chinese": "老师叫玛丽闭嘴。",
+  "english": "The teacher told Mary to be quiet.",
+  "pinyin": "Lǎoshī jiào Mǎlì bìzuǐ。",
+  "words": [
+    {
+      "ch": "老师",
+      "en": "teacher",
+      "pi": "lǎoshī"
+    },
+    {
+      "ch": "叫",
+      "en": "told",
+      "pi": "jiào"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎlì"
+    },
+    {
+      "ch": "闭嘴",
+      "en": "be quiet",
+      "pi": "bìzuǐ"
+    }
+  ]
+}

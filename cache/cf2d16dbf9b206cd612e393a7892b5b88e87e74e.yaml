@@ -1,0 +1,37 @@
+{
+  "chinese": "你爸爸很早回家吗？",
+  "english": "Does your dad come home early?",
+  "pinyin": "nǐ bàba hěn zǎo huí jiā ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "爸爸",
+      "en": "dad",
+      "pi": "bàba"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "早",
+      "en": "early",
+      "pi": "zǎo"
+    },
+    {
+      "ch": "回家",
+      "en": "come home",
+      "pi": "huí jiā"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

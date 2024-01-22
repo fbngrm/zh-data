@@ -1,0 +1,19 @@
+{
+  "chinese": "這本書是匆匆忙忙地寫的，所以有很多謬誤。",
+  "english": "This book was hastily written, so there are many mistakes.",
+  "pinyin": "zhè běn shū shì cōng cōng máng máng de xiě de, suǒ yǐ yǒu hěn duō miù wù。",
+  "words": [
+    {"ch": "這", "en": "This", "pi": "zhè"},
+    {"ch": "本", "en": "book", "pi": "běn"},
+    {"ch": "書", "en": "was", "pi": "shū"},
+    {"ch": "是", "en": "hastily", "pi": "shì"},
+    {"ch": "匆匆忙忙", "en": "written", "pi": "cōng cōng máng máng"},
+    {"ch": "地", "en": "so", "pi": "de"},
+    {"ch": "寫", "en": "there", "pi": "xiě"},
+    {"ch": "的", "en": "are", "pi": "de"},
+    {"ch": "所以", "en": "many", "pi": "suǒ yǐ"},
+    {"ch": "有", "en": "mistakes", "pi": "yǒu"},
+    {"ch": "很多", "en": ".", "pi": "hěn duō"},
+    {"ch": "謬誤", "en": "", "pi": "miù wù"}
+  ]
+}

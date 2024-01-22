@@ -1,0 +1,37 @@
+{
+  "chinese": "你已经把蛋糕吃了。",
+  "english": "You have already eaten the cake.",
+  "pinyin": "nǐ yǐ jīng bǎ dàngāo chī le。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐ jīng"
+    },
+    {
+      "ch": "把",
+      "en": "have",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "蛋糕",
+      "en": "cake",
+      "pi": "dàngāo"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "chinese": "我喜欢猫。",
+  "english": "I like cats.",
+  "pinyin": "wǒ xǐ huān māo.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "喜欢", "en": "like", "pi": "xǐ huān"},
+    {"ch": "猫", "en": "cat", "pi": "māo"}
+  ]
+}

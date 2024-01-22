@@ -1,0 +1,32 @@
+{
+  "chinese": "我哥哥成了一名工程师。",
+  "english": "My older brother has become an engineer.",
+  "pinyin": "wǒ gēge chéngle yīmíng gōngchéngshī.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "哥哥",
+      "en": "older brother",
+      "pi": "gēge"
+    },
+    {
+      "ch": "成了",
+      "en": "has become",
+      "pi": "chéngle"
+    },
+    {
+      "ch": "一名",
+      "en": "a",
+      "pi": "yīmíng"
+    },
+    {
+      "ch": "工程师",
+      "en": "engineer",
+      "pi": "gōngchéngshī"
+    }
+  ]
+}

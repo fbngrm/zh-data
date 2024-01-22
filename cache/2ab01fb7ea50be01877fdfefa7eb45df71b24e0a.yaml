@@ -1,0 +1,42 @@
+{
+  "chinese": "我出生在墨西哥美丽的五月",
+  "english": "I was born in beautiful May in Mexico",
+  "pinyin": "wǒ chūshēng zài mòxīgē měilì de wǔ yuè",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "出生",
+      "en": "born",
+      "pi": "chūshēng"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "墨西哥",
+      "en": "Mexico",
+      "pi": "mòxīgē"
+    },
+    {
+      "ch": "美丽",
+      "en": "beautiful",
+      "pi": "měilì"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "五月",
+      "en": "May",
+      "pi": "wǔ yuè"
+    }
+  ]
+}

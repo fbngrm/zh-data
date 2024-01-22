@@ -1,0 +1,47 @@
+{
+  "chinese": "这天刮着暴风雪，雪下得很大。",
+  "english": "There is a blizzard with heavy snowfall today.",
+  "pinyin": "zhè tiān guā zhe bào fēng xuě, xuě xià de hěn dà.",
+  "words": [
+    {
+      "ch": "这天",
+      "en": "this day",
+      "pi": "zhè tiān"
+    },
+    {
+      "ch": "刮着",
+      "en": "blowing",
+      "pi": "guā zhe"
+    },
+    {
+      "ch": "暴风雪",
+      "en": "blizzard",
+      "pi": "bào fēng xuě"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": "，"
+    },
+    {
+      "ch": "雪下",
+      "en": "snowfall",
+      "pi": "xuě xià"
+    },
+    {
+      "ch": "得",
+      "en": "very",
+      "pi": "de"
+    },
+    {
+      "ch": "很大",
+      "en": "heavy",
+      "pi": "hěn dà"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "。"
+    }
+  ]
+}

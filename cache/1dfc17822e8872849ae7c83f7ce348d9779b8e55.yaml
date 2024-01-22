@@ -1,0 +1,42 @@
+{
+  "chinese": "邮政局离这里只有几分钟的路程。",
+  "english": "The post office is only a few minutes away from here.",
+  "pinyin": "yóu zhèng jú lí zhè lǐ zhǐ yǒu jǐ fēn zhōng de lù chéng。",
+  "words": [
+    {
+      "ch": "邮政局",
+      "en": "post office",
+      "pi": "yóu zhèng jú"
+    },
+    {
+      "ch": "离",
+      "en": "away from",
+      "pi": "lí"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "只有",
+      "en": "only",
+      "pi": "zhǐ yǒu"
+    },
+    {
+      "ch": "几分钟",
+      "en": "a few minutes",
+      "pi": "jǐ fēn zhōng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "路程",
+      "en": "distance",
+      "pi": "lù chéng"
+    }
+  ]
+}

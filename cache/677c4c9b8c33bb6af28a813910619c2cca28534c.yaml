@@ -1,0 +1,14 @@
+{
+  "chinese": "这些裤子我穿起来很合身。",
+  "english": "These pants fit me well when I wear them.",
+  "pinyin": "zhè xiē kù zi wǒ chuān qǐ lái hěn hé shēn。",
+  "words": [
+    {"ch": "这些", "en": "these", "pi": "zhè xiē"},
+    {"ch": "裤子", "en": "pants", "pi": "kù zi"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "穿", "en": "wear", "pi": "chuān"},
+    {"ch": "起来", "en": "when", "pi": "qǐ lái"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "合身", "en": "fit", "pi": "hé shēn"}
+  ]
+}

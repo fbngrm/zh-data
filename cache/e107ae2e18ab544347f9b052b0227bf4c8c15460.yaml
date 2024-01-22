@@ -1,0 +1,32 @@
+{
+  "chinese": "公园里有一些男孩子。",
+  "english": "There are some boys in the park.",
+  "pinyin": "gōng yuán lǐ yǒu yī xiē nán hái zi.",
+  "words": [
+    {
+      "ch": "公园",
+      "en": "park",
+      "pi": "gōng yuán"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一些",
+      "en": "some",
+      "pi": "yī xiē"
+    },
+    {
+      "ch": "男孩子",
+      "en": "boys",
+      "pi": "nán hái zi"
+    }
+  ]
+}

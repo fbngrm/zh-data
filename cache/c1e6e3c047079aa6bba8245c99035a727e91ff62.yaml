@@ -1,0 +1,37 @@
+{
+  "chinese": "你能取消我的预订吗？",
+  "english": "Can you cancel my reservation?",
+  "pinyin": "nǐ néng qǔxiāo wǒ de yùdìng ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "取消",
+      "en": "cancel",
+      "pi": "qǔxiāo"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "预订",
+      "en": "reservation",
+      "pi": "yùdìng"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

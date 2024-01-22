@@ -1,0 +1,78 @@
+[
+  {
+    "chinese": "这是你朋友的车吗？",
+    "pinyin": "zhè shì nǐ péngyǒu de chē ma?",
+    "english": "Is this your friend's car?",
+    "allWords": [
+      {
+        "Chinese": "这",
+        "Pinyin": "zhè",
+        "English": "this, this, these, (commonly pr."
+      },
+      {
+        "Chinese": "是",
+        "Pinyin": "shì",
+        "English": "is, is, are, am, yes, to be, variant of 是"
+      },
+      {
+        "Chinese": "你",
+        "Pinyin": "nǐ",
+        "English": "your, you (informal, as opposed to courteous 您"
+      },
+      {
+        "Chinese": "朋友",
+        "Pinyin": "péngyǒu",
+        "English": "friend, friend, CL:個|个"
+      },
+      {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "'s, of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis), also pr., see 的士, really and truly, aim, clear"
+      },
+      {
+        "Chinese": "车",
+        "Pinyin": "chē",
+        "English": "car, surname Che, car, vehicle, CL:輛|辆, war chariot (archaic), rook (in Chinese chess), rook (in chess)"
+      },
+      {
+        "Chinese": "吗",
+        "Pinyin": "ma",
+        "English": "?, see 嗎啡|吗啡, morphine, (question particle for \"yes-no\" questions)"
+      }
+    ]
+  },
+  {
+    "chinese": "打开书。",
+    "pinyin": "dǎ kāi shū.",
+    "english": "Open the book.",
+    "allWords": [
+      {
+        "Chinese": "打开",
+        "Pinyin": "dǎ kāi",
+        "English": "open, to open, to show (a ticket), to turn on, to switch on"
+      },
+      {
+        "Chinese": "书",
+        "Pinyin": "shū",
+        "English": "book, abbr. for 書經|书经, book, letter, document, CL:本"
+      }
+    ]
+  },
+  {
+    "chinese": "有风险。",
+    "pinyin": "Yǒu fēngxiǎn.",
+    "english": "There is risk.",
+    "allWords": [
+      {
+        "Chinese": "有",
+        "Pinyin": "Yǒu",
+        "English": "There is, to have, there is, there are, to exist, to be"
+      },
+      {
+        "Chinese": "风险",
+        "Pinyin": "Fēngxiǎn",
+        "English": "risk, risk, hazard"
+      }
+    ]
+  }
+]

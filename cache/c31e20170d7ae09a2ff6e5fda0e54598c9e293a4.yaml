@@ -1,0 +1,61 @@
+当然可以。以下是几个例子：
+
+1. "你好" - "nǐ hǎo" - "Hello"
+
+{
+  "chinese": "你好",
+  "english": "Hello",
+  "pinyin": "nǐ hǎo",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    }
+  ]
+}
+
+2. "谢谢" - "xiè xiè" - "Thank you"
+
+{
+  "chinese": "谢谢",
+  "english": "Thank you",
+  "pinyin": "xiè xiè",
+  "words": [
+    {
+      "ch": "谢",
+      "en": "thank",
+      "pi": "xiè"
+    },
+    {
+      "ch": "谢",
+      "en": "thank",
+      "pi": "xiè"
+    }
+  ]
+}
+
+3. "中国" - "zhōng guó" - "China"
+
+{
+  "chinese": "中国",
+  "english": "China",
+  "pinyin": "zhōng guó",
+  "words": [
+    {
+      "ch": "中",
+      "en": "middle",
+      "pi": "zhōng"
+    },
+    {
+      "ch": "国",
+      "en": "country",
+      "pi": "guó"
+    }
+  ]
+}

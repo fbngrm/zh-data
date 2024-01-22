@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆感谢玛丽的光临。",
+  "english": "Tom thanks Mary for coming.",
+  "pinyin": "Tāng mǔ gǎn xiè mǎ lì de guāng lín.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "感谢",
+      "en": "thanks",
+      "pi": "gǎn xiè"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "的",
+      "en": "for",
+      "pi": "de"
+    },
+    {
+      "ch": "光临",
+      "en": "coming",
+      "pi": "guāng lín"
+    }
+  ]
+}

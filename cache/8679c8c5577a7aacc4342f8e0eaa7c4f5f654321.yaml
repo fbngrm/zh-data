@@ -1,0 +1,16 @@
+{
+  "chinese": "我认为我们不应该跟汤姆一起走。",
+  "english": "I think we shouldn't go with Tom.",
+  "pinyin": "wǒ rèn wéi wǒ men bù yīng gāi gēn tāng mǔ yī qǐ zǒu.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "认为", "en": "think", "pi": "rèn wéi"},
+    {"ch": "我们", "en": "we", "pi": "wǒ men"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "应该", "en": "shouldn't", "pi": "yīng gāi"},
+    {"ch": "跟", "en": "with", "pi": "gēn"},
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "一起", "en": "together", "pi": "yī qǐ"},
+    {"ch": "走", "en": "go", "pi": "zǒu"}
+  ]
+}

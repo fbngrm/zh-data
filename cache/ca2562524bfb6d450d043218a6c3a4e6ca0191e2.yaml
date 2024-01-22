@@ -1,0 +1,32 @@
+{
+  "chinese": "大廳裡有八十張椅子。",
+  "english": "There are 80 chairs in the lobby.",
+  "pinyin": "Dàtīng lǐ yǒu bāshí zhāng yǐzi.",
+  "words": [
+    {
+      "ch": "大廳裡",
+      "en": "lobby",
+      "pi": "dàtīng lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "there is",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "八十",
+      "en": "eighty",
+      "pi": "bāshí"
+    },
+    {
+      "ch": "張",
+      "en": "measure word for chairs",
+      "pi": "zhāng"
+    },
+    {
+      "ch": "椅子",
+      "en": "chairs",
+      "pi": "yǐzi"
+    }
+  ]
+}

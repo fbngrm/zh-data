@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆知道怎么玩麻将，我觉得。",
+  "english": "Tom knows how to play mahjong, I think.",
+  "pinyin": "Tāng mǔ zhīdào zěnme wán májiàng, wǒ juédé.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "怎么",
+      "en": "how",
+      "pi": "zěnme"
+    },
+    {
+      "ch": "玩",
+      "en": "to play",
+      "pi": "wán"
+    },
+    {
+      "ch": "麻将",
+      "en": "mahjong",
+      "pi": "májiàng"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "觉得",
+      "en": "think",
+      "pi": "juédé"
+    }
+  ]
+}

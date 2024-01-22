@@ -1,0 +1,14 @@
+{
+  "chinese": "你觉得我之前在做什么？",
+  "english": "What do you think I was doing before?",
+  "pinyin": "Nǐ juédé wǒ zhīqián zài zuò shénme?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "觉得", "en": "think", "pi": "juédé"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "之前", "en": "before", "pi": "zhīqián"},
+    {"ch": "在", "en": "be at", "pi": "zài"},
+    {"ch": "做", "en": "do", "pi": "zuò"},
+    {"ch": "什么", "en": "what", "pi": "shénme"}
+  ]
+}

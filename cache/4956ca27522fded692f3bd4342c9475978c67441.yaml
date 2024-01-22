@@ -1,0 +1,19 @@
+{
+  "chinese": "他在麻醉剂的作用下，他失去了知觉。",
+  "english": "Under the influence of an anesthetic, he lost consciousness.",
+  "pinyin": "Tā zài mázuìjì de zuòyòng xià, tā shīqùle zhījué.",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "在", "en": "under", "pi": "zài"},
+    {"ch": "麻醉剂", "en": "anesthetic", "pi": "mázuìjì"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "作用", "en": "influence", "pi": "zuòyòng"},
+    {"ch": "下", "en": "under", "pi": "xià"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "失去", "en": "lose", "pi": "shīqù"},
+    {"ch": "了", "en": "了", "pi": "le"},
+    {"ch": "知觉", "en": "consciousness", "pi": "zhījué"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

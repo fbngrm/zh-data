@@ -1,0 +1,27 @@
+{
+  "chinese": "要不要再来一杯咖啡？",
+  "english": "Would you like another cup of coffee?",
+  "pinyin": "yào bù yào zài lái yī bēi kā fēi?",
+  "words": [
+    {
+      "ch": "要不要",
+      "en": "Would you like",
+      "pi": "yào bù yào"
+    },
+    {
+      "ch": "再来",
+      "en": "another",
+      "pi": "zài lái"
+    },
+    {
+      "ch": "一杯",
+      "en": "cup of",
+      "pi": "yī bēi"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kā fēi"
+    }
+  ]
+}

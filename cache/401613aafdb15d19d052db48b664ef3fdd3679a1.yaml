@@ -1,0 +1,47 @@
+{
+  "chinese": "我买了几个鸡蛋和一点牛奶。",
+  "english": "I bought a few eggs and some milk.",
+  "pinyin": "wǒ mǎi le jǐ gè jīdàn hé yīdiǎn niúnǎi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "买",
+      "en": "bought",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "了",
+      "en": "a",
+      "pi": "le"
+    },
+    {
+      "ch": "几个",
+      "en": "few",
+      "pi": "jǐ gè"
+    },
+    {
+      "ch": "鸡蛋",
+      "en": "eggs",
+      "pi": "jīdàn"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "一点",
+      "en": "some",
+      "pi": "yīdiǎn"
+    },
+    {
+      "ch": "牛奶",
+      "en": "milk",
+      "pi": "niúnǎi"
+    }
+  ]
+}

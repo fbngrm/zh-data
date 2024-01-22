@@ -1,0 +1,27 @@
+{
+  "chinese": "一个苹果落到了地上。",
+  "english": "An apple fell to the ground.",
+  "pinyin": "Yīgè píngguǒ luò dàole dìshàng.",
+  "words": [
+    {
+      "ch": "一个",
+      "en": "one",
+      "pi": "yīgè"
+    },
+    {
+      "ch": "苹果",
+      "en": "apple",
+      "pi": "píngguǒ"
+    },
+    {
+      "ch": "落到了",
+      "en": "fell to",
+      "pi": "luò dàole"
+    },
+    {
+      "ch": "地上",
+      "en": "the ground",
+      "pi": "dìshàng"
+    }
+  ]
+}

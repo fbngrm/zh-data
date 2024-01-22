@@ -1,0 +1,32 @@
+{
+  "chinese": "我从来没有吃过中菜。",
+  "english": "I have never eaten Chinese food.",
+  "pinyin": "wǒ cóng lái méiyǒu chī guò zhōng cài.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "从来",
+      "en": "never",
+      "pi": "cóng lái"
+    },
+    {
+      "ch": "没有",
+      "en": "have not",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "吃过",
+      "en": "eaten",
+      "pi": "chī guò"
+    },
+    {
+      "ch": "中菜",
+      "en": "Chinese food",
+      "pi": "zhōng cài"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "本月结束之前请等待。",
+  "english": "Please wait until the end of the month.",
+  "pinyin": "běn yuè jié shù zhī qián qǐng děng dài。",
+  "words": [
+    {
+      "ch": "本月",
+      "en": "this month",
+      "pi": "běn yuè"
+    },
+    {
+      "ch": "结束",
+      "en": "end",
+      "pi": "jié shù"
+    },
+    {
+      "ch": "之前",
+      "en": "before",
+      "pi": "zhī qián"
+    },
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "等待",
+      "en": "wait",
+      "pi": "děng dài"
+    }
+  ]
+}

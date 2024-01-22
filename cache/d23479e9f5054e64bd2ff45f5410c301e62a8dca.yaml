@@ -1,0 +1,37 @@
+{
+  "chinese": "我已经看过这部电影了。",
+  "english": "I have already watched this movie.",
+  "pinyin": "wǒ yǐ jīng kàn guò zhè bù diàn yǐng le。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐ jīng"
+    },
+    {
+      "ch": "看过",
+      "en": "watched",
+      "pi": "kàn guò"
+    },
+    {
+      "ch": "这部",
+      "en": "this",
+      "pi": "zhè bù"
+    },
+    {
+      "ch": "电影",
+      "en": "movie",
+      "pi": "diàn yǐng"
+    },
+    {
+      "ch": "了",
+      "en": "了",
+      "pi": "le"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "chinese": "我吃饱了，所以我的胃都满了。",
+  "english": "I am full after eating, so my stomach is full.",
+  "pinyin": "wǒ chī bǎo le, suǒ yǐ wǒ de wèi dōu mǎn le。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "吃饱",
+      "en": "full after eating",
+      "pi": "chī bǎo"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "所以",
+      "en": "so",
+      "pi": "suǒ yǐ"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "胃",
+      "en": "stomach",
+      "pi": "wèi"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "满了",
+      "en": "full",
+      "pi": "mǎn le"
+    }
+  ]
+}

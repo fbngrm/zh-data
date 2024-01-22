@@ -1,0 +1,32 @@
+{
+  "chinese": "请把正确答案圈出来。",
+  "english": "Please circle the correct answer.",
+  "pinyin": "Qǐng bǎ zhèngquè dá'àn quān chūlái.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "把",
+      "en": "circle",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "正确",
+      "en": "correct",
+      "pi": "zhèngquè"
+    },
+    {
+      "ch": "答案",
+      "en": "answer",
+      "pi": "dá'àn"
+    },
+    {
+      "ch": "圈出来",
+      "en": "circle out",
+      "pi": "quān chūlái"
+    }
+  ]
+}

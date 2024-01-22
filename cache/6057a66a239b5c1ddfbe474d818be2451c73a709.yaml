@@ -1,0 +1,14 @@
+{
+  "chinese": "任何床都比没有床好。",
+  "english": "Any bed is better than no bed.",
+  "pinyin": "rén hé chuáng dōu bǐ méi yǒu chuáng hǎo.",
+  "words": [
+    { "ch": "任何", "en": "any", "pi": "rén hé" },
+    { "ch": "床", "en": "bed", "pi": "chuáng" },
+    { "ch": "都", "en": "is", "pi": "dōu" },
+    { "ch": "比", "en": "than", "pi": "bǐ" },
+    { "ch": "没有", "en": "no", "pi": "méi yǒu" },
+    { "ch": "床", "en": "bed", "pi": "chuáng" },
+    { "ch": "好", "en": "good", "pi": "hǎo" }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "好天气能持续到明天吗？",
+  "english": "Will the good weather continue until tomorrow?",
+  "pinyin": "Hǎo tiānqì néng chíxù dào míngtiān ma?",
+  "words": [
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiānqì"
+    },
+    {
+      "ch": "能",
+      "en": "able to",
+      "pi": "néng"
+    },
+    {
+      "ch": "持续",
+      "en": "continue",
+      "pi": "chíxù"
+    },
+    {
+      "ch": "到",
+      "en": "until",
+      "pi": "dào"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

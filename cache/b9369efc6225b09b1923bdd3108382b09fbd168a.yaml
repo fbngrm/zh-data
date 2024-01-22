@@ -1,0 +1,32 @@
+{
+  "chinese": "每个人都在等汤姆。",
+  "english": "Everyone is waiting for Tom.",
+  "pinyin": "měi gè rén dōu zài děng tāng mǔ。",
+  "words": [
+    {
+      "ch": "每个人",
+      "en": "Everyone",
+      "pi": "měi gè rén"
+    },
+    {
+      "ch": "都",
+      "en": "is",
+      "pi": "dōu"
+    },
+    {
+      "ch": "在",
+      "en": "waiting",
+      "pi": "zài"
+    },
+    {
+      "ch": "等",
+      "en": "for",
+      "pi": "děng"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    }
+  ]
+}

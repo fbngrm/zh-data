@@ -1,0 +1,16 @@
+{
+  "chinese": "他有三个儿子，全都成了音乐家。",
+  "english": "He has three sons, all of them have become musicians.",
+  "pinyin": "tā yǒu sān gè ér zi, quándōu chéng le yīnyuè jiā.",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "有", "en": "has", "pi": "yǒu"},
+    {"ch": "三个", "en": "three", "pi": "sān gè"},
+    {"ch": "儿子", "en": "sons", "pi": "ér zi"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "全都", "en": "all of them", "pi": "quándōu"},
+    {"ch": "成了", "en": "have become", "pi": "chéng le"},
+    {"ch": "音乐家", "en": "musicians", "pi": "yīnyuè jiā"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

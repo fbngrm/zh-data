@@ -1,0 +1,42 @@
+{
+  "chinese": "这栋建筑物有七层楼高。",
+  "english": "This building has seven floors.",
+  "pinyin": "zhè dòng jiàn zhú wù yǒu qī céng lóu gāo.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "栋",
+      "en": "building",
+      "pi": "dòng"
+    },
+    {
+      "ch": "建筑物",
+      "en": "structure",
+      "pi": "jiàn zhú wù"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "七",
+      "en": "seven",
+      "pi": "qī"
+    },
+    {
+      "ch": "层",
+      "en": "floors",
+      "pi": "céng"
+    },
+    {
+      "ch": "楼高",
+      "en": "high",
+      "pi": "lóu gāo"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "chinese": "汤姆在他的院子里种了三棵苹果树。",
+  "english": "Tom planted three apple trees in his yard.",
+  "pinyin": "Tāng mǔ zài tā de yuàn zi lǐ zhòng le sān kē píng guǒ shù。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "院子",
+      "en": "yard",
+      "pi": "yuàn zi"
+    },
+    {
+      "ch": "里",
+      "en": "inside",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "种了",
+      "en": "planted",
+      "pi": "zhòng le"
+    },
+    {
+      "ch": "三棵",
+      "en": "three",
+      "pi": "sān kē"
+    },
+    {
+      "ch": "苹果树",
+      "en": "apple tree",
+      "pi": "píng guǒ shù"
+    }
+  ]
+}

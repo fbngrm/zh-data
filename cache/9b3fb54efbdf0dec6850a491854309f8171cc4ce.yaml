@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆游泳可以游得很好。",
+  "english": "Tom can swim very well.",
+  "pinyin": "tāng mǔ yóu yǒng kě yǐ yóu dé hěn hǎo.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "游泳",
+      "en": "swim",
+      "pi": "yóu yǒng"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kě yǐ"
+    },
+    {
+      "ch": "游得",
+      "en": "swim",
+      "pi": "yóu dé"
+    },
+    {
+      "ch": "很好",
+      "en": "very well",
+      "pi": "hěn hǎo"
+    }
+  ]
+}

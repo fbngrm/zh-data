@@ -1,0 +1,13 @@
+{
+  "chinese": "他们为他们的孩子命名为托马斯。",
+  "english": "They named their child Thomas.",
+  "pinyin": "Tāmen wèi tāmen de háizi mìngmíng wéi tuōmǎsī.",
+  "words": [
+    {"ch": "他们", "en": "They", "pi": "tāmen"},
+    {"ch": "为", "en": "named", "pi": "wèi"},
+    {"ch": "他们的", "en": "their", "pi": "tāmen de"},
+    {"ch": "孩子", "en": "child", "pi": "háizi"},
+    {"ch": "命名为", "en": "named", "pi": "mìngmíng wéi"},
+    {"ch": "托马斯", "en": "Thomas", "pi": "tuōmǎsī"}
+  ]
+}

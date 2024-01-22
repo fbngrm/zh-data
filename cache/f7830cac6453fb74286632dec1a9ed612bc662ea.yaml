@@ -1,0 +1,27 @@
+{
+  "chinese": "我把咖啡喝了。",
+  "english": "I drank the coffee.",
+  "pinyin": "wǒ bǎ kāfēi hē le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "把",
+      "en": "took",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kāfēi"
+    },
+    {
+      "ch": "喝了",
+      "en": "drank",
+      "pi": "hē le"
+    }
+  ]
+}

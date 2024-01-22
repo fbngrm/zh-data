@@ -1,0 +1,63 @@
+{
+  "sentences": [
+    {
+      "chinese": "你要在罗马待多久？",
+      "english": "How long are you going to stay in Rome?",
+      "pinyin": "nǐ yào zài luómǎ dāi duōjiǔ？",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "要",
+          "en": "want",
+          "pi": "yào"
+        },
+        {
+          "ch": "在",
+          "en": "at",
+          "pi": "zài"
+        },
+        {
+          "ch": "罗马",
+          "en": "Rome",
+          "pi": "luómǎ"
+        },
+        {
+          "ch": "待",
+          "en": "stay",
+          "pi": "dāi"
+        },
+        {
+          "ch": "多久",
+          "en": "how long",
+          "pi": "duōjiǔ"
+        }
+      ]
+    },
+    {
+      "chinese": "周二就走。",
+      "english": "I'll leave on Tuesday.",
+      "pinyin": "zhōuèr jiù zǒu。",
+      "words": [
+        {
+          "ch": "周二",
+          "en": "Tuesday",
+          "pi": "zhōuèr"
+        },
+        {
+          "ch": "就",
+          "en": "will",
+          "pi": "jiù"
+        },
+        {
+          "ch": "走",
+          "en": "leave",
+          "pi": "zǒu"
+        }
+      ]
+    }
+  ]
+}

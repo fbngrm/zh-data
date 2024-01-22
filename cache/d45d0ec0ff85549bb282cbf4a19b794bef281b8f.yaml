@@ -1,0 +1,42 @@
+{
+  "chinese": "花园里的花要浇水了。",
+  "english": "The flowers in the garden need to be watered.",
+  "pinyin": "Huā yuán lǐ de huā yào jiāo shuǐ le.",
+  "words": [
+    {
+      "ch": "花园",
+      "en": "garden",
+      "pi": "huā yuán"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "花",
+      "en": "flowers",
+      "pi": "huā"
+    },
+    {
+      "ch": "要",
+      "en": "need",
+      "pi": "yào"
+    },
+    {
+      "ch": "浇水",
+      "en": "to water",
+      "pi": "jiāo shuǐ"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "le"
+    }
+  ]
+}

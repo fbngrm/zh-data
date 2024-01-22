@@ -1,0 +1,37 @@
+{
+  "chinese": "我很好，谢谢。",
+  "english": "I'm fine, thank you.",
+  "pinyin": "Wǒ hěn hǎo, xièxiè.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "很",
+      "en": "am",
+      "pi": "hěn"
+    },
+    {
+      "ch": "好",
+      "en": "fine",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": ","
+    },
+    {
+      "ch": "谢谢",
+      "en": "thank you",
+      "pi": "xièxiè"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "."
+    }
+  ]
+}

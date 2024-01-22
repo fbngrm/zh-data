@@ -1,0 +1,13 @@
+{
+  "chinese": "汤姆不喜欢被当作小孩。",
+  "english": "Tom doesn't like being treated like a child.",
+  "pinyin": "Tāngmǔ bù xǐhuān bèi dàngzuò xiǎohái.",
+  "words": [
+    {"ch":"汤姆", "en":"Tom", "pi":"Tāngmǔ"},
+    {"ch":"不", "en":"doesn't", "pi":"bù"},
+    {"ch":"喜欢", "en":"like", "pi":"xǐhuān"},
+    {"ch":"被", "en":"being", "pi":"bèi"},
+    {"ch":"当作", "en":"treated", "pi":"dàngzuò"},
+    {"ch":"小孩", "en":"child", "pi":"xiǎohái"}
+  ]
+}

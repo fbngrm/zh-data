@@ -1,0 +1,32 @@
+{
+  "chinese": "你有东西吃吗？",
+  "english": "Do you have anything to eat?",
+  "pinyin": "nǐ yǒu dōng xī chī ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "东西",
+      "en": "anything",
+      "pi": "dōng xī"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "吗",
+      "en": "",
+      "pi": "ma"
+    }
+  ]
+}

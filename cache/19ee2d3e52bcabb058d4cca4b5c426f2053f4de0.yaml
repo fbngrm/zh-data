@@ -1,0 +1,32 @@
+{
+  "chinese": "你最好吃点东西",
+  "english": "You better eat something",
+  "pinyin": "nǐ zuìhǎo chī diǎn dōngxi",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "最好",
+      "en": "better",
+      "pi": "zuìhǎo"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "点",
+      "en": "something",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "东西",
+      "en": "something",
+      "pi": "dōngxi"
+    }
+  ]
+}

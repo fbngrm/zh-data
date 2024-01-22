@@ -1,0 +1,12 @@
+{
+  "chinese": "博物馆资金不足，只好关门。",
+  "english": "Due to insufficient funding, the museum has to close.",
+  "pinyin": "bó wù guǎn zī jīn bù zú，zhǐ hǎo guān mén。",
+  "words": [
+    { "ch": "博物馆", "en": "museum", "pi": "bó wù guǎn" },
+    { "ch": "资金", "en": "funding", "pi": "zī jīn" },
+    { "ch": "不足", "en": "insufficient", "pi": "bù zú" },
+    { "ch": "只好", "en": "have to", "pi": "zhǐ hǎo" },
+    { "ch": "关门", "en": "close", "pi": "guān mén" }
+  ]
+}

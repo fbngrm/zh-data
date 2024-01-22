@@ -1,0 +1,37 @@
+{
+  "chinese": "我正在开发一个安卓应用。",
+  "english": "I am developing an Android application.",
+  "pinyin": "wǒ zhèngzài kāifā yīgè ān zhuó yìngyòng。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "正在",
+      "en": "am",
+      "pi": "zhèngzài"
+    },
+    {
+      "ch": "开发",
+      "en": "developing",
+      "pi": "kāifā"
+    },
+    {
+      "ch": "一个",
+      "en": "an",
+      "pi": "yīgè"
+    },
+    {
+      "ch": "安卓",
+      "en": "Android",
+      "pi": "ān zhuó"
+    },
+    {
+      "ch": "应用",
+      "en": "application",
+      "pi": "yìngyòng"
+    }
+  ]
+}

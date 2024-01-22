@@ -1,0 +1,32 @@
+{
+  "chinese": "狗会对陌生人叫。",
+  "english": "Dogs will bark at strangers.",
+  "pinyin": "gǒu huì duì mò shēng rén jiào。",
+  "words": [
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "对",
+      "en": "at",
+      "pi": "duì"
+    },
+    {
+      "ch": "陌生人",
+      "en": "strangers",
+      "pi": "mò shēng rén"
+    },
+    {
+      "ch": "叫",
+      "en": "bark",
+      "pi": "jiào"
+    }
+  ]
+}

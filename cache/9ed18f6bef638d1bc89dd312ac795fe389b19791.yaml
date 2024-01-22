@@ -1,0 +1,16 @@
+{
+  "chinese": "我想你一定很喜歡你的工作吧。",
+  "english": "I think you must really like your job, right?",
+  "pinyin": "wǒ xiǎng nǐ yīdìng hěn xǐhuān nǐ de gōngzuò ba.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "想", "en": "think", "pi": "xiǎng" },
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "一定", "en": "must", "pi": "yīdìng" },
+    { "ch": "很", "en": "really", "pi": "hěn" },
+    { "ch": "喜歡", "en": "like", "pi": "xǐhuān" },
+    { "ch": "你的", "en": "your", "pi": "nǐ de" },
+    { "ch": "工作", "en": "job", "pi": "gōngzuò" },
+    { "ch": "吧", "en": "right?", "pi": "ba" }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我每六小时量一次体温。",
+  "english": "I take my temperature every six hours.",
+  "pinyin": "Wǒ měi liù xiǎo shí liàng yī cì tǐ wēn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "每",
+      "en": "every",
+      "pi": "měi"
+    },
+    {
+      "ch": "六",
+      "en": "six",
+      "pi": "liù"
+    },
+    {
+      "ch": "小时",
+      "en": "hours",
+      "pi": "xiǎo shí"
+    },
+    {
+      "ch": "量",
+      "en": "take",
+      "pi": "liàng"
+    },
+    {
+      "ch": "一次",
+      "en": "once",
+      "pi": "yī cì"
+    },
+    {
+      "ch": "体温",
+      "en": "temperature",
+      "pi": "tǐ wēn"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "chinese": "我今天早上只吃了一块吐司和喝了一杯咖啡。",
+  "english": "I only had a piece of toast and a cup of coffee this morning.",
+  "pinyin": "wǒ jīntiān zǎoshang zhǐ chī le yī kuài tǔsī hé hē le yī bēi kāfēi.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "今天", "en": "today", "pi": "jīntiān" },
+    { "ch": "早上", "en": "morning", "pi": "zǎoshang" },
+    { "ch": "只", "en": "only", "pi": "zhǐ" },
+    { "ch": "吃", "en": "eat", "pi": "chī" },
+    { "ch": "了", "en": "past tense particle", "pi": "le" },
+    { "ch": "一块", "en": "a piece of", "pi": "yī kuài" },
+    { "ch": "吐司", "en": "toast", "pi": "tǔsī" },
+    { "ch": "和", "en": "and", "pi": "hé" },
+    { "ch": "喝", "en": "drink", "pi": "hē" },
+    { "ch": "一杯", "en": "a cup of", "pi": "yī bēi" },
+    { "ch": "咖啡", "en": "coffee", "pi": "kāfēi" }
+  ]
+}

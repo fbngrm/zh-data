@@ -1,0 +1,42 @@
+{
+  "chinese": "我们在动物园里看到了猴子。",
+  "english": "We saw monkeys at the zoo.",
+  "pinyin": "wǒmen zài dòngwùyuán lǐ kàndàole hóuzi.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "动物园",
+      "en": "zoo",
+      "pi": "dòngwùyuán"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "看到",
+      "en": "saw",
+      "pi": "kàndào"
+    },
+    {
+      "ch": "了",
+      "en": "了",
+      "pi": "le"
+    },
+    {
+      "ch": "猴子",
+      "en": "monkeys",
+      "pi": "hóuzi"
+    }
+  ]
+}

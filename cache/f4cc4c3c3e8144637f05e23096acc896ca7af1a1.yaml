@@ -1,0 +1,42 @@
+{
+  "chinese": "我想知道汤姆还要别的什么。",
+  "english": "I want to know what else Tom wants.",
+  "pinyin": "wǒ xiǎng zhīdào tāng mǔ hái yào bié de shénme.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "还要",
+      "en": "else wants",
+      "pi": "hái yào"
+    },
+    {
+      "ch": "别的",
+      "en": "what else",
+      "pi": "bié de"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    }
+  ]
+}

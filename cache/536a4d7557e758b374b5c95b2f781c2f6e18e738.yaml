@@ -1,0 +1,14 @@
+{
+  "chinese": "我居然忘记了今天有课！",
+  "english": "I actually forgot that there's a class today!",
+  "pinyin": "wǒ jū rán wàng jì le jīn tiān yǒu kè!",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "居然", "en": "actually", "pi": "jū rán"},
+    {"ch": "忘记", "en": "forgot", "pi": "wàng jì"},
+    {"ch": "了", "en": "that", "pi": "le"},
+    {"ch": "今天", "en": "today", "pi": "jīn tiān"},
+    {"ch": "有", "en": "there's", "pi": "yǒu"},
+    {"ch": "课", "en": "a class", "pi": "kè"}
+  ]
+}

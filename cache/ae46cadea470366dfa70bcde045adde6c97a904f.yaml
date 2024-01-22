@@ -1,0 +1,37 @@
+{
+  "chinese": "火车的班次比巴士频密。",
+  "english": "The train's frequency is higher than the bus.",
+  "pinyin": "Huǒchē de bāncì bǐ bāshì pínmì.",
+  "words": [
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒchē"
+    },
+    {
+      "ch": "的",
+      "en": "the",
+      "pi": "de"
+    },
+    {
+      "ch": "班次",
+      "en": "frequency",
+      "pi": "bāncì"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "巴士",
+      "en": "bus",
+      "pi": "bāshì"
+    },
+    {
+      "ch": "频密",
+      "en": "high",
+      "pi": "pínmì"
+    }
+  ]
+}

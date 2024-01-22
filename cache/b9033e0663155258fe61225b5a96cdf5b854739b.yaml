@@ -1,0 +1,42 @@
+{
+  "chinese": "麻烦你帮我倒杯水。",
+  "english": "Could you please pour me a glass of water?",
+  "pinyin": "Máfan nǐ bāng wǒ dào bēi shuǐ.",
+  "words": [
+    {
+      "ch": "麻烦",
+      "en": "trouble; bother",
+      "pi": "máfan"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "帮",
+      "en": "help",
+      "pi": "bāng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "倒",
+      "en": "pour",
+      "pi": "dào"
+    },
+    {
+      "ch": "杯",
+      "en": "cup",
+      "pi": "bēi"
+    },
+    {
+      "ch": "水",
+      "en": "water",
+      "pi": "shuǐ"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "每条狗在自己家就是狮子。",
+  "english": "Every dog is a lion in its own home.",
+  "pinyin": "měi tiáo gǒu zài zì jǐ jiā jiù shì shī zi。",
+  "words": [
+    {
+      "ch": "每条",
+      "en": "Every",
+      "pi": "měi tiáo"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "自己",
+      "en": "own",
+      "pi": "zì jǐ"
+    },
+    {
+      "ch": "家",
+      "en": "home",
+      "pi": "jiā"
+    },
+    {
+      "ch": "就是",
+      "en": "is",
+      "pi": "jiù shì"
+    },
+    {
+      "ch": "狮子",
+      "en": "lion",
+      "pi": "shī zi"
+    }
+  ]
+}

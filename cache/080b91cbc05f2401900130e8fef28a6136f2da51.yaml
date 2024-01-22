@@ -1,0 +1,42 @@
+{
+  "chinese": "今天下雨，所以他不能来了。",
+  "english": "It's raining today, so he can't come.",
+  "pinyin": "Jīn tiān xià yǔ, suǒ yǐ tā bù néng lái le.",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "下雨",
+      "en": "raining",
+      "pi": "xià yǔ"
+    },
+    {
+      "ch": "所以",
+      "en": "so",
+      "pi": "suǒ yǐ"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "不能",
+      "en": "cannot",
+      "pi": "bù néng"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "le"
+    }
+  ]
+}

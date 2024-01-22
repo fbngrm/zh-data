@@ -1,0 +1,16 @@
+{
+  "chinese": "如果你认真学习，就有希望通过考试。",
+  "english": "If you study hard, there is hope to pass the exam.",
+  "pinyin": "Rúguǒ nǐ rènzhēn xuéxí, jiù yǒu xīwàng tōngguò kǎoshì.",
+  "words": [
+    {"ch": "如果", "en": "if", "pi": "rúguǒ"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "认真", "en": "serious", "pi": "rènzhēn"},
+    {"ch": "学习", "en": "study", "pi": "xuéxí"},
+    {"ch": "就", "en": "then", "pi": "jiù"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "希望", "en": "hope", "pi": "xīwàng"},
+    {"ch": "通过", "en": "pass", "pi": "tōngguò"},
+    {"ch": "考试", "en": "exam", "pi": "kǎoshì"}
+  ]
+}

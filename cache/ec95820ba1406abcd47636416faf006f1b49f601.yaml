@@ -1,0 +1,32 @@
+{
+  "chinese": "黎明时我们必须起床。",
+  "english": "We must get up at dawn.",
+  "pinyin": "lí míng shí wǒ men bì xū qǐ chuáng。",
+  "words": [
+    {
+      "ch": "黎明",
+      "en": "dawn",
+      "pi": "lí míng"
+    },
+    {
+      "ch": "时",
+      "en": "at",
+      "pi": "shí"
+    },
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "必须",
+      "en": "must",
+      "pi": "bì xū"
+    },
+    {
+      "ch": "起床",
+      "en": "get up",
+      "pi": "qǐ chuáng"
+    }
+  ]
+}

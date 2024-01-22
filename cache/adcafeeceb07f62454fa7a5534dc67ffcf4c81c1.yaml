@@ -1,0 +1,37 @@
+{
+  "chinese": "代我向你父母问好。",
+  "english": "Say hello to your parents for me.",
+  "pinyin": "dài wǒ xiàng nǐ fù mǔ wèn hǎo。",
+  "words": [
+    {
+      "ch": "代",
+      "en": "to represent",
+      "pi": "dài"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "向",
+      "en": "to",
+      "pi": "xiàng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "父母",
+      "en": "parents",
+      "pi": "fù mǔ"
+    },
+    {
+      "ch": "问好",
+      "en": "say hello",
+      "pi": "wèn hǎo"
+    }
+  ]
+}

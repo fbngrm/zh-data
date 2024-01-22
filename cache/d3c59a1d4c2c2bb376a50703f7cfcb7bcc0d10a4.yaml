@@ -1,0 +1,42 @@
+{
+  "chinese": "今天是我十六岁的生日。",
+  "english": "Today is my sixteenth birthday.",
+  "pinyin": "Jīntiān shì wǒ shíliù suì de shēngrì.",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "Today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我",
+      "en": "my",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "十六",
+      "en": "sixteen",
+      "pi": "shíliù"
+    },
+    {
+      "ch": "岁",
+      "en": "years old",
+      "pi": "suì"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "生日",
+      "en": "birthday",
+      "pi": "shēngrì"
+    }
+  ]
+}

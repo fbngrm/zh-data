@@ -1,0 +1,32 @@
+{
+  "chinese": "你最喜欢哪一个哲学家？",
+  "english": "Which philosopher do you like the most?",
+  "pinyin": "nǐ zuì xǐhuan nǎ yīgè zhéxué jiā？",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "最",
+      "en": "most",
+      "pi": "zuì"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuan"
+    },
+    {
+      "ch": "哪一个",
+      "en": "which",
+      "pi": "nǎ yīgè"
+    },
+    {
+      "ch": "哲学家",
+      "en": "philosopher",
+      "pi": "zhéxué jiā"
+    }
+  ]
+}

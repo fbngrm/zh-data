@@ -1,0 +1,32 @@
+{
+  "chinese": "我蛮喜欢韩国料理。",
+  "english": "I quite like Korean food.",
+  "pinyin": "wǒ mán xǐhuān hánguó liàolǐ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "蛮",
+      "en": "quite",
+      "pi": "mán"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "韩国",
+      "en": "Korean",
+      "pi": "hánguó"
+    },
+    {
+      "ch": "料理",
+      "en": "food",
+      "pi": "liàolǐ"
+    }
+  ]
+}

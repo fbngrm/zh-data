@@ -1,0 +1,14 @@
+{
+  "chinese": "她从头到脚都湿透了。",
+  "english": "She was soaked from head to toe.",
+  "pinyin": "tā cóng tóu dào jiǎo dōu shī tòu le。",
+  "words": [
+    {"ch": "她", "en": "She", "pi": "tā"},
+    {"ch": "从", "en": "from", "pi": "cóng"},
+    {"ch": "头", "en": "head", "pi": "tóu"},
+    {"ch": "到", "en": "to", "pi": "dào"},
+    {"ch": "脚", "en": "toe", "pi": "jiǎo"},
+    {"ch": "都", "en": "all", "pi": "dōu"},
+    {"ch": "湿透了", "en": "was soaked", "pi": "shī tòu le"}
+  ]
+}

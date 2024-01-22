@@ -1,0 +1,32 @@
+{
+  "chinese": "这张桌子是木的。",
+  "english": "This table is made of wood.",
+  "pinyin": "zhè zhāng zhuōzi shì mù de。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "张",
+      "en": "table",
+      "pi": "zhāng"
+    },
+    {
+      "ch": "桌子",
+      "en": "is",
+      "pi": "zhuōzi"
+    },
+    {
+      "ch": "是",
+      "en": "made",
+      "pi": "shì"
+    },
+    {
+      "ch": "木的",
+      "en": "of wood",
+      "pi": "mù de"
+    }
+  ]
+}

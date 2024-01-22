@@ -1,0 +1,32 @@
+{
+  "chinese": "我认为汤姆很酷。",
+  "english": "I think Tom is cool.",
+  "pinyin": "wǒ rèn wéi tāng mǔ hěn kù。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "认为",
+      "en": "think",
+      "pi": "rèn wéi"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "很",
+      "en": "is",
+      "pi": "hěn"
+    },
+    {
+      "ch": "酷",
+      "en": "cool",
+      "pi": "kù"
+    }
+  ]
+}

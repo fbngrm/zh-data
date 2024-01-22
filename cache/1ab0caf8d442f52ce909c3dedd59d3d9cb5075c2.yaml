@@ -1,0 +1,13 @@
+{
+  "chinese": "你吃面条还是吃饭？",
+  "english": "Do you eat noodles or rice?",
+  "pinyin": "nǐ chī miàn tiáo háishì chī fàn?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "吃", "en": "eat", "pi": "chī"},
+    {"ch": "面条", "en": "noodles", "pi": "miàn tiáo"},
+    {"ch": "还是", "en": "or", "pi": "háishì"},
+    {"ch": "吃", "en": "eat", "pi": "chī"},
+    {"ch": "饭", "en": "rice", "pi": "fàn"}
+  ]
+}

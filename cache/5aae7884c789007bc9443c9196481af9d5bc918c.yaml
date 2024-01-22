@@ -1,0 +1,16 @@
+{
+  "chinese": "你正在把我杯子里的东西喝掉。",
+  "english": "You are drinking what's in my cup.",
+  "pinyin": "nǐ zhèngzài bǎ wǒ bēizi lǐ de dōngxi hēdiào.",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "正在", "en": "are", "pi": "zhèngzài"},
+    {"ch": "把", "en": "what's in", "pi": "bǎ"},
+    {"ch": "我", "en": "my", "pi": "wǒ"},
+    {"ch": "杯子", "en": "cup", "pi": "bēizi"},
+    {"ch": "里", "en": "inside", "pi": "lǐ"},
+    {"ch": "的", "en": "'s", "pi": "de"},
+    {"ch": "东西", "en": "what", "pi": "dōngxi"},
+    {"ch": "喝掉", "en": "drinking", "pi": "hēdiào"}
+  ]
+}

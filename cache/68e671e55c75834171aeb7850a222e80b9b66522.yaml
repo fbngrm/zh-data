@@ -1,0 +1,42 @@
+{
+  "chinese": "我想知道这句话的意思。",
+  "english": "I want to know the meaning of this sentence.",
+  "pinyin": "wǒ xiǎng zhīdào zhè jù huà de yìsi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "知道",
+      "en": "to know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "句话",
+      "en": "sentence",
+      "pi": "jù huà"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "意思",
+      "en": "meaning",
+      "pi": "yìsi"
+    }
+  ]
+}

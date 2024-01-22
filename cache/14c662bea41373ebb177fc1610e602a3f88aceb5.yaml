@@ -1,0 +1,47 @@
+{
+  "chinese": "请在名单上加上我的名字。",
+  "english": "Please add my name to the list.",
+  "pinyin": "qǐng zài míngdān shàng jiā shàng wǒ de míngzi。",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "在",
+      "en": "on",
+      "pi": "zài"
+    },
+    {
+      "ch": "名单",
+      "en": "list",
+      "pi": "míngdān"
+    },
+    {
+      "ch": "上",
+      "en": "add to",
+      "pi": "shàng"
+    },
+    {
+      "ch": "加",
+      "en": "my",
+      "pi": "jiā"
+    },
+    {
+      "ch": "上",
+      "en": "name",
+      "pi": "shàng"
+    },
+    {
+      "ch": "我的",
+      "en": "to",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "名字",
+      "en": "the list",
+      "pi": "míngzi"
+    }
+  ]
+}

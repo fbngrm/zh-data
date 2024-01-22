@@ -1,0 +1,27 @@
+{
+  "chinese": "那家店賣筆記本嗎？",
+  "english": "Does that store sell notebooks?",
+  "pinyin": "Nàjiā diàn mài bǐjìběn ma?",
+  "words": [
+    {
+      "ch": "那家店",
+      "en": "that store",
+      "pi": "nà jiā diàn"
+    },
+    {
+      "ch": "賣",
+      "en": "sell",
+      "pi": "mài"
+    },
+    {
+      "ch": "筆記本",
+      "en": "notebooks",
+      "pi": "bǐjìběn"
+    },
+    {
+      "ch": "嗎",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

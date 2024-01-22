@@ -1,0 +1,32 @@
+{
+  "chinese": "他现在在图书馆读书。",
+  "english": "He is studying in the library now.",
+  "pinyin": "tā xiàn zài zài tú shū guǎn dú shū。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "图书馆",
+      "en": "library",
+      "pi": "tú shū guǎn"
+    },
+    {
+      "ch": "读书",
+      "en": "study",
+      "pi": "dú shū"
+    }
+  ]
+}

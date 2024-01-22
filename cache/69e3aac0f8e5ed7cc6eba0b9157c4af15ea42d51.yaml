@@ -1,0 +1,37 @@
+{
+  "chinese": "你们班有韩国学生吗?",
+  "english": "Do you have Korean students in your class?",
+  "pinyin": "nǐ men bān yǒu hánguó xuéshēng ma?",
+  "words": [
+    {
+      "ch": "你们",
+      "en": "you",
+      "pi": "nǐ men"
+    },
+    {
+      "ch": "班",
+      "en": "class",
+      "pi": "bān"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "韩国",
+      "en": "Korean",
+      "pi": "hánguó"
+    },
+    {
+      "ch": "学生",
+      "en": "students",
+      "pi": "xuéshēng"
+    },
+    {
+      "ch": "吗",
+      "en": "in",
+      "pi": "ma"
+    }
+  ]
+}

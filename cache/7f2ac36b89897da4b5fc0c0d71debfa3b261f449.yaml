@@ -1,0 +1,37 @@
+{
+  "chinese": "我每两天洗一次澡。",
+  "english": "I take a shower every other day.",
+  "pinyin": "wǒ měi liǎng tiān xǐ yī cì zǎo。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "每",
+      "en": "every",
+      "pi": "měi"
+    },
+    {
+      "ch": "两天",
+      "en": "every other day",
+      "pi": "liǎng tiān"
+    },
+    {
+      "ch": "洗",
+      "en": "take a shower",
+      "pi": "xǐ"
+    },
+    {
+      "ch": "一次",
+      "en": "once",
+      "pi": "yī cì"
+    },
+    {
+      "ch": "澡",
+      "en": "shower",
+      "pi": "zǎo"
+    }
+  ]
+}

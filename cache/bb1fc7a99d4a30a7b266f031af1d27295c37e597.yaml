@@ -1,0 +1,42 @@
+{
+  "chinese": "我走路１０分钟能到学校。",
+  "english": "I can walk to school in 10 minutes.",
+  "pinyin": "wǒ zǒulù shí fēnzhōng néng dào xuéxiào.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "走路",
+      "en": "walk",
+      "pi": "zǒulù"
+    },
+    {
+      "ch": "１０",
+      "en": "10",
+      "pi": "shí"
+    },
+    {
+      "ch": "分钟",
+      "en": "minutes",
+      "pi": "fēnzhōng"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "到",
+      "en": "to",
+      "pi": "dào"
+    },
+    {
+      "ch": "学校",
+      "en": "school",
+      "pi": "xuéxiào"
+    }
+  ]
+}

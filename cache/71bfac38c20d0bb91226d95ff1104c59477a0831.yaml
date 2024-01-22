@@ -1,0 +1,47 @@
+{
+  "chinese": "他让我等了整整一上午。",
+  "english": "He made me wait a whole morning.",
+  "pinyin": "tā ràng wǒ děng le zhěng zhěng yī shàng wǔ.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "让",
+      "en": "make",
+      "pi": "ràng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "等",
+      "en": "wait",
+      "pi": "děng"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "整整",
+      "en": "whole",
+      "pi": "zhěng zhěng"
+    },
+    {
+      "ch": "一",
+      "en": "one",
+      "pi": "yī"
+    },
+    {
+      "ch": "上午",
+      "en": "morning",
+      "pi": "shàng wǔ"
+    }
+  ]
+}

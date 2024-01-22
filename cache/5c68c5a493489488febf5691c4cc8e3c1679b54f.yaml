@@ -1,0 +1,37 @@
+{
+  "chinese": "我邻居的狗死了。",
+  "english": "My neighbor's dog died.",
+  "pinyin": "Wǒ línjū de gǒu sǐ le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "邻居",
+      "en": "neighbor",
+      "pi": "línjū"
+    },
+    {
+      "ch": "的",
+      "en": "de",
+      "pi": "de"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "死",
+      "en": "died",
+      "pi": "sǐ"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

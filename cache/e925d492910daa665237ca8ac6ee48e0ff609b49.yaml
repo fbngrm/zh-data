@@ -1,0 +1,32 @@
+{
+  "chinese": "我想睡点觉。",
+  "english": "I want to take a nap.",
+  "pinyin": "wǒ xiǎng shuì diǎn jiào。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "睡",
+      "en": "to sleep",
+      "pi": "shuì"
+    },
+    {
+      "ch": "点",
+      "en": "a bit",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "觉",
+      "en": "nap",
+      "pi": "jiào"
+    }
+  ]
+}

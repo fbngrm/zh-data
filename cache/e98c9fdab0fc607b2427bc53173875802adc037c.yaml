@@ -1,0 +1,12 @@
+{
+  "chinese": "我不懂这个字。",
+  "english": "I don't understand this character.",
+  "pinyin": "wǒ bù dǒng zhè ge zì。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "不", "en": "don't", "pi": "bù"},
+    {"ch": "懂", "en": "understand", "pi": "dǒng"},
+    {"ch": "这个", "en": "this", "pi": "zhè ge"},
+    {"ch": "字", "en": "character", "pi": "zì"}
+  ]
+}

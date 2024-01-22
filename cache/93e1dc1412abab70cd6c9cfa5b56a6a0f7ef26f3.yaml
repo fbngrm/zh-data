@@ -1,0 +1,32 @@
+{
+  "chinese": "她每天都打网球。",
+  "english": "She plays tennis every day.",
+  "pinyin": "tā měi tiān dōu dǎ wǎng qiú。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "都",
+      "en": "always",
+      "pi": "dōu"
+    },
+    {
+      "ch": "打",
+      "en": "play",
+      "pi": "dǎ"
+    },
+    {
+      "ch": "网球",
+      "en": "tennis",
+      "pi": "wǎng qiú"
+    }
+  ]
+}

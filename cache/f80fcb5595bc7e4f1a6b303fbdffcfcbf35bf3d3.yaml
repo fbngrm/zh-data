@@ -1,0 +1,14 @@
+{
+  "chinese": "她喜欢吃草莓味的酸奶。",
+  "english": "She likes to eat strawberry flavored yogurt.",
+  "pinyin": "tā xǐhuān chī cǎoméi wèi de suānnǎi。",
+  "words": [
+    {"ch": "她", "en": "She", "pi": "tā"},
+    {"ch": "喜欢", "en": "likes", "pi": "xǐhuān"},
+    {"ch": "吃", "en": "to eat", "pi": "chī"},
+    {"ch": "草莓", "en": "strawberry", "pi": "cǎoméi"},
+    {"ch": "味", "en": "flavor", "pi": "wèi"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "酸奶", "en": "yogurt", "pi": "suānnǎi"}
+  ]
+}

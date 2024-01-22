@@ -1,0 +1,32 @@
+{
+  "chinese": "我们吃面包夹黄油。",
+  "english": "We eat bread with butter.",
+  "pinyin": "wǒmen chī miànbāo jiā huángyóu.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "面包",
+      "en": "bread",
+      "pi": "miànbāo"
+    },
+    {
+      "ch": "夹",
+      "en": "with",
+      "pi": "jiā"
+    },
+    {
+      "ch": "黄油",
+      "en": "butter",
+      "pi": "huángyóu"
+    }
+  ]
+}

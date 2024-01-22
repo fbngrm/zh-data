@@ -1,0 +1,32 @@
+{
+  "chinese": "我去了河里游泳。",
+  "english": "I went swimming in the river.",
+  "pinyin": "wǒ qù le hé lǐ yóu yǒng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "了",
+      "en": "past tense marker",
+      "pi": "le"
+    },
+    {
+      "ch": "河里",
+      "en": "in the river",
+      "pi": "hé lǐ"
+    },
+    {
+      "ch": "游泳",
+      "en": "swimming",
+      "pi": "yóu yǒng"
+    }
+  ]
+}

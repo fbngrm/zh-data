@@ -1,0 +1,32 @@
+{
+  "chinese": "你参加社团活动吗？",
+  "english": "Are you participating in club activities?",
+  "pinyin": "nǐ cān jiā shè tuán huó dòng ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "参加",
+      "en": "participate",
+      "pi": "cān jiā"
+    },
+    {
+      "ch": "社团",
+      "en": "club",
+      "pi": "shè tuán"
+    },
+    {
+      "ch": "活动",
+      "en": "activity",
+      "pi": "huó dòng"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

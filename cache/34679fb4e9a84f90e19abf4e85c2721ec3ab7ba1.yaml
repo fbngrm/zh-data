@@ -1,0 +1,22 @@
+{
+  "chinese": "汤姆出国了。",
+  "english": "Tom went abroad.",
+  "pinyin": "Tāng mǔ chūguó le.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "出国",
+      "en": "go abroad",
+      "pi": "chūguó"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

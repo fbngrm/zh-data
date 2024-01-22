@@ -1,0 +1,32 @@
+{
+  "chinese": "我要打几个电话。",
+  "english": "I want to make a few calls.",
+  "pinyin": "wǒ yào dǎ jǐ gè diàn huà.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "打",
+      "en": "to make",
+      "pi": "dǎ"
+    },
+    {
+      "ch": "几个",
+      "en": "a few",
+      "pi": "jǐ gè"
+    },
+    {
+      "ch": "电话",
+      "en": "calls",
+      "pi": "diàn huà"
+    }
+  ]
+}

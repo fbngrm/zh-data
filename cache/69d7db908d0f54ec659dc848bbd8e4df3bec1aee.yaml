@@ -1,0 +1,32 @@
+{
+  "chinese": "我明天要去北海道。",
+  "english": "I'm going to Hokkaido tomorrow.",
+  "pinyin": "wǒ míngtiān yào qù běi hǎi dào.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "要",
+      "en": "going to",
+      "pi": "yào"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "北海道",
+      "en": "Hokkaido",
+      "pi": "běi hǎi dào"
+    }
+  ]
+}

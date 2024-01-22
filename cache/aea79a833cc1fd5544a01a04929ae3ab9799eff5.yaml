@@ -1,0 +1,27 @@
+{
+  "chinese": "请问他家在哪里。",
+  "english": "May I ask where his home is?",
+  "pinyin": "qǐng wèn tā jiā zài nǎ lǐ。",
+  "words": [
+    {
+      "ch": "请问",
+      "en": "May I ask",
+      "pi": "qǐng wèn"
+    },
+    {
+      "ch": "他家",
+      "en": "his home",
+      "pi": "tā jiā"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪里",
+      "en": "where",
+      "pi": "nǎ lǐ"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我坐在沙发上。",
+  "english": "I am sitting on the sofa.",
+  "pinyin": "wǒ zuò zài shāfā shàng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "坐",
+      "en": "sit",
+      "pi": "zuò"
+    },
+    {
+      "ch": "在",
+      "en": "on",
+      "pi": "zài"
+    },
+    {
+      "ch": "沙发",
+      "en": "sofa",
+      "pi": "shāfā"
+    },
+    {
+      "ch": "上",
+      "en": "above",
+      "pi": "shàng"
+    }
+  ]
+}

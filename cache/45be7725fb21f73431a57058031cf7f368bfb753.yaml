@@ -1,0 +1,15 @@
+{
+  "chinese": "请你把这份报告拿去影印。",
+  "english": "Please take this report to the photocopying.",
+  "pinyin": "qǐng nǐ bǎ zhè fèn bàogào ná qù yǐngyìn.",
+  "words": [
+    {"ch": "请", "en": "Please", "pi": "qǐng"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "把", "en": "take", "pi": "bǎ"},
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "份", "en": "report", "pi": "fèn"},
+    {"ch": "报告", "en": "to", "pi": "bàogào"},
+    {"ch": "拿去", "en": "the", "pi": "ná qù"},
+    {"ch": "影印", "en": "photocopying", "pi": "yǐngyìn"}
+  ]
+}

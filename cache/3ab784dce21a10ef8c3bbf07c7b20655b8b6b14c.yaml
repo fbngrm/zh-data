@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆知道我们在做什么。",
+  "english": "Tom knows what we are doing.",
+  "pinyin": "Tāng mǔ zhīdào wǒmen zài zuò shénme.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "知道",
+      "en": "knows",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "在",
+      "en": "are",
+      "pi": "zài"
+    },
+    {
+      "ch": "做",
+      "en": "doing",
+      "pi": "zuò"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    }
+  ]
+}

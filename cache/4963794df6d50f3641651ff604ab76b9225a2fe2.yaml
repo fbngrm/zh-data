@@ -1,0 +1,37 @@
+{
+  "chinese": "这个词现在不用了。",
+  "english": "This word is not used anymore.",
+  "pinyin": "zhè gè cí xiàn zài bú yòng le。",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "词",
+      "en": "word",
+      "pi": "cí"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bú"
+    },
+    {
+      "ch": "用",
+      "en": "use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "了",
+      "en": "anymore",
+      "pi": "le"
+    }
+  ]
+}

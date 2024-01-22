@@ -1,0 +1,42 @@
+{
+  "chinese": "你是来见汤姆的吗？",
+  "english": "Are you here to see Tom?",
+  "pinyin": "nǐ shì lái jiàn tāng mǔ de ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "来",
+      "en": "here",
+      "pi": "lái"
+    },
+    {
+      "ch": "见",
+      "en": "to see",
+      "pi": "jiàn"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "的",
+      "en": "to",
+      "pi": "de"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆穿着袜子睡觉。",
+  "english": "Tom sleeps wearing socks.",
+  "pinyin": "Tāng mǔ chuān zhe wà zi shuì jiào.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "穿着",
+      "en": "wearing",
+      "pi": "chuān zhe"
+    },
+    {
+      "ch": "袜子",
+      "en": "socks",
+      "pi": "wà zi"
+    },
+    {
+      "ch": "睡觉",
+      "en": "sleeps",
+      "pi": "shuì jiào"
+    }
+  ]
+}

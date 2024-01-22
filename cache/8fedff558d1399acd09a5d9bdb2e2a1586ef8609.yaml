@@ -1,0 +1,42 @@
+{
+  "chinese": "我到医院去检查了眼睛。",
+  "english": "I went to the hospital to get my eyes examined.",
+  "pinyin": "wǒ dào yīyuàn qù jiǎnchá le yǎnjīng。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "到",
+      "en": "to",
+      "pi": "dào"
+    },
+    {
+      "ch": "医院",
+      "en": "hospital",
+      "pi": "yīyuàn"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "检查",
+      "en": "examine",
+      "pi": "jiǎnchá"
+    },
+    {
+      "ch": "了",
+      "en": "completed",
+      "pi": "le"
+    },
+    {
+      "ch": "眼睛",
+      "en": "eyes",
+      "pi": "yǎnjīng"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "这是糟糕的一天。",
+  "english": "This is a bad day.",
+  "pinyin": "zhè shì zāo gāo de yī tiān.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "糟糕",
+      "en": "bad",
+      "pi": "zāo gāo"
+    },
+    {
+      "ch": "的",
+      "en": "a",
+      "pi": "de"
+    },
+    {
+      "ch": "一天",
+      "en": "day",
+      "pi": "yī tiān"
+    }
+  ]
+}

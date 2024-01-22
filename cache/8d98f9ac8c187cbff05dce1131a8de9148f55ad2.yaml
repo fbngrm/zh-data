@@ -1,0 +1,14 @@
+{
+  "chinese": "你能去学校接小孩吗？",
+  "english": "Can you go to school to pick up the child?",
+  "pinyin": "nǐ néng qù xuéxiào jiē xiǎo hái ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "能", "en": "able", "pi": "néng"},
+    {"ch": "去", "en": "to go", "pi": "qù"},
+    {"ch": "学校", "en": "school", "pi": "xuéxiào"},
+    {"ch": "接", "en": "to pick up", "pi": "jiē"},
+    {"ch": "小孩", "en": "child", "pi": "xiǎo hái"},
+    {"ch": "吗", "en": "question particle", "pi": "ma?"}
+  ]
+}

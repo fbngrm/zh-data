@@ -1,0 +1,42 @@
+{
+  "chinese": "你知道她喜欢什么颜色吗？",
+  "english": "Do you know what color she likes?",
+  "pinyin": "nǐ zhī dào tā xǐ huān shén me yán sè ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "喜欢",
+      "en": "likes",
+      "pi": "xǐ huān"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shén me"
+    },
+    {
+      "ch": "颜色",
+      "en": "color",
+      "pi": "yán sè"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

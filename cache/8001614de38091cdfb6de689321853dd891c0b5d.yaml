@@ -1,0 +1,32 @@
+{
+  "chinese": "我买了盒录像带。",
+  "english": "I bought a box of videotapes.",
+  "pinyin": "wǒ mǎi le hé lù xiàng dài。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "买",
+      "en": "buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "了",
+      "en": "completed action marker",
+      "pi": "le"
+    },
+    {
+      "ch": "盒",
+      "en": "box",
+      "pi": "hé"
+    },
+    {
+      "ch": "录像带",
+      "en": "videotapes",
+      "pi": "lù xiàng dài"
+    }
+  ]
+}

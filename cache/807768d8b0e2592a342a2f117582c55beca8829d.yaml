@@ -1,0 +1,14 @@
+{
+  "chinese": "我为一家石油公司工作。",
+  "english": "I work for an oil company.",
+  "pinyin": "wǒ wèi yī jiā shí yóu gōng sī gōng zuò。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "为", "en": "for", "pi": "wèi"},
+    {"ch": "一", "en": "an", "pi": "yī"},
+    {"ch": "家", "en": "company", "pi": "jiā"},
+    {"ch": "石油", "en": "oil", "pi": "shí yóu"},
+    {"ch": "公司", "en": "company", "pi": "gōng sī"},
+    {"ch": "工作", "en": "work", "pi": "gōng zuò"}
+  ]
+}

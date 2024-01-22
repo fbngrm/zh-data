@@ -1,0 +1,32 @@
+{
+  "chinese": "我在烫我的手绢。",
+  "english": "I am ironing my handkerchief.",
+  "pinyin": "wǒ zài tàng wǒ de shǒujuàn。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "am",
+      "pi": "zài"
+    },
+    {
+      "ch": "烫",
+      "en": "ironing",
+      "pi": "tàng"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "手绢",
+      "en": "handkerchief",
+      "pi": "shǒujuàn"
+    }
+  ]
+}

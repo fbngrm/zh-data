@@ -1,0 +1,27 @@
+{
+  "chinese": "苹果被当作甜点。",
+  "english": "Apples are considered as desserts.",
+  "pinyin": "píng guǒ bèi dāng zuò tián diǎn。",
+  "words": [
+    {
+      "ch": "苹果",
+      "en": "apples",
+      "pi": "píng guǒ"
+    },
+    {
+      "ch": "被",
+      "en": "are",
+      "pi": "bèi"
+    },
+    {
+      "ch": "当作",
+      "en": "considered as",
+      "pi": "dāng zuò"
+    },
+    {
+      "ch": "甜点",
+      "en": "desserts",
+      "pi": "tián diǎn"
+    }
+  ]
+}

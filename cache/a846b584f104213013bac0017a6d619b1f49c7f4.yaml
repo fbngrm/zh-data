@@ -1,0 +1,32 @@
+{
+  "chinese": "我会叫汤姆回来。",
+  "english": "I will call Tom back.",
+  "pinyin": "wǒ huì jiào tāng mǔ huí lái。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "叫",
+      "en": "call",
+      "pi": "jiào"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "回来",
+      "en": "back",
+      "pi": "huí lái"
+    }
+  ]
+}

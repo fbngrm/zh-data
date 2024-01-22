@@ -1,0 +1,32 @@
+{
+  "chinese": "太阳一出来，雪就会融化。",
+  "english": "When the sun comes out, the snow will melt.",
+  "pinyin": "tài yáng yī chū lái, xuě jiù huì róng huà.",
+  "words": [
+    {
+      "ch": "太阳",
+      "en": "sun",
+      "pi": "tài yáng"
+    },
+    {
+      "ch": "一出来",
+      "en": "comes out",
+      "pi": "yī chū lái"
+    },
+    {
+      "ch": "雪",
+      "en": "snow",
+      "pi": "xuě"
+    },
+    {
+      "ch": "就会",
+      "en": "will",
+      "pi": "jiù huì"
+    },
+    {
+      "ch": "融化",
+      "en": "melt",
+      "pi": "róng huà"
+    }
+  ]
+}

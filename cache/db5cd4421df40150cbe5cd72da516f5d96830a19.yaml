@@ -1,0 +1,42 @@
+{
+  "chinese": "這瓶內有一點威士忌。",
+  "english": "This bottle contains a little bit of whiskey.",
+  "pinyin": "zhè píng nèi yǒu yī diǎn wēi shì jì。",
+  "words": [
+    {
+      "ch": "這",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "瓶",
+      "en": "bottle",
+      "pi": "píng"
+    },
+    {
+      "ch": "內",
+      "en": "contains",
+      "pi": "nèi"
+    },
+    {
+      "ch": "有",
+      "en": "a",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一",
+      "en": "little",
+      "pi": "yī"
+    },
+    {
+      "ch": "點",
+      "en": "bit",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "威士忌",
+      "en": "whiskey",
+      "pi": "wēi shì jì"
+    }
+  ]
+}

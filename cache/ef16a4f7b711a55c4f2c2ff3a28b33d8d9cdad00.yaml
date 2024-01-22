@@ -1,0 +1,15 @@
+{
+  "chinese": "那不可能是玛丽，她现在在医院。",
+  "english": "That can't be Mary, she is in the hospital now.",
+  "pinyin": "Nà bù kěnéng shì mǎlì, tā xiànzài zài yīyuàn.",
+  "words": [
+    {"ch": "那", "en": "that", "pi": "nà"},
+    {"ch": "不可能", "en": "can't", "pi": "bù kěnéng"},
+    {"ch": "是", "en": "be", "pi": "shì"},
+    {"ch": "玛丽", "en": "Mary", "pi": "mǎlì"},
+    {"ch": "她", "en": "she", "pi": "tā"},
+    {"ch": "现在", "en": "now", "pi": "xiànzài"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "医院", "en": "hospital", "pi": "yīyuàn"}
+  ]
+}

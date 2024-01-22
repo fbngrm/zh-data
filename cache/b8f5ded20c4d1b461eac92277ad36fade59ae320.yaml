@@ -1,0 +1,42 @@
+{
+  "chinese": "我认为你该吃火腿三明治。",
+  "english": "I think you should eat a ham sandwich.",
+  "pinyin": "wǒ rèn wéi nǐ gāi chī huǒ tuǐ sān míng zhì。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "认为",
+      "en": "think",
+      "pi": "rèn wéi"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "该",
+      "en": "should",
+      "pi": "gāi"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "火腿",
+      "en": "ham",
+      "pi": "huǒ tuǐ"
+    },
+    {
+      "ch": "三明治",
+      "en": "sandwich",
+      "pi": "sān míng zhì"
+    }
+  ]
+}

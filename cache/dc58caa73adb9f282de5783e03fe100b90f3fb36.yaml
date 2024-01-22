@@ -1,0 +1,40 @@
+{
+  "sentences": [
+    {
+      "chinese": "茄子",
+      "english": "Eggplant",
+      "pinyin": "qié zi",
+      "words": [
+        {
+          "ch": "茄子",
+          "en": "Eggplant",
+          "pi": "qié zi"
+        }
+      ]
+    },
+    {
+      "chinese": "胡萝卜",
+      "english": "Carrot",
+      "pinyin": "hú luó bo",
+      "words": [
+        {
+          "ch": "胡萝卜",
+          "en": "Carrot",
+          "pi": "hú luó bo"
+        }
+      ]
+    },
+    {
+      "chinese": "西红柿",
+      "english": "Tomato",
+      "pinyin": "xī hóng shì",
+      "words": [
+        {
+          "ch": "西红柿",
+          "en": "Tomato",
+          "pi": "xī hóng shì"
+        }
+      ]
+    }
+  ]
+}

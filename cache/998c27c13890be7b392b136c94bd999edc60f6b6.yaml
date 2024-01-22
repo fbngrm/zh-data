@@ -1,0 +1,32 @@
+{
+  "chinese": "他和我是老师",
+  "english": "He and I are teachers.",
+  "pinyin": "tā hé wǒ shì lǎoshī",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "老师",
+      "en": "teachers",
+      "pi": "lǎoshī"
+    }
+  ]
+}

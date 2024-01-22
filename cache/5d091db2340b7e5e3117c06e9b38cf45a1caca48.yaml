@@ -1,0 +1,63 @@
+{
+  "sentences": [
+    {
+      "chinese": "你累嗎？",
+      "english": "Are you tired?",
+      "pinyin": "nǐ lèi ma?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "累",
+          "en": "tired",
+          "pi": "lèi"
+        },
+        {
+          "ch": "嗎",
+          "en": "",
+          "pi": "ma"
+        }
+      ]
+    },
+    {
+      "chinese": "不，一點兒也不。",
+      "english": "No, not at all.",
+      "pinyin": "bù, yī diǎn ér yě bù.",
+      "words": [
+        {
+          "ch": "不",
+          "en": "no",
+          "pi": "bù"
+        },
+        {
+          "ch": "，",
+          "en": "",
+          "pi": ""
+        },
+        {
+          "ch": "一點兒",
+          "en": "a bit",
+          "pi": "yī diǎn ér"
+        },
+        {
+          "ch": "也",
+          "en": "also",
+          "pi": "yě"
+        },
+        {
+          "ch": "不",
+          "en": "not",
+          "pi": "bù"
+        },
+        {
+          "ch": "。",
+          "en": "",
+          "pi": ""
+        }
+      ]
+    }
+  ]
+}

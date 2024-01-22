@@ -1,0 +1,18 @@
+{
+  "chinese": "当他跌倒时，他伤了他的左脚。",
+  "english": "When he fell, he injured his left foot.",
+  "pinyin": "Dāng tā diē dǎo shí, tā shāng le tā de zuǒ jiǎo.",
+  "words": [
+    {"ch": "当", "en": "when", "pi": "dāng"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "跌倒", "en": "fell", "pi": "diē dǎo"},
+    {"ch": "时", "en": "time", "pi": "shí"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "伤", "en": "injured", "pi": "shāng"},
+    {"ch": "了", "en": "his", "pi": "le"},
+    {"ch": "他的", "en": "his", "pi": "tā de"},
+    {"ch": "左脚", "en": "left foot", "pi": "zuǒ jiǎo"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

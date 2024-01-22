@@ -1,0 +1,32 @@
+{
+  "chinese": "我早上不喂狗。",
+  "english": "I don't feed the dog in the morning.",
+  "pinyin": "wǒ zǎoshang bù wèi gǒu.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎoshang"
+    },
+    {
+      "ch": "不",
+      "en": "do not",
+      "pi": "bù"
+    },
+    {
+      "ch": "喂",
+      "en": "feed",
+      "pi": "wèi"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "你喜欢戏剧,电影等等吗?",
+  "english": "Do you like drama, movies, etc.?",
+  "pinyin": "nǐ xǐ huān xì jù, diàn yǐng děng děng ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐ huān"
+    },
+    {
+      "ch": "戏剧",
+      "en": "drama",
+      "pi": "xì jù"
+    },
+    {
+      "ch": "电影",
+      "en": "movies",
+      "pi": "diàn yǐng"
+    },
+    {
+      "ch": "等等",
+      "en": "etc.",
+      "pi": "děng děng"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

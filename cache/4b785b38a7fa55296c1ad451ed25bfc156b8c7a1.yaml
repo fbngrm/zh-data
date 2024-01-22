@@ -1,0 +1,57 @@
+{
+  "chinese": "你能帮我把这译成法语吗？",
+  "english": "Can you help me translate this into French?",
+  "pinyin": "nǐ néng bāng wǒ bǎ zhè yì chéng fǎ yǔ ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "帮",
+      "en": "help",
+      "pi": "bāng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "把",
+      "en": "translate",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "译",
+      "en": "into",
+      "pi": "yì"
+    },
+    {
+      "ch": "成",
+      "en": "French",
+      "pi": "chéng"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎ yǔ"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

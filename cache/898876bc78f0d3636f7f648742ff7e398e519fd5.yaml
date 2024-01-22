@@ -1,0 +1,32 @@
+{
+  "chinese": "悉尼离这里很远。",
+  "english": "Sydney is far from here.",
+  "pinyin": "Xīní lí zhèlǐ hěn yuǎn.",
+  "words": [
+    {
+      "ch": "悉尼",
+      "en": "Sydney",
+      "pi": "Xīní"
+    },
+    {
+      "ch": "离",
+      "en": "from",
+      "pi": "lí"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhèlǐ"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "远",
+      "en": "far",
+      "pi": "yuǎn"
+    }
+  ]
+}

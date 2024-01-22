@@ -1,0 +1,32 @@
+{
+  "chinese": "我让John高兴了。",
+  "english": "I made John happy.",
+  "pinyin": "wǒ ràng John gāoxìngle.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "让",
+      "en": "made",
+      "pi": "ràng"
+    },
+    {
+      "ch": "John",
+      "en": "John",
+      "pi": "John"
+    },
+    {
+      "ch": "高兴",
+      "en": "happy",
+      "pi": "gāoxìng"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我通常在六点钟起床。",
+  "english": "I usually get up at six o'clock.",
+  "pinyin": "wǒ tōng cháng zài liù diǎn zhōng qǐ chuáng。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "通常",
+      "en": "usually",
+      "pi": "tōng cháng"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "六点钟",
+      "en": "six o'clock",
+      "pi": "liù diǎn zhōng"
+    },
+    {
+      "ch": "起床",
+      "en": "get up",
+      "pi": "qǐ chuáng"
+    }
+  ]
+}

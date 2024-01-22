@@ -1,0 +1,14 @@
+{
+  "chinese": "你有要洗的衣服吗？",
+  "english": "Do you have any clothes to wash?",
+  "pinyin": "nǐ yǒu yào xǐ de yīfú ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "要", "en": "want", "pi": "yào"},
+    {"ch": "洗", "en": "wash", "pi": "xǐ"},
+    {"ch": "的", "en": "de", "pi": "de"},
+    {"ch": "衣服", "en": "clothes", "pi": "yīfú"},
+    {"ch": "吗", "en": "?", "pi": "ma"}
+  ]
+}

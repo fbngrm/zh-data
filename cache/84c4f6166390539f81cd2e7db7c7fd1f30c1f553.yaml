@@ -1,0 +1,42 @@
+{
+  "chinese": "我是一个日本的高中女生。",
+  "english": "I am a high school girl from Japan.",
+  "pinyin": "wǒ shì yī gè rì běn de gāo zhōng nǚ shēng。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "是",
+      "en": "am",
+      "pi": "shì"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "日本",
+      "en": "Japan",
+      "pi": "rì běn"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "高中",
+      "en": "high school",
+      "pi": "gāo zhōng"
+    },
+    {
+      "ch": "女生",
+      "en": "girl",
+      "pi": "nǚ shēng"
+    }
+  ]
+}

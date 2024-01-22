@@ -1,0 +1,42 @@
+{
+  "chinese": "我今早起床时天正在下雨。",
+  "english": "It was raining when I got up this morning.",
+  "pinyin": "wǒ jīn zǎo qǐ chuáng shí tiān zhèng zài xià yǔ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "今早",
+      "en": "this morning",
+      "pi": "jīn zǎo"
+    },
+    {
+      "ch": "起床",
+      "en": "got up",
+      "pi": "qǐ chuáng"
+    },
+    {
+      "ch": "时",
+      "en": "when",
+      "pi": "shí"
+    },
+    {
+      "ch": "天",
+      "en": "weather",
+      "pi": "tiān"
+    },
+    {
+      "ch": "正在",
+      "en": "is",
+      "pi": "zhèng zài"
+    },
+    {
+      "ch": "下雨",
+      "en": "raining",
+      "pi": "xià yǔ"
+    }
+  ]
+}

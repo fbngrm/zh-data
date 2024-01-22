@@ -1,0 +1,37 @@
+{
+  "chinese": "我们能在这里游泳吗？",
+  "english": "Can we swim here?",
+  "pinyin": "wǒmen néng zài zhèlǐ yóuyǒng ma?",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "在",
+      "en": "here",
+      "pi": "zài"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhèlǐ"
+    },
+    {
+      "ch": "游泳",
+      "en": "swim",
+      "pi": "yóuyǒng"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

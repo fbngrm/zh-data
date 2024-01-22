@@ -1,0 +1,37 @@
+{
+  "chinese": "他姐姐比我哥哥大。",
+  "english": "His older sister is older than my older brother.",
+  "pinyin": "tā jiějie bǐ wǒ gēge dà。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "姐姐",
+      "en": "older sister",
+      "pi": "jiějie"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "我",
+      "en": "I, me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "哥哥",
+      "en": "older brother",
+      "pi": "gēge"
+    },
+    {
+      "ch": "大",
+      "en": "big, older",
+      "pi": "dà"
+    }
+  ]
+}

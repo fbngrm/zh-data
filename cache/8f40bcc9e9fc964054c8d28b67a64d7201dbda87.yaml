@@ -1,0 +1,16 @@
+{
+  "chinese": "听到她成功的消息，他很高兴。",
+  "english": "He is very happy to hear the news of her success.",
+  "pinyin": "tīng dào tā chéng gōng de xiāo xī ，tā hěn gāo xìng。",
+  "words": [
+    {"ch": "听到", "en": "hear", "pi": "tīng dào"},
+    {"ch": "她", "en": "she", "pi": "tā"},
+    {"ch": "成功的", "en": "successful", "pi": "chéng gōng de"},
+    {"ch": "消息", "en": "news", "pi": "xiāo xī"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "高兴", "en": "happy", "pi": "gāo xìng"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

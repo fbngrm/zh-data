@@ -1,0 +1,32 @@
+{
+  "chinese": "给我你的手机。",
+  "english": "Give me your phone.",
+  "pinyin": "gěi wǒ nǐ de shǒujī.",
+  "words": [
+    {
+      "ch": "给",
+      "en": "Give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "your",
+      "pi": "de"
+    },
+    {
+      "ch": "手机",
+      "en": "phone",
+      "pi": "shǒujī"
+    }
+  ]
+}

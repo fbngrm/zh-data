@@ -1,0 +1,61 @@
+{
+  "sentences": [
+    {
+      "chinese": "今天哭，明天笑，不求有人能明了，一身骄傲",
+      "english": "Cry today, laugh tomorrow, don't expect anyone to understand, full of pride",
+      "pinyin": "jīn tiān kū, míng tiān xiào, bù qiú yǒu rén néng míng liǎo, yī shēn jiāo ào",
+      "words": [
+        {
+          "ch": "今天",
+          "en": "today",
+          "pi": "jīn tiān"
+        },
+        {
+          "ch": "哭",
+          "en": "cry",
+          "pi": "kū"
+        },
+        {
+          "ch": "明天",
+          "en": "tomorrow",
+          "pi": "míng tiān"
+        },
+        {
+          "ch": "笑",
+          "en": "laugh",
+          "pi": "xiào"
+        },
+        {
+          "ch": "不求",
+          "en": "don't expect",
+          "pi": "bù qiú"
+        },
+        {
+          "ch": "有人",
+          "en": "anyone",
+          "pi": "yǒu rén"
+        },
+        {
+          "ch": "能",
+          "en": "able to",
+          "pi": "néng"
+        },
+        {
+          "ch": "明了",
+          "en": "understand",
+          "pi": "míng liǎo"
+        },
+        {
+          "ch": "一身",
+          "en": "full of",
+          "pi": "yī shēn"
+        },
+        {
+          "ch": "骄傲",
+          "en": "pride",
+          "pi": "jiāo ào"
+        }
+      ]
+    }
+  ]
+}

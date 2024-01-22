@@ -1,0 +1,17 @@
+{
+  "chinese": "科學家們可以很容易地計算出行星之間的距離。",
+  "english": "Scientists can easily calculate the distances between planets.",
+  "pinyin": "kē xué jiā men kě yǐ hěn róng yì de jì suàn chū xíng xīng zhī jiān de jù lí。",
+  "words": [
+    {"ch": "科學家們", "en": "Scientists", "pi": "kē xué jiā men"},
+    {"ch": "可以", "en": "can", "pi": "kě yǐ"},
+    {"ch": "很", "en": "easily", "pi": "hěn"},
+    {"ch": "容易地", "en": "calculate", "pi": "róng yì de"},
+    {"ch": "計算", "en": "distance", "pi": "jì suàn"},
+    {"ch": "出", "en": "between", "pi": "chū"},
+    {"ch": "行星", "en": "planets", "pi": "xíng xīng"},
+    {"ch": "之間", "en": "the", "pi": "zhī jiān"},
+    {"ch": "的", "en": "distances", "pi": "de"},
+    {"ch": "距離", "en": "distances", "pi": "jù lí"}
+  ]
+}

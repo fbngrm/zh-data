@@ -1,0 +1,52 @@
+{
+  "chinese": "这里是我家，那里是我弟弟家。",
+  "english": "This is my home, that is my brother's home.",
+  "pinyin": "Zhè lǐ shì wǒ jiā, nà lǐ shì wǒ dì dì jiā.",
+  "words": [
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我家",
+      "en": "my home",
+      "pi": "wǒ jiā"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": "，"
+    },
+    {
+      "ch": "那里",
+      "en": "there",
+      "pi": "nà lǐ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我弟弟",
+      "en": "my brother",
+      "pi": "wǒ dì dì"
+    },
+    {
+      "ch": "家",
+      "en": "home",
+      "pi": "jiā"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "。"
+    }
+  ]
+}

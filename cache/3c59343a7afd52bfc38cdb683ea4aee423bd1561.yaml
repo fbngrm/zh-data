@@ -1,0 +1,16 @@
+{
+  "chinese": "请来两杯茶和一杯咖啡。",
+  "english": "Please bring two cups of tea and one cup of coffee.",
+  "pinyin": "Qǐng lái liǎng bēi chá hé yī bēi kāfēi.",
+  "words": [
+    {"ch": "请", "en": "please", "pi": "qǐng"},
+    {"ch": "来", "en": "bring", "pi": "lái"},
+    {"ch": "两", "en": "two", "pi": "liǎng"},
+    {"ch": "杯", "en": "cups", "pi": "bēi"},
+    {"ch": "茶", "en": "tea", "pi": "chá"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "一", "en": "one", "pi": "yī"},
+    {"ch": "杯", "en": "cup", "pi": "bēi"},
+    {"ch": "咖啡", "en": "coffee", "pi": "kāfēi"}
+  ]
+}

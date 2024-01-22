@@ -1,0 +1,32 @@
+{
+  "chinese": "你是不是老师？",
+  "english": "Are you a teacher?",
+  "pinyin": "nǐ shì bù shì lǎo shī?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "不是",
+      "en": "not",
+      "pi": "bù shì"
+    },
+    {
+      "ch": "老师",
+      "en": "teacher",
+      "pi": "lǎo shī"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": ""
+    }
+  ]
+}

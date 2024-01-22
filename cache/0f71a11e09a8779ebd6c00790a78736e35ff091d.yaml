@@ -1,0 +1,32 @@
+{
+  "chinese": "请拼一下您的名字。",
+  "english": "Please spell your name.",
+  "pinyin": "Qǐng pīn yīxià nín de míngzi.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "拼",
+      "en": "spell",
+      "pi": "pīn"
+    },
+    {
+      "ch": "一下",
+      "en": "your",
+      "pi": "yīxià"
+    },
+    {
+      "ch": "您的",
+      "en": "name",
+      "pi": "nín de"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míngzi"
+    }
+  ]
+}

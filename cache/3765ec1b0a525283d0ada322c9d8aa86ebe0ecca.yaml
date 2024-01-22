@@ -1,0 +1,15 @@
+{
+  "chinese": "你有听到他说得有多快吗？",
+  "english": "Did you hear how fast he spoke?",
+  "pinyin": "nǐ yǒu tīng dào tā shuō dé yǒu duō kuài ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "听到", "en": "hear", "pi": "tīng dào"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "说得", "en": "spoken", "pi": "shuō dé"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "多快", "en": "how fast", "pi": "duō kuài"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "在夜间发生了火灾。",
+  "english": "A fire occurred during the night.",
+  "pinyin": "zài yè jiān fā shēng le huǒ zāi.",
+  "words": [
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "夜间",
+      "en": "during the night",
+      "pi": "yè jiān"
+    },
+    {
+      "ch": "发生",
+      "en": "occur",
+      "pi": "fā shēng"
+    },
+    {
+      "ch": "了",
+      "en": "during",
+      "pi": "le"
+    },
+    {
+      "ch": "火灾",
+      "en": "fire",
+      "pi": "huǒ zāi"
+    }
+  ]
+}

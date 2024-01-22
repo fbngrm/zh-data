@@ -1,0 +1,47 @@
+{
+  "chinese": "根据时间表，这个任务应该在这周内结束。",
+  "english": "According to the schedule, this task should be finished within this week.",
+  "pinyin": "Gēnjù shíjiānbiǎo, zhège rènwù yīnggāi zài zhè zhōu nèi jiéshù。",
+  "words": [
+    {
+      "ch": "根据",
+      "en": "according to",
+      "pi": "gēnjù"
+    },
+    {
+      "ch": "时间表",
+      "en": "schedule",
+      "pi": "shíjiānbiǎo"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhège"
+    },
+    {
+      "ch": "任务",
+      "en": "task",
+      "pi": "rènwù"
+    },
+    {
+      "ch": "应该",
+      "en": "should",
+      "pi": "yīnggāi"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "这周内",
+      "en": "within this week",
+      "pi": "zhè zhōu nèi"
+    },
+    {
+      "ch": "结束",
+      "en": "finish",
+      "pi": "jiéshù"
+    }
+  ]
+}

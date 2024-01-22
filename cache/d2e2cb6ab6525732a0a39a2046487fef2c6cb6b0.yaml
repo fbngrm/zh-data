@@ -1,0 +1,37 @@
+{
+  "chinese": "这家旅馆是去年盖的。",
+  "english": "This hotel was built last year.",
+  "pinyin": "zhè jiā lǚguǎn shì qùnián gài de.",
+  "words": [
+    {
+      "ch": "这家",
+      "en": "this",
+      "pi": "zhè jiā"
+    },
+    {
+      "ch": "旅馆",
+      "en": "hotel",
+      "pi": "lǚguǎn"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "去年",
+      "en": "last year",
+      "pi": "qùnián"
+    },
+    {
+      "ch": "盖",
+      "en": "built",
+      "pi": "gài"
+    },
+    {
+      "ch": "的",
+      "en": "particle indicating past tense",
+      "pi": "de"
+    }
+  ]
+}

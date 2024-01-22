@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆还是不能读书。",
+  "english": "Tom still cannot read.",
+  "pinyin": "Tāng mǔ háishì bùnéng dúshū.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "还是",
+      "en": "still",
+      "pi": "háishì"
+    },
+    {
+      "ch": "不能",
+      "en": "cannot",
+      "pi": "bùnéng"
+    },
+    {
+      "ch": "读书",
+      "en": "read",
+      "pi": "dúshū"
+    }
+  ]
+}

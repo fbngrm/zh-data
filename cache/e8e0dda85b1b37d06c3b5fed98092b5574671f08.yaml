@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆说要跟我们玩扑克。",
+  "english": "Tom said he wants to play poker with us.",
+  "pinyin": "Tāng mǔ shuō yào gēn wǒmen wán pūkè.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "说",
+      "en": "said",
+      "pi": "shuō"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "跟",
+      "en": "to",
+      "pi": "gēn"
+    },
+    {
+      "ch": "我们",
+      "en": "us",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "玩",
+      "en": "play",
+      "pi": "wán"
+    },
+    {
+      "ch": "扑克",
+      "en": "poker",
+      "pi": "pūkè"
+    }
+  ]
+}

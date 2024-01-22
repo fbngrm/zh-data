@@ -1,0 +1,17 @@
+{
+  "chinese": "我昨晚在床上看书的时候点着灯就睡了。",
+  "english": "I went to sleep while reading on the bed with the light on last night.",
+  "pinyin": "Wǒ zuówǎn zài chuángshàng kànshū de shíhou diǎnzhe dēng jiù shuìle.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "昨晚", "en": "last night", "pi": "zuówǎn"},
+    {"ch": "在", "en": "on", "pi": "zài"},
+    {"ch": "床上", "en": "the bed", "pi": "chuángshàng"},
+    {"ch": "看书", "en": "reading", "pi": "kànshū"},
+    {"ch": "的时候", "en": "while", "pi": "de shíhou"},
+    {"ch": "点着", "en": "with the light on", "pi": "diǎnzhe"},
+    {"ch": "灯", "en": "light", "pi": "dēng"},
+    {"ch": "就", "en": "just", "pi": "jiù"},
+    {"ch": "睡了", "en": "went to sleep", "pi": "shuìle"}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chinese": "我需要洗个澡。",
+  "english": "I need to take a shower.",
+  "pinyin": "wǒ xūyào xǐ gè zǎo。",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ"},
+    { "ch": "需要", "en": "need", "pi": "xūyào"},
+    { "ch": "洗", "en": "to wash", "pi": "xǐ"},
+    { "ch": "个", "en": "a", "pi": "gè"},
+    { "ch": "澡", "en": "shower", "pi": "zǎo"}
+  ]
+}

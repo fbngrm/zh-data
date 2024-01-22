@@ -1,0 +1,14 @@
+{
+  "chinese": "我姑姑给了我一张唱片专辑。",
+  "english": "My aunt gave me an album.",
+  "pinyin": "wǒ gūgu gěile wǒ yī zhāng chàngpiān zhuānjí.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "姑姑", "en": "aunt", "pi": "gūgu"},
+    {"ch": "给了", "en": "gave", "pi": "gěile"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "一张", "en": "one", "pi": "yī zhāng"},
+    {"ch": "唱片", "en": "album", "pi": "chàngpiān"},
+    {"ch": "专辑", "en": "album", "pi": "zhuānjí"}
+  ]
+}

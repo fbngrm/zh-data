@@ -1,0 +1,47 @@
+{
+  "chinese": "他在桌子上留下了这本书。",
+  "english": "He left this book on the table.",
+  "pinyin": "Tā zài zhuōzi shàng liúxiàle zhè běnshū.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "Tā"
+    },
+    {
+      "ch": "在",
+      "en": "at, in",
+      "pi": "zài"
+    },
+    {
+      "ch": "桌子",
+      "en": "table",
+      "pi": "zhuōzi"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "留下",
+      "en": "leave",
+      "pi": "liúxià"
+    },
+    {
+      "ch": "了",
+      "en": "past tense particle",
+      "pi": "le"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本书",
+      "en": "book",
+      "pi": "běnshū"
+    }
+  ]
+}

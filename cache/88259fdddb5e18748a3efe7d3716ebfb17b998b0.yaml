@@ -1,0 +1,47 @@
+{
+  "chinese": "汤姆在考试中犯了一些错误。",
+  "english": "Tom made some mistakes in the exam.",
+  "pinyin": "tāng mǔ zài kǎo shì zhōng fàn le yī xiē cuò wù。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "考试",
+      "en": "exam",
+      "pi": "kǎo shì"
+    },
+    {
+      "ch": "中",
+      "en": "in",
+      "pi": "zhōng"
+    },
+    {
+      "ch": "犯",
+      "en": "make",
+      "pi": "fàn"
+    },
+    {
+      "ch": "了",
+      "en": "some",
+      "pi": "le"
+    },
+    {
+      "ch": "一些",
+      "en": "mistakes",
+      "pi": "yī xiē"
+    },
+    {
+      "ch": "错误",
+      "en": "errors",
+      "pi": "cuò wù"
+    }
+  ]
+}

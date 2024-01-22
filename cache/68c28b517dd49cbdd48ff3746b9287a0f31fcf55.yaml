@@ -1,0 +1,68 @@
+{
+  "sentences": [
+    {
+      "chinese": "今天你们俩很让人印象深刻。",
+      "english": "You both made a deep impression today.",
+      "pinyin": "jīn tiān nǐ men liǎ hěn ràng rén yìn xiàng shēn kè。",
+      "words": [
+        {
+          "ch": "今天",
+          "en": "today",
+          "pi": "jīn tiān"
+        },
+        {
+          "ch": "你们俩",
+          "en": "you both",
+          "pi": "nǐ men liǎ"
+        },
+        {
+          "ch": "很",
+          "en": "very",
+          "pi": "hěn"
+        },
+        {
+          "ch": "让人",
+          "en": "impression",
+          "pi": "ràng rén"
+        },
+        {
+          "ch": "印象深刻",
+          "en": "deep",
+          "pi": "yìn xiàng shēn kè"
+        }
+      ]
+    },
+    {
+      "chinese": "我为你们感到骄傲。",
+      "english": "I am proud of you both.",
+      "pinyin": "wǒ wèi nǐ men gǎn dào jiāo ào。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "为",
+          "en": "for",
+          "pi": "wèi"
+        },
+        {
+          "ch": "你们",
+          "en": "you",
+          "pi": "nǐ men"
+        },
+        {
+          "ch": "感到",
+          "en": "feel",
+          "pi": "gǎn dào"
+        },
+        {
+          "ch": "骄傲",
+          "en": "proud",
+          "pi": "jiāo ào"
+        }
+      ]
+    }
+  ]
+}

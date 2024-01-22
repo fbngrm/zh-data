@@ -1,0 +1,15 @@
+{
+  "chinese": "我认为你知道那不是真的。",
+  "english": "I think you know that is not true.",
+  "pinyin": "wǒ rèn wéi nǐ zhī dào nà bú shì zhēn de.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "认为", "en": "think", "pi": "rèn wéi"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "知道", "en": "know", "pi": "zhī dào"},
+    {"ch": "那", "en": "that", "pi": "nà"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "真的", "en": "true", "pi": "zhēn de"}
+  ]
+}

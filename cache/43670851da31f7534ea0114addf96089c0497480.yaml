@@ -1,0 +1,14 @@
+{
+  "chinese": "我能听见鸟在窗外歌唱。",
+  "english": "I can hear birds singing outside the window.",
+  "pinyin": "wǒ néng tīng jiàn niǎo zài chuāng wài gē chàng。",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "能", "en": "can", "pi": "néng" },
+    { "ch": "听见", "en": "hear", "pi": "tīng jiàn" },
+    { "ch": "鸟", "en": "birds", "pi": "niǎo" },
+    { "ch": "在", "en": "in", "pi": "zài" },
+    { "ch": "窗外", "en": "outside the window", "pi": "chuāng wài" },
+    { "ch": "歌唱", "en": "singing", "pi": "gē chàng" }
+  ]
+}

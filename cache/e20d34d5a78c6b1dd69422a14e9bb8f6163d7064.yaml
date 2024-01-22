@@ -1,0 +1,42 @@
+{
+  "chinese": "你上次去京都是甚么时候？",
+  "english": "When was the last time you went to Kyoto?",
+  "pinyin": "nǐ shàng cì qù jīng dū shì shén me shí hòu?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "上次",
+      "en": "last time",
+      "pi": "shàng cì"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "京都",
+      "en": "Kyoto",
+      "pi": "jīng dū"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "甚么",
+      "en": "what",
+      "pi": "shén me"
+    },
+    {
+      "ch": "时候",
+      "en": "when",
+      "pi": "shí hòu"
+    }
+  ]
+}

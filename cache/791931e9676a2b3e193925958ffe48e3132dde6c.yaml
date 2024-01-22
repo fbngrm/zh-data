@@ -1,0 +1,32 @@
+{
+  "chinese": "你在听英语吗？",
+  "english": "Are you listening to English?",
+  "pinyin": "nǐ zài tīng yīngyǔ ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "听",
+      "en": "listen",
+      "pi": "tīng"
+    },
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīngyǔ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

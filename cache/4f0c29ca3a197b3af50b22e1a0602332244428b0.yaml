@@ -1,0 +1,58 @@
+{
+  "sentences": [
+    {
+      "chinese": "你看起来像游客。",
+      "english": "You look like a tourist.",
+      "pinyin": "nǐ kàn qǐ lái xiàng yóu kè。",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "看起来",
+          "en": "look like",
+          "pi": "kàn qǐ lái"
+        },
+        {
+          "ch": "像",
+          "en": "like",
+          "pi": "xiàng"
+        },
+        {
+          "ch": "游客",
+          "en": "tourist",
+          "pi": "yóu kè"
+        }
+      ]
+    },
+    {
+      "chinese": "可我就是游客！",
+      "english": "But I am a tourist!",
+      "pinyin": "kě wǒ jiù shì yóu kè！",
+      "words": [
+        {
+          "ch": "可",
+          "en": "but",
+          "pi": "kě"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "就是",
+          "en": "am",
+          "pi": "jiù shì"
+        },
+        {
+          "ch": "游客",
+          "en": "tourist",
+          "pi": "yóu kè"
+        }
+      ]
+    }
+  ]
+}

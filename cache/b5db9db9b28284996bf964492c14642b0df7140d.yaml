@@ -1,0 +1,133 @@
+{
+  "sentences": [
+    {
+      "chinese": "请您把这个手提包打开一下。",
+      "english": "Please open this handbag.",
+      "pinyin": "qǐng nín bǎ zhè gè shǒu tí bāo dǎ kāi yī xià。",
+      "words": [
+        {
+          "ch": "请",
+          "en": "please",
+          "pi": "qǐng"
+        },
+        {
+          "ch": "您",
+          "en": "you (polite)",
+          "pi": "nín"
+        },
+        {
+          "ch": "把",
+          "en": "take",
+          "pi": "bǎ"
+        },
+        {
+          "ch": "这个",
+          "en": "this",
+          "pi": "zhè gè"
+        },
+        {
+          "ch": "手提包",
+          "en": "handbag",
+          "pi": "shǒu tí bāo"
+        },
+        {
+          "ch": "打开",
+          "en": "open",
+          "pi": "dǎ kāi"
+        },
+        {
+          "ch": "一下",
+          "en": "a little",
+          "pi": "yī xià"
+        }
+      ]
+    },
+    {
+      "chinese": "这把刀，酒精都是严禁物品，不允许带上地铁。",
+      "english": "This knife and alcohol are strictly prohibited items and are not allowed on the subway.",
+      "pinyin": "zhè bǎ dāo, jiǔ jīng dōu shì yán jìn wù pǐn, bù yǔn xǔ dài shàng dì tiě。",
+      "words": [
+        {
+          "ch": "这",
+          "en": "this",
+          "pi": "zhè"
+        },
+        {
+          "ch": "把",
+          "en": "classifier for knives",
+          "pi": "bǎ"
+        },
+        {
+          "ch": "刀",
+          "en": "knife",
+          "pi": "dāo"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": ","
+        },
+        {
+          "ch": "酒精",
+          "en": "alcohol",
+          "pi": "jiǔ jīng"
+        },
+        {
+          "ch": "都",
+          "en": "both",
+          "pi": "dōu"
+        },
+        {
+          "ch": "是",
+          "en": "are",
+          "pi": "shì"
+        },
+        {
+          "ch": "严禁",
+          "en": "strictly prohibited",
+          "pi": "yán jìn"
+        },
+        {
+          "ch": "物品",
+          "en": "items",
+          "pi": "wù pǐn"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": ","
+        },
+        {
+          "ch": "不",
+          "en": "not",
+          "pi": "bù"
+        },
+        {
+          "ch": "允许",
+          "en": "allowed",
+          "pi": "yǔn xǔ"
+        },
+        {
+          "ch": "带",
+          "en": "bring",
+          "pi": "dài"
+        },
+        {
+          "ch": "上",
+          "en": "on",
+          "pi": "shàng"
+        },
+        {
+          "ch": "地铁",
+          "en": "subway",
+          "pi": "dì tiě"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    }
+  ]
+}

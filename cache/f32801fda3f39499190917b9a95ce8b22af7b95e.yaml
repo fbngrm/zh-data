@@ -1,0 +1,14 @@
+{
+  "chinese": "他们的父亲是一个计程车司机。",
+  "english": "Their father is a taxi driver.",
+  "pinyin": "tā men de fù qīn shì yī gè jì chéng chē sī jī。",
+  "words": [
+    {"ch": "他们", "en": "they", "pi": "tā men"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "父亲", "en": "father", "pi": "fù qīn"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "一个", "en": "a", "pi": "yī gè"},
+    {"ch": "计程车", "en": "taxi", "pi": "jì chéng chē"},
+    {"ch": "司机", "en": "driver", "pi": "sī jī"}
+  ]
+}

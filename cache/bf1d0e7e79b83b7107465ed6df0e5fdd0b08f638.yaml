@@ -1,0 +1,32 @@
+{
+  "chinese": "万一发生火灾，按铃。",
+  "english": "In case of a fire, ring the bell.",
+  "pinyin": "wàn yī fā shēng huǒ zāi, àn líng。",
+  "words": [
+    {
+      "ch": "万一",
+      "en": "In case of",
+      "pi": "wàn yī"
+    },
+    {
+      "ch": "发生",
+      "en": "occur",
+      "pi": "fā shēng"
+    },
+    {
+      "ch": "火灾",
+      "en": "fire",
+      "pi": "huǒ zāi"
+    },
+    {
+      "ch": "按",
+      "en": "ring",
+      "pi": "àn"
+    },
+    {
+      "ch": "铃",
+      "en": "bell",
+      "pi": "líng"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "chinese": "中国的经济随着时间的推移而变得越来越好。",
+  "english": "China's economy has been getting better over time.",
+  "pinyin": "zhōng guó de jīng jì suí zhe shí jiān de tuī yí ér biàn dé yuè lái yuè hǎo。",
+  "words": [
+    {"ch": "中国", "en": "China", "pi": "zhōng guó"},
+    {"ch": "的", "en": "'s", "pi": "de"},
+    {"ch": "经济", "en": "economy", "pi": "jīng jì"},
+    {"ch": "随着", "en": "with", "pi": "suí zhe"},
+    {"ch": "时间", "en": "time", "pi": "shí jiān"},
+    {"ch": "的", "en": "'s", "pi": "de"},
+    {"ch": "推移", "en": "pass", "pi": "tuī yí"},
+    {"ch": "而", "en": "and", "pi": "ér"},
+    {"ch": "变得", "en": "become", "pi": "biàn dé"},
+    {"ch": "越来越好", "en": "better and better", "pi": "yuè lái yuè hǎo"}
+  ]
+}

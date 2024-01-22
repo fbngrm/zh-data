@@ -1,0 +1,42 @@
+{
+  "chinese": "太熱了所以我們無法工作。",
+  "english": "It's too hot so we can't work.",
+  "pinyin": "tài rè le suǒ yǐ wǒ men wú fǎ gōng zuò。",
+  "words": [
+    {
+      "ch": "太",
+      "en": "too",
+      "pi": "tài"
+    },
+    {
+      "ch": "熱",
+      "en": "hot",
+      "pi": "rè"
+    },
+    {
+      "ch": "了",
+      "en": "so",
+      "pi": "le"
+    },
+    {
+      "ch": "所以",
+      "en": "because",
+      "pi": "suǒ yǐ"
+    },
+    {
+      "ch": "我們",
+      "en": "we",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "無法",
+      "en": "can't",
+      "pi": "wú fǎ"
+    },
+    {
+      "ch": "工作",
+      "en": "work",
+      "pi": "gōng zuò"
+    }
+  ]
+}

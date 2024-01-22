@@ -1,0 +1,27 @@
+{
+  "chinese": "你几个用户名呀？",
+  "english": "How many usernames do you have?",
+  "pinyin": "nǐ jǐ gè yòng hù míng ya?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "几个",
+      "en": "how many",
+      "pi": "jǐ gè"
+    },
+    {
+      "ch": "用户名",
+      "en": "usernames",
+      "pi": "yòng hù míng"
+    },
+    {
+      "ch": "呀",
+      "en": "do",
+      "pi": "ya"
+    }
+  ]
+}

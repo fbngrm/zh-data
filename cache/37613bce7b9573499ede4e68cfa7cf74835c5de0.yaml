@@ -1,0 +1,79 @@
+{
+  "sentences": [
+    {
+      "chinese": "十月一号，我们去海边游泳。",
+      "english": "On October 1st, we went swimming at the beach.",
+      "pinyin": "Shí yuè yī hào, wǒmen qù hǎibiān yóuyǒng.",
+      "words": [
+        {"ch": "十月", "en": "October", "pi": "shí yuè"},
+        {"ch": "一号", "en": "1st", "pi": "yī hào"},
+        {"ch": "我们", "en": "we", "pi": "wǒmen"},
+        {"ch": "去", "en": "go", "pi": "qù"},
+        {"ch": "海边", "en": "beach", "pi": "hǎibiān"},
+        {"ch": "游泳", "en": "swimming", "pi": "yóuyǒng"}
+      ]
+    },
+    {
+      "chinese": "十月二号，我们要去看一看大连的中山广场。",
+      "english": "On October 2nd, we want to go take a look at Dalian's Zhongshan Square.",
+      "pinyin": "Shí yuè èr hào, wǒmen yào qù kàn yī kàn Dàlián de Zhōngshān guǎngchǎng.",
+      "words": [
+        {"ch": "十月", "en": "October", "pi": "shí yuè"},
+        {"ch": "二号", "en": "2nd", "pi": "èr hào"},
+        {"ch": "我们", "en": "we", "pi": "wǒmen"},
+        {"ch": "要", "en": "want", "pi": "yào"},
+        {"ch": "去", "en": "go", "pi": "qù"},
+        {"ch": "看一看", "en": "take a look", "pi": "kàn yī kàn"},
+        {"ch": "大连", "en": "Dalian", "pi": "Dàlián"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "中山广场", "en": "Zhongshan Square", "pi": "Zhōngshān guǎngchǎng"}
+      ]
+    },
+    {
+      "chinese": "十月三号，我们去大连老虎滩海洋公园玩。",
+      "english": "On October 3rd, we went to Dalian Tiger Beach Ocean Park to have fun.",
+      "pinyin": "Shí yuè sān hào, wǒmen qù Dàlián Lǎohǔtān Hǎiyáng gōngyuán wán.",
+      "words": [
+        {"ch": "十月", "en": "October", "pi": "shí yuè"},
+        {"ch": "三号", "en": "3rd", "pi": "sān hào"},
+        {"ch": "我们", "en": "we", "pi": "wǒmen"},
+        {"ch": "去", "en": "go", "pi": "qù"},
+        {"ch": "大连", "en": "Dalian", "pi": "Dàlián"},
+        {"ch": "老虎滩", "en": "Tiger Beach", "pi": "Lǎohǔtān"},
+        {"ch": "海洋公园", "en": "Ocean Park", "pi": "Hǎiyáng gōngyuán"},
+        {"ch": "玩", "en": "have fun", "pi": "wán"}
+      ]
+    },
+    {
+      "chinese": "十月四号，我们要去大连的商业街买东西。",
+      "english": "On October 4th, we want to go to Dalian's commercial street to shop.",
+      "pinyin": "Shí yuè sì hào, wǒmen yào qù Dàlián de shāngyè jiē mǎi dōngxi.",
+      "words": [
+        {"ch": "十月", "en": "October", "pi": "shí yuè"},
+        {"ch": "四号", "en": "4th", "pi": "sì hào"},
+        {"ch": "我们", "en": "we", "pi": "wǒmen"},
+        {"ch": "要", "en": "want", "pi": "yào"},
+        {"ch": "去", "en": "go", "pi": "qù"},
+        {"ch": "大连", "en": "Dalian", "pi": "Dàlián"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "商业街", "en": "commercial street", "pi": "shāngyè jiē"},
+        {"ch": "买", "en": "shop", "pi": "mǎi"},
+        {"ch": "东西", "en": "things", "pi": "dōngxi"}
+      ]
+    },
+    {
+      "chinese": "十月五号上午，我们坐火车回来。",
+      "english": "On the morning of October 5th, we took the train back.",
+      "pinyin": "Shí yuè wǔ hào shàngwǔ, wǒmen zuò huǒchē huí lái.",
+      "words": [
+        {"ch": "十月", "en": "October", "pi": "shí yuè"},
+        {"ch": "五号", "en": "5th", "pi": "wǔ hào"},
+        {"ch": "上午", "en": "morning", "pi": "shàngwǔ"},
+        {"ch": "我们", "en": "we", "pi": "wǒmen"},
+        {"ch": "坐", "en": "take", "pi": "zuò"},
+        {"ch": "火车", "en": "train", "pi": "huǒchē"},
+        {"ch": "回来", "en": "back", "pi": "huí lái"}
+      ]
+    }
+  ]
+}

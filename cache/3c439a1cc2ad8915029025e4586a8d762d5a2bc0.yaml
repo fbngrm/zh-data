@@ -1,0 +1,27 @@
+{
+  "chinese": "这些数字总数不符。",
+  "english": "The total sum of these numbers does not match.",
+  "pinyin": "zhè xiē shù zì zǒng shù bù fú.",
+  "words": [
+    {
+      "ch": "这些",
+      "en": "these",
+      "pi": "zhè xiē"
+    },
+    {
+      "ch": "数字",
+      "en": "numbers",
+      "pi": "shù zì"
+    },
+    {
+      "ch": "总数",
+      "en": "total sum",
+      "pi": "zǒng shù"
+    },
+    {
+      "ch": "不符",
+      "en": "does not match",
+      "pi": "bù fú"
+    }
+  ]
+}

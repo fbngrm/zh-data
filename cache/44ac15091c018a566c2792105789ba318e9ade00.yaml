@@ -1,0 +1,37 @@
+{
+  "chinese": "你大约认识多少英文词？",
+  "english": "Approximately how many English words do you know?",
+  "pinyin": "nǐ dà yuē rèn shi duō shǎo yīng wén cí?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "大约",
+      "en": "approximately",
+      "pi": "dà yuē"
+    },
+    {
+      "ch": "认识",
+      "en": "know",
+      "pi": "rèn shi"
+    },
+    {
+      "ch": "多少",
+      "en": "how many",
+      "pi": "duō shǎo"
+    },
+    {
+      "ch": "英文",
+      "en": "English",
+      "pi": "yīng wén"
+    },
+    {
+      "ch": "词",
+      "en": "words",
+      "pi": "cí"
+    }
+  ]
+}

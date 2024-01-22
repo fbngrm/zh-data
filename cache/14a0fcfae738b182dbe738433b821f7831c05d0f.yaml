@@ -1,0 +1,13 @@
+{
+  "chinese": "這藥治好了我的感冒。",
+  "english": "This medicine cured my cold.",
+  "pinyin": "zhè yào zhì hǎo le wǒ de gǎn mào。",
+  "words": [
+    {"ch": "這", "en": "This", "pi": "zhè"},
+    {"ch": "藥", "en": "medicine", "pi": "yào"},
+    {"ch": "治好", "en": "cured", "pi": "zhì hǎo"},
+    {"ch": "了", "en": "my", "pi": "le"},
+    {"ch": "我的", "en": "cold", "pi": "wǒ de"},
+    {"ch": "感冒", "en": "me", "pi": "gǎn mào"}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "我必须停止吃那么甜的冰激凌。",
+  "english": "I must stop eating such sweet ice cream.",
+  "pinyin": "wǒ bìxū tíngzhǐ chī nàme tián de bīngjīlíng.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "必须", "en": "must", "pi": "bìxū"},
+    {"ch": "停止", "en": "stop", "pi": "tíngzhǐ"},
+    {"ch": "吃", "en": "eating", "pi": "chī"},
+    {"ch": "那么", "en": "such", "pi": "nàme"},
+    {"ch": "甜的", "en": "sweet", "pi": "tián de"},
+    {"ch": "冰激凌", "en": "ice cream", "pi": "bīngjīlíng"}
+  ]
+}

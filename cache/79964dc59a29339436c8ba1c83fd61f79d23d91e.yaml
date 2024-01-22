@@ -1,0 +1,42 @@
+{
+  "chinese": "他做的蓝莓蛋糕很美味。",
+  "english": "The blueberry cake he made is delicious.",
+  "pinyin": "tā zuò de lán méi dàn gāo hěn měi wèi。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "做",
+      "en": "make/do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "蓝莓",
+      "en": "blueberry",
+      "pi": "lán méi"
+    },
+    {
+      "ch": "蛋糕",
+      "en": "cake",
+      "pi": "dàn gāo"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "美味",
+      "en": "delicious",
+      "pi": "měi wèi"
+    }
+  ]
+}

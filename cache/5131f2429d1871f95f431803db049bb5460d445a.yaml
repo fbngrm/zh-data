@@ -1,0 +1,37 @@
+{
+  "chinese": "他弹钢琴，她唱歌。",
+  "english": "He plays the piano, she sings.",
+  "pinyin": "tā tán gāngqín, tā chànggē。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "弹钢琴",
+      "en": "plays the piano",
+      "pi": "tán gāngqín"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": ""
+    },
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "唱歌",
+      "en": "sings",
+      "pi": "chànggē"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": ""
+    }
+  ]
+}

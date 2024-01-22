@@ -1,0 +1,13 @@
+{
+  "chinese": "汤姆爱玛丽很久了。",
+  "english": "Tom has loved Mary for a long time.",
+  "pinyin": "tāng mǔ ài mǎ lì hěn jiǔ le.",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "爱", "en": "love", "pi": "ài"},
+    {"ch": "玛丽", "en": "Mary", "pi": "mǎ lì"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "久", "en": "long", "pi": "jiǔ"},
+    {"ch": "了", "en": "already", "pi": "le"}
+  ]
+}

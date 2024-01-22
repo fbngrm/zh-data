@@ -1,0 +1,14 @@
+{
+  "chinese": "那种鞋子用来登山是不行的。",
+  "english": "Those shoes are not suitable for mountain climbing.",
+  "pinyin": "nà zhǒng xiézi yòng lái dēngshān shì bùxíng de.",
+  "words": [
+    {"ch": "那种", "en": "those", "pi": "nà zhǒng"},
+    {"ch": "鞋子", "en": "shoes", "pi": "xiézi"},
+    {"ch": "用来", "en": "for", "pi": "yòng lái"},
+    {"ch": "登山", "en": "mountain climbing", "pi": "dēngshān"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "不行", "en": "not suitable", "pi": "bùxíng"},
+    {"ch": "的", "en": "", "pi": "de"}
+  ]
+}

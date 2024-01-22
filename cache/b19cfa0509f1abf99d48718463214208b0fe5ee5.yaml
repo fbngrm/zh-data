@@ -1,0 +1,32 @@
+{
+  "chinese": "这条鱼还是活的吗？",
+  "english": "Is this fish still alive?",
+  "pinyin": "zhè tiáo yú hái shì huó de ma?",
+  "words": [
+    {
+      "ch": "这条",
+      "en": "this",
+      "pi": "zhè tiáo"
+    },
+    {
+      "ch": "鱼",
+      "en": "fish",
+      "pi": "yú"
+    },
+    {
+      "ch": "还是",
+      "en": "still",
+      "pi": "hái shì"
+    },
+    {
+      "ch": "活的",
+      "en": "alive",
+      "pi": "huó de"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

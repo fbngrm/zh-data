@@ -1,0 +1,42 @@
+{
+  "chinese": "这是你们家的小猫吗？",
+  "english": "Is this your family's kitten?",
+  "pinyin": "zhè shì nǐ men jiā de xiǎo māo ma?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "你们",
+      "en": "your",
+      "pi": "nǐ men"
+    },
+    {
+      "ch": "家",
+      "en": "family",
+      "pi": "jiā"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "小猫",
+      "en": "kitten",
+      "pi": "xiǎo māo"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "sentences": [
+    {
+      "chinese": "我们去打网球把。",
+      "english": "Let's go play tennis.",
+      "pinyin": "wǒmen qù dǎ wǎngqiú ba.",
+      "words": [
+        {"ch": "我们", "en": "we", "pi": "wǒmen"},
+        {"ch": "去", "en": "go", "pi": "qù"},
+        {"ch": "打", "en": "play", "pi": "dǎ"},
+        {"ch": "网球", "en": "tennis", "pi": "wǎngqiú"},
+        {"ch": "把", "en": "ba", "pi": "ba"}
+      ]
+    },
+    {
+      "chinese": "好。",
+      "english": "Okay.",
+      "pinyin": "hǎo.",
+      "words": [
+        {"ch": "好", "en": "okay", "pi": "hǎo"}
+      ]
+    }
+  ]
+}

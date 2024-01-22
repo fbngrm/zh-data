@@ -1,0 +1,42 @@
+{
+  "chinese": "小明看场电影哭了一个小时。",
+  "english": "Xiao Ming cried for an hour while watching a movie.",
+  "pinyin": "Xiǎo míng kàn chǎng diàn yǐng kū le yī gè xiǎo shí。",
+  "words": [
+    {
+      "ch": "小明",
+      "en": "Xiao Ming",
+      "pi": "xiǎo míng"
+    },
+    {
+      "ch": "看",
+      "en": "watch",
+      "pi": "kàn"
+    },
+    {
+      "ch": "场",
+      "en": "a",
+      "pi": "chǎng"
+    },
+    {
+      "ch": "电影",
+      "en": "movie",
+      "pi": "diàn yǐng"
+    },
+    {
+      "ch": "哭了",
+      "en": "cried",
+      "pi": "kū le"
+    },
+    {
+      "ch": "一个",
+      "en": "one",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "小时",
+      "en": "hour",
+      "pi": "xiǎo shí"
+    }
+  ]
+}

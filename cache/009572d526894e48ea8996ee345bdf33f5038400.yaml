@@ -1,0 +1,32 @@
+{
+  "chinese": "我今晚想出去吃。",
+  "english": "I want to go out for dinner tonight.",
+  "pinyin": "Wǒ jīn wǎn xiǎng chūqù chī.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "今晚",
+      "en": "tonight",
+      "pi": "jīn wǎn"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "出去",
+      "en": "go out",
+      "pi": "chūqù"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    }
+  ]
+}

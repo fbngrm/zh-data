@@ -1,0 +1,13 @@
+{
+  "chinese": "我还没有完成我的作业。",
+  "english": "I haven't finished my homework yet.",
+  "pinyin": "wǒ hái méiyǒu wánchéng wǒ de zuòyè.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "还", "en": "still", "pi": "hái" },
+    { "ch": "没有", "en": "have not", "pi": "méiyǒu" },
+    { "ch": "完成", "en": "finished", "pi": "wánchéng" },
+    { "ch": "我的", "en": "my", "pi": "wǒ de" },
+    { "ch": "作业", "en": "homework", "pi": "zuòyè" }
+  ]
+}

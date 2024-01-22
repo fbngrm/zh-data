@@ -1,0 +1,27 @@
+{
+  "chinese": "我哥哥擅长数学。",
+  "english": "My older brother is good at math.",
+  "pinyin": "wǒ gēgē shàncháng shùxué.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "哥哥",
+      "en": "older brother",
+      "pi": "gēgē"
+    },
+    {
+      "ch": "擅长",
+      "en": "good at",
+      "pi": "shàncháng"
+    },
+    {
+      "ch": "数学",
+      "en": "math",
+      "pi": "shùxué"
+    }
+  ]
+}

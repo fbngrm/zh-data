@@ -1,0 +1,32 @@
+{
+  "chinese": "这个女孩很像她的母亲。",
+  "english": "This girl looks a lot like her mother.",
+  "pinyin": "zhè gè nǚ hái hěn xiàng tā de mǔ qīn.",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "女孩",
+      "en": "girl",
+      "pi": "nǚ hái"
+    },
+    {
+      "ch": "很像",
+      "en": "looks like",
+      "pi": "hěn xiàng"
+    },
+    {
+      "ch": "她的",
+      "en": "her",
+      "pi": "tā de"
+    },
+    {
+      "ch": "母亲",
+      "en": "mother",
+      "pi": "mǔ qīn"
+    }
+  ]
+}

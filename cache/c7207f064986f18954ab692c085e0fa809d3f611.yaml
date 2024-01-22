@@ -1,0 +1,32 @@
+{
+  "chinese": "您准备好了吗？",
+  "english": "Are you ready?",
+  "pinyin": "Nín zhǔnbèi hǎo le ma?",
+  "words": [
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "Nín"
+    },
+    {
+      "ch": "准备",
+      "en": "ready",
+      "pi": "zhǔnbèi"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

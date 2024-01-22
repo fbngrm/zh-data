@@ -1,0 +1,11 @@
+{ 
+  "chinese": "谁在弹吉他？", 
+  "english": "Who is playing the guitar?", 
+  "pinyin": "shéi zài tán jí tā?", 
+  "words": [
+    { "ch": "谁", "en": "who", "pi": "shéi" },
+    { "ch": "在", "en": "is", "pi": "zài" },
+    { "ch": "弹", "en": "playing", "pi": "tán" },
+    { "ch": "吉他", "en": "guitar", "pi": "jí tā" }
+  ] 
+}

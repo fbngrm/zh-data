@@ -1,0 +1,47 @@
+{
+  "chinese": "我有一个住在京都的朋友。",
+  "english": "I have a friend who lives in Kyoto.",
+  "pinyin": "wǒ yǒu yī gè zhù zài jīng dū de péng yǒu。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "住",
+      "en": "live",
+      "pi": "zhù"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "京都",
+      "en": "Kyoto",
+      "pi": "jīng dū"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "朋友",
+      "en": "friend",
+      "pi": "péng yǒu"
+    }
+  ]
+}

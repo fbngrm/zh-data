@@ -1,0 +1,88 @@
+{
+  "sentences": [
+    {
+      "chinese": "你和父亲关系不好吗？",
+      "english": "Is your relationship with your father not good?",
+      "pinyin": "nǐ hé fùqīn guānxi bù hǎo ma?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "和",
+          "en": "and",
+          "pi": "hé"
+        },
+        {
+          "ch": "父亲",
+          "en": "father",
+          "pi": "fùqīn"
+        },
+        {
+          "ch": "关系",
+          "en": "relationship",
+          "pi": "guānxi"
+        },
+        {
+          "ch": "不好",
+          "en": "not good",
+          "pi": "bù hǎo"
+        },
+        {
+          "ch": "吗",
+          "en": "?",
+          "pi": "ma"
+        }
+      ]
+    },
+    {
+      "chinese": "……",
+      "english": "...",
+      "pinyin": "..."
+    },
+    {
+      "chinese": "不好意思，我不应该多事的。",
+      "english": "Sorry, I shouldn't have interfered.",
+      "pinyin": "bù hǎo yìsi, wǒ bù yīnggāi duōshì de.",
+      "words": [
+        {
+          "ch": "不好意思",
+          "en": "sorry",
+          "pi": "bù hǎo yìsi"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": ","
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "不",
+          "en": "should not",
+          "pi": "bù"
+        },
+        {
+          "ch": "应该",
+          "en": "should",
+          "pi": "yīnggāi"
+        },
+        {
+          "ch": "多事的",
+          "en": "interfered",
+          "pi": "duōshì de"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "."
+        }
+      ]
+    }
+  ]
+}

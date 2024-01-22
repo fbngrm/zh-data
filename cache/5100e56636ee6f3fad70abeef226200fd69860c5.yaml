@@ -1,0 +1,14 @@
+{
+  "chinese": "我想跟你借５０美元。",
+  "english": "I want to borrow $50 from you.",
+  "pinyin": "wǒ xiǎng gēn nǐ jiè wǔshí měiyuán。",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "想", "en": "want", "pi": "xiǎng" },
+    { "ch": "跟", "en": "to", "pi": "gēn" },
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "借", "en": "borrow", "pi": "jiè" },
+    { "ch": "５０", "en": "50", "pi": "wǔshí" },
+    { "ch": "美元", "en": "dollars", "pi": "měiyuán" }
+  ]
+}

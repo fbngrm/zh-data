@@ -1,0 +1,32 @@
+{
+  "chinese": "电视台现在正在播放足球赛。",
+  "english": "The television station is currently broadcasting a football match.",
+  "pinyin": "diàn shì tái xiàn zài zhèng zài bō fàng zú qiú sài。",
+  "words": [
+    {
+      "ch": "电视台",
+      "en": "television station",
+      "pi": "diàn shì tái"
+    },
+    {
+      "ch": "现在",
+      "en": "currently",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "正在",
+      "en": "is currently",
+      "pi": "zhèng zài"
+    },
+    {
+      "ch": "播放",
+      "en": "broadcasting",
+      "pi": "bō fàng"
+    },
+    {
+      "ch": "足球赛",
+      "en": "football match",
+      "pi": "zú qiú sài"
+    }
+  ]
+}

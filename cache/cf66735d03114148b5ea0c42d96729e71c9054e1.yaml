@@ -1,0 +1,32 @@
+{
+  "chinese": "箱子里有苹果吗?",
+  "english": "Are there apples in the box?",
+  "pinyin": "xiāng zi lǐ yǒu píng guǒ ma?",
+  "words": [
+    {
+      "ch": "箱子",
+      "en": "box",
+      "pi": "xiāng zi"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "苹果",
+      "en": "apple",
+      "pi": "píng guǒ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

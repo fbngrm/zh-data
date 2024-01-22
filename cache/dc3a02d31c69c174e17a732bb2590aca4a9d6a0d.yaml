@@ -1,0 +1,37 @@
+{
+  "chinese" : "他聪明到不会娶她。",
+  "english" : "He is so smart that he wouldn't marry her.",
+  "pinyin" : "tā cōngmíng dào bù huì qǔ tā。",
+  "words" : [
+    {
+      "ch" : "他",
+      "en" : "He",
+      "pi" : "tā"
+    },
+    {
+      "ch" : "聪明",
+      "en" : "smart",
+      "pi" : "cōngmíng"
+    },
+    {
+      "ch" : "到",
+      "en" : "so",
+      "pi" : "dào"
+    },
+    {
+      "ch" : "不会",
+      "en" : "wouldn't",
+      "pi" : "bù huì"
+    },
+    {
+      "ch" : "娶",
+      "en" : "marry",
+      "pi" : "qǔ"
+    },
+    {
+      "ch" : "她",
+      "en" : "her",
+      "pi" : "tā"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆看玛丽画一幅画。",
+  "english": "Tom is watching Mary draw a picture.",
+  "pinyin": "Tāng mǔ kàn mǎ lì huà yī fú huà。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "看",
+      "en": "watch",
+      "pi": "kàn"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "画",
+      "en": "draw",
+      "pi": "huà"
+    },
+    {
+      "ch": "一",
+      "en": "a",
+      "pi": "yī"
+    },
+    {
+      "ch": "幅",
+      "en": "picture",
+      "pi": "fú"
+    },
+    {
+      "ch": "画",
+      "en": "draw",
+      "pi": "huà"
+    }
+  ]
+}

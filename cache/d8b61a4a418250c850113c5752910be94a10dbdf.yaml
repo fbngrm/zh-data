@@ -1,0 +1,32 @@
+{
+  "chinese": "老师让这个男孩回家。",
+  "english": "The teacher asked this boy to go home.",
+  "pinyin": "lǎo shī ràng zhè ge nán hái huí jiā。",
+  "words": [
+    {
+      "ch": "老师",
+      "en": "teacher",
+      "pi": "lǎo shī"
+    },
+    {
+      "ch": "让",
+      "en": "ask",
+      "pi": "ràng"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè ge"
+    },
+    {
+      "ch": "男孩",
+      "en": "boy",
+      "pi": "nán hái"
+    },
+    {
+      "ch": "回家",
+      "en": "go home",
+      "pi": "huí jiā"
+    }
+  ]
+}

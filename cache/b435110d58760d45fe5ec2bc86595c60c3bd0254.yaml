@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆和我是朋友。",
+  "english": "Tom and I are friends.",
+  "pinyin": "tāng mǔ hé wǒ shì péng yǒu.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "是",
+      "en": "am",
+      "pi": "shì"
+    },
+    {
+      "ch": "朋友",
+      "en": "friends",
+      "pi": "péng yǒu"
+    }
+  ]
+}

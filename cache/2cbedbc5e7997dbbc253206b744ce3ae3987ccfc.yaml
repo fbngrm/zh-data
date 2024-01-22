@@ -1,0 +1,32 @@
+{
+  "chinese": "他会说一点点英语。",
+  "english": "He can speak a little English.",
+  "pinyin": "Tā huì shuō yī diǎn diǎn yīngyǔ.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "一点点",
+      "en": "a little",
+      "pi": "yī diǎn diǎn"
+    },
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīngyǔ"
+    }
+  ]
+}

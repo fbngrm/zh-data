@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆是个什么样的人？",
+  "english": "What kind of person is Tom?",
+  "pinyin": "Tāng mǔ shì gè shénme yàng de rén?",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "什么样",
+      "en": "kind of",
+      "pi": "shénme yàng"
+    },
+    {
+      "ch": "的",
+      "en": "person",
+      "pi": "de rén"
+    }
+  ]
+}

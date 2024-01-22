@@ -1,0 +1,17 @@
+{
+  "chinese": "打扰一下，你能把糖递给我吗？",
+  "english": "Excuse me, could you pass me the sugar?",
+  "pinyin": "dǎ rǎo yī xià, nǐ néng bǎ táng dì gěi wǒ ma?",
+  "words": [
+    {"ch": "打扰", "en": "Excuse me", "pi": "dǎ rǎo"},
+    {"ch": "一下", "en": "a moment", "pi": "yī xià"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "能", "en": "can", "pi": "néng"},
+    {"ch": "把", "en": "pass", "pi": "bǎ"},
+    {"ch": "糖", "en": "sugar", "pi": "táng"},
+    {"ch": "递给", "en": "give", "pi": "dì gěi"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "吗", "en": "?", "pi": "ma"}
+  ]
+}

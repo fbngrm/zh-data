@@ -1,0 +1,14 @@
+{
+  "chinese": "这个俱乐部里有５０个会员。",
+  "english": "There are 50 members in this club.",
+  "pinyin": "zhè gè jù lè bù lǐ yǒu wǔ shí gè huì yuán。",
+  "words": [
+    { "ch": "这个", "en": "this", "pi": "zhè gè" },
+    { "ch": "俱乐部", "en": "club", "pi": "jù lè bù" },
+    { "ch": "里", "en": "in", "pi": "lǐ" },
+    { "ch": "有", "en": "have", "pi": "yǒu" },
+    { "ch": "５０", "en": "50", "pi": "wǔ shí" },
+    { "ch": "个", "en": "a", "pi": "gè" },
+    { "ch": "会员", "en": "member", "pi": "huì yuán" }
+  ]
+}

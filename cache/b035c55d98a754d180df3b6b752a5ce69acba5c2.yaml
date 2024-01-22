@@ -1,0 +1,47 @@
+{
+  "chinese": "早上我只喝了咖啡，没吃别的。",
+  "english": "I only had coffee in the morning, nothing else to eat.",
+  "pinyin": "zǎo shang wǒ zhǐ hē le kā fēi, méi chī bié de.",
+  "words": [
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎo shang"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "只",
+      "en": "only",
+      "pi": "zhǐ"
+    },
+    {
+      "ch": "喝了",
+      "en": "had",
+      "pi": "hē le"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kā fēi"
+    },
+    {
+      "ch": "没",
+      "en": "nothing",
+      "pi": "méi"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "别的",
+      "en": "else",
+      "pi": "bié de"
+    }
+  ]
+}

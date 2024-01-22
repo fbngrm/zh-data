@@ -1,0 +1,32 @@
+{
+  "chinese": "這條河的水乾了。",
+  "english": "The water of this river has dried up.",
+  "pinyin": "zhè tiáo hé de shuǐ gān le。",
+  "words": [
+    {
+      "ch": "這條",
+      "en": "this",
+      "pi": "zhè tiáo"
+    },
+    {
+      "ch": "河",
+      "en": "river",
+      "pi": "hé"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "水",
+      "en": "water",
+      "pi": "shuǐ"
+    },
+    {
+      "ch": "乾了",
+      "en": "dried up",
+      "pi": "gān le"
+    }
+  ]
+}

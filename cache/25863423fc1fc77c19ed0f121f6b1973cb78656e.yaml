@@ -1,0 +1,33 @@
+
+{
+  "chinese": "我下週要去度假。",
+  "english": "I'm going on vacation next week.",
+  "pinyin": "Wǒ xiàzhōu yào qù dùjià.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "下週",
+      "en": "next week",
+      "pi": "xiàzhōu"
+    },
+    {
+      "ch": "要",
+      "en": "to want",
+      "pi": "yào"
+    },
+    {
+      "ch": "去",
+      "en": "to go",
+      "pi": "qù"
+    },
+    {
+      "ch": "度假",
+      "en": "on vacation",
+      "pi": "dùjià"
+    }
+  ]
+}

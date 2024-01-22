@@ -1,0 +1,28 @@
+{
+  "chinese": "有个数学教师说：“有了计算器，孩子可以得出正确结果，但根本不知道怎么得来的。”",
+  "english": "A math teacher said, 'With a calculator, children can get the correct result, but they have no clue how they got it.'",
+  "pinyin": "yǒu gè shù xué jiào shī shuō ： “ yǒu le jì suàn qì ， hái zi kě yǐ dé chū zhèng què jié guǒ ， dàn gēn běn bù zhī dào zěn me dé lái de 。 ”",
+  "words": [
+    { "ch": "有", "en": "have", "pi": "yǒu" },
+    { "ch": "个", "en": "a", "pi": "gè" },
+    { "ch": "数学", "en": "math", "pi": "shù xué" },
+    { "ch": "教师", "en": "teacher", "pi": "jiào shī" },
+    { "ch": "说", "en": "said", "pi": "shuō" },
+    { "ch": "：", "en": "':'", "pi": "：" },
+    { "ch": "有了", "en": "With", "pi": "yǒu le" },
+    { "ch": "计算器", "en": "a calculator", "pi": "jì suàn qì" },
+    { "ch": "孩子", "en": "children", "pi": "hái zi" },
+    { "ch": "可以", "en": "can", "pi": "kě yǐ" },
+    { "ch": "得出", "en": "get", "pi": "dé chū" },
+    { "ch": "正确", "en": "correct", "pi": "zhèng què" },
+    { "ch": "结果", "en": "result", "pi": "jié guǒ" },
+    { "ch": "，", "en": ",", "pi": "，" },
+    { "ch": "但", "en": "but", "pi": "dàn" },
+    { "ch": "根本", "en": "have no clue", "pi": "gēn běn" },
+    { "ch": "不知道", "en": "don't know", "pi": "bù zhī dào" },
+    { "ch": "怎么", "en": "how", "pi": "zěn me" },
+    { "ch": "得来", "en": "got it", "pi": "dé lái" },
+    { "ch": "的", "en": "", "pi": "de" },
+    { "ch": "。”", "en": ".'", "pi": "。”" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "chinese": "他怕会下雨，所以就把窗关上了。",
+  "english": "He's afraid it will rain, so he closed the window.",
+  "pinyin": "tā pà huì xià yǔ, suǒ yǐ jiù bǎ chuāng guān shàng le.",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "怕", "en": "afraid", "pi": "pà"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "下雨", "en": "rain", "pi": "xià yǔ"},
+    {"ch": "所以", "en": "so", "pi": "suǒ yǐ"},
+    {"ch": "就", "en": "then", "pi": "jiù"},
+    {"ch": "把", "en": "to", "pi": "bǎ"},
+    {"ch": "窗", "en": "window", "pi": "chuāng"},
+    {"ch": "关上", "en": "close", "pi": "guān shàng"},
+    {"ch": "了", "en": "了", "pi": "le"}
+  ]
+}

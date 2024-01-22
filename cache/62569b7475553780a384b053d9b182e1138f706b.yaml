@@ -1,0 +1,37 @@
+{
+  "chinese": "他喝了三瓶啤酒。",
+  "english": "He drank three bottles of beer.",
+  "pinyin": "tā hē le sān píng pí jiǔ.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "喝",
+      "en": "drank",
+      "pi": "hē"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "三",
+      "en": "three",
+      "pi": "sān"
+    },
+    {
+      "ch": "瓶",
+      "en": "bottles",
+      "pi": "píng"
+    },
+    {
+      "ch": "啤酒",
+      "en": "beer",
+      "pi": "pí jiǔ"
+    }
+  ]
+}

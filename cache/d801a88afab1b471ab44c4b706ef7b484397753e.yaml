@@ -1,0 +1,37 @@
+{
+  "chinese": "我的字典里没有这个词。",
+  "english": "The word is not in my dictionary.",
+  "pinyin": "wǒ de zìdiǎn lǐ méiyǒu zhège cí.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "字典",
+      "en": "dictionary",
+      "pi": "zìdiǎn"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "没有",
+      "en": "not have",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhège"
+    },
+    {
+      "ch": "词",
+      "en": "word",
+      "pi": "cí"
+    }
+  ]
+}

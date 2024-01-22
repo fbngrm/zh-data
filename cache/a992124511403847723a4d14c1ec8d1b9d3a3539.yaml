@@ -1,0 +1,13 @@
+{
+  "chinese": "你把书给谁了？",
+  "english": "Whom did you give the book to?",
+  "pinyin": "nǐ bǎ shū gěi shuí le?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "把", "en": "give", "pi": "bǎ"},
+    {"ch": "书", "en": "book", "pi": "shū"},
+    {"ch": "给", "en": "to", "pi": "gěi"},
+    {"ch": "谁", "en": "whom", "pi": "shuí"},
+    {"ch": "了", "en": "did", "pi": "le"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "这个是我父亲的。",
+  "english": "This is my father's.",
+  "pinyin": "zhè gè shì wǒ fùqīn de.",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我",
+      "en": "my",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "父亲",
+      "en": "father",
+      "pi": "fùqīn"
+    },
+    {
+      "ch": "的",
+      "en": "'s",
+      "pi": "de"
+    }
+  ]
+}

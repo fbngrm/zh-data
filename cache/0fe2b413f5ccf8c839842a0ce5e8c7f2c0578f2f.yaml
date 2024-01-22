@@ -1,0 +1,32 @@
+{
+  "chinese": "他能说流利的中文。",
+  "english": "He can speak fluent Chinese.",
+  "pinyin": "tā néng shuō liúlì de zhōngwén.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "流利的",
+      "en": "fluent",
+      "pi": "liúlì de"
+    },
+    {
+      "ch": "中文",
+      "en": "Chinese",
+      "pi": "zhōngwén"
+    }
+  ]
+}

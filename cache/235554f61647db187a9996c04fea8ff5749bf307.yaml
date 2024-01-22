@@ -1,0 +1,42 @@
+{
+  "chinese": "请为这位女士叫辆出租车。",
+  "english": "Please call a taxi for this lady.",
+  "pinyin": "Qǐng wèi zhè wèi nǚshì jiào liàng chūzūchē。",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "Qǐng"
+    },
+    {
+      "ch": "为",
+      "en": "for",
+      "pi": "wèi"
+    },
+    {
+      "ch": "这位",
+      "en": "this",
+      "pi": "zhè wèi"
+    },
+    {
+      "ch": "女士",
+      "en": "lady",
+      "pi": "nǚshì"
+    },
+    {
+      "ch": "叫",
+      "en": "call",
+      "pi": "jiào"
+    },
+    {
+      "ch": "辆",
+      "en": "a",
+      "pi": "liàng"
+    },
+    {
+      "ch": "出租车",
+      "en": "taxi",
+      "pi": "chūzūchē"
+    }
+  ]
+}

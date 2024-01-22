@@ -1,0 +1,15 @@
+{
+  "chinese": "我在海边捡了个漂亮贝壳。",
+  "english": "I picked up a beautiful seashell at the beach.",
+  "pinyin": "wǒ zài hǎi biān jiǎn le gè piào liàng bèi ké.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "海边", "en": "beach", "pi": "hǎi biān"},
+    {"ch": "捡", "en": "picked up", "pi": "jiǎn"},
+    {"ch": "了", "en": "a", "pi": "le"},
+    {"ch": "个", "en": "beautiful", "pi": "gè"},
+    {"ch": "漂亮", "en": "seashell", "pi": "piào liàng"},
+    {"ch": "贝壳", "en": "at the", "pi": "bèi ké"}
+  ]
+}

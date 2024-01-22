@@ -1,0 +1,32 @@
+{
+  "chinese": "我想吃法国菜。",
+  "english": "I want to eat French cuisine.",
+  "pinyin": "wǒ xiǎng chī fǎ guó cài.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "法国",
+      "en": "French",
+      "pi": "fǎ guó"
+    },
+    {
+      "ch": "菜",
+      "en": "cuisine",
+      "pi": "cài"
+    }
+  ]
+}

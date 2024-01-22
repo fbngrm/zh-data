@@ -1,0 +1,42 @@
+{
+  "chinese": "你在奥地利的什么地方长大？",
+  "english": "Where in Austria did you grow up?",
+  "pinyin": "Nǐ zài ào dì lì de shénme dìfāng zhǎng dà?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "在",
+      "en": "in/at",
+      "pi": "zài"
+    },
+    {
+      "ch": "奥地利",
+      "en": "Austria",
+      "pi": "ào dì lì"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "地方",
+      "en": "place",
+      "pi": "dìfāng"
+    },
+    {
+      "ch": "长大",
+      "en": "grow up",
+      "pi": "zhǎng dà"
+    }
+  ]
+}

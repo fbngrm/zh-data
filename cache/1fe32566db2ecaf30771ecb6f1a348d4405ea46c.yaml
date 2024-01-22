@@ -1,0 +1,57 @@
+{
+  "chinese": "他给我写了一封很长的信。",
+  "english": "He wrote me a very long letter.",
+  "pinyin": "tā gěi wǒ xiě le yī fēng hěn zhǎng de xìn.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "给",
+      "en": "to give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "写",
+      "en": "to write",
+      "pi": "xiě"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "一",
+      "en": "one",
+      "pi": "yī"
+    },
+    {
+      "ch": "封",
+      "en": "measure word for letter",
+      "pi": "fēng"
+    },
+    {
+      "ch": "很长",
+      "en": "very long",
+      "pi": "hěn zhǎng"
+    },
+    {
+      "ch": "的",
+      "en": "particle indicating description",
+      "pi": "de"
+    },
+    {
+      "ch": "信",
+      "en": "letter",
+      "pi": "xìn"
+    }
+  ]
+}

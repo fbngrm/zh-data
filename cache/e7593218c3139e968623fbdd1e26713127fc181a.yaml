@@ -1,0 +1,32 @@
+{
+  "chinese": "你上次考試考得怎樣？",
+  "english": "How did you do on your last exam?",
+  "pinyin": "nǐ shàng cì kǎo shì kǎo de zěn yàng?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "上次",
+      "en": "last time",
+      "pi": "shàng cì"
+    },
+    {
+      "ch": "考試",
+      "en": "exam",
+      "pi": "kǎo shì"
+    },
+    {
+      "ch": "考得",
+      "en": "do",
+      "pi": "kǎo de"
+    },
+    {
+      "ch": "怎樣",
+      "en": "how",
+      "pi": "zěn yàng"
+    }
+  ]
+}

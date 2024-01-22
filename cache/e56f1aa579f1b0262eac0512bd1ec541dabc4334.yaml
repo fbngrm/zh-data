@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆讲法语看来比以前好。",
+  "english": "Tom seems to speak French better than before.",
+  "pinyin": "tāng mǔ jiǎng fǎ yǔ kàn lái bǐ yǐ qián hǎo。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "讲",
+      "en": "speak",
+      "pi": "jiǎng"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎ yǔ"
+    },
+    {
+      "ch": "看来",
+      "en": "seems",
+      "pi": "kàn lái"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "以前",
+      "en": "before",
+      "pi": "yǐ qián"
+    },
+    {
+      "ch": "好",
+      "en": "well",
+      "pi": "hǎo"
+    }
+  ]
+}

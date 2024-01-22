@@ -1,0 +1,15 @@
+{
+  "chinese": "我把爸爸送給我的手錶弄不見了。",
+  "english": "I lost the watch my dad gave me.",
+  "pinyin": "wǒ bǎ bàba sòng gěi wǒ de shǒubiǎo nòng bù jiàn le。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "把", "en": "give", "pi": "bǎ"},
+    {"ch": "爸爸", "en": "dad", "pi": "bàba"},
+    {"ch": "送", "en": "give", "pi": "sòng"},
+    {"ch": "給", "en": "to", "pi": "gěi"},
+    {"ch": "我的", "en": "my", "pi": "wǒde"},
+    {"ch": "手錶", "en": "watch", "pi": "shǒubiǎo"},
+    {"ch": "弄不見了", "en": "lost", "pi": "nòng bù jiàn le"}
+  ]
+}

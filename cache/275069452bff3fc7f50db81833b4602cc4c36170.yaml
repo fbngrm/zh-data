@@ -1,0 +1,32 @@
+{
+  "chinese": "迈克要求不要被打扰。",
+  "english": "Mike requests not to be disturbed.",
+  "pinyin": "mài kè yāo qiú bù yào bèi dǎ rǎo.",
+  "words": [
+    {
+      "ch": "迈克",
+      "en": "Mike",
+      "pi": "mài kè"
+    },
+    {
+      "ch": "要求",
+      "en": "requests",
+      "pi": "yāo qiú"
+    },
+    {
+      "ch": "不要",
+      "en": "not",
+      "pi": "bù yào"
+    },
+    {
+      "ch": "被",
+      "en": "to be",
+      "pi": "bèi"
+    },
+    {
+      "ch": "打扰",
+      "en": "disturbed",
+      "pi": "dǎ rǎo"
+    }
+  ]
+}

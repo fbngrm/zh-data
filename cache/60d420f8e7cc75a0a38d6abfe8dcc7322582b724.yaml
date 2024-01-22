@@ -1,0 +1,14 @@
+{
+  "chinese": "我能在哪里乘上机场巴士？",
+  "english": "Where can I take the airport shuttle bus?",
+  "pinyin": "wǒ néng zài nǎlǐ chéng shàng jīchǎng bāshì?",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "能", "en": "can", "pi": "néng"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "哪里", "en": "where", "pi": "nǎlǐ"},
+    {"ch": "乘上", "en": "take", "pi": "chéng shàng"},
+    {"ch": "机场", "en": "airport", "pi": "jīchǎng"},
+    {"ch": "巴士", "en": "shuttle bus", "pi": "bāshì"}
+  ]
+}

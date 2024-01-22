@@ -1,0 +1,14 @@
+{
+  "chinese": "这样做的话什么都不会改变的。",
+  "english": "Doing this will not change anything.",
+  "pinyin": "zhè yàng zuò de huà shén me dōu bù huì gǎi biàn de.",
+  "words": [
+    {"ch": "这样", "en": "this way", "pi": "zhè yàng"},
+    {"ch": "做", "en": "do", "pi": "zuò"},
+    {"ch": "的话", "en": "if", "pi": "de huà"},
+    {"ch": "什么都", "en": "anything", "pi": "shén me dōu"},
+    {"ch": "不会", "en": "will not", "pi": "bù huì"},
+    {"ch": "改变", "en": "change", "pi": "gǎi biàn"},
+    {"ch": "的", "en": "of", "pi": "de"}
+  ]
+}

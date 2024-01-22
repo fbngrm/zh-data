@@ -1,0 +1,14 @@
+{
+  "chinese": "我们为他们提供了食物和衣服。",
+  "english": "We provided them with food and clothing.",
+  "pinyin": "wǒ mén wèi tā men tí gōng le shí wù hé yī fú。",
+  "words": [
+    {"ch": "我们", "en": "We", "pi": "wǒ mén"},
+    {"ch": "为", "en": "provided", "pi": "wèi"},
+    {"ch": "他们", "en": "them", "pi": "tā men"},
+    {"ch": "提供了", "en": "with", "pi": "tí gōng le"},
+    {"ch": "食物", "en": "food", "pi": "shí wù"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "衣服", "en": "clothing", "pi": "yī fú"}
+  ]
+}

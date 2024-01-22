@@ -1,0 +1,32 @@
+{
+  "chinese": "这是您的钥匙。",
+  "english": "This is your key.",
+  "pinyin": "zhè shì nín de yào shi.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "您",
+      "en": "your",
+      "pi": "nín"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "钥匙",
+      "en": "key",
+      "pi": "yào shi"
+    }
+  ]
+}

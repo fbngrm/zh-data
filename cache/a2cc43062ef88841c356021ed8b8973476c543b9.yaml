@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆现在住在波士顿。",
+  "english": "Tom now lives in Boston.",
+  "pinyin": "Tāng mǔ xiàn zài zhù zài bō shì dùn.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "住",
+      "en": "lives",
+      "pi": "zhù"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "波士顿",
+      "en": "Boston",
+      "pi": "bō shì dùn"
+    }
+  ]
+}

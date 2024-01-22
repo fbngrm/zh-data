@@ -1,0 +1,42 @@
+{
+  "chinese": "花子和太郎去吃了寿司。",
+  "english": "Hana and Taro went to eat sushi.",
+  "pinyin": "Huāzi hé Tàiláng qù chīle shòusī.",
+  "words": [
+    {
+      "ch": "花子",
+      "en": "Hana",
+      "pi": "Huāzi"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "太郎",
+      "en": "Taro",
+      "pi": "Tàiláng"
+    },
+    {
+      "ch": "去",
+      "en": "went",
+      "pi": "qù"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "了",
+      "en": "completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "寿司",
+      "en": "sushi",
+      "pi": "shòusī"
+    }
+  ]
+}

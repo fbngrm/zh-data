@@ -1,0 +1,47 @@
+{
+  "chinese": "昨天我寫信寫到很晚才去睡覺。",
+  "english": "Yesterday I wrote a letter and wrote until late before going to bed.",
+  "pinyin": "zuó tiān wǒ xiě xìn xiě dào hěn wǎn cái qù shuì jiào。",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "Yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "寫信",
+      "en": "wrote a letter",
+      "pi": "xiě xìn"
+    },
+    {
+      "ch": "寫到",
+      "en": "wrote until",
+      "pi": "xiě dào"
+    },
+    {
+      "ch": "很晚",
+      "en": "late",
+      "pi": "hěn wǎn"
+    },
+    {
+      "ch": "才",
+      "en": "before",
+      "pi": "cái"
+    },
+    {
+      "ch": "去",
+      "en": "going",
+      "pi": "qù"
+    },
+    {
+      "ch": "睡覺",
+      "en": "to bed",
+      "pi": "shuì jiào"
+    }
+  ]
+}

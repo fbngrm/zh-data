@@ -1,0 +1,42 @@
+{
+  "chinese": "你会说简单的英语吗？",
+  "english": "Can you speak simple English?",
+  "pinyin": "nǐ huì shuō jiǎn dān de yīng yǔ ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "简单",
+      "en": "simple",
+      "pi": "jiǎn dān"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīng yǔ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particles",
+      "pi": "ma"
+    }
+  ]
+}

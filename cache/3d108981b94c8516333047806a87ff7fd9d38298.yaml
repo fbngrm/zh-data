@@ -1,0 +1,16 @@
+{
+  "chinese": "天氣八成在一個小時之內就會放晴。",
+  "english": "The weather will likely clear up within an hour.",
+  "pinyin": "Tiān qì bā chéng zài yī gè xiǎo shí zhī nèi jiù huì fàng qíng.",
+  "words": [
+    {"ch": "天氣", "en": "weather", "pi": "tiān qì"},
+    {"ch": "八成", "en": "likely", "pi": "bā chéng"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "一個", "en": "one", "pi": "yī gè"},
+    {"ch": "小時", "en": "hour", "pi": "xiǎo shí"},
+    {"ch": "之內", "en": "within", "pi": "zhī nèi"},
+    {"ch": "就", "en": "will", "pi": "jiù"},
+    {"ch": "會", "en": "likely", "pi": "huì"},
+    {"ch": "放晴", "en": "clear up", "pi": "fàng qíng"}
+  ]
+}

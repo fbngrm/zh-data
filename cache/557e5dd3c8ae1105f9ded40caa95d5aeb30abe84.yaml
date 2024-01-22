@@ -1,0 +1,32 @@
+{
+  "chinese": "我将在家学习英语。",
+  "english": "I will study English at home.",
+  "pinyin": "wǒ jiāng zàijiā xuéxí yīngyǔ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "将",
+      "en": "will",
+      "pi": "jiāng"
+    },
+    {
+      "ch": "在家",
+      "en": "at home",
+      "pi": "zàijiā"
+    },
+    {
+      "ch": "学习",
+      "en": "study",
+      "pi": "xuéxí"
+    },
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīngyǔ"
+    }
+  ]
+}

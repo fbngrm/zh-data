@@ -1,0 +1,32 @@
+{
+  "chinese": "这瓶酸奶不含乳糖。",
+  "english": "This bottle of yogurt does not contain lactose.",
+  "pinyin": "zhè píng suān nǎi bù hán rǔ táng。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "瓶",
+      "en": "bottle",
+      "pi": "píng"
+    },
+    {
+      "ch": "酸奶",
+      "en": "yogurt",
+      "pi": "suān nǎi"
+    },
+    {
+      "ch": "不含",
+      "en": "does not contain",
+      "pi": "bù hán"
+    },
+    {
+      "ch": "乳糖",
+      "en": "lactose",
+      "pi": "rǔ táng"
+    }
+  ]
+}

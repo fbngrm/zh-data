@@ -1,0 +1,32 @@
+{
+  "chinese": "你能在这里签名吗?",
+  "english": "Can you sign here?",
+  "pinyin": "nǐ néng zài zhèlǐ qiānmíng ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "在这里",
+      "en": "here",
+      "pi": "zài zhèlǐ"
+    },
+    {
+      "ch": "签名",
+      "en": "sign",
+      "pi": "qiānmíng"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

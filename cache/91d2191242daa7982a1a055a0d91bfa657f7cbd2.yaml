@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆是个高中生。",
+  "english": "Tom is a high school student.",
+  "pinyin": "Tāng mǔ shì gè gāo zhōng shēng.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "高中生",
+      "en": "high school student",
+      "pi": "gāo zhōng shēng"
+    }
+  ]
+}

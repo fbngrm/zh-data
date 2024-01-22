@@ -1,0 +1,13 @@
+{
+  "chinese": "我们向山间小屋走去。",
+  "english": "We walked towards the cottage in the mountains.",
+  "pinyin": "wǒmen xiàng shān jiān xiǎo wū zǒu qù。",
+  "words": [
+    {"ch": "我们", "en": "We",  "pi": "wǒ men"},
+    {"ch": "向", "en": "towards", "pi": "xiàng"},
+    {"ch": "山间", "en": "mountain", "pi": "shān jiān"},
+    {"ch": "小屋", "en": "cottage", "pi": "xiǎo wū"},
+    {"ch": "走", "en": "walk", "pi": "zǒu"},
+    {"ch": "去", "en": "to", "pi": "qù"}
+  ]
+}

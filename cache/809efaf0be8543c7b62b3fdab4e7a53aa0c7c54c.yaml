@@ -1,0 +1,37 @@
+{
+  "chinese": "他的名字我記得很清楚。",
+  "english": "I remember his name very clearly.",
+  "pinyin": "tā de míngzì wǒ jìde hěn qīngchǔ。",
+  "words": [
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tāde"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míngzì"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "記得",
+      "en": "remember",
+      "pi": "jìde"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "清楚",
+      "en": "clearly",
+      "pi": "qīngchǔ"
+    }
+  ]
+}

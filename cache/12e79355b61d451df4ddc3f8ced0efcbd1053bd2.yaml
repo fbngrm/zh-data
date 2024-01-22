@@ -1,0 +1,42 @@
+{
+  "chinese": "她穿那件红色的衣服很好看。",
+  "english": "She looks great in that red dress.",
+  "pinyin": "tā chuān nà jiàn hóng sè de yīfú hěn hǎokàn.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "穿",
+      "en": "wear",
+      "pi": "chuān"
+    },
+    {
+      "ch": "那件",
+      "en": "that",
+      "pi": "nà jiàn"
+    },
+    {
+      "ch": "红色的",
+      "en": "red",
+      "pi": "hóng sè de"
+    },
+    {
+      "ch": "衣服",
+      "en": "dress",
+      "pi": "yīfú"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "好看",
+      "en": "great",
+      "pi": "hǎokàn"
+    }
+  ]
+}

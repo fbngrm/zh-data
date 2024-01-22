@@ -1,0 +1,27 @@
+{
+  "chinese": "这支笔是我的。",
+  "english": "This pen is mine.",
+  "pinyin": "zhè zhī bǐ shì wǒ de.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "支",
+      "en": "pen",
+      "pi": "zhī"
+    },
+    {
+      "ch": "笔",
+      "en": "is",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "是",
+      "en": "mine",
+      "pi": "wǒ de"
+    }
+  ]
+}

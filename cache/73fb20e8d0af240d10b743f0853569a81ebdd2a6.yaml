@@ -1,0 +1,37 @@
+{
+  "chinese": "你喜欢喝茶；还是咖啡？",
+  "english": "Do you like to drink tea or coffee?",
+  "pinyin": "Ni xi huan he cha; hai shi ka fei?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "ni"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xi huan"
+    },
+    {
+      "ch": "喝",
+      "en": "to drink",
+      "pi": "he"
+    },
+    {
+      "ch": "茶",
+      "en": "tea",
+      "pi": "cha"
+    },
+    {
+      "ch": "还是",
+      "en": "or",
+      "pi": "hai shi"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "ka fei"
+    }
+  ]
+}

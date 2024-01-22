@@ -1,0 +1,37 @@
+{
+  "chinese": "工程师告诉我们如何使用机器。",
+  "english": "The engineer told us how to use the machine.",
+  "pinyin": "Gōngchéngshī gàosù wǒmen rúhé shǐyòng jīqì。",
+  "words": [
+    {
+      "ch": "工程师",
+      "en": "engineer",
+      "pi": "gōngchéngshī"
+    },
+    {
+      "ch": "告诉",
+      "en": "told",
+      "pi": "gàosù"
+    },
+    {
+      "ch": "我们",
+      "en": "us",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "如何",
+      "en": "how",
+      "pi": "rúhé"
+    },
+    {
+      "ch": "使用",
+      "en": "to use",
+      "pi": "shǐyòng"
+    },
+    {
+      "ch": "机器",
+      "en": "machine",
+      "pi": "jīqì"
+    }
+  ]
+}

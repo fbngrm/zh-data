@@ -1,0 +1,32 @@
+{
+  "chinese": "我走了四分之三英里。",
+  "english": "I walked three quarters of a mile.",
+  "pinyin": "Wǒ zǒule sì fēn zhī yī yīnglǐ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "走",
+      "en": "walk",
+      "pi": "zǒu"
+    },
+    {
+      "ch": "了",
+      "en": "past tense particle",
+      "pi": "le"
+    },
+    {
+      "ch": "四分之三",
+      "en": "three quarters",
+      "pi": "sì fēn zhī sān"
+    },
+    {
+      "ch": "英里",
+      "en": "mile",
+      "pi": "yīnglǐ"
+    }
+  ]
+}

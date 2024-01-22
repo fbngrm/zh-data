@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆还有想说的事。",
+  "english": "Tom has something else to say.",
+  "pinyin": "Tāng mǔ hái yǒu xiǎng shuō de shì.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "还有",
+      "en": "has",
+      "pi": "hái yǒu"
+    },
+    {
+      "ch": "想说",
+      "en": "something else to say",
+      "pi": "xiǎng shuō"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "事",
+      "en": "thing",
+      "pi": "shì"
+    }
+  ]
+}

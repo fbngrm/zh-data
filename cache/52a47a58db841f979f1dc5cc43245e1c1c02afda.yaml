@@ -1,0 +1,37 @@
+{
+  "chinese": "那是小李的书。",
+  "english": "That is Xiaoli's book.",
+  "pinyin": "nà shì xiǎo lǐ de shū.",
+  "words": [
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "小",
+      "en": "small",
+      "pi": "xiǎo"
+    },
+    {
+      "ch": "李",
+      "en": "Li",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "的",
+      "en": "possession",
+      "pi": "de"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    }
+  ]
+}

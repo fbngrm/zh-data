@@ -1,0 +1,27 @@
+{
+  "chinese": "我现在在北京。",
+  "english": "I am in Beijing now.",
+  "pinyin": "wǒ xiànzài zài běijīng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiànzài"
+    },
+    {
+      "ch": "在",
+      "en": "in/at",
+      "pi": "zài"
+    },
+    {
+      "ch": "北京",
+      "en": "Beijing",
+      "pi": "běijīng"
+    }
+  ]
+}

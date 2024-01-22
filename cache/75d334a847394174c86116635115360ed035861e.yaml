@@ -1,0 +1,18 @@
+{
+  "chinese": "他在法国住了一段时间，然后就去了意大利。",
+  "english": "He lived in France for a while, and then went to Italy.",
+  "pinyin": "tā zài fǎ guó zhù le yī duàn shí jiān, rán hòu jiù qù le yì dà lì。",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "在", "en": "in/at", "pi": "zài"},
+    {"ch": "法国", "en": "France", "pi": "fǎ guó"},
+    {"ch": "住了", "en": "lived", "pi": "zhù le"},
+    {"ch": "一段时间", "en": "for a while", "pi": "yī duàn shí jiān"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "然后", "en": "then", "pi": "rán hòu"},
+    {"ch": "就", "en": "go to", "pi": "jiù"},
+    {"ch": "去了", "en": "went", "pi": "qù le"},
+    {"ch": "意大利", "en": "Italy", "pi": "yì dà lì"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

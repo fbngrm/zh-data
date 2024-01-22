@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆就是我儿子",
+  "english": "Tom is my son",
+  "pinyin": "Tāng mǔ jiù shì wǒ ér zi",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "就是",
+      "en": "is",
+      "pi": "jiù shì"
+    },
+    {
+      "ch": "我",
+      "en": "my",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "儿子",
+      "en": "son",
+      "pi": "ér zi"
+    }
+  ]
+}

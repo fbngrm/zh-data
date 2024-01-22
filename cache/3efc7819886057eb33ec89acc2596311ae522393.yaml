@@ -1,0 +1,32 @@
+{
+  "chinese": "小男孩在森林中迷路了。",
+  "english": "The little boy got lost in the forest.",
+  "pinyin": "Xiǎo nánhái zài sēnlín zhōng mílù le.",
+  "words": [
+    {
+      "ch": "小",
+      "en": "little",
+      "pi": "xiǎo"
+    },
+    {
+      "ch": "男孩",
+      "en": "boy",
+      "pi": "nánhái"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "森林中",
+      "en": "forest",
+      "pi": "sēnlín zhōng"
+    },
+    {
+      "ch": "迷路了",
+      "en": "got lost",
+      "pi": "mílù le"
+    }
+  ]
+}

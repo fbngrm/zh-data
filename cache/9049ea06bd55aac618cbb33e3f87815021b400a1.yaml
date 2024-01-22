@@ -1,0 +1,27 @@
+{
+  "chinese": "我的哥哥是老师。",
+  "english": "My older brother is a teacher.",
+  "pinyin": "Wǒ de gēgē shì lǎoshī.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "My",
+      "pi": "Wǒ de"
+    },
+    {
+      "ch": "哥哥",
+      "en": "older brother",
+      "pi": "gēgē"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "老师",
+      "en": "teacher",
+      "pi": "lǎoshī"
+    }
+  ]
+}

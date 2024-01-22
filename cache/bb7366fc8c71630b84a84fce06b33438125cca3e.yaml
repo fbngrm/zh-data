@@ -1,0 +1,42 @@
+{
+  "chinese": "他们让我等了一个小时。",
+  "english": "They made me wait for an hour.",
+  "pinyin": "tā men ràng wǒ děng le yī gè xiǎo shí。",
+  "words": [
+    {
+      "ch": "他们",
+      "en": "They",
+      "pi": "tā men"
+    },
+    {
+      "ch": "让",
+      "en": "made",
+      "pi": "ràng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "等",
+      "en": "wait",
+      "pi": "děng"
+    },
+    {
+      "ch": "了",
+      "en": "for",
+      "pi": "le"
+    },
+    {
+      "ch": "一个",
+      "en": "an",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "小时",
+      "en": "hour",
+      "pi": "xiǎo shí"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆的门开着。",
+  "english": "Tom's door is open.",
+  "pinyin": "Tāng mǔ de mén kāi zhe.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "的",
+      "en": "possessive marker",
+      "pi": "de"
+    },
+    {
+      "ch": "门",
+      "en": "door",
+      "pi": "mén"
+    },
+    {
+      "ch": "开着",
+      "en": "is open",
+      "pi": "kāi zhe"
+    }
+  ]
+}

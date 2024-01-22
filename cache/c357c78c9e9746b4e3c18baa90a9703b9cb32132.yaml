@@ -1,0 +1,42 @@
+{
+  "chinese": "这个夏天，我去苏格兰度假了。",
+  "english": "This summer, I went on vacation in Scotland.",
+  "pinyin": "Zhè gè xiàtiān, wǒ qù sūgélán dùjià le.",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "夏天",
+      "en": "summer",
+      "pi": "xiàtiān"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "苏格兰",
+      "en": "Scotland",
+      "pi": "sūgélán"
+    },
+    {
+      "ch": "度假",
+      "en": "vacation",
+      "pi": "dùjià"
+    },
+    {
+      "ch": "了",
+      "en": "completed action particle",
+      "pi": "le"
+    }
+  ]
+}

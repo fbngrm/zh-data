@@ -1,0 +1,32 @@
+{
+  "chinese": "这句句子意思模糊。",
+  "english": "This sentence is ambiguous.",
+  "pinyin": "zhè jù jùzi yìsi móhú.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "句",
+      "en": "sentence",
+      "pi": "jù"
+    },
+    {
+      "ch": "句子",
+      "en": "sentence",
+      "pi": "jùzi"
+    },
+    {
+      "ch": "意思",
+      "en": "meaning",
+      "pi": "yìsi"
+    },
+    {
+      "ch": "模糊",
+      "en": "ambiguous",
+      "pi": "móhú"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "你明天的行程安排是什么？",
+  "english": "What is your schedule for tomorrow?",
+  "pinyin": "nǐ míngtiān de xíngchéng ānpái shì shénme?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "行程",
+      "en": "schedule",
+      "pi": "xíngchéng"
+    },
+    {
+      "ch": "安排",
+      "en": "arrangement",
+      "pi": "ānpái"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    }
+  ]
+}

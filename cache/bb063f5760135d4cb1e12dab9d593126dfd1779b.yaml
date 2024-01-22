@@ -1,0 +1,17 @@
+{
+  "chinese": "这项应用程序能让你快速计算身高体重指数（ＢＭＩ）。",
+  "english": "This application allows you to quickly calculate your body mass index (BMI).",
+  "pinyin": "zhè xiàng yìng yòng chéng xù néng ràng nǐ kuài sù jì suàn shēn gāo tǐ zhòng zhǐ shù (BMI)。",
+  "words": [
+    {"ch": "这项", "en": "This", "pi": "zhè xiàng"},
+    {"ch": "应用程序", "en": "application", "pi": "yìng yòng chéng xù"},
+    {"ch": "能", "en": "allows", "pi": "néng"},
+    {"ch": "让", "en": "you", "pi": "ràng"},
+    {"ch": "快速", "en": "quickly", "pi": "kuài sù"},
+    {"ch": "计算", "en": "calculate", "pi": "jì suàn"},
+    {"ch": "身高", "en": "height", "pi": "shēn gāo"},
+    {"ch": "体重", "en": "weight", "pi": "tǐ zhòng"},
+    {"ch": "指数", "en": "index", "pi": "zhǐ shù"},
+    {"ch": "（ＢＭＩ）", "en": "(BMI)", "pi": "(BMI)"}
+  ]
+}

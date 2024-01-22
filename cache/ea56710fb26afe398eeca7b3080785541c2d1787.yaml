@@ -1,0 +1,42 @@
+{
+  "chinese": "我想把这些土豆切成丝。",
+  "english": "I want to cut these potatoes into strips.",
+  "pinyin": "wǒ xiǎng bǎ zhèxiē tǔdòu qiē chéng sī.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "把",
+      "en": "to",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "这些",
+      "en": "these",
+      "pi": "zhèxiē"
+    },
+    {
+      "ch": "土豆",
+      "en": "potatoes",
+      "pi": "tǔdòu"
+    },
+    {
+      "ch": "切成",
+      "en": "cut into",
+      "pi": "qiē chéng"
+    },
+    {
+      "ch": "丝",
+      "en": "strips",
+      "pi": "sī"
+    }
+  ]
+}

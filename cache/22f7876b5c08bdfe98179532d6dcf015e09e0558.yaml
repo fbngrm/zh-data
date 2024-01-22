@@ -1,0 +1,27 @@
+{
+  "chinese": "右边比左边长。",
+  "english": "The right side is longer than the left.",
+  "pinyin": "yòu biān bǐ zuǒ biān zhǎng。",
+  "words": [
+    {
+      "ch": "右边",
+      "en": "The right side",
+      "pi": "yòu biān"
+    },
+    {
+      "ch": "比",
+      "en": "is",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "左边",
+      "en": "the left",
+      "pi": "zuǒ biān"
+    },
+    {
+      "ch": "长",
+      "en": "longer",
+      "pi": "zhǎng"
+    }
+  ]
+}

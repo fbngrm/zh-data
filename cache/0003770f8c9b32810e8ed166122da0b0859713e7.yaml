@@ -1,0 +1,32 @@
+{
+  "chinese": "人生苦短，我用Ｐｙｔｈｏｎ!",
+  "english": "Life is short, I use Python!",
+  "pinyin": "rén shēng kǔ duǎn, wǒ yòng P y t h o n!",
+  "words": [
+    {
+      "ch": "人生",
+      "en": "Life",
+      "pi": "rén shēng"
+    },
+    {
+      "ch": "苦短",
+      "en": "is short",
+      "pi": "kǔ duǎn"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "用",
+      "en": "use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "Ｐｙｔｈｏｎ",
+      "en": "Python",
+      "pi": "P y t h o n"
+    }
+  ]
+}

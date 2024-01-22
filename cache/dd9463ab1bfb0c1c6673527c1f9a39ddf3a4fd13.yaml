@@ -1,0 +1,42 @@
+{
+  "chinese": "我和我的丈夫都是老师。",
+  "english": "My husband and I are both teachers.",
+  "pinyin": "wǒ hé wǒ de zhàngfū dōu shì lǎoshī.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "丈夫",
+      "en": "husband",
+      "pi": "zhàngfū"
+    },
+    {
+      "ch": "都",
+      "en": "both",
+      "pi": "dōu"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "老师",
+      "en": "teachers",
+      "pi": "lǎoshī"
+    }
+  ]
+}

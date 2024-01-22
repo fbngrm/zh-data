@@ -1,0 +1,42 @@
+{
+  "chinese": "今晚我将在朋友家过夜。",
+  "english": "I will stay overnight at my friend's house tonight.",
+  "pinyin": "jīn wǎn wǒ jiāng zài péng yǒu jiā guò yè。",
+  "words": [
+    {
+      "ch": "今晚",
+      "en": "tonight",
+      "pi": "jīn wǎn"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "将",
+      "en": "will",
+      "pi": "jiāng"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "朋友",
+      "en": "friend",
+      "pi": "péng yǒu"
+    },
+    {
+      "ch": "家",
+      "en": "house",
+      "pi": "jiā"
+    },
+    {
+      "ch": "过夜",
+      "en": "stay overnight",
+      "pi": "guò yè"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "你相信他说的话吗？",
+  "english": "Do you believe what he says?",
+  "pinyin": "nǐ xiāng xìn tā shuō de huà ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "相信", "en": "believe", "pi": "xiāng xìn"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "说", "en": "says", "pi": "shuō"},
+    {"ch": "的", "en": "what", "pi": "de"},
+    {"ch": "话", "en": "words", "pi": "huà"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

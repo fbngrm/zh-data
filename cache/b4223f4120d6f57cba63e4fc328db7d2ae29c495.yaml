@@ -1,0 +1,42 @@
+{
+  "chinese": "你喜欢的歌手是谁？",
+  "english": "Who is your favorite singer?",
+  "pinyin": "Nǐ xǐhuān de gēshǒu shì shéi?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "歌手",
+      "en": "singer",
+      "pi": "gēshǒu"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "谁",
+      "en": "who",
+      "pi": "shéi"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "?"
+    }
+  ]
+}

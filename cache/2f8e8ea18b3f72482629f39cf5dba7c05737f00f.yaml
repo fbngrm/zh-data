@@ -1,0 +1,15 @@
+{
+  "chinese": "当我回家时，我遇见了他。",
+  "english": "When I came home, I met him.",
+  "pinyin": "dāng wǒ huí jiā shí, wǒ yù jiàn le tā.",
+  "words": [
+    {"ch": "当", "en": "when", "pi": "dāng"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "回家", "en": "come home", "pi": "huí jiā"},
+    {"ch": "时", "en": "time", "pi": "shí"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "遇见", "en": "meet", "pi": "yù jiàn"},
+    {"ch": "了", "en": "him", "pi":"le"},
+    {"ch": "他", "en": "him", "pi": "tā"}
+  ]
+}

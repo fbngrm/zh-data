@@ -1,0 +1,37 @@
+{
+  "chinese": "对不起，我要在下一站下。",
+  "english": "Excuse me, I want to get off at the next stop.",
+  "pinyin": "duì bù qǐ, wǒ yào zài xià yí zhàn xià。",
+  "words": [
+    {
+      "ch": "对不起",
+      "en": "Excuse me",
+      "pi": "duì bù qǐ"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "下一站",
+      "en": "next stop",
+      "pi": "xià yí zhàn"
+    },
+    {
+      "ch": "下",
+      "en": "get off",
+      "pi": "xià"
+    }
+  ]
+}

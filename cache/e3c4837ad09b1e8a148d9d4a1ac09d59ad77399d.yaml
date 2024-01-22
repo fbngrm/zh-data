@@ -1,0 +1,32 @@
+{
+  "chinese": "派对在十点钟结束。",
+  "english": "The party ends at ten o'clock.",
+  "pinyin": "Pài duì zài shí diǎn zhōng jiéshù.",
+  "words": [
+    {
+      "ch": "派对",
+      "en": "party",
+      "pi": "pài duì"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "十",
+      "en": "ten",
+      "pi": "shí"
+    },
+    {
+      "ch": "点钟",
+      "en": "o'clock",
+      "pi": "diǎn zhōng"
+    },
+    {
+      "ch": "结束",
+      "en": "ends",
+      "pi": "jiéshù"
+    }
+  ]
+}

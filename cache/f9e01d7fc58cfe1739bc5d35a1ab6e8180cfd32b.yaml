@@ -1,0 +1,13 @@
+{
+  "chinese": "這裏離上野有多遠？",
+  "english": "How far is it from here to Ueno?",
+  "pinyin": "zhè lǐ lí Shàngyuē yǒu duō yuǎn?",
+  "words": [
+    {"ch": "這裏", "en": "here", "pi": "zhè lǐ"},
+    {"ch": "離", "en": "from", "pi": "lí"},
+    {"ch": "上野", "en": "Ueno", "pi": "Shàngyuē"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "多", "en": "how many", "pi": "duō"},
+    {"ch": "遠", "en": "far", "pi": "yuǎn"}
+  ]
+}

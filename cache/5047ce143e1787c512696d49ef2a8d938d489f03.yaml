@@ -1,0 +1,42 @@
+{
+  "chinese": "她给你看过照片了吗?",
+  "english": "Has she shown you the photo?",
+  "pinyin": "tā gěi nǐ kàn guò zhào piàn le ma?",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "看过",
+      "en": "seen",
+      "pi": "kàn guò"
+    },
+    {
+      "ch": "照片",
+      "en": "photo",
+      "pi": "zhào piàn"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

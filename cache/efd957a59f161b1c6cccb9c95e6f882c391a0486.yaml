@@ -1,0 +1,62 @@
+{
+  "chinese": "這個表格好像有點複雜，你可以幫我填嗎？",
+  "english": "This form seems a bit complicated, can you help me fill it out?",
+  "pinyin": "zhè gè biǎo gé hǎo xiàng yǒu diǎn fù zá，nǐ kě yǐ bāng wǒ tián ma?",
+  "words": [
+    {
+      "ch": "這個",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "表格",
+      "en": "form",
+      "pi": "biǎo gé"
+    },
+    {
+      "ch": "好像",
+      "en": "seems",
+      "pi": "hǎo xiàng"
+    },
+    {
+      "ch": "有點",
+      "en": "a bit",
+      "pi": "yǒu diǎn"
+    },
+    {
+      "ch": "複雜",
+      "en": "complicated",
+      "pi": "fù zá"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kě yǐ"
+    },
+    {
+      "ch": "幫",
+      "en": "help",
+      "pi": "bāng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "填",
+      "en": "fill",
+      "pi": "tián"
+    },
+    {
+      "ch": "嗎",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

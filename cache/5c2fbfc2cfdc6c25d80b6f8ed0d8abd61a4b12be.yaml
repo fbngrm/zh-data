@@ -1,0 +1,32 @@
+{
+  "chinese": "格林先生是历史老师。",
+  "english": "Mr. Green is a history teacher.",
+  "pinyin": "Gé lín xiānshēng shì lìshǐ lǎoshī.",
+  "words": [
+    {
+      "ch": "格林",
+      "en": "Green",
+      "pi": "Gé lín"
+    },
+    {
+      "ch": "先生",
+      "en": "Mr.",
+      "pi": "xiānshēng"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "历史",
+      "en": "history",
+      "pi": "lìshǐ"
+    },
+    {
+      "ch": "老师",
+      "en": "teacher",
+      "pi": "lǎoshī"
+    }
+  ]
+}

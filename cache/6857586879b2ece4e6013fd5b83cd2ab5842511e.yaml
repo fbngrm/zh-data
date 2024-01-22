@@ -1,0 +1,98 @@
+{
+  "sentences": [
+    {
+      "chinese": "换了是我，就会要孩子自己一个人去游历一下。",
+      "english": "If it were me, I would have the child travel alone.",
+      "pinyin": "Huàn le shì wǒ, jiù huì yào háizi zìjǐ yīgèrén qù yóulǐ yīxià.",
+      "words": [
+        {
+          "ch": "换了",
+          "en": "If it were",
+          "pi": "huàn le"
+        },
+        {
+          "ch": "是我",
+          "en": "me",
+          "pi": "shì wǒ"
+        },
+        {
+          "ch": "就会",
+          "en": "would",
+          "pi": "jiù huì"
+        },
+        {
+          "ch": "要孩子",
+          "en": "have the child",
+          "pi": "yào háizi"
+        },
+        {
+          "ch": "自己",
+          "en": "alone",
+          "pi": "zìjǐ"
+        },
+        {
+          "ch": "一个人",
+          "en": "travel",
+          "pi": "yīgèrén"
+        },
+        {
+          "ch": "去",
+          "en": "to",
+          "pi": "qù"
+        },
+        {
+          "ch": "游历",
+          "en": "explore",
+          "pi": "yóulǐ"
+        },
+        {
+          "ch": "一下",
+          "en": "a little",
+          "pi": "yīxià"
+        }
+      ]
+    },
+    {
+      "chinese": "他现在这个年纪，吃一点苦是好的。",
+      "english": "It is good for him to endure a little hardship at his age.",
+      "pinyin": "Tā xiànzài zhè ge niánjì, chī yīdiǎn kǔ shì hǎo de.",
+      "words": [
+        {
+          "ch": "他",
+          "en": "him",
+          "pi": "tā"
+        },
+        {
+          "ch": "现在",
+          "en": "now",
+          "pi": "xiànzài"
+        },
+        {
+          "ch": "这个",
+          "en": "at",
+          "pi": "zhè ge"
+        },
+        {
+          "ch": "年纪",
+          "en": "age",
+          "pi": "niánjì"
+        },
+        {
+          "ch": "吃一点",
+          "en": "endure a little",
+          "pi": "chī yīdiǎn"
+        },
+        {
+          "ch": "苦",
+          "en": "hardship",
+          "pi": "kǔ"
+        },
+        {
+          "ch": "是好的",
+          "en": "is good",
+          "pi": "shì hǎo de"
+        }
+      ]
+    }
+  ]
+}

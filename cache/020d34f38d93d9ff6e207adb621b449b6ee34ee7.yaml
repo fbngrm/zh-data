@@ -1,0 +1,58 @@
+{
+  "sentences": [
+    {
+      "chinese": "你是小屁孩吗?",
+      "english": "Are you a little brat?",
+      "pinyin": "nǐ shì xiǎo pì hái ma?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "是",
+          "en": "are",
+          "pi": "shì"
+        },
+        {
+          "ch": "小屁孩",
+          "en": "little brat",
+          "pi": "xiǎo pì hái"
+        },
+        {
+          "ch": "吗",
+          "en": "question particle",
+          "pi": "ma"
+        }
+      ]
+    },
+    {
+      "chinese": "你未成年吗?",
+      "english": "Are you underage?",
+      "pinyin": "nǐ wèi chéng nián ma?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "未",
+          "en": "not",
+          "pi": "wèi"
+        },
+        {
+          "ch": "成年",
+          "en": "adult",
+          "pi": "chéng nián"
+        },
+        {
+          "ch": "吗",
+          "en": "question particle",
+          "pi": "ma"
+        }
+      ]
+    }
+  ]
+}

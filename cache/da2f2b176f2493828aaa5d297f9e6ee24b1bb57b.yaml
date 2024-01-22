@@ -1,0 +1,32 @@
+{
+  "chinese": "他侵犯了她的隐私。",
+  "english": "He violated her privacy.",
+  "pinyin": "tā qīnfàn le tā de yǐnsī。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "侵犯",
+      "en": "violate",
+      "pi": "qīnfàn"
+    },
+    {
+      "ch": "了",
+      "en": "past tense marker",
+      "pi": "le"
+    },
+    {
+      "ch": "她的",
+      "en": "her",
+      "pi": "tā de"
+    },
+    {
+      "ch": "隐私",
+      "en": "privacy",
+      "pi": "yǐnsī"
+    }
+  ]
+}

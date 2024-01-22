@@ -1,0 +1,42 @@
+{
+  "chinese": "你确定你没有忘记什么吗？",
+  "english": "Are you sure you didn't forget anything?",
+  "pinyin": "nǐ quèdìng nǐ méiyǒu wàngjì shénme ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "确定",
+      "en": "sure",
+      "pi": "quèdìng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "没有",
+      "en": "not have",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "忘记",
+      "en": "forget",
+      "pi": "wàngjì"
+    },
+    {
+      "ch": "什么",
+      "en": "anything",
+      "pi": "shénme"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

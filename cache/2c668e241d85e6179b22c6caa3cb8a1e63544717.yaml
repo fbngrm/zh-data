@@ -1,0 +1,32 @@
+{
+  "chinese": "请问这儿是什么地方？",
+  "english": "Excuse me, what place is this?",
+  "pinyin": "qǐngwèn zhèr shì shénme dìfāng?",
+  "words": [
+    {
+      "ch": "请问",
+      "en": "Excuse me",
+      "pi": "qǐngwèn"
+    },
+    {
+      "ch": "这儿",
+      "en": "here",
+      "pi": "zhèr"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "地方",
+      "en": "place",
+      "pi": "dìfāng"
+    }
+  ]
+}

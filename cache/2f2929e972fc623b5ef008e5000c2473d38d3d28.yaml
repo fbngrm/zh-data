@@ -1,0 +1,27 @@
+{
+  "chinese": "我不可以喝牛奶。",
+  "english": "I cannot drink milk.",
+  "pinyin": "wǒ bù kěyǐ hē niúnǎi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不可以",
+      "en": "cannot",
+      "pi": "bù kěyǐ"
+    },
+    {
+      "ch": "喝",
+      "en": "drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "牛奶",
+      "en": "milk",
+      "pi": "niúnǎi"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "chinese": "你会开车吗？",
+  "english": "Can you drive?",
+  "pinyin": "nǐ huì kāi chē ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "会", "en": "can", "pi": "huì"},
+    {"ch": "开车", "en": "drive", "pi": "kāi chē"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

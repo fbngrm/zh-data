@@ -1,0 +1,37 @@
+{
+  "chinese": "你想吃点别的吗？",
+  "english": "Do you want to eat something else?",
+  "pinyin": "nǐ xiǎng chī diǎn bié de ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "点",
+      "en": "some",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "别的",
+      "en": "else",
+      "pi": "bié de"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

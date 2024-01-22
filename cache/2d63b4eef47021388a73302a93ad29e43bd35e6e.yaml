@@ -1,0 +1,16 @@
+{
+  "chinese": "这个世界上有些事物根本不能用言语形容。",
+  "english": "There are some things in this world that simply cannot be described in words.",
+  "pinyin": "zhè gè shì jiè shàng yǒu xiē shì wù gēn běn bù néng yòng yán yǔ xíng róng。",
+  "words": [
+    {"ch": "这个", "en": "this", "pi": "zhè gè"},
+    {"ch": "世界上", "en": "in this world", "pi": "shì jiè shàng"},
+    {"ch": "有些", "en": "some", "pi": "yǒu xiē"},
+    {"ch": "事物", "en": "things", "pi": "shì wù"},
+    {"ch": "根本", "en": "simply", "pi": "gēn běn"},
+    {"ch": "不能", "en": "cannot", "pi": "bù néng"},
+    {"ch": "用", "en": "use", "pi": "yòng"},
+    {"ch": "言语", "en": "words", "pi": "yán yǔ"},
+    {"ch": "形容", "en": "describe", "pi": "xíng róng"}
+  ]
+}

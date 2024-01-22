@@ -1,0 +1,27 @@
+{
+  "chinese": "什么时候开始下雨的?",
+  "english": "When did it start raining?",
+  "pinyin": "shén me shí hòu kāi shǐ xià yǔ de?",
+  "words": [
+    {
+      "ch": "什么时候",
+      "en": "When",
+      "pi": "shén me shí hòu"
+    },
+    {
+      "ch": "开始",
+      "en": "start",
+      "pi": "kāi shǐ"
+    },
+    {
+      "ch": "下雨",
+      "en": "raining",
+      "pi": "xià yǔ"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    }
+  ]
+}

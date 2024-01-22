@@ -1,0 +1,52 @@
+{
+  "chinese": "Ｔｏｍ和Ｍａｒｙ有三只猫和两只狗。",
+  "english": "Tom and Mary have three cats and two dogs.",
+  "pinyin": "Tōm hé Mǎlì yǒu sān zhī māo hé liǎng zhī gǒu.",
+  "words": [
+    {
+      "ch": "Ｔｏｍ",
+      "en": "Tom",
+      "pi": "Tōm"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "Ｍａｒｙ",
+      "en": "Mary",
+      "pi": "Mǎlì"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "三只",
+      "en": "three",
+      "pi": "sān zhī"
+    },
+    {
+      "ch": "猫",
+      "en": "cats",
+      "pi": "māo"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "两只",
+      "en": "two",
+      "pi": "liǎng zhī"
+    },
+    {
+      "ch": "狗",
+      "en": "dogs",
+      "pi": "gǒu"
+    }
+  ]
+}

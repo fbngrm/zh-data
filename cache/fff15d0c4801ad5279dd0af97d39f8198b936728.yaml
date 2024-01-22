@@ -1,0 +1,14 @@
+{
+  "chinese": "我想把这个包裹寄到日本。",
+  "english": "I want to send this package to Japan.",
+  "pinyin": "wǒ xiǎng bǎ zhè ge bāo guǒ jì dào rì běn。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "想", "en": "want", "pi": "xiǎng"},
+    {"ch": "把", "en": "to", "pi": "bǎ"},
+    {"ch": "这个", "en": "this", "pi": "zhè ge"},
+    {"ch": "包裹", "en": "package", "pi": "bāo guǒ"},
+    {"ch": "寄到", "en": "send to", "pi": "jì dào"},
+    {"ch": "日本", "en": "Japan", "pi": "rì běn"}
+  ]
+}

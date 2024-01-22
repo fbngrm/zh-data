@@ -1,0 +1,27 @@
+{
+  "chinese": "今天天氣很差。",
+  "english": "The weather is very bad today.",
+  "pinyin": "jīn tiān tiān qì hěn chà.",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "天氣",
+      "en": "weather",
+      "pi": "tiān qì"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "差",
+      "en": "bad",
+      "pi": "chà"
+    }
+  ]
+}

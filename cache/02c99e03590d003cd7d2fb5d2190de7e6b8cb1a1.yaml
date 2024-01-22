@@ -1,0 +1,42 @@
+{
+  "chinese": "请你来之前打电话给我。",
+  "english": "Please call me before you come.",
+  "pinyin": "Qǐng nǐ lái zhīqián dǎ diànhuà gěi wǒ.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    },
+    {
+      "ch": "之前",
+      "en": "before",
+      "pi": "zhīqián"
+    },
+    {
+      "ch": "打电话",
+      "en": "call",
+      "pi": "dǎ diànhuà"
+    },
+    {
+      "ch": "给",
+      "en": "me",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    }
+  ]
+}

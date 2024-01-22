@@ -1,0 +1,32 @@
+{
+  "chinese": "某人把我的杯形蛋糕吃完了。",
+  "english": "Someone ate all my cupcakes.",
+  "pinyin": "Mǒu rén bǎ wǒ de bēi xíng dàngāo chī wánle.",
+  "words": [
+    {
+      "ch": "某人",
+      "en": "Someone",
+      "pi": "Mǒu rén"
+    },
+    {
+      "ch": "把",
+      "en": "ate",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "杯形蛋糕",
+      "en": "cupcakes",
+      "pi": "bēi xíng dàngāo"
+    },
+    {
+      "ch": "吃完了",
+      "en": "ate all",
+      "pi": "chī wán le"
+    }
+  ]
+}

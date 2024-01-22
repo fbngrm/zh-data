@@ -1,0 +1,37 @@
+{
+  "chinese": "我要求他明天去那里。",
+  "english": "I ask him to go there tomorrow.",
+  "pinyin": "wǒ yāoqiú tā míngtiān qù nàlǐ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "要求",
+      "en": "ask",
+      "pi": "yāoqiú"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "那里",
+      "en": "there",
+      "pi": "nàlǐ"
+    }
+  ]
+}

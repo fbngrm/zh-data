@@ -1,0 +1,15 @@
+{
+  "chinese": "她在花园里发现了一颗球。",
+  "english": "She found a ball in the garden.",
+  "pinyin": "tā zài huā yuán lǐ fā xiàn le yī kē qiú。",
+  "words": [
+    {"ch": "她", "en": "She", "pi": "tā"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "花园", "en": "garden", "pi": "huā yuán"},
+    {"ch": "里", "en": "inside", "pi": "lǐ"},
+    {"ch": "发现", "en": "found", "pi": "fā xiàn"},
+    {"ch": "了", "en": "a", "pi": "le"},
+    {"ch": "一颗", "en": "ball", "pi": "yī kē"},
+    {"ch": "球", "en": "in", "pi": "qiú"}
+  ]
+}

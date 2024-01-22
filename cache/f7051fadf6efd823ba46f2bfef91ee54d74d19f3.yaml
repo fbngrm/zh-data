@@ -1,0 +1,57 @@
+{
+  "chinese": "打扰一下。请问你能告诉我最近的地铁站在哪吗？",
+  "english": "Excuse me. Can you tell me where the nearest subway station is?",
+  "pinyin": "Dǎrǎo yīxià. Qǐngwèn nǐ néng gàosu wǒ zuìjìn de dìtiě zhàn zài nǎ ma?",
+  "words": [
+    {
+      "ch": "打扰",
+      "en": "Excuse me",
+      "pi": "Dǎrǎo"
+    },
+    {
+      "ch": "一下",
+      "en": "a moment",
+      "pi": "yīxià"
+    },
+    {
+      "ch": "请问",
+      "en": "Can you tell me",
+      "pi": "Qǐngwèn"
+    },
+    {
+      "ch": "你能",
+      "en": "you can",
+      "pi": "nǐ néng"
+    },
+    {
+      "ch": "告诉我",
+      "en": "tell me",
+      "pi": "gàosu wǒ"
+    },
+    {
+      "ch": "最近",
+      "en": "nearest",
+      "pi": "zuìjìn"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "地铁站",
+      "en": "subway station",
+      "pi": "dìtiě zhàn"
+    },
+    {
+      "ch": "在哪",
+      "en": "where is",
+      "pi": "zài nǎ"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆穿着衣服睡着了。",
+  "english": "Tom fell asleep while wearing clothes.",
+  "pinyin": "Tāng mǔ chuān zhe yīfu shuìzháo le.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "穿着",
+      "en": "wearing",
+      "pi": "chuānzhe"
+    },
+    {
+      "ch": "衣服",
+      "en": "clothes",
+      "pi": "yīfu"
+    },
+    {
+      "ch": "睡着",
+      "en": "fell asleep",
+      "pi": "shuìzháo"
+    },
+    {
+      "ch": "了",
+      "en": "while",
+      "pi": "le"
+    }
+  ]
+}

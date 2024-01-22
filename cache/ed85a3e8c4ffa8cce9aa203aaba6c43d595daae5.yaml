@@ -1,0 +1,42 @@
+{
+  "chinese": "我好饿，什么时候可以去吃中饭？",
+  "english": "I'm hungry, when can we go have lunch?",
+  "pinyin": "wǒ hǎo è, shénme shíhou kěyǐ qù chī zhōngfàn?",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "好饿",
+      "en": "hungry",
+      "pi": "hǎo è"
+    },
+    {
+      "ch": "什么时候",
+      "en": "when",
+      "pi": "shénme shíhou"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kěyǐ"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "吃",
+      "en": "have",
+      "pi": "chī"
+    },
+    {
+      "ch": "中饭",
+      "en": "lunch",
+      "pi": "zhōngfàn"
+    }
+  ]
+}

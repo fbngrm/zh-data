@@ -1,0 +1,18 @@
+{
+  "chinese": "火车很挤迫，一直驶到了大坂我们都要站着。",
+  "english": "The train was very crowded, and we had to stand all the way to Osaka.",
+  "pinyin": "Huǒchē hěn jǐ pò, yīzhí shǐ dàole dà bǎn wǒmen dōu yào zhàn zhe.",
+  "words": [
+    { "ch": "火车", "en": "train", "pi": "huǒ chē" },
+    { "ch": "很", "en": "very", "pi": "hěn" },
+    { "ch": "挤迫", "en": "crowded", "pi": "jǐ pò" },
+    { "ch": "一直", "en": "all the way", "pi": "yī zhí" },
+    { "ch": "驶到", "en": "arrived", "pi": "shǐ dào" },
+    { "ch": "了", "en": "", "pi": "le" },
+    { "ch": "大坂", "en": "Osaka", "pi": "dà bǎn" },
+    { "ch": "我们", "en": "we", "pi": "wǒ men" },
+    { "ch": "都", "en": "all", "pi": "dōu" },
+    { "ch": "要", "en": "have to", "pi": "yào" },
+    { "ch": "站着", "en": "stand", "pi": "zhàn zhuó" }
+  ]
+}

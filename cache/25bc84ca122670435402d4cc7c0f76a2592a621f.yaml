@@ -1,0 +1,63 @@
+{ 
+  "sentences": [
+    { 
+      "chinese": "把灯打开。",
+      "english": "Turn on the light.",
+      "pinyin": "bǎ dēng dǎ kāi。",
+      "words": [
+        {
+          "ch": "把",
+          "en": "turn",
+          "pi": "bǎ"
+        },
+        {
+          "ch": "灯",
+          "en": "light",
+          "pi": "dēng"
+        },
+        {
+          "ch": "打开",
+          "en": "open",
+          "pi": "dǎ kāi"
+        }
+      ]
+    },
+    { 
+      "chinese": "我什么都看不见了。",
+      "english": "I can't see anything.",
+      "pinyin": "wǒ shénme dōu kàn bù jiàn le。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "什么",
+          "en": "anything",
+          "pi": "shénme"
+        },
+        {
+          "ch": "都",
+          "en": "all",
+          "pi": "dōu"
+        },
+        {
+          "ch": "看",
+          "en": "see",
+          "pi": "kàn"
+        },
+        {
+          "ch": "不见",
+          "en": "can't see",
+          "pi": "bù jiàn"
+        },
+        {
+          "ch": "了",
+          "en": "anymore",
+          "pi": "le"
+        }
+      ]
+    }
+  ]
+}

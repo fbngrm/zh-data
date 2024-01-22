@@ -1,0 +1,32 @@
+{
+  "chinese": "我妹妹没有说“你好”。",
+  "english": "My younger sister did not say \"hello\".",
+  "pinyin": "wǒ mèimèi méiyǒu shuō \"nǐhǎo\".",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "妹妹",
+      "en": "younger sister",
+      "pi": "mèimèi"
+    },
+    {
+      "ch": "没有",
+      "en": "did not have; there is not; not",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "说",
+      "en": "to speak; to say",
+      "pi": "shuō"
+    },
+    {
+      "ch": "你好",
+      "en": "hello",
+      "pi": "nǐhǎo"
+    }
+  ]
+}

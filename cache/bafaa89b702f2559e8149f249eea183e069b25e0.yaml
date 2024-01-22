@@ -1,0 +1,32 @@
+{
+  "chinese": "比尔住在大海附近。",
+  "english": "Bill lives near the sea.",
+  "pinyin": "Bǐ ěr zhù zài dà hǎi fùjìn.",
+  "words": [
+    {
+      "ch": "比尔",
+      "en": "Bill",
+      "pi": "Bǐ ěr"
+    },
+    {
+      "ch": "住",
+      "en": "lives",
+      "pi": "zhù"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "大海",
+      "en": "sea",
+      "pi": "dà hǎi"
+    },
+    {
+      "ch": "附近",
+      "en": "nearby",
+      "pi": "fùjìn"
+    }
+  ]
+}

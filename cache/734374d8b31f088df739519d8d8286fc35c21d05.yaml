@@ -1,0 +1,42 @@
+{
+  "chinese": "我在这里已经工作十年了。",
+  "english": "I have been working here for ten years.",
+  "pinyin": "wǒ zài zhèlǐ yǐjīng gōngzuò shí nián le。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhèlǐ"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐjīng"
+    },
+    {
+      "ch": "工作",
+      "en": "work",
+      "pi": "gōngzuò"
+    },
+    {
+      "ch": "十年",
+      "en": "ten years",
+      "pi": "shí nián"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "le"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我不明白你的意思。",
+  "english": "I don't understand what you mean.",
+  "pinyin": "wǒ bù míngbái nǐ de yìsi。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "明白",
+      "en": "understand",
+      "pi": "míngbái"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "意思",
+      "en": "meaning",
+      "pi": "yìsi"
+    }
+  ]
+}

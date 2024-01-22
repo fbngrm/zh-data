@@ -1,0 +1,28 @@
+{
+  "sentences": [
+    {
+      "chinese": "Ｔｏｍ受不了我了。",
+      "english": "Tom can't stand me anymore.",
+      "pinyin": "Tó​m s​hòu​bù​liǎo​ wǒ​ le.",
+      "words": [
+        {"ch": "Ｔｏｍ", "en": "Tom", "pi": "Tó​m"},
+        {"ch": "受不了", "en": "can't stand", "pi": "shòu​bù​liǎo"},
+        {"ch": "我", "en": "me", "pi": "wǒ"},
+        {"ch": "了", "en": "anymore", "pi": "le"}
+      ]
+    },
+    {
+      "chinese": "胡说八道！你在异想天开！",
+      "english": "Nonsense! You are daydreaming!",
+      "pinyin": "Hú​shuō​bā​dào! Nǐ​ zài​ yì​xiǎng​tiān​kāi!",
+      "words": [
+        {"ch": "胡说八道", "en": "nonsense", "pi": "hú​shuō​bā​dào"},
+        {"ch": "！", "en": "!", "pi": ""},
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "在", "en": "are", "pi": "zài"},
+        {"ch": "异想天开", "en": "daydreaming", "pi": "yì​xiǎng​tiān​kāi"},
+        {"ch": "！", "en": "!", "pi": ""}
+      ]
+    }
+  ]
+}

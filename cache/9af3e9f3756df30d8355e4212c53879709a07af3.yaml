@@ -1,0 +1,14 @@
+{
+  "chinese": "我既不抽烟也不喝酒。",
+  "english": "I neither smoke nor drink alcohol.",
+  "pinyin": "wǒ jì bù chōu yān yě bù hē jiǔ",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "既", "en": "neither", "pi": "jì"},
+    {"ch": "不", "en": "do not", "pi": "bù"},
+    {"ch": "抽烟", "en": "smoke", "pi": "chōu yān"},
+    {"ch": "也", "en": "nor", "pi": "yě"},
+    {"ch": "不", "en": "do not", "pi": "bù"},
+    {"ch": "喝酒", "en": "drink alcohol", "pi": "hē jiǔ"}
+  ]
+}

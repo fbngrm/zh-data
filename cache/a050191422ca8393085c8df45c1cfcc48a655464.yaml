@@ -1,0 +1,15 @@
+{
+  "chinese": "你不应该在背后说别人的坏话。",
+  "english": "You should not speak ill of others behind their backs.",
+  "pinyin": "nǐ bù yīng gāi zài bèi hòu shuō bié rén de huài huà。",
+  "words": [
+    {"ch": "你", "en": "You", "pi": "nǐ"},
+    {"ch": "不", "en": "should not", "pi": "bù"},
+    {"ch": "应该", "en": "should", "pi": "yīng gāi"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "背后", "en": "behind", "pi": "bèi hòu"},
+    {"ch": "说", "en": "speak", "pi": "shuō"},
+    {"ch": "别人的", "en": "others'", "pi": "bié rén de"},
+    {"ch": "坏话", "en": "ill of others", "pi": "huài huà"}
+  ]
+}

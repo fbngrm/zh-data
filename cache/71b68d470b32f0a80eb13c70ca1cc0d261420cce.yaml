@@ -1,0 +1,32 @@
+{
+  "chinese": "我想现在结帐离开。",
+  "english": "I want to check out and leave now.",
+  "pinyin": "wǒ xiǎng xiànzài jiézhàng líkāi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiànzài"
+    },
+    {
+      "ch": "结帐",
+      "en": "check out",
+      "pi": "jiézhàng"
+    },
+    {
+      "ch": "离开",
+      "en": "leave",
+      "pi": "líkāi"
+    }
+  ]
+}

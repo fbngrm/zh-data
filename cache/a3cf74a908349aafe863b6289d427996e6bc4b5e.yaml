@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆没有买甚么面包。",
+  "english": "Tom didn't buy any bread.",
+  "pinyin": "tāng mǔ méiyǒu mǎi shénme miànbāo.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "没有",
+      "en": "didn't have",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "买",
+      "en": "buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "甚么",
+      "en": "any",
+      "pi": "shénme"
+    },
+    {
+      "ch": "面包",
+      "en": "bread",
+      "pi": "miànbāo"
+    }
+  ]
+}

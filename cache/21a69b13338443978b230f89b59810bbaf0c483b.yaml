@@ -1,0 +1,20 @@
+{
+  "chinese": "你刚刚才吃过晚饭，不可能饿得这么快的。",
+  "english": "You just had dinner, it's not possible to be hungry so quickly.",
+  "pinyin": "nǐ gānggāng cái chī guò wǎnfàn, bù kěnéng è de zhème kuài de.",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "刚刚", "en": "just", "pi": "gānggāng"},
+    {"ch": "才", "en": "just", "pi": "cái"},
+    {"ch": "吃过", "en": "had", "pi": "chīguò"},
+    {"ch": "晚饭", "en": "dinner", "pi": "wǎnfàn"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "不可能", "en": "not possible", "pi": "bù kěnéng"},
+    {"ch": "饿", "en": "hungry", "pi": "è"},
+    {"ch": "得", "en": "so", "pi": "de"},
+    {"ch": "这么", "en": "this", "pi": "zhème"},
+    {"ch": "快", "en": "quick", "pi": "kuài"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

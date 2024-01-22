@@ -1,0 +1,37 @@
+{
+  "chinese": "我在一个乐团里演奏。",
+  "english": "I am playing in an orchestra.",
+  "pinyin": "wǒ zài yīgè yuètuán lǐ yǎnzòu.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "am",
+      "pi": "zài"
+    },
+    {
+      "ch": "一个",
+      "en": "in",
+      "pi": "yīgè"
+    },
+    {
+      "ch": "乐团",
+      "en": "orchestra",
+      "pi": "yuètuán"
+    },
+    {
+      "ch": "里",
+      "en": "play",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "演奏",
+      "en": "perform",
+      "pi": "yǎnzòu"
+    }
+  ]
+}

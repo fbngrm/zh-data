@@ -1,0 +1,37 @@
+{
+  "chinese": "这篇新闻对我们来说很重要。",
+  "english": "This news is important to us.",
+  "pinyin": "zhè piān xīn wén duì wǒ men lái shuō hěn zhòng yào。",
+  "words": [
+    {
+      "ch": "这篇",
+      "en": "This",
+      "pi": "zhè piān"
+    },
+    {
+      "ch": "新闻",
+      "en": "news",
+      "pi": "xīn wén"
+    },
+    {
+      "ch": "对",
+      "en": "to",
+      "pi": "duì"
+    },
+    {
+      "ch": "我们",
+      "en": "us",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "来说",
+      "en": "is important to",
+      "pi": "lái shuō"
+    },
+    {
+      "ch": "很重要",
+      "en": "important",
+      "pi": "hěn zhòng yào"
+    }
+  ]
+}

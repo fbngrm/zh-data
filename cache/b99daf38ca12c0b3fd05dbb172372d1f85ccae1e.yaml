@@ -1,0 +1,27 @@
+{
+  "chinese": "火车将经过元町站。",
+  "english": "The train will pass through the Yuancheng Station.",
+  "pinyin": "huǒ chē jiāng jīng guò yuán chéng zhàn。",
+  "words": [
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒ chē"
+    },
+    {
+      "ch": "将",
+      "en": "will",
+      "pi": "jiāng"
+    },
+    {
+      "ch": "经过",
+      "en": "pass through",
+      "pi": "jīng guò"
+    },
+    {
+      "ch": "元町站",
+      "en": "Yuancheng Station",
+      "pi": "yuán chéng zhàn"
+    }
+  ]
+}

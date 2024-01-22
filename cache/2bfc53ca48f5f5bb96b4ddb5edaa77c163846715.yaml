@@ -1,0 +1,32 @@
+{
+  "chinese": "这附近有超市吗？",
+  "english": "Is there a supermarket nearby?",
+  "pinyin": "zhè fùjìn yǒu chāoshì ma?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "附近",
+      "en": "nearby",
+      "pi": "fùjìn"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "超市",
+      "en": "supermarket",
+      "pi": "chāoshì"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

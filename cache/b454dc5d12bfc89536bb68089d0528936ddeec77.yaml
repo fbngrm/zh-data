@@ -1,0 +1,37 @@
+{
+  "chinese": "这本书有很多图片。",
+  "english": "This book has a lot of pictures.",
+  "pinyin": "zhè běn shū yǒu hěn duō tú piàn.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "书",
+      "en": "has",
+      "pi": "shū"
+    },
+    {
+      "ch": "有",
+      "en": "a lot of",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "很多",
+      "en": "pictures",
+      "pi": "hěn duō"
+    },
+    {
+      "ch": "图片",
+      "en": "images",
+      "pi": "tú piàn"
+    }
+  ]
+}

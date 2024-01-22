@@ -1,0 +1,32 @@
+{
+  "chinese": "对不起，我不能待很久。",
+  "english": "Sorry, I can't stay for long.",
+  "pinyin": "Duì bù qǐ, wǒ bù néng dāi hěn jiǔ。",
+  "words": [
+    {
+      "ch": "对不起",
+      "en": "Sorry",
+      "pi": "Duì bù qǐ"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不能",
+      "en": "can't",
+      "pi": "bù néng"
+    },
+    {
+      "ch": "待",
+      "en": "stay",
+      "pi": "dāi"
+    },
+    {
+      "ch": "很久",
+      "en": "for long",
+      "pi": "hěn jiǔ"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "他有七个儿子。",
+  "english": "He has seven sons.",
+  "pinyin": "tā yǒu qī gè ér zi.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "七",
+      "en": "seven",
+      "pi": "qī"
+    },
+    {
+      "ch": "个",
+      "en": "count word",
+      "pi": "gè"
+    },
+    {
+      "ch": "儿子",
+      "en": "sons",
+      "pi": "ér zi"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "汤姆工作得多么快啊!",
+  "english": "Tom works so fast!",
+  "pinyin": "tāng mǔ gōng zuò de duō me kuài a!",
+  "words": [
+    { "ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    { "ch": "工作", "en": "works", "pi": "gōng zuò"},
+    { "ch": "得", "en": "so", "pi": "de"},
+    { "ch": "多么", "en": "fast", "pi": "duō me"},
+    { "ch": "快", "en": "how", "pi": "kuài"},
+    { "ch": "啊", "en": "a", "pi": "a"}
+  ]
+}

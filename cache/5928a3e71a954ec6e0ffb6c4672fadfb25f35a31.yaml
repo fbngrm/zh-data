@@ -1,0 +1,63 @@
+{
+  "sentences": [
+    {
+      "chinese": "你说得不对",
+      "english": "You're wrong",
+      "pinyin": "nǐ shuō dé bù duì",
+      "words": [
+        {
+          "ch": "你",
+          "en": "You",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "说",
+          "en": "speak",
+          "pi": "shuō"
+        },
+        {
+          "ch": "得",
+          "en": "particle",
+          "pi": "dé"
+        },
+        {
+          "ch": "不",
+          "en": "not",
+          "pi": "bù"
+        },
+        {
+          "ch": "对",
+          "en": "right",
+          "pi": "duì"
+        }
+      ]
+    },
+    {
+      "chinese": "那怎么说呢？",
+      "english": "Then how should it be said?",
+      "pinyin": "nà zěnme shuō ne",
+      "words": [
+        {
+          "ch": "那",
+          "en": "then",
+          "pi": "nà"
+        },
+        {
+          "ch": "怎么",
+          "en": "how",
+          "pi": "zěnme"
+        },
+        {
+          "ch": "说",
+          "en": "speak",
+          "pi": "shuō"
+        },
+        {
+          "ch": "呢",
+          "en": "question particle",
+          "pi": "ne"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我不再爱汤姆了。",
+  "english": "I don't love Tom anymore.",
+  "pinyin": "wǒ bù zài ài tāng mǔ le。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不再",
+      "en": "don't anymore",
+      "pi": "bù zài"
+    },
+    {
+      "ch": "爱",
+      "en": "love",
+      "pi": "ài"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "了",
+      "en": "anymore",
+      "pi": "le"
+    }
+  ]
+}

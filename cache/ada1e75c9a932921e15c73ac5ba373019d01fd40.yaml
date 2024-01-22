@@ -1,0 +1,16 @@
+{
+  "chinese": "他跟我讲了他的人生故事。",
+  "english": "He told me his life story.",
+  "pinyin": "tā gēn wǒ jiǎng le tā de rén shēng gù shi。",
+  "words": [
+    { "ch": "他", "en": "He", "pi": "tā" },
+    { "ch": "跟", "en": "with", "pi": "gēn" },
+    { "ch": "我", "en": "me", "pi": "wǒ" },
+    { "ch": "讲", "en": "told", "pi": "jiǎng" },
+    { "ch": "了", "en": "me", "pi": "le" },
+    { "ch": "他", "en": "his", "pi": "tā" },
+    { "ch": "的", "en": "story", "pi": "de" },
+    { "ch": "人生", "en": "life", "pi": "rén shēng" },
+    { "ch": "故事", "en": "story", "pi": "gù shi" }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我们试了三次，都失败了。",
+  "english": "We tried three times, but all failed.",
+  "pinyin": "wǒmen shìle sān cì, dōu shībài le.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "试了",
+      "en": "tried",
+      "pi": "shìle"
+    },
+    {
+      "ch": "三次",
+      "en": "three times",
+      "pi": "sān cì"
+    },
+    {
+      "ch": "都",
+      "en": "but",
+      "pi": "dōu"
+    },
+    {
+      "ch": "失败了",
+      "en": "failed all",
+      "pi": "shībài le"
+    }
+  ]
+}

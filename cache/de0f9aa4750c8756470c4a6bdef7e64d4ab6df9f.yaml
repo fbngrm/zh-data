@@ -1,0 +1,42 @@
+{
+  "chinese": "我见一只猫追着狗跑。",
+  "english": "I saw a cat chasing after a dog.",
+  "pinyin": "wǒ jiàn yī zhī māo zhuī zhe gǒu pǎo.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "见",
+      "en": "saw",
+      "pi": "jiàn"
+    },
+    {
+      "ch": "一只",
+      "en": "a",
+      "pi": "yī zhī"
+    },
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    },
+    {
+      "ch": "追着",
+      "en": "chasing after",
+      "pi": "zhuī zhe"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "跑",
+      "en": "running",
+      "pi": "pǎo"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我认为这外套应该适合你。",
+  "english": "I think this coat should suit you.",
+  "pinyin": "wǒ rèn wéi zhè wài tào yīng gāi shì hé nǐ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "认为",
+      "en": "think",
+      "pi": "rèn wéi"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "外套",
+      "en": "coat",
+      "pi": "wài tào"
+    },
+    {
+      "ch": "应该",
+      "en": "should",
+      "pi": "yīng gāi"
+    },
+    {
+      "ch": "适合",
+      "en": "suit",
+      "pi": "shì hé"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    }
+  ]
+}

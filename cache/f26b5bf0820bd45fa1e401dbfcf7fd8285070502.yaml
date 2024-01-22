@@ -1,0 +1,32 @@
+{
+  "chinese": "我把灯关了。",
+  "english": "I turned off the lights.",
+  "pinyin": "wǒ bǎ dēng guān le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "把",
+      "en": "turn off",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "灯",
+      "en": "light",
+      "pi": "dēng"
+    },
+    {
+      "ch": "关",
+      "en": "off",
+      "pi": "guān"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

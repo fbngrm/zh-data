@@ -1,0 +1,12 @@
+{
+  "chinese": "我的儿子还不懂加法。",
+  "english": "My son doesn't understand addition yet.",
+  "pinyin": "wǒ de érzi hái bù dǒng jiāfǎ。",
+  "words": [
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "儿子", "en": "son", "pi": "érzi"},
+    {"ch": "还", "en": "still", "pi": "hái"},
+    {"ch": "不懂", "en": "does not understand", "pi": "bù dǒng"},
+    {"ch": "加法", "en": "addition", "pi": "jiāfǎ"}
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "chinese": "他答应了会回来，但还是没有回来。",
+  "english": "He promised to come back, but he still didn't come back.",
+  "pinyin": "tā dāyìngle huì huílái, dàn háishì méiyǒu huílái。",
+  "words": [
+    {"ch":"他", "en":"he", "pi":"tā"},
+    {"ch":"答应", "en":"promise", "pi":"dāyìng"},
+    {"ch":"了", "en":"to", "pi":"le"},
+    {"ch":"会", "en":"will", "pi":"huì"},
+    {"ch":"回来", "en":"come back", "pi":"huílái"},
+    {"ch":"，", "en":"but", "pi":"dàn"},
+    {"ch":"但", "en":"still", "pi":"dàn"},
+    {"ch":"还是", "en":"didn't", "pi":"háishì"},
+    {"ch":"没有", "en":"come back", "pi":"méiyǒu"},
+    {"ch":"回来", "en":"come back", "pi":"huílái"},
+    {"ch":"。", "en":".", "pi": "。"}
+  ]
+}

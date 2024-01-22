@@ -1,0 +1,32 @@
+{
+  "chinese": "我的腿还是很痛。",
+  "english": "My legs still hurt.",
+  "pinyin": "Wǒ de tuǐ háishì hěn tòng.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "My",
+      "pi": "Wǒ de"
+    },
+    {
+      "ch": "腿",
+      "en": "legs",
+      "pi": "tuǐ"
+    },
+    {
+      "ch": "还是",
+      "en": "still",
+      "pi": "háishì"
+    },
+    {
+      "ch": "很",
+      "en": "hurt",
+      "pi": "hěn"
+    },
+    {
+      "ch": "痛",
+      "en": "hurt",
+      "pi": "tòng"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "麦克去年夏天去了京都。",
+  "english": "Mike went to Kyoto last summer.",
+  "pinyin": "Mài kè qù nián xià tiān qù le jīng dū.",
+  "words": [
+    {
+      "ch": "麦克",
+      "en": "Mike",
+      "pi": "Mài kè"
+    },
+    {
+      "ch": "去年",
+      "en": "last year",
+      "pi": "qù nián"
+    },
+    {
+      "ch": "夏天",
+      "en": "summer",
+      "pi": "xià tiān"
+    },
+    {
+      "ch": "去了",
+      "en": "went",
+      "pi": "qù le"
+    },
+    {
+      "ch": "京都",
+      "en": "Kyoto",
+      "pi": "jīng dū"
+    }
+  ]
+}

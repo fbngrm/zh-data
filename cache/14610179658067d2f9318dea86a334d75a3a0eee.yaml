@@ -1,0 +1,32 @@
+{
+  "chinese": "我想要一些新鲜的鸡蛋。",
+  "english": "I want some fresh eggs.",
+  "pinyin": "wǒ xiǎng yào yī xiē xīnxiān de jīdàn。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想要",
+      "en": "want",
+      "pi": "xiǎng yào"
+    },
+    {
+      "ch": "一些",
+      "en": "some",
+      "pi": "yī xiē"
+    },
+    {
+      "ch": "新鲜的",
+      "en": "fresh",
+      "pi": "xīnxiān de"
+    },
+    {
+      "ch": "鸡蛋",
+      "en": "eggs",
+      "pi": "jīdàn"
+    }
+  ]
+}

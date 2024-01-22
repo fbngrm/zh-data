@@ -1,0 +1,27 @@
+{
+  "chinese": "不要，谢谢。我吃饱了。",
+  "english": "No, thank you. I'm full.",
+  "pinyin": "bú yào, xiè xiè. wǒ chī bǎo le.",
+  "words": [
+    {
+      "ch": "不要",
+      "en": "No",
+      "pi": "bú yào"
+    },
+    {
+      "ch": "谢谢",
+      "en": "thank you",
+      "pi": "xiè xiè"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "吃饱了",
+      "en": "full",
+      "pi": "chī bǎo le"
+    }
+  ]
+}

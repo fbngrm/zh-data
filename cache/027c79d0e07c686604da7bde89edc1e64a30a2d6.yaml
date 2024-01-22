@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆没有把钱还给我。",
+  "english": "Tom didn't give me back the money.",
+  "pinyin": "tāng mǔ méi yǒu bǎ qián hái gěi wǒ。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "没有",
+      "en": "didn't",
+      "pi": "méi yǒu"
+    },
+    {
+      "ch": "把",
+      "en": "give",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "钱",
+      "en": "money",
+      "pi": "qián"
+    },
+    {
+      "ch": "还",
+      "en": "back",
+      "pi": "hái"
+    },
+    {
+      "ch": "给",
+      "en": "to",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    }
+  ]
+}

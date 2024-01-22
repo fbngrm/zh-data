@@ -1,0 +1,37 @@
+{
+  "chinese": "你经常早餐喝茶吗？",
+  "english": "Do you often drink tea for breakfast?",
+  "pinyin": "nǐ jīngcháng zǎocān hē chá ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "经常",
+      "en": "often",
+      "pi": "jīngcháng"
+    },
+    {
+      "ch": "早餐",
+      "en": "breakfast",
+      "pi": "zǎocān"
+    },
+    {
+      "ch": "喝",
+      "en": "drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "茶",
+      "en": "tea",
+      "pi": "chá"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

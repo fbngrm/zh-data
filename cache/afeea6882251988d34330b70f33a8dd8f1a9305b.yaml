@@ -1,0 +1,47 @@
+{
+  "chinese": "我要搭１０:３０的火车。",
+  "english": "I want to take the 10:30 train.",
+  "pinyin": "wǒ yào dā shí diǎn sānshí de huǒchē。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "搭",
+      "en": "take",
+      "pi": "dā"
+    },
+    {
+      "ch": "１０",
+      "en": "10",
+      "pi": "shí"
+    },
+    {
+      "ch": ":",
+      "en": ":",
+      "pi": null
+    },
+    {
+      "ch": "３０",
+      "en": "30",
+      "pi": "sānshí"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒchē"
+    }
+  ]
+}

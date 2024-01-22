@@ -1,0 +1,42 @@
+{
+  "chinese": "Smith先生和我是老相識。",
+  "english": "Mr. Smith and I are old acquaintances.",
+  "pinyin": "Smith xiānshēng hé wǒ shì lǎo xiāngshí.",
+  "words": [
+    {
+      "ch": "Smith",
+      "en": "Mr. Smith",
+      "pi": "Smith"
+    },
+    {
+      "ch": "先生",
+      "en": "Mr.",
+      "pi": "xiānshēng"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "是",
+      "en": "am",
+      "pi": "shì"
+    },
+    {
+      "ch": "老",
+      "en": "old",
+      "pi": "lǎo"
+    },
+    {
+      "ch": "相識",
+      "en": "acquaintances",
+      "pi": "xiāngshí"
+    }
+  ]
+}

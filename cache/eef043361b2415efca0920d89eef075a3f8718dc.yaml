@@ -1,0 +1,17 @@
+{
+  "chinese": "当然会的，不过上海话不太会讲。",
+  "english": "Of course I can, but I'm not very good at speaking Shanghainese.",
+  "pinyin": "Dāngrán huì de, búguò Shànghǎihuà bù tài huì jiǎng.",
+  "words": [
+    {"ch": "当然", "en": "Of course", "pi": "dāngrán"},
+    {"ch": "会", "en": "can", "pi": "huì"},
+    {"ch": "的", "en": "but", "pi": "de"},
+    {"ch": "，", "en": ","},
+    {"ch": "不过", "en": "but", "pi": "búguò"},
+    {"ch": "上海话", "en": "Shanghainese", "pi": "Shànghǎihuà"},
+    {"ch": "不太", "en": "not very", "pi": "bù tài"},
+    {"ch": "会", "en": "good", "pi": "huì"},
+    {"ch": "讲", "en": "at speaking", "pi": "jiǎng"},
+    {"ch": "。", "en": "."}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "汉语方言间的发音区别很大。",
+  "english": "There are significant pronunciation differences between Chinese dialects.",
+  "pinyin": "hàn yǔ fāng yán jiān de fā yīn qū bié hěn dà.",
+  "words": [
+    { "ch": "汉语", "en": "Chinese", "pi": "hàn yǔ" },
+    { "ch": "方言", "en": "dialects", "pi": "fāng yán" },
+    { "ch": "间", "en": "between", "pi": "jiān" },
+    { "ch": "的", "en": "", "pi": "de" },
+    { "ch": "发音", "en": "pronunciation", "pi": "fā yīn" },
+    { "ch": "区别", "en": "differences", "pi": "qū bié" },
+    { "ch": "很大", "en": "significant", "pi": "hěn dà" }
+  ]
+}

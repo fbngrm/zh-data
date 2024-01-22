@@ -1,0 +1,48 @@
+{
+  "sentences": [
+    {
+      "chinese": "如果你错呢？",
+      "english": "What if you are wrong?",
+      "pinyin": "rúguǒ nǐ cuò ne?",
+      "words": [
+        {
+          "ch": "如果",
+          "en": "if",
+          "pi": "rúguǒ"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "错呢",
+          "en": "wrong?",
+          "pi": "cuò ne?"
+        }
+      ]
+    },
+    {
+      "chinese": "我不会错",
+      "english": "I won't be wrong.",
+      "pinyin": "wǒ bù huì cuò",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "不会",
+          "en": "won't",
+          "pi": "bù huì"
+        },
+        {
+          "ch": "错",
+          "en": "be wrong",
+          "pi": "cuò"
+        }
+      ]
+    }
+  ]
+}

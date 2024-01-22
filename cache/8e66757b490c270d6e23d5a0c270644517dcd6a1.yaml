@@ -1,0 +1,13 @@
+{
+  "chinese": "除了我，每个人都受到了邀请。",
+  "english": "Everyone except me has received an invitation.",
+  "pinyin": "Chúle wǒ, měi gè rén dōu shòu dào le yāoqǐng.",
+  "words": [
+    {"ch": "除了", "en": "except", "pi": "chúle"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "每个人", "en": "everyone", "pi": "měi gè rén"},
+    {"ch": "都", "en": "has", "pi": "dōu"},
+    {"ch": "受到了", "en": "received", "pi": "shòu dào le"},
+    {"ch": "邀请", "en": "invitation", "pi": "yāoqǐng"}
+  ]
+}

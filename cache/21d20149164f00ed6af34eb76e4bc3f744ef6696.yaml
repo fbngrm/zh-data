@@ -1,0 +1,42 @@
+{
+  "chinese": "我是她的，而她是我的。",
+  "english": "I am hers, and she is mine.",
+  "pinyin": "wǒ shì tā de, ér tā shì wǒ de.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "是",
+      "en": "am",
+      "pi": "shì"
+    },
+    {
+      "ch": "她的",
+      "en": "hers",
+      "pi": "tā de"
+    },
+    {
+      "ch": "而",
+      "en": "and",
+      "pi": "ér"
+    },
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我的",
+      "en": "mine",
+      "pi": "wǒ de"
+    }
+  ]
+}

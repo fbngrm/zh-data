@@ -1,0 +1,32 @@
+{
+  "chinese": "你知道如何开车吗？",
+  "english": "Do you know how to drive?",
+  "pinyin": "nǐ zhī dào rú hé kāi chē ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "如何",
+      "en": "how to",
+      "pi": "rú hé"
+    },
+    {
+      "ch": "开车",
+      "en": "drive",
+      "pi": "kāi chē"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

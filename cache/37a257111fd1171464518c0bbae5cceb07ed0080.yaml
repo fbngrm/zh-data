@@ -1,0 +1,32 @@
+{
+  "chinese": "我的英文得到了好成绩。",
+  "english": "I got a good score in English.",
+  "pinyin": "wǒ de yīngwén dédàole hǎo chéngjī.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "英文",
+      "en": "English",
+      "pi": "yīngwén"
+    },
+    {
+      "ch": "得到了",
+      "en": "got",
+      "pi": "dédàole"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "成绩",
+      "en": "score",
+      "pi": "chéngjī"
+    }
+  ]
+}

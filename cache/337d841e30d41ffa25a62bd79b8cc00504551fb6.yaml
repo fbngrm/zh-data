@@ -1,0 +1,37 @@
+{
+  "chinese": "我每天早上在公园写作。",
+  "english": "I write in the park every morning.",
+  "pinyin": "wǒ měi tiān zǎo shàng zài gōng yuán xiě zuò。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎo shàng"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "公园",
+      "en": "park",
+      "pi": "gōng yuán"
+    },
+    {
+      "ch": "写作",
+      "en": "write",
+      "pi": "xiě zuò"
+    }
+  ]
+}

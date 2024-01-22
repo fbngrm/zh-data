@@ -1,0 +1,37 @@
+{
+  "chinese": "这幅画是谁画的?",
+  "english": "Who painted this painting?",
+  "pinyin": "zhè fú huà shì shéi huà de?",
+  "words": [
+    {
+      "ch": "这幅",
+      "en": "this",
+      "pi": "zhè fú"
+    },
+    {
+      "ch": "画",
+      "en": "painting",
+      "pi": "huà"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "谁",
+      "en": "who",
+      "pi": "shéi"
+    },
+    {
+      "ch": "画的",
+      "en": "painted",
+      "pi": "huà de"
+    },
+    {
+      "ch": "?",
+      "en": "?",
+      "pi": "?"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "这西装好像真的很贵。",
+  "english": "This suit seems really expensive.",
+  "pinyin": "zhè xī zhuāng hǎo xiàng zhēn de hěn guì.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "西装",
+      "en": "suit",
+      "pi": "xī zhuāng"
+    },
+    {
+      "ch": "好像",
+      "en": "seems",
+      "pi": "hǎo xiàng"
+    },
+    {
+      "ch": "真的",
+      "en": "really",
+      "pi": "zhēn de"
+    },
+    {
+      "ch": "很贵",
+      "en": "expensive",
+      "pi": "hěn guì"
+    }
+  ]
+}

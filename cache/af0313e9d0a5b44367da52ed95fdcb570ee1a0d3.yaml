@@ -1,0 +1,15 @@
+{
+  "chinese": "我有點話想跟你說。",
+  "english": "I have something to say to you.",
+  "pinyin": "wǒ yǒu diǎn huà xiǎng gēn nǐ shuō。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "點", "en": "something", "pi": "diǎn"},
+    {"ch": "話", "en": "to say", "pi": "huà"},
+    {"ch": "想", "en": "want", "pi": "xiǎng"},
+    {"ch": "跟", "en": "to", "pi": "gēn"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "說", "en": "say", "pi": "shuō"}
+  ]
+}

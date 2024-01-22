@@ -1,0 +1,15 @@
+{
+  "chinese": "他说他让你说慢一点。",
+  "english": "He said he wants you to speak slower.",
+  "pinyin": "Tā shuō tā ràng nǐ shuō màn yīdiǎn.",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "说", "en": "said", "pi": "shuō"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "让", "en": "wants", "pi": "ràng"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "说", "en": "speak", "pi": "shuō"},
+    {"ch": "慢", "en": "slower", "pi": "màn"},
+    {"ch": "一点", "en": "a bit", "pi": "yīdiǎn"}
+  ]
+}

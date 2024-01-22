@@ -1,0 +1,42 @@
+{
+  "chinese": "他们的旅行因为下雨延期了。",
+  "english": "Their trip was postponed due to rain.",
+  "pinyin": "tāmen de lǚxíng yīnwèi xiàyǔ yánqíle。",
+  "words": [
+    {
+      "ch": "他们",
+      "en": "they",
+      "pi": "tāmen"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "旅行",
+      "en": "trip",
+      "pi": "lǚxíng"
+    },
+    {
+      "ch": "因为",
+      "en": "due to",
+      "pi": "yīnwèi"
+    },
+    {
+      "ch": "下雨",
+      "en": "rain",
+      "pi": "xiàyǔ"
+    },
+    {
+      "ch": "延期",
+      "en": "postpone",
+      "pi": "yánqí"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

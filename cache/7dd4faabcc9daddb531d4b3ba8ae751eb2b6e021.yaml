@@ -1,0 +1,27 @@
+{
+  "chinese": "今天有人缺席吗？",
+  "english": "Is there anyone absent today?",
+  "pinyin": "jīn tiān yǒu rén quē xí ma?",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "有人",
+      "en": "anyone",
+      "pi": "yǒu rén"
+    },
+    {
+      "ch": "缺席",
+      "en": "absent",
+      "pi": "quē xí"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

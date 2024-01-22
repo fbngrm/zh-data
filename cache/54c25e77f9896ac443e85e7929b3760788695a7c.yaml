@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆刚从澳大利亚回来。",
+  "english": "Tom just came back from Australia.",
+  "pinyin": "tāng mǔ gāng cóng ào dà lì yà huí lái.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "刚",
+      "en": "just",
+      "pi": "gāng"
+    },
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "澳大利亚",
+      "en": "Australia",
+      "pi": "ào dà lì yà"
+    },
+    {
+      "ch": "回来",
+      "en": "came back",
+      "pi": "huí lái"
+    }
+  ]
+}

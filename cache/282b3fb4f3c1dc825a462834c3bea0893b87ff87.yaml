@@ -1,0 +1,32 @@
+{
+  "chinese": "我已经有信封了。",
+  "english": "I already have an envelope.",
+  "pinyin": "wǒ yǐ jīng yǒu xìn fēng le。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐ jīng"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "信封",
+      "en": "envelope",
+      "pi": "xìn fēng"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

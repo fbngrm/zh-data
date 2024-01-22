@@ -1,0 +1,32 @@
+{
+  "chinese": "我今天没吃午餐。",
+  "english": "I didn't have lunch today.",
+  "pinyin": "wǒ jīn tiān méi chī wǔ cān。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "没",
+      "en": "didn't",
+      "pi": "méi"
+    },
+    {
+      "ch": "吃",
+      "en": "have",
+      "pi": "chī"
+    },
+    {
+      "ch": "午餐",
+      "en": "lunch",
+      "pi": "wǔ cān"
+    }
+  ]
+}

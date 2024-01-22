@@ -1,0 +1,15 @@
+{
+  "chinese": "不管发生什么事，我都准备好了。",
+  "english": "No matter what happens, I am ready.",
+  "pinyin": "Bù guǎn fāshēng shénme shì, wǒ dōu zhǔnbèi hǎole.",
+  "words": [
+    {"ch": "不管", "en": "No matter", "pi": "bù guǎn"},
+    {"ch": "发生", "en": "happen", "pi": "fāshēng"},
+    {"ch": "什么", "en": "what", "pi": "shénme"},
+    {"ch": "事", "en": "thing", "pi": "shì"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "都", "en": "all", "pi": "dōu"},
+    {"ch": "准备好", "en": "ready", "pi": "zhǔnbèi hǎo"},
+    {"ch": "了", "en": "already", "pi": "le"}
+  ]
+}

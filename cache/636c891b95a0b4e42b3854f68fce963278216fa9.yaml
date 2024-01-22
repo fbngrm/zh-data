@@ -1,0 +1,32 @@
+{
+  "chinese": "你有一个紧急的讯息。",
+  "english": "You have an urgent message.",
+  "pinyin": "nǐ yǒu yī gè jǐn jí de xùn xí.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一个",
+      "en": "an",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "紧急的",
+      "en": "urgent",
+      "pi": "jǐn jí de"
+    },
+    {
+      "ch": "讯息",
+      "en": "message",
+      "pi": "xùn xí"
+    }
+  ]
+}

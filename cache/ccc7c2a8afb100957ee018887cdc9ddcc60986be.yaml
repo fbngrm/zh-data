@@ -1,0 +1,75 @@
+{
+  "sentences": [
+    {
+      "chinese": "他出去看电影了。",
+      "english": "He went out to watch a movie.",
+      "pinyin": "Tā chūqù kàn diànyǐngle。",
+      "words": [
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "出去",
+          "en": "go out",
+          "pi": "chūqù"
+        },
+        {
+          "ch": "看",
+          "en": "watch",
+          "pi": "kàn"
+        },
+        {
+          "ch": "电影",
+          "en": "movie",
+          "pi": "diànyǐng"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        }
+      ]
+    },
+    {
+      "chinese": "电影好看吗?",
+      "english": "Is the movie good?",
+      "pinyin": "Diànyǐng hǎokàn ma?",
+      "words": [
+        {
+          "ch": "电影",
+          "en": "movie",
+          "pi": "diànyǐng"
+        },
+        {
+          "ch": "好看",
+          "en": "good",
+          "pi": "hǎokàn"
+        },
+        {
+          "ch": "吗",
+          "en": "",
+          "pi": "ma"
+        }
+      ]
+    },
+    {
+      "chinese": "好看。",
+      "english": "It's good.",
+      "pinyin": "Hǎokàn。",
+      "words": [
+        {
+          "ch": "好看",
+          "en": "good",
+          "pi": "hǎokàn"
+        },
+        {
+          "ch": "。",
+          "en": "",
+          "pi": "。"
+        }
+      ]
+    }
+  ]
+}

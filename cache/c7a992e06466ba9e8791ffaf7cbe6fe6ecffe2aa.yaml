@@ -1,0 +1,68 @@
+{
+  "sentences": [
+    {
+      "chinese": "你喜欢甚么口味的咖啡？",
+      "english": "What flavor of coffee do you like?",
+      "pinyin": "nǐ xǐhuān shénme kǒuwèi de kāfēi?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "喜欢",
+          "en": "like",
+          "pi": "xǐhuān"
+        },
+        {
+          "ch": "甚么",
+          "en": "what",
+          "pi": "shénme"
+        },
+        {
+          "ch": "口味",
+          "en": "flavor",
+          "pi": "kǒuwèi"
+        },
+        {
+          "ch": "的",
+          "en": "of",
+          "pi": "de"
+        },
+        {
+          "ch": "咖啡",
+          "en": "coffee",
+          "pi": "kāfēi"
+        }
+      ]
+    },
+    {
+      "chinese": "浓的黑咖啡？",
+      "english": "Strong black coffee?",
+      "pinyin": "nóng de hēi kāfēi?",
+      "words": [
+        {
+          "ch": "浓",
+          "en": "strong",
+          "pi": "nóng"
+        },
+        {
+          "ch": "的",
+          "en": "of",
+          "pi": "de"
+        },
+        {
+          "ch": "黑",
+          "en": "black",
+          "pi": "hēi"
+        },
+        {
+          "ch": "咖啡",
+          "en": "coffee",
+          "pi": "kāfēi"
+        }
+      ]
+    }
+  ]
+}

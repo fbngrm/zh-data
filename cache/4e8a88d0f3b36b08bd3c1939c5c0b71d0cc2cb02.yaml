@@ -1,0 +1,24 @@
+{
+  "chinese": "不要在太暗的光线下看书，那对你的眼睛不好的。",
+  "english": "Don't read in too dim light, it's not good for your eyes.",
+  "pinyin": "bù yào zài tài àn de guāng xiàn xià kàn shū ，nà duì nǐ de yǎn jīng bù hǎo de。",
+  "words": [
+    { "ch": "不要", "en": "Don't", "pi": "bù yào" },
+    { "ch": "在", "en": "in", "pi": "zài" },
+    { "ch": "太", "en": "too", "pi": "tài" },
+    { "ch": "暗", "en": "dim", "pi": "àn" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "光线", "en": "light", "pi": "guāng xiàn" },
+    { "ch": "下", "en": "under", "pi": "xià" },
+    { "ch": "看书", "en": "read", "pi": "kàn shū" },
+    { "ch": "，", "en": ",", "pi": "，" },
+    { "ch": "那", "en": "it", "pi": "nà" },
+    { "ch": "对", "en": "for", "pi": "duì" },
+    { "ch": "你", "en": "your", "pi": "nǐ" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "眼睛", "en": "eyes", "pi": "yǎn jīng" },
+    { "ch": "不好", "en": "not good", "pi": "bù hǎo" },
+    { "ch": "的", "en": "for", "pi": "de" },
+    { "ch": "。", "en": ".", "pi": "。" }
+  ]
+}

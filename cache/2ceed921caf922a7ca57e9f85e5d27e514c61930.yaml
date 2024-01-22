@@ -1,0 +1,32 @@
+{
+  "chinese": "我下个月买辆新车。",
+  "english": "I will buy a new car next month.",
+  "pinyin": "wǒ xià gè yuè mǎi liàng xīn chē。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "下个月",
+      "en": "next month",
+      "pi": "xià gè yuè"
+    },
+    {
+      "ch": "买",
+      "en": "buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "辆",
+      "en": "measure word for vehicles",
+      "pi": "liàng"
+    },
+    {
+      "ch": "新车",
+      "en": "new car",
+      "pi": "xīn chē"
+    }
+  ]
+}

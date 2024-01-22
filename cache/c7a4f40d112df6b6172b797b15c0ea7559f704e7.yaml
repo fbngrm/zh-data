@@ -1,0 +1,37 @@
+{
+  "chinese": "你收到他的音讯了吗?",
+  "english": "Did you receive his message?",
+  "pinyin": "Nǐ shōudào tā de yīnxùn le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "收到",
+      "en": "receive",
+      "pi": "shōudào"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "音讯",
+      "en": "message",
+      "pi": "yīnxùn"
+    },
+    {
+      "ch": "了",
+      "en": "did",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

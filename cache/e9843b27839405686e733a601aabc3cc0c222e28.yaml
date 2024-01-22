@@ -1,0 +1,27 @@
+{
+  "chinese": "白兔喜歡吃胡蘿蔔。",
+  "english": "The white rabbit likes to eat carrots.",
+  "pinyin": "bái tù xǐ huān chī hú luó bo.",
+  "words": [
+    {
+      "ch": "白兔",
+      "en": "white rabbit",
+      "pi": "bái tù"
+    },
+    {
+      "ch": "喜歡",
+      "en": "likes",
+      "pi": "xǐ huān"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "胡蘿蔔",
+      "en": "carrots",
+      "pi": "hú luó bo"
+    }
+  ]
+}

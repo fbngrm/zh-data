@@ -1,0 +1,27 @@
+{
+  "chinese": "你出门了吗？",
+  "english": "Did you go out?",
+  "pinyin": "nǐ chū mén le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "出门",
+      "en": "go out",
+      "pi": "chū mén"
+    },
+    {
+      "ch": "了",
+      "en": "did",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

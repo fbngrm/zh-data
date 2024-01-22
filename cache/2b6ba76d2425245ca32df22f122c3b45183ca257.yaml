@@ -1,0 +1,32 @@
+{
+  "chinese": "我必须读书准备考试。",
+  "english": "I must study to prepare for the exam.",
+  "pinyin": "wǒ bìxū dúshū zhǔnbèi kǎoshì。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "必须",
+      "en": "must",
+      "pi": "bìxū"
+    },
+    {
+      "ch": "读书",
+      "en": "study",
+      "pi": "dúshū"
+    },
+    {
+      "ch": "准备",
+      "en": "prepare",
+      "pi": "zhǔnbèi"
+    },
+    {
+      "ch": "考试",
+      "en": "exam",
+      "pi": "kǎoshì"
+    }
+  ]
+}

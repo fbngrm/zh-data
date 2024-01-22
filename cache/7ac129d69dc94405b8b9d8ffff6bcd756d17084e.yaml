@@ -1,0 +1,17 @@
+{
+  "chinese": "除非你想去,否则你不必去这个派对。",
+  "english": "You don't have to go to this party unless you want to.",
+  "pinyin": "chú fēi nǐ xiǎng qù, fǒu zé nǐ bù bì qù zhè ge pài duì。",
+  "words": [
+    {"ch": "除非", "en": "unless", "pi": "chú fēi"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "想", "en": "want", "pi": "xiǎng"},
+    {"ch": "去", "en": "to go", "pi": "qù"},
+    {"ch": "否则", "en": "otherwise", "pi": "fǒu zé"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "不必", "en": "don't have to", "pi": "bù bì"},
+    {"ch": "去", "en": "to go", "pi": "qù"},
+    {"ch": "这个", "en": "this", "pi": "zhè ge"},
+    {"ch": "派对", "en": "party", "pi": "pài duì"}
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "chinese": "汤姆不到最后不会知道你做了什么。",
+  "english": "Tom won't know what you did until the end.",
+  "pinyin": "Tāng mǔ bùdào zuìhòu bù huì zhīdào nǐ zuòle shénme.",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ"},
+    {"ch": "不到", "en": "won't (until)", "pi": "bùdào"},
+    {"ch": "最后", "en": "the end", "pi": "zuìhòu"},
+    {"ch": "不会", "en": "won't", "pi": "bù huì"},
+    {"ch": "知道", "en": "know", "pi": "zhīdào"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "做", "en": "do", "pi": "zuò"},
+    {"ch": "了", "en": "did", "pi": "le"},
+    {"ch": "什么", "en": "what", "pi": "shénme"}
+  ]
+}

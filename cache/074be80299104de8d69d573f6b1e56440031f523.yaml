@@ -1,0 +1,22 @@
+{
+  "chinese": "请问你贵姓？",
+  "english": "May I ask for your surname?",
+  "pinyin": "Qǐngwèn nǐ guìxìng?",
+  "words": [
+    {
+      "ch": "请问",
+      "en": "May I ask",
+      "pi": "Qǐngwèn"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "贵姓",
+      "en": "surname",
+      "pi": "guìxìng"
+    }
+  ]
+}

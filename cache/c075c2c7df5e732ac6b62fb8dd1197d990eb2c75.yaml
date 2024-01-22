@@ -1,0 +1,14 @@
+{
+  "chinese": "他退休的时候，他儿子接手了他的生意。",
+  "english": "When he retired, his son took over his business.",
+  "pinyin": "Tā tuìxiū de shíhòu, tā érzi jiēshǒu le tā de shēngyì。",
+  "words" : [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "退休", "en": "retired", "pi": "tuìxiū"},
+    {"ch": "的时候", "en": "when", "pi": "de shíhòu"},
+    {"ch": "他儿子", "en": "his son", "pi": "tā érzi"},
+    {"ch": "接手了", "en": "took over", "pi": "jiēshǒu le"},
+    {"ch": "他的", "en": "his", "pi": "tā de"},
+    {"ch": "生意", "en": "business", "pi": "shēngyì"}
+  ]
+}

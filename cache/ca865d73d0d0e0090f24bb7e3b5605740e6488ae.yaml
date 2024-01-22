@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆静静地坐了半个小时。",
+  "english": "Tom sat quietly for half an hour.",
+  "pinyin": "Tāng mǔ jìng jìng de zuò le bàn gè xiǎo shí。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "静静",
+      "en": "quietly",
+      "pi": "jìng jìng"
+    },
+    {
+      "ch": "地",
+      "en": "for",
+      "pi": "de"
+    },
+    {
+      "ch": "坐",
+      "en": "sat",
+      "pi": "zuò"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "半个",
+      "en": "half an",
+      "pi": "bàn gè"
+    },
+    {
+      "ch": "小时",
+      "en": "hour",
+      "pi": "xiǎo shí"
+    }
+  ]
+}

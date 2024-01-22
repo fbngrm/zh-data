@@ -1,0 +1,32 @@
+{
+  "chinese": "我帮忙妈妈做菜。",
+  "english": "I help my mom cook.",
+  "pinyin": "wǒ bāngmáng māma zuò cài。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "帮忙",
+      "en": "help",
+      "pi": "bāngmáng"
+    },
+    {
+      "ch": "妈妈",
+      "en": "mom",
+      "pi": "māma"
+    },
+    {
+      "ch": "做",
+      "en": "cook",
+      "pi": "zuò"
+    },
+    {
+      "ch": "菜",
+      "en": "dish",
+      "pi": "cài"
+    }
+  ]
+}

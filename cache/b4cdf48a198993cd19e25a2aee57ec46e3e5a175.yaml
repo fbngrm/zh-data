@@ -1,0 +1,32 @@
+{
+  "chinese": "山坡上有一个茅屋。",
+  "english": "There is a thatched cottage on the hillside.",
+  "pinyin": "shān pō shàng yǒu yī gè máo wū。",
+  "words": [
+    {
+      "ch": "山坡",
+      "en": "hillside",
+      "pi": "shān pō"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "茅屋",
+      "en": "thatched cottage",
+      "pi": "máo wū"
+    }
+  ]
+}

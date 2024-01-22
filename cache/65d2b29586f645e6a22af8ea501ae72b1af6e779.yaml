@@ -1,0 +1,32 @@
+{
+  "chinese": "谁找到了我的包？",
+  "english": "Who found my bag?",
+  "pinyin": "shuí zhǎo dào le wǒ de bāo?",
+  "words": [
+    {
+      "ch": "谁",
+      "en": "Who",
+      "pi": "shuí"
+    },
+    {
+      "ch": "找到",
+      "en": "found",
+      "pi": "zhǎo dào"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "包",
+      "en": "bag",
+      "pi": "bāo"
+    }
+  ]
+}

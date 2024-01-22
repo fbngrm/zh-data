@@ -1,0 +1,32 @@
+{
+  "chinese": "她不太会煮饭。",
+  "english": "She is not very good at cooking.",
+  "pinyin": "Tā bù tài huì zhǔ fàn.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "太",
+      "en": "very",
+      "pi": "tài"
+    },
+    {
+      "ch": "会",
+      "en": "good at",
+      "pi": "huì"
+    },
+    {
+      "ch": "煮饭",
+      "en": "cooking",
+      "pi": "zhǔ fàn"
+    }
+  ]
+}

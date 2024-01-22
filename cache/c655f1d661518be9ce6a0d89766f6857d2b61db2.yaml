@@ -1,0 +1,58 @@
+{
+  "sentences": [
+    {
+      "chinese": "加入黑暗的一面。",
+      "english": "Join the dark side.",
+      "pinyin": "jiā rù hēi àn de yī miàn。",
+      "words": [
+        {
+          "ch": "加入",
+          "en": "Join",
+          "pi": "jiā rù"
+        },
+        {
+          "ch": "黑暗",
+          "en": "dark",
+          "pi": "hēi àn"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": "de"
+        },
+        {
+          "ch": "一面",
+          "en": "side",
+          "pi": "yī miàn"
+        }
+      ]
+    },
+    {
+      "chinese": "我們有巧克力餅乾。",
+      "english": "We have chocolate cookies.",
+      "pinyin": "wǒ mén yǒu qiǎo kè lì bǐng gān。",
+      "words": [
+        {
+          "ch": "我們",
+          "en": "We",
+          "pi": "wǒ mén"
+        },
+        {
+          "ch": "有",
+          "en": "have",
+          "pi": "yǒu"
+        },
+        {
+          "ch": "巧克力",
+          "en": "chocolate",
+          "pi": "qiǎo kè lì"
+        },
+        {
+          "ch": "餅乾",
+          "en": "cookies",
+          "pi": "bǐng gān"
+        }
+      ]
+    }
+  ]
+}

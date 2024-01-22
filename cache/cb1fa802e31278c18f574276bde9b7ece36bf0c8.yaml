@@ -1,0 +1,10 @@
+{
+  "chinese": "顾客没来。",
+  "english": "The customer didn't come.",
+  "pinyin": "gù kè méi lái.",
+  "words": [
+    {"ch":"顾客", "en":"customer", "pi":"gù kè"},
+    {"ch":"没", "en":"didn't", "pi":"méi"},
+    {"ch":"来", "en":"come", "pi":"lái"}
+  ]
+}

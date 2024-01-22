@@ -1,0 +1,37 @@
+{
+  "chinese": "你能把门关上吗?",
+  "english": "Can you close the door?",
+  "pinyin": "nǐ néng bǎ mén guānshàng ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "把",
+      "en": "to",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "门",
+      "en": "door",
+      "pi": "mén"
+    },
+    {
+      "ch": "关上",
+      "en": "close",
+      "pi": "guānshàng"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

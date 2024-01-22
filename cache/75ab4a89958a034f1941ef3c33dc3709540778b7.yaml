@@ -1,0 +1,47 @@
+{
+  "chinese": "这封信是肯写的吗？",
+  "english": "Will this letter be written?",
+  "pinyin": "zhè fēng xìn shì kěn xiě de ma?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "封",
+      "en": "letter",
+      "pi": "fēng"
+    },
+    {
+      "ch": "信",
+      "en": "is/will",
+      "pi": "xìn"
+    },
+    {
+      "ch": "是",
+      "en": "be",
+      "pi": "shì"
+    },
+    {
+      "ch": "肯",
+      "en": "written",
+      "pi": "kěn"
+    },
+    {
+      "ch": "写",
+      "en": "write",
+      "pi": "xiě"
+    },
+    {
+      "ch": "的",
+      "en": "question particle",
+      "pi": "de"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

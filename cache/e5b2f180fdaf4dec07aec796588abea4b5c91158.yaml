@@ -1,0 +1,52 @@
+{
+  "chinese": "湯姆到了現在還沒來，說不定是沒趕上火車。",
+  "english": "Tom hasn't arrived yet, maybe he missed the train.",
+  "pinyin": "Tāng mǔ dào le xiàn zài hái méi lái, shuō bù dìng shì méi gǎn shàng huǒ chē.",
+  "words": [
+    {
+      "ch": "湯姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "到了",
+      "en": "arrived",
+      "pi": "dào le"
+    },
+    {
+      "ch": "現在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "還",
+      "en": "yet",
+      "pi": "hái"
+    },
+    {
+      "ch": "沒來",
+      "en": "hasn't come",
+      "pi": "méi lái"
+    },
+    {
+      "ch": "說不定",
+      "en": "maybe",
+      "pi": "shuō bù dìng"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "沒趕上",
+      "en": "missed",
+      "pi": "méi gǎn shàng"
+    },
+    {
+      "ch": "火車",
+      "en": "train",
+      "pi": "huǒ chē"
+    }
+  ]
+}

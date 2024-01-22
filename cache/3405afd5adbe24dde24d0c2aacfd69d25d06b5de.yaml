@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆之前不知道玛丽喜欢做饭。",
+  "english": "Tom didn't know that Mary likes to cook.",
+  "pinyin": "Tāng mǔ zhīqián bù zhīdào Mǎlì xǐhuān zuòfàn.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "之前",
+      "en": "before",
+      "pi": "zhīqián"
+    },
+    {
+      "ch": "不知道",
+      "en": "didn't know",
+      "pi": "bù zhīdào"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎlì"
+    },
+    {
+      "ch": "喜欢",
+      "en": "likes",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "做饭",
+      "en": "to cook",
+      "pi": "zuòfàn"
+    }
+  ]
+}

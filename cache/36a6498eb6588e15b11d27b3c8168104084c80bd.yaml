@@ -1,0 +1,32 @@
+{
+  "chinese": "她喜欢我的帽子吗？",
+  "english": "Does she like my hat?",
+  "pinyin": "tā xǐhuān wǒ de màozi ma?",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "帽子",
+      "en": "hat",
+      "pi": "màozi"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

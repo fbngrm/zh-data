@@ -1,0 +1,42 @@
+{
+  "chinese": "她的英語說得很流利。",
+  "english": "She speaks English fluently.",
+  "pinyin": "Tā de Yīngyǔ shuō dé hěn liúlì.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "Tā"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "英語",
+      "en": "English",
+      "pi": "Yīngyǔ"
+    },
+    {
+      "ch": "說",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "得",
+      "en": "obtain",
+      "pi": "dé"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "流利",
+      "en": "fluent",
+      "pi": "liúlì"
+    }
+  ]
+}

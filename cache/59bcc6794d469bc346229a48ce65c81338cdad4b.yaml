@@ -1,0 +1,42 @@
+{
+  "chinese": "你看到的这些花是玫瑰。",
+  "english": "The flowers you see are roses.",
+  "pinyin": "nǐ kàn dào de zhè xiē huā shì méi guī。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "看到",
+      "en": "see",
+      "pi": "kàn dào"
+    },
+    {
+      "ch": "的",
+      "en": "the",
+      "pi": "de"
+    },
+    {
+      "ch": "这些",
+      "en": "these",
+      "pi": "zhè xiē"
+    },
+    {
+      "ch": "花",
+      "en": "flowers",
+      "pi": "huā"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "玫瑰",
+      "en": "roses",
+      "pi": "méi guī"
+    }
+  ]
+}

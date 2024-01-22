@@ -1,0 +1,33 @@
+{
+  "chinese": "在學校我喜歡閱讀日本文學的英文翻譯，特別是夏目漱石的我是一隻貓和心，和芥川龍之介的鼻子和河童。",
+  "english": "I enjoy reading English translations of Japanese literature at school, especially Natsume Soseki's 'I Am a Cat' and 'Kokoro', and Ryunosuke Akutagawa's 'The Nose' and 'Kappa'.",
+  "pinyin": "Zài xuéxiào wǒ xǐhuān yuèdú rìběn wénxué de yīngwén fānyì, tèbié shì Xiàmù Shūseki de wǒ shì yī zhī māo hé xīn, hé Jièyuán Lóngzhījiè de bízi hé kawawa.",
+  "words": [
+    { "ch": "在", "en": "at", "pi": "zài" },
+    { "ch": "學校", "en": "school", "pi": "xuéxiào" },
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "喜歡", "en": "enjoy", "pi": "xǐhuān" },
+    { "ch": "閱讀", "en": "reading", "pi": "yuèdú" },
+    { "ch": "日本", "en": "Japanese", "pi": "rìběn" },
+    { "ch": "文學", "en": "literature", "pi": "wénxué" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "英文", "en": "English", "pi": "yīngwén" },
+    { "ch": "翻譯", "en": "translation", "pi": "fānyì" },
+    { "ch": "特別", "en": "especially", "pi": "tèbié" },
+    { "ch": "是", "en": "is", "pi": "shì" },
+    { "ch": "夏目", "en": "Natsume", "pi": "Xiàmù" },
+    { "ch": "漱石", "en": "Soseki", "pi": "Shūseki" },
+    { "ch": "的", "en": "'s", "pi": "de" },
+    { "ch": "我是", "en": "'I Am'", "pi": "wǒ shì" },
+    { "ch": "一", "en": "a", "pi": "yī" },
+    { "ch": "隻", "en": "cat", "pi": "zhī" },
+    { "ch": "貓", "en": "cat", "pi": "māo" },
+    { "ch": "和", "en": "and", "pi": "hé" },
+    { "ch": "心", "en": "'Kokoro'", "pi": "xīn" },
+    { "ch": "芥川", "en": "Ryunosuke", "pi": "Jièyuán" },
+    { "ch": "龍之介", "en": "Akutagawa", "pi": "Lóngzhījiè" },
+    { "ch": "鼻子", "en": "'The Nose'", "pi": "bízi" },
+    { "ch": "和", "en": "and", "pi": "hé" },
+    { "ch": "河童", "en": "'Kappa'", "pi": "kawawa" }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "这只鸟叫作什么?",
+  "english": "What is this bird called?",
+  "pinyin": "Zhè zhī niǎo jiào zuò shénme?",
+  "words": [
+    {
+      "ch": "这只",
+      "en": "this",
+      "pi": "zhè zhī"
+    },
+    {
+      "ch": "鸟",
+      "en": "bird",
+      "pi": "niǎo"
+    },
+    {
+      "ch": "叫作",
+      "en": "called",
+      "pi": "jiào zuò"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    }
+  ]
+}

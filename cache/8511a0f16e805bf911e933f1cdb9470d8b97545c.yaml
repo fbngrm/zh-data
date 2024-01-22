@@ -1,0 +1,27 @@
+{
+  "chinese": "您有火柴吗？",
+  "english": "Do you have matches?",
+  "pinyin": "Nín yǒu huǒchái ma?",
+  "words": [
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "Nín"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "火柴",
+      "en": "matches",
+      "pi": "huǒchái"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

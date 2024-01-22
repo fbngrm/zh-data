@@ -1,0 +1,27 @@
+{
+  "chinese": "我们午后吃了顿饭。",
+  "english": "We had a meal in the afternoon.",
+  "pinyin": "wǒmen wǔ hòu chī le dùn fàn.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "午后",
+      "en": "afternoon",
+      "pi": "wǔ hòu"
+    },
+    {
+      "ch": "吃了",
+      "en": "had",
+      "pi": "chī le"
+    },
+    {
+      "ch": "顿饭",
+      "en": "a meal",
+      "pi": "dùn fàn"
+    }
+  ]
+}

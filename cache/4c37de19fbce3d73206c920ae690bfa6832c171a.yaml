@@ -1,0 +1,14 @@
+{
+  "chinese": "这就是我要找的东西！",
+  "english": "This is what I was looking for!", 
+  "pinyin": "zhè jiù shì wǒ yào zhǎo de dōngxi!",
+  "words": [
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "就是", "en": "is", "pi": "jiù shì"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "要找", "en": "was looking for", "pi": "yào zhǎo"},
+    {"ch": "的", "en": "the", "pi": "de"},
+    {"ch": "东西", "en": "thing", "pi": "dōngxi"},
+    {"ch": "！", "en": "!", "pi": "!"}
+  ]
+}

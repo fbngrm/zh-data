@@ -1,0 +1,32 @@
+{
+  "chinese": "很遗憾你不能来。",
+  "english": "Unfortunately, you cannot come.",
+  "pinyin": "Hěn yíhàn nǐ bùnéng lái.",
+  "words": [
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "遗憾",
+      "en": "unfortunately",
+      "pi": "yíhàn"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "不能",
+      "en": "cannot",
+      "pi": "bùnéng"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    }
+  ]
+}

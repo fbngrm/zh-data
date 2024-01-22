@@ -1,0 +1,13 @@
+{
+  "chinese": "你或者我会被选中。",
+  "english": "You or I will be chosen.",
+  "pinyin": "nǐ huòzhě wǒ huì bèi xuǎn zhòng。",
+  "words": [
+    { "ch": "你", "en": "You", "pi": "nǐ" },
+    { "ch": "或者", "en": "or", "pi": "huòzhě" },
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "会", "en": "will", "pi": "huì" },
+    { "ch": "被", "en": "be", "pi": "bèi" },
+    { "ch": "选中", "en": "chosen", "pi": "xuǎn zhòng" }
+  ]
+}

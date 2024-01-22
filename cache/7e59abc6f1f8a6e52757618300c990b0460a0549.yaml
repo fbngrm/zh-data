@@ -1,0 +1,14 @@
+{
+  "chinese": "有人把她淹死在浴缸里。",
+  "english": "Someone drowned her in the bathtub.",
+  "pinyin": "yǒu rén bǎ tā yān sǐ zài yù gāng lǐ.",
+  "words": [
+    {"ch": "有人", "en": "Someone", "pi": "yǒu rén"},
+    {"ch": "把", "en": "drowned", "pi": "bǎ"},
+    {"ch": "她", "en": "her", "pi": "tā"},
+    {"ch": "淹死", "en": "drowned", "pi": "yān sǐ"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "浴缸", "en": "bathtub", "pi": "yù gāng"},
+    {"ch": "里", "en": "inside", "pi": "lǐ"}
+  ]
+}

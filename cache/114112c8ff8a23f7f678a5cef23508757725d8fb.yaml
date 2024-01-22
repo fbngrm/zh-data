@@ -1,0 +1,15 @@
+{
+  "chinese": "这家公司在石油行业排名第二。",
+  "english": "This company ranks second in the petroleum industry.",
+  "pinyin": "zhè jiā gōng sī zài shí yóu háng yè pái míng dì èr。",
+  "words": [
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "家", "en": "company", "pi": "jiā"},
+    {"ch": "公司", "en": "company", "pi": "gōng sī"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "石油", "en": "petroleum", "pi": "shí yóu"},
+    {"ch": "行业", "en": "industry", "pi": "háng yè"},
+    {"ch": "排名", "en": "rank", "pi": "pái míng"},
+    {"ch": "第二", "en": "second", "pi": "dì èr"}
+  ]
+}

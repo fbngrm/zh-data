@@ -1,0 +1,16 @@
+{
+  "chinese": "这种天气下最好待在家里不要外出。",
+  "english": "It's best to stay at home and not go out in this kind of weather.",
+  "pinyin": "zhè zhǒng tiānqì xià zuì hǎo dài zài jiālǐ bùyào wàichū。",
+  "words": [
+    { "ch": "这种", "en": "this kind of", "pi": "zhè zhǒng" },
+    { "ch": "天气", "en": "weather", "pi": "tiānqì" },
+    { "ch": "下", "en": "under", "pi": "xià" },
+    { "ch": "最好", "en": "best", "pi": "zuì hǎo" },
+    { "ch": "待", "en": "to stay", "pi": "dài" },
+    { "ch": "在", "en": "at", "pi": "zài" },
+    { "ch": "家里", "en": "home", "pi": "jiālǐ" },
+    { "ch": "不要", "en": "do not", "pi": "bùyào" },
+    { "ch": "外出", "en": "go out", "pi": "wàichū" }
+  ]
+}

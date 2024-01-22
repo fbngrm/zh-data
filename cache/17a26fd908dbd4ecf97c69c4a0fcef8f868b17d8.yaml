@@ -1,0 +1,26 @@
+{
+  "sentences": [
+    {
+      "chinese": "这是你的牛肉面，这是你的铁板鸡，这是你的糖醋排骨。",
+      "english": "This is your beef noodle soup, this is your sizzling chicken, this is your sweet and sour spare ribs.",
+      "pinyin": "zhè shì nǐ de niú ròu miàn, zhè shì nǐ de tiě bǎn jī, zhè shì nǐ de táng cù pái gǔ。",
+      "words": [
+        {"ch": "这", "en": "This", "pi": "zhè"},
+        {"ch": "是", "en": "is", "pi": "shì"},
+        {"ch": "你的", "en": "your", "pi": "nǐ de"},
+        {"ch": "牛肉面", "en": "beef noodle soup", "pi": "niú ròu miàn"},
+        {"ch": "，", "en": ",", "pi": "，"},
+        {"ch": "这", "en": "this", "pi": "zhè"},
+        {"ch": "是", "en": "is", "pi": "shì"},
+        {"ch": "你的", "en": "your", "pi": "nǐ de"},
+        {"ch": "铁板鸡", "en": "sizzling chicken", "pi": "tiě bǎn jī"},
+        {"ch": "，", "en": ",", "pi": "，"},
+        {"ch": "这", "en": "this", "pi": "zhè"},
+        {"ch": "是", "en": "is", "pi": "shì"},
+        {"ch": "你的", "en": "your", "pi": "nǐ de"},
+        {"ch": "糖醋排骨", "en": "sweet and sour spare ribs", "pi": "táng cù pái gǔ"},
+        {"ch": "。", "en": ".", "pi": "。"}
+      ]
+    }
+  ]
+}

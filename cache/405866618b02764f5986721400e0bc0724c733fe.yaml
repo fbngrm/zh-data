@@ -1,0 +1,42 @@
+{
+  "chinese": "这狗跑得多快啊！",
+  "english": "How fast does this dog run!",
+  "pinyin": "zhè gǒu pǎo de duō kuài ā!",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "跑",
+      "en": "run",
+      "pi": "pǎo"
+    },
+    {
+      "ch": "得",
+      "en": "does",
+      "pi": "de"
+    },
+    {
+      "ch": "多",
+      "en": "how",
+      "pi": "duō"
+    },
+    {
+      "ch": "快",
+      "en": "fast",
+      "pi": "kuài"
+    },
+    {
+      "ch": "啊",
+      "en": "!",
+      "pi": "ā"
+    }
+  ]
+}

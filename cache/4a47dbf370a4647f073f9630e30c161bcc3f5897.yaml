@@ -1,0 +1,32 @@
+{
+  "chinese": "昨天我出席了会议。",
+  "english": "Yesterday I attended a meeting.",
+  "pinyin": "Zuótiān wǒ chūxí le huìyì.",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "Yesterday",
+      "pi": "Zuótiān"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "出席",
+      "en": "attend",
+      "pi": "chūxí"
+    },
+    {
+      "ch": "了",
+      "en": "a",
+      "pi": "le"
+    },
+    {
+      "ch": "会议",
+      "en": "meeting",
+      "pi": "huìyì"
+    }
+  ]
+}

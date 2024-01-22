@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆说玛丽害羞。",
+  "english": "Tom says Mary is shy.",
+  "pinyin": "Tāng mǔ shuō mǎ lì hài xiū.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "说",
+      "en": "says",
+      "pi": "shuō"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "害羞",
+      "en": "shy",
+      "pi": "hài xiū"
+    }
+  ]
+}

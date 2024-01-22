@@ -1,0 +1,13 @@
+{
+  "chinese": "你週日不上學,對嗎?",
+  "english": "You don't go to school on Sundays, right?",
+  "pinyin": "nǐ zhōu rì bù shàng xué, duì ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "週日", "en": "Sundays", "pi": "zhōu rì"},
+    {"ch": "不", "en": "don't", "pi": "bù"},
+    {"ch": "上學", "en": "go to school", "pi": "shàng xué"},
+    {"ch": "對", "en": "right", "pi": "duì"},
+    {"ch": "嗎", "en": "question particle", "pi": "ma"}
+  ]
+}

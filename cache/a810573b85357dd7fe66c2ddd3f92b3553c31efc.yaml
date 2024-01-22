@@ -1,0 +1,32 @@
+{
+  "chinese": "我昨晚睡了１１个小时。",
+  "english": "I slept for 11 hours last night.",
+  "pinyin": "wǒ zuó wǎn shuì le 11 gè xiǎo shí。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "昨晚",
+      "en": "last night",
+      "pi": "zuó wǎn"
+    },
+    {
+      "ch": "睡了",
+      "en": "slept",
+      "pi": "shuì le"
+    },
+    {
+      "ch": "１１个",
+      "en": "11",
+      "pi": "11 gè"
+    },
+    {
+      "ch": "小时",
+      "en": "hours",
+      "pi": "xiǎo shí"
+    }
+  ]
+}

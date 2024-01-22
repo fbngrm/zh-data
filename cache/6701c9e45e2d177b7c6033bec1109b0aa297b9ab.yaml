@@ -1,0 +1,32 @@
+{
+  "chinese": "你有多少部车？",
+  "english": "How many cars do you have?",
+  "pinyin": "nǐ yǒu duōshǎo bù chē?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "多少",
+      "en": "how many",
+      "pi": "duōshǎo"
+    },
+    {
+      "ch": "部",
+      "en": "quantifier for vehicles",
+      "pi": "bù"
+    },
+    {
+      "ch": "车",
+      "en": "car",
+      "pi": "chē"
+    }
+  ]
+}

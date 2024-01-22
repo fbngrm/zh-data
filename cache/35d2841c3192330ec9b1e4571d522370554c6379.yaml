@@ -1,0 +1,32 @@
+{
+  "chinese": "美国有50个州。",
+  "english": "There are 50 states in the United States.",
+  "pinyin": "Měiguó yǒu wǔshí gè zhōu.",
+  "words": [
+    {
+      "ch": "美国",
+      "en": "United States",
+      "pi": "Měiguó"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "50",
+      "en": "50",
+      "pi": "wǔshí"
+    },
+    {
+      "ch": "个",
+      "en": "measure word",
+      "pi": "gè"
+    },
+    {
+      "ch": "州",
+      "en": "states",
+      "pi": "zhōu"
+    }
+  ]
+}

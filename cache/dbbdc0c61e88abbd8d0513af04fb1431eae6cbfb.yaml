@@ -1,0 +1,13 @@
+{
+  "chinese": "他的声音听着很舒服。",
+  "english": "His voice sounds very pleasant.",
+  "pinyin": "tā de shēngyīn tīngzhe hěn shūfú.",
+  "words": [
+    { "ch": "他", "en": "he", "pi": "tā" },
+    { "ch": "的", "en": "possessive particle", "pi": "de" },
+    { "ch": "声音", "en": "voice", "pi": "shēngyīn" },
+    { "ch": "听着", "en": "sounds", "pi": "tīngzhe" },
+    { "ch": "很", "en": "very", "pi": "hěn" },
+    { "ch": "舒服", "en": "comfortable", "pi": "shūfú" }
+  ]
+}

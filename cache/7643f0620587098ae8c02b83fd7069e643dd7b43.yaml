@@ -1,0 +1,63 @@
+{
+  "sentences": [
+    {
+      "chinese": "我要掛線了。",
+      "english": "I need to hang up now.",
+      "pinyin": "wǒ yào guà xiàn le。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "要",
+          "en": "need",
+          "pi": "yào"
+        },
+        {
+          "ch": "掛線",
+          "en": "hang up",
+          "pi": "guà xiàn"
+        },
+        {
+          "ch": "了",
+          "en": "now",
+          "pi": "le"
+        }
+      ]
+    },
+    {
+      "chinese": "有人正在等著用電話。",
+      "english": "Someone is waiting to use the phone.",
+      "pinyin": "yǒu rén zhèng zài děng zhe yòng diàn huà。",
+      "words": [
+        {
+          "ch": "有",
+          "en": "someone",
+          "pi": "yǒu"
+        },
+        {
+          "ch": "人",
+          "en": "is",
+          "pi": "rén"
+        },
+        {
+          "ch": "正在",
+          "en": "waiting",
+          "pi": "zhèng zài"
+        },
+        {
+          "ch": "等著",
+          "en": "to",
+          "pi": "děng zhe"
+        },
+        {
+          "ch": "用電話",
+          "en": "use the phone",
+          "pi": "yòng diàn huà"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我不知道我有没有时间。",
+  "english": "I don't know if I have time.",
+  "pinyin": "wǒ bù zhīdào wǒ yǒu méiyǒu shíjiān.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不知道",
+      "en": "don't know",
+      "pi": "bù zhīdào"
+    },
+    {
+      "ch": "我",
+      "en": "if",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有没有",
+      "en": "have or not",
+      "pi": "yǒu méiyǒu"
+    },
+    {
+      "ch": "时间",
+      "en": "time",
+      "pi": "shíjiān"
+    }
+  ]
+}

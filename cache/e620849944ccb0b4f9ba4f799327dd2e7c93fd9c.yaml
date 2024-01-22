@@ -1,0 +1,32 @@
+{
+  "chinese": "这个苹果开始腐烂了。",
+  "english": "This apple is starting to rot.",
+  "pinyin": "zhè gè píngguǒ kāishǐ fǔrǎn le。",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "This",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "苹果",
+      "en": "apple",
+      "pi": "píngguǒ"
+    },
+    {
+      "ch": "开始",
+      "en": "start",
+      "pi": "kāishǐ"
+    },
+    {
+      "ch": "腐烂",
+      "en": "rot",
+      "pi": "fǔrǎn"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

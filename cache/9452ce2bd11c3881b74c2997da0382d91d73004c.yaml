@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆对甚么都不怕。",
+  "english": "Tom is not afraid of anything.",
+  "pinyin": "tāng mǔ duì shén me dōu bù pà。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "对",
+      "en": "is",
+      "pi": "duì"
+    },
+    {
+      "ch": "甚么",
+      "en": "anything",
+      "pi": "shén me"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "不怕",
+      "en": "not afraid",
+      "pi": "bù pà"
+    }
+  ]
+}

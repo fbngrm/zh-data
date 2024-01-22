@@ -1,0 +1,27 @@
+{
+  "chinese": "你的姓怎么拼？",
+  "english": "How do you spell your last name?",
+  "pinyin": "nǐ de xìng zěnme pīn?",
+  "words": [
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "姓",
+      "en": "last name",
+      "pi": "xìng"
+    },
+    {
+      "ch": "怎么",
+      "en": "how",
+      "pi": "zěnme"
+    },
+    {
+      "ch": "拼",
+      "en": "spell",
+      "pi": "pīn"
+    }
+  ]
+}

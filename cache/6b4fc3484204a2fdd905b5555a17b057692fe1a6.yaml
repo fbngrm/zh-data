@@ -1,0 +1,57 @@
+{
+  "chinese": "汤姆跟我不是朋友，我们只是同事。",
+  "english": "Tom and I are not friends, we are only colleagues.",
+  "pinyin": "Tāng mǔ gēn wǒ bùshì péngyǒu, wǒmen zhǐshì tóngshì.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "跟",
+      "en": "and",
+      "pi": "gēn"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不是",
+      "en": "not",
+      "pi": "bùshì"
+    },
+    {
+      "ch": "朋友",
+      "en": "friends",
+      "pi": "péngyǒu"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": "，"
+    },
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "只是",
+      "en": "only",
+      "pi": "zhǐshì"
+    },
+    {
+      "ch": "同事",
+      "en": "colleagues",
+      "pi": "tóngshì"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "。"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "告诉我你手里有什么。",
+  "english": "Tell me what you have in your hand.",
+  "pinyin": "Gàosù wǒ nǐ shǒulǐ yǒu shénme.",
+  "words": [
+    {
+      "ch": "告诉",
+      "en": "Tell",
+      "pi": "Gàosù"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "手里",
+      "en": "in your hand",
+      "pi": "shǒulǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    }
+  ]
+}

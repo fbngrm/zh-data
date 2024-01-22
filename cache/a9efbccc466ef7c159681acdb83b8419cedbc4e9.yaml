@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆最先来，最后走。",
+  "english": "Tom comes first, goes last.",
+  "pinyin": "Tāng mǔ zuì xiān lái, zuì hòu zǒu.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "最先",
+      "en": "comes first",
+      "pi": "zuì xiān"
+    },
+    {
+      "ch": "来",
+      "en": "comes",
+      "pi": "lái"
+    },
+    {
+      "ch": "最后",
+      "en": "goes last",
+      "pi": "zuì hòu"
+    },
+    {
+      "ch": "走",
+      "en": "goes",
+      "pi": "zǒu"
+    }
+  ]
+}

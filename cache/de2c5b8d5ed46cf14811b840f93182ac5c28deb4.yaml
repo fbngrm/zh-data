@@ -1,0 +1,37 @@
+{
+  "chinese": "你完成你的工作了吗?",
+  "english": "Have you finished your work?",
+  "pinyin": "nǐ wán chéng nǐ de gōng zuò le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "完成",
+      "en": "finish",
+      "pi": "wán chéng"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "工作",
+      "en": "work",
+      "pi": "gōng zuò"
+    },
+    {
+      "ch": "了",
+      "en": "have",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

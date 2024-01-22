@@ -1,0 +1,37 @@
+{
+  "chinese": "我的车被小偷偷走了。",
+  "english": "My car was stolen by a thief.",
+  "pinyin": "Wǒ de chē bèi xiǎotōu tōu zǒule.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "My",
+      "pi": "Wǒ de"
+    },
+    {
+      "ch": "车",
+      "en": "car",
+      "pi": "chē"
+    },
+    {
+      "ch": "被",
+      "en": "was",
+      "pi": "bèi"
+    },
+    {
+      "ch": "小偷",
+      "en": "thief",
+      "pi": "xiǎotōu"
+    },
+    {
+      "ch": "偷走",
+      "en": "stolen",
+      "pi": "tōuzǒu"
+    },
+    {
+      "ch": "了",
+      "en": "by",
+      "pi": "zǒule"
+    }
+  ]
+}

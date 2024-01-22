@@ -1,0 +1,13 @@
+{
+  "chinese": "花园里有竹子在生长。",
+  "english": "There are bamboo trees growing in the garden.",
+  "pinyin": "Huāyuán lǐ yǒu zhúzi zài shēngzhǎng.",
+  "words": [
+    {"ch": "花园", "en": "garden", "pi": "huāyuán"},
+    {"ch": "里", "en": "in", "pi": "lǐ"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "竹子", "en": "bamboo", "pi": "zhúzi"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "生长", "en": "growing", "pi": "shēngzhǎng"}
+  ]
+}

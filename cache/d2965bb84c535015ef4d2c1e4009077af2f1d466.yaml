@@ -1,0 +1,27 @@
+{
+  "chinese": "比尔打开了电视。",
+  "english": "Bill turned on the TV.",
+  "pinyin": "Bǐ ěr dǎ kāi le diàn shì.",
+  "words": [
+    {
+      "ch": "比尔",
+      "en": "Bill",
+      "pi": "Bǐ ěr"
+    },
+    {
+      "ch": "打开",
+      "en": "turn on",
+      "pi": "dǎ kāi"
+    },
+    {
+      "ch": "了",
+      "en": "completed action marker",
+      "pi": "le"
+    },
+    {
+      "ch": "电视",
+      "en": "TV",
+      "pi": "diàn shì"
+    }
+  ]
+}

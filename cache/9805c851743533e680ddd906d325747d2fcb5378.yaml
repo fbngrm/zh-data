@@ -1,0 +1,42 @@
+{
+  "chinese": "站在那邊的男孩是我的兒子。",
+  "english": "The boy standing over there is my son.",
+  "pinyin": "zhàn zài nà biān de nán hái shì wǒ de ér zi。",
+  "words": [
+    {
+      "ch": "站在",
+      "en": "standing",
+      "pi": "zhàn zài"
+    },
+    {
+      "ch": "那邊",
+      "en": "over there",
+      "pi": "nà biān"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "男孩",
+      "en": "boy",
+      "pi": "nán hái"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "兒子",
+      "en": "son",
+      "pi": "ér zi"
+    }
+  ]
+}

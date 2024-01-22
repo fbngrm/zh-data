@@ -1,0 +1,42 @@
+{
+  "chinese": "我需要星期五之前知道你的答案。",
+  "english": "I need to know your answer before Friday.",
+  "pinyin": "wǒ xū yào xīng qī wǔ zhī qián zhī dào nǐ de dá àn。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "需要",
+      "en": "need",
+      "pi": "xū yào"
+    },
+    {
+      "ch": "星期五",
+      "en": "Friday",
+      "pi": "xīng qī wǔ"
+    },
+    {
+      "ch": "之前",
+      "en": "before",
+      "pi": "zhī qián"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "答案",
+      "en": "answer",
+      "pi": "dá àn"
+    }
+  ]
+}

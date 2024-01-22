@@ -1,0 +1,32 @@
+{
+  "chinese": "我刚刚才到的。",
+  "english": "I just arrived.",
+  "pinyin": "wǒ gānggāng cái dào de.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "刚刚",
+      "en": "just",
+      "pi": "gānggāng"
+    },
+    {
+      "ch": "才",
+      "en": "only",
+      "pi": "cái"
+    },
+    {
+      "ch": "到",
+      "en": "arrive",
+      "pi": "dào"
+    },
+    {
+      "ch": "的",
+      "en": "particle used after an attribute",
+      "pi": "de"
+    }
+  ]
+}

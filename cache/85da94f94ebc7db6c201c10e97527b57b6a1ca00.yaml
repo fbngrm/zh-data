@@ -1,0 +1,42 @@
+{
+  "chinese": "我的老板总让我很忙活。",
+  "english": "My boss always keeps me busy.",
+  "pinyin": "Wǒ de lǎobǎn zǒng ràng wǒ hěn máng huó.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "老板",
+      "en": "boss",
+      "pi": "lǎobǎn"
+    },
+    {
+      "ch": "总",
+      "en": "always",
+      "pi": "zǒng"
+    },
+    {
+      "ch": "让",
+      "en": "keeps",
+      "pi": "ràng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "忙活",
+      "en": "busy",
+      "pi": "máng huó"
+    }
+  ]
+}

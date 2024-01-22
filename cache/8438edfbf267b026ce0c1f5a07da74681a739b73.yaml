@@ -1,0 +1,34 @@
+{
+  "sentences": [
+    {
+      "chinese": "曾经试过，曾经失败过。",
+      "english": "Once tried, once failed.",
+      "pinyin": "céng jīng shì guò, céng jīng shī bài guò。",
+      "words": [
+        {"ch": "曾经", "en": "Once", "pi": "céng jīng"},
+        {"ch": "试过", "en": "tried", "pi": "shì guò"},
+        {"ch": "，", "en": ","},
+        {"ch": "曾经", "en": "once", "pi": "céng jīng"},
+        {"ch": "失败过", "en": "failed", "pi": "shī bài guò"},
+        {"ch": "。", "en": "."}
+      ]
+    },
+    {
+      "chinese": "没关系，再试一次，再次失败，更好地失败。",
+      "english": "It's okay, try again, fail again, fail better.",
+      "pinyin": "méi guān xi, zài shì yī cì, zài cì shī bài, gèng hǎo de shī bài。",
+      "words": [
+        {"ch": "没关系", "en": "It's okay", "pi": "méi guān xi"},
+        {"ch": "，", "en": ","},
+        {"ch": "再试一次", "en": "try again", "pi": "zài shì yī cì"},
+        {"ch": "，", "en": ","},
+        {"ch": "再次", "en": "again", "pi": "zài cì"},
+        {"ch": "失败", "en": "fail", "pi": "shī bài"},
+        {"ch": "，", "en": ","},
+        {"ch": "更好地", "en": "better", "pi": "gèng hǎo de"},
+        {"ch": "失败", "en": "fail", "pi": "shī bài"},
+        {"ch": "。", "en": "."}
+      ]
+    }
+  ]
+}

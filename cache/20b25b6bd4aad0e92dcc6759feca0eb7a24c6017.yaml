@@ -1,0 +1,32 @@
+{
+  "chinese": "那个铅笔是我的。",
+  "english": "That pencil is mine.",
+  "pinyin": "Nàge qiānbǐ shì wǒ de.",
+  "words": [
+    {
+      "ch": "那个",
+      "en": "that",
+      "pi": "nàge"
+    },
+    {
+      "ch": "铅笔",
+      "en": "pencil",
+      "pi": "qiānbǐ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我",
+      "en": "my",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    }
+  ]
+}

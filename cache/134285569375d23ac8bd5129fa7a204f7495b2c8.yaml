@@ -1,0 +1,17 @@
+{
+  "chinese": "我七岁时，我父亲去世了。",
+  "english": "When I was seven years old, my father passed away.",
+  "pinyin": "wǒ qī suì shí, wǒ fù qīn qù shì le。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "七", "en": "seven", "pi": "qī"},
+    {"ch": "岁", "en": "years old", "pi": "suì"},
+    {"ch": "时", "en": "when", "pi": "shí"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "父亲", "en": "father", "pi": "fù qīn"},
+    {"ch": "去世", "en": "pass away", "pi": "qù shì"},
+    {"ch": "了", "en": "finished", "pi": "le"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

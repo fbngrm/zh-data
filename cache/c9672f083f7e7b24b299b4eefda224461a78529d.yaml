@@ -1,0 +1,75 @@
+{
+  "sentences": [
+    {
+      "chinese": "感谢你们。",
+      "english": "Thank you.",
+      "pinyin": "gǎn xiè nǐ men",
+      "words": [
+        {
+          "ch": "感谢",
+          "en": "thank",
+          "pi": "gǎn xiè"
+        },
+        {
+          "ch": "你们",
+          "en": "you",
+          "pi": "nǐ men"
+        }
+      ]
+    },
+    {
+      "chinese": "上帝保佑你们。",
+      "english": "God bless you.",
+      "pinyin": "shàng dì bǎo yòu nǐ men",
+      "words": [
+        {
+          "ch": "上帝",
+          "en": "God",
+          "pi": "shàng dì"
+        },
+        {
+          "ch": "保佑",
+          "en": "bless",
+          "pi": "bǎo yòu"
+        },
+        {
+          "ch": "你们",
+          "en": "you",
+          "pi": "nǐ men"
+        }
+      ]
+    },
+    {
+      "chinese": "愿上帝保佑美利坚合众国",
+      "english": "May God bless the United States of America.",
+      "pinyin": "yuàn shàng dì bǎo yòu měi lì jiān hé zhòng guó",
+      "words": [
+        {
+          "ch": "愿",
+          "en": "may",
+          "pi": "yuàn"
+        },
+        {
+          "ch": "上帝",
+          "en": "God",
+          "pi": "shàng dì"
+        },
+        {
+          "ch": "保佑",
+          "en": "bless",
+          "pi": "bǎo yòu"
+        },
+        {
+          "ch": "美利坚",
+          "en": "United States",
+          "pi": "měi lì jiān"
+        },
+        {
+          "ch": "合众国",
+          "en": "of America",
+          "pi": "hé zhòng guó"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "我絶不会让你去做。",
+  "english": "I will never let you do it.",
+  "pinyin": "wǒ jué bù huì ràng nǐ qù zuò。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "絶不", "en": "never", "pi": "jué bù"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "让", "en": "let", "pi": "ràng"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "去", "en": "do", "pi": "qù"},
+    {"ch": "做", "en": "it", "pi": "zuò"}
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "sentences": [
+    {
+      "chinese": "喂！你到哪儿了？",
+      "english": "Hello! Where are you?",
+      "pinyin": "wèi！nǐ dào nǎ'er le？",
+      "words": [
+        {
+          "ch": "喂",
+          "en": "Hello",
+          "pi": "wèi"
+        },
+        {
+          "ch": "！",
+          "en": "",
+          "pi": "！"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "到",
+          "en": "arrive",
+          "pi": "dào"
+        },
+        {
+          "ch": "哪儿",
+          "en": "where",
+          "pi": "nǎ'er"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        },
+        {
+          "ch": "？",
+          "en": "",
+          "pi": "？"
+        }
+      ]
+    },
+    {
+      "chinese": "我 还 在 出租车 上。",
+      "english": "I'm still in the taxi.",
+      "pinyin": "wǒ hái zài chūzūchē shàng。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "还",
+          "en": "still",
+          "pi": "hái"
+        },
+        {
+          "ch": "在",
+          "en": "at",
+          "pi": "zài"
+        },
+        {
+          "ch": "出租车",
+          "en": "taxi",
+          "pi": "chūzūchē"
+        },
+        {
+          "ch": "上",
+          "en": "on",
+          "pi": "shàng"
+        },
+        {
+          "ch": "。",
+          "en": "",
+          "pi": "。"
+        }
+      ]
+    },
+    {
+      "chinese": "你 已经 到 机场 了 吗？",
+      "english": "Have you arrived at the airport?",
+      "pinyin": "nǐ yǐjīng dào jīchǎng le ma？",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "已经",
+          "en": "already",
+          "pi": "yǐjīng"
+        },
+        {
+          "ch": "到",
+          "en": "arrive",
+          "pi": "dào"
+        },
+        {
+          "ch": "机场",
+          "en": "airport",
+          "pi": "jīchǎng"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        },
+        {
+          "ch": "吗",
+          "en": "",
+          "pi": "ma"
+        },
+        {
+          "ch": "？",
+          "en": "",
+          "pi": "？"
+        }
+      ]
+    },
+    {
+      "chinese": "我 8 点 30 就 到 了。",
+      "english": "I arrived at 8:30.",
+      "pinyin": "wǒ bā diǎn sān shí jiù dào le。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "8 点 30",
+          "en": "8:30",
+          "pi": "bā diǎn sān shí jiǔ"
+        },
+        {
+          "ch": "就",
+          "en": "already",
+          "pi": "jiù"
+        },
+        {
+          "ch": "到",
+          "en": "arrive",
+          "pi": "dào"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        },
+        {
+          "ch": "。",
+          "en": "",
+          "pi": "。"
+        }
+      ]
+    },
+    {
+      "chinese": "我们 是 10 点 10 分 的 飞机。",
+      "english": "Our flight is at 10:10.",
+      "pinyin": "wǒmen shì shí diǎn shí fēn de fēijī。",
+      "words": [
+        {
+          "ch": "我们",
+          "en": "we",
+          "pi": "wǒmen"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "10 点 10 分",
+          "en": "10:10",
+          "pi": "shí diǎn shí fēn"
+        },
+        {
+          "ch": "的",
+          "en": "'s",
+          "pi": "de"
+        },
+        {
+          "ch": "飞机",
+          "en": "flight",
+          "pi": "fēijī"
+        },
+        {
+          "ch": "。",
+          "en": "",
+          "pi": "。"
+        }
+      ]
+    },
+    {
+      "chinese": "现在 已经 9 点 了， 你 快 一点儿。",
+      "english": "It's already 9 o'clock now, hurry up a bit.",
+      "pinyin": "xiànzài yǐjīng jiǔ diǎn le，nǐ kuài yi diǎn ér。",
+      "words": [
+        {
+          "ch": "现在",
+          "en": "now",
+          "pi": "xiànzài"
+        },
+        {
+          "ch": "已经",
+          "en": "already",
+          "pi": "yǐjīng"
+        },
+        {
+          "ch": "9 点",
+          "en": "9 o'clock",
+          "pi": "jiǔ diǎn"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        },
+        {
+          "ch": "，",
+          "en": "",
+          "pi": "，"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "快",
+          "en": "quick",
+          "pi": "kuài"
+        },
+        {
+          "ch": "一点儿",
+          "en": "a bit",
+          "pi": "yi diǎn ér"
+        },
+        {
+          "ch": "。",
+          "en": "",
+          "pi": "。"
+        }
+      ]
+    },
+    {
+      "chinese": "对不起！对不起！今天 星期一，路 上 车 太 多 了。",
+      "english": "I'm sorry, I'm sorry, today is Monday and there is too much traffic on the road.",
+      "pinyin": "duìbuqǐ！duìbuqǐ！jīntiān xīngqī yī，lù shàng chē tài duō le。",
+      "words": [
+        {
+          "ch": "对不起",
+          "en": "I'm sorry",
+          "pi": "duìbuqǐ"
+        },
+        {
+          "ch": "！",
+          "en": "",
+          "pi": "！"
+        },
+        {
+          "ch": "对不起",
+          "en": "I'm sorry",
+          "pi": "duìbuqǐ"
+        },
+        {
+          "ch": "！",
+          "en": "",
+          "pi": "！"
+        },
+        {
+          "ch": "今天",
+          "en": "today",
+          "pi": "jīntiān"
+        },
+        {
+          "ch": "星期一",
+          "en": "Monday",
+          "pi": "xīngqī yī"
+        },
+        {
+          "ch": "，",
+          "en": "",
+          "pi": "，"
+        },
+        {
+          "ch": "路上",
+          "en": "on the road",
+          "pi": "lù shàng"
+        },
+        {
+          "ch": "车",
+          "en": "traffic",
+          "pi": "chē"
+        },
+        {
+          "ch": "太多",
+          "en": "too much",
+          "pi": "tài duō"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        },
+        {
+          "ch": "。",
+          "en": "",
+          "pi": "。"
+        }
+      ]
+    },
+    {
+      "chinese": "你 还 要 多长 时间 可以 到？",
+      "english": "How much longer until you arrive?",
+      "pinyin": "nǐ hái yào duō cháng shíjiān kěyǐ dào？",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "还",
+          "en": "still",
+          "pi": "hái"
+        },
+        {
+          "ch": "要",
+          "en": "need",
+          "pi": "yào"
+        },
+        {
+          "ch": "多长时间",
+          "en": "how much longer",
+          "pi": "duō cháng shíjiān"
+        },
+        {
+          "ch": "可以",
+          "en": "can",
+          "pi": "kěyǐ"
+        },
+        {
+          "ch": "到",
+          "en": "arrive",
+          "pi": "dào"
+        },
+        {
+          "ch": "？",
+          "en": "",
+          "pi": "？"
+        }
+      ]
+    },
+    {
+      "chinese": "我 还 要 十五 分钟。",
+      "english": "I need another 15 minutes.",
+      "pinyin": "wǒ hái yào shíwǔ fēnzhōng。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "还",
+          "en": "still",
+          "pi": "hái"
+        },
+        {
+          "ch": "要",
+          "en": "need",
+          "pi": "yào"
+        },
+        {
+          "ch": "十五",
+          "en": "15",
+          "pi": "shíwǔ"
+        },
+        {
+          "ch": "分钟",
+          "en": "minutes",
+          "pi": "fēnzhōng"
+        },
+        {
+          "ch": "。",
+          "en": "",
+          "pi": "。"
+        }
+      ]
+    },
+    {
+      "chinese": "好，我 在 机场 3 号 门 㩐 你。",
+      "english": "Ok, I'll meet you at gate 3 at the airport.",
+      "pinyin": "hǎo，wǒ zài jīchǎng sān hào mén děng nǐ。",
+      "words": [
+        {
+          "ch": "好",
+          "en": "ok",
+          "pi": "hǎo"
+        },
+        {
+          "ch": "，",
+          "en": "",
+          "pi": "，"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "在",
+          "en": "at",
+          "pi": "zài"
+        },
+        {
+          "ch": "机场",
+          "en": "airport",
+          "pi": "jīchǎng"
+        },
+        {
+          "ch": "3",
+          "en": "3",
+          "pi": "sān"
+        },
+        {
+          "ch": "号",
+          "en": "gate",
+          "pi": "hào"
+        },
+        {
+          "ch": "门",
+          "en": "door",
+          "pi": "mén"
+        },
+        {
+          "ch": "㩐",
+          "en": "at",
+          "pi": "děng"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "。",
+          "en": "",
+          "pi": "。"
+        }
+      ]
+    }
+  ]
+}

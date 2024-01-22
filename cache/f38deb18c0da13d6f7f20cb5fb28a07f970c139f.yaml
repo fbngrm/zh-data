@@ -1,0 +1,13 @@
+{
+  "chinese": "野兔被乌龟抛了在后头。",
+  "english": "The hare was thrown behind by the tortoise.",
+  "pinyin": "yětù bèi wūguī pāole zài hòutóu.",
+  "words": [
+    {"ch": "野兔", "en": "hare", "pi": "yětù"},
+    {"ch": "被", "en": "was", "pi": "bèi"},
+    {"ch": "乌龟", "en": "tortoise", "pi": "wūguī"},
+    {"ch": "抛了", "en": "thrown", "pi": "pāole"},
+    {"ch": "在", "en": "behind", "pi": "zài"},
+    {"ch": "后头", "en": "by", "pi": "hòutóu"}
+  ]
+}

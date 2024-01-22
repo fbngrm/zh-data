@@ -1,0 +1,27 @@
+{
+  "chinese": "你好，我叫林峰。",
+  "english": "Hello, my name is Lin Feng.",
+  "pinyin": "nǐ hǎo, wǒ jiào lín fēng.",
+  "words": [
+    {
+      "ch": "你好",
+      "en": "Hello",
+      "pi": "nǐ hǎo"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "叫",
+      "en": "name",
+      "pi": "jiào"
+    },
+    {
+      "ch": "林峰",
+      "en": "Lin Feng",
+      "pi": "lín fēng"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "请你把门关上好吗？",
+  "english": "Can you please close the door?",
+  "pinyin": "qǐng nǐ bǎ mén guān shàng hǎo ma?",
+  "words": [
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "把",
+      "en": "to",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "门",
+      "en": "door",
+      "pi": "mén"
+    },
+    {
+      "ch": "关上",
+      "en": "close",
+      "pi": "guān shàng"
+    },
+    {
+      "ch": "好吗",
+      "en": "please",
+      "pi": "hǎo ma"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "？"
+    }
+  ]
+}

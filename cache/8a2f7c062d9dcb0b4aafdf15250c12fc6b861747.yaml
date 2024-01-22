@@ -1,0 +1,63 @@
+{
+  "sentences": [
+    {
+      "chinese": "现在已经十一时了。",
+      "english": "It's already eleven o'clock now.",
+      "pinyin": "xiàn zài yǐ jīng shí yī shí le。",
+      "words": [
+        {
+          "ch": "现在",
+          "en": "now",
+          "pi": "xiàn zài"
+        },
+        {
+          "ch": "已经",
+          "en": "already",
+          "pi": "yǐ jīng"
+        },
+        {
+          "ch": "十一时",
+          "en": "eleven o'clock",
+          "pi": "shí yī shí"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        }
+      ]
+    },
+    {
+      "chinese": "我一定要走了。",
+      "english": "I must leave.",
+      "pinyin": "wǒ yī dìng yào zǒu le。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "一定",
+          "en": "must",
+          "pi": "yī dìng"
+        },
+        {
+          "ch": "要",
+          "en": "",
+          "pi": "yào"
+        },
+        {
+          "ch": "走",
+          "en": "leave",
+          "pi": "zǒu"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        }
+      ]
+    }
+  ]
+}

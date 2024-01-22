@@ -1,0 +1,37 @@
+{
+  "chinese": "這個蘋果是最好吃的。",
+  "english": "This apple is the most delicious.",
+  "pinyin": "zhè gè píng guǒ shì zuì hǎo chī de。",
+  "words": [
+    {
+      "ch": "這個",
+      "en": "This",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "蘋果",
+      "en": "apple",
+      "pi": "píng guǒ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "最",
+      "en": "most",
+      "pi": "zuì"
+    },
+    {
+      "ch": "好吃",
+      "en": "delicious",
+      "pi": "hǎo chī"
+    },
+    {
+      "ch": "的",
+      "en": "the",
+      "pi": "de"
+    }
+  ]
+}

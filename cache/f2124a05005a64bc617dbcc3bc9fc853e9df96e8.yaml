@@ -1,0 +1,13 @@
+{
+  "chinese": "我们的友情会长久留存。",
+  "english": "Our friendship will last forever.",
+  "pinyin": "wǒ men de yǒu qíng huì cháng jiǔ liú cún.",
+  "words": [
+    { "ch": "我们", "en": "we", "pi": "wǒ men" },
+    { "ch": "的", "en": "possessive particle", "pi": "de" },
+    { "ch": "友情", "en": "friendship", "pi": "yǒu qíng" },
+    { "ch": "会", "en": "will", "pi": "huì" },
+    { "ch": "长久", "en": "lasting", "pi": "cháng jiǔ" },
+    { "ch": "留存", "en": "remain", "pi": "liú cún" }
+  ]
+}

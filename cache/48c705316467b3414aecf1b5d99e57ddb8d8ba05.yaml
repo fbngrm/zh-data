@@ -1,0 +1,32 @@
+{
+  "chinese": "天空是多么的蓝啊！",
+  "english": "How blue the sky is!",
+  "pinyin": "tiān kōng shì duō me de lán a!",
+  "words": [
+    {
+      "ch": "天空",
+      "en": "sky",
+      "pi": "tiān kōng"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "多么的",
+      "en": "how",
+      "pi": "duō me de"
+    },
+    {
+      "ch": "蓝",
+      "en": "blue",
+      "pi": "lán"
+    },
+    {
+      "ch": "啊",
+      "en": "!",
+      "pi": "a"
+    }
+  ]
+}

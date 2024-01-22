@@ -1,0 +1,37 @@
+{
+  "chinese": "我把票弄丢了。",
+  "english": "I lost my ticket.",
+  "pinyin": "wǒ bǎ piào nòng diū le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "把",
+      "en": "take",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "票",
+      "en": "ticket",
+      "pi": "piào"
+    },
+    {
+      "ch": "弄",
+      "en": "lost",
+      "pi": "nòng"
+    },
+    {
+      "ch": "丢",
+      "en": "throw",
+      "pi": "diū"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

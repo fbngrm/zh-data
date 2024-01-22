@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆掌握了三种语言。",
+  "english": "Tom has mastered three languages.",
+  "pinyin": "tāng mǔ zhǎng wò le sān zhǒng yǔ yán。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "掌握",
+      "en": "master",
+      "pi": "zhǎng wò"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "三种",
+      "en": "three",
+      "pi": "sān zhǒng"
+    },
+    {
+      "ch": "语言",
+      "en": "languages",
+      "pi": "yǔ yán"
+    }
+  ]
+}

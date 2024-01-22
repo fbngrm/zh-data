@@ -1,0 +1,32 @@
+{
+  "chinese": "熊猫以竹为食。",
+  "english": "Pandas eat bamboo.",
+  "pinyin": "xióng māo yǐ zhú wéi shí.",
+  "words": [
+    {
+      "ch": "熊猫",
+      "en": "pandas",
+      "pi": "xióng māo"
+    },
+    {
+      "ch": "以",
+      "en": "eat",
+      "pi": "yǐ"
+    },
+    {
+      "ch": "竹",
+      "en": "bamboo",
+      "pi": "zhú"
+    },
+    {
+      "ch": "为",
+      "en": "as",
+      "pi": "wéi"
+    },
+    {
+      "ch": "食",
+      "en": "food",
+      "pi": "shí"
+    }
+  ]
+}

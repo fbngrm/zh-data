@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆不喜欢戴手表。",
+  "english": "Tom doesn't like wearing watches.",
+  "pinyin": "Tāng mǔ bù xǐhuān dài shǒubiǎo.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "戴",
+      "en": "wear",
+      "pi": "dài"
+    },
+    {
+      "ch": "手表",
+      "en": "watch",
+      "pi": "shǒubiǎo"
+    }
+  ]
+}

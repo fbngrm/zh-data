@@ -1,0 +1,32 @@
+{
+  "chinese": "日本人吃很多鱼吗?",
+  "english": "Do Japanese people eat a lot of fish?",
+  "pinyin": "rì běn rén chī hěn duō yú ma?",
+  "words": [
+    {
+      "ch": "日本人",
+      "en": "Japanese people",
+      "pi": "rì běn rén"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "很多",
+      "en": "a lot of",
+      "pi": "hěn duō"
+    },
+    {
+      "ch": "鱼",
+      "en": "fish",
+      "pi": "yú"
+    },
+    {
+      "ch": "吗",
+      "en": "do",
+      "pi": "ma"
+    }
+  ]
+}

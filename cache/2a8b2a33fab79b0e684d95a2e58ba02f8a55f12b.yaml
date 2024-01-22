@@ -1,0 +1,42 @@
+{
+  "chinese": "我父親太忙而無法去散步。",
+  "english": "My father is too busy to go for a walk.",
+  "pinyin": "Wǒ fùqīn tài máng ér wúfǎ qù sànbù.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "父親",
+      "en": "father",
+      "pi": "fùqīn"
+    },
+    {
+      "ch": "太忙",
+      "en": "too busy",
+      "pi": "tài máng"
+    },
+    {
+      "ch": "而",
+      "en": "and",
+      "pi": "ér"
+    },
+    {
+      "ch": "無法",
+      "en": "unable",
+      "pi": "wúfǎ"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "散步",
+      "en": "for a walk",
+      "pi": "sànbù"
+    }
+  ]
+}

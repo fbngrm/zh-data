@@ -1,0 +1,13 @@
+{
+  "chinese": "我只能走路，因为打不到出租车。",
+  "english": "I can only walk because I can't catch a taxi.",
+  "pinyin": "wǒ zhǐ néng zǒu lù, yīn wèi dǎ bú dào chū zū chē。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "只能", "en": "can only", "pi": "zhǐ néng"},
+    {"ch": "走路", "en": "walk", "pi": "zǒu lù"},
+    {"ch": "因为", "en": "because", "pi": "yīn wèi"},
+    {"ch": "打不到", "en": "can't catch", "pi": "dǎ bú dào"},
+    {"ch": "出租车", "en": "taxi", "pi": "chū zū chē"}
+  ]
+}

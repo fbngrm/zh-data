@@ -1,0 +1,16 @@
+{
+  "chinese": "英格兰的守门员因为自己失球过多而被批评。",
+  "english": "England's goalkeeper is being criticized for conceding too many goals.",
+  "pinyin": "Yīng gé lán de shǒu mén yuán yīn wèi zì jǐ shī qiú guò duō ér bèi pī píng.",
+  "words": [
+    {"ch": "英格兰", "en": "England", "pi": "Yīng gé lán"},
+    {"ch": "的", "en": "'s", "pi": "de"},
+    {"ch": "守门员", "en": "goalkeeper", "pi": "shǒu mén yuán"},
+    {"ch": "因为", "en": "because", "pi": "yīn wèi"},
+    {"ch": "自己", "en": "own", "pi": "zì jǐ"},
+    {"ch": "失球", "en": "concede a goal", "pi": "shī qiú"},
+    {"ch": "过多", "en": "too many", "pi": "guò duō"},
+    {"ch": "而", "en": "and", "pi": "ér"},
+    {"ch": "被批评", "en": "be criticized", "pi": "bèi pī píng"}
+  ]
+}

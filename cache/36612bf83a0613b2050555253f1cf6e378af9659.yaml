@@ -1,0 +1,32 @@
+{
+  "chinese": "他比Tom年轻得多。",
+  "english": "He is much younger than Tom.",
+  "pinyin": "tā bǐ Tom niánqīng de duō。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "比",
+      "en": "is",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "Tom",
+      "en": "Tom",
+      "pi": "Tom"
+    },
+    {
+      "ch": "年轻",
+      "en": "younger",
+      "pi": "niánqīng"
+    },
+    {
+      "ch": "得多",
+      "en": "much",
+      "pi": "de duō"
+    }
+  ]
+}

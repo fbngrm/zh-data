@@ -1,0 +1,14 @@
+{
+  "chinese": "他比你想的还要晚到。",
+  "english": "He will arrive later than you think.",
+  "pinyin": "tā bǐ nǐ xiǎng de hái yào wǎn dào。",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "比", "en": "than", "pi": "bǐ"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "想", "en": "think", "pi": "xiǎng"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "还要", "en": "will", "pi": "hái yào"},
+    {"ch": "晚到", "en": "arrive later", "pi": "wǎn dào"}
+  ]
+}

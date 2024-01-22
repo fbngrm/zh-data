@@ -1,0 +1,52 @@
+{
+  "chinese": "汤姆应该知道有谁可以教我们法文。",
+  "english": "Tom should know who can teach us French.",
+  "pinyin": "Tāng mǔ yīng gāi zhī dào yǒu shuí kě yǐ jiāo wǒ men fǎ wén。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "应该",
+      "en": "should",
+      "pi": "yīng gāi"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "有",
+      "en": "who",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "谁",
+      "en": "can",
+      "pi": "shuí"
+    },
+    {
+      "ch": "可以",
+      "en": "teach",
+      "pi": "kě yǐ"
+    },
+    {
+      "ch": "教",
+      "en": "us",
+      "pi": "jiāo"
+    },
+    {
+      "ch": "我们",
+      "en": "French",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "法文",
+      "en": "French",
+      "pi": "fǎ wén"
+    }
+  ]
+}

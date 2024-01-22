@@ -1,0 +1,13 @@
+{
+  "chinese": "据传总统下个月要辞职了。",
+  "english": "It is rumored that the president will resign next month.",
+  "pinyin": "jù chuán zǒng tǒng xià gè yuè yào cí zhí le。",
+  "words": [
+    {"ch": "据传", "en": "It is rumored", "pi": "jù chuán"},
+    {"ch": "总统", "en": "president", "pi": "zǒng tǒng"},
+    {"ch": "下个月", "en": "next month", "pi": "xià gè yuè"},
+    {"ch": "要", "en": "will", "pi": "yào"},
+    {"ch": "辞职", "en": "resign", "pi": "cí zhí"},
+    {"ch": "了", "en": "already", "pi": "le"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆日语说得很流利。",
+  "english": "Tom speaks Japanese fluently.",
+  "pinyin": "tāng mǔ rì yǔ shuō dé hěn liú lì.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "日语",
+      "en": "Japanese",
+      "pi": "rì yǔ"
+    },
+    {
+      "ch": "说得",
+      "en": "speaks",
+      "pi": "shuō dé"
+    },
+    {
+      "ch": "很",
+      "en": "fluently",
+      "pi": "hěn"
+    },
+    {
+      "ch": "流利",
+      "en": "fluent",
+      "pi": "liú lì"
+    }
+  ]
+}

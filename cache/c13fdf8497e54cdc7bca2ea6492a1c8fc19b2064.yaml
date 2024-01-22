@@ -1,0 +1,15 @@
+{
+  "chinese": "他们为他们第一个孩子出生而高兴。",
+  "english": "They are happy for the birth of their first child.",
+  "pinyin": "Tāmen wèi tāmen dì-yī gè háizi chūshēng ér gāoxìng.",
+  "words": [
+    {"ch": "他们", "en": "they", "pi": "tāmen"},
+    {"ch": "为", "en": "for", "pi": "wèi"},
+    {"ch": "他们", "en": "their", "pi": "tāmen"},
+    {"ch": "第一个", "en": "first", "pi": "dì-yī"},
+    {"ch": "孩子", "en": "child", "pi": "háizi"},
+    {"ch": "出生", "en": "birth", "pi": "chūshēng"},
+    {"ch": "而", "en": "and", "pi": "ér"},
+    {"ch": "高兴", "en": "happy", "pi": "gāoxìng"}
+  ]
+}

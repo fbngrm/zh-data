@@ -1,0 +1,32 @@
+{
+  "chinese": "他和我一样高。",
+  "english": "He is as tall as me.",
+  "pinyin": "Tā hé wǒ yīyàng gāo.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "一样",
+      "en": "as",
+      "pi": "yīyàng"
+    },
+    {
+      "ch": "高",
+      "en": "tall",
+      "pi": "gāo"
+    }
+  ]
+}

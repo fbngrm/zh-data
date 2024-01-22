@@ -1,0 +1,37 @@
+{
+  "chinese": "他們的牛都很肥。",
+  "english": "Their cows are all very fat.",
+  "pinyin": "tā men de niú dōu hěn féi.",
+  "words": [
+    {
+      "ch": "他們",
+      "en": "they",
+      "pi": "tā men"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "牛",
+      "en": "cows",
+      "pi": "niú"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "肥",
+      "en": "fat",
+      "pi": "féi"
+    }
+  ]
+}

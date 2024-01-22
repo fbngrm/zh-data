@@ -1,0 +1,14 @@
+{
+  "chinese": "我最近有很多事情要做。",
+  "english": "I have a lot of things to do recently.",
+  "pinyin": "wǒ zuìjìn yǒu hěnduō shìqíng yào zuò。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "最近", "en": "recently", "pi": "zuìjìn"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "很多", "en": "a lot of", "pi": "hěnduō"},
+    {"ch": "事情", "en": "things", "pi": "shìqíng"},
+    {"ch": "要", "en": "to", "pi": "yào"},
+    {"ch": "做", "en": "do", "pi": "zuò"}
+  ]
+}

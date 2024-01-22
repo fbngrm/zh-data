@@ -1,0 +1,42 @@
+{
+  "chinese": "请小心别打碎了这个花瓶。",
+  "english": "Please be careful and don't break this vase.",
+  "pinyin": "qǐng xiǎo xīn bié dǎ suì le zhè ge huā píng。",
+  "words": [
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "小心",
+      "en": "careful",
+      "pi": "xiǎo xīn"
+    },
+    {
+      "ch": "别",
+      "en": "don't",
+      "pi": "bié"
+    },
+    {
+      "ch": "打碎",
+      "en": "break",
+      "pi": "dǎ suì"
+    },
+    {
+      "ch": "了",
+      "en": "(particle indicating completed action)",
+      "pi": "le"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè ge"
+    },
+    {
+      "ch": "花瓶",
+      "en": "vase",
+      "pi": "huā píng"
+    }
+  ]
+}

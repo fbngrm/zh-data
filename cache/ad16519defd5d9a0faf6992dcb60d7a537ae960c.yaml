@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆的办公室在三楼。",
+  "english": "Tom's office is on the third floor.",
+  "pinyin": "tāng mǔ de bàn gōng shì zài sān lóu。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "办公室",
+      "en": "office",
+      "pi": "bàn gōng shì"
+    },
+    {
+      "ch": "在",
+      "en": "is on",
+      "pi": "zài"
+    },
+    {
+      "ch": "三",
+      "en": "third",
+      "pi": "sān"
+    },
+    {
+      "ch": "楼",
+      "en": "floor",
+      "pi": "lóu"
+    }
+  ]
+}

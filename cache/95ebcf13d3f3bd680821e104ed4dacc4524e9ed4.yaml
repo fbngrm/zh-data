@@ -1,0 +1,42 @@
+{
+  "chinese": "我住了一个星期的医院。",
+  "english": "I stayed in the hospital for a week.",
+  "pinyin": "wǒ zhù le yī gè xīng qī de yī yuàn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "住",
+      "en": "stay",
+      "pi": "zhù"
+    },
+    {
+      "ch": "了",
+      "en": "in",
+      "pi": "le"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "星期",
+      "en": "week",
+      "pi": "xīng qī"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "医院",
+      "en": "hospital",
+      "pi": "yī yuàn"
+    }
+  ]
+}

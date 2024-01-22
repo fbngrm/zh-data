@@ -1,0 +1,15 @@
+{
+  "chinese": "他住在那边的那间房子。",
+  "english": "He lives in that house over there.",
+  "pinyin": "tā zhù zài nà biān de nà jiān fángzi.",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "住", "en": "lives", "pi": "zhù"},
+    {"ch": "在", "en": "in/at", "pi": "zài"},
+    {"ch": "那边", "en": "over there", "pi": "nà biān"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "那", "en": "that", "pi": "nà"},
+    {"ch": "间", "en": "room", "pi": "jiān"},
+    {"ch": "房子", "en": "house", "pi": "fángzi"}
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "我要咖啡，谢谢。",
+  "english": "I want coffee, thank you.",
+  "pinyin": "Wǒ yào kāfēi, xièxiè.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "Wǒ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kāfēi"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": ""
+    },
+    {
+      "ch": "谢谢",
+      "en": "thank you",
+      "pi": "xièxiè"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": ""
+    }
+  ]
+}

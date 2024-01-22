@@ -1,0 +1,32 @@
+{
+  "chinese": "她喜欢这件新裙子。",
+  "english": "She likes this new dress.",
+  "pinyin": "tā xǐhuan zhè jiàn xīn qúnzi.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "喜欢",
+      "en": "likes",
+      "pi": "xǐhuan"
+    },
+    {
+      "ch": "这件",
+      "en": "this",
+      "pi": "zhè jiàn"
+    },
+    {
+      "ch": "新",
+      "en": "new",
+      "pi": "xīn"
+    },
+    {
+      "ch": "裙子",
+      "en": "dress",
+      "pi": "qúnzi"
+    }
+  ]
+}

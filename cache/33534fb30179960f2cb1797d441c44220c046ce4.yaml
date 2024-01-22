@@ -1,0 +1,27 @@
+{
+  "chinese": "你的生日是几号？",
+  "english": "What is your birthday?",
+  "pinyin": "Nǐ de shēngrì shì jǐ hào?",
+  "words": [
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "生日",
+      "en": "birthday",
+      "pi": "shēngrì"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "几号",
+      "en": "what day",
+      "pi": "jǐ hào"
+    }
+  ]
+}

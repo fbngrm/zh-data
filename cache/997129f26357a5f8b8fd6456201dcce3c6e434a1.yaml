@@ -1,0 +1,12 @@
+{
+  "chinese": "小明八点半就回家了。",
+  "english": "Xiaoming went home at half past eight.",
+  "pinyin": "Xiǎo míng bā diǎn bàn jiù huí jiā le.",
+  "words": [
+    {"ch": "小明", "en": "Xiaoming", "pi": "Xiǎo míng"},
+    {"ch": "八点半", "en": "half past eight", "pi": "bā diǎn bàn"},
+    {"ch": "就", "en": "just", "pi": "jiù"},
+    {"ch": "回家", "en": "go home", "pi": "huí jiā"},
+    {"ch": "了", "en": "particle indicating a completed or finished action", "pi": "le"}
+  ]
+}

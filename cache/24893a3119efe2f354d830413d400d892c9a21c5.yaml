@@ -1,0 +1,22 @@
+{
+  "chinese": "面包是用面粉和水做的，有时还会加入发酵粉。",
+  "english": "Bread is made from flour and water, and sometimes yeast is added.",
+  "pinyin": "miàn bāo shì yòng miàn fěn hé shuǐ zuò de, yǒu shí hái huì jiā rù fā yè fěn。",
+  "words": [
+    {"ch": "面包", "en": "bread", "pi": "miàn bāo"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "用", "en": "made from", "pi": "yòng"},
+    {"ch": "面粉", "en": "flour", "pi": "miàn fěn"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "水", "en": "water", "pi": "shuǐ"},
+    {"ch": "做", "en": "made", "pi": "zuò"},
+    {"ch": "的", "en": "from", "pi": "de"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "有时", "en": "sometimes", "pi": "yǒu shí"},
+    {"ch": "还", "en": "also", "pi": "hái"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "加入", "en": "add", "pi": "jiā rù"},
+    {"ch": "发酵粉", "en": "yeast", "pi": "fā yè fěn"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

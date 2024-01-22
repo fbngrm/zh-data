@@ -1,0 +1,37 @@
+{
+  "chinese": "你那天去了伦敦吗？",
+  "english": "Did you go to London that day?",
+  "pinyin": "nǐ nà tiān qù le lún dūn ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "那天",
+      "en": "that day",
+      "pi": "nà tiān"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "了",
+      "en": "did",
+      "pi": "le"
+    },
+    {
+      "ch": "伦敦",
+      "en": "London",
+      "pi": "lún dūn"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

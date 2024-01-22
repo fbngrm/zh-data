@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆写了两本书。",
+  "english": "Tom wrote two books.",
+  "pinyin": "tāng mǔ xiě le liǎng běn shū。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "写",
+      "en": "wrote",
+      "pi": "xiě"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "两",
+      "en": "two",
+      "pi": "liǎng"
+    },
+    {
+      "ch": "本书",
+      "en": "books",
+      "pi": "běn shū"
+    }
+  ]
+}

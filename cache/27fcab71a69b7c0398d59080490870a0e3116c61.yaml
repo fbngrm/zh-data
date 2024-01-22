@@ -1,0 +1,42 @@
+{
+  "chinese": "我一出门就开始下雨了。",
+  "english": "As soon as I stepped out the door, it started raining.",
+  "pinyin": "wǒ yī chū mén jiù kāi shǐ xià yǔ le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "一",
+      "en": "one",
+      "pi": "yī"
+    },
+    {
+      "ch": "出门",
+      "en": "go out",
+      "pi": "chū mén"
+    },
+    {
+      "ch": "就",
+      "en": "as soon as",
+      "pi": "jiù"
+    },
+    {
+      "ch": "开始",
+      "en": "start",
+      "pi": "kāi shǐ"
+    },
+    {
+      "ch": "下雨",
+      "en": "rain",
+      "pi": "xià yǔ"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

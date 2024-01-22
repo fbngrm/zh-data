@@ -1,0 +1,11 @@
+{
+  "chinese": "咖啡是冷的。",
+  "english": "The coffee is cold.",
+  "pinyin": "kā fēi shì lěng de.",
+  "words": [
+    {"ch": "咖啡", "en": "coffee", "pi": "kā fēi"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "冷", "en": "cold", "pi": "lěng"},
+    {"ch": "的", "en": "", "pi": "de"}
+  ]
+}

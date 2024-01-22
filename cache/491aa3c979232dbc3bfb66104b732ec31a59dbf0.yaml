@@ -1,0 +1,37 @@
+{
+  "chinese": "你说世界语，是不是？",
+  "english": "Do you speak Esperanto?",
+  "pinyin": "nǐ shuō shìjièyǔ, shì bùshì?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "世界语",
+      "en": "Esperanto",
+      "pi": "shìjièyǔ"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": ","
+    },
+    {
+      "ch": "是不是",
+      "en": "do you?",
+      "pi": "shì bùshì"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "?"
+    }
+  ]
+}

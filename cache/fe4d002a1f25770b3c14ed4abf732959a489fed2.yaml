@@ -1,0 +1,12 @@
+{
+  "chinese": "她发了一条短信。",
+  "english": "She sent a message.",
+  "pinyin": "tā fā le yī tiáo duǎnxìn.",
+  "words": [
+    { "ch": "她", "en": "she", "pi": "tā" },
+    { "ch": "发", "en": "sent", "pi": "fā" },
+    { "ch": "了", "en": "a", "pi": "le" },
+    { "ch": "一条", "en": "message", "pi": "yī tiáo" },
+    { "ch": "短信", "en": "short message", "pi": "duǎnxìn" }
+  ]
+}

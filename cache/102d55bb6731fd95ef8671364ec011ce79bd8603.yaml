@@ -1,0 +1,14 @@
+{
+  "chinese": "妈妈每天都给我们做晚饭。",
+  "english": "Mom makes dinner for us every day.",
+  "pinyin": "mā mā měi tiān dōu gěi wǒ men zuò wǎn fàn。",
+  "words": [
+    {"ch": "妈妈", "en": "Mom", "pi": "mā mā"},
+    {"ch": "每天", "en": "every day", "pi": "měi tiān"},
+    {"ch": "都", "en": "always", "pi": "dōu"},
+    {"ch": "给", "en": "give", "pi": "gěi"},
+    {"ch": "我们", "en": "us", "pi": "wǒ men"},
+    {"ch": "做", "en": "make", "pi": "zuò"},
+    {"ch": "晚饭", "en": "dinner", "pi": "wǎn fàn"}
+  ]
+}

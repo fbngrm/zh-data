@@ -1,0 +1,15 @@
+{
+  "chinese": "我听说，她下个月结婚了。",
+  "english": "I heard that she is getting married next month.",
+  "pinyin": "wǒ tīngshuō, tā xià gè yuè jiéhūn le.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "听说", "en": "heard", "pi": "tīngshuō" },
+    { "ch": "，", "en": "," },
+    { "ch": "她", "en": "she", "pi": "tā" },
+    { "ch": "下个月", "en": "next month", "pi": "xià gè yuè" },
+    { "ch": "结婚", "en": "get married", "pi": "jiéhūn" },
+    { "ch": "了", "en": "already", "pi": "le" },
+    { "ch": "。", "en": "." }
+  ]
+}

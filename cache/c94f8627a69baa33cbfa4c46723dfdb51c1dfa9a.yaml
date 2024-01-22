@@ -1,0 +1,42 @@
+{
+  "chinese": "这项工作必须在週一​​前完成。",
+  "english": "This task must be completed before Monday.",
+  "pinyin": "zhè xiàng gōng zuò bì xū zài zhōu yī qián wán chéng。",
+  "words": [
+    {
+      "ch": "这项",
+      "en": "this task",
+      "pi": "zhè xiàng"
+    },
+    {
+      "ch": "工作",
+      "en": "work",
+      "pi": "gōng zuò"
+    },
+    {
+      "ch": "必须",
+      "en": "must",
+      "pi": "bì xū"
+    },
+    {
+      "ch": "在",
+      "en": "before",
+      "pi": "zài"
+    },
+    {
+      "ch": "週一",
+      "en": "Monday",
+      "pi": "zhōu yī"
+    },
+    {
+      "ch": "前",
+      "en": "in front of",
+      "pi": "qián"
+    },
+    {
+      "ch": "完成",
+      "en": "completed",
+      "pi": "wán chéng"
+    }
+  ]
+}

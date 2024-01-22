@@ -1,0 +1,13 @@
+{
+  "chinese": "我的衣服被油弄髒了。",
+  "english": "My clothes got dirty with oil.",
+  "pinyin": "wǒ de yīfú bèi yóu nòng zāng le.",
+  "words": [
+    { "ch": "我的", "en": "my", "pi": "wǒ de" },
+    { "ch": "衣服", "en": "clothes", "pi": "yīfú" },
+    { "ch": "被", "en": "by", "pi": "bèi" },
+    { "ch": "油", "en": "oil", "pi": "yóu" },
+    { "ch": "弄髒", "en": "get dirty", "pi": "nòng zāng" },
+    { "ch": "了", "en": "with", "pi": "le" }
+  ]
+}

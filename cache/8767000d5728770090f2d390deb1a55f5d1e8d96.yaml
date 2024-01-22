@@ -1,0 +1,32 @@
+{
+  "chinese": "他通通都吃了。",
+  "english": "He ate everything.",
+  "pinyin": "tā tōngtōng dōu chī le.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "通通",
+      "en": "everything",
+      "pi": "tōngtōng"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "了",
+      "en": "completed action",
+      "pi": "le"
+    }
+  ]
+}

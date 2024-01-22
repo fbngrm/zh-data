@@ -1,0 +1,17 @@
+{
+  "chinese": "我觉得吃完那块大牛排你就饱了。",
+  "english": "I think you will be full after eating that big steak.",
+  "pinyin": "wǒ juédé chī wán nà kuài dà niúpái nǐ jiù bǎo le。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "觉得", "en": "think", "pi": "juédé"},
+    {"ch": "吃完", "en": "eat finish", "pi": "chī wán"},
+    {"ch": "那", "en": "that", "pi": "nà"},
+    {"ch": "块", "en": "piece", "pi": "kuài"},
+    {"ch": "大", "en": "big", "pi": "dà"},
+    {"ch": "牛排", "en": "steak", "pi": "niúpái"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "就", "en": "will", "pi": "jiù"},
+    {"ch": "饱了", "en": "be full", "pi": "bǎo le"}
+  ]
+}

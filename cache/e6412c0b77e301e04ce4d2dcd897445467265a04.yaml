@@ -1,0 +1,13 @@
+{
+  "chinese": "我被交通堵塞耽搁了。",
+  "english": "I was delayed by traffic congestion.",
+  "pinyin": "wǒ bèi jiāo tōng dǔ sè dān è le。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "被", "en": "was", "pi": "bèi"},
+    {"ch": "交通", "en": "traffic", "pi": "jiāo tōng"},
+    {"ch": "堵塞", "en": "congestion", "pi": "dǔ sè"},
+    {"ch": "耽搁", "en": "delayed", "pi": "dān è"},
+    {"ch": "了", "en": "by", "pi": "le"}
+  ]
+}

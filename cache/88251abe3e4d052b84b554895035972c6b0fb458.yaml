@@ -1,0 +1,37 @@
+{
+  "chinese": "这家咖啡馆在哪里？",
+  "english": "Where is this coffee shop?",
+  "pinyin": "zhè jiā kā fēi guǎn zài nǎ lǐ?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "家",
+      "en": "family",
+      "pi": "jiā"
+    },
+    {
+      "ch": "咖啡馆",
+      "en": "coffee shop",
+      "pi": "kā fēi guǎn"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪里",
+      "en": "where",
+      "pi": "nǎ lǐ"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "?"
+    }
+  ]
+}

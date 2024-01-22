@@ -1,0 +1,32 @@
+{
+  "chinese": "王老师，好久不见！",
+  "english": "Teacher Wang, long time no see!",
+  "pinyin": "wáng lǎo shī, hǎo jiǔ bú jiàn!",
+  "words": [
+    {
+      "ch": "王",
+      "en": "Wang",
+      "pi": "wáng"
+    },
+    {
+      "ch": "老师",
+      "en": "teacher",
+      "pi": "lǎo shī"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": ""
+    },
+    {
+      "ch": "好久不见",
+      "en": "long time no see",
+      "pi": "hǎo jiǔ bú jiàn"
+    },
+    {
+      "ch": "！",
+      "en": "!",
+      "pi": ""
+    }
+  ]
+}

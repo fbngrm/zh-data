@@ -1,0 +1,18 @@
+{
+  "chinese": "地球大约每三百六十五天就会围绕太阳旋转一周。",
+  "english": "The Earth revolves around the sun about every 365 days.",
+  "pinyin": "Dìqiú dàyuē měi sānbǎi liùshíwǔ tiān jiù huì wéirào tàiyáng xuánzhuǎn yī zhōu。",
+  "words": [
+    { "ch": "地球", "en": "Earth", "pi": "Dìqiú" },
+    { "ch": "大约", "en": "about", "pi": "dàyuē" },
+    { "ch": "每", "en": "every", "pi": "měi" },
+    { "ch": "三百六十五", "en": "365", "pi": "sānbǎi liùshíwǔ" },
+    { "ch": "天", "en": "days", "pi": "tiān" },
+    { "ch": "就", "en": "revolves", "pi": "jiù" },
+    { "ch": "会", "en": "around", "pi": "huì" },
+    { "ch": "围绕", "en": "the sun", "pi": "wéirào" },
+    { "ch": "太阳", "en": "once", "pi": "tàiyáng" },
+    { "ch": "旋转", "en": "a week", "pi": "xuánzhuǎn" },
+    { "ch": "一周", "en": "", "pi": "yī zhōu" }
+  ]
+}

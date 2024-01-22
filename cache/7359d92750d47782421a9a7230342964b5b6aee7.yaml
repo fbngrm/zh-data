@@ -1,0 +1,47 @@
+{
+  "chinese": "请不要在图书馆的书上涂写。",
+  "english": "Please do not write on the books in the library.",
+  "pinyin": "Qǐng bù yào zài tú shū guǎn de shū shàng tú xiě。",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "不要",
+      "en": "do not",
+      "pi": "bù yào"
+    },
+    {
+      "ch": "在",
+      "en": "on",
+      "pi": "zài"
+    },
+    {
+      "ch": "图书馆",
+      "en": "library",
+      "pi": "tú shū guǎn"
+    },
+    {
+      "ch": "的",
+      "en": "the",
+      "pi": "de"
+    },
+    {
+      "ch": "书",
+      "en": "books",
+      "pi": "shū"
+    },
+    {
+      "ch": "上",
+      "en": "in",
+      "pi": "shàng"
+    },
+    {
+      "ch": "涂写",
+      "en": "write",
+      "pi": "tú xiě"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "迈克今天晚上会来吃晚饭。",
+  "english": "Mike will come for dinner tonight.",
+  "pinyin": "Màikè jīntiān wǎnshàng huì lái chī wǎnfàn.",
+  "words": [
+    {
+      "ch": "迈克",
+      "en": "Mike",
+      "pi": "Màikè"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "晚上",
+      "en": "night",
+      "pi": "wǎnshàng"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "晚饭",
+      "en": "dinner",
+      "pi": "wǎnfàn"
+    }
+  ]
+}

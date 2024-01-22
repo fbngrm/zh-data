@@ -1,0 +1,32 @@
+{
+  "chinese": "我的腳踏車被偷了。",
+  "english": "My bicycle has been stolen.",
+  "pinyin": "wǒ de jiǎo tà chē bèi tōu le.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "My",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "腳踏車",
+      "en": "bicycle",
+      "pi": "jiǎo tà chē"
+    },
+    {
+      "ch": "被",
+      "en": "has been",
+      "pi": "bèi"
+    },
+    {
+      "ch": "偷",
+      "en": "stolen",
+      "pi": "tōu"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

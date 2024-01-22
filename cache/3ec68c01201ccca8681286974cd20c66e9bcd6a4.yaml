@@ -1,0 +1,37 @@
+{
+  "chinese": "我昨天没时间看电视。",
+  "english": "I didn't have time to watch TV yesterday.",
+  "pinyin": "wǒ zuótiān méi shíjiān kàn diànshì.",
+  "words": [
+    {
+      "chinese": "我",
+      "english": "I",
+      "pinyin": "wǒ"
+    },
+    {
+      "chinese": "昨天",
+      "english": "yesterday",
+      "pinyin": "zuótiān"
+    },
+    {
+      "chinese": "没",
+      "english": "didn't",
+      "pinyin": "méi"
+    },
+    {
+      "chinese": "时间",
+      "english": "time",
+      "pinyin": "shíjiān"
+    },
+    {
+      "chinese": "看",
+      "english": "to watch",
+      "pinyin": "kàn"
+    },
+    {
+      "chinese": "电视",
+      "english": "TV",
+      "pinyin": "diànshì"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "苹果树上挂着美丽的花朵。",
+  "english": "Beautiful flowers are hanging on the apple tree.",
+  "pinyin": "Píngguǒshù shàng guàzhe měilì de huāduǒ.",
+  "words": [
+    {
+      "ch": "苹果树",
+      "en": "apple tree",
+      "pi": "píngguǒshù"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "挂着",
+      "en": "hanging",
+      "pi": "guàzhe"
+    },
+    {
+      "ch": "美丽的",
+      "en": "beautiful",
+      "pi": "měilì de"
+    },
+    {
+      "ch": "花朵",
+      "en": "flowers",
+      "pi": "huāduǒ"
+    }
+  ]
+}

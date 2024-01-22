@@ -1,0 +1,42 @@
+{
+  "chinese": "在你面前我说不出话来。",
+  "english": "I can't find the words to say in front of you.",
+  "pinyin": "zài nǐ miàn qián wǒ shuō bù chū huà lái.",
+  "words": [
+    {
+      "ch": "在",
+      "en": "in, at",
+      "pi": "zài"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "面前",
+      "en": "in front of",
+      "pi": "miàn qián"
+    },
+    {
+      "ch": "我",
+      "en": "I, me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "说",
+      "en": "to say",
+      "pi": "shuō"
+    },
+    {
+      "ch": "不出",
+      "en": "cannot",
+      "pi": "bù chū"
+    },
+    {
+      "ch": "话来",
+      "en": "find the words",
+      "pi": "huà lái"
+    }
+  ]
+}

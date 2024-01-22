@@ -1,0 +1,32 @@
+{
+  "chinese": "这对任何人都不好。",
+  "english": "This is not good for anyone.",
+  "pinyin": "zhè duì rèn hé rén dōu bù hǎo。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "对",
+      "en": "to",
+      "pi": "duì"
+    },
+    {
+      "ch": "任何人",
+      "en": "anyone",
+      "pi": "rèn hé rén"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "不好",
+      "en": "not good",
+      "pi": "bù hǎo"
+    }
+  ]
+}

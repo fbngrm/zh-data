@@ -1,0 +1,32 @@
+{
+  "chinese": "我通常七点吃早餐。",
+  "english": "I usually have breakfast at seven o'clock.",
+  "pinyin": "wǒ tōng cháng qī diǎn chī zǎo cān。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "通常",
+      "en": "usually",
+      "pi": "tōng cháng"
+    },
+    {
+      "ch": "七点",
+      "en": "seven o'clock",
+      "pi": "qī diǎn"
+    },
+    {
+      "ch": "吃",
+      "en": "have",
+      "pi": "chī"
+    },
+    {
+      "ch": "早餐",
+      "en": "breakfast",
+      "pi": "zǎo cān"
+    }
+  ]
+}

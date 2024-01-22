@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆看来准备好了。",
+  "english": "Tom seems ready.",
+  "pinyin": "Tāng mǔ kàn lái zhǔn bèi hǎo le.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "看来",
+      "en": "seems",
+      "pi": "kàn lái"
+    },
+    {
+      "ch": "准备",
+      "en": "ready",
+      "pi": "zhǔn bèi"
+    },
+    {
+      "ch": "好了",
+      "en": "good",
+      "pi": "hǎo le"
+    }
+  ]
+}

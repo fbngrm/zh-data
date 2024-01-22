@@ -1,0 +1,42 @@
+{
+  "chinese": "這是條很微妙的問題。",
+  "english": "This is a very subtle question.",
+  "pinyin": "zhè shì tiáo hěn wēi miào de wèn tí。",
+  "words": [
+    {
+      "ch": "這",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "條",
+      "en": "a",
+      "pi": "tiáo"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "微妙",
+      "en": "subtle",
+      "pi": "wēi miào"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "問題",
+      "en": "question",
+      "pi": "wèn tí"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "他每天都在公园中跑步。",
+  "english": "He goes jogging in the park every day.",
+  "pinyin": "tā měi tiān dōu zài gōng yuán zhōng pǎo bù.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "都",
+      "en": "goes",
+      "pi": "dōu"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "公园",
+      "en": "park",
+      "pi": "gōng yuán"
+    },
+    {
+      "ch": "中",
+      "en": "in",
+      "pi": "zhōng"
+    },
+    {
+      "ch": "跑步",
+      "en": "jogging",
+      "pi": "pǎo bù"
+    }
+  ]
+}

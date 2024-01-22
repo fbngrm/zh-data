@@ -1,0 +1,37 @@
+{
+  "chinese": "我还没读完这本书。",
+  "english": "I haven't finished reading this book yet.",
+  "pinyin": "wǒ hái méi dú wán zhè běn shū。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "还",
+      "en": "still",
+      "pi": "hái"
+    },
+    {
+      "ch": "没",
+      "en": "haven't",
+      "pi": "méi"
+    },
+    {
+      "ch": "读完",
+      "en": "finished reading",
+      "pi": "dú wán"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本书",
+      "en": "book",
+      "pi": "běn shū"
+    }
+  ]
+}

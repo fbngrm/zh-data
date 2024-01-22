@@ -1,0 +1,32 @@
+{
+  "chinese": "这是托尼的书。",
+  "english": "This is Tony's book.",
+  "pinyin": "zhè shì tuō ní de shū。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "托尼",
+      "en": "Tony",
+      "pi": "tuō ní"
+    },
+    {
+      "ch": "的",
+      "en": "'s",
+      "pi": "de"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    }
+  ]
+}

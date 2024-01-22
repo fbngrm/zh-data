@@ -1,0 +1,32 @@
+{
+  "chinese": "昨天我们写了我们的散文。",
+  "english": "Yesterday we wrote our prose.",
+  "pinyin": "zuó tiān wǒ men xiě le wǒ men de sǎn wén.",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "写了",
+      "en": "wrote",
+      "pi": "xiě le"
+    },
+    {
+      "ch": "我们的",
+      "en": "our",
+      "pi": "wǒ men de"
+    },
+    {
+      "ch": "散文",
+      "en": "prose",
+      "pi": "sǎn wén"
+    }
+  ]
+}

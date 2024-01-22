@@ -1,0 +1,27 @@
+{
+  "chinese": "地球绕着太阳转。",
+  "english": "The Earth revolves around the sun.",
+  "pinyin": "Dìqiú ràozhe tàiyáng zhuǎn.",
+  "words": [
+    {
+      "ch": "地球",
+      "en": "Earth",
+      "pi": "Dìqiú"
+    },
+    {
+      "ch": "绕着",
+      "en": "revolves around",
+      "pi": "ràozhe"
+    },
+    {
+      "ch": "太阳",
+      "en": "sun",
+      "pi": "tàiyáng"
+    },
+    {
+      "ch": "转",
+      "en": "revolves",
+      "pi": "zhuǎn"
+    }
+  ]
+}

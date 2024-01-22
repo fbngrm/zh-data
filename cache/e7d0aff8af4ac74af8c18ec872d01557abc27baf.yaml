@@ -1,0 +1,58 @@
+{
+  "sentences": [
+    {
+      "chinese": "他喜歡音樂嗎?",
+      "english": "Does he like music?",
+      "pinyin": "Tā xǐhuān yīnyuè ma?",
+      "words": [
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "喜歡",
+          "en": "like",
+          "pi": "xǐhuān"
+        },
+        {
+          "ch": "音樂",
+          "en": "music",
+          "pi": "yīnyuè"
+        },
+        {
+          "ch": "嗎",
+          "en": "question particle",
+          "pi": "ma"
+        }
+      ]
+    },
+    {
+      "chinese": "是的,他喜歡。",
+      "english": "Yes, he likes.",
+      "pinyin": "Shì de, tā xǐhuān.",
+      "words": [
+        {
+          "ch": "是",
+          "en": "yes",
+          "pi": "shì"
+        },
+        {
+          "ch": "的",
+          "en": "particle",
+          "pi": "de"
+        },
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "喜歡",
+          "en": "like",
+          "pi": "xǐhuān"
+        }
+      ]
+    }
+  ]
+}

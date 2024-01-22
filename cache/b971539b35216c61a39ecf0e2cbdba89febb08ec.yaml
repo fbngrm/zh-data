@@ -1,0 +1,12 @@
+{
+  "chinese": "我汉语老师是男的。",
+  "english": "My Chinese teacher is a man.",
+  "pinyin": "wǒ hànyǔ lǎoshī shì nán de.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "汉语", "en": "Chinese", "pi": "hànyǔ"},
+    {"ch": "老师", "en": "teacher", "pi": "lǎoshī"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "男的", "en": "man", "pi": "nán de"}
+  ]
+}

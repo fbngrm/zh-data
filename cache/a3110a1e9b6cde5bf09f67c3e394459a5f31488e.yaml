@@ -1,0 +1,32 @@
+{
+  "chinese": "你没有读书的必要。",
+  "english": "You do not need to study.",
+  "pinyin": "nǐ méiyǒu dúshū de bìyào.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "没有",
+      "en": "do not have",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "读书",
+      "en": "to study",
+      "pi": "dúshū"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "必要",
+      "en": "necessary",
+      "pi": "bìyào"
+    }
+  ]
+}

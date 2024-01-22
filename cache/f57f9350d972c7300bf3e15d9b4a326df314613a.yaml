@@ -1,0 +1,13 @@
+{
+  "chinese": "我现在在加拿大很开心。",
+  "english": "I am very happy in Canada now.",
+  "pinyin": "wǒ xiànzài zài jiānádà hěn kāixīn。",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "现在", "en": "now", "pi": "xiànzài" },
+    { "ch": "在", "en": "in, at", "pi": "zài" },
+    { "ch": "加拿大", "en": "Canada", "pi": "jiānádà" },
+    { "ch": "很", "en": "very", "pi": "hěn" },
+    { "ch": "开心", "en": "happy", "pi": "kāixīn" }
+  ]
+}

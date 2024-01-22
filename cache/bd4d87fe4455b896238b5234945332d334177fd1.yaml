@@ -1,0 +1,27 @@
+{
+  "chinese": "昨天下很多雨。",
+  "english": "There was a lot of rain yesterday.",
+  "pinyin": "zuó tiān xià hěn duō yǔ。",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "下",
+      "en": "to fall",
+      "pi": "xià"
+    },
+    {
+      "ch": "很多",
+      "en": "a lot of",
+      "pi": "hěn duō"
+    },
+    {
+      "ch": "雨",
+      "en": "rain",
+      "pi": "yǔ"
+    }
+  ]
+}

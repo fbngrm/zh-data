@@ -1,0 +1,32 @@
+{
+  "chinese": "请告诉我汤姆很好。",
+  "english": "Please tell me Tom is fine.",
+  "pinyin": "Qǐng gàosù wǒ Tāngmǔ hěn hǎo.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "告诉",
+      "en": "tell",
+      "pi": "gàosù"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "很好",
+      "en": "is fine",
+      "pi": "hěn hǎo"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我能用一下你的字典吗？",
+  "english": "Can I borrow your dictionary?",
+  "pinyin": "wǒ néng yòng yīxià nǐ de zìdiǎn ma?",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "用",
+      "en": "use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "一下",
+      "en": "for a moment",
+      "pi": "yīxià"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "字典",
+      "en": "dictionary",
+      "pi": "zìdiǎn"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

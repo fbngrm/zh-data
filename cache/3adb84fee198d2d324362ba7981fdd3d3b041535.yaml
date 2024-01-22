@@ -1,0 +1,19 @@
+{
+  "chinese": "家乐福的火腿剩料一点都不贵，然而却很好吃。",
+  "english": "The leftover ham from Carrefour is not expensive at all, yet it tastes very good.",
+  "pinyin": "jiā lè fú de huǒ tuǐ shèng liào yī diǎn dōu bù guì, rán ér què hěn hǎo chī。",
+  "words": [
+    { "ch": "家乐福", "en": "Carrefour", "pi": "jiā lè fú" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "火腿", "en": "ham", "pi": "huǒ tuǐ" },
+    { "ch": "剩料", "en": "leftover", "pi": "shèng liào" },
+    { "ch": "一点", "en": "a little", "pi": "yī diǎn" },
+    { "ch": "都", "en": "all", "pi": "dōu" },
+    { "ch": "不", "en": "not", "pi": "bù" },
+    { "ch": "贵", "en": "expensive", "pi": "guì" },
+    { "ch": "然而", "en": "yet", "pi": "rán ér" },
+    { "ch": "却", "en": "however", "pi": "què" },
+    { "ch": "很", "en": "very", "pi": "hěn" },
+    { "ch": "好吃", "en": "tasty", "pi": "hǎo chī" }
+  ]
+}

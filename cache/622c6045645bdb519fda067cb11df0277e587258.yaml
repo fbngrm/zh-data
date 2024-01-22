@@ -1,0 +1,37 @@
+{
+  "chinese": "你的英文学得如何？",
+  "english": "How is your English learning?",
+  "pinyin": "nǐ de yīngwén xué dé rúhé?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "英文",
+      "en": "English",
+      "pi": "yīngwén"
+    },
+    {
+      "ch": "学",
+      "en": "to study",
+      "pi": "xué"
+    },
+    {
+      "ch": "得",
+      "en": "how",
+      "pi": "dé"
+    },
+    {
+      "ch": "如何",
+      "en": "how",
+      "pi": "rúhé"
+    }
+  ]
+}

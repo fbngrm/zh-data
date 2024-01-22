@@ -1,0 +1,15 @@
+{ 
+  "chinese": "在柬埔寨，我想参观吴哥窟。",
+  "english": "In Cambodia, I want to visit Angkor Wat.",
+  "pinyin": "Zài jiǎn pǔ zhài, wǒ xiǎng cān guān wú gé kū.",
+  "words": [
+    { "ch": "在", "en": "In", "pi": "zài" },
+    { "ch": "柬埔寨", "en": "Cambodia", "pi": "jiǎn pǔ zhài" },
+    { "ch": "，", "en": ",", "pi": "，" },
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "想", "en": "want", "pi": "xiǎng" },
+    { "ch": "参观", "en": "visit", "pi": "cān guān" },
+    { "ch": "吴哥窟", "en": "Angkor Wat", "pi": "wú gé kū" },
+    { "ch": "。", "en": ".", "pi": "。" }
+  ]
+}

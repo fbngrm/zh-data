@@ -1,0 +1,27 @@
+{
+  "chinese": "点击图片进入下一页!",
+  "english": "Click on the picture to go to the next page!",
+  "pinyin": "Diǎnjī túpiàn jìnrù xià yīyè!",
+  "words": [
+    {
+      "ch": "点击",
+      "en": "Click",
+      "pi": "Diǎnjī"
+    },
+    {
+      "ch": "图片",
+      "en": "picture",
+      "pi": "túpiàn"
+    },
+    {
+      "ch": "进入",
+      "en": "go to",
+      "pi": "jìnrù"
+    },
+    {
+      "ch": "下一页",
+      "en": "next page",
+      "pi": "xià yīyè"
+    }
+  ]
+}

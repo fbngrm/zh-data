@@ -1,0 +1,15 @@
+{
+  "chinese": "汤姆能不依靠任何帮助解决那事。",
+  "english": "Tom can solve that problem without relying on any help.",
+  "pinyin": "tāng mǔ néng bù yī kào rèn hé bāng zhù jiě jué nà shì。",
+  "words": [
+    { "ch": "汤姆", "en": "Tom", "pi": "tāng mǔ" },
+    { "ch": "能", "en": "can", "pi": "néng" },
+    { "ch": "不", "en": "not", "pi": "bù" },
+    { "ch": "依靠", "en": "rely on", "pi": "yī kào" },
+    { "ch": "任何", "en": "any", "pi": "rèn hé" },
+    { "ch": "帮助", "en": "help", "pi": "bāng zhù" },
+    { "ch": "解决", "en": "solve", "pi": "jiě jué" },
+    { "ch": "那事", "en": "that problem", "pi": "nà shì" }
+  ]
+}

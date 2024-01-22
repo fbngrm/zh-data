@@ -1,0 +1,42 @@
+{
+  "chinese": "因为那个原因，他失去了工作。",
+  "english": "Because of that reason, he lost his job.",
+  "pinyin": "Yīnwèi nàge yuányīn, tā shīqù le gōngzuò.",
+  "words": [
+    {
+      "ch": "因为",
+      "en": "because",
+      "pi": "yīnwèi"
+    },
+    {
+      "ch": "那个",
+      "en": "that",
+      "pi": "nàge"
+    },
+    {
+      "ch": "原因",
+      "en": "reason",
+      "pi": "yuányīn"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "失去",
+      "en": "lose",
+      "pi": "shīqù"
+    },
+    {
+      "ch": "了",
+      "en": "past tense marker",
+      "pi": "le"
+    },
+    {
+      "ch": "工作",
+      "en": "job",
+      "pi": "gōngzuò"
+    }
+  ]
+}

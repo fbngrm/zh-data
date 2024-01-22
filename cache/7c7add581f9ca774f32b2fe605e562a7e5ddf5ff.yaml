@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆被卡车撞到而且当场死亡。",
+  "english": "Tom was hit by a truck and died on the spot.",
+  "pinyin": "Tāng mǔ bèi kǎ chē zhuàng dào ér qiě dāng chǎng sǐ wáng。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "被",
+      "en": "was",
+      "pi": "bèi"
+    },
+    {
+      "ch": "卡车",
+      "en": "truck",
+      "pi": "kǎ chē"
+    },
+    {
+      "ch": "撞到",
+      "en": "hit",
+      "pi": "zhuàng dào"
+    },
+    {
+      "ch": "而且",
+      "en": "and",
+      "pi": "ér qiě"
+    },
+    {
+      "ch": "当场",
+      "en": "on the spot",
+      "pi": "dāng chǎng"
+    },
+    {
+      "ch": "死亡",
+      "en": "died",
+      "pi": "sǐ wáng"
+    }
+  ]
+}

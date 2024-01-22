@@ -1,0 +1,27 @@
+{
+  "chinese": "这儿有人吗?",
+  "english": "Is there someone here?",
+  "pinyin": "zhè er yǒu rén ma?",
+  "words": [
+    {
+      "ch": "这儿",
+      "en": "here",
+      "pi": "zhè er"
+    },
+    {
+      "ch": "有",
+      "en": "have, there is",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "人",
+      "en": "people",
+      "pi": "rén"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

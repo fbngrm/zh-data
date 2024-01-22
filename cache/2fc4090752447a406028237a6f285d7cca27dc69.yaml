@@ -1,0 +1,32 @@
+{
+  "chinese": "我现在可以回家吗？",
+  "english": "Can I go home now?",
+  "pinyin": "wǒ xiànzài kěyǐ huíjiā ma?",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiànzài"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kěyǐ"
+    },
+    {
+      "ch": "回家",
+      "en": "go home",
+      "pi": "huíjiā"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

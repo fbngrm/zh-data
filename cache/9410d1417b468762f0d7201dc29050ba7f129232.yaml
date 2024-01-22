@@ -1,0 +1,32 @@
+{
+  "chinese": "我們有兩隻耳朵。",
+  "english": "We have two ears.",
+  "pinyin": "wǒmen yǒu liǎng zhī ěrduō.",
+  "words": [
+    {
+      "ch": "我們",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "兩",
+      "en": "two",
+      "pi": "liǎng"
+    },
+    {
+      "ch": "隻",
+      "en": "measure word for animals",
+      "pi": "zhī"
+    },
+    {
+      "ch": "耳朵",
+      "en": "ears",
+      "pi": "ěrduō"
+    }
+  ]
+}

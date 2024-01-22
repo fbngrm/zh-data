@@ -1,0 +1,42 @@
+{
+  "chinese": "用你的橡皮把这些字擦掉。",
+  "english": "Erase these characters with your eraser.",
+  "pinyin": "Yòng nǐ de xiàng pí bǎ zhèxiē zì cādiào.",
+  "words": [
+    {
+      "ch": "用",
+      "en": "Use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "橡皮",
+      "en": "eraser",
+      "pi": "xiàng pí"
+    },
+    {
+      "ch": "把",
+      "en": "these",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "这些",
+      "en": "characters",
+      "pi": "zhèxiē"
+    },
+    {
+      "ch": "字",
+      "en": "with",
+      "pi": "zì"
+    },
+    {
+      "ch": "擦掉",
+      "en": "erase",
+      "pi": "cādiào"
+    }
+  ]
+}

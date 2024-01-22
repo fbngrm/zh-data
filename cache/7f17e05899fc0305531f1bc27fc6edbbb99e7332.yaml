@@ -1,0 +1,32 @@
+{
+  "chinese": "我能看看这个吗？",
+  "english": "Can I take a look at this?",
+  "pinyin": "wǒ néng kàn kàn zhè ge ma?",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "能",
+      "en": "able to",
+      "pi": "néng"
+    },
+    {
+      "ch": "看看",
+      "en": "take a look",
+      "pi": "kàn kàn"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè ge"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

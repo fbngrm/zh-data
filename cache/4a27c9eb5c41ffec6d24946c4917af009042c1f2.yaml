@@ -1,0 +1,27 @@
+{
+  "chinese": "她很懂汉字。",
+  "english": "She understands Chinese characters well.",
+  "pinyin": "tā hěn dǒng hàn zì.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "懂",
+      "en": "understand",
+      "pi": "dǒng"
+    },
+    {
+      "ch": "汉字",
+      "en": "Chinese characters",
+      "pi": "hàn zì"
+    }
+  ]
+}

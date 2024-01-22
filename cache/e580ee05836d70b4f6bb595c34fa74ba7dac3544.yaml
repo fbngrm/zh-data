@@ -1,0 +1,32 @@
+{
+  "chinese": "你的感冒已经好了吗？",
+  "english": "Have you recovered from your cold?",
+  "pinyin": "nǐ de gǎnmào yǐjīng hǎole ma?",
+  "words": [
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "感冒",
+      "en": "cold",
+      "pi": "gǎnmào"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐjīng"
+    },
+    {
+      "ch": "好了",
+      "en": "recovered",
+      "pi": "hǎole"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

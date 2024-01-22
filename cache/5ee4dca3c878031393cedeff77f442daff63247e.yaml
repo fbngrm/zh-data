@@ -1,0 +1,32 @@
+{
+  "chinese": "我有一辆旧的自行车。",
+  "english": "I have an old bicycle.",
+  "pinyin": "wǒ yǒu yī liàng jiù de zìxíngchē.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一辆",
+      "en": "an",
+      "pi": "yī liàng"
+    },
+    {
+      "ch": "旧的",
+      "en": "old",
+      "pi": "jiù de"
+    },
+    {
+      "ch": "自行车",
+      "en": "bicycle",
+      "pi": "zìxíngchē"
+    }
+  ]
+}

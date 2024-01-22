@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆已经失去学习法语的兴趣。",
+  "english": "Tom has lost interest in learning French.",
+  "pinyin": "Tāng mǔ yǐjīng shīqù xuéxí fǎyǔ de xìngqù。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "已经",
+      "en": "has",
+      "pi": "yǐjīng"
+    },
+    {
+      "ch": "失去",
+      "en": "lost",
+      "pi": "shīqù"
+    },
+    {
+      "ch": "学习",
+      "en": "interest",
+      "pi": "xuéxí"
+    },
+    {
+      "ch": "法语",
+      "en": "in learning",
+      "pi": "fǎyǔ"
+    },
+    {
+      "ch": "的",
+      "en": "French",
+      "pi": "de"
+    },
+    {
+      "ch": "兴趣",
+      "en": "interest",
+      "pi": "xìngqù"
+    }
+  ]
+}

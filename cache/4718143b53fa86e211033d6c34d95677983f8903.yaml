@@ -1,0 +1,78 @@
+{
+  "sentences": [
+    {
+      "chinese": "我放弃了。",
+      "english": "I give up.",
+      "pinyin": "wǒ fàngqì le。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "放弃",
+          "en": "give up",
+          "pi": "fàngqì"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        }
+      ]
+    },
+    {
+      "chinese": "爱尔兰牧师和非洲巫婆有什么共同点？",
+      "english": "What do Irish priests and African witches have in common?",
+      "pinyin": "ài'ěrlán mùshī hé fēizhōu wūpó yǒu shé me gòngtóng diǎn?",
+      "words": [
+        {
+          "ch": "爱尔兰",
+          "en": "Irish",
+          "pi": "ài'ěrlán"
+        },
+        {
+          "ch": "牧师",
+          "en": "priests",
+          "pi": "mùshī"
+        },
+        {
+          "ch": "和",
+          "en": "and",
+          "pi": "hé"
+        },
+        {
+          "ch": "非洲",
+          "en": "African",
+          "pi": "fēizhōu"
+        },
+        {
+          "ch": "巫婆",
+          "en": "witches",
+          "pi": "wūpó"
+        },
+        {
+          "ch": "有",
+          "en": "have",
+          "pi": "yǒu"
+        },
+        {
+          "ch": "什么",
+          "en": "what",
+          "pi": "shénme"
+        },
+        {
+          "ch": "共同点",
+          "en": "in common",
+          "pi": "gòngtóng diǎn"
+        },
+        {
+          "ch": "？",
+          "en": "?",
+          "pi": "？"
+        }
+      ]
+    }
+  ]
+}

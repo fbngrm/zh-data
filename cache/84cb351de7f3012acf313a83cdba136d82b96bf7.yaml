@@ -1,0 +1,32 @@
+{
+  "chinese": "今天有不少学生缺课。",
+  "english": "Many students were absent today.",
+  "pinyin": "Jīntiān yǒu bùshǎo xuéshēng quē kè。",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "有",
+      "en": "have, there is",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "不少",
+      "en": "many",
+      "pi": "bùshǎo"
+    },
+    {
+      "ch": "学生",
+      "en": "students",
+      "pi": "xuéshēng"
+    },
+    {
+      "ch": "缺课",
+      "en": "absent",
+      "pi": "quē kè"
+    }
+  ]
+}

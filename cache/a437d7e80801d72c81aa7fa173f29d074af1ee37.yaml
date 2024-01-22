@@ -1,0 +1,37 @@
+{
+  "chinese": "她在树林里迷路了。",
+  "english": "She got lost in the forest.",
+  "pinyin": "tā zài shù lín lǐ mí lù le。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "树林",
+      "en": "forest",
+      "pi": "shù lín"
+    },
+    {
+      "ch": "里",
+      "en": "inside",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "迷路",
+      "en": "got lost",
+      "pi": "mí lù"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "le"
+    }
+  ]
+}

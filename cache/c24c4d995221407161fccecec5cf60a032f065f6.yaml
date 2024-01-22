@@ -1,0 +1,14 @@
+{
+  "chinese": "他不认识我们中的任何一个。",
+  "english": "He doesn't know any of us.",
+  "pinyin": "Tā bù rènshí wǒmen zhōng de rènhé yīgè。",
+  "words": [
+    { "ch": "他", "en": "he", "pi": "tā" },
+    { "ch": "不", "en": "not", "pi": "bù" },
+    { "ch": "认识", "en": "know", "pi": "rènshí" },
+    { "ch": "我们", "en": "us", "pi": "wǒmen" },
+    { "ch": "中的", "en": "of", "pi": "zhōng de" },
+    { "ch": "任何", "en": "any", "pi": "rènhé" },
+    { "ch": "一个", "en": "one", "pi": "yīgè" }
+  ]
+}

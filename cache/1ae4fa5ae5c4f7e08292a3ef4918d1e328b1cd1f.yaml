@@ -1,0 +1,125 @@
+[
+  {
+    "chinese": "您好，您要点什么？",
+    "english": "Hello, what would you like to order?",
+    "pinyin": "nín hǎo ，nín yào diǎn shén me ？",
+    "words": [
+      {"ch":"您", "en":"you", "pi":"nín"},
+      {"ch":"好", "en":"good", "pi":"hǎo"},
+      {"ch":"，", "en":"comma", "pi":"，"},
+      {"ch":"您", "en":"you", "pi":"nín"},
+      {"ch":"要", "en":"want", "pi":"yào"},
+      {"ch":"点", "en":"to order", "pi":"diǎn"},
+      {"ch":"什么", "en":"what", "pi":"shén me"},
+      {"ch":"？", "en":"question mark", "pi":"？"}
+    ]
+  },
+  {
+    "chinese": "我要一个鸡肉汉堡，一份薯条，还要一杯可乐。",
+    "english": "I'd like a chicken burger, a side of fries, and a coke.",
+    "pinyin": "wǒ yào yí gè jī ròu hàn bǎo ，yī fèn shǔ tiáo ，hái yào yī bēi kě lè 。",
+    "words": [
+      {"ch":"我", "en":"I", "pi":"wǒ"},
+      {"ch":"要", "en":"want", "pi":"yào"},
+      {"ch":"一个", "en":"one", "pi":"yí gè"},
+      {"ch":"鸡肉汉堡", "en":"chicken burger", "pi":"jī ròu hàn bǎo"},
+      {"ch":"，", "en":"comma", "pi":"，"},
+      {"ch":"一份", "en":"one serving", "pi":"yī fèn"},
+      {"ch":"薯条", "en":"fries", "pi":"shǔ tiáo"},
+      {"ch":"，", "en":"comma", "pi":"，"},
+      {"ch":"还要", "en":"also want", "pi":"hái yào"},
+      {"ch":"一杯", "en":"one cup of", "pi":"yī bēi"},
+      {"ch":"可乐", "en":"coke", "pi":"kě lè"},
+      {"ch":"。", "en":"period", "pi":"。"}
+    ]
+  },
+  {
+    "chinese": "就这些马？",
+    "english": "Just these?",
+    "pinyin": "jiù zhè xiē mǎ ？",
+    "words": [
+      {"ch":"就", "en":"just", "pi":"jiù"},
+      {"ch":"这些", "en":"these", "pi":"zhè xiē"},
+      {"ch":"马", "en":"horses", "pi":"mǎ"},
+      {"ch":"？", "en":"question mark", "pi":"？"}
+    ]
+  },
+  {
+    "chinese": "就这些。",
+    "english": "Just these.",
+    "pinyin": "jiù zhè xiē 。",
+    "words": [
+      {"ch":"就", "en":"just", "pi":"jiù"},
+      {"ch":"这些", "en":"these", "pi":"zhè xiē"},
+      {"ch":"。", "en":"period", "pi":"。"}
+    ]
+  },
+  {
+    "chinese": "好的，在这儿吃还是带走？",
+    "english": "Alright, for here or to go?",
+    "pinyin": "hǎo de ，zài zhè er chī hái shì dài zǒu ？",
+    "words": [
+      {"ch":"好", "en":"good", "pi":"hǎo"},
+      {"ch":"的", "en":"particle", "pi":"de"},
+      {"ch":"，", "en":"comma", "pi":"，"},
+      {"ch":"在", "en":"at", "pi":"zài"},
+      {"ch":"这儿", "en":"here", "pi":"zhè er"},
+      {"ch":"吃", "en":"to eat", "pi":"chī"},
+      {"ch":"还是", "en":"or", "pi":"hái shì"},
+      {"ch":"带走", "en":"to go", "pi":"dài zǒu"},
+      {"ch":"？", "en":"question mark", "pi":"？"}
+    ]
+  },
+  {
+    "chinese": "你好。",
+    "english": "Hello.",
+    "pinyin": "nǐ hǎo 。",
+    "words": [
+      {"ch":"你", "en":"you", "pi":"nǐ"},
+      {"ch":"好", "en":"good", "pi":"hǎo"},
+      {"ch":"。", "en":"period", "pi":"。"}
+    ]
+  },
+  {
+    "chinese": "带走。",
+    "english": "To go.",
+    "pinyin": "dài zǒu 。",
+    "words": [
+      {"ch":"带走", "en":"to go", "pi":"dài zǒu"},
+      {"ch":"。", "en":"period", "pi":"。"}
+    ]
+  },
+  {
+    "chinese": "好的，总共四十八。",
+    "english": "Alright, that'll be forty-eight yuan.",
+    "pinyin": "hǎo de ，zǒng gòng sì shí bā 。",
+    "words": [
+      {"ch":"好", "en":"good", "pi":"hǎo"},
+      {"ch":"的", "en":"particle", "pi":"de"},
+      {"ch":"，", "en":"comma", "pi":"，"},
+      {"ch":"总共", "en":"total", "pi":"zǒng gòng"},
+      {"ch":"四十八", "en":"forty-eight", "pi":"sì shí bā"},
+      {"ch":"。", "en":"period", "pi":"。"}
+    ]
+  },
+  {
+    "chinese": "给你无视。",
+    "english": "Here's the money.",
+    "pinyin": "gěi nǐ wú shì 。",
+    "words": [
+      {"ch":"给", "en":"to give", "pi":"gěi"},
+      {"ch":"你", "en":"you", "pi":"nǐ"},
+      {"ch":"无视", "en":"money", "pi":"wú shì"},
+      {"ch":"。", "en":"period", "pi":"。"}
+    ]
+  },
+  {
+    "chinese": "很好",
+    "english": "Very good.",
+    "pinyin": "hěn hǎo",
+    "words": [
+      {"ch":"很", "en":"very", "pi":"hěn"},
+      {"ch":"好", "en":"good", "pi":"hǎo"}
+    ]
+  }
+]

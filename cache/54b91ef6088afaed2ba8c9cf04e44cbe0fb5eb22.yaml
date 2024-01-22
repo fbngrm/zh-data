@@ -1,0 +1,32 @@
+{
+  "chinese": "你喜欢吃牛肉面吗?",
+  "english": "Do you like to eat beef noodle soup?",
+  "pinyin": "nǐ xǐhuān chī niúròu miàn ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "牛肉面",
+      "en": "beef noodle soup",
+      "pi": "niúròu miàn"
+    },
+    {
+      "ch": "吗",
+      "en": "do you?",
+      "pi": "ma"
+    }
+  ]
+}

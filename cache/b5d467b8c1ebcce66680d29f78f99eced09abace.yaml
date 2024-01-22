@@ -1,0 +1,32 @@
+{
+  "chinese": "我付了两百元含税。",
+  "english": "I paid 200 yuan including tax.",
+  "pinyin": "wǒ fù le liǎng bǎi yuán hán shuì。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "付了",
+      "en": "paid",
+      "pi": "fù le"
+    },
+    {
+      "ch": "两百",
+      "en": "200",
+      "pi": "liǎng bǎi"
+    },
+    {
+      "ch": "元",
+      "en": "yuan",
+      "pi": "yuán"
+    },
+    {
+      "ch": "含税",
+      "en": "including tax",
+      "pi": "hán shuì"
+    }
+  ]
+}

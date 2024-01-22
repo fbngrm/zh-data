@@ -1,0 +1,27 @@
+{
+  "sentences": [
+    {
+      "chinese": "这里人太多了。",
+      "english": "There are too many people here.",
+      "pinyin": "zhè lǐ rén tài duō le。",
+      "words": [
+        { "ch": "这里", "en": "here", "pi": "zhè lǐ" },
+        { "ch": "人", "en": "people", "pi": "rén" },
+        { "ch": "太多", "en": "too many", "pi": "tài duō" },
+        { "ch": "了", "en": "", "pi": "le" }
+      ]
+    },
+    {
+      "chinese": "咱们换个地方吧。",
+      "english": "Let's change to a different place.",
+      "pinyin": "zá mén huàn gè dì fāng ba。",
+      "words": [
+        { "ch": "咱们", "en": "we", "pi": "zá mén" },
+        { "ch": "换", "en": "change", "pi": "huàn" },
+        { "ch": "个", "en": "a", "pi": "gè" },
+        { "ch": "地方", "en": "place", "pi": "dì fāng" },
+        { "ch": "吧", "en": "", "pi": "ba" }
+      ]
+    }
+  ]
+}

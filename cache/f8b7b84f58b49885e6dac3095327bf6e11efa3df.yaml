@@ -1,0 +1,37 @@
+{
+  "chinese": "Jane感冒了一周才好。",
+  "english": "Jane had a cold for a week before recovering.",
+  "pinyin": "Jane gǎnmào le yī zhōu cái hǎo.",
+  "words": [
+    {
+      "ch": "Jane",
+      "en": "Jane",
+      "pi": "Jane"
+    },
+    {
+      "ch": "感冒",
+      "en": "cold",
+      "pi": "gǎnmào"
+    },
+    {
+      "ch": "了",
+      "en": "had",
+      "pi": "le"
+    },
+    {
+      "ch": "一周",
+      "en": "a week",
+      "pi": "yī zhōu"
+    },
+    {
+      "ch": "才",
+      "en": "before",
+      "pi": "cái"
+    },
+    {
+      "ch": "好",
+      "en": "recovering",
+      "pi": "hǎo"
+    }
+  ]
+}

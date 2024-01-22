@@ -1,0 +1,37 @@
+{
+  "chinese": "我不认识这里的任何人。",
+  "english": "I don't know anyone here.",
+  "pinyin": "wǒ bù rènshí zhèlǐ de rènhé rén。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "认识",
+      "en": "know",
+      "pi": "rènshí"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhèlǐ"
+    },
+    {
+      "ch": "的",
+      "en": "any",
+      "pi": "de"
+    },
+    {
+      "ch": "任何人",
+      "en": "anyone",
+      "pi": "rènhé rén"
+    }
+  ]
+}

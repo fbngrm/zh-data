@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆今天不舒服所以没来上班。",
+  "english": "Tom is not feeling well today, so he didn't come to work.",
+  "pinyin": "Tāngmǔ jīntiān bù shūfu suǒyǐ méi lái shàngbān.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "不舒服",
+      "en": "not feeling well",
+      "pi": "bù shūfu"
+    },
+    {
+      "ch": "所以",
+      "en": "so",
+      "pi": "suǒyǐ"
+    },
+    {
+      "ch": "没来",
+      "en": "didn't come",
+      "pi": "méi lái"
+    },
+    {
+      "ch": "上班",
+      "en": "to work",
+      "pi": "shàngbān"
+    }
+  ]
+}

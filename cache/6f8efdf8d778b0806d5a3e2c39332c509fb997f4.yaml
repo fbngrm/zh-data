@@ -1,0 +1,14 @@
+{
+  "chinese": "我们的老师总是准时来上课。",
+  "english": "Our teacher always comes to class on time.",
+  "pinyin": "wǒ men de lǎo shī zǒng shì zhǔn shí lái shàng kè。",
+  "words": [
+    { "ch": "我们", "en": "we", "pi": "wǒ men" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "老师", "en": "teacher", "pi": "lǎo shī" },
+    { "ch": "总是", "en": "always", "pi": "zǒng shì" },
+    { "ch": "准时", "en": "on time", "pi": "zhǔn shí" },
+    { "ch": "来", "en": "come", "pi": "lái" },
+    { "ch": "上课", "en": "to class", "pi": "shàng kè" }
+  ]
+}

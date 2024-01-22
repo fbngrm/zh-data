@@ -1,0 +1,16 @@
+{
+  "chinese": "我想问你一些关于汤姆的问题。",
+  "english": "I want to ask you some questions about Tom.",
+  "pinyin": "wǒ xiǎng wèn nǐ yī xiē guān yú tāng mǔ de wèn tí。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "想", "en": "want", "pi": "xiǎng"},
+    {"ch": "问", "en": "ask", "pi": "wèn"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "一些", "en": "some", "pi": "yī xiē"},
+    {"ch": "关于", "en": "about", "pi": "guān yú"},
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "问题", "en": "questions", "pi": "wèn tí"}
+  ]
+}

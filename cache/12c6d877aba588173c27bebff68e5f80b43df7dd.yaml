@@ -1,0 +1,14 @@
+{
+  "chinese": "你可以借我你的铅笔吗?",
+  "english": "Can you lend me your pencil?",
+  "pinyin": "nǐ kě yǐ jiè wǒ nǐ de qiān bǐ ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "可以", "en": "can", "pi": "kě yǐ"},
+    {"ch": "借", "en": "lend", "pi": "jiè"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "你的", "en": "your", "pi": "nǐ de"},
+    {"ch": "铅笔", "en": "pencil", "pi": "qiān bǐ"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

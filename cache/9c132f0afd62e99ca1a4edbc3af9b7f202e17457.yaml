@@ -1,0 +1,37 @@
+{
+  "chinese": "這個孩子正在寫一本書。",
+  "english": "This child is writing a book.",
+  "pinyin": "zhè gè hái zi zhèng zài xiě yī běn shū。",
+  "words": [
+    {
+      "ch": "這個",
+      "en": "This",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "孩子",
+      "en": "child",
+      "pi": "hái zi"
+    },
+    {
+      "ch": "正在",
+      "en": "is",
+      "pi": "zhèng zài"
+    },
+    {
+      "ch": "寫",
+      "en": "writing",
+      "pi": "xiě"
+    },
+    {
+      "ch": "一本",
+      "en": "a",
+      "pi": "yī běn"
+    },
+    {
+      "ch": "書。",
+      "en": "book.",
+      "pi": "shū。"
+    }
+  ]
+}

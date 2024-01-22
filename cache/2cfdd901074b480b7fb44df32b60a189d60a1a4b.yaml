@@ -1,0 +1,14 @@
+{
+  "chinese": "他比镇里的其他人都有钱。",
+  "english": "He is richer than everyone else in the town.",
+  "pinyin": "tā bǐ zhèn lǐ de qí tā rén dōu yǒu qián.",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "比", "en": "is", "pi": "bǐ"},
+    {"ch": "镇里", "en": "in the town", "pi": "zhèn lǐ"},
+    {"ch": "的", "en": "than", "pi": "de"},
+    {"ch": "其他人", "en": "everyone else", "pi": "qí tā rén"},
+    {"ch": "都", "en": "all", "pi": "dōu"},
+    {"ch": "有钱", "en": "rich", "pi": "yǒu qián"}
+  ]
+}

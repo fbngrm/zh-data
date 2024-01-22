@@ -1,0 +1,47 @@
+{
+  "chinese": "一只猫？老先生问。",
+  "english": "A cat?", 
+  "pinyin": "yī zhī māo? lǎo xiān shēng wèn.",
+  "words": [
+    {
+      "ch": "一",
+      "en": "one",
+      "pi": "yī"
+    },
+    {
+      "ch": "只",
+      "en": "classifier for animals",
+      "pi": "zhī"
+    },
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": null
+    },
+    {
+      "ch": "老",
+      "en": "old",
+      "pi": "lǎo"
+    },
+    {
+      "ch": "先生",
+      "en": "mister",
+      "pi": "xiān shēng"
+    },
+    {
+      "ch": "问",
+      "en": "ask",
+      "pi": "wèn"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": null
+    }
+  ]
+}

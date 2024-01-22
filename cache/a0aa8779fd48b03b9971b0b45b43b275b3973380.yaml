@@ -1,0 +1,37 @@
+{
+  "chinese": "这本书很容易读。",
+  "english": "This book is easy to read.",
+  "pinyin": "zhè běn shū hěn róng yì dú。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "书",
+      "en": "is",
+      "pi": "shū"
+    },
+    {
+      "ch": "很",
+      "en": "easy",
+      "pi": "hěn"
+    },
+    {
+      "ch": "容易",
+      "en": "to read",
+      "pi": "róng yì"
+    },
+    {
+      "ch": "读",
+      "en": ".",
+      "pi": "dú"
+    }
+  ]
+}

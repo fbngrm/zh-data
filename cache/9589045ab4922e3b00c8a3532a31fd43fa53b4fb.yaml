@@ -1,0 +1,32 @@
+{
+  "chinese": "他的健康状况很差。",
+  "english": "His health condition is very poor.",
+  "pinyin": "tā de jiànkāng zhuàngkuàng hěn chà.",
+  "words": [
+    {
+      "ch": "他的",
+      "en": "His",
+      "pi": "tā de"
+    },
+    {
+      "ch": "健康",
+      "en": "health",
+      "pi": "jiànkāng"
+    },
+    {
+      "ch": "状况",
+      "en": "condition",
+      "pi": "zhuàngkuàng"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "差",
+      "en": "poor",
+      "pi": "chà"
+    }
+  ]
+}

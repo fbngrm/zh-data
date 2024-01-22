@@ -1,0 +1,27 @@
+{
+  "chinese": "我的手机没电了。",
+  "english": "My phone ran out of battery.",
+  "pinyin": "wǒ de shǒujī méi diàn le。",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "My",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "手机",
+      "en": "phone",
+      "pi": "shǒujī"
+    },
+    {
+      "ch": "没电",
+      "en": "ran out of battery",
+      "pi": "méi diàn"
+    },
+    {
+      "ch": "了",
+      "en": "now",
+      "pi": "le"
+    }
+  ]
+}

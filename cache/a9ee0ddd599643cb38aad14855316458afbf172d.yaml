@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆在他的蛋上撒盐。",
+  "english": "Tom sprinkles salt on his egg.",
+  "pinyin": "Tāng mǔ zài tā de dàn shàng sā yán.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "在",
+      "en": "in/on/at",
+      "pi": "zài"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "蛋",
+      "en": "egg",
+      "pi": "dàn"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "撒盐",
+      "en": "sprinkles salt",
+      "pi": "sā yán"
+    }
+  ]
+}

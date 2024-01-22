@@ -1,0 +1,47 @@
+{
+  "chinese": "对不起，您拨打的用户暂时无法接通。",
+  "english": "Sorry, the user you dialed is currently unable to connect.",
+  "pinyin": "duì bù qǐ，nín bō dǎ de yòng hù zhàn shí wú fǎ jiē tōng。",
+  "words": [
+    {
+      "ch": "对不起",
+      "en": "Sorry",
+      "pi": "duì bù qǐ"
+    },
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "拨打",
+      "en": "dial",
+      "pi": "bō dǎ"
+    },
+    {
+      "ch": "的",
+      "en": "the",
+      "pi": "de"
+    },
+    {
+      "ch": "用户",
+      "en": "user",
+      "pi": "yòng hù"
+    },
+    {
+      "ch": "暂时",
+      "en": "currently",
+      "pi": "zhàn shí"
+    },
+    {
+      "ch": "无法",
+      "en": "unable",
+      "pi": "wú fǎ"
+    },
+    {
+      "ch": "接通",
+      "en": "to connect",
+      "pi": "jiē tōng"
+    }
+  ]
+}

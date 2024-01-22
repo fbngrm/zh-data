@@ -1,0 +1,42 @@
+{
+  "chinese": "这条隧道是那条的两倍长。",
+  "english": "This tunnel is twice as long as that one.",
+  "pinyin": "zhè tiáo suì dào shì nà tiáo de liǎng bèi cháng。",
+  "words": [
+    {
+      "ch": "这条",
+      "en": "This",
+      "pi": "zhè tiáo"
+    },
+    {
+      "ch": "隧道",
+      "en": "tunnel",
+      "pi": "suì dào"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "那条",
+      "en": "that one",
+      "pi": "nà tiáo"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "两倍",
+      "en": "twice as",
+      "pi": "liǎng bèi"
+    },
+    {
+      "ch": "长",
+      "en": "long",
+      "pi": "cháng"
+    }
+  ]
+}

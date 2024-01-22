@@ -1,0 +1,16 @@
+{
+  "chinese": "她除了懂得弹钢琴，还懂得弹吉他。",
+  "english": "Besides knowing how to play the piano, she also knows how to play the guitar.",
+  "pinyin": "tā chúle dǒng dé tán gāng qín, hái dǒng dé tán jí tā.",
+  "words": [
+    { "ch": "她", "en": "she", "pi": "tā" },
+    { "ch": "除了", "en": "besides", "pi": "chúle" },
+    { "ch": "懂得", "en": "know", "pi": "dǒng dé" },
+    { "ch": "弹", "en": "play", "pi": "tán" },
+    { "ch": "钢琴", "en": "piano", "pi": "gāng qín" },
+    { "ch": "还", "en": "also", "pi": "hái" },
+    { "ch": "懂得", "en": "know", "pi": "dǒng dé" },
+    { "ch": "弹", "en": "play", "pi": "tán" },
+    { "ch": "吉他", "en": "guitar", "pi": "jí tā" }
+  ]
+}

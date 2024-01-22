@@ -1,0 +1,32 @@
+{
+  "chinese": "这支铅笔比那只好。",
+  "english": "This pencil is better than that one.",
+  "pinyin": "zhè zhī qiān bǐ bǐ nà zhī hǎo。",
+  "words": [
+    {
+      "ch": "这支",
+      "en": "this",
+      "pi": "zhè zhī"
+    },
+    {
+      "ch": "铅笔",
+      "en": "pencil",
+      "pi": "qiān bǐ"
+    },
+    {
+      "ch": "比",
+      "en": "is",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "那只",
+      "en": "that one",
+      "pi": "nà zhī"
+    },
+    {
+      "ch": "好",
+      "en": "better",
+      "pi": "hǎo"
+    }
+  ]
+}

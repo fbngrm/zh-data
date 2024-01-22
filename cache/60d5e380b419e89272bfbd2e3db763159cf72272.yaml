@@ -1,0 +1,32 @@
+{
+  "chinese": "六点二十分了。",
+  "english": "It's 6:20.",
+  "pinyin": "liù diǎn èrshí fēn le.",
+  "words": [
+    {
+      "ch": "六",
+      "en": "six",
+      "pi": "liù"
+    },
+    {
+      "ch": "点",
+      "en": "o'clock",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "二十",
+      "en": "twenty",
+      "pi": "èrshí"
+    },
+    {
+      "ch": "分",
+      "en": "minutes",
+      "pi": "fēn"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "le"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "有些人边看电视边读报纸。",
+  "english": "Some people watch TV and read newspapers at the same time.",
+  "pinyin": "yǒuxiē rén biān kàn diànshì biān dú bàozhǐ。",
+  "words": [
+    {
+      "ch": "有些人",
+      "en": "Some people",
+      "pi": "yǒuxiē rén"
+    },
+    {
+      "ch": "边",
+      "en": "while",
+      "pi": "biān"
+    },
+    {
+      "ch": "看",
+      "en": "watch",
+      "pi": "kàn"
+    },
+    {
+      "ch": "电视",
+      "en": "TV",
+      "pi": "diànshì"
+    },
+    {
+      "ch": "边",
+      "en": "and",
+      "pi": "biān"
+    },
+    {
+      "ch": "读",
+      "en": "read",
+      "pi": "dú"
+    },
+    {
+      "ch": "报纸",
+      "en": "newspaper",
+      "pi": "bàozhǐ"
+    }
+  ]
+}

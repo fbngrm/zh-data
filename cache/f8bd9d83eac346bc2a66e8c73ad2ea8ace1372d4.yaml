@@ -1,0 +1,32 @@
+{
+  "chinese": "明天很有可能下雨。",
+  "english": "There is a high possibility of rain tomorrow.",
+  "pinyin": "míng tiān hěn yǒu kě néng xià yǔ.",
+  "words": [
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "可能",
+      "en": "possibility",
+      "pi": "kě néng"
+    },
+    {
+      "ch": "下雨",
+      "en": "rain",
+      "pi": "xià yǔ"
+    }
+  ]
+}

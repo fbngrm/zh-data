@@ -1,0 +1,13 @@
+{
+  "chinese": "今天的西蓝花不是很新鲜。",
+  "english": "Today's broccoli is not very fresh.",
+  "pinyin": "jīn tiān de xī lán huā bú shì hěn xīn xiān.",
+  "words": [
+    {"ch": "今天", "en": "today", "pi": "jīn tiān"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "西蓝花", "en": "broccoli", "pi": "xī lán huā"},
+    {"ch": "不是", "en": "not", "pi": "bú shì"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "新鲜", "en": "fresh", "pi": "xīn xiān"}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "水从破裂的水管倾泻而出。",
+  "english": "Water pours out from the broken water pipe.",
+  "pinyin": "Shuǐ cóng pòliè de shuǐguǎn qīngxiè ér chū.",
+  "words": [
+    {"ch": "水", "en": "water", "pi": "shuǐ"},
+    {"ch": "从", "en": "from", "pi": "cóng"},
+    {"ch": "破裂", "en": "broken", "pi": "pòliè"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "水管", "en": "water pipe", "pi": "shuǐguǎn"},
+    {"ch": "倾泻", "en": "pours", "pi": "qīngxiè"},
+    {"ch": "而出", "en": "out", "pi": "ér chū"}
+  ]
+}

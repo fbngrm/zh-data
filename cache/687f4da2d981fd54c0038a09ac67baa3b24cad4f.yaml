@@ -1,0 +1,32 @@
+{
+  "chinese": "Ｔｏｍ,晚餐想吃啥？",
+  "english": "Tom, what do you want to eat for dinner?",
+  "pinyin": "Tom, wǎncān xiǎng chī shá?",
+  "words": [
+    {
+      "ch": "Ｔｏｍ",
+      "en": "Tom",
+      "pi": "Tóm"
+    },
+    {
+      "ch": "晚餐",
+      "en": "dinner",
+      "pi": "wǎncān"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "啥",
+      "en": "what",
+      "pi": "shá"
+    }
+  ]
+}

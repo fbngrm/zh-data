@@ -1,0 +1,16 @@
+{
+  "chinese": "旧约书中禁止食用贝类等有壳的水生动物。",
+  "english": "The Old Testament prohibits eating shellfish and other shell-bearing aquatic animals.",
+  "pinyin": "jiù yuē shū zhōng jìn zhǐ shí yòng bèi lèi děng yǒu ké de shuǐ shēng dòng wù。",
+  "words": [
+    {"ch": "旧约书", "en": "The Old Testament", "pi": "jiù yuē shū"},
+    {"ch": "中", "en": "in", "pi": "zhōng"},
+    {"ch": "禁止", "en": "prohibits", "pi": "jìn zhǐ"},
+    {"ch": "食用", "en": "eating", "pi": "shí yòng"},
+    {"ch": "贝类", "en": "shellfish", "pi": "bèi lèi"},
+    {"ch": "等", "en": "and other", "pi": "děng"},
+    {"ch": "有壳", "en": "shell-bearing", "pi": "yǒu ké"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "水生动物", "en": "aquatic animals", "pi": "shuǐ shēng dòng wù"}
+  ]
+}

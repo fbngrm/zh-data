@@ -1,0 +1,32 @@
+{
+  "chinese": "我现在不能问汤姆。",
+  "english": "I can't ask Tom now.",
+  "pinyin": "wǒ xiàn zài bù néng wèn Tāngmǔ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "不能",
+      "en": "can't",
+      "pi": "bù néng"
+    },
+    {
+      "ch": "问",
+      "en": "ask",
+      "pi": "wèn"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    }
+  ]
+}

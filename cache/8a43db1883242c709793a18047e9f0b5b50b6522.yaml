@@ -1,0 +1,42 @@
+{
+  "chinese": "玛丽把鸡蛋一颗一颗地取了出来。",
+  "english": "Mary took out each egg one by one.",
+  "pinyin": "Mǎlì bǎ jīdàn yī kē yī kē de qǔ le chūlái.",
+  "words": [
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎlì"
+    },
+    {
+      "ch": "把",
+      "en": "take",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "鸡蛋",
+      "en": "egg",
+      "pi": "jīdàn"
+    },
+    {
+      "ch": "一颗",
+      "en": "each",
+      "pi": "yī kē"
+    },
+    {
+      "ch": "一颗",
+      "en": "one by one",
+      "pi": "yī kē"
+    },
+    {
+      "ch": "地",
+      "en": "-ly",
+      "pi": "de"
+    },
+    {
+      "ch": "取了出来",
+      "en": "took out",
+      "pi": "qǔ le chūlái"
+    }
+  ]
+}

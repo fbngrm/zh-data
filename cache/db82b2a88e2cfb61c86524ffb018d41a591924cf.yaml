@@ -1,0 +1,42 @@
+{
+  "chinese": "你昨天打棒球了没有？",
+  "english": "Did you play baseball yesterday?",
+  "pinyin": "nǐ zuótiān dǎ bàngqiú le méiyǒu?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "打",
+      "en": "play",
+      "pi": "dǎ"
+    },
+    {
+      "ch": "棒球",
+      "en": "baseball",
+      "pi": "bàngqiú"
+    },
+    {
+      "ch": "了",
+      "en": "did",
+      "pi": "le"
+    },
+    {
+      "ch": "没有",
+      "en": "not",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "?"
+    }
+  ]
+}

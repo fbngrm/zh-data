@@ -1,0 +1,27 @@
+{
+  "chinese": "我通常8点钟起来。",
+  "english": "I usually get up at 8 o'clock.",
+  "pinyin": "wǒ tōngcháng bā diǎn zhōng qǐ lái。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "通常",
+      "en": "usually",
+      "pi": "tōngcháng"
+    },
+    {
+      "ch": "8点钟",
+      "en": "8 o'clock",
+      "pi": "bā diǎn zhōng"
+    },
+    {
+      "ch": "起来",
+      "en": "get up",
+      "pi": "qǐ lái"
+    }
+  ]
+}

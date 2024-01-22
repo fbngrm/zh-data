@@ -1,0 +1,42 @@
+{
+  "chinese": "你读过任何一首中国诗词吗?",
+  "english": "Have you read any Chinese poems?",
+  "pinyin": "nǐ dú guò rèn hé yī shǒu zhōng guó shī cí ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "读过",
+      "en": "read",
+      "pi": "dú guò"
+    },
+    {
+      "ch": "任何",
+      "en": "any",
+      "pi": "rèn hé"
+    },
+    {
+      "ch": "一首",
+      "en": "one",
+      "pi": "yī shǒu"
+    },
+    {
+      "ch": "中国",
+      "en": "Chinese",
+      "pi": "zhōng guó"
+    },
+    {
+      "ch": "诗词",
+      "en": "poems",
+      "pi": "shī cí"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

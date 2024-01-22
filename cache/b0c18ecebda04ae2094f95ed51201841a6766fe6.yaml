@@ -1,0 +1,42 @@
+{
+  "chinese": "走到车站要花多少时间？",
+  "english": "How long does it take to walk to the train station?",
+  "pinyin": "zǒu dào chē zhàn yào huā duō shǎo shí jiān?",
+  "words": [
+    {
+      "ch": "走",
+      "en": "walk",
+      "pi": "zǒu"
+    },
+    {
+      "ch": "到",
+      "en": "to",
+      "pi": "dào"
+    },
+    {
+      "ch": "车站",
+      "en": "train station",
+      "pi": "chē zhàn"
+    },
+    {
+      "ch": "要",
+      "en": "take",
+      "pi": "yào"
+    },
+    {
+      "ch": "花",
+      "en": "spend",
+      "pi": "huā"
+    },
+    {
+      "ch": "多少",
+      "en": "how much",
+      "pi": "duō shǎo"
+    },
+    {
+      "ch": "时间",
+      "en": "time",
+      "pi": "shí jiān"
+    }
+  ]
+}

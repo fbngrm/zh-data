@@ -1,0 +1,37 @@
+{
+  "chinese": "我在１０点左右去睡觉。",
+  "english": "I go to sleep around 10 o'clock.",
+  "pinyin": "wǒ zài shí diǎn zuǒyòu qù shuìjiào.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "１０点",
+      "en": "10 o'clock",
+      "pi": "shí diǎn"
+    },
+    {
+      "ch": "左右",
+      "en": "around",
+      "pi": "zuǒyòu"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "睡觉",
+      "en": "to sleep",
+      "pi": "shuìjiào"
+    }
+  ]
+}

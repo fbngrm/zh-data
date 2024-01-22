@@ -1,0 +1,42 @@
+{
+  "chinese": "约翰每个月写一封信给他的父母。",
+  "english": "John writes a letter to his parents every month.",
+  "pinyin": "Yuēhàn měi gè yuè xiě yī fēng xìn gěi tā de fùmǔ.",
+  "words": [
+    {
+      "ch": "约翰",
+      "en": "John",
+      "pi": "Yuēhàn"
+    },
+    {
+      "ch": "每个月",
+      "en": "every month",
+      "pi": "měi gè yuè"
+    },
+    {
+      "ch": "写",
+      "en": "writes",
+      "pi": "xiě"
+    },
+    {
+      "ch": "一封信",
+      "en": "a letter",
+      "pi": "yī fēng xìn"
+    },
+    {
+      "ch": "给",
+      "en": "to",
+      "pi": "gěi"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "父母",
+      "en": "parents",
+      "pi": "fùmǔ"
+    }
+  ]
+}

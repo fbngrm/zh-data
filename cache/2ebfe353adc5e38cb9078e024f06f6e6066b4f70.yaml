@@ -1,0 +1,32 @@
+{
+  "chinese": "这辆新车是她的。",
+  "english": "This new car is hers.",
+  "pinyin": "zhè liàng xīn chē shì tā de.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "辆",
+      "en": "vehicle",
+      "pi": "liàng"
+    },
+    {
+      "ch": "新车",
+      "en": "new car",
+      "pi": "xīn chē"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "她的",
+      "en": "hers",
+      "pi": "tā de"
+    }
+  ]
+}

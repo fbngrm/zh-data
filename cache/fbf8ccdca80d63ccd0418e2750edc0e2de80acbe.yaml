@@ -1,0 +1,32 @@
+{
+  "chinese": "我认为汤姆不会赢。",
+  "english": "I think Tom will not win.",
+  "pinyin": "wǒ rèn wéi tāng mǔ bú huì yíng。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "认为",
+      "en": "think",
+      "pi": "rèn wéi"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "不会",
+      "en": "will not",
+      "pi": "bú huì"
+    },
+    {
+      "ch": "赢",
+      "en": "win",
+      "pi": "yíng"
+    }
+  ]
+}

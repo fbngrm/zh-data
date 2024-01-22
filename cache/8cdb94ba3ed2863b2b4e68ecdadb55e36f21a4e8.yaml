@@ -1,0 +1,15 @@
+{
+  "chinese": "我会用我的电脑监察你的进度。",
+  "english": "I will monitor your progress using my computer.",
+  "pinyin": "wǒ huì yòng wǒ de diàn nǎo jiān chá nǐ de jìn dù。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "用", "en": "use", "pi": "yòng"},
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "电脑", "en": "computer", "pi": "diàn nǎo"},
+    {"ch": "监察", "en": "monitor", "pi": "jiān chá"},
+    {"ch": "你的", "en": "your", "pi": "nǐ de"},
+    {"ch": "进度", "en": "progress", "pi": "jìn dù"}
+  ]
+}

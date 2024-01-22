@@ -1,0 +1,7 @@
+当然，以下是一些例子：
+
+1. {"chinese": "你好", "english": "Hello", "pinyin": "nǐ hǎo", "words": [{"ch": "你", "en": "you", "pi": "nǐ"}, {"ch": "好", "en": "good", "pi": "hǎo"}]}
+2. {"chinese": "谢谢", "english": "Thank you", "pinyin": "xiè xie", "words": [{"ch": "谢", "en": "thanks", "pi": "xiè"}, {"ch": "谢", "en": "thanks", "pi": "xiè"}]}
+3. {"chinese": "我爱你", "english": "I love you", "pinyin": "wǒ ài nǐ", "words": [{"ch": "我", "en": "I", "pi": "wǒ"}, {"ch": "爱", "en": "love", "pi": "ài"}, {"ch": "你", "en": "you", "pi": "nǐ"}]}
+4. {"chinese": "中国", "english": "China", "pinyin": "zhōng guó", "words": [{"ch": "中", "en": "middle", "pi": "zhōng"}, {"ch": "国", "en": "country", "pi": "guó"}]}
+5. {"chinese": "早上好", "english": "Good morning", "pinyin": "zǎo shàng hǎo", "words": [{"ch": "早上", "en": "morning", "pi": "zǎo shàng"}, {"ch": "好", "en": "good", "pi": "hǎo"}]}

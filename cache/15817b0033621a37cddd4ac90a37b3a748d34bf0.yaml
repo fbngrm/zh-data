@@ -1,0 +1,42 @@
+{
+  "chinese": "你没有把你的车上锁吗？",
+  "english": "Didn't you lock your car?",
+  "pinyin": "Nǐ méiyǒu bǎ nǐ de chē shàngsuǒ ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "没有",
+      "en": "not have",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "把",
+      "en": "to",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "车",
+      "en": "car",
+      "pi": "chē"
+    },
+    {
+      "ch": "上锁",
+      "en": "lock",
+      "pi": "shàngsuǒ"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

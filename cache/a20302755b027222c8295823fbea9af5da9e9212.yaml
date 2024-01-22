@@ -1,0 +1,13 @@
+{
+  "chinese": "我们队输了第一场比赛。",
+  "english": "Our team lost the first game.",
+  "pinyin": "wǒmen duì shū le dì yī chǎng bǐsài.",
+  "words": [
+    {"ch": "我们", "en": "Our", "pi": "wǒmen"},
+    {"ch": "队", "en": "team", "pi": "duì"},
+    {"ch": "输", "en": "lose", "pi": "shū"},
+    {"ch": "了", "en": "past tense particle", "pi": "le"},
+    {"ch": "第一场", "en": "first game", "pi": "dì yī chǎng"},
+    {"ch": "比赛", "en": "game", "pi": "bǐsài"}
+  ]
+}

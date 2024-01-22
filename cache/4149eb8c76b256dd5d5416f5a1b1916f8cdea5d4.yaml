@@ -1,0 +1,30 @@
+{
+  "sentences": [
+    {
+      "chinese": "她的爱好不寻常啊，这个转学生。",
+      "english": "Her hobbies are unusual, this transfer student.",
+      "pinyin": "tā de ài hào bù xún cháng ā, zhè ge zhuǎn xué shēng。",
+      "words": [
+        {"ch": "她的", "en": "Her", "pi": "tā de"},
+        {"ch": "爱好", "en": "hobbies", "pi": "ài hào"},
+        {"ch": "不寻常", "en": "unusual", "pi": "bù xún cháng"},
+        {"ch": "啊", "en": "ah", "pi": "ā"},
+        {"ch": "这个", "en": "this", "pi": "zhè ge"},
+        {"ch": "转学生", "en": "transfer student", "pi": "zhuǎn xué shēng"}
+      ]
+    },
+    {
+      "chinese": "她长得可爱，所以对我来说还行。",
+      "english": "She looks cute, so it's fine to me.",
+      "pinyin": "tā zhǎng de kě ài, suǒ yǐ duì wǒ lái shuō hái xíng。",
+      "words": [
+        {"ch": "她", "en": "She", "pi": "tā"},
+        {"ch": "长得", "en": "looks", "pi": "zhǎng de"},
+        {"ch": "可爱", "en": "cute", "pi": "kě ài"},
+        {"ch": "所以", "en": "so", "pi": "suǒ yǐ"},
+        {"ch": "对我来说", "en": "to me", "pi": "duì wǒ lái shuō"},
+        {"ch": "还行", "en": "fine", "pi": "hái xíng"}
+      ]
+    }
+  ]
+}

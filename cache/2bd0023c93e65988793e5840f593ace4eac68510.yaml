@@ -1,0 +1,57 @@
+{
+  "chinese": "火车在快到交叉路口的时候减速、按喇叭。",
+  "english": "The train slows down and honks the horn when it is approaching the intersection.",
+  "pinyin": "huǒ chē zài kuài dào jiāo chā lù kǒu de shí hou jiǎn sù, àn là bā.",
+  "words": [
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒ chē"
+    },
+    {
+      "ch": "在",
+      "en": "in/at",
+      "pi": "zài"
+    },
+    {
+      "ch": "快",
+      "en": "fast",
+      "pi": "kuài"
+    },
+    {
+      "ch": "到",
+      "en": "to",
+      "pi": "dào"
+    },
+    {
+      "ch": "交叉路口",
+      "en": "intersection",
+      "pi": "jiāo chā lù kǒu"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "时候",
+      "en": "when",
+      "pi": "shí hou"
+    },
+    {
+      "ch": "减速",
+      "en": "slow down",
+      "pi": "jiǎn sù"
+    },
+    {
+      "ch": "按",
+      "en": "press",
+      "pi": "àn"
+    },
+    {
+      "ch": "喇叭",
+      "en": "horn",
+      "pi": "là bā"
+    }
+  ]
+}

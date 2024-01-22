@@ -1,0 +1,62 @@
+{
+  "chinese": "他是学生，他在帕尔玛大学学中文。",
+  "english": "He is a student, he is studying Chinese at the University of Parma.",
+  "pinyin": "Tā shì xuéshēng, tā zài pà ěr mǎ dàxué xué zhōngwén。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "学生",
+      "en": "student",
+      "pi": "xuéshēng"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": null
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "帕尔玛",
+      "en": "Parma",
+      "pi": "pà ěr mǎ"
+    },
+    {
+      "ch": "大学",
+      "en": "university",
+      "pi": "dàxué"
+    },
+    {
+      "ch": "学",
+      "en": "study",
+      "pi": "xué"
+    },
+    {
+      "ch": "中文",
+      "en": "Chinese language",
+      "pi": "zhōngwén"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": null
+    }
+  ]
+}

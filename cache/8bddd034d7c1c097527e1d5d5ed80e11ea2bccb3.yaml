@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆吃了一片比萨饼。",
+  "english": "Tom ate a slice of pizza.",
+  "pinyin": "tāng mǔ chī le yī piàn bǐ sà bǐng.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "吃了",
+      "en": "ate",
+      "pi": "chī le"
+    },
+    {
+      "ch": "一片",
+      "en": "a slice of",
+      "pi": "yī piàn"
+    },
+    {
+      "ch": "比萨饼",
+      "en": "pizza",
+      "pi": "bǐ sà bǐng"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆有三个姐姐。",
+  "english": "Tom has three sisters.",
+  "pinyin": "Tāng mǔ yǒu sān gè jiě jiě。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "三个",
+      "en": "three",
+      "pi": "sān gè"
+    },
+    {
+      "ch": "姐姐",
+      "en": "sisters",
+      "pi": "jiě jiě"
+    }
+  ]
+}

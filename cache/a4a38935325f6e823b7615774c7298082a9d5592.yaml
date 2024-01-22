@@ -1,0 +1,32 @@
+{
+  "chinese": "您会骑马吗？",
+  "english": "Can you ride a horse?",
+  "pinyin": "nín huì qí mǎ ma?",
+  "words": [
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "骑",
+      "en": "ride",
+      "pi": "qí"
+    },
+    {
+      "ch": "马",
+      "en": "horse",
+      "pi": "mǎ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

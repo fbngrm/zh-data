@@ -1,0 +1,42 @@
+{
+  "chinese": "天气很冷，我们生起了火。",
+  "english": "The weather is very cold, so we lit a fire.",
+  "pinyin": "Tiānqì hěn lěng, wǒmen shēngqǐle huǒ.",
+  "words": [
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiānqì"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "冷",
+      "en": "cold",
+      "pi": "lěng"
+    },
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "生起",
+      "en": "lit",
+      "pi": "shēngqǐ"
+    },
+    {
+      "ch": "了",
+      "en": "a",
+      "pi": "le"
+    },
+    {
+      "ch": "火",
+      "en": "fire",
+      "pi": "huǒ"
+    }
+  ]
+}

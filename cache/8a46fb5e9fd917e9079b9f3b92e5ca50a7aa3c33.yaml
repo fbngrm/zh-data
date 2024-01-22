@@ -1,0 +1,32 @@
+{
+  "chinese": "水果以苹果为最佳。",
+  "english": "Fruits are best represented by apples.",
+  "pinyin": "shuǐguǒ yǐ píngguǒ wéi zuìjiā。",
+  "words": [
+    {
+      "ch": "水果",
+      "en": "fruits",
+      "pi": "shuǐguǒ"
+    },
+    {
+      "ch": "以",
+      "en": "represented by",
+      "pi": "yǐ"
+    },
+    {
+      "ch": "苹果",
+      "en": "apples",
+      "pi": "píngguǒ"
+    },
+    {
+      "ch": "为",
+      "en": "are",
+      "pi": "wéi"
+    },
+    {
+      "ch": "最佳",
+      "en": "best",
+      "pi": "zuìjiā"
+    }
+  ]
+}

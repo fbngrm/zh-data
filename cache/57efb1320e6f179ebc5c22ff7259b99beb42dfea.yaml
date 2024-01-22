@@ -1,0 +1,13 @@
+{
+  "chinese": "我今天感觉好了点。",
+  "english": "I feel a little better today.",
+  "pinyin": "wǒ jīntiān gǎnjué hǎo le diǎn.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "今天", "en": "today", "pi": "jīntiān"},
+    {"ch": "感觉", "en": "feel", "pi": "gǎnjué"},
+    {"ch": "好", "en": "good", "pi": "hǎo"},
+    {"ch": "了", "en": "", "pi": "le"},
+    {"ch": "点", "en": "a little", "pi": "diǎn"}
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "天气热，我就把电风扇打开了。",
+  "english": "The weather is hot, so I turned on the electric fan.",
+  "pinyin": "Tiānqì rè, wǒ jiù bǎ diànfēngshàn dǎkāile.",
+  "words": [
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiānqì"
+    },
+    {
+      "ch": "热",
+      "en": "hot",
+      "pi": "rè"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "就",
+      "en": "so",
+      "pi": "jiù"
+    },
+    {
+      "ch": "把",
+      "en": "turn",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "电风扇",
+      "en": "electric fan",
+      "pi": "diànfēngshàn"
+    },
+    {
+      "ch": "打开了",
+      "en": "turned on",
+      "pi": "dǎkāile"
+    }
+  ]
+}

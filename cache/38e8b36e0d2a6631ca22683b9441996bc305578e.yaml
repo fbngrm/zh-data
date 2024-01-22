@@ -1,0 +1,32 @@
+{
+  "chinese": "我毕业于京都大学。",
+  "english": "I graduated from Kyoto University.",
+  "pinyin": "wǒ bì yè yú jīng dū dà xué.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "毕业",
+      "en": "graduated",
+      "pi": "bì yè"
+    },
+    {
+      "ch": "于",
+      "en": "from",
+      "pi": "yú"
+    },
+    {
+      "ch": "京都",
+      "en": "Kyoto",
+      "pi": "jīng dū"
+    },
+    {
+      "ch": "大学",
+      "en": "University",
+      "pi": "dà xué"
+    }
+  ]
+}

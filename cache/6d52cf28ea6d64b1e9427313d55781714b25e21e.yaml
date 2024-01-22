@@ -1,0 +1,14 @@
+{
+  "chinese": "乔治在一个大农场上工作。",
+  "english": "George works on a large farm.",
+  "pinyin": "Qiáozhì zài yīgè dà nóngchǎng shàng gōngzuò.",
+  "words": [
+    {"ch": "乔治", "en": "George", "pi": "Qiáozhì"},
+    {"ch": "在", "en": "on", "pi": "zài"},
+    {"ch": "一个", "en": "a", "pi": "yīgè"},
+    {"ch": "大", "en": "large", "pi": "dà"},
+    {"ch": "农场", "en": "farm", "pi": "nóngchǎng"},
+    {"ch": "上", "en": "on", "pi": "shàng"},
+    {"ch": "工作", "en": "work", "pi": "gōngzuò"}
+  ]
+}

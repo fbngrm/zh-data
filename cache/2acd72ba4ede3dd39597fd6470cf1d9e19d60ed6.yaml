@@ -1,0 +1,32 @@
+{
+  "chinese": "这间房间对你来说够大吗?",
+  "english": "Is this room big enough for you?",
+  "pinyin": "zhè jiān fáng jiān duì nǐ lái shuō gòu dà ma?",
+  "words": [
+    {
+      "ch": "这间",
+      "en": "this",
+      "pi": "zhè jiān"
+    },
+    {
+      "ch": "房间",
+      "en": "room",
+      "pi": "fáng jiān"
+    },
+    {
+      "ch": "对你来说",
+      "en": "for you",
+      "pi": "duì nǐ lái shuō"
+    },
+    {
+      "ch": "够大",
+      "en": "big enough",
+      "pi": "gòu dà"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

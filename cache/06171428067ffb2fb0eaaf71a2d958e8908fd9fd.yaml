@@ -1,0 +1,27 @@
+{
+  "chinese": "桌子被灰尘覆盖。",
+  "english": "The table is covered in dust.",
+  "pinyin": "Zhuōzi bèi huīchén fùgài.",
+  "words": [
+    {
+      "ch": "桌子",
+      "en": "table",
+      "pi": "zhuōzi"
+    },
+    {
+      "ch": "被",
+      "en": "is",
+      "pi": "bèi"
+    },
+    {
+      "ch": "灰尘",
+      "en": "dust",
+      "pi": "huīchén"
+    },
+    {
+      "ch": "覆盖",
+      "en": "covered",
+      "pi": "fùgài"
+    }
+  ]
+}

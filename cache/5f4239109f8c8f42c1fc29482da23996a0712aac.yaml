@@ -1,0 +1,37 @@
+{
+  "chinese": "白兔的耳朵比狐狸长。",
+  "english": "The ears of the white rabbit are longer than those of the fox.",
+  "pinyin": "báitù de ěrduō bǐ húli zhǎng.",
+  "words": [
+    {
+      "ch": "白兔",
+      "en": "white rabbit",
+      "pi": "báitù"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "耳朵",
+      "en": "ears",
+      "pi": "ěrduō"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "狐狸",
+      "en": "fox",
+      "pi": "húli"
+    },
+    {
+      "ch": "长",
+      "en": "longer",
+      "pi": "zhǎng"
+    }
+  ]
+}

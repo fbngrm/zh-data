@@ -1,0 +1,42 @@
+{
+  "chinese": "我讓他修理了我的腳踏車。",
+  "english": "I let him fix my bicycle.",
+  "pinyin": "wǒ ràng tā xiūlǐ le wǒ de jiǎotàchē。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "讓",
+      "en": "let",
+      "pi": "ràng"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    },
+    {
+      "ch": "修理",
+      "en": "fix",
+      "pi": "xiūlǐ"
+    },
+    {
+      "ch": "了",
+      "en": "my",
+      "pi": "le"
+    },
+    {
+      "ch": "我的",
+      "en": "bicycle",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "腳踏車",
+      "en": "bicycle",
+      "pi": "jiǎotàchē"
+    }
+  ]
+}

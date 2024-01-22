@@ -1,0 +1,13 @@
+{
+  "chinese": "我会尽可能帮你的。",
+  "english": "I will help you as much as I can.",
+  "pinyin": "wǒ huì jǐn kěnéng bāng nǐ de.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "会", "en": "will", "pi": "huì" },
+    { "ch": "尽可能", "en": "as much as possible", "pi": "jǐn kěnéng" },
+    { "ch": "帮", "en": "help", "pi": "bāng" },
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "的", "en": "of", "pi": "de" }
+  ]
+}

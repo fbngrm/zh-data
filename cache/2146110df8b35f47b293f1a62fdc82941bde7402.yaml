@@ -1,0 +1,32 @@
+{
+  "chinese": "他去了某個地方。",
+  "english": "He went to a place.",
+  "pinyin": "tā qù le mǒu gè dìfāng。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "去",
+      "en": "went",
+      "pi": "qù"
+    },
+    {
+      "ch": "了",
+      "en": "to",
+      "pi": "le"
+    },
+    {
+      "ch": "某個",
+      "en": "a",
+      "pi": "mǒu gè"
+    },
+    {
+      "ch": "地方",
+      "en": "place",
+      "pi": "dìfāng"
+    }
+  ]
+}

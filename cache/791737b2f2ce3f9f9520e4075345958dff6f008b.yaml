@@ -1,0 +1,32 @@
+{
+  "chinese": "你是不是刚到的？",
+  "english": "Did you just arrive?",
+  "pinyin": "nǐ shì bù shì gāng dào de?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "不是",
+      "en": "not",
+      "pi": "bù shì"
+    },
+    {
+      "ch": "刚到",
+      "en": "just arrived",
+      "pi": "gāng dào"
+    },
+    {
+      "ch": "的",
+      "en": "?",
+      "pi": "de"
+    }
+  ]
+}

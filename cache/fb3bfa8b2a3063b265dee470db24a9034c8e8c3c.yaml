@@ -1,0 +1,14 @@
+{
+  "chinese": "她的孩子都死于战乱。",
+  "english": "Her children all died in the war.",
+  "pinyin": "tā de hái zi dōu sǐ yú zhàn luàn。",
+  "words": [
+    { "ch": "她", "en": "she", "pi": "tā" },
+    { "ch": "的", "en": "possessive particle", "pi": "de" },
+    { "ch": "孩子", "en": "children", "pi": "hái zi" },
+    { "ch": "都", "en": "all", "pi": "dōu" },
+    { "ch": "死", "en": "die", "pi": "sǐ" },
+    { "ch": "于", "en": "in", "pi": "yú" },
+    { "ch": "战乱", "en": "war", "pi": "zhàn luàn" }
+  ]
+}

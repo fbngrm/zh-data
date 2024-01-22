@@ -1,0 +1,37 @@
+{
+  "chinese": "孩子，不要碰那面镜子！",
+  "english": "Child, don't touch that mirror!",
+  "pinyin": "Hái zǐ, bù yào pèng nà miàn jìng zi!",
+  "words": [
+    {
+      "ch": "孩子",
+      "en": "child",
+      "pi": "hái zǐ"
+    },
+    {
+      "ch": "不要",
+      "en": "don't",
+      "pi": "bù yào"
+    },
+    {
+      "ch": "碰",
+      "en": "touch",
+      "pi": "pèng"
+    },
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "面",
+      "en": "",
+      "pi": "miàn"
+    },
+    {
+      "ch": "镜子",
+      "en": "mirror",
+      "pi": "jìng zi"
+    }
+  ]
+}

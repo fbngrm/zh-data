@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆看了文件。",
+  "english": "Tom looked at the documents.",
+  "pinyin": "Tāng mǔ kàn le wén jiàn.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "看",
+      "en": "looked at",
+      "pi": "kàn"
+    },
+    {
+      "ch": "了",
+      "en": "at",
+      "pi": "le"
+    },
+    {
+      "ch": "文件",
+      "en": "documents",
+      "pi": "wén jiàn"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我听着噪音不能睡觉。",
+  "english": "I can't sleep with the noise.",
+  "pinyin": "wǒ tīng zhe zào yīn bù néng shuì jiào。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "听着",
+      "en": "listen to",
+      "pi": "tīng zhe"
+    },
+    {
+      "ch": "噪音",
+      "en": "noise",
+      "pi": "zào yīn"
+    },
+    {
+      "ch": "不能",
+      "en": "cannot",
+      "pi": "bù néng"
+    },
+    {
+      "ch": "睡觉",
+      "en": "sleep",
+      "pi": "shuì jiào"
+    }
+  ]
+}

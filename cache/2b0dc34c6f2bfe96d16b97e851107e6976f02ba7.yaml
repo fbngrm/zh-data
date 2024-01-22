@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆不知道玛丽有男朋友。",
+  "english": "Tom doesn't know that Mary has a boyfriend.",
+  "pinyin": "Tāng mǔ bù zhī dào mǎ lì yǒu nán péng yǒu.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "男朋友",
+      "en": "boyfriend",
+      "pi": "nán péng yǒu"
+    }
+  ]
+}

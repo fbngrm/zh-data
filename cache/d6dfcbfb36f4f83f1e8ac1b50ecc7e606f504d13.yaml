@@ -1,0 +1,37 @@
+{
+  "chinese": "你的驾驶执照已经过期了。",
+  "english": "Your driver's license has expired.",
+  "pinyin": "Nǐ de jiàshǐ zhízhào yǐjīng guòqīle.",
+  "words": [
+    {
+      "ch": "你的",
+      "en": "Your",
+      "pi": "Nǐ de"
+    },
+    {
+      "ch": "驾驶",
+      "en": "driver's",
+      "pi": "jiàshǐ"
+    },
+    {
+      "ch": "执照",
+      "en": "license",
+      "pi": "zhízhào"
+    },
+    {
+      "ch": "已经",
+      "en": "has",
+      "pi": "yǐjīng"
+    },
+    {
+      "ch": "过期",
+      "en": "expired",
+      "pi": "guòqī"
+    },
+    {
+      "ch": "了",
+      "en": ".",
+      "pi": "le"
+    }
+  ]
+}

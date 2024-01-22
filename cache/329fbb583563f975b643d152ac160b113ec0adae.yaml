@@ -1,0 +1,32 @@
+{
+  "chinese": "他看起来像个医生。",
+  "english": "He looks like a doctor.",
+  "pinyin": "Tā kàn qǐlái xiàng gè yīshēng.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "看起来",
+      "en": "looks like",
+      "pi": "kàn qǐlái"
+    },
+    {
+      "ch": "像",
+      "en": "like",
+      "pi": "xiàng"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "医生",
+      "en": "doctor",
+      "pi": "yīshēng"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆死于服药过量。",
+  "english": "Tom died from overdose.",
+  "pinyin": "tāng mǔ sǐ yú fú yào guò liàng。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "死于",
+      "en": "died from",
+      "pi": "sǐ yú"
+    },
+    {
+      "ch": "服药",
+      "en": "take medicine",
+      "pi": "fú yào"
+    },
+    {
+      "ch": "过量",
+      "en": "overdose",
+      "pi": "guò liàng"
+    }
+  ]
+}

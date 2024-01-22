@@ -1,0 +1,47 @@
+{
+  "chinese": "十一时了，你该上床睡觉了。",
+  "english": "It's already 11 o'clock, you should go to bed.",
+  "pinyin": "shí yī shí le, nǐ gāi shàng chuáng shuì jiào le.",
+  "words": [
+    {
+      "ch": "十一",
+      "en": "11",
+      "pi": "shí yī"
+    },
+    {
+      "ch": "时",
+      "en": "o'clock",
+      "pi": "shí"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "le"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "该",
+      "en": "should",
+      "pi": "gāi"
+    },
+    {
+      "ch": "上床",
+      "en": "go to bed",
+      "pi": "shàng chuáng"
+    },
+    {
+      "ch": "睡觉",
+      "en": "sleep",
+      "pi": "shuì jiào"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "le"
+    }
+  ]
+}

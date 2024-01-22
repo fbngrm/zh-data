@@ -1,0 +1,68 @@
+{
+   "sentences":[
+      {
+         "chinese":"从前人们害怕未来。",
+         "english":"In the past, people were afraid of the future.",
+         "pinyin":"cóng qián rén men hài pà wèi lái。",
+         "words":[
+            {
+               "ch":"从前",
+               "en":"In the past",
+               "pi":"cóng qián"
+            },
+            {
+               "ch":"人们",
+               "en":"people",
+               "pi":"rén men"
+            },
+            {
+               "ch":"害怕",
+               "en":"afraid",
+               "pi":"hài pà"
+            },
+            {
+               "ch":"未来",
+               "en":"future",
+               "pi":"wèi lái"
+            }
+         ]
+      },
+      {
+         "chinese":"现在，是未来该害怕人们。",
+         "english":"Now, it is the future that should be afraid of people.",
+         "pinyin":"xiàn zài，shì wèi lái gāi hài pà rén men。",
+         "words":[
+            {
+               "ch":"现在",
+               "en":"Now",
+               "pi":"xiàn zài"
+            },
+            {
+               "ch":"是",
+               "en":"is",
+               "pi":"shì"
+            },
+            {
+               "ch":"未来",
+               "en":"future",
+               "pi":"wèi lái"
+            },
+            {
+               "ch":"该",
+               "en":"should",
+               "pi":"gāi"
+            },
+            {
+               "ch":"害怕",
+               "en":"afraid",
+               "pi":"hài pà"
+            },
+            {
+               "ch":"人们",
+               "en":"people",
+               "pi":"rén men"
+            }
+         ]
+      }
+   ]
+}

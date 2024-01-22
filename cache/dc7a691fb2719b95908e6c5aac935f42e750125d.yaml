@@ -1,0 +1,68 @@
+{
+  "sentences": [
+    {
+      "chinese": "好，那我在家等你们。",
+      "english": "Okay, then I'll wait for you at home.",
+      "pinyin": "Hǎo, nà wǒ zài jiā děng nǐ men.",
+      "words": [
+        {
+          "ch": "好",
+          "en": "okay",
+          "pi": "hǎo"
+        },
+        {
+          "ch": "那",
+          "en": "then",
+          "pi": "nà"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "在家",
+          "en": "at home",
+          "pi": "zài jiā"
+        },
+        {
+          "ch": "等",
+          "en": "wait",
+          "pi": "děng"
+        },
+        {
+          "ch": "你们",
+          "en": "you (plural)",
+          "pi": "nǐ men"
+        }
+      ]
+    },
+    {
+      "chinese": "不见不散。",
+      "english": "Don't leave until we meet.",
+      "pinyin": "Bú jiàn bú sàn.",
+      "words": [
+        {
+          "ch": "不",
+          "en": "not",
+          "pi": "bú"
+        },
+        {
+          "ch": "见",
+          "en": "see",
+          "pi": "jiàn"
+        },
+        {
+          "ch": "不",
+          "en": "not",
+          "pi": "bú"
+        },
+        {
+          "ch": "散",
+          "en": "disperse",
+          "pi": "sàn"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我不喜欢在泳池里游泳。",
+  "english": "I don't like swimming in the swimming pool.",
+  "pinyin": "Wǒ bù xǐhuān zài yǒngchí lǐ yóuyǒng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "Wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "泳池",
+      "en": "swimming pool",
+      "pi": "yǒngchí"
+    },
+    {
+      "ch": "里",
+      "en": "inside",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "游泳",
+      "en": "swim",
+      "pi": "yóuyǒng"
+    }
+  ]
+}

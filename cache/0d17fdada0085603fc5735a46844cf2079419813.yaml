@@ -1,0 +1,32 @@
+{
+  "chinese": "这个菜很对胃口。",
+  "english": "This dish is very appetizing.",
+  "pinyin": "zhè gè cài hěn duì wèi kǒu。",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "菜",
+      "en": "dish",
+      "pi": "cài"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "对",
+      "en": "right",
+      "pi": "duì"
+    },
+    {
+      "ch": "胃口",
+      "en": "appetizing",
+      "pi": "wèi kǒu"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "熊猫是很美的动物。",
+  "english": "Pandas are very beautiful animals.",
+  "pinyin": "Xióngmāo shì hěn měi de dòngwù.",
+  "words": [
+    {
+      "ch": "熊猫",
+      "en": "panda",
+      "pi": "xióngmāo"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "美",
+      "en": "beautiful",
+      "pi": "měi"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "动物",
+      "en": "animal",
+      "pi": "dòngwù"
+    }
+  ]
+}

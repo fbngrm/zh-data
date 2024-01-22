@@ -1,0 +1,27 @@
+{
+  "chinese": "他打网球打得很好。",
+  "english": "He plays tennis very well.",
+  "pinyin": "tā dǎ wǎngqiú dǎ dé hěn hǎo.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "打",
+      "en": "plays",
+      "pi": "dǎ"
+    },
+    {
+      "ch": "网球",
+      "en": "tennis",
+      "pi": "wǎngqiú"
+    },
+    {
+      "ch": "打得很好",
+      "en": "plays very well",
+      "pi": "dǎ dé hěn hǎo"
+    }
+  ]
+}

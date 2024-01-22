@@ -1,0 +1,14 @@
+{
+  "chinese": "我在牙医那儿检查了牙齿。",
+  "english": "I went to the dentist to get my teeth checked.",
+  "pinyin": "wǒ zài yá yī nà ér jiǎn chá le yá chǐ。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "牙医", "en": "dentist", "pi": "yá yī"},
+    {"ch": "那儿", "en": "there", "pi": "nà ér"},
+    {"ch": "检查", "en": "check", "pi": "jiǎn chá"},
+    {"ch": "了", "en": "my", "pi": "le"},
+    {"ch": "牙齿", "en": "teeth", "pi": "yá chǐ"}
+  ]
+}

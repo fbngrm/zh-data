@@ -1,0 +1,32 @@
+{
+  "chinese": "他的化学很差。",
+  "english": "His chemistry is very poor.",
+  "pinyin": "tā de huà xué hěn chà",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "化学",
+      "en": "chemistry",
+      "pi": "huà xué"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "差",
+      "en": "poor",
+      "pi": "chà"
+    }
+  ]
+}

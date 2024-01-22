@@ -1,0 +1,15 @@
+{
+  "chinese": "我借给Ｔｏｍ一本关于德国的书。",
+  "english": "I lent Tom a book about Germany.",
+  "pinyin": "wǒ jiè gěi Tōm yī běn guān yú dé guó de shū。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "借给", "en": "lent", "pi": "jiè gěi"},
+    {"ch": "Ｔｏｍ", "en": "Tom", "pi": "Tōm"},
+    {"ch": "一本", "en": "a", "pi": "yī běn"},
+    {"ch": "关于", "en": "about", "pi": "guān yú"},
+    {"ch": "德国", "en": "Germany", "pi": "dé guó"},
+    {"ch": "的", "en": "a", "pi": "de"},
+    {"ch": "书", "en": "book", "pi": "shū"}
+  ]
+}

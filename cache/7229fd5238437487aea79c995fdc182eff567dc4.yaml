@@ -1,0 +1,14 @@
+{
+  "chinese": "这只狗是这个镇上最大的狗。",
+  "english": "This dog is the biggest dog in this town.",
+  "pinyin": "zhè zhī gǒu shì zhè ge zhèn shàng zuì dà de gǒu.",
+  "words": [
+    { "ch": "这只", "en": "this", "pi": "zhè zhī" },
+    { "ch": "狗", "en": "dog", "pi": "gǒu" },
+    { "ch": "是", "en": "is", "pi": "shì" },
+    { "ch": "这个", "en": "this", "pi": "zhè ge" },
+    { "ch": "镇上", "en": "town", "pi": "zhèn shàng" },
+    { "ch": "最大的", "en": "biggest", "pi": "zuì dà de" },
+    { "ch": "狗", "en": "dog", "pi": "gǒu" }
+  ]
+}

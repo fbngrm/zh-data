@@ -1,0 +1,32 @@
+{
+  "chinese": "我搭计程车去机场。",
+  "english": "I take a taxi to the airport.",
+  "pinyin": "wǒ dā jìchéng chē qù jīchǎng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "搭",
+      "en": "take",
+      "pi": "dā"
+    },
+    {
+      "ch": "计程车",
+      "en": "taxi",
+      "pi": "jìchéng chē"
+    },
+    {
+      "ch": "去",
+      "en": "to",
+      "pi": "qù"
+    },
+    {
+      "ch": "机场",
+      "en": "airport",
+      "pi": "jīchǎng"
+    }
+  ]
+}

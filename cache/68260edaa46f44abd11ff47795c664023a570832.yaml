@@ -1,0 +1,48 @@
+{
+  "sentences": [
+    {
+      "chinese": "他是谁?",
+      "english": "Who is he?",
+      "pinyin": "tā shì shéi?",
+      "words": [
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "谁",
+          "en": "who",
+          "pi": "shéi"
+        }
+      ]
+    },
+    {
+      "chinese": "他是吉姆。",
+      "english": "He is Jim.",
+      "pinyin": "tā shì jí mǔ.",
+      "words": [
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "吉姆",
+          "en": "Jim",
+          "pi": "jí mǔ"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆说他想吃中国菜。",
+  "english": "Tom said he wants to eat Chinese food.",
+  "pinyin": "Tāng mǔ shuō tā xiǎng chī zhōng guó cài.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "说",
+      "en": "said",
+      "pi": "shuō"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "想",
+      "en": "wants",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "中国菜",
+      "en": "Chinese food",
+      "pi": "zhōng guó cài"
+    }
+  ]
+}

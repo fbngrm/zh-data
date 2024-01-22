@@ -1,0 +1,32 @@
+{
+  "chinese": "Jack这次肯定会成功。",
+  "english": "Jack will definitely succeed this time.",
+  "pinyin": "Jack zhè cì kěn dìng huì chéng gōng.",
+  "words": [
+    {
+      "ch": "Jack",
+      "en": "Jack",
+      "pi": "zhè cì"
+    },
+    {
+      "ch": "这次",
+      "en": "this time",
+      "pi": "zhè cì"
+    },
+    {
+      "ch": "肯定",
+      "en": "definitely",
+      "pi": "kěn dìng"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "成功",
+      "en": "succeed",
+      "pi": "chéng gōng"
+    }
+  ]
+}

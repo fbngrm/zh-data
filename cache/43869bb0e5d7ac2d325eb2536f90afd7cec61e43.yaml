@@ -1,0 +1,141 @@
+[
+  {
+    "chinese": "你好，请问地铁站离这儿远吗？",
+    "english": "Hello, is the subway station far from here?",
+    "pinyin": "nǐ hǎo, qǐng wèn dì tiě zhàn lí zhèr yuǎn ma?",
+    "words": [
+      { "ch": "你好", "en": "Hello", "pi": "nǐ hǎo" },
+      { "ch": "，", "en": ",", "pi": null },
+      { "ch": "请问", "en": "may I ask", "pi": "qǐng wèn" },
+      { "ch": "地铁站", "en": "subway station", "pi": "dì tiě zhàn" },
+      { "ch": "离", "en": "from", "pi": "lí" },
+      { "ch": "这儿", "en": "here", "pi": "zhèr" },
+      { "ch": "远", "en": "far", "pi": "yuǎn" },
+      { "ch": "吗", "en": "?", "pi": "ma" },
+      { "ch": "？", "en": null, "pi": null }
+    ]
+  },
+  {
+    "chinese": "这儿有两个地铁站。你要坐几号线？",
+    "english": "There are two subway stations here. Which line do you want to take?",
+    "pinyin": "zhèr yǒu liǎng gè dì tiě zhàn. nǐ yào zuò jǐ hào xiàn?",
+    "words": [
+      { "ch": "这儿", "en": "here", "pi": "zhèr" },
+      { "ch": "有", "en": "have", "pi": "yǒu" },
+      { "ch": "两个", "en": "two", "pi": "liǎng gè" },
+      { "ch": "地铁站", "en": "subway stations", "pi": "dì tiě zhàn" },
+      { "ch": "。", "en": ".", "pi": null },
+      { "ch": "你", "en": "you", "pi": "nǐ" },
+      { "ch": "要", "en": "want to", "pi": "yào" },
+      { "ch": "坐", "en": "take", "pi": "zuò" },
+      { "ch": "几号线", "en": "which line", "pi": "jǐ hào xiàn" },
+      { "ch": "？", "en": "?", "pi": null }
+    ]
+  },
+  {
+    "chinese": "我要坐二号线。二号线地铁站离这儿很近。走五分钟就到了。",
+    "english": "I want to take the Line 2. The subway station of Line 2 is very close to here. It takes five minutes to walk there.",
+    "pinyin": "wǒ yào zuò èr hào xiàn. èr hào xiàn dì tiě zhàn lí zhèr hěn jìn. zǒu wǔ fēn zhōng jiù dào le.",
+    "words": [
+      { "ch": "我", "en": "I", "pi": "wǒ" },
+      { "ch": "要", "en": "want to", "pi": "yào" },
+      { "ch": "坐", "en": "take", "pi": "zuò" },
+      { "ch": "二号线", "en": "Line 2", "pi": "èr hào xiàn" },
+      { "ch": "。", "en": ".", "pi": null },
+      { "ch": "二号线", "en": "Line 2", "pi": "èr hào xiàn" },
+      { "ch": "地铁站", "en": "subway station", "pi": "dì tiě zhàn" },
+      { "ch": "离", "en": "from", "pi": "lí" },
+      { "ch": "这儿", "en": "here", "pi": "zhèr" },
+      { "ch": "很", "en": "very", "pi": "hěn" },
+      { "ch": "近", "en": "close", "pi": "jìn" },
+      { "ch": "。", "en": ".", "pi": null },
+      { "ch": "走", "en": "walk", "pi": "zǒu" },
+      { "ch": "五分钟", "en": "five minutes", "pi": "wǔ fēn zhōng" },
+      { "ch": "就", "en": "just", "pi": "jiù" },
+      { "ch": "到了", "en": "arrive", "pi": "dào le" },
+      { "ch": "。", "en": ".", "pi": null }
+    ]
+  },
+  {
+    "chinese": "从这儿到地铁站怎么走？",
+    "english": "How can I get to the subway station from here?",
+    "pinyin": "cóng zhèr dào dì tiě zhàn zěn me zǒu?",
+    "words": [
+      { "ch": "从", "en": "from", "pi": "cóng" },
+      { "ch": "这儿", "en": "here", "pi": "zhèr" },
+      { "ch": "到", "en": "to", "pi": "dào" },
+      { "ch": "地铁站", "en": "subway station", "pi": "dì tiě zhàn" },
+      { "ch": "怎么", "en": "how", "pi": "zěn me" },
+      { "ch": "走", "en": "go", "pi": "zǒu" },
+      { "ch": "？", "en": "?", "pi": null }
+    ]
+  },
+  {
+    "chinese": "从这儿往前，到人民路往右走。走两分钟，你会看见一个大商店。地铁站就在大商店的旁边。",
+    "english": "Go straight ahead from here to Renmin Road, and turn right. After walking for two minutes, you will see a large store. The subway station is located next to the store.",
+    "pinyin": "cóng zhèr wǎng qián, dào rén mín lù wǎng yòu zǒu. zǒu liǎng fēn zhōng, nǐ huì kàn jiàn yī gè dà shāng diàn. dì tiě zhàn jiù zài dà shāng diàn de páng biān.",
+    "words": [
+      { "ch": "从", "en": "from", "pi": "cóng" },
+      { "ch": "这儿", "en": "here", "pi": "zhèr" },
+      { "ch": "往前", "en": "go straight ahead", "pi": "wǎng qián" },
+      { "ch": "，", "en": ",", "pi": null },
+      { "ch": "到", "en": "to", "pi": "dào" },
+      { "ch": "人民路", "en": "Renmin Road", "pi": "rén mín lù" },
+      { "ch": "往右", "en": "turn right", "pi": "wǎng yòu" },
+      { "ch": "走", "en": "walk", "pi": "zǒu" },
+      { "ch": "。", "en": ".", "pi": null },
+      { "ch": "走", "en": "walk", "pi": "zǒu" },
+      { "ch": "两分钟", "en": "two minutes", "pi": "liǎng fēn zhōng" },
+      { "ch": "，", "en": ",", "pi": null },
+      { "ch": "你", "en": "you", "pi": "nǐ" },
+      { "ch": "会", "en": "will", "pi": "huì" },
+      { "ch": "看见", "en": "see", "pi": "kàn jiàn" },
+      { "ch": "一个", "en": "a", "pi": "yī gè" },
+      { "ch": "大商店", "en": "large store", "pi": "dà shāng diàn" },
+      { "ch": "。", "en": ".", "pi": null },
+      { "ch": "地铁站", "en": "subway station", "pi": "dì tiě zhàn" },
+      { "ch": "就", "en": "is", "pi": "jiù" },
+      { "ch": "在", "en": "located at", "pi": "zài" },
+      { "ch": "大商店", "en": "large store", "pi": "dà shāng diàn" },
+      { "ch": "的", "en": "of", "pi": "de" },
+      { "ch": "旁边", "en": "next to", "pi": "páng biān" },
+      { "ch": "。", "en": ".", "pi": null }
+    ]
+  },
+  {
+    "chinese": "从这儿往前，到人民路往右。大商店的旁边就是地铁站。好，谢谢你。",
+    "english": "Go straight ahead from here to Renmin Road, and turn right. The subway station is next to the large store. OK, thank you.",
+    "pinyin": "cóng zhèr wǎng qián, dào rén mín lù wǎng yòu. dà shāng diàn de páng biān jiù shì dì tiě zhàn. hǎo, xiè xiè nǐ.",
+    "words": [
+      { "ch": "从", "en": "from", "pi": "cóng" },
+      { "ch": "这儿", "en": "here", "pi": "zhèr" },
+      { "ch": "往前", "en": "go straight ahead", "pi": "wǎng qián" },
+      { "ch": "，", "en": ",", "pi": null },
+      { "ch": "到", "en": "to", "pi": "dào" },
+      { "ch": "人民路", "en": "Renmin Road", "pi": "rén mín lù" },
+      { "ch": "往右", "en": "turn right", "pi": "wǎng yòu" },
+      { "ch": "。", "en": ".", "pi": null },
+      { "ch": "大商店", "en": "large store", "pi": "dà shāng diàn" },
+      { "ch": "的", "en": "of", "pi": "de" },
+      { "ch": "旁边", "en": "next to", "pi": "páng biān" },
+      { "ch": "就是", "en": "is", "pi": "jiù shì" },
+      { "ch": "地铁站", "en": "subway station", "pi": "dì tiě zhàn" },
+      { "ch": "。", "en": ".", "pi": null },
+      { "ch": "好", "en": "OK", "pi": "hǎo" },
+      { "ch": "，", "en": ",", "pi": null },
+      { "ch": "谢谢", "en": "thank you", "pi": "xiè xiè" },
+      { "ch": "你", "en": "you", "pi": "nǐ" },
+      { "ch": "。", "en": ".", "pi": null }
+    ]
+  },
+  {
+    "chinese": "不客气。",
+    "english": "You're welcome.",
+    "pinyin": "bù kè qì.",
+    "words": [
+      { "ch": "不", "en": "not", "pi": "bù" },
+      { "ch": "客气", "en": "polite", "pi": "kè qì" },
+      { "ch": "。", "en": ".", "pi": null }
+    ]
+  }
+]

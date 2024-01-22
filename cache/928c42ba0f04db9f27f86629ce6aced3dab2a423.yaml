@@ -1,0 +1,17 @@
+{
+  "chinese": "比爾生氣了並用難聽的話罵迪克。",
+  "english": "Bill got angry and cursed Dick with foul language.",
+  "pinyin": "bǐ ěr shēng qì le bìng yòng nán tīng de huà mà dí kè。",
+  "words": [
+    { "ch": "比", "en": "than", "pi": "bǐ" },
+    { "ch": "爾", "en": "you", "pi": "ěr" },
+    { "ch": "生氣", "en": "angry", "pi": "shēng qì" },
+    { "ch": "了", "en": "already", "pi": "le" },
+    { "ch": "並", "en": "and", "pi": "bìng" },
+    { "ch": "用", "en": "use", "pi": "yòng" },
+    { "ch": "難聽", "en": "foul", "pi": "nán tīng" },
+    { "ch": "的話", "en": "language", "pi": "de huà" },
+    { "ch": "罵", "en": "curse", "pi": "mà" },
+    { "ch": "迪克", "en": "Dick", "pi": "dí kè" }
+  ]
+}

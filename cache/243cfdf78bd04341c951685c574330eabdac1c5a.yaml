@@ -1,0 +1,27 @@
+{
+  "chinese": "听起来不像汤姆。",
+  "english": "Doesn't sound like Tom.",
+  "pinyin": "tīng qǐlái bù xiàng tāngmǔ.",
+  "words": [
+    {
+      "ch": "听起来",
+      "en": "sound",
+      "pi": "tīng qǐlái"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "像",
+      "en": "like",
+      "pi": "xiàng"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāngmǔ"
+    }
+  ]
+}

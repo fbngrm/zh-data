@@ -1,0 +1,47 @@
+{
+  "chinese": "这场会议很重要，不要错过了！",
+  "english": "This meeting is very important, don't miss it!",
+  "pinyin": "zhè chǎng huì yì hěn zhòng yào, bú yào cuò guò le!",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "场",
+      "en": "meeting",
+      "pi": "chǎng"
+    },
+    {
+      "ch": "会议",
+      "en": "conference",
+      "pi": "huì yì"
+    },
+    {
+      "ch": "很",
+      "en": "is",
+      "pi": "hěn"
+    },
+    {
+      "ch": "重要",
+      "en": "important",
+      "pi": "zhòng yào"
+    },
+    {
+      "ch": "不要",
+      "en": "don't",
+      "pi": "bú yào"
+    },
+    {
+      "ch": "错过",
+      "en": "miss",
+      "pi": "cuò guò"
+    },
+    {
+      "ch": "了",
+      "en": "it!",
+      "pi": "le"
+    }
+  ]
+}

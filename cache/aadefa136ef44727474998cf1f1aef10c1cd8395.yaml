@@ -1,0 +1,32 @@
+{
+  "chinese": "我觉得这是蓝色。",
+  "english": "I think this is blue.",
+  "pinyin": "wǒ juéde zhè shì lánsè.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "觉得",
+      "en": "think",
+      "pi": "juéde"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "蓝色",
+      "en": "blue",
+      "pi": "lánsè"
+    }
+  ]
+}

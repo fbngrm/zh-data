@@ -1,0 +1,27 @@
+{
+  "chinese": "我的笔记本电脑运行Ｌｉｎｕｘ。",
+  "english": "My laptop runs Linux.",
+  "pinyin": "wǒ de bǐ jì běn diàn nǎo yùn xíng Línù."
+  "words": [
+    {
+      "ch": "我的",
+      "en": "My",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "笔记本电脑",
+      "en": "laptop",
+      "pi": "bǐ jì běn diàn nǎo"
+    },
+    {
+      "ch": "运行",
+      "en": "runs",
+      "pi": "yùn xíng"
+    },
+    {
+      "ch": "Ｌｉｎｕｘ",
+      "en": "Linux",
+      "pi": "Línù"
+    }
+  ]
+}

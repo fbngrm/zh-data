@@ -1,0 +1,18 @@
+{
+  "chinese": "这本书是给母语不是日语的学生的。",
+  "english": "This book is for students whose native language is not Japanese.",
+  "pinyin": "zhè běn shū shì gěi mǔ yǔ bù shì rì yǔ de xué shēng de。",
+  "words": [
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "本", "en": "book", "pi": "běn"},
+    {"ch": "书", "en": "is", "pi": "shū"},
+    {"ch": "是", "en": "for", "pi": "gěi"},
+    {"ch": "给", "en": "students", "pi": "mǔ"},
+    {"ch": "母语", "en": "whose", "pi": "yǔ"},
+    {"ch": "不是", "en": "native", "pi": "bù shì"},
+    {"ch": "日语", "en": "language", "pi": "rì yǔ"},
+    {"ch": "的", "en": "is", "pi": "de"},
+    {"ch": "学生", "en": "not", "pi": "xué shēng"},
+    {"ch": "的", "en": "Japanese", "pi": "de"}
+  ]
+}

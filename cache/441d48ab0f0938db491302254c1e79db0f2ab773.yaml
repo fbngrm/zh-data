@@ -1,0 +1,37 @@
+{
+  "chinese": "你必须重新启动你的电脑。",
+  "english": "You need to restart your computer.",
+  "pinyin": "Nǐ bìxū chóngxīn qǐdòng nǐ de diànnǎo.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "必须",
+      "en": "need to",
+      "pi": "bìxū"
+    },
+    {
+      "ch": "重新",
+      "en": "restart",
+      "pi": "chóngxīn"
+    },
+    {
+      "ch": "启动",
+      "en": "start",
+      "pi": "qǐdòng"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "电脑",
+      "en": "computer",
+      "pi": "diànnǎo"
+    }
+  ]
+}

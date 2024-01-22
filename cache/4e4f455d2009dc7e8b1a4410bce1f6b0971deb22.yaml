@@ -1,0 +1,32 @@
+{
+  "chinese": "你的父亲是日本人。",
+  "english": "Your father is Japanese.",
+  "pinyin": "Nǐ de fùqīn shì Rìběnrén.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "父亲",
+      "en": "father",
+      "pi": "fùqīn"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "日本人",
+      "en": "Japanese",
+      "pi": "Rìběnrén"
+    }
+  ]
+}

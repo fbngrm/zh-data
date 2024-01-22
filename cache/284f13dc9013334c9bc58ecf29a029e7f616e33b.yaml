@@ -1,0 +1,32 @@
+{
+  "chinese": "你买了多少张图画?",
+  "english": "How many paintings did you buy?",
+  "pinyin": "nǐ mǎi le duōshǎo zhāng túhuà?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "买了",
+      "en": "buy",
+      "pi": "mǎi le"
+    },
+    {
+      "ch": "多少",
+      "en": "how many",
+      "pi": "duōshǎo"
+    },
+    {
+      "ch": "张",
+      "en": "measure word for flat objects",
+      "pi": "zhāng"
+    },
+    {
+      "ch": "图画",
+      "en": "paintings",
+      "pi": "túhuà"
+    }
+  ]
+}

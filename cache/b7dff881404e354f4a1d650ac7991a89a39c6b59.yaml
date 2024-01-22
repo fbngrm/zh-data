@@ -1,0 +1,32 @@
+{
+  "chinese": "她建议他使用脚踏车。",
+  "english": "She suggested he use a bicycle.",
+  "pinyin": "tā jiànyì tā shǐyòng jiǎotàchē。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "建议",
+      "en": "suggest",
+      "pi": "jiànyì"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "使用",
+      "en": "use",
+      "pi": "shǐyòng"
+    },
+    {
+      "ch": "脚踏车",
+      "en": "bicycle",
+      "pi": "jiǎotàchē"
+    }
+  ]
+}

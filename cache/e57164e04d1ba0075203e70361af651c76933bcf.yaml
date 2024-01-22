@@ -1,0 +1,37 @@
+{
+  "chinese": "他一定是汤姆的兄弟。",
+  "english": "He must be Tom's brother.",
+  "pinyin": "tā yīdìng shì tāngmǔ de xiōngdì。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "一定",
+      "en": "must",
+      "pi": "yīdìng"
+    },
+    {
+      "ch": "是",
+      "en": "be",
+      "pi": "shì"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāngmǔ"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "兄弟",
+      "en": "brother",
+      "pi": "xiōngdì"
+    }
+  ]
+}

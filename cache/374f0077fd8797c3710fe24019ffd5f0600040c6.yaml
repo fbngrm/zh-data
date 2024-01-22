@@ -1,0 +1,27 @@
+{
+  "chinese": "你的狗咬人吗？",
+  "english": "Does your dog bite people?",
+  "pinyin": "Nǐ de gǒu yǎo rén ma?",
+  "words": [
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "咬人",
+      "en": "bite people",
+      "pi": "yǎo rén"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

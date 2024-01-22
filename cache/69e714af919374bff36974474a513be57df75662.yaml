@@ -1,0 +1,16 @@
+{
+  "chinese": "凶杀案于凌晨三到五点间发生。",
+  "english": "The homicide occurred between three and five in the morning.",
+  "pinyin": "xiōng shā àn yú líng chén sān dào wǔ diǎn jiān fā shēng。",
+  "words": [
+    {"ch": "凶杀案", "en": "homicide", "pi": "xiōng shā àn"},
+    {"ch": "于", "en": "between", "pi": "yú"},
+    {"ch": "凌晨", "en": "early morning", "pi": "líng chén"},
+    {"ch": "三", "en": "three", "pi": "sān"},
+    {"ch": "到", "en": "to", "pi": "dào"},
+    {"ch": "五", "en": "five", "pi": "wǔ"},
+    {"ch": "点", "en": "o'clock", "pi": "diǎn"},
+    {"ch": "间", "en": "between", "pi": "jiān"},
+    {"ch": "发生", "en": "occur", "pi": "fā shēng"}
+  ]
+}

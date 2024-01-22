@@ -1,0 +1,12 @@
+{
+  "chinese": "汤姆在这里很高兴。",
+  "english": "Tom is very happy here.",
+  "pinyin": "tāng mǔ zài zhè lǐ hěn gāo xìng.",
+  "words": [
+    { "ch": "汤姆", "en": "Tom", "pi": "tāng mǔ" },
+    { "ch": "在", "en": "is", "pi": "zài" },
+    { "ch": "这里", "en": "here", "pi": "zhè lǐ" },
+    { "ch": "很", "en": "very", "pi": "hěn" },
+    { "ch": "高兴", "en": "happy", "pi": "gāo xìng" }
+  ]
+}

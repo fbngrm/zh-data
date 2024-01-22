@@ -1,0 +1,47 @@
+{
+  "chinese": "护士用温度计量了量他的体温。",
+  "english": "The nurse measured his temperature with a thermometer.",
+  "pinyin": "Hùshì yòng wēndù jì liáng le liáng tā de tǐwēn.",
+  "words": [
+    {
+      "ch": "护士",
+      "en": "nurse",
+      "pi": "hùshì"
+    },
+    {
+      "ch": "用",
+      "en": "use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "温度计",
+      "en": "thermometer",
+      "pi": "wēndù jì"
+    },
+    {
+      "ch": "量",
+      "en": "measure",
+      "pi": "liáng"
+    },
+    {
+      "ch": "了",
+      "en": "completed action marker",
+      "pi": "le"
+    },
+    {
+      "ch": "量",
+      "en": "measure",
+      "pi": "liáng"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "体温",
+      "en": "temperature",
+      "pi": "tǐwēn"
+    }
+  ]
+}

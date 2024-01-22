@@ -1,0 +1,42 @@
+{
+  "chinese": "我读完书之后就去睡觉。",
+  "english": "After I finish reading the book, I go to sleep.",
+  "pinyin": "Wǒ dú wán shū zhī hòu jiù qù shuìjiào.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "读完",
+      "en": "finish reading",
+      "pi": "dú wán"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    },
+    {
+      "ch": "之后",
+      "en": "after",
+      "pi": "zhī hòu"
+    },
+    {
+      "ch": "就",
+      "en": "then",
+      "pi": "jiù"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "睡觉",
+      "en": "sleep",
+      "pi": "shuìjiào"
+    }
+  ]
+}

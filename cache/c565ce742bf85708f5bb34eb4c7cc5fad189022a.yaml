@@ -1,0 +1,13 @@
+{ 
+  "chinese": "他在週日打扫他的房间。",
+  "english": "He cleans his room on Sunday.",
+  "pinyin": "tā zài zhōu rì dǎ sǎo tā de fáng jiān。",
+  "words": [
+    { "ch": "他", "en": "he", "pi": "tā" },
+    { "ch": "在", "en": "at", "pi": "zài" },
+    { "ch": "週日", "en": "Sunday", "pi": "zhōu rì" },
+    { "ch": "打扫", "en": "clean", "pi": "dǎ sǎo" },
+    { "ch": "他的", "en": "his", "pi": "tā de" },
+    { "ch": "房間", "en": "room", "pi": "fáng jiān" }
+  ]
+}

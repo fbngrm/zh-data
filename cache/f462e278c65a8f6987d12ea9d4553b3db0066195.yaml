@@ -1,0 +1,47 @@
+{
+  "chinese": "他喝了一整瓶的牛奶。",
+  "english": "He drank a whole bottle of milk.",
+  "pinyin": "tā hē le yī zhěng píng de niú nǎi.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "喝",
+      "en": "drank",
+      "pi": "hē"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "一",
+      "en": "a",
+      "pi": "yī"
+    },
+    {
+      "ch": "整",
+      "en": "whole",
+      "pi": "zhěng"
+    },
+    {
+      "ch": "瓶",
+      "en": "bottle",
+      "pi": "píng"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "牛奶",
+      "en": "milk",
+      "pi": "niú nǎi"
+    }
+  ]
+}

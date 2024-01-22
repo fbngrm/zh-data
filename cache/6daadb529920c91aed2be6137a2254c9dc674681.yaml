@@ -1,0 +1,10 @@
+{
+  "chinese": "今天天气很好。",
+  "english": "The weather is very good today.",
+  "pinyin": "jīn tiān tiān qì hěn hǎo.",
+  "words": [
+    { "ch": "今天", "en": "today", "pi": "jīn tiān" },
+    { "ch": "天气", "en": "weather", "pi": "tiān qì" },
+    { "ch": "很好", "en": "very good", "pi": "hěn hǎo" }
+  ]
+}

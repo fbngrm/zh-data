@@ -1,0 +1,32 @@
+{
+  "chinese": "从机场到旅馆多远？",
+  "english": "How far is it from the airport to the hotel?",
+  "pinyin": "Cóng jīchǎng dào lǚguǎn duō yuǎn?",
+  "words": [
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "机场",
+      "en": "airport",
+      "pi": "jīchǎng"
+    },
+    {
+      "ch": "到",
+      "en": "to",
+      "pi": "dào"
+    },
+    {
+      "ch": "旅馆",
+      "en": "hotel",
+      "pi": "lǚguǎn"
+    },
+    {
+      "ch": "多远",
+      "en": "how far",
+      "pi": "duō yuǎn"
+    }
+  ]
+}

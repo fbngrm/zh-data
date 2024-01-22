@@ -1,0 +1,42 @@
+{
+  "chinese": "我现在要去这家商店。",
+  "english": "I want to go to this store now.",
+  "pinyin": "wǒ xiànzài yào qù zhè jiā shāngdiàn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiànzài"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "去",
+      "en": "to go",
+      "pi": "qù"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "家",
+      "en": "store",
+      "pi": "jiā"
+    },
+    {
+      "ch": "商店",
+      "en": "shop",
+      "pi": "shāngdiàn"
+    }
+  ]
+}

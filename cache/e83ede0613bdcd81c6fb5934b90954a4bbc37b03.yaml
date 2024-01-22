@@ -1,0 +1,20 @@
+{
+  "chinese": "就算是全世界跑得最快的人，也要吃饱了才跑得动。",
+  "english": "Even the fastest runner in the world needs to eat before they can run.",
+  "pinyin": "jiù suàn shì quán shì jiè pǎo dé zuì kuài de rén, yě yào chī bǎo le cái pǎo dé dòng。",
+  "words": [
+    {"ch": "就算", "en": "Even if", "pi": "jiù suàn"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "全世界", "en": "the whole world", "pi": "quán shì jiè"},
+    {"ch": "跑得", "en": "run", "pi": "pǎo dé"},
+    {"ch": "最快", "en": "fastest", "pi": "zuì kuài"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "人", "en": "person", "pi": "rén"},
+    {"ch": "也", "en": "also", "pi": "yě"},
+    {"ch": "要", "en": "need", "pi": "yào"},
+    {"ch": "吃饱", "en": "eat", "pi": "chī bǎo"},
+    {"ch": "了", "en": "before", "pi": "le"},
+    {"ch": "才", "en": "can", "pi": "cái"},
+    {"ch": "跑得动", "en": "run", "pi": "pǎo dé dòng"}
+  ]
+}

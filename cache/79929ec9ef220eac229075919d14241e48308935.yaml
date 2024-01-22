@@ -1,0 +1,47 @@
+{
+  "chinese": "您的孩子是男是女？",
+  "english": "Is your child a boy or a girl?",
+  "pinyin": "Nín de háizi shì nán shì nǚ?",
+  "words": [
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "孩子",
+      "en": "child",
+      "pi": "háizi"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "男",
+      "en": "boy",
+      "pi": "nán"
+    },
+    {
+      "ch": "是",
+      "en": "or",
+      "pi": "shì"
+    },
+    {
+      "ch": "女",
+      "en": "girl",
+      "pi": "nǚ"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "?"
+    }
+  ]
+}

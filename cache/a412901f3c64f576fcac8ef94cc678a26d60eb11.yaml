@@ -1,0 +1,37 @@
+{
+  "chinese": "我拿了两杯咖啡。",
+  "english": "I took two cups of coffee.",
+  "pinyin": "wǒ ná le liǎng bēi kāfēi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "拿",
+      "en": "take",
+      "pi": "ná"
+    },
+    {
+      "ch": "了",
+      "en": "took",
+      "pi": "le"
+    },
+    {
+      "ch": "两",
+      "en": "two",
+      "pi": "liǎng"
+    },
+    {
+      "ch": "杯",
+      "en": "cups",
+      "pi": "bēi"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kāfēi"
+    }
+  ]
+}

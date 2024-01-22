@@ -1,0 +1,42 @@
+{
+  "chinese": "你最近有她的音讯吗？",
+  "english": "Have you heard from her recently?",
+  "pinyin": "nǐ zuìjìn yǒu tā de yīnxùn ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "最近",
+      "en": "recently",
+      "pi": "zuìjìn"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "的",
+      "en": "possessive marker",
+      "pi": "de"
+    },
+    {
+      "ch": "音讯",
+      "en": "news",
+      "pi": "yīnxùn"
+    },
+    {
+      "ch": "吗",
+      "en": "question marker",
+      "pi": "ma"
+    }
+  ]
+}

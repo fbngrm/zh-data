@@ -1,0 +1,32 @@
+{
+  "chinese": "约翰现在在做什么？",
+  "english": "What is John doing now?",
+  "pinyin": "Yuē hàn xiànzài zài zuò shénme?",
+  "words": [
+    {
+      "ch": "约翰",
+      "en": "John",
+      "pi": "Yuē hàn"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiànzài"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "做",
+      "en": "doing",
+      "pi": "zuò"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    }
+  ]
+}

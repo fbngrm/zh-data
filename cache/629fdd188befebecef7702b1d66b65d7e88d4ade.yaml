@@ -1,0 +1,42 @@
+{
+  "chinese": "中国的人口已经超过了十三亿。",
+  "english": "China's population has exceeded 1.3 billion.",
+  "pinyin": "Zhōngguó de rénkǒu yǐjīng chāoguòle shísān yì.",
+  "words": [
+    {
+      "ch": "中国",
+      "en": "China",
+      "pi": "Zhōngguó"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "人口",
+      "en": "population",
+      "pi": "rénkǒu"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐjīng"
+    },
+    {
+      "ch": "超过",
+      "en": "exceeded",
+      "pi": "chāoguò"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "十三亿",
+      "en": "1.3 billion",
+      "pi": "shísān yì"
+    }
+  ]
+}

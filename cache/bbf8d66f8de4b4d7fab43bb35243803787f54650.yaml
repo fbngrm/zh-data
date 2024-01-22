@@ -1,0 +1,14 @@
+{
+  "chinese": "当我到的时候，她已经走了。",
+  "english": "When I arrived, she had already left.",
+  "pinyin": "dāng wǒ dào de shíhou, tā yǐjīng zǒu le。",
+  "words": [
+    {"ch": "当", "en": "When", "pi": "dāng"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "到", "en": "arrived", "pi": "dào"},
+    {"ch": "的时候", "en": "when", "pi": "de shíhou"},
+    {"ch": "她", "en": "she", "pi": "tā"},
+    {"ch": "已经", "en": "already", "pi": "yǐjīng"},
+    {"ch": "走了", "en": "left", "pi": "zǒu le"}
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "这个房间被红色的灯照亮了。",
+  "english": "This room is illuminated by a red light.",
+  "pinyin": "zhè gè fáng jiān bèi hóng sè de dēng zhào liàng le。",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "房间",
+      "en": "room",
+      "pi": "fáng jiān"
+    },
+    {
+      "ch": "被",
+      "en": "by",
+      "pi": "bèi"
+    },
+    {
+      "ch": "红色的",
+      "en": "red",
+      "pi": "hóng sè de"
+    },
+    {
+      "ch": "灯",
+      "en": "light",
+      "pi": "dēng"
+    },
+    {
+      "ch": "照亮了",
+      "en": "illuminated",
+      "pi": "zhào liàng le"
+    }
+  ]
+}

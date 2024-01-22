@@ -1,0 +1,19 @@
+{
+  "chinese": "在你的老家，你坐地铁、公交车还是出租车？",
+  "english": "In your hometown, do you take the subway, bus or taxi?",
+  "pinyin": "zài nǐ de lǎo jiā, nǐ zuò dì tiě, gōng jiāo chē hái shì chū zū chē?",
+  "words": [
+    {"ch": "在", "en": "at, on, in", "pi": "zài"},
+    {"ch": "你的", "en": "your", "pi": "nǐ de"},
+    {"ch": "老家", "en": "hometown", "pi": "lǎo jiā"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "坐", "en": "take (a transportation)", "pi": "zuò"},
+    {"ch": "地铁", "en": "subway", "pi": "dì tiě"},
+    {"ch": "、", "en": "or", "pi": ""},
+    {"ch": "公交车", "en": "bus", "pi": "gōng jiāo chē"},
+    {"ch": "还是", "en": "or", "pi": "hái shì"},
+    {"ch": "出租车", "en": "taxi", "pi": "chū zū chē"},
+    {"ch": "？", "en": "?", "pi": ""}
+  ]
+}

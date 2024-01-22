@@ -1,0 +1,37 @@
+{
+  "chinese": "公园里有太多人了。",
+  "english": "There are too many people in the park.",
+  "pinyin": "gōng yuán lǐ yǒu tài duō rén le.",
+  "words": [
+    {
+      "ch": "公园",
+      "en": "park",
+      "pi": "gōng yuán"
+    },
+    {
+      "ch": "里",
+      "en": "inside",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "太多",
+      "en": "too many",
+      "pi": "tài duō"
+    },
+    {
+      "ch": "人",
+      "en": "people",
+      "pi": "rén"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

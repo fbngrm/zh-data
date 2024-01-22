@@ -1,0 +1,47 @@
+{
+  "chinese": "不遵守命名规则会导致解析错误。",
+  "english": "Not following naming conventions can lead to parsing errors.",
+  "pinyin": "bù zūn shǒu mìng míng guī zé huì dǎo zhì jiě xī cuò wù。",
+  "words": [
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "遵守",
+      "en": "follow",
+      "pi": "zūn shǒu"
+    },
+    {
+      "ch": "命名",
+      "en": "naming",
+      "pi": "mìng míng"
+    },
+    {
+      "ch": "规则",
+      "en": "conventions",
+      "pi": "guī zé"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "导致",
+      "en": "lead to",
+      "pi": "dǎo zhì"
+    },
+    {
+      "ch": "解析",
+      "en": "parsing",
+      "pi": "jiě xī"
+    },
+    {
+      "ch": "错误",
+      "en": "errors",
+      "pi": "cuò wù"
+    }
+  ]
+}

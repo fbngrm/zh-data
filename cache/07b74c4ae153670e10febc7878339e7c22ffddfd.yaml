@@ -1,0 +1,16 @@
+{
+    "chinese": "经理斥责了那个正重击桌子的男子。",
+    "english": "The manager reprimanded the man who was pounding the table.",
+    "pinyin": "jīng lǐ chì zé le nà gè zhèng zhòng jī zhuō zi de nán zǐ。",
+    "words": [
+        {"ch": "经理", "en": "manager", "pi": "jīng lǐ"},
+        {"ch": "斥责", "en": "reprimand", "pi": "chì zé"},
+        {"ch": "了", "en": "le", "pi": "le"},
+        {"ch": "那个", "en": "the", "pi": "nà gè"},
+        {"ch": "正", "en": "who", "pi": "zhèng"},
+        {"ch": "重击", "en": "pound", "pi": "zhòng jī"},
+        {"ch": "桌子", "en": "table", "pi": "zhuō zi"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "男子", "en": "man", "pi": "nán zǐ"}
+    ]
+}

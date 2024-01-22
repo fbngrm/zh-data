@@ -1,0 +1,22 @@
+{
+  "chinese": "麻烦您了。",
+  "english": "Sorry to trouble you.",
+  "pinyin": "má fan nín le.",
+  "words": [
+    {
+      "ch": "麻烦",
+      "en": "trouble",
+      "pi": "má fan"
+    },
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

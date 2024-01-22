@@ -1,0 +1,32 @@
+{
+  "chinese": "真的到处都是吗？",
+  "english": "Is it really everywhere?",
+  "pinyin": "zhēn de dào chù dōu shì ma?",
+  "words": [
+    {
+      "ch": "真的",
+      "en": "really",
+      "pi": "zhēn de"
+    },
+    {
+      "ch": "到处",
+      "en": "everywhere",
+      "pi": "dào chù"
+    },
+    {
+      "ch": "都",
+      "en": "it",
+      "pi": "dōu"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

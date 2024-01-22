@@ -1,0 +1,37 @@
+{
+  "chinese": "除了雨天我每天都散步。",
+  "english": "I walk every day except when it rains.",
+  "pinyin": "chúle yǔ tiān wǒ měi tiān dōu sàn bù。",
+  "words": [
+    {
+      "ch": "除了",
+      "en": "except",
+      "pi": "chúle"
+    },
+    {
+      "ch": "雨天",
+      "en": "rainy day",
+      "pi": "yǔ tiān"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "都",
+      "en": "always",
+      "pi": "dōu"
+    },
+    {
+      "ch": "散步",
+      "en": "to walk",
+      "pi": "sàn bù"
+    }
+  ]
+}

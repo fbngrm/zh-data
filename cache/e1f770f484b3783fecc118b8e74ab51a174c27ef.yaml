@@ -1,0 +1,32 @@
+{
+  "chinese": "它们中没有我要的。",
+  "english": "None of them have what I want.",
+  "pinyin": "Tāmen zhōng méiyǒu wǒ yào de.",
+  "words": [
+    {
+      "ch": "它们",
+      "en": "They",
+      "pi": "tāmen"
+    },
+    {
+      "ch": "中",
+      "en": "among",
+      "pi": "zhōng"
+    },
+    {
+      "ch": "没有",
+      "en": "do not have",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "要的",
+      "en": "want",
+      "pi": "yào de"
+    }
+  ]
+}

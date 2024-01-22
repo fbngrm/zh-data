@@ -1,0 +1,32 @@
+{
+  "chinese": "不是，这不是我的车。",
+  "english": "No, this is not my car.",
+  "pinyin": "Bùshì, zhè bùshì wǒ de chē.",
+  "words": [
+    {
+      "ch": "不是",
+      "en": "No",
+      "pi": "bùshì"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "不是",
+      "en": "not",
+      "pi": "bùshì"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "车",
+      "en": "car",
+      "pi": "chē"
+    }
+  ]
+}

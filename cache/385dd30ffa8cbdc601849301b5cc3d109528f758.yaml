@@ -1,0 +1,42 @@
+{
+  "chinese": "信封上写着小丁爸爸的名字。",
+  "english": "The envelope is marked with the name of Mr. Xiaoding.",
+  "pinyin": "Xìnfēng shàng xiězhe xiǎo dīng bàba de míngzì.",
+  "words": [
+    {
+      "ch": "信封",
+      "en": "envelope",
+      "pi": "xìnfēng"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "写着",
+      "en": "marked with",
+      "pi": "xiězhe"
+    },
+    {
+      "ch": "小丁",
+      "en": "Xiaoding",
+      "pi": "xiǎo dīng"
+    },
+    {
+      "ch": "爸爸",
+      "en": "father",
+      "pi": "bàba"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míngzì"
+    }
+  ]
+}

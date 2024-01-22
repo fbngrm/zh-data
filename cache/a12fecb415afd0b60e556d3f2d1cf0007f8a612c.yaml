@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆甚至没有驾驶证。",
+  "english": "Tom doesn't even have a driver's license.",
+  "pinyin": "Tāng mǔ shènzhì méiyǒu jiàshǐzhèng.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "甚至",
+      "en": "even",
+      "pi": "shènzhì"
+    },
+    {
+      "ch": "没有",
+      "en": "doesn't have",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "驾驶证",
+      "en": "driver's license",
+      "pi": "jiàshǐzhèng"
+    }
+  ]
+}

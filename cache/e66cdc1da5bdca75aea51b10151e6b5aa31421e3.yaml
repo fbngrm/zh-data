@@ -1,0 +1,42 @@
+{
+  "chinese": "这里有人知道汤姆住在哪里吗？",
+  "english": "Does anyone here know where Tom lives?",
+  "pinyin": "zhè lǐ yǒu rén zhī dào tāng mǔ zhù zài nǎ lǐ ma?",
+  "words": [
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "有人",
+      "en": "anyone",
+      "pi": "yǒu rén"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "住在",
+      "en": "live",
+      "pi": "zhù zài"
+    },
+    {
+      "ch": "哪里",
+      "en": "where",
+      "pi": "nǎ lǐ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

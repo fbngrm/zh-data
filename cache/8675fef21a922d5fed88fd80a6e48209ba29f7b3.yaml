@@ -1,0 +1,32 @@
+{
+  "chinese": "我们刚刚吃完了早饭。",
+  "english": "We just finished breakfast.",
+  "pinyin": "wǒmen gānggāng chīwánle zǎofàn.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "刚刚",
+      "en": "just",
+      "pi": "gānggāng"
+    },
+    {
+      "ch": "吃完",
+      "en": "finished",
+      "pi": "chīwán"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "早饭",
+      "en": "breakfast",
+      "pi": "zǎofàn"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "你有沒有看過那部電影？",
+  "english": "Have you seen that movie?",
+  "pinyin": "Nǐ yǒu méiyǒu kànguò nà bù diànyǐng?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "有沒有", "en": "have you", "pi": "yǒu méiyǒu"},
+    {"ch": "看過", "en": "seen", "pi": "kànguò"},
+    {"ch": "那", "en": "that", "pi": "nà"},
+    {"ch": "部", "en": "movie", "pi": "bù"},
+    {"ch": "電影", "en": "movie", "pi": "diànyǐng"}
+  ]
+}

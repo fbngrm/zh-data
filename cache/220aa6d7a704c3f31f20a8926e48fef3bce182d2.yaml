@@ -1,0 +1,37 @@
+{
+  "chinese": "对不起，我错开了你的信。",
+  "english": "I'm sorry, I missed your letter.",
+  "pinyin": "duì bù qǐ, wǒ cuò kāi le nǐ de xìn。",
+  "words": [
+    {
+      "ch": "对不起",
+      "en": "I'm sorry",
+      "pi": "duì bù qǐ"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "错开",
+      "en": "miss",
+      "pi": "cuò kāi"
+    },
+    {
+      "ch": "了",
+      "en": "your",
+      "pi": "le"
+    },
+    {
+      "ch": "你的",
+      "en": "letter",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "信",
+      "en": "信",
+      "pi": "xìn"
+    }
+  ]
+}

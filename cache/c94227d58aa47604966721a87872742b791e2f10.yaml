@@ -1,0 +1,32 @@
+{
+  "chinese": "她搭计程车去医院。",
+  "english": "She took a taxi to the hospital.",
+  "pinyin": "Tā dā jìchéngchē qù yīyuàn.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "Tā"
+    },
+    {
+      "ch": "搭",
+      "en": "took",
+      "pi": "dā"
+    },
+    {
+      "ch": "计程车",
+      "en": "taxi",
+      "pi": "jìchéngchē"
+    },
+    {
+      "ch": "去",
+      "en": "to",
+      "pi": "qù"
+    },
+    {
+      "ch": "医院",
+      "en": "hospital",
+      "pi": "yīyuàn"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "他的收入比我多三倍。",
+  "english": "His income is three times more than mine.",
+  "pinyin": "tā de shōurù bǐ wǒ duō sān bèi.",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "的", "en": "de", "pi": "de"},
+    {"ch": "收入", "en": "income", "pi": "shōurù"},
+    {"ch": "比", "en": "compared to", "pi": "bǐ"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "多", "en": "more", "pi": "duō"},
+    {"ch": "三倍", "en": "three times", "pi": "sān bèi"}
+  ]
+}

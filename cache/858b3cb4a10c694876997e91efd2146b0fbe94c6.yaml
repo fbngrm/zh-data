@@ -1,0 +1,32 @@
+{
+  "chinese": "昨天我买了两个馒头。",
+  "english": "Yesterday I bought two steamed buns.",
+  "pinyin": "Zuótiān wǒ mǎile liǎng gè mántou.",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "Yesterday",
+      "pi": "Zuótiān"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "买了",
+      "en": "bought",
+      "pi": "mǎile"
+    },
+    {
+      "ch": "两个",
+      "en": "two",
+      "pi": "liǎng gè"
+    },
+    {
+      "ch": "馒头",
+      "en": "steamed buns",
+      "pi": "mántou"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我父亲没有吃很多的水果。",
+  "english": "My father did not eat a lot of fruit.",
+  "pinyin": "Wǒ fùqīn méiyǒu chī hěnduō de shuǐguǒ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "Wǒ"
+    },
+    {
+      "ch": "父亲",
+      "en": "father",
+      "pi": "fùqīn"
+    },
+    {
+      "ch": "没有",
+      "en": "did not",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "很多",
+      "en": "a lot of",
+      "pi": "hěnduō"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "水果",
+      "en": "fruit",
+      "pi": "shuǐguǒ"
+    }
+  ]
+}

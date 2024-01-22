@@ -1,0 +1,27 @@
+{
+  "chinese": "老鳥啁啾，小鳥吱吱叫。",
+  "english": "The old bird chirps, the little bird chirps.",
+  "pinyin": "lǎo niǎo zhāo jiū, xiǎo niǎo zhī zhī jiào.",
+  "words": [
+    {
+      "ch": "老鳥",
+      "en": "old bird",
+      "pi": "lǎo niǎo"
+    },
+    {
+      "ch": "啁啾",
+      "en": "chirps",
+      "pi": "zhāo jiū"
+    },
+    {
+      "ch": "小鳥",
+      "en": "little bird",
+      "pi": "xiǎo niǎo"
+    },
+    {
+      "ch": "吱吱叫",
+      "en": "chirps",
+      "pi": "zhī zhī jiào"
+    }
+  ]
+}

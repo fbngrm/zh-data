@@ -1,0 +1,42 @@
+{
+  "chinese": "我搭的飞机在六点钟起飞。",
+  "english": "The plane I took off at six o'clock.",
+  "pinyin": "wǒ dā de fēijī zài liù diǎn zhōng qǐfēi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "搭",
+      "en": "take",
+      "pi": "dā"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "飞机",
+      "en": "plane",
+      "pi": "fēijī"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "六点钟",
+      "en": "six o'clock",
+      "pi": "liù diǎn zhōng"
+    },
+    {
+      "ch": "起飞",
+      "en": "take off",
+      "pi": "qǐfēi"
+    }
+  ]
+}

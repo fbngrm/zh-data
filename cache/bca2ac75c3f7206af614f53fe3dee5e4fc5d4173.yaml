@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆不是一个好司机。",
+  "english": "Tom is not a good driver.",
+  "pinyin": "Tāng mǔ bùshì yīgè hǎo sījī.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "不是",
+      "en": "is not",
+      "pi": "bùshì"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yīgè"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "司机",
+      "en": "driver",
+      "pi": "sījī"
+    }
+  ]
+}

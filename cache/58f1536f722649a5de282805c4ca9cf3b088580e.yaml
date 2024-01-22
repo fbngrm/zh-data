@@ -1,0 +1,18 @@
+{
+  "chinese": "你的对手有四人。你一定会输的。",
+  "english": "Your opponent has four people. You will definitely lose.",
+  "pinyin": "nǐ de duì shǒu yǒu sì rén. nǐ yī dìng huì shū de.",
+  "words": [
+    {"ch": "你的", "en": "your", "pi": "nǐ de"},
+    {"ch": "对手", "en": "opponent", "pi": "duì shǒu"},
+    {"ch": "有", "en": "has", "pi": "yǒu"},
+    {"ch": "四人", "en": "four people", "pi": "sì rén"},
+    {"ch": "。", "en": ".", "pi": ""},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "一定", "en": "definitely", "pi": "yī dìng"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "输", "en": "lose", "pi": "shū"},
+    {"ch": "的", "en": "", "pi": "de"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}

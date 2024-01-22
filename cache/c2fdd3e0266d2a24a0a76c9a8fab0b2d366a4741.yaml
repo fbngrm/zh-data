@@ -1,0 +1,32 @@
+{
+  "chinese": "该病人正逐步康复。",
+  "english": "The patient is gradually recovering.",
+  "pinyin": "gāi bìng rén zhèng zú bù kāng fù。",
+  "words": [
+    {
+      "ch": "该",
+      "en": "The",
+      "pi": "gāi"
+    },
+    {
+      "ch": "病人",
+      "en": "patient",
+      "pi": "bìng rén"
+    },
+    {
+      "ch": "正",
+      "en": "is",
+      "pi": "zhèng"
+    },
+    {
+      "ch": "逐步",
+      "en": "gradually",
+      "pi": "zú bù"
+    },
+    {
+      "ch": "康复",
+      "en": "recovering",
+      "pi": "kāng fù"
+    }
+  ]
+}

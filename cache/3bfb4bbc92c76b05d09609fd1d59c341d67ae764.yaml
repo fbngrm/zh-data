@@ -1,0 +1,11 @@
+{ 
+  "chinese": "我昨晚真尽兴。",
+  "english": "I had a great time last night.",
+  "pinyin": "wǒ zuó wǎn zhēn jìn xīng。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "昨晚", "en": "last night", "pi": "zuó wǎn"},
+    {"ch": "真", "en": "really", "pi": "zhēn"},
+    {"ch": "尽兴", "en": "have a great time", "pi": "jìn xīng"}
+  ]
+}

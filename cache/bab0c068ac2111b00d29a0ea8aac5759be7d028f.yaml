@@ -1,0 +1,42 @@
+{
+  "chinese": "敵人在工廠投下了很多炸彈。",
+  "english": "The enemy dropped many bombs at the factory.",
+  "pinyin": "dí rén zài gōng chǎng tóu xià le hěn duō zhà dàn。",
+  "words": [
+    {
+      "ch": "敵人",
+      "en": "enemy",
+      "pi": "dí rén"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "工廠",
+      "en": "factory",
+      "pi": "gōng chǎng"
+    },
+    {
+      "ch": "投下",
+      "en": "dropped",
+      "pi": "tóu xià"
+    },
+    {
+      "ch": "了",
+      "en": "many",
+      "pi": "le"
+    },
+    {
+      "ch": "很多",
+      "en": "bombs",
+      "pi": "hěn duō"
+    },
+    {
+      "ch": "炸彈",
+      "en": "bombs",
+      "pi": "zhà dàn"
+    }
+  ]
+}

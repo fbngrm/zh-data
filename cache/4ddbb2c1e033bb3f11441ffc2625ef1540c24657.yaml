@@ -1,0 +1,19 @@
+{
+  "chinese": "約翰的母親看起來很年輕，別人不細看倒以為她是約翰的姐姐。",
+  "english": "John's mother looks very young, so if people don't look carefully, they might think she is John's sister.",
+  "pinyin": "Yuēhàn de mǔqīn kàn qǐlái hěn niánqīng, biérén bù xì kàn dǎo yǐwéi tā shì Yuēhàn de jiějiě。",
+  "words":[
+      { "ch":"約翰的", "en":"John's", "pi":"Yuēhàn de" },
+      { "ch":"母親", "en":"mother", "pi":"mǔqīn" },
+      { "ch":"看起來", "en":"looks", "pi":"kàn qǐlái" },
+      { "ch":"很", "en":"very", "pi":"hěn" },
+      { "ch":"年輕", "en":"young", "pi":"niánqīng" },
+      { "ch":"，", "en":",", "pi":"" },
+      { "ch":"別人", "en":"people", "pi":"biérén" },
+      { "ch":"不細看", "en":"don't look carefully", "pi":"bù xì kàn" },
+      { "ch":"倒以為", "en":"might think", "pi":"dǎo yǐwéi" },
+      { "ch":"她是", "en":"she is", "pi":"tā shì" },
+      { "ch":"姐姐", "en":"sister", "pi":"jiějiě" },
+      { "ch":"。", "en":".", "pi":"" }
+  ]
+}

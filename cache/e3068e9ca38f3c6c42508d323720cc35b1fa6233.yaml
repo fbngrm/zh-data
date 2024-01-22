@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆告诉玛丽她不能做那件事。",
+  "english": "Tom told Mary that she cannot do that thing.",
+  "pinyin": "Tāng mǔ gàosù mǎ lì tā bùnéng zuò nà jiàn shì。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "告诉",
+      "en": "told",
+      "pi": "gàosù"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "不能",
+      "en": "cannot",
+      "pi": "bùnéng"
+    },
+    {
+      "ch": "做",
+      "en": "do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "那件事",
+      "en": "that thing",
+      "pi": "nà jiàn shì"
+    }
+  ]
+}

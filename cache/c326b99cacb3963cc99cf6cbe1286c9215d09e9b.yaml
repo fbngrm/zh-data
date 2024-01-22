@@ -1,0 +1,32 @@
+{
+  "chinese": "這條河裏已經沒有魚了。",
+  "english": "There are no fish in this river anymore.",
+  "pinyin": "zhè tiáo hé lǐ yǐ jīng méi yǒu yú le。",
+  "words": [
+    {
+      "ch": "這條",
+      "en": "this",
+      "pi": "zhè tiáo"
+    },
+    {
+      "ch": "河裏",
+      "en": "river",
+      "pi": "hé lǐ"
+    },
+    {
+      "ch": "已經",
+      "en": "already",
+      "pi": "yǐ jīng"
+    },
+    {
+      "ch": "沒有",
+      "en": "no",
+      "pi": "méi yǒu"
+    },
+    {
+      "ch": "魚了",
+      "en": "fish anymore",
+      "pi": "yú le"
+    }
+  ]
+}

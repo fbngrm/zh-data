@@ -1,0 +1,32 @@
+{
+  "chinese": "这张书桌是我的。",
+  "english": "This desk is mine.",
+  "pinyin": "zhè zhāng shū zhuō shì wǒ de.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "张",
+      "en": "desk",
+      "pi": "zhāng"
+    },
+    {
+      "ch": "书桌",
+      "en": "desk",
+      "pi": "shū zhuō"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我的",
+      "en": "mine",
+      "pi": "wǒ de"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "昨天的天气很热。",
+  "english": "Yesterday's weather was hot.",
+  "pinyin": "zuótiān de tiānqì hěn rè.",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "Yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiānqì"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "热",
+      "en": "hot",
+      "pi": "rè"
+    }
+  ]
+}

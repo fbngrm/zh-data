@@ -1,0 +1,32 @@
+{
+  "chinese": "上星期我非常地忙。",
+  "english": "Last week I was very busy.",
+  "pinyin": "Shàng xīngqī wǒ fēicháng de máng.",
+  "words": [
+    {
+      "ch": "上星期",
+      "en": "Last week",
+      "pi": "shàng xīngqī"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "非常",
+      "en": "very",
+      "pi": "fēicháng"
+    },
+    {
+      "ch": "地",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "忙",
+      "en": "busy",
+      "pi": "máng"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "他一直住在東京。",
+  "english": "He has always lived in Tokyo.",
+  "pinyin": "tā yīzhí zhù zài dōngjīng。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "一直",
+      "en": "always",
+      "pi": "yīzhí"
+    },
+    {
+      "ch": "住",
+      "en": "live",
+      "pi": "zhù"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "東京",
+      "en": "Tokyo",
+      "pi": "dōngjīng"
+    }
+  ]
+}

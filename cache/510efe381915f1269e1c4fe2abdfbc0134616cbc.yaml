@@ -1,0 +1,37 @@
+{
+  "chinese": "山本是我的一个朋友。",
+  "english": "Shan Ben is my friend.",
+  "pinyin": "Shān Běn shì wǒ de yī gè péng yǒu.",
+  "words": [
+    {
+      "ch": "山本",
+      "en": "Shan Ben",
+      "pi": "Shān Běn"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我",
+      "en": "my",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "的",
+      "en": "a",
+      "pi": "de"
+    },
+    {
+      "ch": "一个",
+      "en": "friend",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "朋友",
+      "en": "friend",
+      "pi": "péng yǒu"
+    }
+  ]
+}

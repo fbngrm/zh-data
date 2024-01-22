@@ -1,0 +1,32 @@
+{
+  "chinese": "他的衣服总是很臭。",
+  "english": "His clothes always smell bad.",
+  "pinyin": "tā de yīfu zǒng shì hěn chòu.",
+  "words": [
+    {
+      "ch": "他的",
+      "en": "His",
+      "pi": "tā de"
+    },
+    {
+      "ch": "衣服",
+      "en": "clothes",
+      "pi": "yīfu"
+    },
+    {
+      "ch": "总是",
+      "en": "always",
+      "pi": "zǒng shì"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "臭",
+      "en": "smell bad",
+      "pi": "chòu"
+    }
+  ]
+}

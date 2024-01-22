@@ -1,0 +1,37 @@
+{
+  "chinese": "欢迎回来。我们想你了!",
+  "english": "Welcome back. We missed you!",
+  "pinyin": "huān yíng huí lái. wǒ men xiǎng nǐ le!",
+  "words": [
+    {
+      "ch": "欢迎",
+      "en": "Welcome",
+      "pi": "huān yíng"
+    },
+    {
+      "ch": "回来",
+      "en": "back",
+      "pi": "huí lái"
+    },
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "想",
+      "en": "missed",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

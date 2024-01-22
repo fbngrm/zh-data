@@ -1,0 +1,13 @@
+{
+  "chinese": "你的朋友来得很晚，不是么？",
+  "english": "Your friend came very late, isn't it?",
+  "pinyin": "nǐ de péngyǒu lái dé hěn wǎn, bù shì me?",
+  "words": [
+    {"ch": "你的", "en": "Your", "pi": "nǐ de"},
+    {"ch": "朋友", "en": "friend", "pi": "péngyǒu"},
+    {"ch": "来", "en": "came", "pi": "lái"},
+    {"ch": "得", "en": "very", "pi": "dé"},
+    {"ch": "很晚", "en": "late", "pi": "hěn wǎn"},
+    {"ch": "不是么", "en": "isn't it?", "pi": "bù shì me"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我上错车了。",
+  "english": "I took the wrong car.",
+  "pinyin": "wǒ shàng cuò chē le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "上",
+      "en": "take",
+      "pi": "shàng"
+    },
+    {
+      "ch": "错",
+      "en": "wrong",
+      "pi": "cuò"
+    },
+    {
+      "ch": "车",
+      "en": "car",
+      "pi": "chē"
+    },
+    {
+      "ch": "了",
+      "en": "finished",
+      "pi": "le"
+    }
+  ]
+}

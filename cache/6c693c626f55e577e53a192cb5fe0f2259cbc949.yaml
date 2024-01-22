@@ -1,0 +1,12 @@
+{
+  "chinese": "这是你的预约卡。",
+  "english": "This is your appointment card.",
+  "pinyin": "zhè shì nǐ de yù yuē kǎ。",
+  "words": [
+    {"ch": "这", "en": "This", "pi": "zhè"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "你", "en": "your", "pi": "nǐ"},
+    {"ch": "的", "en": "appointment", "pi": "de"},
+    {"ch": "预约卡", "en": "card", "pi": "yù yuē kǎ"}
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "科学和数学我都喜欢。",
+  "english": "I like both science and math.",
+  "pinyin": "kē xué hé shù xué wǒ dōu xǐ huān.",
+  "words": [
+    {
+      "ch": "科学",
+      "en": "science",
+      "pi": "kē xué"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "数学",
+      "en": "math",
+      "pi": "shù xué"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "都",
+      "en": "both",
+      "pi": "dōu"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐ huān"
+    }
+  ]
+}

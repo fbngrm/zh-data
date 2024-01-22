@@ -1,0 +1,14 @@
+{
+  "chinese": "他把我误认为是我的母亲。",
+  "english": "He mistook me for my mother.",
+  "pinyin": "tā bǎ wǒ wù rènwéi shì wǒ de mǔqīn.",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "把", "en": "mistook", "pi": "bǎ"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "误认为", "en": "mistook for", "pi": "wù rènwéi"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "母亲", "en": "mother", "pi": "mǔqīn"}
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "星期三下午我在。",
+  "english": "I am here on Wednesday afternoon.",
+  "pinyin": "Xīng qī sān xià wǔ wǒ zài.",
+  "words": [
+    {
+      "ch": "星期三",
+      "en": "Wednesday",
+      "pi": "Xīng qī sān"
+    },
+    {
+      "ch": "下午",
+      "en": "afternoon",
+      "pi": "xià wǔ"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "am",
+      "pi": "zài"
+    }
+  ]
+}

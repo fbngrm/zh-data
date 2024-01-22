@@ -1,0 +1,12 @@
+{
+  "chinese": "你弟弟会开车吗？", 
+  "english": "Can your younger brother drive?", 
+  "pinyin": "nǐ dìdì huì kāichē ma?", 
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "弟弟", "en": "younger brother", "pi": "dìdì"},
+    {"ch": "会", "en": "can", "pi": "huì"},
+    {"ch": "开车", "en": "drive", "pi": "kāichē"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

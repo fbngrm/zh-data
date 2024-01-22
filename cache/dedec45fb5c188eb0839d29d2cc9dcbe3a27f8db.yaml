@@ -1,0 +1,42 @@
+{
+  "chinese": "我想给汤姆留个言",
+  "english": "I want to leave a message for Tom",
+  "pinyin": "wǒ xiǎng gěi tāng mǔ liú gè yán",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "给",
+      "en": "to",
+      "pi": "gěi"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "留",
+      "en": "leave",
+      "pi": "liú"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "言",
+      "en": "message",
+      "pi": "yán"
+    }
+  ]
+}

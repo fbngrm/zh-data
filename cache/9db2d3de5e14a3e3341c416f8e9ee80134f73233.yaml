@@ -1,0 +1,37 @@
+{
+  "chinese": "网球在学生中非常流行。",
+  "english": "Tennis is very popular among students.",
+  "pinyin": "wǎng qiú zài xué shēng zhōng fēi cháng liú xíng.",
+  "words": [
+    {
+      "ch": "网球",
+      "en": "tennis",
+      "pi": "wǎng qiú"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "学生",
+      "en": "students",
+      "pi": "xué shēng"
+    },
+    {
+      "ch": "中",
+      "en": "among",
+      "pi": "zhōng"
+    },
+    {
+      "ch": "非常",
+      "en": "very",
+      "pi": "fēi cháng"
+    },
+    {
+      "ch": "流行",
+      "en": "popular",
+      "pi": "liú xíng"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "我爸爸给我了游戏。",
+  "english": "My dad gave me a game.",
+  "pinyin": "wǒ bàba gěi wǒ le yóuxì。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "爸爸",
+      "en": "dad",
+      "pi": "bàba"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "了",
+      "en": "a particle indicating a changed situation",
+      "pi": "le"
+    },
+    {
+      "ch": "游戏",
+      "en": "game",
+      "pi": "yóuxì"
+    }
+  ]
+}

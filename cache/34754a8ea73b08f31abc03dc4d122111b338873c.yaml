@@ -1,0 +1,19 @@
+{
+  "chinese": "我小的时候经常跟我父亲一起去钓鱼的。",
+  "english": "When I was young, I often went fishing with my father.",
+  "pinyin": "wǒ xiǎo de shíhòu jīngcháng gēn wǒ fùqīn yīqǐ qù diào yú de.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "小", "en": "small", "pi": "xiǎo"},
+    {"ch": "的", "en": "possessive particle", "pi": "de"},
+    {"ch": "时候", "en": "time", "pi": "shíhòu"},
+    {"ch": "经常", "en": "often", "pi": "jīngcháng"},
+    {"ch": "跟", "en": "with", "pi": "gēn"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "父亲", "en": "father", "pi": "fùqīn"},
+    {"ch": "一起", "en": "together", "pi": "yīqǐ"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "钓鱼", "en": "fishing", "pi": "diàoyú"},
+    {"ch": "的", "en": "particle", "pi": "de"}
+  ]
+}

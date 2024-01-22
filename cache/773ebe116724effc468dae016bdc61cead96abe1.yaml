@@ -1,0 +1,32 @@
+{
+  "chinese": "早餐后我去散步了。",
+  "english": "I went for a walk after breakfast.",
+  "pinyin": "zǎo cān hòu wǒ qù sàn bù le.",
+  "words": [
+    {
+      "ch": "早餐后",
+      "en": "after breakfast",
+      "pi": "zǎo cān hòu"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "散步",
+      "en": "for a walk",
+      "pi": "sàn bù"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "le"
+    }
+  ]
+}

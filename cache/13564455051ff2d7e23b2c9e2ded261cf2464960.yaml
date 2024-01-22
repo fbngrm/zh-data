@@ -1,0 +1,48 @@
+{
+  "sentences": [
+    {
+      "chinese": "我爱你。",
+      "english": "I love you.",
+      "pinyin": "wǒ ài nǐ。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "爱",
+          "en": "love",
+          "pi": "ài"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        }
+      ]
+    },
+    {
+      "chinese": "嫁给我好吗？",
+      "english": "Will you marry me?",
+      "pinyin": "jià gěi wǒ hǎo ma?",
+      "words": [
+        {
+          "ch": "嫁给",
+          "en": "marry",
+          "pi": "jià gěi"
+        },
+        {
+          "ch": "我",
+          "en": "me",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "好吗",
+          "en": "will you?",
+          "pi": "hǎo ma"
+        }
+      ]
+    }
+  ]
+}

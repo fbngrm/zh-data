@@ -1,0 +1,42 @@
+{
+  "chinese": "昨天我很开心地看电视。",
+  "english": "Yesterday I watched TV happily.",
+  "pinyin": "zuó tiān wǒ hěn kāi xīn de kàn diàn shì.",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "开心",
+      "en": "happy",
+      "pi": "kāi xīn"
+    },
+    {
+      "ch": "地",
+      "en": "ly",
+      "pi": "de"
+    },
+    {
+      "ch": "看",
+      "en": "watch",
+      "pi": "kàn"
+    },
+    {
+      "ch": "电视",
+      "en": "TV",
+      "pi": "diàn shì"
+    }
+  ]
+}

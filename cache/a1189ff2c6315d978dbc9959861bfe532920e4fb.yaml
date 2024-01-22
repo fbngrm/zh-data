@@ -1,0 +1,42 @@
+{
+  "chinese": "我父亲是一个中学英文教师。",
+  "english": "My father is an English teacher at a secondary school.",
+  "pinyin": "wǒ fùqīn shì yīgè zhōngxué yīngwén jiàoshī。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "父亲",
+      "en": "father",
+      "pi": "fùqīn"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "一个",
+      "en": "a, one",
+      "pi": "yīgè"
+    },
+    {
+      "ch": "中学",
+      "en": "secondary school",
+      "pi": "zhōngxué"
+    },
+    {
+      "ch": "英文",
+      "en": "English",
+      "pi": "yīngwén"
+    },
+    {
+      "ch": "教师",
+      "en": "teacher",
+      "pi": "jiàoshī"
+    }
+  ]
+}

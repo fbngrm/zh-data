@@ -1,0 +1,27 @@
+{
+  "chinese": "Tom喜不喜欢吃西红柿？",
+  "english": "Does Tom like to eat tomatoes?",
+  "pinyin": "Tom xǐ bù xǐ huān chī xī hóng shì?",
+  "words": [
+    {
+      "ch": "Tom",
+      "en": "Tom",
+      "pi": "Tom"
+    },
+    {
+      "ch": "喜不喜欢",
+      "en": "like",
+      "pi": "xǐ bù xǐ huān"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "西红柿",
+      "en": "tomatoes",
+      "pi": "xī hóng shì"
+    }
+  ]
+}

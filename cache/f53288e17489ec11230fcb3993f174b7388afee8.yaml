@@ -1,0 +1,16 @@
+{
+  "chinese": "我早饭吃了馕再喝了茶。",
+  "english": "I ate a pancake for breakfast and then drank tea.",
+  "pinyin": "wǒ zǎo fàn chīle náng zài hēle chá.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "早饭", "en": "breakfast", "pi": "zǎo fàn"},
+    {"ch": "吃", "en": "ate", "pi": "chī"},
+    {"ch": "了", "en": "a particle indicating completed action", "pi": "le"},
+    {"ch": "馕", "en": "pancake", "pi": "náng"},
+    {"ch": "再", "en": "then", "pi": "zài"},
+    {"ch": "喝", "en": "drank", "pi": "hē"},
+    {"ch": "了", "en": "a particle indicating completed action", "pi": "le"},
+    {"ch": "茶", "en": "tea", "pi": "chá"}
+  ]
+}

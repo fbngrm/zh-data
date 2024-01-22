@@ -1,0 +1,15 @@
+{
+  "chinese": "我一把这本书读完了就借给你。",
+  "english": "I will lend you this book after I finish reading it.",
+  "pinyin": "wǒ yī bǎ zhè běn shū dú wán le jiù jiè gěi nǐ。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "一把", "en": "one", "pi": "yī bǎ"},
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "本书", "en": "book", "pi": "běn shū"},
+    {"ch": "读完了", "en": "finished reading", "pi": "dú wán le"},
+    {"ch": "就", "en": "after", "pi": "jiù"},
+    {"ch": "借给", "en": "lend to", "pi": "jiè gěi"},
+    {"ch": "你", "en": "you", "pi": "nǐ"}
+  ]
+}

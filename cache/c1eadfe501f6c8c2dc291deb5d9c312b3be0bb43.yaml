@@ -1,0 +1,47 @@
+{
+  "chinese": "所有人都可以用这本词典。",
+  "english": "Anyone can use this dictionary.",
+  "pinyin": "suǒ yǒu rén dōu kě yǐ yòng zhè běn cí diǎn.",
+  "words": [
+    {
+      "ch": "所有",
+      "en": "all",
+      "pi": "suǒ yǒu"
+    },
+    {
+      "ch": "人",
+      "en": "person",
+      "pi": "rén"
+    },
+    {
+      "ch": "都",
+      "en": "can",
+      "pi": "dōu"
+    },
+    {
+      "ch": "可以",
+      "en": "use",
+      "pi": "kě yǐ"
+    },
+    {
+      "ch": "用",
+      "en": "this",
+      "pi": "yòng"
+    },
+    {
+      "ch": "这",
+      "en": "book",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本",
+      "en": "dictionary",
+      "pi": "běn"
+    },
+    {
+      "ch": "词典",
+      "en": "dictionary",
+      "pi": "cí diǎn"
+    }
+  ]
+}

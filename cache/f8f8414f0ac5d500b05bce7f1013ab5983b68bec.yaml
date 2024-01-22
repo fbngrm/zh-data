@@ -1,0 +1,15 @@
+{
+  "chinese": "烹饪课程应该作为学校的必修课。",
+  "english": "Cooking courses should be mandatory in schools.",
+  "pinyin": "Pēngrèn kèchéng yīnggāi zuòwéi xuéxiào de bìxiūkè.",
+  "words": [
+    {"ch":"烹饪", "en":"cooking", "pi":"pēngrèn"},
+    {"ch":"课程", "en":"courses", "pi":"kèchéng"},
+    {"ch":"应该", "en":"should", "pi":"yīnggāi"},
+    {"ch":"作为", "en":"be", "pi":"zuòwéi"},
+    {"ch":"学校", "en":"school", "pi":"xuéxiào"},
+    {"ch":"的", "en":"of", "pi":"de"},
+    {"ch":"必修", "en":"mandatory", "pi":"bìxiū"},
+    {"ch":"课", "en":"in", "pi":"kè"}
+  ]
+}

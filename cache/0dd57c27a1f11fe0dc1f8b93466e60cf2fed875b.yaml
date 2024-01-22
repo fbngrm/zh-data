@@ -1,0 +1,47 @@
+{
+  "chinese": "我从树上砍下了一根树枝。",
+  "english": "I cut down a branch from the tree.",
+  "pinyin": "wǒ cóng shù shàng kǎn xià le yī gēn shù zhī。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "树上",
+      "en": "the tree",
+      "pi": "shù shàng"
+    },
+    {
+      "ch": "砍下",
+      "en": "cut down",
+      "pi": "kǎn xià"
+    },
+    {
+      "ch": "了",
+      "en": "a",
+      "pi": "le"
+    },
+    {
+      "ch": "一",
+      "en": "branch",
+      "pi": "yī"
+    },
+    {
+      "ch": "根",
+      "en": "from",
+      "pi": "gēn"
+    },
+    {
+      "ch": "树枝",
+      "en": "the tree",
+      "pi": "shù zhī"
+    }
+  ]
+}

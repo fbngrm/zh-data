@@ -1,0 +1,47 @@
+{
+  "chinese": "如果明天天气好，我们就去野餐。",
+  "english": "If the weather is good tomorrow, we'll go on a picnic.",
+  "pinyin": "rú guǒ míng tiān tiān qì hǎo, wǒ men jiù qù yě cān。",
+  "words": [
+    {
+      "ch": "如果",
+      "en": "if",
+      "pi": "rú guǒ"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiān qì"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "就",
+      "en": "will",
+      "pi": "jiù"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "野餐",
+      "en": "picnic",
+      "pi": "yě cān"
+    }
+  ]
+}

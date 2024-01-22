@@ -1,0 +1,32 @@
+{
+  "chinese": "昨天没学生去那。",
+  "english": "No students went there yesterday.",
+  "pinyin": "zuó tiān méi xué shēng qù nà.",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "Yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "没",
+      "en": "No",
+      "pi": "méi"
+    },
+    {
+      "ch": "学生",
+      "en": "students",
+      "pi": "xué shēng"
+    },
+    {
+      "ch": "去",
+      "en": "went",
+      "pi": "qù"
+    },
+    {
+      "ch": "那",
+      "en": "there",
+      "pi": "nà"
+    }
+  ]
+}

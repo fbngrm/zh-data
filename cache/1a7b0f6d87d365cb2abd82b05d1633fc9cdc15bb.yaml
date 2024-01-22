@@ -1,0 +1,32 @@
+{
+  "chinese": "我们三个都是学生。",
+  "english": "We are all students.",
+  "pinyin": "wǒ men sān gè dōu shì xué shēng.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "三个",
+      "en": "all",
+      "pi": "sān gè"
+    },
+    {
+      "ch": "都",
+      "en": "are",
+      "pi": "dōu"
+    },
+    {
+      "ch": "是",
+      "en": "students",
+      "pi": "shì"
+    },
+    {
+      "ch": "学生",
+      "en": "students",
+      "pi": "xué shēng"
+    }
+  ]
+}

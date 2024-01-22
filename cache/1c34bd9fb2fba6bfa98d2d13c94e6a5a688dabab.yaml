@@ -1,0 +1,37 @@
+{
+  "chinese": "你有孙子和孙女吗？",
+  "english": "Do you have a grandson and a granddaughter?",
+  "pinyin": "nǐ yǒu sūnzi hé sūnnǚ ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "孙子",
+      "en": "grandson",
+      "pi": "sūnzi"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "孙女",
+      "en": "granddaughter",
+      "pi": "sūnnǚ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

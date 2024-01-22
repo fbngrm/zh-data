@@ -1,0 +1,13 @@
+{
+  "chinese": "亲爱的，给客人端点咖啡吧。",
+  "english": "Dear, serve the guests some coffee.",
+  "pinyin": "qīn ài de, gěi kè rén duān diǎn kā fēi ba.",
+  "words": [
+    { "ch": "亲爱的", "en": "Dear", "pi": "qīn ài de" },
+    { "ch": "给", "en": "serve", "pi": "gěi" },
+    { "ch": "客人", "en": "guests", "pi": "kè rén" },
+    { "ch": "端点", "en": "some", "pi": "duān diǎn" },
+    { "ch": "咖啡", "en": "coffee", "pi": "kā fēi" },
+    { "ch": "吧", "en": "please", "pi": "ba" }
+  ]
+}

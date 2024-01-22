@@ -1,0 +1,27 @@
+{
+  "chinese": "附近有出租车吗？",
+  "english": "Are there taxis nearby?",
+  "pinyin": "Fùjìn yǒu chūzūchē ma?",
+  "words": [
+    {
+      "ch": "附近",
+      "en": "nearby",
+      "pi": "fùjìn"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "出租车",
+      "en": "taxi",
+      "pi": "chūzūchē"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

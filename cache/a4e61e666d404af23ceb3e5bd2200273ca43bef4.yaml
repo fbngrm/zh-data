@@ -1,0 +1,32 @@
+{
+  "chinese": "这条绳子能撑多久?",
+  "english": "How long can this rope hold up?",
+  "pinyin": "zhè tiáo shéng zi néng chēng duō jiǔ?",
+  "words": [
+    {
+      "ch": "这条",
+      "en": "this",
+      "pi": "zhè tiáo"
+    },
+    {
+      "ch": "绳子",
+      "en": "rope",
+      "pi": "shéng zi"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "撑",
+      "en": "hold up",
+      "pi": "chēng"
+    },
+    {
+      "ch": "多久",
+      "en": "how long",
+      "pi": "duō jiǔ"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我想买条裤子。",
+  "english": "I want to buy a pair of pants.",
+  "pinyin": "wǒ xiǎng mǎi tiáo kùzi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "买",
+      "en": "to buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "条",
+      "en": "measure word for pants",
+      "pi": "tiáo"
+    },
+    {
+      "ch": "裤子",
+      "en": "pants",
+      "pi": "kùzi"
+    }
+  ]
+}

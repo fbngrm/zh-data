@@ -1,0 +1,21 @@
+{
+  "chinese": "因为他们是用法语谈话的，所以我一句也听不懂。",
+  "english": "Because they were speaking in French, I couldn't understand a word.",
+  "pinyin": "yīn wèi tā men shì yòng fǎ yǔ tán huà de ，suǒ yǐ wǒ yī jù yě tīng bù dǒng 。",
+  "words": [
+    { "ch": "因为", "en": "Because", "pi": "yīn wèi" },
+    { "ch": "他们", "en": "they", "pi": "tā men" },
+    { "ch": "是", "en": "were", "pi": "shì" },
+    { "ch": "用", "en": "using", "pi": "yòng" },
+    { "ch": "法语", "en": "French", "pi": "fǎ yǔ" },
+    { "ch": "谈话", "en": "speaking", "pi": "tán huà" },
+    { "ch": "的", "en": "in", "pi": "de" },
+    { "ch": "，", "en": ",", "pi": "，" },
+    { "ch": "所以", "en": "so", "pi": "suǒ yǐ" },
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "一句", "en": "couldn't", "pi": "yī jù" },
+    { "ch": "也", "en": "a", "pi": "yě" },
+    { "ch": "听不懂", "en": "understand", "pi": "tīng bù dǒng" },
+    { "ch": "。", "en": "word", "pi": "。" }
+  ]
+}

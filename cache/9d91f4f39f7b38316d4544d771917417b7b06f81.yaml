@@ -1,0 +1,17 @@
+{
+  "chinese": "我在报纸上刊登了我的房子的广告。",
+  "english": "I placed an advertisement for my house in the newspaper.",
+  "pinyin": "wǒ zài bàozhǐ shàng kāndēng le wǒ de fángzi de guǎnggào.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "报纸", "en": "newspaper", "pi": "bàozhǐ"},
+    {"ch": "上", "en": "on", "pi": "shàng"},
+    {"ch": "刊登", "en": "place an advertisement", "pi": "kāndēng"},
+    {"ch": "了", "en": "了", "pi": "le"},
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "房子", "en": "house", "pi": "fángzi"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "广告", "en": "advertisement", "pi": "guǎnggào"}
+  ]
+}

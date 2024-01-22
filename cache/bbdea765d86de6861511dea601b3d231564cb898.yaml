@@ -1,0 +1,27 @@
+{
+  "chinese": "我准备好了。",
+  "english": "I'm ready.",
+  "pinyin": "wǒ zhǔn bèi hǎo le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "准备",
+      "en": "ready",
+      "pi": "zhǔn bèi"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

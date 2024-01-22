@@ -1,0 +1,32 @@
+{
+  "chinese": "甚么水果是红色的？",
+  "english": "What fruits are red?",
+  "pinyin": "shénme shuǐguǒ shì hóngsè de?",
+  "words": [
+    {
+      "ch": "甚么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "水果",
+      "en": "fruits",
+      "pi": "shuǐguǒ"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "红色",
+      "en": "red",
+      "pi": "hóngsè"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "是該離開的時候了。",
+  "english": "It's time to go.",
+  "pinyin": "shì gāi líkāi de shíhòu le.",
+  "words": [
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "該", "en": "should", "pi": "gāi"},
+    {"ch": "離開", "en": "to leave", "pi": "líkāi"},
+    {"ch": "的", "en": "possessive particle", "pi": "de"},
+    {"ch": "時候", "en": "time", "pi": "shíhòu"},
+    {"ch": "了", "en": "particle indicating completed action", "pi": "le"}
+  ]
+}

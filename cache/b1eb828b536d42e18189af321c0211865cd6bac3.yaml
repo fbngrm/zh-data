@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆遗失了他的钥匙。",
+  "english": "Tom lost his keys.",
+  "pinyin": "Tāng mǔ yíshī le tā de yàoshi.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "遗失",
+      "en": "lost",
+      "pi": "yí shī"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "钥匙",
+      "en": "keys",
+      "pi": "yào shi"
+    }
+  ]
+}

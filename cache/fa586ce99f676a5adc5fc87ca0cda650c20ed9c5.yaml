@@ -1,0 +1,37 @@
+{
+  "chinese": "今天中午我们出去吃饭吗？",
+  "english": "Are we going out for lunch today?",
+  "pinyin": "jīn tiān zhōng wǔ wǒ men chū qù chī fàn ma?",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "中午",
+      "en": "noon",
+      "pi": "zhōng wǔ"
+    },
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "出去",
+      "en": "go out",
+      "pi": "chū qù"
+    },
+    {
+      "ch": "吃饭",
+      "en": "eat",
+      "pi": "chī fàn"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

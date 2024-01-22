@@ -1,0 +1,27 @@
+{
+  "chinese": "我的字典非常有用。",
+  "english": "My dictionary is very useful.",
+  "pinyin": "wǒ de zìdiǎn fēicháng yǒuyòng.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "字典",
+      "en": "dictionary",
+      "pi": "zìdiǎn"
+    },
+    {
+      "ch": "非常",
+      "en": "very",
+      "pi": "fēicháng"
+    },
+    {
+      "ch": "有用",
+      "en": "useful",
+      "pi": "yǒuyòng"
+    }
+  ]
+}

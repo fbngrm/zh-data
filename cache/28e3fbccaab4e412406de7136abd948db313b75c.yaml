@@ -1,0 +1,42 @@
+{
+  "chinese": "那只狗看起来好像想吃东西。",
+  "english": "That dog looks like it wants to eat something.",
+  "pinyin": "Nà zhī gǒu kàn qǐlái hǎoxiàng xiǎng chī dōngxī.",
+  "words": [
+    {
+      "ch": "那只",
+      "en": "that",
+      "pi": "nà zhī"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "看起来",
+      "en": "looks like",
+      "pi": "kàn qǐlái"
+    },
+    {
+      "ch": "好像",
+      "en": "like",
+      "pi": "hǎoxiàng"
+    },
+    {
+      "ch": "想",
+      "en": "wants to",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "东西",
+      "en": "something",
+      "pi": "dōngxī"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "chinese": "你好，世界！",
+  "english": "Hello, world!",
+  "pinyin": "nǐ hǎo, shì jiè!",
+  "words": [
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "好", "en": "good", "pi": "hǎo" },
+    { "ch": "世界", "en": "world", "pi": "shì jiè" }
+  ]
+}

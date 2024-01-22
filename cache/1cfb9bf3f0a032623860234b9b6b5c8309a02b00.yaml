@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆拿出钱包付了账。",
+  "english": "Tom took out his wallet and paid the bill.",
+  "pinyin": "Tāng mǔ ná chū qián bāo fù le zhàng.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "拿出",
+      "en": "took out",
+      "pi": "ná chū"
+    },
+    {
+      "ch": "钱包",
+      "en": "wallet",
+      "pi": "qián bāo"
+    },
+    {
+      "ch": "付了",
+      "en": "paid",
+      "pi": "fù le"
+    },
+    {
+      "ch": "账",
+      "en": "bill",
+      "pi": "zhàng"
+    }
+  ]
+}

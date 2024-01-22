@@ -1,0 +1,32 @@
+{
+  "chinese": "這個箱子裏裝滿了蘋果。",
+  "english": "This box is filled with apples.",
+  "pinyin": "zhè ge xiāng zi lǐ zhuāng mǎn le píng guǒ.",
+  "words": [
+    {
+      "ch": "這個",
+      "en": "This",
+      "pi": "zhè ge"
+    },
+    {
+      "ch": "箱子",
+      "en": "box",
+      "pi": "xiāng zi"
+    },
+    {
+      "ch": "裏",
+      "en": "inside",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "裝滿了",
+      "en": "filled with",
+      "pi": "zhuāng mǎn le"
+    },
+    {
+      "ch": "蘋果",
+      "en": "apples",
+      "pi": "píng guǒ"
+    }
+  ]
+}

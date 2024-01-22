@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆想要别的东西。",
+  "english": "Tom wants something else.",
+  "pinyin": "Tāng mǔ xiǎng yào bié de dōng xi.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "想要",
+      "en": "wants",
+      "pi": "xiǎng yào"
+    },
+    {
+      "ch": "别的",
+      "en": "something else",
+      "pi": "bié de"
+    },
+    {
+      "ch": "东西",
+      "en": "thing",
+      "pi": "dōng xi"
+    }
+  ]
+}

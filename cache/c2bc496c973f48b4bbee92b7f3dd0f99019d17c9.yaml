@@ -1,0 +1,14 @@
+{
+  "chinese": "我星期天下午三時會來看你。",
+  "english": "I will come to see you on Sunday afternoon at three o'clock.",
+  "pinyin": "wǒ xīngqītiān xiàwǔ sān shí huì lái kàn nǐ.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "星期天", "en": "Sunday", "pi": "xīngqītiān"},
+    {"ch": "下午", "en": "afternoon", "pi": "xiàwǔ"},
+    {"ch": "三時", "en": "three o'clock", "pi": "sān shí"},
+    {"ch": "會來", "en": "will come", "pi": "huì lái"},
+    {"ch": "看", "en": "to see", "pi": "kàn"},
+    {"ch": "你", "en": "you", "pi": "nǐ"}
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "chinese": "你等一会然后再给我打电话，可以吗？",
+  "english": "Can you wait for a moment and call me later?",
+  "pinyin": "Nǐ děng yīhuǐ ránhòu zài gěi wǒ dǎ diànhuà, kěyǐ ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "等", "en": "wait", "pi": "děng"},
+    {"ch": "一会", "en": "a moment", "pi": "yīhuǐ"},
+    {"ch": "然后", "en": "and then", "pi": "ránhòu"},
+    {"ch": "再", "en": "again", "pi": "zài"},
+    {"ch": "给", "en": "give", "pi": "gěi"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "打电话", "en": "call", "pi": "dǎ diànhuà"},
+    {"ch": "可以", "en": "can", "pi": "kěyǐ"},
+    {"ch": "吗", "en": "?", "pi": "ma"}
+  ]
+}

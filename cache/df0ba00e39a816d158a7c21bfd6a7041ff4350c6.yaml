@@ -1,0 +1,32 @@
+{
+  "chinese": "你一共花了多少钱？",
+  "english": "How much money did you spend in total?",
+  "pinyin": "nǐ yīgòng huāle duōshǎo qián?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "一共",
+      "en": "in total",
+      "pi": "yīgòng"
+    },
+    {
+      "ch": "花了",
+      "en": "spent",
+      "pi": "huāle"
+    },
+    {
+      "ch": "多少",
+      "en": "how much",
+      "pi": "duōshǎo"
+    },
+    {
+      "ch": "钱",
+      "en": "money",
+      "pi": "qián"
+    }
+  ]
+}

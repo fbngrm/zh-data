@@ -1,0 +1,32 @@
+{
+  "chinese": "山那边有一个村庄。",
+  "english": "There is a village on the mountain.",
+  "pinyin": "shān nà biān yǒu yī gè cūn zhuāng。",
+  "words": [
+    {
+      "ch": "山",
+      "en": "mountain",
+      "pi": "shān"
+    },
+    {
+      "ch": "那边",
+      "en": "there",
+      "pi": "nà biān"
+    },
+    {
+      "ch": "有",
+      "en": "is",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "村庄",
+      "en": "village",
+      "pi": "cūn zhuāng"
+    }
+  ]
+}

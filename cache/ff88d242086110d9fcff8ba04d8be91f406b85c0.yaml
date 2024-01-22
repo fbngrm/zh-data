@@ -1,0 +1,60 @@
+{
+  "sentences": [
+    {
+      "chinese": "我爱你。",
+      "english": "I love you.",
+      "pinyin": "wǒ ài nǐ",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "爱",
+          "en": "love",
+          "pi": "ài"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        }
+      ]
+    },
+    {
+      "chinese": "你好吗？",
+      "english": "How are you?",
+      "pinyin": "nǐ hǎo ma",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "好",
+          "en": "good",
+          "pi": "hǎo"
+        },
+        {
+          "ch": "吗",
+          "en": "question particle",
+          "pi": "ma"
+        }
+      ]
+    },
+    {
+      "chinese": "谢谢。",
+      "english": "Thank you.",
+      "pinyin": "xiè xiè",
+      "words": [
+        {
+          "ch": "谢谢",
+          "en": "thank you",
+          "pi": "xiè xiè"
+        }
+      ]
+    }
+  ]
+}

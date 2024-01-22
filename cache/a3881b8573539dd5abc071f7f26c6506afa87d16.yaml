@@ -1,0 +1,32 @@
+{
+  "chinese": "她磨了这些刀。",
+  "english": "She sharpened these knives.",
+  "pinyin": "tā mó le zhè xiē dāo。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "磨",
+      "en": "sharpen",
+      "pi": "mó"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "这些",
+      "en": "these",
+      "pi": "zhè xiē"
+    },
+    {
+      "ch": "刀",
+      "en": "knives",
+      "pi": "dāo"
+    }
+  ]
+}

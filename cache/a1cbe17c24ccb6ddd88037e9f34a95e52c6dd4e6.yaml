@@ -1,0 +1,32 @@
+{
+  "chinese": "这个果汁喝起来酸酸的。",
+  "english": "This juice tastes sour.",
+  "pinyin": "zhè gè guǒ zhī hē qǐ lái suān suān de.",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "果汁",
+      "en": "juice",
+      "pi": "guǒ zhī"
+    },
+    {
+      "ch": "喝",
+      "en": "drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "起来",
+      "en": "tastes",
+      "pi": "qǐ lái"
+    },
+    {
+      "ch": "酸酸的",
+      "en": "sour",
+      "pi": "suān suān de"
+    }
+  ]
+}

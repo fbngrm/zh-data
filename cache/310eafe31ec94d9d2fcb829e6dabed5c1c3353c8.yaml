@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆什么时候吃早饭？",
+  "english": "When does Tom eat breakfast?",
+  "pinyin": "Tāng mǔ shénme shíhòu chī zǎofàn?",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "什么时候",
+      "en": "when",
+      "pi": "shénme shíhòu"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "早饭",
+      "en": "breakfast",
+      "pi": "zǎofàn"
+    }
+  ]
+}

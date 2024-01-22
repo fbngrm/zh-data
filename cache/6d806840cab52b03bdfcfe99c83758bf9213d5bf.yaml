@@ -1,0 +1,32 @@
+{
+  "chinese": "我想答应的，但是⋯⋯",
+  "english": "I want to agree, but...",
+  "pinyin": "wǒ xiǎng dāyìng de, dànshì...",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "答应",
+      "en": "to agree",
+      "pi": "dāyìng"
+    },
+    {
+      "ch": "的",
+      "en": "but",
+      "pi": "de"
+    },
+    {
+      "ch": "但是",
+      "en": "...",
+      "pi": "dànshì"
+    }
+  ]
+}

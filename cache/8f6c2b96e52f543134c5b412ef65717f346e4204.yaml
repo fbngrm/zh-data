@@ -1,0 +1,32 @@
+{
+  "chinese": "你看起来不难看。",
+  "english": "You don't look bad.",
+  "pinyin": "nǐ kàn qǐlái bù nánkàn.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "看",
+      "en": "look",
+      "pi": "kàn"
+    },
+    {
+      "ch": "起来",
+      "en": "don't",
+      "pi": "qǐlái"
+    },
+    {
+      "ch": "不",
+      "en": "bad",
+      "pi": "bù"
+    },
+    {
+      "ch": "难看",
+      "en": "bad",
+      "pi": "nánkàn"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "你在义大利有个房子吗？",
+  "english": "Do you have a house in Italy?",
+  "pinyin": "Nǐ zài yìdàlì yǒu gè fángzi ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "在",
+      "en": "at/in",
+      "pi": "zài"
+    },
+    {
+      "ch": "义大利",
+      "en": "Italy",
+      "pi": "yìdàlì"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "房子",
+      "en": "house",
+      "pi": "fángzi"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

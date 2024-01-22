@@ -1,0 +1,15 @@
+{
+  "chinese": "他的英语和法语都说得十分流利。",
+  "english": "He speaks both English and French fluently.",
+  "pinyin": "tā de yīngyǔ hé fǎyǔ dōu shuō dé shífēn liúlì。",
+  "words": [
+    {"ch": "他的", "en": "his", "pi": "tā de"},
+    {"ch": "英语", "en": "English", "pi": "yīngyǔ"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "法语", "en": "French", "pi": "fǎyǔ"},
+    {"ch": "都", "en": "both/all", "pi": "dōu"},
+    {"ch": "说得", "en": "speak/express", "pi": "shuō dé"},
+    {"ch": "十分", "en": "very", "pi": "shífēn"},
+    {"ch": "流利", "en": "fluent", "pi": "liúlì"}
+  ]
+}

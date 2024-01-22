@@ -1,0 +1,20 @@
+{
+  "chinese": "律师警告过他的当事人反对作证,但是他还是这么做了。",
+  "english": "The lawyer warned his client against testifying, but he did it anyway.",
+  "pinyin": "lǜshī jǐnggào guò tā de dāngshìrén fǎnduì zuòzhèng, dànshì tā háishì zhème zuòle。",
+  "words": [
+    {"ch": "律师", "en": "lawyer", "pi": "lǜshī"},
+    {"ch": "警告", "en": "warn", "pi": "jǐnggào"},
+    {"ch": "过", "en": "against", "pi": "guò"},
+    {"ch": "他", "en": "his", "pi": "tā"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "当事人", "en": "client", "pi": "dāngshìrén"},
+    {"ch": "反对", "en": "against", "pi": "fǎnduì"},
+    {"ch": "作证", "en": "testify", "pi": "zuòzhèng"},
+    {"ch": "但是", "en": "but", "pi": "dànshì"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "还是", "en": "still", "pi": "háishì"},
+    {"ch": "这么", "en": "this way", "pi": "zhème"},
+    {"ch": "做了", "en": "did it", "pi": "zuòle"}
+  ]
+}

@@ -1,0 +1,18 @@
+{ 
+  "chinese": "書是為了那些希望自己在另一個地方的人。",
+  "english": "Books are for those who wish to be somewhere else.",
+  "pinyin": "shū shì wèi le nà xiē xī wàng zì jǐ zài lìng yī gè dì fāng de rén。",
+  "words": [
+    {"ch": "書", "en": "books", "pi": "shū"},
+    {"ch": "是", "en": "are", "pi": "shì"},
+    {"ch": "為了", "en": "for", "pi": "wèi le"},
+    {"ch": "那些", "en": "those", "pi": "nà xiē"},
+    {"ch": "希望", "en": "wish", "pi": "xī wàng"},
+    {"ch": "自己", "en": "oneself", "pi": "zì jǐ"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "另一個", "en": "another", "pi": "lìng yī gè"},
+    {"ch": "地方", "en": "place", "pi": "dì fāng"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "人", "en": "people", "pi": "rén"}
+  ]
+}

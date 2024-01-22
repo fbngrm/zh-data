@@ -1,0 +1,37 @@
+{
+  "chinese": "桌子上的书是谁的？",
+  "english": "Whose book is on the table?",
+  "pinyin": "Zhuōzi shàng de shū shì shéi de?",
+  "words": [
+    {
+      "ch": "桌子",
+      "en": "table",
+      "pi": "zhuōzi"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "谁",
+      "en": "whose",
+      "pi": "shéi"
+    }
+  ]
+}

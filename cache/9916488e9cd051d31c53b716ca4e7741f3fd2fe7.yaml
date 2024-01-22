@@ -1,0 +1,22 @@
+{
+  "chinese": "如果我可以把英文字母重新排序，我會把「U」和「I」放在一起。",
+  "english": "If I could rearrange the English alphabet, I would put 'U' and 'I' together.",
+  "pinyin": "rú guǒ wǒ kěyǐ bǎ yīngwén zìmǔ chóngxùi, wǒ huì bǎ 'U' hé 'I' fàng zài yīqǐ.",
+  "words": [
+    {"ch": "如果", "en": "if", "pi": "rú guǒ"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "可以", "en": "could", "pi": "kěyǐ"},
+    {"ch": "把", "en": "rearrange", "pi": "bǎ"},
+    {"ch": "英文字母", "en": "English alphabet", "pi": "yīngwén zìmǔ"},
+    {"ch": "重新", "en": "re-", "pi": "chóngxīn"},
+    {"ch": "排序", "en": "sort", "pi": "chóngxùi"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "会", "en": "would", "pi": "huì"},
+    {"ch": "把", "en": "put", "pi": "bǎ"},
+    {"ch": "「U」", "en": "'U'", "pi": "'U'"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "「I」", "en": "'I'", "pi": "'I'"},
+    {"ch": "放在", "en": "together", "pi": "fàng zài"},
+    {"ch": "一起", "en": "together", "pi": "yīqǐ"}
+  ]
+}

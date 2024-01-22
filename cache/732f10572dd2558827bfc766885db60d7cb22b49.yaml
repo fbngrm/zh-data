@@ -1,0 +1,37 @@
+{
+  "chinese": "看来那条狗会咬人。",
+  "english": "It seems that the dog will bite people.",
+  "pinyin": "kàn lái nà tiáo gǒu huì yǎo rén.",
+  "words": [
+    {
+      "ch": "看来",
+      "en": "It seems",
+      "pi": "kàn lái"
+    },
+    {
+      "ch": "那条",
+      "en": "that",
+      "pi": "nà tiáo"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "咬",
+      "en": "bite",
+      "pi": "yǎo"
+    },
+    {
+      "ch": "人",
+      "en": "people",
+      "pi": "rén"
+    }
+  ]
+}

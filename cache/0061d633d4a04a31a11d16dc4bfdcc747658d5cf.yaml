@@ -1,0 +1,37 @@
+{
+  "chinese": "你买了多少张照片?",
+  "english": "How many photos did you buy?",
+  "pinyin": "Nǐ mǎi le duōshǎo zhāng zhàopiàn?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "买",
+      "en": "buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "了",
+      "en": "did",
+      "pi": "le"
+    },
+    {
+      "ch": "多少",
+      "en": "how many",
+      "pi": "duōshǎo"
+    },
+    {
+      "ch": "张",
+      "en": "measure word for flat objects",
+      "pi": "zhāng"
+    },
+    {
+      "ch": "照片",
+      "en": "photo",
+      "pi": "zhàopiàn"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "chinese": "不是每个人都喜欢喝茶，就拿我喜欢咖啡来说。",
+  "english": "Not everyone likes to drink tea, let's take me as an example who likes coffee.",
+  "pinyin": "bú shì měi gè rén dōu xǐ huān hē chá, jiù ná wǒ xǐ huān kā fēi lái shuō。",
+  "words": [
+    {"ch": "不是", "en": "not", "pi": "bú shì"},
+    {"ch": "每个人", "en": "everyone", "pi": "měi gè rén"},
+    {"ch": "都", "en": "all", "pi": "dōu"},
+    {"ch": "喜欢", "en": "likes", "pi": "xǐ huān"},
+    {"ch": "喝", "en": "to drink", "pi": "hē"},
+    {"ch": "茶", "en": "tea", "pi": "chá"},
+    {"ch": "就", "en": "let's", "pi": "jiù"},
+    {"ch": "拿", "en": "take", "pi": "ná"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "喜欢", "en": "likes", "pi": "xǐ huān"},
+    {"ch": "咖啡", "en": "coffee", "pi": "kā fēi"},
+    {"ch": "来说", "en": "as an example", "pi": "lái shuō"}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "我的头发和珍的一样长。",
+  "english": "My hair is the same length as Jane's.",
+  "pinyin": "wǒ de tóu fǎ hé zhēn de yīyàng cháng.",
+  "words": [
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "头发", "en": "hair", "pi": "tóu fǎ"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "珍的", "en": "Jane's", "pi": "zhēn de"},
+    {"ch": "一样", "en": "the same", "pi": "yīyàng"},
+    {"ch": "长", "en": "length", "pi": "cháng"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "日本人不会做这种事。",
+  "english": "Japanese people would not do such a thing.",
+  "pinyin": "rì běn rén bù huì zuò zhè zhǒng shì。",
+  "words": [
+    {
+      "ch": "日本人",
+      "en": "Japanese people",
+      "pi": "rì běn rén"
+    },
+    {
+      "ch": "不会",
+      "en": "would not",
+      "pi": "bù huì"
+    },
+    {
+      "ch": "做",
+      "en": "do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "这种",
+      "en": "such a",
+      "pi": "zhè zhǒng"
+    },
+    {
+      "ch": "事",
+      "en": "thing",
+      "pi": "shì"
+    }
+  ]
+}

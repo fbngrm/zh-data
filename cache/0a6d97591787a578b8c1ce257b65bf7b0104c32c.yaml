@@ -1,0 +1,63 @@
+{
+  "sentences": [
+    {
+      "chinese": "她也会来吗？",
+      "english": "Will she come too?",
+      "pinyin": "Tā yě huì lái ma?",
+      "words": [
+        {
+          "ch": "她",
+          "en": "she",
+          "pi": "tā"
+        },
+        {
+          "ch": "也",
+          "en": "also",
+          "pi": "yě"
+        },
+        {
+          "ch": "会",
+          "en": "will",
+          "pi": "huì"
+        },
+        {
+          "ch": "来",
+          "en": "come",
+          "pi": "lái"
+        },
+        {
+          "ch": "吗",
+          "en": "question particle",
+          "pi": "ma"
+        }
+      ]
+    },
+    {
+      "chinese": "我希望是这样。",
+      "english": "I hope so.",
+      "pinyin": "Wǒ xīwàng shì zhèyàng.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "希望",
+          "en": "hope",
+          "pi": "xīwàng"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "这样",
+          "en": "so",
+          "pi": "zhèyàng"
+        }
+      ]
+    }
+  ]
+}

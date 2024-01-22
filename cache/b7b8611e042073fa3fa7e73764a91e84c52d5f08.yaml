@@ -1,0 +1,103 @@
+{
+  "sentences": [
+    {
+      "chinese": "昨天哥哥去福岛给当地居民帮忙了。",
+      "english": "Yesterday, my older brother went to Fukushima to help the local residents.",
+      "pinyin": "zuó tiān gē gē qù fú dǎo gěi dāng dì jū mín bāng máng le。",
+      "words": [
+        {
+          "ch": "昨天",
+          "en": "Yesterday",
+          "pi": "zuó tiān"
+        },
+        {
+          "ch": "哥哥",
+          "en": "brother",
+          "pi": "gē gē"
+        },
+        {
+          "ch": "去",
+          "en": "went",
+          "pi": "qù"
+        },
+        {
+          "ch": "福岛",
+          "en": "Fukushima",
+          "pi": "fú dǎo"
+        },
+        {
+          "ch": "给",
+          "en": "to",
+          "pi": "gěi"
+        },
+        {
+          "ch": "当地",
+          "en": "local",
+          "pi": "dāng dì"
+        },
+        {
+          "ch": "居民",
+          "en": "residents",
+          "pi": "jū mín"
+        },
+        {
+          "ch": "帮忙",
+          "en": "help",
+          "pi": "bāng máng"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        }
+      ]
+    },
+    {
+      "chinese": "我对放射量的增加很害怕。",
+      "english": "I am afraid of the increase in radiation levels.",
+      "pinyin": "wǒ duì fàng shè liàng de zēng jiā hěn hài pà。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "对",
+          "en": "to",
+          "pi": "duì"
+        },
+        {
+          "ch": "放射量",
+          "en": "radiation levels",
+          "pi": "fàng shè liàng"
+        },
+        {
+          "ch": "的",
+          "en": "of",
+          "pi": "de"
+        },
+        {
+          "ch": "增加",
+          "en": "increase",
+          "pi": "zēng jiā"
+        },
+        {
+          "ch": "很",
+          "en": "very",
+          "pi": "hěn"
+        },
+        {
+          "ch": "害怕",
+          "en": "afraid",
+          "pi": "hài pà"
+        },
+        {
+          "ch": "。",
+          "en": "",
+          "pi": "。"
+        }
+      ]
+    }
+  ]
+}

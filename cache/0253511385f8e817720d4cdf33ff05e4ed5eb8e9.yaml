@@ -1,0 +1,13 @@
+{
+  "chinese": "我在电梯里面闻到烟味。",
+  "english": "I smell smoke in the elevator.",
+  "pinyin": "wǒ zài diàn tī lǐ miàn wén dào yān wèi.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "电梯", "en": "elevator", "pi": "diàn tī"},
+    {"ch": "里面", "en": "inside", "pi": "lǐ miàn"},
+    {"ch": "闻到", "en": "smell", "pi": "wén dào"},
+    {"ch": "烟味", "en": "smoke", "pi": "yān wèi"}
+  ]
+}

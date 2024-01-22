@@ -1,0 +1,12 @@
+{
+  "chinese": "Ken跟Bill一样高。",
+  "english": "Ken is as tall as Bill.",
+  "pinyin": "Ken gēn Bill yíyàng gāo.",
+  "words": [
+    {"ch": "Ken", "en": "Ken", "pi": "Ken"},
+    {"ch": "跟", "en": "with", "pi": "gēn"},
+    {"ch": "Bill", "en": "Bill", "pi": "Bill"},
+    {"ch": "一样", "en": "the same", "pi": "yíyàng"},
+    {"ch": "高", "en": "tall", "pi": "gāo"}
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chinese": "每個人都送了我一份歡送禮物。",
+  "english": "Everyone gave me a farewell gift.",
+  "pinyin": "měi gè rén dōu sòng le wǒ yí fèn huān sòng lǐ wù。",
+  "words": [
+    {"ch": "每個", "en": "everyone", "pi": "měi gè"},
+    {"ch": "人", "en": "person", "pi": "rén"},
+    {"ch": "都", "en": "all", "pi": "dōu"},
+    {"ch": "送了", "en": "gave", "pi": "sòng le"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "一份", "en": "a", "pi": "yí fèn"},
+    {"ch": "歡送", "en": "farewell", "pi": "huān sòng"},
+    {"ch": "禮物", "en": "gift", "pi": "lǐ wù"}
+  ]
+}

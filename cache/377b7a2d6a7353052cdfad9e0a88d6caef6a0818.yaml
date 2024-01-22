@@ -1,0 +1,47 @@
+{
+  "chinese": "她給了我們很多吃的東西。",
+  "english": "She gave us a lot of food to eat.",
+  "pinyin": "tā gěi le wǒ men hěn duō chī de dōng xi。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "給",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "了",
+      "en": "past tense marker",
+      "pi": "le"
+    },
+    {
+      "ch": "我們",
+      "en": "us",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "很多",
+      "en": "a lot of",
+      "pi": "hěn duō"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "的",
+      "en": "particle indicating possession",
+      "pi": "de"
+    },
+    {
+      "ch": "東西",
+      "en": "food",
+      "pi": "dōng xi"
+    }
+  ]
+}

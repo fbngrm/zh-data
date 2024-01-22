@@ -1,0 +1,42 @@
+{
+  "chinese": "我肯定汤姆会做得很好。",
+  "english": "I'm sure Tom will do well.",
+  "pinyin": "wǒ kěndìng tāngmǔ huì zuò dé hěn hǎo.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "肯定",
+      "en": "sure",
+      "pi": "kěndìng"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāngmǔ"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "做",
+      "en": "do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "得",
+      "en": "well",
+      "pi": "dé"
+    },
+    {
+      "ch": "很好",
+      "en": "well",
+      "pi": "hǎo"
+    }
+  ]
+}

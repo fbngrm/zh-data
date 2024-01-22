@@ -1,0 +1,25 @@
+{
+  "chinese": "如果您还没付钱是因为我们做了什么让您不高兴的事，可以请您告诉我们吗?",
+  "english": "If you haven't paid yet because we did something to upset you, can you please tell us?",
+  "pinyin": "Rúguǒ nín hái méi fùqián shì yīnwèi wǒmen zuòle shénme ràng nín bù gāoxìng de shì, kěyǐ qǐng nín gàosù wǒmen ma?",
+  "words": [
+    {"ch": "如果", "en": "if", "pi": "rúguǒ"},
+    {"ch": "您", "en": "you", "pi": "nín"},
+    {"ch": "还没", "en": "haven't", "pi": "hái méi"},
+    {"ch": "付钱", "en": "paid", "pi": "fùqián"},
+    {"ch": "是因为", "en": "because", "pi": "shì yīnwèi"},
+    {"ch": "我们", "en": "we", "pi": "wǒmen"},
+    {"ch": "做了", "en": "did", "pi": "zuòle"},
+    {"ch": "什么", "en": "something", "pi": "shénme"},
+    {"ch": "让", "en": "to", "pi": "ràng"},
+    {"ch": "您", "en": "you", "pi": "nín"},
+    {"ch": "不高兴", "en": "upset", "pi": "bù gāoxìng"},
+    {"ch": "的事", "en": "thing", "pi": "de shì"},
+    {"ch": "可以", "en": "can", "pi": "kěyǐ"},
+    {"ch": "请", "en": "please", "pi": "qǐng"},
+    {"ch": "您", "en": "you", "pi": "nín"},
+    {"ch": "告诉", "en": "tell", "pi": "gàosù"},
+    {"ch": "我们", "en": "us", "pi": "wǒmen"},
+    {"ch": "吗", "en": "?"}
+  ]
+}

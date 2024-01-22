@@ -1,0 +1,58 @@
+{
+  "sentences": [
+    {
+      "chinese": "你说得太多了。",
+      "english": "You talk too much.",
+      "pinyin": "nǐ shuō de tài duō le。",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "说",
+          "en": "talk",
+          "pi": "shuō"
+        },
+        {
+          "ch": "得",
+          "en": "too",
+          "pi": "de"
+        },
+        {
+          "ch": "太多",
+          "en": "much",
+          "pi": "tài duō"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        }
+      ]
+    },
+    {
+      "chinese": "他说。",
+      "english": "He said.",
+      "pinyin": "tā shuō。",
+      "words": [
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "说",
+          "en": "said",
+          "pi": "shuō"
+        },
+        {
+          "ch": "。",
+          "en": "",
+          "pi": ""
+        }
+      ]
+    }
+  ]
+}

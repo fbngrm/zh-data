@@ -1,0 +1,27 @@
+{
+  "chinese": "这个时钟似乎坏了。",
+  "english": "This clock seems to be broken.",
+  "pinyin": "zhè gè shí zhōng sì hū huài le。",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "时钟",
+      "en": "clock",
+      "pi": "shí zhōng"
+    },
+    {
+      "ch": "似乎",
+      "en": "seems",
+      "pi": "sì hū"
+    },
+    {
+      "ch": "坏了",
+      "en": "broken",
+      "pi": "huài le"
+    }
+  ]
+}

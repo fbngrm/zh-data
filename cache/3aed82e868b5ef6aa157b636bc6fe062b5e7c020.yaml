@@ -1,0 +1,42 @@
+{
+  "chinese": "我记得我以前看过这部电影。",
+  "english": "I remember watching this movie before.",
+  "pinyin": "wǒ jì de wǒ yǐ qián kàn guò zhè bù diàn yǐng。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "记得",
+      "en": "remember",
+      "pi": "jì de"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "以前",
+      "en": "before",
+      "pi": "yǐ qián"
+    },
+    {
+      "ch": "看过",
+      "en": "watched",
+      "pi": "kàn guò"
+    },
+    {
+      "ch": "这部",
+      "en": "this",
+      "pi": "zhè bù"
+    },
+    {
+      "ch": "电影",
+      "en": "movie",
+      "pi": "diàn yǐng"
+    }
+  ]
+}

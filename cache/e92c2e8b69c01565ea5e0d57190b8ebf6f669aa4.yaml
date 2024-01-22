@@ -1,0 +1,12 @@
+{
+  "chinese": "这本书明年要出版。",
+  "english": "This book will be published next year.",
+  "pinyin": "zhè běn shū míng nián yào chū bǎn。",
+  "words": [
+    {"ch": "这", "en": "This", "pi": "zhè"},
+    {"ch": "本书", "en": "book", "pi": "běn shū"},
+    {"ch": "明年", "en": "next year", "pi": "míng nián"},
+    {"ch": "要", "en": "will", "pi": "yào"},
+    {"ch": "出版", "en": "publish", "pi": "chū bǎn"}
+  ]
+}

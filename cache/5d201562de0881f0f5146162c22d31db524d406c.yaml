@@ -1,0 +1,32 @@
+{
+  "chinese": "有人打汤姆了吗？",
+  "english": "Has someone hit Tom?",
+  "pinyin": "yǒu rén dǎ tāng mǔ le ma?",
+  "words": [
+    {
+      "ch": "有人",
+      "en": "someone",
+      "pi": "yǒu rén"
+    },
+    {
+      "ch": "打",
+      "en": "hit",
+      "pi": "dǎ"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "了",
+      "en": "eUp",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "ma",
+      "pi": "ma"
+    }
+  ]
+}

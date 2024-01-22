@@ -1,0 +1,12 @@
+{
+  "chinese": "这条鱼没有毒。",
+  "english": "This fish is not poisonous.",
+  "pinyin": "zhè tiáo yú méiyǒu dú。",
+  "words": [
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "条", "en": "measure word for long, narrow objects", "pi": "tiáo"},
+    {"ch": "鱼", "en": "fish", "pi": "yú"},
+    {"ch": "没有", "en": "not have", "pi": "méiyǒu"},
+    {"ch": "毒", "en": "poison", "pi": "dú"}
+  ]
+}

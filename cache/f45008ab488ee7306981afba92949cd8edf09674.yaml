@@ -1,0 +1,58 @@
+{
+  "sentences": [
+    {
+      "chinese": "我丢了我的票。",
+      "english": "I lost my ticket.",
+      "pinyin": "wǒ diū le wǒ de piào。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "丢了",
+          "en": "lost",
+          "pi": "diū le"
+        },
+        {
+          "ch": "我的",
+          "en": "my",
+          "pi": "wǒ de"
+        },
+        {
+          "ch": "票",
+          "en": "ticket",
+          "pi": "piào"
+        }
+      ]
+    },
+    {
+      "chinese": "我该怎么办？",
+      "english": "What should I do?",
+      "pinyin": "wǒ gāi zěnme bàn?",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "该",
+          "en": "should",
+          "pi": "gāi"
+        },
+        {
+          "ch": "怎么",
+          "en": "how",
+          "pi": "zěnme"
+        },
+        {
+          "ch": "办",
+          "en": "do",
+          "pi": "bàn"
+        }
+      ]
+    }
+  ]
+}

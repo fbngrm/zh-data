@@ -1,0 +1,37 @@
+{
+  "chinese": "她在银座搭乘了地铁。",
+  "english": "She took the subway in Ginza.",
+  "pinyin": "Tā zài yín zuǒ dā chéng le dì tiě.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "银座",
+      "en": "Ginza",
+      "pi": "yín zuǒ"
+    },
+    {
+      "ch": "搭乘",
+      "en": "took",
+      "pi": "dā chéng"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "地铁",
+      "en": "subway",
+      "pi": "dì tiě"
+    }
+  ]
+}

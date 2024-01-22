@@ -1,0 +1,42 @@
+{
+  "chinese": "你的咖啡里有非常少的水。",
+  "english": "There is very little water in your coffee.",
+  "pinyin": "Nǐ de kāfēi lǐ yǒu fēicháng shǎo de shuǐ.",
+  "words": [
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kāfēi"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "非常",
+      "en": "very",
+      "pi": "fēicháng"
+    },
+    {
+      "ch": "少的",
+      "en": "little",
+      "pi": "shǎo de"
+    },
+    {
+      "ch": "水",
+      "en": "water",
+      "pi": "shuǐ"
+    }
+  ]
+}

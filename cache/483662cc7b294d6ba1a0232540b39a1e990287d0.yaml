@@ -1,0 +1,14 @@
+{
+  "chinese": "我们为她举办了一个欢迎会。",
+  "english": "We held a welcome party for her.",
+  "pinyin": "wǒmen wèi tā jǔbàn le yīgè huānyíng huì。",
+  "words": [
+    {"ch": "我们", "en": "We", "pi": "wǒmen"},
+    {"ch": "为", "en": "for", "pi": "wèi"},
+    {"ch": "她", "en": "her", "pi": "tā"},
+    {"ch": "举办", "en": "held", "pi": "jǔbàn"},
+    {"ch": "了", "en": "a", "pi": "le"},
+    {"ch": "一个", "en": "welcome", "pi": "yīgè"},
+    {"ch": "欢迎会", "en": "party", "pi": "huānyíng huì"}
+  ]
+}

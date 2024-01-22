@@ -1,0 +1,78 @@
+{
+  "sentences": [
+    {
+      "chinese": "我今天有点不舒服。",
+      "english": "I don't feel well today.",
+      "pinyin": "wǒ jīntiān yǒudiǎn bù shūfú。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "今天",
+          "en": "today",
+          "pi": "jīntiān"
+        },
+        {
+          "ch": "有点",
+          "en": "a bit",
+          "pi": "yǒudiǎn"
+        },
+        {
+          "ch": "不舒服",
+          "en": "uncomfortable",
+          "pi": "bù shūfú"
+        }
+      ]
+    },
+    {
+      "chinese": "那戶井水是许多疾病的源头。",
+      "english": "The well water there is the source of many diseases.",
+      "pinyin": "nà hù jǐng shuǐ shì xǔduō jíbìng de yuántóu。",
+      "words": [
+        {
+          "ch": "那",
+          "en": "that",
+          "pi": "nà"
+        },
+        {
+          "ch": "户",
+          "en": "household",
+          "pi": "hù"
+        },
+        {
+          "ch": "井水",
+          "en": "well water",
+          "pi": "jǐng shuǐ"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "许多",
+          "en": "many",
+          "pi": "xǔduō"
+        },
+        {
+          "ch": "疾病",
+          "en": "disease",
+          "pi": "jíbìng"
+        },
+        {
+          "ch": "的",
+          "en": "of",
+          "pi": "de"
+        },
+        {
+          "ch": "源头",
+          "en": "source",
+          "pi": "yuántóu"
+        }
+      ]
+    }
+  ]
+}

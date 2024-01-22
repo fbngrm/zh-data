@@ -1,0 +1,32 @@
+{
+  "chinese": "我學兩種外語。",
+  "english": "I am learning two foreign languages.",
+  "pinyin": "wǒ xué liǎng zhǒng wài yǔ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "學",
+      "en": "learn",
+      "pi": "xué"
+    },
+    {
+      "ch": "兩",
+      "en": "two",
+      "pi": "liǎng"
+    },
+    {
+      "ch": "種",
+      "en": "kinds",
+      "pi": "zhǒng"
+    },
+    {
+      "ch": "外語",
+      "en": "foreign languages",
+      "pi": "wài yǔ"
+    }
+  ]
+}

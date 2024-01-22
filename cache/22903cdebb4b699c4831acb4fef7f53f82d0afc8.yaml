@@ -1,0 +1,32 @@
+{
+  "chinese": "我在大学主修化学。",
+  "english": "I am majoring in chemistry in college.",
+  "pinyin": "wǒ zài dàxué zhǔxiū huàxué.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "am",
+      "pi": "zài"
+    },
+    {
+      "ch": "大学",
+      "en": "college",
+      "pi": "dàxué"
+    },
+    {
+      "ch": "主修",
+      "en": "majoring",
+      "pi": "zhǔxiū"
+    },
+    {
+      "ch": "化学",
+      "en": "chemistry",
+      "pi": "huàxué"
+    }
+  ]
+}

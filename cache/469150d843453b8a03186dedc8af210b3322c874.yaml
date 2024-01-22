@@ -1,0 +1,15 @@
+{
+  "chinese": "我睡觉很浅，容易醒。",
+  "english": "I sleep lightly and easily wake up.",
+  "pinyin": "wǒ shuìjiào hěn qiǎn, róngyì xǐng。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "睡觉", "en": "sleep", "pi": "shuìjiào"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "浅", "en": "light", "pi": "qiǎn"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "容易", "en": "easy", "pi": "róngyì"},
+    {"ch": "醒", "en": "wake up", "pi": "xǐng"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

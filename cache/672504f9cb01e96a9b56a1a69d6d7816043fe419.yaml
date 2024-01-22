@@ -1,0 +1,16 @@
+{
+  "chinese": "自从他离开去法国，已经有两个月了。",
+  "english": "It has been two months since he left for France.",
+  "pinyin": "zì cóng tā lí kāi qù fǎ guó, yǐ jīng yǒu liǎng gè yuè le。",
+  "words": [
+    {"ch": "自从", "en": "since", "pi": "zì cóng"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "离开", "en": "left", "pi": "lí kāi"},
+    {"ch": "去", "en": "for", "pi": "qù"},
+    {"ch": "法国", "en": "France", "pi": "fǎ guó"},
+    {"ch": "已经", "en": "already", "pi": "yǐ jīng"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "两个月", "en": "two months", "pi": "liǎng gè yuè"},
+    {"ch": "了", "en": "since", "pi": "le"}
+  ]
+}

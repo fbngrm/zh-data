@@ -1,0 +1,42 @@
+{
+  "chinese": "我的哥哥是很狂热的足球迷。",
+  "english": "My older brother is a passionate football fan.",
+  "pinyin": "wǒ de gēgē shì hěn kuángrè de zúqiúmí.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "哥哥",
+      "en": "older brother",
+      "pi": "gēgē"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "狂热",
+      "en": "passionate",
+      "pi": "kuángrè"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "足球迷",
+      "en": "football fan",
+      "pi": "zúqiúmí"
+    }
+  ]
+}

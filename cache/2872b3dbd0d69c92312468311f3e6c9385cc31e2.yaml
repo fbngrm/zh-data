@@ -1,0 +1,32 @@
+{
+  "chinese": "我不需要你的帮助。",
+  "english": "I don't need your help.",
+  "pinyin": "wǒ bù xū yào nǐ de bāng zhù.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "需要",
+      "en": "need",
+      "pi": "xū yào"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "帮助",
+      "en": "help",
+      "pi": "bāng zhù"
+    }
+  ]
+}

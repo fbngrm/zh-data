@@ -1,0 +1,42 @@
+{
+  "chinese": "我不想让汤姆看见这个。",
+  "english": "I don't want Tom to see this.",
+  "pinyin": "wǒ bù xiǎng ràng tāng mǔ kàn jiàn zhè ge。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "do not",
+      "pi": "bù"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "让",
+      "en": "let",
+      "pi": "ràng"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "看见",
+      "en": "see",
+      "pi": "kàn jiàn"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè ge"
+    }
+  ]
+}

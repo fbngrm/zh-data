@@ -1,0 +1,32 @@
+{
+  "chinese": "让我们坐公共汽车去。",
+  "english": "Let's take the bus.",
+  "pinyin": "ràng wǒmen zuò gōnggòng qìchē qù。",
+  "words": [
+    {
+      "ch": "让",
+      "en": "let",
+      "pi": "ràng"
+    },
+    {
+      "ch": "我们",
+      "en": "us",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "坐",
+      "en": "take",
+      "pi": "zuò"
+    },
+    {
+      "ch": "公共汽车",
+      "en": "bus",
+      "pi": "gōnggòng qìchē"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    }
+  ]
+}

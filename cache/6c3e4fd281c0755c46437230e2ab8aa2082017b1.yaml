@@ -1,0 +1,36 @@
+{
+  "sentences": [
+    {
+      "chinese": "他喜欢吃水果。",
+      "english": "He likes to eat fruits.",
+      "pinyin": "tā xǐhuān chī shuǐguǒ.",
+      "words": [
+        {"ch": "他", "en": "he", "pi": "tā"},
+        {"ch": "喜欢", "en": "likes", "pi": "xǐhuān"},
+        {"ch": "吃", "en": "to eat", "pi": "chī"},
+        {"ch": "水果", "en": "fruits", "pi": "shuǐguǒ"}
+      ]
+    },
+    {
+      "chinese": "她在看电视。",
+      "english": "She is watching TV.",
+      "pinyin": "tā zài kàn diànshì.",
+      "words": [
+        {"ch": "她", "en": "she", "pi": "tā"},
+        {"ch": "在", "en": "is", "pi": "zài"},
+        {"ch": "看", "en": "watching", "pi": "kàn"},
+        {"ch": "电视", "en": "TV", "pi": "diànshì"}
+      ]
+    },
+    {
+      "chinese": "他们学习中文。",
+      "english": "They are learning Chinese.",
+      "pinyin": "tāmen xuéxí zhōngwén.",
+      "words": [
+        {"ch": "他们", "en": "they", "pi": "tāmen"},
+        {"ch": "学习", "en": "are learning", "pi": "xuéxí"},
+        {"ch": "中文", "en": "Chinese", "pi": "zhōngwén"}
+      ]
+    }
+  ]
+}

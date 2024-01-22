@@ -1,0 +1,32 @@
+{
+  "chinese": "我认为汤姆有才能。",
+  "english": "I think Tom is talented.",
+  "pinyin": "wǒ rènwéi tāngmǔ yǒu cáinéng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "认为",
+      "en": "think",
+      "pi": "rènwéi"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāngmǔ"
+    },
+    {
+      "ch": "有",
+      "en": "is",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "才能",
+      "en": "talented",
+      "pi": "cáinéng"
+    }
+  ]
+}

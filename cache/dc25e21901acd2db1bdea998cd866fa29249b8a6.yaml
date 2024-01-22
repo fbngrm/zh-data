@@ -1,0 +1,15 @@
+{
+  "chinese": "那個男孩已經有八天沒上學了。",
+  "english": "That boy hasn't been to school for eight days.",
+  "pinyin": "Nà gè nán hái yǐjīng yǒu bā tiān méi shàng xué le.",
+  "words": [
+    { "ch": "那個", "en": "that", "pi": "nà gè" },
+    { "ch": "男孩", "en": "boy", "pi": "nán hái" },
+    { "ch": "已經", "en": "already", "pi": "yǐjīng" },
+    { "ch": "有", "en": "have", "pi": "yǒu" },
+    { "ch": "八天", "en": "eight days", "pi": "bā tiān" },
+    { "ch": "沒", "en": "not", "pi": "méi" },
+    { "ch": "上學", "en": "go to school", "pi": "shàng xué" },
+    { "ch": "了", "en": "already", "pi": "le" }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆对我来说很重要。",
+  "english": "Tom is very important to me.",
+  "pinyin": "Tāng mǔ duì wǒ lái shuō hěn zhòng yào.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "对",
+      "en": "to",
+      "pi": "duì"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "来说",
+      "en": "is",
+      "pi": "lái shuō"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "重要",
+      "en": "important",
+      "pi": "zhòng yào"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "他说英语有德国口音。",
+  "english": "He speaks English with a German accent.",
+  "pinyin": "tā shuō yīngyǔ yǒu déguó kǒuyīn.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "说",
+      "en": "speaks",
+      "pi": "shuō"
+    },
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīngyǔ"
+    },
+    {
+      "ch": "有",
+      "en": "with",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "德国",
+      "en": "German",
+      "pi": "déguó"
+    },
+    {
+      "ch": "口音",
+      "en": "accent",
+      "pi": "kǒuyīn"
+    }
+  ]
+}

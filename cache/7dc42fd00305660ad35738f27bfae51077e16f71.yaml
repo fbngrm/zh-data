@@ -1,0 +1,15 @@
+{
+  "chinese": "谢谢那天晚上请我吃了饭。",
+  "english": "Thank you for inviting me to dinner that night.",
+  "pinyin": "Xièxiè nèitiān wǎnshàng qǐng wǒ chīle fàn.",
+  "words": [
+    {"ch": "谢谢", "en": "Thank you", "pi": "xièxiè"},
+    {"ch": "那天", "en": "that day", "pi": "nèitiān"},
+    {"ch": "晚上", "en": "night", "pi": "wǎnshàng"},
+    {"ch": "请", "en": "invite", "pi": "qǐng"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "吃", "en": "eat", "pi": "chī"},
+    {"ch": "了", "en": "completed action particle", "pi": "le"},
+    {"ch": "饭", "en": "meal", "pi": "fàn"}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "多数人每天至少刷两次牙。",
+  "english": "Most people brush their teeth at least twice a day.",
+  "pinyin": "duō shù rén měi tiān zhì shǎ shuā liǎng cì yá。",
+  "words": [
+    {"ch": "多数", "en": "Most", "pi": "duō shù"},
+    {"ch": "人", "en": "people", "pi": "rén"},
+    {"ch": "每天", "en": "every day", "pi": "měi tiān"},
+    {"ch": "至少", "en": "at least", "pi": "zhì shǎo"},
+    {"ch": "刷", "en": "brush", "pi": "shuā"},
+    {"ch": "两次", "en": "twice", "pi": "liǎng cì"},
+    {"ch": "牙", "en": "teeth", "pi": "yá"}
+  ]
+}

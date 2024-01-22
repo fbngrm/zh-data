@@ -1,0 +1,42 @@
+{
+  "chinese": "玛丽买了一件衬衫和一条连衣裙。",
+  "english": "Mary bought a shirt and a dress.",
+  "pinyin": "Mǎlì mǎile yī jiàn chènshān hé yī tiáo liányīqún.",
+  "words": [
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎlì"
+    },
+    {
+      "ch": "买了",
+      "en": "bought",
+      "pi": "mǎile"
+    },
+    {
+      "ch": "一件",
+      "en": "a",
+      "pi": "yī jiàn"
+    },
+    {
+      "ch": "衬衫",
+      "en": "shirt",
+      "pi": "chènshān"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "一条",
+      "en": "a",
+      "pi": "yī tiáo"
+    },
+    {
+      "ch": "连衣裙",
+      "en": "dress",
+      "pi": "liányīqún"
+    }
+  ]
+}

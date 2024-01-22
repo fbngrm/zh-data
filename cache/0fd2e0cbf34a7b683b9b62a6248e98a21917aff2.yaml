@@ -1,0 +1,27 @@
+{
+  "chinese": "你的房间在哪?",
+  "english": "Where is your room?",
+  "pinyin": "Nǐ de fángjiān zài nǎ?",
+  "words": [
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "房间",
+      "en": "room",
+      "pi": "fángjiān"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪",
+      "en": "where",
+      "pi": "nǎ"
+    }
+  ]
+}

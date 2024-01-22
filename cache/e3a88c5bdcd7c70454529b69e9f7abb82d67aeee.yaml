@@ -1,0 +1,42 @@
+{
+  "chinese": "你最喜欢的哲学家是谁？",
+  "english": "Who is your favorite philosopher?",
+  "pinyin": "Nǐ zuì xǐhuān de zhéxuéjiā shì shéi?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "最",
+      "en": "most",
+      "pi": "zuì"
+    },
+    {
+      "ch": "喜欢",
+      "en": "favorite",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "哲学家",
+      "en": "philosopher",
+      "pi": "zhéxuéjiā"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "谁",
+      "en": "who",
+      "pi": "shéi"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "这里的人习惯了寒冷。",
+  "english": "The people here are used to the cold.",
+  "pinyin": "zhè lǐ de rén xí guàn le hán lěng。",
+  "words": [
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "人",
+      "en": "people",
+      "pi": "rén"
+    },
+    {
+      "ch": "习惯",
+      "en": "used to",
+      "pi": "xí guàn"
+    },
+    {
+      "ch": "了",
+      "en": "to",
+      "pi": "le"
+    },
+    {
+      "ch": "寒冷",
+      "en": "cold",
+      "pi": "hán lěng"
+    }
+  ]
+}

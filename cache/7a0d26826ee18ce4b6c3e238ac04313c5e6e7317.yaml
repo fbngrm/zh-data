@@ -1,0 +1,32 @@
+{
+  "chinese": "我今晚给你打电话。",
+  "english": "I will call you tonight.",
+  "pinyin": "wǒ jīn wǎn gěi nǐ dǎ diàn huà.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "今晚",
+      "en": "tonight",
+      "pi": "jīn wǎn"
+    },
+    {
+      "ch": "给",
+      "en": "to",
+      "pi": "gěi"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "打电话",
+      "en": "call",
+      "pi": "dǎ diàn huà"
+    }
+  ]
+}

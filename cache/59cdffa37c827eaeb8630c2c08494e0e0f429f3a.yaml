@@ -1,0 +1,42 @@
+{
+  "chinese": "这药对我没有任何好处。",
+  "english": "This medicine has no benefit for me.",
+  "pinyin": "zhè yào duì wǒ méiyǒu rènhé hǎochù。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "药",
+      "en": "medicine",
+      "pi": "yào"
+    },
+    {
+      "ch": "对",
+      "en": "to",
+      "pi": "duì"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "没有",
+      "en": "no",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "任何",
+      "en": "any",
+      "pi": "rènhé"
+    },
+    {
+      "ch": "好处",
+      "en": "benefit",
+      "pi": "hǎochù"
+    }
+  ]
+}

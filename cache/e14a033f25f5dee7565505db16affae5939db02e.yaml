@@ -1,0 +1,13 @@
+{
+  "chinese": "我有莎士比亚的作品全集。",
+  "english": "I have the complete collection of Shakespeare's works.",
+  "pinyin": "wǒ yǒu shā shì bǐ yà de zuò pǐn quán jí。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "莎士比亚", "en": "Shakespeare", "pi": "shā shì bǐ yà"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "作品", "en": "works", "pi": "zuò pǐn"},
+    {"ch": "全集", "en": "complete collection", "pi": "quán jí"}
+  ]
+}

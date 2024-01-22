@@ -1,0 +1,32 @@
+{
+  "chinese": "我在冬季总是感冒。",
+  "english": "I always catch a cold in winter.",
+  "pinyin": "wǒ zài dōngjì zǒngshì gǎnmào.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "冬季",
+      "en": "winter",
+      "pi": "dōngjì"
+    },
+    {
+      "ch": "总是",
+      "en": "always",
+      "pi": "zǒngshì"
+    },
+    {
+      "ch": "感冒",
+      "en": "catch a cold",
+      "pi": "gǎnmào"
+    }
+  ]
+}

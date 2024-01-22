@@ -1,0 +1,32 @@
+{
+  "chinese": "你每天都跑步吗？",
+  "english": "Do you run every day?",
+  "pinyin": "nǐ měi tiān dōu pǎo bù ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "跑步",
+      "en": "run",
+      "pi": "pǎo bù"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

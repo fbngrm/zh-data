@@ -1,0 +1,14 @@
+{
+  "chinese": "不要再做那样的事情了。",
+  "english": "Don't do that again.",
+  "pinyin": "bù yào zài zuò nà yàng de shì qíng le.",
+  "words": [
+    {"ch": "不要", "en": "Don't", "pi": "bù yào"},
+    {"ch": "再", "en": "again", "pi": "zài"},
+    {"ch": "做", "en": "do", "pi": "zuò"},
+    {"ch": "那样", "en": "that", "pi": "nà yàng"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "事情", "en": "thing", "pi": "shì qíng"},
+    {"ch": "了", "en": "anymore", "pi": "le"}
+  ]
+}

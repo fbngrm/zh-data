@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆昨天晚上在看电视吗？",
+  "english": "Was Tom watching TV last night?",
+  "pinyin": "Tāng mǔ zuótiān wǎnshàng zài kàn diànshì ma?",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "晚上",
+      "en": "evening",
+      "pi": "wǎnshàng"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "看",
+      "en": "watch",
+      "pi": "kàn"
+    },
+    {
+      "ch": "电视",
+      "en": "TV",
+      "pi": "diànshì"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

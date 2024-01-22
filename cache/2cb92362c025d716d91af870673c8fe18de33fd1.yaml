@@ -1,0 +1,14 @@
+{
+  "chinese": "这些苹果的其中一半都烂了。",
+  "english": "Half of these apples are rotten.",
+  "pinyin": "zhèxiē píngguǒ de qízhōng yībàn dōu lànle。",
+  "words": [
+    {"ch": "这些", "en": "these", "pi": "zhèxiē"},
+    {"ch": "苹果", "en": "apples", "pi": "píngguǒ"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "其中", "en": "among", "pi": "qízhōng"},
+    {"ch": "一半", "en": "half", "pi": "yībàn"},
+    {"ch": "都", "en": "all", "pi": "dōu"},
+    {"ch": "烂了", "en": "are rotten", "pi": "lànle"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我很喜欢吃海产。",
+  "english": "I really like to eat seafood.",
+  "pinyin": "wǒ hěn xǐhuān chī hǎichǎn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "海产",
+      "en": "seafood",
+      "pi": "hǎichǎn"
+    }
+  ]
+}

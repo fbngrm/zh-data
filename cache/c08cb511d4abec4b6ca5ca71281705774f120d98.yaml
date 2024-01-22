@@ -1,0 +1,27 @@
+{
+  "chinese": "我每天早上洗脸。",
+  "english": "I wash my face every morning.",
+  "pinyin": "wǒ měi tiān zǎo shang xǐ liǎn。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎo shang"
+    },
+    {
+      "ch": "洗脸",
+      "en": "wash face",
+      "pi": "xǐ liǎn"
+    }
+  ]
+}

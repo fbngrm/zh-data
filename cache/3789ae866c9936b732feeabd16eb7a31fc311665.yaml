@@ -1,0 +1,27 @@
+{
+  "chinese": "明天肯定会下雨。",
+  "english": "It will definitely rain tomorrow.",
+  "pinyin": "míng tiān kěn dìng huì xià yǔ。",
+  "words": [
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "肯定",
+      "en": "definitely",
+      "pi": "kěn dìng"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "下雨",
+      "en": "rain",
+      "pi": "xià yǔ"
+    }
+  ]
+}

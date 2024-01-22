@@ -1,0 +1,47 @@
+{
+  "chinese": "如果天氣好的話，我打算明天出發。",
+  "english": "If the weather is good, I plan to leave tomorrow.",
+  "pinyin": "Rú guǒ tiānqì hǎo de huà, wǒ dǎsuàn míngtiān chūfā.",
+  "words": [
+    {
+      "ch": "如果",
+      "en": "if",
+      "pi": "rú guǒ"
+    },
+    {
+      "ch": "天氣",
+      "en": "weather",
+      "pi": "tiān qì"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "的話",
+      "en": "if",
+      "pi": "de huà"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "打算",
+      "en": "plan",
+      "pi": "dǎ suàn"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "出發",
+      "en": "leave",
+      "pi": "chū fā"
+    }
+  ]
+}

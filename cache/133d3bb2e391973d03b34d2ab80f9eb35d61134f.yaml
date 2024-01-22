@@ -1,0 +1,27 @@
+{
+  "chinese": "你是中国人吗？",
+  "english": "Are you Chinese?",
+  "pinyin": "nǐ shì zhōng guó rén ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "中国人",
+      "en": "Chinese",
+      "pi": "zhōng guó rén"
+    },
+    {
+      "ch": "吗",
+      "en": "question marker",
+      "pi": "ma"
+    }
+  ]
+}

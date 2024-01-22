@@ -1,0 +1,38 @@
+{
+  "sentences": [
+    {
+      "chinese": "有人放屁。",
+      "english": "Someone is farting.",
+      "pinyin": "yǒurén fàngpì.",
+      "words": [
+        {
+          "ch": "有人",
+          "en": "Someone",
+          "pi": "yǒurén"
+        },
+        {
+          "ch": "放屁",
+          "en": "is farting",
+          "pi": "fàngpì"
+        }
+      ]
+    },
+    {
+      "chinese": "不是我！",
+      "english": "Not me!",
+      "pinyin": "bùshì wǒ!",
+      "words": [
+        {
+          "ch": "不是",
+          "en": "Not",
+          "pi": "bùshì"
+        },
+        {
+          "ch": "我",
+          "en": "me",
+          "pi": "wǒ"
+        }
+      ]
+    }
+  ]
+}

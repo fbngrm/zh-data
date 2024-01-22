@@ -1,0 +1,37 @@
+{
+  "chinese": "电脑是个复杂的机器。",
+  "english": "Computer is a complex machine.",
+  "pinyin": "diàn nǎo shì gè fù zá de jī qì。",
+  "words": [
+    {
+      "ch": "电脑",
+      "en": "Computer",
+      "pi": "diàn nǎo"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "复杂",
+      "en": "complex",
+      "pi": "fù zá"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "机器",
+      "en": "machine",
+      "pi": "jī qì"
+    }
+  ]
+}

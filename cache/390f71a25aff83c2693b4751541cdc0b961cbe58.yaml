@@ -1,0 +1,32 @@
+{
+  "chinese": "我很晚才睡。",
+  "english": "I sleep very late.",
+  "pinyin": "wǒ hěn wǎn cái shuì。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "晚",
+      "en": "late",
+      "pi": "wǎn"
+    },
+    {
+      "ch": "才",
+      "en": "just",
+      "pi": "cái"
+    },
+    {
+      "ch": "睡",
+      "en": "sleep",
+      "pi": "shuì"
+    }
+  ]
+}

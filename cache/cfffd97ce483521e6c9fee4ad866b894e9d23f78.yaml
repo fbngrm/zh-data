@@ -1,0 +1,42 @@
+{
+  "chinese": "一架飛機在這個城市上空飛行。",
+  "english": "An airplane is flying in the sky above this city.",
+  "pinyin": "yī jià fēijī zài zhè ge chéngshì shàngkōng fēixíng.",
+  "words": [
+    {
+      "ch": "一架",
+      "en": "An",
+      "pi": "yī jià"
+    },
+    {
+      "ch": "飛機",
+      "en": "airplane",
+      "pi": "fēijī"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "這個",
+      "en": "this",
+      "pi": "zhè ge"
+    },
+    {
+      "ch": "城市",
+      "en": "city",
+      "pi": "chéngshì"
+    },
+    {
+      "ch": "上空",
+      "en": "in the sky above",
+      "pi": "shàngkōng"
+    },
+    {
+      "ch": "飛行",
+      "en": "flying",
+      "pi": "fēixíng"
+    }
+  ]
+}

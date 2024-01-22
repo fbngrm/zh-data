@@ -1,0 +1,14 @@
+{
+  "chinese": "男孩穿着袜子就上床睡觉了。",
+  "english": "The boy went to bed wearing socks.",
+  "pinyin": "nán hái chuān zhe wà zi jiù shàng chuáng shuì jiào le。",
+  "words": [
+    {"ch": "男孩", "en": "boy", "pi": "nán hái"},
+    {"ch": "穿着", "en": "wearing", "pi": "chuān zhe"},
+    {"ch": "袜子", "en": "socks", "pi": "wà zi"},
+    {"ch": "就", "en": "just", "pi": "jiù"},
+    {"ch": "上床", "en": "go to bed", "pi": "shàng chuáng"},
+    {"ch": "睡觉", "en": "sleep", "pi": "shuì jiào"},
+    {"ch": "了", "en": "already", "pi": "le"}
+  ]
+}

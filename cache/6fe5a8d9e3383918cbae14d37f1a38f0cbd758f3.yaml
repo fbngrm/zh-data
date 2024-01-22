@@ -1,0 +1,32 @@
+{
+  "chinese": "你今天感觉好多了吗？",
+  "english": "Are you feeling much better today?",
+  "pinyin": "nǐ jīntiān gǎnjué hǎo duō le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "感觉",
+      "en": "feeling",
+      "pi": "gǎnjué"
+    },
+    {
+      "ch": "好多了",
+      "en": "much better",
+      "pi": "hǎo duō le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

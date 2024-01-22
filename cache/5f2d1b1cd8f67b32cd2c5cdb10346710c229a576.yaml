@@ -1,0 +1,32 @@
+{
+  "chinese": "他坐汽车到波士顿。",
+  "english": "He takes a car to Boston.",
+  "pinyin": "tā zuò qìchē dào bōshìdùn.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "坐",
+      "en": "take",
+      "pi": "zuò"
+    },
+    {
+      "ch": "汽车",
+      "en": "car",
+      "pi": "qìchē"
+    },
+    {
+      "ch": "到",
+      "en": "to",
+      "pi": "dào"
+    },
+    {
+      "ch": "波士顿",
+      "en": "Boston",
+      "pi": "bōshìdùn"
+    }
+  ]
+}

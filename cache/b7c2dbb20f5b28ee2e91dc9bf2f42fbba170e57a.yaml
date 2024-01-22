@@ -1,0 +1,12 @@
+{
+  "chinese": "汤姆怀疑玛丽是否诚实。",
+  "english": "Tom suspects whether Mary is honest.",
+  "pinyin": "Tāng mǔ huáiyí mǎlì shìfǒu chéngshí.",
+  "words": [
+    { "ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ" },
+    { "ch": "怀疑", "en": "suspects", "pi": "huáiyí" },
+    { "ch": "玛丽", "en": "Mary", "pi": "mǎlì" },
+    { "ch": "是否", "en": "whether", "pi": "shìfǒu" },
+    { "ch": "诚实", "en": "honest", "pi": "chéngshí" }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我发现了一些有趣的东西。",
+  "english": "I found something interesting.",
+  "pinyin": "wǒ fāxiàn le yīxiē yǒuqù de dōngxi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "发现",
+      "en": "found",
+      "pi": "fāxiàn"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "一些",
+      "en": "some",
+      "pi": "yīxiē"
+    },
+    {
+      "ch": "有趣",
+      "en": "interesting",
+      "pi": "yǒuqù"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "东西",
+      "en": "something",
+      "pi": "dōngxi"
+    }
+  ]
+}

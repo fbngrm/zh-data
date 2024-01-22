@@ -1,0 +1,27 @@
+{
+  "chinese": "学校8点半开始上课。",
+  "english": "The school starts classes at 8:30.",
+  "pinyin": "xuéxiào bā diǎn bàn kāishǐ shàngkè。",
+  "words": [
+    {
+      "ch": "学校",
+      "en": "school",
+      "pi": "xuéxiào"
+    },
+    {
+      "ch": "8点半",
+      "en": "8:30",
+      "pi": "bā diǎn bàn"
+    },
+    {
+      "ch": "开始",
+      "en": "starts",
+      "pi": "kāishǐ"
+    },
+    {
+      "ch": "上课",
+      "en": "classes",
+      "pi": "shàngkè"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "我想学习法语。",
+  "english": "I want to learn French.",
+  "pinyin": "wǒ xiǎng xuéxí fǎyǔ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "学习",
+      "en": "to learn",
+      "pi": "xuéxí"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎyǔ"
+    }
+  ]
+}

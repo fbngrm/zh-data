@@ -1,0 +1,42 @@
+{
+  "chinese": "他用手帕把手抹干净。",
+  "english": "He wipes his hands clean with a handkerchief.",
+  "pinyin": "tā yòng shǒupà bǎ shǒu mǒ gānjìng。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "用",
+      "en": "use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "手帕",
+      "en": "handkerchief",
+      "pi": "shǒupà"
+    },
+    {
+      "ch": "把",
+      "en": "to",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "手",
+      "en": "hand",
+      "pi": "shǒu"
+    },
+    {
+      "ch": "抹",
+      "en": "wipe",
+      "pi": "mǒ"
+    },
+    {
+      "ch": "干净",
+      "en": "clean",
+      "pi": "gānjìng"
+    }
+  ]
+}

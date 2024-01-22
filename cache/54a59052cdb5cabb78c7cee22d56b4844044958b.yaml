@@ -1,0 +1,13 @@
+{
+  "chinese": "你找到你的票了吗？",
+  "english": "Have you found your ticket?",
+  "pinyin": "Nǐ zhǎodào nǐ de piào le ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "找到", "en": "found", "pi": "zhǎodào"},
+    {"ch": "你的", "en": "your", "pi": "nǐ de"},
+    {"ch": "票", "en": "ticket", "pi": "piào"},
+    {"ch": "了", "en": "have", "pi": "le"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

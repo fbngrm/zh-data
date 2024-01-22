@@ -1,0 +1,42 @@
+{
+  "chinese": "为什么他今天不能打网球呢？",
+  "english": "Why can't he play tennis today?",
+  "pinyin": "Wèishéme tā jīntiān bù néng dǎ wǎngqiú ne?",
+  "words": [
+    {
+      "ch": "为什么",
+      "en": "why",
+      "pi": "wèi shén me"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "不能",
+      "en": "cannot",
+      "pi": "bù néng"
+    },
+    {
+      "ch": "打",
+      "en": "play",
+      "pi": "dǎ"
+    },
+    {
+      "ch": "网球",
+      "en": "tennis",
+      "pi": "wǎng qiú"
+    },
+    {
+      "ch": "呢",
+      "en": "question particle",
+      "pi": "ne"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆正在自己房间里看书。",
+  "english": "Tom is reading a book in his own room.",
+  "pinyin": "Tāngmǔ zhèngzài zìjǐ fángjiān lǐ kànshū.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "正在",
+      "en": "is",
+      "pi": "zhèngzài"
+    },
+    {
+      "ch": "自己",
+      "en": "own",
+      "pi": "zìjǐ"
+    },
+    {
+      "ch": "房间",
+      "en": "room",
+      "pi": "fángjiān"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "看书",
+      "en": "reading a book",
+      "pi": "kànshū"
+    }
+  ]
+}

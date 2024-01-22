@@ -1,0 +1,18 @@
+{
+  "chinese": "对于是否要去医院探望Mary,Tom有点犹豫不决。",
+  "english": "Tom is hesitant about whether to visit Mary in the hospital or not.",
+  "pinyin": "duì yú shì fǒu yào qù yī yuàn tàn wàng Mary, Tom yǒu diǎn yóu bù jué.",
+  "words": [
+    { "ch": "对于", "en": "about", "pi": "duì yú" },
+    { "ch": "是否", "en": "whether", "pi": "shì fǒu" },
+    { "ch": "要", "en": "to", "pi": "yào" },
+    { "ch": "去", "en": "go", "pi": "qù" },
+    { "ch": "医院", "en": "hospital", "pi": "yī yuàn" },
+    { "ch": "探望", "en": "visit", "pi": "tàn wàng" },
+    { "ch": "Mary", "en": "Mary", "pi": "Mary" },
+    { "ch": ",", "en": ",", "pi": "," },
+    { "ch": "Tom", "en": "Tom", "pi": "Tom" },
+    { "ch": "有点", "en": "a bit", "pi": "yǒu diǎn" },
+    { "ch": "犹豫不决", "en": "hesitant", "pi": "yóu bù jué" }
+  ]
+}

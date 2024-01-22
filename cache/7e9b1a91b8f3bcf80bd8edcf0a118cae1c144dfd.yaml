@@ -1,0 +1,32 @@
+{
+  "chinese": "我爸爸不喜欢足球。",
+  "english": "My father doesn't like football.",
+  "pinyin": "wǒ bàba bù xǐhuān zúqiú.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "爸爸",
+      "en": "father",
+      "pi": "bàba"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "足球",
+      "en": "football",
+      "pi": "zúqiú"
+    }
+  ]
+}

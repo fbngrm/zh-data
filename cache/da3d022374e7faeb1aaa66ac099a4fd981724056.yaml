@@ -1,0 +1,32 @@
+{
+  "chinese": "他做了一个演讲。",
+  "english": "He gave a speech.",
+  "pinyin": "tā zuò le yī gè yǎn jiǎng。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "做",
+      "en": "do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "了",
+      "en": "completed action particle",
+      "pi": "le"
+    },
+    {
+      "ch": "一个",
+      "en": "one",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "演讲",
+      "en": "speech",
+      "pi": "yǎn jiǎng"
+    }
+  ]
+}

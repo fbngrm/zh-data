@@ -1,0 +1,32 @@
+{
+  "chinese": "你的手表在哪儿？",
+  "english": "Where is your watch?",
+  "pinyin": "Nǐ de shǒubiǎo zài nǎ'er?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "your",
+      "pi": "de"
+    },
+    {
+      "ch": "手表",
+      "en": "watch",
+      "pi": "shǒubiǎo"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪儿",
+      "en": "where",
+      "pi": "nǎ'er"
+    }
+  ]
+}

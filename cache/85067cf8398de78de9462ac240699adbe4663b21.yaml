@@ -1,0 +1,14 @@
+{
+  "chinese": "我会在七月一号开始上班。",
+  "english": "I will start working on July 1st.",
+  "pinyin": "wǒ huì zài qī yuè yī hào kāi shǐ shàng bān。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "在", "en": "on", "pi": "zài"},
+    {"ch": "七月", "en": "July", "pi": "qī yuè"},
+    {"ch": "一号", "en": "1st", "pi": "yī hào"},
+    {"ch": "开始", "en": "start", "pi": "kāi shǐ"},
+    {"ch": "上班", "en": "working", "pi": "shàng bàn"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "Ｔｏｍ被蛇咬到了。",
+  "english": "Tom was bitten by a snake.",
+  "pinyin": "Tōm bèi shé yǎo dào le.",
+  "words": [
+    {
+      "ch": "Ｔｏｍ",
+      "en": "Tom",
+      "pi": "Tōm"
+    },
+    {
+      "ch": "被",
+      "en": "by",
+      "pi": "bèi"
+    },
+    {
+      "ch": "蛇",
+      "en": "snake",
+      "pi": "shé"
+    },
+    {
+      "ch": "咬到",
+      "en": "bite",
+      "pi": "yǎo dào"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "le"
+    }
+  ]
+}

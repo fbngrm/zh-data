@@ -1,0 +1,42 @@
+{
+  "chinese": "这是一只钢笔还是铅笔？",
+  "english": "Is this a ballpoint pen or a pencil?",
+  "pinyin": "zhè shì yī zhī gāng bǐ hái shì qiān bǐ?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "一只",
+      "en": "a",
+      "pi": "yī zhī"
+    },
+    {
+      "ch": "钢笔",
+      "en": "ballpoint pen",
+      "pi": "gāng bǐ"
+    },
+    {
+      "ch": "还是",
+      "en": "or",
+      "pi": "hái shì"
+    },
+    {
+      "ch": "铅笔",
+      "en": "pencil",
+      "pi": "qiān bǐ"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "？"
+    }
+  ]
+}

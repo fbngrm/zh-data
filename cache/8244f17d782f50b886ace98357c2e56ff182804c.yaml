@@ -1,0 +1,32 @@
+{
+  "chinese": "那本書有趣嗎？",
+  "english": "Is that book interesting?",
+  "pinyin": "nà běn shū yǒu qù ma?",
+  "words": [
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "書",
+      "en": "book",
+      "pi": "shū"
+    },
+    {
+      "ch": "有趣",
+      "en": "interesting",
+      "pi": "yǒu qù"
+    },
+    {
+      "ch": "嗎",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

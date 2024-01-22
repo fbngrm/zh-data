@@ -1,0 +1,16 @@
+{
+  "chinese": "我在中国学习了十个月了。",
+  "english": "I have been studying in China for ten months.",
+  "pinyin": "Wǒ zài zhōngguó xuéxíle shí gè yuèle.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "中国", "en": "China", "pi": "zhōngguó"},
+    {"ch": "学习", "en": "study", "pi": "xuéxí"},
+    {"ch": "了", "en": "have", "pi": "le"},
+    {"ch": "十", "en": "ten", "pi": "shí"},
+    {"ch": "个", "en": "months", "pi": "gè"},
+    {"ch": "月", "en": "month", "pi": "yuè"},
+    {"ch": "了", "en": "now", "pi": "le"}
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "他花了１０００日元买这本书。",
+  "english": "He spent 1000 yen to buy this book.",
+  "pinyin": "tā huā le 1000 rì yuán mǎi zhè běn shū。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "花了",
+      "en": "spent",
+      "pi": "huā le"
+    },
+    {
+      "ch": "１０００",
+      "en": "1000",
+      "pi": "1000"
+    },
+    {
+      "ch": "日元",
+      "en": "yen",
+      "pi": "rì yuán"
+    },
+    {
+      "ch": "买",
+      "en": "buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本书",
+      "en": "book",
+      "pi": "běn shū"
+    }
+  ]
+}

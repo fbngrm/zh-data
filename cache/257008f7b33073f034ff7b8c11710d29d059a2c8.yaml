@@ -1,0 +1,42 @@
+{
+  "chinese": "米以公斤为单位来出售。",
+  "english": "Rice is sold in units of kilograms.",
+  "pinyin": "mǐ yǐ gōngjīn wéi dānwèi lái chūshòu。",
+  "words": [
+    {
+      "ch": "米",
+      "en": "Rice",
+      "pi": "mǐ"
+    },
+    {
+      "ch": "以",
+      "en": "in",
+      "pi": "yǐ"
+    },
+    {
+      "ch": "公斤",
+      "en": "kilograms",
+      "pi": "gōngjīn"
+    },
+    {
+      "ch": "为",
+      "en": "units",
+      "pi": "wéi"
+    },
+    {
+      "ch": "单位",
+      "en": "of",
+      "pi": "dānwèi"
+    },
+    {
+      "ch": "来",
+      "en": "sold",
+      "pi": "lái"
+    },
+    {
+      "ch": "出售",
+      "en": "in",
+      "pi": "chūshòu"
+    }
+  ]
+}

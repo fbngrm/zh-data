@@ -1,0 +1,32 @@
+{
+  "chinese": "我爸爸常常洗碗。",
+  "english": "My dad often washes dishes.",
+  "pinyin": "Wǒ bàba chángcháng xǐwǎn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "爸爸",
+      "en": "dad",
+      "pi": "bàba"
+    },
+    {
+      "ch": "常常",
+      "en": "often",
+      "pi": "chángcháng"
+    },
+    {
+      "ch": "洗",
+      "en": "wash",
+      "pi": "xǐ"
+    },
+    {
+      "ch": "碗",
+      "en": "dishes",
+      "pi": "wǎn"
+    }
+  ]
+}

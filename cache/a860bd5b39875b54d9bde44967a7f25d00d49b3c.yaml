@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆明天离开波士顿。",
+  "english": "Tom is leaving Boston tomorrow.",
+  "pinyin": "tāng mǔ míng tiān lí kāi bō shì dùn.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "离开",
+      "en": "leave",
+      "pi": "lí kāi"
+    },
+    {
+      "ch": "波士顿",
+      "en": "Boston",
+      "pi": "bō shì dùn"
+    }
+  ]
+}

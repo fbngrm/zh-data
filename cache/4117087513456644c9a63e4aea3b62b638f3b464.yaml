@@ -1,0 +1,32 @@
+{
+  "chinese": "我不想错过考试。",
+  "english": "I don't want to miss the exam.",
+  "pinyin": "wǒ bù xiǎng cuòguò kǎoshì。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "do not",
+      "pi": "bù"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "错过",
+      "en": "miss",
+      "pi": "cuòguò"
+    },
+    {
+      "ch": "考试",
+      "en": "exam",
+      "pi": "kǎoshì"
+    }
+  ]
+}

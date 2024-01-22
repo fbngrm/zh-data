@@ -1,0 +1,103 @@
+{
+  "sentences": [
+    {
+      "chinese": "如果你想去，就去好了。",
+      "english": "If you want to go, just go.",
+      "pinyin": "Rúguǒ nǐ xiǎng qù, jiù qù hǎo le.",
+      "words": [
+        {
+          "ch": "如果",
+          "en": "if",
+          "pi": "rúguǒ"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "想",
+          "en": "want",
+          "pi": "xiǎng"
+        },
+        {
+          "ch": "去",
+          "en": "to go",
+          "pi": "qù"
+        },
+        {
+          "ch": "就",
+          "en": "just",
+          "pi": "jiù"
+        },
+        {
+          "ch": "去",
+          "en": "go",
+          "pi": "qù"
+        },
+        {
+          "ch": "好了",
+          "en": "ok",
+          "pi": "hǎo le"
+        }
+      ]
+    },
+    {
+      "chinese": "如果你不想去，那也没什么大不了的。",
+      "english": "If you don't want to go, that's also not a big deal.",
+      "pinyin": "Rúguǒ nǐ bù xiǎng qù, nà yě méi shénme dàbuliǎo de.",
+      "words": [
+        {
+          "ch": "如果",
+          "en": "if",
+          "pi": "rúguǒ"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "不",
+          "en": "do not",
+          "pi": "bù"
+        },
+        {
+          "ch": "想",
+          "en": "want",
+          "pi": "xiǎng"
+        },
+        {
+          "ch": "去",
+          "en": "to go",
+          "pi": "qù"
+        },
+        {
+          "ch": "那",
+          "en": "that",
+          "pi": "nà"
+        },
+        {
+          "ch": "也",
+          "en": "also",
+          "pi": "yě"
+        },
+        {
+          "ch": "没什么",
+          "en": "not a big deal",
+          "pi": "méi shénme"
+        },
+        {
+          "ch": "大不了",
+          "en": "big deal",
+          "pi": "dàbuliǎo de"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": "de"
+        }
+      ]
+    }
+  ]
+}

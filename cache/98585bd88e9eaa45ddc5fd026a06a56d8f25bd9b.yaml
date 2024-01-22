@@ -1,0 +1,13 @@
+{
+  "chinese": "可以借你的雨伞一用吗？",
+  "english": "Can I borrow your umbrella for a moment?",
+  "pinyin": "kěyǐ jiè nǐ de yǔsǎn yīyòng ma?",
+  "words": [
+    {"ch": "可以", "en": "Can", "pi": "kěyǐ"},
+    {"ch": "借", "en": "borrow", "pi": "jiè"},
+    {"ch": "你的", "en": "your", "pi": "nǐ de"},
+    {"ch": "雨伞", "en": "umbrella", "pi": "yǔsǎn"},
+    {"ch": "一用", "en": "for a moment", "pi": "yīyòng"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

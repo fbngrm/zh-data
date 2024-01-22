@@ -1,0 +1,37 @@
+{
+  "chinese": "我今天下午要看牙医。",
+  "english": "I have a dentist appointment this afternoon.",
+  "pinyin": "wǒ jīntiān xiàwǔ yào kàn yáyī。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "下午",
+      "en": "afternoon",
+      "pi": "xiàwǔ"
+    },
+    {
+      "ch": "要",
+      "en": "have to",
+      "pi": "yào"
+    },
+    {
+      "ch": "看",
+      "en": "see",
+      "pi": "kàn"
+    },
+    {
+      "ch": "牙医",
+      "en": "dentist",
+      "pi": "yáyī"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "会议明天就结束了。",
+  "english": "The meeting will end tomorrow.",
+  "pinyin": "huì yì míng tiān jiù jié shù le。",
+  "words": [
+    {
+      "ch": "会议",
+      "en": "meeting",
+      "pi": "huì yì"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "就",
+      "en": "will",
+      "pi": "jiù"
+    },
+    {
+      "ch": "结束",
+      "en": "end",
+      "pi": "jié shù"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "le"
+    }
+  ]
+}

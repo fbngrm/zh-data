@@ -1,0 +1,42 @@
+{
+  "chinese": "此输入法也适用于这个版本。",
+  "english": "This input method is also suitable for this version.",
+  "pinyin": "cǐ shūrù fǎ yě shìyòng yú zhège bǎnběn.",
+  "words": [
+    {
+      "ch": "此",
+      "en": "this",
+      "pi": "cǐ"
+    },
+    {
+      "ch": "输入法",
+      "en": "input method",
+      "pi": "shūrù fǎ"
+    },
+    {
+      "ch": "也",
+      "en": "also",
+      "pi": "yě"
+    },
+    {
+      "ch": "适用",
+      "en": "suitable",
+      "pi": "shìyòng"
+    },
+    {
+      "ch": "于",
+      "en": "for",
+      "pi": "yú"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhège"
+    },
+    {
+      "ch": "版本",
+      "en": "version",
+      "pi": "bǎnběn"
+    }
+  ]
+}

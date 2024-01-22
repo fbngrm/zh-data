@@ -1,0 +1,14 @@
+{
+  "chinese": "看，这是我的问题。",
+  "english": "Look, this is my problem.",
+  "pinyin": "Kàn, zhè shì wǒ de wèn tí.",
+  "words": [
+    { "ch": "看", "en": "Look", "pi": "Kàn" },
+    { "ch": "，", "en": ",", "pi": "，" },
+    { "ch": "这", "en": "this", "pi": "zhè" },
+    { "ch": "是", "en": "is", "pi": "shì" },
+    { "ch": "我的", "en": "my", "pi": "wǒ de" },
+    { "ch": "问题", "en": "problem", "pi": "wèn tí" },
+    { "ch": "。", "en": ".", "pi": "。" }
+  ]
+}

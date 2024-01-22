@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆吃了多少橘子？",
+  "english": "How many oranges did Tom eat?",
+  "pinyin": "Tāng mǔ chī le duō shǎo jú zi?",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "吃了",
+      "en": "ate",
+      "pi": "chī le"
+    },
+    {
+      "ch": "多少",
+      "en": "how many",
+      "pi": "duō shǎo"
+    },
+    {
+      "ch": "橘子",
+      "en": "oranges",
+      "pi": "jú zi"
+    }
+  ]
+}

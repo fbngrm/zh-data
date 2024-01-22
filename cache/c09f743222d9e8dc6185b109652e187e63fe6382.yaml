@@ -1,0 +1,13 @@
+{
+  "chinese": "誰是這間房子的主人？",
+  "english": "Who is the owner of this house?",
+  "pinyin": "shéi shì zhè jiān fáng zi de zhǔ rén?",
+  "words": [
+    {"ch": "誰", "en": "Who", "pi": "shéi"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "這間", "en": "this", "pi": "zhè jiān"},
+    {"ch": "房子", "en": "house", "pi": "fáng zi"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "主人", "en": "owner", "pi": "zhǔ rén"}
+  ]
+}

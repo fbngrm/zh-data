@@ -1,0 +1,32 @@
+{
+  "chinese": "请在下一个十字路口右转。",
+  "english": "Please turn right at the next intersection.",
+  "pinyin": "Qǐng zài xià yīgè shízì lùkǒu yòu zhuǎn。",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "下一个",
+      "en": "next",
+      "pi": "xià yīgè"
+    },
+    {
+      "ch": "十字路口",
+      "en": "intersection",
+      "pi": "shízì lùkǒu"
+    },
+    {
+      "ch": "右转",
+      "en": "turn right",
+      "pi": "yòu zhuǎn"
+    }
+  ]
+}

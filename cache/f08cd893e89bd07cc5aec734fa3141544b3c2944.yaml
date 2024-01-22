@@ -1,0 +1,17 @@
+{
+  "chinese": "我在这家商店买了一顶帽子。",
+  "english": "I bought a hat at this store.",
+  "pinyin": "wǒ zài zhè jiā shāngdiàn mǎile yī dǐng màozi.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "在", "en": "at", "pi": "zài" },
+    { "ch": "这", "en": "this", "pi": "zhè" },
+    { "ch": "家", "en": "store", "pi": "jiā" },
+    { "ch": "商店", "en": "store", "pi": "shāngdiàn" },
+    { "ch": "买", "en": "buy", "pi": "mǎi" },
+    { "ch": "了", "en": "bought", "pi": "le" },
+    { "ch": "一", "en": "one", "pi": "yī" },
+    { "ch": "顶", "en": "hat", "pi": "dǐng" },
+    { "ch": "帽子", "en": "hat", "pi": "màozi" }
+  ]
+}

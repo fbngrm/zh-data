@@ -1,0 +1,37 @@
+{
+  "chinese": "每位学生必须最晚六点放学。",
+  "english": "Every student must leave school by six o'clock at the latest.",
+  "pinyin": "měi wèi xué shēng bì xū zuì wǎn liù diǎn fàng xué。",
+  "words": [
+    {
+      "ch": "每位",
+      "en": "Every",
+      "pi": "měi wèi"
+    },
+    {
+      "ch": "学生",
+      "en": "student",
+      "pi": "xué shēng"
+    },
+    {
+      "ch": "必须",
+      "en": "must",
+      "pi": "bì xū"
+    },
+    {
+      "ch": "最晚",
+      "en": "latest",
+      "pi": "zuì wǎn"
+    },
+    {
+      "ch": "六点",
+      "en": "six o'clock",
+      "pi": "liù diǎn"
+    },
+    {
+      "ch": "放学",
+      "en": "leave school",
+      "pi": "fàng xué"
+    }
+  ]
+}

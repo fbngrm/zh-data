@@ -1,0 +1,37 @@
+{
+  "chinese": "她犯了很多拼写错误。",
+  "english": "She made a lot of spelling mistakes.",
+  "pinyin": "tā fàn le hěn duō pīnxiě cuòwù。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "犯",
+      "en": "made",
+      "pi": "fàn"
+    },
+    {
+      "ch": "了",
+      "en": "a lot",
+      "pi": "le"
+    },
+    {
+      "ch": "很多",
+      "en": "of",
+      "pi": "hěn duō"
+    },
+    {
+      "ch": "拼写",
+      "en": "spelling",
+      "pi": "pīnxiě"
+    },
+    {
+      "ch": "错误",
+      "en": "mistakes",
+      "pi": "cuòwù"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我昨天都没读书。",
+  "english": "I didn't read any books yesterday.",
+  "pinyin": "wǒ zuótiān dōu méi dúshū.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "没",
+      "en": "didn't",
+      "pi": "méi"
+    },
+    {
+      "ch": "读书",
+      "en": "read books",
+      "pi": "dúshū"
+    }
+  ]
+}

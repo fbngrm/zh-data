@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆在说法语。",
+  "english": "Tom is speaking French.",
+  "pinyin": "Tāng mǔ zài shuō fǎ yǔ.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "说",
+      "en": "speaking",
+      "pi": "shuō"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎ yǔ"
+    }
+  ]
+}

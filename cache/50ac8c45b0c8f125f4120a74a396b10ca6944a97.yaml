@@ -1,0 +1,15 @@
+{
+  "chinese": "有人在這張沙發上睡過。",
+  "english": "Someone has slept on this sofa.",
+  "pinyin": "yǒu rén zài zhè zhāng shā fā shàng shuì guò。",
+  "words": [
+    {"ch": "有", "en": "someone", "pi": "yǒu"},
+    {"ch": "人", "en": "person", "pi": "rén"},
+    {"ch": "在", "en": "on", "pi": "zài"},
+    {"ch": "這", "en": "this", "pi": "zhè"},
+    {"ch": "張", "en": "measure word for flat objects", "pi": "zhāng"},
+    {"ch": "沙發", "en": "sofa", "pi": "shā fā"},
+    {"ch": "上", "en": "on", "pi": "shàng"},
+    {"ch": "睡過", "en": "slept", "pi": "shuì guò"}
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "每个人都请教汤姆。",
+  "english": "Everyone asked Tom for advice.",
+  "pinyin": "měi gè rén dōu qǐng jiào tāng mǔ。",
+  "words": [
+    {
+      "ch": "每个人",
+      "en": "everyone",
+      "pi": "měi gè rén"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "请教",
+      "en": "ask for advice",
+      "pi": "qǐng jiào"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    }
+  ]
+}

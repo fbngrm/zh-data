@@ -1,0 +1,27 @@
+{
+  "chinese": "这个苹果汁是纯的。",
+  "english": "This apple juice is pure.",
+  "pinyin": "zhè gè píng guǒ zhī shì chún de.",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "This",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "苹果汁",
+      "en": "apple juice",
+      "pi": "píng guǒ zhī"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "纯的",
+      "en": "pure",
+      "pi": "chún de"
+    }
+  ]
+}

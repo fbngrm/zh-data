@@ -1,0 +1,32 @@
+{
+  "chinese": "这棵大树遭到雷击。",
+  "english": "This big tree was struck by lightning.",
+  "pinyin": "zhè kē dà shù zāo dào léi jī.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "棵",
+      "en": "measure word for trees",
+      "pi": "kē"
+    },
+    {
+      "ch": "大树",
+      "en": "big tree",
+      "pi": "dà shù"
+    },
+    {
+      "ch": "遭到",
+      "en": "be subjected to",
+      "pi": "zāo dào"
+    },
+    {
+      "ch": "雷击",
+      "en": "lightning strike",
+      "pi": "léi jī"
+    }
+  ]
+}

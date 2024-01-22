@@ -1,0 +1,42 @@
+{
+  "chinese": "我没有听清楚你的姓。",
+  "english": "I didn't hear your last name clearly.",
+  "pinyin": "wǒ méiyǒu tīng qīngchǔ nǐ de xìng。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "没有",
+      "en": "not have",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "听",
+      "en": "listen",
+      "pi": "tīng"
+    },
+    {
+      "ch": "清楚",
+      "en": "clearly",
+      "pi": "qīngchǔ"
+    },
+    {
+      "ch": "你",
+      "en": "your",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "de",
+      "pi": "de"
+    },
+    {
+      "ch": "姓",
+      "en": "last name",
+      "pi": "xìng"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "chinese": "约翰很可能犯了一个错误。",
+  "english": "John may have made a mistake.",
+  "pinyin": "Yuēhàn hěn kěnéng fànle yí ge cuòwù。",
+  "words": [{
+    "ch": "约翰",
+    "en": "John",
+    "pi": "Yuēhàn"
+  },
+  {
+    "ch": "很",
+    "en": "may",
+    "pi": "hěn"
+  },
+  {
+    "ch": "可能",
+    "en": "have",
+    "pi": "kěnéng"
+  },
+  {
+    "ch": "犯",
+    "en": "made",
+    "pi": "fàn"
+  },
+  {
+    "ch": "了",
+    "en": "a",
+    "pi": "le"
+  },
+  {
+    "ch": "一个",
+    "en": "mistake",
+    "pi": "yí ge"
+  },
+  {
+    "ch": "错误",
+    "en": "mistake",
+    "pi": "cuòwù"
+  }]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "Nancy正在和她的朋友们聊天。",
+  "english": "Nancy is chatting with her friends.",
+  "pinyin": "nán cí zhèng zài hé tā de péng yǒu men liáo tiān。",
+  "words": [
+    {"ch": "Nancy", "en": "Nancy", "pi": "nán cí"},
+    {"ch": "正在", "en": "is", "pi": "zhèng zài"},
+    {"ch": "和", "en": "with", "pi": "hé"},
+    {"ch": "她的", "en": "her", "pi": "tā de"},
+    {"ch": "朋友们", "en": "friends", "pi": "péng yǒu men"},
+    {"ch": "聊天", "en": "chatting", "pi": "liáo tiān"}
+  ]
+}

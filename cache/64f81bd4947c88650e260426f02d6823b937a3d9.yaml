@@ -1,0 +1,16 @@
+{
+  "chinese": "今天强盗大白天的就抢了另一家银行。",
+  "english": "Today, the robber robbed another bank in broad daylight.",
+  "pinyin": "jīn tiān qiáng dào dà bái tiān de jiù qiǎng le lìng yī jiā yín háng。",
+  "words": [
+    {"ch": "今天", "en": "Today", "pi": "jīn tiān"},
+    {"ch": "强盗", "en": "robber", "pi": "qiáng dào"},
+    {"ch": "大白天", "en": "broad daylight", "pi": "dà bái tiān"},
+    {"ch": "的", "en": "in", "pi": "de"},
+    {"ch": "就", "en": "just", "pi": "jiù"},
+    {"ch": "抢", "en": "rob", "pi": "qiǎng"},
+    {"ch": "了", "en": "another", "pi": "le"},
+    {"ch": "另一家", "en": "bank", "pi": "lìng yī jiā"},
+    {"ch": "银行", "en": "in", "pi": "yín háng"}
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "sentences": [
+    {
+      "chinese": "我養了一隻貓和一隻狗。",
+      "english": "I have a cat and a dog.",
+      "pinyin": "wǒ yǎng le yī zhī māo hé yī zhī gǒu.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "養",
+          "en": "have",
+          "pi": "yǎng"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        },
+        {
+          "ch": "一隻",
+          "en": "a",
+          "pi": "yī zhī"
+        },
+        {
+          "ch": "貓",
+          "en": "cat",
+          "pi": "māo"
+        },
+        {
+          "ch": "和",
+          "en": "and",
+          "pi": "hé"
+        },
+        {
+          "ch": "一隻",
+          "en": "a",
+          "pi": "yī zhī"
+        },
+        {
+          "ch": "狗",
+          "en": "dog",
+          "pi": "gǒu"
+        }
+      ]
+    },
+    {
+      "chinese": "貓是黑色的，狗是白色的。",
+      "english": "The cat is black, the dog is white.",
+      "pinyin": "māo shì hēi sè de, gǒu shì bái sè de.",
+      "words": [
+        {
+          "ch": "貓",
+          "en": "cat",
+          "pi": "māo"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "黑色的",
+          "en": "black",
+          "pi": "hēi sè de"
+        },
+        {
+          "ch": "，",
+          "en": "",
+          "pi": ","
+        },
+        {
+          "ch": "狗",
+          "en": "dog",
+          "pi": "gǒu"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "白色的",
+          "en": "white",
+          "pi": "bái sè de"
+        },
+        {
+          "ch": "。",
+          "en": "",
+          "pi": "."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "这家工厂生产ＣＤ机。",
+  "english": "This factory produces CD players.",
+  "pinyin": "zhè jiā gōng chǎng shēng chǎn CD jī.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "家",
+      "en": "factory",
+      "pi": "jiā"
+    },
+    {
+      "ch": "工厂",
+      "en": "factory",
+      "pi": "gōng chǎng"
+    },
+    {
+      "ch": "生产",
+      "en": "produce",
+      "pi": "shēng chǎn"
+    },
+    {
+      "ch": "ＣＤ",
+      "en": "CD",
+      "pi": "CD"
+    },
+    {
+      "ch": "机",
+      "en": "player",
+      "pi": "jī"
+    }
+  ]
+}

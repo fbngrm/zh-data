@@ -1,0 +1,32 @@
+{
+  "chinese": "昨晚，烟花厂发生了爆炸。",
+  "english": "Last night, there was an explosion at the fireworks factory.",
+  "pinyin": "Zuówǎn，yānhuā chǎng fāshēngle bàozhà.",
+  "words": [
+    {
+      "ch": "昨晚",
+      "en": "Last night",
+      "pi": "zuówǎn"
+    },
+    {
+      "ch": "烟花厂",
+      "en": "fireworks factory",
+      "pi": "yānhuā chǎng"
+    },
+    {
+      "ch": "发生",
+      "en": "happen",
+      "pi": "fāshēng"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "爆炸",
+      "en": "explosion",
+      "pi": "bàozhà"
+    }
+  ]
+}

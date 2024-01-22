@@ -1,0 +1,37 @@
+{
+  "chinese": "我家离车站很近。",
+  "english": "My home is very close to the train station.",
+  "pinyin": "Wǒ jiā lí chē zhàn hěn jìn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "家",
+      "en": "home",
+      "pi": "jiā"
+    },
+    {
+      "ch": "离",
+      "en": "from",
+      "pi": "lí"
+    },
+    {
+      "ch": "车站",
+      "en": "train station",
+      "pi": "chē zhàn"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "近",
+      "en": "close",
+      "pi": "jìn"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我不喜欢这番话。",
+  "english": "I don't like these words.",
+  "pinyin": "wǒ bù xǐhuān zhè fānhuà。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "do not",
+      "pi": "bù"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "这",
+      "en": "these",
+      "pi": "zhè"
+    },
+    {
+      "ch": "番话",
+      "en": "words",
+      "pi": "fānhuà"
+    }
+  ]
+}

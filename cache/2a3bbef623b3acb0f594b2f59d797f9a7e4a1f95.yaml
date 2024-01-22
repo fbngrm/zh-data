@@ -1,0 +1,32 @@
+{
+  "chinese": "这个门会自己上锁。",
+  "english": "This door will lock itself.",
+  "pinyin": "zhè gè mén huì zìjǐ shàngsuǒ。",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "This",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "门",
+      "en": "door",
+      "pi": "mén"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "自己",
+      "en": "itself",
+      "pi": "zìjǐ"
+    },
+    {
+      "ch": "上锁",
+      "en": "lock",
+      "pi": "shàngsuǒ"
+    }
+  ]
+}

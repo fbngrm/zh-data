@@ -1,0 +1,48 @@
+{
+  "sentences": [
+    {
+      "chinese": "誰教你英文？",
+      "english": "Who taught you English?",
+      "pinyin": "shéi jiāo nǐ yīng wén？",
+      "words": [
+        {
+          "ch": "誰",
+          "en": "who",
+          "pi": "shéi"
+        },
+        {
+          "ch": "教",
+          "en": "teach",
+          "pi": "jiāo"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "英文",
+          "en": "English",
+          "pi": "yīng wén"
+        }
+      ]
+    },
+    {
+      "chinese": "山田老師。",
+      "english": "Teacher Yamada.",
+      "pinyin": "shān tián lǎo shī。",
+      "words": [
+        {
+          "ch": "山田",
+          "en": "Yamada",
+          "pi": "shān tián"
+        },
+        {
+          "ch": "老師",
+          "en": "teacher",
+          "pi": "lǎo shī"
+        }
+      ]
+    }
+  ]
+}

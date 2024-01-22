@@ -1,0 +1,42 @@
+{
+  "chinese": "她不喜欢吃椰子味的东西。",
+  "english": "She doesn't like the taste of coconut.",
+  "pinyin": "tā bù xǐhuān chī yēzi wèi de dōngxi。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "椰子味",
+      "en": "coconut taste",
+      "pi": "yēzi wèi"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "东西",
+      "en": "things",
+      "pi": "dōngxi"
+    }
+  ]
+}

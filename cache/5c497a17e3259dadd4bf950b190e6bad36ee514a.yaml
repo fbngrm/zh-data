@@ -1,0 +1,13 @@
+{
+  "chinese": "汤姆在这宾馆待了三周。",
+  "english": "Tom stayed in this hotel for three weeks.",
+  "pinyin": "Tāng mǔ zài zhè bīn guǎn dāi le sān zhōu.",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "宾馆", "en": "hotel", "pi": "bīn guǎn"},
+    {"ch": "待了", "en": "stayed", "pi": "dāi le"},
+    {"ch": "三周", "en": "three weeks", "pi": "sān zhōu"}
+  ]
+}

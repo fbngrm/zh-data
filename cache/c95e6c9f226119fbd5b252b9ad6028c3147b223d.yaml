@@ -1,0 +1,37 @@
+{
+  "chinese": "我乘火车去了神户。",
+  "english": "I took the train to Kobe.",
+  "pinyin": "wǒ chéng huǒchē qùle shénhù.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "乘",
+      "en": "to take",
+      "pi": "chéng"
+    },
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒchē"
+    },
+    {
+      "ch": "去",
+      "en": "to",
+      "pi": "qù"
+    },
+    {
+      "ch": "了",
+      "en": "have",
+      "pi": "le"
+    },
+    {
+      "ch": "神户",
+      "en": "Kobe",
+      "pi": "shénhù"
+    }
+  ]
+}

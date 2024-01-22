@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆跑得很快。",
+  "english": "Tom runs very fast.",
+  "pinyin": "Tāng mǔ pǎo de hěn kuài.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "跑",
+      "en": "run",
+      "pi": "pǎo"
+    },
+    {
+      "ch": "得",
+      "en": "very",
+      "pi": "de"
+    },
+    {
+      "ch": "很快",
+      "en": "fast",
+      "pi": "hěn kuài"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "这将花费约１００００日元。",
+  "english": "This will cost about 10,000 yen.",
+  "pinyin": "zhè jiāng huāfèi yuē 10000 rìyuán.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "将",
+      "en": "will",
+      "pi": "jiāng"
+    },
+    {
+      "ch": "花费",
+      "en": "cost",
+      "pi": "huāfèi"
+    },
+    {
+      "ch": "约",
+      "en": "about",
+      "pi": "yuē"
+    },
+    {
+      "ch": "１００００",
+      "en": "10,000",
+      "pi": "10000"
+    },
+    {
+      "ch": "日元",
+      "en": "yen",
+      "pi": "rìyuán"
+    }
+  ]
+}

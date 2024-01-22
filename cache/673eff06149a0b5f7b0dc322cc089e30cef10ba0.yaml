@@ -1,0 +1,47 @@
+{
+  "chinese": "猫在黑暗中都是灰色的。",
+  "english": "Cats are gray in the dark.",
+  "pinyin": "māo zài hēi àn zhōng dōu shì huī sè de.",
+  "words": [
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "黑暗",
+      "en": "dark",
+      "pi": "hēi àn"
+    },
+    {
+      "ch": "中",
+      "en": "in",
+      "pi": "zhōng"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "灰色",
+      "en": "gray",
+      "pi": "huī sè"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    }
+  ]
+}

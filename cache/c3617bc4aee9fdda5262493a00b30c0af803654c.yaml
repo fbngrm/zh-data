@@ -1,0 +1,32 @@
+{
+  "chinese": "我没听到您的姓。",
+  "english": "I didn't hear your last name.",
+  "pinyin": "Wǒ méi tīngdào nín de xìng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "没",
+      "en": "didn't",
+      "pi": "méi"
+    },
+    {
+      "ch": "听到",
+      "en": "hear",
+      "pi": "tīngdào"
+    },
+    {
+      "ch": "您的",
+      "en": "your",
+      "pi": "nín de"
+    },
+    {
+      "ch": "姓",
+      "en": "last name",
+      "pi": "xìng"
+    }
+  ]
+}

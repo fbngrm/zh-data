@@ -1,0 +1,18 @@
+{
+  "chinese": "根据我的估计，她现在应该在印度了。",
+  "english": "According to my estimation, she should be in India now.",
+  "pinyin": "Gēnjù wǒ de gūjì, tā xiànzài yīnggāi zài Yìndùle.",
+  "words": [
+    {"ch": "根据", "en": "according to", "pi": "gēnjù"},
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "估计", "en": "estimation", "pi": "gūjì"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "她", "en": "she", "pi": "tā"},
+    {"ch": "现在", "en": "now", "pi": "xiànzài"},
+    {"ch": "应该", "en": "should", "pi": "yīnggāi"},
+    {"ch": "在", "en": "be", "pi": "zài"},
+    {"ch": "印度", "en": "India", "pi": "Yìndù"},
+    {"ch": "了", "en": "now", "pi": "le"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

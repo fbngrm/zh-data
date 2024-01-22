@@ -1,0 +1,32 @@
+{
+  "chinese": "这个柳橙太酸了。",
+  "english": "This orange is too sour.",
+  "pinyin": "zhè gè liǔ chéng tài suān le.",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "This",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "柳橙",
+      "en": "orange",
+      "pi": "liǔ chéng"
+    },
+    {
+      "ch": "太",
+      "en": "too",
+      "pi": "tài"
+    },
+    {
+      "ch": "酸",
+      "en": "sour",
+      "pi": "suān"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

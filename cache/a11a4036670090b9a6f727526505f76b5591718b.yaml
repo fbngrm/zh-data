@@ -1,0 +1,32 @@
+{
+  "chinese": "这间房间是谁的？",
+  "english": "Whose room is this?",
+  "pinyin": "zhè jiān fángjiān shì shuí de?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "间",
+      "en": "room",
+      "pi": "jiān"
+    },
+    {
+      "ch": "房间",
+      "en": "room",
+      "pi": "fángjiān"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "谁的",
+      "en": "whose",
+      "pi": "shuí de"
+    }
+  ]
+}

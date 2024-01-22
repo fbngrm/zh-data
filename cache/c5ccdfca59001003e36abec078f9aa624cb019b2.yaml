@@ -1,0 +1,27 @@
+{
+  "chinese": "我非常喜欢比萨。",
+  "english": "I really like pizza.",
+  "pinyin": "wǒ fēi cháng xǐ huān bǐ sà.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "非常",
+      "en": "really",
+      "pi": "fēi cháng"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐ huān"
+    },
+    {
+      "ch": "比萨",
+      "en": "pizza",
+      "pi": "bǐ sà"
+    }
+  ]
+}

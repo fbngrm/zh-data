@@ -1,0 +1,32 @@
+{
+  "chinese": "这些是你的东西吗？",
+  "english": "Are these your things?",
+  "pinyin": "Zhèxiē shì nǐ de dōngxi ma?",
+  "words": [
+    {
+      "ch": "这些",
+      "en": "these",
+      "pi": "zhèxiē"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "东西",
+      "en": "things",
+      "pi": "dōngxi"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

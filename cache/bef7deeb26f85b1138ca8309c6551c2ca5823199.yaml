@@ -1,0 +1,42 @@
+{
+  "chinese": "我坐在汤姆和约翰中间。",
+  "english": "I am sitting between Tom and John.",
+  "pinyin": "wǒ zuò zài tāng mǔ hé yuē hàn zhōng jiān。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "坐",
+      "en": "am sitting",
+      "pi": "zuò"
+    },
+    {
+      "ch": "在",
+      "en": "between",
+      "pi": "zài"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "约翰",
+      "en": "John",
+      "pi": "yuē hàn"
+    },
+    {
+      "ch": "中间",
+      "en": "middle",
+      "pi": "zhōng jiān"
+    }
+  ]
+}

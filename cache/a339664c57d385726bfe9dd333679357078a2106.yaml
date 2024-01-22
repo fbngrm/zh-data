@@ -1,0 +1,15 @@
+{
+  "chinese": "他们从地下室到阁楼都打扫了。",
+  "english": "They cleaned from the basement to the attic.",
+  "pinyin": "tā men cóng dì xià shì dào gé lóu dōu dǎ sǎo le。",
+  "words": [
+    {"ch": "他们", "en": "They", "pi": "tā men"},
+    {"ch": "从", "en": "from", "pi": "cóng"},
+    {"ch": "地下室", "en": "basement", "pi": "dì xià shì"},
+    {"ch": "到", "en": "to", "pi": "dào"},
+    {"ch": "阁楼", "en": "attic", "pi": "gé lóu"},
+    {"ch": "都", "en": "all", "pi": "dōu"},
+    {"ch": "打扫", "en": "cleaned", "pi": "dǎ sǎo"},
+    {"ch": "了", "en": "completed", "pi": "le"}
+  ]
+}

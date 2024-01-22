@@ -1,0 +1,36 @@
+{
+  "chinese": "昨天我见到了你父亲。",
+  "english": "Yesterday I saw your father.",
+  "pinyin": "zuó tiān wǒ jiàn dào le nǐ fù qīn.",
+  "words": [{
+      "ch": "昨天",
+      "en": "Yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "见到",
+      "en": "saw",
+      "pi": "jiàn dào"
+    },
+    {
+      "ch": "了",
+      "en": "your",
+      "pi": "le"
+    },
+    {
+      "ch": "你",
+      "en": "father",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "父亲",
+      "en": "father",
+      "pi": "fù qīn"
+    }
+  ]
+}

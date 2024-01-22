@@ -1,0 +1,27 @@
+{
+  "chinese": "你饿了吗？",
+  "english": "Are you hungry?",
+  "pinyin": "nǐ è le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "饿",
+      "en": "hungry",
+      "pi": "è"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

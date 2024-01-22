@@ -1,0 +1,27 @@
+{
+  "chinese": "這個機器人失控了。",
+  "english": "This robot has gone out of control.",
+  "pinyin": "zhè gè jī qì rén shī kòng le。",
+  "words": [
+    {
+      "ch": "這個",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "機器人",
+      "en": "robot",
+      "pi": "jī qì rén"
+    },
+    {
+      "ch": "失控",
+      "en": "out of control",
+      "pi": "shī kòng"
+    },
+    {
+      "ch": "了",
+      "en": "has",
+      "pi": "le"
+    }
+  ]
+}

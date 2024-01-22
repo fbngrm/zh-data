@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆明天早上离开神户。",
+  "english": "Tom will leave Kobe tomorrow morning.",
+  "pinyin": "Tāng mǔ míngtiān zǎoshang líkāi shén hù.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎo shang"
+    },
+    {
+      "ch": "离开",
+      "en": "leave",
+      "pi": "lí kāi"
+    },
+    {
+      "ch": "神户",
+      "en": "Kobe",
+      "pi": "shén hù"
+    }
+  ]
+}

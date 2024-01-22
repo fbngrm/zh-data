@@ -1,0 +1,27 @@
+{
+  "chinese": "因为风暴，他们晚到了。",
+  "english": "Because of the storm, they arrived late.",
+  "pinyin": "yīn wèi fēng bào, tā mén wǎn dào le。",
+  "words": [
+    {
+      "ch": "因为",
+      "en": "Because",
+      "pi": "yīn wèi"
+    },
+    {
+      "ch": "风暴",
+      "en": "storm",
+      "pi": "fēng bào"
+    },
+    {
+      "ch": "他们",
+      "en": "they",
+      "pi": "tā mén"
+    },    
+    {
+      "ch": "晚到了",
+      "en": "arrived late",
+      "pi": "wǎn dào le"
+    }
+  ]
+}

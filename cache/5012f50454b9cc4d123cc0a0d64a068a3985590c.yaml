@@ -1,0 +1,37 @@
+{
+  "chinese": "你的背包在我办公桌上面。",
+  "english": "Your backpack is on top of my desk.",
+  "pinyin": "nǐ de bēi bāo zài wǒ bàn gōng zhuō shàng miàn。",
+  "words": [
+    {
+      "ch": "你的",
+      "en": "Your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "背包",
+      "en": "backpack",
+      "pi": "bēi bāo"
+    },
+    {
+      "ch": "在",
+      "en": "is on",
+      "pi": "zài"
+    },
+    {
+      "ch": "我",
+      "en": "my",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "办公桌",
+      "en": "desk",
+      "pi": "bàn gōng zhuō"
+    },
+    {
+      "ch": "上面",
+      "en": "on top of",
+      "pi": "shàng miàn"
+    }
+  ]
+}

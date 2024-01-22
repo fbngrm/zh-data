@@ -1,0 +1,42 @@
+{
+  "chinese": "比尔给我带来了这本书。",
+  "english": "Bill brought me this book.",
+  "pinyin": "Bǐ'ěr gěi wǒ dàiláile zhè běnshū.",
+  "words": [
+    {
+      "ch": "比尔",
+      "en": "Bill",
+      "pi": "Bǐ'ěr"
+    },
+    {
+      "ch": "给",
+      "en": "gave",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "带来",
+      "en": "brought",
+      "pi": "dàilái"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本书",
+      "en": "book",
+      "pi": "běnshū"
+    }
+  ]
+}

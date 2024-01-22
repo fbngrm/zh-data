@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆是我们最大的儿子。",
+  "english": "Tom is our oldest son.",
+  "pinyin": "Tāng mǔ shì wǒmen zuìdà de ér zi.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我们",
+      "en": "our",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "最大",
+      "en": "oldest",
+      "pi": "zuìdà"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "儿子",
+      "en": "son",
+      "pi": "ér zi"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "狗摇着尾巴跟着主人。",
+  "english": "The dog wagged its tail and followed the owner.",
+  "pinyin": "gǒu yáo zhe wěi bā gēn zhe zhǔ rén.",
+  "words": [
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "摇着",
+      "en": "wagged",
+      "pi": "yáo zhe"
+    },
+    {
+      "ch": "尾巴",
+      "en": "tail",
+      "pi": "wěi bā"
+    },
+    {
+      "ch": "跟着",
+      "en": "followed",
+      "pi": "gēn zhe"
+    },
+    {
+      "ch": "主人",
+      "en": "owner",
+      "pi": "zhǔ rén"
+    }
+  ]
+}

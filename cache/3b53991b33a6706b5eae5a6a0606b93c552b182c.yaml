@@ -1,0 +1,37 @@
+{
+  "chinese": "你不能在这附近停车。",
+  "english": "You can't park around here.",
+  "pinyin": "nǐ bùnéng zài zhè fùjìn tíngchē。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "不能",
+      "en": "cannot",
+      "pi": "bùnéng"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "附近",
+      "en": "around",
+      "pi": "fùjìn"
+    },
+    {
+      "ch": "停车",
+      "en": "park",
+      "pi": "tíngchē"
+    }
+  ]
+}

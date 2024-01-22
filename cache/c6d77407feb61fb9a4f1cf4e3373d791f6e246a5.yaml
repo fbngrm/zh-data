@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆是个好厨师。",
+  "english": "Tom is a good chef.",
+  "pinyin": "Tāngmǔ shì gè hǎo chúshī.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "厨师",
+      "en": "chef",
+      "pi": "chúshī"
+    }
+  ]
+}

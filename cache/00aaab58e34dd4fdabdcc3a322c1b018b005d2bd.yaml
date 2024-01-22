@@ -1,0 +1,36 @@
+{
+  "sentences": [
+    {
+      "chinese": "昨天是历史，明天是谜团，只有今天是天赐的礼物。那就是它为什么被称作「当下」的原因。",
+      "english": "Yesterday is history, tomorrow is a mystery, only today is a gift. That's why it's called \"the present\".",
+      "pinyin": "zuó tiān shì lì shǐ, mí tiān shì mèi tuán, zhǐ yǒu jīn tiān shì tiān cì de lǐ wù. nà jiù shì tā wèi shén me bèi chēng zuò \"dāng xià\" de yuán yīn.",
+      "words": [
+        {"ch": "昨天", "en": "yesterday", "pi": "zuó tiān"},
+        {"ch": "是", "en": "is", "pi": "shì"},
+        {"ch": "历史", "en": "history", "pi": "lì shǐ"},
+        {"ch": "，", "en": ",", "pi": "，"},
+        {"ch": "明天", "en": "tomorrow", "pi": "mí tiān"},
+        {"ch": "是", "en": "is", "pi": "shì"},
+        {"ch": "谜团", "en": "mystery", "pi": "mèi tuán"},
+        {"ch": "，", "en": ",", "pi": "，"},
+        {"ch": "只有", "en": "only", "pi": "zhǐ yǒu"},
+        {"ch": "今天", "en": "today", "pi": "jīn tiān"},
+        {"ch": "是", "en": "is", "pi": "shì"},
+        {"ch": "天赐", "en": "gift", "pi": "tiān cì"},
+        {"ch": "的", "en": "is", "pi": "de"},
+        {"ch": "礼物", "en": "gift", "pi": "lǐ wù"},
+        {"ch": "。", "en": ".", "pi": "。"},
+        {"ch": "那", "en": "that", "pi": "nà"},
+        {"ch": "就是", "en": "is", "pi": "jiù shì"},
+        {"ch": "它", "en": "it", "pi": "tā"},
+        {"ch": "为什么", "en": "why", "pi": "wèi shén me"},
+        {"ch": "被", "en": "called", "pi": "bèi"},
+        {"ch": "称作", "en": "called", "pi": "chēng zuò"},
+        {"ch": "「当下」", "en": "\"the present\"", "pi": "\"dāng xià\""},
+        {"ch": "的", "en": "is", "pi": "de"},
+        {"ch": "原因", "en": "reason", "pi": "yuán yīn"},
+        {"ch": "。", "en": ".", "pi": "。"}
+      ]
+    }
+  ]
+}

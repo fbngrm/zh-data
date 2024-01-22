@@ -1,0 +1,15 @@
+{
+  "chinese": "你知道汤姆在哪里等我们吗？",
+  "english": "Do you know where Tom is waiting for us?",
+  "pinyin": "nǐ zhī dào tāng mǔ zài nǎ lǐ děng wǒ men ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "知道", "en": "know", "pi": "zhī dào"},
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "在", "en": "is", "pi": "zài"},
+    {"ch": "哪里", "en": "where", "pi": "nǎ lǐ"},
+    {"ch": "等", "en": "waiting", "pi": "děng"},
+    {"ch": "我们", "en": "us", "pi": "wǒ men"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

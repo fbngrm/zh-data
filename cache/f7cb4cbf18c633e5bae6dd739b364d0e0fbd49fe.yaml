@@ -1,0 +1,22 @@
+{
+  "chinese": "你能得到松饼数量将和你去IRC聊天的次数成反比。",
+  "english": "The number of pancakes you can get is inversely proportional to the number of times you go chatting on IRC.",
+  "pinyin": "nǐ néng dédào sōngbǐng shùliàng jiāng hé nǐ qù IRC liáotiān de cìshù chéng fǎnbǐ。",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "能", "en": "can/able to", "pi": "néng"},
+    {"ch": "得到", "en": "get", "pi": "dédào"},
+    {"ch": "松饼", "en": "pancakes", "pi": "sōngbǐng"},
+    {"ch": "数量", "en": "number/quantity", "pi": "shùliàng"},
+    {"ch": "将", "en": "will", "pi": "jiāng"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "IRC", "en": "IRC", "pi": "IRC"},
+    {"ch": "聊天", "en": "chatting", "pi": "liáotiān"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "次数", "en": "number of times", "pi": "cìshù"},
+    {"ch": "成", "en": "become", "pi": "chéng"},
+    {"ch": "反比", "en": "inversely proportional", "pi": "fǎnbǐ"}
+  ]
+}

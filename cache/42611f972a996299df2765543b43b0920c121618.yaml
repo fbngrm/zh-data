@@ -1,0 +1,42 @@
+{
+  "chinese": "你可以选择红茶，咖啡或牛奶。",
+  "english": "You can choose black tea, coffee or milk.",
+  "pinyin": "nǐ kěyǐ xuǎnzé hóngchá, kāfēi huò niúnǎi.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kěyǐ"
+    },
+    {
+      "ch": "选择",
+      "en": "choose",
+      "pi": "xuǎnzé"
+    },
+    {
+      "ch": "红茶",
+      "en": "black tea",
+      "pi": "hóngchá"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kāfēi"
+    },
+    {
+      "ch": "或",
+      "en": "or",
+      "pi": "huò"
+    },
+    {
+      "ch": "牛奶",
+      "en": "milk",
+      "pi": "niúnǎi"
+    }
+  ]
+}

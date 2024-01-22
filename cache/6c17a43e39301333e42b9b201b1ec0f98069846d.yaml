@@ -1,0 +1,17 @@
+{
+  "chinese": "嗨看呀，一只三个头的猴子！",
+  "english": "Hey look, a monkey with three heads!",
+  "pinyin": "hāi kàn ya, yī zhī sān gè tóu de hóuzi!",
+  "words": [
+    { "ch": "嗨", "en": "Hey", "pi": "hāi" },
+    { "ch": "看", "en": "look", "pi": "kàn" },
+    { "ch": "呀", "en": "", "pi": "ya" },
+    { "ch": "，", "en": "", "pi": "" },
+    { "ch": "一只", "en": "a", "pi": "yī zhī" },
+    { "ch": "三个", "en": "three", "pi": "sān gè" },
+    { "ch": "头", "en": "heads", "pi": "tóu" },
+    { "ch": "的", "en": "with", "pi": "de" },
+    { "ch": "猴子", "en": "monkey", "pi": "hóuzi" },
+    { "ch": "！", "en": "!", "pi": "" }
+  ]
+}

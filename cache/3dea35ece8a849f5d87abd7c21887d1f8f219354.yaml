@@ -1,0 +1,11 @@
+{
+  "chinese": "我们在雾中迷了路。",
+  "english": "We got lost in the fog.",
+  "pinyin": "wǒmen zài wù zhōng mí le lù.",
+  "words": [
+    {"ch": "我们", "en": "we", "pi": "wǒmen"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "雾中", "en": "fog", "pi": "wù zhōng"},
+    {"ch": "迷了路", "en": "got lost", "pi": "mí le lù"}
+  ]
+}

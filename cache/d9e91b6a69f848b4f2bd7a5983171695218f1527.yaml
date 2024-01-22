@@ -1,0 +1,13 @@
+{
+  "chinese": "我要一杯冰红茶。",
+  "english": "I want a cup of iced black tea.",
+  "pinyin": "wǒ yào yī bēi bīng hóng chá。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "要", "en": "want", "pi": "yào"},
+    {"ch": "一", "en": "a", "pi": "yī"},
+    {"ch": "杯", "en": "cup", "pi": "bēi"},
+    {"ch": "冰", "en": "iced", "pi": "bīng"},
+    {"ch": "红茶", "en": "black tea", "pi": "hóng chá"}
+  ]
+}

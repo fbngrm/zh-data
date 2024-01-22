@@ -1,0 +1,32 @@
+{
+  "chinese": "我喜欢狗和猫。",
+  "english": "I like dogs and cats.",
+  "pinyin": "wǒ xǐhuān gǒu hé māo.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "狗",
+      "en": "dogs",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "猫",
+      "en": "cats",
+      "pi": "māo"
+    }
+  ]
+}

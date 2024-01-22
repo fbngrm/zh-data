@@ -1,0 +1,37 @@
+{
+  "chinese": "这本书二十美元。",
+  "english": "This book is twenty dollars.",
+  "pinyin": "zhè běn shū èr shí měi yuán。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "书",
+      "en": "is",
+      "pi": "shū"
+    },
+    {
+      "ch": "二",
+      "en": "twenty",
+      "pi": "èr"
+    },
+    {
+      "ch": "十",
+      "en": "dollars",
+      "pi": "shí"
+    },
+    {
+      "ch": "美元",
+      "en": "dollars",
+      "pi": "měi yuán"
+    }
+  ]
+}

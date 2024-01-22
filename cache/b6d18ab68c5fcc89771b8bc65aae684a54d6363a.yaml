@@ -1,0 +1,32 @@
+{
+  "chinese": "你裁切纸张了吗？",
+  "english": "Have you cut the paper?",
+  "pinyin": "nǐ cáiqiē zhǐzhāng le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "裁切",
+      "en": "cut",
+      "pi": "cáiqiē"
+    },
+    {
+      "ch": "纸张",
+      "en": "paper",
+      "pi": "zhǐzhāng"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

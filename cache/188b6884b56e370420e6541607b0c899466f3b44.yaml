@@ -1,0 +1,14 @@
+{
+  "chinese": "我们的房子位于交通便利的地方。",
+  "english": "Our house is located in a convenient location.",
+  "pinyin": "wǒmen de fángzi wèiyú jiāotōng biànlì de dìfāng.",
+  "words": [
+    {"ch": "我们", "en": "our", "pi": "wǒmen"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "房子", "en": "house", "pi": "fángzi"},
+    {"ch": "位于", "en": "is located", "pi": "wèiyú"},
+    {"ch": "交通便利", "en": "convenient location", "pi": "jiāotōng biànlì"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "地方", "en": "place", "pi": "dìfāng"}
+  ]
+}

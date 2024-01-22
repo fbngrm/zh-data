@@ -1,0 +1,32 @@
+{
+  "chinese": "我不是正在写信。",
+  "english": "I'm not writing a letter.",
+  "pinyin": "wǒ bùshì zhèngzài xiě xìn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不是",
+      "en": "not",
+      "pi": "bùshì"
+    },
+    {
+      "ch": "正在",
+      "en": "am",
+      "pi": "zhèngzài"
+    },
+    {
+      "ch": "写",
+      "en": "writing",
+      "pi": "xiě"
+    },
+    {
+      "ch": "信",
+      "en": "a letter",
+      "pi": "xìn"
+    }
+  ]
+}

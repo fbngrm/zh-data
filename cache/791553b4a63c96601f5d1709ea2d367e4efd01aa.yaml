@@ -1,0 +1,32 @@
+{
+  "chinese": "她在树林里散步。",
+  "english": "She is taking a walk in the woods.",
+  "pinyin": "Tā zài shùlín lǐ sànbù.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "树林",
+      "en": "woods",
+      "pi": "shùlín"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "散步",
+      "en": "taking a walk",
+      "pi": "sànbù"
+    }
+  ]
+}

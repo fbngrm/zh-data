@@ -1,0 +1,32 @@
+{
+  "chinese": "约翰比比尔更聪明。",
+  "english": "John is smarter than Bill.",
+  "pinyin": "yuē hàn bǐ bǐ ěr gèng cōng míng.",
+  "words": [
+    {
+      "ch": "约翰",
+      "en": "John",
+      "pi": "yuē hàn"
+    },
+    {
+      "ch": "比",
+      "en": "is",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "比尔",
+      "en": "Bill",
+      "pi": "bǐ ěr"
+    },
+    {
+      "ch": "更",
+      "en": "smarter",
+      "pi": "gèng"
+    },
+    {
+      "ch": "聪明",
+      "en": "than",
+      "pi": "cōng míng"
+    }
+  ]
+}

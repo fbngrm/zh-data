@@ -1,0 +1,11 @@
+{
+  "chinese": "老鸟啁啾，小鸟吱吱叫。",
+  "english": "The old bird chirps, the little bird tweets.",
+  "pinyin": "lǎo niǎo zhōu jiū, xiǎo niǎo zhī zhī jiào。",
+  "words": [
+    {"ch": "老鸟", "en": "old bird", "pi": "lǎo niǎo"},
+    {"ch": "啁啾", "en": "chirp", "pi": "zhōu jiū"},
+    {"ch": "小鸟", "en": "little bird", "pi": "xiǎo niǎo"},
+    {"ch": "吱吱叫", "en": "tweet", "pi": "zhī zhī jiào"}
+  ]
+}

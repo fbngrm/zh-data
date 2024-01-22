@@ -1,0 +1,27 @@
+{
+  "chinese": "这些橘子很酸。",
+  "english": "These oranges are very sour.",
+  "pinyin": "zhè xiē jú zi hěn suān.",
+  "words": [
+    {
+      "ch": "这些",
+      "en": "These",
+      "pi": "zhè xiē"
+    },
+    {
+      "ch": "橘子",
+      "en": "oranges",
+      "pi": "jú zi"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "酸",
+      "en": "sour",
+      "pi": "suān"
+    }
+  ]
+}

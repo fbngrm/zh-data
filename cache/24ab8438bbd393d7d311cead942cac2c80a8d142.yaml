@@ -1,0 +1,52 @@
+{
+  "chinese": "我请了一位中国朋友来我的公寓。",
+  "english": "I invited a Chinese friend to my apartment.",
+  "pinyin": "wǒ qǐng le yī wèi zhōngguó péngyǒu lái wǒ de gōngyù。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "请",
+      "en": "invite",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "了",
+      "en": "a particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "一位",
+      "en": "one",
+      "pi": "yī wèi"
+    },
+    {
+      "ch": "中国",
+      "en": "Chinese",
+      "pi": "zhōngguó"
+    },
+    {
+      "ch": "朋友",
+      "en": "friend",
+      "pi": "péngyǒu"
+    },
+    {
+      "ch": "来",
+      "en": "to",
+      "pi": "lái"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "公寓",
+      "en": "apartment",
+      "pi": "gōngyù"
+    }
+  ]
+}

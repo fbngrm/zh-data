@@ -1,0 +1,42 @@
+{
+  "chinese": "你来自北海道，不是吗？",
+  "english": "You're from Hokkaido, aren't you?",
+  "pinyin": "Nǐ láizì běihǎidào, bùshì ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "来自",
+      "en": "are from",
+      "pi": "láizì"
+    },
+    {
+      "ch": "北海道",
+      "en": "Hokkaido",
+      "pi": "běihǎidào"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": ","
+    },
+    {
+      "ch": "不是",
+      "en": "aren't",
+      "pi": "bùshì"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "？"
+    }
+  ]
+}

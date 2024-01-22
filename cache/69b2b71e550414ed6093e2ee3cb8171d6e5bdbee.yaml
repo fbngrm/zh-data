@@ -1,0 +1,67 @@
+{
+  "chinese": "ＱＡ团队发现了一个重大ｂｕｇ，因此，建议重新审查所有工作。",
+  "english": "The QA team has discovered a major bug, therefore, it is recommended to re-examine all the work.",
+  "pinyin": "Q A tuán duì fā xiàn le yí gè zhòng dà b u g, yīn cǐ, jiàn yì chóng xīn shěn chá suǒ yǒu gōng zuò。",
+  "words": [
+    {
+      "ch": "ＱＡ团队",
+      "en": "QA team",
+      "pi": "Q A tuán duì"
+    },
+    {
+      "ch": "发现",
+      "en": "discovered",
+      "pi": "fā xiàn"
+    },
+    {
+      "ch": "了",
+      "en": "has",
+      "pi": "le"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yí gè"
+    },
+    {
+      "ch": "重大",
+      "en": "major",
+      "pi": "zhòng dà"
+    },
+    {
+      "ch": "ｂｕｇ",
+      "en": "bug",
+      "pi": "b u g"
+    },
+    {
+      "ch": "因此",
+      "en": "therefore",
+      "pi": "yīn cǐ"
+    },
+    {
+      "ch": "建议",
+      "en": "recommend",
+      "pi": "jiàn yì"
+    },
+    {
+      "ch": "重新",
+      "en": "re-",
+      "pi": "chóng xīn"
+    },
+    {
+      "ch": "审查",
+      "en": "examine",
+      "pi": "shěn chá"
+    },
+    {
+      "ch": "所有",
+      "en": "all",
+      "pi": "suǒ yǒu"
+    },
+    {
+      "ch": "工作",
+      "en": "work",
+      "pi": "gōng zuò"
+    }
+  ]
+}

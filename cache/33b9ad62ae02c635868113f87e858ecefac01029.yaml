@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆拥抱了他的父亲。",
+  "english": "Tom hugged his father.",
+  "pinyin": "Tāng mǔ yōngbào le tā de fùqīn.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "拥抱",
+      "en": "hug",
+      "pi": "yōngbào"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "父亲",
+      "en": "father",
+      "pi": "fùqīn"
+    }
+  ]
+}

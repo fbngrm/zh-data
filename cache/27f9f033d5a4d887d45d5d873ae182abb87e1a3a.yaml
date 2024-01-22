@@ -1,0 +1,42 @@
+{
+  "chinese": "我的问题是我不信任你。",
+  "english": "My issue is that I don't trust you.",
+  "pinyin": "wǒ de wèn tí shì wǒ bù xìn rèn nǐ。",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "My",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "问题",
+      "en": "issue",
+      "pi": "wèn tí"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "信任",
+      "en": "trust",
+      "pi": "xìn rèn"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    }
+  ]
+}

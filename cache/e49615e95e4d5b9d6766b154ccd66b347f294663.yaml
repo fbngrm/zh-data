@@ -1,0 +1,32 @@
+{
+  "chinese": "这个箱子太重了无法携带。",
+  "english": "This box is too heavy to carry.",
+  "pinyin": "zhè gè xiāng zi tài zhòng le wú fǎ xié dài。",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "箱子",
+      "en": "box",
+      "pi": "xiāng zi"
+    },
+    {
+      "ch": "太重了",
+      "en": "too heavy",
+      "pi": "tài zhòng le"
+    },
+    {
+      "ch": "无法",
+      "en": "unable to",
+      "pi": "wú fǎ"
+    },
+    {
+      "ch": "携带",
+      "en": "carry",
+      "pi": "xié dài"
+    }
+  ]
+}

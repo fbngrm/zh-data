@@ -1,0 +1,37 @@
+{
+  "chinese": "他的车真的很酷。",
+  "english": "His car is really cool.",
+  "pinyin": "tā de chē zhēn de hěn kù.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he/him",
+      "pi": "tā"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "车",
+      "en": "car",
+      "pi": "chē"
+    },
+    {
+      "ch": "真的",
+      "en": "really",
+      "pi": "zhēn de"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "酷",
+      "en": "cool",
+      "pi": "kù"
+    }
+  ]
+}

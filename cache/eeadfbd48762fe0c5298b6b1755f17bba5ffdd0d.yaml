@@ -1,0 +1,32 @@
+{
+  "chinese": "她下週要去法国。",
+  "english": "She is going to France next week.",
+  "pinyin": "Tā xià zhōu yào qù fǎ guó.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "下週",
+      "en": "next week",
+      "pi": "xià zhōu"
+    },
+    {
+      "ch": "要",
+      "en": "is going to",
+      "pi": "yào"
+    },
+    {
+      "ch": "去",
+      "en": "to",
+      "pi": "qù"
+    },
+    {
+      "ch": "法国",
+      "en": "France",
+      "pi": "fǎ guó"
+    }
+  ]
+}

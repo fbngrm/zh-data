@@ -1,0 +1,73 @@
+{
+  "sentences": [
+    {
+      "chinese": "你应该早点做的。",
+      "english": "You should have done it earlier.",
+      "pinyin": "nǐ yīng gāi zǎo diǎn zuò de。",
+      "words": [
+        {
+          "ch": "你",
+          "en": "You",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "应该",
+          "en": "should",
+          "pi": "yīng gāi"
+        },
+        {
+          "ch": "早点",
+          "en": "earlier",
+          "pi": "zǎo diǎn"
+        },
+        {
+          "ch": "做",
+          "en": "done",
+          "pi": "zuò"
+        },
+        {
+          "ch": "的",
+          "en": "it",
+          "pi": "de"
+        }
+      ]
+    },
+    {
+      "chinese": "现在没人可以帮你。",
+      "english": "Now, no one can help you.",
+      "pinyin": "xiàn zài méi rén kě yǐ bāng nǐ。",
+      "words": [
+        {
+          "ch": "现在",
+          "en": "now",
+          "pi": "xiàn zài"
+        },
+        {
+          "ch": "没",
+          "en": "no",
+          "pi": "méi"
+        },
+        {
+          "ch": "人",
+          "en": "one",
+          "pi": "rén"
+        },
+        {
+          "ch": "可以",
+          "en": "can",
+          "pi": "kě yǐ"
+        },
+        {
+          "ch": "帮",
+          "en": "help",
+          "pi": "bāng"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        }
+      ]
+    }
+  ]
+}

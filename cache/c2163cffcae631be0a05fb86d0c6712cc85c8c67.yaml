@@ -1,0 +1,14 @@
+{
+  "chinese": "他是第一个来的。",
+  "english": "He is the first one to come.",
+  "pinyin": "Tā shì dì yī gè lái de。",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "Tā"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "第", "en": "the", "pi": "dì"},
+    {"ch": "一", "en": "first", "pi": "yī"},
+    {"ch": "个", "en": "one", "pi": "gè"},
+    {"ch": "来", "en": "to come", "pi": "lái"},
+    {"ch": "的", "en": "auxiliary word", "pi": "de"}
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "chinese": "孩子在这条河里游泳太危险了。",
+  "english": "It's too dangerous for children to swim in this river.",
+  "pinyin": "hái zi zài zhè tiáo hé lǐ yóu yǒng tài wēi xiǎn le.",
+  "words": [
+    {
+      "ch": "孩子",
+      "en": "children",
+      "pi": "hái zi"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "这条",
+      "en": "this",
+      "pi": "zhè tiáo"
+    },
+    {
+      "ch": "河里",
+      "en": "river",
+      "pi": "hé lǐ"
+    },
+    {
+      "ch": "游泳",
+      "en": "swim",
+      "pi": "yóu yǒng"
+    },
+    {
+      "ch": "太",
+      "en": "too",
+      "pi": "tài"
+    },
+    {
+      "ch": "危险",
+      "en": "dangerous",
+      "pi": "wēi xiǎn"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "一定要有人照顾病人。",
+  "english": "Someone must take care of the patient.",
+  "pinyin": "yī dìng yào yǒu rén zhào gù bìng rén.",
+  "words": [
+    {
+      "ch": "一定",
+      "en": "must",
+      "pi": "yī dìng"
+    },
+    {
+      "ch": "要",
+      "en": "to",
+      "pi": "yào"
+    },
+    {
+      "ch": "有人",
+      "en": "someone",
+      "pi": "yǒu rén"
+    },
+    {
+      "ch": "照顾",
+      "en": "take care of",
+      "pi": "zhào gù"
+    },
+    {
+      "ch": "病人",
+      "en": "patient",
+      "pi": "bìng rén"
+    }
+  ]
+}

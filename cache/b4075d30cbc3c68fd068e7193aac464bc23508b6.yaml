@@ -1,0 +1,16 @@
+{
+  "chinese": "我注册了，现在该干什么呢？",
+  "english": "I've registered, what should I do now?",
+  "pinyin": "Wǒ zhùcèle, xiànzài gāi gàn shénme ne?",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "注册", "en": "register", "pi": "zhùcè" },
+    { "ch": "了", "en": "have", "pi": "le" },
+    { "ch": "，", "en": ",", "pi": "，" },
+    { "ch": "现在", "en": "now", "pi": "xiànzài" },
+    { "ch": "该", "en": "should", "pi": "gāi" },
+    { "ch": "干什么", "en": "do", "pi": "gàn shénme" },
+    { "ch": "呢", "en": "now", "pi": "ne" },
+    { "ch": "？", "en": "?", "pi": "？" }
+  ]
+}

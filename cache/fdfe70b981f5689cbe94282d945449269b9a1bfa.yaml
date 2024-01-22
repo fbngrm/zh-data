@@ -1,0 +1,37 @@
+{
+  "chinese": "这个面包的保质期可以吗？",
+  "english": "Can I have the expiration date of this bread?",
+  "pinyin": "zhè gè miàn bāo de bǎo zhì qī kě yǐ ma?",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "面包",
+      "en": "bread",
+      "pi": "miàn bāo"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "保质期",
+      "en": "expiration date",
+      "pi": "bǎo zhì qī"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kě yǐ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

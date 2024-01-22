@@ -1,0 +1,19 @@
+{
+  "chinese": "昨天我在放学回家的路上突然遇上了一阵大雨。",
+  "english": "Yesterday, on my way home from school, I suddenly encountered a heavy rain.",
+  "pinyin": "zuótiān wǒ zài fàng xué huí jiā de lùshang túrán yùshàngle yī zhèn dàyǔ。",
+  "words": [
+    {"ch": "昨天", "en": "Yesterday", "pi": "zuótiān"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "在", "en": "on", "pi": "zài"},
+    {"ch": "放学", "en": "from school", "pi": "fàng xué"},
+    {"ch": "回家", "en": "home", "pi": "huí jiā"},
+    {"ch": "的", "en": "from", "pi": "de"},
+    {"ch": "路上", "en": "way", "pi": "lùshang"},
+    {"ch": "突然", "en": "suddenly", "pi": "túrán"},
+    {"ch": "遇上", "en": "encountered", "pi": "yùshàng"},
+    {"ch": "了", "en": "", "pi": "le"},
+    {"ch": "一阵", "en": "a", "pi": "yī zhèn"},
+    {"ch": "大雨", "en": "heavy rain", "pi": "dàyǔ"}
+  ]
+}

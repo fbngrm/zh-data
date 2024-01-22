@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆是玛莉最要好的朋友。",
+  "english": "Tom is Mary's best friend.",
+  "pinyin": "Tāng mǔ shì mǎ lì zuì yào hǎo de péng yǒu.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "玛莉",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "最",
+      "en": "most",
+      "pi": "zuì"
+    },
+    {
+      "ch": "要好",
+      "en": "closest",
+      "pi": "yào hǎo"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "朋友",
+      "en": "friend",
+      "pi": "péng yǒu"
+    }
+  ]
+}

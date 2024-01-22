@@ -1,0 +1,17 @@
+{
+  "chinese": "他是老外,他听不懂我们说的话。",
+  "english": "He is a foreigner, he doesn't understand what we're saying.",
+  "pinyin": "tā shì lǎowài, tā tīng bù dǒng wǒmen shuō de huà.",
+  "words": [
+    { "ch": "他", "en": "he", "pi": "tā" },
+    { "ch": "是", "en": "is", "pi": "shì" },
+    { "ch": "老外", "en": "foreigner", "pi": "lǎowài" },
+    { "ch": ",", "en": ",", "pi": "" },
+    { "ch": "他", "en": "he", "pi": "tā" },
+    { "ch": "听不懂", "en": "doesn't understand", "pi": "tīng bù dǒng" },
+    { "ch": "我们", "en": "we", "pi": "wǒmen" },
+    { "ch": "说的", "en": "what we're saying", "pi": "shuō de" },
+    { "ch": "话", "en": "words", "pi": "huà" },
+    { "ch": "。", "en": ".", "pi": "" }
+  ]
+}

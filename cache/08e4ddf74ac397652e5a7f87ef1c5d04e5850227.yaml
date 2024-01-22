@@ -1,0 +1,37 @@
+{
+  "chinese": "这是一种好棒的治疗方法。",
+  "english": "This is a fantastic treatment method.",
+  "pinyin": "zhè shì yī zhǒng hǎo bàng de zhì liáo fāng fǎ.",
+  "words": [
+    {
+      "ch": "这是",
+      "en": "This is",
+      "pi": "zhè shì"
+    },
+    {
+      "ch": "一种",
+      "en": "a",
+      "pi": "yī zhǒng"
+    },
+    {
+      "ch": "好棒",
+      "en": "fantastic",
+      "pi": "hǎo bàng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "治疗",
+      "en": "treatment",
+      "pi": "zhì liáo"
+    },
+    {
+      "ch": "方法",
+      "en": "method",
+      "pi": "fāng fǎ"
+    }
+  ]
+}

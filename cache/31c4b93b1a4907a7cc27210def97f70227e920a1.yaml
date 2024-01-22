@@ -1,0 +1,42 @@
+{
+  "chinese": "日本是一个非常嘈杂的国家。",
+  "english": "Japan is a very noisy country.",
+  "pinyin": "Rìběn shì yīgè fēicháng cáozá de guójiā。",
+  "words": [
+    {
+      "ch": "日本",
+      "en": "Japan",
+      "pi": "Rìběn"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yīgè"
+    },
+    {
+      "ch": "非常",
+      "en": "very",
+      "pi": "fēicháng"
+    },
+    {
+      "ch": "嘈杂",
+      "en": "noisy",
+      "pi": "cáozá"
+    },
+    {
+      "ch": "的",
+      "en": "country",
+      "pi": "de"
+    },
+    {
+      "ch": "国家",
+      "en": "country",
+      "pi": "guójiā"
+    }
+  ]
+}

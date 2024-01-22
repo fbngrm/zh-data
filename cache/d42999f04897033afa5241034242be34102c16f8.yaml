@@ -1,0 +1,11 @@
+{
+  "chinese": "我不懂音乐。",
+  "english": "I don't understand music.",
+  "pinyin": "wǒ bù dǒng yīn yuè.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "不", "en": "don't", "pi": "bù" },
+    { "ch": "懂", "en": "understand", "pi": "dǒng" },
+    { "ch": "音乐", "en": "music", "pi": "yīn yuè" }
+  ]
+}

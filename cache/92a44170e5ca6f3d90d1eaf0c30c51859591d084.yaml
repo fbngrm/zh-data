@@ -1,0 +1,32 @@
+{
+  "chinese": "你有多少张ＣＤ？",
+  "english": "How many CDs do you have?",
+  "pinyin": "nǐ yǒu duōshǎo zhāng CD?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "多少",
+      "en": "how many",
+      "pi": "duōshǎo"
+    },
+    {
+      "ch": "张",
+      "en": "measure word for flat objects",
+      "pi": "zhāng"
+    },
+    {
+      "ch": "ＣＤ",
+      "en": "CD",
+      "pi": "CD"
+    }
+  ]
+}

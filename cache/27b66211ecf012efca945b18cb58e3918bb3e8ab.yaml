@@ -1,0 +1,167 @@
+{
+  "sentences": [
+    {
+      "chinese": "哥伦布曾经在当地人偷了他的鹦鹉之后决定完全地烧毁整个村庄。",
+      "english": "After Columbus had his parrot stolen by the locals, he decided to completely burn down the entire village.",
+      "pinyin": "Gēlúnbù céngjīng zài dāngdì rén tōule tā de yīngwǔ zhīhòu juédìng wánquán de shāohuǐ zhěnggè cūnzhuāng."
+    },
+    {
+      "chinese": "因为他不能焚烧他们的水，所以他感到失望。",
+      "english": "Because he couldn't burn their water, he felt disappointed.",
+      "pinyin": "Yīnwèi tā bùnéng fénshāo tāmen de shuǐ, suǒyǐ tā gǎndào shīwàng."
+    },
+    {
+      "chinese": "于是他发明了氟。",
+      "english": "So he invented fluorine.",
+      "pinyin": "Yúshì tā fāmíng le fú."
+    }
+  ],
+  "words": [
+    [
+      {
+        "ch": "哥伦布",
+        "en": "Columbus",
+        "pi": "Gēlúnbù"
+      },
+      {
+        "ch": "曾经",
+        "en": "once",
+        "pi": "céngjīng"
+      },
+      {
+        "ch": "在",
+        "en": "at",
+        "pi": "zài"
+      },
+      {
+        "ch": "当地人",
+        "en": "locals",
+        "pi": "dāngdì rén"
+      },
+      {
+        "ch": "偷",
+        "en": "steal",
+        "pi": "tōu"
+      },
+      {
+        "ch": "了",
+        "en": "had",
+        "pi": "le"
+      },
+      {
+        "ch": "他的",
+        "en": "his",
+        "pi": "tā de"
+      },
+      {
+        "ch": "鹦鹉",
+        "en": "parrot",
+        "pi": "yīngwǔ"
+      },
+      {
+        "ch": "之后",
+        "en": "after",
+        "pi": "zhīhòu"
+      },
+      {
+        "ch": "决定",
+        "en": "decide",
+        "pi": "juédìng"
+      },
+      {
+        "ch": "完全地",
+        "en": "completely",
+        "pi": "wánquán de"
+      },
+      {
+        "ch": "烧毁",
+        "en": "burn down",
+        "pi": "shāohuǐ"
+      },
+      {
+        "ch": "整个",
+        "en": "entire",
+        "pi": "zhěnggè"
+      },
+      {
+        "ch": "村庄",
+        "en": "village",
+        "pi": "cūnzhuāng"
+      }
+    ],
+    [
+      {
+        "ch": "因为",
+        "en": "because",
+        "pi": "Yīnwèi"
+      },
+      {
+        "ch": "他",
+        "en": "he",
+        "pi": "tā"
+      },
+      {
+        "ch": "不能",
+        "en": "couldn't",
+        "pi": "bùnéng"
+      },
+      {
+        "ch": "焚烧",
+        "en": "burn",
+        "pi": "fénshāo"
+      },
+      {
+        "ch": "他们的",
+        "en": "their",
+        "pi": "tāmen de"
+      },
+      {
+        "ch": "水",
+        "en": "water",
+        "pi": "shuǐ"
+      },
+      {
+        "ch": "所以",
+        "en": "so",
+        "pi": "suǒyǐ"
+      },
+      {
+        "ch": "他",
+        "en": "he",
+        "pi": "tā"
+      },
+      {
+        "ch": "感到",
+        "en": "felt",
+        "pi": "gǎndào"
+      },
+      {
+        "ch": "失望",
+        "en": "disappointed",
+        "pi": "shīwàng"
+      }
+    ],
+    [
+      {
+        "ch": "于是",
+        "en": "so",
+        "pi": "Yúshì"
+      },
+      {
+        "ch": "他",
+        "en": "he",
+        "pi": "tā"
+      },
+      {
+        "ch": "发明",
+        "en": "invent",
+        "pi": "fāmíng"
+      },
+      {
+        "ch": "了",
+        "en": "fluorine",
+        "pi": "le"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆预计玛莉会来。",
+  "english": "Tom expects Mary to come.",
+  "pinyin": "Tāng mǔ yù jì mǎ lì huì lái.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "预计",
+      "en": "expect",
+      "pi": "yù jì"
+    },
+    {
+      "ch": "玛莉",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },  
+    {
+      "ch": "会来",
+      "en": "to come",
+      "pi": "huì lái"
+    }
+  ]
+}

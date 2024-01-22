@@ -1,0 +1,42 @@
+{
+  "chinese": "我不知道如何读或写。",
+  "english": "I don't know how to read or write.",
+  "pinyin": "wǒ bù zhīdào rúhé dú huò xiě。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "如何",
+      "en": "how to",
+      "pi": "rúhé"
+    },
+    {
+      "ch": "读",
+      "en": "read",
+      "pi": "dú"
+    },
+    {
+      "ch": "或",
+      "en": "or",
+      "pi": "huò"
+    },
+    {
+      "ch": "写",
+      "en": "write",
+      "pi": "xiě"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "只有一家商店卖这本书。",
+  "english": "Only one store sells this book.",
+  "pinyin": "zhǐ yǒu yī jiā shāng diàn mài zhè běn shū。",
+  "words": [
+    {
+      "ch": "只有",
+      "en": "only",
+      "pi": "zhǐ yǒu"
+    },
+    {
+      "ch": "一家",
+      "en": "one store",
+      "pi": "yī jiā"
+    },
+    {
+      "ch": "商店",
+      "en": "store",
+      "pi": "shāng diàn"
+    },
+    {
+      "ch": "卖",
+      "en": "sells",
+      "pi": "mài"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本书",
+      "en": "book",
+      "pi": "běn shū"
+    }
+  ]
+}

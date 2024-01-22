@@ -1,0 +1,27 @@
+{
+  "chinese": "鸡蛋已经吃完了。",
+  "english": "The eggs have all been eaten.",
+  "pinyin": "jī dàn yǐ jīng chī wán le.",
+  "words": [
+    {
+      "ch": "鸡蛋",
+      "en": "eggs",
+      "pi": "jī dàn"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐ jīng"
+    },
+    {
+      "ch": "吃完",
+      "en": "finished eating",
+      "pi": "chī wán"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "鲍勃是一个不错的人。",
+  "english": "Bob is a good person.",
+  "pinyin": "Bào bó shì yī gè bù cuò de rén.",
+  "words": [
+    {
+      "ch": "鲍勃",
+      "en": "Bob",
+      "pi": "Bào bó"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "一个",
+      "en": "a/an",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "不错",
+      "en": "good",
+      "pi": "bù cuò"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "人",
+      "en": "person",
+      "pi": "rén"
+    }
+  ]
+}

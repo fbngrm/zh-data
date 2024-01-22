@@ -1,0 +1,37 @@
+{
+  "chinese": "这个包裹上的地址是错的。",
+  "english": "The address on this package is wrong.",
+  "pinyin": "Zhège bāoguǒ shàng de dìzhǐ shì cuò de.",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhègè"
+    },
+    {
+      "ch": "包裹",
+      "en": "package",
+      "pi": "bāoguǒ"
+    },
+    {
+      "ch": "上的",
+      "en": "on",
+      "pi": "shàng de"
+    },
+    {
+      "ch": "地址",
+      "en": "address",
+      "pi": "dìzhǐ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "错的",
+      "en": "wrong",
+      "pi": "cuò de"
+    }
+  ]
+}

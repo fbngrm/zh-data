@@ -1,0 +1,12 @@
+{
+  "chinese": "不要打开你的书。",
+  "english": "Don't open your book.",
+  "pinyin": "bù yào dǎ kāi nǐ de shū。",
+  "words": [
+    {"ch": "不", "en": "Don't", "pi": "bù"},
+    {"ch": "要", "en": "open", "pi": "yào"},
+    {"ch": "打开", "en": "your", "pi": "dǎ kāi"},
+    {"ch": "你的", "en": "book", "pi": "nǐ de"},
+    {"ch": "书", "en": "book", "pi": "shū"}
+  ]
+}

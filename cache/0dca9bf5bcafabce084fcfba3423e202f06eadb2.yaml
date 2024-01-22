@@ -1,0 +1,88 @@
+{
+  "sentences": [
+    {
+      "chinese": "问她出去约会你有什么好输的?",
+      "english": "What do you have to lose by asking her out on a date?",
+      "pinyin": "wèn tā chūqù yuēhuì nǐ yǒu shénme hǎo shū de?",
+      "words": [
+        {
+          "ch": "问",
+          "en": "What",
+          "pi": "wèn"
+        },
+        {
+          "ch": "她",
+          "en": "her",
+          "pi": "tā"
+        },
+        {
+          "ch": "出去",
+          "en": "out",
+          "pi": "chūqù"
+        },
+        {
+          "ch": "约会",
+          "en": "on a date",
+          "pi": "yuēhuì"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "有",
+          "en": "have",
+          "pi": "yǒu"
+        },
+        {
+          "ch": "什么",
+          "en": "what",
+          "pi": "shénme"
+        },
+        {
+          "ch": "好",
+          "en": "good",
+          "pi": "hǎo"
+        },
+        {
+          "ch": "输",
+          "en": "to lose",
+          "pi": "shū"
+        },
+        {
+          "ch": "的",
+          "en": "by",
+          "pi": "de"
+        }
+      ]
+    },
+    {
+      "chinese": "也许一点点的骄傲?",
+      "english": "Maybe a little bit of pride?",
+      "pinyin": "yěxǔ yīdiǎndiǎn de jiāo'ào?",
+      "words": [
+        {
+          "ch": "也许",
+          "en": "Maybe",
+          "pi": "yěxǔ"
+        },
+        {
+          "ch": "一点点",
+          "en": "a little bit",
+          "pi": "yīdiǎndiǎn"
+        },
+        {
+          "ch": "的",
+          "en": "of",
+          "pi": "de"
+        },
+        {
+          "ch": "骄傲",
+          "en": "pride",
+          "pi": "jiāo'ào"
+        }
+      ]
+    }
+  ]
+}

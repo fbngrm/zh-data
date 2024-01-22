@@ -1,0 +1,15 @@
+{
+  "chinese": "你今天必须起得很早吗？",
+  "english": "Do you have to get up early today?",
+  "pinyin": "nǐ jīntiān bìxū qǐ de hěn zǎo ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "今天", "en": "today", "pi": "jīntiān"},
+    {"ch": "必须", "en": "have to", "pi": "bìxū"},
+    {"ch": "起", "en": "get up", "pi": "qǐ"},
+    {"ch": "得", "en": "very", "pi": "de"},
+    {"ch": "很", "en": "early", "pi": "hěn"},
+    {"ch": "早", "en": "early", "pi": "zǎo"},
+    {"ch": "吗", "en": "?" , "pi": "ma"}
+  ]
+}

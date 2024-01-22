@@ -1,0 +1,32 @@
+{
+  "chinese": "我和他比赛跑步。",
+  "english": "I compete with him in running.",
+  "pinyin": "wǒ hé tā bǐsài pǎobù.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    },
+    {
+      "ch": "比赛",
+      "en": "compete",
+      "pi": "bǐsài"
+    },
+    {
+      "ch": "跑步",
+      "en": "running",
+      "pi": "pǎobù"
+    }
+  ]
+}

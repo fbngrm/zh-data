@@ -1,0 +1,42 @@
+{
+  "chinese": "雨没有停，连着下了整天。",
+  "english": "The rain didn't stop, it kept pouring all day.",
+  "pinyin": "yǔ méiyǒu tíng, liánzhe xià le zhěngtiān.",
+  "words": [
+    {
+      "ch": "雨",
+      "en": "rain",
+      "pi": "yǔ"
+    },
+    {
+      "ch": "没有",
+      "en": "didn't have",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "停",
+      "en": "stop",
+      "pi": "tíng"
+    },
+    {
+      "ch": "连着",
+      "en": "kept",
+      "pi": "liánzhe"
+    },
+    {
+      "ch": "下",
+      "en": "pouring",
+      "pi": "xià"
+    },
+    {
+      "ch": "了",
+      "en": "all day",
+      "pi": "le"
+    },
+    {
+      "ch": "整天",
+      "en": "all day",
+      "pi": "zhěngtiān"
+    }
+  ]
+}

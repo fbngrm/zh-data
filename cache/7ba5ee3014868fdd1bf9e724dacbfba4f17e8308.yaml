@@ -1,0 +1,37 @@
+{
+  "chinese": "你的母语是中文吗？",
+  "english": "Is Chinese your native language?",
+  "pinyin": "nǐ de mǔyǔ shì zhōngwén ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "母语",
+      "en": "native language",
+      "pi": "mǔyǔ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "中文",
+      "en": "Chinese",
+      "pi": "zhōngwén"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

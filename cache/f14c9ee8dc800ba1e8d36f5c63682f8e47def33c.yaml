@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆想说声再见。",
+  "english": "Tom wants to say goodbye.",
+  "pinyin": "tāng mǔ xiǎng shuō shēng zài jiàn.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "想",
+      "en": "wants",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "说",
+      "en": "to say",
+      "pi": "shuō"
+    },
+    {
+      "ch": "声",
+      "en": "sound",
+      "pi": "shēng"
+    },
+    {
+      "ch": "再见",
+      "en": "goodbye",
+      "pi": "zài jiàn"
+    }
+  ]
+}

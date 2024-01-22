@@ -1,0 +1,27 @@
+{
+  "chinese": "你有多少朋友？",
+  "english": "How many friends do you have?",
+  "pinyin": "nǐ yǒu duōshǎo péngyǒu?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "多少",
+      "en": "how many",
+      "pi": "duōshǎo"
+    },
+    {
+      "ch": "朋友",
+      "en": "friends",
+      "pi": "péngyǒu"
+    }
+  ]
+}

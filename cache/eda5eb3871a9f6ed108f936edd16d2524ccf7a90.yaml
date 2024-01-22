@@ -1,0 +1,27 @@
+{
+  "chinese": "明天天气会好吗？",
+  "english": "Will the weather be good tomorrow?",
+  "pinyin": "míng tiān tiān qì huì hǎo ma?",
+  "words": [
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiān qì"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "好吗",
+      "en": "good or not",
+      "pi": "hǎo ma"
+    }
+  ]
+}

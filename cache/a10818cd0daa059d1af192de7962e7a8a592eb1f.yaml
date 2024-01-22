@@ -1,0 +1,13 @@
+{
+  "chinese": "我已经完成了我的作业。",
+  "english": "I have finished my homework.",
+  "pinyin": "wǒ yǐjīng wánchéngle wǒ de zuòyè.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "已经", "en": "have", "pi": "yǐjīng"},
+    {"ch": "完成", "en": "finished", "pi": "wánchéng"},
+    {"ch": "了", "en": "already", "pi": "le"},
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "作业", "en": "homework", "pi": "zuòyè"}
+  ]
+}

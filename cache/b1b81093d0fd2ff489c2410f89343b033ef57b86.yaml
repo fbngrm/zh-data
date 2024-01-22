@@ -1,0 +1,12 @@
+{
+  "chinese": "桌子下面有一颗苹果。",
+  "english": "There is an apple under the table.",
+  "pinyin": "Zhuōzi xiàmiàn yǒu yī kē píngguǒ.",
+  "words": [
+    { "ch": "桌子", "en": "table", "pi": "zhuōzi" },
+    { "ch": "下面", "en": "under", "pi": "xiàmiàn" },
+    { "ch": "有", "en": "has", "pi": "yǒu" },
+    { "ch": "一颗", "en": "one", "pi": "yī kē" },
+    { "ch": "苹果", "en": "apple", "pi": "píngguǒ" }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "这是我见过最大的猫。",
+  "english": "This is the biggest cat I've ever seen.",
+  "pinyin": "zhè shì wǒ jiànguò zuì dà de māo.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "见过",
+      "en": "seen",
+      "pi": "jiànguò"
+    },
+    {
+      "ch": "最大",
+      "en": "biggest",
+      "pi": "zuì dà"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    }
+  ]
+}

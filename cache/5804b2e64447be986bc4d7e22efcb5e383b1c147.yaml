@@ -1,0 +1,14 @@
+{
+  "chinese": "如果你生病了，就去看医生。",
+  "english": "If you are sick, go see a doctor.",
+  "pinyin": "rú guǒ nǐ shēng bìng le, jiù qù kàn yī shēng。",
+  "words": [
+    {"ch": "如果", "en": "if", "pi": "rú guǒ"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "生病", "en": "sick", "pi": "shēng bìng"},
+    {"ch": "了", "en": "already", "pi": "le"},
+    {"ch": "就", "en": "then", "pi": "jiù"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "看医生", "en": "see a doctor", "pi": "kàn yī shēng"}
+  ]
+}

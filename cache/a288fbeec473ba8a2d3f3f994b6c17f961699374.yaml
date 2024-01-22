@@ -1,0 +1,14 @@
+{
+  "chinese": "我会开车送你们去机场。",
+  "english": "I will drive and send you to the airport.",
+  "pinyin": "wǒ huì kāi chē sòng nǐmen qù jīchǎng.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "开车", "en": "drive", "pi": "kāi chē"},
+    {"ch": "送", "en": "send", "pi": "sòng"},
+    {"ch": "你们", "en": "you", "pi": "nǐmen"},
+    {"ch": "去", "en": "to", "pi": "qù"},
+    {"ch": "机场", "en": "airport", "pi": "jīchǎng"}
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "你昨天晚上忘了锁门吗？",
+  "english": "Did you forget to lock the door last night?",
+  "pinyin": "nǐ zuótiān wǎnshàng wàngle suǒmén ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "晚上",
+      "en": "evening",
+      "pi": "wǎnshàng"
+    },
+    {
+      "ch": "忘了",
+      "en": "forgot",
+      "pi": "wàngle"
+    },
+    {
+      "ch": "锁门",
+      "en": "lock the door",
+      "pi": "suǒmén"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

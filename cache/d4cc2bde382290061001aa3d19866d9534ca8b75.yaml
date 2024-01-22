@@ -1,0 +1,32 @@
+{
+  "chinese": "我的兄弟明天不在家。",
+  "english": "My brother will not be home tomorrow.",
+  "pinyin": "Wǒ de xiōngdì míngtiān bù zàijiā。",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "My",
+      "pi": "Wǒ de"
+    },
+    {
+      "ch": "兄弟",
+      "en": "brother",
+      "pi": "xiōngdì"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "在家",
+      "en": "be home",
+      "pi": "zàijiā"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆说他吃腻了中国菜。",
+  "english": "Tom said he's tired of Chinese food.",
+  "pinyin": "tāng mǔ shuō tā chī nì le zhōng guó cài。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "说",
+      "en": "said",
+      "pi": "shuō"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "吃腻",
+      "en": "tired of eating",
+      "pi": "chī nì"
+    },
+    {
+      "ch": "了",
+      "en": "le",
+      "pi": "le"
+    },
+    {
+      "ch": "中国菜",
+      "en": "Chinese food",
+      "pi": "zhōng guó cài"
+    }
+  ]
+}

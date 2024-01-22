@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆比他的母亲高。",
+  "english": "Tom is taller than his mother.",
+  "pinyin": "Tāng mǔ bǐ tā de mǔqīn gāo.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "比",
+      "en": "is taller than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "母亲",
+      "en": "mother",
+      "pi": "mǔqīn"
+    },
+    {
+      "ch": "高",
+      "en": "tall",
+      "pi": "gāo"
+    }
+  ]
+}

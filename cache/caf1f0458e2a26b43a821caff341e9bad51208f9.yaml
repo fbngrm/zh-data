@@ -1,0 +1,20 @@
+{ 
+  "chinese": "隨著人們年齡的增長，其腦細胞就變得比較沒有效率。",
+  "english": "As people age, their brain cells become less efficient.",
+  "pinyin": "suí zhe rén men nián líng de zēng zhǎng， qí nǎo xì bāo jiù biàn dé bǐ jiào méi yǒu xiào lǜ。",
+  "words": [
+    { "ch": "隨著", "en": "As", "pi": "suí zhe" },
+    { "ch": "人們", "en": "people", "pi": "rén men" },
+    { "ch": "年齡", "en": "age", "pi": "nián líng" },
+    { "ch": "的", "en": "their", "pi": "de" },
+    { "ch": "增長", "en": "increase", "pi": "zēng zhǎng" },
+    { "ch": "，", "en": ",", "pi": "，" },
+    { "ch": "其", "en": "their", "pi": "qí" },
+    { "ch": "腦細胞", "en": "brain cells", "pi": "nǎo xì bāo" },
+    { "ch": "就", "en": "become", "pi": "jiù" },
+    { "ch": "變得", "en": "less", "pi": "biàn dé" },
+    { "ch": "比較", "en": "efficient", "pi": "bǐ jiào" },
+    { "ch": "沒有效率", "en": "less efficient", "pi": "méi yǒu xiào lǜ" },
+    { "ch": "。", "en": ".", "pi": "。" }
+  ]
+}

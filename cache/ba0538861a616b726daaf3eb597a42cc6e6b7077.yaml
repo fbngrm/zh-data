@@ -1,0 +1,42 @@
+{
+  "chinese": "我喜欢汤姆，因为他很诚实。",
+  "english": "I like Tom because he is honest.",
+  "pinyin": "Wǒ xǐhuān Tāngmǔ, yīnwèi tā hěn chéngshí.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "因为",
+      "en": "because",
+      "pi": "yīnwèi"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "很",
+      "en": "is",
+      "pi": "hěn"
+    },
+    {
+      "ch": "诚实",
+      "en": "honest",
+      "pi": "chéngshí"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "凯莉没上体育课就回家了。",
+  "english": "Kelly went home without attending the physical education class.",
+  "pinyin": "kǎi lì méi shàng tǐ yù kè jiù huí jiā le。",
+  "words": [
+    {"ch": "凯莉", "en": "Kelly", "pi": "kǎi lì"},
+    {"ch": "没", "en": "without", "pi": "méi"},
+    {"ch": "上", "en": "attend", "pi": "shàng"},
+    {"ch": "体育课", "en": "physical education class", "pi": "tǐ yù kè"},
+    {"ch": "就", "en": "then", "pi": "jiù"},
+    {"ch": "回家", "en": "go home", "pi": "huí jiā"},
+    {"ch": "了", "en": "completed action", "pi": "le"}
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "chinese": "今天很冷啊，不是吗？",
+  "english": "Today is very cold, isn't it?",
+  "pinyin": "jīn tiān hěn lěng a, bú shì ma?",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "冷",
+      "en": "cold",
+      "pi": "lěng"
+    },
+    {
+      "ch": "啊",
+      "en": "ah",
+      "pi": "a"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": ""
+    },
+    {
+      "ch": "不是",
+      "en": "isn't it",
+      "pi": "bú shì"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": ""
+    }
+  ]
+}

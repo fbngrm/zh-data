@@ -1,0 +1,13 @@
+{ 
+  "chinese": "她不想跟任何人说话。",
+  "english": "She doesn't want to talk to anyone.",
+  "pinyin": "Tā bùxiǎng gēn rènhé rén shuōhuà.",
+  "words": [
+    { "ch": "她", "en": "She", "pi": "Tā" },
+    { "ch": "不", "en": "doesn't", "pi": "bù" },
+    { "ch": "想", "en": "want", "pi": "xiǎng" },
+    { "ch": "跟", "en": "to", "pi": "gēn" },
+    { "ch": "任何人", "en": "anyone", "pi": "rènhé rén" },
+    { "ch": "说话", "en": "talk", "pi": "shuōhuà" }
+  ]
+}

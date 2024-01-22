@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆今天下午将会见玛丽。",
+  "english": "Tom will meet Mary this afternoon.",
+  "pinyin": "tāng mǔ jīn tiān xià wǔ jiāng huì jiàn mǎ lì。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "下午",
+      "en": "afternoon",
+      "pi": "xià wǔ"
+    },
+    {
+      "ch": "将",
+      "en": "will",
+      "pi": "jiāng"
+    },
+    {
+      "ch": "会见",
+      "en": "meet",
+      "pi": "huì jiàn"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    }
+  ]
+}

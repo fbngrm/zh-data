@@ -1,0 +1,33 @@
+{
+  "sentences": [
+    {
+      "chinese": "年龄",
+      "english": "age",
+      "pinyin": "niánlíng",
+      "words": [
+        {
+          "ch": "年龄",
+          "en": "age",
+          "pi": "niánlíng"
+        }
+      ]
+    },
+    {
+      "chinese": "１６岁",
+      "english": "16 years old",
+      "pinyin": "shíliù suì",
+      "words": [
+        {
+          "ch": "１６",
+          "en": "16",
+          "pi": "shíliù"
+        },
+        {
+          "ch": "岁",
+          "en": "years old",
+          "pi": "suì"
+        }
+      ]
+    }
+  ]
+}

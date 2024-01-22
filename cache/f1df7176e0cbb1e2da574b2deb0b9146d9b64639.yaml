@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆通常不犯错。",
+  "english": "Tom usually doesn't make mistakes.",
+  "pinyin": "tāng mǔ tōng cháng bù fàn cuò.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "通常",
+      "en": "usually",
+      "pi": "tōng cháng"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "犯错",
+      "en": "make mistakes",
+      "pi": "fàn cuò"
+    }
+  ]
+}

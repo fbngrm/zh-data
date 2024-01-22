@@ -1,0 +1,18 @@
+{
+  "chinese": "我们的东西被偷走了，而且我们错过了火车。",
+  "english": "Our things were stolen and we missed the train.",
+  "pinyin": "wǒmen de dōngxi bèi tōu zǒu le, érqiě wǒmen cuòguò le huǒchē。",
+  "words": [
+    {"ch": "我们", "en": "we", "pi": "wǒmen"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "东西", "en": "things", "pi": "dōngxi"},
+    {"ch": "被", "en": "is/are/am (passive voice)", "pi": "bèi"},
+    {"ch": "偷走", "en": "stolen", "pi": "tōu zǒu"},
+    {"ch": "了", "en": "le (past tense marker)", "pi": "le"},
+    {"ch": "而且", "en": "and", "pi": "érqiě"},
+    {"ch": "我们", "en": "we", "pi": "wǒmen"},
+    {"ch": "错过", "en": "miss", "pi": "cuòguò"},
+    {"ch": "了", "en": "le (past tense marker)", "pi": "le"},
+    {"ch": "火车", "en": "train", "pi": "huǒchē"}
+  ]
+}

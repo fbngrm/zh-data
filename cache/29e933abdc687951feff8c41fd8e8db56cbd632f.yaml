@@ -1,0 +1,16 @@
+{
+    "chinese": "我愛她，她也愛我。",
+    "english": "I love her, and she loves me.",
+    "pinyin": "wǒ ài tā, tā yě ài wǒ.",
+    "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "愛", "en": "love", "pi": "ài"},
+        {"ch": "她", "en": "her", "pi": "tā"},
+        {"ch": "，", "en": ",", "pi": ""},
+        {"ch": "她", "en": "she", "pi": "tā"},
+        {"ch": "也", "en": "also", "pi": "yě"},
+        {"ch": "愛", "en": "love", "pi": "ài"},
+        {"ch": "我", "en": "me", "pi": "wǒ"},
+        {"ch": "。", "en": ".", "pi": ""}
+    ]
+}

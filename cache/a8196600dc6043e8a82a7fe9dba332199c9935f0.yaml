@@ -1,0 +1,32 @@
+{
+  "chinese": "妈妈煮了十只蛋。",
+  "english": "Mom boiled ten eggs.",
+  "pinyin": "māmā zhǔ le shí zhī dàn。",
+  "words": [
+    {
+      "ch": "妈妈",
+      "en": "mom",
+      "pi": "māmā"
+    },
+    {
+      "ch": "煮了",
+      "en": "boiled",
+      "pi": "zhǔ le"
+    },
+    {
+      "ch": "十",
+      "en": "ten",
+      "pi": "shí"
+    },
+    {
+      "ch": "只",
+      "en": "measure word for animals",
+      "pi": "zhī"
+    },
+    {
+      "ch": "蛋",
+      "en": "eggs",
+      "pi": "dàn"
+    }
+  ]
+}

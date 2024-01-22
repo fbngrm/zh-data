@@ -1,0 +1,32 @@
+{
+  "chinese": "我比你高一点。",
+  "english": "I am a bit taller than you.",
+  "pinyin": "wǒ bǐ nǐ gāo yī diǎn。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "高",
+      "en": "tall",
+      "pi": "gāo"
+    },
+    {
+      "ch": "一点",
+      "en": "a bit",
+      "pi": "yī diǎn"
+    }
+  ]
+}

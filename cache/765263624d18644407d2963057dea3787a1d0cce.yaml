@@ -1,0 +1,72 @@
+{
+  "chinese": "您好，我跟总经理有约十点见面，这是我的面试通知。",
+  "english": "Hello, I have an appointment with the general manager at ten o'clock. This is my interview notice.",
+  "pinyin": "Nín hǎo, wǒ gēn zǒng jīng lǐ yǒu yuē shí diǎn jiàn miàn, zhè shì wǒ de miàn shì tōng zhī.",
+  "words": [
+    {
+      "ch": "您好",
+      "en": "Hello",
+      "pi": "Nín hǎo"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "跟",
+      "en": "with",
+      "pi": "gēn"
+    },
+    {
+      "ch": "总经理",
+      "en": "general manager",
+      "pi": "zǒng jīng lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "约",
+      "en": "an appointment",
+      "pi": "yūe"
+    },
+    {
+      "ch": "十点",
+      "en": "ten o'clock",
+      "pi": "shí diǎn"
+    },
+    {
+      "ch": "见面",
+      "en": "meet",
+      "pi": "jiàn miàn"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "面试",
+      "en": "interview",
+      "pi": "miàn shì"
+    },
+    {
+      "ch": "通知",
+      "en": "notice",
+      "pi": "tōng zhī"
+    }
+  ]
+}

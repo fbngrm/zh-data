@@ -1,0 +1,240 @@
+{
+  "sentences": [
+    {
+      "chinese": "我们上班时的情绪，就像坐过山车一样﹣老板脸上一现出不悦的神色，我们就要吃苦头；老板脸上有了笑容，我们才能松一口气。",
+      "english": "Our emotions at work are like riding a roller coaster - if the boss's face shows displeasure, we have to suffer; only when the boss's face has a smile, can we relax.",
+      "pinyin": "Wǒmen shàngbān shí de qíngxù, jiù xiàng zuò guòshānchē yīyàng - lǎobǎn liǎnshàng yī xiànchū bù yù de shénse, wǒmen jiù yào chīkǔtóu; lǎobǎn liǎnshàng yǒule xiàoróng, wǒmen cái néng sōng yīkǒuqì。"
+    },
+    {
+      "chinese": "这样的工作，我不想再干下去了。",
+      "english": "I don't want to continue doing this kind of job anymore.",
+      "pinyin": "Zhèyàng de gōngzuò, wǒ bùxiǎng zài gàn xiàqùle。"
+    }
+  ],
+  "words": [
+    [
+      {
+        "ch": "我们",
+        "en": "we",
+        "pi": "wǒmen"
+      },
+      {
+        "ch": "上班",
+        "en": "work",
+        "pi": "shàngbān"
+      },
+      {
+        "ch": "时",
+        "en": "at",
+        "pi": "shí"
+      },
+      {
+        "ch": "的",
+        "en": "of",
+        "pi": "de"
+      },
+      {
+        "ch": "情绪",
+        "en": "emotions",
+        "pi": "qíngxù"
+      },
+      {
+        "ch": "，",
+        "en": ",",
+        "pi": "，"
+      },
+      {
+        "ch": "就",
+        "en": "like",
+        "pi": "jiù"
+      },
+      {
+        "ch": "像",
+        "en": "similar to",
+        "pi": "xiàng"
+      },
+      {
+        "ch": "坐",
+        "en": "ride",
+        "pi": "zuò"
+      },
+      {
+        "ch": "过山车",
+        "en": "roller coaster",
+        "pi": "guòshānchē"
+      },
+      {
+        "ch": "一样",
+        "en": "the same",
+        "pi": "yīyàng"
+      },
+      {
+        "ch": "﹣",
+        "en": "-",
+        "pi": "﹣"
+      },
+      {
+        "ch": "老板",
+        "en": "boss",
+        "pi": "lǎobǎn"
+      },
+      {
+        "ch": "脸上",
+        "en": "on the face",
+        "pi": "liǎnshàng"
+      },
+      {
+        "ch": "一",
+        "en": "one",
+        "pi": "yī"
+      },
+      {
+        "ch": "现出",
+        "en": "show",
+        "pi": "xiànchū"
+      },
+      {
+        "ch": "不悦",
+        "en": "displeasure",
+        "pi": "bù yù"
+      },
+      {
+        "ch": "的",
+        "en": "of",
+        "pi": "de"
+      },
+      {
+        "ch": "神色",
+        "en": "expression",
+        "pi": "shénse"
+      },
+      {
+        "ch": "，",
+        "en": ",",
+        "pi": "，"
+      },
+      {
+        "ch": "我们",
+        "en": "we",
+        "pi": "wǒmen"
+      },
+      {
+        "ch": "就",
+        "en": "have to",
+        "pi": "jiù"
+      },
+      {
+        "ch": "要",
+        "en": "have to",
+        "pi": "yào"
+      },
+      {
+        "ch": "吃苦头",
+        "en": "suffer",
+        "pi": "chīkǔtóu"
+      },
+      {
+        "ch": "；",
+        "en": ";",
+        "pi": "；"
+      },
+      {
+        "ch": "老板",
+        "en": "boss",
+        "pi": "lǎobǎn"
+      },
+      {
+        "ch": "脸上",
+        "en": "on the face",
+        "pi": "liǎnshàng"
+      },
+      {
+        "ch": "有了",
+        "en": "has",
+        "pi": "yǒule"
+      },
+      {
+        "ch": "笑容",
+        "en": "smile",
+        "pi": "xiàoróng"
+      },
+      {
+        "ch": "，",
+        "en": ",",
+        "pi": "，"
+      },
+      {
+        "ch": "我们",
+        "en": "we",
+        "pi": "wǒmen"
+      },
+      {
+        "ch": "才能",
+        "en": "can",
+        "pi": "cái néng"
+      },
+      {
+        "ch": "松一口气",
+        "en": "relax",
+        "pi": "sōng yīkǒuqì"
+      }
+    ],
+    [
+      {
+        "ch": "这样",
+        "en": "this kind of",
+        "pi": "zhèyàng"
+      },
+      {
+        "ch": "的",
+        "en": "of",
+        "pi": "de"
+      },
+      {
+        "ch": "工作",
+        "en": "job",
+        "pi": "gōngzuò"
+      },
+      {
+        "ch": "，",
+        "en": ",",
+        "pi": "，"
+      },
+      {
+        "ch": "我",
+        "en": "I",
+        "pi": "wǒ"
+      },
+      {
+        "ch": "不想",
+        "en": "don't want",
+        "pi": "bùxiǎng"
+      },
+      {
+        "ch": "再",
+        "en": "again",
+        "pi": "zài"
+      },
+      {
+        "ch": "干",
+        "en": "do",
+        "pi": "gàn"
+      },
+      {
+        "ch": "下去",
+        "en": "continue",
+        "pi": "xiàqù"
+      },
+      {
+        "ch": "了",
+        "en": "anymore",
+        "pi": "le"
+      },
+      {
+        "ch": "。",
+        "en": ".",
+        "pi": "。"
+      }
+    ]
+  ]
+}

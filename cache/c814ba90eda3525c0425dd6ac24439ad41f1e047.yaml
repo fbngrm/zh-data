@@ -1,0 +1,63 @@
+{
+  "sentences": [
+    {
+      "chinese": "到维也纳步行要多久？",
+      "english": "How long does it take to walk to Vienna?",
+      "pinyin": "dào wéi yě nà bù xíng yào duō jiǔ？",
+      "words": [
+        {
+          "ch": "到",
+          "en": "to",
+          "pi": "dào"
+        },
+        {
+          "ch": "维也纳",
+          "en": "Vienna",
+          "pi": "wéi yě nà"
+        },
+        {
+          "ch": "步行",
+          "en": "walk",
+          "pi": "bù xíng"
+        },
+        {
+          "ch": "要",
+          "en": "take",
+          "pi": "yào"
+        },
+        {
+          "ch": "多久",
+          "en": "how long",
+          "pi": "duō jiǔ"
+        }
+      ]
+    },
+    {
+      "chinese": "对不起，我是外地人。",
+      "english": "Sorry, I am a foreigner.",
+      "pinyin": "duì bù qǐ，wǒ shì wài dì rén。",
+      "words": [
+        {
+          "ch": "对不起",
+          "en": "Sorry",
+          "pi": "duì bù qǐ"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "是",
+          "en": "am",
+          "pi": "shì"
+        },
+        {
+          "ch": "外地人",
+          "en": "foreigner",
+          "pi": "wài dì rén"
+        }
+      ]
+    }
+  ]
+}

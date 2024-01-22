@@ -1,0 +1,42 @@
+{
+  "chinese": "这小男孩能数到十。",
+  "english": "This little boy can count to ten.",
+  "pinyin": "zhè xiǎo nánhái néng shǔ dào shí。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "小",
+      "en": "little",
+      "pi": "xiǎo"
+    },
+    {
+      "ch": "男孩",
+      "en": "boy",
+      "pi": "nánhái"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "数",
+      "en": "count",
+      "pi": "shǔ"
+    },
+    {
+      "ch": "到",
+      "en": "to",
+      "pi": "dào"
+    },
+    {
+      "ch": "十",
+      "en": "ten",
+      "pi": "shí"
+    }
+  ]
+}

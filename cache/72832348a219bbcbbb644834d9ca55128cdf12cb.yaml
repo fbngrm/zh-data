@@ -1,0 +1,14 @@
+{
+  "chinese": "我看见他们胳膊挽着胳膊地走路。",
+  "english": "I saw them walking arm in arm.",
+  "pinyin": "wǒ kàn jiàn tā men gē bo wǎn zhe gē bo de zǒu lù。",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "看见", "en": "saw", "pi": "kàn jiàn" },
+    { "ch": "他们", "en": "them", "pi": "tā men" },
+    { "ch": "胳膊", "en": "arm", "pi": "gē bo" },
+    { "ch": "挽着", "en": "walking arm in arm", "pi": "wǎn zhe" },
+    { "ch": "地", "en": "", "pi": "de" },
+    { "ch": "走路", "en": "walking", "pi": "zǒu lù" }
+  ]
+}

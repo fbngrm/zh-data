@@ -1,0 +1,32 @@
+{
+  "chinese": "我见到一个老朋友。",
+  "english": "I saw an old friend.",
+  "pinyin": "wǒ jiàn dào yī gè lǎo péngyǒu.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "见到",
+      "en": "saw",
+      "pi": "jiàn dào"
+    },
+    {
+      "ch": "一个",
+      "en": "an",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "老",
+      "en": "old",
+      "pi": "lǎo"
+    },
+    {
+      "ch": "朋友",
+      "en": "friend",
+      "pi": "péngyǒu"
+    }
+  ]
+}

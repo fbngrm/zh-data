@@ -1,0 +1,14 @@
+{
+  "chinese": "今年下的雪比以往少。",
+  "english": "There is less snow this year compared to previous years.",
+  "pinyin": "jīn nián xià de xuě bǐ yǐ wǎng shǎo。",
+  "words": [
+    {"ch": "今年", "en": "this year", "pi": "jīn nián"},
+    {"ch": "下", "en": "fall", "pi": "xià"},
+    {"ch": "的", "en": "particle indicating possession", "pi": "de"},
+    {"ch": "雪", "en": "snow", "pi": "xuě"},
+    {"ch": "比", "en": "compare", "pi": "bǐ"},
+    {"ch": "以往", "en": "previously", "pi": "yǐ wǎng"},
+    {"ch": "少", "en": "less", "pi": "shǎo"}
+  ]
+}

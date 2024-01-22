@@ -1,0 +1,27 @@
+{
+  "chinese": "這裏離你家多遠？",
+  "english": "How far is it from here to your house?",
+  "pinyin": "zhè lǐ lí nǐ jiā duō yuǎn？",
+  "words": [
+    {
+      "ch": "這裏",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "離",
+      "en": "from",
+      "pi": "lí"
+    },
+    {
+      "ch": "你家",
+      "en": "your house",
+      "pi": "nǐ jiā"
+    },
+    {
+      "ch": "多遠",
+      "en": "how far",
+      "pi": "duō yuǎn"
+    }
+  ]
+}

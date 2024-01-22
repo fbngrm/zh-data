@@ -1,0 +1,16 @@
+{
+  "chinese": "这栋楼里面有中央暖气系统吗？",
+  "english": "Is there a central heating system in this building?",
+  "pinyin": "zhè dòng lóu lǐ miàn yǒu zhōng yāng nuǎn qì xì tǒng ma?",
+  "words": [
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "栋", "en": "building", "pi": "dòng"},
+    {"ch": "楼", "en": "building", "pi": "lóu"},
+    {"ch": "里面", "en": "inside", "pi": "lǐ miàn"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "中央", "en": "central", "pi": "zhōng yāng"},
+    {"ch": "暖气", "en": "heating", "pi": "nuǎn qì"},
+    {"ch": "系统", "en": "system", "pi": "xì tǒng"},
+    {"ch": "吗", "en": "?", "pi": "ma"}
+  ]
+}

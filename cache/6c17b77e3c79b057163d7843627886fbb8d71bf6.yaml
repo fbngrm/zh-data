@@ -1,0 +1,14 @@
+{
+  "chinese": "你的一个朋友在我们这里。",
+  "english": "One of your friends is here with us.",
+  "pinyin": "nǐ de yīgè péngyǒu zài wǒmen zhèlǐ.",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "一个", "en": "one", "pi": "yīgè"},
+    {"ch": "朋友", "en": "friend", "pi": "péngyǒu"},
+    {"ch": "在", "en": "is", "pi": "zài"},
+    {"ch": "我们", "en": "us", "pi": "wǒmen"},
+    {"ch": "这里", "en": "here", "pi": "zhèlǐ"}
+  ]
+}

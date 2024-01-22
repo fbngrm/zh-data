@@ -1,0 +1,37 @@
+{
+  "chinese": "这张桌子缺了个角。",
+  "english": "This table is missing a corner.",
+  "pinyin": "zhè zhāng zhuōzi quēle gè jiǎo。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "张",
+      "en": "table",
+      "pi": "zhāng"
+    },
+    {
+      "ch": "桌子",
+      "en": "is",
+      "pi": "zhuōzi"
+    },
+    {
+      "ch": "缺了",
+      "en": "missing",
+      "pi": "quēle"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "角",
+      "en": "corner",
+      "pi": "jiǎo"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{ 
+  "chinese": "我妈妈每天早上早起。",
+  "english": "My mom wakes up early every morning.",
+  "pinyin": "wǒ māma měitiān zǎoshang zǎoqǐ.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "妈妈", "en": "mom", "pi": "māma"},
+    {"ch": "每天", "en": "every day", "pi": "měitiān"},
+    {"ch": "早上", "en": "morning", "pi": "zǎoshang"},
+    {"ch": "早起", "en": "wake up early", "pi": "zǎoqǐ"}
+  ]
+}

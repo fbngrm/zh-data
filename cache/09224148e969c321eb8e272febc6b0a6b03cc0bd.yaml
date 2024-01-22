@@ -1,0 +1,32 @@
+{
+  "chinese": "这里离银行远吗？",
+  "english": "Is the bank far from here?",
+  "pinyin": "zhè lǐ lí yín háng yuǎn ma?",
+  "words": [
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "离",
+      "en": "from",
+      "pi": "lí"
+    },
+    {
+      "ch": "银行",
+      "en": "bank",
+      "pi": "yín háng"
+    },
+    {
+      "ch": "远",
+      "en": "far",
+      "pi": "yuǎn"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

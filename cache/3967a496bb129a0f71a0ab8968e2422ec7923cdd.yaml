@@ -1,0 +1,27 @@
+{
+  "chinese": "這個男孩吃麵包。",
+  "english": "This boy eats bread.",
+  "pinyin": "zhè ge nán hái chī miàn bāo.",
+  "words": [
+    {
+      "ch": "這個",
+      "en": "This",
+      "pi": "zhè ge"
+    },
+    {
+      "ch": "男孩",
+      "en": "boy",
+      "pi": "nán hái"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "麵包",
+      "en": "bread",
+      "pi": "miàn bāo"
+    }
+  ]
+}

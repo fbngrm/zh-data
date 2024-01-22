@@ -1,0 +1,37 @@
+{
+  "chinese": "我想他不是中国人。",
+  "english": "I think he is not Chinese.",
+  "pinyin": "Wǒ xiǎng tā bùshì zhōngguórén.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "Wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "think",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "中国人",
+      "en": "Chinese",
+      "pi": "zhōngguórén"
+    }
+  ]
+}

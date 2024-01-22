@@ -1,0 +1,32 @@
+{
+  "chinese": "你是中国人还是日本人？",
+  "english": "Are you Chinese or Japanese?",
+  "pinyin": "nǐ shì zhōng guó rén hái shì rì běn rén?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "中国人",
+      "en": "Chinese",
+      "pi": "zhōng guó rén"
+    },
+    {
+      "ch": "还是",
+      "en": "or",
+      "pi": "hái shì"
+    },
+    {
+      "ch": "日本人",
+      "en": "Japanese",
+      "pi": "rì běn rén"
+    }
+  ]
+}

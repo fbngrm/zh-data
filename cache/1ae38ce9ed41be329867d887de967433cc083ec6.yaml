@@ -1,0 +1,18 @@
+{
+  "chinese": "当我在那里的时候，我学习英语。",
+  "english": "When I was there, I was studying English.",
+  "pinyin": "dāng wǒ zài nà lǐ de shí hòu, wǒ xué xí yīng yǔ.",
+  "words": [
+    {"ch": "当", "en": "when", "pi": "dāng"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "在", "en": "was", "pi": "zài"},
+    {"ch": "那里", "en": "there", "pi": "nà lǐ"},
+    {"ch": "的", "en": "-s", "pi": "de"},
+    {"ch": "时候", "en": "when", "pi": "shí hòu"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "学习", "en": "study", "pi": "xué xí"},
+    {"ch": "英语", "en": "English", "pi": "yīng yǔ"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}

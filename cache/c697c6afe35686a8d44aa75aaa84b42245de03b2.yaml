@@ -1,0 +1,16 @@
+{
+  "chinese": "这条河比那条长三倍。",
+  "english": "This river is three times longer than that one.",
+  "pinyin": "zhè tiáo hé bǐ nà tiáo cháng sān bèi。",
+  "words": [
+    { "ch": "这", "en": "this", "pi": "zhè" },
+    { "ch": "条", "en": "measure word for rivers", "pi": "tiáo" },
+    { "ch": "河", "en": "river", "pi": "hé" },
+    { "ch": "比", "en": "compare", "pi": "bǐ" },
+    { "ch": "那", "en": "that", "pi": "nà" },
+    { "ch": "条", "en": "measure word for rivers", "pi": "tiáo" },
+    { "ch": "长", "en": "long", "pi": "cháng" },
+    { "ch": "三", "en": "three", "pi": "sān" },
+    { "ch": "倍", "en": "times", "pi": "bèi" }
+  ]
+}

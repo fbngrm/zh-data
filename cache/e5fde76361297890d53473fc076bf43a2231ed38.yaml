@@ -1,0 +1,32 @@
+{
+  "chinese": "你在这里逗留多久?",
+  "english": "How long are you staying here?",
+  "pinyin": "nǐ zài zhèlǐ dòuliú duōjiǔ?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhèlǐ"
+    },
+    {
+      "ch": "逗留",
+      "en": "stay",
+      "pi": "dòuliú"
+    },
+    {
+      "ch": "多久",
+      "en": "how long",
+      "pi": "duōjiǔ"
+    }
+  ]
+}

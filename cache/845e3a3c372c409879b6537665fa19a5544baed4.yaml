@@ -1,0 +1,27 @@
+{
+  "chinese": "你不快乐吗?",
+  "english": "Are you not happy?",
+  "pinyin": "nǐ bù kuài lè ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "快乐",
+      "en": "happy",
+      "pi": "kuài lè"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

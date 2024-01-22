@@ -1,0 +1,32 @@
+{
+  "chinese": "你介意打开电视吗？",
+  "english": "Do you mind turning on the TV?",
+  "pinyin": "nǐ jièyì dǎkāi diànshì ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "介意",
+      "en": "mind",
+      "pi": "jièyì"
+    },
+    {
+      "ch": "打开",
+      "en": "turn on",
+      "pi": "dǎkāi"
+    },
+    {
+      "ch": "电视",
+      "en": "TV",
+      "pi": "diànshì"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

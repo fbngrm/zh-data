@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆什么也没听见。",
+  "english": "Tom didn't hear anything.",
+  "pinyin": "Tāng mǔ shénme yě méi tīngjiàn.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "什么",
+      "en": "anything",
+      "pi": "shénme"
+    },
+    {
+      "ch": "也",
+      "en": "didn't",
+      "pi": "yě"
+    },
+    {
+      "ch": "没",
+      "en": "hear",
+      "pi": "méi"
+    },
+    {
+      "ch": "听见",
+      "en": "anything",
+      "pi": "tīngjiàn"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "爱丽丝没看到狗。",
+  "english": "Alice didn't see the dog.",
+  "pinyin": "Ài lì sī méi kàn dào gǒu.",
+  "words": [
+    {
+      "ch": "爱丽丝",
+      "en": "Alice",
+      "pi": "Ài lì sī"
+    },
+    {
+      "ch": "没",
+      "en": "didn't",
+      "pi": "méi"
+    },
+    {
+      "ch": "看到",
+      "en": "see",
+      "pi": "kàn dào"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    }
+  ]
+}

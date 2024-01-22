@@ -1,0 +1,37 @@
+{
+  "chinese": "你对中国有什么印象？",
+  "english": "What is your impression of China?",
+  "pinyin": "nǐ duì zhōng guó yǒu shén me yìn xiàng?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "对",
+      "en": "to",
+      "pi": "duì"
+    },
+    {
+      "ch": "中国",
+      "en": "China",
+      "pi": "zhōng guó"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shén me"
+    },
+    {
+      "ch": "印象",
+      "en": "impression",
+      "pi": "yìn xiàng"
+    }
+  ]
+}

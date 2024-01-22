@@ -1,0 +1,37 @@
+{
+  "chinese": "名古屋在东京和大坂之间。",
+  "english": "Nagoya is located between Tokyo and Osaka.",
+  "pinyin": "Mínggǔwū zài Dōngjīng hé Dàbǎn zhī jiān.",
+  "words": [
+    {
+      "ch": "名古屋",
+      "en": "Nagoya",
+      "pi": "Mínggǔwū"
+    },
+    {
+      "ch": "在",
+      "en": "is located",
+      "pi": "zài"
+    },
+    {
+      "ch": "东京",
+      "en": "Tokyo",
+      "pi": "Dōngjīng"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "大坂",
+      "en": "Osaka",
+      "pi": "Dàbǎn"
+    },
+    {
+      "ch": "之间",
+      "en": "between",
+      "pi": "zhī jiān"
+    }
+  ]
+}

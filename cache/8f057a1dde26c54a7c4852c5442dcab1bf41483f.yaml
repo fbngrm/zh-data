@@ -1,0 +1,32 @@
+{
+  "chinese": "你进入了危险区。",
+  "english": "You have entered a danger zone.",
+  "pinyin": "nǐ jìnrùle wēixiǎn qū。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "进入",
+      "en": "enter",
+      "pi": "jìnrù"
+    },
+    {
+      "ch": "了",
+      "en": "have",
+      "pi": "le"
+    },
+    {
+      "ch": "危险",
+      "en": "danger",
+      "pi": "wēixiǎn"
+    },
+    {
+      "ch": "区",
+      "en": "zone",
+      "pi": "qū"
+    }
+  ]
+}

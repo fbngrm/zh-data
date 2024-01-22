@@ -1,0 +1,32 @@
+{
+  "chinese": "昨天晚上下大雪了。",
+  "english": "It snowed heavily last night.",
+  "pinyin": "zuó tiān wǎn shàng xià dà xuě le.",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "晚上",
+      "en": "night",
+      "pi": "wǎn shàng"
+    },
+    {
+      "ch": "下",
+      "en": "to fall",
+      "pi": "xià"
+    },
+    {
+      "ch": "大雪",
+      "en": "heavy snow",
+      "pi": "dà xuě"
+    },
+    {
+      "ch": "了",
+      "en": "indicating past tense",
+      "pi": "le"
+    }
+  ]
+}

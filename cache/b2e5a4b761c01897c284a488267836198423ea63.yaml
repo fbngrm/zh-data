@@ -1,0 +1,32 @@
+{
+  "chinese": "那天晚上发生了火灾。",
+  "english": "There was a fire that night.",
+  "pinyin": "nà tiān wǎnshàng fāshēngle huǒzāi.",
+  "words": [
+    {
+      "ch": "那天",
+      "en": "that day",
+      "pi": "nà tiān"
+    },
+    {
+      "ch": "晚上",
+      "en": "night",
+      "pi": "wǎnshàng"
+    },
+    {
+      "ch": "发生",
+      "en": "happen",
+      "pi": "fāshēng"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "火灾",
+      "en": "fire",
+      "pi": "huǒzāi"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "你今天最好不要出门。",
+  "english": "It's best for you not to go out today.",
+  "pinyin": "nǐ jīntiān zuìhǎo bùyào chūmén.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "最好",
+      "en": "best",
+      "pi": "zuìhǎo"
+    },
+    {
+      "ch": "不要",
+      "en": "not to",
+      "pi": "bùyào"
+    },
+    {
+      "ch": "出门",
+      "en": "go out",
+      "pi": "chūmén"
+    }
+  ]
+}

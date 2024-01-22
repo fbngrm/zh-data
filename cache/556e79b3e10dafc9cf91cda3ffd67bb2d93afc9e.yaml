@@ -1,0 +1,32 @@
+{
+  "chinese": "这里有美丽的女人吗？",
+  "english": "Are there beautiful women here?",
+  "pinyin": "zhè lǐ yǒu měi lì de nǚ rén ma?",
+  "words": [
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "美丽的",
+      "en": "beautiful",
+      "pi": "měi lì de"
+    },
+    {
+      "ch": "女人",
+      "en": "women",
+      "pi": "nǚ rén"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

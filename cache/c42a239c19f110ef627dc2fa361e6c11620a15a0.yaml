@@ -1,0 +1,42 @@
+{
+  "chinese": "这个玩具是用木头做的。",
+  "english": "This toy is made of wood.",
+  "pinyin": "zhè gè wán jù shì yòng mù tóu zuò de.",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "玩具",
+      "en": "toy",
+      "pi": "wán jù"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "用",
+      "en": "made of",
+      "pi": "yòng"
+    },
+    {
+      "ch": "木头",
+      "en": "wood",
+      "pi": "mù tóu"
+    },
+    {
+      "ch": "做",
+      "en": "made",
+      "pi": "zuò"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    }
+  ]
+}

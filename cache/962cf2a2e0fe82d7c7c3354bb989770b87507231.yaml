@@ -1,0 +1,32 @@
+{
+  "chinese": "我从中国到日本。",
+  "english": "I go from China to Japan.",
+  "pinyin": "wǒ cóng zhōngguó dào rìběn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "中国",
+      "en": "China",
+      "pi": "zhōngguó"
+    },
+    {
+      "ch": "到",
+      "en": "to",
+      "pi": "dào"
+    },
+    {
+      "ch": "日本",
+      "en": "Japan",
+      "pi": "rìběn"
+    }
+  ]
+}

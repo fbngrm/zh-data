@@ -1,0 +1,42 @@
+{
+  "chinese": "今天有给我的邮件吗？",
+  "english": "Is there any mail for me today?",
+  "pinyin": "jīn tiān yǒu gěi wǒ de yóu jiàn ma?",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "给",
+      "en": "for",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "的",
+      "en": "my",
+      "pi": "de"
+    },
+    {
+      "ch": "邮件",
+      "en": "mail",
+      "pi": "yóu jiàn"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

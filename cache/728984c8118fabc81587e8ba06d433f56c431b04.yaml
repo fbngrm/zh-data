@@ -1,0 +1,18 @@
+{
+  "chinese": "這個週末去紐約對你來說是不可能的事。",
+  "english": "Going to New York this weekend is impossible for you.",
+  "pinyin": "zhè gè zhōumò qù niǔyuē duì nǐ lái shuō shì bù kěnéng de shì。",
+  "words": [
+    {"ch": "這個", "en": "this", "pi": "zhè gè"},
+    {"ch": "週末", "en": "weekend", "pi": "zhōumò"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "紐約", "en": "New York", "pi": "niǔyuē"},
+    {"ch": "對", "en": "to", "pi": "duì"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "來說", "en": "for", "pi": "lái shuō"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "不可能", "en": "impossible", "pi": "bù kěnéng"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "事", "en": "thing", "pi": "shì"}
+  ]
+}

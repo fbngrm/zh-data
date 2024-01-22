@@ -1,0 +1,42 @@
+{
+  "chinese": "我养的猫昨天死了。",
+  "english": "The cat I was raising died yesterday.",
+  "pinyin": "wǒ yǎng de māo zuótiān sǐ le。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "养",
+      "en": "raise",
+      "pi": "yǎng"
+    },
+    {
+      "ch": "的",
+      "en": "the",
+      "pi": "de"
+    },
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "死",
+      "en": "die",
+      "pi": "sǐ"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "这件事让我真的很感动。",
+  "english": "This really moved me.",
+  "pinyin": "zhè jiàn shì ràng wǒ zhēn de hěn gǎn dòng.",
+  "words": [
+    {
+      "ch": "这件事",
+      "en": "this",
+      "pi": "zhè jiàn shì"
+    },
+    {
+      "ch": "让",
+      "en": "let",
+      "pi": "ràng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "真的",
+      "en": "really",
+      "pi": "zhēn de"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "感动",
+      "en": "moved",
+      "pi": "gǎn dòng"
+    }
+  ]
+}

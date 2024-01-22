@@ -1,0 +1,380 @@
+{
+  "sentences": [
+    {
+      "chinese": "现在是我们回答这个问题的机会。",
+      "english": "Now is our chance to answer this question.",
+      "pinyin": "xiàn zài shì wǒ men huí dá zhè gè wèn tí de jī huì。",
+      "words": [
+        {
+          "ch": "现在",
+          "en": "Now",
+          "pi": "xiàn zài"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "我们",
+          "en": "our",
+          "pi": "wǒ men"
+        },
+        {
+          "ch": "回答",
+          "en": "answer",
+          "pi": "huí dá"
+        },
+        {
+          "ch": "这个",
+          "en": "this",
+          "pi": "zhè gè"
+        },
+        {
+          "ch": "问题",
+          "en": "question",
+          "pi": "wèn tí"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": "de"
+        },
+        {
+          "ch": "机会",
+          "en": "chance",
+          "pi": "jī huì"
+        }
+      ]
+    },
+    {
+      "chinese": "这是我们的时刻这是我们的时代--让我们的人民重新就业，为我们的后代敞开机会之门，恢复繁荣，推进和平，重新确立“美国梦”，再次证明这样一个基本的真理：我们是一家人；只要一息尚存，我们就有希望；当我们遇到嘲讽和怀疑，当有人说我们办不到的时候，我们要以这个永恒的信条来回应他们。",
+      "english": "This is our moment, our time, to put our people back to work and open doors of opportunity for our kids; to restore prosperity and promote the cause of peace; to reclaim the American Dream and reaffirm that fundamental truth, that, out of many, we are one; that while we breathe, we hope. And where we are met with cynicism and doubts and those who tell us that we can't, we will respond with that timeless creed that sums up the spirit of a people: Yes, we can.",
+      "pinyin": "zhè shì wǒ men de shí kè zhè shì wǒ men de shí dài ràng wǒ men de rén mín chóng xīn jiù yè wèi wǒ men de hòu dài chǎng kāi jī huì zhī mén huī fù fán róng tuī jìn hé píng chóng xīn què lì “měi guó mèng” zài cì zhèng míng zhè yàng yī gè jī běn de zhēn lǐ wǒ men shì yī jiā rén zhǐ yào yī xī shàng cún wǒ men jiù yǒu xī wàng dāng wǒ men yù dào cháo yǒu hé huái yí dāng yǒu rén shuō wǒ men bàn bù dào de shí hòu wǒ men yào yǐ zhè ge yǒng héng de xìn tiáo lái huí yìng tā men。",
+      "words": [
+        {
+          "ch": "这",
+          "en": "This",
+          "pi": "zhè"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "我们的",
+          "en": "our",
+          "pi": "wǒ men de"
+        },
+        {
+          "ch": "时刻",
+          "en": "moment",
+          "pi": "shí kè"
+        },
+        {
+          "ch": "这",
+          "en": "our",
+          "pi": "zhè"
+        },
+        {
+          "ch": "是",
+          "en": "time",
+          "pi": "shì"
+        },
+        {
+          "ch": "我们的",
+          "en": "our",
+          "pi": "wǒ men de"
+        },
+        {
+          "ch": "时代",
+          "en": "time",
+          "pi": "shí dài"
+        },
+        {
+          "ch": "让",
+          "en": "to put",
+          "pi": "ràng"
+        },
+        {
+          "ch": "我们的",
+          "en": "our",
+          "pi": "wǒ men de"
+        },
+        {
+          "ch": "人民",
+          "en": "people",
+          "pi": "rén mín"
+        },
+        {
+          "ch": "重新",
+          "en": "back",
+          "pi": "chóng xīn"
+        },
+        {
+          "ch": "就业",
+          "en": "to work",
+          "pi": "jiù yè"
+        },
+        {
+          "ch": "为",
+          "en": "for",
+          "pi": "wèi"
+        },
+        {
+          "ch": "我们的",
+          "en": "our",
+          "pi": "wǒ men de"
+        },
+        {
+          "ch": "后代",
+          "en": "kids",
+          "pi": "hòu dài"
+        },
+        {
+          "ch": "敞开",
+          "en": "to open",
+          "pi": "chǎng kāi"
+        },
+        {
+          "ch": "机会",
+          "en": "doors of opportunity",
+          "pi": "jī huì"
+        },
+        {
+          "ch": "之门",
+          "en": "",
+          "pi": "zhī mén"
+        },
+        {
+          "ch": "恢复",
+          "en": "restore",
+          "pi": "huī fù"
+        },
+        {
+          "ch": "繁荣",
+          "en": "prosperity",
+          "pi": "fán róng"
+        },
+        {
+          "ch": "推进",
+          "en": "promote",
+          "pi": "tuī jìn"
+        },
+        {
+          "ch": "和平",
+          "en": "peace",
+          "pi": "hé píng"
+        },
+        {
+          "ch": "重新",
+          "en": "reclaim",
+          "pi": "chóng xīn"
+        },
+        {
+          "ch": "确立",
+          "en": "reaffirm",
+          "pi": "què lì"
+        },
+        {
+          "ch": "美国梦",
+          "en": "American Dream",
+          "pi": "měi guó mèng"
+        },
+        {
+          "ch": "再次",
+          "en": "again",
+          "pi": "zài cì"
+        },
+        {
+          "ch": "证明",
+          "en": "prove",
+          "pi": "zhèng míng"
+        },
+        {
+          "ch": "这样",
+          "en": "that",
+          "pi": "zhè yàng"
+        },
+        {
+          "ch": "一个",
+          "en": "one",
+          "pi": "yī gè"
+        },
+        {
+          "ch": "基本",
+          "en": "fundamental",
+          "pi": "jī běn"
+        },
+        {
+          "ch": "真理",
+          "en": "truth",
+          "pi": "zhēn lǐ"
+        },
+        {
+          "ch": "我们",
+          "en": "that",
+          "pi": "wǒ men"
+        },
+        {
+          "ch": "是",
+          "en": "we are",
+          "pi": "shì"
+        },
+        {
+          "ch": "一家人",
+          "en": "one",
+          "pi": "yī jiā rén"
+        },
+        {
+          "ch": "只要",
+          "en": "while",
+          "pi": "zhǐ yào"
+        },
+        {
+          "ch": "一息",
+          "en": "we breathe",
+          "pi": "yī xī"
+        },
+        {
+          "ch": "尚存",
+          "en": "we hope",
+          "pi": "shàng cún"
+        },
+        {
+          "ch": "我们",
+          "en": "And",
+          "pi": "wǒ men"
+        },
+        {
+          "ch": "就有",
+          "en": "we can",
+          "pi": "jiù yǒu"
+        },
+        {
+          "ch": "希望",
+          "en": "hope",
+          "pi": "xī wàng"
+        },
+        {
+          "ch": "当",
+          "en": "And",
+          "pi": "dāng"
+        },
+        {
+          "ch": "我们",
+          "en": "we are met",
+          "pi": "wǒ men"
+        },
+        {
+          "ch": "遇到",
+          "en": "with",
+          "pi": "yù dào"
+        },
+        {
+          "ch": "嘲讽",
+          "en": "cynicism",
+          "pi": "cháo fěng"
+        },
+        {
+          "ch": "和",
+          "en": "and",
+          "pi": "hé"
+        },
+        {
+          "ch": "怀疑",
+          "en": "doubts",
+          "pi": "huái yí"
+        },
+        {
+          "ch": "当",
+          "en": "who tell",
+          "pi": "dāng"
+        },
+        {
+          "ch": "有人",
+          "en": "us that",
+          "pi": "yǒu rén"
+        },
+        {
+          "ch": "说",
+          "en": "we can't",
+          "pi": "shuō"
+        },
+        {
+          "ch": "我们",
+          "en": "we will",
+          "pi": "wǒ men"
+        },
+        {
+          "ch": "以",
+          "en": "respond",
+          "pi": "yǐ"
+        },
+        {
+          "ch": "这个",
+          "en": "with",
+          "pi": "zhè ge"
+        },
+        {
+          "ch": "永恒",
+          "en": "that",
+          "pi": "yǒng héng"
+        },
+        {
+          "ch": "信条",
+          "en": "creed",
+          "pi": "xìn tiáo"
+        },
+        {
+          "ch": "来",
+          "en": "that sums up",
+          "pi": "lái"
+        },
+        {
+          "ch": "回应",
+          "en": "the spirit",
+          "pi": "huí yìng"
+        },
+        {
+          "ch": "他们",
+          "en": "of a people",
+          "pi": "tā men"
+        }
+      ]
+    },
+    {
+      "chinese": "是的，我们能做到",
+      "english": "Yes, we can.",
+      "pinyin": "shì de wǒ men néng zuò dào",
+      "words": [
+        {
+          "ch": "是",
+          "en": "Yes",
+          "pi": "shì"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": "de"
+        },
+        {
+          "ch": "我们",
+          "en": "we",
+          "pi": "wǒ men"
+        },
+        {
+          "ch": "能",
+          "en": "can",
+          "pi": "néng"
+        },
+        {
+          "ch": "做到",
+          "en": "do",
+          "pi": "zuò dào"
+        }
+      ]
+    }
+  ]
+}

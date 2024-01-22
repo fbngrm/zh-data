@@ -1,0 +1,14 @@
+{
+  "chinese": "汤姆和玛丽会跟我走。",
+  "english": "Tom and Mary will follow me.",
+  "pinyin": "Tāng mǔ hé mǎ lì huì gēn wǒ zǒu.",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "玛丽", "en": "Mary", "pi": "mǎ lì"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "跟", "en": "follow", "pi": "gēn"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "走", "en": "go", "pi": "zǒu"}
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "sentences": [
+    {
+      "chinese": "你有几个姊妹？",
+      "english": "How many sisters do you have?",
+      "pinyin": "Nǐ yǒu jǐ gè zǐ mèi?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "有",
+          "en": "have",
+          "pi": "yǒu"
+        },
+        {
+          "ch": "几个",
+          "en": "how many",
+          "pi": "jǐ gè"
+        },
+        {
+          "ch": "姊妹",
+          "en": "sisters",
+          "pi": "zǐ mèi"
+        }
+      ]
+    },
+    {
+      "chinese": "几个兄弟？",
+      "english": "How many brothers do you have?",
+      "pinyin": "Jǐ gè xiōng dì?",
+      "words": [
+        {
+          "ch": "几个",
+          "en": "how many",
+          "pi": "jǐ gè"
+        },
+        {
+          "ch": "兄弟",
+          "en": "brothers",
+          "pi": "xiōng dì"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "chinese": "他没有去，我也没去。",
+  "english": "He didn't go, and I didn't go either.",
+  "pinyin": "Tā méiyǒu qù, wǒ yě méi qù.",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "Tā"},
+    {"ch": "没有", "en": "didn't", "pi": "méiyǒu"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "也", "en": "also", "pi": "yě"},
+    {"ch": "没", "en": "didn't", "pi": "méi"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}

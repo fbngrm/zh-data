@@ -1,0 +1,14 @@
+{
+  "chinese": "他给了我一个好建议。",
+  "english": "He gave me a good suggestion.",
+  "pinyin": "tā gěi le wǒ yī gè hǎo jiàn yì。",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "给", "en": "give", "pi": "gěi"},
+    {"ch": "了", "en": "particle indicating a completed action", "pi": "le"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "一个", "en": "one", "pi": "yī gè"},
+    {"ch": "好", "en": "good", "pi": "hǎo"},
+    {"ch": "建议", "en": "suggestion", "pi": "jiàn yì"}
+  ]
+}

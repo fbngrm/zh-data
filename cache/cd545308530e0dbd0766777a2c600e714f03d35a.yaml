@@ -1,0 +1,37 @@
+{
+  "chinese": "对不起。一切都是我的错。",
+  "english": "I'm sorry. Everything is my fault.",
+  "pinyin": "duì bù qǐ. yī qiē dōu shì wǒ de cuò。",
+  "words": [
+    {
+      "ch": "对不起",
+      "en": "I'm sorry",
+      "pi": "duì bù qǐ"
+    },
+    {
+      "ch": "一切",
+      "en": "everything",
+      "pi": "yī qiē"
+    },
+    {
+      "ch": "都",
+      "en": "is",
+      "pi": "dōu"
+    },
+    {
+      "ch": "是",
+      "en": "my",
+      "pi": "shì"
+    },
+    {
+      "ch": "我的",
+      "en": "fault",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "错",
+      "en": "fault",
+      "pi": "cuò"
+    }
+  ]
+}

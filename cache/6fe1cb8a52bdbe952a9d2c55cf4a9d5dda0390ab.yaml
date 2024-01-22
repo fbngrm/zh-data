@@ -1,0 +1,30 @@
+{ 
+  "chinese": "传话游戏是世界通行的游戏。由第一个人传话给另一个，另一个再传给下一个，传至队伍尾端时，最后一位玩家将对其他玩家宣布所听到的词语。",
+  "english": "Chinese Whispers is a globally popular game. It involves one person whispering a message to the next person, who in turn whispers it to the next person, and so on until it reaches the end of the line. The last player then announces the word they heard to the other players.",
+  "pinyin": "Chuán huà yóu xì shì shì jiè tōng xíng de yóu xì. Yóu dì yī gè rén chuán huà gěi lìng yī gè, lìng yī gè zài chuán gěi xià yī gè, chuán zhì duì wǔ wěi pái jiāng duì qí tā wán jiā xuān bù suǒ tīng dào de cí yǔ.",
+  "words": [
+    { "ch": "传话", "en": "Chinese Whispers", "pi": "chuán huà" },
+    { "ch": "游戏", "en": "game", "pi": "yóu xì" },
+    { "ch": "是", "en": "is", "pi": "shì" },
+    { "ch": "世界通行", "en": "globally popular", "pi": "shì jiè tōng xíng" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "由", "en": "involves", "pi": "yóu" },
+    { "ch": "第一个人", "en": "one person", "pi": "dì yī gè rén" },
+    { "ch": "给", "en": "whispering", "pi": "gěi" },
+    { "ch": "另一个", "en": "the next person", "pi": "lìng yī gè" },
+    { "ch": "再", "en": "who in turn", "pi": "zài" },
+    { "ch": "传", "en": "whispers", "pi": "chuán" },
+    { "ch": "给", "en": "it to", "pi": "gěi" },
+    { "ch": "下一个", "en": "the next person", "pi": "xià yī gè" },
+    { "ch": "传至", "en": "and so on until", "pi": "chuán zhì" },
+    { "ch": "队伍尾端", "en": "the end of the line", "pi": "duì wǔ wěi pái" },
+    { "ch": "时", "en": "then", "pi": "shí" },
+    { "ch": "最后一位玩家", "en": "The last player", "pi": "zuì hòu yī wèi wán jiā" },
+    { "ch": "将", "en": "then", "pi": "jiāng" },
+    { "ch": "对", "en": "announces", "pi": "duì" },
+    { "ch": "其他玩家", "en": "the other players", "pi": "qí tā wán jiā" },
+    { "ch": "宣布", "en": "the word", "pi": "xuān bù" },
+    { "ch": "所听到", "en": "they heard", "pi": "suǒ tīng dào" },
+    { "ch": "的词语", "en": "to the other players", "pi": "de cí yǔ" }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "从昨晚起一直下雨。",
+  "english": "It has been raining since last night.",
+  "pinyin": "Cóng zuówǎn qǐ yīzhí xiàyǔ.",
+  "words": [
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "昨晚",
+      "en": "last night",
+      "pi": "zuówǎn"
+    },
+    {
+      "ch": "起",
+      "en": "since",
+      "pi": "qǐ"
+    },
+    {
+      "ch": "一直",
+      "en": "continuously",
+      "pi": "yīzhí"
+    },
+    {
+      "ch": "下雨",
+      "en": "raining",
+      "pi": "xiàyǔ"
+    }
+  ]
+}

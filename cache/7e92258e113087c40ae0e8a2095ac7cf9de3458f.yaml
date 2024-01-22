@@ -1,0 +1,37 @@
+{
+  "chinese": "你爸爸今年多大岁数？",
+  "english": "How old is your father this year?",
+  "pinyin": "nǐ bà ba jīn nián duō dà suì shù？",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "爸爸",
+      "en": "father",
+      "pi": "bà ba"
+    },
+    {
+      "ch": "今年",
+      "en": "this year",
+      "pi": "jīn nián"
+    },
+    {
+      "ch": "多大",
+      "en": "how old",
+      "pi": "duō dà"
+    },
+    {
+      "ch": "岁数",
+      "en": "age",
+      "pi": "suì shù"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "？"
+    }
+  ]
+}

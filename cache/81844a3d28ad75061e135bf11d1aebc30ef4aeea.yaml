@@ -1,0 +1,15 @@
+{
+  "chinese": "这棵树和屋顶差不多一样高。",
+  "english": "This tree is almost as tall as the roof.",
+  "pinyin": "zhè kē shù hé wū dǐng chà bù duō yī yàng gāo.",
+  "words": [
+    {"ch": "这", "en": "This", "pi": "zhè"},
+    {"ch": "棵", "en": "tree", "pi": "kē"},
+    {"ch": "树", "en": "is"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "屋顶", "en": "roof", "pi": "wū dǐng"},
+    {"ch": "差不多", "en": "almost", "pi": "chà bù duō"},
+    {"ch": "一样", "en": "as", "pi": "yī yàng"},
+    {"ch": "高", "en": "tall", "pi": "gāo"}
+  ]
+}

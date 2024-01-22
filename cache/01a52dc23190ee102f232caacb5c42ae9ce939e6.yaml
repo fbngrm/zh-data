@@ -1,0 +1,14 @@
+{
+  "chinese": "你如果需要帮助，就告诉我。",
+  "english": "If you need help, just let me know.",
+  "pinyin": "nǐ rúguǒ xūyào bāngzhù, jiù gàosù wǒ。",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "如果", "en": "if", "pi": "rúguǒ"},
+    {"ch": "需要", "en": "need", "pi": "xūyào"},
+    {"ch": "帮助", "en": "help", "pi": "bāngzhù"},
+    {"ch": "就", "en": "just", "pi": "jiù"},
+    {"ch": "告诉", "en": "let know", "pi": "gàosù"},
+    {"ch": "我", "en": "me", "pi": "wǒ"}
+  ]
+}

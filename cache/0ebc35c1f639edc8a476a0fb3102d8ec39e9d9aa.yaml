@@ -1,0 +1,37 @@
+{
+  "chinese": "公园里有很多树吗?",
+  "english": "Are there many trees in the park?",
+  "pinyin": "gōng yuán lǐ yǒu hěn duō shù ma?",
+  "words": [
+    {
+      "ch": "公园",
+      "en": "park",
+      "pi": "gōng yuán"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "很多",
+      "en": "many",
+      "pi": "hěn duō"
+    },
+    {
+      "ch": "树",
+      "en": "trees",
+      "pi": "shù"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

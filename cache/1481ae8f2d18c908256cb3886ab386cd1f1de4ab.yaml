@@ -1,0 +1,52 @@
+{
+  "chinese": "他写了一本关于中国的书。",
+  "english": "He wrote a book about China.",
+  "pinyin": "tā xiě le yì běn guān yú zhōng guó de shū。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "写",
+      "en": "wrote",
+      "pi": "xiě"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "一",
+      "en": "a",
+      "pi": "yì"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "关于",
+      "en": "about",
+      "pi": "guān yú"
+    },
+    {
+      "ch": "中国",
+      "en": "China",
+      "pi": "zhōng guó"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    }
+  ]
+}

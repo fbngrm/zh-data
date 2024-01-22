@@ -1,0 +1,32 @@
+{
+  "chinese": "上个星期天我去了公园。",
+  "english": "Last Sunday I went to the park.",
+  "pinyin": "Shàng gè xīngqítiān wǒ qùle gōngyuán.",
+  "words": [
+    {
+      "ch": "上个",
+      "en": "last",
+      "pi": "shàng gè"
+    },
+    {
+      "ch": "星期天",
+      "en": "Sunday",
+      "pi": "xīngqítiān"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "去了",
+      "en": "went to",
+      "pi": "qùle"
+    },
+    {
+      "ch": "公园",
+      "en": "park",
+      "pi": "gōngyuán"
+    }
+  ]
+}

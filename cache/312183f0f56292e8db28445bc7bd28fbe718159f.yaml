@@ -1,0 +1,32 @@
+{
+  "chinese": "您的牙要拔掉。",
+  "english": "Your tooth needs to be extracted.",
+  "pinyin": "Nín de yá yào bá diào.",
+  "words": [
+    {
+      "ch": "您",
+      "en": "You",
+      "pi": "Nín"
+    },
+    {
+      "ch": "的",
+      "en": "your",
+      "pi": "de"
+    },
+    {
+      "ch": "牙",
+      "en": "tooth",
+      "pi": "yá"
+    },
+    {
+      "ch": "要",
+      "en": "need",
+      "pi": "yào"
+    },
+    {
+      "ch": "拔掉",
+      "en": "to be extracted",
+      "pi": "bá diào"
+    }
+  ]
+}

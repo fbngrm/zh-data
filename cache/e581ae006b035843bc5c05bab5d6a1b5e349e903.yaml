@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆不是这里唯一的好歌手。",
+  "english": "Tom is not the only good singer here.",
+  "pinyin": "Tāng mǔ bù shì zhè lǐ wéi yī de hǎo gē shǒu.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "不是",
+      "en": "not",
+      "pi": "bù shì"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "唯一",
+      "en": "only",
+      "pi": "wéi yī"
+    },
+    {
+      "ch": "的",
+      "en": "the",
+      "pi": "de"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "歌手",
+      "en": "singer",
+      "pi": "gē shǒu"
+    }
+  ]
+}

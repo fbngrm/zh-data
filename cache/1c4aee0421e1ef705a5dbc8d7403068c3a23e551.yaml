@@ -1,0 +1,11 @@
+{
+  "chinese": "你会游泳吗？",
+  "english": "Can you swim?",
+  "pinyin": "nǐ huì yóuyǒng ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "会", "en": "can", "pi": "huì"},
+    {"ch": "游泳", "en": "swim", "pi": "yóuyǒng"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

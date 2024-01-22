@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆告诉我他丢了课本。",
+  "english": "Tom told me that he lost his textbook.",
+  "pinyin": "Tāng mǔ gàosu wǒ tā diūle kèběn.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "告诉",
+      "en": "told",
+      "pi": "gàosu"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "丢了",
+      "en": "lost",
+      "pi": "diūle"
+    },
+    {
+      "ch": "课本",
+      "en": "textbook",
+      "pi": "kèběn"
+    }
+  ]
+}

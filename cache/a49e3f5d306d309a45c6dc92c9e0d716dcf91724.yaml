@@ -1,0 +1,33 @@
+{
+  "sentences": [
+    {
+      "chinese": "下次。",
+      "english": "Next time.",
+      "pinyin": "xià cì.",
+      "words": [
+        {
+          "ch": "下次",
+          "en": "Next time",
+          "pi": "xià cì"
+        }
+      ]
+    },
+    {
+      "chinese": "他说道。",
+      "english": "He said.",
+      "pinyin": "tā shuō dào.",
+      "words": [
+        {
+          "ch": "他",
+          "en": "He",
+          "pi": "tā"
+        },
+        {
+          "ch": "说道",
+          "en": "said",
+          "pi": "shuō dào"
+        }
+      ]
+    }
+  ]
+}

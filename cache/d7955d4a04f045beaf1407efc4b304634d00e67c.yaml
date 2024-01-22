@@ -1,0 +1,32 @@
+{
+   "chinese": "马在路上小跑着。",
+   "english": "The horse is galloping on the road.",
+   "pinyin": "mǎ zài lù shàng xiǎo pǎo zhe.",
+   "words": [
+      {
+         "ch": "马",
+         "en": "horse",
+         "pi": "mǎ"
+      },
+      {
+         "ch": "在",
+         "en": "is",
+         "pi": "zài"
+      },
+      {
+         "ch": "路上",
+         "en": "on the road",
+         "pi": "lù shàng"
+      },
+      {
+         "ch": "小跑",
+         "en": "galloping",
+         "pi": "xiǎo pǎo"
+      },
+      {
+         "ch": "着",
+         "en": "continuously",
+         "pi": "zhe"
+      }
+   ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "我听说汤姆在课堂上打鼾。",
+  "english": "I heard that Tom snored in class.",
+  "pinyin": "wǒ tīng shuō tāng mǔ zài kè táng shàng dǎ hān。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "听说",
+      "en": "heard",
+      "pi": "tīng shuō"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "课堂上",
+      "en": "class",
+      "pi": "kè táng shàng"
+    },
+    {
+      "ch": "打鼾",
+      "en": "snored",
+      "pi": "dǎ hān"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "他开始吃他的早餐了。",
+  "english": "He started eating his breakfast.",
+  "pinyin": "tā kāishǐ chī tā de zǎocān le.",
+  "words": [
+    { "ch": "他", "en": "he", "pi": "tā" },
+    { "ch": "开始", "en": "started", "pi": "kāishǐ" },
+    { "ch": "吃", "en": "eating", "pi": "chī" },
+    { "ch": "他的", "en": "his", "pi": "tā de" },
+    { "ch": "早餐", "en": "breakfast", "pi": "zǎocān" },
+    { "ch": "了", "en": "finished/already", "pi": "le" }
+  ]
+}

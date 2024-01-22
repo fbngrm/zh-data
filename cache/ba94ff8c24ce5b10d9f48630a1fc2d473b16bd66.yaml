@@ -1,0 +1,32 @@
+{
+  "chinese": "你最喜欢哪一队?",
+  "english": "Which team do you like the most?",
+  "pinyin": "nǐ zuì xǐhuān nǎ yī duì?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "最",
+      "en": "most",
+      "pi": "zuì"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "哪一",
+      "en": "which",
+      "pi": "nǎ yī"
+    },
+    {
+      "ch": "队",
+      "en": "team",
+      "pi": "duì"
+    }
+  ]
+}

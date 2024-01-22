@@ -1,0 +1,12 @@
+{
+  "chinese": "上个星期这架飞机坠毁了。",
+  "english": "Last week, this plane crashed.",
+  "pinyin": "Shàng gè xīngqī zhè jià fēijī zhuì huǐle.",
+  "words": [
+    {"ch": "上个", "en": "last", "pi": "shàng gè"},
+    {"ch": "星期", "en": "week", "pi": "xīngqī"},
+    {"ch": "这架", "en": "this", "pi": "zhè jià"},
+    {"ch": "飞机", "en": "plane", "pi": "fēijī"},
+    {"ch": "坠毁了", "en": "crashed", "pi": "zhuì huǐle"}
+  ]
+}

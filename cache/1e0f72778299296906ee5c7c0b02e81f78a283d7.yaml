@@ -1,0 +1,15 @@
+{
+  "chinese": "我的腿被那只狗咬了。",
+  "english": "My leg was bitten by that dog.",
+  "pinyin": "Wǒ de tuǐ bèi nà zhī gǒu yǎole.",
+  "words": [
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "腿", "en": "leg", "pi": "tuǐ"},
+    {"ch": "被", "en": "was/were", "pi": "bèi"},
+    {"ch": "那", "en": "that", "pi": "nà"},
+    {"ch": "只", "en": "dog", "pi": "zhī"},
+    {"ch": "狗", "en": "dog", "pi": "gǒu"},
+    {"ch": "咬", "en": "bite", "pi": "yǎo"},
+    {"ch": "了", "en": "by", "pi": "le"}
+  ]
+}

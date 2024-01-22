@@ -1,0 +1,18 @@
+{
+  "chinese": "她總是把老師說的話一字不差地記下來。",
+  "english": "She always remembers exactly what the teacher says.",
+  "pinyin": "tā zǒng shì bǎ lǎo shī shuō de huà yī zì bù chà dì jì xià lái。",
+  "words": [
+    {"ch": "她", "en": "she", "pi": "tā"},
+    {"ch": "總是", "en": "always", "pi": "zǒng shì"},
+    {"ch": "把", "en": "to", "pi": "bǎ"},
+    {"ch": "老師", "en": "teacher", "pi": "lǎo shī"},
+    {"ch": "說", "en": "say", "pi": "shuō"},
+    {"ch": "的", "en": "s", "pi": "de"},
+    {"ch": "話", "en": "words", "pi": "huà"},
+    {"ch": "一字", "en": "exactly", "pi": "yī zì"},
+    {"ch": "不差", "en": "not miss", "pi": "bù chà"},
+    {"ch": "地", "en": "", "pi": "dì"},
+    {"ch": "記下來", "en": "remember", "pi": "jì xià lái"}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+   "chinese": "一个足球队由十一个球员组成。",
+   "english": "A football team consists of eleven players.",
+   "pinyin": "Yī gè zú qiú duì yóu shí yī gè qiú yuán zǔ chéng。",
+   "words": [
+      {"ch": "一个", "en": "A", "pi": "yī gè"},
+      {"ch": "足球队", "en": "football team", "pi": "zú qiú duì"},
+      {"ch": "由", "en": "consists of", "pi": "yóu"},
+      {"ch": "十一个", "en": "eleven", "pi": "shí yī gè"},
+      {"ch": "球员", "en": "players", "pi": "qiú yuán"},
+      {"ch": "组成", "en": "consist", "pi": "zǔ chéng"}
+   ]
+}

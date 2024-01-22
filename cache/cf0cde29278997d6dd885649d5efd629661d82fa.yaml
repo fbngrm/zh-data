@@ -1,0 +1,32 @@
+{
+  "chinese": "我们在学校学英文。",
+  "english": "We are learning English at school.",
+  "pinyin": "wǒ men zài xué xiào xué yīng wén。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "学校",
+      "en": "school",
+      "pi": "xué xiào"
+    },
+    {
+      "ch": "学",
+      "en": "learn",
+      "pi": "xué"
+    },
+    {
+      "ch": "英文",
+      "en": "English",
+      "pi": "yīng wén"
+    }
+  ]
+}

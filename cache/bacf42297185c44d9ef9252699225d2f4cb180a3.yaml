@@ -1,0 +1,37 @@
+{
+  "chinese": "我每天读书大约两个小时。",
+  "english": "I study for about two hours every day.",
+  "pinyin": "wǒ měi tiān dú shū dà yuē liǎng gè xiǎo shí。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "读书",
+      "en": "study",
+      "pi": "dú shū"
+    },
+    {
+      "ch": "大约",
+      "en": "about",
+      "pi": "dà yuē"
+    },
+    {
+      "ch": "两个",
+      "en": "two",
+      "pi": "liǎng gè"
+    },
+    {
+      "ch": "小时",
+      "en": "hours",
+      "pi": "xiǎo shí"
+    }
+  ]
+}

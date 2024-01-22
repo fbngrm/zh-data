@@ -1,0 +1,37 @@
+{
+  "chinese": "对于昨晚，我很抱歉！",
+  "english": "I'm sorry for last night!",
+  "pinyin": "duì yú zuó wǎn, wǒ hěn bào qiàn!",
+  "words": [
+    {
+      "ch": "对于",
+      "en": "regarding",
+      "pi": "duì yú"
+    },
+    {
+      "ch": "昨晚",
+      "en": "last night",
+      "pi": "zuó wǎn"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "抱歉",
+      "en": "sorry",
+      "pi": "bào qiàn"
+    },
+    {
+      "ch": "！",
+      "en": "!",
+      "pi": "!"
+    }
+  ]
+}

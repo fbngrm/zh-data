@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆给玛丽买了件礼物。",
+  "english": "Tom bought a gift for Mary.",
+  "pinyin": "Tāng mǔ gěi mǎ lì mǎi le jiàn lǐ wù.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "给",
+      "en": "gave",
+      "pi": "gěi"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "买了",
+      "en": "bought",
+      "pi": "mǎi le"
+    },
+    {
+      "ch": "件",
+      "en": "a",
+      "pi": "jiàn"
+    },
+    {
+      "ch": "礼物",
+      "en": "gift",
+      "pi": "lǐ wù"
+    }
+  ]
+}

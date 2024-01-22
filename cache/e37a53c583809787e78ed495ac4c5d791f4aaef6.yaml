@@ -1,0 +1,37 @@
+{
+  "chinese": "他的脚步慢下来了。",
+  "english": "His footsteps slowed down.",
+  "pinyin": "tā de jiǎobù màn xiàlái le.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "脚步",
+      "en": "footsteps",
+      "pi": "jiǎobù"
+    },
+    {
+      "ch": "慢",
+      "en": "slow",
+      "pi": "màn"
+    },
+    {
+      "ch": "下来",
+      "en": "slowed down",
+      "pi": "xiàlái"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

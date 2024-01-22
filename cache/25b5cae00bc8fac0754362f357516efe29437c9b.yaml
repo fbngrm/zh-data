@@ -1,0 +1,32 @@
+{
+  "chinese": "你的學校有多少個學生？",
+  "english": "How many students does your school have?",
+  "pinyin": "Nǐ de xuéxiào yǒu duōshǎo gè xuéshēng?",
+  "words": [
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "學校",
+      "en": "school",
+      "pi": "xuéxiào"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "多少個",
+      "en": "how many",
+      "pi": "duōshǎo gè"
+    },
+    {
+      "ch": "學生",
+      "en": "students",
+      "pi": "xuéshēng"
+    }
+  ]
+}

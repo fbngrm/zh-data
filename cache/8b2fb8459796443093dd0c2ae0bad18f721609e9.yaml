@@ -1,0 +1,42 @@
+{
+  "chinese": "我不允许你用我的钢笔。",
+  "english": "I don't allow you to use my pen.",
+  "pinyin": "wǒ bù yǔn xǔ nǐ yòng wǒ de gāng bǐ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "允许",
+      "en": "allow",
+      "pi": "yǔn xǔ"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "用",
+      "en": "to use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "钢笔",
+      "en": "pen",
+      "pi": "gāng bǐ"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "对不起，航班已经客满了。",
+  "english": "I'm sorry, the flight is already fully booked.",
+  "pinyin": "duì bù qǐ, háng bān yǐ jīng kè mǎn le。",
+  "words": [
+    {
+      "ch": "对不起",
+      "en": "I'm sorry",
+      "pi": "duì bù qǐ"
+    },
+    {
+      "ch": "航班",
+      "en": "flight",
+      "pi": "háng bān"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐ jīng"
+    },
+    {
+      "ch": "客满",
+      "en": "fully booked",
+      "pi": "kè mǎn"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

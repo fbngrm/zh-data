@@ -1,0 +1,27 @@
+{
+  "chinese": "这种面包很美味。",
+  "english": "This bread is delicious.",
+  "pinyin": "zhè zhǒng miànbāo hěn měiwèi.",
+  "words": [
+    {
+      "ch": "这种",
+      "en": "This",
+      "pi": "zhè zhǒng"
+    },
+    {
+      "ch": "面包",
+      "en": "bread",
+      "pi": "miànbāo"
+    },
+    {
+      "ch": "很",
+      "en": "is",
+      "pi": "hěn"
+    },
+    {
+      "ch": "美味",
+      "en": "delicious",
+      "pi": "měiwèi"
+    }
+  ]
+}

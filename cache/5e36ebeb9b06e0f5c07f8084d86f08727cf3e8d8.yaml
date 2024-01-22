@@ -1,0 +1,32 @@
+{
+  "chinese": "她是我的同学。",
+  "english": "She is my classmate.",
+  "pinyin": "tā shì wǒ de tóngxué.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我",
+      "en": "my",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "同学",
+      "en": "classmate",
+      "pi": "tóngxué"
+    }
+  ]
+}

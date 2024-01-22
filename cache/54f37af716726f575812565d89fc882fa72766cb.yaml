@@ -1,0 +1,32 @@
+{
+  "chinese": "我昨天打电话给他。",
+  "english": "I called him yesterday.",
+  "pinyin": "Wǒ zuótiān dǎ diànhuà gěi tā.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "打电话",
+      "en": "called",
+      "pi": "dǎ diànhuà"
+    },
+    {
+      "ch": "给",
+      "en": "him",
+      "pi": "gěi"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    }
+  ]
+}

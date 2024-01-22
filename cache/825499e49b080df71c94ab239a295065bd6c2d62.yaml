@@ -1,0 +1,37 @@
+{
+  "chinese": "我很抱歉我没有打电话。",
+  "english": "I'm sorry I didn't call.",
+  "pinyin": "wǒ hěn bào qiàn wǒ méi yǒu dǎ diàn huà。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "抱歉",
+      "en": "sorry",
+      "pi": "bào qiàn"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "没有",
+      "en": "didn't",
+      "pi": "méi yǒu"
+    },
+    {
+      "ch": "打电话",
+      "en": "call",
+      "pi": "dǎ diàn huà"
+    }
+  ]
+}

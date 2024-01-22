@@ -1,0 +1,37 @@
+{
+  "chinese": "這個故事比那個故事有趣得多。",
+  "english": "This story is much more interesting than that story.",
+  "pinyin": "zhè ge gù shi bǐ nà ge gù shi yǒu qù dé duō。",
+  "words": [
+    {
+      "ch": "這個",
+      "en": "this",
+      "pi": "zhè ge"
+    },
+    {
+      "ch": "故事",
+      "en": "story",
+      "pi": "gù shi"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "那個",
+      "en": "that",
+      "pi": "nà ge"
+    },
+    {
+      "ch": "有趣",
+      "en": "interesting",
+      "pi": "yǒu qù"
+    },
+    {
+      "ch": "得多",
+      "en": "much more",
+      "pi": "dé duō"
+    }
+  ]
+}

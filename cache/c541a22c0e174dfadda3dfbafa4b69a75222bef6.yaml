@@ -1,0 +1,16 @@
+{
+  "chinese": "由于缺水，花园里所有的花都死了。",
+  "english": "Due to lack of water, all the flowers in the garden died.",
+  "pinyin": "Yóuyú quēshuǐ, huāyuán lǐ suǒyǒu de huā dōu sǐle.",
+  "words": [
+    {"ch": "由于", "en": "Due to", "pi": "Yóuyú"},
+    {"ch": "缺水", "en": "lack of water", "pi": "quēshuǐ"},
+    {"ch": "花园", "en": "garden", "pi": "huāyuán"},
+    {"ch": "里", "en": "in", "pi": "lǐ"},
+    {"ch": "所有", "en": "all", "pi": "suǒyǒu"},
+    {"ch": "的", "en": "the", "pi": "de"},
+    {"ch": "花", "en": "flowers", "pi": "huā"},
+    {"ch": "都", "en": "all", "pi": "dōu"},
+    {"ch": "死了", "en": "died", "pi": "sǐle"}
+  ]
+}

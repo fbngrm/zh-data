@@ -1,0 +1,14 @@
+{
+  "chinese": "你知道现在正在发生甚么吗？",
+  "english": "Do you know what is happening now?",
+  "pinyin": "nǐ zhī dào xiàn zài zhèng zài fā shēng shén me ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "知道", "en": "know", "pi": "zhī dào"},
+    {"ch": "现在", "en": "now", "pi": "xiàn zài"},
+    {"ch": "正在", "en": "is happening", "pi": "zhèng zài"},
+    {"ch": "发生", "en": "occurring", "pi": "fā shēng"},
+    {"ch": "甚么", "en": "what", "pi": "shén me"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

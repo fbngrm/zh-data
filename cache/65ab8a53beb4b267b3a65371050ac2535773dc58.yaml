@@ -1,0 +1,14 @@
+{
+  "chinese": "我通常在十点前上床睡觉。",
+  "english": "I usually go to bed before ten o'clock.",
+  "pinyin": "Wǒ tōngcháng zài shí diǎn qián shàngchuáng shuìjiào.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "Wǒ"},
+    {"ch": "通常", "en": "usually", "pi": "tōngcháng"},
+    {"ch": "在", "en": "in, at", "pi": "zài"},
+    {"ch": "十点", "en": "ten o'clock", "pi": "shí diǎn"},
+    {"ch": "前", "en": "before", "pi": "qián"},
+    {"ch": "上床", "en": "go to bed", "pi": "shàngchuáng"},
+    {"ch": "睡觉", "en": "sleep", "pi": "shuìjiào"}
+  ]
+}

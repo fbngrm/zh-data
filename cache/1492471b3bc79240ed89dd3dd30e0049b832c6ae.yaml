@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆取消了他的酒店预订。",
+  "english": "Tom cancelled his hotel reservation.",
+  "pinyin": "Tāng mǔ qǔ xiāo le tā de jiǔ diàn yù dìng。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "取消",
+      "en": "cancel",
+      "pi": "qǔ xiāo"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "酒店",
+      "en": "hotel",
+      "pi": "jiǔ diàn"
+    },
+    {
+      "ch": "预订",
+      "en": "reservation",
+      "pi": "yù dìng"
+    },
+    {
+      "ch": "。",
+      "en": "",
+      "pi": "。"
+    }
+  ]
+}

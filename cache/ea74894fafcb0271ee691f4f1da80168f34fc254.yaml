@@ -1,0 +1,13 @@
+{
+  "chinese": "我请你喝杯咖啡。",
+  "english": "I invite you to have a cup of coffee.",
+  "pinyin": "wǒ qǐng nǐ hē bēi kāfēi.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "请", "en": "invite", "pi": "qǐng" },
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "喝", "en": "drink", "pi": "hē" },
+    { "ch": "杯", "en": "cup", "pi": "bēi" },
+    { "ch": "咖啡", "en": "coffee", "pi": "kāfēi" }
+  ]
+}

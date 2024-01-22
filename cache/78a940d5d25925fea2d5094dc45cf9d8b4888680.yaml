@@ -1,0 +1,11 @@
+{
+  "chinese": "这是什么地方?",
+  "english": "What place is this?",
+  "pinyin": "zhè shì shénme dìfāng?",
+  "words": [
+    {"ch": "这", "en": "This", "pi": "zhè"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "什么", "en": "what", "pi": "shénme"},
+    {"ch": "地方", "en": "place", "pi": "dìfāng"}
+  ]
+}

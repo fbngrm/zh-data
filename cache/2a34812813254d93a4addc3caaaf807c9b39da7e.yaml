@@ -1,0 +1,37 @@
+{
+  "chinese": "开始下载时，请点击“保存”按钮。",
+  "english": "Please click the \"Save\" button when starting the download.",
+  "pinyin": "kāi shǐ xià zǎi shí, qǐng diǎn jī huàn àn niǔ.",
+  "words": [
+    {
+      "ch": "开始下载",
+      "en": "start download",
+      "pi": "kāi shǐ xià zǎi"
+    },
+    {
+      "ch": "时",
+      "en": "when",
+      "pi": "shí"
+    },
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "点击",
+      "en": "click",
+      "pi": "diǎn jī"
+    },
+    {
+      "ch": "保存",
+      "en": "save",
+      "pi": "huàn àn"
+    },
+    {
+      "ch": "按钮",
+      "en": "button",
+      "pi": "niǔ"
+    }
+  ]
+}

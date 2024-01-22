@@ -1,0 +1,16 @@
+{
+  "chinese": "你翻译这本书用了多少时间？",
+  "english": "How long did you take to translate this book?",
+  "pinyin": "nǐ fān yì zhè běn shū yòng le duō shǎo shí jiān?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "翻译", "en": "translate", "pi": "fān yì"},
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "本", "en": "book", "pi": "běn"},
+    {"ch": "书", "en": "book", "pi": "shū"},
+    {"ch": "用", "en": "use", "pi": "yòng"},
+    {"ch": "了", "en": "did", "pi": "le"},
+    {"ch": "多少", "en": "how much", "pi": "duō shǎo"},
+    {"ch": "时间", "en": "time", "pi": "shí jiān"}
+  ]
+}

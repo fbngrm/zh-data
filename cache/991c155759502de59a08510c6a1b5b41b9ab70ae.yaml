@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆给玛丽买了个房子。",
+  "english": "Tom bought a house for Mary.",
+  "pinyin": "Tāng mǔ gěi Mǎ lì mǎi le gè fáng zi.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "给",
+      "en": "gave",
+      "pi": "gěi"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎ lì"
+    },
+    {
+      "ch": "买",
+      "en": "bought",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "了",
+      "en": "a",
+      "pi": "le"
+    },
+    {
+      "ch": "个",
+      "en": "house",
+      "pi": "gè"
+    },
+    {
+      "ch": "房子",
+      "en": "for",
+      "pi": "fáng zi"
+    }
+  ]
+}

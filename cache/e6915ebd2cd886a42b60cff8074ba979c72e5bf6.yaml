@@ -1,0 +1,32 @@
+{
+  "chinese": "今年的天气一直异常。",
+  "english": "The weather this year has been consistently abnormal.",
+  "pinyin": "jīn nián de tiān qì yī zhí yì cháng。",
+  "words": [
+    {
+      "ch": "今年",
+      "en": "this year",
+      "pi": "jīn nián"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiān qì"
+    },
+    {
+      "ch": "一直",
+      "en": "consistently",
+      "pi": "yī zhí"
+    },
+    {
+      "ch": "异常",
+      "en": "abnormal",
+      "pi": "yì cháng"
+    }
+  ]
+}

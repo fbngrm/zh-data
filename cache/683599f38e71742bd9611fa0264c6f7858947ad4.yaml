@@ -1,0 +1,32 @@
+{
+  "chinese": "你们准备参加会议吗？",
+  "english": "Are you prepared to attend the meeting?",
+  "pinyin": "nǐ men zhǔn bèi cān jiā huì yì ma?",
+  "words": [
+    {
+      "ch": "你们",
+      "en": "you all",
+      "pi": "nǐ men"
+    },
+    {
+      "ch": "准备",
+      "en": "prepare",
+      "pi": "zhǔn bèi"
+    },
+    {
+      "ch": "参加",
+      "en": "attend",
+      "pi": "cān jiā"
+    },
+    {
+      "ch": "会议",
+      "en": "meeting",
+      "pi": "huì yì"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

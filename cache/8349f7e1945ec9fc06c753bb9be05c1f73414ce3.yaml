@@ -1,0 +1,21 @@
+{
+  "sentences": [
+    {
+      "chinese": "好的。",
+      "english": "Okay.",
+      "pinyin": "hǎo de.",
+      "words": [
+        {
+          "ch": "好",
+          "en": "okay",
+          "pi": "hǎo"
+        },
+        {
+          "ch": "的",
+          "en": "particle indicating completion or satisfaction",
+          "pi": "de"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "他汉字写得非常好。",
+  "english": "He writes Chinese characters very well.",
+  "pinyin": "tā hànzì xiě dé fēicháng hǎo.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "汉字",
+      "en": "Chinese characters",
+      "pi": "hànzì"
+    },
+    {
+      "ch": "写",
+      "en": "writes",
+      "pi": "xiě"
+    },
+    {
+      "ch": "得",
+      "en": "very",
+      "pi": "dé"
+    },
+    {
+      "ch": "非常",
+      "en": "well",
+      "pi": "fēicháng"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    }
+  ]
+}

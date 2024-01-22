@@ -1,0 +1,32 @@
+{
+  "chinese": "有人在这张沙发上睡过。",
+  "english": "Someone has slept on this sofa.",
+  "pinyin": "Yǒurén zài zhè zhāng shāfā shàng shuìguò.",
+  "words": [
+    {
+      "ch": "有人",
+      "en": "Someone",
+      "pi": "Yǒurén"
+    },
+    {
+      "ch": "在",
+      "en": "on",
+      "pi": "zài"
+    },
+    {
+      "ch": "这张",
+      "en": "this",
+      "pi": "zhè zhāng"
+    },
+    {
+      "ch": "沙发上",
+      "en": "sofa",
+      "pi": "shāfā shàng"
+    },
+    {
+      "ch": "睡过",
+      "en": "has slept",
+      "pi": "shuìguò"
+    }
+  ]
+}

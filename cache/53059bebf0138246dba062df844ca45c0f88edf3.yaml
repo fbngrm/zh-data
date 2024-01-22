@@ -1,0 +1,14 @@
+{
+  "chinese": "那台机器可以发很多电。",
+  "english": "That machine can generate a lot of electricity.",
+  "pinyin": "nà tái jī qì kě yǐ fā hěn duō diàn。",
+  "words": [
+    { "ch": "那", "en": "that", "pi": "nà" },
+    { "ch": "台", "en": "machine", "pi": "tái" },
+    { "ch": "机器", "en": "machine", "pi": "jī qì" },
+    { "ch": "可以", "en": "can", "pi": "kě yǐ" },
+    { "ch": "发", "en": "generate", "pi": "fā" },
+    { "ch": "很多", "en": "a lot of", "pi": "hěn duō" },
+    { "ch": "电", "en": "electricity", "pi": "diàn" }
+  ]
+}

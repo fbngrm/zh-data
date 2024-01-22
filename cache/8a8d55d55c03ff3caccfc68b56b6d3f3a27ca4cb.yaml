@@ -1,0 +1,32 @@
+{
+  "chinese": "我的汤里有一根头发。",
+  "english": "There is a hair in my soup.",
+  "pinyin": "Wǒ de tāng lǐ yǒu yī gēn tóu fà.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "Wǒ de"
+    },
+    {
+      "ch": "汤里",
+      "en": "in soup",
+      "pi": "tāng lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一根",
+      "en": "a",
+      "pi": "yī gēn"
+    },
+    {
+      "ch": "头发",
+      "en": "hair",
+      "pi": "tóu fà"
+    }
+  ]
+}

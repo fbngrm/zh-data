@@ -1,0 +1,32 @@
+{
+  "chinese": "你什么也没写。",
+  "english": "You didn't write anything.",
+  "pinyin": "nǐ shénme yě méi xiě.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "什么",
+      "en": "anything",
+      "pi": "shénme"
+    },
+    {
+      "ch": "也",
+      "en": "didn't",
+      "pi": "yě"
+    },
+    {
+      "ch": "没",
+      "en": "write",
+      "pi": "méi"
+    },
+    {
+      "ch": "写",
+      "en": "anything",
+      "pi": "xiě"
+    }
+  ]
+}

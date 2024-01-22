@@ -1,0 +1,52 @@
+{
+  "chinese": "你可以移一移那张椅子吗？",
+  "english": "Can you move that chair?",
+  "pinyin": "nǐ kě yǐ yí yí nà zhāng yǐ zi ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kě yǐ"
+    },
+    {
+      "ch": "移",
+      "en": "move",
+      "pi": "yí"
+    },
+    {
+      "ch": "一",
+      "en": "one",
+      "pi": "yí"
+    },
+    {
+      "ch": "移",
+      "en": "move",
+      "pi": "yí"
+    },
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "张",
+      "en": "chair",
+      "pi": "zhāng"
+    },
+    {
+      "ch": "椅子",
+      "en": "chair",
+      "pi": "yǐ zi"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

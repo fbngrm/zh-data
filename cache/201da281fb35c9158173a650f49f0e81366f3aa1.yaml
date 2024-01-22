@@ -1,0 +1,15 @@
+{
+  "chinese": "他因为太疲劳而无法继续前进。",
+  "english": "He is too tired to continue moving forward.",
+  "pinyin": "tā yīnwèi tài píláo ér wúfǎ jìxù qiánjìn.",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "因为", "en": "because", "pi": "yīnwèi"},
+    {"ch": "太", "en": "too", "pi": "tài"},
+    {"ch": "疲劳", "en": "tired", "pi": "píláo"},
+    {"ch": "而", "en": "to", "pi": "ér"},
+    {"ch": "无法", "en": "unable to", "pi": "wúfǎ"},
+    {"ch": "继续", "en": "continue", "pi": "jìxù"},
+    {"ch": "前进", "en": "moving forward", "pi": "qiánjìn"}
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "sentences": [
+    {
+      "chinese": "呢度有没人屋企养熊猫㗎？",
+      "english": "Is there anyone here who raises pandas at home?",
+      "pinyin": "nē dù yǒu méi rén wū qǐ yǎng xióng māo gā?",
+      "words": [
+        {
+          "ch": "呢度",
+          "en": "here",
+          "pi": "nē dù"
+        },
+        {
+          "ch": "有没人",
+          "en": "anyone",
+          "pi": "yǒu méi rén"
+        },
+        {
+          "ch": "屋企",
+          "en": "home",
+          "pi": "wū qǐ"
+        },
+        {
+          "ch": "养",
+          "en": "raise",
+          "pi": "yǎng"
+        },
+        {
+          "ch": "熊猫",
+          "en": "panda",
+          "pi": "xióng māo"
+        },
+        {
+          "ch": "㗎",
+          "en": "?",
+          "pi": "gā"
+        }
+      ]
+    },
+    {
+      "chinese": "我！",
+      "english": "Me!",
+      "pinyin": "wǒ!",
+      "words": [
+        {
+          "ch": "我",
+          "en": "me",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "！",
+          "en": "!",
+          "pi": ""
+        }
+      ]
+    }
+  ]
+}

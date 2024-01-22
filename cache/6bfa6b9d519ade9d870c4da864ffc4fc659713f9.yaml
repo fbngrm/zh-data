@@ -1,0 +1,32 @@
+{
+  "chinese": "她放学后打网球。",
+  "english": "She plays tennis after school.",
+  "pinyin": "Tā fàngxué hòu dǎ wǎngqiú.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "放学",
+      "en": "after school",
+      "pi": "fàngxué"
+    },
+    {
+      "ch": "后",
+      "en": "after",
+      "pi": "hòu"
+    },
+    {
+      "ch": "打",
+      "en": "plays",
+      "pi": "dǎ"
+    },
+    {
+      "ch": "网球",
+      "en": "tennis",
+      "pi": "wǎngqiú"
+    }
+  ]
+}

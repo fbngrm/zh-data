@@ -1,0 +1,32 @@
+{
+  "chinese": "你的手干净吗?",
+  "english": "Are your hands clean?",
+  "pinyin": "nǐ de shǒu gānjìng ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "手",
+      "en": "hand",
+      "pi": "shǒu"
+    },
+    {
+      "ch": "干净",
+      "en": "clean",
+      "pi": "gānjìng"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

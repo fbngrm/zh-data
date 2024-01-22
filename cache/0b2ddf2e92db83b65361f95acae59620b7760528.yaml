@@ -1,0 +1,27 @@
+{
+  "chinese": "这只是马。",
+  "english": "This is just a horse.",
+  "pinyin": "zhè zhǐ shì mǎ.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "只",
+      "en": "just/a",
+      "pi": "zhǐ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "马",
+      "en": "horse",
+      "pi": "mǎ"
+    }
+  ]
+}

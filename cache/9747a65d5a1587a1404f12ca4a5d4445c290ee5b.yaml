@@ -1,0 +1,57 @@
+{
+  "chinese": "对我说“你好，你怎么样？”什么用都没有，如果你没有其它可说的。",
+  "english": "It doesn't matter if you have nothing else to say to me than \"Hello, how are you?\".",
+  "pinyin": "duì wǒ shuō “nǐ hǎo, nǐ zěnme yàng?” shénme yòng dōu méiyǒu, rúguǒ nǐ méiyǒu qítā kě shuō de。",
+  "words": [
+    {
+      "ch": "对我说",
+      "en": "say to me",
+      "pi": "duì wǒ shuō"
+    },
+    {
+      "ch": "“你好",
+      "en": "Hello",
+      "pi": "nǐ hǎo"
+    },
+    {
+      "ch": "你怎么样",
+      "en": "how are you",
+      "pi": "nǐ zěnme yàng"
+    },
+    {
+      "ch": "？”",
+      "en": "?",
+      "pi": "？"
+    },
+    {
+      "ch": "什么用都没有",
+      "en": "It doesn't matter",
+      "pi": "shénme yòng dōu méiyǒu"
+    },
+    {
+      "ch": "如果",
+      "en": "if",
+      "pi": "rúguǒ"
+    },
+    {
+      "ch": "你没有",
+      "en": "you have nothing",
+      "pi": "nǐ méiyǒu"
+    },
+    {
+      "ch": "其它",
+      "en": "else",
+      "pi": "qítā"
+    },
+    {
+      "ch": "可说的",
+      "en": "to say",
+      "pi": "kě shuō de"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "。"
+    }
+  ]
+}

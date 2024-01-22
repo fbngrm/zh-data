@@ -1,0 +1,14 @@
+{
+  "chinese": "你怎么可能会说这种语言？",
+  "english": "How is it possible for you to speak this language?",
+  "pinyin": "nǐ zěnme kěnéng huì shuō zhèzhǒng yǔyán?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "怎么", "en": "how", "pi": "zěnme"},
+    {"ch": "可能", "en": "possible", "pi": "kěnéng"},
+    {"ch": "会", "en": "to be able to", "pi": "huì"},
+    {"ch": "说", "en": "speak", "pi": "shuō"},
+    {"ch": "这种", "en": "this kind of", "pi": "zhèzhǒng"},
+    {"ch": "语言", "en": "language", "pi": "yǔyán"}
+  ]
+}

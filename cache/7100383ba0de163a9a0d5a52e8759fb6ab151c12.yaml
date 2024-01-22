@@ -1,0 +1,78 @@
+{
+  "sentences": [
+    {
+      "chinese": "我不是一個句子。",
+      "english": "I am not a sentence.",
+      "pinyin": "wǒ bù shì yī gè jù zǐ。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "不是",
+          "en": "am not",
+          "pi": "bù shì"
+        },
+        {
+          "ch": "一個",
+          "en": "a",
+          "pi": "yī gè"
+        },
+        {
+          "ch": "句子",
+          "en": "sentence",
+          "pi": "jù zǐ"
+        }
+      ]
+    },
+    {
+      "chinese": "我應該從Tatoeba當中被刪除掉。",
+      "english": "I should be removed from Tatoeba.",
+      "pinyin": "wǒ yīng gāi cóng Tatoeba dāng zhōng bèi shān chú diào。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "應該",
+          "en": "should",
+          "pi": "yīng gāi"
+        },
+        {
+          "ch": "從",
+          "en": "from",
+          "pi": "cóng"
+        },
+        {
+          "ch": "Tatoeba",
+          "en": "Tatoeba",
+          "pi": "Tatoeba"
+        },
+        {
+          "ch": "當中",
+          "en": "from",
+          "pi": "dāng zhōng"
+        },
+        {
+          "ch": "被",
+          "en": "be",
+          "pi": "bèi"
+        },
+        {
+          "ch": "刪除",
+          "en": "removed",
+          "pi": "shān chú"
+        },
+        {
+          "ch": "掉",
+          "en": "should",
+          "pi": "diào"
+        }
+      ]
+    }
+  ]
+}

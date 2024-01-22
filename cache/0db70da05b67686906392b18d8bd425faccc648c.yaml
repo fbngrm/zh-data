@@ -1,0 +1,42 @@
+{
+  "chinese": "鸟儿身上铺满了白色的羽毛。",
+  "english": "The bird's body is covered in white feathers.",
+  "pinyin": "niǎo ér shēn shàng pù mǎn le bái sè de yǔ máo.",
+  "words": [
+    {
+        "ch": "鸟儿",
+        "en": "bird",
+        "pi": "niǎo ér"
+    },
+    {
+        "ch": "身上",
+        "en": "body",
+        "pi": "shēn shàng"
+    },
+    {
+        "ch": "铺满",
+        "en": "covered",
+        "pi": "pù mǎn"
+    },
+    {
+        "ch": "了",
+        "en": "",
+        "pi": "le"
+    },
+    {
+        "ch": "白色",
+        "en": "white",
+        "pi": "bái sè"
+    },
+    {
+        "ch": "的",
+        "en": "",
+        "pi": "de"
+    },
+    {
+        "ch": "羽毛",
+        "en": "feathers",
+        "pi": "yǔ máo"
+    }
+  ]
+}

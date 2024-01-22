@@ -1,0 +1,32 @@
+{
+  "chinese": "我走不动了。",
+  "english": "I can't walk anymore.",
+  "pinyin": "wǒ zǒu bù dòng le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "走",
+      "en": "walk",
+      "pi": "zǒu"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "动",
+      "en": "move",
+      "pi": "dòng"
+    },
+    {
+      "ch": "了",
+      "en": "anymore",
+      "pi": "le"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "chinese": "在伦敦地铁，上车时会有「注意间隙」提醒。",
+  "english": "In the London subway, there will be reminders to 'mind the gap' when getting on the train.",
+  "pinyin": "Zài lúndūn dìtiě, shàngchē shí huì yǒu 'zhùyì jiànxi' tíxǐng.",
+  "words": [
+    {"ch": "在", "en": "In", "pi": "Zài"},
+    {"ch": "伦敦", "en": "London", "pi": "lúndūn"},
+    {"ch": "地铁", "en": "subway", "pi": "dìtiě"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "上车", "en": "getting on the train", "pi": "shàngchē"},
+    {"ch": "时会", "en": "will", "pi": "shí huì"},
+    {"ch": "有", "en": "there will be", "pi": "yǒu"},
+    {"ch": "「注意间隙」", "en": "'mind the gap'", "pi": "'zhùyì jiànxi'"},
+    {"ch": "提醒", "en": "reminders", "pi": "tíxǐng"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}

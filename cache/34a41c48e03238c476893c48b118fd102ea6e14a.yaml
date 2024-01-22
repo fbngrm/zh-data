@@ -1,0 +1,42 @@
+{
+  "chinese": "我們把牛奶製成乳酪和奶油。",
+  "english": "We make cheese and cream from milk.",
+  "pinyin": "wǒmen bǎ niúnǎi zhìchéng rǔlào hé nǎiyóu.",
+  "words": [
+    {
+      "ch": "我們",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "把",
+      "en": "make",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "牛奶",
+      "en": "milk",
+      "pi": "niúnǎi"
+    },
+    {
+      "ch": "製成",
+      "en": "produce",
+      "pi": "zhìchéng"
+    },
+    {
+      "ch": "乳酪",
+      "en": "cheese",
+      "pi": "rǔlào"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "奶油",
+      "en": "cream",
+      "pi": "nǎiyóu"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "Jim和Ron跑得一樣快。",
+  "english": "Jim and Ron run equally fast.",
+  "pinyin": "Jim hé Ron pǎo dé yīyàng kuài.",
+  "words": [
+    {"ch": "Jim", "en": "Jim", "pi": "Jim"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "Ron", "en": "Ron", "pi": "Ron"},
+    {"ch": "跑", "en": "run", "pi": "pǎo"},
+    {"ch": "得", "en": "", "pi": "dé"},
+    {"ch": "一樣", "en": "equally", "pi": "yīyàng"},
+    {"ch": "快", "en": "fast", "pi": "kuài"}
+  ]
+}

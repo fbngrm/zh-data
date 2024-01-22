@@ -1,0 +1,47 @@
+{
+  "chinese": "你能来参加明天的会议吗？",
+  "english": "Can you come to the meeting tomorrow?",
+  "pinyin": "nǐ néng lái cān jiā míng tiān de huì yì ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "能",
+      "en": "able",
+      "pi": "néng"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": " lái"
+    },
+    {
+      "ch": "参加",
+      "en": "attend",
+      "pi": "cān jiā"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "会议",
+      "en": "meeting",
+      "pi": "huì yì"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

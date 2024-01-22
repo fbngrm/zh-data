@@ -1,0 +1,15 @@
+{
+  "chinese": "她迷路了，紧接着天开始下雨了。",
+  "english": "She got lost, and then it started to rain.",
+  "pinyin": "tā mí lù le, jǐn jiē zhe tiān kāi shǐ xià yǔ le.",
+  "words": [
+    {"ch": "她", "en": "She", "pi": "tā"},
+    {"ch": "迷路", "en": "got lost", "pi": "mí lù"},
+    {"ch": "了", "en": "and", "pi": "le"},
+    {"ch": "紧接着", "en": "then", "pi": "jǐn jiē zhe"},
+    {"ch": "天", "en": "it", "pi": "tiān"},
+    {"ch": "开始", "en": "started", "pi": "kāi shǐ"},
+    {"ch": "下雨", "en": "to rain", "pi": "xià yǔ"},
+    {"ch": "了", "en": "and", "pi": "le"}
+  ]
+}

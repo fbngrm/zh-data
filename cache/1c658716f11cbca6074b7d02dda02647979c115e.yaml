@@ -1,0 +1,58 @@
+{
+  "sentences": [
+    {
+      "chinese": "我还好。",
+      "english": "I'm fine.",
+      "pinyin": "wǒ hái hǎo。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "还好",
+          "en": "fine",
+          "pi": "hǎi hǎo"
+        }
+      ]
+    },
+    {
+      "chinese": "你这个星期六晚上有空儿吗？",
+      "english": "Are you free this Saturday evening?",
+      "pinyin": "nǐ zhè ge xīng qī liù wǎn shàng yǒu kòng r ma？",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "这个",
+          "en": "this",
+          "pi": "zhè ge"
+        },
+        {
+          "ch": "星期六",
+          "en": "Saturday",
+          "pi": "xīng qī liù"
+        },
+        {
+          "ch": "晚上",
+          "en": "evening",
+          "pi": "wǎn shàng"
+        },
+        {
+          "ch": "有空儿",
+          "en": "free",
+          "pi": "yǒu kòng r"
+        },
+        {
+          "ch": "吗",
+          "en": "?",
+          "pi": "ma"
+        }
+      ]
+    }
+  ]
+}

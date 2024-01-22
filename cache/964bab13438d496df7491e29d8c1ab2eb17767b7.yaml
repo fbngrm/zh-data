@@ -1,0 +1,27 @@
+{
+  "chinese": "我住在广州。",
+  "english": "I live in Guangzhou.",
+  "pinyin": "Wǒ zhù zài guǎngzhōu.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "Wǒ"
+    },
+    {
+      "ch": "住",
+      "en": "live",
+      "pi": "zhù"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "广州",
+      "en": "Guangzhou",
+      "pi": "guǎngzhōu"
+    }
+  ]
+}

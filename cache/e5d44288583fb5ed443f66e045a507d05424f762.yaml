@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆在这里没有可做的事。",
+  "english": "Tom has nothing to do here.",
+  "pinyin": "Tāngmǔ zài zhèlǐ méiyǒu kě zuò de shì.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhèlǐ"
+    },
+    {
+      "ch": "没有",
+      "en": "has no",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "可做的事",
+      "en": "nothing to do",
+      "pi": "kě zuò de shì"
+    }
+  ]
+}

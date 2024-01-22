@@ -1,0 +1,13 @@
+{
+  "chinese": "你昨天喝茶了吗？",
+  "english": "Did you drink tea yesterday?",
+  "pinyin": "nǐ zuótiān hē chá le ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "昨天", "en": "yesterday", "pi": "zuótiān"},
+    {"ch": "喝", "en": "drink", "pi": "hē"},
+    {"ch": "茶", "en": "tea", "pi": "chá"},
+    {"ch": "了", "en": "did", "pi": "le"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

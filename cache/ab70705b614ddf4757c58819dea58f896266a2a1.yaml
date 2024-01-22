@@ -1,0 +1,32 @@
+{
+  "chinese": "有人拿错了我的鞋。",
+  "english": "Someone took my shoes by mistake.",
+  "pinyin": "yǒu rén ná cuò le wǒ de xié.",
+  "words": [
+    {
+      "ch": "有人",
+      "en": "someone",
+      "pi": "yǒu rén"
+    },
+    {
+      "ch": "拿错",
+      "en": "took by mistake",
+      "pi": "ná cuò"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "鞋",
+      "en": "shoes",
+      "pi": "xié"
+    }
+  ]
+}

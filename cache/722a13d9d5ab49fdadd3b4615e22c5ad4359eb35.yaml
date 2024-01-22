@@ -1,0 +1,12 @@
+{
+  "chinese": "你挡住了我的路。",
+  "english": "You are blocking my way.",
+  "pinyin": "nǐ dǎng zhù le wǒ de lù.",
+  "words": [
+    { "ch": "你", "en": "You", "pi": "nǐ" },
+    { "ch": "挡住", "en": "block", "pi": "dǎng zhù" },
+    { "ch": "了", "en": "are", "pi": "le" },
+    { "ch": "我的", "en": "my", "pi": "wǒ de" },
+    { "ch": "路", "en": "way", "pi": "lù" }
+  ]
+}

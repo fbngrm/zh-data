@@ -1,0 +1,12 @@
+{
+  "chinese": "你的老家叫什么？",
+  "english": "What is the name of your hometown?",
+  "pinyin": "nǐ de lǎo jiā jiào shén me?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "的", "en": "your", "pi": "de"},
+    {"ch": "老家", "en": "hometown", "pi": "lǎo jiā"},
+    {"ch": "叫", "en": "called", "pi": "jiào"},
+    {"ch": "什么", "en": "what", "pi": "shén me"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "请问您贵姓",
+  "english": "May I ask for your surname?",
+  "pinyin": "qǐng wèn nín guì xìng",
+  "words": [
+    {
+      "ch": "请",
+      "en": "may",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "问",
+      "en": "ask",
+      "pi": "wèn"
+    },
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "贵",
+      "en": "honorable",
+      "pi": "guì"
+    },
+    {
+      "ch": "姓",
+      "en": "surname",
+      "pi": "xìng"
+    }
+  ]
+}

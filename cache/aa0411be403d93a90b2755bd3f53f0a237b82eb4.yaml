@@ -1,0 +1,32 @@
+{
+  "chinese": "这只鸟不能飞。",
+  "english": "This bird cannot fly.",
+  "pinyin": "zhè zhī niǎo bùnéng fēi.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "只",
+      "en": "bird",
+      "pi": "zhī"
+    },
+    {
+      "ch": "鸟",
+      "en": "cannot",
+      "pi": "niǎo"
+    },
+    {
+      "ch": "不能",
+      "en": "fly",
+      "pi": "bùnéng"
+    },
+    {
+      "ch": "飞",
+      "en": ".",
+      "pi": "fēi"
+    }
+  ]
+}

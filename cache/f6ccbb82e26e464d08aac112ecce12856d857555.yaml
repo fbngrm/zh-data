@@ -1,0 +1,48 @@
+{
+  "sentences": [
+    {
+      "chinese": "你的书在哪？",
+      "english": "Where is your book?",
+      "pinyin": "Nǐ de shū zài nǎ?",
+      "words": [
+        {
+          "ch": "你的",
+          "en": "your",
+          "pi": "nǐ de"
+        },
+        {
+          "ch": "书",
+          "en": "book",
+          "pi": "shū"
+        },
+        {
+          "ch": "在",
+          "en": "is",
+          "pi": "zài"
+        },
+        {
+          "ch": "哪",
+          "en": "where",
+          "pi": "nǎ"
+        }
+      ]
+    },
+    {
+      "chinese": "在桌上。",
+      "english": "It is on the table.",
+      "pinyin": "Zài zhuō shàng.",
+      "words": [
+        {
+          "ch": "在",
+          "en": "is",
+          "pi": "zài"
+        },
+        {
+          "ch": "桌上",
+          "en": "on the table",
+          "pi": "zhuō shàng"
+        }
+      ]
+    }
+  ]
+}

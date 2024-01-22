@@ -1,0 +1,13 @@
+{
+  "chinese": "我把钱给他了。",
+  "english": "I gave him the money.",
+  "pinyin": "wǒ bǎ qián gěi tā le。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "把", "en": "to", "pi": "bǎ"},
+    {"ch": "钱", "en": "money", "pi": "qián"},
+    {"ch": "给", "en": "give", "pi": "gěi"},
+    {"ch": "他", "en": "him", "pi": "tā"},
+    {"ch": "了", "en": "past tense", "pi": "le"}
+  ]
+}

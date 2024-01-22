@@ -1,0 +1,37 @@
+{
+  "chinese": "你週日不上学, 对吗?",
+  "english": "You don't go to school on Sundays, right?",
+  "pinyin": "nǐ zhōurì bú shàng xué, duì ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "週日",
+      "en": "Sundays",
+      "pi": "zhōurì"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bú"
+    },
+    {
+      "ch": "上学",
+      "en": "go to school",
+      "pi": "shàng xué"
+    },
+    {
+      "ch": "对",
+      "en": "right",
+      "pi": "duì"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

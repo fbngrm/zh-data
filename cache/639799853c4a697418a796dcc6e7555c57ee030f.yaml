@@ -1,0 +1,42 @@
+{
+  "chinese": "你想看甚么类型的电影？",
+  "english": "What genre of movies do you want to watch?",
+  "pinyin": "Nǐ xiǎng kàn shénme lèixíng de diànyǐng?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "看",
+      "en": "to watch",
+      "pi": "kàn"
+    },
+    {
+      "ch": "甚么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "类型",
+      "en": "genre",
+      "pi": "lèixíng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "电影",
+      "en": "movies",
+      "pi": "diànyǐng"
+    }
+  ]
+}

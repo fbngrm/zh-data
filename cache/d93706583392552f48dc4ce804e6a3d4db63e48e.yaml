@@ -1,0 +1,12 @@
+{
+  "chinese": "我的鞋比你的大。",
+  "english": "My shoes are bigger than yours.",
+  "pinyin": "wǒ de xié bǐ nǐ de dà.",
+  "words": [
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "鞋", "en": "shoes", "pi": "xié"},
+    {"ch": "比", "en": "than", "pi": "bǐ"},
+    {"ch": "你的", "en": "yours", "pi": "nǐ de"},
+    {"ch": "大", "en": "big", "pi": "dà"}
+  ]
+}

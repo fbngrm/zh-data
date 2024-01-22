@@ -1,0 +1,42 @@
+{
+  "chinese": "你老公也会说汉语吗？",
+  "english": "Does your husband know how to speak Mandarin?",
+  "pinyin": "nǐ lǎogōng yě huì shuō hànyǔ ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "老公",
+      "en": "husband",
+      "pi": "lǎogōng"
+    },
+    {
+      "ch": "也",
+      "en": "also",
+      "pi": "yě"
+    },
+    {
+      "ch": "会",
+      "en": "know how to",
+      "pi": "huì"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "汉语",
+      "en": "Mandarin",
+      "pi": "hànyǔ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

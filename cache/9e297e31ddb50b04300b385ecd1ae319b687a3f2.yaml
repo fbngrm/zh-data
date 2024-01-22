@@ -1,0 +1,37 @@
+{
+  "chinese": "医生把他叫了回来。",
+  "english": "The doctor called him back.",
+  "pinyin": "yī shēng bǎ tā jiào le huí lái.",
+  "words": [
+    {
+      "ch": "医生",
+      "en": "doctor",
+      "pi": "yī shēng"
+    },
+    {
+      "ch": "把",
+      "en": "to",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    },
+    {
+      "ch": "叫",
+      "en": "called",
+      "pi": "jiào"
+    },
+    {
+      "ch": "了",
+      "en": "back",
+      "pi": "le"
+    },
+    {
+      "ch": "回来",
+      "en": "return",
+      "pi": "huí lái"
+    }
+  ]
+}

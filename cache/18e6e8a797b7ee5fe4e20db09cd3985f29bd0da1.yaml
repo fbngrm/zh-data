@@ -1,0 +1,17 @@
+{
+  "chinese": "母亲做了的蛋糕是我吃了的最好的。",
+  "english": "The cake that mother made is the best one I've ever had.",
+  "pinyin": "mǔ qīn zuò le de dàn gāo shì wǒ chī le de zuì hǎo de.",
+  "words": [
+    {"ch": "母亲", "en": "mother", "pi": "mǔ qīn"},
+    {"ch": "做", "en": "make", "pi": "zuò"},
+    {"ch": "了", "en": "past tense marker", "pi": "le"},
+    {"ch": "的", "en": "possessive marker", "pi": "de"},
+    {"ch": "蛋糕", "en": "cake", "pi": "dàn gāo"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "吃", "en": "eat", "pi": "chī"},
+    {"ch": "了", "en": "past tense marker", "pi": "le"},
+    {"ch": "最好的", "en": "the best", "pi": "zuì hǎo de"}
+  ]
+}

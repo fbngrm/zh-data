@@ -1,0 +1,46 @@
+{
+  "sentence1": {
+    "chinese": "他喜欢旅行。",
+    "english": "He likes to travel.",
+    "pinyin": "tā xǐhuān lǚxíng。",
+    "words": [
+      {
+        "ch": "他",
+        "en": "he",
+        "pi": "tā"
+      },
+      {
+        "ch": "喜欢",
+        "en": "likes",
+        "pi": "xǐhuān"
+      },
+      {
+        "ch": "旅行",
+        "en": "to travel",
+        "pi": "lǚxíng"
+      }
+    ]
+  },
+  "sentence2": {
+    "chinese": "我也是。",
+    "english": "Me too.",
+    "pinyin": "wǒ yě shì。",
+    "words": [
+      {
+        "ch": "我",
+        "en": "me",
+        "pi": "wǒ"
+      },
+      {
+        "ch": "也",
+        "en": "too",
+        "pi": "yě"
+      },
+      {
+        "ch": "是",
+        "en": "is",
+        "pi": "shì"
+      }
+    ]
+  }
+}

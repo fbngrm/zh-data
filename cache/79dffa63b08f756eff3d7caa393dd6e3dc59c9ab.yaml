@@ -1,0 +1,32 @@
+{
+  "chinese": "你现在可以回家了。",
+  "english": "You can go home now.",
+  "pinyin": "nǐ xiàn zài kě yǐ huí jiā le.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kě yǐ"
+    },
+    {
+      "ch": "回家",
+      "en": "go home",
+      "pi": "huí jiā"
+    },
+    {
+      "ch": "了",
+      "en": "now",
+      "pi": "le"
+    }
+  ]
+}

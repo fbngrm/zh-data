@@ -1,0 +1,47 @@
+{
+  "chinese": "请你用这个电话号码联系我。",
+  "english": "Please contact me using this phone number.",
+  "pinyin": "qǐng nǐ yòng zhè gè diàn huà hào mǎ lián xì wǒ。",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "用",
+      "en": "use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "电话",
+      "en": "phone",
+      "pi": "diàn huà"
+    },
+    {
+      "ch": "号码",
+      "en": "number",
+      "pi": "hào mǎ"
+    },
+    {
+      "ch": "联系",
+      "en": "contact",
+      "pi": "lián xì"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    }
+  ]
+}

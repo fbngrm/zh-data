@@ -1,0 +1,42 @@
+{
+  "chinese": "电话于１８７６年由贝尔所发明。",
+  "english": "The telephone was invented by Bell in 1876.",
+  "pinyin": "diàn huà yú 1876 nián yóu bèi ěr suǒ fā míng。",
+  "words": [
+    {
+      "ch": "电话",
+      "en": "telephone",
+      "pi": "diàn huà"
+    },
+    {
+      "ch": "于",
+      "en": "in",
+      "pi": "yú"
+    },
+    {
+      "ch": "１８７６年", // Note: this is treated as one word in Chinese, but in English it's "1876"
+      "en": "1876",
+      "pi": "yī bā qī liù nián"
+    },
+    {
+      "ch": "由",
+      "en": "by",
+      "pi": "yóu"
+    },
+    {
+      "ch": "贝尔",
+      "en": "Bell",
+      "pi": "bèi ěr"
+    },
+    {
+      "ch": "所",
+      "en": "in",
+      "pi": "suǒ"
+    },
+    {
+      "ch": "发明",
+      "en": "invented",
+      "pi": "fā míng"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "房子现在没被占住。",
+  "english": "The house is not occupied right now.",
+  "pinyin": "fáng zi xiàn zài méi bèi zhàn zhù。",
+  "words": [
+    {
+      "ch": "房子",
+      "en": "house",
+      "pi": "fáng zi"
+    },
+    {
+      "ch": "现在",
+      "en": "right now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "没",
+      "en": "not",
+      "pi": "méi"
+    },
+    {
+      "ch": "被",
+      "en": "by",
+      "pi": "bèi"
+    },
+    {
+      "ch": "占住",
+      "en": "occupied",
+      "pi": "zhàn zhù"
+    }
+  ]
+}

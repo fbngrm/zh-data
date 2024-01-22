@@ -1,0 +1,13 @@
+{
+  "chinese": "给你的护照号和你的出生日期。",
+  "english": "Give me your passport number and your date of birth.",
+  "pinyin": "gěi nǐ de hù zhào hào hé nǐ de chū shēng rì qī。",
+  "words": [
+    {"ch": "给", "en": "give", "pi": "gěi"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "的", "en": "your", "pi": "de"},
+    {"ch": "护照号", "en": "passport number", "pi": "hù zhào hào"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "出生日期", "en": "date of birth", "pi": "chū shēng rì qī"}
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chinese": "汤姆的住宅有一个不错的花园。",
+  "english": "Tom's residence has a nice garden.",
+  "pinyin": "tāng mǔ de zhù zhái yǒu yí gè bù cuò de huā yuán.",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "的", "en": "possessive particle", "pi": "de"},
+    {"ch": "住宅", "en": "residence", "pi": "zhù zhái"},
+    {"ch": "有", "en": "has", "pi": "yǒu"},
+    {"ch": "一个", "en": "a", "pi": "yí gè"},
+    {"ch": "不错", "en": "nice", "pi": "bù cuò"},
+    {"ch": "的", "en": "possessive particle", "pi": "de"},
+    {"ch": "花园", "en": "garden", "pi": "huā yuán"}
+  ]
+}

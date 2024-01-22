@@ -1,0 +1,47 @@
+{
+  "chinese": "我发现读这本书很难。",
+  "english": "I find it difficult to read this book.",
+  "pinyin": "wǒ fāxiàn dú zhè běn shū hěn nán.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "发现",
+      "en": "find",
+      "pi": "fāxiàn"
+    },
+    {
+      "ch": "读",
+      "en": "read",
+      "pi": "dú"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "难",
+      "en": "difficult",
+      "pi": "nán"
+    }
+  ]
+}

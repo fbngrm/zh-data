@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆申请了这份工作。",
+  "english": "Tom applied for this job.",
+  "pinyin": "Tāng mǔ shēn qǐngle zhè fèn gōngzuò.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "申请",
+      "en": "apply for",
+      "pi": "shēn qǐng"
+    },
+    {
+      "ch": "了",
+      "en": "past tense particle",
+      "pi": "le"
+    },
+    {
+      "ch": "这份",
+      "en": "this",
+      "pi": "zhè fèn"
+    },
+    {
+      "ch": "工作",
+      "en": "job",
+      "pi": "gōngzuò"
+    }
+  ]
+}

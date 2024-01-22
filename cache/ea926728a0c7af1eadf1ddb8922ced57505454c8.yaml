@@ -1,0 +1,13 @@
+{
+  "chinese": "這裡製造的葡萄酒非常有名。",
+  "english": "The wine produced here is very famous.",
+  "pinyin": "zhè lǐ zhì zào de pú táo jiǔ fēi cháng yǒu míng。",
+  "words": [
+    {"ch": "這裡", "en": "here", "pi": "zhè lǐ"},
+    {"ch": "製造", "en": "produce", "pi": "zhì zào"},
+    {"ch": "的", "en": "possessive article", "pi": "de"},
+    {"ch": "葡萄酒", "en": "wine", "pi": "pú táo jiǔ"},
+    {"ch": "非常", "en": "very", "pi": "fēi cháng"},
+    {"ch": "有名", "en": "famous", "pi": "yǒu míng"}
+  ]
+}

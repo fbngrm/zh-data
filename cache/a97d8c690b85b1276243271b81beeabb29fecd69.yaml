@@ -1,0 +1,15 @@
+{
+  "chinese": "從這裏步行到車站要多少時間？",
+  "english": "How long does it take to walk to the station from here?",
+  "pinyin": "Cóng zhèlǐ bùxíng dào chēzhàn yào duōshǎo shíjiān?",
+  "words": [
+    {"ch": "從", "en": "from", "pi": "cóng"},
+    {"ch": "這裏", "en": "here", "pi": "zhèlǐ"},
+    {"ch": "步行", "en": "walk", "pi": "bùxíng"},
+    {"ch": "到", "en": "to", "pi": "dào"},
+    {"ch": "車站", "en": "station", "pi": "chēzhàn"},
+    {"ch": "要", "en": "take", "pi": "yào"},
+    {"ch": "多少", "en": "how long", "pi": "duōshǎo"},
+    {"ch": "時間", "en": "time", "pi": "shíjiān"}
+  ]
+}

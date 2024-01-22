@@ -1,0 +1,61 @@
+{
+  "sentences": [
+    {
+      "chinese": "一百，二百，三百，四百，五百，六百，七百，八百，九百，一千。",
+      "english": "One hundred, two hundred, three hundred, four hundred, five hundred, six hundred, seven hundred, eight hundred, nine hundred, one thousand.",
+      "pinyin": "yī bǎi, èr bǎi, sān bǎi, sì bǎi, wǔ bǎi, liù bǎi, qī bǎi, bā bǎi, jiǔ bǎi, yī qiān.",
+      "words": [
+        {
+          "ch": "一百",
+          "en": "One hundred",
+          "pi": "yī bǎi"
+        },
+        {
+          "ch": "二百",
+          "en": "Two hundred",
+          "pi": "èr bǎi"
+        },
+        {
+          "ch": "三百",
+          "en": "Three hundred",
+          "pi": "sān bǎi"
+        },
+        {
+          "ch": "四百",
+          "en": "Four hundred",
+          "pi": "sì bǎi"
+        },
+        {
+          "ch": "五百",
+          "en": "Five hundred",
+          "pi": "wǔ bǎi"
+        },
+        {
+          "ch": "六百",
+          "en": "Six hundred",
+          "pi": "liù bǎi"
+        },
+        {
+          "ch": "七百",
+          "en": "Seven hundred",
+          "pi": "qī bǎi"
+        },
+        {
+          "ch": "八百",
+          "en": "Eight hundred",
+          "pi": "bā bǎi"
+        },
+        {
+          "ch": "九百",
+          "en": "Nine hundred",
+          "pi": "jiǔ bǎi"
+        },
+        {
+          "ch": "一千",
+          "en": "One thousand",
+          "pi": "yī qiān"
+        }
+      ]
+    }
+  ]
+}

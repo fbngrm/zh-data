@@ -1,0 +1,27 @@
+{
+  "chinese": "病人的病情每况愈下。",
+  "english": "The patient's condition is worsening.",
+  "pinyin": "bìng rén de bìng qíng měi kuàng yù xià.",
+  "words": [
+    {
+      "ch": "病人",
+      "en": "patient",
+      "pi": "bìng rén"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "病情",
+      "en": "condition",
+      "pi": "bìng qíng"
+    },
+    {
+      "ch": "每况愈下",
+      "en": "is worsening",
+      "pi": "měi kuàng yù xià"
+    }
+  ]
+}

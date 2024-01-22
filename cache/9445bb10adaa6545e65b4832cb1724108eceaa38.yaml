@@ -1,0 +1,32 @@
+{
+  "chinese": "我晚饭后弹吉他。",
+  "english": "I play the guitar after dinner.",
+  "pinyin": "wǒ wǎnfàn hòu tán jítā.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "晚饭",
+      "en": "dinner",
+      "pi": "wǎnfàn"
+    },
+    {
+      "ch": "后",
+      "en": "after",
+      "pi": "hòu"
+    },
+    {
+      "ch": "弹",
+      "en": "play",
+      "pi": "tán"
+    },
+    {
+      "ch": "吉他",
+      "en": "guitar",
+      "pi": "jítā"
+    }
+  ]
+}

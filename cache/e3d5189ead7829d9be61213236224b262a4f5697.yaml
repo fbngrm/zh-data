@@ -1,0 +1,37 @@
+{
+  "chinese": "看起来要下雪了，不是吗?",
+  "english": "It looks like it's going to snow, isn't it?",
+  "pinyin": "kàn qǐ lái yào xià xuě le, bù shì ma?",
+  "words": [
+    {
+      "ch": "看起来",
+      "en": "It looks like",
+      "pi": "kàn qǐ lái"
+    },
+    {
+      "ch": "要",
+      "en": "going to",
+      "pi": "yào"
+    },
+    {
+      "ch": "下雪",
+      "en": "snow",
+      "pi": "xià xuě"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "，",
+      "en": "",
+      "pi": "，"
+    },
+    {
+      "ch": "不是吗",
+      "en": "isn't it?",
+      "pi": "bù shì ma"
+    }
+  ]
+}

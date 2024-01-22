@@ -1,0 +1,32 @@
+{
+  "chinese": "湯姆得了第一名，不是嗎?",
+  "english": "Tom got first place, didn't he?",
+  "pinyin": "tāng mǔ dé le dì yī míng, bù shì ma?",
+  "words": [
+    {
+      "ch": "湯姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "得了",
+      "en": "got",
+      "pi": "dé le"
+    },
+    {
+      "ch": "第一名",
+      "en": "first place",
+      "pi": "dì yī míng"
+    },
+    {
+      "ch": "不是",
+      "en": "didn't",
+      "pi": "bù shì"
+    },
+    {
+      "ch": "嗎",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

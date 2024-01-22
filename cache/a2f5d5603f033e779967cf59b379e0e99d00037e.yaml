@@ -1,0 +1,32 @@
+{
+  "chinese": "你要什么样的三明治？",
+  "english": "What kind of sandwich do you want?",
+  "pinyin": "Nǐ yào shénme yàng de sānmíngzhì?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "样的",
+      "en": "kind of",
+      "pi": "yàng de"
+    },
+    {
+      "ch": "三明治",
+      "en": "sandwich",
+      "pi": "sānmíngzhì"
+    }
+  ]
+}

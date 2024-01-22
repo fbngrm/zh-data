@@ -1,0 +1,27 @@
+{
+  "chinese": "你的长子几岁？",
+  "english": "How old is your eldest son?",
+  "pinyin": "Nǐ de zhǎngzǐ jǐ suì?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "长子",
+      "en": "eldest son",
+      "pi": "zhǎngzǐ"
+    },
+    {
+      "ch": "几岁",
+      "en": "how old",
+      "pi": "jǐ suì"
+    }
+  ]
+}

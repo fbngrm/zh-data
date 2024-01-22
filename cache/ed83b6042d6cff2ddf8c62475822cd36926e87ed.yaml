@@ -1,0 +1,27 @@
+{
+  "chinese": "你通常什么时候起床？",
+  "english": "What time do you usually wake up?",
+  "pinyin": "nǐ tōng cháng shén me shí hòu qǐ chuáng?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "通常",
+      "en": "usually",
+      "pi": "tōng cháng"
+    },
+    {
+      "ch": "什么时候",
+      "en": "what time",
+      "pi": "shén me shí hòu"
+    },
+    {
+      "ch": "起床",
+      "en": "wake up",
+      "pi": "qǐ chuáng"
+    }
+  ]
+}

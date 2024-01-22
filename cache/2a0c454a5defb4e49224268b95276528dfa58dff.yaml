@@ -1,0 +1,16 @@
+{
+  "chinese": "有什么东西是我不该吃的吗?",
+  "english": "Is there anything that I shouldn't eat?",
+  "pinyin": "yǒu shénme dōngxi shì wǒ bù gāi chī de ma?",
+  "words": [
+    {"ch": "有", "en": "Is", "pi": "yǒu"},
+    {"ch": "什么", "en": "anything", "pi": "shénme"},
+    {"ch": "东西", "en": "thing", "pi": "dōngxi"},
+    {"ch": "是", "en": "that", "pi": "shì"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "不", "en": "shouldn't", "pi": "bù"},
+    {"ch": "该", "en": "eat", "pi": "gāi"},
+    {"ch": "吃", "en": "eat", "pi": "chī"},
+    {"ch": "的", "en": "?"}
+  ]
+}

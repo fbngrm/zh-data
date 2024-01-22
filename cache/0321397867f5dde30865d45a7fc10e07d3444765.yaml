@@ -1,0 +1,13 @@
+{
+  "chinese": "车站离这里两英里远。",
+  "english": "The station is two miles away from here.",
+  "pinyin": "chē zhàn lí zhè lǐ liǎng yīng lǐ yuǎn.",
+  "words": [
+    { "ch": "车站", "en": "station", "pi": "chē zhàn" },
+    { "ch": "离", "en": "away", "pi": "lí" },
+    { "ch": "这里", "en": "here", "pi": "zhè lǐ" },
+    { "ch": "两", "en": "two", "pi": "liǎng" },
+    { "ch": "英里", "en": "miles", "pi": "yīng lǐ" },
+    { "ch": "远", "en": "far", "pi": "yuǎn" }
+  ]
+}

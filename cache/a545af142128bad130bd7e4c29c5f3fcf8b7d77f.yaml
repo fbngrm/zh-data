@@ -1,0 +1,15 @@
+{
+  "chinese": "告訴我你為怎麼要這樣做。",
+  "english": "Tell me why you want to do this.",
+  "pinyin": "Gàosù wǒ nǐ wèi zěnme yào zhèyàng zuò.",
+  "words": [
+    { "ch": "告訴", "en": "Tell", "pi": "Gàosù" },
+    { "ch": "我", "en": "me", "pi": "wǒ" },
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "為", "en": "why", "pi": "wèi" },
+    { "ch": "怎麼", "en": "how", "pi": "zěnme" },
+    { "ch": "要", "en": "want", "pi": "yào" },
+    { "ch": "這樣", "en": "this", "pi": "zhèyàng" },
+    { "ch": "做", "en": "do", "pi": "zuò" }
+  ]
+}

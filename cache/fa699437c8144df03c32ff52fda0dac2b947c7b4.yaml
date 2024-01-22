@@ -1,0 +1,32 @@
+{
+  "chinese": "你依然爱汤姆吗？",
+  "english": "Do you still love Tom?",
+  "pinyin": "nǐ yīrán ài tāng mǔ ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "依然",
+      "en": "still",
+      "pi": "yīrán"
+    },
+    {
+      "ch": "爱",
+      "en": "love",
+      "pi": "ài"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

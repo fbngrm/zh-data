@@ -1,0 +1,42 @@
+{
+  "chinese": "即使下雨我也会去那里。",
+  "english": "Even if it rains, I will still go there.",
+  "pinyin": "jí shǐ xià yǔ wǒ yě huì qù nà lǐ。",
+  "words": [
+    {
+      "ch": "即使",
+      "en": "Even if",
+      "pi": "jí shǐ"
+    },
+    {
+      "ch": "下雨",
+      "en": "rains",
+      "pi": "xià yǔ"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "也",
+      "en": "also",
+      "pi": "yě"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "那里",
+      "en": "there",
+      "pi": "nà lǐ"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chinese": "他把信从我的手中抢了过去。",
+  "english": "He snatched the letter from my hand.",
+  "pinyin": "tā bǎ xìn cóng wǒ de shǒu zhōng qiǎng le guò qù.",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "把", "en": "snatched", "pi": "bǎ"},
+    {"ch": "信", "en": "letter", "pi": "xìn"},
+    {"ch": "从", "en": "from", "pi": "cóng"},
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "手中", "en": "hand", "pi": "shǒu zhōng"},
+    {"ch": "抢了", "en": "snatched", "pi": "qiǎng le"},
+    {"ch": "过去", "en": "away", "pi": "guò qù"}
+  ]
+}

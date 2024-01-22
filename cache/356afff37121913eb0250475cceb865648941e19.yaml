@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆昨天来我家吃晚饭。",
+  "english": "Tom came to my house for dinner yesterday.",
+  "pinyin": "Tāng mǔ zuótiān lái wǒ jiā chī wǎnfàn.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "来",
+      "en": "came",
+      "pi": "lái"
+    },
+    {
+      "ch": "我家",
+      "en": "my house",
+      "pi": "wǒ jiā"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "晚饭",
+      "en": "dinner",
+      "pi": "wǎnfàn"
+    }
+  ]
+}

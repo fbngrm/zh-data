@@ -1,0 +1,37 @@
+{
+  "chinese": "学中文的学生只有他们几个。",
+  "english": "There are only a few students learning Chinese.",
+  "pinyin": "xué zhōngwén de xuéshēng zhǐyǒu tāmen jǐ gè。",
+  "words": [
+    {
+      "ch": "学中文",
+      "en": "learning Chinese",
+      "pi": "xué zhōngwén"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "学生",
+      "en": "students",
+      "pi": "xuéshēng"
+    },
+    {
+      "ch": "只有",
+      "en": "only",
+      "pi": "zhǐyǒu"
+    },
+    {
+      "ch": "他们",
+      "en": "they",
+      "pi": "tāmen"
+    },
+    {
+      "ch": "几个",
+      "en": "a few",
+      "pi": "jǐ gè"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "chinese": "我昨晚睡了八个小时觉。",
+  "english": "I slept for eight hours last night.",
+  "pinyin": "wǒ zuówǎn shuìle bā gè xiǎoshí jiào。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "昨晚",
+      "en": "last night",
+      "pi": "zuówǎn"
+    },
+    {
+      "ch": "睡",
+      "en": "to sleep",
+      "pi": "shuì"
+    },
+    {
+      "ch": "了",
+      "en": "past tense marker",
+      "pi": "le"
+    },
+    {
+      "ch": "八",
+      "en": "eight",
+      "pi": "bā"
+    },
+    {
+      "ch": "个",
+      "en": "measure word",
+      "pi": "gè"
+    },
+    {
+      "ch": "小时",
+      "en": "hour",
+      "pi": "xiǎoshí"
+    },
+    {
+      "ch": "觉",
+      "en": "sleep",
+      "pi": "jiào"
+    }
+  ]
+}

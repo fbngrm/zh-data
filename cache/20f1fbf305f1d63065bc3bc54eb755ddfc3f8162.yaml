@@ -1,0 +1,42 @@
+{
+  "chinese": "这是一件您做的事！",
+  "english": "This is something you did!",
+  "pinyin": "zhè shì yí jiàn nín zuò de shì!",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "一件",
+      "en": "something",
+      "pi": "yí jiàn"
+    },
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "做",
+      "en": "do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "的",
+      "en": "did",
+      "pi": "de"
+    },
+    {
+      "ch": "事",
+      "en": "thing",
+      "pi": "shì"
+    }
+  ]
+}

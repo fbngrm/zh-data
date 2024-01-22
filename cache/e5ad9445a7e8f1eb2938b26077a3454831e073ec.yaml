@@ -1,0 +1,42 @@
+{
+  "chinese": "我的银行账户里没留下钱。",
+  "english": "There is no money left in my bank account.",
+  "pinyin": "Wǒ de yínháng zhànghù lǐ méi liúxià qián。",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "银行",
+      "en": "bank",
+      "pi": "yínháng"
+    },
+    {
+      "ch": "账户",
+      "en": "account",
+      "pi": "zhànghù"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "没",
+      "en": "no",
+      "pi": "méi"
+    },
+    {
+      "ch": "留下",
+      "en": "left",
+      "pi": "liúxià"
+    },
+    {
+      "ch": "钱",
+      "en": "money",
+      "pi": "qián"
+    }
+  ]
+}

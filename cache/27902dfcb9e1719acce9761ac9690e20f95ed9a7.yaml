@@ -1,0 +1,32 @@
+{
+  "chinese": "天氣每天都在變。",
+  "english": "The weather is changing every day.",
+  "pinyin": "Tiānqì měi tiān dōu zài biàn.",
+  "words": [
+    {
+      "ch": "天氣",
+      "en": "weather",
+      "pi": "tiānqì"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "都",
+      "en": "is/are",
+      "pi": "dōu"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "變",
+      "en": "changing",
+      "pi": "biàn"
+    }
+  ]
+}

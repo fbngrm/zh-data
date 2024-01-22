@@ -1,0 +1,37 @@
+{
+  "chinese": "服务器重启预定在今晚９点。",
+  "english": "The server reboot is scheduled for 9 p.m. tonight.",
+  "pinyin": "fúwùqì chóngqǐ yùdìng zài jīnwǎn jiǔ diǎn.",
+  "words": [
+    {
+      "ch": "服务器",
+      "en": "server",
+      "pi": "fúwùqì"
+    },
+    {
+      "ch": "重启",
+      "en": "reboot",
+      "pi": "chóngqǐ"
+    },
+    {
+      "ch": "预定",
+      "en": "scheduled",
+      "pi": "yùdìng"
+    },
+    {
+      "ch": "在",
+      "en": "for",
+      "pi": "zài"
+    },
+    {
+      "ch": "今晚",
+      "en": "tonight",
+      "pi": "jīnwǎn"
+    },
+    {
+      "ch": "９点",
+      "en": "9 p.m.",
+      "pi": "jiǔ diǎn"
+    }
+  ]
+}

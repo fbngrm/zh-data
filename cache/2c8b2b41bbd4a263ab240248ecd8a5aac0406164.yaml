@@ -1,0 +1,37 @@
+{
+  "chinese": "我们在中午吃了饭。",
+  "english": "We had lunch at noon.",
+  "pinyin": "wǒmen zài zhōngwǔ chī le fàn.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "中午",
+      "en": "noon",
+      "pi": "zhōngwǔ"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "le"
+    },
+    {
+      "ch": "饭",
+      "en": "meal",
+      "pi": "fàn"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chinese": "我想买半个蛋糕。",
+  "english": "I want to buy half a cake.",
+  "pinyin": "wǒ xiǎng mǎi bàn gè dàn gāo。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "想", "en": "want", "pi": "xiǎng"},
+    {"ch": "买", "en": "to buy", "pi": "mǎi"},
+    {"ch": "半个", "en": "half", "pi": "bàn gè"},
+    {"ch": "蛋糕", "en": "cake", "pi": "dàn gāo"}
+  ]
+}

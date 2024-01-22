@@ -1,0 +1,15 @@
+{
+  "chinese": "這間公司的工作日為星期一到星期五。",
+  "english": "The working days for this company are Monday to Friday.",
+  "pinyin": "zhè jiān gōngsī de gōngzuò rì wèi xīngqī yī dào xīngqī wǔ。",
+  "words": [
+    {"ch": "這間", "en": "this", "pi": "zhè jiān"},
+    {"ch": "公司", "en": "company", "pi": "gōngsī"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch":"工作日", "en": "working days", "pi": "gōngzuò rì"},
+    {"ch":"為", "en": "are", "pi": "wèi"},
+    {"ch":"星期一", "en": "Monday", "pi": "xīngqī yī"},
+    {"ch":"到", "en": "to", "pi": "dào"},
+    {"ch":"星期五", "en": "Friday", "pi": "xīngqī wǔ"}
+  ]
+}

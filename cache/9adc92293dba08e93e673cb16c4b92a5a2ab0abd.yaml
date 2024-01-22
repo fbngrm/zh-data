@@ -1,0 +1,13 @@
+{
+  "chinese": "我住在我姑姑家。",
+  "english": "I live at my aunt's house.",
+  "pinyin": "wǒ zhù zài wǒ gūgu jiā。",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "住", "en": "live", "pi": "zhù" },
+    { "ch": "在", "en": "at", "pi": "zài" },
+    { "ch": "我", "en": "my", "pi": "wǒ" },
+    { "ch": "姑姑", "en": "aunt", "pi": "gūgu" },
+    { "ch": "家", "en": "house", "pi": "jiā" }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "我爸爸正在浴室里刮胡子。",
+  "english": "My dad is shaving in the bathroom.",
+  "pinyin": "wǒ bàba zhèngzài yùshì lǐ guā húzi。",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "爸爸", "en": "dad", "pi": "bàba" },
+    { "ch": "正在", "en": "is", "pi": "zhèngzài" },
+    { "ch": "浴室", "en": "bathroom", "pi": "yùshì" },
+    { "ch": "里", "en": "in", "pi": "lǐ" },
+    { "ch": "刮胡子", "en": "shaving", "pi": "guā húzi" }
+  ]
+}

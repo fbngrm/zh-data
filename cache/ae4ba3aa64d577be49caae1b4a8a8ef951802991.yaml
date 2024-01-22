@@ -1,0 +1,13 @@
+{
+  "chinese": "我把房子给你了。",
+  "english": "I gave you the house.",
+  "pinyin": "wǒ bǎ fángzi gěi nǐ le.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ"},
+    { "ch": "把", "en": "give", "pi": "bǎ"},
+    { "ch": "房子", "en": "house", "pi": "fángzi"},
+    { "ch": "给", "en": "to", "pi": "gěi"},
+    { "ch": "你", "en": "you", "pi": "nǐ"},
+    { "ch": "了", "en": "already", "pi": "le"}
+  ]
+}

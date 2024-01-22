@@ -1,0 +1,13 @@
+{
+  "chinese": "比起果汁，我比较喜欢牛奶。",
+  "english": "Compared to fruit juice, I prefer milk.",
+  "pinyin": "bǐ qǐ guǒ zhī, wǒ bǐjiào xǐhuān niúnǎi.",
+  "words": [
+    {"ch": "比起", "en": "Compared to", "pi": "bǐ qǐ"},
+    {"ch": "果汁", "en": "fruit juice", "pi": "guǒ zhī"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "比较", "en": "prefer", "pi": "bǐjiào"},
+    {"ch": "喜欢", "en": "like", "pi": "xǐhuān"},
+    {"ch": "牛奶", "en": "milk", "pi": "niúnǎi"}
+  ]
+}

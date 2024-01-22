@@ -1,0 +1,14 @@
+{
+  "chinese": "所有ｂｕｇ应该在今天下班前解决。",
+  "english": "All bugs should be resolved before the end of the day.",
+  "pinyin": "suǒ yǒu bù gài zài jīn tiān xià bān qián jiě jué。",
+  "words": [
+    {"ch": "所有", "en": "All", "pi": "suǒ yǒu"},
+    {"ch": "ｂｕｇ", "en": "bugs", "pi": "bù gài"},
+    {"ch": "应该", "en": "should", "pi": "yīng gāi"},
+    {"ch": "在", "en": "be", "pi": "zài"},
+    {"ch": "今天", "en": "today", "pi": "jīn tiān"},
+    {"ch": "下班前", "en": "before the end of the day", "pi": "xià bān qián"},
+    {"ch": "解决", "en": "resolved", "pi": "jiě jué"}
+  ]
+}

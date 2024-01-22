@@ -1,0 +1,32 @@
+{
+   "chinese": "台风造成了河水氾滥。",
+   "english": "The typhoon caused the river to flood.",
+   "pinyin": "tái fēng zào chéng le hé shuǐ fàn làn.",
+   "words": [
+      {
+         "ch": "台风",
+         "en": "typhoon",
+         "pi": "tái fēng"
+      },
+      {
+         "ch": "造成",
+         "en": "cause",
+         "pi": "zào chéng"
+      },
+      {
+         "ch": "了",
+         "en": "",
+         "pi": "le"
+      },
+      {
+         "ch": "河水",
+         "en": "river",
+         "pi": "hé shuǐ"
+      },
+      {
+         "ch": "氾滥",
+         "en": "flood",
+         "pi": "fàn làn"
+      }
+   ]
+}

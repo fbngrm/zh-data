@@ -1,0 +1,16 @@
+{
+  "chinese": "看来汤姆会按我们要求的去做。",
+  "english": "It seems that Tom will do as we requested.",
+  "pinyin": "kàn lái tāng mǔ huì àn wǒ men yào qiú de qù zuò。",
+  "words": [
+    {"ch": "看来", "en": "it seems", "pi": "kàn lái"},
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "按", "en": "do as", "pi": "àn"},
+    {"ch": "我们", "en": "we", "pi": "wǒ men"},
+    {"ch": "要求", "en": "requested", "pi": "yào qiú"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "去", "en": "to", "pi": "qù"},
+    {"ch": "做", "en": "do", "pi": "zuò"}
+  ]
+}

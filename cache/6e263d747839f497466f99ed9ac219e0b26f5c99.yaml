@@ -1,0 +1,37 @@
+{
+  "chinese": "这张桌子被Ｔｏｍ用过。",
+  "english": "This table has been used by Tom.",
+  "pinyin": "zhè zhāng zhuōzi bèi T om yòngguò.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "张",
+      "en": "table",
+      "pi": "zhāng"
+    },
+    {
+      "ch": "桌子",
+      "en": "table",
+      "pi": "zhuōzi"
+    },
+    {
+      "ch": "被",
+      "en": "by",
+      "pi": "bèi"
+    },
+    {
+      "ch": "Ｔｏｍ",
+      "en": "Tom",
+      "pi": "T om"
+    },
+    {
+      "ch": "用过",
+      "en": "used",
+      "pi": "yòngguò"
+    }
+  ]
+}

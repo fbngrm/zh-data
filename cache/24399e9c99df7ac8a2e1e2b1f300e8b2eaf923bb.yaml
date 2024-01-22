@@ -1,0 +1,32 @@
+{
+  "chinese": "你的东西在哪里？",
+  "english": "Where are your things?",
+  "pinyin": "nǐ de dōng xī zài nǎ lǐ?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "东西",
+      "en": "things",
+      "pi": "dōng xī"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪里",
+      "en": "where",
+      "pi": "nǎ lǐ"
+    }
+  ]
+}

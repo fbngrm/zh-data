@@ -1,0 +1,27 @@
+{
+  "chinese": "老板在那里吗？",
+  "english": "Is the boss there?",
+  "pinyin": "Lǎobǎn zài nǎlǐ ma?",
+  "words": [
+    {
+      "ch": "老板",
+      "en": "boss",
+      "pi": "lǎobǎn"
+    },
+    {
+      "ch": "在",
+      "en": "is/are",
+      "pi": "zài"
+    },
+    {
+      "ch": "那里",
+      "en": "there",
+      "pi": "nǎlǐ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

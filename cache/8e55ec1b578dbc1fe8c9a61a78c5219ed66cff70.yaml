@@ -1,0 +1,32 @@
+{
+  "chinese": "我昨天晚上到了这儿。",
+  "english": "I arrived here last night.",
+  "pinyin": "wǒ zuótiān wǎnshàng dào le zhè'er.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "晚上",
+      "en": "night",
+      "pi": "wǎnshàng"
+    },
+    {
+      "ch": "到了",
+      "en": "arrived",
+      "pi": "dào le"
+    },
+    {
+      "ch": "这儿",
+      "en": "here",
+      "pi": "zhè'er"
+    }
+  ]
+}

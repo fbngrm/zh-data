@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆是法语母语者。",
+  "english": "Tom is a native French speaker.",
+  "pinyin": "Tāng mǔ shì fǎ yǔ mǔ yǔ zhě。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎ yǔ"
+    },
+    {
+      "ch": "母语者",
+      "en": "native speaker",
+      "pi": "mǔ yǔ zhě"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "大号的还是中号的？",
+  "english": "Is it the large size or the medium size?",
+  "pinyin": "Dà hào de háishì zhōng hào de?",
+  "words": [
+    {
+      "ch": "大号",
+      "en": "large size",
+      "pi": "dà hào"
+    },
+    {
+      "ch": "的",
+      "en": "or",
+      "pi": "de"
+    },
+    {
+      "ch": "还是",
+      "en": "the medium size",
+      "pi": "háishì"
+    },
+    {
+      "ch": "中号",
+      "en": "or",
+      "pi": "zhōng hào"
+    },
+    {
+      "ch": "的",
+      "en": "?",
+      "pi": "de"
+    }
+  ]
+}

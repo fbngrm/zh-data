@@ -1,0 +1,14 @@
+{
+  "chinese": "那个男人戴着一个老虎的面具。",
+  "english": "The man is wearing a tiger mask.",
+  "pinyin": "nà gè nán rén dài zhe yī gè lǎo hǔ de miàn jù。",
+  "words": [
+    { "ch": "那个", "en": "The", "pi": "nà gè" },
+    { "ch": "男人", "en": "man", "pi": "nán rén" },
+    { "ch": "戴着", "en": "is wearing", "pi": "dài zhe" },
+    { "ch": "一个", "en": "a", "pi": "yī gè" },
+    { "ch": "老虎", "en": "tiger", "pi": "lǎo hǔ" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "面具", "en": "mask", "pi": "miàn jù" }
+  ]
+}

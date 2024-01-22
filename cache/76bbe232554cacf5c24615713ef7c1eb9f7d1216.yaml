@@ -1,0 +1,32 @@
+{
+  "chinese": "他还会说俄语。",
+  "english": "He can also speak Russian.",
+  "pinyin": "tā hái huì shuō éyǔ.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "还",
+      "en": "also",
+      "pi": "hái"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "俄语",
+      "en": "Russian",
+      "pi": "éyǔ"
+    }
+  ]
+}

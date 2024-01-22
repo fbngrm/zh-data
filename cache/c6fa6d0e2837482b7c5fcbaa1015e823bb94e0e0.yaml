@@ -1,0 +1,32 @@
+{
+  "chinese": "他上学去了吗？",
+  "english": "Did he go to school?",
+  "pinyin": "tā shàngxué qùle ma?",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "上学",
+      "en": "go to school",
+      "pi": "shàngxué"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "了",
+      "en": "did",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

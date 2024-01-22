@@ -1,0 +1,42 @@
+{
+  "chinese": "這隻老鼠跑進洞裡。",
+  "english": "The mouse ran into the hole.",
+  "pinyin": "zhè zhī lǎo shǔ pǎo jìn dòng lǐ.",
+  "words": [
+    {
+      "ch": "這",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "隻",
+      "en": "Measure word for small animals",
+      "pi": "zhī"
+    },
+    {
+      "ch": "老鼠",
+      "en": "Mouse",
+      "pi": "lǎo shǔ"
+    },
+    {
+      "ch": "跑",
+      "en": "Run",
+      "pi": "pǎo"
+    },
+    {
+      "ch": "進",
+      "en": "Into",
+      "pi": "jìn"
+    },
+    {
+      "ch": "洞",
+      "en": "Hole",
+      "pi": "dòng"
+    },
+    {
+      "ch": "裡",
+      "en": "Inside",
+      "pi": "lǐ"
+    }
+  ]
+}

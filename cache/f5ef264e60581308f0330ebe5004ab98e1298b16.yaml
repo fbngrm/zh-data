@@ -1,0 +1,32 @@
+{
+  "chinese": "這張照片真漂亮！",
+  "english": "This photo is so beautiful!",
+  "pinyin": "zhè zhāng zhào piàn zhēn piào liàng!",
+  "words": [
+    {
+      "ch": "這",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "張",
+      "en": "measure word for flat objects",
+      "pi": "zhāng"
+    },
+    {
+      "ch": "照片",
+      "en": "photo",
+      "pi": "zhào piàn"
+    },
+    {
+      "ch": "真",
+      "en": "really",
+      "pi": "zhēn"
+    },
+    {
+      "ch": "漂亮",
+      "en": "beautiful",
+      "pi": "piào liàng"
+    }
+  ]
+}

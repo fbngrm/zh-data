@@ -1,0 +1,32 @@
+{
+  "chinese": "我阿姨住在纽约。",
+  "english": "My aunt lives in New York.",
+  "pinyin": "Wǒ āyí zhù zài niǔyuē.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "阿姨",
+      "en": "aunt",
+      "pi": "āyí"
+    },
+    {
+      "ch": "住",
+      "en": "live",
+      "pi": "zhù"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "纽约",
+      "en": "New York",
+      "pi": "niǔyuē"
+    }
+  ]
+}

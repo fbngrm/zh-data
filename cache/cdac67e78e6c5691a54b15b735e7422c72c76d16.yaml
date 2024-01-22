@@ -1,0 +1,32 @@
+{
+  "chinese": "照相机被别人借走了。",
+  "english": "The camera was borrowed by someone else.",
+  "pinyin": "zhào xiàng jī bèi bié rén jiè zǒu le。",
+  "words": [
+    {
+      "ch": "照相机",
+      "en": "camera",
+      "pi": "zhào xiàng jī"
+    },
+    {
+      "ch": "被",
+      "en": "by",
+      "pi": "bèi"
+    },
+    {
+      "ch": "别人",
+      "en": "someone else",
+      "pi": "bié rén"
+    },
+    {
+      "ch": "借走",
+      "en": "borrowed",
+      "pi": "jiè zǒu"
+    },
+    {
+      "ch": "了",
+      "en": "finished action",
+      "pi": "le"
+    }
+  ]
+}

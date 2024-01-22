@@ -1,0 +1,14 @@
+{
+  "chinese": "你是说你放弃了吗？",
+  "english": "Are you saying you gave up?",
+  "pinyin": "Nǐ shì shuō nǐ fàngqìle ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "是", "en": "are", "pi": "shì"},
+    {"ch": "说", "en": "saying", "pi": "shuō"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "放弃", "en": "give up", "pi": "fàngqì"},
+    {"ch": "了", "en": "did", "pi": "le"},
+    {"ch": "吗", "en": "?" ,"pi": "ma"}
+  ]
+}

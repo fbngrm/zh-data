@@ -1,0 +1,27 @@
+{
+  "chinese": "我们昨晚吃撑了。",
+  "english": "We ate too much last night.",
+  "pinyin": "wǒmen zuó wǎn chī chēng le.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "昨晚",
+      "en": "last night",
+      "pi": "zuó wǎn"
+    },
+    {
+      "ch": "吃",
+      "en": "ate",
+      "pi": "chī"
+    },
+    {
+      "ch": "撑了",
+      "en": "too much",
+      "pi": "chēng le"
+    }
+  ]
+}

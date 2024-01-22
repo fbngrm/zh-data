@@ -1,0 +1,32 @@
+{
+  "chinese": "我的杯子比他的小。",
+  "english": "My cup is smaller than his.",
+  "pinyin": "wǒ de bēi zi bǐ tā de xiǎo。",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "杯子",
+      "en": "cup",
+      "pi": "bēi zi"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "小",
+      "en": "small",
+      "pi": "xiǎo"
+    }
+  ]
+}

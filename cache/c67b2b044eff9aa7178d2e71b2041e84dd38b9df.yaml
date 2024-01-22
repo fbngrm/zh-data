@@ -1,0 +1,63 @@
+{
+  "sentences": [
+    {
+      "chinese": "谢谢您的贡献。",
+      "english": "Thank you for your contribution.",
+      "pinyin": "xiè xiè nín de gòng xiàn。",
+      "words": [
+        {
+          "ch": "谢谢",
+          "en": "Thank you",
+          "pi": "xiè xiè"
+        },
+        {
+          "ch": "您",
+          "en": "you",
+          "pi": "nín"
+        },
+        {
+          "ch": "的",
+          "en": "for",
+          "pi": "de"
+        },
+        {
+          "ch": "贡献",
+          "en": "contribution",
+          "pi": "gòng xiàn"
+        }
+      ]
+    },
+    {
+      "chinese": "预计我们很快又会见面。",
+      "english": "We expect to see you again soon.",
+      "pinyin": "yù jì wǒ men hěn kuài yòu huì jiàn miàn。",
+      "words": [
+        {
+          "ch": "预计",
+          "en": "expect",
+          "pi": "yù jì"
+        },
+        {
+          "ch": "我们",
+          "en": "we",
+          "pi": "wǒ men"
+        },
+        {
+          "ch": "很快",
+          "en": "soon",
+          "pi": "hěn kuài"
+        },
+        {
+          "ch": "又",
+          "en": "again",
+          "pi": "yòu"
+        },
+        {
+          "ch": "会见面",
+          "en": "see you",
+          "pi": "huì jiàn miàn"
+        }
+      ]
+    }
+  ]
+}

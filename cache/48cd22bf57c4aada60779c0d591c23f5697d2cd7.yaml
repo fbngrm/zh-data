@@ -1,0 +1,32 @@
+{
+  "chinese": "他穿上了红色的外套。",
+  "english": "He put on a red coat.",
+  "pinyin": "tā chuān shàng le hóng sè de wài tào.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "穿上",
+      "en": "put on",
+      "pi": "chuān shàng"
+    },
+    {
+      "ch": "了",
+      "en": "a particle indicating action is done",
+      "pi": "le"
+    },
+    {
+      "ch": "红色的",
+      "en": "red",
+      "pi": "hóng sè de"
+    },
+    {
+      "ch": "外套",
+      "en": "coat",
+      "pi": "wài tào"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "她每週日早上很晚起床。",
+  "english": "She gets up very late on Sundays.",
+  "pinyin": "tā měi zhōu rì zǎo shàng hěn wǎn qǐ chuáng。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "每",
+      "en": "every",
+      "pi": "měi"
+    },
+    {
+      "ch": "週日",
+      "en": "Sunday",
+      "pi": "zhōu rì"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎo shàng"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "晚",
+      "en": "late",
+      "pi": "wǎn"
+    },
+    {
+      "ch": "起床",
+      "en": "get up",
+      "pi": "qǐ chuáng"
+    }
+  ]
+}

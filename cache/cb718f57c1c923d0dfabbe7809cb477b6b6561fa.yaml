@@ -1,0 +1,32 @@
+{
+  "chinese": "这是谁的钢笔?",
+  "english": "Whose pen is this?",
+  "pinyin": "zhè shì shéi de gāng bǐ?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "谁",
+      "en": "whose",
+      "pi": "shéi"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "钢笔",
+      "en": "pen",
+      "pi": "gāng bǐ"
+    }
+  ]
+}

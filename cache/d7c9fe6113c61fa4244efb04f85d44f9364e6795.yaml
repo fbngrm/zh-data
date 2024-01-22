@@ -1,0 +1,32 @@
+{
+  "chinese": "那个作家正在写新书。",
+  "english": "That writer is writing a new book.",
+  "pinyin": "nà gè zuò jiā zhèng zài xiě xīn shū。",
+  "words": [
+    {
+      "ch": "那个",
+      "en": "That",
+      "pi": "nà gè"
+    },
+    {
+      "ch": "作家",
+      "en": "writer",
+      "pi": "zuò jiā"
+    },
+    {
+      "ch": "正在",
+      "en": "is",
+      "pi": "zhèng zài"
+    },
+    {
+      "ch": "写",
+      "en": "writing",
+      "pi": "xiě"
+    },
+    {
+      "ch": "新书",
+      "en": "new book",
+      "pi": "xīn shū"
+    }
+  ]
+}

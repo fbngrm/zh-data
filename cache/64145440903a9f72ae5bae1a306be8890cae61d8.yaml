@@ -1,0 +1,47 @@
+{
+  "chinese": "我跟你一样昨天上学迟到了。",
+  "english": "I was late for school yesterday just like you.",
+  "pinyin": "wǒ gēn nǐ yīyàng zuótiān shàngxué chídào le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "跟",
+      "en": "with",
+      "pi": "gēn"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "一样",
+      "en": "the same",
+      "pi": "yīyàng"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "上学",
+      "en": "go to school",
+      "pi": "shàngxué"
+    },
+    {
+      "ch": "迟到",
+      "en": "late",
+      "pi": "chídào"
+    },
+    {
+      "ch": "了",
+      "en": "(indicating completed action)",
+      "pi": "le"
+    }
+  ]
+}

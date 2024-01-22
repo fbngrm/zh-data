@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "chinese": "他是我二叔。",
+      "english": "He is my second uncle.",
+      "pinyin": "tā shì wǒ èr shū。",
+      "words": [
+        {
+          "ch": "他",
+          "en": "He",
+          "pi": "tā"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "我",
+          "en": "my",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "二叔",
+          "en": "second uncle",
+          "pi": "èr shū"
+        }
+      ]
+    },
+    {
+      "chinese": "他是大学生。",
+      "english": "He is a college student.",
+      "pinyin": "tā shì dà xué shēng。",
+      "words": [
+        {
+          "ch": "他",
+          "en": "He",
+          "pi": "tā"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "大学生",
+          "en": "college student",
+          "pi": "dà xué shēng"
+        }
+      ]
+    }
+  ]
+}

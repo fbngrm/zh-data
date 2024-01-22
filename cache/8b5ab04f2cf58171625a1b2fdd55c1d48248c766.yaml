@@ -1,0 +1,68 @@
+{
+  "sentences": [
+    {
+      "chinese": "他在车子旁边吗?",
+      "english": "Is he next to the car?",
+      "pinyin": "tā zài chēzi pángbiān ma?",
+      "words": [
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "在",
+          "en": "is",
+          "pi": "zài"
+        },
+        {
+          "ch": "车子",
+          "en": "car",
+          "pi": "chēzi"
+        },
+        {
+          "ch": "旁边",
+          "en": "next to",
+          "pi": "pángbiān"
+        },
+        {
+          "ch": "吗",
+          "en": "question particle",
+          "pi": "ma"
+        }
+      ]
+    },
+    {
+      "chinese": "不,他在车子里面。",
+      "english": "No, he is inside the car.",
+      "pinyin": "bù, tā zài chēzi lǐmiàn.",
+      "words": [
+        {
+          "ch": "不",
+          "en": "no",
+          "pi": "bù"
+        },
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "在",
+          "en": "is",
+          "pi": "zài"
+        },
+        {
+          "ch": "车子",
+          "en": "car",
+          "pi": "chēzi"
+        },
+        {
+          "ch": "里面",
+          "en": "inside",
+          "pi": "lǐmiàn"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我们一个小时后离开。",
+  "english": "We will leave in one hour.",
+  "pinyin": "wǒ men yī gè xiǎo shí hòu lí kāi。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "一个",
+      "en": "one",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "小时",
+      "en": "hour",
+      "pi": "xiǎo shí"
+    },
+    {
+      "ch": "后",
+      "en": "after",
+      "pi": "hòu"
+    },
+    {
+      "ch": "离开",
+      "en": "leave",
+      "pi": "lí kāi"
+    }
+  ]
+}

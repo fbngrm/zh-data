@@ -1,0 +1,32 @@
+{
+  "chinese": "我温书温了一个小时。",
+  "english": "I reviewed my notes for an hour.",
+  "pinyin": "wǒ wēn shū wēn le yī gè xiǎo shí。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "温书",
+      "en": "review my notes",
+      "pi": "wēn shū"
+    },
+    {
+      "ch": "温了",
+      "en": "reviewed",
+      "pi": "wēn le"
+    },
+    {
+      "ch": "一个",
+      "en": "one",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "小时",
+      "en": "hour",
+      "pi": "xiǎo shí"
+    }
+  ]
+}

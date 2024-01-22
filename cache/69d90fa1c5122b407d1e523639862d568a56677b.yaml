@@ -1,0 +1,16 @@
+{
+  "chinese": "收音机广播充斥着有关最近爆炸的新闻。",
+  "english": "The radio broadcast is filled with news about recent explosions.",
+  "pinyin": "shōu yīn jī guǎng bō chōng chì zhe yǒu guān zuì jìn bào zhà de xīn wén。",
+  "words": [
+    {"ch": "收音机", "en": "radio", "pi": "shōu yīn jī"},
+    {"ch": "广播", "en": "broadcast", "pi": "guǎng bō"},
+    {"ch": "充斥", "en": "filled with", "pi": "chōng chì"},
+    {"ch": "着", "en": "with", "pi": "zhe"},
+    {"ch": "有关", "en": "about", "pi": "yǒu guān"},
+    {"ch": "最近", "en": "recent", "pi": "zuì jìn"},
+    {"ch": "爆炸", "en": "explosions", "pi": "bào zhà"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "新闻", "en": "news", "pi": "xīn wén"}
+  ]
+}

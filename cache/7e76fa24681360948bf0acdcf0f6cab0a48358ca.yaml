@@ -1,0 +1,37 @@
+{
+  "chinese": "我昨天看了很长时间的电影。",
+  "english": "Yesterday I watched movies for a long time.",
+  "pinyin": "Wǒ zuótiān kàn le hěn cháng shíjiān de diànyǐng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "看了",
+      "en": "watched",
+      "pi": "kàn le"
+    },
+    {
+      "ch": "很长时间",
+      "en": "for a long time",
+      "pi": "hěn cháng shíjiān"
+    },
+    {
+      "ch": "的",
+      "en": "-'s",
+      "pi": "de"
+    },
+    {
+      "ch": "电影",
+      "en": "movies",
+      "pi": "diànyǐng"
+    }
+  ]
+}

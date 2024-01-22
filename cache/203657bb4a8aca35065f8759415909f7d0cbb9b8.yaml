@@ -1,0 +1,32 @@
+{
+  "chinese": "这本书我昨天买了。",
+  "english": "I bought this book yesterday.",
+  "pinyin": "zhè běn shū wǒ zuó tiān mǎi le。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本书",
+      "en": "book",
+      "pi": "běn shū"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "买了",
+      "en": "bought",
+      "pi": "mǎi le"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "你想再喝点咖啡吗？",
+  "english": "Do you want to drink some more coffee?",
+  "pinyin": "nǐ xiǎng zài hē diǎn kāfēi ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "想", "en": "want", "pi": "xiǎng"},
+    {"ch": "再", "en": "again", "pi": "zài"},
+    {"ch": "喝", "en": "drink", "pi": "hē"},
+    {"ch": "点", "en": "some", "pi": "diǎn"},
+    {"ch": "咖啡", "en": "coffee", "pi": "kāfēi"},
+    {"ch": "吗", "en": "do", "pi": "ma"}
+  ]
+}

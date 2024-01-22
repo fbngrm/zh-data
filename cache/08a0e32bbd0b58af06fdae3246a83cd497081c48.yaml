@@ -1,0 +1,37 @@
+{
+  "chinese": "我已经换了我的衣服。",
+  "english": "I have already changed my clothes.",
+  "pinyin": "wǒ yǐjīng huàn le wǒ de yīfú.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐjīng"
+    },
+    {
+      "ch": "换",
+      "en": "change",
+      "pi": "huàn"
+    },
+    {
+      "ch": "了",
+      "en": "sentence particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "衣服",
+      "en": "clothes",
+      "pi": "yīfú"
+    }
+  ]
+}

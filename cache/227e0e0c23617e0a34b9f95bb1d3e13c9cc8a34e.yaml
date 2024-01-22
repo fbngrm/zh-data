@@ -1,0 +1,47 @@
+{
+  "chinese": "他既会打网球，又会打棒球。",
+  "english": "He can play both tennis and baseball.",
+  "pinyin": "tā jì huì dǎ wǎngqiú, yòu huì dǎ bàngqiú.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "既",
+      "en": "both",
+      "pi": "jì"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "打",
+      "en": "play",
+      "pi": "dǎ"
+    },
+    {
+      "ch": "网球",
+      "en": "tennis",
+      "pi": "wǎngqiú"
+    },
+    {
+      "ch": "又",
+      "en": "and",
+      "pi": "yòu"
+    },
+    {
+      "ch": "打",
+      "en": "play",
+      "pi": "dǎ"
+    },
+    {
+      "ch": "棒球",
+      "en": "baseball",
+      "pi": "bàngqiú"
+    }
+  ]
+}

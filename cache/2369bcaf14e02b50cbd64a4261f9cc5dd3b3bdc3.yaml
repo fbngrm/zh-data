@@ -1,0 +1,14 @@
+{
+  "chinese": "汤姆说玛丽绝不会接受这工作。",
+  "english": "Tom said Mary would never accept this job.",
+  "pinyin": "tāng mǔ shuō mǎ lì jué bù huì jiē shòu zhè gōng zuò。",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "说", "en": "said", "pi": "shuō"},
+    {"ch": "玛丽", "en": "Mary", "pi": "mǎ lì"},
+    {"ch": "绝不会", "en": "would never", "pi": "jué bù huì"},
+    {"ch": "接受", "en": "accept", "pi": "jiē shòu"},
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "工作", "en": "job", "pi": "gōng zuò"}
+  ]
+}

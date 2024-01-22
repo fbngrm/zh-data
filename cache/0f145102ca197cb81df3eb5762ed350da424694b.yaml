@@ -1,0 +1,32 @@
+{
+  "chinese": "我今天要早点回家。",
+  "english": "I want to go home early today.",
+  "pinyin": "wǒ jīntiān yào zǎo diǎn huí jiā。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "要",
+      "en": "want to",
+      "pi": "yào"
+    },
+    {
+      "ch": "早点",
+      "en": "early",
+      "pi": "zǎo diǎn"
+    },
+    {
+      "ch": "回家",
+      "en": "go home",
+      "pi": "huí jiā"
+    }
+  ]
+}

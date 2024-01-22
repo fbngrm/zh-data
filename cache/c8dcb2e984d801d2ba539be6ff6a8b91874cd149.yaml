@@ -1,0 +1,32 @@
+{
+  "chinese": "教授微微笑了笑。",
+  "english": "The professor smiled slightly.",
+  "pinyin": "jiào shòu wēi wēi xiào le xiào。",
+  "words": [
+    {
+      "ch": "教授",
+      "en": "professor",
+      "pi": "jiào shòu"
+    },
+    {
+      "ch": "微微",
+      "en": "slightly",
+      "pi": "wēi wēi"
+    },
+    {
+      "ch": "笑",
+      "en": "smile",
+      "pi": "xiào"
+    },
+    {
+      "ch": "了",
+      "en": "completed action particle",
+      "pi": "le"
+    },
+    {
+      "ch": "笑",
+      "en": "smile",
+      "pi": "xiào"
+    }
+  ]
+}

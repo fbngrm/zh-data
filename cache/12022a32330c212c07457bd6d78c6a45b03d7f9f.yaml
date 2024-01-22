@@ -1,0 +1,27 @@
+{
+  "chinese": "你的姓氏怎么写？",
+  "english": "How do you write your surname?",
+  "pinyin": "nǐ de xìngshì zěnme xiě?",
+  "words": [
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "姓氏",
+      "en": "surname",
+      "pi": "xìngshì"
+    },
+    {
+      "ch": "怎么",
+      "en": "how",
+      "pi": "zěnme"
+    },
+    {
+      "ch": "写",
+      "en": "write",
+      "pi": "xiě"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "他看起来像个医生吗？",
+  "english": "Does he look like a doctor?",
+  "pinyin": "tā kàn qǐlái xiàng gè yīshēng ma?",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "看起来", "en": "look like", "pi": "kàn qǐlái"},
+    {"ch": "像", "en": "like", "pi": "xiàng"},
+    {"ch": "个", "en": "a", "pi": "gè"},
+    {"ch": "医生", "en": "doctor", "pi": "yīshēng"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我希望会看见她。",
+  "english":"I hope to see her.",
+  "pinyin": "wǒ xīwàng huì kànjiàn tā。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "希望",
+      "en": "hope",
+      "pi": "xīwàng"
+    },
+    {
+      "ch": "会",
+      "en": "to",
+      "pi": "huì"
+    },
+    {
+      "ch": "看见",
+      "en": "see",
+      "pi": "kànjiàn"
+    },
+    {
+      "ch": "她",
+      "en": "her",
+      "pi": "tā"
+    }
+  ]
+}

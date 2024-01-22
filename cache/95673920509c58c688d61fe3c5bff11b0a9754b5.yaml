@@ -1,0 +1,42 @@
+{
+  "chinese": "绿色的毯子和这条蓝色的帘子不配。",
+  "english": "The green blanket and this blue curtain don't match.",
+  "pinyin": "Lǜsè de tǎnzi hé zhè tiáo lán sè de liánzi bù pèi.",
+  "words": [
+    {
+      "ch": "绿色的",
+      "en": "green",
+      "pi": "lǜsè de"
+    },
+    {
+      "ch": "毯子",
+      "en": "blanket",
+      "pi": "tǎnzi"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "这条",
+      "en": "this",
+      "pi": "zhè tiáo"
+    },
+    {
+      "ch": "蓝色的",
+      "en": "blue",
+      "pi": "lán sè de"
+    },
+    {
+      "ch": "帘子",
+      "en": "curtain",
+      "pi": "liánzi"
+    },
+    {
+      "ch": "不配",
+      "en": "don't match",
+      "pi": "bù pèi"
+    }
+  ]
+}

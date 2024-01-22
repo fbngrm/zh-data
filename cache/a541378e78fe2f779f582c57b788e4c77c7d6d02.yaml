@@ -1,0 +1,15 @@
+{
+  "chinese": "有些人信神，有些人不信神。",
+  "english": "Some people believe in God, some people do not believe in God.",
+  "pinyin": "yǒu xiē rén xìn shén, yǒu xiē rén bù xìn shén.",
+  "words": [
+    { "ch": "有些", "en": "Some", "pi": "yǒu xiē" },
+    { "ch": "人", "en": "people", "pi": "rén" },
+    { "ch": "信神", "en": "believe in God", "pi": "xìn shén" },
+    { "ch": "，", "en": ",", "pi": null },
+    { "ch": "有些", "en": "some", "pi": "yǒu xiē" },
+    { "ch": "人", "en": "people", "pi": "rén" },
+    { "ch": "不信神", "en": "do not believe in God", "pi": "bù xìn shén" },
+    { "ch": "。", "en": ".", "pi": null }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆和玛丽猎鹿去了。",
+  "english": "Tom and Mary went hunting.",
+  "pinyin": "Tāng mǔ hé mǎ lì liè lù qù le.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "猎鹿",
+      "en": "hunting",
+      "pi": "liè lù"
+    },
+    {
+      "ch": "去",
+      "en": "went",
+      "pi": "qù"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

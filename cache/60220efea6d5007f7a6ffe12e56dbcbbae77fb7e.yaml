@@ -1,0 +1,14 @@
+{
+  "chinese": "汤姆在纸上画了一道直线。",
+  "english": "Tom drew a straight line on the paper.",
+  "pinyin": "Tāng mǔ zài zhǐ shàng huà le yī dào zhí xiàn.",
+  "words": [
+    { "ch": "汤姆", "en": "Tom", "pi": "tāng mǔ" },
+    { "ch": "在", "en": "on", "pi": "zài" },
+    { "ch": "纸上", "en": "on the paper", "pi": "zhǐ shàng" },
+    { "ch": "画", "en": "drew", "pi": "huà" },
+    { "ch": "了", "en": "a", "pi": "le" },
+    { "ch": "一道", "en": "straight", "pi": "yī dào" },
+    { "ch": "直线", "en": "line", "pi": "zhí xiàn" }
+  ]
+}

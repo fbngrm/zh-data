@@ -1,0 +1,32 @@
+{
+  "chinese": "我父母现在都在家。",
+  "english": "My parents are both at home now.",
+  "pinyin": "wǒ fù mǔ xiàn zài dōu zài jiā.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "父母",
+      "en": "parents",
+      "pi": "fù mǔ"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "都",
+      "en": "both",
+      "pi": "dōu"
+    },
+    {
+      "ch": "在家",
+      "en": "at home",
+      "pi": "zài jiā"
+    }
+  ]
+}

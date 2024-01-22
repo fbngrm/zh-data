@@ -1,0 +1,32 @@
+{
+  "chinese": "你不用马上就走。",
+  "english": "You don't have to leave right away.",
+  "pinyin": "nǐ bù yòng mǎ shàng jiù zǒu.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "不用",
+      "en": "don't have to",
+      "pi": "bù yòng"
+    },
+    {
+      "ch": "马上",
+      "en": "right away",
+      "pi": "mǎ shàng"
+    },
+    {
+      "ch": "就",
+      "en": "just",
+      "pi": "jiù"
+    },
+    {
+      "ch": "走",
+      "en": "leave",
+      "pi": "zǒu"
+    }
+  ]
+}

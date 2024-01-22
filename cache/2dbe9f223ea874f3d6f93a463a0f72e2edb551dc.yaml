@@ -1,0 +1,27 @@
+{
+  "chinese": "比赛在九点钟结束。",
+  "english": "The match ends at nine o'clock.",
+  "pinyin": "Bǐsài zài jiǔ diǎn zhōng jiéshù。",
+  "words": [
+    {
+      "ch": "比赛",
+      "en": "match",
+      "pi": "bǐsài"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "九点钟",
+      "en": "nine o'clock",
+      "pi": "jiǔ diǎn zhōng"
+    },
+    {
+      "ch": "结束",
+      "en": "end",
+      "pi": "jiéshù"
+    }
+  ]
+}

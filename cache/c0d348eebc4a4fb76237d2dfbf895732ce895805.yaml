@@ -1,0 +1,32 @@
+{
+  "chinese": "我们的饭菜很便宜。",
+  "english": "Our food is very cheap.",
+  "pinyin": "wǒ​men​ de​ fàn​ cài​ hěn​ pián​yi。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒ​men"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "饭菜",
+      "en": "food",
+      "pi": "fàn​ cài"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "便宜",
+      "en": "cheap",
+      "pi": "pián​yi"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆再也不做了。",
+  "english": "Tom doesn't do it anymore.",
+  "pinyin": "Tāngmǔ zàiyě bù zuò le.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "再也",
+      "en": "anymore",
+      "pi": "zàiyě"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "做",
+      "en": "do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "了",
+      "en": "it",
+      "pi": "le"
+    }
+  ]
+}

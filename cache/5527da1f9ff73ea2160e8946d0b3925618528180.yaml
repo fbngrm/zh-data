@@ -1,0 +1,13 @@
+{
+  "chinese": "有时间给我写信，好吗？",
+  "english": "Do you have time to write me a letter?",
+  "pinyin": "yǒu shíjiān gěi wǒ xiě xìn, hǎo ma?",
+  "words": [
+    {"ch": "有", "en": "Have", "pi": "yǒu"},
+    {"ch": "时间", "en": "Time", "pi": "shíjiān"},
+    {"ch": "给", "en": "Give", "pi": "gěi"},
+    {"ch": "我", "en": "Me", "pi": "wǒ"},
+    {"ch": "写信", "en": "Write a letter", "pi": "xiě xìn"},
+    {"ch": "好吗", "en": "Okay?", "pi": "hǎo ma"}
+  ]
+}

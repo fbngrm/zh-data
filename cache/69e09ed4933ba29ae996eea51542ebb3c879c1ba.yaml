@@ -1,0 +1,81 @@
+{
+  "sentences": [
+    {
+      "chinese": "为什么是句子呢？。。。你们可能要问。",
+      "english": "Why sentences?... you may ask.",
+      "pinyin": "Wèishéme shì jùzǐ ne?... nǐmen kěnéng yào wèn."
+    },
+    {
+      "chinese": "好吧，那是因为句子更有意思。",
+      "english": "Well, that's because sentences are more interesting.",
+      "pinyin": "Hǎo ba, nà shì yīnwèi jùzǐ gèng yǒuyìsi."
+    }
+  ],
+  "words": [
+    {
+      "ch": "为什么",
+      "en": "Why",
+      "pi": "Wèishéme"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "句子",
+      "en": "sentences",
+      "pi": "jùzǐ"
+    },
+    {
+      "ch": "呢",
+      "en": "...",
+      "pi": "ne"
+    },
+    {
+      "ch": "你们",
+      "en": "you",
+      "pi": "nǐmen"
+    },
+    {
+      "ch": "可能",
+      "en": "may",
+      "pi": "kěnéng"
+    },
+    {
+      "ch": "要",
+      "en": "ask",
+      "pi": "yào"
+    },
+    {
+      "ch": "问",
+      "en": "ask",
+      "pi": "wèn"
+    },
+    {
+      "ch": "好吧",
+      "en": "Well",
+      "pi": "Hǎo ba"
+    },
+    {
+      "ch": "那是",
+      "en": "that's",
+      "pi": "nà shì"
+    },
+    {
+      "ch": "因为",
+      "en": "because",
+      "pi": "yīnwèi"
+    },
+    {
+      "ch": "更",
+      "en": "more",
+      "pi": "gèng"
+    },
+    {
+      "ch": "有意思",
+      "en": "interesting",
+      "pi": "yǒuyìsi"
+    }
+  ]
+}

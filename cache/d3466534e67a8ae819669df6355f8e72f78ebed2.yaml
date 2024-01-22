@@ -1,0 +1,32 @@
+{
+  "chinese": "他们说法语说得不太好。",
+  "english": "They don't speak French very well.",
+  "pinyin": "tā men shuō fǎ yǔ shuō de bú tài hǎo。",
+  "words": [
+    {
+      "ch": "他们",
+      "en": "they",
+      "pi": "tā men"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎ yǔ"
+    },
+    {
+      "ch": "说得",
+      "en": "speak",
+      "pi": "shuō de"
+    },
+    {
+      "ch": "不太好",
+      "en": "not very well",
+      "pi": "bú tài hǎo"
+    }
+  ]
+}

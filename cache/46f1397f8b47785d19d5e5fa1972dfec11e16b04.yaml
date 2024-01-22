@@ -1,0 +1,37 @@
+{
+  "chinese": "Mary游得和Jack一样快。",
+  "english": "Mary swims as fast as Jack.",
+  "pinyin": "Mary yóu dé hé Jack yī yàng kuài.",
+  "words": [
+    {
+      "ch": "Mary",
+      "en": "Mary",
+      "pi": "yóu"
+    },
+    {
+      "ch": "游得",
+      "en": "swims",
+      "pi": "yóu dé"
+    },
+    {
+      "ch": "和",
+      "en": "as",
+      "pi": "hé"
+    },
+    {
+      "ch": "Jack",
+      "en": "Jack",
+      "pi": "Jack"
+    },
+    {
+      "ch": "一样",
+      "en": "as",
+      "pi": "yī yàng"
+    },
+    {
+      "ch": "快",
+      "en": "fast",
+      "pi": "kuài"
+    }
+  ]
+}

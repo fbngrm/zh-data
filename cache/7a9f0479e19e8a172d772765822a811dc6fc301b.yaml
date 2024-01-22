@@ -1,0 +1,48 @@
+{
+  "sentences": [
+    {
+      "chinese": "什么宠物一直在地板上？",
+      "english": "What pet is always on the floor?",
+      "pinyin": "Shénme chǒngwù yīzhí zài dìbǎn shàng？",
+      "words": [
+        {
+          "ch": "什么",
+          "en": "What",
+          "pi": "Shénme"
+        },
+        {
+          "ch": "宠物",
+          "en": "pet",
+          "pi": "chǒngwù"
+        },
+        {
+          "ch": "一直",
+          "en": "always",
+          "pi": "yīzhí"
+        },
+        {
+          "ch": "在",
+          "en": "on",
+          "pi": "zài"
+        },
+        {
+          "ch": "地板上",
+          "en": "the floor",
+          "pi": "dìbǎn shàng"
+        }
+      ]
+    },
+    {
+      "chinese": "地毯。",
+      "english": "Carpet.",
+      "pinyin": "Dìtǎn.",
+      "words": [
+        {
+          "ch": "地毯",
+          "en": "Carpet",
+          "pi": "Dìtǎn"
+        }
+      ]
+    }
+  ]
+}

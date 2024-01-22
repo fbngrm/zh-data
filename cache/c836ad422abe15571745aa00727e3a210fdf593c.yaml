@@ -1,0 +1,32 @@
+{
+  "chinese": "我要去看电影。",
+  "english": "I want to go see a movie.",
+  "pinyin": "wǒ yào qù kàn diàn yǐng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "看",
+      "en": "see",
+      "pi": "kàn"
+    },
+    {
+      "ch": "电影",
+      "en": "movie",
+      "pi": "diàn yǐng"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "chinese": "我在公車上給偷了錢包。",
+  "english": "My wallet was stolen on the bus.",
+  "pinyin": "wǒ zài gōng chē shàng gěi tōu le qián bāo.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "on",
+      "pi": "zài"
+    },
+    {
+      "ch": "公車",
+      "en": "bus",
+      "pi": "gōng chē"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "給",
+      "en": "given",
+      "pi": "gěi"
+    },
+    {
+      "ch": "偷",
+      "en": "stolen",
+      "pi": "tōu"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "錢包",
+      "en": "wallet",
+      "pi": "qián bāo"
+    }
+  ]
+}

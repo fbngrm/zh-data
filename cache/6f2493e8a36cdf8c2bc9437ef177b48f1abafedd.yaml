@@ -1,0 +1,32 @@
+{
+  "chinese": "你今晚在做什么？",
+  "english": "What are you doing tonight?",
+  "pinyin": "Nǐ jīn wǎn zài zuò shénme?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "今晚",
+      "en": "tonight",
+      "pi": "jīn wǎn"
+    },
+    {
+      "ch": "在",
+      "en": "doing",
+      "pi": "zài"
+    },
+    {
+      "ch": "做",
+      "en": "do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    }
+  ]
+}

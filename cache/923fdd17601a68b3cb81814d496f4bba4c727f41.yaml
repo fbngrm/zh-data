@@ -1,0 +1,11 @@
+{
+  "chinese": "你想吃吗？",
+  "english": "Do you want to eat?",
+  "pinyin": "nǐ xiǎng chī ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "想", "en": "want", "pi": "xiǎng"},
+    {"ch": "吃", "en": "to eat", "pi": "chī"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

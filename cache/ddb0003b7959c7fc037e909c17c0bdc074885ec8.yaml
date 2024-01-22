@@ -1,0 +1,37 @@
+{
+  "chinese": "我可以吃那个蛋糕吗？",
+  "english": "Can I eat that cake?",
+  "pinyin": "wǒ kěyǐ chī nàgè dàngāo ma?",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kěyǐ"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "那个",
+      "en": "that",
+      "pi": "nàgè"
+    },
+    {
+      "ch": "蛋糕",
+      "en": "cake",
+      "pi": "dàngāo"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

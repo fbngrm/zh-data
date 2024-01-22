@@ -1,0 +1,14 @@
+{
+  "chinese": "他是个音乐家之类的人。",
+  "english": "He is someone like a musician.",
+  "pinyin": "tā shì gè yīn yuè jiā zhī lèi de rén。",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "个", "en": "a", "pi": "gè"},
+    {"ch": "音乐家", "en": "musician", "pi": "yīn yuè jiā"},
+    {"ch": "之类", "en": "like", "pi": "zhī lèi"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "人", "en": "person", "pi": "rén"}
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "她会说英语和德语。",
+  "english": "She can speak English and German.",
+  "pinyin": "tā huì shuō yīng yǔ hé dé yǔ.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīng yǔ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "德语",
+      "en": "German",
+      "pi": "dé yǔ"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "sentences": [
+    {
+      "chinese": "我回来了！",
+      "english": "I'm back!",
+      "pinyin": "wǒ huí lái le！",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "回来",
+          "en": "back",
+          "pi": "huí lái"
+        },
+        {
+          "ch": "了",
+          "en": "!",
+          "pi": "le"
+        }
+      ]
+    },
+    {
+      "chinese": "啊？我们有客人啊？",
+      "english": "Oh? We have guests?",
+      "pinyin": "ā？wǒ men yǒu kè rén ā？",
+      "words": [
+        {
+          "ch": "啊",
+          "en": "Oh?",
+          "pi": "ā"
+        },
+        {
+          "ch": "？",
+          "en": "?",
+          "pi": ""
+        },
+        {
+          "ch": "我们",
+          "en": "we",
+          "pi": "wǒ men"
+        },
+        {
+          "ch": "有",
+          "en": "have",
+          "pi": "yǒu"
+        },
+        {
+          "ch": "客人",
+          "en": "guests",
+          "pi": "kè rén"
+        },
+        {
+          "ch": "啊",
+          "en": "?",
+          "pi": "ā"
+        }
+      ]
+    }
+  ]
+}

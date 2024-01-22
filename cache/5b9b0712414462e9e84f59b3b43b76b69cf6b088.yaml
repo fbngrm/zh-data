@@ -1,0 +1,32 @@
+{
+  "chinese": "他周一到周五上班。",
+  "english": "He works from Monday to Friday.",
+  "pinyin": "Tā zhōu yī dào zhōu wǔ shàng bān.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "周一",
+      "en": "Monday",
+      "pi": "zhōu yī"
+    },
+    {
+      "ch": "到",
+      "en": "to",
+      "pi": "dào"
+    },
+    {
+      "ch": "周五",
+      "en": "Friday",
+      "pi": "zhōu wǔ"
+    },
+    {
+      "ch": "上班",
+      "en": "work",
+      "pi": "shàng bān"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆没有今晚音乐会的门票。",
+  "english": "Tom doesn't have a ticket for tonight's concert.",
+  "pinyin": "Tāng mǔ méiyǒu jīnwǎn yīnyuèhuì de ménpiào.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "没有",
+      "en": "doesn't have",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "今晚",
+      "en": "tonight",
+      "pi": "jīnwǎn"
+    },
+    {
+      "ch": "音乐会",
+      "en": "concert",
+      "pi": "yīnyuèhuì"
+    },
+    {
+      "ch": "的",
+      "en": " 's",
+      "pi": "de"
+    },
+    {
+      "ch": "门票",
+      "en": "ticket",
+      "pi": "ménpiào"
+    }
+  ]
+}

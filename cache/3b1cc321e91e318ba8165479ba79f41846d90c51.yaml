@@ -1,0 +1,349 @@
+{
+  "sentences": [
+    {
+      "chinese": "今晚稍早，我接到馬侃參議員打來，態度非常懇切的電話。",
+      "english": "Earlier this evening, I received a very kind phone call from Senator Ma Kan.",
+      "pinyin": "jīn wǎn shāo zǎo wǒ jiē dào mǎ kǎn cān yì yuán dǎ lái tài dù fēi cháng kěn qiè de diàn huà。",
+      "words": [
+        {
+          "ch": "今晚",
+          "en": "tonight",
+          "pi": "jīn wǎn"
+        },
+        {
+          "ch": "稍早",
+          "en": "earlier",
+          "pi": "shāo zǎo"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "接到",
+          "en": "received",
+          "pi": "jiē dào"
+        },
+        {
+          "ch": "馬侃",
+          "en": "Ma Kan",
+          "pi": "mǎ kǎn"
+        },
+        {
+          "ch": "參議員",
+          "en": "Senator",
+          "pi": "cān yì yuán"
+        },
+        {
+          "ch": "打來",
+          "en": "phone call",
+          "pi": "dǎ lái"
+        },
+        {
+          "ch": "態度",
+          "en": "attitude",
+          "pi": "tài dù"
+        },
+        {
+          "ch": "非常",
+          "en": "very",
+          "pi": "fēi cháng"
+        },
+        {
+          "ch": "懇切",
+          "en": "kind",
+          "pi": "kěn qiè"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": "de"
+        },
+        {
+          "ch": "電話",
+          "en": "phone call",
+          "pi": "diàn huà"
+        }
+      ]
+    },
+    {
+      "chinese": "馬侃參議員已打完一場漫長艱苦的選戰。",
+      "english": "Senator Ma Kan has just finished a long and arduous election campaign.",
+      "pinyin": "mǎ kǎn cān yì yuán yǐ dǎ wán yī chǎng màn cháng jiān kǔ de xuǎn zhàn。",
+      "words": [
+        {
+          "ch": "馬侃",
+          "en": "Ma Kan",
+          "pi": "mǎ kǎn"
+        },
+        {
+          "ch": "參議員",
+          "en": "Senator",
+          "pi": "cān yì yuán"
+        },
+        {
+          "ch": "已",
+          "en": "already",
+          "pi": "yǐ"
+        },
+        {
+          "ch": "打完",
+          "en": "finished",
+          "pi": "dǎ wán"
+        },
+        {
+          "ch": "一場",
+          "en": "a",
+          "pi": "yī chǎng"
+        },
+        {
+          "ch": "漫長",
+          "en": "long",
+          "pi": "màn cháng"
+        },
+        {
+          "ch": "艱苦",
+          "en": "arduous",
+          "pi": "jiān kǔ"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": "de"
+        },
+        {
+          "ch": "選戰",
+          "en": "election campaign",
+          "pi": "xuǎn zhàn"
+        }
+      ]
+    },
+    {
+      "chinese": "他為這個他所熱愛的國家所打的仗更久，更艱苦。",
+      "english": "He fought longer and harder for this beloved country.",
+      "pinyin": "tā wèi zhè gè tā suǒ rè ài de guó jiā suǒ dǎ de zhàng gèng jiǔ gèng jiān kǔ。",
+      "words": [
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "為",
+          "en": "for",
+          "pi": "wèi"
+        },
+        {
+          "ch": "這個",
+          "en": "this",
+          "pi": "zhè gè"
+        },
+        {
+          "ch": "他所",
+          "en": "his",
+          "pi": "tā suǒ"
+        },
+        {
+          "ch": "熱愛",
+          "en": "love",
+          "pi": "rè ài"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": "de"
+        },
+        {
+          "ch": "國家",
+          "en": "country",
+          "pi": "guó jiā"
+        },
+        {
+          "ch": "所打",
+          "en": "fought",
+          "pi": "suǒ dǎ"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": "de"
+        },
+        {
+          "ch": "仗",
+          "en": "",
+          "pi": "zhàng"
+        },
+        {
+          "ch": "更久",
+          "en": "longer",
+          "pi": "gèng jiǔ"
+        },
+        {
+          "ch": "更",
+          "en": "and",
+          "pi": "gèng"
+        },
+        {
+          "ch": "艱苦",
+          "en": "harder",
+          "pi": "jiǎn kǔ"
+        }
+      ]
+    },
+    {
+      "chinese": "他為美國的奉獻犧牲，是我們多數同胞難以想像的。",
+      "english": "His dedication and sacrifice for the United States is beyond imagination for most of us.",
+      "pinyin": "tā wèi měi guó de fèng xiàn xī shēng shì wǒ men duō shù tóng bāo nán yǐ xiǎng xiàng de。",
+      "words": [
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "為",
+          "en": "for",
+          "pi": "wèi"
+        },
+        {
+          "ch": "美國",
+          "en": "United States",
+          "pi": "měi guó"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": "de"
+        },
+        {
+          "ch": "奉獻",
+          "en": "dedication",
+          "pi": "fèng xiàn"
+        },
+        {
+          "ch": "犧牲",
+          "en": "sacrifice",
+          "pi": "xī shēng"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "我們",
+          "en": "us",
+          "pi": "wǒ men"
+        },
+        {
+          "ch": "多數",
+          "en": "most",
+          "pi": "duō shù"
+        },
+        {
+          "ch": "同胞",
+          "en": "of us",
+          "pi": "tóng bāo"
+        },
+        {
+          "ch": "難以",
+          "en": "beyond",
+          "pi": "nán yǐ"
+        },
+        {
+          "ch": "想像",
+          "en": "imagination",
+          "pi": "xiǎng xiàng"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": "de"
+        }
+      ]
+    },
+    {
+      "chinese": "因為有他這位勇敢無私的領袖的奉獻，我們才能過比較好的日子。",
+      "english": "Because of his selfless dedication as a brave leader, we are able to live better lives.",
+      "pinyin": "yīn wèi yǒu tā zhè wèi yǒng gǎn wú sī de lǐng xiù de fèng xiàn wǒ men cái néng guò bǐ jiào hǎo de rì zi。",
+      "words": [
+        {
+          "ch": "因為",
+          "en": "Because",
+          "pi": "yīn wèi"
+        },
+        {
+          "ch": "有",
+          "en": "have",
+          "pi": "yǒu"
+        },
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "這位",
+          "en": "this",
+          "pi": "zhè wèi"
+        },
+        {
+          "ch": "勇敢",
+          "en": "brave",
+          "pi": "yǒng gǎn"
+        },
+        {
+          "ch": "無私",
+          "en": "selfless",
+          "pi": "wú sī"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": "de"
+        },
+        {
+          "ch": "領袖",
+          "en": "leader",
+          "pi": "lǐng xiù"
+        },
+        {
+          "ch": "奉獻",
+          "en": "dedication",
+          "pi": "fèng xiàn"
+        },
+        {
+          "ch": "我們",
+          "en": "we",
+          "pi": "wǒ men"
+        },
+        {
+          "ch": "才能",
+          "en": "able to",
+          "pi": "cái néng"
+        },
+        {
+          "ch": "過",
+          "en": "live",
+          "pi": "guò"
+        },
+        {
+          "ch": "比較好",
+          "en": "better",
+          "pi": "bǐ jiào hǎo"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": "de"
+        },
+        {
+          "ch": "日子",
+          "en": "lives",
+          "pi": "rì zi"
+        }
+      ]
+    }
+  ]
+}

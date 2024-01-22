@@ -1,0 +1,32 @@
+{
+  "chinese": "这个苹果是坏的。",
+  "english": "This apple is bad.",
+  "pinyin": "zhè gè píngguǒ shì huài de.",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "苹果",
+      "en": "apple",
+      "pi": "píngguǒ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "坏",
+      "en": "bad",
+      "pi": "huài"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    }
+  ]
+}

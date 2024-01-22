@@ -1,0 +1,47 @@
+{
+  "chinese": "每个人都说我看起来像我爸爸。",
+  "english": "Everyone says I look like my dad.",
+  "pinyin": "měi gè rén dōu shuō wǒ kàn qǐ lái xiàng wǒ bàba。",
+  "words": [
+    {
+      "ch": "每个人",
+      "en": "everyone",
+      "pi": "měi gè rén"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "说",
+      "en": "say",
+      "pi": "shuō"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "看起来",
+      "en": "look like",
+      "pi": "kàn qǐ lái"
+    },
+    {
+      "ch": "像",
+      "en": "like",
+      "pi": "xiàng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "爸爸",
+      "en": "dad",
+      "pi": "bàba"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chinese": "我的朋友在学韩语。",
+  "english": "My friend is learning Korean.",
+  "pinyin": "Wǒ de péngyǒu zài xué hányǔ.",
+  "words": [
+    { "ch": "我的", "en": "my", "pi": "wǒ de" },
+    { "ch": "朋友", "en": "friend", "pi": "péngyǒu" },
+    { "ch": "在", "en": "is", "pi": "zài" },
+    { "ch": "学", "en": "learning", "pi": "xué" },
+    { "ch": "韩语", "en": "Korean", "pi": "hányǔ" }
+  ]
+}

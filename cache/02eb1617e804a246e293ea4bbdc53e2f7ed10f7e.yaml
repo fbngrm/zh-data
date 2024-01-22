@@ -1,0 +1,32 @@
+{
+  "chinese": "我知道他去了伦敦。",
+  "english": "I know he went to London.",
+  "pinyin": "wǒ zhī dào tā qù le lún dūn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "去了",
+      "en": "went",
+      "pi": "qù le"
+    },
+    {
+      "ch": "伦敦",
+      "en": "London",
+      "pi": "lún dūn"
+    }
+  ]
+}

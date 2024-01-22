@@ -1,0 +1,11 @@
+{
+  "chinese": "我们的车走了。",
+  "english": "Our car left.",
+  "pinyin": "wǒmen de chē zǒule.",
+  "words": [
+    { "ch": "我们", "en": "Our", "pi": "wǒmen" },
+    { "ch": "的", "en": "car", "pi": "de" },
+    { "ch": "车", "en": "left", "pi": "chē" },
+    { "ch": "走了", "en": ".", "pi": "zǒule" }
+  ]
+}

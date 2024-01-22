@@ -1,0 +1,11 @@
+{
+  "chinese": "你要唱歌吗？",
+  "english": "Do you want to sing?",
+  "pinyin": "Nǐ yào chàng gē ma?",
+  "words": [
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "要", "en": "want", "pi": "yào" },
+    { "ch": "唱歌", "en": "sing", "pi": "chàng gē" },
+    { "ch": "吗", "en": "question particle", "pi": "ma" }
+  ]
+}

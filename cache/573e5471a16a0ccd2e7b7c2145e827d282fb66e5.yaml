@@ -1,0 +1,16 @@
+The JSON object for the given sentence would look like this:
+
+{
+  "chinese": "伊藤小姐要她的學生們努力學習。",
+  "english": "Miss Ito wants her students to study hard.",
+  "pinyin": "Yītíng xiǎojiě yào tā de xuéshēngmen nǔlì xuéxí.",
+  "words": [
+    {"ch": "伊藤", "en": "Ito", "pi": "Yītíng"},
+    {"ch": "小姐", "en": "Miss", "pi": "xiǎojiě"},
+    {"ch": "要", "en": "wants", "pi": "yào"},
+    {"ch": "她的", "en": "her", "pi": "tā de"},
+    {"ch": "學生們", "en": "students", "pi": "xuéshēngmen"},
+    {"ch": "努力", "en": "to study hard", "pi": "nǔlì"},
+    {"ch": "學習", "en": "to study", "pi": "xuéxí"}
+  ]
+}

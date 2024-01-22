@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆的名字在名单上。",
+  "english": "Tom's name is on the list.",
+  "pinyin": "Tāng mǔ de míngzì zài míngdān shàng.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míngzì"
+    },
+    {
+      "ch": "在",
+      "en": "on",
+      "pi": "zài"
+    },
+    {
+      "ch": "名单",
+      "en": "list",
+      "pi": "míngdān"
+    },
+    {
+      "ch": "上",
+      "en": "above",
+      "pi": "shàng"
+    }
+  ]
+}

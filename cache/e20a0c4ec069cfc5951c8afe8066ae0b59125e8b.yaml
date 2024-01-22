@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆准备好了吗？",
+  "english": "Is Tom ready?",
+  "pinyin": "Tāng mǔ zhǔn bèi hǎo le ma?",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "准备",
+      "en": "ready",
+      "pi": "zhǔn bèi"
+    },
+    {
+      "ch": "好了",
+      "en": "ready",
+      "pi": "hǎo le"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

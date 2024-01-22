@@ -1,0 +1,47 @@
+{
+  "chinese": "哪首是你最喜欢的歌？",
+  "english": "Which song is your favorite?",
+  "pinyin": "nǎ shǒu shì nǐ zuì xǐhuān de gē?",
+  "words": [
+    {
+      "ch": "哪",
+      "en": "which",
+      "pi": "nǎ"
+    },
+    {
+      "ch": "首",
+      "en": "song",
+      "pi": "shǒu"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "你",
+      "en": "your",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "最",
+      "en": "most",
+      "pi": "zuì"
+    },
+    {
+      "ch": "喜欢",
+      "en": "favorite",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "歌",
+      "en": "song",
+      "pi": "gē"
+    }
+  ]
+}

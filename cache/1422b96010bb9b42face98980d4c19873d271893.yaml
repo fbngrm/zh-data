@@ -1,0 +1,32 @@
+{
+  "chinese": "我要在哪里换火车？",
+  "english": "Where can I change the train?",
+  "pinyin": "Wǒ yào zài nǎlǐ huàn huǒchē?",
+  "words": [
+    {
+      "ch": "我要",
+      "en": "I want",
+      "pi": "wǒ yào"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪里",
+      "en": "where",
+      "pi": "nǎlǐ"
+    },
+    {
+      "ch": "换",
+      "en": "change",
+      "pi": "huàn"
+    },
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒchē"
+    }
+  ]
+}

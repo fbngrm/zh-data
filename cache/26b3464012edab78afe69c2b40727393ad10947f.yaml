@@ -1,0 +1,32 @@
+{
+  "chinese": "乔治比我大五岁。",
+  "english": "George is five years older than me.",
+  "pinyin": "Qiáozhì bǐ wǒ dà wǔ suì.",
+  "words": [
+    {
+      "ch": "乔治",
+      "en": "George",
+      "pi": "Qiáozhì"
+    },
+    {
+      "ch": "比",
+      "en": "is",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "大",
+      "en": "older",
+      "pi": "dà"
+    },
+    {
+      "ch": "五岁",
+      "en": "five years",
+      "pi": "wǔ suì"
+    }
+  ]
+}

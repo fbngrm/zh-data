@@ -1,0 +1,13 @@
+{
+  "chinese": "微笑并不一定表示高兴。",
+  "english": "A smile doesn't necessarily mean happiness.",
+  "pinyin": "wēi xiào bìng bù yī dìng biǎo shì gāo xìng。",
+  "words": [
+    {"ch": "微笑", "en": "smile", "pi": "wēi xiào"},
+    {"ch": "并", "en": "not", "pi": "bìng"},
+    {"ch": "不", "en": "necessarily", "pi": "bù"},
+    {"ch": "一定", "en": "mean", "pi": "yī dìng"},
+    {"ch": "表示", "en": "happiness", "pi": "biǎo shì"},
+    {"ch": "高兴", "en": "happy", "pi": "gāo xìng"}
+  ]
+}

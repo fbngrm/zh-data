@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆不喜欢乳酪。",
+  "english": "Tom does not like cheese.",
+  "pinyin": "Tāng mǔ bù xǐhuān rǔlào.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "不",
+      "en": "does not",
+      "pi": "bù"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "乳酪",
+      "en": "cheese",
+      "pi": "rǔlào"
+    }
+  ]
+}

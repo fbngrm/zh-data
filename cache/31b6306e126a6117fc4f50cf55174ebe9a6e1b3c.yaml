@@ -1,0 +1,15 @@
+{
+  "chinese": "我父母去机场送我叔叔了。",
+  "english": "My parents went to the airport to send my uncle.",
+  "pinyin": "wǒ fù mǔ qù jī chǎng sòng wǒ shū shu le.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "父母", "en": "parents", "pi": "fù mǔ"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "机场", "en": "airport", "pi": "jī chǎng"},
+    {"ch": "送", "en": "send", "pi": "sòng"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "叔叔", "en": "uncle", "pi": "shū shu"},
+    {"ch": "了", "en": "already", "pi": "le"}
+  ]
+}

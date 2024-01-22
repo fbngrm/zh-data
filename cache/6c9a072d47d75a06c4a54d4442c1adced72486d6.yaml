@@ -1,0 +1,42 @@
+{
+  "chinese": "我可以借这张ＣＤ吗？",
+  "english": "Can I borrow this CD?",
+  "pinyin": "wǒ kěyǐ jiè zhè zhāng CD ma?",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kěyǐ"
+    },
+    {
+      "ch": "借",
+      "en": "borrow",
+      "pi": "jiè"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "张",
+      "en": "measure word",
+      "pi": "zhāng"
+    },
+    {
+      "ch": "ＣＤ",
+      "en": "CD",
+      "pi": "CD"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

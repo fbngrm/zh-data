@@ -1,0 +1,27 @@
+{
+  "chinese": "你今早有沒有吃早餐？",
+  "english": "Did you have breakfast this morning?",
+  "pinyin": "nǐ jīn zǎo yǒu méi yǒu chī zǎo cān?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "今早",
+      "en": "this morning",
+      "pi": "jīn zǎo"
+    },
+    {
+      "ch": "有沒有",
+      "en": "did or didn't",
+      "pi": "yǒu méi yǒu"
+    },
+    {
+      "ch": "吃早餐",
+      "en": "have breakfast",
+      "pi": "chī zǎo cān"
+    }
+  ]
+}

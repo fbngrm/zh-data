@@ -1,0 +1,22 @@
+{
+  "chinese": "他看得懂中文。",
+  "english": "He understands Chinese.",
+  "pinyin": "tā kàn dé dǒng zhōng wén.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "看得懂",
+      "en": "understands",
+      "pi": "kàn dé dǒng"
+    },
+    {
+      "ch": "中文",
+      "en": "Chinese",
+      "pi": "zhōng wén"
+    }
+  ]
+}

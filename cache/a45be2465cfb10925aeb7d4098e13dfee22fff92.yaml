@@ -1,0 +1,37 @@
+{
+  "chinese": "他比我高一个头。",
+  "english": "He is taller than me by a head.",
+  "pinyin": "tā bǐ wǒ gāo yī gè tóu。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "高",
+      "en": "taller",
+      "pi": "gāo"
+    },
+    {
+      "ch": "一个",
+      "en": "by",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "头",
+      "en": "a head",
+      "pi": "tóu"
+    }
+  ]
+}

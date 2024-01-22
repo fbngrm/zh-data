@@ -1,0 +1,17 @@
+{
+  "chinese": "我们队是这次乒乓球比赛得标的热门队。",
+  "english": "Our team is the hot favorite to win the ping pong competition.",
+  "pinyin": "wǒ men duì shì zhè cì pīng pāng qiú bǐ sài dé biāo de rè mén duì。",
+  "words": [
+    {"ch": "我们", "en": "Our", "pi": "wǒ men"},
+    {"ch": "队", "en": "team", "pi": "duì"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "这次", "en": "this", "pi": "zhè cì"},
+    {"ch": "乒乓球", "en": "ping pong", "pi": "pīng pāng qiú"},
+    {"ch": "比赛", "en": "competition", "pi": "bǐ sài"},
+    {"ch": "得标", "en": "to win", "pi": "dé biāo"},
+    {"ch": "的", "en": "the", "pi": "de"},
+    {"ch": "热门", "en": "hot", "pi": "rè mén"},
+    {"ch": "队", "en": "favorite", "pi": "duì"}
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chinese": "他曾經是一個富有想像力的男孩。",
+  "english": "He used to be an imaginative boy.",
+  "pinyin": "tā céngjīng shì yīgè fùyǒu xiǎngxiànglì de nánhái。",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "曾經", "en": "used to", "pi": "céngjīng"},
+    {"ch": "是", "en": "be", "pi": "shì"},
+    {"ch": "一個", "en": "a", "pi": "yīgè"},
+    {"ch": "富有", "en": "rich", "pi": "fùyǒu"},
+    {"ch": "想像力", "en": "imagination", "pi": "xiǎngxiànglì"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "男孩", "en": "boy", "pi": "nánhái"}
+  ]
+}

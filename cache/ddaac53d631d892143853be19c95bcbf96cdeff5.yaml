@@ -1,0 +1,32 @@
+{
+  "chinese": "十减二等如八。",
+  "english": "Ten minus two equals eight.",
+  "pinyin": "shí jiǎn èr děng rú bā.",
+  "words": [
+    {
+      "ch": "十",
+      "en": "ten",
+      "pi": "shí"
+    },
+    {
+      "ch": "减",
+      "en": "minus",
+      "pi": "jiǎn"
+    },
+    {
+      "ch": "二",
+      "en": "two",
+      "pi": "èr"
+    },
+    {
+      "ch": "等如",
+      "en": "equals",
+      "pi": "děng rú"
+    },
+    {
+      "ch": "八",
+      "en": "eight",
+      "pi": "bā"
+    }
+  ]
+}

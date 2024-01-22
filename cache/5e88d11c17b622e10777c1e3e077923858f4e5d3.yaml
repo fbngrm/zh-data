@@ -1,0 +1,32 @@
+{
+  "chinese": "不，我不是！你才是！",
+  "english": "No, I'm not! You are!",
+  "pinyin": "Bù, wǒ bú shì! Nǐ cái shì!",
+  "words": [
+    {
+      "ch": "不",
+      "en": "No",
+      "pi": "bù"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不是",
+      "en": "am not",
+      "pi": "bú shì"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "才是",
+      "en": "are",
+      "pi": "cái shì"
+    }
+  ]
+}

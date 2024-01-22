@@ -1,0 +1,12 @@
+{
+  "chinese": "这些火车每三分钟发车。",
+  "english": "These trains depart every three minutes.",
+  "pinyin": "zhè xiē huǒ chē měi sān fēn zhōng fā chē。",
+  "words": [
+    {"ch": "这些", "en": "These", "pi": "zhè xiē"},
+    {"ch": "火车", "en": "trains", "pi": "huǒ chē"},
+    {"ch": "每", "en": "every", "pi": "měi"},
+    {"ch": "三分钟", "en": "three minutes", "pi": "sān fēn zhōng"},
+    {"ch": "发车", "en": "depart", "pi": "fā chē"}
+  ]
+}

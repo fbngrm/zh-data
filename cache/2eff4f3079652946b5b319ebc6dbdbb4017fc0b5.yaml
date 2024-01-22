@@ -1,0 +1,32 @@
+{
+  "chinese": "我的钱包被偷了。",
+  "english": "My wallet was stolen.",
+  "pinyin": "Wǒ de qiánbāo bèi tōu le.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "My",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "钱包",
+      "en": "wallet",
+      "pi": "qiánbāo"
+    },
+    {
+      "ch": "被",
+      "en": "was",
+      "pi": "bèi"
+    },
+    {
+      "ch": "偷",
+      "en": "stolen",
+      "pi": "tōu"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

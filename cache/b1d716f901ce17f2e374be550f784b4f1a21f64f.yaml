@@ -1,0 +1,14 @@
+{
+  "chinese": "刹车的功能是使车停下。",
+  "english": "The function of the brakes is to make the car stop.",
+  "pinyin": "shā chē de gōng néng shì shǐ chē tíng xià。",
+  "words": [
+    { "ch": "刹车", "en": "brakes", "pi": "shā chē" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "功能", "en": "function", "pi": "gōng néng" },
+    { "ch": "是", "en": "is", "pi": "shì" },
+    { "ch": "使", "en": "to make", "pi": "shǐ" },
+    { "ch": "车", "en": "car", "pi": "chē" },
+    { "ch": "停下", "en": "stop", "pi": "tíng xià" }
+  ]
+}

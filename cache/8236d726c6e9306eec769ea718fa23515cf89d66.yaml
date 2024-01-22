@@ -1,0 +1,11 @@
+{
+  "chinese": "汤姆是我的远亲。",
+  "english": "Tom is my distant relative.",
+  "pinyin": "Tāng mǔ shì wǒ de yuǎn qīn.",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "远亲", "en": "distant relative", "pi": "yuǎn qīn"}
+  ]
+}

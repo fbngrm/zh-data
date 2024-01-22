@@ -1,0 +1,32 @@
+{
+  "chinese": "他在大学读经济学。",
+  "english": "He is studying economics at university.",
+  "pinyin": "tā zài dàxué dú jīngjìxué.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "大学",
+      "en": "university",
+      "pi": "dàxué"
+    },
+    {
+      "ch": "读",
+      "en": "studying",
+      "pi": "dú"
+    },
+    {
+      "ch": "经济学",
+      "en": "economics",
+      "pi": "jīngjìxué"
+    }
+  ]
+}

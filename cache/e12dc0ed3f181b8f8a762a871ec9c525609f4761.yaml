@@ -1,0 +1,32 @@
+{
+  "chinese": "她爱汤姆，而不是我。",
+  "english": "She loves Tom, not me.",
+  "pinyin": "Tā ài Tāng mǔ, ér bùshì wǒ.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "爱",
+      "en": "loves",
+      "pi": "ài"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "而",
+      "en": "not",
+      "pi": "ér"
+    },
+    {
+      "ch": "不是",
+      "en": "me",
+      "pi": "bùshì wǒ"
+    }
+  ]
+}

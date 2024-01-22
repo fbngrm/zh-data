@@ -1,0 +1,13 @@
+{
+  "chinese": "现在太暗无法打棒球。",
+  "english": "It is too dark to play baseball now.",
+  "pinyin": "xiàn zài tài àn wú fǎ dǎ bàng qiú。",
+  "words": [
+    {"ch": "现在", "en": "now", "pi": "xiàn zài"},
+    {"ch": "太", "en": "too", "pi": "tài"},
+    {"ch": "暗", "en": "dark", "pi": "àn"},
+    {"ch": "无法", "en": "unable to", "pi": "wú fǎ"},
+    {"ch": "打", "en": "to play", "pi": "dǎ"},
+    {"ch": "棒球", "en": "baseball", "pi": "bàng qiú"}
+  ]
+}

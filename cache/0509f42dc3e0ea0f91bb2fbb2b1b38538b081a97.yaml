@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "chinese": "喝咖啡吧。",
+      "english": "Let's drink coffee.",
+      "pinyin": "hē kāfēi ba.",
+      "words": [
+        {
+          "ch": "喝",
+          "en": "drink",
+          "pi": "hē"
+        },
+        {
+          "ch": "咖啡",
+          "en": "coffee",
+          "pi": "kāfēi"
+        },
+        {
+          "ch": "吧",
+          "en": "let's",
+          "pi": "ba"
+        }
+      ]
+    },
+    {
+      "chinese": "我觉得很好喝。",
+      "english": "I think it's very delicious.",
+      "pinyin": "wǒ juéde hěn hǎo hē.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "觉得",
+          "en": "think",
+          "pi": "juéde"
+        },
+        {
+          "ch": "很",
+          "en": "very",
+          "pi": "hěn"
+        },
+        {
+          "ch": "好喝",
+          "en": "delicious",
+          "pi": "hǎo hē"
+        }
+      ]
+    }
+  ]
+}

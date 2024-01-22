@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆给我发了一条有趣的短信。",
+  "english": "Tom sent me an interesting message.",
+  "pinyin": "tāng mǔ gěi wǒ fā le yī tiáo yǒu qù de duǎn xìn。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "给",
+      "en": "sent",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "发了",
+      "en": "sent",
+      "pi": "fā le"
+    },
+    {
+      "ch": "一条",
+      "en": "a",
+      "pi": "yī tiáo"
+    },
+    {
+      "ch": "有趣的",
+      "en": "interesting",
+      "pi": "yǒu qù de"
+    },
+    {
+      "ch": "短信",
+      "en": "message",
+      "pi": "duǎn xìn"
+    }
+  ]
+}

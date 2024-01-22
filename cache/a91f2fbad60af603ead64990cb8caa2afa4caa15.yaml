@@ -1,0 +1,13 @@
+{
+  "chinese": "请告诉我巴士站在哪里。",
+  "english": "Please tell me where the bus station is.",
+  "pinyin": "qǐng gào sù wǒ bā shì zhàn zài nǎ lǐ。",
+  "words": [
+    { "ch": "请", "en": "Please", "pi": "qǐng" },
+    { "ch": "告诉", "en": "tell", "pi": "gào sù" },
+    { "ch": "我", "en": "me", "pi": "wǒ" },
+    { "ch": "巴士站", "en": "bus station", "pi": "bā shì zhàn" },
+    { "ch": "在", "en": "is", "pi": "zài" },
+    { "ch": "哪里", "en": "where", "pi": "nǎ lǐ" }
+  ]
+}

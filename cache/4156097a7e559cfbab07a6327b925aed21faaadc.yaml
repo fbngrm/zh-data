@@ -1,0 +1,37 @@
+{
+  "chinese": "那只鸟叫什么名字？",
+  "english": "What is the name of that bird?",
+  "pinyin": "Nà zhī niǎo jiào shénme míngzì?",
+  "words": [
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "只",
+      "en": "measure word for birds",
+      "pi": "zhī"
+    },
+    {
+      "ch": "鸟",
+      "en": "bird",
+      "pi": "niǎo"
+    },
+    {
+      "ch": "叫",
+      "en": "to call",
+      "pi": "jiào"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míngzì"
+    }
+  ]
+}

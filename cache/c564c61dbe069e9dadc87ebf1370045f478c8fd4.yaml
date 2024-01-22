@@ -1,0 +1,15 @@
+{
+  "chinese": "先生，我可以看看你的驾驶执照吗？",
+  "english": "Sir, may I see your driver's license?",
+  "pinyin": "Xiānshēng, wǒ kěyǐ kànkan nǐ de jiàshǐ zhízhào ma?",
+  "words": [
+    { "ch": "先生", "en": "Sir", "pi": "xiānshēng" },
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "可以", "en": "may", "pi": "kěyǐ" },
+    { "ch": "看看", "en": "see", "pi": "kànkan" },
+    { "ch": "你的", "en": "your", "pi": "nǐ de" },
+    { "ch": "驾驶", "en": "driver's", "pi": "jiàshǐ" },
+    { "ch": "执照", "en": "license", "pi": "zhízhào" },
+    { "ch": "吗", "en": "?" }
+  ]
+}

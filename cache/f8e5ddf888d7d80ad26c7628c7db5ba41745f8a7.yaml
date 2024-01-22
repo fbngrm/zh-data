@@ -1,0 +1,73 @@
+{
+  "sentences": [
+    {
+      "chinese": "我已经变了。",
+      "english": "I have changed.",
+      "pinyin": "Wǒ yǐjīng biànle。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "Wǒ"
+        },
+        {
+          "ch": "已经",
+          "en": "have",
+          "pi": "yǐjīng"
+        },
+        {
+          "ch": "变了",
+          "en": "changed",
+          "pi": "biànle"
+        }
+      ]
+    },
+    {
+      "chinese": "我不再是原来的那个我了。",
+      "english": "I am no longer the same person as before.",
+      "pinyin": "Wǒ bù zài shì yuánlái de nàge wǒle。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "Wǒ"
+        },
+        {
+          "ch": "不再",
+          "en": "no longer",
+          "pi": "bù zài"
+        },
+        {
+          "ch": "是",
+          "en": "am",
+          "pi": "shì"
+        },
+        {
+          "ch": "原来",
+          "en": "before",
+          "pi": "yuánlái"
+        },
+        {
+          "ch": "的",
+          "en": "the",
+          "pi": "de"
+        },
+        {
+          "ch": "那个",
+          "en": "same",
+          "pi": "nàge"
+        },
+        {
+          "ch": "我",
+          "en": "person",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        }
+      ]
+    }
+  ]
+}

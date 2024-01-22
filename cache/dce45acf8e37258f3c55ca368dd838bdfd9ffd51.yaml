@@ -1,0 +1,32 @@
+{
+  "chinese": "明天会不会又很热？",
+  "english": "Will it be hot again tomorrow?",
+  "pinyin": "míng tiān huì bú huì yòu hěn rè?",
+  "words": [
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míng tiān"
+    },
+    {
+      "ch": "会不会",
+      "en": "will it",
+      "pi": "huì bú huì"
+    },
+    {
+      "ch": "又",
+      "en": "again",
+      "pi": "yòu"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "热",
+      "en": "hot",
+      "pi": "rè"
+    }
+  ]
+}

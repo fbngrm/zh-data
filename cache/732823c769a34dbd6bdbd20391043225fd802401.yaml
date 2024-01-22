@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆老得不能工作了。",
+  "english": "Tom is too old to work.",
+  "pinyin": "tāng mǔ lǎo dé bù néng gōng zuò le.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "老得",
+      "en": "too old",
+      "pi": "lǎo dé"
+    },
+    {
+      "ch": "不能",
+      "en": "cannot",
+      "pi": "bù néng"
+    },
+    {
+      "ch": "工作",
+      "en": "work",
+      "pi": "gōng zuò"
+    },
+    {
+      "ch": "了",
+      "en": "anymore",
+      "pi": "le"
+    }
+  ]
+}

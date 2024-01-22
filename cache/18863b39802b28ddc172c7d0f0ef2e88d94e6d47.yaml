@@ -1,0 +1,47 @@
+{
+  "chinese": "这条裙子就是玛丽昨天买的那条",
+  "english": "This is the skirt that Mary bought yesterday.",
+  "pinyin": "zhè tiáo qún zi jiù shì mǎ lì zuó tiān mǎi de nà tiáo",
+  "words": [
+    {
+      "ch": "这条",
+      "en": "This",
+      "pi": "zhè tiáo"
+    },
+    {
+      "ch": "裙子",
+      "en": "skirt",
+      "pi": "qún zi"
+    },
+    {
+      "ch": "就是",
+      "en": "is",
+      "pi": "jiù shì"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "买",
+      "en": "bought",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "的",
+      "en": "the",
+      "pi": "de"
+    },
+    {
+      "ch": "那条",
+      "en": "that",
+      "pi": "nà tiáo"
+    }
+  ]
+}

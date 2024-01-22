@@ -1,0 +1,15 @@
+{
+  "chinese": "我給你買點東西喝吧。",
+  "english": "I'll buy you something to drink.",
+  "pinyin": "wǒ gěi nǐ mǎi diǎn dōngxi hē ba.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "給", "en": "give", "pi": "gěi"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "買", "en": "buy", "pi": "mǎi"},
+    {"ch": "點", "en": "something", "pi": "diǎn"},
+    {"ch": "東西", "en": "thing", "pi": "dōngxi"},
+    {"ch": "喝", "en": "drink", "pi": "hē"},
+    {"ch": "吧", "en": "particle indicating suggestion or mild command", "pi": "ba"}
+  ]
+}

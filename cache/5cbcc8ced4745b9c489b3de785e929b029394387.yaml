@@ -1,0 +1,32 @@
+{
+  "chinese": "我不明白这句话。",
+  "english": "I don't understand this sentence.",
+  "pinyin": "wǒ bù míngbái zhè jù huà.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "明白",
+      "en": "understand",
+      "pi": "míngbái"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "句话",
+      "en": "sentence",
+      "pi": "jù huà"
+    }
+  ]
+}

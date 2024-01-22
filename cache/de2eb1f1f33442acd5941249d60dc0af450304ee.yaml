@@ -1,0 +1,32 @@
+{
+  "chinese": "那苹果从树上掉下来。",
+  "english": "The apple falls from the tree.",
+  "pinyin": "nà píngguǒ cóng shù shàng diào xiàlai.",
+  "words": [
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "苹果",
+      "en": "apple",
+      "pi": "píngguǒ"
+    },
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "树上",
+      "en": "the tree",
+      "pi": "shù shàng"
+    },
+    {
+      "ch": "掉下来",
+      "en": "falls",
+      "pi": "diào xiàlai"
+    }
+  ]
+}

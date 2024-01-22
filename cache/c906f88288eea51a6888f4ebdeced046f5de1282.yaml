@@ -1,0 +1,32 @@
+{
+  "chinese": "他点了一杯啤酒。",
+  "english": "He ordered a glass of beer.",
+  "pinyin": "tā diǎn le yī bēi pí jiǔ.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "点了",
+      "en": "ordered",
+      "pi": "diǎn le"
+    },
+    {
+      "ch": "一",
+      "en": "a",
+      "pi": "yī"
+    },
+    {
+      "ch": "杯",
+      "en": "glass",
+      "pi": "bēi"
+    },
+    {
+      "ch": "啤酒",
+      "en": "beer",
+      "pi": "pí jiǔ"
+    }
+  ]
+}

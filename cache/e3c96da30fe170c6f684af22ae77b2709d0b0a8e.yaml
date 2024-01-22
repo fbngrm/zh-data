@@ -1,0 +1,27 @@
+{
+  "chinese": "Bob是我朋友。",
+  "english": "Bob is my friend.",
+  "pinyin": "Bō shì wǒ péngyǒu.",
+  "words": [
+    {
+      "ch": "Bob",
+      "en": "Bob",
+      "pi": "Bō"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我",
+      "en": "my",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "朋友",
+      "en": "friend",
+      "pi": "péngyǒu"
+    }
+  ]
+}

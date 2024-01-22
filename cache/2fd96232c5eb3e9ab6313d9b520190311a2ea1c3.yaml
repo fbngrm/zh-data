@@ -1,0 +1,37 @@
+{
+  "chinese": "除了我以外，大家都很忙。",
+  "english": "Everyone is busy except me.",
+  "pinyin": "chúle wǒ yǐwài, dàjiā dōu hěn máng.",
+  "words": [
+    {
+      "ch": "除了",
+      "en": "except",
+      "pi": "chúle"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "以外",
+      "en": "except",
+      "pi": "yǐwài"
+    },
+    {
+      "ch": "大家",
+      "en": "everyone",
+      "pi": "dàjiā"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "很忙",
+      "en": "busy",
+      "pi": "hěn máng"
+    }
+  ]
+}

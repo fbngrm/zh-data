@@ -1,0 +1,57 @@
+{
+  "chinese": "这只猫比我更喜欢坐在椅子上。",
+  "english": "This cat likes to sit on chairs more than I do.",
+  "pinyin": "zhè zhī māo bǐ wǒ gèng xǐhuān zuò zài yǐzi shàng。",
+  "words": [
+    {
+      "ch": "这只",
+      "en": "this",
+      "pi": "zhè zhī"
+    },
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "更",
+      "en": "more",
+      "pi": "gèng"
+    },
+    {
+      "ch": "喜欢",
+      "en": "likes",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "坐",
+      "en": "to sit",
+      "pi": "zuò"
+    },
+    {
+      "ch": "在",
+      "en": "on",
+      "pi": "zài"
+    },
+    {
+      "ch": "椅子",
+      "en": "chairs",
+      "pi": "yǐzi"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    }
+  ]
+}

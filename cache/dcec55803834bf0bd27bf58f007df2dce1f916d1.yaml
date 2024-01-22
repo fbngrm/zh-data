@@ -1,0 +1,37 @@
+{
+  "chinese": "他经由巴黎去了伦敦。",
+  "english": "He went to London via Paris.",
+  "pinyin": "tā jīng yóu bā lí qù le lún dūn.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "经由",
+      "en": "via",
+      "pi": "jīng yóu"
+    },
+    {
+      "ch": "巴黎",
+      "en": "Paris",
+      "pi": "bā lí"
+    },
+    {
+      "ch": "去",
+      "en": "to",
+      "pi": "qù"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "伦敦",
+      "en": "London",
+      "pi": "lún dūn"
+    }
+  ]
+}

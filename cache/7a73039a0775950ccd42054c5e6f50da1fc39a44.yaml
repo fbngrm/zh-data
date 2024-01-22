@@ -1,0 +1,32 @@
+{
+  "chinese": "我们喝了一点水。",
+  "english": "We drank a little water.",
+  "pinyin": "wǒmen hē le yīdiǎn shuǐ。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "喝",
+      "en": "drank",
+      "pi": "hē"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "一点",
+      "en": "a little",
+      "pi": "yīdiǎn"
+    },
+    {
+      "ch": "水",
+      "en": "water",
+      "pi": "shuǐ"
+    }
+  ]
+}

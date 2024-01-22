@@ -1,0 +1,32 @@
+{
+  "chinese": "今天下午天气会变差。",
+  "english": "The weather will deteriorate this afternoon.",
+  "pinyin": "jīn tiān xià wǔ tiān qì huì biàn chà。",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "下午",
+      "en": "afternoon",
+      "pi": "xià wǔ"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiān qì"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "变差",
+      "en": "deteriorate",
+      "pi": "biàn chà"
+    }
+  ]
+}

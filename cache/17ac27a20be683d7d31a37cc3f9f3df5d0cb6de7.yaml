@@ -1,0 +1,32 @@
+{
+    "chinese": "這個孩子不再哭了。",
+    "english": "This child is no longer crying.",
+    "pinyin": "zhè ge hái zi bù zài kū le.",
+    "words": [
+        {
+            "ch": "這個",
+            "en": "this",
+            "pi": "zhè ge"
+        },
+        {
+            "ch": "孩子",
+            "en": "child",
+            "pi": "hái zi"
+        },
+        {
+            "ch": "不再",
+            "en": "no longer",
+            "pi": "bù zài"
+        },
+        {
+            "ch": "哭",
+            "en": "crying",
+            "pi": "kū"
+        },
+        {
+            "ch": "了",
+            "en": "",
+            "pi": "le"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "我的母語是日本語。",
+  "english": "My native language is Japanese.",
+  "pinyin": "wǒ de mǔyǔ shì rìběnyǔ。",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "My",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "母語",
+      "en": "native language",
+      "pi": "mǔyǔ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "日本語",
+      "en": "Japanese",
+      "pi": "rìběnyǔ"
+    }
+  ]
+}

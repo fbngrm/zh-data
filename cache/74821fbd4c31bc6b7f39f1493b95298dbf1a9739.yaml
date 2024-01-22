@@ -1,0 +1,12 @@
+{
+  "chinese": "早起的鸟儿有虫吃。",
+  "english": "The early bird catches the worm.",
+  "pinyin": "zǎo qǐ de niǎo er yǒu chóng chī。",
+  "words": [
+    { "ch": "早起", "en": "early rising", "pi": "zǎo qǐ" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "鸟儿", "en": "bird", "pi": "niǎo er" },
+    { "ch": "有", "en": "has", "pi": "yǒu" },
+    { "ch": "虫吃", "en": "eats worms", "pi": "chóng chī" }
+  ]
+}

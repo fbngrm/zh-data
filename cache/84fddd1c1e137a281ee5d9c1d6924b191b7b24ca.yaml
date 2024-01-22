@@ -1,0 +1,37 @@
+{
+  "chinese": "您的手机号码是多少？",
+  "english": "What is your phone number?",
+  "pinyin": "Nín de shǒujī hàomǎ shì duōshǎo?",
+  "words": [
+    {
+      "ch": "您",
+      "en": "you",
+      "pi": "nín"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "手机号码",
+      "en": "phone number",
+      "pi": "shǒujī hàomǎ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "多少",
+      "en": "how many",
+      "pi": "duōshǎo"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "?"
+    }
+  ]
+}

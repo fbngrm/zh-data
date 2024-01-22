@@ -1,0 +1,37 @@
+{
+  "chinese": "请把桌子向左移。",
+  "english": "Please move the table to the left.",
+  "pinyin": "qǐng bǎ zhuōzi xiàng zuǒ yí.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "把",
+      "en": "move",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "桌子",
+      "en": "table",
+      "pi": "zhuōzi"
+    },
+    {
+      "ch": "向",
+      "en": "to",
+      "pi": "xiàng"
+    },
+    {
+      "ch": "左",
+      "en": "left",
+      "pi": "zuǒ"
+    },
+    {
+      "ch": "移",
+      "en": "move",
+      "pi": "yí"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我想要一杯柳橙汁。",
+  "english": "I want a glass of orange juice.",
+  "pinyin": "wǒ xiǎng yào yì bēi liǔ chéng zhī。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想要",
+      "en": "want",
+      "pi": "xiǎng yào"
+    },
+    {
+      "ch": "一",
+      "en": "a",
+      "pi": "yì"
+    },
+    {
+      "ch": "杯",
+      "en": "glass",
+      "pi": "bēi"
+    },
+    {
+      "ch": "柳橙汁",
+      "en": "orange juice",
+      "pi": "liǔ chéng zhī"
+    }
+  ]
+}

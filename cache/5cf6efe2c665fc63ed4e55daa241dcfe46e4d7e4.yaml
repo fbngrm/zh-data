@@ -1,0 +1,32 @@
+{
+  "chinese": "猫是很可爱的。",
+  "english": "Cats are very cute.",
+  "pinyin": "māo shì hěn kě ài de.",
+  "words": [
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "可爱",
+      "en": "cute",
+      "pi": "kě ài"
+    },
+    {
+      "ch": "的",
+      "en": "particle to form an adjective",
+      "pi": "de"
+    }
+  ]
+}

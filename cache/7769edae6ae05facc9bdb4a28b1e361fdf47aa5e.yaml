@@ -1,0 +1,42 @@
+{
+  "chinese": "在我的桌上有一本书。",
+  "english": "There is a book on my desk.",
+  "pinyin": "zài wǒ de zhuō shàng yǒu yī běn shū。",
+  "words": [
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "桌上",
+      "en": "on the desk",
+      "pi": "zhuō shàng"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一",
+      "en": "one",
+      "pi": "yī"
+    },
+    {
+      "ch": "本",
+      "en": "measure word for books",
+      "pi": "běn"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    }
+  ]
+}

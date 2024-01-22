@@ -1,0 +1,47 @@
+{
+  "chinese": "汤姆给玛丽画了大象的素描。",
+  "english": "Tom drew a sketch of an elephant for Mary.",
+  "pinyin": "Tāng mǔ gěi mǎ lì huà le dà xiàng de sù miáo.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "给",
+      "en": "gave",
+      "pi": "gěi"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "画",
+      "en": "drew",
+      "pi": "huà"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "大象",
+      "en": "elephant",
+      "pi": "dà xiàng"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "素描",
+      "en": "sketch",
+      "pi": "sù miáo"
+    }
+  ]
+}

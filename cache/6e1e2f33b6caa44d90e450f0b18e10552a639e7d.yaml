@@ -1,0 +1,27 @@
+{
+  "chinese": "会议在五点钟结束。",
+  "english": "The meeting will end at five o'clock.",
+  "pinyin": "huì yì zài wǔ diǎn zhōng jié shù。",
+  "words": [
+    {
+      "ch": "会议",
+      "en": "meeting",
+      "pi": "huì yì"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "五点钟",
+      "en": "five o'clock",
+      "pi": "wǔ diǎn zhōng"
+    },
+    {
+      "ch": "结束",
+      "en": "end",
+      "pi": "jié shù"
+    }
+  ]
+}

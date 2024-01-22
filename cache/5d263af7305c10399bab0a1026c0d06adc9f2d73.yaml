@@ -1,0 +1,12 @@
+{
+  "chinese": "他会说五国语言。",
+  "english": "He can speak five languages.",
+  "pinyin": "tā huì shuō wǔ guó yǔyán.",
+  "words": [
+    { "ch": "他", "en": "He", "pi": "tā" },
+    { "ch": "会", "en": "can", "pi": "huì" },
+    { "ch": "说", "en": "speak", "pi": "shuō" },
+    { "ch": "五国", "en": "five", "pi": "wǔ guó" },
+    { "ch": "语言", "en": "languages", "pi": "yǔyán" }
+  ]
+}

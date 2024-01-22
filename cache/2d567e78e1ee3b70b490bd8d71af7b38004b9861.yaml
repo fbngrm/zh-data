@@ -1,0 +1,27 @@
+{
+  "chinese": "我喜欢听收音机。",
+  "english": "I like to listen to the radio.",
+  "pinyin": "wǒ xǐ huān tīng shōu yīn jī。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐ huān"
+    },
+    {
+      "ch": "听",
+      "en": "to listen",
+      "pi": "tīng"
+    },
+    {
+      "ch": "收音机",
+      "en": "radio",
+      "pi": "shōu yīn jī"
+    }
+  ]
+}

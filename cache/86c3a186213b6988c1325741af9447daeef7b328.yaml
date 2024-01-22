@@ -1,0 +1,32 @@
+{
+  "chinese": "我能休息一会儿吗？",
+  "english": "Can I take a break for a while?",
+  "pinyin": "wǒ néng xiūxí yīhuǐ'er ma?",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "休息",
+      "en": "rest",
+      "pi": "xiūxí"
+    },
+    {
+      "ch": "一会儿",
+      "en": "for a while",
+      "pi": "yīhuǐ'er"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

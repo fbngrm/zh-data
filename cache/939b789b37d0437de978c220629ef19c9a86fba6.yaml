@@ -1,0 +1,13 @@
+{
+  "chinese": "我弄丢了我的笔。",
+  "english": "I lost my pen.",
+  "pinyin": "wǒ nòng diū le wǒ de bǐ.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "弄", "en": "lost", "pi": "nòng"},
+    {"ch": "丢", "en": "lose", "pi": "diū"},
+    {"ch": "了", "en": "past tense particle", "pi": "le"},
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "笔", "en": "pen", "pi": "bǐ"}
+  ]
+}

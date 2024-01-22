@@ -1,0 +1,42 @@
+{
+  "chinese": "你新书的书名是什么？",
+  "english": "What is the title of your new book?",
+  "pinyin": "Nǐ xīnshū de shūmíng shì shénme?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "新书",
+      "en": "new book",
+      "pi": "xīnshū"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "书名",
+      "en": "title",
+      "pi": "shūmíng"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "?"
+    }
+  ]
+}

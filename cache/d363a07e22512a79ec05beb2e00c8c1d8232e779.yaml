@@ -1,0 +1,12 @@
+{
+  "chinese": "公车晚了十分钟。",
+  "english": "The bus is ten minutes late.",
+  "pinyin": "gōngchē wǎn le shí fēnzhōng。",
+  "words": [
+    {"ch": "公车", "en": "bus", "pi": "gōngchē"},
+    {"ch": "晚", "en": "late", "pi": "wǎn"},
+    {"ch": "了", "en": "is", "pi": "le"},
+    {"ch": "十", "en": "ten", "pi": "shí"},
+    {"ch": "分钟", "en": "minutes", "pi": "fēnzhōng"}
+  ]
+}

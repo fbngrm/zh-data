@@ -1,0 +1,32 @@
+{
+  "chinese": "我不看他的小说。",
+  "english": "I don't read his novel.",
+  "pinyin": "wǒ bù kàn tā de xiǎo shuō。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "看",
+      "en": "read",
+      "pi": "kàn"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "小说",
+      "en": "novel",
+      "pi": "xiǎo shuō"
+    }
+  ]
+}

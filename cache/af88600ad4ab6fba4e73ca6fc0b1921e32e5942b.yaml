@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "chinese": "这些是谁的裤子？",
+      "english": "Whose pants are these?",
+      "pinyin": "zhè xiē shì shéi de kù zi?",
+      "words": [
+        {
+          "ch": "这些",
+          "en": "these",
+          "pi": "zhè xiē"
+        },
+        {
+          "ch": "是",
+          "en": "are",
+          "pi": "shì"
+        },
+        {
+          "ch": "谁的",
+          "en": "whose",
+          "pi": "shéi de"
+        },
+        {
+          "ch": "裤子",
+          "en": "pants",
+          "pi": "kù zi"
+        }
+      ]
+    },
+    {
+      "chinese": "它们是肯的.",
+      "english": "They are Ken's.",
+      "pinyin": "tā men shì kěn de.",
+      "words": [
+        {
+          "ch": "它们",
+          "en": "They",
+          "pi": "tā men"
+        },
+        {
+          "ch": "是",
+          "en": "are",
+          "pi": "shì"
+        },
+        {
+          "ch": "肯的",
+          "en": "Ken's",
+          "pi": "kěn de"
+        }
+      ]
+    }
+  ]
+}

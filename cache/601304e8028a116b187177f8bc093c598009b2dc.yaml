@@ -1,0 +1,37 @@
+{
+  "chinese": "把这句句子翻成英语。",
+  "english": "Translate this sentence into English.",
+  "pinyin": "bǎ zhè jù jùzi fān chéng yīngyǔ.",
+  "words": [
+    {
+      "ch": "把",
+      "en": "Translate",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "句",
+      "en": "sentence",
+      "pi": "jù"
+    },
+    {
+      "ch": "句子",
+      "en": "sentence",
+      "pi": "jùzi"
+    },
+    {
+      "ch": "翻成",
+      "en": "into",
+      "pi": "fān chéng"
+    },
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīngyǔ"
+    }
+  ]
+}

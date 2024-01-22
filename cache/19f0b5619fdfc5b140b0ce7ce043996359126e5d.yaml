@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆给一家美国公司干活。",
+  "english": "Tom is working for an American company.",
+  "pinyin": "tāng mǔ gěi yī jiā měi guó gōng sī gàn huó.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "给",
+      "en": "to give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "一家",
+      "en": "a",
+      "pi": "yī jiā"
+    },
+    {
+      "ch": "美国",
+      "en": "American",
+      "pi": "měi guó"
+    },
+    {
+      "ch": "公司",
+      "en": "company",
+      "pi": "gōng sī"
+    },
+    {
+      "ch": "干活",
+      "en": "to work",
+      "pi": "gàn huó"
+    }
+  ]
+}

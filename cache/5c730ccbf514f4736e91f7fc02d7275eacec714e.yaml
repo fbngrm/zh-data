@@ -1,0 +1,11 @@
+{
+  "chinese": "你喜欢日本菜吗？",
+  "english": "Do you like Japanese food?",
+  "pinyin": "nǐ xǐhuān rìběn cài ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "喜欢", "en": "like", "pi": "xǐhuān"},
+    {"ch": "日本菜", "en": "Japanese food", "pi": "rìběn cài"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

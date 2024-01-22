@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆为他的错误后悔。",
+  "english": "Tom regrets his mistake.",
+  "pinyin": "Tāng mǔ wèi tā de cuòwù hòuhuǐ.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "为",
+      "en": "regret",
+      "pi": "wèi"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "错误",
+      "en": "mistake",
+      "pi": "cuòwù"
+    },
+    {
+      "ch": "后悔",
+      "en": "regrets",
+      "pi": "hòuhuǐ"
+    }
+  ]
+}

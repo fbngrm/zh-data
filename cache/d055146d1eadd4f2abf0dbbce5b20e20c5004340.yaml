@@ -1,0 +1,37 @@
+{
+  "chinese": "这里有些非常重要的东西。",
+  "english": "There are some very important things here.",
+  "pinyin": "zhè lǐ yǒu xiē fēi cháng zhòng yào de dōng xi.",
+  "words": [
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "有些",
+      "en": "some",
+      "pi": "yǒu xiē"
+    },
+    {
+      "ch": "非常",
+      "en": "very",
+      "pi": "fēi cháng"
+    },
+    {
+      "ch": "重要",
+      "en": "important",
+      "pi": "zhòng yào"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "东西",
+      "en": "things",
+      "pi": "dōng xi"
+    }
+  ]
+}

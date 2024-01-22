@@ -1,0 +1,42 @@
+{
+  "chinese": "你知道如何打开这个箱子吗？",
+  "english": "Do you know how to open this box?",
+  "pinyin": "nǐ zhīdào rúhé dǎkāi zhège xiāngzi ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "如何",
+      "en": "how",
+      "pi": "rúhé"
+    },
+    {
+      "ch": "打开",
+      "en": "open",
+      "pi": "dǎkāi"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhège"
+    },
+    {
+      "ch": "箱子",
+      "en": "box",
+      "pi": "xiāngzi"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

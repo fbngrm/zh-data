@@ -1,0 +1,27 @@
+{
+  "chinese": "昨天的会议怎么样？",
+  "english": "How was the meeting yesterday?",
+  "pinyin": "Zuótiān de huìyì zěnme yàng?",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "会议",
+      "en": "meeting",
+      "pi": "huìyì"
+    },
+    {
+      "ch": "怎么样",
+      "en": "how was",
+      "pi": "zěnme yàng"
+    }
+  ]
+}

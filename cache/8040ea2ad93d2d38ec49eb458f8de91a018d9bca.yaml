@@ -1,0 +1,13 @@
+{
+  "chinese": "我们能看到越来越多的燕子。",
+  "english": "We can see more and more swallows.",
+  "pinyin": "wǒmen néng kàn dào yuè lái yuè duō de yàn zi.",
+  "words": [
+    {"ch": "我们", "en": "We", "pi": "wǒ men"},
+    {"ch": "能", "en": "can", "pi": "néng"},
+    {"ch": "看到", "en": "see", "pi": "kàn dào"},
+    {"ch": "越来越多", "en": "more and more", "pi": "yuè lái yuè duō"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "燕子", "en": "swallows", "pi": "yàn zi"}
+  ]
+}

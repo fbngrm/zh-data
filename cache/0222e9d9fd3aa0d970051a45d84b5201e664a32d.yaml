@@ -1,0 +1,18 @@
+{
+  "chinese": "他爱他的狗，那只小狗真的很可爱。",
+  "english": "He loves his dog, that little dog is really cute.",
+  "pinyin": "tā ài tā de gǒu, nà zhī xiǎo gǒu zhēn de hěn kě ài。",
+  "words": [
+    { "ch": "他", "en": "He", "pi": "tā" },
+    { "ch": "爱", "en": "loves", "pi": "ài" },
+    { "ch": "他的", "en": "his", "pi": "tā de" },
+    { "ch": "狗", "en": "dog", "pi": "gǒu" },
+    { "ch": "，", "en": ",", "pi": "，" },
+    { "ch": "那只", "en": "that", "pi": "nà zhī" },
+    { "ch": "小狗", "en": "little dog", "pi": "xiǎo gǒu" },
+    { "ch": "真的", "en": "really", "pi": "zhēn de" },
+    { "ch": "很", "en": "very", "pi": "hěn" },
+    { "ch": "可爱", "en": "cute", "pi": "kě ài" },
+    { "ch": "。", "en": ".", "pi": "。" }
+  ]
+}

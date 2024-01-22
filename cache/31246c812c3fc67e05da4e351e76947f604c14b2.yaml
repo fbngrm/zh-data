@@ -1,0 +1,18 @@
+{
+  "chinese": "说的是一套，做的又是一套。",
+  "english": "Talking is one thing, doing is another.",
+  "pinyin": "shuō de shì yī tào，zuò de yòu shì yī tào。",
+  "words": [
+    {"ch": "说", "en": "talk", "pi": "shuō"},
+    {"ch": "的", "en": "is", "pi": "de"},
+    {"ch": "是", "en": "one", "pi": "shì"},
+    {"ch": "一套", "en": "thing", "pi": "yī tào"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "做", "en": "do", "pi": "zuò"},
+    {"ch": "的", "en": "is", "pi": "de"},
+    {"ch": "又", "en": "another", "pi": "yòu"},
+    {"ch": "是", "en": "one", "pi": "shì"},
+    {"ch": "一套", "en": "thing", "pi": "yī tào"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}

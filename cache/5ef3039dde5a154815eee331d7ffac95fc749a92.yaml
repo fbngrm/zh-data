@@ -1,0 +1,37 @@
+{
+  "chinese": "王老师，你家有几口人？",
+  "english": "Teacher Wang, how many people are there in your family?",
+  "pinyin": "Wáng lǎoshī, nǐ jiā yǒu jǐ kǒu rén?",
+  "words": [
+    {
+      "ch": "王",
+      "en": "Wang",
+      "pi": "Wáng"
+    },
+    {
+      "ch": "老师",
+      "en": "Teacher",
+      "pi": "lǎoshī"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "家",
+      "en": "family",
+      "pi": "jiā"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "几口人",
+      "en": "how many people",
+      "pi": "jǐ kǒu rén"
+    }
+  ]
+}

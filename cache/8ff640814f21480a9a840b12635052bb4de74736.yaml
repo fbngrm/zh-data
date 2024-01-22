@@ -1,0 +1,37 @@
+{
+  "chinese": "（我）会讲五国语言。",
+  "english": "(I) can speak five languages.",
+  "pinyin": "(Wǒ) huì jiǎng wǔ guó yǔyán.",
+  "words": [
+    {
+      "ch": "（我）",
+      "en": "(I)",
+      "pi": "（Wǒ）"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "讲",
+      "en": "speak",
+      "pi": "jiǎng"
+    },
+    {
+      "ch": "五",
+      "en": "five",
+      "pi": "wǔ"
+    },
+    {
+      "ch": "国",
+      "en": "countries",
+      "pi": "guó"
+    },
+    {
+      "ch": "语言",
+      "en": "languages",
+      "pi": "yǔyán"
+    }
+  ]
+}

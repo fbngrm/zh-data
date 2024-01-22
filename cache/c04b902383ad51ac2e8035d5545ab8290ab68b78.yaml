@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆没说他想要什么。",
+  "english": "Tom didn't say what he wants.",
+  "pinyin": "Tāng mǔ méi shuō tā xiǎng yào shénme.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "没说",
+      "en": "didn't say",
+      "pi": "méi shuō"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "想要",
+      "en": "wants",
+      "pi": "xiǎng yào"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    }
+  ]
+}

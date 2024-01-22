@@ -1,0 +1,37 @@
+{
+   "chinese": "這是本值得一看的書。",
+   "english": "This is a book worth seeing.",
+   "pinyin": "zhè shì běn zhí dé yī kàn de shū.",
+   "words": [
+      {
+         "ch": "這是",
+         "en": "This is",
+         "pi": "zhè shì"
+      },
+      {
+         "ch": "本",
+         "en": "a",
+         "pi": "běn"
+      },
+      {
+         "ch": "值得",
+         "en": "worth",
+         "pi": "zhí dé"
+      },
+      {
+         "ch": "一看",
+         "en": "seeing",
+         "pi": "yī kàn"
+      },
+      {
+         "ch": "的",
+         "en": "of",
+         "pi": "de"
+      },
+      {
+         "ch": "書",
+         "en": "book",
+         "pi": "shū"
+      }
+   ]
+}

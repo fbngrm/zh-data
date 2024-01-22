@@ -1,0 +1,42 @@
+{
+  "chinese": "你们要和我一起去吗？",
+  "english": "Do you want to come with me?",
+  "pinyin": "nǐ men yào hé wǒ yìqǐ qù ma?",
+  "words": [
+    {
+      "ch": "你们",
+      "en": "you",
+      "pi": "nǐ men"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "一起",
+      "en": "together",
+      "pi": "yìqǐ"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

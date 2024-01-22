@@ -1,0 +1,37 @@
+{
+  "chinese": "我的城市离首都五十千米。",
+  "english": "My city is 50 kilometers away from the capital.",
+  "pinyin": "Wǒ de chéngshì lí shǒudū wǔshí qiān mǐ.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "My",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "城市",
+      "en": "city",
+      "pi": "chéngshì"
+    },
+    {
+      "ch": "离",
+      "en": "away from",
+      "pi": "lí"
+    },
+    {
+      "ch": "首都",
+      "en": "capital",
+      "pi": "shǒudū"
+    },
+    {
+      "ch": "五十",
+      "en": "fifty",
+      "pi": "wǔshí"
+    },
+    {
+      "ch": "千米",
+      "en": "kilometers",
+      "pi": "qiān mǐ"
+    }
+  ]
+}

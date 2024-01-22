@@ -1,0 +1,42 @@
+{
+  "chinese": "她今天比昨天要好很多。",
+  "english": "She is much better today than yesterday.",
+  "pinyin": "tā jīntiān bǐ zuótiān yào hǎo hěnduō。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "比",
+      "en": "is",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "要",
+      "en": "much",
+      "pi": "yào"
+    },
+    {
+      "ch": "好",
+      "en": "better",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "很多",
+      "en": "than",
+      "pi": "hěnduō"
+    }
+  ]
+}

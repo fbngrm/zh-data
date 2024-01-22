@@ -1,0 +1,27 @@
+{
+  "chinese": "这里是图书馆吗？",
+  "english": "Is this the library?",
+  "pinyin": "zhè lǐ shì tú shū guǎn ma?",
+  "words": [
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "图书馆",
+      "en": "library",
+      "pi": "tú shū guǎn"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

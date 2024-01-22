@@ -1,0 +1,32 @@
+{
+  "chinese": "电视上没有什么好事。",
+  "english": "There is nothing good on TV.",
+  "pinyin": "diàn shì shàng méi yǒu shén me hǎo shì。",
+  "words": [
+    {
+      "ch": "电视",
+      "en": "TV",
+      "pi": "diàn shì"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "没有",
+      "en": "nothing",
+      "pi": "méi yǒu"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shén me"
+    },
+    {
+      "ch": "好事",
+      "en": "good",
+      "pi": "hǎo shì"
+    }
+  ]
+}

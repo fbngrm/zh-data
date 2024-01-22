@@ -1,0 +1,37 @@
+{
+  "chinese": "她的帽子看起来很好笑。",
+  "english": "Her hat looks very funny.",
+  "pinyin": "tā de mào zi kàn qǐ lái hěn hǎo xiào。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "帽子",
+      "en": "hat",
+      "pi": "mào zi"
+    },
+    {
+      "ch": "看起来",
+      "en": "looks like",
+      "pi": "kàn qǐ lái"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "好笑",
+      "en": "funny",
+      "pi": "hǎo xiào"
+    }
+  ]
+}

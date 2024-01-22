@@ -1,0 +1,17 @@
+{
+  "chinese": "他买一个刀行，我买就不行了吗？",
+  "english": "He can buy a knife shop, but I can't?",
+  "pinyin": "Tā mǎi yīgè dāo xíng, wǒ mǎi jiù bùxíngle ma?",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "买", "en": "buy", "pi": "mǎi"},
+    {"ch": "一个", "en": "a", "pi": "yīgè"},
+    {"ch": "刀行", "en": "knife shop", "pi": "dāo xíng"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "买", "en": "buy", "pi": "mǎi"},
+    {"ch": "就", "en": "then", "pi": "jiù"},
+    {"ch": "不行", "en": "cannot", "pi": "bùxíng"},
+    {"ch": "了", "en": "anymore", "pi": "le"},
+    {"ch": "吗", "en": "?", "pi": "ma"}
+  ]
+}

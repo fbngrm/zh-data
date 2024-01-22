@@ -1,0 +1,47 @@
+{
+  "chinese": "你确信汤姆躲在那后面吗？",
+  "english": "Are you sure Tom is hiding behind there?",
+  "pinyin": "nǐ quèxìn tāngmǔ duǒ zài nà hòumiàn ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "确信",
+      "en": "sure",
+      "pi": "quèxìn"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāngmǔ"
+    },
+    {
+      "ch": "躲",
+      "en": "hide",
+      "pi": "duǒ"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "后面",
+      "en": "behind",
+      "pi": "hòumiàn"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

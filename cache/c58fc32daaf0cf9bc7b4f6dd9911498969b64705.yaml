@@ -1,0 +1,12 @@
+{
+   "chinese": "你每天吃早餐吗",
+   "english": "Do you eat breakfast every day?",
+   "pinyin": "nǐ měi tiān chī zǎo cān ma",
+   "words": [
+      {"ch":"你", "en":"you", "pi":"nǐ"},
+      {"ch":"每天", "en":"every day", "pi":"měi tiān"},
+      {"ch":"吃", "en":"eat", "pi":"chī"},
+      {"ch":"早餐", "en":"breakfast", "pi":"zǎo cān"},
+      {"ch":"吗", "en":"question particle", "pi":"ma"}
+   ]
+}

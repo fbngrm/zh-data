@@ -1,0 +1,42 @@
+{
+  "chinese": "我三天以来没吃一点东西。",
+  "english": "I haven't eaten anything for three days.",
+  "pinyin": "wǒ sān tiān yǐ lái méi chī yī diǎn dōng xi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "三天",
+      "en": "three days",
+      "pi": "sān tiān"
+    },
+    {
+      "ch": "以来",
+      "en": "since",
+      "pi": "yǐ lái"
+    },
+    {
+      "ch": "没",
+      "en": "haven't",
+      "pi": "méi"
+    },
+    {
+      "ch": "吃",
+      "en": "eaten",
+      "pi": "chī"
+    },
+    {
+      "ch": "一点",
+      "en": "anything",
+      "pi": "yī diǎn"
+    },
+    {
+      "ch": "东西",
+      "en": "thing",
+      "pi": "dōng xi"
+    }
+  ]
+}

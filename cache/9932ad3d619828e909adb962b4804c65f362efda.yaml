@@ -1,0 +1,32 @@
+{
+  "chinese": "你是学生还是老师？",
+  "english": "Are you a student or a teacher?",
+  "pinyin": "nǐ shì xuéshēng háishì lǎoshī?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "学生",
+      "en": "student",
+      "pi": "xuéshēng"
+    },
+    {
+      "ch": "还是",
+      "en": "or",
+      "pi": "háishì"
+    },
+    {
+      "ch": "老师",
+      "en": "teacher",
+      "pi": "lǎoshī"
+    }
+  ]
+}

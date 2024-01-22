@@ -1,0 +1,32 @@
+{
+  "chinese": "一定是汤姆做的。",
+  "english": "It must be Tom who did it.",
+  "pinyin": "yī dìng shì tāng mǔ zuò de。",
+  "words": [
+    {
+      "ch": "一定",
+      "en": "must",
+      "pi": "yī dìng"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "做",
+      "en": "do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "的",
+      "en": "it",
+      "pi": "de"
+    }
+  ]
+}

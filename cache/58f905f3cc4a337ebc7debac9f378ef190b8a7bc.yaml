@@ -1,0 +1,32 @@
+{
+  "chinese": "他很擅长弹吉他。",
+  "english": "He is very good at playing the guitar.",
+  "pinyin": "tā hěn shàncháng tán jítā。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "很",
+      "en": "is",
+      "pi": "hěn"
+    },
+    {
+      "ch": "擅长",
+      "en": "very good at",
+      "pi": "shàncháng"
+    },
+    {
+      "ch": "弹",
+      "en": "playing",
+      "pi": "tán"
+    },
+    {
+      "ch": "吉他",
+      "en": "guitar",
+      "pi": "jítā"
+    }
+  ]
+}

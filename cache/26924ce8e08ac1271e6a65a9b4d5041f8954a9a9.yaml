@@ -1,0 +1,42 @@
+{
+  "chinese": "你写这份报告花了多长时间？",
+  "english": "How long did it take you to write this report?",
+  "pinyin": "Nǐ xiě zhè fèn bàogào huāle duō cháng shíjiān?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "写",
+      "en": "write",
+      "pi": "xiě"
+    },
+    {
+      "ch": "这份",
+      "en": "this",
+      "pi": "zhè fèn"
+    },
+    {
+      "ch": "报告",
+      "en": "report",
+      "pi": "bàogào"
+    },
+    {
+      "ch": "花",
+      "en": "spent",
+      "pi": "huā"
+    },
+    {
+      "ch": "了",
+      "en": "did",
+      "pi": "le"
+    },
+    {
+      "ch": "多长时间",
+      "en": "how long",
+      "pi": "duō cháng shíjiān"
+    }
+  ]
+}

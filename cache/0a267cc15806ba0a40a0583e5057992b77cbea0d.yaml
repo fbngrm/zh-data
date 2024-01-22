@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆和玛丽很饿。",
+  "english": "Tom and Mary are very hungry.",
+  "pinyin": "Tāngmǔ hé Mǎlì hěn è.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎlì"
+    },
+    {
+      "ch": "很饿",
+      "en": "very hungry",
+      "pi": "hěn è"
+    }
+  ]
+}

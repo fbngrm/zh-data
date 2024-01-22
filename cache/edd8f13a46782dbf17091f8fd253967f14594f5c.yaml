@@ -1,0 +1,27 @@
+{
+  "chinese": "我喜欢你的鞋子。",
+  "english": "I like your shoes.",
+  "pinyin": "wǒ xǐ huān nǐ de xié zi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐ huān"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "鞋子",
+      "en": "shoes",
+      "pi": "xié zi"
+    }
+  ]
+}

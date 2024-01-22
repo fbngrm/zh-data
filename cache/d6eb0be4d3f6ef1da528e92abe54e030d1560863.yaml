@@ -1,0 +1,32 @@
+{
+  "chinese": "你今天有点发烧，是吧？",
+  "english": "You have a slight fever today, right?",
+  "pinyin": "Nǐ jīntiān yǒu diǎn fāshāo, shì ba?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "Nǐ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "有点",
+      "en": "a bit",
+      "pi": "yǒudiǎn"
+    },
+    {
+      "ch": "发烧",
+      "en": "fever",
+      "pi": "fāshāo"
+    },
+    {
+      "ch": "是吧",
+      "en": "right?",
+      "pi": "shì ba"
+    }
+  ]
+}

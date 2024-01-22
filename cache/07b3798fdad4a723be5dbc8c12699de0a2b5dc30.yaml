@@ -1,0 +1,100 @@
+{
+  "sentences": [
+    {
+      "chinese": "喂，宿舍甚麼時候鎖門？",
+      "english": "Hey, what time does the dorm lock the door?",
+      "pinyin": "wèi, sùshè shénme shíhou suǒmén?",
+      "words": [
+        {
+          "ch": "喂",
+          "en": "hey",
+          "pi": "wèi"
+        },
+        {
+          "ch": "宿舍",
+          "en": "dorm",
+          "pi": "sùshè"
+        },
+        {
+          "ch": "甚麼",
+          "en": "what",
+          "pi": "shénme"
+        },
+        {
+          "ch": "時候",
+          "en": "time",
+          "pi": "shíhou"
+        },
+        {
+          "ch": "鎖門",
+          "en": "lock the door",
+          "pi": "suǒmén"
+        }
+      ]
+    },
+    {
+      "chinese": "九點。",
+      "english": "Nine o'clock.",
+      "pinyin": "jiǔ diǎn.",
+      "words": [
+        {
+          "ch": "九點",
+          "en": "nine o'clock",
+          "pi": "jiǔ diǎn"
+        }
+      ]
+    },
+    {
+      "chinese": "糟了，我們不跑回去的話就趕不及了！",
+      "english": "Oh no, if we don't run back, we won't make it in time!",
+      "pinyin": "zāole, wǒmen bù pǎo huíqù de huà jiù gǎnbùjíle!",
+      "words": [
+        {
+          "ch": "糟了",
+          "en": "oh no",
+          "pi": "zāole"
+        },
+        {
+          "ch": "我們",
+          "en": "we",
+          "pi": "wǒmen"
+        },
+        {
+          "ch": "不",
+          "en": "don't",
+          "pi": "bù"
+        },
+        {
+          "ch": "跑",
+          "en": "run",
+          "pi": "pǎo"
+        },
+        {
+          "ch": "回去",
+          "en": "back",
+          "pi": "huíqù"
+        },
+        {
+          "ch": "的話",
+          "en": "if",
+          "pi": "de huà"
+        },
+        {
+          "ch": "就",
+          "en": "then",
+          "pi": "jiù"
+        },
+        {
+          "ch": "趕不及",
+          "en": "won't make it in time",
+          "pi": "gǎnbùjí"
+        },
+        {
+          "ch": "了",
+          "en": "!",
+          "pi": "le"
+        }
+      ]
+    }
+  ]
+}

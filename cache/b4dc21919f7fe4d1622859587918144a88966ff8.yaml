@@ -1,0 +1,32 @@
+{
+  "chinese": "我们明天要去野餐。",
+  "english": "We're going for a picnic tomorrow.",
+  "pinyin": "wǒmen míngtiān yào qù yěcān。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "要",
+      "en": "going to",
+      "pi": "yào"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "野餐",
+      "en": "picnic",
+      "pi": "yěcān"
+    }
+  ]
+}

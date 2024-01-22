@@ -1,0 +1,22 @@
+{
+  "chinese": "你告訴了我以後，我才知道這份文件有多重要。",
+  "english": "After you told me, I realized how important this document is.",
+  "pinyin": "Nǐ gàosù le wǒ yǐ hòu, wǒ cái zhīdào zhè fèn wénjiàn yǒu duō zhòngyào.",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "告訴", "en": "tell", "pi": "gàosù"},
+    {"ch": "了", "en": "past tense particle", "pi": "le"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "以後", "en": "after", "pi": "yǐ hòu"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "才", "en": "just", "pi": "cái"},
+    {"ch": "知道", "en": "know", "pi": "zhīdào"},
+    {"ch": "這份", "en": "this", "pi": "zhè fèn"},
+    {"ch": "文件", "en": "document", "pi": "wénjiàn"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "多", "en": "how much", "pi": "duō"},
+    {"ch": "重要", "en": "important", "pi": "zhòngyào"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

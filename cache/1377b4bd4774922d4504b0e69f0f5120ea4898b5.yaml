@@ -1,0 +1,37 @@
+{
+  "chinese": "我怀疑这是辆黑车。",
+  "english": "I suspect this is a black taxi.",
+  "pinyin": "wǒ huáiyí zhè shì liàng hēichē。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "怀疑",
+      "en": "suspect",
+      "pi": "huáiyí"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "辆",
+      "en": "a (measurement word for vehicles)",
+      "pi": "liàng"
+    },
+    {
+      "ch": "黑车",
+      "en": "black taxi",
+      "pi": "hēichē"
+    }
+  ]
+}

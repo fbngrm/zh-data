@@ -1,0 +1,32 @@
+{
+  "chinese": "我咳嗽，还有点发烧。",
+  "english": "I have a cough and a slight fever.",
+  "pinyin": "wǒ késòu, hái yǒu diǎn fāshāo.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "咳嗽",
+      "en": "cough",
+      "pi": "késòu"
+    },
+    {
+      "ch": "还",
+      "en": "have",
+      "pi": "hái"
+    },
+    {
+      "ch": "有点",
+      "en": "a little",
+      "pi": "yǒu diǎn"
+    },
+    {
+      "ch": "发烧",
+      "en": "fever",
+      "pi": "fāshāo"
+    }
+  ]
+}

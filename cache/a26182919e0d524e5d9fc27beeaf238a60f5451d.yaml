@@ -1,0 +1,42 @@
+{
+  "chinese": "水在华氏32度结成冰。",
+  "english": "Water freezes at 32 degrees Fahrenheit.",
+  "pinyin": "shuǐ zài huá shì 32 dù jié chéng bīng.",
+  "words": [
+    {
+      "ch": "水",
+      "en": "water",
+      "pi": "shuǐ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "华氏",
+      "en": "degrees Fahrenheit",
+      "pi": "huá shì"
+    },
+    {
+      "ch": "32",
+      "en": "32",
+      "pi": "32"
+    },
+    {
+      "ch": "度",
+      "en": "degrees",
+      "pi": "dù"
+    },
+    {
+      "ch": "结成",
+      "en": "freezes",
+      "pi": "jié chéng"
+    },
+    {
+      "ch": "冰",
+      "en": "ice",
+      "pi": "bīng"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "今天晚上会下雨。",
+  "english": "It will rain tonight.",
+  "pinyin": "jīn tiān wǎn shàng huì xià yǔ.",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "晚上",
+      "en": "night",
+      "pi": "wǎn shàng"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "下雨",
+      "en": "rain",
+      "pi": "xià yǔ"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我没有现在的地址。",
+  "english": "I don't have my current address.",
+  "pinyin": "wǒ méiyǒu xiànzài de dìzhǐ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "没有",
+      "en": "don't have",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiànzài"
+    },
+    {
+      "ch": "的",
+      "en": "my",
+      "pi": "de"
+    },
+    {
+      "ch": "地址",
+      "en": "address",
+      "pi": "dìzhǐ"
+    }
+  ]
+}

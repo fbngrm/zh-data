@@ -1,0 +1,37 @@
+{
+  "chinese": "我们应该往哪个方向走？",
+  "english": "Which direction should we go?",
+  "pinyin": "wǒmen yīnggāi wǎng nǎge fāngxiàng zǒu?",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "应该",
+      "en": "should",
+      "pi": "yīnggāi"
+    },
+    {
+      "ch": "往",
+      "en": "to go",
+      "pi": "wǎng"
+    },
+    {
+      "ch": "哪个",
+      "en": "which",
+      "pi": "nǎge"
+    },
+    {
+      "ch": "方向",
+      "en": "direction",
+      "pi": "fāngxiàng"
+    },
+    {
+      "ch": "走",
+      "en": "to go",
+      "pi": "zǒu"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "电梯好像故障了。",
+  "english": "The elevator seems to be malfunctioning.",
+  "pinyin": "diàn tī hǎo xiàng gù zhàng le。",
+  "words": [
+    {
+      "ch": "电梯",
+      "en": "elevator",
+      "pi": "diàn tī"
+    },
+    {
+      "ch": "好像",
+      "en": "seems",
+      "pi": "hǎo xiàng"
+    },
+    {
+      "ch": "故障",
+      "en": "malfunction",
+      "pi": "gù zhàng"
+    },
+    {
+      "ch": "了",
+      "en": "to be",
+      "pi": "le"
+    }
+  ]
+}

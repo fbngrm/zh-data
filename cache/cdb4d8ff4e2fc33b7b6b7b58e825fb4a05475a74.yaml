@@ -1,0 +1,32 @@
+{
+  "chinese": "你爸爸是一个大猩猩。",
+  "english": "Your father is a gorilla.",
+  "pinyin": "nǐ bàba shì yīgè dà xīngxīng。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "爸爸",
+      "en": "father",
+      "pi": "bàba"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yīgè"
+    },
+    {
+      "ch": "大猩猩",
+      "en": "gorilla",
+      "pi": "dà xīngxīng"
+    }
+  ]
+}

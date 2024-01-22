@@ -1,0 +1,14 @@
+{
+  "chinese": "汤姆给了玛丽一个不错的礼物。",
+  "english": "Tom gave Mary a nice gift.",
+  "pinyin": "Tāng mǔ gěile Mǎlì yīgè bùcuò de lǐwù.",
+  "words": [
+    { "ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ" },
+    { "ch": "给了", "en": "gave", "pi": "gěile" },
+    { "ch": "玛丽", "en": "Mary", "pi": "Mǎlì" },
+    { "ch": "一个", "en": "a", "pi": "yīgè" },
+    { "ch": "不错", "en": "nice", "pi": "bùcuò" },
+    { "ch": "的", "en": "", "pi": "de" },
+    { "ch": "礼物", "en": "gift", "pi": "lǐwù" }
+  ]
+}

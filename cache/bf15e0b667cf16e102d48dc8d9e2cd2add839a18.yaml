@@ -1,0 +1,42 @@
+{
+  "chinese": "这朵花的颜色是紫色。",
+  "english": "The color of this flower is purple.",
+  "pinyin": "zhè duǒ huā de yán sè shì zǐ sè.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "朵",
+      "en": "flower measure word",
+      "pi": "duǒ"
+    },
+    {
+      "ch": "花",
+      "en": "flower",
+      "pi": "huā"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "颜色",
+      "en": "color",
+      "pi": "yán sè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "紫色",
+      "en": "purple",
+      "pi": "zǐ sè"
+    }
+  ]
+}

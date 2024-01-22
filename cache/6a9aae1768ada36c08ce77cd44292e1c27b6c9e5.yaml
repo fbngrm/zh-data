@@ -1,0 +1,42 @@
+{
+  "chinese": "这个武器有３００米的射程。",
+  "english": "This weapon has a range of 300 meters.",
+  "pinyin": "Zhège wǔqì yǒu sānbǎi mǐ de shèchéng.",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "This",
+      "pi": "Zhège"
+    },
+    {
+      "ch": "武器",
+      "en": "weapon",
+      "pi": "wǔqì"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "３００",
+      "en": "300",
+      "pi": "sānbǎi"
+    },
+    {
+      "ch": "米",
+      "en": "meters",
+      "pi": "mǐ"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "射程",
+      "en": "range",
+      "pi": "shèchéng"
+    }
+  ]
+}

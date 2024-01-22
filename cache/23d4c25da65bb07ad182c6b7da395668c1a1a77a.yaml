@@ -1,0 +1,47 @@
+{
+  "chinese": "我不想为这句子做翻译。",
+  "english": "I don't want to translate this sentence.",
+  "pinyin": "wǒ bùxiǎng wèi zhè jùzǐ zuò fānyì.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "为",
+      "en": "to",
+      "pi": "wèi"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "句子",
+      "en": "sentence",
+      "pi": "jùzǐ"
+    },
+    {
+      "ch": "做",
+      "en": "do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "翻译",
+      "en": "translate",
+      "pi": "fānyì"
+    }
+  ]
+}

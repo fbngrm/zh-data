@@ -1,0 +1,27 @@
+{
+  "chinese": "我的猫很疯狂。",
+  "english": "My cat is crazy.",
+  "pinyin": "Wǒ de māo hěn fēngkuáng.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    },
+    {
+      "ch": "很",
+      "en": "is",
+      "pi": "hěn"
+    },
+    {
+      "ch": "疯狂",
+      "en": "crazy",
+      "pi": "fēngkuáng"
+    }
+  ]
+}

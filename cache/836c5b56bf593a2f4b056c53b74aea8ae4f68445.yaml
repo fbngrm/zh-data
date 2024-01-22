@@ -1,0 +1,32 @@
+{
+  "chinese": "上周一我没去上学。",
+  "english": "Last Monday, I didn't go to school.",
+  "pinyin": "Shàng zhōu yī wǒ méi qù shàng xué.",
+  "words": [
+    {
+      "ch": "上周一",
+      "en": "Last Monday",
+      "pi": "Shàng zhōu yī"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "没",
+      "en": "didn't",
+      "pi": "méi"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "上学",
+      "en": "to school",
+      "pi": "shàng xué"
+    }
+  ]
+}

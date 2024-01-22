@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "chinese": "我可不可以用你的笔？",
+      "english": "Can I use your pen?",
+      "pinyin": "wǒ kě bù kěyǐ yòng nǐ de bǐ?",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "可不可以",
+          "en": "can",
+          "pi": "kě bù kěyǐ"
+        },
+        {
+          "ch": "用",
+          "en": "use",
+          "pi": "yòng"
+        },
+        {
+          "ch": "你的",
+          "en": "your",
+          "pi": "nǐ de"
+        },
+        {
+          "ch": "笔",
+          "en": "pen",
+          "pi": "bǐ"
+        }
+      ]
+    },
+    {
+      "chinese": "嗯，可以。",
+      "english": "Yes, you can.",
+      "pinyin": "èn, kěyǐ.",
+      "words": [
+        {
+          "ch": "嗯",
+          "en": "Yes",
+          "pi": "èn"
+        },
+        {
+          "ch": "可以",
+          "en": "can",
+          "pi": "kěyǐ"
+        }
+      ]
+    }
+  ]
+}

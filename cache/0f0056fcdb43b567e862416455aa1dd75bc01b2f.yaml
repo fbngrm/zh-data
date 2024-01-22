@@ -1,0 +1,47 @@
+{
+  "chinese": "你是一个人来这儿的吗？",
+  "english": "Did you come here alone?",
+  "pinyin": "nǐ shì yí gè rén lái zhè'er de ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "一个",
+      "en": "one",
+      "pi": "yí gè"
+    },
+    {
+      "ch": "人",
+      "en": "person",
+      "pi": "rén"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    },
+    {
+      "ch": "这儿",
+      "en": "here",
+      "pi": "zhè'er"
+    },
+    {
+      "ch": "的",
+      "en": "particle",
+      "pi": "de"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

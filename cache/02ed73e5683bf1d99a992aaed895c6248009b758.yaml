@@ -1,0 +1,32 @@
+{
+  "chinese": "这只狗是杂种狗。",
+  "english": "This dog is a mixed breed.",
+  "pinyin": "Zhè zhī gǒu shì zá zhǒng gǒu.",
+  "words": [
+    {
+      "ch": "这只",
+      "en": "This",
+      "pi": "zhè zhī"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "杂种",
+      "en": "mixed breed",
+      "pi": "zá zhǒng"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    }
+  ]
+}

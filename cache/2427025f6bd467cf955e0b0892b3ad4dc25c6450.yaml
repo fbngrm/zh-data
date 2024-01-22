@@ -1,0 +1,20 @@
+{
+  "chinese": "在这个世界上的某个地方肯定有一个苹果需要我。",
+  "english": "Somewhere in this world, there must be an apple that needs me.",
+  "pinyin": "zài zhè gè shì jiè shàng de mǒu gè dì fāng kěn dìng yǒu yī gè píng guǒ xū yào wǒ。",
+  "words": [
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "这个", "en": "this", "pi": "zhè gè"},
+    {"ch": "世界", "en": "world", "pi": "shì jiè"},
+    {"ch": "上", "en": "on", "pi": "shàng"},
+    {"ch": "的", "en": "", "pi": "de"},
+    {"ch": "某个", "en": "somewhere", "pi": "mǒu gè"},
+    {"ch": "地方", "en": "place", "pi": "dì fāng"},
+    {"ch": "肯定", "en": "must", "pi": "kěn dìng"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "一个", "en": "one", "pi": "yī gè"},
+    {"ch": "苹果", "en": "apple", "pi": "píng guǒ"},
+    {"ch": "需要", "en": "need", "pi": "xū yào"},
+    {"ch": "我", "en": "me", "pi": "wǒ"}
+  ]
+}

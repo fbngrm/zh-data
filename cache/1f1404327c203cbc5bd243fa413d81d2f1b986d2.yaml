@@ -1,0 +1,42 @@
+{
+  "chinese": "用你的词典查查这些生字吧。",
+  "english": "Use your dictionary to look up these new words.",
+  "pinyin": "yòng nǐ de cí diǎn chá chá zhè xiē shēng zì ba.",
+  "words": [
+    {
+      "ch": "用",
+      "en": "use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "词典",
+      "en": "dictionary",
+      "pi": "cí diǎn"
+    },
+    {
+      "ch": "查查",
+      "en": "look up",
+      "pi": "chá chá"
+    },
+    {
+      "ch": "这些",
+      "en": "these",
+      "pi": "zhè xiē"
+    },
+    {
+      "ch": "生字",
+      "en": "new words",
+      "pi": "shēng zì"
+    },
+    {
+      "ch": "吧",
+      "en": "to",
+      "pi": "ba"
+    }
+  ]
+}

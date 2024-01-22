@@ -1,0 +1,37 @@
+{
+  "chinese": "我生病了，不是吗？",
+  "english": "I am sick, aren't I?",
+  "pinyin": "wǒ shēngbìng le, bú shì ma?",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "生病",
+      "en": "sick",
+      "pi": "shēngbìng"
+    },
+    {
+      "ch": "了",
+      "en": "am",
+      "pi": "le"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": ","
+    },
+    {
+      "ch": "不是",
+      "en": "aren't",
+      "pi": "bú shì"
+    },
+    {
+      "ch": "吗",
+      "en": "I?",
+      "pi": "ma?"
+    }
+  ]
+}

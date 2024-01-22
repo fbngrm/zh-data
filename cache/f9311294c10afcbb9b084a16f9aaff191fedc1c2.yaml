@@ -1,0 +1,37 @@
+{
+  "chinese": "我的一些朋友英语说得很好。",
+  "english": "Some of my friends speak English very well.",
+  "pinyin": "wǒ de yīxiē péngyǒu yīngyǔ shuō de hěn hǎo.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "一些",
+      "en": "some",
+      "pi": "yīxiē"
+    },
+    {
+      "ch": "朋友",
+      "en": "friends",
+      "pi": "péngyǒu"
+    },
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīngyǔ"
+    },
+    {
+      "ch": "说得",
+      "en": "speak",
+      "pi": "shuō de"
+    },
+    {
+      "ch": "很好",
+      "en": "very well",
+      "pi": "hěn hǎo"
+    }
+  ]
+}

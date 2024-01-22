@@ -1,0 +1,32 @@
+{
+  "chinese": "Tom把Mary拉出水",
+  "english": "Tom pulled Mary out of the water",
+  "pinyin": "TómbǎMarylāchūshuǐ",
+  "words": [
+    {
+      "ch": "Tom",
+      "en": "Tom",
+      "pi": "Tómbǎ"
+    },
+    {
+      "ch": "把",
+      "en": "pulled",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "Mary",
+      "en": "Mary",
+      "pi": "Mary"
+    },
+    {
+      "ch": "拉",
+      "en": "out",
+      "pi": "lā"
+    },
+    {
+      "ch": "出水",
+      "en": "of the water",
+      "pi": "chūshuǐ"
+    }
+  ]
+}

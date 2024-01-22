@@ -1,0 +1,47 @@
+{
+  "chinese": "汤姆已经对学法语不感兴趣了。",
+  "english": "Tom is no longer interested in learning French.",
+  "pinyin": "tāng mǔ yǐ jīng duì xué fǎ yǔ bù gǎn xìng qù le.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐ jīng"
+    },
+    {
+      "ch": "对",
+      "en": "in regard to",
+      "pi": "duì"
+    },
+    {
+      "ch": "学",
+      "en": "to learn",
+      "pi": "xué"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎ yǔ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "感兴趣",
+      "en": "interested",
+      "pi": "gǎn xìng qù"
+    },
+    {
+      "ch": "了",
+      "en": "an auxiliary word",
+      "pi": "le"
+    }
+  ]
+}

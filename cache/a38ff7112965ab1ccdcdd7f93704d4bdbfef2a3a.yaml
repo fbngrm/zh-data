@@ -1,0 +1,19 @@
+{
+  "chinese": "没有水，没有东西能生活在这个地球上。",
+  "english": "Without water, nothing can live on this Earth.",
+  "pinyin": "méiyǒu shuǐ, méiyǒu dōngxi néng shēnghuó zài zhège dìqiú shàng。",
+  "words": [
+    {"ch":"没有", "en":"Without", "pi":"méiyǒu"},
+    {"ch":"水", "en":"water", "pi":"shuǐ"},
+    {"ch":"，", "en":"", "pi":""},
+    {"ch":"没有", "en":"nothing", "pi":"méiyǒu"},
+    {"ch":"东西", "en":"can", "pi":"dōngxi"},
+    {"ch":"能", "en":"live", "pi":"néng"},
+    {"ch":"生活", "en":"on", "pi":"shēnghuó"},
+    {"ch":"在", "en":"this", "pi":"zài"},
+    {"ch":"这个", "en":"Earth", "pi":"zhège"},
+    {"ch":"地球", "en":"", "pi":"dìqiú"},
+    {"ch":"上", "en":"", "pi":"shàng"},
+    {"ch":"。", "en":"", "pi":""}
+  ]
+}

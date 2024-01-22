@@ -1,0 +1,10 @@
+{ "chinese": "我明天下午休假。",
+  "english": "I will take a day off tomorrow afternoon.",
+  "pinyin": "wǒ míngtiān xiàwǔ xiūjià.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "明天", "en": "tomorrow", "pi": "míngtiān" },
+    { "ch": "下午", "en": "afternoon", "pi": "xiàwǔ" },
+    { "ch": "休假", "en": "take a day off", "pi": "xiūjià" }
+  ]
+}

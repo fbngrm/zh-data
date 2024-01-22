@@ -1,0 +1,42 @@
+{
+  "chinese": "他喝咖啡不喜歡加糖。",
+  "english": "He doesn't like to add sugar to his coffee.",
+  "pinyin": "tā hē kā fēi bù xǐ huān jiā táng。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "喝",
+      "en": "drink",
+      "pi": "hē"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kā fēi"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "喜歡",
+      "en": "like",
+      "pi": "xǐ huān"
+    },
+    {
+      "ch": "加",
+      "en": "add",
+      "pi": "jiā"
+    },
+    {
+      "ch": "糖",
+      "en": "sugar",
+      "pi": "táng"
+    }
+  ]
+}

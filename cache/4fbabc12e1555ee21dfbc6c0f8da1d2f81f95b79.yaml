@@ -1,0 +1,27 @@
+{
+  "chinese": "狗对着邮差叫。",
+  "english": "The dog barks at the mailman.",
+  "pinyin": "gǒu duìzhe yóuchāi jiào。",
+  "words": [
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "对着",
+      "en": "at",
+      "pi": "duìzhe"
+    },
+    {
+      "ch": "邮差",
+      "en": "mailman",
+      "pi": "yóuchāi"
+    },
+    {
+      "ch": "叫",
+      "en": "barks",
+      "pi": "jiào"
+    }
+  ]
+}

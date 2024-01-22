@@ -1,0 +1,15 @@
+{
+  "chinese": "我认为我知道是谁做的。",
+  "english": "I think I know who did it.",
+  "pinyin": "wǒ rèn wéi wǒ zhī dào shì shuí zuò de.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "认为", "en": "think", "pi": "rèn wéi"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "知道", "en": "know", "pi": "zhī dào"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "谁", "en": "who", "pi": "shuí"},
+    {"ch": "做", "en": "did", "pi": "zuò"},
+    {"ch": "的", "en": "it", "pi": "de"}
+  ]
+}

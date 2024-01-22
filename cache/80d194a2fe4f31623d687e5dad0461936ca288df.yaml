@@ -1,0 +1,32 @@
+{
+  "chinese": "他在这附近住。",
+  "english": "He lives around here.",
+  "pinyin": "Tā zài zhè fùjìn zhù。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "Tā"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "附近",
+      "en": "nearby",
+      "pi": "fùjìn"
+    },
+    {
+      "ch": "住",
+      "en": "live",
+      "pi": "zhù"
+    }
+  ]
+}

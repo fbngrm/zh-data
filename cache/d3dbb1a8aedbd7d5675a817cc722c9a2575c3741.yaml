@@ -1,0 +1,37 @@
+{
+  "chinese": "我的錶慢了五分鐘。",
+  "english": "My watch is five minutes slow.",
+  "pinyin": "Wǒ de biǎo mànle wǔ fēnzhōng.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "My",
+      "pi": "Wǒ de"
+    },
+    {
+      "ch": "錶",
+      "en": "watch",
+      "pi": "biǎo"
+    },
+    {
+      "ch": "慢",
+      "en": "slow",
+      "pi": "màn"
+    },
+    {
+      "ch": "了",
+      "en": "is",
+      "pi": "le"
+    },
+    {
+      "ch": "五",
+      "en": "five",
+      "pi": "wǔ"
+    },
+    {
+      "ch": "分鐘",
+      "en": "minutes",
+      "pi": "fēnzhōng"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chinese": "汤姆说他不确定玛丽想做什么。",
+  "english": "Tom said he's not sure what Mary wants to do.",
+  "pinyin": "tāng mǔ shuō tā bù quèdìng mǎ lì xiǎng zuò shénme.",
+  "words": [
+    { "ch": "汤姆", "en": "Tom", "pi": "tāng mǔ" },
+    { "ch": "说", "en": "said", "pi": "shuō" },
+    { "ch": "他", "en": "he", "pi": "tā" },
+    { "ch": "不确定", "en": "not sure", "pi": "bù quèdìng" },
+    { "ch": "玛丽", "en": "Mary", "pi": "mǎ lì" },
+    { "ch": "想", "en": "wants", "pi": "xiǎng" },
+    { "ch": "做", "en": "to do", "pi": "zuò" },
+    { "ch": "什么", "en": "what", "pi": "shénme" }
+  ]
+}

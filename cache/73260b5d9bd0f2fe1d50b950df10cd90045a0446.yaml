@@ -1,0 +1,14 @@
+{
+  "chinese": "把这本书给想要的人。",
+  "english": "Give this book to the person who wants it.",
+  "pinyin": "bǎ zhè běn shū gěi xiǎng yào de rén。",
+  "words": [
+    {"ch": "把", "en": "give", "pi": "bǎ"},
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "本书", "en": "book", "pi": "běn shū"},
+    {"ch": "给", "en": "to", "pi": "gěi"},
+    {"ch": "想要", "en": "want", "pi": "xiǎng yào"},
+    {"ch": "的", "en": "who", "pi": "de"},
+    {"ch": "人", "en": "person", "pi": "rén"}
+  ]
+}

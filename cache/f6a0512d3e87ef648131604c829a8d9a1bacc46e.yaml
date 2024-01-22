@@ -1,0 +1,32 @@
+{
+  "chinese": "中国是一个新兴市场。",
+  "english": "China is an emerging market.",
+  "pinyin": "zhōng guó shì yí gè xīn xīng shì chǎng。",
+  "words": [
+    {
+      "ch": "中国",
+      "en": "China",
+      "pi": "zhōng guó"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "一个",
+      "en": "an",
+      "pi": "yí gè"
+    },
+    {
+      "ch": "新兴",
+      "en": "emerging",
+      "pi": "xīn xīng"
+    },
+    {
+      "ch": "市场",
+      "en": "market",
+      "pi": "shì chǎng"
+    }
+  ]
+}

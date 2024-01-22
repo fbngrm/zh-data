@@ -1,0 +1,18 @@
+{
+  "chinese": "我正准备出门呢，就在那时，电话铃响了。",
+  "english": "I was about to leave when the phone rang.",
+  "pinyin": "Wǒ zhèng zhǔnbèi chūmén ne, jiù zài nà shí, diànhuà líng xiǎng le.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "正", "en": "was about to", "pi": "zhèng"},
+    {"ch": "准备", "en": "prepare", "pi": "zhǔnbèi"},
+    {"ch": "出门", "en": "to leave", "pi": "chūmén"},
+    {"ch": "呢", "en": "particle indicating ongoing action", "pi": "ne"},
+    {"ch": "就", "en": "just", "pi": "jiù"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "那时", "en": "at that time", "pi": "nà shí"},
+    {"ch": "电话", "en": "phone", "pi": "diànhuà"},
+    {"ch": "铃响", "en": "rang", "pi": "líng xiǎng"},
+    {"ch": "了", "en": "particle indicating completed action", "pi": "le"}
+  ]
+}

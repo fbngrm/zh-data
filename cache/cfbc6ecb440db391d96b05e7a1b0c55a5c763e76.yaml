@@ -1,0 +1,32 @@
+{
+  "chinese": "这场比赛将可能被取消。",
+  "english": "This match may be cancelled.",
+  "pinyin": "zhè chǎng bǐ sài jiāng kě néng bèi qǔ xiāo。",
+  "words": [
+    {
+      "ch": "这场",
+      "en": "this match",
+      "pi": "zhè chǎng"
+    },
+    {
+      "ch": "比赛",
+      "en": "competition",
+      "pi": "bǐ sài"
+    },
+    {
+      "ch": "将可能",
+      "en": "may",
+      "pi": "jiāng kě néng"
+    },
+    {
+      "ch": "被",
+      "en": "be",
+      "pi": "bèi"
+    },
+    {
+      "ch": "取消",
+      "en": "cancelled",
+      "pi": "qǔ xiāo"
+    }
+  ]
+}

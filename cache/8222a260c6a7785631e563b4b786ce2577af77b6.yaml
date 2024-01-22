@@ -1,0 +1,17 @@
+{
+  "chinese": "鲍勃忘记带通行证，这使得他上学迟到了。",
+  "english": "Bob forgot to bring his pass, which made him late for school.",
+  "pinyin": "Bàobō wàngjì dài tōngxíngzhèng, zhè shǐdé tā shàngxué chídào le。",
+  "words": [
+    {"ch": "鲍勃", "en": "Bob", "pi": "Bàobō"},
+    {"ch": "忘记", "en": "forgot", "pi": "wàngjì"},
+    {"ch": "带", "en": "to bring", "pi": "dài"},
+    {"ch": "通行证", "en": "pass", "pi": "tōngxíngzhèng"},
+    {"ch": "这", "en": "which", "pi": "zhè"},
+    {"ch": "使得", "en": "made", "pi": "shǐdé"},
+    {"ch": "他", "en": "him", "pi": "tā"},
+    {"ch": "上学", "en": "school", "pi": "shàngxué"},
+    {"ch": "迟到", "en": "late", "pi": "chídào"},
+    {"ch": "了", "en": "for", "pi": "le"}
+  ]
+}

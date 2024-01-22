@@ -1,0 +1,32 @@
+{
+  "chinese": "我想要买便宜的辞典。",
+  "english": "I want to buy a cheap dictionary.",
+  "pinyin": "wǒ xiǎng yào mǎi piányi de cídiǎn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想要",
+      "en": "want",
+      "pi": "xiǎng yào"
+    },
+    {
+      "ch": "买",
+      "en": "to buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "便宜的",
+      "en": "cheap",
+      "pi": "piányi de"
+    },
+    {
+      "ch": "辞典",
+      "en": "dictionary",
+      "pi": "cídiǎn"
+    }
+  ]
+}

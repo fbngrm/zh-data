@@ -1,0 +1,37 @@
+{
+  "chinese": "这是一个奇怪的句子。",
+  "english": "This is a strange sentence.",
+  "pinyin": "zhè shì yī gè qí guài de jù zi。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "奇怪",
+      "en": "strange",
+      "pi": "qí guài"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "句子",
+      "en": "sentence",
+      "pi": "jù zi"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "你的考试通过了吗？",
+  "english": "Did you pass your exam?",
+  "pinyin": "Nǐ de kǎoshì tōngguò le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "your",
+      "pi": "de"
+    },
+    {
+      "ch": "考试",
+      "en": "exam",
+      "pi": "kǎoshì"
+    },
+    {
+      "ch": "通过",
+      "en": "pass",
+      "pi": "tōngguò"
+    },
+    {
+      "ch": "了",
+      "en": "did",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

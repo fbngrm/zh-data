@@ -1,0 +1,63 @@
+{
+  "sentences": [
+    {
+      "chinese": "你为什么不去？",
+      "english": "Why don't you go?",
+      "pinyin": "nǐ wèishénme bù qù？",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "为什么",
+          "en": "why",
+          "pi": "wèishénme"
+        },
+        {
+          "ch": "不",
+          "en": "not",
+          "pi": "bù"
+        },
+        {
+          "ch": "去",
+          "en": "go",
+          "pi": "qù"
+        }
+      ]
+    },
+    {
+      "chinese": "因为我不想去。",
+      "english": "Because I don't want to go.",
+      "pinyin": "yīnwèi wǒ bùxiǎng qù。",
+      "words": [
+        {
+          "ch": "因为",
+          "en": "because",
+          "pi": "yīnwèi"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "不",
+          "en": "not",
+          "pi": "bù"
+        },
+        {
+          "ch": "想",
+          "en": "want",
+          "pi": "xiǎng"
+        },
+        {
+          "ch": "去",
+          "en": "go",
+          "pi": "qù"
+        }
+      ]
+    }
+  ]
+}

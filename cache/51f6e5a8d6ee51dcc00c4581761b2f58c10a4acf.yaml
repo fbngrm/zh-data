@@ -1,0 +1,32 @@
+{
+  "chinese": "我在说别的事。",
+  "english": "I'm talking about something else.",
+  "pinyin": "Wǒ zài shuō bié de shì.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "in/at",
+      "pi": "zài"
+    },
+    {
+      "ch": "说",
+      "en": "talk/speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "别的",
+      "en": "something else",
+      "pi": "bié de"
+    },
+    {
+      "ch": "事",
+      "en": "thing/matter",
+      "pi": "shì"
+    }
+  ]
+}

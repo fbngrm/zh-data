@@ -1,0 +1,11 @@
+{
+  "chinese": "你明天工作吗？",
+  "english": "Are you working tomorrow?",
+  "pinyin": "nǐ míngtiān gōngzuò ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "明天", "en": "tomorrow", "pi": "míngtiān"},
+    {"ch": "工作", "en": "work", "pi": "gōngzuò"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

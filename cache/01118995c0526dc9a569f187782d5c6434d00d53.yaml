@@ -1,0 +1,32 @@
+{
+  "chinese": "这食物不适合我。",
+  "english": "This food is not suitable for me.",
+  "pinyin": "zhè shí wù bù shì hé wǒ。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "食物",
+      "en": "food",
+      "pi": "shí wù"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "适合",
+      "en": "suitable",
+      "pi": "shì hé"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    }
+  ]
+}

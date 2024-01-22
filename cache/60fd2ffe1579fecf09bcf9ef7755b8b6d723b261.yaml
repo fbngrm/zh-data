@@ -1,0 +1,37 @@
+{
+  "chinese": "我看到你开着你的新车。",
+  "english": "I saw you driving your new car.",
+  "pinyin": "wǒ kàn dào nǐ kāi zhe nǐ de xīn chē。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "看到",
+      "en": "saw",
+      "pi": "kàn dào"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "开着",
+      "en": "driving",
+      "pi": "kāi zhe"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "新车",
+      "en": "new car",
+      "pi": "xīn chē"
+    }
+  ]
+}

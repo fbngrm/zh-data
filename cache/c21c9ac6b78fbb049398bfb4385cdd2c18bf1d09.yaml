@@ -1,0 +1,42 @@
+{
+  "chinese": "我完全不知道他去哪里了。",
+  "english": "I have no idea where he went.",
+  "pinyin": "wǒ wánquán bù zhīdào tā qù nǎlǐ le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "完全",
+      "en": "completely",
+      "pi": "wánquán"
+    },
+    {
+      "ch": "不知道",
+      "en": "do not know",
+      "pi": "bù zhīdào"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "哪里",
+      "en": "where",
+      "pi": "nǎlǐ"
+    },
+    {
+      "ch": "了",
+      "en": "an indication of a completed or finished action",
+      "pi": "le"
+    }
+  ]
+}

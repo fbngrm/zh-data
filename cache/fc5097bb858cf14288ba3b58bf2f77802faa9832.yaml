@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆并不信任警察。",
+  "english": "Tom does not trust the police.",
+  "pinyin": "Tāng mǔ bìng bù xìn rèn jǐng chá.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "并不",
+      "en": "does not",
+      "pi": "bìng bù"
+    },
+    {
+      "ch": "信任",
+      "en": "trust",
+      "pi": "xìn rèn"
+    },
+    {
+      "ch": "警察",
+      "en": "police",
+      "pi": "jǐng chá"
+    }
+  ]
+}

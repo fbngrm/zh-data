@@ -1,0 +1,42 @@
+{
+  "chinese": "我必须在明天之前完成任务。",
+  "english": "I must complete the task before tomorrow.",
+  "pinyin": "wǒ bìxū zài míngtiān zhīqián wánchéng rènwù。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "必须",
+      "en": "must",
+      "pi": "bìxū"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "之前",
+      "en": "before",
+      "pi": "zhīqián"
+    },
+    {
+      "ch": "完成",
+      "en": "complete",
+      "pi": "wánchéng"
+    },
+    {
+      "ch": "任务",
+      "en": "task",
+      "pi": "rènwù"
+    }
+  ]
+}

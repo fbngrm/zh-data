@@ -1,0 +1,37 @@
+{
+  "chinese": "这只是我们之间的秘密。",
+  "english": "This is just a secret between us.",
+  "pinyin": "zhè zhǐ shì wǒmen zhī jiān de mìmì.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "只是",
+      "en": "just",
+      "pi": "zhǐshì"
+    },
+    {
+      "ch": "我们",
+      "en": "we/us",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "之间",
+      "en": "between",
+      "pi": "zhījiān"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "秘密",
+      "en": "secret",
+      "pi": "mìmì"
+    }
+  ]
+}

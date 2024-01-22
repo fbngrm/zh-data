@@ -1,0 +1,37 @@
+{
+  "chinese": "我儿子现在可以数到１００。",
+  "english": "My son can now count to 100.",
+  "pinyin": "wǒ ér zi xiàn zài kě yǐ shǔ dào yībǎi",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "儿子",
+      "en": "son",
+      "pi": "ér zi"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kě yǐ"
+    },
+    {
+      "ch": "数到",
+      "en": "count to",
+      "pi": "shǔ dào"
+    },
+    {
+      "ch": "１００",
+      "en": "100",
+      "pi": "yībǎi"
+    }
+  ]
+}

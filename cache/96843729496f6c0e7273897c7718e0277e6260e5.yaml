@@ -1,0 +1,32 @@
+{
+  "chinese": "你吃过晚饭了吗？",
+  "english": "Have you had dinner?",
+  "pinyin": "nǐ chī guò wǎnfàn le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "吃过",
+      "en": "have had",
+      "pi": "chī guò"
+    },
+    {
+      "ch": "晚饭",
+      "en": "dinner",
+      "pi": "wǎnfàn"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "",
+      "pi": "ma"
+    }
+  ]
+}

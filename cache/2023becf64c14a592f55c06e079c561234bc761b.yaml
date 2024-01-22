@@ -1,0 +1,42 @@
+{
+  "chinese": "他们懂得读这几个字吗？",
+  "english": "Do they know how to read these characters?",
+  "pinyin": "tāmen dǒngdé dú zhè jǐ gè zì ma?",
+  "words": [
+    {
+      "ch": "他们",
+      "en": "they",
+      "pi": "tāmen"
+    },
+    {
+      "ch": "懂得",
+      "en": "know how to",
+      "pi": "dǒngdé"
+    },
+    {
+      "ch": "读",
+      "en": "read",
+      "pi": "dú"
+    },
+    {
+      "ch": "这",
+      "en": "these",
+      "pi": "zhè"
+    },
+    {
+      "ch": "几个",
+      "en": "several",
+      "pi": "jǐ gè"
+    },
+    {
+      "ch": "字",
+      "en": "characters",
+      "pi": "zì"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

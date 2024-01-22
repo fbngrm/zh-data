@@ -1,0 +1,32 @@
+{
+  "chinese": "这是你的家人吗？",
+  "english": "Are these your family members?",
+  "pinyin": "zhè shì nǐ de jiā rén ma?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "家人",
+      "en": "family members",
+      "pi": "jiā rén"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

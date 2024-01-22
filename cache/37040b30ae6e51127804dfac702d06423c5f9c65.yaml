@@ -1,0 +1,37 @@
+{
+  "chinese": "汉语字是很美丽的。",
+  "english": "Chinese characters are very beautiful.",
+  "pinyin": "Hàn yǔ zì shì hěn měi lì de.",
+  "words": [
+    {
+      "ch": "汉语",
+      "en": "Chinese",
+      "pi": "Hàn yǔ"
+    },
+    {
+      "ch": "字",
+      "en": "characters",
+      "pi": "zì"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "美丽",
+      "en": "beautiful",
+      "pi": "měi lì"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    }
+  ]
+}

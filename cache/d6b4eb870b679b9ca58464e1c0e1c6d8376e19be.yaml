@@ -1,0 +1,57 @@
+{
+  "chinese": "如果明天下雨的话，我就不去野餐了。",
+  "english": "If it rains tomorrow, I won't go for a picnic.",
+  "pinyin": "Rúguǒ míngtiān xià yǔ dehuà, wǒ jiù bù qù yěcānle.",
+  "words": [
+    {
+      "ch": "如果",
+      "en": "if",
+      "pi": "rúguǒ"
+    },
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "下雨",
+      "en": "rains",
+      "pi": "xià yǔ"
+    },
+    {
+      "ch": "的话",
+      "en": "if",
+      "pi": "dehuà"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "就",
+      "en": "then",
+      "pi": "jiù"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "野餐",
+      "en": "picnic",
+      "pi": "yěcān"
+    },
+    {
+      "ch": "了",
+      "en": "anymore",
+      "pi": "le"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "我太太買了一台新的嬰兒車。",
+  "english": "My wife bought a new baby stroller.",
+  "pinyin": "Wǒ tàitài mǎi le yī tái xīn de yīng'ér chē.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "太太", "en": "wife", "pi": "tàitài"},
+    {"ch": "買", "en": "bought", "pi": "mǎi"},
+    {"ch": "了", "en": "a", "pi": "le"},
+    {"ch": "一台", "en": "new", "pi": "yī tái"},
+    {"ch": "新的", "en": "baby", "pi": "xīn de"},
+    {"ch": "嬰兒車", "en": "stroller", "pi": "yīng'ér chē"}
+  ]
+}

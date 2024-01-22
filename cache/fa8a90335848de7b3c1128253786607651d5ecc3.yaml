@@ -1,0 +1,37 @@
+{
+  "chinese": "你好，你是小川先生吗？",
+  "english": "Hello, are you Mr. Xiaochuan?",
+  "pinyin": "nǐ hǎo, nǐ shì xiǎo chuān xiān shēng ma?",
+  "words": [
+    {
+      "ch": "你好",
+      "en": "Hello",
+      "pi": "nǐ hǎo"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "小川",
+      "en": "Xiaochuan",
+      "pi": "xiǎo chuān"
+    },
+    {
+      "ch": "先生",
+      "en": "Mr.",
+      "pi": "xiān shēng"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

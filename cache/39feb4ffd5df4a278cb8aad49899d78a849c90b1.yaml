@@ -1,0 +1,42 @@
+{
+  "chinese": "这两个学生都通过了所有的测验。",
+  "english": "Both of these students passed all the tests.",
+  "pinyin": "zhè liǎng gè xué shēng dōu tōng guò le suǒ yǒu de cè yàn.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "两个",
+      "en": "both",
+      "pi": "liǎng gè"
+    },
+    {
+      "ch": "学生",
+      "en": "students",
+      "pi": "xué shēng"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "通过了",
+      "en": "passed",
+      "pi": "tōng guò le"
+    },
+    {
+      "ch": "所有的",
+      "en": "all the",
+      "pi": "suǒ yǒu de"
+    },
+    {
+      "ch": "测验",
+      "en": "tests",
+      "pi": "cè yàn"
+    }
+  ]
+}

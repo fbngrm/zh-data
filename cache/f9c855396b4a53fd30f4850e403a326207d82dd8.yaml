@@ -1,0 +1,16 @@
+{
+  "chinese": "好久不见！你也来这家饭店吃饭？",
+  "english": "Long time no see! Are you also eating at this restaurant?",
+  "pinyin": "Hǎojiǔ bùjiàn! Nǐ yě lái zhè jiā fàndiàn chīfàn?",
+  "words": [
+    {"ch": "好久", "en": "long time", "pi": "hǎojiǔ"},
+    {"ch": "不见", "en": "no see", "pi": "bùjiàn"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "也", "en": "also", "pi": "yě"},
+    {"ch": "来", "en": "come", "pi": "lái"},
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "家", "en": "family", "pi": "jiā"},
+    {"ch": "饭店", "en": "restaurant", "pi": "fàndiàn"},
+    {"ch": "吃饭", "en": "eat", "pi": "chīfàn"}
+  ]
+}

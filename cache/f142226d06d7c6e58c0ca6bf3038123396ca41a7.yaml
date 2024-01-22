@@ -1,0 +1,17 @@
+{
+  "chinese": "这衣服是我同事的，不是我的。",
+  "english": "This is my colleague's clothes, not mine.",
+  "pinyin": "zhè yī fú shì wǒ tóng shì de, bù shì wǒ de.",
+  "words": [
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "衣服", "en": "clothes", "pi": "yī fú"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "我", "en": "my", "pi": "wǒ"},
+    {"ch": "同事", "en": "colleague", "pi": "tóng shì"},
+    {"ch": "的", "en": "'s", "pi": "de"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "不是", "en": "not", "pi": "bù shì"},
+    {"ch": "我的", "en": "mine", "pi": "wǒ de"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}

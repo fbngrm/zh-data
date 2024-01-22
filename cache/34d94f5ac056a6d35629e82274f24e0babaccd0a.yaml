@@ -1,0 +1,207 @@
+{
+  "sentences": [
+    {
+      "chinese": "如果你在股票市场上赌博，你是个投资者",
+      "english": "If you gamble in the stock market, you are an investor.",
+      "pinyin": "Rúguǒ nǐ zài gǔpiào shìchǎng shàng dǔbó, nǐ shì gè tóuzī zhě。",
+      "words": [
+        {
+          "ch": "如果",
+          "en": "If",
+          "pi": "rúguǒ"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "在",
+          "en": "in",
+          "pi": "zài"
+        },
+        {
+          "ch": "股票",
+          "en": "stock",
+          "pi": "gǔpiào"
+        },
+        {
+          "ch": "市场",
+          "en": "market",
+          "pi": "shìchǎng"
+        },
+        {
+          "ch": "上",
+          "en": "on",
+          "pi": "shàng"
+        },
+        {
+          "ch": "赌博",
+          "en": "gamble",
+          "pi": "dǔbó"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "是",
+          "en": "are",
+          "pi": "shì"
+        },
+        {
+          "ch": "个",
+          "en": "a",
+          "pi": "gè"
+        },
+        {
+          "ch": "投资者",
+          "en": "investor",
+          "pi": "tóuzī zhě"
+        }
+      ]
+    },
+    {
+      "chinese": "如果你在衍生性金融商品市场上赌博，你是个商人",
+      "english": "If you gamble in the derivatives market, you are a businessman.",
+      "pinyin": "Rúguǒ nǐ zài yǎnshēngxìng jīnróng shāngpǐn shìchǎng shàng dǔbó, nǐ shì gè shāngrén。",
+      "words": [
+        {
+          "ch": "如果",
+          "en": "If",
+          "pi": "rúguǒ"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "在",
+          "en": "in",
+          "pi": "zài"
+        },
+        {
+          "ch": "衍生性",
+          "en": "derivative",
+          "pi": "yǎnshēngxìng"
+        },
+        {
+          "ch": "金融",
+          "en": "financial",
+          "pi": "jīnróng"
+        },
+        {
+          "ch": "商品",
+          "en": "commodity",
+          "pi": "shāngpǐn"
+        },
+        {
+          "ch": "市场",
+          "en": "market",
+          "pi": "shìchǎng"
+        },
+        {
+          "ch": "上",
+          "en": "on",
+          "pi": "shàng"
+        },
+        {
+          "ch": "赌博",
+          "en": "gamble",
+          "pi": "dǔbó"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "是",
+          "en": "are",
+          "pi": "shì"
+        },
+        {
+          "ch": "个",
+          "en": "a",
+          "pi": "gè"
+        },
+        {
+          "ch": "商人",
+          "en": "businessman",
+          "pi": "shāngrén"
+        }
+      ]
+    },
+    {
+      "chinese": "如果你在赌场上赌博，你是个失败者",
+      "english": "If you gamble in a casino, you are a loser.",
+      "pinyin": "Rúguǒ nǐ zài dǔchǎng shàng dǔbó, nǐ shì gè shībài zhě。",
+      "words": [
+        {
+          "ch": "如果",
+          "en": "If",
+          "pi": "rúguǒ"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "在",
+          "en": "in",
+          "pi": "zài"
+        },
+        {
+          "ch": "赌场",
+          "en": "casino",
+          "pi": "dǔchǎng"
+        },
+        {
+          "ch": "上",
+          "en": "on",
+          "pi": "shàng"
+        },
+        {
+          "ch": "赌博",
+          "en": "gamble",
+          "pi": "dǔbó"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "是",
+          "en": "are",
+          "pi": "shì"
+        },
+        {
+          "ch": "个",
+          "en": "a",
+          "pi": "gè"
+        },
+        {
+          "ch": "失败者",
+          "en": "loser",
+          "pi": "shībài zhě"
+        }
+      ]
+    },
+    {
+      "chinese": "道德？",
+      "english": "Morality?",
+      "pinyin": "Dàodé?",
+      "words": [
+        {
+          "ch": "道德",
+          "en": "morality",
+          "pi": "dàodé"
+        }
+      ]
+    }
+  ]
+}

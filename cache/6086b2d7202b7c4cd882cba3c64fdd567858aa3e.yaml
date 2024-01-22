@@ -1,0 +1,32 @@
+{
+  "chinese": "这肯定是我的书。",
+  "english": "This must be my book.",
+  "pinyin": "zhè kěn​dìng shì wǒ de shū。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "肯定",
+      "en": "must",
+      "pi": "kěn​dìng"
+    },
+    {
+      "ch": "是",
+      "en": "be",
+      "pi": "shì"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    }
+  ]
+}

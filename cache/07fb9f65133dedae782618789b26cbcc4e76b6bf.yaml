@@ -1,0 +1,27 @@
+{
+  "chinese": "我想吃苹果派。",
+  "english": "I want to eat apple pie.",
+  "pinyin": "wǒ xiǎng chī píngguǒ pài.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "苹果派",
+      "en": "apple pie",
+      "pi": "píngguǒ pài"
+    }
+  ]
+}

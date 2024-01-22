@@ -1,0 +1,32 @@
+{
+  "chinese": "这是汤姆的雨伞。",
+  "english": "This is Tom's umbrella.",
+  "pinyin": "zhè shì tāng mǔ de yǔ sǎn.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "This",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "的",
+      "en": "'s",
+      "pi": "de"
+    },
+    {
+      "ch": "雨伞",
+      "en": "umbrella",
+      "pi": "yǔ sǎn"
+    }
+  ]
+}

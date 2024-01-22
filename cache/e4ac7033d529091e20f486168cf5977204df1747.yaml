@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆是对数学感兴趣。",
+  "english": "Tom is interested in mathematics.",
+  "pinyin": "Tāng mǔ shì duì shù xué gǎn xìng qù.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "对",
+      "en": "interested",
+      "pi": "duì"
+    },
+    {
+      "ch": "数学",
+      "en": "in mathematics",
+      "pi": "shù xué"
+    },
+    {
+      "ch": "感兴趣",
+      "en": "interested",
+      "pi": "gǎn xìng qù"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "他的衬衫被酱汁弄脏了。",
+  "english": "His shirt got dirty with sauce.",
+  "pinyin": "Tā de chènshān bèi jiàngzhī nòng zāng le。",
+  "words": [
+    {"ch": "他的", "en": "his", "pi": "Tā de"},
+    {"ch": "衬衫", "en": "shirt", "pi": "chènshān"},
+    {"ch": "被", "en": "got", "pi": "bèi"},
+    {"ch": "酱汁", "en": "sauce", "pi": "jiàngzhī"},
+    {"ch": "弄脏", "en": "dirty", "pi": "nòng zāng"},
+    {"ch": "了", "en": "with", "pi": "le"}
+  ]
+}

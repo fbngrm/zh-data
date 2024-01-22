@@ -1,0 +1,16 @@
+{
+  "chinese": "瑞士的键盘没有「ß」这个符号。",
+  "english": "Swiss keyboards do not have the symbol \"ß\".",
+  "pinyin": "Ruìshì de jiànpán méiyǒu 「ß」 zhège fúhào。",
+  "words": [
+    { "ch": "瑞士", "en": "Swiss", "pi": "Ruìshì" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "键盘", "en": "keyboard", "pi": "jiànpán" },
+    { "ch": "没有", "en": "do not have", "pi": "méiyǒu" },
+    { "ch": "「", "en": "\"", "pi": "「" },
+    { "ch": "ß", "en": "ß", "pi": "" },
+    { "ch": "」", "en": "\"", "pi": "」" },
+    { "ch": "这个", "en": "this", "pi": "zhège" },
+    { "ch": "符号", "en": "symbol", "pi": "fúhào" }
+  ]
+}

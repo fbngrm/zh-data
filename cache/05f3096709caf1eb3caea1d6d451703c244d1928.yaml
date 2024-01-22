@@ -1,0 +1,42 @@
+{
+  "chinese": "你要再来颗苹果吗？",
+  "english": "Do you want another apple?",
+  "pinyin": "nǐ yào zài lái kē píngguǒ ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "再",
+      "en": "another",
+      "pi": "zài"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    },
+    {
+      "ch": "颗",
+      "en": "measure word",
+      "pi": "kē"
+    },
+    {
+      "ch": "苹果",
+      "en": "apple",
+      "pi": "píngguǒ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

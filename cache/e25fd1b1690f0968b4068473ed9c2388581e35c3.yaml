@@ -1,0 +1,32 @@
+{
+  "chinese": "他还没写信。",
+  "english": "He hasn't written the letter yet.",
+  "pinyin": "tā hái méi xiě xìn.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "还",
+      "en": "still",
+      "pi": "hái"
+    },
+    {
+      "ch": "没",
+      "en": "not",
+      "pi": "méi"
+    },
+    {
+      "ch": "写",
+      "en": "to write",
+      "pi": "xiě"
+    },
+    {
+      "ch": "信",
+      "en": "letter",
+      "pi": "xìn"
+    }
+  ]
+}

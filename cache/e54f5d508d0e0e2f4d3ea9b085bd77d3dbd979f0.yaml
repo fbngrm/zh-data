@@ -1,0 +1,27 @@
+{
+  "chinese": "已经刮风两天了。",
+  "english": "It has been windy for two days.",
+  "pinyin": "yǐ jīng guā fēng liǎng tiān le。",
+  "words": [
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐ jīng"
+    },
+    {
+      "ch": "刮风",
+      "en": "windy",
+      "pi": "guā fēng"
+    },
+    {
+      "ch": "两天",
+      "en": "two days",
+      "pi": "liǎng tiān"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating a completed action",
+      "pi": "le"
+    }
+  ]
+}

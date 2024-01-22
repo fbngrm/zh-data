@@ -1,0 +1,32 @@
+{
+  "chinese": "我现在不能回答你。",
+  "english": "I can't answer you now.",
+  "pinyin": "wǒ xiàn zài bù néng huí dá nǐ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "不能",
+      "en": "can't",
+      "pi": "bù néng"
+    },
+    {
+      "ch": "回答",
+      "en": "answer",
+      "pi": "huí dá"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    }
+  ]
+}

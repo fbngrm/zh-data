@@ -1,0 +1,13 @@
+{
+  "chinese": "汤姆一定会试着阻挡我。",
+  "english": "Tom will definitely try to stop me.",
+  "pinyin": "tāng mǔ yī dìng huì shì zhe zǔ dǎng wǒ。",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "一定", "en": "definitely", "pi": "yī dìng"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "试着", "en": "try to", "pi": "shì zhe"},
+    {"ch": "阻挡", "en": "stop", "pi": "zǔ dǎng"},
+    {"ch": "我", "en": "me", "pi": "wǒ"}
+  ]
+}

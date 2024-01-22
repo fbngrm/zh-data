@@ -1,0 +1,37 @@
+{
+  "chinese": "我不知道你不会游泳。",
+  "english": "I did not know that you cannot swim.",
+  "pinyin": "Wǒ bù zhīdào nǐ bù huì yóuyǒng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "不会",
+      "en": "cannot",
+      "pi": "bùhuì"
+    },
+    {
+      "ch": "游泳",
+      "en": "swim",
+      "pi": "yóuyǒng"
+    }
+  ]
+}

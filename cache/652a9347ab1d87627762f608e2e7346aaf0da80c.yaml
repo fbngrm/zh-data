@@ -1,0 +1,14 @@
+{
+  "chinese": "酸性会腐蚀含有金属的物质。",
+  "english": "Acidity can corrode substances that contain metal.",
+  "pinyin": "Suānxìng huì fǔshì hán yǒu jīnshǔ de wùzhí.",
+  "words": [
+    {"ch": "酸性", "en": "acidity", "pi": "suānxìng"},
+    {"ch": "会", "en": "can", "pi": "huì"},
+    {"ch": "腐蚀", "en": "corrode", "pi": "fǔshì"},
+    {"ch": "含有", "en": "contain", "pi": "hán yǒu"},
+    {"ch": "金属", "en": "metal", "pi": "jīnshǔ"},
+    {"ch": "的", "en": "that", "pi": "de"},
+    {"ch": "物质", "en": "substances", "pi": "wùzhí"}
+  ]
+}

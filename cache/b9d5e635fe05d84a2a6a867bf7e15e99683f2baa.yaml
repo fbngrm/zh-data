@@ -1,0 +1,93 @@
+{
+  "sentences": [
+    {
+      "chinese": "我偏爱繁体字。",
+      "english": "I prefer traditional characters.",
+      "pinyin": "wǒ piān'ài fántǐzì。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "偏爱",
+          "en": "prefer",
+          "pi": "piān'ài"
+        },
+        {
+          "ch": "繁体字",
+          "en": "traditional characters",
+          "pi": "fántǐzì"
+        }
+      ]
+    },
+    {
+      "chinese": "因为有大量的简体字的阅读材料，我也认识很多简体字。",
+      "english": "Because there are a large number of reading materials in simplified characters, I am also familiar with many simplified characters.",
+      "pinyin": "yīnwèi yǒu dàliàng de jiǎntǐzì de yuèdú cáiliào, wǒ yě rènshí hěnduō jiǎntǐzì。",
+      "words": [
+        {
+          "ch": "因为",
+          "en": "because",
+          "pi": "yīnwèi"
+        },
+        {
+          "ch": "有",
+          "en": "there are",
+          "pi": "yǒu"
+        },
+        {
+          "ch": "大量的",
+          "en": "a large number of",
+          "pi": "dàliàng de"
+        },
+        {
+          "ch": "简体字",
+          "en": "simplified characters",
+          "pi": "jiǎntǐzì"
+        },
+        {
+          "ch": "的",
+          "en": "of",
+          "pi": "de"
+        },
+        {
+          "ch": "阅读",
+          "en": "reading",
+          "pi": "yuèdú"
+        },
+        {
+          "ch": "材料",
+          "en": "materials",
+          "pi": "cáiliào"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "也",
+          "en": "also",
+          "pi": "yě"
+        },
+        {
+          "ch": "认识",
+          "en": "familiar with",
+          "pi": "rènshí"
+        },
+        {
+          "ch": "很多",
+          "en": "many",
+          "pi": "hěnduō"
+        },
+        {
+          "ch": "简体字",
+          "en": "simplified characters",
+          "pi": "jiǎntǐzì"
+        }
+      ]
+    }
+  ]
+}

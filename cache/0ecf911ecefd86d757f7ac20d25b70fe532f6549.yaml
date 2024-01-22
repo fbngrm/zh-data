@@ -1,0 +1,32 @@
+{
+  "chinese": "这些机器目前不运转。",
+  "english": "These machines are not currently operating.",
+  "pinyin": "zhè xiē jī qì mù qián bù yùn zhuǎn。",
+  "words": [
+    {
+      "ch": "这些",
+      "en": "These",
+      "pi": "zhè xiē"
+    },
+    {
+      "ch": "机器",
+      "en": "machines",
+      "pi": "jī qì"
+    },
+    {
+      "ch": "目前",
+      "en": "currently",
+      "pi": "mù qián"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "运转",
+      "en": "operating",
+      "pi": "yùn zhuǎn"
+    }
+  ]
+}

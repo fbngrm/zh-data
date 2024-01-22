@@ -1,0 +1,42 @@
+{
+  "chinese": "除了英语，他还会说法语。",
+  "english": "Besides English, he also speaks French.",
+  "pinyin": "Chúle yīngyǔ, tā hái huì shuō fǎyǔ.",
+  "words": [
+    {
+      "ch": "除了",
+      "en": "Besides",
+      "pi": "chúle"
+    },
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīngyǔ"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "还",
+      "en": "also",
+      "pi": "hái"
+    },
+    {
+      "ch": "会",
+      "en": "speak",
+      "pi": "huì"
+    },
+    {
+      "ch": "说",
+      "en": "say",
+      "pi": "shuō"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎyǔ"
+    }
+  ]
+}

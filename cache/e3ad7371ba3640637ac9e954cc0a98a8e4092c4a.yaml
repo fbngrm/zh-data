@@ -1,0 +1,12 @@
+{
+  "chinese": "他写了本新书。",
+  "english": "He wrote a new book.",
+  "pinyin": "tā xiě le běn xīnshū。",
+  "words": [
+    { "ch": "他", "en": "He", "pi": "tā" },
+    { "ch": "写", "en": "wrote", "pi": "xiě" },
+    { "ch": "了", "en": "", "pi": "le" },
+    { "ch": "本", "en": "a", "pi": "běn" },
+    { "ch": "新书", "en": "new book", "pi": "xīnshū" }
+  ]
+}

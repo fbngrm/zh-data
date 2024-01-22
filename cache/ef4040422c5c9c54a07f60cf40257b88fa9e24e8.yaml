@@ -1,0 +1,14 @@
+{
+  "chinese": "这个食物尝起来有一点大蒜味。",
+  "english": "This food tastes a little bit like garlic.",
+  "pinyin": "zhè gè shí wù cháng qǐ lái yǒu yī diǎn dà suàn wèi。",
+  "words": [
+    {"ch": "这个", "en": "this", "pi": "zhè gè"},
+    {"ch": "食物", "en": "food", "pi": "shí wù"},
+    {"ch": "尝", "en": "taste", "pi": "cháng"},
+    {"ch": "起来", "en": "like", "pi": "qǐ lái"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "一点", "en": "a little bit", "pi": "yī diǎn"},
+    {"ch": "大蒜味", "en": "garlic taste", "pi": "dà suàn wèi"}
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "我开门的时候弄坏了锁。",
+  "english": "I broke the lock when I opened the door.",
+  "pinyin": "wǒ kāimén de shíhou nònghuài le suǒ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "开门",
+      "en": "open the door",
+      "pi": "kāimén"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "时候",
+      "en": "when",
+      "pi": "shíhou"
+    },
+    {
+      "ch": "弄坏",
+      "en": "broke",
+      "pi": "nònghuài"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "锁",
+      "en": "lock",
+      "pi": "suǒ"
+    }
+  ]
+}

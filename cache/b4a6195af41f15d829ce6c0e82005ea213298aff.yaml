@@ -1,0 +1,68 @@
+{
+  "sentences": [
+    {
+      "chinese": "这件衬衫我不喜欢。",
+      "english": "I don't like this shirt.",
+      "pinyin": "zhè jiàn chèn shān wǒ bù xǐ huān。",
+      "words": [
+        {
+          "ch": "这件",
+          "en": "this",
+          "pi": "zhè jiàn"
+        },
+        {
+          "ch": "衬衫",
+          "en": "shirt",
+          "pi": "chèn shān"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "不",
+          "en": "don't",
+          "pi": "bù"
+        },
+        {
+          "ch": "喜欢",
+          "en": "like",
+          "pi": "xǐ huān"
+        }
+      ]
+    },
+    {
+      "chinese": "把另外一件给我看一下。",
+      "english": "Show me another one.",
+      "pinyin": "bǎ lìng wài yī jiàn gěi wǒ kàn yī xià。",
+      "words": [
+        {
+          "ch": "把",
+          "en": "show",
+          "pi": "bǎ"
+        },
+        {
+          "ch": "另外",
+          "en": "another",
+          "pi": "lìng wài"
+        },
+        {
+          "ch": "一件",
+          "en": "one",
+          "pi": "yī jiàn"
+        },
+        {
+          "ch": "给",
+          "en": "me",
+          "pi": "gěi"
+        },
+        {
+          "ch": "看一下",
+          "en": "look",
+          "pi": "kàn yī xià"
+        }
+      ]
+    }
+  ]
+}

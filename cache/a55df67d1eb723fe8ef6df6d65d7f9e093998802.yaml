@@ -1,0 +1,13 @@
+{
+"chinese": "汤姆在玛丽身上花时间。",
+"english": "Tom spends time on Mary.",
+"pinyin": "Tāng mǔ zài mǎ lì shēn shàng huā shí jiān.",
+"words":[
+{ "ch":"汤姆", "en":"Tom", "pi":"tāng mǔ"},
+{ "ch":"在", "en":"on", "pi":"zài"},
+{ "ch":"玛丽", "en":"Mary", "pi":"mǎ lì"},
+{ "ch":"身上", "en":"on", "pi":"shēn shàng"},
+{ "ch":"花", "en":"spend", "pi":"huā"},
+{ "ch":"时间", "en":"time", "pi":"shí jiān"}
+]
+}

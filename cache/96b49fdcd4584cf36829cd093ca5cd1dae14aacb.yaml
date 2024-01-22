@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆和玛丽可以互相学习很多。",
+  "english": "Tom and Mary can learn a lot from each other.",
+  "pinyin": "Tāng mǔ hé mǎ lì kě yǐ hù xiāng xué xí hěn duō.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kě yǐ"
+    },
+    {
+      "ch": "互相",
+      "en": "each other",
+      "pi": "hù xiāng"
+    },
+    {
+      "ch": "学习",
+      "en": "learn",
+      "pi": "xué xí"
+    },
+    {
+      "ch": "很多",
+      "en": "a lot",
+      "pi": "hěn duō"
+    }
+  ]
+}

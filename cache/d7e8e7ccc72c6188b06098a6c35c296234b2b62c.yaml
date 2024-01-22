@@ -1,0 +1,42 @@
+{
+  "chinese": "我们班属小李的个子最高。",
+  "english": "In our class, Xiao Li is the tallest.",
+  "pinyin": "wǒmen bān shǔ xiǎo lǐ de gè zi zuì gāo.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "班",
+      "en": "class",
+      "pi": "bān"
+    },
+    {
+      "ch": "属",
+      "en": "to belong to",
+      "pi": "shǔ"
+    },
+    {
+      "ch": "小李",
+      "en": "Xiao Li",
+      "pi": "xiǎo lǐ"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "个子",
+      "en": "height",
+      "pi": "gè zi"
+    },
+    {
+      "ch": "最高",
+      "en": "tallest",
+      "pi": "zuì gāo"
+    }
+  ]
+}

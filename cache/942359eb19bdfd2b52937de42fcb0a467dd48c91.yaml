@@ -1,0 +1,27 @@
+{
+  "chinese": "日本人不会做这种事。",
+  "english": "Japanese people don't do such things.",
+  "pinyin": "Rìběn rén bú huì zuò zhè zhǒng shì。",
+  "words": [
+    {
+      "ch": "日本人",
+      "en": "Japanese people",
+      "pi": "Rìběn rén"
+    },
+    {
+      "ch": "不会",
+      "en": "don't",
+      "pi": "bú huì"
+    },
+    {
+      "ch": "做",
+      "en": "do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "这种事",
+      "en": "such things",
+      "pi": "zhè zhǒng shì"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我躺在草地上。",
+  "english": "I am lying on the grass.",
+  "pinyin": "wǒ tǎng zài cǎo dì shàng。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "躺",
+      "en": "lie",
+      "pi": "tǎng"
+    },
+    {
+      "ch": "在",
+      "en": "on",
+      "pi": "zài"
+    },
+    {
+      "ch": "草地",
+      "en": "grass",
+      "pi": "cǎo dì"
+    },
+    {
+      "ch": "上",
+      "en": "above",
+      "pi": "shàng"
+    }
+  ]
+}

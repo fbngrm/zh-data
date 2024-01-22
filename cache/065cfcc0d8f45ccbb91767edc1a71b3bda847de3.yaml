@@ -1,0 +1,32 @@
+{
+  "chinese": "他正在洗他的车。",
+  "english": "He is washing his car.",
+  "pinyin": "tā zhèngzài xǐ tā de chē。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "正在",
+      "en": "is",
+      "pi": "zhèngzài"
+    },
+    {
+      "ch": "洗",
+      "en": "washing",
+      "pi": "xǐ"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "车",
+      "en": "car",
+      "pi": "chē"
+    }
+  ]
+}

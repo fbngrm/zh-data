@@ -1,0 +1,27 @@
+{
+  "chinese": "这周放什么电影？",
+  "english": "What movies are playing this week?",
+  "pinyin": "zhè zhōu fàng shén me diàn yǐng?",
+  "words": [
+    {
+      "ch": "这周",
+      "en": "this week",
+      "pi": "zhè zhōu"
+    },
+    {
+      "ch": "放",
+      "en": "to show",
+      "pi": "fàng"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shén me"
+    },
+    {
+      "ch": "电影",
+      "en": "movies",
+      "pi": "diàn yǐng"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "红红，好久不见！你最近怎么样？",
+  "english": "Honghong, long time no see! How have you been recently?",
+  "pinyin": "Hóng hóng, hǎo jiǔ bú jiàn! Nǐ zuì jìn zěn me yàng?",
+  "words": [
+    {
+      "ch": "红红",
+      "en": "Honghong",
+      "pi": "Hóng hóng"
+    },
+    {
+      "ch": "好久不见",
+      "en": "long time no see",
+      "pi": "hǎo jiǔ bú jiàn"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "最近",
+      "en": "recently",
+      "pi": "zuì jìn"
+    },
+    {
+      "ch": "怎么样",
+      "en": "how have you been",
+      "pi": "zěn me yàng"
+    }
+  ]
+}

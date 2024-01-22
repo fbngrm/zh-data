@@ -1,0 +1,50 @@
+{
+  "sentences": [
+    {
+      "chinese": "下班以后，我先去骑自行车，然后游泳。",
+      "english": "After work, I first go cycling, and then swimming.",
+      "pinyin": "Xiàbān yǐhòu, wǒ xiān qù qí zìxíngchē, ránhòu yóuyǒng.",
+      "words": [
+        {"ch": "下班", "en": "after work", "pi": "xiàbān"},
+        {"ch": "以后", "en": "after", "pi": "yǐhòu"},
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "先", "en": "first", "pi": "xiān"},
+        {"ch": "去", "en": "go", "pi": "qù"},
+        {"ch": "骑", "en": "cycle", "pi": "qí"},
+        {"ch": "自行车", "en": "bicycle", "pi": "zìxíngchē"},
+        {"ch": "然后", "en": "then", "pi": "ránhòu"},
+        {"ch": "游泳", "en": "swim", "pi": "yóuyǒng"}
+      ]
+    },
+    {
+      "chinese": "回家以后，帮我太太做晚饭。",
+      "english": "After returning home, help my wife cook dinner.",
+      "pinyin": "Huíjiā yǐhòu, bāng wǒ tàitài zuò wǎnfàn.",
+      "words": [
+        {"ch": "回家", "en": "return home", "pi": "huíjiā"},
+        {"ch": "以后", "en": "after", "pi": "yǐhòu"},
+        {"ch": "帮", "en": "help", "pi": "bāng"},
+        {"ch": "我", "en": "me", "pi": "wǒ"},
+        {"ch": "太太", "en": "wife", "pi": "tàitài"},
+        {"ch": "做", "en": "cook", "pi": "zuò"},
+        {"ch": "晚饭", "en": "dinner", "pi": "wǎnfàn"}
+      ]
+    },
+    {
+      "chinese": "吃完晚饭后，我通常看电视，有时看书。",
+      "english": "After finishing dinner, I usually watch TV, sometimes read books.",
+      "pinyin": "Chī wán wǎnfàn hòu, wǒ tōngcháng kàn diànshì, yǒushí kàn shū.",
+      "words": [
+        {"ch": "吃完", "en": "finish eating", "pi": "chī wán"},
+        {"ch": "晚饭", "en": "dinner", "pi": "wǎnfàn"},
+        {"ch": "后", "en": "after", "pi": "hòu"},
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "通常", "en": "usually", "pi": "tōngcháng"},
+        {"ch": "看", "en": "watch", "pi": "kàn"},
+        {"ch": "电视", "en": "TV", "pi": "diànshì"},
+        {"ch": "有时", "en": "sometimes", "pi": "yǒushí"},
+        {"ch": "看书", "en": "read books", "pi": "kàn shū"}
+      ]
+    }
+  ]
+}

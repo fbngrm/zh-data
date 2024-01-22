@@ -1,0 +1,27 @@
+{
+  "chinese": "上下班时间，公共汽车特别拥挤。",
+  "english": "During rush hour, the bus is particularly crowded.",
+  "pinyin": "shàng xià bān shí jiān, gōng gòng qì chē tè bié yōng jǐ",
+  "words": [
+    {
+      "ch": "上下班时间",
+      "en": "during rush hour",
+      "pi": "shàng xià bān shí jiān"
+    },
+    {
+      "ch": "公共汽车",
+      "en": "bus",
+      "pi": "gōng gòng qì chē"
+    },
+    {
+      "ch": "特别",
+      "en": "particularly",
+      "pi": "tè bié"
+    },
+    {
+      "ch": "拥挤",
+      "en": "crowded",
+      "pi": "yōng jǐ"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "是的，柳橙汁，麻烦你。",
+  "english": "Yes, orange juice, please.",
+  "pinyin": "shì de, liǔ chéng zhī, má fan nǐ。",
+  "words": [
+    {
+      "ch": "是",
+      "en": "Yes",
+      "pi": "shì"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "柳橙汁",
+      "en": "orange juice",
+      "pi": "liǔ chéng zhī"
+    },
+    {
+      "ch": "麻烦",
+      "en": "please",
+      "pi": "má fan"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    }
+  ]
+}

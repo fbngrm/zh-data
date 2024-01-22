@@ -1,0 +1,32 @@
+{
+  "chinese": "她问了他问题。",
+  "english": "She asked him a question.",
+  "pinyin": "tā wèn le tā wèn tí.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "问",
+      "en": "ask",
+      "pi": "wèn"
+    },
+    {
+      "ch": "了",
+      "en": "him",
+      "pi": "le"
+    },
+    {
+      "ch": "他",
+      "en": "a",
+      "pi": "tā"
+    },
+    {
+      "ch": "问题",
+      "en": "question",
+      "pi": "wèn tí"
+    }
+  ]
+}

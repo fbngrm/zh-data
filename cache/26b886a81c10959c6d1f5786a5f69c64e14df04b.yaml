@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆送我去了那里。",
+  "english": "Tom took me there.",
+  "pinyin": "tāng mǔ sòng wǒ qù le nà lǐ.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "送",
+      "en": "took",
+      "pi": "sòng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "去",
+      "en": "there",
+      "pi": "qù"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "那里",
+      "en": "that place",
+      "pi": "nà lǐ"
+    }
+  ]
+}

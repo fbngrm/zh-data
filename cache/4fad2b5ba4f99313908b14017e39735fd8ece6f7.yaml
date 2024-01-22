@@ -1,0 +1,37 @@
+{
+  "chinese": "你知道怎么打麻将吗？",
+  "english": "Do you know how to play mahjong?",
+  "pinyin": "Nǐ zhīdào zěnme dǎ májiàng ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "怎么",
+      "en": "how",
+      "pi": "zěnme"
+    },
+    {
+      "ch": "打",
+      "en": "play",
+      "pi": "dǎ"
+    },
+    {
+      "ch": "麻将",
+      "en": "mahjong",
+      "pi": "májiàng"
+    },
+    {
+      "ch": "吗",
+      "en": "do",
+      "pi": "ma"
+    }
+  ]
+}

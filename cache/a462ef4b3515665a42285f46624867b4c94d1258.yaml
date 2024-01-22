@@ -1,0 +1,14 @@
+{
+  "chinese": "你應該馬上把功課做完。",
+  "english": "You should finish your homework right away.",
+  "pinyin": "nǐ yīng gāi mǎ shàng bǎ gōng kè zuò wán。",
+  "words": [
+    { "ch": "你", "en": "You", "pi": "nǐ" },
+    { "ch": "應該", "en": "should", "pi": "yīng gāi" },
+    { "ch": "馬上", "en": "right away", "pi": "mǎ shàng" },
+    { "ch": "把", "en": "finish", "pi": "bǎ" },
+    { "ch": "功課", "en": "homework", "pi": "gōng kè" },
+    { "ch": "做", "en": "do", "pi": "zuò" },
+    { "ch": "完", "en": "complete", "pi": "wán" }
+  ]
+}

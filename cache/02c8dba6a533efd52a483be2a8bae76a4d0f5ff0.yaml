@@ -1,0 +1,42 @@
+{
+  "chinese": "请你把胡椒递给我好吗?",
+  "english": "Can you pass me the pepper please?",
+  "pinyin": "qǐng nǐ bǎ hú jiāo dì gěi wǒ hǎo ma?",
+  "words": [
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "把",
+      "en": "to pass",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "胡椒",
+      "en": "pepper",
+      "pi": "hú jiāo"
+    },
+    {
+      "ch": "递给",
+      "en": "to pass",
+      "pi": "dì gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "好吗",
+      "en": "please",
+      "pi": "hǎo ma"
+    }
+  ]
+}

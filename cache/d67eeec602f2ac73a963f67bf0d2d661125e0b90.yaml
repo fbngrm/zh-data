@@ -1,0 +1,32 @@
+{
+  "chinese": "我在花园里玩。",
+  "english": "I am playing in the garden.",
+  "pinyin": "wǒ zài huā yuán lǐ wán.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "am",
+      "pi": "zài"
+    },
+    {
+      "ch": "花园",
+      "en": "garden",
+      "pi": "huā yuán"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "玩",
+      "en": "playing",
+      "pi": "wán"
+    }
+  ]
+}

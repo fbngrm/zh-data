@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆把椅子拿到了下个房间。",
+  "english": "Tom brought the chair to the next room.",
+  "pinyin": "Tāng mǔ bǎ yǐ zi ná dào le xià gè fáng jiān.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "把",
+      "en": "brought",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "椅子",
+      "en": "chair",
+      "pi": "yǐ zi"
+    },
+    {
+      "ch": "拿到",
+      "en": "to",
+      "pi": "ná dào"
+    },
+    {
+      "ch": "了",
+      "en": "the",
+      "pi": "le"
+    },
+    {
+      "ch": "下个",
+      "en": "next",
+      "pi": "xià gè"
+    },
+    {
+      "ch": "房间",
+      "en": "room",
+      "pi": "fáng jiān"
+    }
+  ]
+}

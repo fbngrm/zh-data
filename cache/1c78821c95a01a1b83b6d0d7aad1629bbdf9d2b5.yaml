@@ -1,0 +1,13 @@
+{
+  "chinese": "我建议我们星期五出去玩。",
+  "english": "I suggest we go out and play on Friday.",
+  "pinyin": "wǒ jiànyì wǒmen xīngqīwǔ chūqù wán.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "建议", "en": "suggest", "pi": "jiànyì"},
+    {"ch": "我们", "en": "we", "pi": "wǒmen"},
+    {"ch": "星期五", "en": "Friday", "pi": "xīngqīwǔ"},
+    {"ch": "出去", "en": "go out", "pi": "chūqù"},
+    {"ch": "玩", "en": "play", "pi": "wán"}
+  ]
+}

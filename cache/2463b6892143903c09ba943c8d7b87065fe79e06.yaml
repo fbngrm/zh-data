@@ -1,0 +1,42 @@
+{
+  "chinese": "老鼠来了！快去叫猫来！",
+  "english": "The mouse is here! Quickly go and call the cat!",
+  "pinyin": "Lǎoshǔ láile! Kuài qù jiào māo lái!",
+  "words": [
+    {
+      "ch": "老鼠",
+      "en": "mouse",
+      "pi": "lǎo shǔ"
+    },
+    {
+      "ch": "来了",
+      "en": "is here",
+      "pi": "lái le"
+    },
+    {
+      "ch": "快",
+      "en": "quickly",
+      "pi": "kuài"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "叫",
+      "en": "call",
+      "pi": "jiào"
+    },
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "你是怎么知道的？",
+  "english": "How did you know?",
+  "pinyin": "nǐ shì zěnme zhīdào de?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "怎么",
+      "en": "how",
+      "pi": "zěnme"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "的",
+      "en": "particle indicating past tense",
+      "pi": "de"
+    }
+  ]
+}

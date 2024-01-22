@@ -1,0 +1,13 @@
+{
+  "chinese": "安迪是精通法語和德語。",
+  "english": "Andy is fluent in French and German.",
+  "pinyin": "ān dí shì jīng tōng fǎ yǔ hé dé yǔ。",
+  "words": [
+    {"ch": "安迪", "en": "Andy", "pi": "ān dí"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "精通", "en": "fluent", "pi": "jīng tōng"},
+    {"ch": "法語", "en": "French", "pi": "fǎ yǔ"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "德語", "en": "German", "pi": "dé yǔ"}
+  ]
+}

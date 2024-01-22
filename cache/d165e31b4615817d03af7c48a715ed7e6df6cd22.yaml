@@ -1,0 +1,37 @@
+{
+  "chinese": "我们学校在八点半开始上课。",
+  "english": "Our school starts classes at half past eight.",
+  "pinyin": "wǒ men xué xiào zài bā diǎn bàn kāi shǐ shàng kè。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "学校",
+      "en": "school",
+      "pi": "xué xiào"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "八点半",
+      "en": "half past eight",
+      "pi": "bā diǎn bàn"
+    },
+    {
+      "ch": "开始",
+      "en": "starts",
+      "pi": "kāi shǐ"
+    },
+    {
+      "ch": "上课",
+      "en": "classes",
+      "pi": "shàng kè"
+    }
+  ]
+}

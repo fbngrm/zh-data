@@ -1,0 +1,42 @@
+{
+  "chinese": "你累了，我也累了。",
+  "english": "You're tired, I'm tired too.",
+  "pinyin": "Nǐ lèi le, wǒ yě lèi le.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "Nǐ"
+    },
+    {
+      "ch": "累了",
+      "en": "tired",
+      "pi": "lèi le"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": ","
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "也",
+      "en": "too",
+      "pi": "yě"
+    },
+    {
+      "ch": "累了",
+      "en": "tired",
+      "pi": "lèi le"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "."
+    }
+  ]
+}

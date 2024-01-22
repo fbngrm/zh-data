@@ -1,0 +1,73 @@
+{
+  "sentences": [
+    {
+      "chinese": "市政府想建设专门的自行车道。",
+      "english": "The city government wants to build dedicated bicycle lanes.",
+      "pinyin": "shì zhèng fǔ xiǎng jiàn shè zhuān mén de zì xíng chē dào。",
+      "words": [
+        {
+          "ch": "市政府",
+          "en": "city government",
+          "pi": "shì zhèng fǔ"
+        },
+        {
+          "ch": "想",
+          "en": "wants",
+          "pi": "xiǎng"
+        },
+        {
+          "ch": "建设",
+          "en": "to build",
+          "pi": "jiàn shè"
+        },
+        {
+          "ch": "专门的",
+          "en": "dedicated",
+          "pi": "zhuān mén de"
+        },
+        {
+          "ch": "自行车道",
+          "en": "bicycle lanes",
+          "pi": "zì xíng chē dào"
+        }
+      ]
+    },
+    {
+      "chinese": "但是，很多司机反对这个主意。",
+      "english": "However, many drivers oppose this idea.",
+      "pinyin": "dàn shì, hěn duō sī jī fǎn duì zhè ge zhǔ yì。",
+      "words": [
+        {
+          "ch": "但是",
+          "en": "however",
+          "pi": "dàn shì"
+        },
+        {
+          "ch": "很多",
+          "en": "many",
+          "pi": "hěn duō"
+        },
+        {
+          "ch": "司机",
+          "en": "drivers",
+          "pi": "sī jī"
+        },
+        {
+          "ch": "反对",
+          "en": "to oppose",
+          "pi": "fǎn duì"
+        },
+        {
+          "ch": "这个",
+          "en": "this",
+          "pi": "zhè ge"
+        },
+        {
+          "ch": "主意",
+          "en": "idea",
+          "pi": "zhǔ yì"
+        }
+      ]
+    }
+  ]
+}

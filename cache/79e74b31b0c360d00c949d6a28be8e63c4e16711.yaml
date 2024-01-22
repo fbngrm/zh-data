@@ -1,0 +1,32 @@
+{
+  "chinese": "我的猫会爱上这个。",
+  "english": "My cat will fall in love with this.",
+  "pinyin": "wǒ de māo huì ài shàng zhè ge.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "爱上",
+      "en": "fall in love with",
+      "pi": "ài shàng"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè ge"
+    }
+  ]
+}

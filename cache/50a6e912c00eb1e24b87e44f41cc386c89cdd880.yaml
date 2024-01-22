@@ -1,0 +1,13 @@
+{
+  "chinese": "你上次禁食是什么时候？",
+  "english": "When was the last time you fasted?",
+  "pinyin": "Nǐ shàng cì jìn shí shì shénme shíhòu？",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "上次", "en": "last time", "pi": "shàng cì"},
+    {"ch": "禁食", "en": "fast", "pi": "jìn shí"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "什么", "en": "what", "pi": "shénme"},
+    {"ch": "时候", "en": "time", "pi": "shíhòu"}
+  ]
+}

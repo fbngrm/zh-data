@@ -1,0 +1,32 @@
+{
+  "chinese": "学生不准进入这个房间。",
+  "english": "Students are not allowed to enter this room.",
+  "pinyin": "xué shēng bù zhǔn jìn rù zhè ge fáng jiān.",
+  "words": [
+    {
+      "ch": "学生",
+      "en": "Students",
+      "pi": "xué shēng"
+    },
+    {
+      "ch": "不准",
+      "en": "not allowed",
+      "pi": "bù zhǔn"
+    },
+    {
+      "ch": "进入",
+      "en": "to enter",
+      "pi": "jìn rù"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè ge"
+    },
+    {
+      "ch": "房间",
+      "en": "room",
+      "pi": "fáng jiān"
+    }
+  ]
+}

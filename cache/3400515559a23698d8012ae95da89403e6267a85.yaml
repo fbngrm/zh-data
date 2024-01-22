@@ -1,0 +1,47 @@
+{
+  "chinese": "由于天气不好，飞机迟到了３小时。",
+  "english": "Due to bad weather, the plane was delayed for 3 hours.",
+  "pinyin": "yóuyú tiānqì bùhǎo, fēijī chídào le sān xiǎoshí。",
+  "words": [
+    {
+      "ch": "由于",
+      "en": "Due to",
+      "pi": "yóuyú"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiānqì"
+    },
+    {
+      "ch": "不好",
+      "en": "bad",
+      "pi": "bùhǎo"
+    },
+    {
+      "ch": "飞机",
+      "en": "plane",
+      "pi": "fēijī"
+    },
+    {
+      "ch": "迟到",
+      "en": "delayed",
+      "pi": "chídào"
+    },
+    {
+      "ch": "了",
+      "en": "for",
+      "pi": "le"
+    },
+    {
+      "ch": "３",
+      "en": "3",
+      "pi": "sān"
+    },
+    {
+      "ch": "小时",
+      "en": "hours",
+      "pi": "xiǎoshí"
+    }
+  ]
+}

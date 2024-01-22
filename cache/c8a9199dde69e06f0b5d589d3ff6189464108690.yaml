@@ -1,0 +1,42 @@
+{
+  "chinese": "我接到了他打来的电话。",
+  "english": "I received a call from him.",
+  "pinyin": "wǒ jiē dào le tā dǎ lái de diàn huà.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "接到",
+      "en": "received",
+      "pi": "jiē dào"
+    },
+    {
+      "ch": "了",
+      "en": "a",
+      "pi": "le"
+    },
+    {
+      "ch": "他",
+      "en": "him",
+      "pi": "tā"
+    },
+    {
+      "ch": "打来",
+      "en": "call",
+      "pi": "dǎ lái"
+    },
+    {
+      "ch": "的",
+      "en": "from",
+      "pi": "de"
+    },
+    {
+      "ch": "电话",
+      "en": "telephone",
+      "pi": "diàn huà"
+    }
+  ]
+}

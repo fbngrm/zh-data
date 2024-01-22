@@ -1,0 +1,37 @@
+{
+  "chinese": "我们的车配备了空调。",
+  "english": "Our car is equipped with air conditioning.",
+  "pinyin": "Wǒmen de chē pèibèi le kōngtiáo.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "Wǒmen"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "车",
+      "en": "car",
+      "pi": "chē"
+    },
+    {
+      "ch": "配备",
+      "en": "equipped with",
+      "pi": "pèibèi"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "空调",
+      "en": "air conditioning",
+      "pi": "kōngtiáo"
+    }
+  ]
+}

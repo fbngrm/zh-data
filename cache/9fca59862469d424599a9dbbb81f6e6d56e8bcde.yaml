@@ -1,0 +1,42 @@
+{
+  "chinese": "除了水果，他什么都没吃。",
+  "english": "Other than fruit, he didn't eat anything.",
+  "pinyin": "chú le shuǐguǒ, tā shénme dōu méi chī.",
+  "words": [
+    {
+      "ch": "除了",
+      "en": "other than",
+      "pi": "chú le"
+    },
+    {
+      "ch": "水果",
+      "en": "fruit",
+      "pi": "shuǐguǒ"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "没",
+      "en": "didn't",
+      "pi": "méi"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    }
+  ]
+}

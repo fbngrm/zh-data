@@ -1,0 +1,11 @@
+{
+  "chinese": "你住这里吗?",
+  "english": "Do you live here?",
+  "pinyin": "nǐ zhù zhèlǐ ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "住", "en": "live", "pi": "zhù"},
+    {"ch": "这里", "en": "here", "pi": "zhèlǐ"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

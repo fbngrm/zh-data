@@ -1,0 +1,13 @@
+{
+  "chinese": "您曾经食物中毒过吗？",
+  "english": "Have you ever had food poisoning?",
+  "pinyin": "nín céngjīng shíwù zhòngdú guò ma?",
+  "words": [
+    { "ch": "您", "en": "you", "pi": "nín" },
+    { "ch": "曾经", "en": "ever", "pi": "céngjīng" },
+    { "ch": "食物", "en": "food", "pi": "shíwù" },
+    { "ch": "中毒", "en": "poisoning", "pi": "zhòngdú" },
+    { "ch": "过", "en": "have", "pi": "guò" },
+    { "ch": "吗", "en": "?" }
+  ]
+}

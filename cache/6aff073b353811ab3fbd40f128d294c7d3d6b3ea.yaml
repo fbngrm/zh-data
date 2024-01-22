@@ -1,0 +1,24 @@
+{
+  "chinese": "现在的孩子认为解决任何生活问题都像重新开始一个电脑游戏那么简单。",
+  "english": "Today's children think that solving any life problem is as simple as starting a computer game all over again.",
+  "pinyin": "xiàn zài de hái zi rèn wéi jiě jué rèn hé shēng huó wèn tí dōu xiàng chóng xīn kāi shǐ yī gè diàn nǎo yóu xì nà me jiǎn dān。",
+  "words": [
+    {"ch": "现在", "en": "today", "pi": "xiàn zài"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "孩子", "en": "children", "pi": "hái zi"},
+    {"ch": "认为", "en": "think", "pi": "rèn wéi"},
+    {"ch": "解决", "en": "solve", "pi": "jiě jué"},
+    {"ch": "任何", "en": "any", "pi": "rèn hé"},
+    {"ch": "生活", "en": "life", "pi": "shēng huó"},
+    {"ch": "问题", "en": "problem", "pi": "wèn tí"},
+    {"ch": "都", "en": "all", "pi": "dōu"},
+    {"ch": "像", "en": "like", "pi": "xiàng"},
+    {"ch": "重新", "en": "again", "pi": "chóng xīn"},
+    {"ch": "开始", "en": "start", "pi": "kāi shǐ"},
+    {"ch": "一个", "en": "a", "pi": "yī gè"},
+    {"ch": "电脑", "en": "computer", "pi": "diàn nǎo"},
+    {"ch": "游戏", "en": "game", "pi": "yóu xì"},
+    {"ch": "那么", "en": "so", "pi": "nà me"},
+    {"ch": "简单", "en": "simple", "pi": "jiǎn dān"}
+  ]
+}

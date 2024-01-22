@@ -1,0 +1,32 @@
+{
+  "chinese": "我们没有必要参加会议。",
+  "english": "We don't need to attend the meeting.",
+  "pinyin": "wǒmen méiyǒu bìyào cānjiā huìyì。",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "没有",
+      "en": "don't have",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "必要",
+      "en": "need",
+      "pi": "bìyào"
+    },
+    {
+      "ch": "参加",
+      "en": "to attend",
+      "pi": "cānjiā"
+    },
+    {
+      "ch": "会议",
+      "en": "meeting",
+      "pi": "huìyì"
+    }
+  ]
+}

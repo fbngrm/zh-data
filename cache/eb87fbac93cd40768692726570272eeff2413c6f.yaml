@@ -1,0 +1,37 @@
+{
+  "chinese": "小明的自控能力很差。",
+  "english": "Xiao Ming has poor self-control.",
+  "pinyin": "Xiǎo Míng de zìkòng nénglì hěn chà.",
+  "words": [
+    {
+      "ch": "小明",
+      "en": "Xiao Ming",
+      "pi": "Xiǎo Míng"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "自控",
+      "en": "self-control",
+      "pi": "zìkòng"
+    },
+    {
+      "ch": "能力",
+      "en": "ability",
+      "pi": "nénglì"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "差",
+      "en": "poor",
+      "pi": "chà"
+    }
+  ]
+}

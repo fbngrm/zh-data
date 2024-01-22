@@ -1,0 +1,57 @@
+{
+  "chinese": "我把爸爸给我的表弄丢了。",
+  "english": "I lost the watch that my father gave me.",
+  "pinyin": "wǒ bǎ bàba gěi wǒ de biǎo nòng diū le。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "把",
+      "en": "take",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "爸爸",
+      "en": "father",
+      "pi": "bàba"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "表",
+      "en": "watch",
+      "pi": "biǎo"
+    },
+    {
+      "ch": "弄",
+      "en": "lost",
+      "pi": "nòng"
+    },
+    {
+      "ch": "丢",
+      "en": "lost",
+      "pi": "diū"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

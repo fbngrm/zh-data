@@ -1,0 +1,22 @@
+{
+  "chinese": "北京热吗？",
+  "english": "Is Beijing hot?",
+  "pinyin": "Běijīng rè ma?",
+  "words": [
+    {
+      "ch": "北京",
+      "en": "Beijing",
+      "pi": "Běijīng"
+    },
+    {
+      "ch": "热",
+      "en": "hot",
+      "pi": "rè"
+    },
+    {
+      "ch": "吗",
+      "en": "Question particle",
+      "pi": "ma"
+    }
+  ]
+}

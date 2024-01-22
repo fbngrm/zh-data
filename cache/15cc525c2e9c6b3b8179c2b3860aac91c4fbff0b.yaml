@@ -1,0 +1,13 @@
+{ "chinese": "他给父母写信至少一周一次。", 
+  "english": "He writes letters to his parents at least once a week.", 
+  "pinyin": "tā gěi fùmǔ xiě xìn zhìshǎo yī zhōu yīcì。",
+  "words": [
+      {"ch": "他", "en": "He", "pi": "tā"},
+      {"ch": "给", "en": "to", "pi": "gěi"},
+      {"ch": "父母", "en": "parents", "pi": "fùmǔ"},
+      {"ch": "写信", "en": "writes letters", "pi": "xiě xìn"},
+      {"ch": "至少", "en": "at least", "pi": "zhìshǎo"},
+      {"ch": "一周", "en": "once a week", "pi": "yī zhōu"},
+      {"ch": "一次", "en": "one time", "pi": "yīcì"}
+  ]
+}

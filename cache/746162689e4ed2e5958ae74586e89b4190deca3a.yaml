@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆的生日是昨天。",
+  "english": "Tom's birthday was yesterday.",
+  "pinyin": "Tāng mǔ de shēngrì shì zuótiān.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "的",
+      "en": "possession",
+      "pi": "de"
+    },
+    {
+      "ch": "生日",
+      "en": "birthday",
+      "pi": "shēngrì"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    }
+  ]
+}

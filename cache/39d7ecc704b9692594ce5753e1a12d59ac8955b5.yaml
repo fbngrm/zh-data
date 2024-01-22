@@ -1,0 +1,17 @@
+{
+  "chinese": "他把我介绍给了一个漂亮的女孩。",
+  "english": "He introduced me to a beautiful girl.",
+  "pinyin": "Tā bǎ wǒ jièshào gěi le yīgè piàoliang de nǚhái.",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "把", "en": "take", "pi": "bǎ"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "介绍", "en": "introduce", "pi": "jièshào"},
+    {"ch": "给", "en": "to", "pi": "gěi"},
+    {"ch": "了", "en": "le", "pi": "le"},
+    {"ch": "一个", "en": "a", "pi": "yīgè"},
+    {"ch": "漂亮", "en": "beautiful", "pi": "piàoliang"},
+    {"ch": "的", "en": "de", "pi": "de"},
+    {"ch": "女孩", "en": "girl", "pi": "nǚhái"}
+  ]
+}

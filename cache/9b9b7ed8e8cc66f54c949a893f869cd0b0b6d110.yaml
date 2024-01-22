@@ -1,0 +1,14 @@
+{
+  "chinese": "她忽视了我所有的警告。",
+  "english": "She ignored all of my warnings.",
+  "pinyin": "tā hū shì le wǒ suǒ yǒu de jǐng gào.",
+  "words": [
+    {"ch": "她", "en": "She", "pi": "tā"},
+    {"ch": "忽视", "en": "ignored", "pi": "hū shì"},
+    {"ch": "了", "en": "all", "pi": "le"},
+    {"ch": "我", "en": "of", "pi": "wǒ"},
+    {"ch": "所有", "en": "my", "pi": "suǒ yǒu"},
+    {"ch": "的", "en": "warnings", "pi": "de"},
+    {"ch": "警告", "en": ".", "pi": "jǐng gào"}
+  ]
+}

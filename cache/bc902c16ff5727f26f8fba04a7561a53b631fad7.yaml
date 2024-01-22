@@ -1,0 +1,42 @@
+{
+  "chinese": "你们两个做了什么有趣的事情呢？",
+  "english": "What interesting things did you two do?",
+  "pinyin": "Nǐmen liǎnggè zuòle shénme yǒuqù de shìqíng ne?",
+  "words": [
+    {
+      "ch": "你们",
+      "en": "you two",
+      "pi": "Nǐmen"
+    },
+    {
+      "ch": "两个",
+      "en": "two",
+      "pi": "liǎnggè"
+    },
+    {
+      "ch": "做了",
+      "en": "did",
+      "pi": "zuòle"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "有趣的",
+      "en": "interesting",
+      "pi": "yǒuqù de"
+    },
+    {
+      "ch": "事情",
+      "en": "things",
+      "pi": "shìqíng"
+    },
+    {
+      "ch": "呢",
+      "en": "question particle",
+      "pi": "ne"
+    }
+  ]
+}

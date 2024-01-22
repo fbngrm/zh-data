@@ -1,0 +1,37 @@
+{
+  "chinese": "玛丽只是穿裙子的女孩。",
+  "english": "Mary is just a girl who wears dresses.",
+  "pinyin": "Mǎ lì zhǐ shì chuān qún zi de nǚ hái.",
+  "words": [
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎ lì"
+    },
+    {
+      "ch": "只是",
+      "en": "just",
+      "pi": "zhǐ shì"
+    },
+    {
+      "ch": "穿",
+      "en": "wear",
+      "pi": "chuān"
+    },
+    {
+      "ch": "裙子",
+      "en": "dress",
+      "pi": "qún zi"
+    },
+    {
+      "ch": "的",
+      "en": "who",
+      "pi": "de"
+    },
+    {
+      "ch": "女孩",
+      "en": "girl",
+      "pi": "nǚ hái"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "你不知道那件事吗？",
+  "english": "Don't you know about that?",
+  "pinyin": "nǐ bù zhīdào nà jiàn shì ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "那",
+      "en": "that",
+      "pi": "nà"
+    },
+    {
+      "ch": "件",
+      "en": "matter",
+      "pi": "jiàn"
+    },
+    {
+      "ch": "事",
+      "en": "thing",
+      "pi": "shì"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

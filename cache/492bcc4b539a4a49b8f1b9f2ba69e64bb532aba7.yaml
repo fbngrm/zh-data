@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆刚从邮局回来。",
+  "english": "Tom just came back from the post office.",
+  "pinyin": "Tāng mǔ gāng cóng yóu jú huí lái.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "刚",
+      "en": "just",
+      "pi": "gāng"
+    },
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "邮局",
+      "en": "post office",
+      "pi": "yóu jú"
+    },
+    {
+      "ch": "回来",
+      "en": "came back",
+      "pi": "huí lái"
+    }
+  ]
+}

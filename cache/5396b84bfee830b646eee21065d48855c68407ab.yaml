@@ -1,0 +1,66 @@
+{
+  "sentences": [
+    {
+      "chinese": "每个人不一样，有的喜欢喝茶，有的喜欢喝咖啡，有的喜欢喝水。",
+      "english": "Everyone is different. Some people like to drink tea, some people like to drink coffee, and some people like to drink water.",
+      "pinyin": "měi gè rén bù yī yàng ，yǒu de xǐ huān hē chá ，yǒu de xǐ huān hē kā fēi ，yǒu de xǐ huān hē shuǐ。",
+      "words": [
+        {
+          "ch": "每个人",
+          "en": "Everyone",
+          "pi": "měi gè rén"
+        },
+        {
+          "ch": "不一样",
+          "en": "is different",
+          "pi": "bù yī yàng"
+        },
+        {
+          "ch": "有的",
+          "en": "Some",
+          "pi": "yǒu de"
+        },
+        {
+          "ch": "喜欢",
+          "en": "like",
+          "pi": "xǐ huān"
+        },
+        {
+          "ch": "喝茶",
+          "en": "drink tea",
+          "pi": "hē chá"
+        },
+        {
+          "ch": "有的",
+          "en": "Some",
+          "pi": "yǒu de"
+        },
+        {
+          "ch": "喜欢",
+          "en": "like",
+          "pi": "xǐ huān"
+        },
+        {
+          "ch": "喝咖啡",
+          "en": "drink coffee",
+          "pi": "hē kā fēi"
+        },
+        {
+          "ch": "有的",
+          "en": "Some",
+          "pi": "yǒu de"
+        },
+        {
+          "ch": "喜欢",
+          "en": "like",
+          "pi": "xǐ huān"
+        },
+        {
+          "ch": "喝水",
+          "en": "drink water",
+          "pi": "hē shuǐ"
+        }
+      ]
+    }
+  ]
+}

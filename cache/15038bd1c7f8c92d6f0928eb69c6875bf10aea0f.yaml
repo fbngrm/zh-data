@@ -1,0 +1,47 @@
+{
+  "chinese": "我加粗了我觉得有趣的文章。",
+  "english": "I bolded the articles that I find interesting.",
+  "pinyin": "wǒ jiācūle wǒ juédé yǒuqù de wénzhāng。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "加粗",
+      "en": "bolded",
+      "pi": "jiācū"
+    },
+    {
+      "ch": "了",
+      "en": "the",
+      "pi": "le"
+    },
+    {
+      "ch": "我",
+      "en": "articles",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "觉得",
+      "en": "that",
+      "pi": "juédé"
+    },
+    {
+      "ch": "有趣",
+      "en": "I",
+      "pi": "yǒuqù"
+    },
+    {
+      "ch": "的",
+      "en": "find",
+      "pi": "de"
+    },
+    {
+      "ch": "文章",
+      "en": "interesting.",
+      "pi": "wénzhāng"
+    }
+  ]
+}

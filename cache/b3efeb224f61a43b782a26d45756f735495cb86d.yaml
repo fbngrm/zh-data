@@ -1,0 +1,32 @@
+{
+  "chinese": "我对音乐有兴趣。",
+  "english": "I am interested in music.",
+  "pinyin": "wǒ duì yīn yuè yǒu xìng qù。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "对",
+      "en": "to",
+      "pi": "duì"
+    },
+    {
+      "ch": "音乐",
+      "en": "music",
+      "pi": "yīn yuè"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "兴趣",
+      "en": "interest",
+      "pi": "xìng qù"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "chinese": "猫会爬树，狗不会。",
+  "english": "Cats can climb trees, dogs cannot.",
+  "pinyin": "māo huì pá shù, gǒu bù huì.",
+  "words": [
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    },
+    {
+      "ch": "会",
+      "en": "can",
+      "pi": "huì"
+    },
+    {
+      "ch": "爬",
+      "en": "climb",
+      "pi": "pá"
+    },
+    {
+      "ch": "树",
+      "en": "tree",
+      "pi": "shù"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": null
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "会",
+      "en": "cannot",
+      "pi": "huì"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": null
+    }
+  ]
+}

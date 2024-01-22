@@ -1,0 +1,15 @@
+{
+  "chinese": "你必须在后天以前完成回家作业。",
+  "english": "You must complete your homework before the day after tomorrow.",
+  "pinyin": "Nǐ bìxū zài hòutiān yǐqián wánchéng huíjiā zuòyè。",
+  "words": [
+    {"ch": "你", "en": "You", "pi": "Nǐ"},
+    {"ch": "必须", "en": "must", "pi": "bìxū"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "后天", "en": "day after tomorrow", "pi": "hòutiān"},
+    {"ch": "以前", "en": "before", "pi": "yǐqián"},
+    {"ch": "完成", "en": "complete", "pi": "wánchéng"},
+    {"ch": "回家", "en": "go home", "pi": "huíjiā"},
+    {"ch": "作业", "en": "homework", "pi": "zuòyè"}
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆还不清楚要不要上大学。",
+  "english": "Tom is still unsure whether to go to college or not.",
+  "pinyin": "tāng mǔ hái bù qīng chǔ yào bù yào shàng dà xué.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "还",
+      "en": "still",
+      "pi": "hái"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "清楚",
+      "en": "unsure",
+      "pi": "qīng chǔ"
+    },
+    {
+      "ch": "要不要",
+      "en": "whether",
+      "pi": "yào bù yào"
+    },
+    {
+      "ch": "上",
+      "en": "to go",
+      "pi": "shàng"
+    },
+    {
+      "ch": "大学",
+      "en": "college",
+      "pi": "dà xué"
+    }
+  ]
+}

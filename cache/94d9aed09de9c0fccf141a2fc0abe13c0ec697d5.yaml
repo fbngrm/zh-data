@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆向玛丽求助。",
+  "english": "Tom asks for help from Mary.",
+  "pinyin": "Tāng mǔ xiàng mǎ lì qiú zhù.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "向",
+      "en": "to",
+      "pi": "xiàng"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "求助",
+      "en": "asks for help",
+      "pi": "qiú zhù"
+    }
+  ]
+}

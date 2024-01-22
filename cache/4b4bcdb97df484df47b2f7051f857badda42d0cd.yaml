@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆跟玛丽说话了吗？",
+  "english": "Did Tom talk to Mary?",
+  "pinyin": "Tāng mǔ gēn mǎ lì shuō huà le ma?",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "跟",
+      "en": "to",
+      "pi": "gēn"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "说话",
+      "en": "talk",
+      "pi": "shuō huà"
+    },
+    {
+      "ch": "了",
+      "en": "did",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

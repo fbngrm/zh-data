@@ -1,0 +1,97 @@
+{
+  "chinese": "压缩数据的算法能分为两种：一种会造成数据损失，另一种则不会。",
+  "english": "Compression algorithms for data can be divided into two types: one that causes data loss, and another that does not.",
+  "pinyin": "Yāsuō shùjù de suànfa néng fēn wéi liǎng zhǒng: yī zhǒng huì zàochéng shùjù sǔnshī, lìng yī zhǒng zé bù huì.",
+  "words": [
+    {
+      "ch": "压缩",
+      "en": "Compression",
+      "pi": "yāsuō"
+    },
+    {
+      "ch": "数据",
+      "en": "data",
+      "pi": "shùjù"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "算法",
+      "en": "algorithm",
+      "pi": "suànfa"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "分为",
+      "en": "be divided into",
+      "pi": "fēn wéi"
+    },
+    {
+      "ch": "两种",
+      "en": "two types",
+      "pi": "liǎng zhǒng"
+    },
+    {
+      "ch": "：",
+      "en": ":",
+      "pi": "："
+    },
+    {
+      "ch": "一种",
+      "en": "one",
+      "pi": "yī zhǒng"
+    },
+    {
+      "ch": "会",
+      "en": "that causes",
+      "pi": "huì"
+    },
+    {
+      "ch": "造成",
+      "en": "to cause",
+      "pi": "zàochéng"
+    },
+    {
+      "ch": "数据",
+      "en": "data",
+      "pi": "shùjù"
+    },
+    {
+      "ch": "损失",
+      "en": "loss",
+      "pi": "sǔnshī"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": "，"
+    },
+    {
+      "ch": "另一种",
+      "en": "another",
+      "pi": "lìng yī zhǒng"
+    },
+    {
+      "ch": "则",
+      "en": "that does not",
+      "pi": "zé"
+    },
+    {
+      "ch": "不会",
+      "en": "cause",
+      "pi": "bù huì"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "。"
+    }
+  ]
+}

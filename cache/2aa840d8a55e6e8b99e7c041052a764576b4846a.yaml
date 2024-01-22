@@ -1,0 +1,37 @@
+{
+  "chinese": "你已经有孩子了吗？",
+  "english": "Do you have children already?",
+  "pinyin": "nǐ yǐjīng yǒu háizi le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐjīng"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "孩子",
+      "en": "children",
+      "pi": "háizi"
+    },
+    {
+      "ch": "了",
+      "en": "(particle indicating completed action)",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "(question particle)",
+      "pi": "ma"
+    }
+  ]
+}

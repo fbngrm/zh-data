@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "chinese": "他爱她。",
+      "english": "He loves her.",
+      "pinyin": "tā ài tā。",
+      "words": [
+        {
+          "ch": "他",
+          "en": "He",
+          "pi": "tā"
+        },
+        {
+          "ch": "爱",
+          "en": "love",
+          "pi": "ài"
+        },
+        {
+          "ch": "她",
+          "en": "her",
+          "pi": "tā"
+        }
+      ]
+    },
+    {
+      "chinese": "她也爱他。",
+      "english": "She also loves him.",
+      "pinyin": "tā yě ài tā。",
+      "words": [
+        {
+          "ch": "她",
+          "en": "She",
+          "pi": "tā"
+        },
+        {
+          "ch": "也",
+          "en": "also",
+          "pi": "yě"
+        },
+        {
+          "ch": "爱",
+          "en": "love",
+          "pi": "ài"
+        },
+        {
+          "ch": "他",
+          "en": "him",
+          "pi": "tā"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "sentences": [
+    {
+      "chinese": "陈 老师，您 好！",
+      "english": "Hello Teacher Chen!",
+      "pinyin": "Chén lǎoshī, nín hǎo!",
+      "words": [
+        {
+          "ch": "陈",
+          "en": "Chen",
+          "pi": "Chén"
+        },
+        {
+          "ch": "老师",
+          "en": "teacher",
+          "pi": "lǎoshī"
+        },
+        {
+          "ch": "您",
+          "en": "you",
+          "pi": "nín"
+        },
+        {
+          "ch": "好",
+          "en": "hello, good",
+          "pi": "hǎo"
+        }
+      ]
+    },
+    {
+      "chinese": "这 是 我 哥哥，他 是 外语 老师。",
+      "english": "This is my brother, he is a foreign language teacher.",
+      "pinyin": "Zhè shì wǒ gēge, tā shì wàiyǔ lǎoshī.",
+      "words": [
+        {
+          "ch": "这",
+          "en": "this",
+          "pi": "zhè"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "我",
+          "en": "my, me",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "哥哥",
+          "en": "elder brother",
+          "pi": "gēge"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": ","
+        },
+        {
+          "ch": "他",
+          "en": "he, him",
+          "pi": "tā"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "外语",
+          "en": "foreign language",
+          "pi": "wàiyǔ"
+        },
+        {
+          "ch": "老师",
+          "en": "teacher",
+          "pi": "lǎoshī"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    },
+    {
+      "chinese": "你 好。",
+      "english": "Hello.",
+      "pinyin": "Nǐ hǎo.",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "好",
+          "en": "hello, good",
+          "pi": "hǎo"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    },
+    {
+      "chinese": "这 是 我 朋友。",
+      "english": "This is my friend.",
+      "pinyin": "Zhè shì wǒ péngyǒu.",
+      "words": [
+        {
+          "ch": "这",
+          "en": "this",
+          "pi": "zhè"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "我",
+          "en": "my, me",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "朋友",
+          "en": "friend",
+          "pi": "péngyǒu"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    },
+    {
+      "chinese": "你 也 是 老师 吗？",
+      "english": "Are you also a teacher?",
+      "pinyin": "Nǐ yě shì lǎoshī ma?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "也",
+          "en": "also",
+          "pi": "yě"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "老师",
+          "en": "teacher",
+          "pi": "lǎoshī"
+        },
+        {
+          "ch": "吗",
+          "en": "?",
+          "pi": "ma"
+        },
+        {
+          "ch": "？",
+          "en": "?",
+          "pi": "？"
+        }
+      ]
+    },
+    {
+      "chinese": "您 好！ 我 不 是 老师，我 是 医生。",
+      "english": "Hello! I am not a teacher, I am a doctor.",
+      "pinyin": "Nín hǎo! Wǒ bù shì lǎoshī, wǒ shì yīshēng.",
+      "words": [
+        {
+          "ch": "您",
+          "en": "you",
+          "pi": "nín"
+        },
+        {
+          "ch": "好",
+          "en": "hello, good",
+          "pi": "hǎo"
+        },
+        {
+          "ch": "！",
+          "en": "!",
+          "pi": "！"
+        },
+        {
+          "ch": "我",
+          "en": "my, me",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "不",
+          "en": "not",
+          "pi": "bù"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "老师",
+          "en": "teacher",
+          "pi": "lǎoshī"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": ","
+        },
+        {
+          "ch": "我",
+          "en": "my, me",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "医生",
+          "en": "doctor",
+          "pi": "yīshēng"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    },
+    {
+      "chinese": "力波，这 是 你 奶奶 吗？",
+      "english": "Libo, is this your grandmother?",
+      "pinyin": "Lìbō, zhè shì nǐ nǎinai ma?",
+      "words": [
+        {
+          "ch": "力波",
+          "en": "Libo",
+          "pi": "Lìbō"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": ","
+        },
+        {
+          "ch": "这",
+          "en": "this",
+          "pi": "zhè"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "你",
+          "en": "your, you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "奶奶",
+          "en": "grandmother",
+          "pi": "nǎinai"
+        },
+        {
+          "ch": "吗",
+          "en": "?",
+          "pi": "ma"
+        },
+        {
+          "ch": "？",
+          "en": "?",
+          "pi": "？"
+        }
+      ]
+    },
+    {
+      "chinese": "不 是，她 是 我 外婆。",
+      "english": "No, she is my grandmother.",
+      "pinyin": "Bùshì, tā shì wǒ wàipó.",
+      "words": [
+        {
+          "ch": "不",
+          "en": "not",
+          "pi": "bù"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": ","
+        },
+        {
+          "ch": "她",
+          "en": "she, her",
+          "pi": "tā"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "我",
+          "en": "my, me",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "外婆",
+          "en": "grandmother (mother's side)",
+          "pi": "wàipó"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    },
+    {
+      "chinese": "外婆，您 好！",
+      "english": "Hello grandmother!",
+      "pinyin": "Wàipó, nín hǎo!",
+      "words": [
+        {
+          "ch": "外婆",
+          "en": "grandmother (mother's side)",
+          "pi": "wàipó"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": ","
+        },
+        {
+          "ch": "您",
+          "en": "you",
+          "pi": "nín"
+        },
+        {
+          "ch": "好",
+          "en": "hello, good",
+          "pi": "hǎo"
+        },
+        {
+          "ch": "！",
+          "en": "!",
+          "pi": "！"
+        }
+      ]
+    }
+  ]
+}

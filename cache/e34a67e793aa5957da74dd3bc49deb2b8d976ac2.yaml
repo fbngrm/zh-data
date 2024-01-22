@@ -1,0 +1,15 @@
+{
+  "chinese": "我有個到國外旅遊的機會。",
+  "english": "I have the opportunity to travel abroad.",
+  "pinyin": "wǒ yǒu gè dào guówài lǚyóu de jīhuì。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "個", "en": "a", "pi": "gè"},
+    {"ch": "到", "en": "to", "pi": "dào"},
+    {"ch": "國外", "en": "abroad", "pi": "guówài"},
+    {"ch": "旅遊", "en": "travel", "pi": "lǚyóu"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "機會", "en": "opportunity", "pi": "jīhuì"}
+  ]
+}

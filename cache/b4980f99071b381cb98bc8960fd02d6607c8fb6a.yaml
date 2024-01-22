@@ -1,0 +1,47 @@
+{
+  "chinese": "我一直读这个读了几个小时。",
+  "english": "I have been reading this for a few hours.",
+  "pinyin": "wǒ yīzhí dú zhège dúle jǐ gè xiǎoshí。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "一直",
+      "en": "have been",
+      "pi": "yīzhí"
+    },
+    {
+      "ch": "读",
+      "en": "reading",
+      "pi": "dú"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhège"
+    },
+    {
+      "ch": "读",
+      "en": "reading",
+      "pi": "dú"
+    },
+    {
+      "ch": "了",
+      "en": "for",
+      "pi": "le"
+    },
+    {
+      "ch": "几个",
+      "en": "a few",
+      "pi": "jǐ gè"
+    },
+    {
+      "ch": "小时",
+      "en": "hours",
+      "pi": "xiǎoshí"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "刚才我的麦克风没起作用，不知道为什么。",
+  "english": "My microphone didn't work just now, I don't know why.",
+  "pinyin": "gāng cái wǒ de mài kè fēng méi qǐ zuò yòng ，bù zhī dào wèi shén me 。",
+  "words": [
+    {
+      "ch": "刚才",
+      "en": "just now",
+      "pi": "gāng cái"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "麦克风",
+      "en": "microphone",
+      "pi": "mài kè fēng"
+    },
+    {
+      "ch": "没",
+      "en": "didn't",
+      "pi": "méi"
+    },
+    {
+      "ch": "起作用",
+      "en": "work",
+      "pi": "qǐ zuò yòng"
+    },
+    {
+      "ch": "不知道",
+      "en": "don't know",
+      "pi": "bù zhī dào"
+    },
+    {
+      "ch": "为什么",
+      "en": "why",
+      "pi": "wèi shén me"
+    }
+  ]
+}

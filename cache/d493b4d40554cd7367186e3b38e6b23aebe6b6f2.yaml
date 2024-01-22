@@ -1,0 +1,14 @@
+{
+  "chinese": "你能辨别小麦和大麦吗？",
+  "english": "Can you distinguish between wheat and barley?",
+  "pinyin": "Nǐ néng biànbié xiǎomài hé dàmài ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "能", "en": "can", "pi": "néng"},
+    {"ch": "辨别", "en": "distinguish", "pi": "biànbié"},
+    {"ch": "小麦", "en": "wheat", "pi": "xiǎomài"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "大麦", "en": "barley", "pi": "dàmài"},
+    {"ch": "吗", "en": "?", "pi": "ma"}
+  ]
+}

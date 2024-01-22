@@ -1,0 +1,14 @@
+{
+  "chinese": "我帮他做他的家庭作业。",
+  "english": "I help him with his homework.",
+  "pinyin": "wǒ bāng tā zuò tā de jiātíng zuòyè。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "帮", "en": "help", "pi": "bāng"},
+    {"ch": "他", "en": "him", "pi": "tā"},
+    {"ch": "做", "en": "do", "pi": "zuò"},
+    {"ch": "他", "en": "his", "pi": "tā"},
+    {"ch": "的", "en": "", "pi": "de"},
+    {"ch": "家庭作业", "en": "homework", "pi": "jiātíng zuòyè"}
+  ]
+}

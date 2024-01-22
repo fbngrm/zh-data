@@ -1,0 +1,33 @@
+{
+  "sentences": [
+    {
+      "chinese": "没门儿！",
+      "english": "No way!",
+      "pinyin": "méi mén er!",
+      "words": [
+        {
+          "ch": "没",
+          "en": "no",
+          "pi": "méi"
+        },
+        {
+          "ch": "门儿",
+          "en": "way",
+          "pi": "mén er"
+        }
+      ]
+    },
+    {
+      "chinese": "有。",
+      "english": "Yes.",
+      "pinyin": "yǒu.",
+      "words": [
+        {
+          "ch": "有",
+          "en": "yes",
+          "pi": "yǒu"
+        }
+      ]
+    }
+  ]
+}

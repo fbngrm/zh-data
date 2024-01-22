@@ -1,0 +1,32 @@
+{
+  "chinese": "我早上很早起床。",
+  "english": "I get up very early in the morning.",
+  "pinyin": "Wǒ zǎoshang hěn zǎo qǐchuáng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎoshang"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "早",
+      "en": "early",
+      "pi": "zǎo"
+    },
+    {
+      "ch": "起床",
+      "en": "get up",
+      "pi": "qǐchuáng"
+    }
+  ]
+}

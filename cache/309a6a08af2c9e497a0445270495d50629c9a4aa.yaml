@@ -1,0 +1,343 @@
+{
+  "sentences": [
+    {
+      "chinese": "上个星期六，我和我的妻子一起骑自行车旅行了。",
+      "english": "Last Saturday, my wife and I went for a bike trip together.",
+      "pinyin": "Shàng gè xīngqíliù, wǒ hé wǒ de qīzi yīqǐ qí zìxíngchē lǚxíng le.",
+      "words": [
+        {
+          "ch": "上个",
+          "en": "Last",
+          "pi": "shàng gè"
+        },
+        {
+          "ch": "星期六",
+          "en": "Saturday",
+          "pi": "xīng qī liù"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "和",
+          "en": "and",
+          "pi": "hé"
+        },
+        {
+          "ch": "我的",
+          "en": "my",
+          "pi": "wǒ de"
+        },
+        {
+          "ch": "妻子",
+          "en": "wife",
+          "pi": "qīzi"
+        },
+        {
+          "ch": "一起",
+          "en": "together",
+          "pi": "yīqǐ"
+        },
+        {
+          "ch": "骑",
+          "en": "ride",
+          "pi": "qí"
+        },
+        {
+          "ch": "自行车",
+          "en": "bike",
+          "pi": "zìxíngchē"
+        },
+        {
+          "ch": "旅行",
+          "en": "trip",
+          "pi": "lǚxíng"
+        },
+        {
+          "ch": "了",
+          "en": "particle indicating completed action",
+          "pi": "le"
+        }
+      ]
+    },
+    {
+      "chinese": "我们在植物园野餐，天气很好。",
+      "english": "We had a picnic in the botanical garden, and the weather was very nice.",
+      "pinyin": "Wǒmen zài zhíwù yuán yěcān, tiānqì hěn hǎo.",
+      "words": [
+        {
+          "ch": "我们",
+          "en": "We",
+          "pi": "wǒmen"
+        },
+        {
+          "ch": "在",
+          "en": "at",
+          "pi": "zài"
+        },
+        {
+          "ch": "植物园",
+          "en": "botanical garden",
+          "pi": "zhíwù yuán"
+        },
+        {
+          "ch": "野餐",
+          "en": "picnic",
+          "pi": "yěcān"
+        },
+        {
+          "ch": "天气",
+          "en": "weather",
+          "pi": "tiānqì"
+        },
+        {
+          "ch": "很好",
+          "en": "very nice",
+          "pi": "hěn hǎo"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    },
+    {
+      "chinese": "晚上我们在一家泰国餐厅吃饭。",
+      "english": "In the evening, we had dinner at a Thai restaurant.",
+      "pinyin": "Wǎnshàng wǒmen zài yījiā Tàiguó cāntīng chīfàn.",
+      "words": [
+        {
+          "ch": "晚上",
+          "en": "Evening",
+          "pi": "wǎnshàng"
+        },
+        {
+          "ch": "我们",
+          "en": "we",
+          "pi": "wǒmen"
+        },
+        {
+          "ch": "在",
+          "en": "at",
+          "pi": "zài"
+        },
+        {
+          "ch": "一家",
+          "en": "a",
+          "pi": "yījiā"
+        },
+        {
+          "ch": "泰国餐厅",
+          "en": "Thai restaurant",
+          "pi": "Tài guó cān tīng"
+        },
+        {
+          "ch": "吃饭",
+          "en": "eat dinner",
+          "pi": "chīfàn"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    },
+    {
+      "chinese": "下个星期一是假日。",
+      "english": "Next Monday is a holiday.",
+      "pinyin": "Xià gè xīngqí yī shì jiàrì.",
+      "words": [
+        {
+          "ch": "下个",
+          "en": "Next",
+          "pi": "xià gè"
+        },
+        {
+          "ch": "星期一",
+          "en": "Monday",
+          "pi": "xīng qī yī"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "假日",
+          "en": "holiday",
+          "pi": "jiàrì"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    },
+    {
+      "chinese": "下个周末我要去拜访我的家人。",
+      "english": "I am going to visit my family next weekend.",
+      "pinyin": "Xià gè zhōumò wǒ yào qù bàifǎng wǒ de jiārén.",
+      "words": [
+        {
+          "ch": "下个",
+          "en": "Next",
+          "pi": "xià gè"
+        },
+        {
+          "ch": "周末",
+          "en": "weekend",
+          "pi": "zhōumò"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "要",
+          "en": "want to",
+          "pi": "yào"
+        },
+        {
+          "ch": "去",
+          "en": "go",
+          "pi": "qù"
+        },
+        {
+          "ch": "拜访",
+          "en": "visit",
+          "pi": "bàifǎng"
+        },
+        {
+          "ch": "我的",
+          "en": "my",
+          "pi": "wǒ de"
+        },
+        {
+          "ch": "家人",
+          "en": "family",
+          "pi": "jiārén"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    },
+    {
+      "chinese": "在我家里有我的父亲、母亲、姐姐和侄女。",
+      "english": "In my home, there are my father, mother, sister, and niece.",
+      "pinyin": "Zài wǒ jiā lǐ yǒu wǒ de fùqīn, mǔqīn, jiějiě hé zhínǚ.",
+      "words": [
+        {
+          "ch": "在",
+          "en": "in",
+          "pi": "zài"
+        },
+        {
+          "ch": "我家里",
+          "en": "my home",
+          "pi": "wǒ jiā lǐ"
+        },
+        {
+          "ch": "有",
+          "en": "have",
+          "pi": "yǒu"
+        },
+        {
+          "ch": "我的",
+          "en": "my",
+          "pi": "wǒ de"
+        },
+        {
+          "ch": "父亲",
+          "en": "father",
+          "pi": "fùqīn"
+        },
+        {
+          "ch": "母亲",
+          "en": "mother",
+          "pi": "mǔqīn"
+        },
+        {
+          "ch": "姐姐",
+          "en": "sister",
+          "pi": "jiějiě"
+        },
+        {
+          "ch": "和",
+          "en": "and",
+          "pi": "hé"
+        },
+        {
+          "ch": "侄女",
+          "en": "niece",
+          "pi": "zhínǚ"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    },
+    {
+      "chinese": "我的侄女七岁了，去年开始上学。",
+      "english": "My niece is seven years old now. She started school last year.",
+      "pinyin": "Wǒ de zhínǚ qī suì le, qùnián kāishǐ shàngxué.",
+      "words": [
+        {
+          "ch": "我的",
+          "en": "my",
+          "pi": "wǒ de"
+        },
+        {
+          "ch": "侄女",
+          "en": "niece",
+          "pi": "zhínǚ"
+        },
+        {
+          "ch": "七岁",
+          "en": "seven years old",
+          "pi": "qī suì"
+        },
+        {
+          "ch": "了",
+          "en": "particle indicating completed action",
+          "pi": "le"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": "，"
+        },
+        {
+          "ch": "去年",
+          "en": "last year",
+          "pi": "qùnián"
+        },
+        {
+          "ch": "开始",
+          "en": "start",
+          "pi": "kāishǐ"
+        },
+        {
+          "ch": "上学",
+          "en": "school",
+          "pi": "shàngxué"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    }
+  ]
+}

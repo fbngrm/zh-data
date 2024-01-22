@@ -1,0 +1,42 @@
+{
+  "chinese": "你能解决这个问题呢吗？",
+  "english": "Can you solve this problem?",
+  "pinyin": "nǐ néng jiějué zhège wèntí ne ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "解决",
+      "en": "solve",
+      "pi": "jiějué"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhège"
+    },
+    {
+      "ch": "问题",
+      "en": "problem",
+      "pi": "wèntí"
+    },
+    {
+      "ch": "呢",
+      "en": "ne",
+      "pi": "ne"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

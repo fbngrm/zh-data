@@ -1,0 +1,32 @@
+{
+  "chinese": "这是珍的袋子。",
+  "english": "This is Jane's bag.",
+  "pinyin": "zhè shì zhēn de dàizi.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "珍",
+      "en": "Jane",
+      "pi": "zhēn"
+    },
+    {
+      "ch": "的",
+      "en": "'s",
+      "pi": "de"
+    },
+    {
+      "ch": "袋子",
+      "en": "bag",
+      "pi": "dàizi"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "他每天早上在公园里散步。",
+  "english": "He takes a walk in the park every morning.",
+  "pinyin": "Tā měi tiān zǎo shàng zài gōng yuán lǐ sàn bù.",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "每天", "en": "every day", "pi": "měi tiān"},
+    {"ch": "早上", "en": "morning", "pi": "zǎo shàng"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "公园", "en": "park", "pi": "gōng yuán"},
+    {"ch": "里", "en": "inside", "pi": "lǐ"},
+    {"ch": "散步", "en": "take a walk", "pi": "sàn bù"}
+  ]
+}

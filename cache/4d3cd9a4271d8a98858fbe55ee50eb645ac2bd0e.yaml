@@ -1,0 +1,11 @@
+{
+  "chinese": "你是大学生吗？",
+  "english": "Are you a college student?",
+  "pinyin": "nǐ shì dà xué shēng ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "是", "en": "are", "pi": "shì"},
+    {"ch": "大学生", "en": "college student", "pi": "dà xué shēng"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

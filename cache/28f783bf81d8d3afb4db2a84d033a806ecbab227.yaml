@@ -1,0 +1,13 @@
+{
+  "chinese": "你需要帮忙拿东西吗?",
+  "english": "Do you need help carrying anything?",
+  "pinyin": "nǐ xū yào bāng máng ná dōng xī ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "需要", "en": "need", "pi": "xū yào"},
+    {"ch": "帮忙", "en": "help", "pi": "bāng máng"},
+    {"ch": "拿", "en": "carry", "pi": "ná"},
+    {"ch": "东西", "en": "anything", "pi": "dōng xī"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

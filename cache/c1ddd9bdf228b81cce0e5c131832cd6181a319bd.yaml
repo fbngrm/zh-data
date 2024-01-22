@@ -1,0 +1,37 @@
+{
+  "chinese": "我在超市碰到了汤姆。",
+  "english": "I met Tom at the supermarket.",
+  "pinyin": "wǒ zài chāo shì pèng dào le tāng mǔ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "超市",
+      "en": "supermarket",
+      "pi": "chāo shì"
+    },
+    {
+      "ch": "碰到",
+      "en": "met",
+      "pi": "pèng dào"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    }
+  ]
+}

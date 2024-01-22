@@ -1,0 +1,37 @@
+{
+  "chinese": "我表上是4点。",
+  "english": "My watch says it's 4 o'clock.",
+  "pinyin": "wǒ biǎo shàng shì 4 diǎn。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "表",
+      "en": "watch",
+      "pi": "biǎo"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "4",
+      "en": "4",
+      "pi": "4"
+    },
+    {
+      "ch": "点",
+      "en": "o'clock",
+      "pi": "diǎn"
+    }
+  ]
+}

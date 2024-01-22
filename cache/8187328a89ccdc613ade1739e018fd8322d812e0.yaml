@@ -1,0 +1,14 @@
+{
+  "chinese": "他们有一个非常漂亮的暖房。",
+  "english": "They have a very beautiful greenhouse.",
+  "pinyin": "Tāmen yǒu yīgè fēicháng piàoliang de nuǎnfáng.",
+  "words": [
+      {"ch": "他们", "en": "They", "pi": "Tāmen"},
+      {"ch": "有", "en": "have", "pi": "yǒu"},
+      {"ch": "一个", "en": "a", "pi": "yīgè"},
+      {"ch": "非常", "en": "very", "pi": "fēicháng"},
+      {"ch": "漂亮", "en": "beautiful", "pi": "piàoliang"},
+      {"ch": "的", "en": "of", "pi": "de"},
+      {"ch": "暖房", "en": "greenhouse", "pi": "nuǎnfáng"}
+  ]
+}

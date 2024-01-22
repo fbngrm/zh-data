@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆住在我的附近。",
+  "english": "Tom lives near me.",
+  "pinyin": "Tāng mǔ zhù zài wǒ de fùjìn.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "住",
+      "en": "live",
+      "pi": "zhù"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "我",
+      "en": "my",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "附近",
+      "en": "near",
+      "pi": "fùjìn"
+    }
+  ]
+}

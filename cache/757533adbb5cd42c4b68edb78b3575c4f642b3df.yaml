@@ -1,0 +1,47 @@
+{
+  "chinese": "你的体重增加了，不是吗？",
+  "english": "Your weight has increased, hasn't it?",
+  "pinyin": "Nǐ de tǐzhòng zēngjiāle, bùshì ma?",
+  "words": [
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "体重",
+      "en": "weight",
+      "pi": "tǐzhòng"
+    },
+    {
+      "ch": "增加",
+      "en": "increase",
+      "pi": "zēngjiā"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "，",
+      "en": "",
+      "pi": "，"
+    },
+    {
+      "ch": "不是",
+      "en": "isn't it",
+      "pi": "bùshì"
+    },
+    {
+      "ch": "吗",
+      "en": "",
+      "pi": "ma"
+    },
+    {
+      "ch": "？",
+      "en": "",
+      "pi": "？"
+    }
+  ]
+}

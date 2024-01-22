@@ -1,0 +1,32 @@
+{
+  "chinese": "我不想吃寿司。",
+  "english": "I don't want to eat sushi.",
+  "pinyin": "wǒ bù xiǎng chī shòusī.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "寿司",
+      "en": "sushi",
+      "pi": "shòusī"
+    }
+  ]
+}

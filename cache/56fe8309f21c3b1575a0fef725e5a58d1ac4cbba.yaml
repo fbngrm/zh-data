@@ -1,0 +1,13 @@
+{
+  "chinese": "你喜欢黑色的猫吗？",
+  "english": "Do you like black cats?",
+  "pinyin": "nǐ xǐhuān hēisè de māo ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "喜欢", "en": "like", "pi": "xǐhuān"},
+    {"ch": "黑色", "en": "black", "pi": "hēisè"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "猫", "en": "cat", "pi": "māo"},
+    {"ch": "吗", "en": "?"}
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "他有我的三倍的书。",
+  "english": "He has three times as many books as me.",
+  "pinyin": "tā yǒu wǒ de sān bèi de shū。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "三倍",
+      "en": "three times",
+      "pi": "sān bèi"
+    },
+    {
+      "ch": "的",
+      "en": "as",
+      "pi": "de"
+    },
+    {
+      "ch": "书",
+      "en": "books",
+      "pi": "shū"
+    }
+  ]
+}

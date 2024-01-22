@@ -1,0 +1,14 @@
+{
+  "chinese": "要是我能去音乐会就好了。",
+  "english": "If only I could go to the concert.",
+  "pinyin": "yào shì wǒ néng qù yīn yuè huì jiù hǎo le.",
+  "words": [
+    {"ch": "要是", "en": "if only", "pi": "yào shì"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "能", "en": "can/could", "pi": "néng"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "音乐会", "en": "concert", "pi": "yīn yuè huì"},
+    {"ch": "就", "en": "then", "pi": "jiù"},
+    {"ch": "好了", "en": "good/will be fine", "pi": "hǎo le"}
+  ]
+}

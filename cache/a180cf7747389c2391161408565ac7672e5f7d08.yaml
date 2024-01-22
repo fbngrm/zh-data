@@ -1,0 +1,42 @@
+{
+  "chinese": "这台电脑的颜色是红色。",
+  "english": "The color of this computer is red.",
+  "pinyin": "zhè tái diàn nǎo de yán sè shì hóng sè.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "台",
+      "en": "computer",
+      "pi": "tái"
+    },
+    {
+      "ch": "电脑",
+      "en": "computer",
+      "pi": "diàn nǎo"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "颜色",
+      "en": "color",
+      "pi": "yán sè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "红色",
+      "en": "red",
+      "pi": "hóng sè"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我家旁边有几家商店。",
+  "english": "There are several shops next to my house.",
+  "pinyin": "wǒ jiā páng biān yǒu jǐ jiā shāng diàn.",
+  "words": [
+    {
+      "ch": "我家",
+      "en": "my house",
+      "pi": "wǒ jiā"
+    },
+    {
+      "ch": "旁边",
+      "en": "next to",
+      "pi": "páng biān"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "几",
+      "en": "several",
+      "pi": "jǐ"
+    },
+    {
+      "ch": "家商店",
+      "en": "shops",
+      "pi": "jiā shāng diàn"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "我找不到我的眼镜。",
+  "english": "I can't find my glasses.",
+  "pinyin": "wǒ zhǎo bù dào wǒ de yǎn jìng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "找不到",
+      "en": "can't find",
+      "pi": "zhǎo bù dào"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "眼镜",
+      "en": "glasses",
+      "pi": "yǎn jìng"
+    }
+  ]
+}

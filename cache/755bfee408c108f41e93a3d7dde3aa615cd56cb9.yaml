@@ -1,0 +1,32 @@
+{
+  "chinese": "我想吃肉粽。",
+  "english": "I want to eat meat dumplings.",
+  "pinyin": "wǒ xiǎng chī ròu zòng。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "肉",
+      "en": "meat",
+      "pi": "ròu"
+    },
+    {
+      "ch": "粽",
+      "en": "dumplings",
+      "pi": "zòng"
+    }
+  ]
+}

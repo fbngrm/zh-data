@@ -1,0 +1,103 @@
+{
+  "sentences": [
+    {
+      "chinese": "这是阿拉伯文吗？",
+      "english": "Is this Arabic?",
+      "pinyin": "zhè shì ā lā bó wén ma?",
+      "words": [
+        {
+          "ch": "这",
+          "en": "this",
+          "pi": "zhè"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "阿拉伯文",
+          "en": "Arabic",
+          "pi": "ā lā bó wén"
+        },
+        {
+          "ch": "吗",
+          "en": "?",
+          "pi": "ma"
+        }
+      ]
+    },
+    {
+      "chinese": "不是，这是维吾尔文，一种中国西北部的语言。",
+      "english": "No, this is Uyghur, a language in the northwest of China.",
+      "pinyin": "bú shì, zhè shì wéi wú ěr wén, yī zhǒng zhōng guó xī běi bù de yǔ yán.",
+      "words": [
+        {
+          "ch": "不是",
+          "en": "No",
+          "pi": "bú shì"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": ","
+        },
+        {
+          "ch": "这",
+          "en": "this",
+          "pi": "zhè"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "维吾尔文",
+          "en": "Uyghur",
+          "pi": "wéi wú ěr wén"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": ","
+        },
+        {
+          "ch": "一",
+          "en": "a",
+          "pi": "yī"
+        },
+        {
+          "ch": "种",
+          "en": "kind",
+          "pi": "zhǒng"
+        },
+        {
+          "ch": "中国",
+          "en": "China",
+          "pi": "zhōng guó"
+        },
+        {
+          "ch": "西北部",
+          "en": "northwest",
+          "pi": "xī běi bù"
+        },
+        {
+          "ch": "的",
+          "en": "of",
+          "pi": "de"
+        },
+        {
+          "ch": "语言",
+          "en": "language",
+          "pi": "yǔ yán"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "."
+        }
+      ]
+    }
+  ]
+}

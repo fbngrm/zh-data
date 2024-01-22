@@ -1,0 +1,37 @@
+{
+  "chinese": "我有些东西要给你。",
+  "english": "I have something for you.",
+  "pinyin": "Wǒ yǒu xiē dōngxi yào gěi nǐ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "有些",
+      "en": "some",
+      "pi": "yǒu xiē"
+    },
+    {
+      "ch": "东西",
+      "en": "thing",
+      "pi": "dōngxi"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    }
+  ]
+}

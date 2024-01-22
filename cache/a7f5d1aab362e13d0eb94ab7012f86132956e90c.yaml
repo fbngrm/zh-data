@@ -1,0 +1,42 @@
+{
+  "chinese": "今天天气很好，但是最近总是下雨。",
+  "english": "The weather is very good today, but it has been raining a lot recently.",
+  "pinyin": "jīn tiān tiān qì hěn hǎo, dàn shì zuì jìn zǒng shì xià yǔ。",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiān qì"
+    },
+    {
+      "ch": "很好",
+      "en": "very good",
+      "pi": "hěn hǎo"
+    },
+    {
+      "ch": "但是",
+      "en": "but",
+      "pi": "dàn shì"
+    },
+    {
+      "ch": "最近",
+      "en": "recently",
+      "pi": "zuì jìn"
+    },
+    {
+      "ch": "总是",
+      "en": "always",
+      "pi": "zǒng shì"
+    },
+    {
+      "ch": "下雨",
+      "en": "raining",
+      "pi": "xià yǔ"
+    }
+  ]
+}

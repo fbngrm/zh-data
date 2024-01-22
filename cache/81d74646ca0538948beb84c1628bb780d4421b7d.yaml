@@ -1,0 +1,32 @@
+{
+  "chinese": "我要紅色的鞋子。",
+  "english": "I want red shoes.",
+  "pinyin": "wǒ yào hóng sè de xié zi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "紅色",
+      "en": "red",
+      "pi": "hóng sè"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "鞋子",
+      "en": "shoes",
+      "pi": "xié zi"
+    }
+  ]
+}

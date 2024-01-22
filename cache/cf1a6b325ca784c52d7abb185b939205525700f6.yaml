@@ -1,0 +1,32 @@
+{
+  "chinese": "她每个星期天打网球。",
+  "english": "She plays tennis every Sunday.",
+  "pinyin": "Tā měi gè xīngqītiān dǎ wǎngqiú。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "每个",
+      "en": "every",
+      "pi": "měi gè"
+    },
+    {
+      "ch": "星期天",
+      "en": "Sunday",
+      "pi": "xīngqītiān"
+    },
+    {
+      "ch": "打",
+      "en": "plays",
+      "pi": "dǎ"
+    },
+    {
+      "ch": "网球",
+      "en": "tennis",
+      "pi": "wǎngqiú"
+    }
+  ]
+}

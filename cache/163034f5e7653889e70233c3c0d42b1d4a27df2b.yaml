@@ -1,0 +1,42 @@
+{
+  "chinese": "你听见我说的了吗？",
+  "english": "Did you hear what I said?",
+  "pinyin": "nǐ tīng jiàn wǒ shuō de liǎo ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "听见",
+      "en": "hear",
+      "pi": "tīng jiàn"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "说",
+      "en": "say",
+      "pi": "shuō"
+    },
+    {
+      "ch": "的",
+      "en": "what",
+      "pi": "de"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "liǎo"
+    },
+    {
+      "ch": "吗",
+      "en": "",
+      "pi": "ma"
+    }
+  ]
+}

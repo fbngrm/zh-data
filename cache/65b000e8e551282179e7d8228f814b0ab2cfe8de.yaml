@@ -1,0 +1,12 @@
+{
+  "chinese": "他是一个数学天才。",
+  "english": "He is a math genius.",
+  "pinyin": "tā shì yī gè shù xué tiān cái。",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "一个", "en": "a", "pi": "yī gè"},
+    {"ch": "数学", "en": "math", "pi": "shù xué"},
+    {"ch": "天才", "en": "genius", "pi": "tiān cái"}
+  ]
+}

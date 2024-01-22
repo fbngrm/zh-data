@@ -1,0 +1,32 @@
+{
+  "chinese": "你可以关灯吗？",
+  "english": "Can you turn off the lights?",
+  "pinyin": "nǐ kěyǐ guān dēng ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kěyǐ"
+    },
+    {
+      "ch": "关",
+      "en": "turn off",
+      "pi": "guān"
+    },
+    {
+      "ch": "灯",
+      "en": "lights",
+      "pi": "dēng"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

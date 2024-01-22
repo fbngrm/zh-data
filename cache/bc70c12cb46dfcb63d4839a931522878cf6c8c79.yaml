@@ -1,0 +1,32 @@
+{
+  "chinese": "我确定汤姆不会游泳。",
+  "english": "I'm sure Tom can't swim.",
+  "pinyin": "wǒ quèdìng tāng mǔ bù huì yóuyǒng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "确定",
+      "en": "sure",
+      "pi": "quèdìng"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "不会",
+      "en": "can't",
+      "pi": "bù huì"
+    },
+    {
+      "ch": "游泳",
+      "en": "swim",
+      "pi": "yóuyǒng"
+    }
+  ]
+}

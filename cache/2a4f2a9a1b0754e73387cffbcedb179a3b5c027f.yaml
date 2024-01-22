@@ -1,0 +1,150 @@
+{
+  "sentences": [
+    {
+      "chinese": "但是，如果你动错了，你别放弃。",
+      "english": "But if you make a mistake, don't give up.",
+      "pinyin": "dàn shì, rú guǒ nǐ dòng cuò le, nǐ bié fàng qì。",
+      "words": [
+        {
+          "ch": "但是",
+          "en": "But",
+          "pi": "dàn shì"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": "，"
+        },
+        {
+          "ch": "如果",
+          "en": "if",
+          "pi": "rú guǒ"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "动错",
+          "en": "make a mistake",
+          "pi": "dòng cuò"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": "，"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "别",
+          "en": "don't",
+          "pi": "bié"
+        },
+        {
+          "ch": "放弃",
+          "en": "give up",
+          "pi": "fàng qì"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    },
+    {
+      "chinese": "因为你不知道接下来会发生什么。",
+      "english": "Because you don't know what will happen next.",
+      "pinyin": "yīn wèi nǐ bù zhī dào jiē xià lái huì fā shēng shén me。",
+      "words": [
+        {
+          "ch": "因为",
+          "en": "because",
+          "pi": "yīn wèi"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "不知道",
+          "en": "don't know",
+          "pi": "bù zhī dào"
+        },
+        {
+          "ch": "接下来",
+          "en": "next",
+          "pi": "jiē xià lái"
+        },
+        {
+          "ch": "会",
+          "en": "will",
+          "pi": "huì"
+        },
+        {
+          "ch": "发生",
+          "en": "happen",
+          "pi": "fā shēng"
+        },
+        {
+          "ch": "什么",
+          "en": "what",
+          "pi": "shén me"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    },
+    {
+      "chinese": "记得，不要轻易放弃。",
+      "english": "Remember, don't give up easily.",
+      "pinyin": "jì de, bú yào qīng yì fàng qì。",
+      "words": [
+        {
+          "ch": "记得",
+          "en": "Remember",
+          "pi": "jì de"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": "，"
+        },
+        {
+          "ch": "不要",
+          "en": "don't",
+          "pi": "bú yào"
+        },
+        {
+          "ch": "轻易",
+          "en": "easily",
+          "pi": "qīng yì"
+        },
+        {
+          "ch": "放弃",
+          "en": "give up",
+          "pi": "fàng qì"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    }
+  ]
+}

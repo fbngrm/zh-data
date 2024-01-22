@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆的眼睛是蓝色的。",
+  "english": "Tom's eyes are blue.",
+  "pinyin": "Tāng mǔ de yǎn jīng shì lán sè de.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "的",
+      "en": "'s",
+      "pi": "de"
+    },
+    {
+      "ch": "眼睛",
+      "en": "eyes",
+      "pi": "yǎn jīng"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "蓝色",
+      "en": "blue",
+      "pi": "lán sè"
+    },
+    {
+      "ch": "的",
+      "en": "'s",
+      "pi": "de"
+    }
+  ]
+}

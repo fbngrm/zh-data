@@ -1,0 +1,42 @@
+{
+  "chinese": "天气恶劣的时候尽量不要外出。",
+  "english": "Try to stay indoors when the weather is bad.",
+  "pinyin": "Tiānqì èliè de shíhòu jǐnliàng bùyào wàichū.",
+  "words": [
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiānqì"
+    },
+    {
+      "ch": "恶劣",
+      "en": "bad",
+      "pi": "èliè"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "时候",
+      "en": "time",
+      "pi": "shíhòu"
+    },
+    {
+      "ch": "尽量",
+      "en": "try to",
+      "pi": "jǐnliàng"
+    },
+    {
+      "ch": "不要",
+      "en": "do not",
+      "pi": "bùyào"
+    },
+    {
+      "ch": "外出",
+      "en": "go out",
+      "pi": "wàichū"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "昨天我们玩得特别痛快!",
+  "english": "We had a great time yesterday!",
+  "pinyin": "zuó tiān wǒ men wán de tè bié tòng kuài!",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "玩得",
+      "en": "had a great time",
+      "pi": "wán de"
+    },
+    {
+      "ch": "特别",
+      "en": "great",
+      "pi": "tè bié"
+    },
+    {
+      "ch": "痛快",
+      "en": "pleasure",
+      "pi": "tòng kuài"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆告诉我他住在哪里。",
+  "english": "Tom told me where he lives.",
+  "pinyin": "Tāng mǔ gào sù wǒ tā zhù zài nǎlǐ.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "告诉",
+      "en": "told",
+      "pi": "gào sù"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "住",
+      "en": "lives",
+      "pi": "zhù"
+    },
+    {
+      "ch": "在",
+      "en": "where",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪里",
+      "en": "he lives",
+      "pi": "nǎlǐ"
+    }
+  ]
+}

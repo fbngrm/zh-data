@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆没跟玛丽说话。",
+  "english": "Tom didn't talk to Mary.",
+  "pinyin": "Tāng mǔ méi gēn mǎ lì shuō huà.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "没",
+      "en": "didn't",
+      "pi": "méi"
+    },
+    {
+      "ch": "跟",
+      "en": "talk",
+      "pi": "gēn"
+    },
+    {
+      "ch": "玛丽",
+      "en": "to",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "说话",
+      "en": "Mary",
+      "pi": "shuō huà"
+    }
+  ]
+}

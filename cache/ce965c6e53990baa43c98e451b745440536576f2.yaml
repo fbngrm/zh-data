@@ -1,0 +1,13 @@
+{
+  "chinese": "所有人都喜欢大的比萨。",
+  "english": "Everyone likes big pizzas.",
+  "pinyin": "suǒ yǒu rén dōu xǐhuān dà de bǐsà.",
+  "words": [
+    { "ch": "所有人", "en": "everyone", "pi": "suǒ yǒu rén" },
+    { "ch": "都", "en": "all", "pi": "dōu" },
+    { "ch": "喜欢", "en": "likes", "pi": "xǐhuān" },
+    { "ch": "大", "en": "big", "pi": "dà" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "比萨", "en": "pizzas", "pi": "bǐsà" }
+  ]
+}

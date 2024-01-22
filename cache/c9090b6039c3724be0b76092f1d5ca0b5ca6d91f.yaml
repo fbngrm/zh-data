@@ -1,0 +1,32 @@
+{
+  "chinese": "篮子里装满了苹果。",
+  "english": "The basket is filled with apples.",
+  "pinyin": "Lánzi lǐ zhuāng mǎnle píngguǒ.",
+  "words": [
+    {
+      "ch": "篮子",
+      "en": "basket",
+      "pi": "lánzi"
+    },
+    {
+      "ch": "里",
+      "en": "inside",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "装满",
+      "en": "filled with",
+      "pi": "zhuāng mǎn"
+    },
+    {
+      "ch": "了",
+      "en": "with (particle indicating a completed action)",
+      "pi": "le"
+    },
+    {
+      "ch": "苹果",
+      "en": "apples",
+      "pi": "píngguǒ"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "她搭计程车去博物馆了。",
+  "english": "She took a taxi to the museum.",
+  "pinyin": "tā dā jì chéng chē qù bó wù guǎn le。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "搭",
+      "en": "take",
+      "pi": "dā"
+    },
+    {
+      "ch": "计程车",
+      "en": "taxi",
+      "pi": "jì chéng chē"
+    },
+    {
+      "ch": "去",
+      "en": "to",
+      "pi": "qù"
+    },
+    {
+      "ch": "博物馆",
+      "en": "museum",
+      "pi": "bó wù guǎn"
+    },
+    {
+      "ch": "了",
+      "en": "past tense marker",
+      "pi": "le"
+    }
+  ]
+}

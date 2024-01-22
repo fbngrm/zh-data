@@ -1,0 +1,32 @@
+{
+  "chinese": "我们周三下午没课。",
+  "english": "We don't have classes on Wednesday afternoon.",
+  "pinyin": "wǒmen zhōu sān xiàwǔ méi kè.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "周三",
+      "en": "Wednesday",
+      "pi": "zhōu sān"
+    },
+    {
+      "ch": "下午",
+      "en": "afternoon",
+      "pi": "xiàwǔ"
+    },
+    {
+      "ch": "没",
+      "en": "don't have",
+      "pi": "méi"
+    },
+    {
+      "ch": "课",
+      "en": "classes",
+      "pi": "kè"
+    }
+  ]
+}

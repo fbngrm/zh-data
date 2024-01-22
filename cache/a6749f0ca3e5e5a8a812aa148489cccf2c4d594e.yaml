@@ -1,0 +1,63 @@
+{
+  "sentences": [
+    {
+      "chinese": "抱歉，你能说英语吗？",
+      "english": "Sorry, do you speak English?",
+      "pinyin": "Bào qiàn, nǐ néng shuō yīng yǔ ma?",
+      "words": [
+        {
+          "ch": "抱歉",
+          "en": "Sorry",
+          "pi": "bào qiàn"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "能",
+          "en": "can",
+          "pi": "néng"
+        },
+        {
+          "ch": "说",
+          "en": "speak",
+          "pi": "shuō"
+        },
+        {
+          "ch": "英语",
+          "en": "English",
+          "pi": "yīng yǔ"
+        },
+        {
+          "ch": "吗",
+          "en": "do",
+          "pi": "ma"
+        }
+      ]
+    },
+    {
+      "chinese": "是，会一点。",
+      "english": "Yes, a little.",
+      "pinyin": "Shì, huì yī diǎn.",
+      "words": [
+        {
+          "ch": "是",
+          "en": "Yes",
+          "pi": "shì"
+        },
+        {
+          "ch": "会",
+          "en": "can",
+          "pi": "huì"
+        },
+        {
+          "ch": "一点",
+          "en": "a little",
+          "pi": "yī diǎn"
+        }
+      ]
+    }
+  ]
+}

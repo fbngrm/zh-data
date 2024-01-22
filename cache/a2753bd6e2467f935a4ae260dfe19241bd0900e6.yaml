@@ -1,0 +1,32 @@
+{
+  "chinese": "杰克是我的一个朋友。",
+  "english": "Jack is one of my friends.",
+  "pinyin": "jié kè shì wǒ de yī gè péng yǒu。",
+  "words": [
+    {
+      "ch": "杰克",
+      "en": "Jack",
+      "pi": "jié kè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "一个",
+      "en": "one",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "朋友",
+      "en": "friend",
+      "pi": "péng yǒu"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chinese": "我们有足够的时间赶上那班火车。",
+  "english": "We have enough time to catch that train.",
+  "pinyin": "wǒmen yǒu zúgòu de shíjiān gǎn shàng nà bān huǒchē。",
+  "words": [
+    { "ch": "我们", "en": "we", "pi": "wǒmen" },
+    { "ch": "有", "en": "have", "pi": "yǒu" },
+    { "ch": "足够", "en": "enough", "pi": "zúgòu" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "时间", "en": "time", "pi": "shíjiān" },
+    { "ch": "赶上", "en": "catch", "pi": "gǎn shàng" },
+    { "ch": "那班", "en": "that", "pi": "nà bān" },
+    { "ch": "火车", "en": "train", "pi": "huǒchē" }
+  ]
+}

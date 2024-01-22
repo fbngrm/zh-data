@@ -1,0 +1,32 @@
+{
+  "chinese": "你要多少个苹果？",
+  "english": "How many apples do you want?",
+  "pinyin": "Nǐ yào duōshǎo gè píngguǒ?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "多少",
+      "en": "how many",
+      "pi": "duōshǎo"
+    },
+    {
+      "ch": "个",
+      "en": "measure word for objects",
+      "pi": "gè"
+    },
+    {
+      "ch": "苹果",
+      "en": "apple",
+      "pi": "píngguǒ"
+    }
+  ]
+}

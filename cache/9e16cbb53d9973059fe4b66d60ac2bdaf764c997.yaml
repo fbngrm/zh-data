@@ -1,0 +1,32 @@
+{
+  "chinese": "他住在苹果里面。",
+  "english": "He lives inside an apple.",
+  "pinyin": "Tā zhù zài píngguǒ lǐmiàn。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "Tā"
+    },
+    {
+      "ch": "住",
+      "en": "lives",
+      "pi": "zhù"
+    },
+    {
+      "ch": "在",
+      "en": "inside",
+      "pi": "zài"
+    },
+    {
+      "ch": "苹果",
+      "en": "apple",
+      "pi": "píngguǒ"
+    },
+    {
+      "ch": "里面",
+      "en": "in",
+      "pi": "lǐmiàn"
+    }
+  ]
+}

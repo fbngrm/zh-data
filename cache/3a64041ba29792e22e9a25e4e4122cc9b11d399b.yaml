@@ -1,0 +1,12 @@
+{
+  "chinese": "她从那条路离开。",
+  "english": "She left from that road.",
+  "pinyin": "tā cóng nà tiáo lù lí kāi.",
+  "words": [
+    {"ch":"她", "en":"she", "pi":"tā"},
+    {"ch":"从", "en":"from", "pi":"cóng"},
+    {"ch":"那条", "en":"that", "pi":"nà tiáo"},
+    {"ch":"路", "en":"road", "pi":"lù"},
+    {"ch":"离开", "en":"leave", "pi":"lí kāi"}
+  ]
+}

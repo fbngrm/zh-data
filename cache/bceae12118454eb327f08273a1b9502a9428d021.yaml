@@ -1,0 +1,61 @@
+{
+  "sentences": [
+    {
+      "chinese": "他有一个鸡蛋，他在吃鸡蛋。",
+      "english": "He has an egg, he is eating the egg.",
+      "pinyin": "tā yǒu yí gè jī dàn, tā zài chī jī dàn。",
+      "words": [
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "有",
+          "en": "has",
+          "pi": "yǒu"
+        },
+        {
+          "ch": "一个",
+          "en": "an",
+          "pi": "yí gè"
+        },
+        {
+          "ch": "鸡蛋",
+          "en": "egg",
+          "pi": "jī dàn"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": ""
+        },
+        {
+          "ch": "他",
+          "en": "he",
+          "pi": "tā"
+        },
+        {
+          "ch": "在",
+          "en": "is",
+          "pi": "zài"
+        },
+        {
+          "ch": "吃",
+          "en": "eating",
+          "pi": "chī"
+        },
+        {
+          "ch": "鸡蛋",
+          "en": "egg",
+          "pi": "jī dàn"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": ""
+        }
+      ]
+    }
+  ]
+}

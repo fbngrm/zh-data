@@ -1,0 +1,14 @@
+{
+  "chinese": "我不知道这个湖有多深。",
+  "english": "I don't know how deep this lake is.",
+  "pinyin": "wǒ bù zhīdào zhège hú yǒu duō shēn。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "不", "en": "don't", "pi": "bù"},
+    {"ch": "知道", "en": "know", "pi": "zhīdào"},
+    {"ch": "这个", "en": "this", "pi": "zhège"},
+    {"ch": "湖", "en": "lake", "pi": "hú"},
+    {"ch": "有", "en": "has", "pi": "yǒu"},
+    {"ch": "多深", "en": "how deep", "pi": "duō shēn"}
+  ]
+}

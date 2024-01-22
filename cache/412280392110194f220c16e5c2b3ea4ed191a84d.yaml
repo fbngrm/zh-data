@@ -1,0 +1,32 @@
+{
+  "chinese": "他到巴黎学习法语。",
+  "english": "He went to Paris to study French.",
+  "pinyin": "Tā dào bālí xuéxí fǎyǔ.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "Tā"
+    },
+    {
+      "ch": "到",
+      "en": "went",
+      "pi": "dào"
+    },
+    {
+      "ch": "巴黎",
+      "en": "Paris",
+      "pi": "bālí"
+    },
+    {
+      "ch": "学习",
+      "en": "to study",
+      "pi": "xuéxí"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎyǔ"
+    }
+  ]
+}

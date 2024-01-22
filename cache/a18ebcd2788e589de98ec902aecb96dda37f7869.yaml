@@ -1,0 +1,78 @@
+{
+  "sentences": [
+    {
+      "chinese": "那多山地区还没有高速路。",
+      "english": "The Nado region still does not have a highway.",
+      "pinyin": "nà duō shān dì qū hái méi yǒu gāo sù lù。",
+      "words": [
+        {
+          "ch": "那多山地区",
+          "en": "Nado region",
+          "pi": "nà duō shān dì qū"
+        },
+        {
+          "ch": "还没有",
+          "en": "still does not have",
+          "pi": "hái méi yǒu"
+        },
+        {
+          "ch": "高速路",
+          "en": "highway",
+          "pi": "gāo sù lù"
+        }
+      ]
+    },
+    {
+      "chinese": "所有货运被驮在人的背上或在马的背上",
+      "english": "All freight is either carried on people's backs or on horsebacks.",
+      "pinyin": "suǒ yǒu huò yùn bèi tuó zài rén de bèi shàng huò zài mǎ de bèi shàng",
+      "words": [
+        {
+          "ch": "所有",
+          "en": "all",
+          "pi": "suǒ yǒu"
+        },
+        {
+          "ch": "货运",
+          "en": "freight",
+          "pi": "huò yùn"
+        },
+        {
+          "ch": "被",
+          "en": "is",
+          "pi": "bèi"
+        },
+        {
+          "ch": "驮",
+          "en": "carried",
+          "pi": "tuó"
+        },
+        {
+          "ch": "在",
+          "en": "on",
+          "pi": "zài"
+        },
+        {
+          "ch": "人的背上",
+          "en": "people's backs",
+          "pi": "rén de bèi shàng"
+        },
+        {
+          "ch": "或",
+          "en": "or",
+          "pi": "huò"
+        },
+        {
+          "ch": "在",
+          "en": "on",
+          "pi": "zài"
+        },
+        {
+          "ch": "马的背上",
+          "en": "horsebacks",
+          "pi": "mǎ de bèi shàng"
+        }
+      ]
+    }
+  ]
+}

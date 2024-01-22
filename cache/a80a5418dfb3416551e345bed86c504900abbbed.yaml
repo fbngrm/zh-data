@@ -1,0 +1,12 @@
+{
+  "chinese": "恐怕已经没有咖啡了。",
+  "english": "I'm afraid there's no more coffee.",
+  "pinyin": "kǒng pà yǐ jīng méi yǒu kā fēi le.",
+  "words": [
+    {"ch": "恐怕", "en": "afraid", "pi": "kǒng pà"},
+    {"ch": "已经", "en": "already", "pi": "yǐ jīng"},
+    {"ch": "没有", "en": "not have", "pi": "méi yǒu"},
+    {"ch": "咖啡", "en": "coffee", "pi": "kā fēi"},
+    {"ch": "了", "en": "particle indicating completed action", "pi": "le"}
+  ]
+}

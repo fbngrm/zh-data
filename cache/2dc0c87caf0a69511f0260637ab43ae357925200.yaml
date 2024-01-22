@@ -1,0 +1,27 @@
+{
+  "chinese": "你的狗非常胖。",
+  "english": "Your dog is very fat.",
+  "pinyin": "nǐ de gǒu fēi cháng pàng.",
+  "words": [
+    {
+      "ch": "你的",
+      "en": "Your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "非常",
+      "en": "very",
+      "pi": "fēi cháng"
+    },
+    {
+      "ch": "胖",
+      "en": "fat",
+      "pi": "pàng"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "你能回答這條問題嗎？",
+  "english": "Can you answer this question?",
+  "pinyin": "nǐ néng huídá zhè tiáo wèntí ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "能", "en": "can", "pi": "néng"},
+    {"ch": "回答", "en": "answer", "pi": "huídá"},
+    {"ch": "這條", "en": "this", "pi": "zhè tiáo"},
+    {"ch": "問題", "en": "question", "pi": "wèntí"},
+    {"ch": "嗎", "en": "?", "pi": "ma"}
+  ]
+}

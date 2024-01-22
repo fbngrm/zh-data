@@ -1,0 +1,19 @@
+{
+  "chinese": "动物需要食物和饮料，而植物则需要雨水和阳光。",
+  "english": "Animals need food and drink, while plants need rain and sunlight.",
+  "pinyin": "dòng wù xū yào shí wù hé yǐn liào, ér zhí wù zé xū yào yǔ shuǐ hé yáng guāng。",
+  "words": [
+    {"ch": "动物", "en": "Animals", "pi": "dòng wù"},
+    {"ch": "需要", "en": "need", "pi": "xū yào"},
+    {"ch": "食物", "en": "food", "pi": "shí wù"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "饮料", "en": "drink", "pi": "yǐn liào"},
+    {"ch": "而", "en": "while", "pi": "ér"},
+    {"ch": "植物", "en": "plants", "pi": "zhí wù"},
+    {"ch": "则", "en": "need", "pi": "zé"},
+    {"ch": "需要", "en": "need", "pi": "xū yào"},
+    {"ch": "雨水", "en": "rain", "pi": "yǔ shuǐ"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "阳光", "en": "sunlight", "pi": "yáng guāng"}
+  ]
+}

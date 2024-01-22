@@ -1,0 +1,32 @@
+{
+  "chinese": "這是你的車嗎?",
+  "english": "Is this your car?",
+  "pinyin": "zhè shì nǐ de chē ma?",
+  "words": [
+    {
+      "ch": "這",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "車",
+      "en": "car",
+      "pi": "chē"
+    },
+    {
+      "ch": "嗎",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

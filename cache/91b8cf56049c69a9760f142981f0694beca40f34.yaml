@@ -1,0 +1,27 @@
+{
+  "chinese": "请问鸡蛋在哪里？",
+  "english": "Excuse me, where are the eggs?",
+  "pinyin": "Qǐngwèn jīdàn zài nǎlǐ?",
+  "words": [
+    {
+      "ch": "请问",
+      "en": "Excuse me",
+      "pi": "qǐngwèn"
+    },
+    {
+      "ch": "鸡蛋",
+      "en": "eggs",
+      "pi": "jīdàn"
+    },
+    {
+      "ch": "在",
+      "en": "are",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪里",
+      "en": "where",
+      "pi": "nǎlǐ"
+    }
+  ]
+}

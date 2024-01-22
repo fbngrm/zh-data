@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆跟玛丽说了这问题。",
+  "english": "Tom told Mary about this problem.",
+  "pinyin": "Tāng mǔ gēn mǎ lì shuō le zhè wèn tí.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "跟",
+      "en": "told",
+      "pi": "gēn"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "说",
+      "en": "about",
+      "pi": "shuō"
+    },
+    {
+      "ch": "了",
+      "en": "this",
+      "pi": "le"
+    },
+    {
+      "ch": "这",
+      "en": "problem",
+      "pi": "zhè"
+    },
+    {
+      "ch": "问题",
+      "en": "problem",
+      "pi": "wèn tí"
+    }
+  ]
+}

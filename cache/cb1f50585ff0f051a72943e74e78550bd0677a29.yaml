@@ -1,0 +1,32 @@
+{
+  "chinese": "我什么都不喜欢。",
+  "english": "I don't like anything.",
+  "pinyin": "wǒ shénme dōu bù xǐhuān.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "什么",
+      "en": "anything",
+      "pi": "shénme"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    }
+  ]
+}

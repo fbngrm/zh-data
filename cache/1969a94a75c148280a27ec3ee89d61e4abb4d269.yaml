@@ -1,0 +1,37 @@
+{
+  "chinese": "你很早起床，不是嗎?",
+  "english": "You wake up early, don't you?",
+  "pinyin": "nǐ hěn zǎo qǐchuáng, bùshì ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "早",
+      "en": "early",
+      "pi": "zǎo"
+    },
+    {
+      "ch": "起床",
+      "en": "wake up",
+      "pi": "qǐchuáng"
+    },
+    {
+      "ch": "不是",
+      "en": "don't",
+      "pi": "bùshì"
+    },
+    {
+      "ch": "嗎",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

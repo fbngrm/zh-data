@@ -1,0 +1,113 @@
+{
+  "sentences": [
+    {
+      "chinese": "久了不见，便会逐渐淡忘。",
+      "english": "Long time no see, will gradually forget.",
+      "pinyin": "jiǔ le bú jiàn, biàn huì zhú jiàn dàn wàng。",
+      "words": [
+        {
+          "ch": "久",
+          "en": "Long time",
+          "pi": "jiǔ"
+        },
+        {
+          "ch": "了",
+          "en": "no",
+          "pi": "le"
+        },
+        {
+          "ch": "不见",
+          "en": "see",
+          "pi": "bú jiàn"
+        },
+        {
+          "ch": "，",
+          "en": "",
+          "pi": ""
+        },
+        {
+          "ch": "便会",
+          "en": "will",
+          "pi": "biàn huì"
+        },
+        {
+          "ch": "逐渐",
+          "en": "gradually",
+          "pi": "zhú jiàn"
+        },
+        {
+          "ch": "淡忘",
+          "en": "forget",
+          "pi": "dàn wàng"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": ""
+        }
+      ]
+    },
+    {
+      "chinese": "分开以后，也就自然不会再联络了。",
+      "english": "After separation, naturally there will be no more contact.",
+      "pinyin": "fēn kāi yǐ hòu, yě jiù zì rán bú huì zài lián luò le。",
+      "words": [
+        {
+          "ch": "分开",
+          "en": "separation",
+          "pi": "fēn kāi"
+        },
+        {
+          "ch": "以后",
+          "en": "after",
+          "pi": "yǐ hòu"
+        },
+        {
+          "ch": "，",
+          "en": "",
+          "pi": ""
+        },
+        {
+          "ch": "也",
+          "en": "also",
+          "pi": "yě"
+        },
+        {
+          "ch": "就",
+          "en": "naturally",
+          "pi": "jiù"
+        },
+        {
+          "ch": "自然",
+          "en": "naturally",
+          "pi": "zì rán"
+        },
+        {
+          "ch": "不会",
+          "en": "will not",
+          "pi": "bú huì"
+        },
+        {
+          "ch": "再",
+          "en": "again",
+          "pi": "zài"
+        },
+        {
+          "ch": "联络",
+          "en": "contact",
+          "pi": "lián luò"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": ""
+        }
+      ]
+    }
+  ]
+}

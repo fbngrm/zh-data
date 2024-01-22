@@ -1,0 +1,32 @@
+{
+  "chinese": "我今天上午到了车站。",
+  "english": "I arrived at the station this morning.",
+  "pinyin": "wǒ jīntiān shàngwǔ dàole chēzhàn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "上午",
+      "en": "morning",
+      "pi": "shàngwǔ"
+    },
+    {
+      "ch": "到了",
+      "en": "arrived",
+      "pi": "dàole"
+    },
+    {
+      "ch": "车站",
+      "en": "station",
+      "pi": "chēzhàn"
+    }
+  ]
+}

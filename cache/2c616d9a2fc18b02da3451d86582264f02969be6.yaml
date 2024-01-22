@@ -1,0 +1,37 @@
+{
+  "chinese": "我不想让汤姆死。",
+  "english": "I don't want Tom to die.",
+  "pinyin": "wǒ bù xiǎng ràng tāng mǔ sǐ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "do not",
+      "pi": "bù"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "让",
+      "en": "let",
+      "pi": "ràng"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "死",
+      "en": "die",
+      "pi": "sǐ"
+    }
+  ]
+}

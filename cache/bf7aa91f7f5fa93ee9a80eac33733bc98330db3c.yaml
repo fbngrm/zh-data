@@ -1,0 +1,32 @@
+{
+  "chinese": "你有没有兄弟姊妹？",
+  "english": "Do you have any siblings?",
+  "pinyin": "Nǐ yǒu méiyǒu xiōngdì zǐmèi?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "没有",
+      "en": "do not have",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "兄弟",
+      "en": "brothers",
+      "pi": "xiōngdì"
+    },
+    {
+      "ch": "姊妹",
+      "en": "sisters",
+      "pi": "zǐmèi"
+    }
+  ]
+}

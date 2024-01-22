@@ -1,0 +1,18 @@
+{
+  "chinese": "她打电话给他丈夫，让他立刻过来。",
+  "english": "She called her husband and asked him to come over immediately.",
+  "pinyin": "Tā dǎ diànhuà gěi tā zhàngfu, ràng tā lìkè guòlái.",
+  "words": [
+    {"ch": "她", "en": "she", "pi": "tā"},
+    {"ch": "打电话", "en": "called", "pi": "dǎ diànhuà"},
+    {"ch": "给", "en": "to", "pi": "gěi"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "丈夫", "en": "husband", "pi": "zhàngfu"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "让", "en": "asked", "pi": "ràng"},
+    {"ch": "他", "en": "him", "pi": "tā"},
+    {"ch": "立刻", "en": "immediately", "pi": "lìkè"},
+    {"ch": "过来", "en": "to come over", "pi": "guòlái"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "汉语不算难得学不会。",
+  "english": "Chinese is not difficult. It can be learned.",
+  "pinyin": "hàn yǔ bú suàn nán dé xué bù huì.",
+  "words": [
+    {
+      "ch": "汉语",
+      "en": "Chinese",
+      "pi": "hàn yǔ"
+    },
+    {
+      "ch": "不算",
+      "en": "not",
+      "pi": "bú suàn"
+    },
+    {
+      "ch": "难",
+      "en": "difficult",
+      "pi": "nán"
+    },
+    {
+      "ch": "得",
+      "en": "",
+      "pi": "dé"
+    },
+    {
+      "ch": "学",
+      "en": "learn",
+      "pi": "xué"
+    },
+    {
+      "ch": "不会",
+      "en": "cannot",
+      "pi": "bù huì"
+    }
+  ]
+}

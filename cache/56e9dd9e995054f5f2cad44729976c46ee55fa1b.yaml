@@ -1,0 +1,37 @@
+{
+  "chinese": "我是上个月来的北京。",
+  "english": "I came to Beijing last month.",
+  "pinyin": "Wǒ shì shàng gè yuè lái de Běijīng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "Wǒ"
+    },
+    {
+      "ch": "是",
+      "en": "am",
+      "pi": "shì"
+    },
+    {
+      "ch": "上个月",
+      "en": "last month",
+      "pi": "shàng gè yuè"
+    },
+    {
+      "ch": "来",
+      "en": "came",
+      "pi": "lái"
+    },
+    {
+      "ch": "的",
+      "en": "to",
+      "pi": "de"
+    },
+    {
+      "ch": "北京",
+      "en": "Beijing",
+      "pi": "Běijīng"
+    }
+  ]
+}

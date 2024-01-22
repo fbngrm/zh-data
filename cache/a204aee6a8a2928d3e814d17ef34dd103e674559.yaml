@@ -1,0 +1,32 @@
+{
+  "chinese": "我快饿死了。",
+  "english": "I'm starving.",
+  "pinyin": "wǒ kuài è sǐ le。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "快",
+      "en": "fast",
+      "pi": "kuài"
+    },
+    {
+      "ch": "饿",
+      "en": "hungry",
+      "pi": "è"
+    },
+    {
+      "ch": "死",
+      "en": "to die",
+      "pi": "sǐ"
+    },
+    {
+      "ch": "了",
+      "en": "(used to indicate a completed or changed action)",
+      "pi": "le"
+    }
+  ]
+}

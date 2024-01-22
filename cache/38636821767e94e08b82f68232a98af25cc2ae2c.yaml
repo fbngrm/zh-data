@@ -1,0 +1,32 @@
+{
+  "chinese": "我们有一只白色的猫。",
+  "english": "We have a white cat.",
+  "pinyin": "wǒmen yǒu yī zhī báisè de māo.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一只",
+      "en": "a",
+      "pi": "yī zhī"
+    },
+    {
+      "ch": "白色的",
+      "en": "white",
+      "pi": "báisè de"
+    },
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "māo"
+    }
+  ]
+}

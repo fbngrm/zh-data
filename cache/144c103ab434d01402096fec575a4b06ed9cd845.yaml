@@ -1,0 +1,27 @@
+{
+  "chinese": "我的牙很痛。",
+  "english": "My tooth hurts.",
+  "pinyin": "Wǒ de yá hěn tòng.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "My",
+      "pi": "Wǒ de"
+    },
+    {
+      "ch": "牙",
+      "en": "tooth",
+      "pi": "yá"
+    },
+    {
+      "ch": "很",
+      "en": "hurts",
+      "pi": "hěn"
+    },
+    {
+      "ch": "痛",
+      "en": "hurts",
+      "pi": "tòng"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆在我走后到了。",
+  "english": "Tom arrived after I left.",
+  "pinyin": "Tāng mǔ zài wǒ zǒu hòu dào le.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "走后",
+      "en": "after I left",
+      "pi": "zǒu hòu"
+    },
+    {
+      "ch": "到",
+      "en": "arrived",
+      "pi": "dào"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

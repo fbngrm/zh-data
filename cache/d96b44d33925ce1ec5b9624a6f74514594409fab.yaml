@@ -1,0 +1,15 @@
+{
+  "chinese": "他总是跟她站在同一边。",
+  "english": "He always stands on the same side as her.",
+  "pinyin": "tā zǒng shì gēn tā zhàn zài tóng yī biān。",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "总是", "en": "always", "pi": "zǒng shì"},
+    {"ch": "跟", "en": "with", "pi": "gēn"},
+    {"ch": "她", "en": "her", "pi": "tā"},
+    {"ch": "站", "en": "stand", "pi": "zhàn"},
+    {"ch": "在", "en": "on", "pi": "zài"},
+    {"ch": "同一", "en": "same", "pi": "tóng yī"},
+    {"ch": "边", "en": "side", "pi": "biān"}
+  ]
+}

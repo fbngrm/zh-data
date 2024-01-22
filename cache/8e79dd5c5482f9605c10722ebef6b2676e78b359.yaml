@@ -1,0 +1,15 @@
+{
+  "chinese": "你说你有困难。我能帮忙吗？",
+  "english": "You said you have difficulties. Can I help?",
+  "pinyin": "nǐ shuō nǐ yǒu kùn nan. wǒ néng bāng má?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "说", "en": "said", "pi": "shuō"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "困难", "en": "difficulties", "pi": "kùn nan"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "能", "en": "can", "pi": "néng"},
+    {"ch": "帮忙", "en": "help", "pi": "bāng má"}
+  ]
+}

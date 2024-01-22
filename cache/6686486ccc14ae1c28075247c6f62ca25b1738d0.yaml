@@ -1,0 +1,42 @@
+{
+  "chinese": "填上你的姓名和地址。",
+  "english": "Fill in your name and address.",
+  "pinyin": "Tián shàng nǐ de xìngmíng hé dìzhǐ.",
+  "words": [
+    {
+      "ch": "填",
+      "en": "Fill",
+      "pi": "tián"
+    },
+    {
+      "ch": "上",
+      "en": "in",
+      "pi": "shàng"
+    },
+    {
+      "ch": "你",
+      "en": "your",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "姓名",
+      "en": "name",
+      "pi": "xìngmíng"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "地址",
+      "en": "address",
+      "pi": "dìzhǐ"
+    }
+  ]
+}

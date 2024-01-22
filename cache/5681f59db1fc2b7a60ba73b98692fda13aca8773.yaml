@@ -1,0 +1,27 @@
+{
+  "chinese": "小丑做了个鬼脸。",
+  "english": "The clown made a funny face.",
+  "pinyin": "xiǎo chǒu zuò le gè guǐ liǎn。",
+  "words": [
+    {
+      "ch": "小丑",
+      "en": "clown",
+      "pi": "xiǎo chǒu"
+    },
+    {
+      "ch": "做了",
+      "en": "made",
+      "pi": "zuò le"
+    },
+    {
+      "ch": "个",
+      "en": "a",
+      "pi": "gè"
+    },
+    {
+      "ch": "鬼脸",
+      "en": "funny face",
+      "pi": "guǐ liǎn"
+    }
+  ]
+}

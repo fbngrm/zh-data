@@ -1,0 +1,11 @@
+{
+  "chinese": "十点钟有一班火车。",
+  "english": "There is a train at ten o'clock.",
+  "pinyin": "shí diǎn zhōng yǒu yī bān huǒ chē。",
+  "words": [
+    {"ch": "十点钟", "en": "ten o'clock", "pi": "shí diǎn zhōng"},
+    {"ch": "有", "en": "is", "pi": "yǒu"},
+    {"ch": "一班", "en": "a train", "pi": "yī bān"},
+    {"ch": "火车", "en": "train", "pi": "huǒ chē"}
+  ]
+}

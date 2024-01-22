@@ -1,0 +1,14 @@
+{
+  "chinese": "汤姆没有告诉我他不会游泳。",
+  "english": "Tom didn't tell me that he can't swim.",
+  "pinyin": "tāng mǔ méi yǒu gào sù wǒ tā bú huì yóu yǒng。",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "没有", "en": "didn't", "pi": "méi yǒu"},
+    {"ch": "告诉", "en": "tell", "pi": "gào sù"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "不会", "en": "can't", "pi": "bú huì"},
+    {"ch": "游泳", "en": "swim", "pi": "yóu yǒng"}
+  ]
+}

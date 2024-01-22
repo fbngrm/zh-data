@@ -1,0 +1,37 @@
+{
+  "chinese": "水在摄氏１００度沸腾。",
+  "english": "Water boils at 100 degrees Celsius.",
+  "pinyin": "shuǐ zài shèshì yībǎi dù fèiténg.",
+  "words": [
+    {
+      "ch": "水",
+      "en": "Water",
+      "pi": "shuǐ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "摄氏",
+      "en": "degrees Celsius",
+      "pi": "shèshì"
+    },
+    {
+      "ch": "１００",
+      "en": "100",
+      "pi": "yībǎi"
+    },
+    {
+      "ch": "度",
+      "en": "degrees",
+      "pi": "dù"
+    },
+    {
+      "ch": "沸腾",
+      "en": "boils",
+      "pi": "fèiténg"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆昨晚看来很健康。",
+  "english": "Tom seemed very healthy last night.",
+  "pinyin": "Tāng mǔ zuó wǎn kàn lái hěn jiànkāng.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "昨晚",
+      "en": "last night",
+      "pi": "zuó wǎn"
+    },
+    {
+      "ch": "看来",
+      "en": "seemed",
+      "pi": "kàn lái"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "健康",
+      "en": "healthy",
+      "pi": "jiànkāng"
+    }
+  ]
+}

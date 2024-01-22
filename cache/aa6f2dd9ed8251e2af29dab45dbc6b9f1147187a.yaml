@@ -1,0 +1,42 @@
+{
+  "chinese": "我搭公车和火车去那里。",
+  "english": "I take the bus and train to go there.",
+  "pinyin": "wǒ dā gōng chē hé huǒ chē qù nà lǐ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "搭",
+      "en": "take",
+      "pi": "dā"
+    },
+    {
+      "ch": "公车",
+      "en": "bus",
+      "pi": "gōng chē"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒ chē"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "那里",
+      "en": "there",
+      "pi": "nà lǐ"
+    }
+  ]
+}

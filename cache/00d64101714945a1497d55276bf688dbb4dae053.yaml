@@ -1,0 +1,32 @@
+{
+  "chinese": "她穿著白色的鞋子。",
+  "english": "She is wearing white shoes.",
+  "pinyin": "tā chuān zhuó bái sè de xié zi.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "穿著",
+      "en": "is wearing",
+      "pi": "chuān zhuó"
+    },
+    {
+      "ch": "白色",
+      "en": "white",
+      "pi": "bái sè"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "鞋子",
+      "en": "shoes",
+      "pi": "xié zi"
+    }
+  ]
+}

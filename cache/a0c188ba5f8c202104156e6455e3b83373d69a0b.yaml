@@ -1,0 +1,18 @@
+{
+  "chinese": "为了这次的测试，我特地买了电压测试仪。",
+  "english": "For this test, I specially bought a voltage tester.",
+  "pinyin": "wèi le zhè cì de cè shì, wǒ tèdì mǎi le diàn yā chǔ shì yí.",
+  "words": [
+    {"ch": "为了", "en": "For", "pi": "wèi le"},
+    {"ch": "这次", "en": "this", "pi": "zhè cì"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "测试", "en": "test", "pi": "cè shì"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "特地", "en": "specially", "pi": "tèdì"},
+    {"ch": "买了", "en": "bought", "pi": "mǎi le"},
+    {"ch": "电压", "en": "voltage", "pi": "diàn yā"},
+    {"ch": "测试仪", "en": "tester", "pi": "chǔ shì yí"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

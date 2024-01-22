@@ -1,0 +1,51 @@
+{
+  "sentences": [
+    {
+      "chinese": "有人喜欢红酒，有人喜欢白酒。",
+      "english": "Some people like red wine, some people like white wine.",
+      "pinyin": "Yǒurén xǐhuān hóngjiǔ, yǒurén xǐhuān báijiǔ。",
+      "words": [
+        {
+          "ch": "有人",
+          "en": "some people",
+          "pi": "yǒurén"
+        },
+        {
+          "ch": "喜欢",
+          "en": "like",
+          "pi": "xǐhuān"
+        },
+        {
+          "ch": "红酒",
+          "en": "red wine",
+          "pi": "hóngjiǔ"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": "，"
+        },
+        {
+          "ch": "有人",
+          "en": "some people",
+          "pi": "yǒurén"
+        },
+        {
+          "ch": "喜欢",
+          "en": "like",
+          "pi": "xǐhuān"
+        },
+        {
+          "ch": "白酒",
+          "en": "white wine",
+          "pi": "báijiǔ"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "。"
+        }
+      ]
+    }
+  ]
+}

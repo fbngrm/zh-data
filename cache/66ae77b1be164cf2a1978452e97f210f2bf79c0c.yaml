@@ -1,0 +1,27 @@
+{
+  "chinese": "医生给我把脉。",
+  "english": "The doctor took my pulse.",
+  "pinyin": "yīshēng gěi wǒ bǎ mài.",
+  "words": [
+    {
+      "ch": "医生",
+      "en": "doctor",
+      "pi": "yīshēng"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "把脉",
+      "en": "take pulse",
+      "pi": "bǎ mài"
+    }
+  ]
+}

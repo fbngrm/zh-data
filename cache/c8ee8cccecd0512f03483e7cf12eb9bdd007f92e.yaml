@@ -1,0 +1,48 @@
+{
+  "sentences": [
+    {
+      "chinese": "请把盐递给我。",
+      "english": "Please pass me the salt.",
+      "pinyin": "qǐng bǎ yán dì gěi wǒ。",
+      "words": [
+        {
+          "ch": "请",
+          "en": "please",
+          "pi": "qǐng"
+        },
+        {
+          "ch": "把",
+          "en": "pass",
+          "pi": "bǎ"
+        },
+        {
+          "ch": "盐",
+          "en": "salt",
+          "pi": "yán"
+        },
+        {
+          "ch": "递给",
+          "en": "give",
+          "pi": "dì gěi"
+        },
+        {
+          "ch": "我",
+          "en": "me",
+          "pi": "wǒ"
+        }
+      ]
+    },
+    {
+      "chinese": "拿着。",
+      "english": "Here you go.",
+      "pinyin": "ná zhe。",
+      "words": [
+        {
+          "ch": "拿着",
+          "en": "here you go",
+          "pi": "ná zhe"
+        }
+      ]
+    }
+  ]
+}

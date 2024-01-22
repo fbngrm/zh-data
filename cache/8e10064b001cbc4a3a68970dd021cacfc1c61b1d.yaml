@@ -1,0 +1,42 @@
+{
+  "chinese": "你能代替我出席会议吗?",
+  "english": "Can you attend the meeting on my behalf?",
+  "pinyin": "nǐ néng dàitì wǒ chūxí huìyì ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "代替",
+      "en": "replace",
+      "pi": "dàitì"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "出席",
+      "en": "attend",
+      "pi": "chūxí"
+    },
+    {
+      "ch": "会议",
+      "en": "meeting",
+      "pi": "huìyì"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

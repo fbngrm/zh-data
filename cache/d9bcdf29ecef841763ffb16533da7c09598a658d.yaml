@@ -1,0 +1,32 @@
+{
+  "chinese": "在家里有问题吗？",
+  "english": "Is there a problem at home?",
+  "pinyin": "zài jiā lǐ yǒu wèn tí ma?",
+  "words": [
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "家里",
+      "en": "home",
+      "pi": "jiā lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "问题",
+      "en": "problem",
+      "pi": "wèn tí"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "这间教室与那间隔着一堵墙。",
+  "english": "This classroom is separated from that one by a wall.",
+  "pinyin": "zhè jiān jiào shì yǔ nà jiān gé zhe yī dǔ qiáng.",
+  "words": [
+    {
+      "ch": "这间",
+      "en": "this",
+      "pi": "zhè jiān"
+    },
+    {
+      "ch": "教室",
+      "en": "classroom",
+      "pi": "jiào shì"
+    },
+    {
+      "ch": "与",
+      "en": "and",
+      "pi": "yǔ"
+    },
+    {
+      "ch": "那间",
+      "en": "that",
+      "pi": "nà jiān"
+    },
+    {
+      "ch": "隔着",
+      "en": "separated by",
+      "pi": "gé zhe"
+    },
+    {
+      "ch": "一堵",
+      "en": "a",
+      "pi": "yī dǔ"
+    },
+    {
+      "ch": "墙",
+      "en": "wall",
+      "pi": "qiáng"
+    }
+  ]
+}

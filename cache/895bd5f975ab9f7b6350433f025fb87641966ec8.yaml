@@ -1,0 +1,32 @@
+{
+  "chinese": "这部小说很难读懂。",
+  "english": "This novel is difficult to understand.",
+  "pinyin": "zhè bù xiǎoshuō hěn nán dúdǒng.",
+  "words": [
+    {
+      "ch": "这部",
+      "en": "this",
+      "pi": "zhè bù"
+    },
+    {
+      "ch": "小说",
+      "en": "novel",
+      "pi": "xiǎoshuō"
+    },
+    {
+      "ch": "很",
+      "en": "is",
+      "pi": "hěn"
+    },
+    {
+      "ch": "难",
+      "en": "difficult",
+      "pi": "nán"
+    },
+    {
+      "ch": "读懂",
+      "en": "to understand",
+      "pi": "dúdǒng"
+    }
+  ]
+}

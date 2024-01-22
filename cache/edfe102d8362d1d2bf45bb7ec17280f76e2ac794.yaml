@@ -1,0 +1,32 @@
+{
+  "chinese": "这本书是托尼的。",
+  "english": "This book belongs to Tony.",
+  "pinyin": "zhè běn shū shì tuō ní de.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "书",
+      "en": "is",
+      "pi": "shū"
+    },
+    {
+      "ch": "是",
+      "en": "Tony's",
+      "pi": "shì"
+    },
+    {
+      "ch": "托尼的",
+      "en": "of",
+      "pi": "tuō ní de"
+    }
+  ]
+}

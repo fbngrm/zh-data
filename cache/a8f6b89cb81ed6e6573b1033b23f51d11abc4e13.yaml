@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆已经回来了吗？",
+  "english": "Has Tom come back?",
+  "pinyin": "Tāng mǔ yǐjīng huílái le ma?",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐjīng"
+    },
+    {
+      "ch": "回来",
+      "en": "come back",
+      "pi": "huílái"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

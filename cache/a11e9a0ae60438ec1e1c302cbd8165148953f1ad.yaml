@@ -1,0 +1,32 @@
+{
+  "chinese": "父亲让我去演唱会。",
+  "english": "Father asked me to go to the concert.",
+  "pinyin": "fù qīn ràng wǒ qù yǎn chàng huì。",
+  "words": [
+    {
+      "ch": "父亲",
+      "en": "Father",
+      "pi": "fù qīn"
+    },
+    {
+      "ch": "让",
+      "en": "asked",
+      "pi": "ràng"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "去",
+      "en": "to go",
+      "pi": "qù"
+    },
+    {
+      "ch": "演唱会",
+      "en": "concert",
+      "pi": "yǎn chàng huì"
+    }
+  ]
+}

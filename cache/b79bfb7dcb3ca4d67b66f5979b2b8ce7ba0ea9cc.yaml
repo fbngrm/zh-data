@@ -1,0 +1,42 @@
+{
+  "chinese": "你走得太快我跟不上。",
+  "english": "You walk too fast, I can't keep up.",
+  "pinyin": "nǐ zǒu de tài kuài wǒ gēn bù shàng。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "走",
+      "en": "walk",
+      "pi": "zǒu"
+    },
+    {
+      "ch": "得",
+      "en": "too",
+      "pi": "de"
+    },
+    {
+      "ch": "太",
+      "en": "fast",
+      "pi": "tài"
+    },
+    {
+      "ch": "快",
+      "en": "fast",
+      "pi": "kuài"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "跟不上",
+      "en": "can't keep up",
+      "pi": "gēn bù shàng"
+    }
+  ]
+}

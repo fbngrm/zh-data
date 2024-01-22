@@ -1,0 +1,17 @@
+{
+  "chinese": "飞机快要起飞的时候，我听到了一个奇怪的声音。",
+  "english": "When the plane was about to take off, I heard a strange noise.",
+  "pinyin": "fēijī kuàiyào qǐfēi de shíhòu, wǒ tīng dào le yīgè qíguài de shēngyīn。",
+  "words": [
+    {"ch": "飞机", "en": "plane", "pi": "fēijī"},
+    {"ch": "快要", "en": "about to", "pi": "kuàiyào"},
+    {"ch": "起飞", "en": "take off", "pi": "qǐfēi"},
+    {"ch": "的时候", "en": "when", "pi": "de shíhòu"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "听到", "en": "heard", "pi": "tīng dào"},
+    {"ch": "了", "en": "a", "pi": "le"},
+    {"ch": "一个", "en": "strange", "pi": "yīgè"},
+    {"ch": "奇怪", "en": "noise", "pi": "qíguài"},
+    {"ch": "的声音", "en": "sound", "pi": "de shēngyīn"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "你昨天甚么时候睡觉？",
+  "english": "When did you go to sleep yesterday?",
+  "pinyin": "Nǐ zuótiān shénme shíhòu shuìjiào?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "甚么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "时候",
+      "en": "when",
+      "pi": "shíhòu"
+    },
+    {
+      "ch": "睡觉",
+      "en": "go to sleep",
+      "pi": "shuìjiào"
+    }
+  ]
+}

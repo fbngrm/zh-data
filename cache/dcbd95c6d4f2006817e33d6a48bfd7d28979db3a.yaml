@@ -1,0 +1,48 @@
+{
+  "sentences": [
+    {
+      "chinese": "你們是學生嗎？",
+      "english": "Are you students?",
+      "pinyin": "nǐ men shì xué shēng ma?",
+      "words": [
+        {
+          "ch": "你們",
+          "en": "you",
+          "pi": "nǐ men"
+        },
+        {
+          "ch": "是",
+          "en": "are",
+          "pi": "shì"
+        },
+        {
+          "ch": "學生",
+          "en": "students",
+          "pi": "xué shēng"
+        },
+        {
+          "ch": "嗎",
+          "en": "?",
+          "pi": "ma"
+        }
+      ]
+    },
+    {
+      "chinese": "是的。",
+      "english": "Yes.",
+      "pinyin": "shì de",
+      "words": [
+        {
+          "ch": "是",
+          "en": "yes",
+          "pi": "shì"
+        },
+        {
+          "ch": "的",
+          "en": ".",
+          "pi": "de"
+        }
+      ]
+    }
+  ]
+}

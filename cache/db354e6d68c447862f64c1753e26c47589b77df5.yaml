@@ -1,0 +1,37 @@
+{
+  "chinese": "這雙鞋子不合我的腳。",
+  "english": "These shoes don't fit my feet.",
+  "pinyin": "zhè shuāng xiézi bù hé wǒ de jiǎo。",
+  "words": [
+    {
+      "ch": "這",
+      "en": "These",
+      "pi": "zhè"
+    },
+    {
+      "ch": "雙",
+      "en": "pair",
+      "pi": "shuāng"
+    },
+    {
+      "ch": "鞋子",
+      "en": "shoes",
+      "pi": "xiézi"
+    },
+    {
+      "ch": "不合",
+      "en": "don't fit",
+      "pi": "bù hé"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "腳",
+      "en": "feet",
+      "pi": "jiǎo"
+    }
+  ]
+}

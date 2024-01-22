@@ -1,0 +1,37 @@
+{
+  "chinese": "这本书是谁的？",
+  "english": "Whose book is this?",
+  "pinyin": "zhè běn shū shì shuí de?",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "本",
+      "en": "book",
+      "pi": "běn"
+    },
+    {
+      "ch": "书",
+      "en": "is",
+      "pi": "shū"
+    },
+    {
+      "ch": "是",
+      "en": "whose",
+      "pi": "shì"
+    },
+    {
+      "ch": "谁",
+      "en": "of?",
+      "pi": "shuí"
+    },
+    {
+      "ch": "的",
+      "en": "?",
+      "pi": "de"
+    }
+  ]
+}

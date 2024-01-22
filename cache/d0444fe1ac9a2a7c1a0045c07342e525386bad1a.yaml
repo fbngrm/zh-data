@@ -1,0 +1,42 @@
+{
+  "chinese": "这是我从来吃过最好吃的蛋糕。",
+  "english": "This is the best cake I have ever eaten.",
+  "pinyin": "zhè shì wǒ cóng lái chī guò zuì hǎo chī de dàngāo.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "从来",
+      "en": "ever",
+      "pi": "cóng lái"
+    },
+    {
+      "ch": "吃过",
+      "en": "have eaten",
+      "pi": "chī guò"
+    },
+    {
+      "ch": "最好吃的",
+      "en": "the best",
+      "pi": "zuì hǎo chī de"
+    },
+    {
+      "ch": "蛋糕",
+      "en": "cake",
+      "pi": "dàngāo"
+    }
+  ]
+}

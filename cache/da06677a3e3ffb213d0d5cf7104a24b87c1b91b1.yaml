@@ -1,0 +1,98 @@
+{
+  "sentences": [
+    {
+      "chinese": "有人说，要深入理解英语，就必须先学好拉丁语。",
+      "english": "Some people say that in order to deeply understand English, one must first learn Latin.",
+      "pinyin": "yǒu rén shuō, yào shēn rù lǐ jiě yīng yǔ, jiù bì xū xiān xué hǎo lā tīng yǔ。",
+      "words": [
+        {
+          "ch": "有人",
+          "en": "Some people",
+          "pi": "yǒu rén"
+        },
+        {
+          "ch": "说",
+          "en": "say",
+          "pi": "shuō"
+        },
+        {
+          "ch": "要",
+          "en": "that",
+          "pi": "yào"
+        },
+        {
+          "ch": "深入",
+          "en": "in order to deeply",
+          "pi": "shēn rù"
+        },
+        {
+          "ch": "理解",
+          "en": "understand",
+          "pi": "lǐ jiě"
+        },
+        {
+          "ch": "英语",
+          "en": "English",
+          "pi": "yīng yǔ"
+        },
+        {
+          "ch": "就",
+          "en": "must",
+          "pi": "jiù"
+        },
+        {
+          "ch": "必须",
+          "en": "first",
+          "pi": "bì xū"
+        },
+        {
+          "ch": "先",
+          "en": "learn",
+          "pi": "xiān"
+        },
+        {
+          "ch": "学好",
+          "en": "Latin",
+          "pi": "xué hǎo"
+        },
+        {
+          "ch": "拉丁语",
+          "en": "well",
+          "pi": "lā tīng yǔ"
+        }
+      ]
+    },
+    {
+      "chinese": "我不同意这种说法。",
+      "english": "I disagree with this statement.",
+      "pinyin": "wǒ bù tóng yì zhè zhǒng shuō fǎ。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "不",
+          "en": "do not",
+          "pi": "bù"
+        },
+        {
+          "ch": "同意",
+          "en": "agree",
+          "pi": "tóng yì"
+        },
+        {
+          "ch": "这种",
+          "en": "this",
+          "pi": "zhè zhǒng"
+        },
+        {
+          "ch": "说法",
+          "en": "statement",
+          "pi": "shuō fǎ"
+        }
+      ]
+    }
+  ]
+}

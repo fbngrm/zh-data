@@ -1,0 +1,37 @@
+{
+  "chinese": "明天早上别睡过头了。",
+  "english": "Don't oversleep tomorrow morning.",
+  "pinyin": "Míngtiān zǎoshang bié shuì guòtóu le.",
+  "words": [
+    {
+      "ch": "明天",
+      "en": "tomorrow",
+      "pi": "míngtiān"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎoshang"
+    },
+    {
+      "ch": "别",
+      "en": "don't",
+      "pi": "bié"
+    },
+    {
+      "ch": "睡",
+      "en": "sleep",
+      "pi": "shuì"
+    },
+    {
+      "ch": "过头",
+      "en": "oversleep",
+      "pi": "guòtóu"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

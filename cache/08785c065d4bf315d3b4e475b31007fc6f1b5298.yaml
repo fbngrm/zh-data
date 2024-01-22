@@ -1,0 +1,32 @@
+{
+  "chinese": "他吃了毒蘑菇。",
+  "english": "He ate poisonous mushrooms.",
+  "pinyin": "tā chī le dú mó gu。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "吃",
+      "en": "ate",
+      "pi": "chī"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "毒",
+      "en": "poisonous",
+      "pi": "dú"
+    },
+    {
+      "ch": "蘑菇",
+      "en": "mushrooms",
+      "pi": "mó gu"
+    }
+  ]
+}

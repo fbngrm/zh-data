@@ -1,0 +1,18 @@
+{
+  "chinese": "你能再向我解释一遍你为什么迟到了吗？",
+  "english": "Can you explain to me again why you were late?",
+  "pinyin": "nǐ néng zài xiàng wǒ jiěshì yībiàn nǐ wèishéme chídào le ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "能", "en": "able", "pi": "néng"},
+    {"ch": "再", "en": "again", "pi": "zài"},
+    {"ch": "向", "en": "to", "pi": "xiàng"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "解释", "en": "explain", "pi": "jiěshì"},
+    {"ch": "一遍", "en": "again", "pi": "yībiàn"},
+    {"ch": "你为什么", "en": "why", "pi": "nǐ wèishéme"},
+    {"ch": "迟到", "en": "late", "pi": "chídào"},
+    {"ch": "了", "en": "particle indicating a completed or finished action", "pi": "le"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

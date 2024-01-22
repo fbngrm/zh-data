@@ -1,0 +1,17 @@
+{
+  "chinese": "你想出去喝几杯或吃个饭吗？",
+  "english": "Do you want to go out for a few drinks or have a meal?",
+  "pinyin": "Nǐ xiǎng chūqù hē jǐ bēi huò chī gè fàn ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "想", "en": "want", "pi": "xiǎng"},
+    {"ch": "出去", "en": "go out", "pi": "chūqù"},
+    {"ch": "喝", "en": "drink", "pi": "hē"},
+    {"ch": "几杯", "en": "a few drinks", "pi": "jǐ bēi"},
+    {"ch": "或", "en": "or", "pi": "huò"},
+    {"ch": "吃", "en": "eat", "pi": "chī"},
+    {"ch": "个", "en": "a", "pi": "gè"},
+    {"ch": "饭", "en": "meal", "pi": "fàn"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

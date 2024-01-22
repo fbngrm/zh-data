@@ -1,0 +1,32 @@
+{
+  "chinese": "她下午会洗自行车。",
+  "english": "She will wash the bicycle in the afternoon.",
+  "pinyin": "tā xiàwǔ huì xǐ zìxíngchē。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "下午",
+      "en": "afternoon",
+      "pi": "xiàwǔ"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "洗",
+      "en": "wash",
+      "pi": "xǐ"
+    },
+    {
+      "ch": "自行车",
+      "en": "bicycle",
+      "pi": "zìxíngchē"
+    }
+  ]
+}

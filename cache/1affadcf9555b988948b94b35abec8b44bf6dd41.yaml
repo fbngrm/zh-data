@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆说法语比玛丽好吗？",
+  "english": "Is Tom better than Mary at speaking French?",
+  "pinyin": "Tāngmǔ shuō fǎyǔ bǐ Mǎlí hǎo ma?",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "说",
+      "en": "speak",
+      "pi": "shuō"
+    },
+    {
+      "ch": "法语",
+      "en": "French",
+      "pi": "fǎyǔ"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎlí"
+    },
+    {
+      "ch": "好吗",
+      "en": "better?",
+      "pi": "hǎo ma?"
+    }
+  ]
+}

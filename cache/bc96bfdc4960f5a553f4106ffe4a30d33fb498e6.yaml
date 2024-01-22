@@ -1,0 +1,42 @@
+{
+  "chinese": "这里小区的绿地面积有多少？",
+  "english": "What is the area of green space in this residential area?",
+  "pinyin": "Zhèlǐ xiǎoqū de lǜdì miànjī yǒu duōshǎo?",
+  "words": [
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhèlǐ"
+    },
+    {
+      "ch": "小区",
+      "en": "residential area",
+      "pi": "xiǎoqū"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "绿地",
+      "en": "green space",
+      "pi": "lǜdì"
+    },
+    {
+      "ch": "面积",
+      "en": "area",
+      "pi": "miànjī"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "多少",
+      "en": "how much",
+      "pi": "duōshǎo"
+    }
+  ]
+}

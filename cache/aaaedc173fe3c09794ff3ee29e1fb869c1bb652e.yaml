@@ -1,0 +1,37 @@
+{
+  "chinese": "他付了两倍的费用。",
+  "english": "He paid twice the amount.",
+  "pinyin": "tā fù le liǎng bèi de fèi yòng。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "付",
+      "en": "pay",
+      "pi": "fù"
+    },
+    {
+      "ch": "了",
+      "en": "past tense particle",
+      "pi": "le"
+    },
+    {
+      "ch": "两倍",
+      "en": "twice",
+      "pi": "liǎng bèi"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "费用",
+      "en": "amount",
+      "pi": "fèi yòng"
+    }
+  ]
+}

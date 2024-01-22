@@ -1,0 +1,47 @@
+{
+  "chinese": "这是因为英语是全球性的语言。",
+  "english": "This is because English is a global language.",
+  "pinyin": "zhè shì yīnwèi yīngyǔ shì quánqiúxìng de yǔyán。",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "因为",
+      "en": "because",
+      "pi": "yīnwèi"
+    },
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīngyǔ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "全球性",
+      "en": "global",
+      "pi": "quánqiúxìng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "语言",
+      "en": "language",
+      "pi": "yǔyán"
+    }
+  ]
+}

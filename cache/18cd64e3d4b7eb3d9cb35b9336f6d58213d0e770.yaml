@@ -1,0 +1,15 @@
+{
+  "chinese": "這條圍巾摸起來又軟又滑。",
+  "english": "This scarf feels soft and smooth.",
+  "pinyin": "zhè tiáo wéi jīn mō qǐ lái yòu ruǎn yòu huá.",
+  "words": [
+    {"ch": "這條", "en": "This", "pi": "zhè tiáo"},
+    {"ch": "圍巾", "en": "scarf", "pi": "wéi jīn"},
+    {"ch": "摸", "en": "feels", "pi": "mō"},
+    {"ch": "起來", "en": "up", "pi": "qǐ lái"},
+    {"ch": "又", "en": "and", "pi": "yòu"},
+    {"ch": "軟", "en": "soft", "pi": "ruǎn"},
+    {"ch": "又", "en": "and", "pi": "yòu"},
+    {"ch": "滑", "en": "smooth", "pi": "huá"}
+  ]
+}

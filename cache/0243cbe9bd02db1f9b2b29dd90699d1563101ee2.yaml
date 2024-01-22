@@ -1,0 +1,12 @@
+{
+  "chinese": "你做完回家作业了吗?",
+  "english": "Have you finished your homework?",
+  "pinyin": "nǐ zuò wán huí jiā zuò yè le ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "做完", "en": "finished", "pi": "zuò wán"},
+    {"ch": "回家", "en": "home", "pi": "huí jiā"},
+    {"ch": "作业", "en": "homework", "pi": "zuò yè"},
+    {"ch": "了吗", "en": "have", "pi": "le ma"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "这值１００万日元。",
+  "english": "This is worth 1 million yen.",
+  "pinyin": "zhè zhí yī bǎi wàn rì yuán.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "值",
+      "en": "is worth",
+      "pi": "zhí"
+    },
+    {
+      "ch": "１００",
+      "en": "100",
+      "pi": "yī bǎi"
+    },
+    {
+      "ch": "万",
+      "en": "million",
+      "pi": "wàn"
+    },
+    {
+      "ch": "日元",
+      "en": "yen",
+      "pi": "rì yuán"
+    }
+  ]
+}

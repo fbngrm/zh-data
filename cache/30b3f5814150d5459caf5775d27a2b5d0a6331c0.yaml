@@ -1,0 +1,14 @@
+{
+  "chinese": "我把你的花瓶打破了，真对不起。",
+  "english": "I broke your vase, I'm really sorry.",
+  "pinyin": "wǒ bǎ nǐ de huā píng dǎ pò le, zhēn duì bù qǐ.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "把", "en": "take", "pi": "bǎ"},
+    {"ch": "你的", "en": "your", "pi": "nǐ de"},
+    {"ch": "花瓶", "en": "vase", "pi": "huā píng"},
+    {"ch": "打破了", "en": "broke", "pi": "dǎ pò le"},
+    {"ch": "真", "en": "really", "pi": "zhēn"},
+    {"ch": "对不起", "en": "sorry", "pi": "duì bù qǐ"}
+  ]
+}

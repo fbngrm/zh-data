@@ -1,0 +1,37 @@
+{
+  "chinese": "你喜欢莫扎特的音乐吗？",
+  "english": "Do you like Mozart's music?",
+  "pinyin": "nǐ xǐhuān mòzhātè de yīnyuè ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "莫扎特",
+      "en": "Mozart",
+      "pi": "mòzhātè"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "音乐",
+      "en": "music",
+      "pi": "yīnyuè"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

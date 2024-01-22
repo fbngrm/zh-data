@@ -1,0 +1,37 @@
+{
+  "chinese": "椅子上的衣服是妈妈的。",
+  "english": "The clothes on the chair are my mother's.",
+  "pinyin": "yǐ zi shàng de yī fú shì mā mā de.",
+  "words": [
+    {
+      "ch": "椅子",
+      "en": "chair",
+      "pi": "yǐ zi"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "衣服",
+      "en": "clothes",
+      "pi": "yī fú"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "妈妈",
+      "en": "mother",
+      "pi": "mā mā"
+    }
+  ]
+}

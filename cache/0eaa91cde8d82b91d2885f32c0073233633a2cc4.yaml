@@ -1,0 +1,37 @@
+{
+  "chinese": "那个女孩的爸爸是医生。",
+  "english": "That girl's father is a doctor.",
+  "pinyin": "Nàgè nǚhái de bàba shì yīshēng.",
+  "words": [
+    {
+      "ch": "那个",
+      "en": "that",
+      "pi": "nàgè"
+    },
+    {
+      "ch": "女孩",
+      "en": "girl",
+      "pi": "nǚhái"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "爸爸",
+      "en": "father",
+      "pi": "bàba"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "医生",
+      "en": "doctor",
+      "pi": "yīshēng"
+    }
+  ]
+}

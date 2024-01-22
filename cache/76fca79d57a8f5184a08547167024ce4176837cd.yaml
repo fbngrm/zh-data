@@ -1,0 +1,42 @@
+{
+  "chinese": "我能写吃的东西吗？",
+  "english": "Can I write something to eat?",
+  "pinyin": "wǒ néng xiě chī de dōng xi ma?",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "些",
+      "en": "write",
+      "pi": "xiě"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "的",
+      "en": "something",
+      "pi": "de"
+    },
+    {
+      "ch": "东西",
+      "en": "to",
+      "pi": "dōng xi"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

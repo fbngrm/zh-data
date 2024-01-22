@@ -1,0 +1,32 @@
+{
+  "chinese": "罐头里没有砂糖了。",
+  "english": "There is no sugar in the tin.",
+  "pinyin": "guàntou lǐ méiyǒu shātáng le。",
+  "words": [
+    {
+      "ch": "罐头",
+      "en": "tin",
+      "pi": "guàntou"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "没有",
+      "en": "no",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "砂糖",
+      "en": "sugar",
+      "pi": "shātáng"
+    },
+    {
+      "ch": "了",
+      "en": "finished",
+      "pi": "le"
+    }
+  ]
+}

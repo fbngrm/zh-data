@@ -1,0 +1,32 @@
+{
+  "chinese": "不好意思，你叫什么名字？",
+  "english": "Sorry, what is your name?",
+  "pinyin": "Bù hǎo yìsi, nǐ jiào shénme míngzì?",
+  "words": [
+    {
+      "ch": "不好意思",
+      "en": "Sorry",
+      "pi": "Bù hǎo yìsi"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "叫",
+      "en": "call",
+      "pi": "jiào"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míngzì"
+    }
+  ]
+}

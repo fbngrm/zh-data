@@ -1,0 +1,24 @@
+{
+  "chinese": "其实，书面语我搞得相当好，但是口语中，我经常会记不起来某个字的音调。",
+  "english": "Actually, I'm quite good at written Chinese, but when it comes to spoken language, I often can't remember the tone of a certain character.",
+  "pinyin": "Qíshí, shūmiànyǔ wǒ gǎo de xiāngdāng hǎo, dànshì kǒuyǔ zhōng, wǒ jīngcháng huì jìbù qǐlái mǒu gè zì de yīndiào.",
+  "words": [
+    {"ch": "其实", "en": "actually", "pi": "qíshí"},
+    {"ch": "书面语", "en": "written Chinese", "pi": "shūmiànyǔ"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "搞得", "en": "quite good", "pi": "gǎo de"},
+    {"ch": "相当", "en": "quite", "pi": "xiāngdāng"},
+    {"ch": "好", "en": "good", "pi": "hǎo"},
+    {"ch": "但是", "en": "but", "pi": "dànshì"},
+    {"ch": "口语", "en": "spoken language", "pi": "kǒuyǔ"},
+    {"ch": "中", "en": "when it comes to", "pi": "zhōng"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "经常", "en": "often", "pi": "jīngcháng"},
+    {"ch": "会", "en": "can", "pi": "huì"},
+    {"ch": "记不起来", "en": "can't remember", "pi": "jì bù qǐlái"},
+    {"ch": "某个", "en": "a certain", "pi": "mǒu gè"},
+    {"ch": "字", "en": "character", "pi": "zì"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "音调", "en": "tone", "pi": "yīndiào"}
+  ]
+}

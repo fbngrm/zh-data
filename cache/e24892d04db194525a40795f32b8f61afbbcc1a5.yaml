@@ -1,0 +1,32 @@
+{
+  "chinese": "我赢得了第一名！",
+  "english": "I won first place!",
+  "pinyin": "Wǒ yíng dé le dì yī míng！",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "赢得",
+      "en": "won",
+      "pi": "yíng dé"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "第一名",
+      "en": "first place",
+      "pi": "dì yī míng"
+    },
+    {
+      "ch": "！",
+      "en": "",
+      "pi": "！"
+    }
+  ]
+}

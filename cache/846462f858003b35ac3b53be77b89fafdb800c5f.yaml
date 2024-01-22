@@ -1,0 +1,13 @@
+{
+  "chinese": "汤姆差不多忘了开会的事儿。",
+  "english": "Tom almost forgot about the meeting.",
+  "pinyin": "Tāng mǔ chà bù duō wàng le kāi huì de shì er.",
+  "words": [
+    { "ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ" },
+    { "ch": "差不多", "en": "almost", "pi": "chà bù duō" },
+    { "ch": "忘了", "en": "forgot", "pi": "wàng le" },
+    { "ch": "开会", "en": "meeting", "pi": "kāi huì" },
+    { "ch": "的", "en": "about", "pi": "de" },
+    { "ch": "事儿", "en": "thing", "pi": "shì er" }
+  ]
+}

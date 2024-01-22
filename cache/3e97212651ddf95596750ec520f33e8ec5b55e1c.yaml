@@ -1,0 +1,78 @@
+{
+  "sentences": [
+    {
+      "chinese": "汤姆不大明白。",
+      "english": "Tom doesn't quite understand.",
+      "pinyin": "Tāng mǔ bù dà míngbai.",
+      "words": [
+        {
+          "ch": "汤姆",
+          "en": "Tom",
+          "pi": "Tāng mǔ"
+        },
+        {
+          "ch": "不",
+          "en": "not",
+          "pi": "bù"
+        },
+        {
+          "ch": "大",
+          "en": "quite",
+          "pi": "dà"
+        },
+        {
+          "ch": "明白",
+          "en": "understand",
+          "pi": "míngbai"
+        }
+      ]
+    },
+    {
+      "chinese": "你能再跟他解释一遍吗？",
+      "english": "Can you explain it to him again?",
+      "pinyin": "Nǐ néng zài gēn tā jiěshì yī biàn ma?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "能",
+          "en": "can",
+          "pi": "néng"
+        },
+        {
+          "ch": "再",
+          "en": "again",
+          "pi": "zài"
+        },
+        {
+          "ch": "跟",
+          "en": "to",
+          "pi": "gēn"
+        },
+        {
+          "ch": "他",
+          "en": "him",
+          "pi": "tā"
+        },
+        {
+          "ch": "解释",
+          "en": "explain",
+          "pi": "jiěshì"
+        },
+        {
+          "ch": "一遍",
+          "en": "once",
+          "pi": "yī biàn"
+        },
+        {
+          "ch": "吗",
+          "en": "?",
+          "pi": "ma"
+        }
+      ]
+    }
+  ]
+}

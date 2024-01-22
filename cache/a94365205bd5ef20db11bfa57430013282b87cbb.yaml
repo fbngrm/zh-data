@@ -1,0 +1,32 @@
+{
+  "chinese": "９０度的角叫直角。",
+  "english": "A 90-degree angle is called a right angle.",
+  "pinyin": "jiǔ shí dù de jiǎo jiào zhí jiǎo。",
+  "words": [
+    {
+      "ch": "９０度",
+      "en": "90 degrees",
+      "pi": "jiǔ shí dù"
+    },
+    {
+      "ch": "的",
+      "en": "particle indicating possessive",
+      "pi": "de"
+    },
+    {
+      "ch": "角",
+      "en": "angle",
+      "pi": "jiǎo"
+    },
+    {
+      "ch": "叫",
+      "en": "called",
+      "pi": "jiào"
+    },
+    {
+      "ch": "直角",
+      "en": "right angle",
+      "pi": "zhí jiǎo"
+    }
+  ]
+}

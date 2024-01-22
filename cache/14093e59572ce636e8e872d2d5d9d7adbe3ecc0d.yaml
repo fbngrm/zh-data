@@ -1,0 +1,14 @@
+{
+  "chinese": "你最会操作这台机器了。",
+  "english": "You are the most skilled in operating this machine.",
+  "pinyin": "Nǐ zuì huì cāozuò zhè tái jīqì le.",
+  "words": [
+    {"ch": "你", "en": "You", "pi": "Nǐ"},
+    {"ch": "最", "en": "most", "pi": "zuì"},
+    {"ch": "会", "en": "skilled", "pi": "huì"},
+    {"ch": "操作", "en": "operate", "pi": "cāozuò"},
+    {"ch": "这台", "en": "this", "pi": "zhè tái"},
+    {"ch": "机器", "en": "machine", "pi": "jīqì"},
+    {"ch": "了", "en": "already", "pi": "le"}
+  ]
+}

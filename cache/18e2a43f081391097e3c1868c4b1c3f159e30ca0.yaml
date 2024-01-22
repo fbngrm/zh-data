@@ -1,0 +1,15 @@
+{
+  "chinese": "有汤姆在身边我感觉很自在。",
+  "english": "I feel very comfortable with Tom around.",
+  "pinyin": "yǒu tāng mǔ zài shēn biān wǒ gǎn jué hěn zì zài。",
+  "words": [
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "汤姆", "en": "Tom", "pi": "tāng mǔ"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "身边", "en": "around", "pi": "shēn biān"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "感觉", "en": "feel", "pi": "gǎn jué"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "自在", "en": "comfortable", "pi": "zì zài"}
+  ]
+}

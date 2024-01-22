@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆和杰克一样高。",
+  "english": "Tom and Jack are the same height.",
+  "pinyin": "tāng mǔ hé jié kè yī yàng gāo。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "杰克",
+      "en": "Jack",
+      "pi": "jié kè"
+    },
+    {
+      "ch": "一样",
+      "en": "the same",
+      "pi": "yī yàng"
+    },
+    {
+      "ch": "高",
+      "en": "height",
+      "pi": "gāo"
+    }
+  ]
+}

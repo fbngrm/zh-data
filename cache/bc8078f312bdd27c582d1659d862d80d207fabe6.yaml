@@ -1,0 +1,13 @@
+{
+  "chinese": "我和珍握了手。",
+  "english": "I shook hands with Jane.",
+  "pinyin": "Wǒ hé zhēn wòle shǒu.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "Wǒ"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "珍", "en": "Jane", "pi": "zhēn"},
+    {"ch": "握", "en": "shake", "pi": "wò"},
+    {"ch": "了", "en": "did", "pi": "le"},
+    {"ch": "手", "en": "hands", "pi": "shǒu"}
+  ]
+}

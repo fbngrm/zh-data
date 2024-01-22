@@ -1,0 +1,14 @@
+{
+  "chinese": "這幾枝筆是誰的？",
+  "english": "Whose pens are these?",
+  "pinyin": "zhè jǐ zhī bǐ shì shéi de?",
+  "words": [
+    {"ch": "這", "en": "these", "pi": "zhè"},
+    {"ch": "幾", "en": "how many", "pi": "jǐ"},
+    {"ch": "枝", "en": "measure word for long, thin objects", "pi": "zhī"},
+    {"ch": "筆", "en": "pen", "pi": "bǐ"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "誰", "en": "who", "pi": "shéi"},
+    {"ch": "的", "en": "belonging to", "pi": "de"}
+  ]
+}

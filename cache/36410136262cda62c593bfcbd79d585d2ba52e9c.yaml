@@ -1,0 +1,27 @@
+{
+  "chinese": "有借有还，再借不难。有借不还，再借就难。",
+  "english": "Borrowing and repaying is easy. Borrowing again is not difficult. Not repaying, borrowing again is difficult.",
+  "pinyin": "yǒu jiè yǒu huán, zài jiè bù nán. yǒu jiè bù huán, zài jiè jiù nán.",
+  "words": [
+    { "ch": "有", "en": "Have", "pi": "yǒu" },
+    { "ch": "借", "en": "Borrow", "pi": "jiè" },
+    { "ch": "有", "en": "Have", "pi": "yǒu" },
+    { "ch": "还", "en": "Repay", "pi": "huán" },
+    { "ch": "，", "en": ",", "pi": "，" },
+    { "ch": "再", "en": "Again", "pi": "zài" },
+    { "ch": "借", "en": "Borrow", "pi": "jiè" },
+    { "ch": "不", "en": "Not", "pi": "bù" },
+    { "ch": "难", "en": "Difficult", "pi": "nán" },
+    { "ch": "。", "en": ".", "pi": "。" },
+    { "ch": "有", "en": "Have", "pi": "yǒu" },
+    { "ch": "借", "en": "Borrow", "pi": "jiè" },
+    { "ch": "不", "en": "Not", "pi": "bù" },
+    { "ch": "还", "en": "Repay", "pi": "huán" },
+    { "ch": "，", "en": ",", "pi": "，" },
+    { "ch": "再", "en": "Again", "pi": "zài" },
+    { "ch": "借", "en": "Borrow", "pi": "jiè" },
+    { "ch": "就", "en": "Is", "pi": "jiù" },
+    { "ch": "难", "en": "Difficult", "pi": "nán" },
+    { "ch": "。", "en": ".", "pi": "。" }
+  ]
+}

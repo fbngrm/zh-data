@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆的汽车被偷了。",
+  "english": "Tom's car was stolen.",
+  "pinyin": "Tāng mǔ de qì chē bèi tōu le.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "汽车",
+      "en": "car",
+      "pi": "qì chē"
+    },
+    {
+      "ch": "被",
+      "en": "passive marker",
+      "pi": "bèi"
+    },
+    {
+      "ch": "偷",
+      "en": "steal",
+      "pi": "tōu"
+    },
+    {
+      "ch": "了",
+      "en": "indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

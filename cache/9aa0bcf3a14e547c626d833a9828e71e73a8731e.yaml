@@ -1,0 +1,14 @@
+{
+  "chinese": "据说她是个知名的女演员。",
+  "english": "It is said that she is a famous actress.",
+  "pinyin": "jùshuō tā shì gè zhīmíng de nǚyǎnyuán。",
+  "words": [
+    {"ch": "据说", "en": "It is said", "pi": "jùshuō"},
+    {"ch": "她", "en": "she", "pi": "tā"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "个", "en": "a", "pi": "gè"},
+    {"ch": "知名", "en": "famous", "pi": "zhīmíng"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "女演员", "en": "actress", "pi": "nǚyǎnyuán"}
+  ]
+}

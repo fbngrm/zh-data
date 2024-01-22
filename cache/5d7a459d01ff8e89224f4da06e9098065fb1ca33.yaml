@@ -1,0 +1,32 @@
+{
+  "chinese": "请看看这张照片。",
+  "english": "Please take a look at this photo.",
+  "pinyin": "qǐng kàn kàn zhè zhāng zhào piàn.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "看看",
+      "en": "take a look",
+      "pi": "kàn kàn"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "张",
+      "en": "measure word for flat objects",
+      "pi": "zhāng"
+    },
+    {
+      "ch": "照片",
+      "en": "photo",
+      "pi": "zhào piàn"
+    }
+  ]
+}

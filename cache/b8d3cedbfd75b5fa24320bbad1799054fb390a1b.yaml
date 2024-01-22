@@ -1,0 +1,11 @@
+{ 
+  "chinese": "你喝绿茶吗？", 
+  "english": "Do you drink green tea?", 
+  "pinyin": "nǐ hē lǜchá ma?", 
+  "words": [
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "喝", "en": "drink", "pi": "hē" },
+    { "ch": "绿茶", "en": "green tea", "pi": "lǜchá" },
+    { "ch": "吗", "en": "question particle", "pi": "ma" }
+  ]
+}

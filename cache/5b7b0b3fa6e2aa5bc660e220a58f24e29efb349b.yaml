@@ -1,0 +1,15 @@
+{
+  "chinese": "分支和合併是版本控制的两种基本操作。",
+  "english": "Branching and merging are two basic operations in version control.",
+  "pinyin": "fēn zhī hé hébìng shì bǎnběn kòngzhì de liǎng zhǒng jīběn cāozuò。",
+  "words": [
+    {"ch": "分支", "en": "branch", "pi": "fēn zhī"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "合併", "en": "merge", "pi": "hé bìng"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "版本控制", "en": "version control", "pi": "bǎnběn kòngzhì"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "两种", "en": "two kinds of", "pi": "liǎng zhǒng"},
+    {"ch": "基本操作", "en": "basic operations", "pi": "jīběn cāozuò"}
+  ]
+}

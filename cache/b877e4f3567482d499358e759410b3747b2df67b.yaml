@@ -1,0 +1,32 @@
+{
+  "chinese": "胡安，这是你的车吗？",
+  "english": "Juan, is this your car?",
+  "pinyin": "Hú ān, zhè shì nǐ de chē ma?",
+  "words": [
+    {
+      "ch": "胡安",
+      "en": "Juan",
+      "pi": "Hú ān"
+    },
+    {
+      "ch": "这是",
+      "en": "is this",
+      "pi": "zhè shì"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "车",
+      "en": "car",
+      "pi": "chē"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

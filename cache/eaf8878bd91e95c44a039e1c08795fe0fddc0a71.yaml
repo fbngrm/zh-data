@@ -1,0 +1,42 @@
+{
+  "chinese": "这是我知道的最好的餐馆。",
+  "english": "This is the best restaurant I know.",
+  "pinyin": "zhè shì wǒ zhīdào de zuìhǎo de cānguǎn.",
+  "words": [
+    {
+      "ch": "这是",
+      "en": "This is",
+      "pi": "zhè shì"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "的",
+      "en": "the",
+      "pi": "de"
+    },
+    {
+      "ch": "最好",
+      "en": "best",
+      "pi": "zuìhǎo"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "餐馆",
+      "en": "restaurant",
+      "pi": "cānguǎn"
+    }
+  ]
+}

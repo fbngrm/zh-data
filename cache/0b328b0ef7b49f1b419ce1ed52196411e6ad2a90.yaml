@@ -1,0 +1,15 @@
+{
+  "chinese": "橡皮不硬，在压力下会变形。",
+  "english": "The eraser is not hard, it will deform under pressure.",
+  "pinyin": "xiàng pí bù yìng, zài yā lì xià huì biàn xíng。",
+  "words": [
+    {"ch": "橡皮", "en": "eraser", "pi": "xiàng pí"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "硬", "en": "hard", "pi": "yìng"},
+    {"ch": "在", "en": "in, at", "pi": "zài"},
+    {"ch": "压力", "en": "pressure", "pi": "yā lì"},
+    {"ch": "下", "en": "under", "pi": "xià"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "变形", "en": "deform", "pi": "biàn xíng"}
+  ]
+}

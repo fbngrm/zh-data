@@ -1,0 +1,32 @@
+{
+  "chinese": "PHP是世界上最好的语言。",
+  "english": "PHP is the best language in the world.",
+  "pinyin": "PHP shì shìjiè shàng zuìhǎo de yǔyán.",
+  "words": [
+    {
+      "ch": "PHP",
+      "en": "PHP",
+      "pi": "PHP"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "世界上",
+      "en": "in the world",
+      "pi": "shìjiè shàng"
+    },
+    {
+      "ch": "最好的",
+      "en": "the best",
+      "pi": "zuìhǎo de"
+    },
+    {
+      "ch": "语言",
+      "en": "language",
+      "pi": "yǔyán"
+    }
+  ]
+}

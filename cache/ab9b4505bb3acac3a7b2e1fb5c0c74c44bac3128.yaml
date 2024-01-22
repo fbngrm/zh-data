@@ -1,0 +1,32 @@
+{
+  "chinese": "你的自行车比我的好。",
+  "english": "Your bicycle is better than mine.",
+  "pinyin": "nǐ de zìxíngchē bǐ wǒ de hǎo.",
+  "words": [
+    {
+      "ch": "你的",
+      "en": "Your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "自行车",
+      "en": "bicycle",
+      "pi": "zìxíngchē"
+    },
+    {
+      "ch": "比",
+      "en": "is",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "我的",
+      "en": "mine",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "好",
+      "en": "better",
+      "pi": "hǎo"
+    }
+  ]
+}

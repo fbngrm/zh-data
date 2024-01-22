@@ -1,0 +1,32 @@
+{
+  "chinese": "去年下了很多雪。",
+  "english": "Last year, there was a lot of snow.",
+  "pinyin": "Qùnián xiàle hěn duō xuě.",
+  "words": [
+    {
+      "ch": "去年",
+      "en": "Last year",
+      "pi": "Qùnián"
+    },
+    {
+      "ch": "下",
+      "en": "there was",
+      "pi": "xià"
+    },
+    {
+      "ch": "了",
+      "en": "a lot of",
+      "pi": "le"
+    },
+    {
+      "ch": "很多",
+      "en": "snow",
+      "pi": "hěn duō"
+    },
+    {
+      "ch": "雪",
+      "en": ".",
+      "pi": "xuě"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆希望玛丽别死。",
+  "english": "Tom hopes Mary doesn't die.",
+  "pinyin": "Tāng mǔ xīwàng mǎ lì bié sǐ.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "希望",
+      "en": "hopes",
+      "pi": "xīwàng"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "别",
+      "en": "don't",
+      "pi": "bié"
+    },
+    {
+      "ch": "死",
+      "en": "die",
+      "pi": "sǐ"
+    }
+  ]
+}

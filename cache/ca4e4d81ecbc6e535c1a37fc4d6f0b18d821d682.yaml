@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆想要一杯水。",
+  "english": "Tom wants a glass of water.",
+  "pinyin": "Tāng mǔ xiǎng yào yī bēi shuǐ.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "想要",
+      "en": "wants",
+      "pi": "xiǎng yào"
+    },
+    {
+      "ch": "一",
+      "en": "a",
+      "pi": "yī"
+    },
+    {
+      "ch": "杯",
+      "en": "glass",
+      "pi": "bēi"
+    },
+    {
+      "ch": "水",
+      "en": "water",
+      "pi": "shuǐ"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "他被取消了参赛资格。",
+  "english": "He was disqualified from the competition.",
+  "pinyin": "tā bèi qǔxiāole cānsài zīgé.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "被",
+      "en": "passive marker",
+      "pi": "bèi"
+    },
+    {
+      "ch": "取消了",
+      "en": "was cancelled",
+      "pi": "qǔxiāole"
+    },
+    {
+      "ch": "参赛",
+      "en": "participating in the competition",
+      "pi": "cānsài"
+    },
+    {
+      "ch": "资格",
+      "en": "qualification",
+      "pi": "zīgé"
+    }
+  ]
+}

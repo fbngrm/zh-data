@@ -1,0 +1,13 @@
+{
+  "chinese": "Taro在银行提了10000日元。",
+  "english": "Taro withdrew 10,000 yen at the bank.",
+  "pinyin": "Taro zài yínháng tíle 10000 rìyuán.",
+  "words": [
+    {"ch": "Taro", "en": "Taro", "pi": "Taro"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "银行", "en": "bank", "pi": "yínháng"},
+    {"ch": "提了", "en": "withdrew", "pi": "tíle"},
+    {"ch": "10000", "en": "10,000", "pi": "10000"},
+    {"ch": "日元", "en": "yen", "pi": "rìyuán"}
+  ]
+}

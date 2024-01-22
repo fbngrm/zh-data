@@ -1,0 +1,168 @@
+{
+  "sentences": [
+    {
+      "chinese": "从这儿一直往前走，在第一个红绿灯往右拐，你就会看到地铁站。",
+      "english": "Keep going straight from here, turn right at the first traffic light, and you will see the subway station.",
+      "pinyin": "cóng zhèr yīzhí wǎng qián zǒu, zài dì yī gè hónglǜdēng wǎng yòu guǎi, nǐ jiù huì kàn dào dìtiě zhàn.",
+      "words": [
+        {
+          "ch": "从这儿",
+          "en": "From here",
+          "pi": "cóng zhèr"
+        },
+        {
+          "ch": "一直",
+          "en": "straight",
+          "pi": "yīzhí"
+        },
+        {
+          "ch": "往前",
+          "en": "go ahead",
+          "pi": "wǎng qián"
+        },
+        {
+          "ch": "走",
+          "en": "walk",
+          "pi": "zǒu"
+        },
+        {
+          "ch": "在",
+          "en": "at",
+          "pi": "zài"
+        },
+        {
+          "ch": "第一个",
+          "en": "first",
+          "pi": "dì yī gè"
+        },
+        {
+          "ch": "红绿灯",
+          "en": "traffic light",
+          "pi": "hónglǜdēng"
+        },
+        {
+          "ch": "往右",
+          "en": "turn right",
+          "pi": "wǎng yòu"
+        },
+        {
+          "ch": "拐",
+          "en": "turn",
+          "pi": "guǎi"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "就会",
+          "en": "will",
+          "pi": "jiù huì"
+        },
+        {
+          "ch": "看到",
+          "en": "see",
+          "pi": "kàn dào"
+        },
+        {
+          "ch": "地铁站",
+          "en": "subway station",
+          "pi": "dìtiě zhàn"
+        }
+      ]
+    },
+    {
+      "chinese": "从那儿坐一号地铁到中山路下车，然后再换154公共汽车，坐两站车，到金三角饭店下车。",
+      "english": "Take subway line 1 from there to Zhongshan Road, then transfer to bus 154, take two stops to Jin San Jiao Hotel.",
+      "pinyin": "cóng nàr zuò yī hào dìtiě dào zhōngshān lù xià chē, ránhòu zài huàn 154 gōnggòng qìchē, zuò liǎng zhàn chē, dào jīn sānjiǎo fàndiàn xià chē.",
+      "words": [
+        {
+          "ch": "从那儿",
+          "en": "From there",
+          "pi": "cóng nàr"
+        },
+        {
+          "ch": "坐",
+          "en": "take",
+          "pi": "zuò"
+        },
+        {
+          "ch": "一号",
+          "en": "line 1",
+          "pi": "yī hào"
+        },
+        {
+          "ch": "地铁",
+          "en": "subway",
+          "pi": "dìtiě"
+        },
+        {
+          "ch": "到",
+          "en": "to",
+          "pi": "dào"
+        },
+        {
+          "ch": "中山路",
+          "en": "Zhongshan Road",
+          "pi": "zhōngshān lù"
+        },
+        {
+          "ch": "下车",
+          "en": "get off",
+          "pi": "xià chē"
+        },
+        {
+          "ch": "然后",
+          "en": "then",
+          "pi": "ránhòu"
+        },
+        {
+          "ch": "再换",
+          "en": "transfer",
+          "pi": "zài huàn"
+        },
+        {
+          "ch": "154",
+          "en": "154",
+          "pi": "154"
+        },
+        {
+          "ch": "公共汽车",
+          "en": "bus",
+          "pi": "gōnggòng qìchē"
+        },
+        {
+          "ch": "坐",
+          "en": "take",
+          "pi": "zuò"
+        },
+        {
+          "ch": "两站",
+          "en": "two stops",
+          "pi": "liǎng zhàn"
+        },
+        {
+          "ch": "车",
+          "en": "car",
+          "pi": "chē"
+        },
+        {
+          "ch": "到",
+          "en": "to",
+          "pi": "dào"
+        },
+        {
+          "ch": "金三角饭店",
+          "en": "Jin San Jiao Hotel",
+          "pi": "jīn sānjiǎo fàndiàn"
+        },
+        {
+          "ch": "下车",
+          "en": "get off",
+          "pi": "xià chē"
+        }
+      ]
+    }
+  ]
+}

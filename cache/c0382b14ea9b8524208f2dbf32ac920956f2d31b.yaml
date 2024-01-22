@@ -1,0 +1,32 @@
+{
+   "chinese": "我对日文不大了解。",
+   "english": "I don't know much about Japanese.",
+   "pinyin": "wǒ duì rì wén bú dà liǎo jiě。",
+   "words": [
+      {
+         "ch": "我",
+         "en": "I",
+         "pi": "wǒ"
+      },
+      {
+         "ch": "对",
+         "en": "to",
+         "pi": "duì"
+      },
+      {
+         "ch": "日文",
+         "en": "Japanese",
+         "pi": "rì wén"
+      },
+      {
+         "ch": "不大",
+         "en": "not much",
+         "pi": "bú dà"
+      },
+      {
+         "ch": "了解",
+         "en": "know",
+         "pi": "liǎo jiě"
+      }
+   ]
+}

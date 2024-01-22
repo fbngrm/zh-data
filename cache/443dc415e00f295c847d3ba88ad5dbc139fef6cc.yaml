@@ -1,0 +1,32 @@
+{
+  "chinese": "你圣诞过得开心吗？",
+  "english": "Did you have a merry Christmas?",
+  "pinyin": "nǐ shèng dàn guò dé kāi xīn ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "圣诞",
+      "en": "Christmas",
+      "pi": "shèng dàn"
+    },
+    {
+      "ch": "过得",
+      "en": "have",
+      "pi": "guò dé"
+    },
+    {
+      "ch": "开心",
+      "en": "merry",
+      "pi": "kāi xīn"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "这个手提箱是谁的?",
+  "english": "Whose suitcase is this?",
+  "pinyin": "zhè gè shǒu tí xiāng shì shéi de?",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "手提箱",
+      "en": "suitcase",
+      "pi": "shǒu tí xiāng"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "谁的",
+      "en": "whose",
+      "pi": "shéi de"
+    },
+    {
+      "ch": "?",
+      "en": "",
+      "pi": "?"
+    }
+  ]
+}

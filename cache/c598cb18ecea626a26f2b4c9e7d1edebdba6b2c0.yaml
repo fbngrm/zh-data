@@ -1,0 +1,32 @@
+{
+  "chinese": "他的意见很合理。",
+  "english": "His opinion is very reasonable.",
+  "pinyin": "tā de yì jiàn hěn hé lǐ。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "意见",
+      "en": "opinion",
+      "pi": "yì jiàn"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "合理",
+      "en": "reasonable",
+      "pi": "hé lǐ"
+    }
+  ]
+}

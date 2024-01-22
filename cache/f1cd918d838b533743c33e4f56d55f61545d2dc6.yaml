@@ -1,0 +1,14 @@
+{
+  "chinese": "这个故事是老张讲给我听的。",
+  "english": "This story was told to me by Old Zhang.",
+  "pinyin": "zhè ge gù shì shì lǎo zhāng jiǎng gěi wǒ tīng de.",
+  "words": [
+    {"ch": "这个", "en": "This", "pi": "zhè ge"},
+    {"ch": "故事", "en": "story", "pi": "gù shì"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "老张", "en": "Old Zhang", "pi": "lǎo zhāng"},
+    {"ch": "讲给", "en": "told to", "pi": "jiǎng gěi"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "听的", "en": "listened to", "pi": "tīng de"}
+  ]
+}

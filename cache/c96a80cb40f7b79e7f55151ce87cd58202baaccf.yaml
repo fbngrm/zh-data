@@ -1,0 +1,78 @@
+{
+  "sentences": [
+    {
+      "chinese": "我已经找到令他嫉妒的方法了。",
+      "english": "I have found a way to make him jealous.",
+      "pinyin": "Wǒ yǐjīng zhǎodào lìng tā jídù de fāngfǎle。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "已经",
+          "en": "have",
+          "pi": "yǐjīng"
+        },
+        {
+          "ch": "找到",
+          "en": "found",
+          "pi": "zhǎodào"
+        },
+        {
+          "ch": "令",
+          "en": "to make",
+          "pi": "lìng"
+        },
+        {
+          "ch": "他",
+          "en": "him",
+          "pi": "tā"
+        },
+        {
+          "ch": "嫉妒",
+          "en": "jealous",
+          "pi": "jídù"
+        },
+        {
+          "ch": "的",
+          "en": "of",
+          "pi": "de"
+        },
+        {
+          "ch": "方法",
+          "en": "way",
+          "pi": "fāngfǎ"
+        },
+        {
+          "ch": "了",
+          "en": "already",
+          "pi": "le"
+        }
+      ]
+    },
+    {
+      "chinese": "喔，说吧！",
+      "english": "Oh, tell me!",
+      "pinyin": "Ō, shuō ba!",
+      "words": [
+        {
+          "ch": "喔",
+          "en": "Oh",
+          "pi": "ō"
+        },
+        {
+          "ch": "说",
+          "en": "tell",
+          "pi": "shuō"
+        },
+        {
+          "ch": "吧",
+          "en": "me",
+          "pi": "ba"
+        }
+      ]
+    }
+  ]
+}

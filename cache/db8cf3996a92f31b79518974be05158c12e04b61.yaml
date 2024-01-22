@@ -1,0 +1,27 @@
+{
+  "chinese": "我们点了中餐。",
+  "english": "We ordered Chinese food.",
+  "pinyin": "wǒmen diǎn le zhōngcān.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "点",
+      "en": "ordered",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "中餐",
+      "en": "Chinese food",
+      "pi": "zhōngcān"
+    }
+  ]
+}

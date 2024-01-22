@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆昨天提早回来了。",
+  "english": "Tom came back early yesterday.",
+  "pinyin": "tāng mǔ zuó tiān tí zǎo huí lái le。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "提早",
+      "en": "early",
+      "pi": "tí zǎo"
+    },
+    {
+      "ch": "回来",
+      "en": "came back",
+      "pi": "huí lái"
+    },
+    {
+      "ch": "了",
+      "en": "了",
+      "pi": "le"
+    }
+  ]
+}

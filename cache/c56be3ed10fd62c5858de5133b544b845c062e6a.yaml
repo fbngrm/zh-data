@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆很胖，是吧？",
+  "english": "Tom is very fat, right?",
+  "pinyin": "Tāng mǔ hěn pàng, shì ba?",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "胖",
+      "en": "fat",
+      "pi": "pàng"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "吧",
+      "en": "right?",
+      "pi": "ba"
+    }
+  ]
+}

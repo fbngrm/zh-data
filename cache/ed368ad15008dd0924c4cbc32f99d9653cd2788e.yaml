@@ -1,0 +1,42 @@
+{
+  "chinese": "今儿我走了１０公里路。",
+  "english": "I walked 10 kilometers today.",
+  "pinyin": "jīnr wǒ zǒule shí gōnglǐ lù.",
+  "words": [
+    {
+      "ch": "今儿",
+      "en": "today",
+      "pi": "jīnr"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "走",
+      "en": "walked",
+      "pi": "zǒule"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "１０",
+      "en": "10",
+      "pi": "shí"
+    },
+    {
+      "ch": "公里",
+      "en": "kilometers",
+      "pi": "gōnglǐ"
+    },
+    {
+      "ch": "路",
+      "en": "route",
+      "pi": "lù"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "chinese": "师傅，方向反了，我要去东边，你怎么往西边开？",
+  "english": "Driver, you've gone the wrong way. I want to go east, why are you going west?",
+  "pinyin": "Shīfu, fāngxiàng fǎnle, wǒ yào qù dōngbiān, nǐ zěnme wǎng xībiān kāi?",
+  "words": [
+    {
+      "ch": "师傅",
+      "en": "Driver",
+      "pi": "shīfu"
+    },
+    {
+      "ch": "方向",
+      "en": "direction",
+      "pi": "fāngxiàng"
+    },
+    {
+      "ch": "反",
+      "en": "wrong",
+      "pi": "fǎn"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating a change of situation or state",
+      "pi": "le"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "去",
+      "en": "to go",
+      "pi": "qù"
+    },
+    {
+      "ch": "东边",
+      "en": "east",
+      "pi": "dōngbiān"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "怎么",
+      "en": "how",
+      "pi": "zěnme"
+    },
+    {
+      "ch": "往",
+      "en": "to",
+      "pi": "wǎng"
+    },
+    {
+      "ch": "西边",
+      "en": "west",
+      "pi": "xībiān"
+    },
+    {
+      "ch": "开",
+      "en": "to drive",
+      "pi": "kāi"
+    }
+  ]
+}

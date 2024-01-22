@@ -1,0 +1,12 @@
+{
+  "chinese": "我买了一双鞋子。",
+  "english": "I bought a pair of shoes.",
+  "pinyin": "wǒ mǎi le yī shuāng xié zi.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "买", "en": "bought", "pi": "mǎi"},
+    {"ch": "了", "en": "a", "pi": "le"},
+    {"ch":"一", "en":"pair of", "pi":"yī"},
+    {"ch": "双鞋子", "en": "shoes", "pi": "shuāng xié zi"}
+  ]
+}

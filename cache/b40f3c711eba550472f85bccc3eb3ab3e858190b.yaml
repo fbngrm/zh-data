@@ -1,0 +1,27 @@
+{
+  "chinese": "他的脉搏正常吗？",
+  "english": "Is his pulse normal?",
+  "pinyin": "tā de mài bó zhèng cháng ma?",
+  "words": [
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "脉搏",
+      "en": "pulse",
+      "pi": "mài bó"
+    },
+    {
+      "ch": "正常",
+      "en": "normal",
+      "pi": "zhèng cháng"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

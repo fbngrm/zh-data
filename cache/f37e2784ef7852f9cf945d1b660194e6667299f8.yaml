@@ -1,0 +1,42 @@
+{
+  "chinese": "我请我的朋友来帮助我。",
+  "english": "I asked my friend to help me.",
+  "pinyin": "wǒ qǐng wǒ de péngyǒu lái bāngzhù wǒ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "请",
+      "en": "ask",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "朋友",
+      "en": "friend",
+      "pi": "péngyǒu"
+    },
+    {
+      "ch": "来",
+      "en": "to",
+      "pi": "lái"
+    },
+    {
+      "ch": "帮助",
+      "en": "help",
+      "pi": "bāngzhù"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "你不应该吃太多糖果。",
+  "english": "You shouldn't eat too many candies.",
+  "pinyin": "Nǐ bù yīng gāi chī tài duō táng guǒ.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "不",
+      "en": "shouldn't",
+      "pi": "bù"
+    },
+    {
+      "ch": "应该",
+      "en": "should",
+      "pi": "yīng gāi"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "太多",
+      "en": "too many",
+      "pi": "tài duō"
+    },
+    {
+      "ch": "糖果",
+      "en": "candies",
+      "pi": "táng guǒ"
+    }
+  ]
+}

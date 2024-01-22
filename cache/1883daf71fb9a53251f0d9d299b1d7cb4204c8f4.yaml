@@ -1,0 +1,42 @@
+{
+  "chinese": "你喜欢蓝色的还是红色的？",
+  "english": "Do you like the blue one or the red one?",
+  "pinyin": "Nǐ xǐhuān lánsè de háishì hóngsè de?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "蓝色",
+      "en": "blue",
+      "pi": "lánsè"
+    },
+    {
+      "ch": "的",
+      "en": "one",
+      "pi": "de"
+    },
+    {
+      "ch": "还是",
+      "en": "or",
+      "pi": "háishì"
+    },
+    {
+      "ch": "红色",
+      "en": "red",
+      "pi": "hóngsè"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "?"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chinese": "我对这位作者的名字很熟悉。",
+  "english": "I am very familiar with the name of this author.",
+  "pinyin": "wǒ duì zhè wèi zuò zhě de míng zì hěn shú xī.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "对", "en": "to", "pi": "duì"},
+    {"ch": "这位", "en": "this", "pi": "zhè wèi"},
+    {"ch": "作者", "en": "author", "pi": "zuò zhě"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "名字", "en": "name", "pi": "míng zì"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "熟悉", "en": "familiar", "pi": "shú xī"}
+  ]
+}

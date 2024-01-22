@@ -1,0 +1,14 @@
+{
+  "chinese": "从华盛顿乘火车可以到纽约。",
+  "english": "You can take a train from Washington to New York.",
+  "pinyin": "Cóng Huáshèngdùn chéng huǒchē kěyǐ dào Niǔyuē.",
+  "words": [
+    {"ch": "从", "en": "from", "pi": "cóng"},
+    {"ch": "华盛顿", "en": "Washington", "pi": "Huáshèngdùn"},
+    {"ch": "乘", "en": "take", "pi": "chéng"},
+    {"ch": "火车", "en": "train", "pi": "huǒchē"},
+    {"ch": "可以", "en": "can", "pi": "kěyǐ"},
+    {"ch": "到", "en": "to", "pi": "dào"},
+    {"ch": "纽约", "en": "New York", "pi": "Niǔyuē"}
+  ]
+}

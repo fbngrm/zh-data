@@ -1,0 +1,32 @@
+{
+  "chinese": "今天天气挺冷的。",
+  "english": "Today's weather is quite cold.",
+  "pinyin": "jīn tiān tiān qì tǐng lěng de.",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "Today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiān qì"
+    },
+    {
+      "ch": "挺",
+      "en": "quite",
+      "pi": "tǐng"
+    },
+    {
+      "ch": "冷",
+      "en": "cold",
+      "pi": "lěng"
+    },
+    {
+      "ch": "的",
+      "en": "is",
+      "pi": "de"
+    }
+  ]
+}

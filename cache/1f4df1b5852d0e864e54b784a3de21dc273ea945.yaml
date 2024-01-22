@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆踢了玛丽。",
+  "english": "Tom kicked Mary.",
+  "pinyin": "Tāng mǔ tī le mǎ lì.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "踢",
+      "en": "kicked",
+      "pi": "tī"
+    },
+    {
+      "ch": "了",
+      "en": "-",
+      "pi": "le"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    }
+  ]
+}

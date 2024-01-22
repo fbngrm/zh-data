@@ -1,0 +1,27 @@
+{
+  "chinese": "你的狗在哪里？",
+  "english": "Where is your dog?",
+  "pinyin": "Nǐ de gǒu zài nǎlǐ?",
+  "words": [
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "狗",
+      "en": "dog",
+      "pi": "gǒu"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪里",
+      "en": "where",
+      "pi": "nǎlǐ"
+    }
+  ]
+}

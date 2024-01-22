@@ -1,0 +1,32 @@
+{
+  "chinese": "这张桌子是干净的。",
+  "english": "This table is clean.",
+  "pinyin": "zhè zhāng zhuōzi shì gānjìng de.",
+  "words": [
+    {
+      "ch": "这张",
+      "en": "This",
+      "pi": "zhè zhāng"
+    },
+    {
+      "ch": "桌子",
+      "en": "table",
+      "pi": "zhuōzi"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "干净",
+      "en": "clean",
+      "pi": "gānjìng"
+    },
+    {
+      "ch": "的",
+      "en": ""
+      "pi": "de"
+    }
+  ]
+}

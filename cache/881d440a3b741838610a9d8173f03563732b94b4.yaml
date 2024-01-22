@@ -1,0 +1,42 @@
+{
+  "chinese": "你曾經聽過英語廣播節目嗎?",
+  "english": "Have you ever listened to an English radio program?",
+  "pinyin": "Nǐ céngjīng tīngguò yīngyǔ guǎngbò jiémù ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "曾經",
+      "en": "ever",
+      "pi": "céngjīng"
+    },
+    {
+      "ch": "聽過",
+      "en": "listened to",
+      "pi": "tīngguò"
+    },
+    {
+      "ch": "英語",
+      "en": "English",
+      "pi": "yīngyǔ"
+    },
+    {
+      "ch": "廣播",
+      "en": "radio",
+      "pi": "guǎngbō"
+    },
+    {
+      "ch": "節目",
+      "en": "program",
+      "pi": "jiémù"
+    },
+    {
+      "ch": "嗎",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

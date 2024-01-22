@@ -1,0 +1,55 @@
+{
+  "sentences": [
+    {
+      "chinese": "你好",
+      "english": "Hello",
+      "pinyin": "nǐ hǎo",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "好",
+          "en": "good",
+          "pi": "hǎo"
+        }
+      ]
+    },
+    {
+      "chinese": "谢谢",
+      "english": "Thank you",
+      "pinyin": "xiè xie",
+      "words": [
+        {
+          "ch": "谢谢",
+          "en": "thank you",
+          "pi": "xiè xie"
+        }
+      ]
+    },
+    {
+      "chinese": "我爱你",
+      "english": "I love you",
+      "pinyin": "wǒ ài nǐ",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "爱",
+          "en": "love",
+          "pi": "ài"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        }
+      ]
+    }
+  ]
+}

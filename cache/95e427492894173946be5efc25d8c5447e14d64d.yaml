@@ -1,0 +1,32 @@
+{
+  "chinese": "你今天看起来很高兴。",
+  "english": "You look very happy today.",
+  "pinyin": "Nǐ jīntiān kàn qǐlái hěn gāoxìng.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "Nǐ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "看起来",
+      "en": "look",
+      "pi": "kàn qǐlái"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "高兴",
+      "en": "happy",
+      "pi": "gāoxìng"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "我还从没听说过这个演员。",
+  "english": "I have never heard of this actor before.",
+  "pinyin": "wǒ hái cóng méi tīng shuō guò zhè ge yǎn yuán.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "还", "en": "still", "pi": "hái"},
+    {"ch": "从没", "en": "never", "pi": "cóng méi"},
+    {"ch": "听说", "en": "heard of", "pi": "tīng shuō"},
+    {"ch": "过", "en": "before", "pi": "guò"},
+    {"ch": "这个", "en": "this", "pi": "zhè ge"},
+    {"ch": "演员", "en": "actor", "pi": "yǎn yuán"}
+  ]
+}

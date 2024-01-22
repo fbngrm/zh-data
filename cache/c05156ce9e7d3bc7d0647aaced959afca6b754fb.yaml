@@ -1,0 +1,62 @@
+{
+  "chinese": "早上起来，嗓子变得很沙哑，我想是不是感冒了。",
+  "english": "When I woke up in the morning, my voice became hoarse. I think I might have caught a cold.",
+  "pinyin": "zǎo shang qǐ lái, sǎng zi biàn dé hěn shā yā, wǒ xiǎng shì bú shì gǎn mào le.",
+  "words": [
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎo shang"
+    },
+    {
+      "ch": "起来",
+      "en": "wake up",
+      "pi": "qǐ lái"
+    },
+    {
+      "ch": "嗓子",
+      "en": "voice",
+      "pi": "sǎng zi"
+    },
+    {
+      "ch": "变得",
+      "en": "became",
+      "pi": "biàn dé"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "沙哑",
+      "en": "hoarse",
+      "pi": "shā yā"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "think",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "是不是",
+      "en": "whether",
+      "pi": "shì bú shì"
+    },
+    {
+      "ch": "感冒",
+      "en": "catch a cold",
+      "pi": "gǎn mào"
+    },
+    {
+      "ch": "了",
+      "en": "have",
+      "pi": "le"
+    }
+  ]
+}

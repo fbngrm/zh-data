@@ -1,0 +1,27 @@
+{
+  "chinese": "这些橘子已经腐烂了.",
+  "english": "These oranges have already rotted.",
+  "pinyin": "zhèxiē júzi yǐjīng fǔrǎnle.",
+  "words": [
+    {
+      "ch": "这些",
+      "en": "These",
+      "pi": "zhèxiē"
+    },
+    {
+      "ch": "橘子",
+      "en": "oranges",
+      "pi": "júzi"
+    },
+    {
+      "ch": "已经",
+      "en": "have already",
+      "pi": "yǐjīng"
+    },
+    {
+      "ch": "腐烂了",
+      "en": "rotted",
+      "pi": "fǔrǎnle"
+    }
+  ]
+}

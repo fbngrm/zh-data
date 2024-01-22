@@ -1,0 +1,37 @@
+{
+  "chinese": "我打电话给汤姆了。",
+  "english": "I called Tom.",
+  "pinyin": "wǒ dǎ diànhuà gěi tāngmǔ le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "打",
+      "en": "called",
+      "pi": "dǎ"
+    },
+    {
+      "ch": "电话",
+      "en": "telephone",
+      "pi": "diànhuà"
+    },
+    {
+      "ch": "给",
+      "en": "to",
+      "pi": "gěi"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāngmǔ"
+    },
+    {
+      "ch": "了。",
+      "en": "。",
+      "pi": "le."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "chinese": "我似乎不太喜欢小米，我觉得小米是屌丝用的手机，就是个山寨机。",
+  "english": "I seem to not like Xiaomi very much. I think Xiaomi is a phone for losers, just a knockoff.",
+  "pinyin": "wǒ sìhū bú tài xǐhuān xiǎomǐ, wǒ juédé xiǎomǐ shì diǎosī yòng de shǒujī, jiùshì gè shānzhài jī.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "似乎", "en": "seem to", "pi": "sìhū" },
+    { "ch": "不太", "en": "not very", "pi": "bú tài" },
+    { "ch": "喜欢", "en": "like", "pi": "xǐhuān" },
+    { "ch": "小米", "en": "Xiaomi", "pi": "xiǎomǐ" },
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "觉得", "en": "think", "pi": "juédé" },
+    { "ch": "小米", "en": "Xiaomi", "pi": "xiǎomǐ" },
+    { "ch": "是", "en": "is", "pi": "shì" },
+    { "ch": "屌丝", "en": "loser", "pi": "diǎosī" },
+    { "ch": "用", "en": "use", "pi": "yòng" },
+    { "ch": "的", "en": "for", "pi": "de" },
+    { "ch": "手机", "en": "phone", "pi": "shǒujī" },
+    { "ch": "就是", "en": "just", "pi": "jiùshì" },
+    { "ch": "个", "en": "a", "pi": "gè" },
+    { "ch": "山寨机", "en": "knockoff", "pi": "shānzhài jī" }
+  ]
+}

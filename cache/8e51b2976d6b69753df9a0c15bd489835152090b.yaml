@@ -1,0 +1,42 @@
+{
+  "chinese": "我认为你真的是一个好人。",
+  "english": "I think you are really a good person.",
+  "pinyin": "wǒ rèn wéi nǐ zhēn de shì yī gè hǎo rén.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "认为",
+      "en": "think",
+      "pi": "rèn wéi"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "真的",
+      "en": "really",
+      "pi": "zhēn de"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "好人",
+      "en": "good person",
+      "pi": "hǎo rén"
+    }
+  ]
+}

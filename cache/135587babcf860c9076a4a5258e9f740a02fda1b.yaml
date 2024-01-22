@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆救了玛丽的命。",
+  "english": "Tom saved Mary's life.",
+  "pinyin": "Tāng mǔ jiù le Mǎlì de mìng.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "救了",
+      "en": "saved",
+      "pi": "jiù le"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎlì"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "命",
+      "en": "life",
+      "pi": "mìng"
+    }
+  ]
+}

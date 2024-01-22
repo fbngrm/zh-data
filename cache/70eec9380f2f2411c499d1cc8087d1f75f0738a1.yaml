@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆有很多猫。",
+  "english": "Tom has many cats.",
+  "pinyin": "Tāngmǔ yǒu hěnduō māo.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "有",
+      "en": "has",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "很多",
+      "en": "many",
+      "pi": "hěnduō"
+    },
+    {
+      "ch": "猫",
+      "en": "cats",
+      "pi": "māo"
+    }
+  ]
+}

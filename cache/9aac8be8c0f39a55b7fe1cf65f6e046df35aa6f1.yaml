@@ -1,0 +1,32 @@
+{
+  "chinese": "天花板上有一只蜻蜓。",
+  "english": "There is a dragonfly on the ceiling.",
+  "pinyin": "Tiānhuābǎn shàng yǒu yī zhī qīngtíng.",
+  "words": [
+    {
+      "ch": "天花板",
+      "en": "ceiling",
+      "pi": "tiānhuābǎn"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "有",
+      "en": "there is",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一只",
+      "en": "a",
+      "pi": "yī zhī"
+    },
+    {
+      "ch": "蜻蜓",
+      "en": "dragonfly",
+      "pi": "qīngtíng"
+    }
+  ]
+}

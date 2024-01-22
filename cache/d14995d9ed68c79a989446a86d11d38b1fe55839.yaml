@@ -1,0 +1,57 @@
+{
+  "chinese": "你不懂这句句子，不是吗？",
+  "english": "You don't understand this sentence, right?",
+  "pinyin": "nǐ bù dǒng zhè jù jùzi, bú shì ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "不",
+      "en": "do not",
+      "pi": "bù"
+    },
+    {
+      "ch": "懂",
+      "en": "understand",
+      "pi": "dǒng"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "句",
+      "en": "sentence",
+      "pi": "jù"
+    },
+    {
+      "ch": "句子",
+      "en": "sentence",
+      "pi": "jùzi"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": ","
+    },
+    {
+      "ch": "不是",
+      "en": "isn't it",
+      "pi": "bú shì"
+    },
+    {
+      "ch": "吗",
+      "en": "right",
+      "pi": "ma"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "?"
+    }
+  ]
+}

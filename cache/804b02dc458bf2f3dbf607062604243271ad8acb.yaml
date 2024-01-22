@@ -1,0 +1,90 @@
+{
+  "sentences": [
+    {
+      "chinese": "你很丑。",
+      "english": "You are ugly.",
+      "pinyin": "nǐ hěn chǒu.",
+      "words": [
+        {
+          "ch": "你",
+          "en": "You",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "很",
+          "en": "are",
+          "pi": "hěn"
+        },
+        {
+          "ch": "丑",
+          "en": "ugly",
+          "pi": "chǒu"
+        }
+      ]
+    },
+    {
+      "chinese": "你妈妈很丑。",
+      "english": "Your mother is ugly.",
+      "pinyin": "nǐ māmā hěn chǒu.",
+      "words": [
+        {
+          "ch": "你",
+          "en": "Your",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "妈妈",
+          "en": "mother",
+          "pi": "māmā"
+        },
+        {
+          "ch": "很",
+          "en": "is",
+          "pi": "hěn"
+        },
+        {
+          "ch": "丑",
+          "en": "ugly",
+          "pi": "chǒu"
+        }
+      ]
+    },
+    {
+      "chinese": "你妈妈的脸很丑。",
+      "english": "Your mother's face is ugly.",
+      "pinyin": "nǐ māmā de liǎn hěn chǒu.",
+      "words": [
+        {
+          "ch": "你",
+          "en": "Your",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "妈妈",
+          "en": "mother",
+          "pi": "māmā"
+        },
+        {
+          "ch": "的",
+          "en": "'s",
+          "pi": "de"
+        },
+        {
+          "ch": "脸",
+          "en": "face",
+          "pi": "liǎn"
+        },
+        {
+          "ch": "很",
+          "en": "is",
+          "pi": "hěn"
+        },
+        {
+          "ch": "丑",
+          "en": "ugly",
+          "pi": "chǒu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "噪音把我吵醒了。",
+  "english": "The noise woke me up.",
+  "pinyin": "Zào yīn bǎ wǒ chǎo xǐng le.",
+  "words": [
+    {
+      "ch": "噪音",
+      "en": "noise",
+      "pi": "zào yīn"
+    },
+    {
+      "ch": "把",
+      "en": "to",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "吵醒",
+      "en": "woke up",
+      "pi": "chǎo xǐng"
+    },
+    {
+      "ch": "了",
+      "en": "particle",
+      "pi": "le"
+    }
+  ]
+}

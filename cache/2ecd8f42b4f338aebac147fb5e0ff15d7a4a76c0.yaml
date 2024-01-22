@@ -1,0 +1,73 @@
+{
+  "sentences": [
+    {
+      "chinese": "你想要一件襯衫嗎？",
+      "english": "Do you want a shirt?",
+      "pinyin": "nǐ xiǎng yào yī jiàn chèn shān ma？",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "想要",
+          "en": "want",
+          "pi": "xiǎng yào"
+        },
+        {
+          "ch": "一件",
+          "en": "a",
+          "pi": "yī jiàn"
+        },
+        {
+          "ch": "襯衫",
+          "en": "shirt",
+          "pi": "chèn shān"
+        },
+        {
+          "ch": "嗎",
+          "en": "?",
+          "pi": "ma"
+        }
+      ]
+    },
+    {
+      "chinese": "對，我想要一件紅色的。",
+      "english": "Yes, I want a red one.",
+      "pinyin": "duì，wǒ xiǎng yào yī jiàn hóng sè de。",
+      "words": [
+        {
+          "ch": "對",
+          "en": "Yes",
+          "pi": "duì"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "想要",
+          "en": "want",
+          "pi": "xiǎng yào"
+        },
+        {
+          "ch": "一件",
+          "en": "a",
+          "pi": "yī jiàn"
+        },
+        {
+          "ch": "紅色",
+          "en": "red",
+          "pi": "hóng sè"
+        },
+        {
+          "ch": "的",
+          "en": "one",
+          "pi": "de"
+        }
+      ]
+    }
+  ]
+}

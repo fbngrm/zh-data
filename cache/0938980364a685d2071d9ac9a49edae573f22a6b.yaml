@@ -1,0 +1,32 @@
+{
+  "chinese": "你交功课了吗？",
+  "english": "Did you submit your homework?",
+  "pinyin": "nǐ jiāo gōngkè le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "交",
+      "en": "submit",
+      "pi": "jiāo"
+    },
+    {
+      "ch": "功课",
+      "en": "homework",
+      "pi": "gōngkè"
+    },
+    {
+      "ch": "了",
+      "en": "did",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

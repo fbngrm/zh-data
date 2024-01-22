@@ -1,0 +1,27 @@
+{
+  "chinese": "笔记本电脑比台式电脑好。",
+  "english": "Laptops are better than desktop computers.",
+  "pinyin": "bǐ jì běn diàn nǎo bǐ tái shì diàn nǎo hǎo.",
+  "words": [
+    {
+      "ch": "笔记本电脑",
+      "en": "Laptop",
+      "pi": "bǐ jì běn diàn nǎo"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "台式电脑",
+      "en": "Desktop computer",
+      "pi": "tái shì diàn nǎo"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    }
+  ]
+}

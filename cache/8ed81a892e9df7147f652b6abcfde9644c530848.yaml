@@ -1,0 +1,42 @@
+{
+  "chinese": "你在哪里买这双鞋子?",
+  "english": "Where did you buy these shoes?",
+  "pinyin": "Nǐ zài nǎlǐ mǎi zhè shuāng xiézi?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪里",
+      "en": "where",
+      "pi": "nǎlǐ"
+    },
+    {
+      "ch": "买",
+      "en": "buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "这",
+      "en": "these",
+      "pi": "zhè"
+    },
+    {
+      "ch": "双",
+      "en": "pair",
+      "pi": "shuāng"
+    },
+    {
+      "ch": "鞋子",
+      "en": "shoes",
+      "pi": "xiézi"
+    }
+  ]
+}

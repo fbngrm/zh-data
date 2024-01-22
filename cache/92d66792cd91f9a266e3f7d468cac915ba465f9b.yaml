@@ -1,0 +1,32 @@
+{
+  "chinese": "足球比网球更受欢迎。",
+  "english": "Football is more popular than tennis.",
+  "pinyin": "zú qiú bǐ wǎng qiú gèng shòu huān yíng。",
+  "words": [
+    {
+      "ch": "足球",
+      "en": "Football",
+      "pi": "zú qiú"
+    },
+    {
+      "ch": "比",
+      "en": "is",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "网球",
+      "en": "tennis",
+      "pi": "wǎng qiú"
+    },
+    {
+      "ch": "更",
+      "en": "more",
+      "pi": "gèng"
+    },
+    {
+      "ch": "受欢迎",
+      "en": "popular",
+      "pi": "shòu huān yíng"
+    }
+  ]
+}

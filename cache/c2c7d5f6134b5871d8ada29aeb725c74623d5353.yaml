@@ -1,0 +1,32 @@
+{
+  "chinese": "这个药会帮助你。",
+  "english": "This medicine will help you.",
+  "pinyin": "zhè gè yào huì bāng zhù nǐ。",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "药",
+      "en": "medicine",
+      "pi": "yào"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "帮助",
+      "en": "help",
+      "pi": "bāng zhù"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    }
+  ]
+}

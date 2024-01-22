@@ -1,0 +1,32 @@
+{
+  "chinese": "这里有人会说日语吗？",
+  "english": "Does anyone here speak Japanese?",
+  "pinyin": "zhè lǐ yǒu rén huì shuō rì yǔ ma?",
+  "words": [
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "有人",
+      "en": "anyone",
+      "pi": "yǒu rén"
+    },
+    {
+      "ch": "会说",
+      "en": "speak",
+      "pi": "huì shuō"
+    },
+    {
+      "ch": "日语",
+      "en": "Japanese",
+      "pi": "rì yǔ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

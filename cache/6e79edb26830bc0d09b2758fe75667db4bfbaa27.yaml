@@ -1,0 +1,14 @@
+{
+  "chinese": "大量生产降低许多商品的价格。",
+  "english": "Mass production reduces the prices of many goods.",
+  "pinyin": "dàliàng shēngchǎn jiàngdī xǔduō shāngpǐn de jiàgé.",
+  "words": [
+    {"ch":"大量", "en":"mass", "pi":"dàliàng"},
+    {"ch":"生产", "en":"production", "pi":"shēngchǎn"},
+    {"ch":"降低", "en":"reduces", "pi":"jiàngdī"},
+    {"ch":"许多", "en":"many", "pi":"xǔduō"},
+    {"ch":"商品", "en":"goods", "pi":"shāngpǐn"},
+    {"ch":"的", "en":"of", "pi":"de"},
+    {"ch":"价格", "en":"prices", "pi":"jiàgé"}
+  ]
+}

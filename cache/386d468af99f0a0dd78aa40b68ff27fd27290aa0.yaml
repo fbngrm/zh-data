@@ -1,0 +1,42 @@
+{
+  "chinese": "我来自义大利，会说义大利文。",
+  "english": "I am from Italy and can speak Italian.",
+  "pinyin": "Wǒ láizì yìdàlì, huì shuō yìdàlì wén。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "来自",
+      "en": "from",
+      "pi": "láizì"
+    },
+    {
+      "ch": "义大利",
+      "en": "Italy",
+      "pi": "yìdàlì"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": "，"
+    },
+    {
+      "ch": "会说",
+      "en": "can speak",
+      "pi": "huì shuō"
+    },
+    {
+      "ch": "义大利文",
+      "en": "Italian",
+      "pi": "yìdàlì wén"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "。"
+    }
+  ]
+}

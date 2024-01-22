@@ -1,0 +1,88 @@
+{
+  "sentences": [
+    {
+      "chinese": "久了不见，便会逐渐淡忘。",
+      "english": "After a long time no see, one will gradually forget.",
+      "pinyin": "jiǔ le bú jiàn, biàn huì zhú jiàn dàn wàng。",
+      "words": [
+        {
+          "ch": "久了",
+          "en": "After a long time",
+          "pi": "jiǔ le"
+        },
+        {
+          "ch": "不见",
+          "en": "no see",
+          "pi": "bú jiàn"
+        },
+        {
+          "ch": "便",
+          "en": "one will",
+          "pi": "biàn"
+        },
+        {
+          "ch": "会",
+          "en": "gradually",
+          "pi": "huì"
+        },
+        {
+          "ch": "逐渐",
+          "en": "forget",
+          "pi": "zhú jiàn"
+        },
+        {
+          "ch": "淡忘",
+          "en": "forget",
+          "pi": "dàn wàng"
+        }
+      ]
+    },
+    {
+      "chinese": "分开以后，也就自然不会再联系了。",
+      "english": "After parting, there will naturally be no further contact.",
+      "pinyin": "fēn kāi yǐ hòu, yě jiù zì rán bú huì zài lián xì le。",
+      "words": [
+        {
+          "ch": "分开",
+          "en": "After parting",
+          "pi": "fēn kāi"
+        },
+        {
+          "ch": "以后",
+          "en": "after",
+          "pi": "yǐ hòu"
+        },
+        {
+          "ch": "也就",
+          "en": "there will",
+          "pi": "yě jiù"
+        },
+        {
+          "ch": "自然",
+          "en": "naturally",
+          "pi": "zì rán"
+        },
+        {
+          "ch": "不会",
+          "en": "be no",
+          "pi": "bú huì"
+        },
+        {
+          "ch": "再",
+          "en": "further",
+          "pi": "zài"
+        },
+        {
+          "ch": "联系",
+          "en": "contact",
+          "pi": "lián xì"
+        },
+        {
+          "ch": "了",
+          "en": "ending particle indicating completed action",
+          "pi": "le"
+        }
+      ]
+    }
+  ]
+}

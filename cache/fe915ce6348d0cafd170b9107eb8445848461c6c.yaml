@@ -1,0 +1,42 @@
+{
+  "chinese": "我骑了我的自行车去商店。",
+  "english": "I rode my bike to the store.",
+  "pinyin": "Wǒ qíle wǒ de zìxíngchē qù shāngdiàn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "骑",
+      "en": "ride",
+      "pi": "qí"
+    },
+    {
+      "ch": "了",
+      "en": "past tense marker",
+      "pi": "le"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "自行车",
+      "en": "bike",
+      "pi": "zìxíngchē"
+    },
+    {
+      "ch": "去",
+      "en": "go to",
+      "pi": "qù"
+    },
+    {
+      "ch": "商店",
+      "en": "store",
+      "pi": "shāngdiàn"
+    }
+  ]
+}

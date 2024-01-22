@@ -1,0 +1,32 @@
+{
+  "chinese": "我可以吃一点吗？",
+  "english": "Can I have some?",
+  "pinyin": "wǒ kěyǐ chī yī diǎn ma?",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kěyǐ"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "一点",
+      "en": "some",
+      "pi": "yī diǎn"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

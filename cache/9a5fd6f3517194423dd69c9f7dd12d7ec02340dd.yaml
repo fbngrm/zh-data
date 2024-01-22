@@ -1,0 +1,42 @@
+{
+  "chinese": "我不知道这个单词怎么拼写。",
+  "english": "I don't know how to spell this word.",
+  "pinyin": "wǒ bù zhīdào zhège dāncí zěnme pīnxiě",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "不",
+      "en": "don't",
+      "pi": "bù"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhège"
+    },
+    {
+      "ch": "单词",
+      "en": "word",
+      "pi": "dāncí"
+    },
+    {
+      "ch": "怎么",
+      "en": "how",
+      "pi": "zěnme"
+    },
+    {
+      "ch": "拼写",
+      "en": "spell",
+      "pi": "pīnxiě"
+    }
+  ]
+}

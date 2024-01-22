@@ -1,0 +1,47 @@
+{
+  "chinese": "我父亲的状况时好时坏。",
+  "english": "My father's condition is sometimes good and sometimes bad.",
+  "pinyin": "wǒ fù qīn de zhuàng kuàng shí hǎo shí huài.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "父亲",
+      "en": "father",
+      "pi": "fù qīn"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "状况",
+      "en": "condition",
+      "pi": "zhuàng kuàng"
+    },
+    {
+      "ch": "时",
+      "en": "sometimes",
+      "pi": "shí"
+    },
+    {
+      "ch": "好",
+      "en": "good",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "时",
+      "en": "sometimes",
+      "pi": "shí"
+    },
+    {
+      "ch": "坏",
+      "en": "bad",
+      "pi": "huài"
+    }
+  ]
+}

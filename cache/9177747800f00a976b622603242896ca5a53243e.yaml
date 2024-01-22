@@ -1,0 +1,32 @@
+{
+  "chinese": "公司离我家很远。",
+  "english": "The company is far from my home.",
+  "pinyin": "gōng sī lí wǒ jiā hěn yuǎn.",
+  "words": [
+    {
+      "ch": "公司",
+      "en": "company",
+      "pi": "gōng sī"
+    },
+    {
+      "ch": "离",
+      "en": "away from",
+      "pi": "lí"
+    },
+    {
+      "ch": "我家",
+      "en": "my home",
+      "pi": "wǒ jiā"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "远",
+      "en": "far",
+      "pi": "yuǎn"
+    }
+  ]
+}

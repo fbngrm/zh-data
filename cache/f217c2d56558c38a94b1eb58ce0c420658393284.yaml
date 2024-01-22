@@ -1,0 +1,52 @@
+{
+  "chinese": "你是汤姆的一个朋友，不是吗？",
+  "english": "You are a friend of Tom's, aren't you?",
+  "pinyin": "Nǐ shì Tāngmǔ de yīgè péngyǒu, bùshì ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "Nǐ"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāngmǔ"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yīgè"
+    },
+    {
+      "ch": "朋友",
+      "en": "friend",
+      "pi": "péngyǒu"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": "，"
+    },
+    {
+      "ch": "不是",
+      "en": "aren't",
+      "pi": "bùshì"
+    },
+    {
+      "ch": "吗",
+      "en": "you?",
+      "pi": "ma?"
+    }
+  ]
+}

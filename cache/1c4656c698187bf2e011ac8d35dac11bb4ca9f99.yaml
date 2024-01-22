@@ -1,0 +1,32 @@
+{
+  "chinese": "她唱歌唱得很好听。",
+  "english": "She sings very well.",
+  "pinyin": "tā chàng gē chàng dé hěn hǎo tīng.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "唱歌",
+      "en": "sings",
+      "pi": "chàng gē"
+    },
+    {
+      "ch": "唱得",
+      "en": "sings",
+      "pi": "chàng dé"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "好听",
+      "en": "well",
+      "pi": "hǎo tīng"
+    }
+  ]
+}

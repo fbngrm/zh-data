@@ -1,0 +1,37 @@
+{
+  "chinese": "书桌上有几本书。",
+  "english": "There are several books on the desk.",
+  "pinyin": "shū zhuō shàng yǒu jǐ běn shū。",
+  "words": [
+    {
+      "ch": "书桌",
+      "en": "desk",
+      "pi": "shū zhuō"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "几",
+      "en": "several",
+      "pi": "jǐ"
+    },
+    {
+      "ch": "本",
+      "en": "measure word for books",
+      "pi": "běn"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    }
+  ]
+}

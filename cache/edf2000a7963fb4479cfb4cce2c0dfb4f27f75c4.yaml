@@ -1,0 +1,14 @@
+{
+  "chinese": "汤姆坐在椅子上睡着了。",
+  "english": "Tom fell asleep sitting on the chair.",
+  "pinyin": "Tāng mǔ zuò zài yǐ zi shàng shuì zháo le.",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ"},
+    {"ch": "坐", "en": "sit", "pi": "zuò"},
+    {"ch": "在", "en": "on", "pi": "zài"},
+    {"ch": "椅子", "en": "chair", "pi": "yǐ zi"},
+    {"ch": "上", "en": "on", "pi": "shàng"},
+    {"ch": "睡着", "en": "fell asleep", "pi": "shuì zháo"},
+    {"ch": "了", "en": "了", "pi": "le"}
+  ]
+}

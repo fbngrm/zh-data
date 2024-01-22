@@ -1,0 +1,42 @@
+{
+  "chinese": "我忘了你的電話號碼。",
+  "english": "I forgot your phone number.",
+  "pinyin": "wǒ wàngle nǐ de diànhuà hàomǎ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "忘",
+      "en": "forgot",
+      "pi": "wàng"
+    },
+    {
+      "ch": "了",
+      "en": "your",
+      "pi": "le"
+    },
+    {
+      "ch": "你",
+      "en": "phone",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "number",
+      "pi": "de"
+    },
+    {
+      "ch": "電話",
+      "en": "phone",
+      "pi": "diànhuà"
+    },
+    {
+      "ch": "號碼",
+      "en": "number",
+      "pi": "hàomǎ"
+    }
+  ]
+}

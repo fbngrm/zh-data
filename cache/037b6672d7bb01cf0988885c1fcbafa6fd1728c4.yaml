@@ -1,0 +1,27 @@
+{
+  "chinese": "我吃了汤姆的三明治。",
+  "english": "I ate Tom's sandwich.",
+  "pinyin": "wǒ chī le tāng mǔ de sān míng zhì。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "吃了",
+      "en": "ate",
+      "pi": "chī le"
+    },
+    {
+      "ch": "汤姆的",
+      "en": "Tom's",
+      "pi": "tāng mǔ de"
+    },
+    {
+      "ch": "三明治",
+      "en": "sandwich",
+      "pi": "sān míng zhì"
+    }
+  ]
+}

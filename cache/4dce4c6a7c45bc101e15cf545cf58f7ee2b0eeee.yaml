@@ -1,0 +1,78 @@
+{
+    "sentences": [
+        {
+            "chinese": "你在哪年出生？",
+            "english": "In which year were you born?",
+            "pinyin": "nǐ zài nǎ nián chū shēng?",
+            "words": [
+                {
+                    "ch": "你",
+                    "en": "you",
+                    "pi": "nǐ"
+                },
+                {
+                    "ch": "在",
+                    "en": "in",
+                    "pi": "zài"
+                },
+                {
+                    "ch": "哪",
+                    "en": "which",
+                    "pi": "nǎ"
+                },
+                {
+                    "ch": "年",
+                    "en": "year",
+                    "pi": "nián"
+                },
+                {
+                    "ch": "出生",
+                    "en": "born",
+                    "pi": "chū shēng"
+                },
+                {
+                    "ch": "？",
+                    "en": "?",
+                    "pi": "？"
+                }
+            ]
+        },
+        {
+            "chinese": "你出生在哪月？",
+            "english": "In which month were you born?",
+            "pinyin": "nǐ chū shēng zài nǎ yuè?",
+            "words": [
+                {
+                    "ch": "你",
+                    "en": "you",
+                    "pi": "nǐ"
+                },
+                {
+                    "ch": "出生",
+                    "en": "born",
+                    "pi": "chū shēng"
+                },
+                {
+                    "ch": "在",
+                    "en": "in",
+                    "pi": "zài"
+                },
+                {
+                    "ch": "哪",
+                    "en": "which",
+                    "pi": "nǎ"
+                },
+                {
+                    "ch": "月",
+                    "en": "month",
+                    "pi": "yuè"
+                },
+                {
+                    "ch": "？",
+                    "en": "?",
+                    "pi": "？"
+                }
+            ]
+        }
+    ]
+}

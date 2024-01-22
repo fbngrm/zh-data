@@ -1,0 +1,27 @@
+{
+  "chinese": "Bob帮助了我。",
+  "english": "Bob helped me.",
+  "pinyin": "Bob bāngzhù le wǒ.",
+  "words": [
+    {
+      "ch": "Bob",
+      "en": "Bob",
+      "pi": "Bob"
+    },
+    {
+      "ch": "帮助",
+      "en": "help",
+      "pi": "bāngzhù"
+    },
+    {
+      "ch": "了",
+      "en": "past tense particle",
+      "pi": "le"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    }
+  ]
+}

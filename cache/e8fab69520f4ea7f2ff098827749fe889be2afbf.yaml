@@ -1,0 +1,32 @@
+{
+  "chinese": "读书可以学会很多生字。",
+  "english": "Reading can help you learn a lot of new characters.",
+  "pinyin": "dú shū kě yǐ xué huì hěn duō shēng zì。",
+  "words": [
+    {
+      "ch": "读书",
+      "en": "Reading",
+      "pi": "dú shū"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kě yǐ"
+    },
+    {
+      "ch": "学会",
+      "en": "learn",
+      "pi": "xué huì"
+    },
+    {
+      "ch": "很多",
+      "en": "a lot of",
+      "pi": "hěn duō"
+    },
+    {
+      "ch": "生字",
+      "en": "new characters",
+      "pi": "shēng zì"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "马克给他的儿子买了辆车。",
+  "english": "Mark bought a car for his son.",
+  "pinyin": "mǎkè gěi tā de érzi mǎile liàng chē。",
+  "words": [
+    {
+      "ch": "马克",
+      "en": "Mark",
+      "pi": "mǎkè"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "儿子",
+      "en": "son",
+      "pi": "érzi"
+    },
+    {
+      "ch": "买",
+      "en": "buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "了",
+      "en": "a",
+      "pi": "liàng"
+    },
+    {
+      "ch": "辆车",
+      "en": "car",
+      "pi": "chē"
+    }
+  ]
+}

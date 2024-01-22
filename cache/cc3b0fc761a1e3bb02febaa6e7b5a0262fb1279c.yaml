@@ -1,0 +1,37 @@
+{
+  "chinese": "你给测验评分了吗?",
+  "english": "Have you graded the test?",
+  "pinyin": "Nǐ gěi cèyàn píngfēn le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "给",
+      "en": "give",
+      "pi": "gěi"
+    },
+    {
+      "ch": "测验",
+      "en": "test",
+      "pi": "cèyàn"
+    },
+    {
+      "ch": "评分",
+      "en": "grade",
+      "pi": "píngfēn"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "",
+      "pi": "ma"
+    }
+  ]
+}

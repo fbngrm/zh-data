@@ -1,0 +1,32 @@
+{
+  "chinese": "她不在是因为病了。",
+  "english": "She is not here because she is sick.",
+  "pinyin": "Tā bù zài shì yīnwèi bìng le.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "不在",
+      "en": "not here",
+      "pi": "bù zài"
+    },
+    {
+      "ch": "是",
+      "en": "because",
+      "pi": "shì"
+    },
+    {
+      "ch": "因为",
+      "en": "is",
+      "pi": "yīn wèi"
+    },
+    {
+      "ch": "病了",
+      "en": "sick",
+      "pi": "bìng le"
+    }
+  ]
+}

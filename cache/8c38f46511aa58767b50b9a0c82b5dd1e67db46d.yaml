@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆多年没有和玛丽说话了。",
+  "english": "Tom hasn't spoken to Mary for years.",
+  "pinyin": "tāng mǔ duō nián méi yǒu hé mǎ lì shuō huà le。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "多年",
+      "en": "for years",
+      "pi": "duō nián"
+    },
+    {
+      "ch": "没有",
+      "en": "haven't",
+      "pi": "méi yǒu"
+    },
+    {
+      "ch": "和",
+      "en": "to",
+      "pi": "hé"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "说话",
+      "en": "spoken",
+      "pi": "shuō huà"
+    },
+    {
+      "ch": "了",
+      "en": "to",
+      "pi": "le"
+    }
+  ]
+}

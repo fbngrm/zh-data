@@ -1,0 +1,17 @@
+{
+  "chinese": "我认为汤姆很可能会喜欢这部电影。",
+  "english": "I think Tom will probably like this movie.",
+  "pinyin": "wǒ rèn wéi tāng mǔ hěn kě néng huì xǐ huān zhè bù diàn yǐng。",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "认为", "en": "think", "pi": "rèn wéi" },
+    { "ch": "汤姆", "en": "Tom", "pi": "tāng mǔ" },
+    { "ch": "很", "en": "very", "pi": "hěn" },
+    { "ch": "可能", "en": "probably", "pi": "kě néng" },
+    { "ch": "会", "en": "will", "pi": "huì" },
+    { "ch": "喜欢", "en": "like", "pi": "xǐ huān" },
+    { "ch": "这", "en": "this", "pi": "zhè" },
+    { "ch": "部", "en": "movie", "pi": "bù" },
+    { "ch": "电影", "en": "movie", "pi": "diàn yǐng" }
+  ]
+}

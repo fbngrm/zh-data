@@ -1,0 +1,47 @@
+{
+  "chinese": "我为一本书写了内容提要。",
+  "english": "I wrote a summary for a book.",
+  "pinyin": "wǒ wèi yì běn shū xiě le nèi róng tí yào。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "为",
+      "en": "for",
+      "pi": "wèi"
+    },
+    {
+      "ch": "一本",
+      "en": "a",
+      "pi": "yì běn"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    },
+    {
+      "ch": "写",
+      "en": "wrote",
+      "pi": "xiě"
+    },
+    {
+      "ch": "了",
+      "en": "a",
+      "pi": "le"
+    },
+    {
+      "ch": "内容",
+      "en": "summary",
+      "pi": "nèi róng"
+    },
+    {
+      "ch": "提要",
+      "en": "for",
+      "pi": "tí yào"
+    }
+  ]
+}

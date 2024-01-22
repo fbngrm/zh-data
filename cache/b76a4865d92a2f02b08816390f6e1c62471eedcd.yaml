@@ -1,0 +1,37 @@
+{
+  "chinese": "这只老鼠是死还是活的？",
+  "english": "Is this mouse dead or alive?",
+  "pinyin": "zhè zhī lǎo shǔ shì sǐ hái shì huó de?",
+  "words": [
+    {
+      "ch": "这只",
+      "en": "this",
+      "pi": "zhè zhī"
+    },
+    {
+      "ch": "老鼠",
+      "en": "mouse",
+      "pi": "lǎo shǔ"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "死",
+      "en": "dead",
+      "pi": "sǐ"
+    },
+    {
+      "ch": "还是",
+      "en": "or",
+      "pi": "hái shì"
+    },
+    {
+      "ch": "活的",
+      "en": "alive",
+      "pi": "huó de"
+    }
+  ]
+}

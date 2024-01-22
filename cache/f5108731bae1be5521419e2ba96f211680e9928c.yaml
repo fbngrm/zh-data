@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆需要在十分钟内见到你。",
+  "english": "Tom needs to see you within ten minutes.",
+  "pinyin": "Tāng mǔ xūyào zài shí fēnzhōng nèi jiàndào nǐ。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "需要",
+      "en": "needs",
+      "pi": "xūyào"
+    },
+    {
+      "ch": "在",
+      "en": "to",
+      "pi": "zài"
+    },
+    {
+      "ch": "十分钟",
+      "en": "ten minutes",
+      "pi": "shí fēnzhōng"
+    },
+    {
+      "ch": "内",
+      "en": "within",
+      "pi": "nèi"
+    },
+    {
+      "ch": "见到",
+      "en": "see",
+      "pi": "jiàndào"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    }
+  ]
+}

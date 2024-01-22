@@ -1,0 +1,11 @@
+{
+  "chinese": "我们该步行吗？",
+  "english": "Should we walk?",
+  "pinyin": "wǒ men gāi bù xíng ma?",
+  "words": [
+    { "ch": "我们", "en": "we", "pi": "wǒ men" },
+    { "ch": "该", "en": "should", "pi": "gāi" },
+    { "ch": "步行", "en": "walk", "pi": "bù xíng" },
+    { "ch": "吗", "en": "question particle", "pi": "ma" }
+  ]
+}

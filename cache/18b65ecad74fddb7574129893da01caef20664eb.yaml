@@ -1,0 +1,42 @@
+{
+  "chinese": "我觉得我刚吃的鸡蛋坏了。",
+  "english": "I think the eggs I just ate are bad.",
+  "pinyin": "wǒ juéde wǒ gāng chī de jīdàn huài le.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "觉得",
+      "en": "think",
+      "pi": "juéde"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "刚吃",
+      "en": "just ate",
+      "pi": "gāng chī"
+    },
+    {
+      "ch": "的",
+      "en": "the",
+      "pi": "de"
+    },
+    {
+      "ch": "鸡蛋",
+      "en": "eggs",
+      "pi": "jīdàn"
+    },
+    {
+      "ch": "坏了",
+      "en": "bad",
+      "pi": "huài le"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "我今天心情不太好。",
+  "english": "I'm not feeling very good today.",
+  "pinyin": "wǒ jīn tiān xīn qíng bú tài hǎo.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "心情",
+      "en": "mood",
+      "pi": "xīn qíng"
+    },
+    {
+      "ch": "不太好",
+      "en": "not good",
+      "pi": "bú tài hǎo"
+    }
+  ]
+}

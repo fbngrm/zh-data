@@ -1,0 +1,13 @@
+{
+  "chinese": "玛丽处理了膝盖的伤口。",
+  "english": "Mary treated the wound on her knee.",
+  "pinyin": "Mǎlì chǔlǐle xīgài de shāngkǒu。",
+  "words": [
+    {"ch": "玛丽", "en": "Mary", "pi": "Mǎlì"},
+    {"ch": "处理", "en": "treat", "pi": "chǔlǐ"},
+    {"ch": "了", "en": "the", "pi": "le"},
+    {"ch": "膝盖", "en": "knee", "pi": "xīgài"},
+    {"ch": "的", "en": "on", "pi": "de"},
+    {"ch": "伤口", "en": "wound", "pi": "shāngkǒu"}
+  ]
+}

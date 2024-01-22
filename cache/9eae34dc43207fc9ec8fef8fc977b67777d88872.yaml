@@ -1,0 +1,13 @@
+{
+  "chinese": "这是我的最终回答。",
+  "pinyin": "zhè shì wǒ de zuìzhōng huídá.",
+  "english": "This is my final answer.",
+  "words": [
+    {"ch":"这", "en":"this", "pi":"zhè"},
+    {"ch":"是", "en":"is", "pi":"shì"},
+    {"ch":"我", "en":"my", "pi":"wǒ"},
+    {"ch":"的", "en":"", "pi":"de"},
+    {"ch":"最终", "en":"final", "pi":"zuìzhōng"},
+    {"ch":"回答", "en":"answer", "pi":"huídá"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "山本也是我的一个朋友。",
+  "english": "Yamamoto is also one of my friends.",
+  "pinyin": "shān běn yě shì wǒ de yī gè péng yǒu.",
+  "words": [
+    {
+      "ch": "山本",
+      "en": "Yamamoto",
+      "pi": "shān běn"
+    },
+    {
+      "ch": "也是",
+      "en": "also",
+      "pi": "yě shì"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "一个",
+      "en": "one",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "朋友",
+      "en": "friend",
+      "pi": "péng yǒu"
+    }
+  ]
+}

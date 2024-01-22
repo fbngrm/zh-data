@@ -1,0 +1,52 @@
+{
+  "chinese": "对不起，我听不懂。你能慢点儿再说一遍吗？",
+  "english": "I'm sorry, I don't understand. Could you please say it again more slowly?",
+  "pinyin": "duì bù qǐ, wǒ tīng bù dǒng. nǐ néng màn diǎn er zài shuō yī biàn ma?",
+  "words": [
+    {
+      "ch": "对不起",
+      "en": "I'm sorry",
+      "pi": "duì bù qǐ"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "听不懂",
+      "en": "don't understand",
+      "pi": "tīng bù dǒng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "慢点儿",
+      "en": "more slowly",
+      "pi": "màn diǎn er"
+    },
+    {
+      "ch": "再说",
+      "en": "say it again",
+      "pi": "zài shuō"
+    },
+    {
+      "ch": "一遍",
+      "en": "one more time",
+      "pi": "yī biàn"
+    },
+    {
+      "ch": "吗",
+      "en": "please",
+      "pi": "ma"
+    }
+  ]
+}

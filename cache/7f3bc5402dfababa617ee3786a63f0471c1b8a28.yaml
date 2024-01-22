@@ -1,0 +1,13 @@
+{
+   "chinese": "他這次測驗不合格可不是開玩笑的。",
+   "english": "He didn't pass the test this time, it's no joke.",
+   "pinyin": "Tā zhè cì cèyàn bù héguì kě bùshì kāiwánxiào de.",
+   "words": [
+      {"ch": "他", "en": "He", "pi": "tā"},
+      {"ch": "這次", "en": "this time", "pi": "zhè cì"},
+      {"ch": "測驗", "en": "test", "pi": "cèyàn"},
+      {"ch": "不合格", "en": "didn't pass", "pi": "bù héguì"},
+      {"ch": "可不是", "en": "it's no", "pi": "kě bùshì"},
+      {"ch": "開玩笑的", "en": "joke", "pi": "kāiwánxiào de"}
+   ]
+}

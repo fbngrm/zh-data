@@ -1,0 +1,32 @@
+{
+  "chinese": "巴黎是法国的首都。",
+  "english": "Paris is the capital of France.",
+  "pinyin": "bā lí shì fǎ guó de shǒu dū。",
+  "words": [
+    {
+      "ch": "巴黎",
+      "en": "Paris",
+      "pi": "bā lí"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "法国",
+      "en": "France",
+      "pi": "fǎ guó"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "首都",
+      "en": "capital",
+      "pi": "shǒu dū"
+    }
+  ]
+}

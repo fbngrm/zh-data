@@ -1,0 +1,47 @@
+{
+  "chinese": "我时间来不及啦，你快一点呀！",
+  "english": "I don't have enough time, hurry up!",
+  "pinyin": "wǒ shíjiān lái bù jí la, nǐ kuài yīdiǎn ya!",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "时间",
+      "en": "time",
+      "pi": "shíjiān"
+    },
+    {
+      "ch": "来不及",
+      "en": "don't have enough time",
+      "pi": "lái bù jí"
+    },
+    {
+      "ch": "啦",
+      "en": "exclamation indicating urgency",
+      "pi": "la"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "快",
+      "en": "hurry",
+      "pi": "kuài"
+    },
+    {
+      "ch": "一点",
+      "en": "a little",
+      "pi": "yīdiǎn"
+    },
+    {
+      "ch": "呀",
+      "en": "exclamation indicating urgency",
+      "pi": "ya"
+    }
+  ]
+}

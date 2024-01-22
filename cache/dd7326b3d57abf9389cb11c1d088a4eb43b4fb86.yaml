@@ -1,0 +1,13 @@
+{
+  "chinese": "我正在大学里读经济。",
+  "english": "I am studying economics in college.",
+  "pinyin": "wǒ zhèng zài dà xué lǐ dú jīng jì。",
+  "words": [
+    {"ch":"我", "en":"I", "pi":"wǒ"},
+    {"ch":"正在", "en":"am", "pi":"zhèng zài"},
+    {"ch":"大学", "en":"college", "pi":"dà xué"},
+    {"ch":"里", "en":"in", "pi":"lǐ"},
+    {"ch":"读", "en":"studying", "pi":"dú"},
+    {"ch":"经济", "en":"economics", "pi":"jīng jì"}
+  ]
+}

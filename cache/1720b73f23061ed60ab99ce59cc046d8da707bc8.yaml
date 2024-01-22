@@ -1,0 +1,42 @@
+{
+  "chinese": "我做了很蠢的事。",
+  "english": "I did something stupid.",
+  "pinyin": "wǒ zuò le hěn chǔn de shì。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "做",
+      "en": "do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "了",
+      "en": "did",
+      "pi": "le"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "蠢",
+      "en": "stupid",
+      "pi": "chǔn"
+    },
+    {
+      "ch": "的",
+      "en": "something",
+      "pi": "de"
+    },
+    {
+      "ch": "事",
+      "en": "thing",
+      "pi": "shì"
+    }
+  ]
+}

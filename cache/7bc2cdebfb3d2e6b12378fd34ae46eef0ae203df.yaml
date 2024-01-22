@@ -1,0 +1,42 @@
+{
+  "chinese": "昨晚发生了一场很大的火灾。",
+  "english": "There was a big fire last night.",
+  "pinyin": "zuó wǎn fā shēng le yī chǎng hěn dà de huǒ zāi。",
+  "words": [
+    {
+      "ch": "昨晚",
+      "en": "last night",
+      "pi": "zuó wǎn"
+    },
+    {
+      "ch": "发生",
+      "en": "occur",
+      "pi": "fā shēng"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating a new situation",
+      "pi": "le"
+    },
+    {
+      "ch": "一场",
+      "en": "a",
+      "pi": "yī chǎng"
+    },
+    {
+      "ch": "很大",
+      "en": "big",
+      "pi": "hěn dà"
+    },
+    {
+      "ch": "的",
+      "en": "particle indicating possessive",
+      "pi": "de"
+    },
+    {
+      "ch": "火灾",
+      "en": "fire",
+      "pi": "huǒ zāi"
+    }
+  ]
+}

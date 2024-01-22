@@ -1,0 +1,16 @@
+{
+  "chinese": "汤姆把他的夹克挂在大厅衣柜里。",
+  "english": "Tom hung his jacket in the hallway closet.",
+  "pinyin": "Tāng mǔ bǎ tā de jiá kè guà zài dà tīng yī guì lǐ.",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ"},
+    {"ch": "把", "en": "hung", "pi": "bǎ"},
+    {"ch": "他的", "en": "his", "pi": "tā de"},
+    {"ch": "夹克", "en": "jacket", "pi": "jiá kè"},
+    {"ch": "挂", "en": "hang", "pi": "guà"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "大厅", "en": "hallway", "pi": "dà tīng"},
+    {"ch": "衣柜", "en": "closet", "pi": "yī guì"},
+    {"ch": "里", "en": "inside", "pi": "lǐ"}
+  ]
+}

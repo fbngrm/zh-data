@@ -1,0 +1,12 @@
+{
+  "chinese": "房子一间一间地着了火。",
+  "english": "The house is catching fire, one room at a time.",
+  "pinyin": "fáng zi yī jiān yī jiān de zhāo le huǒ。",
+  "words": [
+    {"ch": "房子", "en": "house", "pi": "fáng zi"},
+    {"ch": "一间", "en": "one room", "pi": "yī jiān"},
+    {"ch": "一间", "en": "one room", "pi": "yī jiān"},
+    {"ch": "地", "en": "indicates action", "pi": "de"},
+    {"ch": "着了火", "en": "is catching fire", "pi": "zhāo le huǒ"}
+  ]
+}

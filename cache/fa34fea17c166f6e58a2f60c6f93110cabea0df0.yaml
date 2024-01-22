@@ -1,0 +1,32 @@
+{
+  "chinese": "我想用信用卡支付。",
+  "english": "I want to pay with credit card.",
+  "pinyin": "wǒ xiǎng yòng xìn yòng kǎ zhī fù。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "用",
+      "en": "to use",
+      "pi": "yòng"
+    },
+    {
+      "ch": "信用卡",
+      "en": "credit card",
+      "pi": "xìn yòng kǎ"
+    },
+    {
+      "ch": "支付",
+      "en": "to pay",
+      "pi": "zhī fù"
+    }
+  ]
+}

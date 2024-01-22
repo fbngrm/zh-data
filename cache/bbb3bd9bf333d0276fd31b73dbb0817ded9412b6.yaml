@@ -1,0 +1,37 @@
+{
+  "chinese": "他是我部门的主管。",
+  "english": "He is the manager of my department.",
+  "pinyin": "tā shì wǒ bù mén de zhǔ guǎn。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我",
+      "en": "my",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "部门",
+      "en": "department",
+      "pi": "bù mén"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "主管",
+      "en": "manager",
+      "pi": "zhǔ guǎn"
+    }
+  ]
+}

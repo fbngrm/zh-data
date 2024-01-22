@@ -1,0 +1,27 @@
+{
+  "chinese": "已经过了五点钟。",
+  "english": "It's already past five o'clock.",
+  "pinyin": "yǐ jīng guò le wǔ diǎn zhōng。",
+  "words": [
+    {
+      "ch": "已经",
+      "en": "already",
+      "pi": "yǐ jīng"
+    },
+    {
+      "ch": "过了",
+      "en": "past",
+      "pi": "guò le"
+    },
+    {
+      "ch": "五",
+      "en": "five",
+      "pi": "wǔ"
+    },
+    {
+      "ch": "点钟",
+      "en": "o'clock",
+      "pi": "diǎn zhōng"
+    }
+  ]
+}

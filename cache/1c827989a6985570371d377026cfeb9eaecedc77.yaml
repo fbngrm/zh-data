@@ -1,0 +1,15 @@
+{
+  "chinese": "一架飞机在这个城市上空飞行。",
+  "english": "An airplane is flying over this city.",
+  "pinyin": "Yī jià fēijī zài zhège chéngshì shàngkōng fēixíng.",
+  "words": [
+    {"ch": "一", "en": "One", "pi": "yī"},
+    {"ch": "架", "en": "airplane", "pi": "jià"},
+    {"ch": "飞机", "en": "airplane", "pi": "fēijī"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "这个", "en": "this", "pi": "zhège"},
+    {"ch": "城市", "en": "city", "pi": "chéngshì"},
+    {"ch": "上空", "en": "over", "pi": "shàngkōng"},
+    {"ch": "飞行", "en": "fly", "pi": "fēixíng"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我们今天有很多饭。",
+  "english": "We have a lot of food today.",
+  "pinyin": "wǒmen jīntiān yǒu hěn duō fàn.",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "We",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "很多",
+      "en": "a lot of",
+      "pi": "hěn duō"
+    },
+    {
+      "ch": "饭",
+      "en": "food",
+      "pi": "fàn"
+    }
+  ]
+}

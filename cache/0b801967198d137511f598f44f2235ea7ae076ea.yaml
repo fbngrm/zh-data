@@ -1,0 +1,32 @@
+{
+  "chinese": "你曾经去过法国吗？",
+  "english": "Have you ever been to France?",
+  "pinyin": "nǐ céngjīng qùguò fǎguó ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "曾经",
+      "en": "ever",
+      "pi": "céngjīng"
+    },
+    {
+      "ch": "去过",
+      "en": "been to",
+      "pi": "qùguò"
+    },
+    {
+      "ch": "法国",
+      "en": "France",
+      "pi": "fǎguó"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

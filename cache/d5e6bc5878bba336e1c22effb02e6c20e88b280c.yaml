@@ -1,0 +1,37 @@
+{
+  "chinese": "他休了一周的假。",
+  "english": "He took a week off.",
+  "pinyin": "Tā xiū le yī zhōu de jiǎ.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "休",
+      "en": "to take a break",
+      "pi": "xiū"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "一周",
+      "en": "one week",
+      "pi": "yī zhōu"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "假",
+      "en": "vacation",
+      "pi": "jiǎ"
+    }
+  ]
+}

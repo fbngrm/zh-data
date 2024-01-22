@@ -1,0 +1,27 @@
+{
+  "chinese": "我的名字不是“你们”。",
+  "english": "My name is not \"you all\".",
+  "pinyin": "wǒ de míngzì bùshì “nǐmen”.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míngzì"
+    },
+    {
+      "ch": "不是",
+      "en": "is not",
+      "pi": "bùshì"
+    },
+    {
+      "ch": "“你们”",
+      "en": "\"you all\"",
+      "pi": "“nǐmen”"
+    }
+  ]
+}

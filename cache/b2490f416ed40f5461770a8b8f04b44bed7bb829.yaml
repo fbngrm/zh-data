@@ -1,0 +1,42 @@
+{
+  "chinese": "我每天做兩個小時的練習。",
+  "english": "I practice for two hours every day.",
+  "pinyin": "wǒ měi tiān zuò liǎng gè xiǎo shí de liàn xí.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měi tiān"
+    },
+    {
+      "ch": "做",
+      "en": "do",
+      "pi": "zuò"
+    },
+    {
+      "ch": "兩個",
+      "en": "two",
+      "pi": "liǎng gè"
+    },
+    {
+      "ch": "小時",
+      "en": "hours",
+      "pi": "xiǎo shí"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "練習",
+      "en": "practice",
+      "pi": "liàn xí"
+    }
+  ]
+}

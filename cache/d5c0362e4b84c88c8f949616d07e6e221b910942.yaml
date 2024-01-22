@@ -1,0 +1,14 @@
+{
+  "chinese": "你会唱这首歌吗？",
+  "english": "Can you sing this song?",
+  "pinyin": "nǐ huì chàng zhè shǒu gē ma?",
+  "words": [
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "会", "en": "can", "pi": "huì" },
+    { "ch": "唱", "en": "sing", "pi": "chàng" },
+    { "ch": "这", "en": "this", "pi": "zhè" },
+    { "ch": "首", "en": "song", "pi": "shǒu" },
+    { "ch": "歌", "en": "song", "pi": "gē" },
+    { "ch": "吗", "en": "question particle", "pi": "ma" }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆的护照过期了。",
+  "english": "Tom's passport has expired.",
+  "pinyin": "Tāng mǔ de hùzhào guòqīle.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "护照",
+      "en": "passport",
+      "pi": "hùzhào"
+    },
+    {
+      "ch": "过期",
+      "en": "expired",
+      "pi": "guòqī"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    }
+  ]
+}

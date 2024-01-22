@@ -1,0 +1,32 @@
+{
+  "chinese": "现在是七点半。",
+  "english": "It is half past seven now.",
+  "pinyin": "xiàn zài shì qī diǎn bàn.",
+  "words": [
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "七",
+      "en": "seven",
+      "pi": "qī"
+    },
+    {
+      "ch": "点",
+      "en": "o'clock",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "半",
+      "en": "half",
+      "pi": "bàn"
+    }
+  ]
+}

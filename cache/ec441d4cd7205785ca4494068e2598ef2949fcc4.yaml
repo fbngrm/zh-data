@@ -1,0 +1,27 @@
+{
+  "chinese": "气象学家说会有暴风雨。",
+  "english": "Meteorologists say there will be a storm.",
+  "pinyin": "qì xiàng xué jiā shuō huì yǒu bào fēng yǔ。",
+  "words": [
+    {
+      "ch": "气象学家",
+      "en": "meteorologist",
+      "pi": "qì xiàng xué jiā"
+    },
+    {
+      "ch": "说",
+      "en": "say",
+      "pi": "shuō"
+    },
+    {
+      "ch": "会有",
+      "en": "will have",
+      "pi": "huì yǒu"
+    },
+    {
+      "ch": "暴风雨",
+      "en": "storm",
+      "pi": "bào fēng yǔ"
+    }
+  ]
+}

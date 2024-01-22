@@ -1,0 +1,27 @@
+{
+  "chinese": "上个月我感冒了。",
+  "english": "I caught a cold last month.",
+  "pinyin": "Shàng gè yuè wǒ gǎnmào le.",
+  "words": [
+    {
+      "ch": "上个月",
+      "en": "last month",
+      "pi": "shàng gè yuè"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "感冒",
+      "en": "catch a cold",
+      "pi": "gǎnmào"
+    },
+    {
+      "ch": "了",
+      "en": "completed action particle",
+      "pi": "le"
+    }
+  ]
+}

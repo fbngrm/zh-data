@@ -1,0 +1,32 @@
+{
+  "chinese": "我家离这儿很远。",
+  "english": "My home is far from here.",
+  "pinyin": "wǒ jiā lí zhèr hěn yuǎn.",
+  "words": [
+    {
+      "ch": "我家",
+      "en": "my home",
+      "pi": "wǒ jiā"
+    },
+    {
+      "ch": "离",
+      "en": "is far from",
+      "pi": "lí"
+    },
+    {
+      "ch": "这儿",
+      "en": "here",
+      "pi": "zhèr"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "远",
+      "en": "far",
+      "pi": "yuǎn"
+    }
+  ]
+}

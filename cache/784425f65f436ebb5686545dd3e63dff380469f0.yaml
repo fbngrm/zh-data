@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "chinese": "光陰飛逝如箭",
+      "english": "Time flies like an arrow",
+      "pinyin": "guāng yīn fēi shì rú jiàn",
+      "words": [
+        {
+          "ch": "光陰",
+          "en": "Time",
+          "pi": "guāng yīn"
+        },
+        {
+          "ch": "飛逝",
+          "en": "flies",
+          "pi": "fēi shì"
+        },
+        {
+          "ch": "如",
+          "en": "like",
+          "pi": "rú"
+        },
+        {
+          "ch": "箭",
+          "en": "an arrow",
+          "pi": "jiàn"
+        }
+      ]
+    },
+    {
+      "chinese": "果蠅喜歡香蕉",
+      "english": "The fly likes bananas",
+      "pinyin": "guǒ yíng xǐ huān xiāng jiāo",
+      "words": [
+        {
+          "ch": "果蠅",
+          "en": "The fly",
+          "pi": "guǒ yíng"
+        },
+        {
+          "ch": "喜歡",
+          "en": "likes",
+          "pi": "xǐ huān"
+        },
+        {
+          "ch": "香蕉",
+          "en": "bananas",
+          "pi": "xiāng jiāo"
+        }
+      ]
+    }
+  ]
+}

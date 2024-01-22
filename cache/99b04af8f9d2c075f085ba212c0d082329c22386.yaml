@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆上了什么学校？",
+  "english": "Which school did Tom go to?",
+  "pinyin": "Tāng mǔ shàng le shénme xuéxiào?",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "上了",
+      "en": "go to",
+      "pi": "shàng le"
+    },
+    {
+      "ch": "什么",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "学校",
+      "en": "school",
+      "pi": "xuéxiào"
+    }
+  ]
+}

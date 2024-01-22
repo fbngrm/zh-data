@@ -1,0 +1,47 @@
+{
+  "chinese": "剛才和你說話的人是誰？",
+  "english": "Who was the person who just spoke to you?",
+  "pinyin": "gāng cái hé nǐ shuō huà de rén shì shéi?",
+  "words": [
+    {
+      "ch": "剛才",
+      "en": "just now",
+      "pi": "gāng cái"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "說話",
+      "en": "speak",
+      "pi": "shuō huà"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "人",
+      "en": "person",
+      "pi": "rén"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "誰",
+      "en": "who",
+      "pi": "shéi"
+    }
+  ]
+}

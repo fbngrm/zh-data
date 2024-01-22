@@ -1,0 +1,17 @@
+{
+  "chinese": "当我看到这张图片的时候总是哭。",
+  "english": "I always cry when I see this picture.",
+  "pinyin": "Dāng wǒ kàndào zhè zhāng túpiàn de shíhòu zǒng shì kū.",
+  "words": [
+    {"ch": "当", "en": "when", "pi": "dāng"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "看到", "en": "see", "pi": "kàndào"},
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "张", "en": "picture", "pi": "zhāng"},
+    {"ch": "图片", "en": "picture", "pi": "túpiàn"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "时候", "en": "time", "pi": "shíhòu"},
+    {"ch": "总是", "en": "always", "pi": "zǒng shì"},
+    {"ch": "哭", "en": "cry", "pi": "kū"}
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "他是我的一位老朋友。",
+  "english": "He is an old friend of mine.",
+  "pinyin": "tā shì wǒ de yī wèi lǎo péngyǒu。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "一位",
+      "en": "a",
+      "pi": "yī wèi"
+    },
+    {
+      "ch": "老",
+      "en": "old",
+      "pi": "lǎo"
+    },
+    {
+      "ch": "朋友",
+      "en": "friend",
+      "pi": "péngyǒu"
+    }
+  ]
+}

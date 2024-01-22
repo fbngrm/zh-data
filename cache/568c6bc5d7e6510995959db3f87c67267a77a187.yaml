@@ -1,0 +1,14 @@
+{
+  "chinese": "汤姆给玛丽带了些花。",
+  "english": "Tom brought some flowers to Mary.",
+  "pinyin": "Tāng mǔ gěi mǎ lì dài le xiē huā.",
+  "words": [
+    {"ch": "汤姆", "en": "Tom", "pi": "Tāng mǔ"},
+    {"ch": "给", "en": "gave", "pi": "gěi"},
+    {"ch": "玛丽", "en": "Mary", "pi": "mǎ lì"},
+    {"ch": "带", "en": "brought", "pi": "dài"},
+    {"ch": "了", "en": "some", "pi": "le"},
+    {"ch": "些", "en": "flowers", "pi": "xiē"},
+    {"ch": "花", "en": "to", "pi": "huā"}
+  ]
+}

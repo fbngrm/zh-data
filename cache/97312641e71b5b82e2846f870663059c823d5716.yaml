@@ -1,0 +1,27 @@
+{
+  "chinese": "这个男孩子在跑步。",
+  "english": "This boy is running.",
+  "pinyin": "zhè gè nán hái zǐ zài pǎo bù.",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "男孩子",
+      "en": "boy",
+      "pi": "nán hái zǐ"
+    },
+    {
+      "ch": "在",
+      "en": "is",
+      "pi": "zài"
+    },
+    {
+      "ch": "跑步",
+      "en": "running",
+      "pi": "pǎo bù"
+    }
+  ]
+}

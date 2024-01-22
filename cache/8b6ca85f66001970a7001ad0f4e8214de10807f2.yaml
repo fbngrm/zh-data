@@ -1,0 +1,13 @@
+{
+  "chinese": "请问这条街的街名叫什么？",
+  "english": "Excuse me, what is the name of this street?",
+  "pinyin": "qǐng wèn zhè tiáo jiē de jiē míng jiào shén me?",
+  "words": [
+    {"ch": "请问", "en": "Excuse me", "pi": "qǐng wèn"},
+    {"ch": "这条街", "en": "this street", "pi": "zhè tiáo jiē"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "街名", "en": "name of the street", "pi": "jiē míng"},
+    {"ch": "叫", "en": "is called", "pi": "jiào"},
+    {"ch": "什么", "en": "what", "pi": "shén me"}
+  ]
+}

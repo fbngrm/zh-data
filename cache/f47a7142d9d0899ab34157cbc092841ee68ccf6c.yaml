@@ -1,0 +1,42 @@
+{
+  "chinese": "他是一位着名的棒球选手。",
+  "english": "He is a famous baseball player.",
+  "pinyin": "tā shì yī wèi zháo míng de bàng qiú xuǎn shǒu。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "一位",
+      "en": "a",
+      "pi": "yī wèi"
+    },
+    {
+      "ch": "着名",
+      "en": "famous",
+      "pi": "zháo míng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "棒球",
+      "en": "baseball",
+      "pi": "bàng qiú"
+    },
+    {
+      "ch": "选手",
+      "en": "player",
+      "pi": "xuǎn shǒu"
+    }
+  ]
+}

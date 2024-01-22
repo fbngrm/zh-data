@@ -1,0 +1,37 @@
+{
+  "chinese": "我更喜欢茶喝咖啡。",
+  "english": "I prefer tea to coffee.",
+  "pinyin": "wǒ gèng xǐhuān chá hē kāfēi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "更",
+      "en": "prefer",
+      "pi": "gèng"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "茶",
+      "en": "tea",
+      "pi": "chá"
+    },
+    {
+      "ch": "喝",
+      "en": "to",
+      "pi": "hē"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kāfēi"
+    }
+  ]
+}

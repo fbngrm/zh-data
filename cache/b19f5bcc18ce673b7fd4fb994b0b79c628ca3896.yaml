@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆可能是素食者。",
+  "english": "Tom may be a vegetarian.",
+  "pinyin": "Tāng mǔ kěnéng shì sùshí zhě.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "可能",
+      "en": "may",
+      "pi": "kěnéng"
+    },
+    {
+      "ch": "是",
+      "en": "be",
+      "pi": "shì"
+    },
+    {
+      "ch": "素食者",
+      "en": "a vegetarian",
+      "pi": "sùshí zhě"
+    }
+  ]
+}

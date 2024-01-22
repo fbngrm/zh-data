@@ -1,0 +1,48 @@
+{
+  "sentences": [
+    {
+      "chinese": "来杯茶怎样?",
+      "english": "How about a cup of tea?",
+      "pinyin": "lái bēi chá zěnyàng?",
+      "words": [
+        {
+          "ch": "来",
+          "en": "come",
+          "pi": "lái"
+        },
+        {
+          "ch": "杯",
+          "en": "cup",
+          "pi": "bēi"
+        },
+        {
+          "ch": "茶",
+          "en": "tea",
+          "pi": "chá"
+        },
+        {
+          "ch": "怎样",
+          "en": "how about",
+          "pi": "zěnyàng"
+        }
+      ]
+    },
+    {
+      "chinese": "\"嗯，好的。",
+      "english": "Hmm, okay.",
+      "pinyin": "\"ēn, hǎo de.",
+      "words": [
+        {
+          "ch": "嗯",
+          "en": "hmm",
+          "pi": "ēn"
+        },
+        {
+          "ch": "好的",
+          "en": "okay",
+          "pi": "hǎo de"
+        }
+      ]
+    }
+  ]
+}

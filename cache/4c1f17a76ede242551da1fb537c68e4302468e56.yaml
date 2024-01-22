@@ -1,0 +1,32 @@
+{
+  "chinese": "我昨晚睡得晚。",
+  "english": "I slept late last night.",
+  "pinyin": "wǒ zuó wǎn shuì de wǎn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "昨晚",
+      "en": "last night",
+      "pi": "zuó wǎn"
+    },
+    {
+      "ch": "睡",
+      "en": "to sleep",
+      "pi": "shuì"
+    },
+    {
+      "ch": "得",
+      "en": "to",
+      "pi": "de"
+    },
+    {
+      "ch": "晚",
+      "en": "late",
+      "pi": "wǎn"
+    }
+  ]
+}

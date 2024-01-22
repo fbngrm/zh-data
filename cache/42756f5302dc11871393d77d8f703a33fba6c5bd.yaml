@@ -1,0 +1,42 @@
+{
+  "chinese": "你知道他们在说甚么吗？",
+  "english": "Do you know what they are saying?",
+  "pinyin": "nǐ zhī dào tā men zài shuō shén me ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhī dào"
+    },
+    {
+      "ch": "他们",
+      "en": "they",
+      "pi": "tā men"
+    },
+    {
+      "ch": "在",
+      "en": "are",
+      "pi": "zài"
+    },
+    {
+      "ch": "说",
+      "en": "saying",
+      "pi": "shuō"
+    },
+    {
+      "ch": "甚么",
+      "en": "what",
+      "pi": "shén me"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

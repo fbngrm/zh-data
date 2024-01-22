@@ -1,0 +1,26 @@
+{
+  "chinese": "约翰只上了一天的学，就和班上的同学都成了朋友。",
+  "english": "John only went to school for one day, and he became friends with all his classmates.",
+  "pinyin": "Yuē hàn zhǐ shàngle yītiān de xué, jiù hé bān shàng de tóngxué dōu chéngle péngyǒu.",
+  "words": [
+    { "ch": "约翰", "en": "John", "pi": "yuē hàn" },
+    { "ch": "只", "en": "only", "pi": "zhǐ" },
+    { "ch": "上", "en": "went", "pi": "shàng" },
+    { "ch": "了", "en": "for", "pi": "le" },
+    { "ch": "一", "en": "one", "pi": "yī" },
+    { "ch": "天", "en": "day", "pi": "tiān" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "学", "en": "school", "pi": "xué" },
+    { "ch": "就", "en": "and", "pi": "jiù" },
+    { "ch": "和", "en": "he", "pi": "hé" },
+    { "ch": "班", "en": "became", "pi": "bān" },
+    { "ch": "上", "en": "friends", "pi": "shàng" },
+    { "ch": "的", "en": "with", "pi": "de" },
+    { "ch": "同", "en": "all", "pi": "tóng" },
+    { "ch": "学", "en": "classmates", "pi": "xué" },
+    { "ch": "都", "en": "friends", "pi": "dōu" },
+    { "ch": "成", "en": "with", "pi": "chéng" },
+    { "ch": "了", "en": "all", "pi": "le" },
+    { "ch": "朋友", "en": "friends", "pi": "péngyǒu" }
+  ]
+}

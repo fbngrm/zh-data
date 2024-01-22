@@ -1,0 +1,47 @@
+{
+  "chinese": "你要这些书中的任何一本吗？",
+  "english": "Do you want any of these books?",
+  "pinyin": "nǐ yào zhè xiē shū zhōng de rèn hé yī běn ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "这些",
+      "en": "these",
+      "pi": "zhè xiē"
+    },
+    {
+      "ch": "书",
+      "en": "books",
+      "pi": "shū"
+    },
+    {
+      "ch": "中",
+      "en": "of",
+      "pi": "zhōng"
+    },
+    {
+      "ch": "的",
+      "en": "any",
+      "pi": "de"
+    },
+    {
+      "ch": "任何一本",
+      "en": "any one",
+      "pi": "rèn hé yī běn"
+    },
+    {
+      "ch": "吗",
+      "en": "do?",
+      "pi": "ma?"
+    }
+  ]
+}

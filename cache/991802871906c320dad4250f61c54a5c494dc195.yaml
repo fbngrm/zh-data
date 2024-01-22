@@ -1,0 +1,47 @@
+{
+  "chinese": "老师把学生狠狠地骂了一顿。",
+  "english": "The teacher scolded the student harshly.",
+  "pinyin": "lǎo shī bǎ xué shēng hěn hěn de mà le yī dùn.",
+  "words": [
+    {
+      "ch": "老师",
+      "en": "teacher",
+      "pi": "lǎo shī"
+    },
+    {
+      "ch": "把",
+      "en": "take",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "学生",
+      "en": "student",
+      "pi": "xué shēng"
+    },
+    {
+      "ch": "狠狠",
+      "en": "harshly",
+      "pi": "hěn hěn"
+    },
+    {
+      "ch": "地",
+      "en": "adverbial particle",
+      "pi": "de"
+    },
+    {
+      "ch": "骂",
+      "en": "scold",
+      "pi": "mà"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "一顿",
+      "en": "a meal (figuratively used here to mean scolding)",
+      "pi": "yī dùn"
+    }
+  ]
+}

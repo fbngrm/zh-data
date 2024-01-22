@@ -1,0 +1,27 @@
+{
+  "chinese": "我今天去理发。",
+  "english": "I am going to get a haircut today.",
+  "pinyin": "wǒ jīntiān qù lǐfǎ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "理发",
+      "en": "get a haircut",
+      "pi": "lǐfǎ"
+    }
+  ]
+}

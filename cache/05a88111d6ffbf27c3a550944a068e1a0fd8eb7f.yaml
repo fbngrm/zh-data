@@ -1,0 +1,11 @@
+{
+  "chinese": "你们吃肉吗？",
+  "english": "Do you eat meat?",
+  "pinyin": "nǐ men chī ròu ma?",
+  "words": [
+    {"ch": "你们", "en": "you", "pi": "nǐ men"},
+    {"ch": "吃", "en": "eat", "pi": "chī"},
+    {"ch": "肉", "en": "meat", "pi": "ròu"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

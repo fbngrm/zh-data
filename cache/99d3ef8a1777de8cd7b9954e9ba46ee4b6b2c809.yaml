@@ -1,0 +1,14 @@
+{
+  "chinese": "这张桌子太占空间了。",
+  "english": "This table takes up too much space.",
+  "pinyin": "zhè zhāng zhuō zi tài zhàn kōng jiān le.",
+  "words": [
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "张", "en": "table", "pi": "zhāng"},
+    {"ch": "桌子", "en": "takes up", "pi": "zhuō zi"},
+    {"ch": "太", "en": "too", "pi": "tài"},
+    {"ch": "占", "en": "much", "pi": "zhàn"},
+    {"ch": "空间", "en": "space", "pi": "kōng jiān"},
+    {"ch": "了", "en": "end of action", "pi": "le"}
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chinese": "她在睡眠中安详地去世了。",
+  "english": "She passed away peacefully in her sleep.",
+  "pinyin": "tā zài shuìmián zhōng ānxiáng de qùshì le。",
+  "words": [
+    {"ch": "她", "en": "she", "pi": "tā"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "睡眠", "en": "sleep", "pi": "shuìmián"},
+    {"ch": "中", "en": "in", "pi": "zhōng"},
+    {"ch": "安详", "en": "peacefully", "pi": "ānxiáng"},
+    {"ch": "地", "en": "", "pi": "de"},
+    {"ch": "去世", "en": "pass away", "pi": "qùshì"},
+    {"ch": "了", "en": "", "pi": "le"}
+  ]
+}

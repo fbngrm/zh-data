@@ -1,0 +1,32 @@
+{
+  "chinese": "我最近没看到汤姆。",
+  "english": "I haven't seen Tom recently.",
+  "pinyin": "wǒ zuìjìn méi kàn dào tāng mǔ。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "最近",
+      "en": "recently",
+      "pi": "zuìjìn"
+    },
+    {
+      "ch": "没",
+      "en": "haven't",
+      "pi": "méi"
+    },
+    {
+      "ch": "看到",
+      "en": "seen",
+      "pi": "kàn dào"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    }
+  ]
+}

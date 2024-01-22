@@ -1,0 +1,32 @@
+{
+  "chinese": "我们能赶上火车吗？",
+  "english": "Can we catch the train?",
+  "pinyin": "wǒmen néng gǎn shàng huǒchē ma?",
+  "words": [
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "赶上",
+      "en": "catch",
+      "pi": "gǎn shàng"
+    },
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒchē"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

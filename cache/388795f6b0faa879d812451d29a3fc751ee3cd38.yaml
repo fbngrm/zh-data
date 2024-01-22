@@ -1,0 +1,32 @@
+{
+  "chinese": "你今天早上非常早。",
+  "english": "You are very early this morning.",
+  "pinyin": "nǐ jīn tiān zǎo shang fēi cháng zǎo。",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎo shang"
+    },
+    {
+      "ch": "非常",
+      "en": "very",
+      "pi": "fēi cháng"
+    },
+    {
+      "ch": "早",
+      "en": "early",
+      "pi": "zǎo"
+    }
+  ]
+}

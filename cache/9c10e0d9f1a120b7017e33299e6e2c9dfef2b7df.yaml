@@ -1,0 +1,12 @@
+{
+  "chinese": "警察盘问你了吗？",
+  "english": "Did the police interrogate you?",
+  "pinyin": "jǐng chá pán wèn nǐ le ma?",
+  "words": [
+    {"ch": "警察", "en": "police", "pi": "jǐng chá"},
+    {"ch": "盘问", "en": "interrogate", "pi": "pán wèn"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "了", "en": "did", "pi": "le"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

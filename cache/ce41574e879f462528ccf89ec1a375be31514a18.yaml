@@ -1,0 +1,37 @@
+{
+  "chinese": "盒子里的一些苹果烂了。",
+  "english": "Some of the apples in the box are rotten.",
+  "pinyin": "Hézi lǐ de yīxiē píngguǒ lànle.",
+  "words": [
+    {
+      "ch": "盒子",
+      "en": "box",
+      "pi": "Hézi"
+    },
+    {
+      "ch": "里",
+      "en": "inside",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "一些",
+      "en": "some",
+      "pi": "yīxiē"
+    },
+    {
+      "ch": "苹果",
+      "en": "apples",
+      "pi": "píngguǒ"
+    },
+    {
+      "ch": "烂了",
+      "en": "rotten",
+      "pi": "lànle"
+    }
+  ]
+}

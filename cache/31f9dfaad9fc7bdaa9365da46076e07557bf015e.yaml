@@ -1,0 +1,42 @@
+{
+  "chinese": "因为一起事故，我上学迟到了。",
+  "english": "Because of an accident, I was late for school.",
+  "pinyin": "yīnwèi yīqǐ shìgù, wǒ shàngxué chídàole。",
+  "words": [
+    {
+      "ch": "因为",
+      "en": "because",
+      "pi": "yīnwèi"
+    },
+    {
+      "ch": "一起",
+      "en": "together",
+      "pi": "yīqǐ"
+    },
+    {
+      "ch": "事故",
+      "en": "accident",
+      "pi": "shìgù"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "上学",
+      "en": "go to school",
+      "pi": "shàngxué"
+    },
+    {
+      "ch": "迟到",
+      "en": "late",
+      "pi": "chídào"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating a completed action",
+      "pi": "le"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "我很想吃饺子。",
+  "english": "I really want to eat dumplings.",
+  "pinyin": "wǒ hěn xiǎng chī jiǎozi.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "很",
+      "en": "really",
+      "pi": "hěn"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "吃",
+      "en": "to eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "饺子",
+      "en": "dumplings",
+      "pi": "jiǎozi"
+    }
+  ]
+}

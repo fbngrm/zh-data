@@ -1,0 +1,83 @@
+{
+  "sentences": [
+    {
+      "chinese": "我们就开门见山吧！",
+      "english": "Let's get straight to the point!",
+      "pinyin": "wǒ men jiù kāi mén jiàn shān ba!",
+      "words": [
+        {
+          "ch": "我们",
+          "en": "we",
+          "pi": "wǒ men"
+        },
+        {
+          "ch": "就",
+          "en": "just",
+          "pi": "jiù"
+        },
+        {
+          "ch": "开门见山",
+          "en": "get straight to the point",
+          "pi": "kāi mén jiàn shān"
+        },
+        {
+          "ch": "吧",
+          "en": "let's",
+          "pi": "ba"
+        }
+      ]
+    },
+    {
+      "chinese": "我怀孕了，而你就是孩子他爸。",
+      "english": "I'm pregnant, and you are the father.",
+      "pinyin": "wǒ huái yùn le, ér nǐ jiù shì hái zi tā bà.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "怀孕",
+          "en": "pregnant",
+          "pi": "huái yùn"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        },
+        {
+          "ch": "而",
+          "en": "and",
+          "pi": "ér"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "就是",
+          "en": "are",
+          "pi": "jiù shì"
+        },
+        {
+          "ch": "孩子",
+          "en": "child",
+          "pi": "hái zi"
+        },
+        {
+          "ch": "他",
+          "en": "",
+          "pi": "tā"
+        },
+        {
+          "ch": "爸",
+          "en": "father",
+          "pi": "bà"
+        }
+      ]
+    }
+  ]
+}

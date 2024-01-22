@@ -1,0 +1,32 @@
+{
+  "chinese": "我是你的男朋友。",
+  "english": "I am your boyfriend.",
+  "pinyin": "wǒ shì nǐ de nán péngyǒu.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "是",
+      "en": "am",
+      "pi": "shì"
+    },
+    {
+      "ch": "你",
+      "en": "your",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "男朋友",
+      "en": "boyfriend",
+      "pi": "nán péngyǒu"
+    }
+  ]
+}

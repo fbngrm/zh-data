@@ -1,0 +1,37 @@
+{
+  "chinese": "她叫我们不要制造噪音。",
+  "english": "She told us not to make noise.",
+  "pinyin": "tā jiào wǒmen bùyào zhìzào zàoyīn.",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "叫",
+      "en": "told",
+      "pi": "jiào"
+    },
+    {
+      "ch": "我们",
+      "en": "us",
+      "pi": "wǒmen"
+    },
+    {
+      "ch": "不要",
+      "en": "not to",
+      "pi": "bùyào"
+    },
+    {
+      "ch": "制造",
+      "en": "make",
+      "pi": "zhìzào"
+    },
+    {
+      "ch": "噪音",
+      "en": "noise",
+      "pi" : "zàoyīn"
+    }
+  ]
+}

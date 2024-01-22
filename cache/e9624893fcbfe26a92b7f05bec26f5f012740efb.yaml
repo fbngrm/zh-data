@@ -1,0 +1,32 @@
+{
+  "chinese": "我知道谁喜欢汤姆。",
+  "english": "I know who likes Tom.",
+  "pinyin": "wǒ zhīdào shéi xǐhuān tāngmǔ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "谁",
+      "en": "who",
+      "pi": "shéi"
+    },
+    {
+      "ch": "喜欢",
+      "en": "likes",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāngmǔ"
+    }
+  ]
+}

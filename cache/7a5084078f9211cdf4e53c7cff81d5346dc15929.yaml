@@ -1,0 +1,14 @@
+{
+  "chinese": "汤姆现在跟他叔叔住在一起。",
+  "english": "Tom is now living with his uncle.",
+  "pinyin": "tāng mǔ xiàn zài gēn tā shū shu zhù zài yī qǐ。",
+  "words": [
+    { "ch": "汤姆", "en": "Tom", "pi": "tāng mǔ" },
+    { "ch": "现在", "en": "now", "pi": "xiàn zài" },
+    { "ch": "跟", "en": "with", "pi": "gēn" },
+    { "ch": "他", "en": "his", "pi": "tā" },
+    { "ch": "叔叔", "en": "uncle", "pi": "shū shu" },
+    { "ch": "住在", "en": "living", "pi": "zhù zài" },
+    { "ch": "一起", "en": "together", "pi": "yī qǐ" }
+  ]
+}

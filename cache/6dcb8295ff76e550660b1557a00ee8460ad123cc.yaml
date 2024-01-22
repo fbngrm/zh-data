@@ -1,0 +1,14 @@
+{
+  "chinese": "请让我知道你要什么。",
+  "english": "Please let me know what you want.",
+  "pinyin": "qǐng ràng wǒ zhīdào nǐ yào shénme。",
+  "words": [
+    {"ch": "请", "en": "Please", "pi": "qǐng"},
+    {"ch": "让", "en": "let", "pi": "ràng"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "知道", "en": "know", "pi": "zhīdào"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "要", "en": "want", "pi": "yào"},
+    {"ch": "什么", "en": "what", "pi": "shénme"}
+  ]
+}

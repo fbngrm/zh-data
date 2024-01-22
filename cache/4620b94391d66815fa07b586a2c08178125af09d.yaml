@@ -1,0 +1,42 @@
+{
+  "chinese": "他们昨天乘巴士去了动物园。",
+  "english": "They took a bus to the zoo yesterday.",
+  "pinyin": "Tāmen zuótiān chéng bāshì qùle dòngwùyuán.",
+  "words": [
+    {
+      "ch": "他们",
+      "en": "They",
+      "pi": "Tāmen"
+    },
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "乘",
+      "en": "took",
+      "pi": "chéng"
+    },
+    {
+      "ch": "巴士",
+      "en": "a bus",
+      "pi": "bāshì"
+    },
+    {
+      "ch": "去",
+      "en": "to",
+      "pi": "qù"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "动物园",
+      "en": "the zoo",
+      "pi": "dòngwùyuán"
+    }
+  ]
+}

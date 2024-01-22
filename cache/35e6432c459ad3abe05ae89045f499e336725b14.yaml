@@ -1,0 +1,37 @@
+{
+  "chinese": "这是总理住的房子。",
+  "english": "This is the house where the Prime Minister lives.",
+  "pinyin": "zhè shì zǒng lǐ zhù de fáng zi.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "总理",
+      "en": "Prime Minister",
+      "pi": "zǒng lǐ"
+    },
+    {
+      "ch": "住",
+      "en": "live",
+      "pi": "zhù"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "房子",
+      "en": "house",
+      "pi": "fáng zi"
+    }
+  ]
+}

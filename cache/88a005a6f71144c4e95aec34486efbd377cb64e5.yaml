@@ -1,0 +1,37 @@
+{
+  "chinese": "水和油都是液体。",
+  "english": "Water and oil are both liquids.",
+  "pinyin": "shuǐ hé yóu dōu shì yè tǐ。",
+  "words": [
+    {
+      "ch": "水",
+      "en": "water",
+      "pi": "shuǐ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "油",
+      "en": "oil",
+      "pi": "yóu"
+    },
+    {
+      "ch": "都",
+      "en": "both",
+      "pi": "dōu"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "液体",
+      "en": "liquids",
+      "pi": "yè tǐ"
+    }
+  ]
+}

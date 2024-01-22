@@ -1,0 +1,30 @@
+{
+  "sentences": [
+    {
+      "chinese": "我从来没看见过你做饭。",
+      "english": "I have never seen you cook.",
+      "pinyin": "wǒ cóng lái méi kàn jiàn guò nǐ zuò fàn.",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "从来", "en": "never", "pi": "cóng lái"},
+        {"ch": "没", "en": "have not", "pi": "méi"},
+        {"ch": "看见过", "en": "seen", "pi": "kàn jiàn guò"},
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "做饭", "en": "cook", "pi": "zuò fàn"}
+      ]
+    },
+    {
+      "chinese": "有你会做的东西吗？",
+      "english": "Is there anything you can cook?",
+      "pinyin": "yǒu nǐ huì zuò de dōng xī ma?",
+      "words": [
+        {"ch": "有", "en": "have", "pi": "yǒu"},
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "会做", "en": "can cook", "pi": "huì zuò"},
+        {"ch": "的", "en": "anything", "pi": "de"},
+        {"ch": "东西", "en": "thing", "pi": "dōng xī"},
+        {"ch": "吗", "en": "?", "pi": "ma"}
+      ]
+    }
+  ]
+}

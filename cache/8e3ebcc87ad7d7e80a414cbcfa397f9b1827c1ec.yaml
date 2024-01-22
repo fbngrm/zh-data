@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆找到了新工作。",
+  "english": "Tom found a new job.",
+  "pinyin": "tāng mǔ zhǎo dào le xīn gōng zuò。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "找到了",
+      "en": "found",
+      "pi": "zhǎo dào le"
+    },
+    {
+      "ch": "新",
+      "en": "new",
+      "pi": "xīn"
+    },
+    {
+      "ch": "工作",
+      "en": "job",
+      "pi": "gōng zuò"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "她弹吉他，他唱歌。",
+  "english": "She plays the guitar, he sings.",
+  "pinyin": "tā tán jí tā, tā chàng gē。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "She",
+      "pi": "tā"
+    },
+    {
+      "ch": "弹",
+      "en": "plays",
+      "pi": "tán"
+    },
+    {
+      "ch": "吉他",
+      "en": "guitar",
+      "pi": "jí tā"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": ","
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "唱歌",
+      "en": "sings",
+      "pi": "chàng gē"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": "."
+    }
+  ]
+}

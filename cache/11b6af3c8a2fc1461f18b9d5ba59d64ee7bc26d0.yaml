@@ -1,0 +1,27 @@
+{
+  "chinese": "汤姆说玛丽饿了。",
+  "english": "Tom said Mary is hungry.",
+  "pinyin": "Tāng mǔ shuō mǎ lì è le.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "说",
+      "en": "said",
+      "pi": "shuō"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "饿了",
+      "en": "is hungry",
+      "pi": "è le"
+    }
+  ]
+}

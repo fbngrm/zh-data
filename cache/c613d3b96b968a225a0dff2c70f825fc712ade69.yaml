@@ -1,0 +1,32 @@
+{
+  "chinese": "我认为汤姆会高兴。",
+  "english": "I think Tom will be happy.",
+  "pinyin": "wǒ rèn wéi tāng mǔ huì gāo xìng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "认为",
+      "en": "think",
+      "pi": "rèn wéi"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "高兴",
+      "en": "happy",
+      "pi": "gāo xìng"
+    }
+  ]
+}

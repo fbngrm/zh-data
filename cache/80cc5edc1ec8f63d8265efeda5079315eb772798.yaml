@@ -1,0 +1,32 @@
+{
+  "chinese": "这么大的够用吗？",
+  "english": "Is this big enough?",
+  "pinyin": "zhè me dà de gòu yòng ma?",
+  "words": [
+    {
+      "ch": "这么",
+      "en": "this",
+      "pi": "zhè me"
+    },
+    {
+      "ch": "大",
+      "en": "big",
+      "pi": "dà"
+    },
+    {
+      "ch": "的",
+      "en": "enough",
+      "pi": "de"
+    },
+    {
+      "ch": "够用",
+      "en": "useful",
+      "pi": "gòu yòng"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

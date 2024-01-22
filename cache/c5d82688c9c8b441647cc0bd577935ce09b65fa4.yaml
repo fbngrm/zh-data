@@ -1,0 +1,32 @@
+{
+  "chinese": "那个节目现在正在播出。",
+  "english": "That program is currently being broadcast.",
+  "pinyin": "nà gè jié mù xiàn zài zhèng zài bō chū。",
+  "words": [
+    {
+      "ch": "那个",
+      "en": "that",
+      "pi": "nà gè"
+    },
+    {
+      "ch": "节目",
+      "en": "program",
+      "pi": "jié mù"
+    },
+    {
+      "ch": "现在",
+      "en": "currently",
+      "pi": "xiàn zài"
+    },
+    {
+      "ch": "正在",
+      "en": "being",
+      "pi": "zhèng zài"
+    },
+    {
+      "ch": "播出",
+      "en": "broadcast",
+      "pi": "bō chū"
+    }
+  ]
+}

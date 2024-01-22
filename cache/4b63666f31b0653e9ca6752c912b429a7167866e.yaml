@@ -1,0 +1,14 @@
+{
+  "chinese": "他们通常在这个房间里睡觉。",
+  "english": "They usually sleep in this room.",
+  "pinyin": "Tāmen tōngcháng zài zhège fángjiān lǐ shuìjiào.",
+  "words": [
+    {"ch": "他们", "en": "They", "pi": "Tāmen"},
+    {"ch": "通常", "en": "usually", "pi": "tōngcháng"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "这个", "en": "this", "pi": "zhège"},
+    {"ch": "房间", "en": "room", "pi": "fángjiān"},
+    {"ch": "里", "en": "in", "pi": "lǐ"},
+    {"ch": "睡觉", "en": "sleep", "pi": "shuìjiào"}
+  ]
+}

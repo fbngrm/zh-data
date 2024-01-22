@@ -1,0 +1,17 @@
+{
+  "chinese": "我们中国的各地方言才是真正的中国话。",
+  "english": "The various local dialects in China are the true Chinese language.",
+  "pinyin": "wǒmen zhōngguó de gè dìfāngyán cái shì zhēnzhèng de zhōngguóhuà。",
+  "words": [
+    {"ch": "我们", "en": "we", "pi": "wǒmen"},
+    {"ch": "中国", "en": "China", "pi": "zhōngguó"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "各", "en": "various", "pi": "gè"},
+    {"ch": "地方言", "en": "local dialects", "pi": "dìfāngyán"},
+    {"ch": "才", "en": "are", "pi": "cái"},
+    {"ch": "是", "en": "the", "pi": "shì"},
+    {"ch": "真正", "en": "true", "pi": "zhēnzhèng"},
+    {"ch": "的", "en": "Chinese", "pi": "de"},
+    {"ch": "中国话", "en": "language", "pi": "zhōngguóhuà"}
+  ]
+}

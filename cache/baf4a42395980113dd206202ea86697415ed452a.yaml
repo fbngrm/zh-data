@@ -1,0 +1,42 @@
+{
+  "chinese": "你有注意到什么可疑的地方吗？",
+  "english": "Have you noticed anything suspicious?",
+  "pinyin": "Nǐ yǒu zhùyì dào shénme kěyí de dìfāng ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "注意到",
+      "en": "noticed",
+      "pi": "zhùyì dào"
+    },
+    {
+      "ch": "什么",
+      "en": "anything",
+      "pi": "shénme"
+    },
+    {
+      "ch": "可疑的",
+      "en": "suspicious",
+      "pi": "kěyí de"
+    },
+    {
+      "ch": "地方",
+      "en": "place",
+      "pi": "dìfāng"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

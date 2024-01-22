@@ -1,0 +1,32 @@
+{
+  "chinese": "要坐231路公交车。",
+  "english": "I want to take bus route 231.",
+  "pinyin": "yào zuò 231 lù gōng jiāo chē。",
+  "words": [
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "坐",
+      "en": "take",
+      "pi": "zuò"
+    },
+    {
+      "ch": "231",
+      "en": "231",
+      "pi": "231"
+    },
+    {
+      "ch": "路",
+      "en": "route",
+      "pi": "lù"
+    },
+    {
+      "ch": "公交车",
+      "en": "bus",
+      "pi": "gōng jiāo chē"
+    }
+  ]
+}

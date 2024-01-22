@@ -1,0 +1,27 @@
+{
+  "chinese": "迈克游泳游得很好。",
+  "english": "Mike swims very well.",
+  "pinyin": "Mài kè yóuyǒng yóu de hěn hǎo.",
+  "words": [
+    {
+      "ch": "迈克",
+      "en": "Mike",
+      "pi": "Mài kè"
+    },
+    {
+      "ch": "游泳",
+      "en": "swim",
+      "pi": "yóu yǒng"
+    },
+    {
+      "ch": "游得",
+      "en": "swim",
+      "pi": "yóu dé"
+    },
+    {
+      "ch": "很好",
+      "en": "very well",
+      "pi": "hěn hǎo"
+    }
+  ]
+}

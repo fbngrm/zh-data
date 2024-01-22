@@ -1,0 +1,14 @@
+{
+  "chinese": "老师在礼堂把学生们集合起来。",
+  "english": "The teacher gathers the students in the auditorium.",
+  "pinyin": "lǎoshī zài lǐtáng bǎ xuéshēngmen jíhé qǐlái。",
+  "words": [
+    {"ch": "老师", "en": "teacher", "pi": "lǎoshī"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "礼堂", "en": "auditorium", "pi": "lǐtáng"},
+    {"ch": "把", "en": "gathers", "pi": "bǎ"},
+    {"ch": "学生们", "en": "students", "pi": "xuéshēngmen"},
+    {"ch": "集合", "en": "gather", "pi": "jíhé"},
+    {"ch": "起来", "en": "up", "pi": "qǐlái"}
+  ]
+}

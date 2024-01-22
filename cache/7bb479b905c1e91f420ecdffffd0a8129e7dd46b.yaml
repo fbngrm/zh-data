@@ -1,0 +1,37 @@
+{
+  "chinese": "我还没吃完晚饭。",
+  "english": "I haven't finished dinner yet.",
+  "pinyin": "wǒ hái méi chī wán wǎn fàn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "还",
+      "en": "haven't",
+      "pi": "hái"
+    },
+    {
+      "ch": "没",
+      "en": "finished",
+      "pi": "méi"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "完",
+      "en": "complete",
+      "pi": "wán"
+    },
+    {
+      "ch": "晚饭",
+      "en": "dinner",
+      "pi": "wǎn fàn"
+    }
+  ]
+}

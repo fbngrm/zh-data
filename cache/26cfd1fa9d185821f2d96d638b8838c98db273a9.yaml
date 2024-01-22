@@ -1,0 +1,12 @@
+{
+  "chinese": "村里有几头母牛？",
+  "english": "How many cows are there in the village?",
+  "pinyin": "Cūn lǐ yǒu jǐ tóu mǔ niú?",
+  "words": [
+    {"ch": "村里", "en": "in the village", "pi": "cūn lǐ"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "几", "en": "how many", "pi": "jǐ"},
+    {"ch": "头", "en": "measure word for animals", "pi": "tóu"},
+    {"ch": "母牛", "en": "cows", "pi": "mǔ niú"}
+  ]
+}

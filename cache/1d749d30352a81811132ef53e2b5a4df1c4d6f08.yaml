@@ -1,0 +1,42 @@
+{
+  "chinese": "你想再来杯酒吗？",
+  "english": "Would you like another drink?",
+  "pinyin": "nǐ xiǎng zài lái bēi jiǔ ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "再",
+      "en": "another",
+      "pi": "zài"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    },
+    {
+      "ch": "杯",
+      "en": "cup",
+      "pi": "bēi"
+    },
+    {
+      "ch": "酒",
+      "en": "alcohol",
+      "pi": "jiǔ"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

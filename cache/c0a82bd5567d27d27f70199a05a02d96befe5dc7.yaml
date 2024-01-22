@@ -1,0 +1,13 @@
+{
+  "chinese": "你在圣诞节去教堂吗？",
+  "english": "Do you go to church on Christmas?",
+  "pinyin": "nǐ zài shèng dàn jié qù jiào táng ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "在", "en": "at, in", "pi": "zài"},
+    {"ch": "圣诞节", "en": "Christmas", "pi": "shèng dàn jié"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "教堂", "en": "church", "pi": "jiào táng"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

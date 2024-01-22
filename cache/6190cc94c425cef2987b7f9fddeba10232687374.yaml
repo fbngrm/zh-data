@@ -1,0 +1,20 @@
+{
+  "chinese": "他的妻子在醫院裡因為她在一場車禍中受傷了。",
+  "english": "His wife got injured in a car accident and is in the hospital.",
+  "pinyin": "tā de qīzi zài yīyuàn lǐ yīnwèi tā zài yī chǎng chēhuò zhōng shòushāng le.",
+  "words": [
+    {"ch": "他的", "en": "his", "pi": "tā de"},
+    {"ch": "妻子", "en": "wife", "pi": "qīzi"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "醫院", "en": "hospital", "pi": "yīyuàn"},
+    {"ch": "裡", "en": "inside", "pi": "lǐ"},
+    {"ch": "因為", "en": "because", "pi": "yīnwèi"},
+    {"ch": "她", "en": "she", "pi": "tā"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "一場", "en": "a", "pi": "yī chǎng"},
+    {"ch": "車禍", "en": "car accident", "pi": "chēhuò"},
+    {"ch": "中", "en": "in", "pi": "zhōng"},
+    {"ch": "受傷", "en": "get injured", "pi": "shòushāng"},
+    {"ch": "了", "en": "", "pi": "le"}
+  ]
+}

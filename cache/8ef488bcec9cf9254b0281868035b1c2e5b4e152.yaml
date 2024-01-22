@@ -1,0 +1,20 @@
+{
+  "chinese": "为了赶上那趟火车，我特意起了个大早。",
+  "english": "In order to catch that train, I got up early.",
+  "pinyin": "wèi le gǎn shàng nà tàng huǒ chē ，wǒ tè yì qǐ le gè dà zǎo。",
+  "words": [
+    {"ch": "为了", "en": "in order to", "pi": "wèi le"},
+    {"ch": "赶上", "en": "catch", "pi": "gǎn shàng"},
+    {"ch": "那", "en": "that", "pi": "nà"},
+    {"ch": "趟", "en": "measure word for trips", "pi": "tàng"},
+    {"ch": "火车", "en": "train", "pi": "huǒ chē"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "特意", "en": "specially", "pi": "tè yì"},
+    {"ch": "起了", "en": "got up", "pi": "qǐ le"},
+    {"ch": "个", "en": "a", "pi": "gè"},
+    {"ch": "大", "en": "big", "pi": "dà"},
+    {"ch": "早", "en": "early", "pi": "zǎo"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

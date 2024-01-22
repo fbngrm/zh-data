@@ -1,0 +1,36 @@
+{
+  "sentences": [
+    {
+      "chinese": "我想你。",
+      "english": "I miss you.",
+      "pinyin": "wǒ xiǎng nǐ。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "想", "en": "miss", "pi": "xiǎng"},
+        {"ch": "你", "en": "you", "pi": "nǐ"}
+      ]
+    },
+    {
+      "chinese": "我需要见你。",
+      "english": "I need to see you.",
+      "pinyin": "wǒ xū yào jiàn nǐ。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "需要", "en": "need", "pi": "xū yào"},
+        {"ch": "见", "en": "see", "pi": "jiàn"},
+        {"ch": "你", "en": "you", "pi": "nǐ"}
+      ]
+    },
+    {
+      "chinese": "我能来吗？",
+      "english": "Can I come?",
+      "pinyin": "wǒ néng lái ma？",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "能", "en": "can", "pi": "néng"},
+        {"ch": "来", "en": "come", "pi": "lái"},
+        {"ch": "吗", "en": "?", "pi": "ma"}
+      ]
+    }
+  ]
+}

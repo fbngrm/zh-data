@@ -1,0 +1,32 @@
+{
+  "chinese": "你星期六去上学吗？",
+  "english": "Do you go to school on Saturday?",
+  "pinyin": "Nǐ xīngqīliù qù shàngxué ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "星期六",
+      "en": "Saturday",
+      "pi": "xīngqīliù"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "上学",
+      "en": "go to school",
+      "pi": "shàngxué"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "海伦在下一站下车了。",
+  "english": "Helen got off at the next stop.",
+  "pinyin": "Hǎilún zài xià yī zhàn xià chē le.",
+  "words": [
+    {
+      "ch": "海伦",
+      "en": "Helen",
+      "pi": "Hǎilún"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "下一站",
+      "en": "next stop",
+      "pi": "xià yī zhàn"
+    },
+    {
+      "ch": "下车",
+      "en": "get off",
+      "pi": "xià chē"
+    },
+    {
+      "ch": "了",
+      "en": "did",
+      "pi": "le"
+    }
+  ]
+}

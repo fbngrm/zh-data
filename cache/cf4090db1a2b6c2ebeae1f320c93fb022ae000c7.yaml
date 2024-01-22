@@ -1,0 +1,47 @@
+{
+  "chinese": "除了英文，他还说德文。",
+  "english": "Besides English, he also speaks German.",
+  "pinyin": "Chúle yīngwén, tā hái shuō déwén.",
+  "words": [
+    {
+      "ch": "除了",
+      "en": "Besides",
+      "pi": "chúle"
+    },
+    {
+      "ch": "英文",
+      "en": "English",
+      "pi": "yīngwén"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": null
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "还",
+      "en": "also",
+      "pi": "hái"
+    },
+    {
+      "ch": "说",
+      "en": "speaks",
+      "pi": "shuō"
+    },
+    {
+      "ch": "德文",
+      "en": "German",
+      "pi": "déwén"
+    },
+    {
+      "ch": "。",
+      "en": ".",
+      "pi": null
+    }
+  ]
+}

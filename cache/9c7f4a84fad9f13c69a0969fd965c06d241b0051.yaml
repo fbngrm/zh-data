@@ -1,0 +1,37 @@
+{
+"chinese": "你要喝点咖啡吗?",
+"english": "Do you want to drink some coffee?",
+"pinyin": "nǐ yào hē diǎn kāfēi ma?",
+"words": [
+    {
+        "ch": "你",
+        "en": "you",
+        "pi": "nǐ"
+    },
+    {
+        "ch": "要",
+        "en": "want",
+        "pi": "yào"
+    },
+    {
+        "ch": "喝",
+        "en": "to drink",
+        "pi": "hē"
+    },
+    {
+        "ch": "点",
+        "en": "some",
+        "pi": "diǎn"
+    },
+    {
+        "ch": "咖啡",
+        "en": "coffee",
+        "pi": "kāfēi"
+    },
+    {
+        "ch": "吗",
+        "en": "question particle",
+        "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "她可能错过了七点的火车。",
+  "english": "She probably missed the 7 o'clock train.",
+  "pinyin": "tā kěnéng cuòguòle qī diǎn de huǒchē。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "可能",
+      "en": "probably",
+      "pi": "kěnéng"
+    },
+    {
+      "ch": "错过",
+      "en": "missed",
+      "pi": "cuòguò"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "七点",
+      "en": "7 o'clock",
+      "pi": "qī diǎn"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒchē"
+    }
+  ]
+}

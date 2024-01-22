@@ -1,0 +1,13 @@
+{
+  "chinese": "她拍拍她儿子的肩膀。",
+  "english": "She pats her son's shoulder.",
+  "pinyin": "tā pāi pāi tā ér zi de jiān băng.",
+  "words": [
+    {"ch": "她", "en": "she", "pi": "tā"},
+    {"ch": "拍拍", "en": "pats", "pi": "pāi pāi"},
+    {"ch": "她", "en": "her", "pi": "tā"},
+    {"ch": "儿子", "en": "son", "pi": "ér zi"},
+    {"ch": "的", "en": "possessive particle", "pi": "de"},
+    {"ch": "肩膀", "en": "shoulder", "pi": "jiān băng"}
+  ]
+}

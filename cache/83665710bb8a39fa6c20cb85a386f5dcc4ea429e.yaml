@@ -1,0 +1,67 @@
+{
+  "chinese": "请在这张表格上填上你的姓名和住址。",
+  "english": "Please fill in your name and address on this form.",
+  "pinyin": "qǐng zài zhè zhāng biǎo gé shàng tián shàng nǐ de xìng míng hé zhù zhǐ.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "在",
+      "en": "on",
+      "pi": "zài"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "张",
+      "en": "sheet",
+      "pi": "zhāng"
+    },
+    {
+      "ch": "表格",
+      "en": "form",
+      "pi": "biǎo gé"
+    },
+    {
+      "ch": "上",
+      "en": "on",
+      "pi": "shàng"
+    },
+    {
+      "ch": "填",
+      "en": "fill",
+      "pi": "tián"
+    },
+    {
+      "ch": "上",
+      "en": "in",
+      "pi": "shàng"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "姓名",
+      "en": "name",
+      "pi": "xìng míng"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "住址",
+      "en": "address",
+      "pi": "zhù zhǐ"
+    }
+  ]
+}

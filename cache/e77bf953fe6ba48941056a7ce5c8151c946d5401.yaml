@@ -1,0 +1,32 @@
+{
+  "chinese": "电池快没电了。",
+  "english": "The battery is running out.",
+  "pinyin": "diàn chí kuài méi diàn le.",
+  "words": [
+    {
+      "ch": "电池",
+      "en": "battery",
+      "pi": "diàn chí"
+    },
+    {
+      "ch": "快",
+      "en": "quick",
+      "pi": "kuài"
+    },
+    {
+      "ch": "没",
+      "en": "no",
+      "pi": "méi"
+    },
+    {
+      "ch": "电",
+      "en": "electricity",
+      "pi": "diàn"
+    },
+    {
+      "ch": "了",
+      "en": "already",
+      "pi": "le"
+    }
+  ]
+}

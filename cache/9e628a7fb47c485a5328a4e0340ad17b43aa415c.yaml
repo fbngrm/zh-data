@@ -1,0 +1,32 @@
+{
+  "chinese": "我蛮喜欢那个歌手。",
+  "english": "I quite like that singer.",
+  "pinyin": "wǒ mán xǐhuān nàgè gēshǒu.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "蛮",
+      "en": "quite",
+      "pi": "mán"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "那个",
+      "en": "that",
+      "pi": "nàgè"
+    },
+    {
+      "ch": "歌手",
+      "en": "singer",
+      "pi": "gēshǒu"
+    }
+  ]
+}

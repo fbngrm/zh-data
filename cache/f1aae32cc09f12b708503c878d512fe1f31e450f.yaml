@@ -1,0 +1,32 @@
+{
+  "chinese": "我看见的是汤姆。",
+  "english": "I saw Tom.",
+  "pinyin": "wǒ kànjiàn de shì tāngmǔ.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "看见",
+      "en": "saw",
+      "pi": "kànjiàn"
+    },
+    {
+      "ch": "的",
+      "en": "the",
+      "pi": "de"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāngmǔ"
+    }
+  ]
+}

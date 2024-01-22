@@ -1,0 +1,27 @@
+{
+  "chinese": "我想要一点柳橙汁。",
+  "english": "I would like some orange juice.",
+  "pinyin": "wǒ xiǎng yào yīdiǎn liǔchéngzhī。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想要",
+      "en": "would like",
+      "pi": "xiǎng yào"
+    },
+    {
+      "ch": "一点",
+      "en": "some",
+      "pi": "yīdiǎn"
+    },
+    {
+      "ch": "柳橙汁",
+      "en": "orange juice",
+      "pi": "liǔchéngzhī"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆星期一来的，第二天返回了。",
+  "english": "Tom came on Monday and returned the next day.",
+  "pinyin": "Tāng mǔ xīngqī yī lái de, dì èr tiān fǎnhuí le.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "星期一",
+      "en": "Monday",
+      "pi": "xīngqī yī"
+    },
+    {
+      "ch": "来的",
+      "en": "came",
+      "pi": "lái de"
+    },
+    {
+      "ch": "第二天",
+      "en": "the next day",
+      "pi": "dì èr tiān"
+    },
+    {
+      "ch": "返回了",
+      "en": "returned",
+      "pi": "fǎnhuí le"
+    }
+  ]
+}

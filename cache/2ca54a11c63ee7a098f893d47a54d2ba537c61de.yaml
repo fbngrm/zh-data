@@ -1,0 +1,17 @@
+{
+  "chinese": "我哥哥上个星期寄了一封信给我。",
+  "english": "My older brother sent me a letter last week.",
+  "pinyin": "wǒ gēgē shàng gè xīngqī jì le yī fēng xìn gěi wǒ。",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "哥哥", "en": "older brother", "pi": "gēgē" },
+    { "ch": "上个", "en": "last", "pi": "shàng gè" },
+    { "ch": "星期", "en": "week", "pi": "xīngqī" },
+    { "ch": "寄", "en": "send", "pi": "jì" },
+    { "ch": "了", "en": "past tense particle", "pi": "le" },
+    { "ch": "一封", "en": "a", "pi": "yī fēng" },
+    { "ch": "信", "en": "letter", "pi": "xìn" },
+    { "ch": "给", "en": "to", "pi": "gěi" },
+    { "ch": "我", "en": "me", "pi": "wǒ" }
+  ]
+}

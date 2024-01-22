@@ -1,0 +1,86 @@
+{
+  "sentences": [
+    {
+      "chinese": "我们终于见面了！我等这一刻等了好久了。",
+      "english": "We finally met! I've been waiting for this moment for a long time.",
+      "pinyin": "wǒ men zhōng yú jiàn miàn le！wǒ děng zhè yī kè děng le hǎo jiǔ le。",
+      "words": [
+        {
+          "ch": "我们",
+          "en": "We",
+          "pi": "wǒ men"
+        },
+        {
+          "ch": "终于",
+          "en": "finally",
+          "pi": "zhōng yú"
+        },
+        {
+          "ch": "见面",
+          "en": "met",
+          "pi": "jiàn miàn"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        },
+        {
+          "ch": "！",
+          "en": "",
+          "pi": ""
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "等",
+          "en": "wait",
+          "pi": "děng"
+        },
+        {
+          "ch": "这",
+          "en": "this",
+          "pi": "zhè"
+        },
+        {
+          "ch": "一刻",
+          "en": "moment",
+          "pi": "yī kè"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        },
+        {
+          "ch": "等",
+          "en": "wait",
+          "pi": "děng"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        },
+        {
+          "ch": "好久",
+          "en": "for a long time",
+          "pi": "hǎo jiǔ"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        },
+        {
+          "ch": "。",
+          "en": "",
+          "pi": ""
+        }
+      ]
+    }
+  ]
+}

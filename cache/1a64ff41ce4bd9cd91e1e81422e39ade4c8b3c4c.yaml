@@ -1,0 +1,42 @@
+{
+  "chinese": "请你告诉我机场怎么去。",
+  "english": "Please tell me how to get to the airport.",
+  "pinyin": "qǐng nǐ gàosu wǒ jīchǎng zěnme qù.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "告诉",
+      "en": "tell",
+      "pi": "gàosu"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "机场",
+      "en": "airport",
+      "pi": "jīchǎng"
+    },
+    {
+      "ch": "怎么",
+      "en": "how",
+      "pi": "zěnme"
+    },
+    {
+      "ch": "去",
+      "en": "to go",
+      "pi": "qù"
+    }
+  ]
+}

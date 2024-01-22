@@ -1,0 +1,15 @@
+{
+  "chinese": "她打算去烹饪学校上几堂课。",
+  "english": "She plans to take a few classes at a cooking school.",
+  "pinyin": "tā dǎ suàn qù pēng rèn xué xiào shàng jǐ táng kè。",
+  "words": [
+    {"ch":"她","en":"She","pi":"tā"},
+    {"ch":"打算","en":"plans","pi":"dǎ suàn"},
+    {"ch":"去","en":"to","pi":"qù"},
+    {"ch":"烹饪学校","en":"cooking school","pi":"pēng rèn xué xiào"},
+    {"ch":"上","en":"take","pi":"shàng"},
+    {"ch":"几","en":"a few","pi":"jǐ"},
+    {"ch":"堂","en":"class","pi":"táng"},
+    {"ch":"课","en":"classes","pi":"kè"}
+  ]
+}

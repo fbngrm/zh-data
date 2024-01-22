@@ -1,0 +1,32 @@
+{
+  "chinese": "我想跟汤姆走。",
+  "english": "I want to go with Tom.",
+  "pinyin": "wǒ xiǎng gēn tāng mǔ zǒu。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "跟",
+      "en": "with",
+      "pi": "gēn"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "走",
+      "en": "go",
+      "pi": "zǒu"
+    }
+  ]
+}

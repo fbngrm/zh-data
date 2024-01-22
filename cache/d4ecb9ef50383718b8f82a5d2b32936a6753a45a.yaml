@@ -1,0 +1,15 @@
+{
+  "chinese": "你开的那辆车很不错。",
+  "english": "The car you drive is very good.",
+  "pinyin": "nǐ kāi de nà liàng chē hěn bùcuò。",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "开", "en": "drive", "pi": "kāi"},
+    {"ch": "的", "en": "possessive particle", "pi": "de"},
+    {"ch": "那", "en": "that", "pi": "nà"},
+    {"ch": "辆", "en": "measure word for vehicles", "pi": "liàng"},
+    {"ch": "车", "en": "car", "pi": "chē"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "不错", "en": "good", "pi": "bùcuò"}
+  ]
+}

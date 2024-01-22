@@ -1,0 +1,13 @@
+{
+  "chinese": "汤姆很仔细，不是么？",
+  "english": "Tom is very careful, isn't he?",
+  "pinyin": "Tāngmǔ hěn zǐxì, bùshìme?",
+  "words": [
+    { "ch": "汤姆", "en": "Tom", "pi": "Tāngmǔ" },
+    { "ch": "很", "en": "is very", "pi": "hěn" },
+    { "ch": "仔细", "en": "careful", "pi": "zǐxì" },
+    { "ch": "，", "en": ",", "pi": "" },
+    { "ch": "不是", "en": "isn't", "pi": "bùshì" },
+    { "ch": "么", "en": "he?", "pi": "me?" }
+  ]
+}

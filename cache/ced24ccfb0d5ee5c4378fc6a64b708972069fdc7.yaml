@@ -1,0 +1,15 @@
+{
+  "chinese": "这座山贝蒂已经爬过三次了。",
+  "english": "Betty has climbed this mountain three times.",
+  "pinyin": "zhè zuò shān bèi dì yǐ jīng pá guò sān cì le。",
+  "words": [
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "座", "en": "mountain", "pi": "zuò"},
+    {"ch": "山", "en": "mountain", "pi": "shān"},
+    {"ch": "贝蒂", "en": "Betty", "pi": "bèi dì"},
+    {"ch": "已经", "en": "already", "pi": "yǐ jīng"},
+    {"ch": "爬过", "en": "climbed", "pi": "pá guò"},
+    {"ch": "三次", "en": "three times", "pi": "sān cì"},
+    {"ch": "了", "en": "already", "pi": "le"}
+  ]
+}

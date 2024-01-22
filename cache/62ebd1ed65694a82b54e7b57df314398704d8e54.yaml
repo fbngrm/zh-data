@@ -1,0 +1,32 @@
+{
+  "chinese": "我能游泳过河。",
+  "english": "I can swim across the river.",
+  "pinyin": "wǒ néng yóuyǒng guò hé.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "游泳",
+      "en": "swim",
+      "pi": "yóuyǒng"
+    },
+    {
+      "ch": "过",
+      "en": "across",
+      "pi": "guò"
+    },
+    {
+      "ch": "河",
+      "en": "river",
+      "pi": "hé"
+    }
+  ]
+}

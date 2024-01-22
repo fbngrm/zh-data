@@ -1,0 +1,18 @@
+{
+  "chinese": "他很聰明，但卻不太幫得上忙。",
+  "english": "He is very intelligent, but he can't help much.",
+  "pinyin": "tā hěn cōngmíng，dàn què bù tài bāng dé shàng máng。",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "很", "en": "is", "pi": "hěn"},
+    {"ch": "聰明", "en": "intelligent", "pi": "cōngmíng"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "但", "en": "but", "pi": "dàn"},
+    {"ch": "卻", "en": "can't", "pi": "què"},
+    {"ch": "不", "en": "help", "pi": "bù"},
+    {"ch": "太", "en": "much", "pi": "tài"},
+    {"ch": "幫得上", "en": "help", "pi": "bāng dé shàng"},
+    {"ch": "忙", "en": "much", "pi": "máng"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

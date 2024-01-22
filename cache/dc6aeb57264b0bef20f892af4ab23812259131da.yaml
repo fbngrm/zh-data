@@ -1,0 +1,37 @@
+{
+  "chinese": "他不是很擅长数学。",
+  "english": "He is not very good at math.",
+  "pinyin": "tā bú shì hěn shàncháng shùxué。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bú"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "擅长",
+      "en": "good at",
+      "pi": "shàncháng"
+    },
+    {
+      "ch": "数学",
+      "en": "math",
+      "pi": "shùxué"
+    }
+  ]
+}

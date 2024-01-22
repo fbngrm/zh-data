@@ -1,0 +1,16 @@
+{
+  "chinese": "你检查购物单上所有的项目了吗？",
+  "english": "Did you check all the items on the shopping list?",
+  "pinyin": "nǐ jiǎnchá gòuwù dān shàng suǒyǒu de xiàngmù le ma？",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "检查", "en": "check", "pi": "jiǎnchá"},
+    {"ch": "购物单", "en": "shopping list", "pi": "gòuwù dān"},
+    {"ch": "上", "en": "on", "pi": "shàng"},
+    {"ch": "所有", "en": "all", "pi": "suǒyǒu"},
+    {"ch": "的", "en": "the", "pi": "de"},
+    {"ch": "项目", "en": "items", "pi": "xiàngmù"},
+    {"ch": "了", "en": "did", "pi": "le"},
+    {"ch": "吗", "en": "question particle", "pi": "ma？"}
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "chinese": "一个月后，天气就不会像现在这么热了。",
+  "english": "After one month, the weather will not be as hot as it is now.",
+  "pinyin": "Yī gè yuè hòu, tiānqì jiù bù huì xiàng xiànzài zhème rè le.",
+  "words": [
+    {"ch": "一个", "en": "one", "pi": "yī gè"},
+    {"ch": "月后", "en": "after one month", "pi": "yī gè yuè hòu"},
+    {"ch": "天气", "en": "weather", "pi": "tiānqì"},
+    {"ch": "就", "en": "will", "pi": "jiù"},
+    {"ch": "不会", "en": "not", "pi": "bù huì"},
+    {"ch": "像", "en": "be like", "pi": "xiàng"},
+    {"ch": "现在", "en": "now", "pi": "xiànzài"},
+    {"ch": "这么", "en": "so", "pi": "zhème"},
+    {"ch": "热", "en": "hot", "pi": "rè"},
+    {"ch": "了", "en": "anymore", "pi": "le"}
+  ]
+}

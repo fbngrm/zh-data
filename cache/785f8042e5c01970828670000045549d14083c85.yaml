@@ -1,0 +1,17 @@
+{
+  "chinese": "我去年离开了上海并从来没有回去过。",
+  "english": "I left Shanghai last year and have never returned.",
+  "pinyin": "wǒ qùnián líkāile shànghǎi bìng cónglái méiyǒu huíqùguò。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "去年", "en": "last year", "pi": "qùnián"},
+    {"ch": "离开", "en": "leave", "pi": "líkāi"},
+    {"ch": "了", "en": "past tense particle indicating action has been completed", "pi": "le"},
+    {"ch": "上海", "en": "Shanghai", "pi": "shànghǎi"},
+    {"ch": "并", "en": "and", "pi": "bìng"},
+    {"ch": "从来", "en": "never", "pi": "cónglái"},
+    {"ch": "没有", "en": "not have", "pi": "méiyǒu"},
+    {"ch": "回去", "en": "return", "pi": "huíqù"},
+    {"ch": "过", "en": "particle indicating an action has happened before", "pi": "guò"}
+  ]
+}

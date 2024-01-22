@@ -1,0 +1,52 @@
+{
+  "chinese": "骑自行车不能带人，你不知道吗？",
+  "english": "You can't carry passengers while riding a bicycle, don't you know?",
+  "pinyin": "qí zìxíngchē bùnéng dài rén, nǐ bù zhīdào ma?",
+  "words": [
+    {
+      "ch": "骑",
+      "en": "ride",
+      "pi": "qí"
+    },
+    {
+      "ch": "自行车",
+      "en": "bicycle",
+      "pi": "zìxíngchē"
+    },
+    {
+      "ch": "不能",
+      "en": "can't",
+      "pi": "bùnéng"
+    },
+    {
+      "ch": "带",
+      "en": "carry",
+      "pi": "dài"
+    },
+    {
+      "ch": "人",
+      "en": "person",
+      "pi": "rén"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chinese": "失踪的猫还没被找到。",
+  "english": "The missing cat has not been found yet.",
+  "pinyin": "shī zōng de māo hái méi bèi zhǎo dào.",
+  "words": [
+    {
+      "ch": "失踪",
+      "en": "missing",
+      "pi": "shī zōng"
+    },
+    {
+      "ch": "的",
+      "en": "cat",
+      "pi": "de"
+    },
+    {
+      "ch": "猫",
+      "en": "has",
+      "pi": "māo"
+    },
+    {
+      "ch": "还没",
+      "en": "not",
+      "pi": "hái méi"
+    },
+    {
+      "ch": "被",
+      "en": "been",
+      "pi": "bèi"
+    },
+    {
+      "ch": "找到",
+      "en": "found",
+      "pi": "zhǎo dào"
+    }
+  ]
+}

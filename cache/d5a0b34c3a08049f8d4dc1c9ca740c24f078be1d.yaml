@@ -1,0 +1,42 @@
+{
+  "chinese": "我需要在学校去找托马斯。",
+  "english": "I need to go to school to find Thomas.",
+  "pinyin": "wǒ xūyào zài xuéxiào qù zhǎo tuōmǎsī。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "需要",
+      "en": "need",
+      "pi": "xūyào"
+    },
+    {
+      "ch": "在",
+      "en": "to",
+      "pi": "zài"
+    },
+    {
+      "ch": "学校",
+      "en": "school",
+      "pi": "xuéxiào"
+    },
+    {
+      "ch": "去",
+      "en": "to",
+      "pi": "qù"
+    },
+    {
+      "ch": "找",
+      "en": "find",
+      "pi": "zhǎo"
+    },
+    {
+      "ch": "托马斯",
+      "en": "Thomas",
+      "pi": "tuōmǎsī"
+    }
+  ]
+}

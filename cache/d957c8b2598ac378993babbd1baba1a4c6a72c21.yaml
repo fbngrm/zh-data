@@ -1,0 +1,12 @@
+{
+  "chinese": "她是正确的吗？",
+  "english": "Is she correct?",
+  "pinyin": "Tā shì zhèngquè de ma?",
+  "words": [
+    {"ch": "她", "en": "she", "pi": "tā"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "正确", "en": "correct", "pi": "zhèngquè"},
+    {"ch": "的", "en": "is", "pi": "de"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "在你们国家吃米饭吗？",
+  "english": "Do you eat rice in your country?",
+  "pinyin": "zài nǐ men guó jiā chī mǐ fàn ma?",
+  "words": [
+    {"ch": "在", "en": "at/in", "pi": "zài"},
+    {"ch": "你们", "en": "you", "pi": "nǐ men"},
+    {"ch": "国家", "en": "country", "pi": "guó jiā"},
+    {"ch": "吃", "en": "to eat", "pi": "chī"},
+    {"ch": "米饭", "en": "rice", "pi": "mǐ fàn"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

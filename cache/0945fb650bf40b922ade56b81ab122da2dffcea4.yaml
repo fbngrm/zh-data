@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆和玛丽等烦了。",
+  "english": "Tom and Mary are tired of waiting.",
+  "pinyin": "tāng mǔ hé mǎ lì děng fán le。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "和",
+      "en": "and",
+      "pi": "hé"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "等",
+      "en": "wait",
+      "pi": "děng"
+    },
+    {
+      "ch": "烦了",
+      "en": "tired",
+      "pi": "fán le"
+    }
+  ]
+}

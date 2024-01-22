@@ -1,0 +1,32 @@
+{
+  "chinese": "那些都是我的裤子。",
+  "english": "Those are all my pants.",
+  "pinyin": "Nàxiē dōu shì wǒ de kùzi.",
+  "words": [
+    {
+      "ch": "那些",
+      "en": "Those",
+      "pi": "nàxiē"
+    },
+    {
+      "ch": "都",
+      "en": "all",
+      "pi": "dōu"
+    },
+    {
+      "ch": "是",
+      "en": "are",
+      "pi": "shì"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "裤子",
+      "en": "pants",
+      "pi": "kùzi"
+    }
+  ]
+}

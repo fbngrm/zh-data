@@ -1,0 +1,32 @@
+{
+  "chinese": "他每天工作八个小时。",
+  "english": "He works eight hours every day.",
+  "pinyin": "Tā měitiān gōngzuò bā gè xiǎoshí。",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "每天",
+      "en": "every day",
+      "pi": "měitiān"
+    },
+    {
+      "ch": "工作",
+      "en": "works",
+      "pi": "gōngzuò"
+    },
+    {
+      "ch": "八个",
+      "en": "eight",
+      "pi": "bā gè"
+    },
+    {
+      "ch": "小时",
+      "en": "hours",
+      "pi": "xiǎoshí"
+    }
+  ]
+}

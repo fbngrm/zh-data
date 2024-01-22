@@ -1,0 +1,52 @@
+{
+  "chinese": "你更喜欢哪个，这个还是那个？",
+  "english": "Which one do you prefer, this one or that one?",
+  "pinyin": "nǐ gèng xǐhuān nǎge, zhège háishì nàge?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "更",
+      "en": "even more",
+      "pi": "gèng"
+    },
+    {
+      "ch": "喜欢",
+      "en": "prefer",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "哪个",
+      "en": "which one",
+      "pi": "nǎge"
+    },
+    {
+      "ch": "，",
+      "en": ",",
+      "pi": "，"
+    },
+    {
+      "ch": "这个",
+      "en": "this one",
+      "pi": "zhège"
+    },
+    {
+      "ch": "还是",
+      "en": "or",
+      "pi": "háishì"
+    },
+    {
+      "ch": "那个",
+      "en": "that one",
+      "pi": "nàge"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "？"
+    }
+  ]
+}

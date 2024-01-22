@@ -1,0 +1,37 @@
+{
+  "chinese": "你要来杯咖啡吗?",
+  "english": "Do you want a cup of coffee?",
+  "pinyin": "nǐ yào lái bēi kāfēi ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "要",
+      "en": "want",
+      "pi": "yào"
+    },
+    {
+      "ch": "来",
+      "en": "to come",
+      "pi": "lái"
+    },
+    {
+      "ch": "杯",
+      "en": "cup",
+      "pi": "bēi"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kāfēi"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

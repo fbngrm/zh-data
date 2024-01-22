@@ -1,0 +1,12 @@
+{ 
+  "chinese": "柳橙汁，麻烦你。",
+  "english": "Orange juice, please.",
+  "pinyin": "liǔ chéng zhī, máfan nǐ.",
+  "words": [
+    { "ch": "柳橙汁", "en": "Orange juice", "pi": "liǔ chéng zhī" },
+    { "ch": "，", "en": ",", "pi": "" },
+    { "ch": "麻烦", "en": "please", "pi": "máfan" },
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "。", "en": ".", "pi": "" }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "chinese": "汤姆把他的所有钱都给了玛丽。",
+  "english": "Tom gave all his money to Mary.",
+  "pinyin": "Tāng mǔ bǎ tā de suǒ yǒu qián dōu gěi le Mǎ lì.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "把",
+      "en": "gave",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "他的",
+      "en": "his",
+      "pi": "tā de"
+    },
+    {
+      "ch": "所有",
+      "en": "all",
+      "pi": "suǒ yǒu"
+    },
+    {
+      "ch": "钱",
+      "en": "money",
+      "pi": "qián"
+    },
+    {
+      "ch": "都",
+      "en": "to",
+      "pi": "dōu"
+    },
+    {
+      "ch": "给了",
+      "en": "Mary",
+      "pi": "gěi le"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "Mǎ lì"
+    }
+  ]
+}

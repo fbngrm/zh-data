@@ -1,0 +1,32 @@
+{
+  "chinese": "我想买点阿司匹林。",
+  "english": "I want to buy some aspirin.",
+  "pinyin": "wǒ xiǎng mǎi diǎn ā sī pǐ lín.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "买",
+      "en": "to buy",
+      "pi": "mǎi"
+    },
+    {
+      "ch": "点",
+      "en": "some",
+      "pi": "diǎn"
+    },
+    {
+      "ch": "阿司匹林",
+      "en": "aspirin",
+      "pi": "ā sī pǐ lín"
+    }
+  ]
+}

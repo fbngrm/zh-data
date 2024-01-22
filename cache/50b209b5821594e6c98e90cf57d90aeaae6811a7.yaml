@@ -1,0 +1,42 @@
+{
+  "chinese": "这间图书馆有任何英语杂志吗?",
+  "english": "Does this library have any English magazines?",
+  "pinyin": "zhè jiān túshū guǎn yǒu rènhé yīngyǔ zázhì ma?",
+  "words": [
+    {
+      "ch": "这间",
+      "en": "this",
+      "pi": "zhè jiān"
+    },
+    {
+      "ch": "图书馆",
+      "en": "library",
+      "pi": "tú shū guǎn"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "任何",
+      "en": "any",
+      "pi": "rèn hé"
+    },
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīng yǔ"
+    },
+    {
+      "ch": "杂志",
+      "en": "magazines",
+      "pi": "zá zhì"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

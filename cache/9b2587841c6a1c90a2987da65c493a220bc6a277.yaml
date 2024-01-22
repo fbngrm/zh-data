@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆不喜欢任何辣的食物。",
+  "english": "Tom doesn't like any spicy food.",
+  "pinyin": "Tāng mǔ bù xǐhuān rè de shíwù.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "不喜欢",
+      "en": "doesn't like",
+      "pi": "bù xǐhuān"
+    },
+    {
+      "ch": "任何",
+      "en": "any",
+      "pi": "rènhé"
+    },
+    {
+      "ch": "辣的",
+      "en": "spicy",
+      "pi": "là de"
+    },
+    {
+      "ch": "食物",
+      "en": "food",
+      "pi": "shíwù"
+    }
+  ]
+}

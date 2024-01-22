@@ -1,0 +1,15 @@
+{
+  "chinese": "我对他的进步感到很满意。",
+  "english": "I am very satisfied with his progress.",
+  "pinyin": "Wǒ duì tā de jìnbù gǎndào hěn mǎnyì.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "对", "en": "with", "pi": "duì"},
+    {"ch": "他", "en": "his", "pi": "tā"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "进步", "en": "progress", "pi": "jìnbù"},
+    {"ch": "感到", "en": "feel", "pi": "gǎndào"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "满意", "en": "satisfied", "pi": "mǎnyì"}
+  ]
+}

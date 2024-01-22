@@ -1,0 +1,37 @@
+{
+  "chinese": "昨天我十点去睡觉了。",
+  "english": "Yesterday I went to bed at ten o'clock.",
+  "pinyin": "Zuótiān wǒ shí diǎn qù shuìjiào le.",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuótiān"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "十点",
+      "en": "ten o'clock",
+      "pi": "shí diǎn"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "睡觉",
+      "en": "to sleep",
+      "pi": "shuìjiào"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    }
+  ]
+}

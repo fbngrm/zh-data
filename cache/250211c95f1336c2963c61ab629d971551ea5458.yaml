@@ -1,0 +1,32 @@
+{
+  "chinese": "我平常早上八点钟起床。",
+  "english": "I usually wake up at eight o'clock in the morning.",
+  "pinyin": "wǒ píngcháng zǎoshàng bā diǎn zhōng qǐchuáng.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "平常",
+      "en": "usually",
+      "pi": "píngcháng"
+    },
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎoshàng"
+    },
+    {
+      "ch": "八点钟",
+      "en": "eight o'clock",
+      "pi": "bā diǎn zhōng"
+    },
+    {
+      "ch": "起床",
+      "en": "wake up",
+      "pi": "qǐchuáng"
+    }
+  ]
+}

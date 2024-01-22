@@ -1,0 +1,47 @@
+{
+  "chinese": "汤姆向玛丽打听有关约翰的事。",
+  "english": "Tom asked Mary about John.",
+  "pinyin": "Tāng mǔ xiàng mǎ lì dǎ ting yǒu guān yāo hàn de shì.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "向",
+      "en": "ask",
+      "pi": "xiàng"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "打听",
+      "en": "inquire",
+      "pi": "dǎ ting"
+    },
+    {
+      "ch": "有关",
+      "en": "about",
+      "pi": "yǒu guān"
+    },
+    {
+      "ch": "约翰",
+      "en": "John",
+      "pi": "yāo hàn"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "事",
+      "en": "matter",
+      "pi": "shì"
+    }
+  ]
+}

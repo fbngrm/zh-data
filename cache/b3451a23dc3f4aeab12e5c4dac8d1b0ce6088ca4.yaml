@@ -1,0 +1,15 @@
+{
+  "chinese": "因为你不够努力，所以才会失败。",
+  "english": "Because you are not working hard enough, that's why you fail.",
+  "pinyin": "Yīnwèi nǐ búgòu nǔlì, suǒyǐ cái huì shībài.",
+  "words": [
+    {"ch": "因为", "en": "because", "pi": "yīnwèi"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "不够", "en": "not enough", "pi": "búgòu"},
+    {"ch": "努力", "en": "working hard", "pi": "nǔlì"},
+    {"ch": "所以", "en": "that's why", "pi": "suǒyǐ"},
+    {"ch": "才", "en": "only then", "pi": "cái"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "失败", "en": "fail", "pi": "shībài"}
+  ]
+}

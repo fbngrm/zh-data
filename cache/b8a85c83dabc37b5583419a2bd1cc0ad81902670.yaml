@@ -1,0 +1,37 @@
+{
+  "chinese": "你认为汤姆玩得高兴吗？",
+  "english": "Do you think Tom is having fun?",
+  "pinyin": "nǐ rèn wéi tāng mǔ wán dé gāo xìng ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "认为",
+      "en": "think",
+      "pi": "rèn wéi"
+    },
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "玩得",
+      "en": "having fun",
+      "pi": "wán dé"
+    },
+    {
+      "ch": "高兴",
+      "en": "happy",
+      "pi": "gāo xìng"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

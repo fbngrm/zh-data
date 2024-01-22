@@ -1,0 +1,42 @@
+{
+  "chinese": "绿灯时，拐弯车要让人。",
+  "english": "When the traffic light is green, turning vehicles should yield to pedestrians.",
+  "pinyin": "lǜ dēng shí, guǎi wān chē yào ràng rén。",
+  "words": [
+    {
+      "ch": "绿灯",
+      "en": "traffic light is green",
+      "pi": "lǜ dēng"
+    },
+    {
+      "ch": "时",
+      "en": "when",
+      "pi": "shí"
+    },
+    {
+      "ch": "拐弯",
+      "en": "turning",
+      "pi": "guǎi wān"
+    },
+    {
+      "ch": "车",
+      "en": "vehicle",
+      "pi": "chē"
+    },
+    {
+      "ch": "要",
+      "en": "should",
+      "pi": "yào"
+    },
+    {
+      "ch": "让",
+      "en": "yield",
+      "pi": "ràng"
+    },
+    {
+      "ch": "人",
+      "en": "to pedestrians",
+      "pi": "rén"
+    }
+  ]
+}

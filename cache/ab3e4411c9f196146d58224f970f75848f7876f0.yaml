@@ -1,0 +1,13 @@
+{
+  "chinese": "你知道我没法选择，不是么？",
+  "english": "You know I can't choose, right?",
+  "pinyin": "nǐ zhī dào wǒ méi fǎ xuǎn zé, bú shì me?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "知道", "en": "know", "pi": "zhī dào"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "没法", "en": "can't", "pi": "méi fǎ"},
+    {"ch": "选择", "en": "choose", "pi": "xuǎn zé"},
+    {"ch": "不是么", "en": "right?", "pi": "bú shì me"}
+  ]
+}

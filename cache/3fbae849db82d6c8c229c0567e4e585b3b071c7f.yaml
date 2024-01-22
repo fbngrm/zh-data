@@ -1,0 +1,32 @@
+{
+  "chinese": "你怎么唸你的名字？",
+  "english": "How do you pronounce your name?",
+  "pinyin": "nǐ zěnme niàn nǐ de míngzì?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "怎么",
+      "en": "how",
+      "pi": "zěnme"
+    },
+    {
+      "ch": "唸",
+      "en": "pronounce",
+      "pi": "niàn"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "名字",
+      "en": "name",
+      "pi": "míngzì"
+    }
+  ]
+}

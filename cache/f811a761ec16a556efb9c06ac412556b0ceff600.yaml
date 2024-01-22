@@ -1,0 +1,27 @@
+{
+  "chinese": "你見過熊貓嗎？",
+  "english": "Have you seen a panda?",
+  "pinyin": "Nǐ jiànguò xióngmāo ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "見過",
+      "en": "seen",
+      "pi": "jiànguò"
+    },
+    {
+      "ch": "熊貓",
+      "en": "panda",
+      "pi": "xióngmāo"
+    },
+    {
+      "ch": "嗎",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

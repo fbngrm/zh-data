@@ -1,0 +1,37 @@
+{
+  "chinese": "因为没有公车，我只得走路。",
+  "english": "Because there is no bus, I have to walk.",
+  "pinyin": "Yīnwèi méiyǒu gōngchē, wǒ zhīdé zǒulù.",
+  "words": [
+    {
+      "ch": "因为",
+      "en": "Because",
+      "pi": "yīnwèi"
+    },
+    {
+      "ch": "没有",
+      "en": "there is no",
+      "pi": "méiyǒu"
+    },
+    {
+      "ch": "公车",
+      "en": "bus",
+      "pi": "gōngchē"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "只得",
+      "en": "have to",
+      "pi": "zhīdé"
+    },
+    {
+      "ch": "走路",
+      "en": "walk",
+      "pi": "zǒulù"
+    }
+  ]
+}

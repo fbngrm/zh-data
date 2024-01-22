@@ -1,0 +1,42 @@
+{
+  "chinese": "我走了大约１英里（路）。",
+  "english": "I walked about 1 mile.",
+  "pinyin": "wǒ zǒu le dà yuē yī yīng lǐ（lù）。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "走",
+      "en": "walk",
+      "pi": "zǒu"
+    },
+    {
+      "ch": "了",
+      "en": "completed action marker",
+      "pi": "le"
+    },
+    {
+      "ch": "大约",
+      "en": "about",
+      "pi": "dà yuē"
+    },
+    {
+      "ch": "１",
+      "en": "1",
+      "pi": "yī"
+    },
+    {
+      "ch": "英里",
+      "en": "mile",
+      "pi": "yīng lǐ"
+    },
+    {
+      "ch": "（路）",
+      "en": "(road)",
+      "pi": "（lù）"
+    }
+  ]
+}

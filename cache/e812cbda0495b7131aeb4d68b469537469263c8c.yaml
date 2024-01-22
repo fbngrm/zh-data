@@ -1,0 +1,32 @@
+{
+  "chinese": "他白天睡觉，晚上工作。",
+  "english": "He sleeps during the day and works at night.",
+  "pinyin": "tā báitiān shuìjiào, wǎnshàng gōngzuò.",
+  "words": [
+    {
+      "ch": "他",
+      "en": "He",
+      "pi": "tā"
+    },
+    {
+      "ch": "白天",
+      "en": "daytime",
+      "pi": "báitiān"
+    },
+    {
+      "ch": "睡觉",
+      "en": "sleep",
+      "pi": "shuìjiào"
+    },
+    {
+      "ch": "晚上",
+      "en": "night",
+      "pi": "wǎnshàng"
+    },
+    {
+      "ch": "工作",
+      "en": "work",
+      "pi": "gōngzuò"
+    }
+  ]
+}

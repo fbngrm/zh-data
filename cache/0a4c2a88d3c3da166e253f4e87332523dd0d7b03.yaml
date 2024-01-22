@@ -1,0 +1,32 @@
+{
+  "chinese": "你上课要迟到啦。",
+  "english": "You will be late for class.",
+  "pinyin": "nǐ shàngkè yào chídào la.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "上课",
+      "en": "attend class",
+      "pi": "shàngkè"
+    },
+    {
+      "ch": "要",
+      "en": "will",
+      "pi": "yào"
+    },
+    {
+      "ch": "迟到",
+      "en": "be late",
+      "pi": "chídào"
+    },
+    {
+      "ch": "啦",
+      "en": "for emphasis",
+      "pi": "la"
+    }
+  ]
+}

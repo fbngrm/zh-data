@@ -1,0 +1,32 @@
+{
+  "chinese": "这只苹果非常红。",
+  "english": "This apple is very red.",
+  "pinyin": "zhè zhī píngguǒ fēicháng hóng.",
+  "words": [
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "只",
+      "en": "one",
+      "pi": "zhī"
+    },
+    {
+      "ch": "苹果",
+      "en": "apple",
+      "pi": "píngguǒ"
+    },
+    {
+      "ch": "非常",
+      "en": "very",
+      "pi": "fēicháng"
+    },
+    {
+      "ch": "红",
+      "en": "red",
+      "pi": "hóng"
+    }
+  ]
+}

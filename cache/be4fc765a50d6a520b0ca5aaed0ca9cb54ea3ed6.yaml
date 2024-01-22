@@ -1,0 +1,42 @@
+{
+  "chinese": "你对音乐感不感兴趣？",
+  "english": "Are you interested in music?",
+  "pinyin": "nǐ duì yīn yuè gǎn bù gǎn xìng qù?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "对",
+      "en": "to",
+      "pi": "duì"
+    },
+    {
+      "ch": "音乐",
+      "en": "music",
+      "pi": "yīn yuè"
+    },
+    {
+      "ch": "感",
+      "en": "feel",
+      "pi": "gǎn"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "感兴趣",
+      "en": "interested",
+      "pi": "gǎn xìng qù"
+    },
+    {
+      "ch": "？",
+      "en": "?",
+      "pi": "?"
+    }
+  ]
+}

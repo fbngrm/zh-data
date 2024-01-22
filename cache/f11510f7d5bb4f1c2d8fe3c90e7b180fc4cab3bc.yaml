@@ -1,0 +1,37 @@
+{
+  "chinese": "是的，这是我的房子。",
+  "english": "Yes, this is my house.",
+  "pinyin": "Shì de, zhè shì wǒ de fángzi.",
+  "words": [
+    {
+      "ch": "是",
+      "en": "Yes",
+      "pi": "shì"
+    },
+    {
+      "ch": "的",
+      "en": "is",
+      "pi": "de"
+    },
+    {
+      "ch": "这",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "是",
+      "en": "is",
+      "pi": "shì"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "房子",
+      "en": "house",
+      "pi": "fángzi"
+    }
+  ]
+}

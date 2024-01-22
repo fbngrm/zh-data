@@ -1,0 +1,32 @@
+{
+  "chinese": "你的飞机什么时候起飞呢？",
+  "english": "When is your plane taking off?",
+  "pinyin": "Nǐ de fēijī shénme shíhòu qǐfēi ne?",
+  "words": [
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "飞机",
+      "en": "plane",
+      "pi": "fēijī"
+    },
+    {
+      "ch": "什么时候",
+      "en": "when",
+      "pi": "shénme shíhòu"
+    },
+    {
+      "ch": "起飞",
+      "en": "taking off",
+      "pi": "qǐfēi"
+    },
+    {
+      "ch": "呢",
+      "en": "particle used to ask for information",
+      "pi": "ne"
+    }
+  ]
+}

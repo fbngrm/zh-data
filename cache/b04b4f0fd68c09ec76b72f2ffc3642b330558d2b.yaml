@@ -1,0 +1,37 @@
+{
+  "chinese": "我今天收到了她的信。",
+  "english": "I received her letter today.",
+  "pinyin": "wǒ jīntiān shōudào le tā de xìn.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "收到",
+      "en": "received",
+      "pi": "shōudào"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "她的",
+      "en": "her",
+      "pi": "tā de"
+    },
+    {
+      "ch": "信",
+      "en": "letter",
+      "pi": "xìn"
+    }
+  ]
+}

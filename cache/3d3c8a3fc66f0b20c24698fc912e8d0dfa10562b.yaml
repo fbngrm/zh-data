@@ -1,0 +1,47 @@
+{
+  "chinese": "汤姆以前从不抽烟，不过现在开始抽了。",
+  "english": "Tom used to never smoke, but now he has started.",
+  "pinyin": "Tāng mǔ yǐqián cóngbù chōuyān, bùguò xiànzài kāishǐ chōule.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "以前",
+      "en": "used to",
+      "pi": "yǐqián"
+    },
+    {
+      "ch": "从不",
+      "en": "never",
+      "pi": "cóngbù"
+    },
+    {
+      "ch": "抽烟",
+      "en": "smoke",
+      "pi": "chōuyān"
+    },
+    {
+      "ch": "不过",
+      "en": "but",
+      "pi": "bùguò"
+    },
+    {
+      "ch": "现在",
+      "en": "now",
+      "pi": "xiànzài"
+    },
+    {
+      "ch": "开始",
+      "en": "started",
+      "pi": "kāishǐ"
+    },
+    {
+      "ch": "抽了",
+      "en": "has started",
+      "pi": "chōule"
+    }
+  ]
+}

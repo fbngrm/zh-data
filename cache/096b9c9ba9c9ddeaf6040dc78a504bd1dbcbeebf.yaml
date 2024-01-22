@@ -1,0 +1,13 @@
+{
+  "chinese": "人们把这种鸟叫做布谷鸟。",
+  "english": "People call this bird a cuckoo.",
+  "pinyin": "rénmen bǎ zhèzhǒng niǎo jiàozuò bùgǔ niǎo.",
+  "words": [
+    { "ch": "人们", "en": "people", "pi": "rénmen" },
+    { "ch": "把", "en": "call", "pi": "bǎ" },
+    { "ch": "这种", "en": "this", "pi": "zhèzhǒng" },
+    { "ch": "鸟", "en": "bird", "pi": "niǎo" },
+    { "ch": "叫做", "en": "named", "pi": "jiàozuò" },
+    { "ch": "布谷鸟", "en": "cuckoo", "pi": "bùgǔ niǎo" }
+  ]
+}

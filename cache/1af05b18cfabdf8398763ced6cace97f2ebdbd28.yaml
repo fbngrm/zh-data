@@ -1,0 +1,32 @@
+{
+  "chinese": "我的老板要我加班。",
+  "english": "My boss wants me to work overtime.",
+  "pinyin": "Wǒ de lǎobǎn yào wǒ jiābān.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "老板",
+      "en": "boss",
+      "pi": "lǎobǎn"
+    },
+    {
+      "ch": "要",
+      "en": "wants",
+      "pi": "yào"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "加班",
+      "en": "to work overtime",
+      "pi": "jiābān"
+    }
+  ]
+}

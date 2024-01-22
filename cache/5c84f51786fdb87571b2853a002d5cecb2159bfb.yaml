@@ -1,0 +1,21 @@
+{
+  "chinese": "我通常踏單車上學⋯⋯啊，說錯了，應該是上班才對。",
+  "english": "I usually ride a bicycle to school... ah, I said it wrong, it should be to work.",
+  "pinyin": "wǒ tōngcháng tà dānchē shàng xué... ā, shuō cuò le, yīnggāi shì shàngbān cái duì.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "通常", "en": "usually", "pi": "tōngcháng"},
+    {"ch": "踏", "en": "ride", "pi": "tà"},
+    {"ch": "單車", "en": "bicycle", "pi": "dānchē"},
+    {"ch": "上學", "en": "to school", "pi": "shàng xué"},
+    {"ch": "⋯⋯", "en": "...", "pi": "..."},
+    {"ch": "啊", "en": "ah", "pi": "ā"},
+    {"ch": "說錯", "en": "said wrong", "pi": "shuō cuò"},
+    {"ch": "了", "en": "it", "pi": "le"},
+    {"ch": "應該", "en": "should", "pi": "yīnggāi"},
+    {"ch": "是", "en": "be", "pi": "shì"},
+    {"ch": "上班", "en": "to work", "pi": "shàngbān"},
+    {"ch": "才", "en": "only", "pi": "cái"},
+    {"ch": "對", "en": "correct", "pi": "duì"}
+  ]
+}

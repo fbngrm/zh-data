@@ -1,0 +1,47 @@
+{
+  "chinese": "麻烦你叫我起床吃早餐啦。",
+  "english": "Please wake me up to have breakfast.",
+  "pinyin": "Máfan nǐ jiào wǒ qǐchuáng chī zǎocān la.",
+  "words": [
+    {
+      "ch": "麻烦",
+      "en": "Please",
+      "pi": "máfan"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "叫",
+      "en": "wake",
+      "pi": "jiào"
+    },
+    {
+      "ch": "我",
+      "en": "me",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "起床",
+      "en": "up",
+      "pi": "qǐchuáng"
+    },
+    {
+      "ch": "吃",
+      "en": "have",
+      "pi": "chī"
+    },
+    {
+      "ch": "早餐",
+      "en": "breakfast",
+      "pi": "zǎocān"
+    },
+    {
+      "ch": "啦",
+      "en": "",
+      "pi": "la"
+    }
+  ]
+}

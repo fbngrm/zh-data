@@ -1,0 +1,37 @@
+{
+  "chinese": "汤姆想告诉你一些事情。",
+  "english": "Tom wants to tell you something.",
+  "pinyin": "tāng mǔ xiǎng gào sù nǐ yī xiē shì qíng。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "想",
+      "en": "wants",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "告诉",
+      "en": "to tell",
+      "pi": "gào sù"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "一些",
+      "en": "some",
+      "pi": "yī xiē"
+    },
+    {
+      "ch": "事情",
+      "en": "something",
+      "pi": "shì qíng"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "chinese": "天气很寒冷，雨也很多。",
+  "english": "The weather is very cold and there is also a lot of rain.",
+  "pinyin": "Tiānqì hěn hánlěng, yǔ yě hěn duō.",
+  "words": [
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiānqì"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "寒冷",
+      "en": "cold",
+      "pi": "hánlěng"
+    },
+    {
+      "ch": "，",
+      "en": "",
+      "pi": "，"
+    },
+    {
+      "ch": "雨",
+      "en": "rain",
+      "pi": "yǔ"
+    },
+    {
+      "ch": "也",
+      "en": "also",
+      "pi": "yě"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "多",
+      "en": "a lot",
+      "pi": "duō"
+    },
+    {
+      "ch": "。",
+      "en": "",
+      "pi": "。"
+    }
+  ]
+}

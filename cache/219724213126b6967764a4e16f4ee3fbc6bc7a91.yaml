@@ -1,0 +1,13 @@
+{ 
+  "chinese": "我刚跟主管人谈过。",
+  "english": "I just spoke with the supervisor.",
+  "pinyin": "Wǒ gāng gēn zhǔguǎn rén tán guò.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "刚", "en": "just", "pi": "gāng"},
+    {"ch": "跟", "en": "with", "pi": "gēn"},
+    {"ch": "主管", "en": "supervisor", "pi": "zhǔguǎn"},
+    {"ch": "人", "en": "person", "pi": "rén"},
+    {"ch": "谈过", "en": "spoke", "pi": "tán guò"}
+  ]
+}

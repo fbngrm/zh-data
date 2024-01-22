@@ -1,0 +1,32 @@
+{
+  "chinese": "国王下令把囚犯释放。",
+  "english": "The king ordered the release of the prisoners.",
+  "pinyin": "guó wáng xià lìng bǎ qiú fàn shì fàng.",
+  "words": [
+    {
+      "ch": "国王",
+      "en": "king",
+      "pi": "guó wáng"
+    },
+    {
+      "ch": "下令",
+      "en": "order",
+      "pi": "xià lìng"
+    },
+    {
+      "ch": "把",
+      "en": "to",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "囚犯",
+      "en": "prisoner",
+      "pi": "qiú fàn"
+    },
+    {
+      "ch": "释放",
+      "en": "release",
+      "pi": "shì fàng"
+    }
+  ]
+}

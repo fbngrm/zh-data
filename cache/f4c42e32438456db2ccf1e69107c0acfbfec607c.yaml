@@ -1,0 +1,177 @@
+{
+  "sentences": [
+    {
+      "chinese": "她是一個非常嬌小的女孩，但她真的自己抱著中音薩克斯。",
+      "english": "She is a very petite girl, but she really holds the alto saxophone herself.",
+      "pinyin": "Tā shì yīgè fēicháng jiāo xiǎo de nǚ hái, dàn tā zhēn de zìjǐ bàozhe zhōng yīn sà kè sī."
+    },
+    {
+      "chinese": "不過，我忍不住想像這個東西纏繞包裹住她，並像蟒蛇般的吞噬她。",
+      "english": "However, I can't help but imagine this thing wrapping around her and devouring her like a python.",
+      "pinyin": "Bùguò, wǒ rěnbùzhù xiǎng xiàng zhège dōngxi chánrào bāoguǒ zhù tā, bìng xiàng mǎngshé bān de tūnshì tā."
+    }
+  ],
+  "words": [
+    [
+      {
+        "ch": "她",
+        "en": "she",
+        "pi": "tā"
+      },
+      {
+        "ch": "是",
+        "en": "is",
+        "pi": "shì"
+      },
+      {
+        "ch": "一個",
+        "en": "a",
+        "pi": "yī gè"
+      },
+      {
+        "ch": "非常",
+        "en": "very",
+        "pi": "fēi cháng"
+      },
+      {
+        "ch": "嬌小",
+        "en": "petite",
+        "pi": "jiāo xiǎo"
+      },
+      {
+        "ch": "的",
+        "en": "",
+        "pi": "de"
+      },
+      {
+        "ch": "女孩",
+        "en": "girl",
+        "pi": "nǚ hái"
+      }
+    ],
+    [
+      {
+        "ch": "但",
+        "en": "but",
+        "pi": "dàn"
+      },
+      {
+        "ch": "她",
+        "en": "she",
+        "pi": "tā"
+      },
+      {
+        "ch": "真的",
+        "en": "really",
+        "pi": "zhēn de"
+      },
+      {
+        "ch": "自己",
+        "en": "herself",
+        "pi": "zì jǐ"
+      },
+      {
+        "ch": "抱著",
+        "en": "holds",
+        "pi": "bào zhe"
+      },
+      {
+        "ch": "中音",
+        "en": "alto",
+        "pi": "zhōng yīn"
+      },
+      {
+        "ch": "薩克斯",
+        "en": "saxophone",
+        "pi": "sà kè sī"
+      }
+    ],
+    [
+      {
+        "ch": "不過",
+        "en": "however",
+        "pi": "bù guò"
+      },
+      {
+        "ch": "我",
+        "en": "I",
+        "pi": "wǒ"
+      },
+      {
+        "ch": "忍不住",
+        "en": "can't help but",
+        "pi": "rěn bù zhù"
+      },
+      {
+        "ch": "想像",
+        "en": "imagine",
+        "pi": "xiǎng xiàng"
+      },
+      {
+        "ch": "這個",
+        "en": "this",
+        "pi": "zhè ge"
+      },
+      {
+        "ch": "東西",
+        "en": "thing",
+        "pi": "dōng xi"
+      },
+      {
+        "ch": "纏繞",
+        "en": "wrapping",
+        "pi": "chán rào"
+      },
+      {
+        "ch": "包裹",
+        "en": "around",
+        "pi": "bāo guǒ"
+      },
+      {
+        "ch": "住",
+        "en": "",
+        "pi": "zhù"
+      },
+      {
+        "ch": "她",
+        "en": "her",
+        "pi": "tā"
+      },
+      {
+        "ch": "並",
+        "en": "and",
+        "pi": "bìng"
+      },
+      {
+        "ch": "像",
+        "en": "like",
+        "pi": "xiàng"
+      },
+      {
+        "ch": "蟒蛇",
+        "en": "python",
+        "pi": "mǎng shé"
+      },
+      {
+        "ch": "般",
+        "en": "like",
+        "pi": "bān"
+      },
+      {
+        "ch": "的",
+        "en": "",
+        "pi": "de"
+      },
+      {
+        "ch": "吞噬",
+        "en": "devour",
+        "pi": "tūn shì"
+      },
+      {
+        "ch": "她",
+        "en": "her",
+        "pi": "tā"
+      }
+    ]
+  ]
+}

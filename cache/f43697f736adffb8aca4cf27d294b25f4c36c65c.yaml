@@ -1,0 +1,231 @@
+{
+  "sentences": [
+    {
+      "chinese": "你喜欢猫吗？",
+      "english": "Do you like cats?",
+      "pinyin": "nǐ xǐ huān māo ma?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "喜欢",
+          "en": "like",
+          "pi": "xǐ huān"
+        },
+        {
+          "ch": "猫",
+          "en": "cats",
+          "pi": "māo"
+        },
+        {
+          "ch": "吗",
+          "en": "",
+          "pi": "ma"
+        }
+      ]
+    },
+    {
+      "chinese": "我也爱猫。",
+      "english": "I love cats too.",
+      "pinyin": "wǒ yě ài māo.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "也",
+          "en": "too",
+          "pi": "yě"
+        },
+        {
+          "ch": "爱",
+          "en": "love",
+          "pi": "ài"
+        },
+        {
+          "ch": "猫",
+          "en": "cats",
+          "pi": "māo"
+        },
+        {
+          "ch": "。",
+          "en": "",
+          "pi": "."
+        }
+      ]
+    },
+    {
+      "chinese": "但我没有猫，因为我经常旅行。",
+      "english": "But I don't have cats because I travel a lot.",
+      "pinyin": "dàn wǒ méi yǒu māo, yīn wèi wǒ jīng cháng lǚ xíng.",
+      "words": [
+        {
+          "ch": "但",
+          "en": "but",
+          "pi": "dàn"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "没有",
+          "en": "don't have",
+          "pi": "méi yǒu"
+        },
+        {
+          "ch": "猫",
+          "en": "cats",
+          "pi": "māo"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": ","
+        },
+        {
+          "ch": "因为",
+          "en": "because",
+          "pi": "yīn wèi"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "经常",
+          "en": "often",
+          "pi": "jīng cháng"
+        },
+        {
+          "ch": "旅行",
+          "en": "travel",
+          "pi": "lǚ xíng"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": "."
+        }
+      ]
+    },
+    {
+      "chinese": "我也喜欢读书。",
+      "english": "I also enjoy reading.",
+      "pinyin": "wǒ yě xǐ huān dú shū.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "也",
+          "en": "also",
+          "pi": "yě"
+        },
+        {
+          "ch": "喜欢",
+          "en": "enjoy",
+          "pi": "xǐ huān"
+        },
+        {
+          "ch": "读书",
+          "en": "reading",
+          "pi": "dú shū"
+        },
+        {
+          "ch": "。",
+          "en": "",
+          "pi": "."
+        }
+      ]
+    },
+    {
+      "chinese": "能推荐个台湾作家或书吗？",
+      "english": "Can you recommend a Taiwanese author or book?",
+      "pinyin": "néng tuī jiàn gè tái wān zuò jiā huò shū ma?",
+      "words": [
+        {
+          "ch": "能",
+          "en": "can",
+          "pi": "néng"
+        },
+        {
+          "ch": "推荐",
+          "en": "recommend",
+          "pi": "tuī jiàn"
+        },
+        {
+          "ch": "个",
+          "en": "a",
+          "pi": "gè"
+        },
+        {
+          "ch": "台湾",
+          "en": "Taiwan",
+          "pi": "tái wān"
+        },
+        {
+          "ch": "作家",
+          "en": "author",
+          "pi": "zuò jiā"
+        },
+        {
+          "ch": "或",
+          "en": "or",
+          "pi": "huò"
+        },
+        {
+          "ch": "书",
+          "en": "book",
+          "pi": "shū"
+        },
+        {
+          "ch": "吗",
+          "en": "",
+          "pi": "ma"
+        },
+        {
+          "ch": "？",
+          "en": "?",
+          "pi": "？"
+        }
+      ]
+    },
+    {
+      "chinese": "我喜欢诗歌。",
+      "english": "I like poetry.",
+      "pinyin": "wǒ xǐ huān shī gē.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "喜欢",
+          "en": "like",
+          "pi": "xǐ huān"
+        },
+        {
+          "ch": "诗歌",
+          "en": "poetry",
+          "pi": "shī gē"
+        },
+        {
+          "ch": "。",
+          "en": "",
+          "pi": "."
+        }
+      ]
+    }
+  ]
+}

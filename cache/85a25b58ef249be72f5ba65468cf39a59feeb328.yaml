@@ -1,0 +1,12 @@
+{
+  "chinese": "我昨天买了这头猪。",
+  "english": "I bought this pig yesterday.",
+  "pinyin": "wǒ zuótiān mǎile zhètóu zhū.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "昨天", "en": "yesterday", "pi": "zuótiān" },
+    { "ch": "买了", "en": "bought", "pi": "mǎile" },
+    { "ch": "这头", "en": "this", "pi": "zhètóu" },
+    { "ch": "猪", "en": "pig", "pi": "zhū" }
+  ]
+}

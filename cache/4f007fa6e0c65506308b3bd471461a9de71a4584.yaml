@@ -1,0 +1,32 @@
+{
+  "chinese": "你现在在哪里工作？",
+  "english": "Where are you currently working?",
+  "pinyin": "nǐ xiànzài zài nǎlǐ gōngzuò?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "现在",
+      "en": "currently",
+      "pi": "xiànzài"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "哪里",
+      "en": "where",
+      "pi": "nǎlǐ"
+    },
+    {
+      "ch": "工作",
+      "en": "working",
+      "pi": "gōngzuò"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chinese": "今晚见吧!一会儿见咯!",
+  "english": "See you tonight! See you later!",
+  "pinyin": "jīn wǎn jiàn ba! yī huǐ ér jiàn lo!",
+  "words": [
+    {
+      "ch": "今晚",
+      "en": "tonight",
+      "pi": "jīn wǎn"
+    },
+    {
+      "ch": "见吧",
+      "en": "see you",
+      "pi": "jiàn ba"
+    },
+    {
+      "ch": "一会儿",
+      "en": "later",
+      "pi": "yī huǐ ér"
+    },
+    {
+      "ch": "见咯",
+      "en": "see you",
+      "pi": "jiàn lo"
+    }
+  ]
+}

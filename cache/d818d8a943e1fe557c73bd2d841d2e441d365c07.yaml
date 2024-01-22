@@ -1,0 +1,37 @@
+{
+  "chinese": "你有多少个兄弟姊妹？",
+  "english": "How many siblings do you have?",
+  "pinyin": "Nǐ yǒu duōshǎo gè xiōngdì zǐmèi?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "多少",
+      "en": "how many",
+      "pi": "duōshǎo"
+    },
+    {
+      "ch": "个",
+      "en": "measure word for individuals",
+      "pi": "gè"
+    },
+    {
+      "ch": "兄弟",
+      "en": "brothers",
+      "pi": "xiōngdì"
+    },
+    {
+      "ch": "姊妹",
+      "en": "sisters",
+      "pi": "zǐmèi"
+    }
+  ]
+}

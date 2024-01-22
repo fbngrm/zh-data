@@ -1,0 +1,37 @@
+{
+  "chinese": "你能猜到我的年龄吗？",
+  "english": "Can you guess my age?",
+  "pinyin": "Nǐ néng cāi dào wǒ de niánlíng ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "You",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "能",
+      "en": "Can",
+      "pi": "néng"
+    },
+    {
+      "ch": "猜到",
+      "en": "Guess",
+      "pi": "cāi dào"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "年龄",
+      "en": "age",
+      "pi": "niánlíng"
+    },
+    {
+      "ch": "吗",
+      "en": "?",
+      "pi": "ma"
+    }
+  ]
+}

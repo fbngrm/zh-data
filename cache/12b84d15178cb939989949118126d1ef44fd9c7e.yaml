@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆比玛丽年轻许多。",
+  "english": "Tom is much younger than Mary.",
+  "pinyin": "tāng mǔ bǐ mǎ lì nián qīng xǔ duō。",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "比",
+      "en": "is",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "玛丽",
+      "en": "Mary",
+      "pi": "mǎ lì"
+    },
+    {
+      "ch": "年轻",
+      "en": "young",
+      "pi": "nián qīng"
+    },
+    {
+      "ch": "许多",
+      "en": "much",
+      "pi": "xǔ duō"
+    }
+  ]
+}

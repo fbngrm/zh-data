@@ -1,0 +1,32 @@
+{
+  "chinese": "我养了一只母猫。",
+  "english": "I have a female cat.",
+  "pinyin": "wǒ yǎng le yī zhī mǔ māo.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "养",
+      "en": "have",
+      "pi": "yǎng"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "一只",
+      "en": "a",
+      "pi": "yī zhī"
+    },
+    {
+      "ch": "母猫",
+      "en": "female cat",
+      "pi": "mǔ māo"
+    }
+  ]
+}

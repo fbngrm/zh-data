@@ -1,0 +1,42 @@
+{
+  "chinese": "今天下午你想去动物园吗?",
+  "english": "Do you want to go to the zoo this afternoon?",
+  "pinyin": "jīn tiān xià wǔ nǐ xiǎng qù dòng wù yuán ma?",
+  "words": [
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīn tiān"
+    },
+    {
+      "ch": "下午",
+      "en": "afternoon",
+      "pi": "xià wǔ"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "去",
+      "en": "to go",
+      "pi": "qù"
+    },
+    {
+      "ch": "动物园",
+      "en": "zoo",
+      "pi": "dòng wù yuán"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

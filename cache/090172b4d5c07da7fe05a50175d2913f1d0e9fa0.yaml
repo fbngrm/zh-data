@@ -1,0 +1,32 @@
+{
+  "chinese": "你有驾驶执照吗？",
+  "english": "Do you have a driver's license?",
+  "pinyin": "nǐ yǒu jià shǐ zhí zhào ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "驾驶",
+      "en": "drive",
+      "pi": "jià shǐ"
+    },
+    {
+      "ch": "执照",
+      "en": "license",
+      "pi": "zhí zhào"
+    },
+    {
+      "ch": "吗",
+      "en": "",
+      "pi": "ma"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "她不再住在那里了。",
+  "english": "She doesn't live there anymore.",
+  "pinyin": "tā bù zài zhù zài nà lǐ le。",
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "不再",
+      "en": "doesn't anymore",
+      "pi": "bù zài"
+    },
+    {
+      "ch": "住在",
+      "en": "live in",
+      "pi": "zhù zài"
+    },
+    {
+      "ch": "那里",
+      "en": "there",
+      "pi": "nà lǐ"
+    },
+    {
+      "ch": "了",
+      "en": "anymore",
+      "pi": "le"
+    }
+  ]
+}

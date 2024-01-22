@@ -1,0 +1,37 @@
+{
+  "chinese": "這些樹是他們種的。",
+  "english": "These trees were planted by them.",
+  "pinyin": "zhè xiē shù shì tā men zhǒng de。",
+  "words": [
+    {
+      "ch": "這些",
+      "en": "These",
+      "pi": "zhè xiē"
+    },
+    {
+      "ch": "樹",
+      "en": "trees",
+      "pi": "shù"
+    },
+    {
+      "ch": "是",
+      "en": "were",
+      "pi": "shì"
+    },
+    {
+      "ch": "他們",
+      "en": "by them",
+      "pi": "tā men"
+    },
+    {
+      "ch": "種",
+      "en": "planted",
+      "pi": "zhǒng"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    }
+  ]
+}

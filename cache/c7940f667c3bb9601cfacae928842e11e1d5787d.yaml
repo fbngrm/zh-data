@@ -1,0 +1,47 @@
+{
+  "chinese": "对不起，但我听不太清楚你说话。",
+  "english": "I'm sorry, but I can't hear you very clearly.",
+  "pinyin": "duì bù qǐ, dàn wǒ tīng bù tài qīng chǔ nǐ shuō huà.",
+  "words": [
+    {
+      "ch": "对不起",
+      "en": "I'm sorry",
+      "pi": "duì bù qǐ"
+    },
+    {
+      "ch": "但",
+      "en": "but",
+      "pi": "dàn"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "听",
+      "en": "hear",
+      "pi": "tīng"
+    },
+    {
+      "ch": "不太",
+      "en": "not very",
+      "pi": "bù tài"
+    },
+    {
+      "ch": "清楚",
+      "en": "clearly",
+      "pi": "qīng chǔ"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "说话",
+      "en": "speak",
+      "pi": "shuō huà"
+    }
+  ]
+}

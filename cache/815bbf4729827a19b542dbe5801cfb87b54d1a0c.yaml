@@ -1,0 +1,32 @@
+{
+  "chinese": "你不能到外面去。",
+  "english": "You cannot go outside.",
+  "pinyin": "nǐ bù néng dào wàimiàn qù.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "不能",
+      "en": "cannot",
+      "pi": "bù néng"
+    },
+    {
+      "ch": "到",
+      "en": "go to",
+      "pi": "dào"
+    },
+    {
+      "ch": "外面",
+      "en": "outside",
+      "pi": "wàimiàn"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "你最喜欢哪一个科目?",
+  "english": "Which subject do you like the most?",
+  "pinyin": "Nǐ zuì xǐhuān nǎ yīgè kēmù?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "最",
+      "en": "most",
+      "pi": "zuì"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "哪一个",
+      "en": "which",
+      "pi": "nǎ yīgè"
+    },
+    {
+      "ch": "科目",
+      "en": "subject",
+      "pi": "kēmù"
+    }
+  ]
+}

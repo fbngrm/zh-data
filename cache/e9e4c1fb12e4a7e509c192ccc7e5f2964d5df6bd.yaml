@@ -1,0 +1,32 @@
+{
+  "chinese": "早上八点叫我起床吧。",
+  "english": "Wake me up at eight o'clock in the morning.",
+  "pinyin": "zǎoshang bā diǎn jiào wǒ qǐchuáng ba。",
+  "words": [
+    {
+      "ch": "早上",
+      "en": "morning",
+      "pi": "zǎoshang"
+    },
+    {
+      "ch": "八点",
+      "en": "eight o'clock",
+      "pi": "bā diǎn"
+    },
+    {
+      "ch": "叫我",
+      "en": "wake me up",
+      "pi": "jiào wǒ"
+    },
+    {
+      "ch": "起床",
+      "en": "get up",
+      "pi": "qǐchuáng"
+    },
+    {
+      "ch": "吧",
+      "en": "please",
+      "pi": "ba"
+    }
+  ]
+}

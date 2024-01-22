@@ -1,0 +1,13 @@
+{
+  "chinese": "昨天打电话的时候，她应该到家了。",
+  "english": "When I called yesterday, she should have arrived home.",
+  "pinyin": "Zuótiān dǎ diànhuà de shíhòu, tā yīnggāi dàojiā le.",
+  "words": [
+    { "ch": "昨天", "en": "yesterday", "pi": "zuótiān" },
+    { "ch": "打电话", "en": "call", "pi": "dǎ diànhuà" },
+    { "ch": "的时候", "en": "when", "pi": "de shíhòu" },
+    { "ch": "她", "en": "she", "pi": "tā" },
+    { "ch": "应该", "en": "should", "pi": "yīnggāi" },
+    { "ch": "到家了", "en": "have arrived home", "pi": "dàojiā le" }
+  ]
+}

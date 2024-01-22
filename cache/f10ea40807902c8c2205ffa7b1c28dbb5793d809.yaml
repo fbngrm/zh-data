@@ -1,0 +1,14 @@
+{
+  "chinese": "他自己画这幅画的吗？",
+  "english": "Did he draw this painting himself?",
+  "pinyin": "tā zìjǐ huà zhè fú huà de ma?",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "自己", "en": "oneself", "pi": "zìjǐ"},
+    {"ch": "画", "en": "draw", "pi": "huà"},
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "幅", "en": "measure word for paintings", "pi": "fú"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

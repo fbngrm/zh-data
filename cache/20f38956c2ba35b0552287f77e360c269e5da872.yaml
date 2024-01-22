@@ -1,0 +1,32 @@
+{
+  "chinese": "你吃饱了吗？",
+  "english": "Have you eaten?",
+  "pinyin": "nǐ chī bǎo le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "饱",
+      "en": "full",
+      "pi": "bǎo"
+    },
+    {
+      "ch": "了",
+      "en": "exclamation particle",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

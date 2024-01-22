@@ -1,0 +1,32 @@
+{
+  "chinese": "我会教你下棋。",
+  "english": "I will teach you how to play chess.",
+  "pinyin": "wǒ huì jiāo nǐ xià qí。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "会",
+      "en": "will",
+      "pi": "huì"
+    },
+    {
+      "ch": "教",
+      "en": "teach",
+      "pi": "jiāo"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "下棋",
+      "en": "how to play chess",
+      "pi": "xià qí"
+    }
+  ]
+}

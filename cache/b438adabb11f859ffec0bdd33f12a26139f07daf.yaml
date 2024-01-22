@@ -1,0 +1,32 @@
+{
+  "chinese": "你看到什么拿什么。",
+  "english": "You see something, take something.",
+  "pinyin": "Nǐ kàn dào shénme ná shénme.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "看到",
+      "en": "see",
+      "pi": "kàn dào"
+    },
+    {
+      "ch": "什么",
+      "en": "something",
+      "pi": "shénme"
+    },
+    {
+      "ch": "拿",
+      "en": "take",
+      "pi": "ná"
+    },
+    {
+      "ch": "什么",
+      "en": "something",
+      "pi": "shénme"
+    }
+  ]
+}

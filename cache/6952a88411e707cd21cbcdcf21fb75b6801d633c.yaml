@@ -1,0 +1,42 @@
+{
+  "chinese": "下雨也没关系，我还是可以去。",
+  "english": "It's okay even if it rains, I can still go.",
+  "pinyin": "xià yǔ yě méi guānxi, wǒ háishì kěyǐ qù.",
+  "words": [
+    {
+      "ch": "下雨",
+      "en": "rain",
+      "pi": "xià yǔ"
+    },
+    {
+      "ch": "也",
+      "en": "also",
+      "pi": "yě"
+    },
+    {
+      "ch": "没关系",
+      "en": "it's okay",
+      "pi": "méi guānxi"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "还是",
+      "en": "still",
+      "pi": "háishì"
+    },
+    {
+      "ch": "可以",
+      "en": "can",
+      "pi": "kěyǐ"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    }
+  ]
+}

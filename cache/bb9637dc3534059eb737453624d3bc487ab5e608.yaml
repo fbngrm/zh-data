@@ -1,0 +1,17 @@
+{
+  "chinese": "你买了衣服，还想买别的东西吗？",
+  "english": "Did you buy clothes? Do you want to buy something else?",
+  "pinyin": "Nǐ mǎi le yīfú, hái xiǎng mǎi bié de dōngxī ma?",
+  "words": [
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "买了", "en": "bought", "pi": "mǎi le" },
+    { "ch": "衣服", "en": "clothes", "pi": "yīfú" },
+    { "ch": "，", "en": ",", "pi": "，" },
+    { "ch": "还想", "en": "still want", "pi": "hái xiǎng" },
+    { "ch": "买", "en": "to buy", "pi": "mǎi" },
+    { "ch": "别的", "en": "something else", "pi": "bié de" },
+    { "ch": "东西", "en": "things", "pi": "dōngxī" },
+    { "ch": "吗", "en": "?", "pi": "ma" },
+    { "ch": "？", "en": "?", "pi": "？" }
+  ]
+}

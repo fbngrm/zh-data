@@ -1,0 +1,32 @@
+{
+  "chinese": "这里的冬天很少下雪。",
+  "english": "It rarely snows in winter here.",
+  "pinyin": "zhè lǐ de dōng tiān hěn shǎo xià xuě。",
+  "words": [
+    {
+      "ch": "这里",
+      "en": "here",
+      "pi": "zhè lǐ"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "冬天",
+      "en": "winter",
+      "pi": "dōng tiān"
+    },
+    {
+      "ch": "很少",
+      "en": "rarely",
+      "pi": "hěn shǎo"
+    },
+    {
+      "ch": "下雪",
+      "en": "snows",
+      "pi": "xià xuě"
+    }
+  ]
+}

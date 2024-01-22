@@ -1,0 +1,13 @@
+{
+  "chinese": "你的袜子上有个洞。",
+  "english": "There's a hole in your sock.",
+  "pinyin": "nǐ de wà zi shàng yǒu gè dòng。",
+  "words": [
+    { "ch": "你的", "en": "your", "pi": "nǐ de" },
+    { "ch": "袜子", "en": "sock", "pi": "wà zi" },
+    { "ch": "上", "en": "on", "pi": "shàng" },
+    { "ch": "有", "en": "have", "pi": "yǒu" },
+    { "ch": "个", "en": "a", "pi": "gè" },
+    { "ch": "洞", "en": "hole", "pi": "dòng" }
+  ]
+}

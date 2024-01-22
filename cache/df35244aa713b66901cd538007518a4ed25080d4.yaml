@@ -1,0 +1,32 @@
+{
+  "chinese": "火车该在中午到。",
+  "english": "The train should arrive at noon.",
+  "pinyin": "huǒ chē gāi zài zhōng wǔ dào。",
+  "words": [
+    {
+      "ch": "火车",
+      "en": "train",
+      "pi": "huǒ chē"
+    },
+    {
+      "ch": "该",
+      "en": "should",
+      "pi": "gāi"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "中午",
+      "en": "noon",
+      "pi": "zhōng wǔ"
+    },
+    {
+      "ch": "到",
+      "en": "arrive",
+      "pi": "dào"
+    }
+  ]
+}

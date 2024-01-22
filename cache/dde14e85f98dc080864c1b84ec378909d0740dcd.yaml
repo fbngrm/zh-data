@@ -1,0 +1,32 @@
+{
+  "chinese": "太阳在晚上不亮。",
+  "english": "The sun doesn't shine at night.",
+  "pinyin": "tài yáng zài wǎn shàng bù liàng.",
+  "words": [
+    {
+      "ch": "太阳",
+      "en": "The sun",
+      "pi": "tài yáng"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "晚上",
+      "en": "night",
+      "pi": "wǎn shàng"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "亮",
+      "en": "shine",
+      "pi": "liàng"
+    }
+  ]
+}

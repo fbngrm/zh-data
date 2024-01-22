@@ -1,0 +1,27 @@
+{
+  "sentences": [
+    {
+      "chinese": "好像我做电灯泡了。",
+      "english": "It seems like I'm just a third wheel.",
+      "pinyin": "hǎoxiàng wǒ zuò diàndēngpào le。",
+      "words": [
+        {"ch": "好像", "en": "seem like", "pi": "hǎoxiàng"},
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "做", "en": "do", "pi": "zuò"},
+        {"ch": "电灯泡", "en": "third wheel", "pi": "diàndēngpào"},
+        {"ch": "了", "en": "了", "pi": "le"}
+      ]
+    },
+    {
+      "chinese": "我该走了。",
+      "english": "I should go now.",
+      "pinyin": "wǒ gāi zǒu le。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "该", "en": "should", "pi": "gāi"},
+        {"ch": "走", "en": "go", "pi": "zǒu"},
+        {"ch": "了", "en": "了", "pi": "le"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "sentences": [
+    {
+      "chinese": "喂！這裏跑步很危險的。",
+      "english": "Hey! It's very dangerous to run here.",
+      "pinyin": "Wèi! Zhè lǐ pǎobù hěn wēixiǎn de.",
+      "words": [
+        {"ch": "喂", "en": "Hey", "pi": "Wèi"},
+        {"ch": "这里", "en": "here", "pi": "Zhè lǐ"},
+        {"ch": "跑步", "en": "run", "pi": "pǎobù"},
+        {"ch": "很", "en": "very", "pi": "hěn"},
+        {"ch": "危险", "en": "dangerous", "pi": "wēixiǎn"},
+        {"ch": "的", "en": "to", "pi": "de"}
+      ]
+    },
+    {
+      "chinese": "嗯？……啊、啊、啊！！",
+      "english": "Huh?... Ah, ah, ah!!",
+      "pinyin": "Èn?... Ā, ā, ā!!",
+      "words": [
+        {"ch": "嗯", "en": "Huh", "pi": "Èn"},
+        {"ch": "啊", "en": "Ah", "pi": "Ā"},
+        {"ch": "、", "en": ",", "pi": ""},
+        {"ch": "啊", "en": "Ah", "pi": "Ā"},
+        {"ch": "、", "en": ",", "pi": ""},
+        {"ch": "啊", "en": "Ah", "pi": "Ā"},
+        {"ch": "！", "en": "!", "pi": ""}
+      ]
+    },
+    {
+      "chinese": "唉，我剛才不是和你說了嗎？",
+      "english": "Sigh, didn't I just tell you?",
+      "pinyin": "Āi, wǒ gāngcái bùshì hé nǐ shuōle ma?",
+      "words": [
+        {"ch": "唉", "en": "Sigh", "pi": "Āi"},
+        {"ch": "，", "en": ",", "pi": ""},
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "刚才", "en": "just", "pi": "gāngcái"},
+        {"ch": "不是", "en": "didn't", "pi": "bùshì"},
+        {"ch": "和", "en": "I", "pi": "hé"},
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "说了", "en": "tell", "pi": "shuōle"},
+        {"ch": "吗", "en": "?" pi": "ma"}
+      ]
+    }
+  ]
+}

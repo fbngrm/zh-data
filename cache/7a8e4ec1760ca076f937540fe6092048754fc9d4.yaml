@@ -1,0 +1,42 @@
+{
+  "chinese": "我的金丝雀被一只猫杀死了。",
+  "english": "My canary was killed by a cat.",
+  "pinyin": "wǒ de jīn sī què bèi yī zhī māo shā sǐ le.",
+  "words": [
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "金丝雀",
+      "en": "canary",
+      "pi": "jīn sī què"
+    },
+    {
+      "ch": "被",
+      "en": "was",
+      "pi": "bèi"
+    },
+    {
+      "ch": "一只",
+      "en": "by",
+      "pi": "yī zhī"
+    },
+    {
+      "ch": "猫",
+      "en": "a cat",
+      "pi": "māo"
+    },
+    {
+      "ch": "杀死",
+      "en": "killed",
+      "pi": "shā sǐ"
+    },
+    {
+      "ch": "了",
+      "en": "was",
+      "pi": "le"
+    }
+  ]
+}

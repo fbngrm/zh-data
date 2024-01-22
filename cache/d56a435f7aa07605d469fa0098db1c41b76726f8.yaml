@@ -1,0 +1,13 @@
+{
+  "chinese": "我去过上海周围的地方。",
+  "english": "I have been to places around Shanghai.",
+  "pinyin": "wǒ qù guò shànghǎi zhōuwéi de dìfāng.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "去过", "en": "have been to", "pi": "qù guò"},
+    {"ch": "上海", "en": "Shanghai", "pi": "shànghǎi"},
+    {"ch": "周围", "en": "around", "pi": "zhōuwéi"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "地方", "en": "places", "pi": "dìfāng"}
+  ]
+}

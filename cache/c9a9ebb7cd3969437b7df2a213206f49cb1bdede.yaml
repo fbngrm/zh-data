@@ -1,0 +1,37 @@
+{
+  "chinese": "她的头发中夹有白发。",
+  "english": "There are white hairs in her hair.",
+  "pinyin": "tā de tóu fǎ zhōng jiā yǒu bái fà.",
+  "words": [
+    {
+      "ch": "她的",
+      "en": "her",
+      "pi": "tā de"
+    },
+    {
+      "ch": "头发",
+      "en": "hair",
+      "pi": "tóu fǎ"
+    },
+    {
+      "ch": "中",
+      "en": "in",
+      "pi": "zhōng"
+    },
+    {
+      "ch": "夹",
+      "en": "have",
+      "pi": "jiā"
+    },
+    {
+      "ch": "有",
+      "en": "white",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "白发",
+      "en": "hairs",
+      "pi": "bái fà"
+    }
+  ]
+}

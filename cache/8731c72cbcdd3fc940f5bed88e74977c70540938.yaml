@@ -1,0 +1,20 @@
+{
+  "chinese": "我也不喜欢谷歌翻译，但是我经常会使用它作为参考。",
+  "english": "I also don't like Google Translate, but I often use it as a reference.",
+  "pinyin": "wǒ yě bù xǐhuān Gǔgē fānyì, dànshì wǒ jīngcháng huì shǐyòng tā zuòwéi cānkǎo.",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "也", "en": "also", "pi": "yě" },
+    { "ch": "不", "en": "don't", "pi": "bù" },
+    { "ch": "喜欢", "en": "like", "pi": "xǐhuān" },
+    { "ch": "谷歌翻译", "en": "Google Translate", "pi": "Gǔgē fānyì" },
+    { "ch": "但是", "en": "but", "pi": "dànshì" },
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "经常", "en": "often", "pi": "jīngcháng" },
+    { "ch": "会", "en": "use", "pi": "huì" },
+    { "ch": "使用", "en": "use", "pi": "shǐyòng" },
+    { "ch": "它", "en": "it", "pi": "tā" },
+    { "ch": "作为", "en": "as", "pi": "zuòwéi" },
+    { "ch": "参考", "en": "reference", "pi": "cānkǎo" }
+  ]
+}

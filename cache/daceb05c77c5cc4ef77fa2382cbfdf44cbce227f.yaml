@@ -1,0 +1,15 @@
+{
+  "chinese": "我会给你做一套新衣服。",
+  "english": "I will make you a set of new clothes.",
+  "pinyin": "wǒ huì gěi nǐ zuò yī tào xīn yīfu.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "给", "en": "give", "pi": "gěi"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "做", "en": "make", "pi": "zuò"},
+    {"ch": "一套", "en": "a set of", "pi": "yī tào"},
+    {"ch": "新", "en": "new", "pi": "xīn"},
+    {"ch": "衣服", "en": "clothes", "pi": "yīfu"}
+  ]
+}

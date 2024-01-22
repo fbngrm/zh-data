@@ -1,0 +1,32 @@
+{
+  "chinese": "从此以后我自由了。",
+  "english": "From now on, I am free.",
+  "pinyin": "cóng cǐ yǐhòu wǒ zìyóu le.",
+  "words": [
+    {
+      "ch": "从此",
+      "en": "From now on",
+      "pi": "cóng cǐ"
+    },
+    {
+      "ch": "以后",
+      "en": "after",
+      "pi": "yǐhòu"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "自由",
+      "en": "free",
+      "pi": "zìyóu"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating a new situation",
+      "pi": "le"
+    }
+  ]
+}

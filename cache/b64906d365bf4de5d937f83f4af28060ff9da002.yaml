@@ -1,0 +1,37 @@
+{
+  "chinese": "我已经做了我的家庭作业。",
+  "english": "I have finished my homework.",
+  "pinyin": "wǒ yǐjīng zuò le wǒ de jiātíng zuòyè。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "已经",
+      "en": "have",
+      "pi": "yǐjīng"
+    },
+    {
+      "ch": "做",
+      "en": "finished",
+      "pi": "zuò"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "家庭作业",
+      "en": "homework",
+      "pi": "jiātíng zuòyè"
+    }
+  ]
+}

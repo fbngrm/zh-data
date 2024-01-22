@@ -1,0 +1,32 @@
+{
+  "chinese": "昨天他研读英语了吗？",
+  "english": "Did he study English yesterday?",
+  "pinyin": "zuó tiān tā yán dú yīng yǔ le ma?",
+  "words": [
+    {
+      "ch": "昨天",
+      "en": "yesterday",
+      "pi": "zuó tiān"
+    },
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "研读",
+      "en": "study",
+      "pi": "yán dú"
+    },
+    {
+      "ch": "英语",
+      "en": "English",
+      "pi": "yīng yǔ"
+    },
+    {
+      "ch": "了吗",
+      "en": "did",
+      "pi": "le ma"
+    }
+  ]
+}

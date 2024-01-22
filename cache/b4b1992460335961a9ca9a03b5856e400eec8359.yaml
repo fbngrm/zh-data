@@ -1,0 +1,16 @@
+{
+  "chinese": "我决定去美国，而不是欧洲。",
+  "english": "I decided to go to the United States instead of Europe.",
+  "pinyin": "wǒ juédìng qù měiguó, ér bùshì ōuzhōu.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "决定", "en": "decide", "pi": "juédìng"},
+    {"ch": "去", "en": "go to", "pi": "qù"},
+    {"ch": "美国", "en": "United States", "pi": "měiguó"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "而", "en": "rather", "pi": "ér"},
+    {"ch": "不是", "en": "instead of", "pi": "bùshì"},
+    {"ch": "欧洲", "en": "Europe", "pi": "ōuzhōu"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

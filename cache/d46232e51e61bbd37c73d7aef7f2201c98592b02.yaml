@@ -1,0 +1,47 @@
+{
+  "chinese": "我找到了我正在找的东西。",
+  "english": "I found what I was looking for.",
+  "pinyin": "wǒ zhǎodàole wǒ zhèngzài zhǎo de dōngxi。",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "找到",
+      "en": "found",
+      "pi": "zhǎodào"
+    },
+    {
+      "ch": "了",
+      "en": "what",
+      "pi": "le"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "正在",
+      "en": "am",
+      "pi": "zhèngzài"
+    },
+    {
+      "ch": "找",
+      "en": "looking",
+      "pi": "zhǎo"
+    },
+    {
+      "ch": "的",
+      "en": "for",
+      "pi": "de"
+    },
+    {
+      "ch": "东西",
+      "en": "thing",
+      "pi": "dōngxi"
+    }
+  ]
+}

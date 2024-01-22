@@ -1,0 +1,32 @@
+{
+  "chinese": "这个馓子太好吃了！",
+  "english": "This Sanzi is so delicious!",
+  "pinyin": "zhè gè sǎn zi tài hǎo chī le!",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "This",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "馓子",
+      "en": "Sanzi",
+      "pi": "sǎn zi"
+    },
+    {
+      "ch": "太",
+      "en": "so",
+      "pi": "tài"
+    },
+    {
+      "ch": "好吃",
+      "en": "delicious",
+      "pi": "hǎo chī"
+    },
+    {
+      "ch": "了",
+      "en": "!",
+      "pi": "le"
+    }
+  ]
+}

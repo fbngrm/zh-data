@@ -1,0 +1,13 @@
+{
+  "chinese": "你的姐姐在这里上学吗？",
+  "english": "Does your older sister go to school here?",
+  "pinyin": "nǐ de jiějiě zài zhèlǐ shàngxué ma?",
+  "words": [
+    {"ch": "你的", "en": "your", "pi": "nǐ de"},
+    {"ch": "姐姐", "en": "older sister", "pi": "jiějiě"},
+    {"ch": "在", "en": "here", "pi": "zài"},
+    {"ch": "这里", "en": "go to", "pi": "zhèlǐ"},
+    {"ch": "上学", "en": "school", "pi": "shàngxué"},
+    {"ch": "吗", "en": "does", "pi": "ma"}
+  ]
+}

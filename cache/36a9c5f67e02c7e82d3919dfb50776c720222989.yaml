@@ -1,0 +1,11 @@
+{
+  "chinese": "我刚刚读完这本书。",
+  "english": "I just finished reading this book.",
+  "pinyin": "wǒ gānggāng dúwán zhè běn shū。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "刚刚", "en": "just", "pi": "gānggāng"},
+    {"ch": "读完", "en": "finished reading", "pi": "dúwán"},
+    {"ch": "这本书", "en": "this book", "pi": "zhè běn shū"}
+  ]
+}

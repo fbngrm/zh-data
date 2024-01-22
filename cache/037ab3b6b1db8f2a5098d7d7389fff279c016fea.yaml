@@ -1,0 +1,32 @@
+{
+  "chinese": "汤姆真的不能读或写字吗？",
+  "english": "Can Tom really not read or write?",
+  "pinyin": "Tāng mǔ zhēn de bù néng dú huò xiě zì ma?",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "tāng mǔ"
+    },
+    {
+      "ch": "真的",
+      "en": "really",
+      "pi": "zhēn de"
+    },
+    {
+      "ch": "不能",
+      "en": "cannot",
+      "pi": "bù néng"
+    },
+    {
+      "ch": "读或写字",
+      "en": "read or write",
+      "pi": "dú huò xiě zì"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

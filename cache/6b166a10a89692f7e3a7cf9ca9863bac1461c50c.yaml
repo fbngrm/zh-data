@@ -1,0 +1,42 @@
+{
+  "chinese": "爸爸建议今天下午去看电影。",
+  "english": "Dad suggested going to watch a movie this afternoon.",
+  "pinyin": "Bàba jiànyì jīntiān xiàwǔ qù kàn diànyǐng.",
+  "words": [
+    {
+      "ch": "爸爸",
+      "en": "Dad",
+      "pi": "bàba"
+    },
+    {
+      "ch": "建议",
+      "en": "suggested",
+      "pi": "jiànyì"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "下午",
+      "en": "afternoon",
+      "pi": "xiàwǔ"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "看",
+      "en": "watch",
+      "pi": "kàn"
+    },
+    {
+      "ch": "电影",
+      "en": "movie",
+      "pi": "diànyǐng"
+    }
+  ]
+}

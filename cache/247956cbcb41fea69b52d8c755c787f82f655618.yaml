@@ -1,0 +1,32 @@
+{
+  "chinese": "我在叠我的连衣裙。",
+  "english": "I am folding my dress.",
+  "pinyin": "wǒ zài dié wǒ de lián yī qún.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "在",
+      "en": "am",
+      "pi": "zài"
+    },
+    {
+      "ch": "叠",
+      "en": "folding",
+      "pi": "dié"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "连衣裙",
+      "en": "dress",
+      "pi": "lián yī qún"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "chinese": "天气转好了。",
+  "english": "The weather has improved.",
+  "pinyin": "tiānqì zhuǎn hǎo le。",
+  "words": [
+    {"ch": "天气", "en": "weather", "pi": "tiānqì"},
+    {"ch": "转", "en": "turn", "pi": "zhuǎn"},
+    {"ch": "好", "en": "good", "pi": "hǎo"},
+    {"ch": "了", "en": "already", "pi": "le"}
+  ]
+}

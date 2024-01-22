@@ -1,0 +1,200 @@
+{
+  "sentences": [
+    {
+      "chinese": "她出生的那个时代奴隶制度刚刚结束",
+      "english": "The era she was born in had just ended slavery.",
+      "pinyin": "tā chūshēng de nàgè shídài núlì zhìdù gānggāng jiéshù",
+      "words": [
+        {
+          "ch": "她",
+          "en": "she",
+          "pi": "tā"
+        },
+        {
+          "ch": "出生",
+          "en": "born",
+          "pi": "chūshēng"
+        },
+        {
+          "ch": "的",
+          "en": "of",
+          "pi": "de"
+        },
+        {
+          "ch": "那个",
+          "en": "that",
+          "pi": "nàgè"
+        },
+        {
+          "ch": "时代",
+          "en": "era",
+          "pi": "shídài"
+        },
+        {
+          "ch": "奴隶制度",
+          "en": "slavery",
+          "pi": "núlì zhìdù"
+        },
+        {
+          "ch": "刚刚",
+          "en": "just",
+          "pi": "gānggāng"
+        },
+        {
+          "ch": "结束",
+          "en": "ended",
+          "pi": "jiéshù"
+        }
+      ]
+    },
+    {
+      "chinese": "那时路上没有汽车，天上也没有飞机",
+      "english": "There were no cars on the road, nor planes in the sky at that time.",
+      "pinyin": "nàshí lùshàng méiyǒu qìchē, tiānshàng yě méiyǒu fēijī",
+      "words": [
+        {
+          "ch": "那时",
+          "en": "at that time",
+          "pi": "nàshí"
+        },
+        {
+          "ch": "路上",
+          "en": "on the road",
+          "pi": "lùshàng"
+        },
+        {
+          "ch": "没有",
+          "en": "no",
+          "pi": "méiyǒu"
+        },
+        {
+          "ch": "汽车",
+          "en": "car",
+          "pi": "qìchē"
+        },
+        {
+          "ch": "天上",
+          "en": "in the sky",
+          "pi": "tiānshàng"
+        },
+        {
+          "ch": "也",
+          "en": "nor",
+          "pi": "yě"
+        },
+        {
+          "ch": "没有",
+          "en": "no",
+          "pi": "méiyǒu"
+        },
+        {
+          "ch": "飞机",
+          "en": "plane",
+          "pi": "fēijī"
+        }
+      ]
+    },
+    {
+      "chinese": "当时像她这样的人由于两个原因不能投票，首先她是女性，其次她是黑人",
+      "english": "At that time, people like her couldn't vote for two reasons. Firstly, she was a woman and secondly, she was black.",
+      "pinyin": "dāngshí xiàng tā zhèyàng de rén yóuyú liǎng gè yuányīn bùnéng tóupiào, shǒuxiān tā shì nǚxìng, qícì tā shì hēirén",
+      "words": [
+        {
+          "ch": "当时",
+          "en": "at that time",
+          "pi": "dāngshí"
+        },
+        {
+          "ch": "像",
+          "en": "like",
+          "pi": "xiàng"
+        },
+        {
+          "ch": "她",
+          "en": "her",
+          "pi": "tā"
+        },
+        {
+          "ch": "这样",
+          "en": "such",
+          "pi": "zhèyàng"
+        },
+        {
+          "ch": "的",
+          "en": "of",
+          "pi": "de"
+        },
+        {
+          "ch": "人",
+          "en": "people",
+          "pi": "rén"
+        },
+        {
+          "ch": "由于",
+          "en": "because of",
+          "pi": "yóuyú"
+        },
+        {
+          "ch": "两个",
+          "en": "two",
+          "pi": "liǎng gè"
+        },
+        {
+          "ch": "原因",
+          "en": "reasons",
+          "pi": "yuányīn"
+        },
+        {
+          "ch": "不能",
+          "en": "couldn't",
+          "pi": "bùnéng"
+        },
+        {
+          "ch": "投票",
+          "en": "vote",
+          "pi": "tóupiào"
+        },
+        {
+          "ch": "首先",
+          "en": "firstly",
+          "pi": "shǒuxiān"
+        },
+        {
+          "ch": "她",
+          "en": "she",
+          "pi": "tā"
+        },
+        {
+          "ch": "是",
+          "en": "was",
+          "pi": "shì"
+        },
+        {
+          "ch": "女性",
+          "en": "a woman",
+          "pi": "nǚxìng"
+        },
+        {
+          "ch": "其次",
+          "en": "secondly",
+          "pi": "qícì"
+        },
+        {
+          "ch": "她",
+          "en": "she",
+          "pi": "tā"
+        },
+        {
+          "ch": "是",
+          "en": "was",
+          "pi": "shì"
+        },
+        {
+          "ch": "黑人",
+          "en": "black",
+          "pi": "hēirén"
+        }
+      ]
+    }
+  ]
+}

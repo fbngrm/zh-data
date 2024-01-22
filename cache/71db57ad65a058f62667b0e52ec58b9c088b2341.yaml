@@ -1,0 +1,32 @@
+{
+  "chinese": "我感冒了还发烧。",
+  "english": "I have a cold and a fever.",
+  "pinyin": "Wǒ gǎnmào le hái fāshāo.",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "感冒",
+      "en": "cold",
+      "pi": "gǎnmào"
+    },
+    {
+      "ch": "了",
+      "en": "have",
+      "pi": "le"
+    },
+    {
+      "ch": "还",
+      "en": "and",
+      "pi": "hái"
+    },
+    {
+      "ch": "发烧",
+      "en": "fever",
+      "pi": "fāshāo"
+    }
+  ]
+}

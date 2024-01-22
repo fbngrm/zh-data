@@ -1,0 +1,17 @@
+{
+  "chinese": "两个孩子的年龄加起来和他们的父亲相当。",
+  "english": "The combined age of two children is equal to their father.",
+  "pinyin": "Liǎng gè háizi de niánlíng jiā qǐlái hé tāmen de fùqī xiāngdāng。",
+  "words": [
+    {"ch": "两个", "en": "two", "pi": "liǎng gè"},
+    {"ch": "孩子", "en": "children", "pi": "hái zi"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "年龄", "en": "age", "pi": "nián lǐng"},
+    {"ch": "加起来", "en": "combined", "pi": "jiā qǐ lái"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "他们", "en": "their", "pi": "tā men"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "父亲", "en": "father", "pi": "fù qīn"},
+    {"ch": "相当", "en": "equal", "pi": "xiāng dāng"}
+  ]
+}

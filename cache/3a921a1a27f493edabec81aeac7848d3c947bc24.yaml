@@ -1,0 +1,42 @@
+{
+  "chinese": "汤姆做了一套新衣服给吉儿。",
+  "english": "Tom made a new set of clothes for Jerry.",
+  "pinyin": "Tāng mǔ zuòle yī tào xīn yīfú gěi jí'ér.",
+  "words": [
+    {
+      "ch": "汤姆",
+      "en": "Tom",
+      "pi": "Tāng mǔ"
+    },
+    {
+      "ch": "做了",
+      "en": "made",
+      "pi": "zuòle"
+    },
+    {
+      "ch": "一套",
+      "en": "a set of",
+      "pi": "yī tào"
+    },
+    {
+      "ch": "新",
+      "en": "new",
+      "pi": "xīn"
+    },
+    {
+      "ch": "衣服",
+      "en": "clothes",
+      "pi": "yīfú"
+    },
+    {
+      "ch": "给",
+      "en": "for",
+      "pi": "gěi"
+    },
+    {
+      "ch": "吉儿",
+      "en": "Jerry",
+      "pi": "jí'ér"
+    }
+  ]
+}

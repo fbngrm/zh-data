@@ -1,0 +1,21 @@
+{
+  "chinese": "那我就不继续打扰你，玩数独游戏去了。",
+  "english": "Then I won't disturb you anymore, I'll go play sudoku.",
+  "pinyin": "Nà wǒ jiù bù jìxù dǎrǎo nǐ, wán shùdú yóuxì qùle.",
+  "words": [
+    {"ch": "那", "en": "Then", "pi": "nà"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "就", "en": "will", "pi": "jiù"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "继续", "en": "continue", "pi": "jìxù"},
+    {"ch": "打扰", "en": "disturb", "pi": "dǎrǎo"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "玩", "en": "play", "pi": "wán"},
+    {"ch": "数独", "en": "sudoku", "pi": "shùdú"},
+    {"ch": "游戏", "en": "game", "pi": "yóuxì"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "了", "en": "了", "pi": "le"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

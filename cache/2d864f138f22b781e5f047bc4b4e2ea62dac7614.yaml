@@ -1,0 +1,42 @@
+{
+  "chinese": "猫在椅子上面，还是在椅子下面呢？",
+  "english": "Is the cat on top of the chair or underneath?",
+  "pinyin": "Māo zài yǐzi shàngmiàn, háishì zài yǐzi xiàmiàn ne?",
+  "words": [
+    {
+      "ch": "猫",
+      "en": "cat",
+      "pi": "Māo"
+    },
+    {
+      "ch": "在",
+      "en": "on",
+      "pi": "zài"
+    },
+    {
+      "ch": "椅子",
+      "en": "chair",
+      "pi": "yǐzi"
+    },
+    {
+      "ch": "上面",
+      "en": "on top",
+      "pi": "shàngmiàn"
+    },
+    {
+      "ch": "还是",
+      "en": "or",
+      "pi": "háishì"
+    },
+    {
+      "ch": "下面",
+      "en": "underneath",
+      "pi": "xiàmiàn"
+    },
+    {
+      "ch": "呢",
+      "en": "yes/no question particle",
+      "pi": "ne"
+    }
+  ]
+}

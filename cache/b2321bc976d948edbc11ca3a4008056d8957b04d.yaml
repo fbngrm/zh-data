@@ -1,0 +1,126 @@
+{
+  "sentences": [
+    {
+      "chinese": "她在說些甚麼？",
+      "english": "What is she saying?",
+      "pinyin": "Tā zài shuō xiē shénme?"
+    },
+    {
+      "chinese": "你連『祝詞』也不知道嗎？",
+      "english": "You don't even know 'blessing words'?",
+      "pinyin": "Nǐ lián 'zhù cí' yě bù zhīdào ma?"
+    },
+    {
+      "chinese": "祝詞？",
+      "english": "Blessing words?",
+      "pinyin": "Zhù cí?"
+    },
+    {
+      "chinese": "就是神道咒語之類的東西。",
+      "english": "It's like incantations used in Shinto.",
+      "pinyin": "Jiùshì shén dào zhòuyǔ zhīlèi de dōngxi."
+    }
+  ],
+  "words": [
+    {
+      "ch": "她",
+      "en": "she",
+      "pi": "tā"
+    },
+    {
+      "ch": "在",
+      "en": "in",
+      "pi": "zài"
+    },
+    {
+      "ch": "說",
+      "en": "saying",
+      "pi": "shuō"
+    },
+    {
+      "ch": "些",
+      "en": "some",
+      "pi": "xiē"
+    },
+    {
+      "ch": "甚麼",
+      "en": "what",
+      "pi": "shénme"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "連",
+      "en": "even",
+      "pi": "lián"
+    },
+    {
+      "ch": "『",
+      "en": "",
+      "pi": ""
+    },
+    {
+      "ch": "祝詞",
+      "en": "blessing words",
+      "pi": "zhù cí"
+    },
+    {
+      "ch": "』",
+      "en": "",
+      "pi": ""
+    },
+    {
+      "ch": "也",
+      "en": "also",
+      "pi": "yě"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "知道",
+      "en": "know",
+      "pi": "zhīdào"
+    },
+    {
+      "ch": "嗎",
+      "en": "?",
+      "pi": "ma"
+    },
+    {
+      "ch": "就是",
+      "en": "it's like",
+      "pi": "jiùshì"
+    },
+    {
+      "ch": "神道",
+      "en": "Shinto",
+      "pi": "shén dào"
+    },
+    {
+      "ch": "咒語",
+      "en": "incantations",
+      "pi": "zhòuyǔ"
+    },
+    {
+      "ch": "之類",
+      "en": "like",
+      "pi": "zhīlèi"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": ""
+    },
+    {
+      "ch": "東西",
+      "en": "things",
+      "pi": "dōngxi"
+    }
+  ]
+}

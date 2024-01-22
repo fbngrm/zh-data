@@ -1,0 +1,14 @@
+{
+  "chinese": "这颗气球被树绊住了。",
+  "english": "This balloon got tangled in the tree.",
+  "pinyin": "zhè kē qì qiú bèi shù bàn zhù le.",
+  "words": [
+    { "ch": "这", "en": "This", "pi": "zhè" },
+    { "ch": "颗", "en": "balloon (measure word)", "pi": "kē" },
+    { "ch": "气球", "en": "balloon", "pi": "qì qiú" },
+    { "ch": "被", "en": "got", "pi": "bèi" },
+    { "ch": "树", "en": "tangled", "pi": "shù" },
+    { "ch": "绊住", "en": "in the tree", "pi": "bàn zhù" },
+    { "ch": "了", "en": "already", "pi": "le" }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chinese": "请把你的行李放在这秤上。",
+  "english": "Please put your luggage on this scale.",
+  "pinyin": "Qǐng bǎ nǐ de xínglǐ fàng zài zhè chèng shàng.",
+  "words": [
+    {
+      "ch": "请",
+      "en": "Please",
+      "pi": "qǐng"
+    },
+    {
+      "ch": "把",
+      "en": "put",
+      "pi": "bǎ"
+    },
+    {
+      "ch": "你的",
+      "en": "your",
+      "pi": "nǐ de"
+    },
+    {
+      "ch": "行李",
+      "en": "luggage",
+      "pi": "xínglǐ"
+    },
+    {
+      "ch": "放",
+      "en": "on",
+      "pi": "fàng"
+    },
+    {
+      "ch": "在",
+      "en": "this",
+      "pi": "zhè"
+    },
+    {
+      "ch": "秤上",
+      "en": "scale",
+      "pi": "chèng shàng"
+    }
+  ]
+}

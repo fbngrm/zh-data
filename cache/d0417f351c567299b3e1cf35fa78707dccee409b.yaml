@@ -1,0 +1,32 @@
+{
+  "chinese": "你一个月读几本书？",
+  "english": "How many books do you read in a month?",
+  "pinyin": "nǐ yī gè yuè dú jǐ běn shū?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "一个月",
+      "en": "a month",
+      "pi": "yī gè yuè"
+    },
+    {
+      "ch": "读",
+      "en": "read",
+      "pi": "dú"
+    },
+    {
+      "ch": "几",
+      "en": "how many",
+      "pi": "jǐ"
+    },
+    {
+      "ch": "本书",
+      "en": "books",
+      "pi": "běn shū"
+    }
+  ]
+}

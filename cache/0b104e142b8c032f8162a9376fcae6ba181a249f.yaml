@@ -1,0 +1,37 @@
+{
+  "chinese": "由于大门锁着，我们无法入屋。",
+  "english": "Because the front door is locked, we are unable to enter the house.",
+  "pinyin": "yóu yú dà mén suǒ zhe, wǒ men wú fǎ rù wū。",
+  "words": [
+    {
+      "ch": "由于",
+      "en": "Because",
+      "pi": "yóu yú"
+    },
+    {
+      "ch": "大门",
+      "en": "front door",
+      "pi": "dà mén"
+    },
+    {
+      "ch": "锁着",
+      "en": "locked",
+      "pi": "suǒ zhe"
+    },
+    {
+      "ch": "我们",
+      "en": "we",
+      "pi": "wǒ men"
+    },
+    {
+      "ch": "无法",
+      "en": "unable",
+      "pi": "wú fǎ"
+    },
+    {
+      "ch": "入屋",
+      "en": "enter the house",
+      "pi": "rù wū"
+    }
+  ]
+}
