@@ -1,0 +1,51 @@
+{
+  "sentences": [
+    {
+      "chinese": "谢谢你给我发来这么多词汇",
+      "english": "Thank you for sending me so many vocabulary",
+      "pinyin": "xièxiè nǐ gěi wǒ fā lái zhème duō cíhuì",
+      "words": [
+        {
+          "ch": "谢谢",
+          "en": "Thank you",
+          "pi": "xièxiè"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "给",
+          "en": "give",
+          "pi": "gěi"
+        },
+        {
+          "ch": "我",
+          "en": "me",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "发来",
+          "en": "send",
+          "pi": "fā lái"
+        },
+        {
+          "ch": "这么",
+          "en": "so",
+          "pi": "zhème"
+        },
+        {
+          "ch": "多",
+          "en": "many",
+          "pi": "duō"
+        },
+        {
+          "ch": "词汇",
+          "en": "vocabulary",
+          "pi": "cíhuì"
+        }
+      ]
+    }
+  ]
+}

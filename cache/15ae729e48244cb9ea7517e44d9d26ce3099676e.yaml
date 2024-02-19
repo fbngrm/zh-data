@@ -1,0 +1,40 @@
+{
+  "sentences": [
+    {
+      "chinese": "银色。",
+      "english": "Silver.",
+      "pinyin": "yín sè",
+      "words": [
+        {
+          "ch": "银色",
+          "en": "Silver",
+          "pi": "yín sè"
+        }
+      ]
+    },
+    {
+      "chinese": "银行。",
+      "english": "Bank.",
+      "pinyin": "yín háng",
+      "words": [
+        {
+          "ch": "银行",
+          "en": "Bank",
+          "pi": "yín háng"
+        }
+      ]
+    },
+    {
+      "chinese": "银河。",
+      "english": "Galaxy.",
+      "pinyin": "yín hé",
+      "words": [
+        {
+          "ch": "银河",
+          "en": "Galaxy",
+          "pi": "yín hé"
+        }
+      ]
+    }
+  ]
+}

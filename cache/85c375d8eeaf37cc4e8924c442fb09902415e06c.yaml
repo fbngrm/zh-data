@@ -1,0 +1,112 @@
+{
+  "sentences": [
+    {
+      "chinese": "听音乐。",
+      "english": "Listen to music.",
+      "pinyin": "tīng yīn yuè。",
+      "words": [
+        {
+          "ch": "听",
+          "en": "Listen",
+          "pi": "tīng"
+        },
+        {
+          "ch": "音乐",
+          "en": "music",
+          "pi": "yīn yuè"
+        }
+      ]
+    },
+    {
+      "chinese": "可能做个瑜伽。",
+      "english": "Maybe do some yoga.",
+      "pinyin": "kě néng zuò gè yú jiā。",
+      "words": [
+        {
+          "ch": "可能",
+          "en": "Maybe",
+          "pi": "kě néng"
+        },
+        {
+          "ch": "做",
+          "en": "do",
+          "pi": "zuò"
+        },
+        {
+          "ch": "个",
+          "en": "some",
+          "pi": "gè"
+        },
+        {
+          "ch": "瑜伽",
+          "en": "yoga",
+          "pi": "yú jiā"
+        }
+      ]
+    },
+    {
+      "chinese": "或者散步。",
+      "english": "Or take a walk.",
+      "pinyin": "huò zhě sàn bù。",
+      "words": [
+        {
+          "ch": "或者",
+          "en": "Or",
+          "pi": "huò zhě"
+        },
+        {
+          "ch": "散步",
+          "en": "take a walk",
+          "pi": "sàn bù"
+        }
+      ]
+    },
+    {
+      "chinese": "能spontan决定做什么最开心了。",
+      "english": "Being able to decide spontaneously what to do is the happiest.",
+      "pinyin": "néng spontan jué dìng zuò shén me zuì kāi xīn le。",
+      "words": [
+        {
+          "ch": "能",
+          "en": "Being able to",
+          "pi": "néng"
+        },
+        {
+          "ch": "spontan",
+          "en": "spontaneously",
+          "pi": "spontan"
+        },
+        {
+          "ch": "决定",
+          "en": "decide",
+          "pi": "jué dìng"
+        },
+        {
+          "ch": "做",
+          "en": "do",
+          "pi": "zuò"
+        },
+        {
+          "ch": "什么",
+          "en": "what",
+          "pi": "shén me"
+        },
+        {
+          "ch": "最",
+          "en": "the",
+          "pi": "zuì"
+        },
+        {
+          "ch": "开心",
+          "en": "happiest",
+          "pi": "kāi xīn"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "sentences": [
+    {
+      "chinese": "今天我起晚了。",
+      "english": "Today I woke up late.",
+      "pinyin": "jīn tiān wǒ qǐ wǎn le。",
+      "words": [
+        {
+          "ch": "今天",
+          "en": "today",
+          "pi": "jīn tiān"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "起晚",
+          "en": "woke up late",
+          "pi": "qǐ wǎn"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        }
+      ]
+    },
+    {
+      "chinese": "吃完早饭了以后我打扫公寓和洗衣服。",
+      "english": "After finishing breakfast, I clean the apartment and do laundry.",
+      "pinyin": "chī wán zǎo fàn le yǐ hòu wǒ dǎ sǎo gōng yù hé xǐ yī fú。",
+      "words": [
+        {
+          "ch": "吃完",
+          "en": "finished eating",
+          "pi": "chī wán"
+        },
+        {
+          "ch": "早饭",
+          "en": "breakfast",
+          "pi": "zǎo fàn"
+        },
+        {
+          "ch": "了",
+          "en": "",
+          "pi": "le"
+        },
+        {
+          "ch": "以后",
+          "en": "after",
+          "pi": "yǐ hòu"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "打扫",
+          "en": "clean",
+          "pi": "dǎ sǎo"
+        },
+        {
+          "ch": "公寓",
+          "en": "apartment",
+          "pi": "gōng yù"
+        },
+        {
+          "ch": "和",
+          "en": "and",
+          "pi": "hé"
+        },
+        {
+          "ch": "洗衣服",
+          "en": "do laundry",
+          "pi": "xǐ yī fú"
+        }
+      ]
+    },
+    {
+      "chinese": "我正在吃午饭和做中文的作业。",
+      "english": "I am having lunch and doing Chinese homework.",
+      "pinyin": "wǒ zhèng zài chī wǔ fàn hé zuò zhōng wén de zuò yè。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "正在",
+          "en": "am",
+          "pi": "zhèng zài"
+        },
+        {
+          "ch": "吃",
+          "en": "having",
+          "pi": "chī"
+        },
+        {
+          "ch": "午饭",
+          "en": "lunch",
+          "pi": "wǔ fàn"
+        },
+        {
+          "ch": "和",
+          "en": "and",
+          "pi": "hé"
+        },
+        {
+          "ch": "做",
+          "en": "doing",
+          "pi": "zuò"
+        },
+        {
+          "ch": "中文",
+          "en": "Chinese",
+          "pi": "zhōng wén"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": "de"
+        },
+        {
+          "ch": "作业",
+          "en": "homework",
+          "pi": "zuò yè"
+        }
+      ]
+    },
+    {
+      "chinese": "我一会儿步行去健身房举重。",
+      "english": "I will walk to the gym and do weightlifting in a while.",
+      "pinyin": "wǒ yī huǐ ér bù xíng qù jiàn shēn fáng jǔ zhòng。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "一会儿",
+          "en": "in a while",
+          "pi": "yī huǐ ér"
+        },
+        {
+          "ch": "步行",
+          "en": "walk",
+          "pi": "bù xíng"
+        },
+        {
+          "ch": "去",
+          "en": "to",
+          "pi": "qù"
+        },
+        {
+          "ch": "健身房",
+          "en": "gym",
+          "pi": "jiàn shēn fáng"
+        },
+        {
+          "ch": "举重",
+          "en": "weightlifting",
+          "pi": "jǔ zhòng"
+        }
+      ]
+    },
+    {
+      "chinese": "之后我购物，然后回家躺着看书。",
+      "english": "Afterwards, I'll go shopping and then go home and lie down to read.",
+      "pinyin": "zhī hòu wǒ gòu wù，rán hòu huí jiā tǎng zhe kàn shū。",
+      "words": [
+        {
+          "ch": "之后",
+          "en": "afterwards",
+          "pi": "zhī hòu"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "购物",
+          "en": "go shopping",
+          "pi": "gòu wù"
+        },
+        {
+          "ch": "然后",
+          "en": "then",
+          "pi": "rán hòu"
+        },
+        {
+          "ch": "回家",
+          "en": "go home",
+          "pi": "huí jiā"
+        },
+        {
+          "ch": "躺着",
+          "en": "lie down",
+          "pi": "tǎng zhe"
+        },
+        {
+          "ch": "看书",
+          "en": "read",
+          "pi": "kàn shū"
+        }
+      ]
+    }
+  ]
+}

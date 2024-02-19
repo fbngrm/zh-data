@@ -1,0 +1,42 @@
+{
+  "chinese": "不要在我的咖啡里加牛奶。",
+  "english": "Don't add milk to my coffee.",
+  "pinyin": "bù yào zài wǒ de kā fēi lǐ jiā niú nǎi.",
+  "words": [
+    {
+      "ch": "不要",
+      "en": "Don't",
+      "pi": "bù yào"
+    },
+    {
+      "ch": "在",
+      "en": "to",
+      "pi": "zài"
+    },
+    {
+      "ch": "我的",
+      "en": "my",
+      "pi": "wǒ de"
+    },
+    {
+      "ch": "咖啡",
+      "en": "coffee",
+      "pi": "kā fēi"
+    },
+    {
+      "ch": "里",
+      "en": "in",
+      "pi": "lǐ"
+    },
+    {
+      "ch": "加",
+      "en": "add",
+      "pi": "jiā"
+    },
+    {
+      "ch": "牛奶",
+      "en": "milk",
+      "pi": "niú nǎi"
+    }
+  ]
+}

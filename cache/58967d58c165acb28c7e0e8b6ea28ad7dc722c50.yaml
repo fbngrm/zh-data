@@ -1,0 +1,42 @@
+{
+  "chinese": "我今天从...徒步去...",
+  "english": "Today I will hike from... to...",
+  "pinyin": "Wǒ jīntiān cóng... tú bù qù...",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "从",
+      "en": "from",
+      "pi": "cóng"
+    },
+    {
+      "ch": "...",
+      "en": "...",
+      "pi": "..."
+    },
+    {
+      "ch": "徒步",
+      "en": "hike",
+      "pi": "tú bù"
+    },
+    {
+      "ch": "去",
+      "en": "to",
+      "pi": "qù"
+    },
+    {
+      "ch": "...",
+      "en": "...",
+      "pi": "..."
+    }
+  ]
+}

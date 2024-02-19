@@ -1,0 +1,277 @@
+{
+  "sentences": [
+    {
+      "chinese": "豪猪你好，我想跟你说三件事情。",
+      "english": "Hello Hedgehog, I want to tell you three things.",
+      "pinyin": "háo zhū nǐ hǎo, wǒ xiǎng gēn nǐ shuō sān jiàn shì qíng.",
+      "words": [
+        {
+          "ch": "豪猪",
+          "en": "Hedgehog",
+          "pi": "háo zhū"
+        },
+        {
+          "ch": "你好",
+          "en": "Hello",
+          "pi": "nǐ hǎo"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "想",
+          "en": "want",
+          "pi": "xiǎng"
+        },
+        {
+          "ch": "跟",
+          "en": "to",
+          "pi": "gēn"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "说",
+          "en": "tell",
+          "pi": "shuō"
+        },
+        {
+          "ch": "三",
+          "en": "three",
+          "pi": "sān"
+        },
+        {
+          "ch": "件",
+          "en": "things",
+          "pi": "jiàn"
+        },
+        {
+          "ch": "事情",
+          "en": "things",
+          "pi": "shì qíng"
+        }
+      ]
+    },
+    {
+      "chinese": "第一，你生日我想请你吃饭。比如餐厅或者任何你想吃的餐厅。你最爱的土耳其餐厅也可以。",
+      "english": "First, I want to treat you to a meal for your birthday. For example, a restaurant or any restaurant you want to eat at. Your favorite Turkish restaurant is also fine.",
+      "pinyin": "dì yī, nǐ shēng rì wǒ xiǎng qǐng nǐ chī fàn. bǐ rú cān tīng huò zhě rèn hé nǐ xiǎng chī de cān tīng. nǐ zuì ài de tǔ ěr qí cān tīng yě kě yǐ.",
+      "words": [
+        {
+          "ch": "第一",
+          "en": "First",
+          "pi": "dì yī"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "生日",
+          "en": "birthday",
+          "pi": "shēng rì"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "想",
+          "en": "want",
+          "pi": "xiǎng"
+        },
+        {
+          "ch": "请",
+          "en": "treat",
+          "pi": "qǐng"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "吃饭",
+          "en": "to eat",
+          "pi": "chī fàn"
+        },
+        {
+          "ch": "比如",
+          "en": "for example",
+          "pi": "bǐ rú"
+        },
+        {
+          "ch": "餐厅",
+          "en": "restaurant",
+          "pi": "cān tīng"
+        },
+        {
+          "ch": "或者",
+          "en": "or",
+          "pi": "huò zhě"
+        },
+        {
+          "ch": "任何",
+          "en": "any",
+          "pi": "rèn hé"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "想",
+          "en": "want",
+          "pi": "xiǎng"
+        },
+        {
+          "ch": "吃",
+          "en": "to eat",
+          "pi": "chī"
+        },
+        {
+          "ch": "的",
+          "en": "at",
+          "pi": "de"
+        },
+        {
+          "ch": "餐厅",
+          "en": "restaurant",
+          "pi": "cān tīng"
+        },
+        {
+          "ch": "你",
+          "en": "your",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "最爱",
+          "en": "favorite",
+          "pi": "zuì ài"
+        },
+        {
+          "ch": "的",
+          "en": "of",
+          "pi": "de"
+        },
+        {
+          "ch": "土耳其",
+          "en": "Turkish",
+          "pi": "tǔ ěr qí"
+        },
+        {
+          "ch": "餐厅",
+          "en": "restaurant",
+          "pi": "cān tīng"
+        },
+        {
+          "ch": "也",
+          "en": "also",
+          "pi": "yě"
+        },
+        {
+          "ch": "可以",
+          "en": "fine",
+          "pi": "kě yǐ"
+        }
+      ]
+    },
+    {
+      "chinese": "第二，我推荐你使用...",
+      "english": "Second, I recommend you to use...",
+      "pinyin": "dì èr, wǒ tuī jiàn nǐ shǐ yòng...",
+      "words": [
+        {
+          "ch": "第二",
+          "en": "Second",
+          "pi": "dì èr"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "推荐",
+          "en": "recommend",
+          "pi": "tuī jiàn"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "使用",
+          "en": "to use",
+          "pi": "shǐ yòng"
+        },
+        {
+          "ch": "...",
+          "en": "...",
+          "pi": "..."
+        }
+      ]
+    },
+    {
+      "chinese": "第三，我给你发我们昨天练习的中文。",
+      "english": "Third, I will send you the Chinese exercises we did yesterday.",
+      "pinyin": "dì sān, wǒ gěi nǐ fā wǒ men zuó tiān liàn xí de zhōng wén.",
+      "words": [
+        {
+          "ch": "第三",
+          "en": "Third",
+          "pi": "dì sān"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "给你",
+          "en": "to you",
+          "pi": "gěi nǐ"
+        },
+        {
+          "ch": "发",
+          "en": "send",
+          "pi": "fā"
+        },
+        {
+          "ch": "我们",
+          "en": "we",
+          "pi": "wǒ men"
+        },
+        {
+          "ch": "昨天",
+          "en": "yesterday",
+          "pi": "zuó tiān"
+        },
+        {
+          "ch": "练习",
+          "en": "exercises",
+          "pi": "liàn xí"
+        },
+        {
+          "ch": "的",
+          "en": "the",
+          "pi": "de"
+        },
+        {
+          "ch": "中文",
+          "en": "Chinese",
+          "pi": "zhōng wén"
+        }
+      ]
+    }
+  ]
+}

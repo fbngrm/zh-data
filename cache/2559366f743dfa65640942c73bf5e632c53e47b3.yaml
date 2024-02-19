@@ -1,0 +1,37 @@
+{
+  "chinese": "我上了四个星期的中文课",
+  "english": "I have taken four weeks of Chinese classes",
+  "pinyin": "wǒ shàng le sì gè xīngqí de zhōngwén kè",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "上了",
+      "en": "have taken",
+      "pi": "shàng le"
+    },
+    {
+      "ch": "四个",
+      "en": "four",
+      "pi": "sì gè"
+    },
+    {
+      "ch": "星期",
+      "en": "weeks",
+      "pi": "xīngqí"
+    },
+    {
+      "ch": "的",
+      "en": "of",
+      "pi": "de"
+    },
+    {
+      "ch": "中文课",
+      "en": "Chinese classes",
+      "pi": "zhōngwén kè"
+    }
+  ]
+}

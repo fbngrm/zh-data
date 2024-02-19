@@ -1,0 +1,42 @@
+{
+  "chinese": "我睡了三十分钟的午觉",
+  "english": "I took a nap for thirty minutes",
+  "pinyin": "wǒ shuì le sān shí fēnzhōng de wǔjiào",
+  "words": [
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "睡",
+      "en": "sleep",
+      "pi": "shuì"
+    },
+    {
+      "ch": "了",
+      "en": "past tense marker",
+      "pi": "le"
+    },
+    {
+      "ch": "三十",
+      "en": "thirty",
+      "pi": "sān shí"
+    },
+    {
+      "ch": "分钟",
+      "en": "minutes",
+      "pi": "fēnzhōng"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "午觉",
+      "en": "midday nap",
+      "pi": "wǔjiào"
+    }
+  ]
+}

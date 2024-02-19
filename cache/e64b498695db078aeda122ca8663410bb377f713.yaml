@@ -1,0 +1,26 @@
+{
+  "sentences": [
+    {
+      "chinese": "白色，白种人，白人",
+      "english": "White color, white people, white person",
+      "pinyin": "bái sè, bái zhǒng rén, bái rén",
+      "words": [
+        {
+          "ch": "白色",
+          "en": "White color",
+          "pi": "bái sè"
+        },
+        {
+          "ch": "白种人",
+          "en": "White people",
+          "pi": "bái zhǒng rén"
+        },
+        {
+          "ch": "白人",
+          "en": "White person",
+          "pi": "bái rén"
+        }
+      ]
+    }
+  ]
+}

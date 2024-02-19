@@ -1,0 +1,152 @@
+{
+  "sentences": [
+    {
+      "chinese": "我十一岁的时候去军训。",
+      "english": "I went to military training when I was eleven years old.",
+      "pinyin": "Wǒ shíyī suì de shíhòu qù jūnxùn.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "十一",
+          "en": "eleven",
+          "pi": "shíyī"
+        },
+        {
+          "ch": "岁",
+          "en": "years old",
+          "pi": "suì"
+        },
+        {
+          "ch": "的时候",
+          "en": "when",
+          "pi": "de shíhòu"
+        },
+        {
+          "ch": "去",
+          "en": "go to",
+          "pi": "qù"
+        },
+        {
+          "ch": "军训",
+          "en": "military training",
+          "pi": "jūnxùn"
+        }
+      ]
+    },
+    {
+      "chinese": "大概也是这样的枪。",
+      "english": "Probably it's also this kind of gun.",
+      "pinyin": "Dàgài yě shì zhèyàng de qiāng.",
+      "words": [
+        {
+          "ch": "大概",
+          "en": "probably",
+          "pi": "dàgài"
+        },
+        {
+          "ch": "也",
+          "en": "also",
+          "pi": "yě"
+        },
+        {
+          "ch": "是",
+          "en": "is",
+          "pi": "shì"
+        },
+        {
+          "ch": "这样",
+          "en": "this kind",
+          "pi": "zhèyàng"
+        },
+        {
+          "ch": "的",
+          "en": "of",
+          "pi": "de"
+        },
+        {
+          "ch": "枪",
+          "en": "gun",
+          "pi": "qiāng"
+        }
+      ]
+    },
+    {
+      "chinese": "不过没有人戴护耳耳机。",
+      "english": "However, no one wore ear protectors.",
+      "pinyin": "Bùguò méiyǒu rén dài hù'ěr ěrjī.",
+      "words": [
+        {
+          "ch": "不过",
+          "en": "however",
+          "pi": "bùguò"
+        },
+        {
+          "ch": "没有",
+          "en": "no",
+          "pi": "méiyǒu"
+        },
+        {
+          "ch": "人",
+          "en": "person",
+          "pi": "rén"
+        },
+        {
+          "ch": "戴",
+          "en": "wear",
+          "pi": "dài"
+        },
+        {
+          "ch": "护耳",
+          "en": "ear protectors",
+          "pi": "hù'ěr"
+        },
+        {
+          "ch": "耳机",
+          "en": "headphones",
+          "pi": "ěrjī"
+        }
+      ]
+    },
+    {
+      "chinese": "还好我们的耳朵没有坏掉。",
+      "english": "Fortunately, our ears didn't get damaged.",
+      "pinyin": "Hái hǎo wǒmen de ěrduo méiyǒu huàidiào.",
+      "words": [
+        {
+          "ch": "还好",
+          "en": "fortunately",
+          "pi": "hái hǎo"
+        },
+        {
+          "ch": "我们",
+          "en": "our",
+          "pi": "wǒmen"
+        },
+        {
+          "ch": "的",
+          "en": "possessive particle",
+          "pi": "de"
+        },
+        {
+          "ch": "耳朵",
+          "en": "ears",
+          "pi": "ěrduo"
+        },
+        {
+          "ch": "没有",
+          "en": "did not",
+          "pi": "méiyǒu"
+        },
+        {
+          "ch": "坏掉",
+          "en": "get damaged",
+          "pi": "huàidiào"
+        }
+      ]
+    }
+  ]
+}

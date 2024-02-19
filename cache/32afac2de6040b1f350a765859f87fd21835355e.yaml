@@ -1,0 +1,130 @@
+{
+  "sentences": [
+    {
+      "chinese": "我的会议结束了。",
+      "english": "My meeting is over.",
+      "pinyin": "wǒ de huìyì jiéshù le。",
+      "words": [
+        {
+          "ch": "我的",
+          "en": "my",
+          "pi": "wǒ de"
+        },
+        {
+          "ch": "会议",
+          "en": "meeting",
+          "pi": "huìyì"
+        },
+        {
+          "ch": "结束",
+          "en": "is over",
+          "pi": "jiéshù"
+        },
+        {
+          "ch": "了",
+          "en": ""
+        }
+      ]
+    },
+    {
+      "chinese": "但是10分钟之后还有两个大的会议，",
+      "english": "But there are two more big meetings after 10 minutes,",
+      "pinyin": "dànshì 10 fēnzhōng zhīhòu hái yǒu liǎng gè dà de huìyì,",
+      "words": [
+        {
+          "ch": "但是",
+          "en": "but",
+          "pi": "dànshì"
+        },
+        {
+          "ch": "10分钟",
+          "en": "10 minutes",
+          "pi": "10 fēnzhōng"
+        },
+        {
+          "ch": "之后",
+          "en": "after",
+          "pi": "zhīhòu"
+        },
+        {
+          "ch": "还有",
+          "en": "there are",
+          "pi": "hái yǒu"
+        },
+        {
+          "ch": "两个",
+          "en": "two",
+          "pi": "liǎng gè"
+        },
+        {
+          "ch": "大的",
+          "en": "big",
+          "pi": "dà de"
+        },
+        {
+          "ch": "会议",
+          "en": "meetings",
+          "pi": "huìyì"
+        },
+        {
+          "ch": "，",
+          "en": ","
+        }
+      ]
+    },
+    {
+      "chinese": "然后晚上有Dance workshop。",
+      "english": "Then there is a Dance workshop in the evening.",
+      "pinyin": "ránhòu wǎnshàng yǒu Dance workshop。",
+      "words": [
+        {
+          "ch": "然后",
+          "en": "then",
+          "pi": "ránhòu"
+        },
+        {
+          "ch": "晚上",
+          "en": "evening",
+          "pi": "wǎnshàng"
+        },
+        {
+          "ch": "有",
+          "en": "there is",
+          "pi": "yǒu"
+        },
+        {
+          "ch": "Dance workshop。",
+          "en": "Dance workshop",
+          "pi": "Dance workshop"
+        }
+      ]
+    },
+    {
+      "chinese": "之后见一个朋友。",
+      "english": "After that, I will meet a friend.",
+      "pinyin": "zhīhòu jiàn yī gè péngyǒu。",
+      "words": [
+        {
+          "ch": "之后",
+          "en": "after that",
+          "pi": "zhīhòu"
+        },
+        {
+          "ch": "见",
+          "en": "meet",
+          "pi": "jiàn"
+        },
+        {
+          "ch": "一个",
+          "en": "a",
+          "pi": "yī gè"
+        },
+        {
+          "ch": "朋友。",
+          "en": "friend.",
+          "pi": "péngyǒu"
+        }
+      ]
+    }
+  ]
+}

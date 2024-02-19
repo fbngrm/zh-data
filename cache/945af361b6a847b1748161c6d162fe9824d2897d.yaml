@@ -1,0 +1,93 @@
+{
+  "sentences": [
+    {
+      "chinese": "之后爬山一个小时回到城里。",
+      "english": "Afterwards, I climbed the mountain for an hour and returned to the city.",
+      "pinyin": "zhī hòu pá shān yī gè xiǎo shí huí dào chéng lǐ。",
+      "words": [
+        {
+          "ch": "之后",
+          "en": "Afterwards",
+          "pi": "zhī hòu"
+        },
+        {
+          "ch": "爬山",
+          "en": "climbed the mountain",
+          "pi": "pá shān"
+        },
+        {
+          "ch": "一个",
+          "en": "one",
+          "pi": "yī gè"
+        },
+        {
+          "ch": "小时",
+          "en": "hour(s)",
+          "pi": "xiǎo shí"
+        },
+        {
+          "ch": "回到",
+          "en": "return to",
+          "pi": "huí dào"
+        },
+        {
+          "ch": "城里",
+          "en": "city",
+          "pi": "chéng lǐ"
+        }
+      ]
+    },
+    {
+      "chinese": "一个当地人给我推荐了很好的本地餐厅。",
+      "english": "A local person recommended a very good local restaurant to me.",
+      "pinyin": "yī gè dāng dì rén gěi wǒ tuī jiàn le hěn hǎo de běn dì cān tīng。",
+      "words": [
+        {
+          "ch": "一个",
+          "en": "A",
+          "pi": "yī gè"
+        },
+        {
+          "ch": "当地人",
+          "en": "local person",
+          "pi": "dāng dì rén"
+        },
+        {
+          "ch": "给",
+          "en": "gave",
+          "pi": "gěi"
+        },
+        {
+          "ch": "我",
+          "en": "me",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "推荐",
+          "en": "recommended",
+          "pi": "tuī jiàn"
+        },
+        {
+          "ch": "了",
+          "en": "a very",
+          "pi": "le"
+        },
+        {
+          "ch": "很好的",
+          "en": "good",
+          "pi": "hěn hǎo de"
+        },
+        {
+          "ch": "本地",
+          "en": "local",
+          "pi": "běn dì"
+        },
+        {
+          "ch": "餐厅",
+          "en": "restaurant",
+          "pi": "cān tīng"
+        }
+      ]
+    }
+  ]
+}

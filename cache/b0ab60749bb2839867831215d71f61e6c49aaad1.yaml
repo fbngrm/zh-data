@@ -1,0 +1,135 @@
+{
+  "sentences": [
+    {
+      "chinese": "你今天都做了什么？",
+      "english": "What did you do today?",
+      "pinyin": "Nǐ jīntiān dōu zuò le shénme?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "今天",
+          "en": "today",
+          "pi": "jīntiān"
+        },
+        {
+          "ch": "都",
+          "en": "all",
+          "pi": "dōu"
+        },
+        {
+          "ch": "做了",
+          "en": "did",
+          "pi": "zuò le"
+        },
+        {
+          "ch": "什么",
+          "en": "what",
+          "pi": "shénme"
+        }
+      ]
+    },
+    {
+      "chinese": "下午和晚上准备做什么？",
+      "english": "What are you planning to do in the afternoon and evening?",
+      "pinyin": "Xiàwǔ hé wǎnshàng zhǔnbèi zuò shénme?",
+      "words": [
+        {
+          "ch": "下午",
+          "en": "afternoon",
+          "pi": "xiàwǔ"
+        },
+        {
+          "ch": "和",
+          "en": "and",
+          "pi": "hé"
+        },
+        {
+          "ch": "晚上",
+          "en": "evening",
+          "pi": "wǎnshàng"
+        },
+        {
+          "ch": "准备",
+          "en": "planning",
+          "pi": "zhǔnbèi"
+        },
+        {
+          "ch": "做什么",
+          "en": "do",
+          "pi": "zuò shénme"
+        }
+      ]
+    },
+    {
+      "chinese": "天气很好，如果出去散步的话，记得给我发些照片哦。",
+      "english": "The weather is nice. If you go out for a walk, remember to send me some photos.",
+      "pinyin": "Tiānqì hěn hǎo, rúguǒ chūqù sànbù dehuà, jìdé gěi wǒ fā xiē zhàopiàn ó.",
+      "words": [
+        {
+          "ch": "天气",
+          "en": "weather",
+          "pi": "tiānqì"
+        },
+        {
+          "ch": "很好",
+          "en": "nice",
+          "pi": "hěn hǎo"
+        },
+        {
+          "ch": "如果",
+          "en": "if",
+          "pi": "rúguǒ"
+        },
+        {
+          "ch": "出去",
+          "en": "go out",
+          "pi": "chūqù"
+        },
+        {
+          "ch": "散步",
+          "en": "walk",
+          "pi": "sànbù"
+        },
+        {
+          "ch": "的话",
+          "en": "then",
+          "pi": "dehuà"
+        },
+        {
+          "ch": "记得",
+          "en": "remember",
+          "pi": "jìdé"
+        },
+        {
+          "ch": "给",
+          "en": "to",
+          "pi": "gěi"
+        },
+        {
+          "ch": "我",
+          "en": "me",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "发些",
+          "en": "send some",
+          "pi": "fā xiē"
+        },
+        {
+          "ch": "照片",
+          "en": "photos",
+          "pi": "zhàopiàn"
+        },
+        {
+          "ch": "哦",
+          "en": "oh",
+          "pi": "ó"
+        }
+      ]
+    }
+  ]
+}

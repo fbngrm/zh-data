@@ -1,0 +1,79 @@
+{
+  "sentences": [
+    {
+      "chinese": "早上好。",
+      "english": "Good morning.",
+      "pinyin": "zǎo shang hǎo。",
+      "words": [
+        {"ch": "早上", "en": "morning", "pi": "zǎo shang"},
+        {"ch": "好", "en": "good", "pi": "hǎo"}
+      ]
+    },
+    {
+      "chinese": "我昨晚睡得很好。",
+      "english": "I slept well last night.",
+      "pinyin": "wǒ zuó wǎn shuì de hěn hǎo。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "昨晚", "en": "last night", "pi": "zuó wǎn"},
+        {"ch": "睡得", "en": "slept", "pi": "shuì de"},
+        {"ch": "很好", "en": "well", "pi": "hěn hǎo"}
+      ]
+    },
+    {
+      "chinese": "现在到公司。",
+      "english": "Now I'm going to the office.",
+      "pinyin": "xiàn zài dào gōng sī。",
+      "words": [
+        {"ch": "现在", "en": "now", "pi": "xiàn zài"},
+        {"ch": "到", "en": "to", "pi": "dào"},
+        {"ch": "公司", "en": "office", "pi": "gōng sī"}
+      ]
+    },
+    {
+      "chinese": "开始工作。",
+      "english": "Start working.",
+      "pinyin": "kāi shǐ gōng zuò。",
+      "words": [
+        {"ch": "开始", "en": "start", "pi": "kāi shǐ"},
+        {"ch": "工作", "en": "work", "pi": "gōng zuò"}
+      ]
+    },
+    {
+      "chinese": "今晚见。",
+      "english": "See you tonight.",
+      "pinyin": "jīn wǎn jiàn。",
+      "words": [
+        {"ch": "今晚", "en": "tonight", "pi": "jīn wǎn"},
+        {"ch": "见", "en": "see", "pi": "jiàn"}
+      ]
+    },
+    {
+      "chinese": "我要做你的那一份晚饭吗？",
+      "english": "Do I need to make you dinner tonight?",
+      "pinyin": "wǒ yào zuò nǐ de nà yī fèn wǎn fàn ma？",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "要", "en": "need to", "pi": "yào"},
+        {"ch": "做", "en": "make", "pi": "zuò"},
+        {"ch": "你的", "en": "your", "pi": "nǐ de"},
+        {"ch": "那一份", "en": "that one", "pi": "nà yī fèn"},
+        {"ch": "晚饭", "en": "dinner", "pi": "wǎn fàn"},
+        {"ch": "吗", "en": "question particle", "pi": "ma"}
+      ]
+    },
+    {
+      "chinese": "还是你吃过晚饭再来找我？",
+      "english": "Or have you had dinner and then come to me?",
+      "pinyin": "hái shì nǐ chī guò wǎn fàn zài lái zhǎo wǒ？",
+      "words": [
+        {"ch": "还是", "en": "or", "pi": "hái shì"},
+        {"ch": "你吃过", "en": "have you eaten", "pi": "nǐ chī guò"},
+        {"ch": "晚饭", "en": "dinner", "pi": "wǎn fàn"},
+        {"ch": "再来", "en": "come again", "pi": "zài lái"},
+        {"ch": "找", "en": "find", "pi": "zhǎo"},
+        {"ch": "我", "en": "me", "pi": "wǒ"}
+      ]
+    }
+  ]
+}

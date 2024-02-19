@@ -1,0 +1,85 @@
+{
+  "sentences": [
+    {
+      "chinese": "我刚打完球。",
+      "english": "I just finished playing ball.",
+      "pinyin": "wǒ gāng dǎ wán qiú。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "刚",
+          "en": "just",
+          "pi": "gāng"
+        },
+        {
+          "ch": "打完",
+          "en": "finished playing",
+          "pi": "dǎ wán"
+        },
+        {
+          "ch": "球",
+          "en": "ball",
+          "pi": "qiú"
+        }
+      ]
+    },
+    {
+      "chinese": "我先洗澡。",
+      "english": "I'll take a shower first.",
+      "pinyin": "wǒ xiān xǐ zǎo。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "先",
+          "en": "first",
+          "pi": "xiān"
+        },
+        {
+          "ch": "洗澡",
+          "en": "take a shower",
+          "pi": "xǐ zǎo"
+        }
+      ]
+    },
+    {
+      "chinese": "洗完澡再回复你。",
+      "english": "I'll reply to you after taking a shower.",
+      "pinyin": "xǐ wán zǎo zài huífù nǐ。",
+      "words": [
+        {
+          "ch": "洗完",
+          "en": "after taking",
+          "pi": "xǐ wán"
+        },
+        {
+          "ch": "澡",
+          "en": "a shower",
+          "pi": "zǎo"
+        },
+        {
+          "ch": "再",
+          "en": "again",
+          "pi": "zài"
+        },
+        {
+          "ch": "回复",
+          "en": "reply",
+          "pi": "huífù"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "你今天出去散步吗?",
+  "english": "Are you going for a walk today?",
+  "pinyin": "nǐ jīntiān chūqù sànbù ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "今天",
+      "en": "today",
+      "pi": "jīntiān"
+    },
+    {
+      "ch": "出去",
+      "en": "go out",
+      "pi": "chūqù"
+    },
+    {
+      "ch": "散步",
+      "en": "walk",
+      "pi": "sànbù"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

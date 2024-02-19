@@ -1,0 +1,33 @@
+{
+  "sentences": [
+    {
+      "chinese": "很好喝。你应该会喜欢。很浓的羊汤味。非常不德国的味道。他们还有烤羊头。。。",
+      "english": "It tastes very good. You should like it. It has a strong mutton soup flavor. Very non-German taste. They also have roasted sheep's head...",
+      "pinyin": "hěn hǎo hē. nǐ yīng gāi huì xǐ huān. hěn nóng de yáng tāng wèi. fēi cháng bù dé guó de wèi dào. tā men hái yǒu kǎo yáng tóu...",
+      "words": [
+        { "ch": "很", "en": "very", "pi": "hěn" },
+        { "ch": "好喝", "en": "tasty", "pi": "hǎo hē" },
+        { "ch": "。", "en": ".", "pi": "。" },
+        { "ch": "你", "en": "you", "pi": "nǐ" },
+        { "ch": "应该", "en": "should", "pi": "yīng gāi" },
+        { "ch": "会", "en": "will", "pi": "huì" },
+        { "ch": "喜欢", "en": "like", "pi": "xǐ huān" },
+        { "ch": "。", "en": ".", "pi": "。" },
+        { "ch": "很", "en": "very", "pi": "hěn" },
+        { "ch": "浓", "en": "strong", "pi": "nóng" },
+        { "ch": "的", "en": "of", "pi": "de" },
+        { "ch": "羊汤味", "en": "mutton soup flavor", "pi": "yáng tāng wèi" },
+        { "ch": "。", "en": ".", "pi": "。" },
+        { "ch": "非常", "en": "very", "pi": "fēi cháng" },
+        { "ch": "不德国的", "en": "non-German", "pi": "bù dé guó de" },
+        { "ch": "味道", "en": "taste", "pi": "wèi dào" },
+        { "ch": "。", "en": ".", "pi": "。" },
+        { "ch": "他们", "en": "they", "pi": "tā men" },
+        { "ch": "还", "en": "also", "pi": "hái" },
+        { "ch": "有", "en": "have", "pi": "yǒu" },
+        { "ch": "烤羊头", "en": "roasted sheep's head", "pi": "kǎo yáng tóu" },
+        { "ch": "。", "en": ".", "pi": "。" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chinese": "几点你想吃晚饭？",
+  "english": "What time do you want to have dinner?",
+  "pinyin": "jǐ diǎn nǐ xiǎng chī wǎn fàn?",
+  "words": [
+    {
+      "ch": "几点",
+      "en": "what time",
+      "pi": "jǐ diǎn"
+    },
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "想",
+      "en": "want",
+      "pi": "xiǎng"
+    },
+    {
+      "ch": "吃",
+      "en": "eat",
+      "pi": "chī"
+    },
+    {
+      "ch": "晚饭",
+      "en": "dinner",
+      "pi": "wǎn fàn"
+    }
+  ]
+}

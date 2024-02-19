@@ -1,0 +1,120 @@
+{
+  "sentences": [
+    {
+      "chinese": "今晚约会Luigi的妹妹。",
+      "english": "I have a date with Luigi's sister tonight.",
+      "pinyin": "jīn wǎn yuē huì Luigi de mèi mèi。",
+      "words": [
+        {
+          "ch": "今晚",
+          "en": "tonight",
+          "pi": "jīn wǎn"
+        },
+        {
+          "ch": "约会",
+          "en": "date",
+          "pi": "yuē huì"
+        },
+        {
+          "ch": "Luigi",
+          "en": "Luigi",
+          "pi": "Luigi"
+        },
+        {
+          "ch": "的",
+          "en": "'s",
+          "pi": "de"
+        },
+        {
+          "ch": "妹妹",
+          "en": "sister",
+          "pi": "mèi mèi"
+        }
+      ]
+    },
+    {
+      "chinese": "今晚会与Luigi的妹妹约会。",
+      "english": "Tonight, I will have a date with Luigi's sister.",
+      "pinyin": "jīn wǎn huì yǔ Luigi de mèi mèi yuē huì。",
+      "words": [
+        {
+          "ch": "今晚",
+          "en": "tonight",
+          "pi": "jīn wǎn"
+        },
+        {
+          "ch": "会",
+          "en": "will",
+          "pi": "huì"
+        },
+        {
+          "ch": "与",
+          "en": "with",
+          "pi": "yǔ"
+        },
+        {
+          "ch": "Luigi",
+          "en": "Luigi",
+          "pi": "Luigi"
+        },
+        {
+          "ch": "的",
+          "en": "'s",
+          "pi": "de"
+        },
+        {
+          "ch": "妹妹",
+          "en": "sister",
+          "pi": "mèi mèi"
+        },
+        {
+          "ch": "约会",
+          "en": "date",
+          "pi": "yuē huì"
+        }
+      ]
+    },
+    {
+      "chinese": "今晚会与Luigi的妹妹见面。",
+      "english": "Tonight, I will meet Luigi's sister.",
+      "pinyin": "jīn wǎn huì yǔ Luigi de mèi mèi jiàn miàn。",
+      "words": [
+        {
+          "ch": "今晚",
+          "en": "tonight",
+          "pi": "jīn wǎn"
+        },
+        {
+          "ch": "会",
+          "en": "will",
+          "pi": "huì"
+        },
+        {
+          "ch": "与",
+          "en": "with",
+          "pi": "yǔ"
+        },
+        {
+          "ch": "Luigi",
+          "en": "Luigi",
+          "pi": "Luigi"
+        },
+        {
+          "ch": "的",
+          "en": "'s",
+          "pi": "de"
+        },
+        {
+          "ch": "妹妹",
+          "en": "sister",
+          "pi": "mèi mèi"
+        },
+        {
+          "ch": "见面",
+          "en": "meet",
+          "pi": "jiàn miàn"
+        }
+      ]
+    }
+  ]
+}

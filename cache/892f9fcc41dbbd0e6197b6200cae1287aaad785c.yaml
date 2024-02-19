@@ -1,0 +1,69 @@
+{
+  "sentences": [
+    {
+      "chinese": "早上好，你的越南之行听起来非常棒！",
+      "english": "Good morning, your trip to Vietnam sounds amazing!",
+      "pinyin": "Zǎoshang hǎo, nǐ de yuènán zhī xíng tīng qǐlái fēicháng bàng!",
+      "words": [
+        {"ch": "早上好", "en": "Good morning", "pi": "Zǎoshang hǎo"},
+        {"ch": "你的", "en": "your", "pi": "nǐ de"},
+        {"ch": "越南之行", "en": "trip to Vietnam", "pi": "yuènán zhī xíng"},
+        {"ch": "听起来", "en": "sounds", "pi": "tīng qǐlái"},
+        {"ch": "非常棒", "en": "amazing", "pi": "fēicháng bàng"}
+      ]
+    },
+    {
+      "chinese": "我还没有去过越南，越南可能和我长大的环境很相似，一直没有特别吸引我，但我很爱越南菜，海鲜火锅我也很爱。",
+      "english": "I haven't been to Vietnam yet. Vietnam might be very similar to the environment I grew up in, so it hasn't particularly attracted me. But I really love Vietnamese food, especially seafood hotpot.",
+      "pinyin": "Wǒ hái méiyǒu qùguò yuènán, yuènán kěnéng hé wǒ zhǎng dà de huánjìng hěn xiāngsì, yīzhí méiyǒu tèbié xīyǐn wǒ, dàn wǒ hěn ài yuènán cài, hǎixiān huǒguō wǒ yě hěn ài.",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "Wǒ"},
+        {"ch": "还没有", "en": "haven't", "pi": "hái méiyǒu"},
+        {"ch": "去过", "en": "been to", "pi": "qùguò"},
+        {"ch": "越南", "en": "Vietnam", "pi": "yuènán"},
+        {"ch": "越南可能", "en": "Vietnam might", "pi": "yuènán kěnéng"},
+        {"ch": "和", "en": "and", "pi": "hé"},
+        {"ch": "我长大的环境", "en": "the environment I grew up in", "pi": "wǒ zhǎng dà de huánjìng"},
+        {"ch": "很相似", "en": "very similar", "pi": "hěn xiāngsì"},
+        {"ch": "一直没有", "en": "hasn't", "pi": "yīzhí méiyǒu"},
+        {"ch": "特别吸引我", "en": "particularly attracted me", "pi": "tèbié xīyǐn wǒ"},
+        {"ch": "但我", "en": "But I", "pi": "dàn wǒ"},
+        {"ch": "很爱", "en": "really love", "pi": "hěn ài"},
+        {"ch": "越南菜", "en": "Vietnamese food", "pi": "yuènán cài"},
+        {"ch": "海鲜火锅", "en": "seafood hotpot", "pi": "hǎixiān huǒguō"},
+        {"ch": "我也", "en": "especially", "pi": "wǒ yě"},
+        {"ch": "很爱", "en": "love", "pi": "hěn ài"}
+      ]
+    },
+    {
+      "chinese": "我还在找柏林最好的越南米粉，可能最好的越南米粉只能是在越南的街边找到。",
+      "english": "I'm still looking for the best Vietnamese rice noodles in Berlin. Perhaps the best Vietnamese rice noodles can only be found on the streets of Vietnam.",
+      "pinyin": "Wǒ hái zài zhǎo bólín zuì hǎo de yuènán mǐfěn, kěnéng zuì hǎo de yuènán mǐfěn zhǐ néng shì zài yuènán de jiēbiān zhǎodào.",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "Wǒ"},
+        {"ch": "还在找", "en": "am still looking for", "pi": "hái zài zhǎo"},
+        {"ch": "柏林", "en": "Berlin", "pi": "bólín"},
+        {"ch": "最好的", "en": "the best", "pi": "zuì hǎo de"},
+        {"ch": "越南米粉", "en": "Vietnamese rice noodles", "pi": "yuènán mǐfěn"},
+        {"ch": "可能", "en": "perhaps", "pi": "kěnéng"},
+        {"ch": "只能是", "en": "can only be", "pi": "zhǐ néng shì"},
+        {"ch": "在", "en": "in", "pi": "zài"},
+        {"ch": "越南的", "en": "Vietnam", "pi": "yuènán de"},
+        {"ch": "街边", "en": "streets", "pi": "jiēbiān"},
+        {"ch": "找到", "en": "found", "pi": "zhǎodào"}
+      ]
+    },
+    {
+      "chinese": "我很想去柬埔寨，吴哥窟。",
+      "english": "I really want to go to Cambodia, Angkor Wat.",
+      "pinyin": "Wǒ hěn xiǎng qù jiǎnpǔzhài, wúgē kū.",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "Wǒ"},
+        {"ch": "很想", "en": "really want", "pi": "hěn xiǎng"},
+        {"ch": "去", "en": "to go", "pi": "qù"},
+        {"ch": "柬埔寨", "en": "Cambodia", "pi": "jiǎnpǔzhài"},
+        {"ch": "吴哥窟", "en": "Angkor Wat", "pi": "wúgē kū"}
+      ]
+    }
+  ]
+}

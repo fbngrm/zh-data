@@ -1,0 +1,195 @@
+{
+  "sentences": [
+    {
+      "chinese": "哪一天你打算去散步？30号还是31号？",
+      "english": "Which day do you plan to go for a walk? The 30th or the 31st?",
+      "pinyin": "Nǎ yītiān nǐ dǎsuàn qù sànbù? 30 hào háishì 31 hào?",
+      "words": [
+        {
+          "ch": "哪",
+          "en": "Which",
+          "pi": "nǎ"
+        },
+        {
+          "ch": "一",
+          "en": "One",
+          "pi": "yī"
+        },
+        {
+          "ch": "天",
+          "en": "Day",
+          "pi": "tiān"
+        },
+        {
+          "ch": "你",
+          "en": "You",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "打算",
+          "en": "Plan",
+          "pi": "dǎsuàn"
+        },
+        {
+          "ch": "去",
+          "en": "To go",
+          "pi": "qù"
+        },
+        {
+          "ch": "散步",
+          "en": "For a walk",
+          "pi": "sànbù"
+        },
+        {
+          "ch": "？",
+          "en": "?",
+          "pi": ""
+        },
+        {
+          "ch": "30",
+          "en": "30",
+          "pi": "30"
+        },
+        {
+          "ch": "号",
+          "en": "Day",
+          "pi": "hào"
+        },
+        {
+          "ch": "还是",
+          "en": "Or",
+          "pi": "háishì"
+        },
+        {
+          "ch": "31",
+          "en": "31",
+          "pi": "31"
+        },
+        {
+          "ch": "号",
+          "en": "Day",
+          "pi": "hào"
+        },
+        {
+          "ch": "？",
+          "en": "?",
+          "pi": ""
+        }
+      ]
+    },
+    {
+      "chinese": "很漂亮，我已经好几年没去过那里了。",
+      "english": "It's very beautiful. I haven't been there for several years.",
+      "pinyin": "Hěn piàoliang, wǒ yǐjīng hǎo jǐ nián méi qùguò nàlǐ le.",
+      "words": [
+        {
+          "ch": "很",
+          "en": "Very",
+          "pi": "hěn"
+        },
+        {
+          "ch": "漂亮",
+          "en": "Beautiful",
+          "pi": "piàoliang"
+        },
+        {
+          "ch": "，",
+          "en": ",",
+          "pi": ""
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "已经",
+          "en": "Already",
+          "pi": "yǐjīng"
+        },
+        {
+          "ch": "好几",
+          "en": "Several",
+          "pi": "hǎo jǐ"
+        },
+        {
+          "ch": "年",
+          "en": "Years",
+          "pi": "nián"
+        },
+        {
+          "ch": "没",
+          "en": "Not",
+          "pi": "méi"
+        },
+        {
+          "ch": "去过",
+          "en": "Been there",
+          "pi": "qù guò"
+        },
+        {
+          "ch": "那里",
+          "en": "There",
+          "pi": "nàlǐ"
+        },
+        {
+          "ch": "了",
+          "en": "Anymore",
+          "pi": "le"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": ""
+        }
+      ]
+    },
+    {
+      "chinese": "我可以开车去你家接你。",
+      "english": "I can drive to your place to pick you up.",
+      "pinyin": "Wǒ kěyǐ kāichē qù nǐjiā jiē nǐ.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "可以",
+          "en": "Can",
+          "pi": "kěyǐ"
+        },
+        {
+          "ch": "开车",
+          "en": "Drive",
+          "pi": "kāichē"
+        },
+        {
+          "ch": "去",
+          "en": "To",
+          "pi": "qù"
+        },
+        {
+          "ch": "你家",
+          "en": "Your place",
+          "pi": "nǐjiā"
+        },
+        {
+          "ch": "接",
+          "en": "Pick up",
+          "pi": "jiē"
+        },
+        {
+          "ch": "你",
+          "en": "You",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "。",
+          "en": ".",
+          "pi": ""
+        }
+      ]
+    }
+  ]
+}

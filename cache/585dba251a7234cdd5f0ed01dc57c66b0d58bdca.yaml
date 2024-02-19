@@ -1,0 +1,83 @@
+{
+  "sentences": [
+    {
+      "chinese": "她朋友推荐的,说有羊汤,所以试一试。",
+      "english": "Her friend recommended it, saying they have lamb soup, so I'll give it a try.",
+      "pinyin": "tā péngyǒu tuījiàn de, shuō yǒu yáng tāng, suǒyǐ shì yīshì。",
+      "words": [
+        {
+          "ch": "她",
+          "en": "her",
+          "pi": "tā"
+        },
+        {
+          "ch": "朋友",
+          "en": "friend",
+          "pi": "péngyǒu"
+        },
+        {
+          "ch": "推荐",
+          "en": "recommended",
+          "pi": "tuījiàn"
+        },
+        {
+          "ch": "的",
+          "en": "it",
+          "pi": "de"
+        },
+        {
+          "ch": "说",
+          "en": "saying",
+          "pi": "shuō"
+        },
+        {
+          "ch": "有",
+          "en": "have",
+          "pi": "yǒu"
+        },
+        {
+          "ch": "羊汤",
+          "en": "lamb soup",
+          "pi": "yáng tāng"
+        },
+        {
+          "ch": "所以",
+          "en": "so",
+          "pi": "suǒyǐ"
+        },
+        {
+          "ch": "试一试",
+          "en": "give it a try",
+          "pi": "shì yīshì"
+        }
+      ]
+    },
+    {
+      "chinese": "我喜欢另外一家。",
+      "english": "I prefer another place.",
+      "pinyin": "wǒ xǐhuān lìngwài yī jiā。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "喜欢",
+          "en": "prefer",
+          "pi": "xǐhuān"
+        },
+        {
+          "ch": "另外",
+          "en": "another",
+          "pi": "lìngwài"
+        },
+        {
+          "ch": "一家",
+          "en": "place",
+          "pi": "yī jiā"
+        }
+      ]
+    }
+  ]
+}

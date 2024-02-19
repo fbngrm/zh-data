@@ -1,0 +1,99 @@
+{
+  "sentences": [
+    {
+      "chinese": "下班啦。",
+      "english": "Work is over.",
+      "pinyin": "xià bān la.",
+      "words": [
+        {
+          "ch": "下班",
+          "en": "Work",
+          "pi": "xià bān"
+        },
+        {
+          "ch": "啦",
+          "en": "is over",
+          "pi": "la"
+        }
+      ]
+    },
+    {
+      "chinese": "好开心哦。",
+      "english": "So happy.",
+      "pinyin": "hǎo kāi xīn ó.",
+      "words": [
+        {
+          "ch": "好",
+          "en": "So",
+          "pi": "hǎo"
+        },
+        {
+          "ch": "开心",
+          "en": "happy",
+          "pi": "kāi xīn"
+        },
+        {
+          "ch": "哦",
+          "en": ""
+        }
+      ]
+    },
+    {
+      "chinese": "你今晚玩的开心。",
+      "english": "You had a fun time tonight.",
+      "pinyin": "nǐ jīn wǎn wán de kāi xīn.",
+      "words": [
+        {
+          "ch": "你",
+          "en": "You",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "今晚",
+          "en": "tonight",
+          "pi": "jīn wǎn"
+        },
+        {
+          "ch": "玩",
+          "en": "had",
+          "pi": "wán"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": "de"
+        },
+        {
+          "ch": "开心",
+          "en": "fun",
+          "pi": "kāi xīn"
+        },
+        {
+          "ch": "。",
+          "en": ""
+        }
+      ]
+    },
+    {
+      "chinese": "星期天见。",
+      "english": "See you on Sunday.",
+      "pinyin": "xīng qī tiān jiàn.",
+      "words": [
+        {
+          "ch": "星期天",
+          "en": "Sunday",
+          "pi": "xīng qī tiān"
+        },
+        {
+          "ch": "见",
+          "en": "See you",
+          "pi": "jiàn"
+        },
+        {
+          "ch": "。",
+          "en": ""
+        }
+      ]
+    }
+  ]
+}

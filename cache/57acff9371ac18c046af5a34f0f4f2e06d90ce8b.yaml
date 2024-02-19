@@ -1,0 +1,22 @@
+{
+  "chinese": "昨天在车里和你聊天的感觉真好，希望周末再一起去开车去徒步。",
+  "english": "It feels so good chatting with you in the car yesterday, hope to go driving and hiking together this weekend.",
+  "pinyin": "Zuótiān zài chē lǐ hé nǐ liáotiān de gǎnjué zhēnhǎo, xīwàng zhōumò zài yīqǐ qù kāichē qù túbù.",
+  "words": [
+    { "ch": "昨天", "en": "yesterday", "pi": "zuótiān" },
+    { "ch": "在", "en": "in", "pi": "zài" },
+    { "ch": "车里", "en": "in the car", "pi": "chē lǐ" },
+    { "ch": "和", "en": "and", "pi": "hé" },
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "聊天", "en": "chat", "pi": "liáotiān" },
+    { "ch": "的", "en": "of", "pi": "de" },
+    { "ch": "感觉", "en": "feel", "pi": "gǎnjué" },
+    { "ch": "真好", "en": "good", "pi": "zhēnhǎo" },
+    { "ch": "希望", "en": "hope", "pi": "xīwàng" },
+    { "ch": "周末", "en": "weekend", "pi": "zhōumò" },
+    { "ch": "再一起", "en": "together", "pi": "zài yīqǐ" },
+    { "ch": "去", "en": "go", "pi": "qù" },
+    { "ch": "开车", "en": "drive", "pi": "kāichē" },
+    { "ch": "徒步", "en": "hike", "pi": "túbù" }
+  ]
+}
