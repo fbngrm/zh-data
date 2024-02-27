@@ -1,0 +1,27 @@
+{
+  "chinese": "他上的课",
+  "english": "The class he attends",
+  "pinyin": "tā shàng de kè",
+  "words": [
+    {
+      "ch": "他",
+      "en": "he",
+      "pi": "tā"
+    },
+    {
+      "ch": "上",
+      "en": "attend",
+      "pi": "shàng"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "课",
+      "en": "class",
+      "pi": "kè"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "chinese": "你快快地吃。",
+      "english": "You eat quickly.",
+      "pinyin": "nǐ kuài kuài de chī。",
+      "words": [
+        {
+          "ch": "你",
+          "en": "You",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "快快",
+          "en": "quickly",
+          "pi": "kuài kuài"
+        },
+        {
+          "ch": "地",
+          "en": "",
+          "pi": "de"
+        },
+        {
+          "ch": "吃",
+          "en": "eat",
+          "pi": "chī"
+        }
+      ]
+    },
+    {
+      "chinese": "你快吃。",
+      "english": "You eat quickly.",
+      "pinyin": "nǐ kuài chī。",
+      "words": [
+        {
+          "ch": "你",
+          "en": "You",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "快",
+          "en": "quickly",
+          "pi": "kuài"
+        },
+        {
+          "ch": "吃",
+          "en": "eat",
+          "pi": "chī"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "这些菜我都喜欢吃。",
+  "english": "I like to eat all these dishes.",
+  "pinyin": "zhèxiē cài wǒ dōu xǐhuān chī。",
+  "words": [
+    {"ch": "这些", "en": "these", "pi": "zhèxiē"},
+    {"ch": "菜", "en": "dishes", "pi": "cài"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "都", "en": "all", "pi": "dōu"},
+    {"ch": "喜欢", "en": "like", "pi": "xǐhuān"},
+    {"ch": "吃", "en": "to eat", "pi": "chī"}
+  ]
+}

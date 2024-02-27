@@ -1,0 +1,32 @@
+{
+  "chinese": "雨不停地下",
+  "english": "The rain keeps falling",
+  "pinyin": "yǔ bù tíng dì xià",
+  "words": [
+    {
+      "ch": "雨",
+      "en": "rain",
+      "pi": "yǔ"
+    },
+    {
+      "ch": "不",
+      "en": "not",
+      "pi": "bù"
+    },
+    {
+      "ch": "停",
+      "en": "stop",
+      "pi": "tíng"
+    },
+    {
+      "ch": "地",
+      "en": "adverbial particle",
+      "pi": "dì"
+    },
+    {
+      "ch": "下",
+      "en": "fall",
+      "pi": "xià"
+    }
+  ]
+}

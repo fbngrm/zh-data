@@ -1,0 +1,14 @@
+{
+  "chinese": "请给我拿一本书。",
+  "english": "Please give me a book.",
+  "pinyin": "qǐng gěi wǒ ná yī běn shū。",
+  "words": [
+    {"ch": "请", "en": "please", "pi": "qǐng"},
+    {"ch": "给", "en": "give", "pi": "gěi"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "拿", "en": "take", "pi": "ná"},
+    {"ch": "一", "en": "one", "pi": "yī"},
+    {"ch": "本", "en": "measure word for books", "pi": "běn"},
+    {"ch": "书", "en": "book", "pi": "shū"}
+  ]
+}

@@ -1,0 +1,42 @@
+{
+	"sentences": [
+		{
+			"chinese": "昨天我们都在学校非常开心地跟老师学习汉语。",
+			"english": "Yesterday we were all very happy learning Chinese with the teacher at school.",
+			"pinyin": "zuó tiān wǒ men dōu zài xué xiào fēi cháng kāi xīn de gēn lǎo shī xué xí hàn yǔ。",
+			"words": [
+				{"ch": "昨天", "en": "Yesterday", "pi": "zuó tiān"},
+				{"ch": "我们", "en": "we", "pi": "wǒ men"},
+				{"ch": "都", "en": "all", "pi": "dōu"},
+				{"ch": "在", "en": "at", "pi": "zài"},
+				{"ch": "学校", "en": "school", "pi": "xué xiào"},
+				{"ch": "非常", "en": "very", "pi": "fēi cháng"},
+				{"ch": "开心", "en": "happy", "pi": "kāi xīn"},
+				{"ch": "地", "en": "happily", "pi": "de"},
+				{"ch": "跟", "en": "with", "pi": "gēn"},
+				{"ch": "老师", "en": "teacher", "pi": "lǎo shī"},
+				{"ch": "学习", "en": "learning", "pi": "xué xí"},
+				{"ch": "汉语", "en": "Chinese", "pi": "hàn yǔ"}
+			]
+		},
+		{
+			"chinese": "我们昨天都在学校非常开心地跟老师学习汉语。",
+			"english": "We were all very happy learning Chinese with the teacher at school yesterday.",
+			"pinyin": "wǒ men zuó tiān dōu zài xué xiào fēi cháng kāi xīn de gēn lǎo shī xué xí hàn yǔ。",
+			"words": [
+				{"ch": "我们", "en": "We", "pi": "wǒ men"},
+				{"ch": "昨天", "en": "yesterday", "pi": "zuó tiān"},
+				{"ch": "都", "en": "all", "pi": "dōu"},
+				{"ch": "在", "en": "at", "pi": "zài"},
+				{"ch": "学校", "en": "school", "pi": "xué xiào"},
+				{"ch": "非常", "en": "very", "pi": "fēi cháng"},
+				{"ch": "开心", "en": "happy", "pi": "kāi xīn"},
+				{"ch": "地", "en": "happily", "pi": "de"},
+				{"ch": "跟", "en": "with", "pi": "gēn"},
+				{"ch": "老师", "en": "teacher", "pi": "lǎo shī"},
+				{"ch": "学习", "en": "learning", "pi": "xué xí"},
+				{"ch": "汉语", "en": "Chinese", "pi": "hàn yǔ"}
+			]
+		}
+	]
+}
