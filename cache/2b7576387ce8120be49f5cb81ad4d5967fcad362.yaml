@@ -1,0 +1,14 @@
+{
+  "chinese": "这本书是老师介绍的。",
+  "english": "This book was introduced by the teacher.",
+  "pinyin": "zhè běn shū shì lǎo shī jiè shào de.",
+  "words": [
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "本", "en": "book", "pi": "běn"},
+    {"ch": "书", "en": "book", "pi": "shū"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "老师", "en": "teacher", "pi": "lǎo shī"},
+    {"ch": "介绍", "en": "introduce", "pi": "jiè shào"},
+    {"ch": "的", "en": "by", "pi": "de"}
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "chinese": "这道菜很好，谢谢你的介绍。",
+  "english": "This dish is very good, thank you for your introduction.",
+  "pinyin": "zhè dào cài hěn hǎo, xièxiè nǐ de jièshào.",
+  "words": [
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "道", "en": "dish", "pi": "dào"},
+    {"ch": "菜", "en": "food", "pi": "cài"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "好", "en": "good", "pi": "hǎo"},
+    {"ch": "，", "en": ",", "pi": ","},
+    {"ch": "谢谢", "en": "thank you", "pi": "xièxiè"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "的", "en": "your", "pi": "de"},
+    {"ch": "介绍", "en": "introduction", "pi": "jièshào"},
+    {"ch": "。", "en": ".", "pi": "."}
+  ]
+}

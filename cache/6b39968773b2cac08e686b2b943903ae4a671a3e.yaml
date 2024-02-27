@@ -1,0 +1,28 @@
+{
+  "sentences": [
+    {
+      "chinese": "我最喜欢的土耳其餐厅。",
+      "english": "My favorite Turkish restaurant.",
+      "pinyin": "wǒ zuì xǐhuān de tǔěrqí cāntīng。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "最", "en": "most", "pi": "zuì"},
+        {"ch": "喜欢", "en": "like", "pi": "xǐhuān"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "土耳其", "en": "Turkish", "pi": "tǔěrqí"},
+        {"ch": "餐厅", "en": "restaurant", "pi": "cāntīng"}
+      ]
+    },
+    {
+      "chinese": "我们一起去吧。",
+      "english": "Let's go together.",
+      "pinyin": "wǒmen yīqǐ qù ba。",
+      "words": [
+        {"ch": "我们", "en": "we", "pi": "wǒmen"},
+        {"ch": "一起", "en": "together", "pi": "yīqǐ"},
+        {"ch": "去", "en": "go", "pi": "qù"},
+        {"ch": "吧", "en": "let's", "pi": "ba"}
+      ]
+    }
+  ]
+}

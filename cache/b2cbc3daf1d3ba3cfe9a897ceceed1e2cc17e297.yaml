@@ -1,0 +1,16 @@
+{
+  "chinese": "我的学生总是问我很多有意思的问题。",
+  "english": "My students always ask me a lot of interesting questions.",
+  "pinyin": "wǒ de xuéshēng zǒng shì wèn wǒ hěn duō yǒu yìsi de wèntí。",
+  "words": [
+    {"ch": "我的", "en": "my", "pi": "wǒde"},
+    {"ch": "学生", "en": "students", "pi": "xuéshēng"},
+    {"ch": "总是", "en": "always", "pi": "zǒng shì"},
+    {"ch": "问", "en": "ask", "pi": "wèn"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "很多", "en": "a lot of", "pi": "hěn duō"},
+    {"ch": "有意思", "en": "interesting", "pi": "yǒu yìsi"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "问题", "en": "questions", "pi": "wèntí"}
+  ]
+}
