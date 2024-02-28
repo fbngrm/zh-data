@@ -1,0 +1,22 @@
+{
+	"chinese": "说好我请客的，别跟我客气。服务员，结账！",
+	"english": "I said I would treat, don't be polite with me. Waiter, check please!",
+	"pinyin": "shuō hǎo wǒ qǐng kè de, bié gēn wǒ kè qi. fú wù yuán, jié zhàng！",
+	"words": [
+		{"ch": "说", "en": "speak", "pi": "shuō"},
+		{"ch": "好", "en": "good", "pi": "hǎo"},
+		{"ch": "我", "en": "I", "pi": "wǒ"},
+		{"ch": "请客", "en": "treat", "pi": "qǐng kè"},
+		{"ch": "的", "en": "particle", "pi": "de"},
+		{"ch": "，", "en": ",", "pi": ""},
+		{"ch": "别", "en": "do not", "pi": "bié"},
+		{"ch": "跟", "en": "with", "pi": "gēn"},
+		{"ch": "我", "en": "I", "pi": "wǒ"},
+		{"ch": "客气", "en": "polite", "pi": "kè qi"},
+		{"ch": "。", "en": ".", "pi": ""},
+		{"ch": "服务员", "en": "waiter", "pi": "fú wù yuán"},
+		{"ch": "，", "en": ",", "pi": ""},
+		{"ch": "结账", "en": "check", "pi": "jié zhàng"},
+		{"ch": "！", "en": "!", "pi": ""}
+	]
+}

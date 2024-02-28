@@ -1,0 +1,15 @@
+{
+  "chinese": "今天吃得太饱了，我会长胖的。",
+  "english": "I ate too much today, I will get fat.",
+  "pinyin": "jīn tiān chī dé tài bǎo le，wǒ huì zhǎng pàng de。",
+  "words": [
+    {"ch": "今天", "en": "today", "pi": "jīn tiān"},
+    {"ch": "吃得", "en": "ate", "pi": "chī dé"},
+    {"ch": "太", "en": "too", "pi": "tài"},
+    {"ch": "饱了", "en": "full", "pi": "bǎo le"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "长胖", "en": "get fat", "pi": "zhǎng pàng"},
+    {"ch": "的", "en": "", "pi": "de"}
+  ]
+}

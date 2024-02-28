@@ -1,0 +1,14 @@
+{
+  "chinese": "大家都吃完了吧，结账吧？我们怎么样？",
+  "english": "Has everyone finished eating? Shall we ask for the bill? What do you think?",
+  "pinyin": "dà jiā dōu chī wán le ba， jié zhàng ba？ wǒ men zěn me yàng？",
+  "words": [
+    {"ch": "大家", "en": "everyone", "pi": "dà jiā"},
+    {"ch": "都", "en": "all", "pi": "dōu"},
+    {"ch": "吃完了", "en": "finished eating", "pi": "chī wán le"},
+    {"ch": "吧", "en": "particle indicating suggestion or surmise", "pi": "ba"},
+    {"ch": "结账", "en": "ask for the bill", "pi": "jié zhàng"},
+    {"ch": "我们", "en": "we", "pi": "wǒ men"},
+    {"ch": "怎么样", "en": "what do you think", "pi": "zěn me yàng"}
+  ]
+}

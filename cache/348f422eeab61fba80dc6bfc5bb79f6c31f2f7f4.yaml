@@ -1,0 +1,18 @@
+{
+  "chinese": "好的，您扫一下这个二维码就行。",
+  "english": "Okay, just scan this QR code.",
+  "pinyin": "hǎo de, nín sǎo yī xià zhège èr wéi mǎ jiù xíng。",
+  "words": [
+    {"ch": "好", "en": "Okay", "pi": "hǎo"},
+    {"ch": "的", "en": "particle", "pi": "de"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "您", "en": "you", "pi": "nín"},
+    {"ch": "扫", "en": "scan", "pi": "sǎo"},
+    {"ch": "一下", "en": "just", "pi": "yī xià"},
+    {"ch": "这个", "en": "this", "pi": "zhège"},
+    {"ch": "二维码", "en": "QR code", "pi": "èr wéi mǎ"},
+    {"ch": "就", "en": "just", "pi": "jiù"},
+    {"ch": "行", "en": "okay", "pi": "xíng"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

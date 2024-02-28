@@ -1,0 +1,19 @@
+{
+  "chinese": "这家店的菜真不错，服务也好。",
+  "english": "The food at this restaurant is really good, and the service is great.",
+  "pinyin": "zhè jiā diàn de cài zhēn bùcuò, fúwù yě hǎo.",
+  "words": [
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "家", "en": "family", "pi": "jiā"},
+    {"ch": "店", "en": "store", "pi": "diàn"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "菜", "en": "dish/food", "pi": "cài"},
+    {"ch": "真", "en": "really", "pi": "zhēn"},
+    {"ch": "不错", "en": "good", "pi": "bùcuò"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "服务", "en": "service", "pi": "fúwù"},
+    {"ch": "也", "en": "also", "pi": "yě"},
+    {"ch": "好", "en": "good", "pi": "hǎo"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}

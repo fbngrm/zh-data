@@ -1,0 +1,21 @@
+{
+  "chinese": "您好，您是支付宝还是微信？现金或者信用卡也可以。",
+  "english": "Hello, are you using Alipay or WeChat? Cash or credit card is also accepted.",
+  "pinyin": "nín hǎo, nín shì zhīfùbǎo háishì wēixìn? xiànjīn huòzhě xìnyòngkǎ yě kěyǐ。",
+  "words": [
+    {"ch": "您", "en": "you", "pi": "nín"},
+    {"ch": "好", "en": "good", "pi": "hǎo"},
+    {"ch": "您", "en": "you", "pi": "nín"},
+    {"ch": "是", "en": "are", "pi": "shì"},
+    {"ch": "支付宝", "en": "Alipay", "pi": "zhīfùbǎo"},
+    {"ch": "还是", "en": "or", "pi": "háishì"},
+    {"ch": "微信", "en": "WeChat", "pi": "wēixìn"},
+    {"ch": "？", "en": "?", "pi": "?"}, 
+    {"ch": "现金", "en": "cash", "pi": "xiànjīn"},
+    {"ch": "或者", "en": "or", "pi": "huòzhě"},
+    {"ch": "信用卡", "en": "credit card", "pi": "xìnyòngkǎ"},
+    {"ch": "也", "en": "also", "pi": "yě"},
+    {"ch": "可以", "en": "can", "pi": "kěyǐ"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}
