@@ -1,0 +1,19 @@
+{
+  "chinese": "那可以请你帮我给王老师留个言吗？",
+  "english": "Can you help me leave a message for Teacher Wang?",
+  "pinyin": "nà kěyǐ qǐng nǐ bāng wǒ gěi wáng lǎoshī liú gè yán ma？",
+  "words": [
+    {"ch": "那", "en": "that", "pi": "nà"},
+    {"ch": "可以", "en": "can", "pi": "kěyǐ"},
+    {"ch": "请", "en": "please", "pi": "qǐng"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "帮", "en": "help", "pi": "bāng"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "给", "en": "give", "pi": "gěi"},
+    {"ch": "王老师", "en": "Teacher Wang", "pi": "wáng lǎoshī"},
+    {"ch": "留", "en": "leave", "pi": "liú"},
+    {"ch": "个", "en": "a", "pi": "gè"},
+    {"ch": "言", "en": "message", "pi": "yán"},
+    {"ch": "吗", "en": "question", "pi": "ma"}
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "sentences": [
+    {
+      "chinese": "我叫吴小宇。",
+      "english": "My name is Wu Xiaoyu.",
+      "pinyin": "wǒ jiào wú xiǎo yǔ。",
+      "words": [
+        {"ch": "我", "en": "I/me", "pi": "wǒ"},
+        {"ch": "叫", "en": "call/name", "pi": "jiào"},
+        {"ch": "吴", "en": "Wu", "pi": "wú"},
+        {"ch": "小", "en": "small/little", "pi": "xiǎo"},
+        {"ch": "宇", "en": "universe", "pi": "yǔ"}
+      ]
+    },
+    {
+      "chinese": "我现在就去找同学问问。",
+      "english": "I will go find my classmates to ask now.",
+      "pinyin": "wǒ xiàn zài jiù qù zhǎo tóng xué wèn wen。",
+      "words": [
+        {"ch": "我", "en": "I/me", "pi": "wǒ"},
+        {"ch": "现在", "en": "now", "pi": "xiàn zài"},
+        {"ch": "就", "en": "then/just", "pi": "jiù"},
+        {"ch": "去", "en": "go", "pi": "qù"},
+        {"ch": "找", "en": "find", "pi": "zhǎo"},
+        {"ch": "同学", "en": "classmate", "pi": "tóng xué"},
+        {"ch": "问问", "en": "ask", "pi": "wèn wen"}
+      ]
+    },
+    {
+      "chinese": "留言条我也放在王老师桌上了。",
+      "english": "I also left a message on Teacher Wang's desk.",
+      "pinyin": "liú yán tiáo wǒ yě fàng zài wáng lǎo shī zhuō shàng le。",
+      "words": [
+        {"ch": "留言", "en": "leave a message", "pi": "liú yán"},
+        {"ch": "条", "en": "measure word for long, narrow objects", "pi": "tiáo"},
+        {"ch": "我", "en": "I/me", "pi": "wǒ"},
+        {"ch": "也", "en": "also", "pi": "yě"},
+        {"ch": "放", "en": "put/leave", "pi": "fàng"},
+        {"ch": "在", "en": "at/in/on", "pi": "zài"},
+        {"ch": "王", "en": "Wang", "pi": "wáng"},
+        {"ch": "老师", "en": "teacher", "pi": "lǎo shī"},
+        {"ch": "桌上", "en": "on the desk", "pi": "zhuō shàng"},
+        {"ch": "了", "en": "particle indicating completed action", "pi": "le"}
+      ]
+    }
+  ]
+}

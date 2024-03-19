@@ -1,0 +1,16 @@
+{
+  "chinese": "你好，怎么样？问到王老师号码了吗？",
+  "english": "Hello, how are you? Did you ask for Teacher Wang's phone number?",
+  "pinyin": "nǐ hǎo，zěnme yàng？wèn dào wáng lǎoshī hàomǎ le ma？",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "好", "en": "good", "pi": "hǎo"},
+    {"ch": "怎么样", "en": "how", "pi": "zěnme yàng"},
+    {"ch": "问到", "en": "ask for", "pi": "wèn dào"},
+    {"ch": "王", "en": "Wang", "pi": "wáng"},
+    {"ch": "老师", "en": "teacher", "pi": "lǎoshī"},
+    {"ch": "号码", "en": "phone number", "pi": "hàomǎ"},
+    {"ch": "了", "en": "particle indicating that something has happened", "pi": "le"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

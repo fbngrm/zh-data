@@ -1,0 +1,23 @@
+{
+  "chinese": "那你过一会儿再打来吧。我估计王老师十分钟后就回来了。",
+  "english": "Please call back in a while. I think Teacher Wang will be back in ten minutes.",
+  "pinyin": "nà nǐ guò yīhuǐer zài dǎ lái ba. wǒ gūjì wáng lǎoshī shí fēnzhōng hòu jiù huílái le.",
+  "words": [
+    {"ch": "那", "en": "that", "pi": "nà"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "过", "en": "pass", "pi": "guò"},
+    {"ch": "一会儿", "en": "a while", "pi": "yīhuǐer"},
+    {"ch": "再", "en": "again", "pi": "zài"},
+    {"ch": "打", "en": "call", "pi": "dǎ"},
+    {"ch": "来", "en": "come", "pi": "lái"},
+    {"ch": "吧", "en": "particle indicating suggestion or request", "pi": "ba"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "估计", "en": "estimate", "pi": "gūjì"},
+    {"ch": "王老师", "en": "Teacher Wang", "pi": "wáng lǎoshī"},
+    {"ch": "十分钟", "en": "ten minutes", "pi": "shí fēnzhōng"},
+    {"ch": "后", "en": "after", "pi": "hòu"},
+    {"ch": "就", "en": "just", "pi": "jiù"},
+    {"ch": "回来", "en": "come back", "pi": "huílái"},
+    {"ch": "了", "en": "particle indicating past tense", "pi": "le"}
+  ]
+}

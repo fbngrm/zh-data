@@ -1,0 +1,25 @@
+{
+	"chinese": "你的电话是多少？如果问到了王老师的号码，我打给你。",
+	"english": "What is your phone number? If I get Wang's phone number, I will call you.",
+	"pinyin": "nǐ de diànhuà shì duōshǎo? rúguǒ wèn dào le wáng lǎoshī de hàomǎ, wǒ dǎ gěi nǐ.",
+	"words": [
+		{"ch": "你", "en": "you", "pi": "nǐ"},
+		{"ch": "的", "en": "of", "pi": "de"},
+		{"ch": "电话", "en": "phone", "pi": "diànhuà"},
+		{"ch": "是", "en": "is", "pi": "shì"},
+		{"ch": "多少", "en": "how much", "pi": "duōshǎo"},
+		{"ch": "？", "en": "?", "pi": "?"},
+		{"ch": "如果", "en": "if", "pi": "rúguǒ"},
+		{"ch": "问到", "en": "ask", "pi": "wèn dào"},
+		{"ch": "了", "en": "to", "pi": "le"},
+		{"ch": "王", "en": "Wang", "pi": "wáng"},
+		{"ch": "老师", "en": "teacher", "pi": "lǎoshī"},
+		{"ch": "的", "en": "of", "pi": "de"},
+		{"ch": "号码", "en": "phone number", "pi": "hàomǎ"},
+		{"ch": "，", "en": ",", "pi": "，"},
+		{"ch": "我", "en": "I", "pi": "wǒ"},
+		{"ch": "打给", "en": "call", "pi": "dǎ gěi"},
+		{"ch": "你", "en": "you", "pi": "nǐ"},
+		{"ch": "。", "en": ".", "pi": "。"}
+	]
+}

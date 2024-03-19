@@ -1,0 +1,21 @@
+{
+	"chinese": "这可怎么办啊？你有王老师的手机号码吗？",
+	"english": "What should we do? Do you have Teacher Wang's phone number?",
+	"pinyin": "zhè kě zěnme bàn a? nǐ yǒu wáng lǎoshī de shǒujī hàomǎ ma?",
+	"words": [
+		{"ch": "这", "en": "this", "pi": "zhè"},
+		{"ch": "可", "en": "can", "pi": "kě"},
+		{"ch": "怎么", "en": "how", "pi": "zěnme"},
+		{"ch": "办", "en": "handle", "pi": "bàn"},
+		{"ch": "啊", "en": "ah", "pi": "a"},
+		{"ch": "?", "en": "?", "pi": "?"},
+		{"ch": "你", "en": "you", "pi": "nǐ"},
+		{"ch": "有", "en": "have", "pi": "yǒu"},
+		{"ch": "王", "en": "Wang", "pi": "wáng"},
+		{"ch": "老师", "en": "teacher", "pi": "lǎoshī"},
+		{"ch": "的", "en": "", "pi": "de"},
+		{"ch": "手机号码", "en": "phone number", "pi": "shǒujī hàomǎ"},
+		{"ch": "吗", "en": "", "pi": "ma"},
+		{"ch": "?", "en": "?", "pi": "?"}
+	]
+}
