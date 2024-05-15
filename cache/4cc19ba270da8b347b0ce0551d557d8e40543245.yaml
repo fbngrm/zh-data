@@ -1,0 +1,18 @@
+{
+  "chinese": "我除了吃了一碗米饭，还吃了一份水饺。",
+  "english": "I not only ate a bowl of rice, but also ate a serving of dumplings.",
+  "pinyin": "wǒ chúle chīle yī wǎn mǐfàn, hái chīle yī fèn shuǐjiǎo。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "除了", "en": "not only", "pi": "chúle"},
+    {"ch": "吃了", "en": "ate", "pi": "chīle"},
+    {"ch": "一", "en": "a", "pi": "yī"},
+    {"ch": "碗", "en": "bowl", "pi": "wǎn"},
+    {"ch": "米饭", "en": "rice", "pi": "mǐfàn"},
+    {"ch": "还", "en": "but also", "pi": "hái"},
+    {"ch": "吃了", "en": "ate", "pi": "chīle"},
+    {"ch": "一", "en": "a", "pi": "yī"},
+    {"ch": "份", "en": "serving", "pi": "fèn"},
+    {"ch": "水饺", "en": "dumplings", "pi": "shuǐjiǎo"}
+  ]
+}

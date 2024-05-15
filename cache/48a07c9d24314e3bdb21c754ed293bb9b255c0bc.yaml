@@ -1,0 +1,30 @@
+{
+  "sentences": [
+    {
+      "chinese": "真好，我们下次可以一起写。",
+      "english": "That's great, we can write together next time.",
+      "pinyin": "zhēn hǎo, wǒmen xià cì kěyǐ yīqǐ xiě。",
+      "words": [
+        { "ch": "真", "en": "That", "pi": "zhēn" },
+        { "ch": "好", "en": "great", "pi": "hǎo" },
+        { "ch": "我们", "en": "we", "pi": "wǒmen" },
+        { "ch": "下次", "en": "next time", "pi": "xià cì" },
+        { "ch": "可以", "en": "can", "pi": "kěyǐ" },
+        { "ch": "一起", "en": "together", "pi": "yīqǐ" },
+        { "ch": "写", "en": "write", "pi": "xiě" }
+      ]
+    },
+    {
+      "chinese": "你最近干什么呢？",
+      "english": "What have you been up to recently?",
+      "pinyin": "nǐ zuìjìn gàn shénme ne？",
+      "words": [
+        { "ch": "你", "en": "you", "pi": "nǐ" },
+        { "ch": "最近", "en": "recently", "pi": "zuìjìn" },
+        { "ch": "干", "en": "do", "pi": "gàn" },
+        { "ch": "什么", "en": "what", "pi": "shénme" },
+        { "ch": "呢", "en": "", "pi": "ne" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "chinese": "听说你在学汉语，你学得怎么样？",
+  "english": "I heard you are learning Chinese, how's it going?",
+  "pinyin": "tīng shuō nǐ zài xué hànyǔ, nǐ xué dé zěnme yàng?",
+  "words": [
+    {"ch": "听", "en": "hear", "pi": "tīng"},
+    {"ch": "说", "en": "speak", "pi": "shuō"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "学", "en": "study", "pi": "xué"},
+    {"ch": "汉语", "en": "Chinese language", "pi": "hànyǔ"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "学得", "en": "learn", "pi": "xué dé"},
+    {"ch": "怎么样", "en": "how", "pi": "zěnme yàng"},
+    {"ch": "？", "en": "?", "pi": ""}
+  ]
+}

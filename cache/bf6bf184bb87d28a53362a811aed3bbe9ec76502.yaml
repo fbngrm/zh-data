@@ -1,0 +1,32 @@
+{
+  "sentences": [
+    {
+      "chinese": "小狗在干什么呢？",
+      "english": "What is the puppy doing?",
+      "pinyin": "Xiǎo gǒu zài gàn shénme ne?",
+      "words": [
+        {"ch": "小", "en": "small", "pi": "xiǎo"},
+        {"ch": "狗", "en": "dog", "pi": "gǒu"},
+        {"ch": "在", "en": "at", "pi": "zài"},
+        {"ch": "干", "en": "do", "pi": "gàn"},
+        {"ch": "什么", "en": "what", "pi": "shénme"},
+        {"ch": "呢", "en": "particle indicating a question", "pi": "ne"}
+      ]
+    },
+    {
+      "chinese": "小狗在窗台上啃着骨头呢。",
+      "english": "The puppy is gnawing on a bone on the windowsill.",
+      "pinyin": "Xiǎo gǒu zài chuāngtái shàng kěn zhe gǔtou ne.",
+      "words": [
+        {"ch": "小", "en": "small", "pi": "xiǎo"},
+        {"ch": "狗", "en": "dog", "pi": "gǒu"},
+        {"ch": "在", "en": "at", "pi": "zài"},
+        {"ch": "窗台", "en": "windowsill", "pi": "chuāngtái"},
+        {"ch": "上", "en": "on", "pi": "shàng"},
+        {"ch": "啃着", "en": "gnawing", "pi": "kěn zhe"},
+        {"ch": "骨头", "en": "bone", "pi": "gǔtou"},
+        {"ch": "呢", "en": "particle indicating a continuing action", "pi": "ne"}
+      ]
+    }
+  ]
+}

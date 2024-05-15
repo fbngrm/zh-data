@@ -1,0 +1,85 @@
+{
+  "sentences": [
+    {
+      "chinese": "你会做牛排吗？",
+      "english": "Can you cook steak?",
+      "pinyin": "Nǐ huì zuò niúpái ma?",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "会",
+          "en": "can",
+          "pi": "huì"
+        },
+        {
+          "ch": "做",
+          "en": "cook",
+          "pi": "zuò"
+        },
+        {
+          "ch": "牛排",
+          "en": "steak",
+          "pi": "niúpái"
+        },
+        {
+          "ch": "吗",
+          "en": "?",
+          "pi": "ma"
+        }
+      ]
+    },
+    {
+      "chinese": "我会做牛排。",
+      "english": "I can cook steak.",
+      "pinyin": "Wǒ huì zuò niúpái.",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "会",
+          "en": "can",
+          "pi": "huì"
+        },
+        {
+          "ch": "做",
+          "en": "cook",
+          "pi": "zuò"
+        },
+        {
+          "ch": "牛排",
+          "en": "steak",
+          "pi": "niúpái"
+        }
+      ]
+    },
+    {
+      "chinese": "我的手艺不错。",
+      "english": "My cooking skills are good.",
+      "pinyin": "Wǒ de shǒuyì bùcuò.",
+      "words": [
+        {
+          "ch": "我的",
+          "en": "my",
+          "pi": "wǒ de"
+        },
+        {
+          "ch": "手艺",
+          "en": "cooking skills",
+          "pi": "shǒuyì"
+        },
+        {
+          "ch": "不错",
+          "en": "good",
+          "pi": "bùcuò"
+        }
+      ]
+    }
+  ]
+}

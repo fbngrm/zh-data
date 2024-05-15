@@ -1,0 +1,68 @@
+{
+  "sentences": [
+    {
+      "chinese": "他们在干什么？",
+      "english": "What are they doing?",
+      "pinyin": "tāmen zài gàn shénme?",
+      "words": [
+        {
+          "ch": "他们",
+          "en": "they",
+          "pi": "tāmen"
+        },
+        {
+          "ch": "在",
+          "en": "at",
+          "pi": "zài"
+        },
+        {
+          "ch": "干",
+          "en": "do",
+          "pi": "gàn"
+        },
+        {
+          "ch": "什么",
+          "en": "what",
+          "pi": "shénme"
+        }
+      ]
+    },
+    {
+      "chinese": "他们聚在一起打麻将。",
+      "english": "They gather together to play mahjong.",
+      "pinyin": "tāmen jù zài yīqǐ dǎ májiàng.",
+      "words": [
+        {
+          "ch": "他们",
+          "en": "they",
+          "pi": "tāmen"
+        },
+        {
+          "ch": "聚",
+          "en": "gather",
+          "pi": "jù"
+        },
+        {
+          "ch": "在",
+          "en": "at",
+          "pi": "zài"
+        },
+        {
+          "ch": "一起",
+          "en": "together",
+          "pi": "yīqǐ"
+        },
+        {
+          "ch": "打",
+          "en": "play",
+          "pi": "dǎ"
+        },
+        {
+          "ch": "麻将",
+          "en": "mahjong",
+          "pi": "májiàng"
+        }
+      ]
+    }
+  ]
+}

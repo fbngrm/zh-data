@@ -1,0 +1,13 @@
+{
+  "chinese": "我每周都打两次乒乓球。",
+  "english": "I play table tennis twice a week.",
+  "pinyin": "wǒ měi zhōu dōu dǎ liǎng cì pīng pāng qiú。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "每周", "en": "every week", "pi": "měi zhōu"},
+    {"ch": "都", "en": "always", "pi": "dōu"},
+    {"ch": "打", "en": "play", "pi": "dǎ"},
+    {"ch": "两次", "en": "twice", "pi": "liǎng cì"},
+    {"ch": "乒乓球", "en": "table tennis", "pi": "pīng pāng qiú"}
+  ]
+}

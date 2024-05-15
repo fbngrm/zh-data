@@ -1,0 +1,16 @@
+{
+  "chinese": "你去哪里打篮球？我经常去连球场打篮球。",
+  "english": "Where do you play basketball? I often go to the basketball court to play basketball.",
+  "pinyin": "Nǐ qù nǎlǐ dǎ lánqiú？Wǒ jīngcháng qù lián qiúchǎng dǎ lánqiú。",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "哪里", "en": "where", "pi": "nǎlǐ"},
+    {"ch": "打", "en": "play", "pi": "dǎ"},
+    {"ch": "篮球", "en": "basketball", "pi": "lánqiú"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "经常", "en": "often", "pi": "jīngcháng"},
+    {"ch": "连", "en": "to", "pi": "lián"},
+    {"ch": "球场", "en": "basketball court", "pi": "qiúchǎng"}
+  ]
+}

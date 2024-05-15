@@ -1,0 +1,21 @@
+{
+  "chinese": "在美国，大家喜欢篮球，棒球，游泳，健身等等，但是大部分人更喜欢美式足球。",
+  "english": "In the United States, people like basketball, baseball, swimming, fitness, etc., but most people prefer American football.",
+  "pinyin": "Zài měiguó, dàjiā xǐhuān lánqiú, bàngqiú, yóuyǒng, jiànshēn děngděng, dànshì dàbùfèn rén gèng xǐhuān měishì zúqiú。",
+  "words": [
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "美国", "en": "United States", "pi": "měiguó"},
+    {"ch": "大家", "en": "everyone", "pi": "dàjiā"},
+    {"ch": "喜欢", "en": "like", "pi": "xǐhuān"},
+    {"ch": "篮球", "en": "basketball", "pi": "lánqiú"},
+    {"ch": "棒球", "en": "baseball", "pi": "bàngqiú"},
+    {"ch": "游泳", "en": "swimming", "pi": "yóuyǒng"},
+    {"ch": "健身", "en": "fitness", "pi": "jiànshēn"},
+    {"ch": "等等", "en": "etc.", "pi": "děngděng"},
+    {"ch": "但是", "en": "but", "pi": "dànshì"},
+    {"ch": "大部分", "en": "most", "pi": "dàbùfèn"},
+    {"ch": "人", "en": "people", "pi": "rén"},
+    {"ch": "更", "en": "more", "pi": "gèng"},
+    {"ch": "美式足球", "en": "American football", "pi": "měishì zúqiú"}
+  ]
+}

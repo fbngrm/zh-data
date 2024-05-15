@@ -1,0 +1,17 @@
+{
+  "chinese": "你有什么爱好？我没什么爱好？",
+  "english": "What hobbies do you have? I don't have any hobbies.",
+  "pinyin": "Nǐ yǒu shénme àihào? Wǒ méi shénme àihào?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "什么", "en": "what", "pi": "shénme"},
+    {"ch": "爱好", "en": "hobbies", "pi": "àihào"},
+    {"ch": "？", "en": "?", "pi": "?"},    
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "没", "en": "don't have", "pi": "méi"},
+    {"ch": "什么", "en": "any", "pi": "shénme"},
+    {"ch": "爱好", "en": "hobbies", "pi": "àihào"},
+    {"ch": "？", "en": "?", "pi": "?"}    
+  ]
+}

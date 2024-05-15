@@ -1,0 +1,27 @@
+{
+  "chinese": "你答对了吗？",
+  "english": "Did you answer correctly?",
+  "pinyin": "nǐ dá duì le ma?",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "答对",
+      "en": "answer correctly",
+      "pi": "dá duì"
+    },
+    {
+      "ch": "了",
+      "en": "particle indicating completed action",
+      "pi": "le"
+    },
+    {
+      "ch": "吗",
+      "en": "question particle",
+      "pi": "ma"
+    }
+  ]
+}

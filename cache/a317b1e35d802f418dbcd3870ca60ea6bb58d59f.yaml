@@ -1,0 +1,20 @@
+{
+  "chinese": "我周六打算跟爷爷一起去爬山，周日必须参加一个会议。",
+  "english": "I plan to go mountain climbing with my grandfather on Saturday, and I have to attend a meeting on Sunday.",
+  "pinyin": "wǒ zhōu liù dǎsuàn gēn yéye yīqǐ qù páshān, zhōurì bìxū cānjiā yīgè huìyì。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "周六", "en": "Saturday", "pi": "zhōu liù"},
+    {"ch": "打算", "en": "plan", "pi": "dǎsuàn"},
+    {"ch": "跟", "en": "with", "pi": "gēn"},
+    {"ch": "爷爷", "en": "grandfather", "pi": "yéye"},
+    {"ch": "一起", "en": "together", "pi": "yīqǐ"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "爬山", "en": "mountain climbing", "pi": "páshān"},
+    {"ch": "周日", "en": "Sunday", "pi": "zhōurì"},
+    {"ch": "必须", "en": "have to", "pi": "bìxū"},
+    {"ch": "参加", "en": "attend", "pi": "cānjiā"},
+    {"ch": "一个", "en": "a", "pi": "yīgè"},
+    {"ch": "会议", "en": "meeting", "pi": "huìyì"}
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chinese": "当然！我记得你很喜欢听音乐。",
+  "english": "Of course! I remember you really like listening to music.",
+  "pinyin":"dāng rán！wǒ jì de nǐ hěn xǐ huān tīng yīn yuè。",
+  "words": [
+    {"ch": "当然", "en": "Of course", "pi": "dāng rán"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "记得", "en": "remember", "pi": "jì de"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "很", "en": "really", "pi": "hěn"},
+    {"ch": "喜欢", "en": "like", "pi": "xǐ huān"},
+    {"ch": "听", "en": "listen", "pi": "tīng"},
+    {"ch": "音乐", "en": "music", "pi": "yīn yuè"}
+  ]
+}

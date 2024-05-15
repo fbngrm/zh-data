@@ -1,0 +1,18 @@
+{
+  "chinese": "你这张照片是在哪儿照的？真漂亮！",
+  "english": "Where was this photo taken? It's beautiful!",
+  "pinyin": "nǐ zhè zhāng zhàopiàn shì zài nǎ'er zhào de？zhēn piàoliang！",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "张", "en": "measure word for flat objects", "pi": "zhāng"},
+    {"ch": "照片", "en": "photo", "pi": "zhàopiàn"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "哪儿", "en": "where", "pi": "nǎ'er"},
+    {"ch": "照", "en": "take (a photo)", "pi": "zhào"},
+    {"ch": "的", "en": "particle used to form a noun", "pi": "de"},
+    {"ch": "真", "en": "really", "pi": "zhēn"},
+    {"ch": "漂亮", "en": "beautiful", "pi": "piàoliang"}
+  ]
+}

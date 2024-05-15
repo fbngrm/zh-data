@@ -1,0 +1,20 @@
+{
+  "chinese": "这周末来我家做客吧，我给大家做牛排。",
+  "english": "Come to my house this weekend as guests, I will make steaks for everyone.",
+  "pinyin": "zhè zhōumò lái wǒ jiā zuòkè ba, wǒ gěi dàjiā zuò niúpái.",
+  "words": [
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "周末", "en": "weekend", "pi": "zhōumò"},
+    {"ch": "来", "en": "to come", "pi": "lái"},
+    {"ch": "我家", "en": "my house", "pi": "wǒ jiā"},
+    {"ch": "做客", "en": "as guests", "pi": "zuòkè"},
+    {"ch": "吧", "en": "particle indicating suggestion", "pi": "ba"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "给", "en": "to give", "pi": "gěi"},
+    {"ch": "大家", "en": "everyone", "pi": "dàjiā"},
+    {"ch": "做", "en": "to make", "pi": "zuò"},
+    {"ch": "牛排", "en": "steak", "pi": "niúpái"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}

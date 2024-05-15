@@ -1,0 +1,13 @@
+{
+  "chinese": "他除了去过北京，还去过上海。",
+  "english": "He has been to Beijing as well as Shanghai.",
+  "pinyin": "tā chúle qùguò běijīng, hái qùguò shànghǎi.",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "除了", "en": "besides", "pi": "chúle"},
+    {"ch": "去过", "en": "have been to", "pi": "qùguò"},
+    {"ch": "北京", "en": "Beijing", "pi": "běijīng"},
+    {"ch": "还", "en": "also", "pi": "hái"},
+    {"ch": "上海", "en": "Shanghai", "pi": "shànghǎi"}
+  ]
+}
