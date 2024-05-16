@@ -1,0 +1,78 @@
+{
+  "sentences": [
+    {
+      "chinese": "我打篮球打得很好。",
+      "english": "I play basketball very well.",
+      "pinyin": "wǒ dǎ lánqiú dǎ de hěn hǎo。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "打",
+          "en": "play",
+          "pi": "dǎ"
+        },
+        {
+          "ch": "篮球",
+          "en": "basketball",
+          "pi": "lánqiú"
+        },
+        {
+          "ch": "打",
+          "en": "play",
+          "pi": "dǎ"
+        },
+        {
+          "ch": "得",
+          "en": "very",
+          "pi": "de"
+        },
+        {
+          "ch": "很好",
+          "en": "well",
+          "pi": "hěn hǎo"
+        }
+      ]
+    },
+    {
+      "chinese": "我说汉语说得不错。",
+      "english": "I speak Chinese pretty well.",
+      "pinyin": "wǒ shuō hànyǔ shuō de bùcuò。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "说",
+          "en": "speak",
+          "pi": "shuō"
+        },
+        {
+          "ch": "汉语",
+          "en": "Chinese",
+          "pi": "hànyǔ"
+        },
+        {
+          "ch": "说",
+          "en": "speak",
+          "pi": "shuō"
+        },
+        {
+          "ch": "得",
+          "en": "pretty",
+          "pi": "de"
+        },
+        {
+          "ch": "不错",
+          "en": "well",
+          "pi": "bùcuò"
+        }
+      ]
+    }
+  ]
+}

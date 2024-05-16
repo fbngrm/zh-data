@@ -1,0 +1,15 @@
+{
+  "chinese": "书法很难，但是我学得还可以",
+  "english": "Calligraphy is difficult, but I am learning it quite well",
+  "pinyin": "shū fǎ hěn nán, dàn shì wǒ xué dé hái kě yǐ",
+  "words": [
+    {"ch": "书法", "en": "calligraphy", "pi": "shū fǎ"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "难", "en": "difficult", "pi": "nán"},
+    {"ch": "但是", "en": "but", "pi": "dàn shì"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "学得", "en": "learning", "pi": "xué dé"},
+    {"ch": "还", "en": "quite", "pi": "hái"},
+    {"ch": "可以", "en": "well", "pi": "kě yǐ"}
+  ]
+}

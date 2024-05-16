@@ -1,0 +1,14 @@
+{
+  "chinese": "杰克正在地板上坐着玩玩具。",
+  "english": "Jack is sitting on the floor playing with toys.",
+  "pinyin": "jié kè zhèng zài dì bǎn shàng zuò zhe wán wán jù。",
+  "words": [
+    {"ch": "杰克", "en": "Jack", "pi": "jié kè"},
+    {"ch": "正在", "en": "is", "pi": "zhèng zài"},
+    {"ch": "地板", "en": "floor", "pi": "dì bǎn"},
+    {"ch": "上", "en": "on", "pi": "shàng"},
+    {"ch": "坐着", "en": "sitting", "pi": "zuò zhe"},
+    {"ch": "玩", "en": "playing", "pi": "wán"},
+    {"ch": "玩具", "en": "toys", "pi": "wán jù"}
+  ]
+}

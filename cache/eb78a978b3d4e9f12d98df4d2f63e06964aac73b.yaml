@@ -1,0 +1,13 @@
+{
+  "chinese": "我会做牛排，做得还可以。",
+  "english": "I can cook steak, and I cook it quite well.",
+  "pinyin": "wǒ huì zuò niúpái，zuò dé hái kěyǐ。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "会", "en": "can", "pi": "huì"},
+    {"ch": "做", "en": "cook", "pi": "zuò"},
+    {"ch": "牛排", "en": "steak", "pi": "niúpái"},
+    {"ch": "做得", "en": "cook it", "pi": "zuò dé"},
+    {"ch": "还可以", "en": "quite well", "pi": "hái kěyǐ"}
+  ]
+}

@@ -1,0 +1,16 @@
+{
+	"chinese": "你真是一个认真的好学生啊！",
+	"english": "You are a really diligent student!",
+	"pinyin": "nǐ zhēn shì yī gè rèn zhēn de hǎo xué shēng a！",
+	"words": [
+		{"ch": "你", "en": "You", "pi": "nǐ"},
+		{"ch": "真", "en": "really", "pi": "zhēn"},
+		{"ch": "是", "en": "are", "pi": "shì"},
+		{"ch": "一个", "en": "a", "pi": "yī"},
+		{"ch": "认真", "en": "diligent", "pi": "rèn zhēn"},
+		{"ch": "的", "en": "de", "pi": "de"},
+		{"ch": "好", "en": "good", "pi": "hǎo"},
+		{"ch": "学生", "en": "student", "pi": "xué shēng"},
+		{"ch": "啊", "en": "!", "pi": "a"}
+	]
+}

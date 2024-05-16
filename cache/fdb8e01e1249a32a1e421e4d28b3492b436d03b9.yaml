@@ -1,0 +1,148 @@
+{
+  "sentences": [
+    {
+      "chinese": "我在学做西餐，做得挺不错的。",
+      "english": "I am learning to cook Western food, and I am doing quite well.",
+      "pinyin": "wǒ zài xué zuò xīcān, zuò dé tǐng bùcuò de。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "在",
+          "en": "at",
+          "pi": "zài"
+        },
+        {
+          "ch": "学",
+          "en": "learn",
+          "pi": "xué"
+        },
+        {
+          "ch": "做",
+          "en": "to do",
+          "pi": "zuò"
+        },
+        {
+          "ch": "西餐",
+          "en": "Western food",
+          "pi": "xīcān"
+        },
+        {
+          "ch": "做得",
+          "en": "doing",
+          "pi": "zuò dé"
+        },
+        {
+          "ch": "挺",
+          "en": "quite",
+          "pi": "tǐng"
+        },
+        {
+          "ch": "不错",
+          "en": "nice",
+          "pi": "bùcuò"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": "de"
+        }
+      ]
+    },
+    {
+      "chinese": "你看，这是朋友给我拍的照片，我当时正看着菜谱，做着牛排呢！",
+      "english": "Look, this is a photo taken by a friend for me. At that time, I was looking at a cookbook and making steak!",
+      "pinyin": "nǐ kàn, zhè shì péngyǒu gěi wǒ pāi de zhàopiàn, wǒ dāngshí zhèng kànzhe càipǔ, zuòzhe niúpái ne!",
+      "words": [
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "看",
+          "en": "look",
+          "pi": "kàn"
+        },
+        {
+          "ch": "这是",
+          "en": "this is",
+          "pi": "zhè shì"
+        },
+        {
+          "ch": "朋友",
+          "en": "friend",
+          "pi": "péngyǒu"
+        },
+        {
+          "ch": "给",
+          "en": "for",
+          "pi": "gěi"
+        },
+        {
+          "ch": "我",
+          "en": "me",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "拍",
+          "en": "take",
+          "pi": "pāi"
+        },
+        {
+          "ch": "的",
+          "en": "",
+          "pi": "de"
+        },
+        {
+          "ch": "照片",
+          "en": "photo",
+          "pi": "zhàopiàn"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "当时",
+          "en": "at that time",
+          "pi": "dāngshí"
+        },
+        {
+          "ch": "正",
+          "en": "just",
+          "pi": "zhèng"
+        },
+        {
+          "ch": "看着",
+          "en": "looking at",
+          "pi": "kànzhe"
+        },
+        {
+          "ch": "菜谱",
+          "en": "cookbook",
+          "pi": "càipǔ"
+        },
+        {
+          "ch": "做着",
+          "en": "making",
+          "pi": "zuòzhe"
+        },
+        {
+          "ch": "牛排",
+          "en": "steak",
+          "pi": "niúpái"
+        },
+        {
+          "ch": "呢",
+          "en": "",
+          "pi": "ne"
+        }
+      ]
+    }
+  ]
+}

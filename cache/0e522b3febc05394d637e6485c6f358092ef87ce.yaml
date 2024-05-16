@@ -1,0 +1,13 @@
+{
+  "chinese": "我一般去篮球场打篮球。",
+  "english": "I usually go to the basketball court to play basketball.",
+  "pinyin": "wǒ yī bān qù lánqiúchǎng dǎ lánqiú。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "一般", "en": "usually", "pi": "yī bān"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "篮球场", "en": "basketball court", "pi": "lánqiúchǎng"},
+    {"ch": "打", "en": "to play", "pi": "dǎ"},
+    {"ch": "篮球", "en": "basketball", "pi": "lánqiú"}
+  ]
+}

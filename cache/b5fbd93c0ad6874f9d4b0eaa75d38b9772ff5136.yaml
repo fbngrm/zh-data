@@ -1,0 +1,29 @@
+{
+	"sentences": [
+		{
+			"chinese": "桌子上放着什么？",
+			"english": "What is on the table?",
+			"pinyin": "Zhuōzi shàng fàngzhe shénme?",
+			"words": [
+				{"ch": "桌子", "en": "table", "pi": "zhuōzi"},
+				{"ch": "上", "en": "on", "pi": "shàng"},
+				{"ch": "放着", "en": "placed", "pi": "fàngzhe"},
+				{"ch": "什么", "en": "what", "pi": "shénme"}
+			]
+		},
+		{
+			"chinese": "桌子上整整齐齐地放着书和毛笔。",
+			"english": "Neatly placed on the table are books and brushes.",
+			"pinyin": "Zhuōzi shàng zhěngzhěng qíqí de fàngzhe shū hé máobǐ.",
+			"words": [
+				{"ch": "桌子", "en": "table", "pi": "zhuōzi"},
+				{"ch": "上", "en": "on", "pi": "shàng"},
+				{"ch": "整整齐齐地", "en": "neatly", "pi": "zhěngzhěng qíqí de"},
+				{"ch": "放着", "en": "placed", "pi": "fàngzhe"},
+				{"ch": "书", "en": "books", "pi": "shū"},
+				{"ch": "和", "en": "and", "pi": "hé"},
+				{"ch": "毛笔", "en": "brushes", "pi": "máobǐ"}
+			]
+		}
+	]
+}

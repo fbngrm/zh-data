@@ -1,0 +1,21 @@
+{
+	"chinese": "这是艾米丽的家。电视开着，窗也开着。",
+	"english": "This is Emily's house. The TV is on, and the window is also open.",
+	"pinyin": "zhè shì ài mǐ lì de jiā. diàn shì kāi zhe, chuāng yě kāi zhe.",
+	"words": [
+		{"ch": "这", "en": "this", "pi": "zhè"},
+		{"ch": "是", "en": "is", "pi": "shì"},
+		{"ch": "艾米丽", "en": "Emily", "pi": "ài mǐ lì"},
+		{"ch": "的", "en": "'s", "pi": "de"},
+		{"ch": "家。", "en": "house.", "pi": "jiā."},
+		{"ch": "电视", "en": "TV", "pi": "diàn shì"},
+		{"ch": "开", "en": "on", "pi": "kāi"},
+		{"ch": "着", "en": "ongoing marker", "pi": "zhe"},
+		{"ch": "，", "en": ",", "pi": ""},
+		{"ch": "窗", "en": "window", "pi": "chuāng"},
+		{"ch": "也", "en": "also", "pi": "yě"},
+		{"ch": "开", "en": "open", "pi": "kāi"},
+		{"ch": "着", "en": "ongoing marker", "pi": "zhe"},
+		{"ch": "。", "en": ".", "pi": ""}
+	]
+}

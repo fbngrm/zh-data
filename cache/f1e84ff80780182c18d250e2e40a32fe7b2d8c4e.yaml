@@ -1,0 +1,16 @@
+{
+  "chinese": "如果周六刮大风，我们就不去了。",
+  "english": "If it's very windy on Saturday, then we won't go.",
+  "pinyin": "rú guǒ zhōu liù guā dà fēng, wǒ men jiù bù qù le.",
+  "words": [
+    {"ch": "如果", "en": "if", "pi": "rú guǒ"},
+    {"ch": "周六", "en": "Saturday", "pi": "zhōu liù"},
+    {"ch": "刮", "en": "blow", "pi": "guā"},
+    {"ch": "大风", "en": "strong wind", "pi": "dà fēng"},
+    {"ch": "我们", "en": "we", "pi": "wǒ men"},
+    {"ch": "就", "en": "then", "pi": "jiù"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "了", "en": "will not", "pi": "le"}
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "chinese": "丽莎在自己的房间里听着音乐看书。",
+  "english": "Lisa is listening to music and reading in her room.",
+  "pinyin": "lì shā zài zì jǐ de fáng jiān lǐ tīng zhe yīn yuè kàn shū。",
+  "words": [
+    {"ch": "丽莎", "en": "Lisa", "pi": "lì shā"},
+    {"ch": "在", "en": "is", "pi": "zài"},
+    {"ch": "自己的", "en": "own", "pi": "zì jǐ de"},
+    {"ch": "房间", "en": "room", "pi": "fáng jiān"},
+    {"ch": "里", "en": "in", "pi": "lǐ"},
+    {"ch": "听", "en": "listening", "pi": "tīng"},
+    {"ch": "着", "en": "to", "pi": "zhe"},
+    {"ch": "音乐", "en": "music", "pi": "yīn yuè"},
+    {"ch": "看书", "en": "reading", "pi": "kàn shū"}
+  ]
+}

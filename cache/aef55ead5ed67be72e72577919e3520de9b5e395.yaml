@@ -1,0 +1,26 @@
+{
+  "sentences": [
+    {
+      "chinese": "他写着作业。",
+      "english": "He is doing his homework.",
+      "pinyin": "tā xiězhe zuòyè.",
+      "words": [
+        {"ch": "他", "en": "he", "pi": "tā"},
+        {"ch": "写着", "en": "doing", "pi": "xiězhe"},
+        {"ch": "作业", "en": "homework", "pi": "zuòyè"}
+      ]
+    },
+    {
+      "chinese": "他正看着你呢。",
+      "english": "He is looking at you.",
+      "pinyin": "tā zhèng kànzhe nǐ ne.",
+      "words": [
+        {"ch": "他", "en": "he", "pi": "tā"},
+        {"ch": "正", "en": "is", "pi": "zhèng"},
+        {"ch": "看着", "en": "looking", "pi": "kànzhe"},
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "呢", "en": "(particle indicating ongoing action)", "pi": "ne"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "我每天学三个小时汉语。",
+  "english": "I study Chinese for three hours every day.",
+  "pinyin": "wǒ měi tiān xué sān gè xiǎo shí hàn yǔ。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "每天", "en": "every day", "pi": "měi tiān"},
+    {"ch": "学", "en": "study", "pi": "xué"},
+    {"ch": "三个", "en": "three", "pi": "sān gè"},
+    {"ch": "小时", "en": "hours", "pi": "xiǎo shí"},
+    {"ch": "汉语", "en": "Chinese", "pi": "hàn yǔ"}
+  ]
+}

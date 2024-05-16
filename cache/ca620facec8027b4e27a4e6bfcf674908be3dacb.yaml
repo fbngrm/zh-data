@@ -1,0 +1,20 @@
+{
+  "chinese": "他们的爱好很多，不过和我们的爱好有点不一样。",
+  "english": "They have many hobbies, but they are a bit different from ours.",
+  "pinyin": "tā men de ài hào hěn duō, bù guò hé wǒ men de ài hào yǒu diǎn bù yī yàng。",
+  "words": [
+    {"ch": "他们", "en": "They", "pi": "tā men"},
+    {"ch": "的", "en": "have", "pi": "de"},
+    {"ch": "爱好", "en": "hobbies", "pi": "ài hào"},
+    {"ch": "很多", "en": "many", "pi": "hěn duō"},
+    {"ch": "，", "en": ",", "pi": "，"},
+    {"ch": "不过", "en": "but", "pi": "bù guò"},
+    {"ch": "和", "en": "they", "pi": "hé"},
+    {"ch": "我们", "en": "us", "pi": "wǒ men"},
+    {"ch": "的", "en": "have", "pi": "de"},
+    {"ch": "爱好", "en": "hobbies", "pi": "ài hào"},
+    {"ch": "有点", "en": "a bit", "pi": "yǒu diǎn"},
+    {"ch": "不一样", "en": "different", "pi": "bù yī yàng"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

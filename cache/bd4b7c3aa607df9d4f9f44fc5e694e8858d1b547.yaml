@@ -1,0 +1,78 @@
+{
+  "sentences": [
+    {
+      "chinese": "她的丈夫呢？",
+      "english": "Where is her husband?",
+      "pinyin": "Tā de zhàngfū ne?",
+      "words": [
+        {
+          "ch": "她",
+          "en": "she",
+          "pi": "tā"
+        },
+        {
+          "ch": "的",
+          "en": "'s",
+          "pi": "de"
+        },
+        {
+          "ch": "丈夫",
+          "en": "husband",
+          "pi": "zhàngfū"
+        },
+        {
+          "ch": "呢",
+          "en": "where",
+          "pi": "ne"
+        }
+      ]
+    },
+    {
+      "chinese": "她的丈夫在喝着咖啡看电视。",
+      "english": "Her husband is drinking coffee and watching TV.",
+      "pinyin": "Tā de zhàngfū zài hēzhe kāfēi kàn diànshì.",
+      "words": [
+        {
+          "ch": "她",
+          "en": "she",
+          "pi": "tā"
+        },
+        {
+          "ch": "的",
+          "en": "'s",
+          "pi": "de"
+        },
+        {
+          "ch": "丈夫",
+          "en": "husband",
+          "pi": "zhàngfū"
+        },
+        {
+          "ch": "在",
+          "en": "is",
+          "pi": "zài"
+        },
+        {
+          "ch": "喝着",
+          "en": "drinking",
+          "pi": "hēzhe"
+        },
+        {
+          "ch": "咖啡",
+          "en": "coffee",
+          "pi": "kāfēi"
+        },
+        {
+          "ch": "看",
+          "en": "watching",
+          "pi": "kàn"
+        },
+        {
+          "ch": "电视",
+          "en": "TV",
+          "pi": "diànshì"
+        }
+      ]
+    }
+  ]
+}

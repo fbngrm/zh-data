@@ -1,0 +1,26 @@
+{
+  "sentences": [
+    {
+      "chinese": "她在干什么？",
+      "english": "What is she doing?",
+      "pinyin": "tā zài gàn shénme？", 
+      "words": [
+        {"ch": "她", "en": "she", "pi": "tā"},
+        {"ch": "在", "en": "at", "pi": "zài"},
+        {"ch": "干", "en": "do", "pi": "gàn"},
+        {"ch": "什么", "en": "what", "pi": "shénme"}
+      ]
+    },
+    {
+      "chinese": "她听着音乐看书。",
+      "english": "She is listening to music and reading.",
+      "pinyin": "tā tīngzhe yīnyuè kànshū。",
+      "words": [
+        {"ch": "她", "en": "she", "pi": "tā"},
+        {"ch": "听着", "en": "listening to", "pi": "tīngzhe"},
+        {"ch": "音乐", "en": "music", "pi": "yīnyuè"},
+        {"ch": "看书", "en": "reading", "pi": "kànshū"}
+      ]
+    }
+  ]
+}

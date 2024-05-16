@@ -1,0 +1,52 @@
+{
+  "chinese": "你学得怎么样？ 书法很难，但是我学得还可以",
+  "english": "How are you doing in your studies? Calligraphy is difficult, but I'm doing okay.",
+  "pinyin": "nǐ xué dé zěnme yàng？ shūfǎ hěn nán，dànshì wǒ xué dé hái kěyǐ",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "学得",
+      "en": "learned",
+      "pi": "xué dé"
+    },
+    {
+      "ch": "怎么样",
+      "en": "how",
+      "pi": "zěnme yàng"
+    },
+    {
+      "ch": "书法",
+      "en": "calligraphy",
+      "pi": "shūfǎ"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "难",
+      "en": "difficult",
+      "pi": "nán"
+    },
+    {
+      "ch": "但是",
+      "en": "but",
+      "pi": "dànshì"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "还可以",
+      "en": "still okay",
+      "pi": "hái kěyǐ"
+    }
+  ]
+}

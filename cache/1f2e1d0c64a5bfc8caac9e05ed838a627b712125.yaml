@@ -1,0 +1,16 @@
+{
+  "chinese": "你在一边做作业一边听音乐吗？",
+  "english": "Are you doing homework and listening to music at the same time?",
+  "pinyin": "nǐ zài yībiān zuò zuòyè yībiān tīng yīnyuè ma？",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "一边", "en": "side", "pi": "yībiān"},
+    {"ch": "做", "en": "do", "pi": "zuò"},
+    {"ch": "作业", "en": "homework", "pi": "zuòyè"},
+    {"ch": "一边", "en": "side", "pi": "yībiān"},
+    {"ch": "听", "en": "listen", "pi": "tīng"},
+    {"ch": "音乐", "en": "music", "pi": "yīnyuè"},
+    {"ch": "吗", "en": "?", "pi": "ma"}
+  ]
+}

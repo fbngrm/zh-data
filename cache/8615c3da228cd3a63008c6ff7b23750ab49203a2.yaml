@@ -1,0 +1,16 @@
+{
+	"chinese": "不是我在听中文课的MP3。",
+	"english": "It's not me listening to the Chinese class MP3.",
+	"pinyin": "bù shì wǒ zài tīng zhōng wén kè de MP3。",
+	"words": [
+		{"ch": "不", "en": "not", "pi": "bù"},
+		{"ch": "是", "en": "is", "pi": "shì"},
+		{"ch": "我", "en": "me", "pi": "wǒ"},
+		{"ch": "在", "en": "at", "pi": "zài"},
+		{"ch": "听", "en": "listen", "pi": "tīng"},
+		{"ch": "中文", "en": "Chinese", "pi": "zhōng wén"},
+		{"ch": "课", "en": "class", "pi": "kè"},
+		{"ch": "的", "en": "'s", "pi": "de"},
+		{"ch": "MP3", "en": "MP3", "pi": "MP3"}
+	]
+}

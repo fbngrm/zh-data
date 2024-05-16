@@ -1,0 +1,14 @@
+{
+  "chinese": "我会游泳，游得很好",
+  "english": "I can swim very well",
+  "pinyin": "wǒ huì yóuyǒng, yóu dé hěn hǎo",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "会", "en": "can", "pi": "huì"},
+    {"ch": "游泳", "en": "swim", "pi": "yóuyǒng"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "游得", "en": "swim", "pi": "yóu dé"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "好", "en": "well", "pi": "hǎo"}
+  ]
+}

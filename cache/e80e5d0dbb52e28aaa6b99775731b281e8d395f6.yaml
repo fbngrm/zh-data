@@ -1,0 +1,13 @@
+{
+  "chinese": "客厅里摆着沙发和桌子。",
+  "english": "There is a sofa and a table in the living room.",
+  "pinyin": "kètīng lǐ bǎi zhe shāfā hé zhuōzi.",
+  "words": [
+    {"ch": "客厅", "en": "living room", "pi": "kètīng"},
+    {"ch": "里", "en": "inside", "pi": "lǐ"},
+    {"ch": "摆着", "en": "have placed", "pi": "bǎi zhe"},
+    {"ch": "沙发", "en": "sofa", "pi": "shāfā"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "桌子", "en": "table", "pi": "zhuōzi"}
+  ]
+}

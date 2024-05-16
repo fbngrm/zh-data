@@ -1,0 +1,20 @@
+{
+  "chinese": "我除了吃了一碗米饭，还吃了一份水饺。",
+  "english": "I ate a bowl of rice and also ate a serving of dumplings.",
+  "pinyin": "wo3 chu2le chi1le yi4 wan3 mi3fan4, hai2 chi1le yi4 fen4 shui3jiao3.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wo3"},
+    {"ch": "除了", "en": "besides", "pi": "chu2le"},
+    {"ch": "吃", "en": "to eat", "pi": "chi1"},
+    {"ch": "了", "en": "particle indicating completed action", "pi": "le"},
+    {"ch": "一", "en": "one", "pi": "yi4"},
+    {"ch": "碗", "en": "bowl", "pi": "wan3"},
+    {"ch": "米饭", "en": "rice", "pi": "mi3fan4"},
+    {"ch": "还", "en": "also", "pi": "hai2"},
+    {"ch": "吃", "en": "to eat", "pi": "chi1"},
+    {"ch": "了", "en": "particle indicating completed action", "pi": "le"},
+    {"ch": "一", "en": "one", "pi": "yi4"},
+    {"ch": "份", "en": "measure word for dishes", "pi": "fen4"},
+    {"ch": "水饺", "en": "dumplings", "pi": "shui3jiao3"}
+  ]
+}

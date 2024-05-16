@@ -1,0 +1,14 @@
+{
+    "chinese": "这个周末你打算去哪儿？",
+    "english": "Where are you planning to go this weekend?",
+    "pinyin": "zhè gè zhōumò nǐ dǎsuàn qù nǎ'er？",
+    "words": [
+        {"ch": "这", "en": "this", "pi": "zhè"},
+        {"ch": "个", "en": "measure word", "pi": "gè"},
+        {"ch": "周末", "en": "weekend", "pi": "zhōumò"},
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "打算", "en": "plan", "pi": "dǎsuàn"},
+        {"ch": "去", "en": "go", "pi": "qù"},
+        {"ch": "哪儿", "en": "where", "pi": "nǎ'er"}
+    ]
+}

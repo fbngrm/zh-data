@@ -1,0 +1,16 @@
+{
+  "chinese": "嗨，浩明，我很好。 我最近在学书法。",
+  "english": "Hi, Haoming, I'm doing well. I have been learning calligraphy recently.",
+  "pinyin": "hāi, hào míng, wǒ hěn hǎo. wǒ zuìjìn zài xué shūfǎ.",
+  "words": [
+    {"ch": "嗨", "en": "Hi", "pi": "hāi"},
+    {"ch": "浩明", "en": "Haoming", "pi": "hào míng"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "好", "en": "well", "pi": "hǎo"},
+    {"ch": "最近", "en": "recently", "pi": "zuìjìn"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "学", "en": "learn", "pi": "xué"},
+    {"ch": "书法", "en": "calligraphy", "pi": "shūfǎ"}
+  ]
+}

@@ -1,0 +1,74 @@
+{
+	"sentences": [
+		{
+			"chinese": "你 这 张 照片 是 在 哪儿 照 的？真 漂亮！",
+			"english": "Where was this picture taken? It's beautiful!",
+			"pinyin": "nǐ zhè zhāng zhàopiàn shì zài nǎr zhào de？zhēn piàoliang！",
+			"words": [
+				{"ch": "你", "en": "You", "pi": "nǐ"},
+				{"ch": "这", "en": "This", "pi": "zhè"},
+				{"ch": "张", "en": "Measure word for flat objects", "pi": "zhāng"},
+				{"ch": "照片", "en": "Photo", "pi": "zhàopiàn"},
+				{"ch": "是", "en": "Is", "pi": "shì"},
+				{"ch": "在", "en": "At", "pi": "zài"},
+				{"ch": "哪儿", "en": "Where", "pi": "nǎr"},
+				{"ch": "照", "en": "To take (a photo)", "pi": "zhào"},
+				{"ch": "的", "en": "Particle used after an attribute", "pi": "de"},
+				{"ch": "真", "en": "Really", "pi": "zhēn"},
+				{"ch": "漂亮", "en": "Beautiful", "pi": "piàoliang"}
+			]
+		},
+		{
+			"chinese": "是 在 我 家 附近 的 公园 照 的。",
+			"english": "It was taken near my house in the park.",
+			"pinyin": "shì zài wǒ jiā fùjìn de gōngyuán zhào de。",
+			"words": [
+				{"ch": "是", "en": "Is", "pi": "shì"},
+				{"ch": "在", "en": "At", "pi": "zài"},
+				{"ch": "我", "en": "I, me", "pi": "wǒ"},
+				{"ch": "家", "en": "Home, house", "pi": "jiā"},
+				{"ch": "附近", "en": "Nearby", "pi": "fùjìn"},
+				{"ch": "的", "en": "Particle used after an attribute", "pi": "de"},
+				{"ch": "公园", "en": "Park", "pi": "gōngyuán"},
+				{"ch": "照", "en": "To take (a photo)", "pi": "zhào"},
+				{"ch": "的", "en": "Particle used after an attribute", "pi": "de"}
+			]
+		},
+		{
+			"chinese": "你 照相 的 水平 真 不 错, 你 经常 照相 吗？",
+			"english": "Your photography skills are really good, do you often take photos?",
+			"pinyin": "nǐ zhàoxiàng de shuǐpíng zhēn bùcuò, nǐ jīngcháng zhàoxiàng ma？",
+			"words": [
+				{"ch": "你", "en": "You", "pi": "nǐ"},
+				{"ch": "照相", "en": "Photography", "pi": "zhàoxiàng"},
+				{"ch": "的", "en": "Particle used after an attribute", "pi": "de"},
+				{"ch": "水平", "en": "Skill level", "pi": "shuǐpíng"},
+				{"ch": "真", "en": "Really", "pi": "zhēn"},
+				{"ch": "不", "en": "Not", "pi": "bù"},
+				{"ch": "错", "en": "Wrong, good", "pi": "cuò"},
+				{"ch": "你", "en": "You", "pi": "nǐ"},
+				{"ch": "经常", "en": "Often", "pi": "jīngcháng"},
+				{"ch": "照相", "en": "Photography", "pi": "zhàoxiàng"},
+				{"ch": "吗", "en": "Question particle", "pi": "ma"}
+			]
+		},
+		{
+			"chinese": "是 的，周末 出去 玩儿 的 时候，我 总是 带着 照相机。",
+			"english": "Yes, I always bring my camera when going out on weekends.",
+			"pinyin": "shì de, zhōumò chūqù wánr de shíhou, wǒ zǒngshì dàizhe zhàoxiàngjī。",
+			"words": [
+				{"ch": "是", "en": "Yes", "pi": "shì"},
+				{"ch": "的", "en": "Particle used after an attribute", "pi": "de"},
+				{"ch": "周末", "en": "Weekend", "pi": "zhōumò"},
+				{"ch": "出去", "en": "Go out", "pi": "chūqù"},
+				{"ch": "玩儿", "en": "Play", "pi": "wánr"},
+				{"ch": "的", "en": "Particle used after an attribute", "pi": "de"},
+				{"ch": "时候", "en": "Time", "pi": "shíhou"},
+				{"ch": "我", "en": "I, me", "pi": "wǒ"},
+				{"ch": "总是", "en": "Always", "pi": "zǒngshì"},
+				{"ch": "带着", "en": "Bring along", "pi": "dàizhe"},
+				{"ch": "照相机", "en": "Camera", "pi": "zhàoxiàngjī"}
+			]
+		}
+	]
+}

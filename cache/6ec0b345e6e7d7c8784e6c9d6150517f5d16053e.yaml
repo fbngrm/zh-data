@@ -1,0 +1,16 @@
+{
+  "chinese": "杰克在干什么？他正在坐着玩玩具",
+  "english": "What is Jack doing? He is sitting and playing with toys.",
+  "pinyin": "jié kè zài gàn shén me？tā zhèng zài zuò zhe wán wán jù",
+  "words": [
+    {"ch": "杰克", "en": "Jack", "pi": "jié kè"},
+    {"ch": "在", "en": "is", "pi": "zài"},
+    {"ch": "干什么", "en": "doing", "pi": "gàn shén me"},
+    {"ch": "？", "en": "?", "pi": ""},
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "正在", "en": "is", "pi": "zhèng zài"},
+    {"ch": "坐着", "en": "sitting", "pi": "zuò zhe"},
+    {"ch": "玩", "en": "playing", "pi": "wán"},
+    {"ch": "玩具", "en": "toys", "pi": "wán jù"}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "墙上挂着一张全家福。",
+  "english": "There is a family photo hanging on the wall.",
+  "pinyin": "qiáng shàng guà zhe yì zhāng quán jiā fú。",
+  "words": [
+    {"ch": "墙", "en": "wall", "pi": "qiáng"},
+    {"ch": "上", "en": "on", "pi": "shàng"},
+    {"ch": "挂着", "en": "hanging", "pi": "guà zhe"},
+    {"ch": "一", "en": "a", "pi": "yì"},
+    {"ch": "张", "en": "measure word for flat objects", "pi": "zhāng"},
+    {"ch": "全家福", "en": "family photo", "pi": "quán jiā fú"}
+  ]
+}

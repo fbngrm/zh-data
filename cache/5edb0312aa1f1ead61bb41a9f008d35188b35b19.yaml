@@ -1,0 +1,12 @@
+{
+	"chinese": "黑板上写着几个汉字。",
+	"english": "There are several Chinese characters written on the blackboard.",
+	"pinyin": "hēi bǎn shàng xiě zhe jǐ gè hàn zì。",
+	"words": [
+		{"ch": "黑板", "en": "blackboard", "pi": "hēi bǎn"},
+		{"ch": "上", "en": "on", "pi": "shàng"},
+		{"ch": "写着", "en": "written", "pi": "xiě zhe"},
+		{"ch": "几个", "en": "several", "pi": "jǐ gè"},
+		{"ch": "汉字", "en": "Chinese characters", "pi": "hàn zì"}
+	]
+}
