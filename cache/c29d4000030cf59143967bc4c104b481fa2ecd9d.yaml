@@ -1,0 +1,18 @@
+{
+  "chinese": "你 如果 累 了 就 休息 一下 。 我 不累",
+  "english": "If you're tired, take a break. I'm not tired.",
+  "pinyin": "nǐ rúguǒ lèi le jiù xiūxí yīxià. wǒ bù lèi",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "如果", "en": "if", "pi": "rúguǒ"},
+    {"ch": "累", "en": "tired", "pi": "lèi"},
+    {"ch": "了", "en": "", "pi": "le"},
+    {"ch": "就", "en": "just", "pi": "jiù"},
+    {"ch": "休息", "en": "rest", "pi": "xiūxí"},
+    {"ch": "一下", "en": "a bit", "pi": "yīxià"},
+    {"ch": "。", "en": "", "pi": ""},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "累", "en": "tired", "pi": "lèi"}
+  ]
+}

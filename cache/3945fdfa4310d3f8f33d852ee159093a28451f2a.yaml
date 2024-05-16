@@ -1,0 +1,28 @@
+{
+	"sentences": [
+		{
+			"chinese": "他 写 着 作业。",
+			"english": "He is writing homework.",
+			"pinyin": "tā xiě zhe zuòyè.",
+			"words": [
+				{"ch": "他", "en": "He", "pi": "tā"},
+				{"ch": "写", "en": "write", "pi": "xiě"},
+				{"ch": "着", "en": "ing (continuous tense marker)", "pi": "zhe"},
+				{"ch": "作业", "en": "homework", "pi": "zuòyè"}
+			]
+		},
+		{
+			"chinese": "他 正 看 着 你 呢。",
+			"english": "He is looking at you.",
+			"pinyin": "tā zhèng kàn zhe nǐ ne.",
+			"words": [
+				{"ch": "他", "en": "He", "pi": "tā"},
+				{"ch": "正", "en": "is currently", "pi": "zhèng"},
+				{"ch": "看", "en": "look", "pi": "kàn"},
+				{"ch": "着", "en": "at (continuous tense marker)", "pi": "zhe"},
+				{"ch": "你", "en": "you", "pi": "nǐ"},
+				{"ch": "呢", "en": "(sentence-final particle)", "pi": "ne"}
+			]
+		}
+	]
+}

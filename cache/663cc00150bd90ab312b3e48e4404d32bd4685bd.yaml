@@ -1,0 +1,14 @@
+{
+  "chinese": "她当时正唱着歌洗澡呢！",
+  "english": "She was singing while taking a bath!",
+  "pinyin": "tā dāngshí zhèng chàngzhe gē xǐzǎo ne!",
+  "words": [
+    {"ch": "她", "en": "she", "pi": "tā"},
+    {"ch": "当时", "en": "was", "pi": "dāngshí"},
+    {"ch": "正", "en": "while", "pi": "zhèng"},
+    {"ch": "唱着", "en": "singing", "pi": "chàngzhe"},
+    {"ch": "歌", "en": "song", "pi": "gē"},
+    {"ch": "洗澡", "en": "taking a bath", "pi": "xǐzǎo"},
+    {"ch": "呢", "en": "particle indicating continuous or completed action", "pi": "ne"}
+  ]
+}

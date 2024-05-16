@@ -1,0 +1,15 @@
+{
+	"chinese": "小狗 在 干什么 呢 ？ 小狗 在窗 台上 啃着 骨头 呢 。",
+	"english": "What is the puppy doing? The puppy is gnawing on a bone on the windowsill.",
+	"pinyin": "Xiǎo gǒu zài gànshénme ne? Xiǎo gǒu zài chuāng tái shàng kěnzhe gǔtou ne.",
+	"words": [
+		{"ch": "小狗", "en": "puppy", "pi": "xiǎo gǒu"},
+		{"ch": "在", "en": "is", "pi": "zài"},
+		{"ch": "干什么", "en": "doing", "pi": "gànshénme"},
+		{"ch": "呢", "en": "", "pi": "ne"},
+		{"ch": "窗", "en": "window", "pi": "chuāng"},
+		{"ch": "台上", "en": "on", "pi": "tái shàng"},
+		{"ch": "啃着", "en": "gnawing", "pi": "kěnzhe"},
+		{"ch": "骨头", "en": "bone", "pi": "gǔtou"}
+	]
+}

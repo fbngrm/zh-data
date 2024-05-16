@@ -1,0 +1,13 @@
+{
+  "chinese": "他看着菜谱做牛排。",
+  "english": "He is looking at the recipe to cook the steak.",
+  "pinyin": "tā kàn zhe càipǔ zuò niúpái。",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "看", "en": "look", "pi": "kàn"},
+    {"ch": "着", "en": "[particle indicating an action in progress]", "pi": "zhe"},
+    {"ch": "菜谱", "en": "recipe", "pi": "càipǔ"},
+    {"ch": "做", "en": "cook", "pi": "zuò"},
+    {"ch": "牛排", "en": "steak", "pi": "niúpái"}
+  ]
+}

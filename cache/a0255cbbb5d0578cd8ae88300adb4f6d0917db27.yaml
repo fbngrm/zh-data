@@ -1,0 +1,20 @@
+{
+  "chinese": "丽莎正在干什么呢？她在自己的房间里听着音乐看书。",
+  "english": "What is Lisa doing? She's listening to music and reading in her own room.",
+  "pinyin": "lì shā zhèng zài gàn shén me ne？tā zài zì jǐ de fáng jiān lǐ tīng zhe yīn yuè kàn shū。",
+  "words": [
+    {"ch": "丽莎", "en": "Lisa", "pi": "lì shā"},
+    {"ch": "正在", "en": "is doing", "pi": "zhèng zài"},
+    {"ch": "干什么", "en": "what", "pi": "gàn shén me"},
+    {"ch": "呢", "en": "question particle", "pi": "ne"},
+    {"ch": "她", "en": "she", "pi": "tā"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "自己", "en": "own", "pi": "zì jǐ"},
+    {"ch": "的", "en": "possessive", "pi": "de"},
+    {"ch": "房间", "en": "room", "pi": "fáng jiān"},
+    {"ch": "里", "en": "inside", "pi": "lǐ"},
+    {"ch": "听着", "en": "listening to", "pi": "tīng zhe"},
+    {"ch": "音乐", "en": "music", "pi": "yīn yuè"},
+    {"ch": "看书", "en": "reading", "pi": "kàn shū"}
+  ]
+}

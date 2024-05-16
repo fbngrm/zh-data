@@ -1,0 +1,13 @@
+{
+  "chinese": "墙上挂着一幅画。",
+  "english": "There is a painting hanging on the wall.",
+  "pinyin": "qiáng shàng guà zhe yī fú huà.",
+  "words": [
+    {"ch": "墙", "en": "wall", "pi": "qiáng"},
+    {"ch": "上", "en": "on", "pi": "shàng"},
+    {"ch": "挂着", "en": "hanging", "pi": "guà zhe"},
+    {"ch": "一", "en": "a", "pi": "yī"},
+    {"ch": "幅", "en": "measure word for paintings", "pi": "fú"},
+    {"ch": "画", "en": "painting", "pi": "huà"}
+  ]
+}

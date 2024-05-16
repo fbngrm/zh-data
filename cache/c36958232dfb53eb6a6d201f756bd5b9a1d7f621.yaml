@@ -1,0 +1,14 @@
+{
+  "chinese": "老师告诉我，学汉语很简单。",
+  "english": "The teacher told me that learning Chinese is very easy.",
+  "pinyin": "lǎoshī gàosu wǒ, xué hànyǔ hěn jiǎndān.",
+  "words": [
+    {"ch": "老师", "en": "teacher", "pi": "lǎoshī"},
+    {"ch": "告诉", "en": "tell", "pi": "gàosu"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "学", "en": "learn", "pi": "xué"},
+    {"ch": "汉语", "en": "Chinese language", "pi": "hànyǔ"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "简单", "en": "simple", "pi": "jiǎndān"}
+  ]
+}

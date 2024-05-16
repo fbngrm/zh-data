@@ -1,0 +1,14 @@
+{
+  "chinese": "客厅里摆着什么？客厅里摆着沙发和桌子。",
+  "english": "What is in the living room? There is a sofa and a table in the living room.",
+  "pinyin": "kètīng lǐ bǎi zhe shénme? kètīng lǐ bǎi zhe shāfā hé zhuōzi.",
+  "words": [
+    {"ch": "客厅", "en": "living room", "pi": "kètīng"},
+    {"ch": "里", "en": "in", "pi": "lǐ"},
+    {"ch": "摆着", "en": "there is", "pi": "bǎi zhe"},
+    {"ch": "什么", "en": "what", "pi": "shénme"},
+    {"ch": "沙发", "en": "sofa", "pi": "shāfā"},
+    {"ch": "和", "en": "and", "pi": "hé"},
+    {"ch": "桌子", "en": "table", "pi": "zhuōzi"}
+  ]
+}

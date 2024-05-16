@@ -1,0 +1,98 @@
+{
+  "sentences": [
+    {
+      "chinese": "睡觉 以前 你 为什么 还 吃 面条儿 ？",
+      "english": "Why did you still eat noodles before going to bed?",
+      "pinyin": "shuì jiào yǐqián nǐ wèishénme hái chī miàntiáor ？",
+      "words": [
+        {
+          "ch": "睡觉",
+          "en": "sleep",
+          "pi": "shuì jiào"
+        },
+        {
+          "ch": "以前",
+          "en": "before",
+          "pi": "yǐqián"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "为什么",
+          "en": "why",
+          "pi": "wèishénme"
+        },
+        {
+          "ch": "还",
+          "en": "still",
+          "pi": "hái"
+        },
+        {
+          "ch": "吃",
+          "en": "eat",
+          "pi": "chī"
+        },
+        {
+          "ch": "面条儿",
+          "en": "noodles",
+          "pi": "miàntiáor"
+        }
+      ]
+    },
+    {
+      "chinese": "我 饿 了 ， 午饭 我 没 吃 什么 东西 。",
+      "english": "I'm hungry, I didn't eat anything for lunch.",
+      "pinyin": "wǒ è le ， wǔfàn wǒ méi chī shénme dōngxī 。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "饿",
+          "en": "hungry",
+          "pi": "è"
+        },
+        {
+          "ch": "了",
+          "en": "(particle indicating a new situation)",
+          "pi": "le"
+        },
+        {
+          "ch": "午饭",
+          "en": "lunch",
+          "pi": "wǔfàn"
+        },
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "没",
+          "en": "not",
+          "pi": "méi"
+        },
+        {
+          "ch": "吃",
+          "en": "eat",
+          "pi": "chī"
+        },
+        {
+          "ch": "什么",
+          "en": "anything",
+          "pi": "shénme"
+        },
+        {
+          "ch": "东西",
+          "en": "thing",
+          "pi": "dōngxī"
+        }
+      ]
+    }
+  ]
+}

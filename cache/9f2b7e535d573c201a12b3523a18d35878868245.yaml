@@ -1,0 +1,17 @@
+{
+	"chinese": "除了跑步，你还喜欢什么运动？除了跑步，我还喜欢打乒乓球。",
+	"english": "Besides running, what other sports do you like? Besides running, I also like playing table tennis.",
+	"pinyin": "Chúle pǎobù, nǐ hái xǐhuān shénme yùndòng? Chúle pǎobù, wǒ hái xǐhuān dǎ pīngpāngqiú.",
+	"words": [
+		{"ch": "除了", "en": "besides", "pi": "chúle"},
+		{"ch": "跑步", "en": "running", "pi": "pǎobù"},
+		{"ch": "你", "en": "you", "pi": "nǐ"},
+		{"ch": "还", "en": "also", "pi": "hái"},
+		{"ch": "喜欢", "en": "like", "pi": "xǐhuān"},
+		{"ch": "什么", "en": "what", "pi": "shénme"},
+		{"ch": "运动", "en": "sports", "pi": "yùndòng"},
+		{"ch": "我", "en": "I", "pi": "wǒ"},
+		{"ch": "打", "en": "play", "pi": "dǎ"},
+		{"ch": "乒乓球", "en": "table tennis", "pi": "pīngpāngqiú"}
+	]
+}

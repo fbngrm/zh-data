@@ -1,0 +1,17 @@
+{
+  "chinese": "周六 你 打算 和 谁 一起 去 爬山 ？ 我 爷爷",
+  "english": "Who are you planning to go hiking with on Saturday? My grandfather.",
+  "pinyin": "zhōu liù  nǐ  dǎsuàn  hé  shéi  yīqǐ  qù  páshān ？ wǒ  yéye",
+  "words": [
+    {"ch": "周六", "en": "Saturday", "pi": "zhōu liù"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "打算", "en": "plan", "pi": "dǎsuàn"},
+    {"ch": "和", "en": "with", "pi": "hé"},
+    {"ch": "谁", "en": "who", "pi": "shéi"},
+    {"ch": "一起", "en": "together", "pi": "yīqǐ"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "爬山", "en": "hiking", "pi": "páshān"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "爷爷", "en": "grandfather", "pi": "yéye"}
+  ]
+}

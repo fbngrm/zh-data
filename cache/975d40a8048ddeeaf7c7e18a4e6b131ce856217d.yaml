@@ -1,0 +1,27 @@
+{
+  "sentences": [
+    {
+      "chinese": "你去哪里学习？",
+      "english": "Where do you study?",
+      "pinyin": "nǐ qù nǎlǐ xuéxí?",
+      "words": [
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "去", "en": "go", "pi": "qù"},
+        {"ch": "哪里", "en": "where", "pi": "nǎlǐ"},
+        {"ch": "学习", "en": "study", "pi": "xuéxí"}
+      ]
+    },
+    {
+      "chinese": "我一般去图书馆学习。",
+      "english": "I usually study at the library.",
+      "pinyin": "wǒ yībān qù túshūguǎn xuéxí.",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "一般", "en": "usually", "pi": "yībān"},
+        {"ch": "去", "en": "go", "pi": "qù"},
+        {"ch": "图书馆", "en": "library", "pi": "túshūguǎn"},
+        {"ch": "学习", "en": "study", "pi": "xuéxí"}
+      ]
+    }
+  ]
+}

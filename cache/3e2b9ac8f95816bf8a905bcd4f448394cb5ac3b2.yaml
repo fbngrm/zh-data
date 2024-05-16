@@ -1,0 +1,18 @@
+{
+  "chinese": "这个照相机很贵，照相的时候要小心。",
+  "english": "This camera is expensive, so be careful when taking photos.",
+  "pinyin": "zhège zhàoxiàngjī hěn guì, zhàoxiàng de shíhòu yào xiǎoxīn。",
+  "words": [
+    {"ch": "这个", "en": "This", "pi": "zhège"},
+    {"ch": "照相机", "en": "camera", "pi": "zhàoxiàngjī"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "贵", "en": "expensive", "pi": "guì"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "照相", "en": "to take photos", "pi": "zhàoxiàng"},
+    {"ch": "的", "en": "possessive particle", "pi": "de"},
+    {"ch": "时候", "en": "time", "pi": "shíhòu"},
+    {"ch": "要", "en": "must", "pi": "yào"},
+    {"ch": "小心", "en": "be careful", "pi": "xiǎoxīn"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}
