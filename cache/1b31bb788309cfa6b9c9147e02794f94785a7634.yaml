@@ -1,0 +1,32 @@
+{
+	"sentences": [
+		{
+			"chinese": "说真的,只有跟你在一起,我才感受到真正的幸福。",
+			"english": "Honestly, I only feel true happiness when I am with you.",
+			"pinyin": "shuō zhēn de, zhǐyǒu gēn nǐ zài yīqǐ, wǒ cái gǎnshòu dào zhēnzhèng de xìngfú。",
+			"words": [
+				{"ch": "说", "en": "speak", "pi": "shuō"},
+				{"ch": "真的", "en": "really", "pi": "zhēn de"},
+				{"ch": "只有", "en": "only", "pi": "zhǐ yǒu"},
+				{"ch": "跟", "en": "with", "pi": "gēn"},
+				{"ch": "你", "en": "you", "pi": "nǐ"},
+				{"ch": "在一起", "en": "together", "pi": "zài yī qǐ"},
+				{"ch": "我", "en": "I", "pi": "wǒ"},
+				{"ch": "才", "en": "only", "pi": "cái"},
+				{"ch": "感受到", "en": "feel", "pi": "gǎn shòu dào"},
+				{"ch": "真正的", "en": "true", "pi": "zhēn zhèng de"},
+				{"ch": "幸福", "en": "happiness", "pi": "xìngfú"}
+			]
+		},
+		{
+			"chinese": "我也是。",
+			"english": "Me too.",
+			"pinyin": "wǒ yě shì。",
+			"words": [
+				{"ch": "我", "en": "I", "pi": "wǒ"},
+				{"ch": "也", "en": "also", "pi": "yě"},
+				{"ch": "是", "en": "am", "pi": "shì"}
+			]
+		}
+	]
+}
