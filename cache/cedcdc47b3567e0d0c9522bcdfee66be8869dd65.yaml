@@ -1,0 +1,93 @@
+{
+  "sentences": [
+    {
+      "chinese": "我是美国人。",
+      "english": "I am American.",
+      "pinyin": "wǒ shì měi guó rén",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "是", "en": "am", "pi": "shì"},
+        {"ch": "美国", "en": "American", "pi": "měi guó"},
+        {"ch": "人", "en": "person", "pi": "rén"}
+      ]
+    },
+    {
+      "chinese": "我觉得美国菜比中国菜简单，更容易做。",
+      "english": "I think American food is simpler and easier to make than Chinese food.",
+      "pinyin": "wǒ jué de měi guó cài bǐ zhōng guó cài jiǎn dān， gèng róng yì zuò",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "觉得", "en": "think", "pi": "jué de"},
+        {"ch": "美国", "en": "American", "pi": "měi guó"},
+        {"ch": "菜", "en": "food", "pi": "cài"},
+        {"ch": "比", "en": "compared to", "pi": "bǐ"},
+        {"ch": "中国", "en": "Chinese", "pi": "zhōng guó"},
+        {"ch": "简单", "en": "simple", "pi": "jiǎn dān"},
+        {"ch": "更", "en": "more", "pi": "gèng"},
+        {"ch": "容易", "en": "easy", "pi": "róng yì"},
+        {"ch": "做", "en": "to make", "pi": "zuò"}
+      ]
+    },
+    {
+      "chinese": "在美国人们常常吃汉堡包、牛排什么的。",
+      "english": "In America, people often eat hamburgers, steaks, and so on.",
+      "pinyin": "zài měi guó rén men cháng cháng chī hàn bǎo bāo、 niú pái shén me de",
+      "words": [
+        {"ch": "在", "en": "in", "pi": "zài"},
+        {"ch": "美国", "en": "America", "pi": "měi guó"},
+        {"ch": "人们", "en": "people", "pi": "rén men"},
+        {"ch": "常常", "en": "often", "pi": "cháng cháng"},
+        {"ch": "吃", "en": "eat", "pi": "chī"},
+        {"ch": "汉堡包", "en": "hamburgers", "pi": "hàn bǎo bāo"},
+        {"ch": "牛排", "en": "steaks", "pi": "niú pái"},
+        {"ch": "什么的", "en": "and so on", "pi": "shén me de"}
+      ]
+    },
+    {
+      "chinese": "我也很喜欢吃中国菜，可是不太会做。",
+      "english": "I also really like eating Chinese food, but I'm not very good at making it.",
+      "pinyin": "wǒ yě hěn xǐ huān chī zhōng guó cài， kě shì bù tài huì zuò",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "也", "en": "also", "pi": "yě"},
+        {"ch": "很", "en": "very", "pi": "hěn"},
+        {"ch": "喜欢", "en": "like", "pi": "xǐ huān"},
+        {"ch": "吃", "en": "eat", "pi": "chī"},
+        {"ch": "中国", "en": "Chinese", "pi": "zhōng guó"},
+        {"ch": "菜", "en": "food", "pi": "cài"},
+        {"ch": "可是", "en": "but", "pi": "kě shì"},
+        {"ch": "不太", "en": "not very", "pi": "bù tài"},
+        {"ch": "会", "en": "able to", "pi": "huì"},
+        {"ch": "做", "en": "to make", "pi": "zuò"}
+      ]
+    },
+    {
+      "chinese": "中国菜用的材料比美国菜更多，人们也会吃一些美国人不常吃的东西，比如鸡爪、鱼头等。",
+      "english": "Chinese cuisine uses more ingredients than American cuisine, and people also eat some things that Americans don't often eat, such as chicken feet and fish heads.",
+      "pinyin": "zhōng guó cài yòng de cái liào bǐ měi guó cài gèng duō， rén men yě huì chī yī xiē měi guó rén bù cháng chī de dōng xi， bǐ rú jī zhuǎ、 yú tóu děng",
+      "words": [
+        {"ch": "中国", "en": "Chinese", "pi": "zhōng guó"},
+        {"ch": "菜", "en": "cuisine", "pi": "cài"},
+        {"ch": "用", "en": "use", "pi": "yòng"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "材料", "en": "ingredients", "pi": "cái liào"},
+        {"ch": "比", "en": "compared to", "pi": "bǐ"},
+        {"ch": "美国", "en": "American", "pi": "měi guó"},
+        {"ch": "更多", "en": "more", "pi": "gèng duō"},
+        {"ch": "人们", "en": "people", "pi": "rén men"},
+        {"ch": "也", "en": "also", "pi": "yě"},
+        {"ch": "会", "en": "eat", "pi": "huì"},
+        {"ch": "吃", "en": "eat", "pi": "chī"},
+        {"ch": "一些", "en": "some", "pi": "yī xiē"},
+        {"ch": "美国人", "en": "Americans", "pi": "měi guó rén"},
+        {"ch": "不常", "en": "not often", "pi": "bù cháng"},
+        {"ch": "吃", "en": "eat", "pi": "chī"},
+        {"ch": "东西", "en": "things", "pi": "dōng xi"},
+        {"ch": "比如", "en": "such as", "pi": "bǐ rú"},
+        {"ch": "鸡爪", "en": "chicken feet", "pi": "jī zhuǎ"},
+        {"ch": "鱼头", "en": "fish heads", "pi": "yú tóu"},
+        {"ch": "等", "en": "and so on", "pi": "děng"}
+      ]
+    }
+  ]
+}

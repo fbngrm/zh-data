@@ -1,0 +1,183 @@
+{
+  "sentences": [
+    {
+      "chinese": "嗨，你也来食堂吃饭啊。",
+      "english": "Hi, are you also coming to the cafeteria to eat?",
+      "pinyin": "Hāi, nǐ yě lái shítáng chīfàn a。",
+      "words": [
+        {"ch": "嗨", "en": "Hi", "pi": "Hāi"},
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "也", "en": "also", "pi": "yě"},
+        {"ch": "来", "en": "come", "pi": "lái"},
+        {"ch": "食堂", "en": "cafeteria", "pi": "shítáng"},
+        {"ch": "吃饭", "en": "to eat", "pi": "chīfàn"},
+        {"ch": "啊", "en": "ah", "pi": "a"}
+      ]
+    },
+    {
+      "chinese": "是啊，今天是星期五，食堂有肉夹馍。",
+      "english": "Yes, today is Friday, the cafeteria has roujiamo.",
+      "pinyin": "Shì a，jīntiān shì xīngqīwǔ，shítáng yǒu ròu jiā mó。",
+      "words": [
+        {"ch": "是", "en": "yes", "pi": "shì"},
+        {"ch": "啊", "en": "ah", "pi": "a"},
+        {"ch": "今天", "en": "today", "pi": "jīntiān"},
+        {"ch": "是", "en": "is", "pi": "shì"},
+        {"ch": "星期五", "en": "Friday", "pi": "xīngqīwǔ"},
+        {"ch": "食堂", "en": "cafeteria", "pi": "shítáng"},
+        {"ch": "有", "en": "have", "pi": "yǒu"},
+        {"ch": "肉夹馍", "en": "roujiamo", "pi": "ròu jiā mó"}
+      ]
+    },
+    {
+      "chinese": "我很喜欢吃。",
+      "english": "I really like to eat.",
+      "pinyin": "Wǒ hěn xǐhuān chī。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "Wǒ"},
+        {"ch": "很", "en": "very", "pi": "hěn"},
+        {"ch": "喜欢", "en": "like", "pi": "xǐhuān"},
+        {"ch": "吃", "en": "to eat", "pi": "chī"},
+        {"ch": "。", "en": "."}
+      ]
+    },
+    {
+      "chinese": "我也很喜欢吃，我觉得肉夹馍是中式汉堡。",
+      "english": "I also really like to eat, I think roujiamo is Chinese hamburger.",
+      "pinyin": "Wǒ yě hěn xǐhuān chī，wǒ juédé ròu jiā mó shì zhōngshì hànbǎo。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "Wǒ"},
+        {"ch": "也", "en": "also", "pi": "yě"},
+        {"ch": "很", "en": "very", "pi": "hěn"},
+        {"ch": "喜欢", "en": "like", "pi": "xǐhuān"},
+        {"ch": "吃", "en": "to eat", "pi": "chī"},
+        {"ch": "，", "en": ","},
+        {"ch": "我", "en": "I", "pi": "Wǒ"},
+        {"ch": "觉得", "en": "think", "pi": "juédé"},
+        {"ch": "肉夹馍", "en": "roujiamo", "pi": "ròu jiā mó"},
+        {"ch": "是", "en": "is", "pi": "shì"},
+        {"ch": "中式", "en": "Chinese style", "pi": "zhōngshì"},
+        {"ch": "汉堡", "en": "hamburger", "pi": "hànbǎo"},
+        {"ch": "。", "en": ","}
+      ]
+    },
+    {
+      "chinese": "马克，你经常去哪里吃晚餐？",
+      "english": "Mark, where do you often go to have dinner?",
+      "pinyin": "Mǎ kè，nǐ jīngcháng qù nǎlǐ chī wǎncān？",
+      "words": [
+        {"ch": "马克", "en": "Mark", "pi": "Mǎ kè"},
+        {"ch": "，", "en": ","},
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "经常", "en": "often", "pi": "jīngcháng"},
+        {"ch": "去", "en": "go", "pi": "qù"},
+        {"ch": "哪里", "en": "where", "pi": "nǎlǐ"},
+        {"ch": "吃", "en": "to eat", "pi": "chī"},
+        {"ch": "晚餐", "en": "dinner", "pi": "wǎncān"},
+        {"ch": "？", "en": "?"}
+      ]
+    },
+    {
+      "chinese": "我有时候去外面的餐厅，有时候叫外卖。",
+      "english": "Sometimes I go to a restaurant outside, sometimes I order takeout.",
+      "pinyin": "Wǒ yǒushíhòu qù wàimiàn de cāntīng，yǒushíhòu jiào wàimài。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "Wǒ"},
+        {"ch": "有时候", "en": "sometimes", "pi": "yǒu shíhòu"},
+        {"ch": "去", "en": "go", "pi": "qù"},
+        {"ch": "外面", "en": "outside", "pi": "wàimiàn"},
+        {"ch": "的", "en": "'s", "pi": "de"},
+        {"ch": "餐厅", "en": "restaurant", "pi": "cāntīng"},
+        {"ch": "，", "en": ","},
+        {"ch": "有时候", "en": "sometimes", "pi": "yǒu shíhòu"},
+        {"ch": "叫", "en": "order", "pi": "jiào"},
+        {"ch": "外卖", "en": "takeout", "pi": "wàimài"},
+        {"ch": "。", "en": ","}
+      ]
+    },
+    {
+      "chinese": "在美国叫外卖没有在中国方便。",
+      "english": "Ordering takeout in the United States is not as convenient as in China.",
+      "pinyin": "Zài měiguó jiào wàimài méiyǒu zài zhōngguó fāngbiàn。",
+      "words": [
+        {"ch": "在", "en": "in", "pi": "Zài"},
+        {"ch": "美国", "en": "United States", "pi": "měiguó"},
+        {"ch": "叫", "en": "order", "pi": "jiào"},
+        {"ch": "外卖", "en": "takeout", "pi": "wàimài"},
+        {"ch": "没有", "en": "not as", "pi": "méiyǒu"},
+        {"ch": "在", "en": "as", "pi": "zài"},
+        {"ch": "中国", "en": "China", "pi": "zhōngguó"},
+        {"ch": "方便", "en": "convenient", "pi": "fāngbiàn"},
+        {"ch": "。", "en": ","}
+      ]
+    },
+    {
+      "chinese": "我经常在家做饭，家里的饭比外卖更健康。",
+      "english": "I often cook at home, the food at home is healthier than takeout.",
+      "pinyin": "Wǒ jīngcháng zài jiā zuòfàn，jiālǐ de fàn bǐ wàimài gèng jiànkāng。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "Wǒ"},
+        {"ch": "经常", "en": "often", "pi": "jīngcháng"},
+        {"ch": "在家", "en": "at home", "pi": "zài jiā"},
+        {"ch": "做饭", "en": "cook", "pi": "zuòfàn"},
+        {"ch": "，", "en": ","},
+        {"ch": "家里", "en": "home", "pi": "jiālǐ"},
+        {"ch": "的", "en": "'s", "pi": "de"},
+        {"ch": "饭", "en": "food", "pi": "fàn"},
+        {"ch": "比", "en": "is healthier", "pi": "bǐ"},
+        {"ch": "外卖", "en": "takeout", "pi": "wàimài"},
+        {"ch": "更", "en": "more", "pi": "gèng"},
+        {"ch": "健康", "en": "healthier", "pi": "jiànkāng"},
+        {"ch": "。", "en": ","}
+      ]
+    },
+    {
+      "chinese": "没关系，你什么时候有时间我请你到我家吃饭。",
+      "english": "It's okay, whenever you have time, I'll invite you to my house for dinner.",
+      "pinyin": "Méi guānxi，nǐ shénme shíhòu yǒu shíjiān wǒ qǐng nǐ dào wǒ jiā chīfàn。",
+      "words": [
+        {"ch": "没关系", "en": "It's okay", "pi": "Méi guānxi"},
+        {"ch": "，", "en": ","},
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "什么时候", "en": "whenever", "pi": "shénme shíhòu"},
+        {"ch": "有", "en": "have", "pi": "yǒu"},
+        {"ch": "时间", "en": "time", "pi": "shíjiān"},
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "请", "en": "invite", "pi": "qǐng"},
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "到", "en": "to", "pi": "dào"},
+        {"ch": "我家", "en": "my house", "pi": "wǒ jiā"},
+        {"ch": "吃饭", "en": "for dinner", "pi": "chīfàn"},
+        {"ch": "。", "en": ","}
+      ]
+    },
+    {
+      "chinese": "你家离学校远吗？",
+      "english": "Is your house far from school?",
+      "pinyin": "Nǐ jiā lí xuéxiào yuǎn ma？",
+      "words": [
+        {"ch": "你家", "en": "your house", "pi": "Nǐ jiā"},
+        {"ch": "离", "en": "from", "pi": "lí"},
+        {"ch": "学校", "en": "school", "pi": "xuéxiào"},
+        {"ch": "远", "en": "far", "pi": "yuǎn"},
+        {"ch": "吗", "en": "?"}
+      ]
+    },
+    {
+      "chinese": "不远，你可以走路去我家。",
+      "english": "Not far, you can walk to my house.",
+      "pinyin": "Bù yuǎn，nǐ kěyǐ zǒulù qù wǒ jiā。",
+      "words": [
+        {"ch": "不", "en": "not", "pi": "Bù"},
+        {"ch": "远", "en": "far", "pi": "yuǎn"},
+        {"ch": "，", "en": ","},
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "可以", "en": "can", "pi": "kěyǐ"},
+        {"ch": "走路", "en": "walk", "pi": "zǒulù"},
+        {"ch": "去", "en": "to", "pi": "qù"},
+        {"ch": "我家", "en": "my house", "pi": "wǒ jiā"},
+        {"ch": "。", "en": ","}
+      ]
+    }
+  ]
+}

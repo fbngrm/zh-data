@@ -1,0 +1,104 @@
+{
+  "sentences": [
+    {
+      "chinese": "你在一边做作业一边听音乐吗？",
+      "english": "Are you doing homework while listening to music?",
+      "pinyin": "nǐ zài yībiān zuò zuòyè yībiān tīng yīnyuè ma？",
+      "words": [
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "在", "en": "at", "pi": "zài"},
+        {"ch": "一边", "en": "one side", "pi": "yībiān"},
+        {"ch": "做", "en": "to do", "pi": "zuò"},
+        {"ch": "作业", "en": "homework", "pi": "zuòyè"},
+        {"ch": "一边", "en": "one side", "pi": "yībiān"},
+        {"ch": "听", "en": "to listen", "pi": "tīng"},
+        {"ch": "音乐", "en": "music", "pi": "yīnyuè"},
+        {"ch": "吗", "en": "question marker", "pi": "ma？"}
+      ]
+    },
+    {
+      "chinese": "不是我在听中文课的MP3。",
+      "english": "No, I'm listening to the Chinese lesson MP3.",
+      "pinyin": "bù shì wǒ zài tīng zhōngwén kè de MP3。",
+      "words": [
+        {"ch": "不是", "en": "no", "pi": "bù shì"},
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "在", "en": "at", "pi": "zài"},
+        {"ch": "听", "en": "to listen", "pi": "tīng"},
+        {"ch": "中文课", "en": "Chinese lesson", "pi": "zhōngwén kè"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "MP3", "en": "MP3", "pi": "MP3"}
+      ]
+    },
+    {
+      "chinese": "你真是一个认真的好学生啊！",
+      "english": "You are a very diligent student!",
+      "pinyin": "nǐ zhēn shì yīgè rènzhēn de hǎo xuéshēng a！",
+      "words": [
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "真是", "en": "really", "pi": "zhēn shì"},
+        {"ch": "一个", "en": "a", "pi": "yīgè"},
+        {"ch": "认真", "en": "diligent", "pi": "rènzhēn"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "好", "en": "good", "pi": "hǎo"},
+        {"ch": "学生", "en": "student", "pi": "xuéshēng"},
+        {"ch": "啊", "en": "ah", "pi": "a！"}
+      ]
+    },
+    {
+      "chinese": "当然！我记得你很喜欢听音乐。",
+      "english": "Of course! I remember you like listening to music a lot.",
+      "pinyin": "dāngrán！wǒ jìdé nǐ hěn xǐhuān tīng yīnyuè。",
+      "words": [
+        {"ch": "当然", "en": "of course", "pi": "dāngrán"},
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "记得", "en": "remember", "pi": "jìdé"},
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "很", "en": "very", "pi": "hěn"},
+        {"ch": "喜欢", "en": "like", "pi": "xǐhuān"},
+        {"ch": "听", "en": "to listen", "pi": "tīng"},
+        {"ch": "音乐", "en": "music", "pi": "yīnyuè"}
+      ]
+    },
+    {
+      "chinese": "那是以前。我现在最大的爱好是打游戏……",
+      "english": "That's in the past. My biggest hobby now is playing games...",
+      "pinyin": "nà shì yǐqián。wǒ xiànzài zuìdà de àihào shì dǎ yóuxì……",
+      "words": [
+        {"ch": "那", "en": "that", "pi": "nà"},
+        {"ch": "是", "en": "is", "pi": "shì"},
+        {"ch": "以前", "en": "before", "pi": "yǐqián"},
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "现在", "en": "now", "pi": "xiànzài"},
+        {"ch": "最大", "en": "biggest", "pi": "zuìdà"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "爱好", "en": "hobby", "pi": "àihào"},
+        {"ch": "是", "en": "is", "pi": "shì"},
+        {"ch": "打", "en": "to play", "pi": "dǎ"},
+        {"ch": "游戏", "en": "games", "pi": "yóuxì"},
+        {"ch": "……", "en": "...", "pi": "……"}
+      ]
+    },
+    {
+      "chinese": "不是！我最大的爱好跟你一样，也是听中文课的MP3。",
+      "english": "No! My biggest hobby is the same as yours, also listening to the Chinese lesson's MP3.",
+      "pinyin": "bù shì！wǒ zuìdà de àihào gēn nǐ yīyàng，yě shì tīng zhōngwén kè de MP3。",
+      "words": [
+        {"ch": "不是", "en": "no", "pi": "bù shì"},
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "最大", "en": "biggest", "pi": "zuìdà"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "爱好", "en": "hobby", "pi": "àihào"},
+        {"ch": "跟", "en": "with", "pi": "gēn"},
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "一样", "en": "same", "pi": "yīyàng"},
+        {"ch": "也", "en": "also", "pi": "yě"},
+        {"ch": "是", "en": "is", "pi": "shì"},
+        {"ch": "听", "en": "to listen", "pi": "tīng"},
+        {"ch": "中文课", "en": "Chinese lesson", "pi": "zhōngwén kè"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "MP3", "en": "MP3", "pi": "MP3"}
+      ]
+    }
+  ]
+}

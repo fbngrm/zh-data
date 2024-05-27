@@ -1,0 +1,14 @@
+{
+	"chinese": "上海的冬天没有北京那么冷。",
+	"english": "Shanghai's winter is not as cold as Beijing's.",
+	"pinyin": "Shànghǎi de dōngtiān méiyǒu Běijīng nàme lěng。",
+	"words": [
+		{"ch": "上海", "en": "Shanghai", "pi": "Shànghǎi"},
+		{"ch": "的", "en": "of", "pi": "de"},
+		{"ch": "冬天", "en": "winter", "pi": "dōngtiān"},
+		{"ch": "没有", "en": "not have", "pi": "méiyǒu"},
+		{"ch": "北京", "en": "Beijing", "pi": "Běijīng"},
+		{"ch": "那么", "en": "so", "pi": "nàme"},
+		{"ch": "冷", "en": "cold", "pi": "lěng"}
+	]
+}

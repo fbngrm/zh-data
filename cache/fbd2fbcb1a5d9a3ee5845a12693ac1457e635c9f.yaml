@@ -1,0 +1,159 @@
+{
+	"sentences": [
+		{
+			"chinese": "这 是 艾米丽 的 家 。",
+			"english": "This is Emily's house.",
+			"pinyin": "zhè shì ài mǐ lì de jiā 。",
+			"words": [
+				{"ch": "这", "en": "this", "pi": "zhè"},
+				{"ch": "是", "en": "is", "pi": "shì"},
+				{"ch": "艾米丽", "en": "Emily", "pi": "ài mǐ lì"},
+				{"ch": "的", "en": "'s", "pi": "de"},
+				{"ch": "家", "en": "house", "pi": "jiā"}
+			]
+		},
+		{
+			"chinese": "电视 开 着 ， 窗 也 开 着 。",
+			"english": "The TV is on, and the window is also open.",
+			"pinyin": "diàn shì kāi zhe ， chuāng yě kāi zhe 。",
+			"words": [
+				{"ch": "电视", "en": "TV", "pi": "diàn shì"},
+				{"ch": "开", "en": "on", "pi": "kāi"},
+				{"ch": "着", "en": "is", "pi": "zhe"},
+				{"ch": "窗", "en": "window", "pi": "chuāng"},
+				{"ch": "也", "en": "also", "pi": "yě"}
+			]
+		},
+		{
+			"chinese": "墙上 挂 着 一 张 全家福 。",
+			"english": "On the wall hangs a family photo.",
+			"pinyin": "qiáng shàng guà zhe yī zhāng quán jiā fú 。",
+			"words": [
+				{"ch": "墙上", "en": "on the wall", "pi": "qiáng shàng"},
+				{"ch": "挂", "en": "hang", "pi": "guà"},
+				{"ch": "着", "en": "a", "pi": "zhe"},
+				{"ch": "一", "en": "a", "pi": "yī"},
+				{"ch": "张", "en": "a", "pi": "zhāng"},
+				{"ch": "全家福", "en": "family photo", "pi": "quán jiā fú"}
+			]
+		},
+		{
+			"chinese": "客厅 里 摆 着 沙发 和 桌子 。",
+			"english": "In the living room, there is a sofa and a table.",
+			"pinyin": "kè tīng lǐ bǎi zhe shā fā hé zhuō zi 。",
+			"words": [
+				{"ch": "客厅", "en": "living room", "pi": "kè tīng"},
+				{"ch": "里", "en": "in", "pi": "lǐ"},
+				{"ch": "摆", "en": "place", "pi": "bǎi"},
+				{"ch": "着", "en": "a", "pi": "zhe"},
+				{"ch": "沙发", "en": "sofa", "pi": "shā fā"},
+				{"ch": "和", "en": "and", "pi": "hé"},
+				{"ch": "桌子", "en": "table", "pi": "zhuō zi"}
+			]
+		},
+		{
+			"chinese": "桌子 上 整整齐齐 地 放 着 书 和 毛笔 。",
+			"english": "Neatly placed on the table are books and brushes.",
+			"pinyin": "zhuō zi shàng zhěng zhěng qí qí de fàng zhe shū hé máo bǐ 。",
+			"words": [
+				{"ch": "桌子", "en": "table", "pi": "zhuō zi"},
+				{"ch": "上", "en": "on", "pi": "shàng"},
+				{"ch": "整整齐齐", "en": "neatly", "pi": "zhěng zhěng qí qí"},
+				{"ch": "地", "en": "", "pi": "de"},
+				{"ch": "放", "en": "place", "pi": "fàng"},
+				{"ch": "着", "en": "are", "pi": "zhe"},
+				{"ch": "书", "en": "books", "pi": "shū"},
+				{"ch": "和", "en": "and", "pi": "hé"},
+				{"ch": "毛笔", "en": "brushes", "pi": "máo bǐ"}
+			]
+		},
+		{
+			"chinese": "艾米丽 在 椅子 上 坐 着 ， 她 正在 写 着 书法 。",
+			"english": "Emily is sitting in a chair, she is practicing calligraphy.",
+			"pinyin": "ài mǐ lì zài yǐ zi shàng zuò zhe ， tā zhèng zài xiě zhe shū fǎ 。",
+			"words": [
+				{"ch": "艾米丽", "en": "Emily", "pi": "ài mǐ lì"},
+				{"ch": "在", "en": "is", "pi": "zài"},
+				{"ch": "椅子", "en": "chair", "pi": "yǐ zi"},
+				{"ch": "上", "en": "in", "pi": "shàng"},
+				{"ch": "坐", "en": "sitting", "pi": "zuò"},
+				{"ch": "着", "en": "is", "pi": "zhe"},
+				{"ch": "她", "en": "she", "pi": "tā"},
+				{"ch": "正在", "en": "practicing", "pi": "zhèng zài"},
+				{"ch": "写", "en": "write", "pi": "xiě"},
+				{"ch": "着", "en": "", "pi": "zhe"},
+				{"ch": "书法", "en": "calligraphy", "pi": "shū fǎ"}
+			]
+		},
+		{
+			"chinese": "她 的 丈夫 在 客厅 里 喝 着 咖啡 看 电视 。",
+			"english": "Her husband is in the living room drinking coffee and watching TV.",
+			"pinyin": "tā de zhàng fū zài kè tīng lǐ hē zhe kā fēi kàn diàn shì 。",
+			"words": [
+				{"ch": "她", "en": "her", "pi": "tā"},
+				{"ch": "的", "en": "husband", "pi": "de"},
+				{"ch": "丈夫", "en": "husband", "pi": "zhàng fū"},
+				{"ch": "在", "en": "is", "pi": "zài"},
+				{"ch": "客厅", "en": "living room", "pi": "kè tīng"},
+				{"ch": "里", "en": "in", "pi": "lǐ"},
+				{"ch": "喝", "en": "drinking", "pi": "hē"},
+				{"ch": "着", "en": "", "pi": "zhe"},
+				{"ch": "咖啡", "en": "coffee", "pi": "kā fēi"},
+				{"ch": "看", "en": "watching", "pi": "kàn"},
+				{"ch": "电视", "en": "TV", "pi": "diàn shì"}
+			]
+		},
+		{
+			"chinese": "杰克 正在 地板 上 坐 着 玩玩具 。",
+			"english": "Jake is sitting on the floor playing with toys.",
+			"pinyin": "jié kè zhèng zài dì bǎn shàng zuò zhe wán wán jù 。",
+			"words": [
+				{"ch": "杰克", "en": "Jake", "pi": "jié kè"},
+				{"ch": "正在", "en": "is", "pi": "zhèng zài"},
+				{"ch": "地板", "en": "floor", "pi": "dì bǎn"},
+				{"ch": "上", "en": "on", "pi": "shàng"},
+				{"ch": "坐", "en": "sitting", "pi": "zuò"},
+				{"ch": "着", "en": "", "pi": "zhe"},
+				{"ch": "玩玩具", "en": "playing with toys", "pi": "wán wán jù"}
+			]
+		},
+		{
+			"chinese": "丽 莎 在 自己 的 房间 里 听 着 音乐 看 书 。",
+			"english": "Lisa is in her own room listening to music and reading.",
+			"pinyin": "lì shā zài zì jǐ de fáng jiān lǐ tīng zhe yīn yuè kàn shū 。",
+			"words": [
+				{"ch": "丽", "en": "Lisa", "pi": "lì"},
+				{"ch": "莎", "en": "", "pi": "shā"},
+				{"ch": "在", "en": "is", "pi": "zài"},
+				{"ch": "自己", "en": "own", "pi": "zì jǐ"},
+				{"ch": "的", "en": "", "pi": "de"},
+				{"ch": "房间", "en": "room", "pi": "fáng jiān"},
+				{"ch": "里", "en": "in", "pi": "lǐ"},
+				{"ch": "听", "en": "listening", "pi": "tīng"},
+				{"ch": "着", "en": "", "pi": "zhe"},
+				{"ch": "音乐", "en": "music", "pi": "yīn yuè"},
+				{"ch": "看", "en": "reading", "pi": "kàn"},
+				{"ch": "书", "en": "books", "pi": "shū"}
+			]
+		},
+		{
+			"chinese": "他们 家 的 小狗 呢 ？ 在窗 台上 啃着 骨头 呢 。",
+			"english": "Where is their dog? It is gnawing a bone on the windowsill.",
+			"pinyin": "tā men jiā de xiǎo gǒu ne ？ zài chuāng tái shàng kěn zhe gǔ tóu ne 。",
+			"words": [
+				{"ch": "他们", "en": "they", "pi": "tā men"},
+				{"ch": "家", "en": "house", "pi": "jiā"},
+				{"ch": "的", "en": "", "pi": "de"},
+				{"ch": "小狗", "en": "dog", "pi": "xiǎo gǒu"},
+				{"ch": "呢", "en": "", "pi": "ne"},
+				{"ch": "在", "en": "is", "pi": "zài"},
+				{"ch": "窗台", "en": "windowsill", "pi": "chuāng tái"},
+				{"ch": "上", "en": "on", "pi": "shàng"},
+				{"ch": "啃", "en": "gnawing", "pi": "kěn"},
+				{"ch": "着", "en": "", "pi": "zhe"},
+				{"ch": "骨头", "en": "bone", "pi": "gǔ tóu"},
+				{"ch": "呢", "en": "", "pi": "ne"}
+			]
+		}
+	]
+}

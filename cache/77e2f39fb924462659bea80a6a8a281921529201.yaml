@@ -1,0 +1,49 @@
+{
+	"sentences": [
+		{
+			"chinese": "在中国叫外卖很方便。",
+			"english": "Ordering takeout in China is very convenient.",
+			"pinyin": "Zài zhōngguó jiào wài mài hěn fāngbiàn。",
+			"words": [
+				{"ch": "在", "en": "at/in", "pi": "zài"},
+				{"ch": "中国", "en": "China", "pi": "zhōngguó"},
+				{"ch": "叫", "en": "to order", "pi": "jiào"},
+				{"ch": "外卖", "en": "takeout", "pi": "wài mài"},
+				{"ch": "很", "en": "very", "pi": "hěn"},
+				{"ch": "方便", "en": "convenient", "pi": "fāngbiàn"}
+			]
+		},
+		{
+			"chinese": "在你的国家，叫外卖方便吗？",
+			"english": "Is ordering takeout convenient in your country?",
+			"pinyin": "Zài nǐ de guójiā, jiào wài mài fāngbiàn ma?",
+			"words": [
+				{"ch": "在", "en": "at/in", "pi": "zài"},
+				{"ch": "你", "en": "you", "pi": "nǐ"},
+				{"ch": "的", "en": "possessive", "pi": "de"},
+				{"ch": "国家", "en": "country", "pi": "guójiā"},
+				{"ch": "叫", "en": "to order", "pi": "jiào"},
+				{"ch": "外卖", "en": "takeout", "pi": "wài mài"},
+				{"ch": "方便", "en": "convenient", "pi": "fāngbiàn"},
+				{"ch": "吗", "en": "question marker", "pi": "ma"}
+			]
+		},
+		{
+			"chinese": "在我的国家叫外卖没有在中国方便。",
+			"english": "Ordering takeout is not as convenient in my country as it is in China.",
+			"pinyin": "Zài wǒ de guójiā jiào wài mài méiyǒu zài zhōngguó fāngbiàn。",
+			"words": [
+				{"ch": "在", "en": "at/in", "pi": "zài"},
+				{"ch": "我", "en": "I/me", "pi": "wǒ"},
+				{"ch": "的", "en": "possessive", "pi": "de"},
+				{"ch": "国家", "en": "country", "pi": "guójiā"},
+				{"ch": "叫", "en": "to order", "pi": "jiào"},
+				{"ch": "外卖", "en": "takeout", "pi": "wài mài"},
+				{"ch": "没有", "en": "not have", "pi": "méiyǒu"},
+				{"ch": "在", "en": "at/in", "pi": "zài"},
+				{"ch": "中国", "en": "China", "pi": "zhōngguó"},
+				{"ch": "方便", "en": "convenient", "pi": "fāngbiàn"}
+			]
+		}
+	]
+}

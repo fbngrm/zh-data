@@ -1,0 +1,15 @@
+{
+  "chinese": "和哈尔滨相比，上海怎么样？上海比哈尔滨热",
+  "english": "How does Shanghai compare to Harbin? Shanghai is hotter than Harbin.",
+  "pinyin": "Hé Hā'ěrbīn xiāngbǐ, Shànghǎi zěnme yàng? Shànghǎi bǐ Hā'ěrbīn rè",
+  "words": [
+    { "ch": "和", "en": "and", "pi": "hé" },
+    { "ch": "哈尔滨", "en": "Harbin", "pi": "Hā'ěrbīn" },
+    { "ch": "相比", "en": "compare to", "pi": "xiāngbǐ" },
+    { "ch": "上海", "en": "Shanghai", "pi": "Shànghǎi" },
+    { "ch": "怎么样", "en": "how", "pi": "zěnme yàng" },
+    { "ch": "？", "en": "?", "pi": "?" },
+    { "ch": "比", "en": "than", "pi": "bǐ" },
+    { "ch": "热", "en": "hot", "pi": "rè" }
+  ]
+}

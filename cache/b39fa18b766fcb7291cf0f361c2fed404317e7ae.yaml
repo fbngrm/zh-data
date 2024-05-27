@@ -1,0 +1,249 @@
+{
+  "sentences": [
+    {
+      "chinese": "这个 周末 你 打算 去 哪儿 ？",
+      "english": "Where are you planning to go this weekend?",
+      "pinyin": "Zhè gè zhōumò nǐ dǎsuàn qù nǎ'er ？",
+      "words": [
+        {
+          "ch": "这个",
+          "en": "this",
+          "pi": "zhè gè"
+        },
+        {
+          "ch": "周末",
+          "en": "weekend",
+          "pi": "zhōumò"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "打算",
+          "en": "plan",
+          "pi": "dǎsuàn"
+        },
+        {
+          "ch": "去",
+          "en": "go",
+          "pi": "qù"
+        },
+        {
+          "ch": "哪儿",
+          "en": "where",
+          "pi": "nǎ'er"
+        }
+      ]
+    },
+    {
+      "chinese": "我 还 没什么 打算 ， 你 呢 ？",
+      "english": "I haven't planned anything yet, how about you?",
+      "pinyin": "Wǒ hái méi shénme dǎsuàn ， nǐ ne ？",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "还",
+          "en": "still",
+          "pi": "hái"
+        },
+        {
+          "ch": "没什么",
+          "en": "haven't planned anything",
+          "pi": "méi shénme"
+        },
+        {
+          "ch": "打算",
+          "en": "plan",
+          "pi": "dǎsuàn"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "呢",
+          "en": "how about",
+          "pi": "ne"
+        }
+      ]
+    },
+    {
+      "chinese": "我 周六 打算 跟 爷爷 一 起 去 爬山 ， 周日 必须 参加 一个 会议 。",
+      "english": "I plan to go mountain climbing with my grandpa on Saturday, and I must attend a meeting on Sunday.",
+      "pinyin": "Wǒ zhōu liù dǎsuàn gēn yéye yī qǐ qù páshān ， zhōu rì bìxū cānjiā yī gè huìyì 。",
+      "words": [
+        {
+          "ch": "我",
+          "en": "I",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "周六",
+          "en": "Saturday",
+          "pi": "zhōu liù"
+        },
+        {
+          "ch": "打算",
+          "en": "plan",
+          "pi": "dǎsuàn"
+        },
+        {
+          "ch": "跟",
+          "en": "with",
+          "pi": "gēn"
+        },
+        {
+          "ch": "爷爷",
+          "en": "grandpa",
+          "pi": "yéye"
+        },
+        {
+          "ch": "一",
+          "en": "one",
+          "pi": "yī"
+        },
+        {
+          "ch": "起",
+          "en": "together",
+          "pi": "qǐ"
+        },
+        {
+          "ch": "去",
+          "en": "go",
+          "pi": "qù"
+        },
+        {
+          "ch": "爬山",
+          "en": "mountain climbing",
+          "pi": "páshān"
+        },
+        {
+          "ch": "周日",
+          "en": "Sunday",
+          "pi": "zhōu rì"
+        },
+        {
+          "ch": "必须",
+          "en": "must",
+          "pi": "bìxū"
+        },
+        {
+          "ch": "参加",
+          "en": "attend",
+          "pi": "cānjiā"
+        },
+        {
+          "ch": "一个",
+          "en": "a",
+          "pi": "yī gè"
+        },
+        {
+          "ch": "会议",
+          "en": "meeting",
+          "pi": "huìyì"
+        }
+      ]
+    },
+    {
+      "chinese": "周六 会 刮大风 ， 你们 要 小心 。",
+      "english": "It will be windy on Saturday, so be careful.",
+      "pinyin": "Zhōu liù huì guā dàfēng ， nǐmen yào xiǎoxīn 。",
+      "words": [
+        {
+          "ch": "周六",
+          "en": "Saturday",
+          "pi": "zhōu liù"
+        },
+        {
+          "ch": "会",
+          "en": "will",
+          "pi": "huì"
+        },
+        {
+          "ch": "刮",
+          "en": "blow",
+          "pi": "guā"
+        },
+        {
+          "ch": "大风",
+          "en": "wind",
+          "pi": "dàfēng"
+        },
+        {
+          "ch": "你们",
+          "en": "you all",
+          "pi": "nǐmen"
+        },
+        {
+          "ch": "要",
+          "en": "must",
+          "pi": "yào"
+        },
+        {
+          "ch": "小心",
+          "en": "be careful",
+          "pi": "xiǎoxīn"
+        }
+      ]
+    },
+    {
+      "chinese": "如果 周六 刮 大风 ， 我们 就 不 去 了 。",
+      "english": "If it's windy on Saturday, then we won't go.",
+      "pinyin": "Rúguǒ zhōu liù guā dàfēng ， wǒmen jiù bù qù le 。",
+      "words": [
+        {
+          "ch": "如果",
+          "en": "if",
+          "pi": "rúguǒ"
+        },
+        {
+          "ch": "周六",
+          "en": "Saturday",
+          "pi": "zhōu liù"
+        },
+        {
+          "ch": "刮",
+          "en": "blow",
+          "pi": "guā"
+        },
+        {
+          "ch": "大风",
+          "en": "wind",
+          "pi": "dàfēng"
+        },
+        {
+          "ch": "我们",
+          "en": "we",
+          "pi": "wǒmen"
+        },
+        {
+          "ch": "就",
+          "en": "then",
+          "pi": "jiù"
+        },
+        {
+          "ch": "不",
+          "en": "not",
+          "pi": "bù"
+        },
+        {
+          "ch": "去",
+          "en": "go",
+          "pi": "qù"
+        },
+        {
+          "ch": "了",
+          "en": "won't",
+          "pi": "le"
+        }
+      ]
+    }
+  ]
+}

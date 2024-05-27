@@ -1,0 +1,13 @@
+{
+  "chinese": "外卖没有家里的饭健康。",
+  "english": "Takeout food is not as healthy as home-cooked meals.",
+  "pinyin": "Wài mài méiyǒu jiālǐ de fàn jiànkāng。",
+  "words": [
+    {"ch": "外卖", "en": "takeout food", "pi": "Wài mài"},
+    {"ch": "没有", "en": "not have", "pi": "méiyǒu"},
+    {"ch": "家里", "en": "at home", "pi": "jiālǐ"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "饭", "en": "meal", "pi": "fàn"},
+    {"ch": "健康", "en": "healthy", "pi": "jiànkāng"}
+  ]
+}

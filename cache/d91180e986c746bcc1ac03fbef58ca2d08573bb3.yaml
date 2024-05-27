@@ -1,0 +1,13 @@
+{
+  "chinese": "家里的饭比外卖健康。",
+  "english": "Home-cooked meals are healthier than takeout.",
+  "pinyin": "jiā lǐ de fàn bǐ wài mài jiànkāng。",
+  "words": [
+    {"ch": "家里", "en": "home", "pi": "jiā lǐ"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "饭", "en": "meal", "pi": "fàn"},
+    {"ch": "比", "en": "than", "pi": "bǐ"},
+    {"ch": "外卖", "en": "takeout", "pi": "wài mài"},
+    {"ch": "健康", "en": "healthy", "pi": "jiàn kāng"}
+  ]
+}
