@@ -1,0 +1,24 @@
+{
+  "chinese": "你目前有没有告别舞台的打算? 没有, 只要观众需要, 我就会一直干下去。",
+  "english": "Do you currently have any plans to say goodbye to the stage? No, as long as the audience needs it, I will continue to do it.",
+  "pinyin": "nǐ mù qián yǒu méi yǒu gào bié wǔ tái de dǎ suàn? méi yǒu, zhǐ yào guān zhòng xū yào, wǒ jiù huì yī zhí gàn xià qù。",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "目前", "en": "currently", "pi": "mù qián"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "没有", "en": "no", "pi": "méi yǒu"},
+    {"ch": "告别", "en": "say goodbye", "pi": "gào bié"},
+    {"ch": "舞台", "en": "stage", "pi": "wǔ tái"},
+    {"ch": "的", "en": "to", "pi": "de"},
+    {"ch": "打算", "en": "plan", "pi": "dǎ suàn"},
+    {"ch": "只要", "en": "as long as", "pi": "zhǐ yào"},
+    {"ch": "观众", "en": "audience", "pi": "guān zhòng"},
+    {"ch": "需要", "en": "need", "pi": "xū yào"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "就", "en": "will", "pi": "jiù"},
+    {"ch": "会", "en": "to", "pi": "huì"},
+    {"ch": "一直", "en": "continue", "pi": "yī zhí"},
+    {"ch": "干", "en": "do", "pi": "gàn"},
+    {"ch": "下去", "en": "continue", "pi": "xià qù"}
+  ]
+}

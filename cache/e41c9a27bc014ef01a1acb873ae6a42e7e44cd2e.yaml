@@ -1,0 +1,27 @@
+{
+  "chinese": "章先生不爱说话，别人不容易接近他、了解他。只有多跟他接触，才能知道他这人有多好。",
+  "english": "Mr. Zhang doesn't like to talk, so it's not easy for others to get close to him or understand him. Only by interacting more with him can one know how good of a person he is.",
+  "pinyin": "zhāng xiānsheng bù ài shuōhuà, biérén bù róngyì jiējìn tā, liǎojiě tā. zhǐyǒu duō gēn tā jiēchù, cái néng zhīdào tā zhèrén yǒu duō hǎo.",
+  "words": [
+    {"ch": "章", "en": "Mr.", "pi": "zhāng"},
+    {"ch": "先生", "en": "Mr.", "pi": "xiānsheng"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "爱", "en": "like", "pi": "ài"},
+    {"ch": "说话", "en": "to talk", "pi": "shuōhuà"},
+    {"ch": "别人", "en": "others", "pi": "biérén"},
+    {"ch": "容易", "en": "easy", "pi": "róngyì"},
+    {"ch": "接近", "en": "to get close to", "pi": "jiējìn"},
+    {"ch": "他", "en": "him", "pi": "tā"},
+    {"ch": "了解", "en": "to understand", "pi": "liǎojiě"},
+    {"ch": "只有", "en": "only", "pi": "zhǐyǒu"},
+    {"ch": "多", "en": "more", "pi": "duō"},
+    {"ch": "跟", "en": "with", "pi": "gēn"},
+    {"ch": "接触", "en": "to interact", "pi": "jiēchù"},
+    {"ch": "才能", "en": "can", "pi": "cái néng"},
+    {"ch": "知道", "en": "to know", "pi": "zhīdào"},
+    {"ch": "这", "en": "how", "pi": "zhè"},
+    {"ch": "人", "en": "person", "pi": "rén"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "好", "en": "good", "pi": "hǎo"}
+  ]
+}

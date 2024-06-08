@@ -1,0 +1,43 @@
+{
+  "sentences": [
+    {
+      "chinese": "不管遇到多大的困难，我们都不要灰心，只要有毅力，就能达到目的。",
+      "english": "No matter how big the difficulties are, we should not lose heart. As long as we have perseverance, we can achieve our goal.",
+      "pinyin": "bù guǎn yù dào duō dà de kùn nán, wǒ men dōu bù yào huī xīn, zhǐ yào yǒu yì lì, jiù néng dá dào mù de。"
+    },
+    {
+      "chinese": "对，我们应该继续干下去。",
+      "english": "Yes, we should continue to work hard.",
+      "pinyin": "duì, wǒ men yīng gāi jì xù gàn xià qù。"
+    }
+  ],
+  "words": [
+    [
+      {"ch": "不管", "en": "no matter", "pi": "bù guǎn"},
+      {"ch": "遇到", "en": "encounter", "pi": "yù dào"},
+      {"ch": "多", "en": "how", "pi": "duō"},
+      {"ch": "大", "en": "big", "pi": "dà"},
+      {"ch": "的", "en": "particle linking modifier and verb", "pi": "de"},
+      {"ch": "困难", "en": "difficulty", "pi": "kùn nán"},
+      {"ch": "我们", "en": "we", "pi": "wǒ men"},
+      {"ch": "都", "en": "all", "pi": "dōu"},
+      {"ch": "不要", "en": "should not", "pi": "bù yào"},
+      {"ch": "灰心", "en": "lose heart", "pi": "huī xīn"},
+      {"ch": "只要", "en": "as long as", "pi": "zhǐ yào"},
+      {"ch": "有", "en": "have", "pi": "yǒu"},
+      {"ch": "毅力", "en": "perseverance", "pi": "yì lì"},
+      {"ch": "就", "en": "then", "pi": "jiù"},
+      {"ch": "能", "en": "can", "pi": "néng"},
+      {"ch": "达到", "en": "achieve", "pi": "dá dào"},
+      {"ch": "目的", "en": "goal", "pi": "mù de"}
+    ],
+    [
+      {"ch": "对", "en": "yes", "pi": "duì"},
+      {"ch": "我们", "en": "we", "pi": "wǒ men"},
+      {"ch": "应该", "en": "should", "pi": "yīng gāi"},
+      {"ch": "继续", "en": "continue", "pi": "jì xù"},
+      {"ch": "干", "en": "work", "pi": "gàn"},
+      {"ch": "下去", "en": "keep going", "pi": "xià qù"}
+    ]
+  ]
+}

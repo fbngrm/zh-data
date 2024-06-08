@@ -1,0 +1,148 @@
+{
+	"sentences": [
+		{
+			"chinese": "嗨，艾米丽，好久不见，你最近怎么样？",
+			"english": "Hi, Emily, long time no see, how have you been recently?",
+			"pinyin": "hāi，ài mǐ lì，hǎo jiǔ bù jiàn，nǐ zuì jìn zěn me yàng ？",
+			"words": [
+				{"ch": "嗨", "en": "Hi", "pi": "hāi"},
+				{"ch": "艾米丽", "en": "Emily", "pi": "ài mǐ lì"},
+				{"ch": "好久不见", "en": "long time no see", "pi": "hǎo jiǔ bù jiàn"},
+				{"ch": "你", "en": "you", "pi": "nǐ"},
+				{"ch": "最近", "en": "recently", "pi": "zuì jìn"},
+				{"ch": "怎么样", "en": "how have you been", "pi": "zěn me yàng"}
+			]
+		},
+		{
+			"chinese": "嗨，浩明，我很好。我最近在学书法。你学得怎么样？",
+			"english": "Hi, Haoming, I'm doing well. I've been learning calligraphy recently. How about you?",
+			"pinyin": "hāi，hào míng，wǒ hěn hǎo。wǒ zuì jìn zài xué shū fǎ。nǐ xué dé zěn me yàng ？",
+			"words": [
+				{"ch": "嗨", "en": "Hi", "pi": "hāi"},
+				{"ch": "浩明", "en": "Haoming", "pi": "hào míng"},
+				{"ch": "我", "en": "I", "pi": "wǒ"},
+				{"ch": "很", "en": "very", "pi": "hěn"},
+				{"ch": "好", "en": "well", "pi": "hǎo"},
+				{"ch": "最近", "en": "recently", "pi": "zuì jìn"},
+				{"ch": "在", "en": "in", "pi": "zài"},
+				{"ch": "学", "en": "learn", "pi": "xué"},
+				{"ch": "书法", "en": "calligraphy", "pi": "shū fǎ"},
+				{"ch": "你", "en": "you", "pi": "nǐ"},
+				{"ch": "学得", "en": "learned", "pi": "xué dé"},
+				{"ch": "怎么样", "en": "how about", "pi": "zěn me yàng"}
+			]
+		},
+		{
+			"chinese": "书法很难，但是我学得还可以。我也很喜欢书法，我经常听着音乐练书法。",
+			"english": "Calligraphy is difficult, but I'm doing okay in learning it. I also enjoy calligraphy a lot, often practicing with music.",
+			"pinyin": "shū fǎ hěn nán，dàn shì wǒ xué dé hái kě yǐ。wǒ yě hěn xǐ huān shū fǎ，wǒ jīng cháng tīng zhe yīn yuè liàn shū fǎ。",
+			"words": [
+				{"ch": "书法", "en": "calligraphy", "pi": "shū fǎ"},
+				{"ch": "很", "en": "very", "pi": "hěn"},
+				{"ch": "难", "en": "difficult", "pi": "nán"},
+				{"ch": "但是", "en": "but", "pi": "dàn shì"},
+				{"ch": "我", "en": "I", "pi": "wǒ"},
+				{"ch": "学得", "en": "learned", "pi": "xué dé"},
+				{"ch": "还", "en": "still", "pi": "hái"},
+				{"ch": "可以", "en": "okay", "pi": "kě yǐ"},
+				{"ch": "也", "en": "also", "pi": "Yě"},
+				{"ch": "很", "en": "very", "pi": "hěn"},
+				{"ch": "喜欢", "en": "enjoy", "pi": "xǐ huān"},
+				{"ch": "书法", "en": "calligraphy", "pi": "shū fǎ"},
+				{"ch": "我", "en": "I", "pi": "wǒ"},
+				{"ch": "经常", "en": "often", "pi": "jīng cháng"},
+				{"ch": "听着", "en": "listening to", "pi": "tīng zhe"},
+				{"ch": "音乐", "en": "music", "pi": "yīn yuè"},
+				{"ch": "练", "en": "practice", "pi": "liàn"}
+			]
+		},
+		{
+			"chinese": "真好，我们下次可以一起写。你最近干什么呢？",
+			"english": "That's great, we can write together next time. What have you been up to recently?",
+			"pinyin": "zhēn hǎo，wǒ men xià cì kě yǐ yī qǐ xiě。nǐ zuì jìn gàn shén me ne ？",
+			"words": [
+				{"ch": "真", "en": "really", "pi": "zhēn"},
+				{"ch": "好", "en": "good", "pi": "hǎo"},
+				{"ch": "我们", "en": "we", "pi": "wǒ men"},
+				{"ch": "下次", "en": "next time", "pi": "xià cì"},
+				{"ch": "可以", "en": "can", "pi": "kě yǐ"},
+				{"ch": "一起", "en": "together", "pi": "yī qǐ"},
+				{"ch": "写", "en": "write", "pi": "xiě"},
+				{"ch": "你", "en": "you", "pi": "nǐ"},
+				{"ch": "最近", "en": "recently", "pi": "zuì jìn"},
+				{"ch": "干", "en": "do", "pi": "gàn"},
+				{"ch": "什么", "en": "what", "pi": "shén me"},
+				{"ch": "呢", "en": "particle indicating inquiry", "pi": "ne"}
+			]
+		},
+		{
+			"chinese": "我在学做西餐，做得挺不错的。你看，这是朋友给我拍的照片，我当时正在看着菜谱，做着牛排呢！",
+			"english": "I've been learning to cook Western food, and I'm doing pretty well. Look, this is a photo my friend took for me. I was looking at the recipe, preparing a steak!",
+			"pinyin": "wǒ zài xué zuò xī cān，zuò dé tǐng bù cuò de。nǐ kàn，zhè shì péng yǒu gěi wǒ pāi de zhào piàn，wǒ dāng shí zhèng zài kàn zhe cài pǔ，zuò zhe niú pái ne ！",
+			"words": [
+				{"ch": "我", "en": "I", "pi": "wǒ"},
+				{"ch": "在", "en": "at", "pi": "zài"},
+				{"ch": "学", "en": "learn", "pi": "xué"},
+				{"ch": "做", "en": "cook", "pi": "zuò"},
+				{"ch": "西餐", "en": "Western food", "pi": "xī cān"},
+				{"ch": "做得", "en": "done", "pi": "zuò dé"},
+				{"ch": "挺", "en": "quite", "pi": "tǐng"},
+				{"ch": "不错", "en": "well", "pi": "bù cuò"},
+				{"ch": "的", "en": "particle linking preceding word to following modifier", "pi": "de"},
+				{"ch": "你", "en": "you", "pi": "nǐ"},
+				{"ch": "看", "en": "look", "pi": "kàn"},
+				{"ch": "这", "en": "this", "pi": "zhè"},
+				{"ch": "是", "en": "is", "pi": "shì"},
+				{"ch": "朋友", "en": "friend", "pi": "péng yǒu"},
+				{"ch": "给", "en": "to", "pi": "gěi"},
+				{"ch": "我", "en": "me", "pi": "wǒ"},
+				{"ch": "拍", "en": "take a photo", "pi": "pāi"},
+				{"ch": "的", "en": "particle indicating passive voice or past tense", "pi": "de"},
+				{"ch": "照片", "en": "photo", "pi": "zhào piàn"},
+				{"ch": "我", "en": "I", "pi": "wǒ"},
+				{"ch": "当时", "en": "at that time", "pi": "dāng shí"},
+				{"ch": "正在", "en": "in the process of", "pi": "zhèng zài"},
+				{"ch": "看着", "en": "looking at", "pi": "kàn zhe"},
+				{"ch": "菜谱", "en": "recipe", "pi": "cài pǔ"},
+				{"ch": "做着", "en": "preparing", "pi": "zuò zhe"},
+				{"ch": "牛排", "en": "steak", "pi": "niú pái"},
+				{"ch": "呢", "en": "particle indicating ongoing action", "pi": "ne"}
+			]
+		},
+		{
+			"chinese": "哇，肯定好吃吧？挺好吃的，我们吃得很开心。什么时候能尝尝你的手艺？这周末来我家做客吧，我给大家做牛排。",
+			"english": "Wow, must be delicious, right? It's quite tasty, and we enjoyed it a lot. When can we taste your cooking skills? Come to my house this weekend, and I'll cook steak for everyone.",
+			"pinyin": "wā，kěn dìng hǎo chī ba ？tǐng hǎo chī de，wǒ men chī dé hěn kāi xīn。shén me shí hou néng cháng cháng nǐ de shǒu yì？zhè zhōu mò lái wǒ jiā zuò kè ba，wǒ gěi dà jiā zuò niú pái。",
+			"words": [
+				{"ch": "哇", "en": "Wow", "pi": "wā"},
+				{"ch": "肯定", "en": "must", "pi": "kěn dìng"},
+				{"ch": "好吃", "en": "delicious", "pi": "hǎo chī"},
+				{"ch": "吧", "en": "right?", "pi": "ba"},
+				{"ch": "挺", "en": "quite", "pi": "tǐng"},
+				{"ch": "好吃", "en": "tasty", "pi": "hǎo chī"},
+				{"ch": "的", "en": "particle linking preceding word to following modifier", "pi": "de"},
+				{"ch": "我们", "en": "we", "pi": "wǒ men"},
+				{"ch": "吃", "en": "eat", "pi": "chī"},
+				{"ch": "得", "en": "to get", "pi": "dé"},
+				{"ch": "很", "en": "very", "pi": "hěn"},
+				{"ch": "开心", "en": "joyful", "pi": "kāi xīn"},
+				{"ch": "什么时候", "en": "when", "pi": "shén me shí hou"},
+				{"ch": "能", "en": "can", "pi": "néng"},
+				{"ch": "尝尝", "en": "taste", "pi": "cháng cháng"},
+				{"ch": "你", "en": "your", "pi": "nǐ"},
+				{"ch": "的", "en": "particle linking preceding word to following modifier", "pi": "de"},
+				{"ch": "手艺", "en": "skills", "pi": "shǒu yì"},
+				{"ch": "这", "en": "this", "pi": "zhè"},
+				{"ch": "周末", "en": "weekend", "pi": "zhōu mò"},
+				{"ch": "来", "en": "come", "pi": "lái"},
+				{"ch": "我家", "en": "my house", "pi": "wǒ jiā"},
+				{"ch": "做客", "en": "visit as a guest", "pi": "zuò kè"},
+				{"ch": "我", "en": "I", "pi": "wǒ"},
+				{"ch": "给", "en": "to", "pi": "gěi"},
+				{"ch": "大家", "en": "everyone", "pi": "dà jiā"},
+				{"ch": "做", "en": "cook", "pi": "zuò"},
+				{"ch": "牛排", "en": "steak", "pi": "niú pái"}
+			]
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+  "chinese": "只要我还有一口饭吃，就不会让你饿肚子。",
+  "english": "As long as I still have food to eat, I won't let you go hungry.",
+  "pinyin": "zhǐ yào wǒ hái yǒu yī kǒu fàn chī, jiù bù huì ràng nǐ è dùzi。",
+  "words": [
+    {"ch": "只", "en": "only", "pi": "zhǐ"},
+    {"ch": "要", "en": "to want", "pi": "yào"},
+    {"ch": "我", "en": "I, me", "pi": "wǒ"},
+    {"ch": "还", "en": "still, yet", "pi": "hái"},
+    {"ch": "有", "en": "to have", "pi": "yǒu"},
+    {"ch": "一", "en": "one", "pi": "yī"},
+    {"ch": "口", "en": "mouth", "pi": "kǒu"},
+    {"ch": "饭", "en": "food", "pi": "fàn"},
+    {"ch": "吃", "en": "to eat", "pi": "chī"},
+    {"ch": "就", "en": "then", "pi": "jiù"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "让", "en": "to let", "pi": "ràng"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "饿", "en": "hungry", "pi": "è"},
+    {"ch": "肚子", "en": "belly", "pi": "dùzi"}
+  ]
+}

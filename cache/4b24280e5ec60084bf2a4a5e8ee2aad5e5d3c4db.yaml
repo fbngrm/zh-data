@@ -1,0 +1,16 @@
+{
+  "chinese": "只有登上长城，才能体会到不到长城非好汉。",
+  "english": "Only by climbing the Great Wall can one understand what it means to be a true hero.",
+  "pinyin": "zhǐ yǒu dēng shàng cháng chéng, cái néng tǐ huì dào bú dào cháng chéng fēi hǎo hàn。",
+  "words": [
+    {"ch": "只有", "en": "only", "pi": "zhǐ yǒu"},
+    {"ch": "登上", "en": "climb", "pi": "dēng shàng"},
+    {"ch": "长城", "en": "Great Wall", "pi": "cháng chéng"},
+    {"ch": "才能", "en": "can", "pi": "cái néng"},
+    {"ch": "体会", "en": "understand", "pi": "tǐ huì"},
+    {"ch": "到", "en": "what it means", "pi": "dào"},
+    {"ch": "不到", "en": "not...", "pi": "bú dào"},
+    {"ch": "非", "en": "not", "pi": "fēi"},
+    {"ch": "好汉", "en": "true hero", "pi": "hǎo hàn"}
+  ]
+}
