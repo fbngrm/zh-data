@@ -1,0 +1,37 @@
+{
+  "chinese": "上海的天气比洛杉矶潮湿。",
+  "english": "The weather in Shanghai is more humid than in Los Angeles.",
+  "pinyin": "Shànghǎi de tiānqì bǐ Luòshānjī cháoshī。",
+  "words": [
+    {
+      "ch": "上海",
+      "en": "Shanghai",
+      "pi": "Shànghǎi"
+    },
+    {
+      "ch": "的",
+      "en": "possessive particle",
+      "pi": "de"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiānqì"
+    },
+    {
+      "ch": "比",
+      "en": "compared to",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "洛杉矶",
+      "en": "Los Angeles",
+      "pi": "Luòshānjī"
+    },
+    {
+      "ch": "潮湿",
+      "en": "humid",
+      "pi": "cháoshī"
+    }
+  ]
+}

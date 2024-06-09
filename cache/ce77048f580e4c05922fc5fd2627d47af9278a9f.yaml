@@ -1,0 +1,13 @@
+{
+  "chinese": "弟弟比我小5岁。",
+  "english": "My younger brother is 5 years younger than me.",
+  "pinyin": "dì dì bǐ wǒ xiǎo wǔ suì。",
+  "words": [
+    {"ch": "弟弟", "en": "younger brother", "pi": "dì dì"},
+    {"ch": "比", "en": "compared to", "pi": "bǐ"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "小", "en": "small/young", "pi": "xiǎo"},
+    {"ch": "5", "en": "5", "pi": "wǔ"},
+    {"ch": "岁", "en": "years old", "pi": "suì"}
+  ]
+}

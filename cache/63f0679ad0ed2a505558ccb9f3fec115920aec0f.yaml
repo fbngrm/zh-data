@@ -1,0 +1,13 @@
+{
+  "chinese": "火车票比飞机票便宜多了。",
+  "english": "Train tickets are much cheaper than plane tickets.",
+  "pinyin": "huǒ chē piào bǐ fēi jī piào piányi duō le。",
+  "words": [
+    {"ch": "火车票", "en": "train ticket", "pi": "huǒ chē piào"},
+    {"ch": "比", "en": "than", "pi": "bǐ"},
+    {"ch": "飞机票", "en": "plane ticket", "pi": "fēi jī piào"},
+    {"ch": "便宜", "en": "cheap", "pi": "piányi"},
+    {"ch": "多", "en": "much", "pi": "duō"},
+    {"ch": "了", "en": "excessively", "pi": "le"}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "我的哥哥比我高一点儿。",
+  "english": "My older brother is a little taller than me.",
+  "pinyin": "wǒ de gēge bǐ wǒ gāo yīdiǎnr。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "哥哥", "en": "older brother", "pi": "gēge"},
+    {"ch": "比", "en": "compared to", "pi": "bǐ"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "高", "en": "tall", "pi": "gāo"},
+    {"ch": "一点儿", "en": "a little bit", "pi": "yīdiǎnr"}
+  ]
+}

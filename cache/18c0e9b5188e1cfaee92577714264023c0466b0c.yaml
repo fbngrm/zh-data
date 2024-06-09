@@ -1,0 +1,34 @@
+{
+  "sentences": [
+    {
+      "chinese": "上海六、七月经常下雨很潮湿。",
+      "english": "It often rains in Shanghai in June and July, and it's very humid.",
+      "pinyin": "Shànghǎi liù, qī yuè jīngcháng xiàyǔ hěn cháoshī。",
+      "words": [
+        {"ch": "上海", "en": "Shanghai", "pi": "Shànghǎi"},
+        {"ch": "六", "en": "six", "pi": "liù"},
+        {"ch": "七", "en": "seven", "pi": "qī"},
+        {"ch": "月", "en": "month", "pi": "yuè"},
+        {"ch": "经常", "en": "often", "pi": "jīngcháng"},
+        {"ch": "下雨", "en": "to rain", "pi": "xiàyǔ"},
+        {"ch": "很", "en": "very", "pi": "hěn"},
+        {"ch": "潮湿", "en": "humid", "pi": "cháoshī"}
+      ]
+    },
+    {
+      "chinese": "上海六、七月经常下雨很潮湿。",
+      "english": "It often rains in Shanghai in June and July, and it's very humid.",
+      "pinyin": "Shànghǎi liù, qī yuè jīngcháng xiàyǔ hěn cháoshī。",
+      "words": [
+        {"ch": "上海", "en": "Shanghai", "pi": "Shànghǎi"},
+        {"ch": "六", "en": "six", "pi": "liù"},
+        {"ch": "七", "en": "seven", "pi": "qī"},
+        {"ch": "月", "en": "month", "pi": "yuè"},
+        {"ch": "经常", "en": "often", "pi": "jīngcháng"},
+        {"ch": "下雨", "en": "to rain", "pi": "xiàyǔ"},
+        {"ch": "很", "en": "very", "pi": "hěn"},
+        {"ch": "潮湿", "en": "humid", "pi": "cháoshī"}
+      ]
+    }
+  ]
+}

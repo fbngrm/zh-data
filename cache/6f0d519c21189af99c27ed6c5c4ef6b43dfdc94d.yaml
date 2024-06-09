@@ -1,0 +1,327 @@
+{
+  "chinese": "马克的日记我来上海半年多了，这儿的娱乐活动比美国丰富一点儿，我常常跟朋友一起逛街、去健身房，不过这儿六、七月经常下雨，天气比洛杉矶潮湿多了，我周末只能呆在家里看书、听音乐，我很想念洛杉矶的阳光。",
+  "english": "Mark's DiaryI have been in Shanghai for over half a year. The entertainment activities here are a bit more abundant than in America. I often go shopping and to the gym with friends. However, it often rains in June and July here. The weather is much more humid than in Los Angeles. I can only stay at home on weekends, reading books and listening to music. I miss the sunshine of Los Angeles.",
+  "pinyin": "mǎ kè de rì jì wǒ lái shànghǎi bàn nián duō le ， zhè'er de yú lè huó dòng bǐ měi guó fēngfù yī diǎn er ， wǒ cháng cháng gēn péng yǒu yī qǐ guàng jiē 、 qù jiàn shēn fáng ， bùguò zhè'er liù 、 qī yuè jīngcháng xià yǔ ， tiān qì bǐ luò shān jī cháoshī duō le ， wǒ zhōumò zhǐnéng dāi zài jiā lǐ kàn shū 、 tīng yīn yuè ， wǒ hěn xiǎngniàn luò shān jī de yáng guāng 。",
+  "words": [
+    {
+      "ch": "马克",
+      "en": "Mark",
+      "pi": "mǎ kè"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "日记",
+      "en": "Diary",
+      "pi": "rì jì"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "来",
+      "en": "come",
+      "pi": "lái"
+    },
+    {
+      "ch": "上海",
+      "en": "Shanghai",
+      "pi": "shànghǎi"
+    },
+    {
+      "ch": "半",
+      "en": "half",
+      "pi": "bàn"
+    },
+    {
+      "ch": "年",
+      "en": "year",
+      "pi": "nián"
+    },
+    {
+      "ch": "多",
+      "en": "more",
+      "pi": "duō"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "，",
+      "en": "",
+      "pi": "，"
+    },
+    {
+      "ch": "这儿",
+      "en": "here",
+      "pi": "zhè'er"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "娱乐",
+      "en": "entertainment",
+      "pi": "yú lè"
+    },
+    {
+      "ch": "活动",
+      "en": "activity",
+      "pi": "huó dòng"
+    },
+    {
+      "ch": "比",
+      "en": "than",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "美国",
+      "en": "America",
+      "pi": "měi guó"
+    },
+    {
+      "ch": "丰富",
+      "en": "abundant",
+      "pi": "fēngfù"
+    },
+    {
+      "ch": "一点儿",
+      "en": "a bit",
+      "pi": "yī diǎn er"
+    },
+    {
+      "ch": "，",
+      "en": "",
+      "pi": "，"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "常常",
+      "en": "often",
+      "pi": "cháng cháng"
+    },
+    {
+      "ch": "跟",
+      "en": "with",
+      "pi": "gēn"
+    },
+    {
+      "ch": "朋友",
+      "en": "friends",
+      "pi": "péng yǒu"
+    },
+    {
+      "ch": "一起",
+      "en": "together",
+      "pi": "yī qǐ"
+    },
+    {
+      "ch": "逛街",
+      "en": "go shopping",
+      "pi": "guàng jiē"
+    },
+    {
+      "ch": "、",
+      "en": "",
+      "pi": "、"
+    },
+    {
+      "ch": "去",
+      "en": "go",
+      "pi": "qù"
+    },
+    {
+      "ch": "健身房",
+      "en": "gym",
+      "pi": "jiàn shēn fáng"
+    },
+    {
+      "ch": "，",
+      "en": "",
+      "pi": "，"
+    },
+    {
+      "ch": "不过",
+      "en": "however",
+      "pi": "bùguò"
+    },
+    {
+      "ch": "这儿",
+      "en": "here",
+      "pi": "zhè'er"
+    },
+    {
+      "ch": "六",
+      "en": "six",
+      "pi": "liù"
+    },
+    {
+      "ch": "、",
+      "en": "",
+      "pi": "、"
+    },
+    {
+      "ch": "七",
+      "en": "seven",
+      "pi": "qī"
+    },
+    {
+      "ch": "月",
+      "en": "month",
+      "pi": "yuè"
+    },
+    {
+      "ch": "经常",
+      "en": "often",
+      "pi": "jīng chang"
+    },
+    {
+      "ch": "下雨",
+      "en": "rain",
+      "pi": "xià yǔ"
+    },
+    {
+      "ch": "，",
+      "en": "",
+      "pi": "，"
+    },
+    {
+      "ch": "天气",
+      "en": "weather",
+      "pi": "tiān qì"
+    },
+    {
+      "ch": "比",
+      "en": "compared to",
+      "pi": "bǐ"
+    },
+    {
+      "ch": "洛杉矶",
+      "en": "Los Angeles",
+      "pi": "luò shān jī"
+    },
+    {
+      "ch": "潮湿",
+      "en": "humid",
+      "pi": "cháoshī"
+    },
+    {
+      "ch": "多",
+      "en": "more",
+      "pi": "duō"
+    },
+    {
+      "ch": "了",
+      "en": "",
+      "pi": "le"
+    },
+    {
+      "ch": "，",
+      "en": "",
+      "pi": "，"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "周末",
+      "en": "weekend",
+      "pi": "zhōumò"
+    },
+    {
+      "ch": "只能",
+      "en": "only can",
+      "pi": "zhǐ néng"
+    },
+    {
+      "ch": "呆",
+      "en": "stay",
+      "pi": "dāi"
+    },
+    {
+      "ch": "在",
+      "en": "at",
+      "pi": "zài"
+    },
+    {
+      "ch": "家里",
+      "en": "home",
+      "pi": "jiā lǐ"
+    },
+    {
+      "ch": "看书",
+      "en": "read books",
+      "pi": "kàn shū"
+    },
+    {
+      "ch": "、",
+      "en": "",
+      "pi": "、"
+    },
+    {
+      "ch": "听",
+      "en": "listen to",
+      "pi": "tīng"
+    },
+    {
+      "ch": "音乐",
+      "en": "music",
+      "pi": "yīn yuè"
+    },
+    {
+      "ch": "，",
+      "en": "",
+      "pi": "，"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "很",
+      "en": "very",
+      "pi": "hěn"
+    },
+    {
+      "ch": "想念",
+      "en": "miss",
+      "pi": "xiǎng niàn"
+    },
+    {
+      "ch": "洛杉矶",
+      "en": "Los Angeles",
+      "pi": "luò shān jī"
+    },
+    {
+      "ch": "的",
+      "en": "",
+      "pi": "de"
+    },
+    {
+      "ch": "阳光",
+      "en": "sunshine",
+      "pi": "yáng guāng"
+    },
+    {
+      "ch": "。",
+      "en": "",
+      "pi": "。"
+    }
+  ]
+}

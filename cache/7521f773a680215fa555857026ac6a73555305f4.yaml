@@ -1,0 +1,28 @@
+{
+  "sentences": [
+    {
+      "chinese": "下雨的时候，你经常干什么？下雨了，我只能待在家里看书、听音乐。",
+      "english": "What do you usually do when it rains? When it rains, I can only stay at home reading and listening to music.",
+      "pinyin": "xià yǔ de shí hòu, nǐ jīng cháng gàn shén me? xià yǔ le, wǒ zhǐ néng dāi zài jiā lǐ kàn shū, tīng yīn yuè."
+    }
+  ],
+  "words": [
+    {"ch": "下雨", "en": "rain", "pi": "xià yǔ"},
+    {"ch": "的", "en": "'s", "pi": "de"},
+    {"ch": "时候", "en": "time", "pi": "shí hòu"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "经常", "en": "usually", "pi": "jīng cháng"},
+    {"ch": "干", "en": "do", "pi": "gàn"},
+    {"ch": "什么", "en": "what", "pi": "shén me"},
+    {"ch": "了", "en": "already", "pi": "le"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "只能", "en": "can only", "pi": "zhǐ néng"},
+    {"ch": "待", "en": "stay", "pi": "dāi"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "家里", "en": "home", "pi": "jiā lǐ"},
+    {"ch": "看书", "en": "read", "pi": "kàn shū"},
+    {"ch": "、", "en": "and", "pi": "、"},
+    {"ch": "听", "en": "listen", "pi": "tīng"},
+    {"ch": "音乐", "en": "music", "pi": "yīn yuè"}
+  ]
+}

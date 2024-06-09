@@ -1,0 +1,73 @@
+{
+	"sentences": [
+		{
+			"chinese": "我来上海半年多了。",
+			"english": "I have been in Shanghai for over half a year.",
+			"pinyin": "wǒ lái shànghǎi bàn nián duō le.",
+			"words": [
+				{"ch": "我", "en": "I", "pi": "wǒ"},
+				{"ch": "来", "en": "come", "pi": "lái"},
+				{"ch": "上海", "en": "Shanghai", "pi": "shànghǎi"},
+				{"ch": "半年", "en": "half a year", "pi": "bàn nián"},
+				{"ch": "多", "en": "more", "pi": "duō"},
+				{"ch": "了", "en": "particle indicating past tense", "pi": "le"}
+			]
+		},
+		{
+			"chinese": "这儿六、七月经常下雨。",
+			"english": "Here it often rains in June and July.",
+			"pinyin": "zhè'er liù, qī yuè jīngcháng xià yǔ.",
+			"words": [
+				{"ch": "这儿", "en": "here", "pi": "zhè'er"},
+				{"ch": "六", "en": "six", "pi": "liù"},
+				{"ch": "七", "en": "seven", "pi": "qī"},
+				{"ch": "月", "en": "month", "pi": "yuè"},
+				{"ch": "经常", "en": "often", "pi": "jīngcháng"},
+				{"ch": "下", "en": "down", "pi": "xià"},
+				{"ch": "雨", "en": "rain", "pi": "yǔ"}
+			]
+		},
+		{
+			"chinese": "天气比洛杉矶潮湿多了。",
+			"english": "The weather here is much more humid than in Los Angeles.",
+			"pinyin": "tiānqì bǐ luòshānjī cháoshī duō le.",
+			"words": [
+				{"ch": "天气", "en": "weather", "pi": "tiānqì"},
+				{"ch": "比", "en": "compared to", "pi": "bǐ"},
+				{"ch": "洛杉矶", "en": "Los Angeles", "pi": "luòshānjī"},
+				{"ch": "潮湿", "en": "humid", "pi": "cháoshī"},
+				{"ch": "多", "en": "more", "pi": "duō"},
+				{"ch": "了", "en": "particle indicating change", "pi": "le"}
+			]
+		},
+		{
+			"chinese": "我周末只能待在家里看书、听音乐。",
+			"english": "I can only stay at home on weekends to read and listen to music.",
+			"pinyin": "wǒ zhōumò zhǐ néng dāi zài jiālǐ kànshū, tīng yīnyuè.",
+			"words": [
+				{"ch": "我", "en": "I", "pi": "wǒ"},
+				{"ch": "周末", "en": "weekend", "pi": "zhōumò"},
+				{"ch": "只能", "en": "can only", "pi": "zhǐ néng"},
+				{"ch": "待", "en": "stay", "pi": "dāi"},
+				{"ch": "在", "en": "at", "pi": "zài"},
+				{"ch": "家里", "en": "home", "pi": "jiālǐ"},
+				{"ch": "看书", "en": "read books", "pi": "kànshū"},
+				{"ch": "听", "en": "listen", "pi": "tīng"},
+				{"ch": "音乐", "en": "music", "pi": "yīnyuè"}
+			]
+		},
+		{
+			"chinese": "我很想念洛杉矶的阳光。",
+			"english": "I really miss the sunshine in Los Angeles.",
+			"pinyin": "wǒ hěn xiǎngniàn luòshānjī de yángguāng.",
+			"words": [
+				{"ch": "我", "en": "I", "pi": "wǒ"},
+				{"ch": "很", "en": "very", "pi": "hěn"},
+				{"ch": "想念", "en": "miss", "pi": "xiǎngniàn"},
+				{"ch": "洛杉矶", "en": "Los Angeles", "pi": "luòshānjī"},
+				{"ch": "的", "en": "possessive particle", "pi": "de"},
+				{"ch": "阳光", "en": "sunshine", "pi": "yángguāng"}
+			]
+		}
+	]
+}

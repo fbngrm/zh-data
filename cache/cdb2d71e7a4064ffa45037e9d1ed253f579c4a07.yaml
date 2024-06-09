@@ -1,0 +1,14 @@
+{
+  "chinese": "上海的天气比洛杉矶潮湿多了。",
+  "english": "Shanghai's weather is much more humid than Los Angeles.",
+  "pinyin": "Shànghǎi de tiānqì bǐ Luòshānjī cháoshī duōle。",
+  "words": [
+    {"ch": "上海", "en": "Shanghai", "pi": "Shànghǎi"},
+    {"ch": "的", "en": "'s", "pi": "de"},
+    {"ch": "天气", "en": "weather", "pi": "tiānqì"},
+    {"ch": "比", "en": "more than", "pi": "bǐ"},
+    {"ch": "洛杉矶", "en": "Los Angeles", "pi": "Luòshānjī"},
+    {"ch": "潮湿", "en": "humid", "pi": "cháoshī"},
+    {"ch": "多了", "en": "much more", "pi": "duōle"}
+  ]
+}

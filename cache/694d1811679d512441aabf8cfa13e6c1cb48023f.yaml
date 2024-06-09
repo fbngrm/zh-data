@@ -1,0 +1,79 @@
+{
+  "sentences": [
+    {
+      "chinese": "我是法国人。",
+      "english": "I am French.",
+      "pinyin": "wǒ shì fǎ guó rén。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "是", "en": "am", "pi": "shì"},
+        {"ch": "法国人", "en": "French", "pi": "fǎ guó rén"}
+      ]
+    },
+    {
+      "chinese": "法国夏天的天气没有中国那么热，人们常常去外面踢足球、打网球。",
+      "english": "The weather in France in summer is not as hot as in China, people often go outside to play football and tennis.",
+      "pinyin": "fǎ guó xià tiān de tiān qì méi yǒu zhōng guó nà me rè，rén men cháng cháng qù wài miàn tī zú qiú 、 dǎ wǎng qiú。",
+      "words": [
+        {"ch": "法国", "en": "France", "pi": "fǎ guó"},
+        {"ch": "夏天", "en": "summer", "pi": "xià tiān"},
+        {"ch": "的", "en": "'s", "pi": "de"},
+        {"ch": "天气", "en": "weather", "pi": "tiān qì"},
+        {"ch": "没有", "en": "not as", "pi": "méi yǒu"},
+        {"ch": "中国", "en": "China", "pi": "zhōng guó"},
+        {"ch": "那么", "en": "as", "pi": "nà me"},
+        {"ch": "热", "en": "hot", "pi": "rè"},
+        {"ch": "人们", "en": "people", "pi": "rén men"},
+        {"ch": "常常", "en": "often", "pi": "cháng cháng"},
+        {"ch": "去", "en": "go", "pi": "qù"},
+        {"ch": "外面", "en": "outside", "pi": "wài miàn"},
+        {"ch": "踢", "en": "play football", "pi": "tī"},
+        {"ch": "足球", "en": "football", "pi": "zú qiú"},
+        {"ch": "打", "en": "play", "pi": "dǎ"},
+        {"ch": "网球", "en": "tennis", "pi": "wǎng qiú"}
+      ]
+    },
+    {
+      "chinese": "很多人爱听音乐，但是没有中国人那么喜欢唱卡拉OK。",
+      "english": "Many people love listening to music, but not as much as Chinese people love singing karaoke.",
+      "pinyin": "hěn duō rén ài tīng yīn yuè，dàn shì méi yǒu zhōng guó rén nà me xǐ huān chàng kǎ lā OK。",
+      "words": [
+        {"ch": "很多", "en": "many", "pi": "hěn duō"},
+        {"ch": "人", "en": "people", "pi": "rén"},
+        {"ch": "爱", "en": "love", "pi": "ài"},
+        {"ch": "听", "en": "listen", "pi": "tīng"},
+        {"ch": "音乐", "en": "music", "pi": "yīn yuè"},
+        {"ch": "但是", "en": "but", "pi": "dàn shì"},
+        {"ch": "没有", "en": "not as", "pi": "méi yǒu"},
+        {"ch": "中国人", "en": "Chinese people", "pi": "zhōng guó rén"},
+        {"ch": "那么", "en": "so much", "pi": "nà me"},
+        {"ch": "喜欢", "en": "like", "pi": "xǐ huān"},
+        {"ch": "唱", "en": "sing", "pi": "chàng"},
+        {"ch": "卡拉OK", "en": "karaoke", "pi": "kǎ lā OK"}
+      ]
+    },
+    {
+      "chinese": "中国菜和法国菜都很好吃，和中国人一样，我们也常常在饭店吃饭、聊天。",
+      "english": "Both Chinese and French cuisine are delicious, like Chinese people, we also often eat and chat in restaurants.",
+      "pinyin": "zhōng guó cài hé fǎ guó cài dōu hěn hǎo chī，hé zhōng guó rén yī yàng，wǒ men yě cháng cháng zài fàn diàn chī fàn、liáo tiān。",
+      "words": [
+        {"ch": "中国菜", "en": "Chinese cuisine", "pi": "zhōng guó cài"},
+        {"ch": "和", "en": "and", "pi": "hé"},
+        {"ch": "法国菜", "en": "French cuisine", "pi": "fǎ guó cài"},
+        {"ch": "都", "en": "both", "pi": "dōu"},
+        {"ch": "很", "en": "very", "pi": "hěn"},
+        {"ch": "好吃", "en": "delicious", "pi": "hǎo chī"},
+        {"ch": "和", "en": "like", "pi": "hé"},
+        {"ch": "中国人", "en": "Chinese people", "pi": "zhōng guó rén"},
+        {"ch": "一样", "en": "same as", "pi": "yī yàng"},
+        {"ch": "我们", "en": "we", "pi": "wǒ men"},
+        {"ch": "也", "en": "also", "pi": "yě"},
+        {"ch": "常常", "en": "often", "pi": "cháng cháng"},
+        {"ch": "在", "en": "at", "pi": "zài"},
+        {"ch": "饭店", "en": "restaurant", "pi": "fàn diàn"},
+        {"ch": "吃饭", "en": "eat", "pi": "chī fàn"},
+        {"ch": "聊天", "en": "chat", "pi": "liáo tiān"}
+      ]
+    }
+  ]
+}

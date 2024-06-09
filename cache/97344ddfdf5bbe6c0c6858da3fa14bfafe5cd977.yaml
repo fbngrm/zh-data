@@ -1,0 +1,15 @@
+{
+  "chinese": "这件衬衫比那件贵20元。",
+  "english": "This shirt is 20 yuan more expensive than that one.",
+  "pinyin": "zhè jiàn chèn shān bǐ nà jiàn guì èr shí yuán。",
+  "words": [
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "件", "en": "measure word for clothing", "pi": "jiàn"},
+    {"ch": "衬衫", "en": "shirt", "pi": "chèn shān"},
+    {"ch": "比", "en": "compared to", "pi": "bǐ"},
+    {"ch": "那件", "en": "that one", "pi": "nà jiàn"},
+    {"ch": "贵", "en": "expensive", "pi": "guì"},
+    {"ch": "20", "en": "20", "pi": "èr shí"},
+    {"ch": "元", "en": "yuan", "pi": "yuán"}
+  ]
+}
