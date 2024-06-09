@@ -1,0 +1,41 @@
+{
+  "sentences": [
+    {
+      "chinese": "太倒霉了，今天早上我的钱包丢了。",
+      "english": "I'm so unlucky, I lost my wallet this morning.",
+      "pinyin": "Tài dǎoméi le, jīntiān zǎoshang wǒ de qiánbāo diū le。",
+      "words": [
+        {"ch": "太", "en": "too", "pi": "tài"},
+        {"ch": "倒霉", "en": "unlucky", "pi": "dǎoméi"},
+        {"ch": "了", "en": "particle indicating completed action", "pi": "le"},
+        {"ch": "，", "en": ",", "pi": ""},
+        {"ch": "今天", "en": "today", "pi": "jīntiān"},
+        {"ch": "早上", "en": "morning", "pi": "zǎoshang"},
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "的", "en": "particle indicating possessive", "pi": "de"},
+        {"ch": "钱包", "en": "wallet", "pi": "qiánbāo"},
+        {"ch": "丢", "en": "lost", "pi": "diū"},
+        {"ch": "了", "en": "particle indicating completed action", "pi": "le"},
+        {"ch": "。", "en": ".", "pi": ""}
+      ]
+    },
+    {
+      "chinese": "你别难过，什么时候我都愿意帮忙。",
+      "english": "Don't be sad, I'm willing to help anytime.",
+      "pinyin": "Nǐ bié nánguò, shénme shíhòu wǒ dōu yuànyi bāngmáng。",
+      "words": [
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "别", "en": "do not", "pi": "bié"},
+        {"ch": "难过", "en": "sad", "pi": "nánguò"},
+        {"ch": "，", "en": ",", "pi": ""},
+        {"ch": "什么", "en": "what", "pi": "shénme"},
+        {"ch": "时候", "en": "time", "pi": "shíhòu"},
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "都", "en": "all", "pi": "dōu"},
+        {"ch": "愿意", "en": "willing", "pi": "yuànyi"},
+        {"ch": "帮忙", "en": "help", "pi": "bāngmáng"},
+        {"ch": "。", "en": ".", "pi": ""}
+      ]
+    }
+  ]
+}

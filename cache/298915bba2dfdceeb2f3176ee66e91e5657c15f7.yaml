@@ -1,0 +1,14 @@
+{
+  "chinese": "我愿意跟你一起打棒球。",
+  "english": "I am willing to play baseball with you.",
+  "pinyin": "wǒ yuànyì gēn nǐ yī qǐ dǎ bàngqiú。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "愿意", "en": "willing", "pi": "yuànyì"},
+    {"ch": "跟", "en": "with", "pi": "gēn"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "一起", "en": "together", "pi": "yī qǐ"},
+    {"ch": "打", "en": "play", "pi": "dǎ"},
+    {"ch": "棒球", "en": "baseball", "pi": "bàngqiú"}
+  ]
+}

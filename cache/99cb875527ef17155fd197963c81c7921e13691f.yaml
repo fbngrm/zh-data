@@ -1,0 +1,247 @@
+{
+	"sentences": [
+		{
+			"chinese": "昨天我在地铁上遇到了一个小偷，他偷走了我的钱包。",
+			"english": "Yesterday, I encountered a thief on the subway, he stole my wallet.",
+			"pinyin": "Zuó tiān wǒ zài dì tiě shàng yù dào le yí gè xiǎo tōu, tā tōu zǒu le wǒ de qián bāo.",
+			"words": [
+				{
+					"ch": "昨天",
+					"en": "Yesterday",
+					"pi": "zuó tiān"
+				},
+				{
+					"ch": "我",
+					"en": "I",
+					"pi": "wǒ"
+				},
+				{
+					"ch": "在",
+					"en": "at",
+					"pi": "zài"
+				},
+				{
+					"ch": "地铁",
+					"en": "subway",
+					"pi": "dì tiě"
+				},
+				{
+					"ch": "上",
+					"en": "on",
+					"pi": "shàng"
+				},
+				{
+					"ch": "遇到",
+					"en": "encounter",
+					"pi": "yù dào"
+				},
+				{
+					"ch": "了",
+					"en": "",
+					"pi": "le"
+				},
+				{
+					"ch": "一个",
+					"en": "a",
+					"pi": "yí gè"
+				},
+				{
+					"ch": "小偷",
+					"en": "thief",
+					"pi": "xiǎo tōu"
+				},
+				{
+					"ch": "他",
+					"en": "he",
+					"pi": "tā"
+				},
+				{
+					"ch": "偷走",
+					"en": "stole",
+					"pi": "tōu zǒu"
+				},
+				{
+					"ch": "了",
+					"en": "",
+					"pi": "le"
+				},
+				{
+					"ch": "我的",
+					"en": "my",
+					"pi": "wǒ de"
+				},
+				{
+					"ch": "钱包",
+					"en": "wallet",
+					"pi": "qián bāo"
+				}
+			]
+		},
+		{
+			"chinese": "我发现后吓坏了，赶快打电话报警。",
+			"english": "I was scared when I found out, I quickly called the police.",
+			"pinyin": "Wǒ fā xiàn hòu xià huài le, gǎn kuài dǎ diàn huà bào jǐng.",
+			"words": [
+				{
+					"ch": "我",
+					"en": "I",
+					"pi": "wǒ"
+				},
+				{
+					"ch": "发现",
+					"en": "found out",
+					"pi": "fā xiàn"
+				},
+				{
+					"ch": "后",
+					"en": "after",
+					"pi": "hòu"
+				},
+				{
+					"ch": "吓",
+					"en": "scared",
+					"pi": "xià"
+				},
+				{
+					"ch": "坏",
+					"en": "bad",
+					"pi": "huài"
+				},
+				{
+					"ch": "了",
+					"en": "",
+					"pi": "le"
+				},
+				{
+					"ch": "赶快",
+					"en": "quickly",
+					"pi": "gǎn kuài"
+				},
+				{
+					"ch": "打电话",
+					"en": "call",
+					"pi": "dǎ diàn huà"
+				},
+				{
+					"ch": "报警",
+					"en": "police",
+					"pi": "bào jǐng"
+				}
+			]
+		},
+		{
+			"chinese": "警察让我别着急，说先看看有没有丢重要的东西。",
+			"english": "The police told me not to worry, and said to check if there are any important things missing.",
+			"pinyin": "Jǐng chá ràng wǒ bie zháo jí, shuō xiān kàn kàn yǒu méi yǒu diū zhòng yào de dōng xī.",
+			"words": [
+				{
+					"ch": "警察",
+					"en": "police",
+					"pi": "jǐng chá"
+				},
+				{
+					"ch": "让",
+					"en": "let",
+					"pi": "ràng"
+				},
+				{
+					"ch": "我",
+					"en": "me",
+					"pi": "wǒ"
+				},
+				{
+					"ch": "别",
+					"en": "not",
+					"pi": "bie"
+				},
+				{
+					"ch": "着急",
+					"en": "worry",
+					"pi": "zháo jí"
+				},
+				{
+					"ch": "说",
+					"en": "said",
+					"pi": "shuō"
+				},
+				{
+					"ch": "先",
+					"en": "first",
+					"pi": "xiān"
+				},
+				{
+					"ch": "看看",
+					"en": "check",
+					"pi": "kàn kàn"
+				},
+				{
+					"ch": "有没有",
+					"en": "if there are",
+					"pi": "yǒu méi yǒu"
+				},
+				{
+					"ch": "丢",
+					"en": "missing",
+					"pi": "diū"
+				},
+				{
+					"ch": "重要",
+					"en": "important",
+					"pi": "zhòng yào"
+				},
+				{
+					"ch": "的",
+					"en": "",
+					"pi": "de"
+				},
+				{
+					"ch": "东西",
+					"en": "things",
+					"pi": "dōng xī"
+				}
+			]
+		},
+		{
+			"chinese": "我希望能赶快找回我的钱包。",
+			"english": "I hope to quickly recover my wallet.",
+			"pinyin": "Wǒ xī wàng néng gǎn kuài zhǎo huí wǒ de qián bāo.",
+			"words": [
+				{
+					"ch": "我",
+					"en": "I",
+					"pi": "wǒ"
+				},
+				{
+					"ch": "希望",
+					"en": "hope",
+					"pi": "xī wàng"
+				},
+				{
+					"ch": "能",
+					"en": "able to",
+					"pi": "néng"
+				},
+				{
+					"ch": "赶快",
+					"en": "quickly",
+					"pi": "gǎn kuài"
+				},
+				{
+					"ch": "找回",
+					"en": "recover",
+					"pi": "zhǎo huí"
+				},
+				{
+					"ch": "我的",
+					"en": "my",
+					"pi": "wǒ de"
+				},
+				{
+					"ch": "钱包",
+					"en": "wallet",
+					"pi": "qián bāo"
+				}
+			]
+		}
+	]
+}

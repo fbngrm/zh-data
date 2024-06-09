@@ -1,0 +1,137 @@
+{
+	"sentences": [
+		{
+			"chinese": "上个周末我和朋友骑车出去玩。",
+			"english": "Last weekend, my friend and I went cycling for fun.",
+			"pinyin": "Shàng gè zhōumò wǒ hé péngyǒu qíchē chūqù wán.",
+			"words": [
+				{"ch": "上个", "en": "last", "pi": "shàng gè"},
+				{"ch": "周末", "en": "weekend", "pi": "zhōumò"},
+				{"ch": "我", "en": "I", "pi": "wǒ"},
+				{"ch": "和", "en": "and", "pi": "hé"},
+				{"ch": "朋友", "en": "friend", "pi": "péngyǒu"},
+				{"ch": "骑车", "en": "cycling", "pi": "qíchē"},
+				{"ch": "出去", "en": "go out", "pi": "chūqù"},
+				{"ch": "玩", "en": "for fun", "pi": "wán"}
+			]
+		},
+		{
+			"chinese": "我们骑到华山路路口的时候，一辆车把我撞晕了。",
+			"english": "When we rode to the intersection of Huashan Road, a car knocked me out.",
+			"pinyin": "Wǒmen qí dào Huáshān lù lùkǒu de shíhou, yī liàng chē bǎ wǒ zhuàng yūn le.",
+			"words": [
+				{"ch": "我们", "en": "we", "pi": "wǒmen"},
+				{"ch": "骑到", "en": "rode to", "pi": "qí dào"},
+				{"ch": "华山路", "en": "Huashan Road", "pi": "Huáshān lù"},
+				{"ch": "路口", "en": "intersection", "pi": "lùkǒu"},
+				{"ch": "的时候", "en": "when", "pi": "de shíhou"},
+				{"ch": "一辆车", "en": "a car", "pi": "yī liàng chē"},
+				{"ch": "把", "en": "knocked", "pi": "bǎ"},
+				{"ch": "我", "en": "me", "pi": "wǒ"},
+				{"ch": "撞", "en": "knock", "pi": "zhuàng"},
+				{"ch": "晕", "en": "out", "pi": "yūn"},
+				{"ch": "了", "en": "", "pi": "le"}
+			]
+		},
+		{
+			"chinese": "我的朋友当时吓坏了，他不知道应该怎么办。",
+			"english": "My friend was scared at that time, he didn't know what to do.",
+			"pinyin": "Wǒ de péngyǒu dāngshí xià huài le, tā bù zhīdào yīnggāi zěnme bàn.",
+			"words": [
+				{"ch": "我的", "en": "my", "pi": "wǒ de"},
+				{"ch": "朋友", "en": "friend", "pi": "péngyǒu"},
+				{"ch": "当时", "en": "at that time", "pi": "dāngshí"},
+				{"ch": "吓坏", "en": "scared", "pi": "xià huài"},
+				{"ch": "了", "en": "", "pi": "le"},
+				{"ch": "他", "en": "he", "pi": "tā"},
+				{"ch": "不知道", "en": "didn't know", "pi": "bù zhīdào"},
+				{"ch": "应该", "en": "should", "pi": "yīnggāi"},
+				{"ch": "怎么办", "en": "what to do", "pi": "zěnme bàn"}
+			]
+		},
+		{
+			"chinese": "热心的路人告诉他应该打 110 报警 还要打 120 叫救护车。",
+			"english": "Kind passers-by told him to call 110 for the police and 120 for an ambulance.",
+			"pinyin": "Rèxīn de lùrén gàosù tā yīnggāi dǎ 110 bàojǐng hái yào dǎ 120 jiào jiùhù chē.",
+			"words": [
+				{"ch": "热心", "en": "kind", "pi": "rèxīn"},
+				{"ch": "的", "en": "passers-by", "pi": "de"},
+				{"ch": "路人", "en": "told him", "pi": "lùrén"},
+				{"ch": "告诉", "en": "should", "pi": "gàosù"},
+				{"ch": "他", "en": "to call", "pi": "tā"},
+				{"ch": "应该", "en": "110", "pi": "yīnggāi"},
+				{"ch": "打", "en": "for the police", "pi": "dǎ"},
+				{"ch": "110", "en": "still", "pi": "110"},
+				{"ch": "报警", "en": "120", "pi": "bàojǐng"},
+				{"ch": "还要", "en": "for an ambulance", "pi": "hái yào"},
+				{"ch": "打", "en": "120", "pi": "dǎ"},
+				{"ch": "120", "en": "call ambulance", "pi": "120"},
+				{"ch": "叫", "en": "", "pi": "jiào"},
+				{"ch": "救护车", "en": "ambulance", "pi": "jiùhù chē"}
+			]
+		},
+		{
+			"chinese": "我醒来的时候，发现我在医院的床上躺着。",
+			"english": "When I woke up, I found myself lying in a hospital bed.",
+			"pinyin": "Wǒ xǐng lái de shíhou, fāxiàn wǒ zài yīyuàn de chuáng shang tǎngzhe.",
+			"words": [
+				{"ch": "我", "en": "I", "pi": "wǒ"},
+				{"ch": "醒来", "en": "woke up", "pi": "xǐng lái"},
+				{"ch": "的时候", "en": "when", "pi": "de shíhou"},
+				{"ch": "发现", "en": "found", "pi": "fāxiàn"},
+				{"ch": "我", "en": "myself", "pi": "wǒ"},
+				{"ch": "在", "en": "in", "pi": "zài"},
+				{"ch": "医院", "en": "hospital", "pi": "yīyuàn"},
+				{"ch": "的", "en": "", "pi": "de"},
+				{"ch": "床上", "en": "bed", "pi": "chuáng shang"},
+				{"ch": "躺着", "en": "lying", "pi": "tǎngzhe"}
+			]
+		},
+		{
+			"chinese": "腿受伤了。",
+			"english": "My leg is injured.",
+			"pinyin": "Tuǐ shòu shāng le.",
+			"words": [
+				{"ch": "腿", "en": "leg", "pi": "tuǐ"},
+				{"ch": "受伤", "en": "injured", "pi": "shòu shāng"},
+				{"ch": "了", "en": "", "pi": "le"}
+			]
+		},
+		{
+			"chinese": "我朋友说 警察把那辆车的女司机带走了。",
+			"english": "My friend said that the police took away the female driver of that car.",
+			"pinyin": "Wǒ péngyǒu shuō jǐngchá bǎ nà liàng chē de nǚ sījī dàizǒu le.",
+			"words": [
+				{"ch": "我", "en": "I", "pi": "wǒ"},
+				{"ch": "朋友", "en": "friend", "pi": "péngyǒu"},
+				{"ch": "说", "en": "said", "pi": "shuō"},
+				{"ch": "警察", "en": "police", "pi": "jǐngchá"},
+				{"ch": "把", "en": "took away", "pi": "bǎ"},
+				{"ch": "那辆车", "en": "that car", "pi": "nà liàng chē"},
+				{"ch": "的", "en": "", "pi": "de"},
+				{"ch": "女司机", "en": "female driver", "pi": "nǚ sījī"},
+				{"ch": "带走", "en": "took away", "pi": "dàizǒu"},
+				{"ch": "了", "en": "", "pi": "le"}
+			]
+		},
+		{
+			"chinese": "听说那个女的是个新司机 所以我愿意跟她和解。",
+			"english": "I heard that the woman is a new driver, so I am willing to settle with her.",
+			"pinyin": "Tīngshuō nàge nǚ de shì ge xīn sījī suǒyǐ wǒ yuànyì gēn tā héjiě.",
+			"words": [
+				{"ch": "听说", "en": "heard", "pi": "tīngshuō"},
+				{"ch": "那个", "en": "that", "pi": "nàge"},
+				{"ch": "女的", "en": "woman", "pi": "nǚ de"},
+				{"ch": "是", "en": "is", "pi": "shì"},
+				{"ch": "个", "en": "a", "pi": "ge"},
+				{"ch": "新司机", "en": "new driver", "pi": "xīn sījī"},
+				{"ch": "所以", "en": "so", "pi": "suǒyǐ"},
+				{"ch": "我", "en": "I", "pi": "wǒ"},
+				{"ch": "愿意", "en": "am willing", "pi": "yuànyì"},
+				{"ch": "跟", "en": "to settle", "pi": "gēn"},
+				{"ch": "她", "en": "with her", "pi": "tā"},
+				{"ch": "和解", "en": "", "pi": "héjiě"}
+			]
+		}
+	]
+}

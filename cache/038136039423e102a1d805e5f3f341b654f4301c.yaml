@@ -1,0 +1,127 @@
+{
+  "sentences": [
+    {
+      "chinese": "上个周末我和朋友骑车出去玩我们骑到华山路路口的时候，一辆车把我撞晕了。",
+      "english": "Last weekend, my friend and I went cycling. When we arrived at the intersection of Huashan Road, a car knocked me unconscious.",
+      "pinyin": "shàng gè zhōumò wǒ hé péngyǒu qíchē chūqù wán wǒmen qí dào huàshān lùlùkǒu de shíhòu, yī liàng chē bǎ wǒ zhuàng yūnle.",
+      "words": [
+        {"ch": "上", "en": "above", "pi": "shàng"},
+        {"ch": "个", "en": "individual", "pi": "gè"},
+        {"ch": "周末", "en": "weekend", "pi": "zhōumò"},
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "和", "en": "and", "pi": "hé"},
+        {"ch": "朋友", "en": "friend", "pi": "péngyǒu"},
+        {"ch": "骑车", "en": "ride a bike", "pi": "qíchē"},
+        {"ch": "出去", "en": "go out", "pi": "chūqù"},
+        {"ch": "玩", "en": "play", "pi": "wán"},
+        {"ch": "我们", "en": "we", "pi": "wǒmen"},
+        {"ch": "骑", "en": "ride", "pi": "qí"},
+        {"ch": "到", "en": "arrive", "pi": "dào"},
+        {"ch": "华山路", "en": "Huashan Road", "pi": "huàshān lù"},
+        {"ch": "路口", "en": "intersection", "pi": "lùkǒu"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "时候", "en": "time", "pi": "shíhòu"},
+        {"ch": "一辆", "en": "a (measure word for vehicles)", "pi": "yī liàng"},
+        {"ch": "车", "en": "car", "pi": "chē"},
+        {"ch": "把", "en": "indicating a successful action", "pi": "bǎ"},
+        {"ch": "我", "en": "me", "pi": "wǒ"},
+        {"ch": "撞", "en": "knock", "pi": "zhuàng"},
+        {"ch": "晕", "en": "dizzy", "pi": "yūn"},
+        {"ch": "了", "en": "particle indicating a change in situation", "pi": "le"}
+      ]
+    },
+    {
+      "chinese": "我的朋友当时吓坏了，他不知道应该怎么办。",
+      "english": "My friend was terrified at that time. He didn't know what to do.",
+      "pinyin": "wǒ de péngyǒu dāngshí xià huàile, tā bù zhīdào yīnggāi zěnme bàn.",
+      "words": [
+        {"ch": "我", "en": "my", "pi": "wǒ"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "朋友", "en": "friend", "pi": "péngyǒu"},
+        {"ch": "当时", "en": "at that time", "pi": "dāngshí"},
+        {"ch": "吓", "en": "terrified", "pi": "xià"},
+        {"ch": "坏", "en": "bad", "pi": "huài"},
+        {"ch": "了", "en": "particle indicating a change in situation", "pi": "le"},
+        {"ch": "他", "en": "he", "pi": "tā"},
+        {"ch": "不", "en": "not", "pi": "bù"},
+        {"ch": "知道", "en": "know", "pi": "zhīdào"},
+        {"ch": "应该", "en": "should", "pi": "yīnggāi"},
+        {"ch": "怎么办", "en": "what to do", "pi": "zěnme bàn"}
+      ]
+    },
+    {
+      "chinese": "热心的路人告诉他应该打110报警还要打120叫救护车。",
+      "english": "Kind passers-by told him to call 110 for the police and 120 for an ambulance.",
+      "pinyin": "rèxīn de lùrén gàosu tā yīnggāi dǎ yībāo bàojǐng hái yào dǎ yīèr líng jiào jiùhùchē.",
+      "words": [
+        {"ch": "热心", "en": "kind-hearted", "pi": "rèxīn"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "路人", "en": "passer-by", "pi": "lùrén"},
+        {"ch": "告诉", "en": "tell", "pi": "gàosu"},
+        {"ch": "他", "en": "him", "pi": "tā"},
+        {"ch": "应该", "en": "should", "pi": "yīnggāi"},
+        {"ch": "打", "en": "call", "pi": "dǎ"},
+        {"ch": "110", "en": "110 (emergency police number)", "pi": "yībāo"},
+        {"ch": "报警", "en": "report to the police", "pi": "bàojǐng"},
+        {"ch": "还要", "en": "also need to", "pi": "hái yào"},
+        {"ch": "120", "en": "120 (emergency medical number)", "pi": "yīèr líng"},
+        {"ch": "叫", "en": "call for", "pi": "jiào"},
+        {"ch": "救护车", "en": "ambulance", "pi": "jiùhùchē"}
+      ]
+    },
+    {
+      "chinese": "我醒来的时候，发现我在医院的床上躺着。腿受伤了。",
+      "english": "When I woke up, I found myself lying in the hospital bed. My leg was injured.",
+      "pinyin": "wǒ xǐnglái de shíhòu, fāxiàn wǒ zài yīyuàn de chuáng shàng tǎngzhe. tuǐ shòu shāngle.",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "醒来", "en": "wake up", "pi": "xǐnglái"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "时候", "en": "time", "pi": "shíhòu"},
+        {"ch": "发现", "en": "find", "pi": "fāxiàn"},
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "在", "en": "at", "pi": "zài"},
+        {"ch": "医院", "en": "hospital", "pi": "yīyuàn"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "床上", "en": "on the bed", "pi": "chuáng shàng"},
+        {"ch": "躺着", "en": "lying down", "pi": "tǎngzhe"},
+        {"ch": "腿", "en": "leg", "pi": "tuǐ"},
+        {"ch": "受伤", "en": "injured", "pi": "shòu shāngle"},
+        {"ch": "了", "en": "particle indicating a change in situation", "pi": "le"}
+      ]
+    },
+    {
+      "chinese": "我朋友说警察把那辆车的女司机带走了。听说那个女的是个新司机所以我愿意跟她和解。",
+      "english": "My friend said the police took away the female driver of the car. I heard that she was a new driver, so I'm willing to reconcile with her.",
+      "pinyin": "wǒ péngyǒu shuō jǐngchá bǎ nà liàng chē de nǚ sījī dàizǒule. tīngshuō nàgè nǚ de shì gè xīn sījī suǒyǐ wǒ yuànyì gēn tā héjiě.",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "朋友", "en": "friend", "pi": "péngyǒu"},
+        {"ch": "说", "en": "say", "pi": "shuō"},
+        {"ch": "警察", "en": "police", "pi": "jǐngchá"},
+        {"ch": "把", "en": "indicating a successful action", "pi": "bǎ"},
+        {"ch": "那", "en": "that", "pi": "nà"},
+        {"ch": "辆", "en": "measure word for vehicles", "pi": "liàng"},
+        {"ch": "车", "en": "car", "pi": "chē"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "女", "en": "female", "pi": "nǚ"},
+        {"ch": "司机", "en": "driver", "pi": "sījī"},
+        {"ch": "带走", "en": "take away", "pi": "dàizǒu"},
+        {"ch": "了", "en": "particle indicating a change in situation", "pi": "le"},
+        {"ch": "听说", "en": "heard that", "pi": "tīngshuō"},
+        {"ch": "那个", "en": "that", "pi": "nàgè"},
+        {"ch": "女的", "en": "female", "pi": "nǚ de"},
+        {"ch": "是", "en": "is", "pi": "shì"},
+        {"ch": "个", "en": "a", "pi": "gè"},
+        {"ch": "新", "en": "new", "pi": "xīn"},
+        {"ch": "司机", "en": "driver", "pi": "sījī"},
+        {"ch": "所以", "en": "so", "pi": "suǒyǐ"},
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "愿意", "en": "willing", "pi": "yuànyì"},
+        {"ch": "跟", "en": "with", "pi": "gēn"},
+        {"ch": "她", "en": "her", "pi": "tā"},
+        {"ch": "和解", "en": "reconcile", "pi": "héjiě"}
+      ]
+    }
+  ]
+}
