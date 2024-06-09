@@ -1,0 +1,23 @@
+{
+  "chinese": "你是在哪儿学书法的？我是在交通大学学书法的。",
+  "english": "Where did you learn calligraphy? I learned calligraphy at Jiaotong University.",
+  "pinyin": "Nǐ shì zài nǎr xué shūfǎ de? Wǒ shì zài jiāotōng dàxué xué shūfǎ de.",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "是", "en": "are", "pi": "shì"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "哪儿", "en": "where", "pi": "nǎr"},
+    {"ch": "学", "en": "learn", "pi": "xué"},
+    {"ch": "书法", "en": "calligraphy", "pi": "shūfǎ"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "？", "en": "?", "pi": "?"}, 
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "是", "en": "am", "pi": "shì"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "交通大学", "en": "Jiaotong University", "pi": "jiāotōng dàxué"},
+    {"ch": "学", "en": "learn", "pi": "xué"},
+    {"ch": "书法", "en": "calligraphy", "pi": "shūfǎ"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "。", "en": ".", "pi": "."}
+  ]
+}

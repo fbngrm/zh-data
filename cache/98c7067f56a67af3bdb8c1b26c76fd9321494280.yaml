@@ -1,0 +1,71 @@
+{
+	"sentences": [
+		{
+			"chinese": "如果我丢了我的东西，比如手机或者钱包，我会先想一想可能是在什么时候、什么地方丢的。",
+			"english": "If I lose my things, like my phone or wallet, I will first try to remember when and where I might have lost them.",
+			"pinyin": "rú guǒ wǒ diū le wǒ de dōng xī, bǐ rú shǒu jī huò zhě qián bāo, wǒ huì xiān xiǎng yī xiǎng kě néng shì zài shén me shí hòu, shén me dì fāng diū de。",
+			"words": [
+				{"ch": "如果", "en": "if", "pi": "rú guǒ"},
+				{"ch": "我", "en": "I", "pi": "wǒ"},
+				{"ch": "丢", "en": "lose", "pi": "diū"},
+				{"ch": "了", "en": "particle marking the completion of action", "pi": "le"},
+				{"ch": "我的", "en": "my", "pi": "wǒ de"},
+				{"ch": "东西", "en": "things", "pi": "dōng xī"},
+				{"ch": "比如", "en": "for example", "pi": "bǐ rú"},
+				{"ch": "手机", "en": "phone", "pi": "shǒu jī"},
+				{"ch": "或者", "en": "or", "pi": "huò zhě"},
+				{"ch": "钱包", "en": "wallet", "pi": "qián bāo"},
+				{"ch": "我", "en": "I", "pi": "wǒ"},
+				{"ch": "会", "en": "will", "pi": "huì"},
+				{"ch": "先", "en": "first", "pi": "xiān"},
+				{"ch": "想一想", "en": "try to remember", "pi": "xiǎng yī xiǎng"},
+				{"ch": "可能", "en": "might", "pi": "kě néng"},
+				{"ch": "是", "en": "is", "pi": "shì"},
+				{"ch": "在", "en": "at", "pi": "zài"},
+				{"ch": "什么", "en": "what", "pi": "shén me"},
+				{"ch": "时候", "en": "when", "pi": "shí hòu"},
+				{"ch": "什么", "en": "what", "pi": "shén me"},
+				{"ch": "地方", "en": "where", "pi": "dì fāng"},
+				{"ch": "丢", "en": "lost", "pi": "diū"},
+				{"ch": "的", "en": "particle indicating past tense", "pi": "de"}
+			]
+		},
+		{
+			"chinese": "然后我会试着去那里找找。如果还是找不到，我会打电话报警。",
+			"english": "Then I will try to go there and search. If I still can't find it, I will call the police.",
+			"pinyin": "rán hòu wǒ huì shì zhe qù nà lǐ zhǎo zháo. rú guǒ hái shì zhǎo bú dào, wǒ huì dǎ diàn huà bào jǐng。",
+			"words": [
+				{"ch": "然后", "en": "then", "pi": "rán hòu"},
+				{"ch": "我", "en": "I", "pi": "wǒ"},
+				{"ch": "会", "en": "will", "pi": "huì"},
+				{"ch": "试着", "en": "try to", "pi": "shì zhe"},
+				{"ch": "去", "en": "to", "pi": "qù"},
+				{"ch": "那里", "en": "there", "pi": "nà lǐ"},
+                {"ch": "找找", "en": "search", "pi": "zhǎo zháo"},
+				{"ch": "如果", "en": "if", "pi": "rú guǒ"},
+				{"ch": "还是", "en": "still", "pi": "hái shì"},
+				{"ch": "找不到", "en": "can't find", "pi": "zhǎo bú dào"},
+				{"ch": "我", "en": "I", "pi": "wǒ"},
+				{"ch": "会", "en": "will", "pi": "huì"},
+				{"ch": "打电话", "en": "call", "pi": "dǎ diàn huà"},
+				{"ch": "报警", "en": "the police", "pi": "bào jǐng"}
+			]
+		},
+		{
+			"chinese": "当然，可能我需要自己再买一个新的。",
+			"english": "Of course, I may need to buy a new one myself.",
+			"pinyin": "dāng rán, kě néng wǒ xū yào zì jǐ zài mǎi yī gè xīn de。",
+			"words": [
+				{"ch": "当然", "en": "of course", "pi": "dāng rán"},
+				{"ch": "可能", "en": "might", "pi": "kě néng"},
+				{"ch": "我", "en": "I", "pi": "wǒ"},
+				{"ch": "需要", "en": "need", "pi": "xū yào"},
+				{"ch": "自己", "en": "myself", "pi": "zì jǐ"},
+				{"ch": "再", "en": "again", "pi": "zài"},
+				{"ch": "买", "en": "buy", "pi": "mǎi"},
+				{"ch": "一个", "en": "one", "pi": "yī gè"},
+				{"ch": "新的", "en": "new", "pi": "xīn de"}
+			]
+		}
+	]
+}

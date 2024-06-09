@@ -1,0 +1,261 @@
+{
+  "sentences": [
+    {
+      "chinese": "我今天真是太倒霉了！",
+      "english": "I'm really unlucky today!",
+      "pinyin": "wǒ jīn tiān zhēn shì tài dǎo méi le！",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "今天", "en": "today", "pi": "jīn tiān"},
+        {"ch": "真是", "en": "really", "pi": "zhēn shì"},
+        {"ch": "太", "en": "too", "pi": "tài"},
+        {"ch": "倒霉", "en": "unlucky", "pi": "dǎo méi"},
+        {"ch": "了", "en": "了", "pi": "le"}
+      ]
+    },
+    {
+      "chinese": "你怎么啦？",
+      "english": "What's wrong with you?",
+      "pinyin": "nǐ zěn me la？",
+      "words": [
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "怎么", "en": "how", "pi": "zěn me"},
+        {"ch": "啦", "en": "啦", "pi": "la"}
+      ]
+    },
+    {
+      "chinese": "我新买的手机丢了。",
+      "english": "I lost the new phone I bought.",
+      "pinyin": "wǒ xīn mǎi de shǒu jī diū le。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "新", "en": "new", "pi": "xīn"},
+        {"ch": "买", "en": "buy", "pi": "mǎi"},
+        {"ch": "的", "en": "de", "pi": "de"},
+        {"ch": "手机", "en": "phone", "pi": "shǒu jī"},
+        {"ch": "丢了", "en": "lost", "pi": "diū le"}
+      ]
+    },
+    {
+      "chinese": "你是在哪丢的？",
+      "english": "Where did you lose it?",
+      "pinyin": "nǐ shì zài nǎ diū de？",
+      "words": [
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "是", "en": "are", "pi": "shì"},
+        {"ch": "在", "en": "at", "pi": "zài"},
+        {"ch": "哪", "en": "where", "pi": "nǎ"},
+        {"ch": "丢", "en": "lose", "pi": "diū"},
+        {"ch": "的", "en": "的", "pi": "de"}
+      ]
+    },
+    {
+      "chinese": "我不记得了。",
+      "english": "I don't remember.",
+      "pinyin": "wǒ bù jì de le。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "不", "en": "don't", "pi": "bù"},
+        {"ch": "记得", "en": "remember", "pi": "jì de"},
+        {"ch": "了", "en": "了", "pi": "le"}
+      ]
+    },
+    {
+      "chinese": "你今天都去哪了？",
+      "english": "Where did you go today?",
+      "pinyin": "nǐ jīn tiān dōu qù nǎ le？",
+      "words": [
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "今天", "en": "today", "pi": "jīn tiān"},
+        {"ch": "都", "en": "all", "pi": "dōu"},
+        {"ch": "去", "en": "go", "pi": "qù"},
+        {"ch": "哪", "en": "where", "pi": "nǎ"},
+        {"ch": "了", "en": "了", "pi": "le"}
+      ]
+    },
+    {
+      "chinese": "我去了图书馆。",
+      "english": "I went to the library.",
+      "pinyin": "wǒ qù le tú shū guǎn。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "去", "en": "go", "pi": "qù"},
+        {"ch": "了", "en": "了", "pi": "le"},
+        {"ch": "图书馆", "en": "library", "pi": "tú shū guǎn"}
+      ]
+    },
+    {
+      "chinese": "你是怎么去的？",
+      "english": "How did you go there?",
+      "pinyin": "nǐ shì zěn me qù de？",
+      "words": [
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "是", "en": "are", "pi": "shì"},
+        {"ch": "怎么", "en": "how", "pi": "zěn me"},
+        {"ch": "去", "en": "go", "pi": "qù"},
+        {"ch": "的", "en": "的", "pi": "de"}
+      ]
+    },
+    {
+      "chinese": "我是坐地铁去的。",
+      "english": "I took the subway there.",
+      "pinyin": "wǒ shì zuò dì tiě qù de。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "是", "en": "are", "pi": "shì"},
+        {"ch": "坐", "en": "take", "pi": "zuò"},
+        {"ch": "地铁", "en": "subway", "pi": "dì tiě"},
+        {"ch": "去", "en": "go", "pi": "qù"},
+        {"ch": "的", "en": "的", "pi": "de"}
+      ]
+    },
+    {
+      "chinese": "你是和谁一起去的？",
+      "english": "Who did you go with?",
+      "pinyin": "nǐ shì hé shuí yī qǐ qù de？",
+      "words": [
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "是", "en": "are", "pi": "shì"},
+        {"ch": "和", "en": "and", "pi": "hé"},
+        {"ch": "谁", "en": "who", "pi": "shuí"},
+        {"ch": "一起", "en": "together", "pi": "yī qǐ"},
+        {"ch": "去", "en": "go", "pi": "qù"},
+        {"ch": "的", "en": "的", "pi": "de"}
+      ]
+    },
+    {
+      "chinese": "我是自己一个人去的。",
+      "english": "I went there alone.",
+      "pinyin": "wǒ shì zì jǐ yī gè rén qù de。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "是", "en": "are", "pi": "shì"},
+        {"ch": "自己", "en": "self", "pi": "zì jǐ"},
+        {"ch": "一个", "en": "one", "pi": "yī gè"},
+        {"ch": "人", "en": "person", "pi": "rén"},
+        {"ch": "去", "en": "go", "pi": "qù"},
+        {"ch": "的", "en": "的", "pi": "de"}
+      ]
+    },
+    {
+      "chinese": "你是什么时候发现手机丢了的？",
+      "english": "When did you realize the phone was lost?",
+      "pinyin": "nǐ shì shén me shí hòu fā xiàn shǒu jī diū le de？",
+      "words": [
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "是", "en": "are", "pi": "shì"},
+        {"ch": "什么", "en": "what", "pi": "shén me"},
+        {"ch": "时候", "en": "when", "pi": "shí hòu"},
+        {"ch": "发现", "en": "realize", "pi": "fā xiàn"},
+        {"ch": "手机", "en": "phone", "pi": "shǒu jī"},
+        {"ch": "丢了", "en": "lost", "pi": "diū le"},
+        {"ch": "的", "en": "的", "pi": "de"}
+      ]
+    },
+    {
+      "chinese": "我是从图书馆回来时发现的。",
+      "english": "I realized when coming back from the library.",
+      "pinyin": "wǒ shì cóng tú shū guǎn huí lái shí fā xiàn de。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "是", "en": "are", "pi": "shì"},
+        {"ch": "从", "en": "from", "pi": "cóng"},
+        {"ch": "图书馆", "en": "library", "pi": "tú shū guǎn"},
+        {"ch": "回来", "en": "come back", "pi": "huí lái"},
+        {"ch": "时", "en": "time", "pi": "shí"},
+        {"ch": "发现", "en": "realize", "pi": "fā xiàn"},
+        {"ch": "的", "en": "的", "pi": "de"}
+      ]
+    },
+    {
+      "chinese": "我想打电话请朋友吃饭，发现自己的手机不见了。",
+      "english": "I wanted to call a friend to eat, but found my phone missing.",
+      "pinyin": "wǒ xiǎng dǎ diàn huà qǐng péng yǒu chī fàn， fā xiàn zì jǐ de shǒu jī bù jiàn le。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "想", "en": "want", "pi": "xiǎng"},
+        {"ch": "打电话", "en": "make a call", "pi": "dǎ diàn huà"},
+        {"ch": "请", "en": "invite", "pi": "qǐng"},
+        {"ch": "朋友", "en": "friend", "pi": "péng yǒu"},
+        {"ch": "吃饭", "en": "eat", "pi": "chī fàn"},
+        {"ch": "发现", "en": "found", "pi": "fā xiàn"},
+        {"ch": "自己", "en": "my own", "pi": "zì jǐ"},
+        {"ch": "的", "en": "的", "pi": "de"},
+        {"ch": "手机", "en": "phone", "pi": "shǒu jī"},
+        {"ch": "不见", "en": "missing", "pi": "bù jiàn"},
+        {"ch": "了", "en": "了", "pi": "le"}
+      ]
+    },
+    {
+      "chinese": "小偷可能在地铁上偷了你的手机。",
+      "english": "The thief may have stolen your phone on the subway.",
+      "pinyin": "xiǎo tōu kě néng zài dì tiě shàng tōu le nǐ de shǒu jī。",
+      "words": [
+        {"ch": "小偷", "en": "thief", "pi": "xiǎo tōu"},
+        {"ch": "可能", "en": "may", "pi": "kě néng"},
+        {"ch": "在", "en": "at", "pi": "zài"},
+        {"ch": "地铁", "en": "subway", "pi": "dì tiě"},
+        {"ch": "上", "en": "on", "pi": "shàng"},
+        {"ch": "偷", "en": "steal", "pi": "tōu"},
+        {"ch": "了", "en": "了", "pi": "le"},
+        {"ch": "你", "en": "your", "pi": "nǐ"},
+        {"ch": "的", "en": "的", "pi": "de"},
+        {"ch": "手机", "en": "phone", "pi": "shǒu jī"}
+      ]
+    },
+    {
+      "chinese": "现在怎么办呢？",
+      "english": "What should we do now?",
+      "pinyin": "xiàn zài zěn me bàn ne？",
+      "words": [
+        {"ch": "现在", "en": "now", "pi": "xiàn zài"},
+        {"ch": "怎么", "en": "how", "pi": "zěn me"},
+        {"ch": "办", "en": "do", "pi": "bàn"},
+        {"ch": "呢", "en": "ne", "pi": "ne"}
+      ]
+    },
+    {
+      "chinese": "只能自认倒霉，再买一个新的了。",
+      "english": "Just have to accept bad luck and buy a new one.",
+      "pinyin": "zhǐ néng zì rèn dǎo méi，zài mǎi yī gè xīn de le。",
+      "words": [
+        {"ch": "只能", "en": "only can", "pi": "zhǐ néng"},
+        {"ch": "自认", "en": "admit", "pi": "zì rèn"},
+        {"ch": "倒霉", "en": "bad luck", "pi": "dǎo méi"},
+        {"ch": "再", "en": "again", "pi": "zài"},
+        {"ch": "买", "en": "buy", "pi": "mǎi"},
+        {"ch": "一个", "en": "one", "pi": "yī gè"},
+        {"ch": "新的", "en": "new", "pi": "xīn de"},
+        {"ch": "了", "en": "了", "pi": "le"}
+      ]
+    },
+    {
+      "chinese": "即使报警，警察也不知道是谁偷了你的手机。",
+      "english": "Even if you report to the police, they won't know who stole your phone.",
+      "pinyin": "jí shǐ bào jǐng，jǐng chá yě bù zhī dào shì shuí tōu le nǐ de shǒu jī。",
+      "words": [
+        {"ch": "即使", "en": "even if", "pi": "jí shǐ"},
+        {"ch": "报警", "en": "report to the police", "pi": "bào jǐng"},
+        {"ch": "警察", "en": "police", "pi": "jǐng chá"},
+        {"ch": "也", "en": "also", "pi": "yě"},
+        {"ch": "不", "en": "not", "pi": "bù"},
+        {"ch": "知道", "en": "know", "pi": "zhī dào"},
+        {"ch": "是", "en": "is", "pi": "shì"},
+        {"ch": "谁", "en": "who", "pi": "shuí"},
+        {"ch": "偷了", "en": "stole", "pi": "tōu le"},
+        {"ch": "你", "en": "your", "pi": "nǐ"},
+        {"ch": "的", "en": "的", "pi": "de"},
+        {"ch": "手机", "en": "phone", "pi": "shǒu jī"}
+      ]
+    },
+    {
+      "chinese": "好吧",
+      "english": "Alright.",
+      "pinyin": "hǎo ba",
+      "words": [
+        {"ch": "好", "en": "good", "pi": "hǎo"},
+        {"ch": "吧", "en": "ba", "pi": "ba"}
+      ]
+    }
+  ]
+}

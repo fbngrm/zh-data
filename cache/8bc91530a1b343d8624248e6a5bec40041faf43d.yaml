@@ -1,0 +1,16 @@
+{ 
+  "chinese": "你是怎么去学校的？我是坐地铁去学校的。",
+  "english": "How do you go to school? I go to school by subway.",
+  "pinyin": "Nǐ shì zěnme qù xuéxiào de? Wǒ shì zuò dìtiě qù xuéxiào de.",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "是", "en": "are", "pi": "shì"},
+    {"ch": "怎么", "en": "how", "pi": "zěnme"},
+    {"ch": "去", "en": "to go", "pi": "qù"},
+    {"ch": "学校", "en": "school", "pi": "xuéxiào"},
+    {"ch": "的", "en": "particle indicating past tense", "pi": "de"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "坐", "en": "to take (transportation)", "pi": "zuò"},
+    {"ch": "地铁", "en": "subway", "pi": "dìtiě"}
+  ]
+}

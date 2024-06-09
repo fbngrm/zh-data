@@ -1,0 +1,34 @@
+{
+  "sentences": [
+    {
+      "chinese": "你 是 什么 时候 开始 打 篮球 的 ？",
+      "english": "When did you start playing basketball?",
+      "pinyin": "Nǐ shì shénme shíhòu kāishǐ dǎ lánqiú de?",
+      "words": [
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "是", "en": "are", "pi": "shì"},
+        {"ch": "什么", "en": "what", "pi": "shénme"},
+        {"ch": "时候", "en": "time", "pi": "shíhòu"},
+        {"ch": "开始", "en": "start", "pi": "kāishǐ"},
+        {"ch": "打", "en": "play", "pi": "dǎ"},
+        {"ch": "篮球", "en": "basketball", "pi": "lánqiú"},
+        {"ch": "的", "en": "", "pi": "de"}
+      ]
+    },
+    {
+      "chinese": "我 是 十 岁 开始 打 篮球 的 。",
+      "english": "I started playing basketball at the age of ten.",
+      "pinyin": "Wǒ shì shí suì kāishǐ dǎ lánqiú de.",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "是", "en": "am", "pi": "shì"},
+        {"ch": "十", "en": "ten", "pi": "shí"},
+        {"ch": "岁", "en": "years old", "pi": "suì"},
+        {"ch": "开始", "en": "start", "pi": "kāishǐ"},
+        {"ch": "打", "en": "play", "pi": "dǎ"},
+        {"ch": "篮球", "en": "basketball", "pi": "lánqiú"},
+        {"ch": "的", "en": "", "pi": "de"}
+      ]
+    }
+  ]
+}

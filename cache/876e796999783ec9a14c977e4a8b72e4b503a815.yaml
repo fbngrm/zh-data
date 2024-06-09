@@ -1,0 +1,17 @@
+{
+  "chinese": "这两件衣服，你想买哪一件？",
+  "english": "Which one of these two pieces of clothing do you want to buy?",
+  "pinyin": "zhè liǎng jiàn yīfu, nǐ xiǎng mǎi nǎ yī jiàn?",
+  "words": [
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "两", "en": "two", "pi": "liǎng"},
+    {"ch": "件", "en": "piece", "pi": "jiàn"},
+    {"ch": "衣服", "en": "clothing", "pi": "yīfu"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "想", "en": "want", "pi": "xiǎng"},
+    {"ch": "买", "en": "buy", "pi": "mǎi"},
+    {"ch": "哪", "en": "which", "pi": "nǎ"},
+    {"ch": "一", "en": "one", "pi": "yī"},
+    {"ch": "件", "en": "piece", "pi": "jiàn"}
+  ]
+}
