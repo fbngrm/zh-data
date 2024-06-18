@@ -1,0 +1,17 @@
+{
+  "chinese": "虽然天气很冷，但是他还是坚持每天跑步。",
+  "english": "Although the weather is very cold, he still insists on running every day.",
+  "pinyin": "suī rán tiān qì hěn lěng, dàn shì tā hái shì jiān chí měi tiān pǎo bù。",
+  "words": [
+    {"ch": "虽然", "en": "although", "pi": "suī rán"},
+    {"ch": "天气", "en": "weather", "pi": "tiān qì"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "冷", "en": "cold", "pi": "lěng"},
+    {"ch": "但是", "en": "but", "pi": "dàn shì"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "还是", "en": "still", "pi": "hái shì"},
+    {"ch": "坚持", "en": "insist", "pi": "jiān chí"},
+    {"ch": "每天", "en": "every day", "pi": "měi tiān"},
+    {"ch": "跑步", "en": "running", "pi": "pǎo bù"}
+  ]
+}

@@ -1,0 +1,18 @@
+{
+    "chinese": "虽然她工作很忙，但是她总是抽时间陪家人。",
+    "english": "Although she is very busy with work, she always makes time to be with her family.",
+    "pinyin": "suī rán tā gōng zuò hěn máng, dàn shì tā zǒng shì chōu shí jiān péi jiā rén。",
+    "words": [
+        {"ch": "虽然", "en": "although", "pi": "suī rán"},
+        {"ch": "她", "en": "she", "pi": "tā"},
+        {"ch": "工作", "en": "work", "pi": "gōng zuò"},
+        {"ch": "很", "en": "very", "pi": "hěn"},
+        {"ch": "忙", "en": "busy", "pi": "máng"},
+        {"ch": "但是", "en": "but", "pi": "dàn shì"},
+        {"ch": "她", "en": "she",  "pi": "tā"},
+        {"ch": "总是", "en": "always", "pi": "zǒng shì"},
+        {"ch": "抽时间", "en": "make time", "pi": "chōu shí jiān"},
+        {"ch": "陪", "en": "be with", "pi": "péi"},
+        {"ch": "家人", "en": "family", "pi": "jiā rén"}
+    ]
+}
