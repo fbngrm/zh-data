@@ -1,0 +1,12 @@
+{
+  "chinese": "你有兄弟姐妹吗？",
+  "english": "Do you have siblings?",
+  "pinyin": "nǐ yǒu xiōng dì jiě mèi ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "兄弟", "en": "brothers", "pi": "xiōng dì"},
+    {"ch": "姐妹", "en": "sisters", "pi": "jiě mèi"},
+    {"ch": "吗", "en": "question marker", "pi": "ma"}
+  ]
+}

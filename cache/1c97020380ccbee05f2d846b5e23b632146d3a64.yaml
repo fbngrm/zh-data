@@ -1,0 +1,15 @@
+{
+  "chinese": "我一句话都不会说。",
+  "english": "I can't speak a word.",
+  "pinyin": "wǒ yī jù huà dōu bù huì shuō。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "一", "en": "one", "pi": "yī"},
+    {"ch": "句", "en": "sentence", "pi": "jù"},
+    {"ch": "话", "en": "word", "pi": "huà"},
+    {"ch": "都", "en": "all", "pi": "dōu"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "会", "en": "can", "pi": "huì"},
+    {"ch": "说", "en": "speak", "pi": "shuō"}
+  ]
+}
