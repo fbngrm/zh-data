@@ -1,0 +1,12 @@
+{
+  "chinese": "我断断续续学了三年中文。",
+  "english": "I have studied Chinese on and off for three years.",
+  "pinyin": "wǒ duàn duàn xùxù xuéle sān nián zhōngwén。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "断断续续", "en": "on and off", "pi": "duàn duàn xùxù"},
+    {"ch": "学了", "en": "studied", "pi": "xuéle"},
+    {"ch": "三年", "en": "three years", "pi": "sān nián"},
+    {"ch": "中文", "en": "Chinese", "pi": "zhōngwén"}
+  ]
+}

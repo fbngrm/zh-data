@@ -1,0 +1,13 @@
+{
+  "chinese": "你是中国哪个地方的？",
+  "english": "Which part of China are you from?",
+  "pinyin": "Nǐ shì zhōngguó nǎge dìfāng de?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "Nǐ"},
+    {"ch": "是", "en": "are", "pi": "shì"},
+    {"ch": "中国", "en": "China", "pi": "zhōngguó"},
+    {"ch": "哪个", "en": "which", "pi": "nǎge"},
+    {"ch": "地方", "en": "place", "pi": "dìfāng"},
+    {"ch": "的", "en": "of", "pi": "de"}
+  ]
+}

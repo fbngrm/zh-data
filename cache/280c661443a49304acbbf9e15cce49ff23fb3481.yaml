@@ -1,0 +1,11 @@
+{
+  "chinese": "我想上厕所",
+  "english": "I want to go to the restroom",
+  "pinyin": "wǒ xiǎng shàng cèsuǒ",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "想", "en": "want", "pi": "xiǎng" },
+    { "ch": "上", "en": "to go", "pi": "shàng" },
+    { "ch": "厕所", "en": "restroom", "pi": "cèsuǒ" }
+  ]
+}

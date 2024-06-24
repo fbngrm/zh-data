@@ -1,0 +1,13 @@
+{
+  "chinese": "学习中文是我的爱好之一。",
+  "english": "Studying Chinese is one of my hobbies.",
+  "pinyin": "Xuéxí zhōngwén shì wǒ de àihào zhī yī。",
+  "words": [
+    {"ch": "学习", "en": "Studying", "pi": "Xuéxí"},
+    {"ch": "中文", "en": "Chinese", "pi": "zhōngwén"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "我的", "en": "my", "pi": "wǒ de"},
+    {"ch": "爱好", "en": "hobbies", "pi": "àihào"},
+    {"ch": "之一", "en": "one of", "pi": "zhī yī"}
+  ]
+}
