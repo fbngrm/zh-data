@@ -1,0 +1,17 @@
+{
+  "chinese": "我解释了很多次，可是他还是不明白。",
+  "english": "I have explained many times, but he still doesn't understand.",
+  "pinyin": "wǒ jiěshì le hěn duō cì, kěshì tā háishì bù míngbái。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "解释", "en": "explain", "pi": "jiěshì"},
+    {"ch": "了", "en": "particle indicating completed action", "pi": "le"},
+    {"ch": "很多", "en": "many", "pi": "hěn duō"},
+    {"ch": "次", "en": "times", "pi": "cì"},
+    {"ch": "可是", "en": "but", "pi": "kěshì"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "还是", "en": "still", "pi": "háishì"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "明白", "en": "understand", "pi": "míngbái"}
+  ]
+}

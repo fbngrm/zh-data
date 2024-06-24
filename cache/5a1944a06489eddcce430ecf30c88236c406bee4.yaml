@@ -1,0 +1,16 @@
+{
+  "chinese": "我很饿，可是还是等你一起吃饭。",
+  "english": "I'm very hungry, but I'll still wait for you to have dinner together.",
+  "pinyin": "wǒ hěn è, kěshì háishì děng nǐ yīqǐ chīfàn.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "饿", "en": "hungry", "pi": "è"},
+    {"ch": "可是", "en": "but", "pi": "kěshì"},
+    {"ch": "还是", "en": "still", "pi": "háishì"},
+    {"ch": "等", "en": "wait", "pi": "děng"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "一起", "en": "together", "pi": "yīqǐ"},
+    {"ch": "吃饭", "en": "have dinner", "pi": "chīfàn"}
+  ]
+}
