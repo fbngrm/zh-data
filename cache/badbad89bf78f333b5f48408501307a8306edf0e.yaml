@@ -1,0 +1,14 @@
+{
+  "chinese": "即使下雨，我们也要去爬山。",
+  "english": "Even if it rains, we still want to go mountain climbing.",
+  "pinyin": "jí shǐ xià yǔ , wǒ men yě yào qù pá shān 。",
+  "words": [
+    {"ch": "即使", "en": "Even if", "pi": "jí shǐ"},
+    {"ch": "下雨", "en": "rain", "pi": "xià yǔ"},
+    {"ch": "我们", "en": "we", "pi": "wǒ men"},
+    {"ch": "也", "en": "also", "pi": "yě"},
+    {"ch": "要", "en": "want to", "pi": "yào"},
+    {"ch": "去", "en": "go to", "pi": "qù"},
+    {"ch": "爬山", "en": "mountain climbing", "pi": "pá shān"}
+  ]
+}

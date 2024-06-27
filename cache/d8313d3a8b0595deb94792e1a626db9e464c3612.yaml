@@ -1,0 +1,15 @@
+{
+  "chinese": "当然 ， 要是 明天 不 下雨 就 好 了 。",
+  "english": "Of course, it would be good if it doesn't rain tomorrow.",
+  "pinyin": "dāng rán ， yào shì míng tiān bù xià yǔ jiù hǎo le 。",
+  "words": [
+    {"ch": "当然", "en": "Of course", "pi": "dāng rán"},
+    {"ch": "要是", "en": "if", "pi": "yào shì"},
+    {"ch": "明天", "en": "tomorrow", "pi": "míng tiān"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "下雨", "en": "rain", "pi": "xià yǔ"},
+    {"ch": "就", "en": "then", "pi": "jiù"},
+    {"ch": "好", "en": "good", "pi": "hǎo"},
+    {"ch": "了", "en": "finish", "pi": "le"}
+  ]
+}
