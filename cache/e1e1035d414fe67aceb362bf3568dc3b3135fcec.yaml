@@ -1,0 +1,14 @@
+{
+	"chinese": "你可以再说一次吗？",
+	"english": "Can you say it again?",
+	"pinyin": "nǐ kě yǐ zài shuō yī cì ma?",
+	"words": [
+		{"ch": "你", "en": "you", "pi": "nǐ"},
+		{"ch": "可以", "en": "can", "pi": "kě yǐ"},
+		{"ch": "再", "en": "again", "pi": "zài"},
+		{"ch": "说", "en": "say", "pi": "shuō"},
+		{"ch": "一", "en": "one", "pi": "yī"},
+		{"ch": "次", "en": "time", "pi": "cì"},
+		{"ch": "吗", "en": "question particle", "pi": "ma"}
+	]
+}

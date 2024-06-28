@@ -1,0 +1,13 @@
+{
+  "chinese": "你吃得惯中国菜吗？",
+  "english": "Are you used to eating Chinese food?",
+  "pinyin": "nǐ chī dé guàn zhōng guó cài ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "吃", "en": "eat", "pi": "chī"},
+    {"ch": "得", "en": "able to", "pi": "dé"},
+    {"ch": "惯", "en": "used to", "pi": "guàn"},
+    {"ch": "中国菜", "en": "Chinese food", "pi": "zhōng guó cài"},
+    {"ch": "吗", "en": "", "pi": "ma"}
+  ]
+}

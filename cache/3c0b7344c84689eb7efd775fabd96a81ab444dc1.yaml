@@ -1,0 +1,14 @@
+{
+  "chinese": "你别把他的东西弄坏了。",
+  "english": "Don't break his things.",
+  "pinyin": "nǐ bié bǎ tā de dōngxi nòng huài le。",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "别", "en": "don't", "pi": "bié"},
+    {"ch": "把", "en": "take", "pi": "bǎ"},
+    {"ch": "他", "en": "him", "pi": "tā"},
+    {"ch": "的", "en": "his", "pi": "de"},
+    {"ch": "东西", "en": "things", "pi": "dōngxi"},
+    {"ch": "弄坏了", "en": "break", "pi": "nòng huài le"}
+  ]
+}

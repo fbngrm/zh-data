@@ -1,0 +1,16 @@
+{
+  "chinese": "你最近还好吗？没有什么特别的。",
+  "english": "How have you been recently? Nothing special.",
+  "pinyin": "nǐ zuìjìn hái hǎo ma？méiyǒu shénme tèbié de。",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "最近", "en": "recently", "pi": "zuìjìn"},
+    {"ch": "还", "en": "still", "pi": "hái"},
+    {"ch": "好", "en": "good", "pi": "hǎo"},
+    {"ch": "吗", "en": "question marker", "pi": "ma"},
+    {"ch": "没有", "en": "not have", "pi": "méiyǒu"},
+    {"ch": "什么", "en": "anything", "pi": "shénme"},
+    {"ch": "特别", "en": "special", "pi": "tèbié"},
+    {"ch": "的", "en": "of", "pi": "de"}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "你好，我有一个预订。",
+  "english": "Hello, I have a reservation.",
+  "pinyin": "nǐ hǎo ， wǒ yǒu yī gè yùdìng 。",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "好", "en": "good", "pi": "hǎo"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "一个", "en": "one", "pi": "yī"},
+    {"ch": "预订", "en": "reservation", "pi": "yùdìng"}
+  ]
+}

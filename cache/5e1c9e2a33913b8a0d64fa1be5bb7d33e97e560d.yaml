@@ -1,0 +1,10 @@
+{
+  "chinese": "外面下雪了。",
+  "english": "It's snowing outside.",
+  "pinyin": "Wài miàn xià xuě le.",
+  "words": [
+    {"ch": "外面", "en": "outside", "pi": "Wài miàn"},
+    {"ch": "下雪", "en": "snowing", "pi": "xià xuě"},
+    {"ch": "了", "en": "particle indicating completion of action", "pi": "le"}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+    "chinese": "你好，麻烦再来一份。",
+    "english": "Hello, please bring another one.",
+    "pinyin": "nǐ hǎo, má fan zài lái yī fèn。",
+    "words": [
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "好", "en": "good", "pi": "hǎo"},
+        {"ch": "麻烦", "en": "trouble", "pi": "má fan"},
+        {"ch": "再", "en": "again", "pi": "zài"},
+        {"ch": "来", "en": "come", "pi": "lái"},
+        {"ch": "一", "en": "one", "pi": "yī"},
+        {"ch": "份", "en": "portion", "pi": "fèn"}
+    ]
+}

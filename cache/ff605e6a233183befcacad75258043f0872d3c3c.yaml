@@ -1,0 +1,14 @@
+{
+  "chinese": "你好 ， 我 想 订 一个 位子 。",
+  "english": "Hello, I would like to make a reservation.",
+  "pinyin": "nǐ hǎo ， wǒ xiǎng dìng yī gè wèi zi 。",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "好", "en": "good", "pi": "hǎo"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "想", "en": "want", "pi": "xiǎng"},
+    {"ch": "订", "en": "to book", "pi": "dìng"},
+    {"ch": "一个", "en": "one", "pi": "yī"},
+    {"ch": "位子", "en": "seat", "pi": "wèi zi"}
+  ]
+}

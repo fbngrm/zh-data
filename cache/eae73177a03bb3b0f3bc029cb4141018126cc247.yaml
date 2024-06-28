@@ -1,0 +1,14 @@
+{
+  "chinese": "你说得比我好多了。",
+  "english": "You speak much better than me.",
+  "pinyin": "nǐ shuō dé bǐ wǒ hǎo duō le。",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "说", "en": "speak", "pi": "shuō"},
+    {"ch": "得", "en": "much", "pi": "dé"},
+    {"ch": "比", "en": "than", "pi": "bǐ"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "好多", "en": "better", "pi": "hǎo duō"},
+    {"ch": "了", "en": "", "pi": "le"}
+  ]
+}

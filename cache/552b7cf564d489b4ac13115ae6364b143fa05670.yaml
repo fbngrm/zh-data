@@ -1,0 +1,11 @@
+{
+  "chinese": "我吃了方便面",
+  "english": "I ate instant noodles",
+  "pinyin": "wǒ chī le fāngbiànmiàn",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "吃", "en": "eat", "pi": "chī"},
+    {"ch": "了", "en": "particle indicating completed action", "pi": "le"},
+    {"ch": "方便面", "en": "instant noodles", "pi": "fāngbiànmiàn"}
+  ]
+}

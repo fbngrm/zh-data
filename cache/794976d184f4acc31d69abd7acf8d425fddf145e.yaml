@@ -1,0 +1,11 @@
+{
+  "chinese": "这个 看 起来 好好吃！",
+  "english": "This looks very delicious!",
+  "pinyin": "zhè ɡè kàn qǐlái hǎo hǎochī！",
+  "words": [
+    { "ch": "这个", "en": "this", "pi": "zhè ɡè" },
+    { "ch": "看", "en": "look", "pi": "kàn" },
+    { "ch": "起来", "en": "looks", "pi": "qǐlái" },
+    { "ch": "好好吃", "en": "very delicious", "pi": "hǎo hǎochī" }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+	"chinese": "可以帮我拍张照吗？",
+	"english": "Can you help me take a photo?",
+	"pinyin": "kě yǐ bāng wǒ pāi zhāng zhào ma?",
+	"words": [
+		{"ch": "可以", "en": "can", "pi": "kě yǐ"},
+		{"ch": "帮", "en": "help", "pi": "bāng"},
+		{"ch": "我", "en": "me", "pi": "wǒ"},
+		{"ch": "拍", "en": "take", "pi": "pāi"},
+		{"ch": "张", "en": "a", "pi": "zhāng"},
+		{"ch": "照", "en": "photo", "pi": "zhào"},
+		{"ch": "吗", "en": "question marker", "pi": "ma"}
+	]
+}

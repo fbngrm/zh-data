@@ -1,0 +1,14 @@
+{
+  "chinese": "我不太明白你的一色。",
+  "english": "I don't quite understand your intention.",
+  "pinyin": "wǒ bù tài míngbái nǐ de yīsè。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "太", "en": "quite", "pi": "tài"},
+    {"ch": "明白", "en": "understand", "pi": "míngbái"},
+    {"ch": "你", "en": "your", "pi": "nǐ"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "一色", "en": "intention", "pi": "yīsè"}
+  ]
+}

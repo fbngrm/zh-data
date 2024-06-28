@@ -1,0 +1,13 @@
+{
+  "chinese": "我们找个地方吃饭吧。",
+  "english": "Let's find a place to eat.",
+  "pinyin": "wǒmen zhǎo gè dìfang chīfàn ba。",
+  "words": [
+    {"ch": "我们", "en": "we", "pi": "wǒmen"},
+    {"ch": "找", "en": "find", "pi": "zhǎo"},
+    {"ch": "个", "en": "a", "pi": "gè"},
+    {"ch": "地方", "en": "place", "pi": "dìfang"},
+    {"ch": "吃饭", "en": "eat", "pi": "chīfàn"},
+    {"ch": "吧", "en": "let's", "pi": "ba"}
+  ]
+}

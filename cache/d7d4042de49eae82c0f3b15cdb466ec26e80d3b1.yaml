@@ -1,0 +1,14 @@
+{
+  "chinese": "对不起，这里信号不太好。",
+  "english": "I'm sorry, the signal here is not very good.",
+  "pinyin": "duì bù qǐ , zhè lǐ xìn hào bù tài hǎo .",
+  "words": [
+    {"ch": "对", "en": "I'm sorry", "pi": "duì"},
+    {"ch": "不起", "en": "sorry", "pi": "bù qǐ"},
+    {"ch": "这里", "en": "here", "pi": "zhè lǐ"},
+    {"ch": "信号", "en": "signal", "pi": "xìn hào"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "太", "en": "very", "pi": "tài"},
+    {"ch": "好", "en": "good", "pi": "hǎo"}
+  ]
+}

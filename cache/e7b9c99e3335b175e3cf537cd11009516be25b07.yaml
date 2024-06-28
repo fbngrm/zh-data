@@ -1,0 +1,22 @@
+{
+  "chinese": "你卡了。",
+  "english": "Your card is stuck.",
+  "pinyin": "nǐ kǎ le.",
+  "words": [
+    {
+      "ch": "你",
+      "en": "you",
+      "pi": "nǐ"
+    },
+    {
+      "ch": "卡",
+      "en": "card",
+      "pi": "kǎ"
+    },
+    {
+      "ch": "了",
+      "en": "(modal particle intensifying preceding clause)",
+      "pi": "le"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "这本书讲什么的啊？",
+  "english": "What is this book about?",
+  "pinyin": "zhè běn shū jiǎng shénme de a?",
+  "words": [
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "本", "en": "book", "pi": "běn"},
+    {"ch": "书", "en": "book", "pi": "shū"},
+    {"ch": "讲", "en": "talk", "pi": "jiǎng"},
+    {"ch": "什么", "en": "what", "pi": "shénme"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "啊", "en": "ah", "pi": "a"}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chinese": "你 最近 还 好 吗 ？ 就 那样 ！",
+  "english": "How have you been recently? Just so-so!",
+  "pinyin": "nǐ zuìjìn hái hǎo ma? jiù nàyàng!",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "最近", "en": "recently", "pi": "zuìjìn"},
+    {"ch": "还", "en": "still", "pi": "hái"},
+    {"ch": "好", "en": "good", "pi": "hǎo"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"},
+    {"ch": "就", "en": "just", "pi": "jiù"},
+    {"ch": "那样", "en": "so-so", "pi": "nàyàng"}
+  ]
+}

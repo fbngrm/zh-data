@@ -1,0 +1,12 @@
+{
+  "chinese": "你好，麻烦点菜！",
+  "english": "Hello, please order!",
+  "pinyin": "nǐ hǎo, máfan diǎn cài!",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "好", "en": "good", "pi": "hǎo"},
+    {"ch": "麻烦", "en": "troublesome", "pi": "máfan"},
+    {"ch": "点", "en": "to", "pi": "diǎn"},
+    {"ch": "菜", "en": "order", "pi": "cài"}
+  ]
+}

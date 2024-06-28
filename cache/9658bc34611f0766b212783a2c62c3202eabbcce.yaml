@@ -1,0 +1,15 @@
+{
+  "chinese": "你还有什么想说的吗？",
+  "english": "Do you have anything else to say?",
+  "pinyin": "nǐ hái yǒu shénme xiǎng shuō de ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "还", "en": "still", "pi": "hái"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "什么", "en": "what", "pi": "shénme"},
+    {"ch": "想", "en": "want", "pi": "xiǎng"},
+    {"ch": "说", "en": "say", "pi": "shuō"},
+    {"ch": "的", "en": "particle indicating possession", "pi": "de"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

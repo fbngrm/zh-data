@@ -1,0 +1,14 @@
+{
+  "chinese": "对不起，我的网络有点慢。",
+  "english": "Sorry, my internet is a bit slow.",
+  "pinyin": "duì bù qǐ ， wǒ de wǎng luò yǒu diǎn màn 。",
+  "words": [
+    {"ch": "对", "en": "Sorry", "pi": "duì"},
+    {"ch": "不起", "en": "apology", "pi": "bù qǐ"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "的", "en": "my", "pi": "de"},
+    {"ch": "网络", "en": "internet", "pi": "wǎng luò"},
+    {"ch": "有点", "en": "a bit", "pi": "yǒu diǎn"},
+    {"ch": "慢", "en": "slow", "pi": "màn"}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "chinese": "我没有支付宝/微信。",
+  "english": "I don't have Alipay/WeChat.",
+  "pinyin": "wǒ méiyǒu zhīfùbǎo/wēixìn.",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "没有", "en": "don't have", "pi": "méiyǒu"},
+    {"ch": "支付宝", "en": "Alipay", "pi": "zhīfùbǎo"},
+    {"ch": "微信", "en": "WeChat", "pi": "wēixìn"}
+  ]
+}

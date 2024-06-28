@@ -1,0 +1,12 @@
+{
+  "chinese": "你能吃辣吗？",
+  "english": "Can you eat spicy food?",
+  "pinyin": "nǐ néng chī là ma?",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "能", "en": "can", "pi": "néng"},
+    {"ch": "吃", "en": "eat", "pi": "chī"},
+    {"ch": "辣", "en": "spicy", "pi": "là"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

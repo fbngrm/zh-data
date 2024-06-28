@@ -1,0 +1,11 @@
+{
+  "chinese": "我到家啦！",
+  "english": "I'm home!",
+  "pinyin": "wǒ dào jiā la!",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "到", "en": "arrive", "pi": "dào"},
+    {"ch": "家", "en": "home", "pi": "jiā"},
+    {"ch": "啦", "en": "exclamation", "pi": "la!"}
+  ]
+}

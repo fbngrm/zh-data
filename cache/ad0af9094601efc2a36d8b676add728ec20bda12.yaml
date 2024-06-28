@@ -1,0 +1,14 @@
+{
+  "chinese": "我年轻的时候去过中国。",
+  "english": "I have been to China when I was young.",
+  "pinyin": "wǒ niánqīng de shíhòu qùguò zhōngguó。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "年轻", "en": "young", "pi": "niánqīng"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "时候", "en": "time", "pi": "shíhòu"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "过", "en": "have been to", "pi": "guò"},
+    {"ch": "中国", "en": "China", "pi": "zhōngguó"}
+  ]
+}

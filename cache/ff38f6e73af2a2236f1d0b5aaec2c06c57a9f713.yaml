@@ -1,0 +1,12 @@
+{
+  "chinese": "我不是故意的。",
+  "english": "I didn't mean it.",
+  "pinyin": "wǒ bù shì gù yì de。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "故意", "en": "intentional", "pi": "gù yì"},
+    {"ch": "的", "en": "possessive particle", "pi": "de"}
+  ]
+}

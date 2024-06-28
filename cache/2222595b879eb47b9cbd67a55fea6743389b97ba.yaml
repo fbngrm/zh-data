@@ -1,0 +1,13 @@
+{
+	"chinese": "你知道我的意思吗？",
+	"english": "Do you know what I mean?",
+	"pinyin": "nǐ zhīdào wǒ de yìsi ma?",
+	"words": [
+		{"ch": "你", "en": "you", "pi": "nǐ"},
+		{"ch": "知道", "en": "know", "pi": "zhīdào"},
+		{"ch": "我", "en": "I", "pi": "wǒ"},
+		{"ch": "的", "en": "what", "pi": "de"},
+		{"ch": "意思", "en": "meaning", "pi": "yìsi"},
+		{"ch": "吗", "en": "question marker", "pi": "ma"}
+	]
+}

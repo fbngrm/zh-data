@@ -1,0 +1,14 @@
+{
+  "chinese": "你到家了告诉我啊！",
+  "english": "You have arrived home, tell me!",
+  "pinyin": "nǐ dào jiā le gào sù wǒ a!",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "到", "en": "arrive", "pi": "dào"},
+    {"ch": "家", "en": "home", "pi": "jiā"},
+    {"ch": "了", "en": "have", "pi": "le"},
+    {"ch": "告诉", "en": "tell", "pi": "gào sù"},
+    {"ch": "我", "en": "me", "pi": "wǒ"},
+    {"ch": "啊", "en": "!,", "pi": "a!"}
+  ]
+}

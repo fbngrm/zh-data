@@ -1,0 +1,12 @@
+{
+  "chinese": "我正在下载这个app。",
+  "english": "I am downloading this app.",
+  "pinyin": "wǒ zhèng zài xià zài zhè ge app。",
+  "words": [
+    { "ch": "我", "en": "I", "pi": "wǒ" },
+    { "ch": "正在", "en": "am", "pi": "zhèng zài" },
+    { "ch": "下载", "en": "downloading", "pi": "xià zài" },
+    { "ch": "这个", "en": "this", "pi": "zhè ge" },
+    { "ch": "app", "en": "app", "pi": "app" }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "chinese": "说来话长，以后有机会我在告诉你吧！",
+  "english": "It's a long story, I will tell you later when I have the chance!",
+  "pinyin": "shuō lái huà cháng, yǐ hòu yǒu jī huì wǒ zài gào sù nǐ ba!",
+  "words": [
+    {"ch": "说", "en": "speak", "pi": "shuō"},
+    {"ch": "来", "en": "come", "pi": "lái"},
+    {"ch": "话", "en": "words", "pi": "huà"},
+    {"ch": "长", "en": "long", "pi": "cháng"},
+    {"ch": "以后", "en": "later", "pi": "yǐ hòu"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "机会", "en": "chance", "pi": "jī huì"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "在", "en": "at", "pi": "zài"},
+    {"ch": "告诉", "en": "tell", "pi": "gào sù"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "吧", "en": "modal particle indicating suggestion", "pi": "ba"}
+  ]
+}

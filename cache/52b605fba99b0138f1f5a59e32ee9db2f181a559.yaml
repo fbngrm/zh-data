@@ -1,0 +1,13 @@
+{
+  "chinese": "语法不是很难，但是发音很难。",
+  "english": "Grammar is not very difficult, but pronunciation is very difficult.",
+  "pinyin": "yǔfǎ bùshì hěn nán ， dànshì fāyīn hěn nán 。",
+  "words": [
+    {"ch": "语法", "en": "Grammar", "pi": "yǔfǎ"},
+    {"ch": "不是", "en": "not", "pi": "bùshì"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "难", "en": "difficult", "pi": "nán"},
+    {"ch": "但是", "en": "but", "pi": "dànshì"},
+    {"ch": "发音", "en": "pronunciation", "pi": "fāyīn"}
+  ]
+}

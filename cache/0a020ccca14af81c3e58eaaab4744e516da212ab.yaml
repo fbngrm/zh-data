@@ -1,0 +1,13 @@
+{
+  "chinese": "请问，wifi密码是什么？",
+  "english": "Excuse me, what is the wifi password?",
+  "pinyin": "qǐngwèn, wifi mìmǎ shì shénme?",
+  "words": [
+    {"ch": "请", "en": "Excuse me", "pi": "qǐng"},
+    {"ch": "问", "en": "ask", "pi": "wèn"},
+    {"ch": "wifi", "en": "wifi", "pi": "wifi"},
+    {"ch": "密码", "en": "password", "pi": "mìmǎ"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "什么", "en": "what", "pi": "shénme"}
+  ]
+}

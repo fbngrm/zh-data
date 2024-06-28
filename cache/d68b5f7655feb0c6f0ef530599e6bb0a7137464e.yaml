@@ -1,0 +1,14 @@
+{
+  "chinese": "你的微信号是多少？",
+  "english": "What's your WeChat ID?",
+  "pinyin": "nǐ de wēi xìn hào shì duō shǎo？",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "的", "en": "your", "pi": "de"},
+    {"ch": "微", "en": "micro", "pi": "wēi"},
+    {"ch": "信号", "en": "ID", "pi": "xìn hào"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "多少", "en": "how much", "pi": "duō shǎo"},
+    {"ch": "？", "en": "?", "pi": "？"}
+  ]
+}

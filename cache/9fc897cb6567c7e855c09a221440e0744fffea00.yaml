@@ -1,0 +1,14 @@
+{
+  "chinese": "这个也太贵了吧！",
+  "english": "This is too expensive!",
+  "pinyin": "Zhè ge yě tài guì le ba!",
+  "words": [
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "个", "en": "measure word", "pi": "ge"},
+    {"ch": "也", "en": "also", "pi": "yě"},
+    {"ch": "太", "en": "too", "pi": "tài"},
+    {"ch": "贵", "en": "expensive", "pi": "guì"},
+    {"ch": "了", "en": "particle indicating a completed action", "pi": "le"},
+    {"ch": "吧", "en": "particle indicating suggestion", "pi": "ba"}
+  ]
+}

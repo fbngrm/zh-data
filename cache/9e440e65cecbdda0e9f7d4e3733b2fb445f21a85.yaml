@@ -1,0 +1,13 @@
+{
+  "chinese": "你可以介绍一下自己吗？",
+  "english": "Can you introduce yourself?",
+  "pinyin": "nǐ kěyǐ jièshào yīxià zìjǐ ma?",
+  "words": [
+    { "ch": "你", "en": "you", "pi": "nǐ" },
+    { "ch": "可以", "en": "can", "pi": "kěyǐ" },
+    { "ch": "介绍", "en": "introduce", "pi": "jièshào" },
+    { "ch": "一下", "en": "a bit", "pi": "yīxià" },
+    { "ch": "自己", "en": "oneself", "pi": "zìjǐ" },
+    { "ch": "吗", "en": "question particle", "pi": "ma" }
+  ]
+}

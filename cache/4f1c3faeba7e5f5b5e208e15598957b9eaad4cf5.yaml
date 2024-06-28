@@ -1,0 +1,13 @@
+{
+	"chinese": "我昨天晚上没睡好。",
+	"english": "I didn't sleep well last night.",
+	"pinyin": "wǒ zuótiān wǎnshàng méi shuì hǎo。",
+	"words": [
+		{"ch": "我", "en": "I", "pi": "wǒ"},
+		{"ch": "昨天", "en": "yesterday", "pi": "zuótiān"},
+		{"ch": "晚上", "en": "evening", "pi": "wǎnshàng"},
+		{"ch": "没", "en": "no", "pi": "méi"},
+		{"ch": "睡", "en": "sleep", "pi": "shuì"},
+		{"ch": "好", "en": "well", "pi": "hǎo"}
+	]
+}

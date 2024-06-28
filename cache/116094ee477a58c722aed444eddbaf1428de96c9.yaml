@@ -1,0 +1,16 @@
+{
+  "chinese": "请问，这两个菜可以打包吗？",
+  "english": "Excuse me, can these two dishes be packed?",
+  "pinyin": "qǐngwèn, zhè liǎng gè cài kěyǐ dǎbāo ma?",
+  "words": [
+    {"ch": "请", "en": "Excuse me", "pi": "qǐng"},
+    {"ch": "问", "en": "ask", "pi": "wèn"},
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "两", "en": "two", "pi": "liǎng"},
+    {"ch": "个", "en": "measure word", "pi": "gè"},
+    {"ch": "菜", "en": "dish", "pi": "cài"},
+    {"ch": "可以", "en": "can", "pi": "kěyǐ"},
+    {"ch": "打包", "en": "pack", "pi": "dǎbāo"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}
