@@ -1,0 +1,27 @@
+{
+  "chinese": "香肉丝不要去店里吃了，自己在家也能做，鲜香滑嫩，解馋又下饭",
+  "english": "Don't go to the restaurant to eat shredded pork. You can make it at home. It is fresh, fragrant, tender, satisfying, and goes well with rice.",
+  "pinyin": "xiāng ròu sī bù yào qù diàn lǐ chī le, zì jǐ zài jiā yě néng zuò, xiān xiāng huá nèn, jiě chán yòu xià fàn",
+  "words": [
+    {"ch": "香", "en": "fragrant", "pi": "xiāng"},
+    {"ch": "肉", "en": "meat", "pi": "ròu"},
+    {"ch": "丝", "en": "shredded", "pi": "sī"},
+    {"ch": "不要", "en": "don't", "pi": "bù yào"},
+    {"ch": "去", "en": "go", "pi": "qù"},
+    {"ch": "店里", "en": "restaurant", "pi": "diàn lǐ"},
+    {"ch": "吃", "en": "eat", "pi": "chī"},
+    {"ch": "了", "en": "", "pi": "le"},
+    {"ch": "自己", "en": "oneself", "pi": "zì jǐ"},
+    {"ch": "在家", "en": "at home", "pi": "zài jiā"},
+    {"ch": "也", "en": "also", "pi": "yě"},
+    {"ch": "能", "en": "can", "pi": "néng"},
+    {"ch": "做", "en": "make", "pi": "zuò"},
+    {"ch": "鲜", "en": "fresh", "pi": "xiān"},
+    {"ch": "滑", "en": "tender", "pi": "huá"},
+    {"ch": "嫩", "en": "tender", "pi": "nèn"},
+    {"ch": "解", "en": "satisfying", "pi": "jiě"},
+    {"ch": "馋", "en": "satisfying", "pi": "chán"},
+    {"ch": "又", "en": "and", "pi": "yòu"},
+    {"ch": "下饭", "en": "goes well with rice", "pi": "xià fàn"}
+  ]
+}

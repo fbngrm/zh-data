@@ -1,0 +1,18 @@
+{
+  "chinese": "你的号码是多少？我也保存一下。",
+  "english": "What is your phone number? Let me save it too.",
+  "pinyin": "Nǐ de hàomǎ shì duōshǎo? Wǒ yě bǎocún yīxià.",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "号码", "en": "phone number", "pi": "hàomǎ"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "多少", "en": "how much", "pi": "duōshǎo"},
+    {"ch": "？", "en": "?", "pi": "?"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "也", "en": "also", "pi": "yě"},
+    {"ch": "保存", "en": "save", "pi": "bǎocún"},
+    {"ch": "一下", "en": "a bit", "pi": "yīxià"},
+    {"ch": "。", "en": ".", "pi": "。"}
+  ]
+}

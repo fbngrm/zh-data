@@ -1,0 +1,14 @@
+{
+  "chinese": "我从没有看德甲的比赛。",
+  "english": "I have never watched a Bundesliga match.",
+  "pinyin": "wǒ cóng méiyǒu kàn dé jiǎ de bǐsài。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "从", "en": "from", "pi": "cóng"},
+    {"ch": "没有", "en": "have not", "pi": "méiyǒu"},
+    {"ch": "看", "en": "watch", "pi": "kàn"},
+    {"ch": "德甲", "en": "Bundesliga", "pi": "dé jiǎ"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "比赛", "en": "match", "pi": "bǐsài"}
+  ]
+}

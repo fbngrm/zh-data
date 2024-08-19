@@ -1,0 +1,37 @@
+{
+  "chinese": "这个汉字我没写错。",
+  "english": "I didn't write this Chinese character wrong.",
+  "pinyin": "zhè gè hànzì wǒ méi xiě cuò。",
+  "words": [
+    {
+      "ch": "这个",
+      "en": "this",
+      "pi": "zhè gè"
+    },
+    {
+      "ch": "汉字",
+      "en": "Chinese character",
+      "pi": "hànzì"
+    },
+    {
+      "ch": "我",
+      "en": "I",
+      "pi": "wǒ"
+    },
+    {
+      "ch": "没",
+      "en": "didn't",
+      "pi": "méi"
+    },
+    {
+      "ch": "写",
+      "en": "write",
+      "pi": "xiě"
+    },
+    {
+      "ch": "错",
+      "en": "wrong",
+      "pi": "cuò"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chinese": "我能听懂汉语。",
+  "english": "I can understand Chinese.",
+  "pinyin": "wǒ néng tīng dǒng hànyǔ。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "能", "en": "can", "pi": "néng"},
+    {"ch": "听", "en": "to listen", "pi": "tīng"},
+    {"ch": "懂", "en": "to understand", "pi": "dǒng"},
+    {"ch": "汉语", "en": "Chinese language", "pi": "hànyǔ"}
+  ]
+}

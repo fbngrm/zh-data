@@ -1,0 +1,17 @@
+{
+  "chinese": "如果我吃那么多甜食，我会发胖的",
+  "english": "If I eat so many sweets, I will get fat.",
+  "pinyin": "rúguǒ wǒ chī nàme duō tiánshí, wǒ huì fāpàng de",
+  "words": [
+    {"ch": "如果", "en": "if", "pi": "rúguǒ"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "吃", "en": "eat", "pi": "chī"},
+    {"ch": "那么", "en": "so", "pi": "nàme"},
+    {"ch": "多", "en": "many", "pi": "duō"},
+    {"ch": "甜食", "en": "sweets", "pi": "tiánshí"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "发胖", "en": "get fat", "pi": "fāpàng"},
+    {"ch": "的", "en": "", "pi": "de"}
+  ]
+}

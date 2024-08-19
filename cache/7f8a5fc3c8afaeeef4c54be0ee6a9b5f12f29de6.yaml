@@ -1,0 +1,39 @@
+{
+	"sentences": [
+		{
+			"chinese": "鱼香面不要去店里吃了，女友也在家能做。",
+			"english": "Don't go to the restaurant for fish flavored noodles, you can make them at home. ",
+			"pinyin": "Yú xiāng miàn bú yào qù diàn lǐ chī le, nǚ yǒu yě zài jiā néng zuò.",
+			"words": [
+				{"ch": "鱼香", "en": "fish flavored", "pi": "yú xiāng"},
+				{"ch": "面", "en": "noodles", "pi": "miàn"},
+				{"ch": "不", "en": "don't", "pi": "bú"},
+				{"ch": "要", "en": "to want", "pi": "yào"},
+				{"ch": "去", "en": "to go", "pi": "qù"},
+				{"ch": "店里", "en": "restaurant", "pi": "diàn lǐ"},
+				{"ch": "吃", "en": "to eat", "pi": "chī"},
+				{"ch": "了", "en": "already", "pi": "le"},
+				{"ch": "女友", "en": "girlfriend", "pi": "nǚ yǒu"},
+				{"ch": "也", "en": "also", "pi": "yě"},
+				{"ch": "在家", "en": "at home", "pi": "zài jiā"},
+				{"ch": "能", "en": "able to", "pi": "néng"},
+				{"ch": "做", "en": "to make", "pi": "zuò"}
+			]
+		},
+		{
+			"chinese": "鲜香滑嫩，解我的馋。",
+			"english": "Fresh, fragrant, smooth, and tender, satisfying my craving.",
+			"pinyin": "Xiān xiāng huá nèn, jiě wǒ de chán.",
+			"words": [
+				{"ch": "鲜", "en": "fresh", "pi": "xiān"},
+				{"ch": "香", "en": "fragrant", "pi": "xiāng"},
+				{"ch": "滑", "en": "smooth", "pi": "huá"},
+				{"ch": "嫩", "en": "tender", "pi": "nèn"},
+				{"ch": "解", "en": "to satisfy", "pi": "jiě"},
+				{"ch": "我", "en": "my", "pi": "wǒ"},
+				{"ch": "的", "en": "particle linking modifier and noun", "pi": "de"},
+				{"ch": "馋", "en": "craving", "pi": "chán"}
+			]
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "有什么需要帮忙的吗?",
+  "english": "Is there anything I can help with?",
+  "pinyin": "yǒu shénme xūyào bāngmáng de ma?",
+  "words": [
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "什么", "en": "what", "pi": "shénme"},
+    {"ch": "需要", "en": "need", "pi": "xūyào"},
+    {"ch": "帮忙", "en": "help", "pi": "bāngmáng"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "吗", "en": "(question particle)", "pi": "ma"}
+  ]
+}

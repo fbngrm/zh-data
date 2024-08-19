@@ -1,0 +1,32 @@
+{
+  "chinese": "少数学生不喜欢数学。",
+  "english": "A few students do not like mathematics.",
+  "pinyin": "Shǎoshù xuéshēng bù xǐhuān shùxué.",
+  "words": [
+    {
+      "ch": "少数",
+      "en": "a few",
+      "pi": "shǎoshù"
+    },
+    {
+      "ch": "学生",
+      "en": "students",
+      "pi": "xuéshēng"
+    },
+    {
+      "ch": "不",
+      "en": "do not",
+      "pi": "bù"
+    },
+    {
+      "ch": "喜欢",
+      "en": "like",
+      "pi": "xǐhuān"
+    },
+    {
+      "ch": "数学",
+      "en": "mathematics",
+      "pi": "shùxué"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "chinese": "他说中文说得很慢，我们都能听",
+  "english": "He speaks Chinese very slowly, we can all understand",
+  "pinyin": "tā shuō zhōngwén shuō dé hěn màn, wǒmen dōu néng tīng",
+  "words": [
+    {"ch": "他", "en": "He", "pi": "tā"},
+    {"ch": "说", "en": "speaks", "pi": "shuō"},
+    {"ch": "中文", "en": "Chinese", "pi": "zhōngwén"},
+    {"ch": "说得", "en": "very", "pi": "shuō dé"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "慢", "en": "slowly", "pi": "màn"},
+    {"ch": "我们", "en": "we", "pi": "wǒmen"},
+    {"ch": "都", "en": "all", "pi": "dōu"},
+    {"ch": "能", "en": "can", "pi": "néng"},
+    {"ch": "听", "en": "understand", "pi": "tīng"}
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "chinese": "因为我不喜欢吃甜食，所以我不胖",
+  "english": "Because I don't like to eat sweets, I am not fat",
+  "pinyin": "yīn wèi wǒ bù xǐ huān chī tián shí, suǒ yǐ wǒ bù pàng",
+  "words": [
+    {"ch": "因为", "en": "because", "pi": "yīn wèi"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "喜欢", "en": "like", "pi": "xǐ huān"},
+    {"ch": "吃", "en": "to eat", "pi": "chī"},
+    {"ch": "甜食", "en": "sweets", "pi": "tián shí"},
+    {"ch": "所以", "en": "therefore", "pi": "suǒ yǐ"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "胖", "en": "fat", "pi": "pàng"}
+  ]
+}

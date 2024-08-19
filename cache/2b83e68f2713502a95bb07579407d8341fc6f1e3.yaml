@@ -1,0 +1,12 @@
+{
+  "chinese": "我能写对汉字。",
+  "english": "I can write Chinese characters correctly.",
+  "pinyin": "wǒ néng xiě duì hànzì。",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "能", "en": "can", "pi": "néng"},
+    {"ch": "写", "en": "to write", "pi": "xiě"},
+    {"ch": "对", "en": "correctly", "pi": "duì"},
+    {"ch": "汉字", "en": "Chinese characters", "pi": "hànzì"}
+  ]
+}

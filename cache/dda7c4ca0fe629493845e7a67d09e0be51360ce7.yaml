@@ -1,0 +1,232 @@
+{
+  "sentences": [
+    {
+      "chinese": "请进。",
+      "english": "Please come in.",
+      "pinyin": "qǐng jìn。",
+      "words": [
+        {"ch": "请", "en": "please", "pi": "qǐng"},
+        {"ch": "进", "en": "come in", "pi": "jìn"}
+      ]
+    },
+    {
+      "chinese": "马克，你中文说得真不错。",
+      "english": "Mark, your Chinese is really good.",
+      "pinyin": "Mǎ kè，nǐ zhōng wén shuō dé zhēn bú cuò。",
+      "words": [
+        {"ch": "马克", "en": "Mark", "pi": "Mǎ kè"},
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "中文", "en": "Chinese language", "pi": "zhōng wén"},
+        {"ch": "说", "en": "speak", "pi": "shuō"},
+        {"ch": "得", "en": "used after a verb to indicate degree", "pi": "dé"},
+        {"ch": "真", "en": "really", "pi": "zhēn"},
+        {"ch": "不错", "en": "good", "pi": "bú cuò"}
+      ]
+    },
+    {
+      "chinese": "谢谢，我有很多中国朋友，经常跟他们交流。",
+      "english": "Thank you, I have many Chinese friends and often communicate with them.",
+      "pinyin": "xiè xiè，wǒ yǒu hěn duō zhōng guó péng yǒu，jīng cháng gēn tā men jiāo liú。",
+      "words": [
+        {"ch": "谢谢", "en": "thank you", "pi": "xiè xiè"},
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "有", "en": "have", "pi": "yǒu"},
+        {"ch": "很多", "en": "many", "pi": "hěn duō"},
+        {"ch": "中国", "en": "Chinese", "pi": "zhōng guó"},
+        {"ch": "朋友", "en": "friends", "pi": "péng yǒu"},
+        {"ch": "经常", "en": "often", "pi": "jīng cháng"},
+        {"ch": "跟", "en": "with", "pi": "gēn"},
+        {"ch": "他们", "en": "them", "pi": "tā men"},
+        {"ch": "交流", "en": "communicate", "pi": "jiāo liú"}
+      ]
+    },
+    {
+      "chinese": "你以前教过英语吗？",
+      "english": "Have you taught English before?",
+      "pinyin": "nǐ yǐ qián jiāo guò yīng yǔ ma？",
+      "words": [
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "以前", "en": "before", "pi": "yǐ qián"},
+        {"ch": "教过", "en": "taught before", "pi": "jiāo guò"},
+        {"ch": "英语", "en": "English", "pi": "yīng yǔ"},
+        {"ch": "吗", "en": "question particle", "pi": "ma"}
+      ]
+    },
+    {
+      "chinese": "我教过很多中国小朋友 而且很喜欢做老师。",
+      "english": "I have taught many Chinese children, and I really enjoy being a teacher.",
+      "pinyin": "wǒ jiāo guò hěn duō zhōng guó xiǎo péng yǒu ér qiě hěn xǐ huān zuò lǎo shī。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "教过", "en": "taught before", "pi": "jiāo guò"},
+        {"ch": "很多", "en": "many", "pi": "hěn duō"},
+        {"ch": "中国", "en": "Chinese", "pi": "zhōng guó"},
+        {"ch": "小朋友", "en": "children", "pi": "xiǎo péng yǒu"},
+        {"ch": "而且", "en": "and", "pi": "ér qiě"},
+        {"ch": "很", "en": "very", "pi": "hěn"},
+        {"ch": "喜欢", "en": "like", "pi": "xǐ huān"},
+        {"ch": "做", "en": "be", "pi": "zuò"},
+        {"ch": "老师", "en": "teacher", "pi": "lǎo shī"}
+      ]
+    },
+    {
+      "chinese": "为什么你觉得自己适合做 老师？",
+      "english": "Why do you think you are suitable to be a teacher?",
+      "pinyin": "wèi shén me nǐ jué dé zì jǐ shì hé zuò lǎo shī？",
+      "words": [
+        {"ch": "为什么", "en": "why", "pi": "wèi shén me"},
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "觉得", "en": "think", "pi": "jué dé"},
+        {"ch": "自己", "en": "self", "pi": "zì jǐ"},
+        {"ch": "适合", "en": "suitable", "pi": "shì hé"},
+        {"ch": "做", "en": "be", "pi": "zuò"},
+        {"ch": "老师", "en": "teacher", "pi": "lǎo shī"}
+      ]
+    },
+    {
+      "chinese": "我的发音很标准，说得很慢 小朋友都能听懂。",
+      "english": "My pronunciation is very standard, I speak slowly, and children can all understand.",
+      "pinyin": "wǒ de fā yīn hěn biāo zhǔn，shuō dé hěn màn xiǎo péng yǒu dōu néng tīng dǒng。",
+      "words": [
+        {"ch": "我的", "en": "my", "pi": "wǒ de"},
+        {"ch": "发音", "en": "pronunciation", "pi": "fā yīn"},
+        {"ch": "很", "en": "very", "pi": "hěn"},
+        {"ch": "标准", "en": "standard", "pi": "biāo zhǔn"},
+        {"ch": "说", "en": "speak", "pi": "shuō"},
+        {"ch": "得", "en": "used after a verb to indicate degree", "pi": "dé"},
+        {"ch": "很", "en": "very", "pi": "hěn"},
+        {"ch": "慢", "en": "slow", "pi": "màn"},
+        {"ch": "小朋友", "en": "children", "pi": "xiǎo péng yǒu"},
+        {"ch": "都", "en": "all", "pi": "dōu"},
+        {"ch": "能", "en": "can", "pi": "néng"},
+        {"ch": "听懂", "en": "understand", "pi": "tīng dǒng"}
+      ]
+    },
+    {
+      "chinese": "如果小朋友没听懂 你会怎么办呢？",
+      "english": "If children don't understand, what will you do?",
+      "pinyin": "rú guǒ xiǎo péng yǒu méi tīng dǒng nǐ huì zěn me bàn ne？",
+      "words": [
+        {"ch": "如果", "en": "if", "pi": "rú guǒ"},
+        {"ch": "小朋友", "en": "children", "pi": "xiǎo péng yǒu"},
+        {"ch": "没", "en": "don't", "pi": "méi"},
+        {"ch": "听懂", "en": "understand", "pi": "tīng dǒng"},
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "会", "en": "will", "pi": "huì"},
+        {"ch": "怎么", "en": "how", "pi": "zěn me"},
+        {"ch": "办", "en": "do", "pi": "bàn"},
+        {"ch": "呢", "en": "modal particle indicating suggestion", "pi": "ne"}
+      ]
+    },
+    {
+      "chinese": "我会再讲一遍，或者换一个方法。",
+      "english": "I will explain again, or try a different method.",
+      "pinyin": "wǒ huì zài jiǎng yī biàn，huò zhě huàn yī gè fāng fǎ。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "会", "en": "will", "pi": "huì"},
+        {"ch": "再", "en": "again", "pi": "zài"},
+        {"ch": "讲", "en": "explain", "pi": "jiǎng"},
+        {"ch": "一遍", "en": "once", "pi": "yī biàn"},
+        {"ch": "或者", "en": "or", "pi": "huò zhě"},
+        {"ch": "换", "en": "change", "pi": "huàn"},
+        {"ch": "一个", "en": "a", "pi": "yī gè"},
+        {"ch": "方法", "en": "method", "pi": "fāng fǎ"}
+      ]
+    },
+    {
+      "chinese": "你还有别的优点吗？",
+      "english": "Do you have any other merits?",
+      "pinyin": "nǐ hái yǒu bié de yōu diǎn ma？",
+      "words": [
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "还", "en": "still", "pi": "hái"},
+        {"ch": "有", "en": "have", "pi": "yǒu"},
+        {"ch": "别的", "en": "other", "pi": "bié de"},
+        {"ch": "优点", "en": "merits", "pi": "yōu diǎn"},
+        {"ch": "吗", "en": "question particle", "pi": "ma"}
+      ]
+    },
+    {
+      "chinese": "我很幽默。",
+      "english": "I am very humorous.",
+      "pinyin": "wǒ hěn yōu mò。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "很", "en": "very", "pi": "hěn"},
+        {"ch": "幽默", "en": "humorous", "pi": "yōu mò"}
+      ]
+    },
+    {
+      "chinese": "同学们都喜欢我。",
+      "english": "All my classmates like me.",
+      "pinyin": "tóng xué men dōu xǐ huān wǒ。",
+      "words": [
+        {"ch": "同学们", "en": "classmates", "pi": "tóng xué men"},
+        {"ch": "都", "en": "all", "pi": "dōu"},
+        {"ch": "喜欢", "en": "like", "pi": "xǐ huān"},
+        {"ch": "我", "en": "me", "pi": "wǒ"}
+      ]
+    },
+    {
+      "chinese": "说说你打算怎么教。",
+      "english": "Tell me how you plan to teach.",
+      "pinyin": "shuō shuō nǐ dǎ suàn zěn me jiāo。",
+      "words": [
+        {"ch": "说", "en": "tell", "pi": "shuō"},
+        {"ch": "说", "en": "tell", "pi": "shuō"},
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "打算", "en": "plan", "pi": "dǎ suàn"},
+        {"ch": "怎么", "en": "how", "pi": "zěn me"},
+        {"ch": "教", "en": "teach", "pi": "jiāo"}
+      ]
+    },
+    {
+      "chinese": "我会给同学们讲英文故事。",
+      "english": "I will tell English stories to my classmates.",
+      "pinyin": "wǒ huì gěi tóng xué men jiǎng yīng wén gù shì。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "会", "en": "will", "pi": "huì"},
+        {"ch": "给", "en": "give", "pi": "gěi"},
+        {"ch": "同学们", "en": "classmates", "pi": "tóng xué men"},
+        {"ch": "讲", "en": "tell", "pi": "jiǎng"},
+        {"ch": "英文", "en": "English", "pi": "yīng wén"},
+        {"ch": "故事", "en": "stories", "pi": "gù shì"}
+      ]
+    },
+    {
+      "chinese": "英文故事能听懂 英语就能学好。",
+      "english": "Understanding English stories can help learn English well.",
+      "pinyin": "yīng wén gù shì néng tīng dǒng，yīng yǔ jiù néng xué hǎo。",
+      "words": [
+        {"ch": "英文", "en": "English", "pi": "yīng wén"},
+        {"ch": "故事", "en": "stories", "pi": "gù shì"},
+        {"ch": "能", "en": "can", "pi": "néng"},
+        {"ch": "听懂", "en": "understand", "pi": "tīng dǒng"},
+        {"ch": "英语", "en": "English", "pi": "yīng yǔ"},
+        {"ch": "就", "en": "then", "pi": "jiù"},
+        {"ch": "能", "en": "can", "pi": "néng"},
+        {"ch": "学好", "en": "learn well", "pi": "xué hǎo"}
+      ]
+    },
+    {
+      "chinese": "说得好。 如果明天就上课，你能来吗？",
+      "english": "Well said. If we have class tomorrow, can you come?",
+      "pinyin": "shuō dé hǎo。 rú guǒ míng tiān jiù shàng kè，nǐ néng lái ma？",
+      "words": [
+        {"ch": "说", "en": "say", "pi": "shuō"},
+        {"ch": "得", "en": "well", "pi": "dé"},
+        {"ch": "好", "en": "good", "pi": "hǎo"},
+        {"ch": "如果", "en": "if", "pi": "rú guǒ"},
+        {"ch": "明天", "en": "tomorrow", "pi": "míng tiān"},
+        {"ch": "就", "en": "then", "pi": "jiù"},
+        {"ch": "上课", "en": "have class", "pi": "shàng kè"},
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "能", "en": "can", "pi": "néng"},
+        {"ch": "来", "en": "come", "pi": "lái"},
+        {"ch": "吗", "en": "question particle", "pi": "ma"}
+      ]
+    }
+  ]
+}

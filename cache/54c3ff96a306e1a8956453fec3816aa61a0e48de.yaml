@@ -1,0 +1,14 @@
+{
+  "chinese": "只有少数人去过那个地方。",
+  "english": "Only a few people have been to that place.",
+  "pinyin": "zhǐ yǒu shǎo shù rén qù guo nà ge dì fāng。",
+  "words": [
+    {"ch": "只", "en": "only", "pi": "zhǐ"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "少数", "en": "few", "pi": "shǎo shù"},
+    {"ch": "人", "en": "people", "pi": "rén"},
+    {"ch": "去过", "en": "have been to", "pi": "qù guo"},
+    {"ch": "那个", "en": "that", "pi": "nà ge"},
+    {"ch": "地方", "en": "place", "pi": "dì fāng"}
+  ]
+}

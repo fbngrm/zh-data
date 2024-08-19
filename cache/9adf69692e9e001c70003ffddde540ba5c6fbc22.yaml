@@ -1,0 +1,78 @@
+{
+  "sentences": [
+    {
+      "chinese": "对我来说，书法不容易。",
+      "english": "For me, calligraphy is not easy.",
+      "pinyin": "duì wǒ lái shuō, shū fǎ bù róng yì。",
+      "words": [
+        {
+          "ch": "对",
+          "en": "For",
+          "pi": "duì"
+        },
+        {
+          "ch": "我",
+          "en": "me",
+          "pi": "wǒ"
+        },
+        {
+          "ch": "来说",
+          "en": "come to say",
+          "pi": "lái shuō"
+        },
+        {
+          "ch": "书法",
+          "en": "calligraphy",
+          "pi": "shū fǎ"
+        },
+        {
+          "ch": "不",
+          "en": "not",
+          "pi": "bù"
+        },
+        {
+          "ch": "容易",
+          "en": "easy",
+          "pi": "róng yì"
+        }
+      ]
+    },
+    {
+      "chinese": "对你来说，书法容易吗？",
+      "english": "For you, is calligraphy easy?",
+      "pinyin": "duì nǐ lái shuō, shū fǎ róng yì ma？",
+      "words": [
+        {
+          "ch": "对",
+          "en": "For",
+          "pi": "duì"
+        },
+        {
+          "ch": "你",
+          "en": "you",
+          "pi": "nǐ"
+        },
+        {
+          "ch": "来说",
+          "en": "come to say",
+          "pi": "lái shuō"
+        },
+        {
+          "ch": "书法",
+          "en": "calligraphy",
+          "pi": "shū fǎ"
+        },
+        {
+          "ch": "容易",
+          "en": "easy",
+          "pi": "róng yì"
+        },
+        {
+          "ch": "吗",
+          "en": "?",
+          "pi": "ma"
+        }
+      ]
+    }
+  ]
+}

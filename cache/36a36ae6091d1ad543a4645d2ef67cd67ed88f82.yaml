@@ -1,0 +1,52 @@
+{
+  "chinese": "中文书能看懂，中文就学好了。",
+  "english": "If you can understand Chinese books, then you will learn Chinese well.",
+  "pinyin": "zhōng wén shū néng kàn dǒng，zhōng wén jiù xué hǎo le。",
+  "words": [
+    {
+      "ch": "中文",
+      "en": "Chinese",
+      "pi": "zhōng wén"
+    },
+    {
+      "ch": "书",
+      "en": "book",
+      "pi": "shū"
+    },
+    {
+      "ch": "能",
+      "en": "can",
+      "pi": "néng"
+    },
+    {
+      "ch": "看",
+      "en": "to watch/to see",
+      "pi": "kàn"
+    },
+    {
+      "ch": "懂",
+      "en": "to understand",
+      "pi": "dǒng"
+    },
+    {
+      "ch": "就",
+      "en": "then",
+      "pi": "jiù"
+    },
+    {
+      "ch": "学",
+      "en": "to learn",
+      "pi": "xué"
+    },
+    {
+      "ch": "好",
+      "en": "well",
+      "pi": "hǎo"
+    },
+    {
+      "ch": "了",
+      "en": "indicating a completed or finished action",
+      "pi": "le"
+    }
+  ]
+}

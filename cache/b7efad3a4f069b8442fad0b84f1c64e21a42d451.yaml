@@ -1,0 +1,22 @@
+{
+  "chinese": "王老师的电话号码是15201708508, 你记住了吗？我已经记住了，谢谢你",
+  "english": "Do you remember teacher Wang's phone number: 15201708508? I already remember it, thank you.",
+  "pinyin": "Wáng lǎoshī de diànhuà hàomǎ shì yī wǔ èr líng yī qī líng bā wǔ líng líng bā, nǐ jìzhùle ma? Wǒ yǐjīng jìzhùle, xièxiè nǐ",
+  "words": [
+    {"ch": "王", "en": "Wang", "pi": "Wáng"},
+    {"ch": "老师", "en": "teacher", "pi": "lǎoshī"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "电话", "en": "phone", "pi": "diànhuà"},
+    {"ch": "号码", "en": "number", "pi": "hàomǎ"},
+    {"ch": "是", "en": "is", "pi": "shì"},
+    {"ch": "15201708508", "en": "15201708508", "pi": "yī wǔ èr líng yī qī líng bā wǔ líng líng bā"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "记住", "en": "remember", "pi": "jìzhù"},
+    {"ch": "了", "en": "already", "pi": "le"},
+    {"ch": "吗", "en": "", "pi": "ma"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "已经", "en": "already", "pi": "yǐjīng"},
+    {"ch": "谢谢", "en": "thank you", "pi": "xièxiè"},
+    {"ch": "你", "en": "you", "pi": "nǐ"}
+  ]
+}

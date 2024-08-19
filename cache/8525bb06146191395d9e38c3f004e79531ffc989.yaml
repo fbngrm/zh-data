@@ -1,0 +1,15 @@
+{
+  "chinese": "他们最多可以在德国住3个月",
+  "english": "They can stay in Germany for up to 3 months",
+  "pinyin": "tāmen zuì duō kěyǐ zài déguó zhù sān gè yuè",
+  "words": [
+    {"ch": "他们", "en": "They", "pi": "tāmen"},
+    {"ch": "最多", "en": "up to", "pi": "zuì duō"},
+    {"ch": "可以", "en": "can", "pi": "kěyǐ"},
+    {"ch": "在", "en": "in", "pi": "zài"},
+    {"ch": "德国", "en": "Germany", "pi": "déguó"},
+    {"ch": "住", "en": "stay", "pi": "zhù"},
+    {"ch": "3", "en": "3", "pi": "sān"},
+    {"ch": "个月", "en": "months", "pi": "gè yuè"}
+  ]
+}

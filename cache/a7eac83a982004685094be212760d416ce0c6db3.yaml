@@ -1,0 +1,134 @@
+{
+  "sentences": [
+    {
+      "chinese": "我一直在学习中文。",
+      "english": "I have been studying Chinese all along.",
+      "pinyin": "wǒ yīzhí zài xuéxí zhōngwén。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "一直", "en": "all along", "pi": "yīzhí"},
+        {"ch": "在", "en": "at", "pi": "zài"},
+        {"ch": "学习", "en": "study", "pi": "xuéxí"},
+        {"ch": "中文", "en": "Chinese", "pi": "zhōngwén"}
+      ]
+    },
+    {
+      "chinese": "昨天晚上我一直在做作业。",
+      "english": "I was doing homework all evening yesterday.",
+      "pinyin": "zuótiān wǎnshàng wǒ yīzhí zài zuò zuòyè。",
+      "words": [
+        {"ch": "昨天", "en": "yesterday", "pi": "zuótiān"},
+        {"ch": "晚上", "en": "evening", "pi": "wǎnshàng"},
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "一直", "en": "all along", "pi": "yīzhí"},
+        {"ch": "在", "en": "at", "pi": "zài"},
+        {"ch": "做", "en": "do", "pi": "zuò"},
+        {"ch": "作业", "en": "homework", "pi": "zuòyè"}
+      ]
+    },
+    {
+      "chinese": "老板一直很忙。",
+      "english": "The boss has been very busy all along.",
+      "pinyin": "lǎobǎn yīzhí hěn máng。",
+      "words": [
+        {"ch": "老板", "en": "boss", "pi": "lǎobǎn"},
+        {"ch": "一直", "en": "all along", "pi": "yīzhí"},
+        {"ch": "很", "en": "very", "pi": "hěn"},
+        {"ch": "忙", "en": "busy", "pi": "máng"}
+      ]
+    },
+    {
+      "chinese": "我一直很喜欢你。",
+      "english": "I have always liked you.",
+      "pinyin": "wǒ yīzhí hěn xǐhuān nǐ。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "一直", "en": "always", "pi": "yīzhí"},
+        {"ch": "很", "en": "very", "pi": "hěn"},
+        {"ch": "喜欢", "en": "like", "pi": "xǐhuān"},
+        {"ch": "你", "en": "you", "pi": "nǐ"}
+      ]
+    },
+    {
+      "chinese": "爸爸一直都不抽烟。",
+      "english": "Dad never smokes.",
+      "pinyin": "bàba yīzhí dōu bù chōuyān。",
+      "words": [
+        {"ch": "爸爸", "en": "dad", "pi": "bàba"},
+        {"ch": "一直", "en": "always", "pi": "yīzhí"},
+        {"ch": "都", "en": "never", "pi": "dōu"},
+        {"ch": "不", "en": "not", "pi": "bù"},
+        {"ch": "抽烟", "en": "smoke", "pi": "chōuyān"}
+      ]
+    },
+    {
+      "chinese": "我男朋友一直在中国教英文。",
+      "english": "My boyfriend has been teaching English in China all along.",
+      "pinyin": "wǒ nán péngyǒu yīzhí zài zhōngguó jiāo yīngwén。",
+      "words": [
+        {"ch": "我", "en": "my", "pi": "wǒ"},
+        {"ch": "男朋友", "en": "boyfriend", "pi": "nán péngyǒu"},
+        {"ch": "一直", "en": "all along", "pi": "yīzhí"},
+        {"ch": "在", "en": "in", "pi": "zài"},
+        {"ch": "中国", "en": "China", "pi": "zhōngguó"},
+        {"ch": "教", "en": "teach", "pi": "jiāo"},
+        {"ch": "英文", "en": "English", "pi": "yīngwén"}
+      ]
+    },
+    {
+      "chinese": "18岁以后，他一直一个人住。",
+      "english": "After turning 18, he has been living alone all along.",
+      "pinyin": "shíbā suì yǐhòu, tā yīzhí yīgèrén zhù。",
+      "words": [
+        {"ch": "18岁", "en": "18 years old", "pi": "shíbā suì"},
+        {"ch": "以后", "en": "after", "pi": "yǐhòu"},
+        {"ch": "他", "en": "he", "pi": "tā"},
+        {"ch": "一直", "en": "all along", "pi": "yīzhí"},
+        {"ch": "一个", "en": "one", "pi": "yīgè"},
+        {"ch": "人", "en": "person", "pi": "rén"},
+        {"ch": "住", "en": "live", "pi": "zhù"}
+      ]
+    },
+    {
+      "chinese": "你一直在这家公司工作吗？",
+      "english": "Have you been working in this company all along?",
+      "pinyin": "nǐ yīzhí zài zhè jiā gōngsī gōngzuò ma？",
+      "words": [
+        {"ch": "你", "en": "you", "pi": "nǐ"},
+        {"ch": "一直", "en": "all along", "pi": "yīzhí"},
+        {"ch": "在", "en": "at", "pi": "zài"},
+        {"ch": "这", "en": "this", "pi": "zhè"},
+        {"ch": "家", "en": "company", "pi": "jiā"},
+        {"ch": "公司", "en": "company", "pi": "gōngsī"},
+        {"ch": "工作", "en": "work", "pi": "gōngzuò"},
+        {"ch": "吗", "en": "question marker", "pi": "ma？"}
+      ]
+    },
+    {
+      "chinese": "你们一直住在一起吗？",
+      "english": "Have you been living together all along?",
+      "pinyin": "nǐmen yīzhí zhù zài yīqǐ ma？",
+      "words": [
+        {"ch": "你们", "en": "you", "pi": "nǐmen"},
+        {"ch": "一直", "en": "all along", "pi": "yīzhí"},
+        {"ch": "住", "en": "live", "pi": "zhù"},
+        {"ch": "在", "en": "together", "pi": "zài"},
+        {"ch": "一起", "en": "together", "pi": "yīqǐ"},
+        {"ch": "吗", "en": "question marker", "pi": "ma？"}
+      ]
+    },
+    {
+      "chinese": "北京的空气一直很不好。",
+      "english": "The air quality in Beijing has been very bad all along.",
+      "pinyin": "běijīng de kōngqì yīzhí hěn bù hǎo。",
+      "words": [
+        {"ch": "北京", "en": "Beijing", "pi": "běijīng"},
+        {"ch": "的", "en": "of", "pi": "de"},
+        {"ch": "空气", "en": "air quality", "pi": "kōngqì"},
+        {"ch": "一直", "en": "all along", "pi": "yīzhí"},
+        {"ch": "很", "en": "very", "pi": "hěn"},
+        {"ch": "不好", "en": "bad", "pi": "bù hǎo"}
+      ]
+    }
+  ]
+}

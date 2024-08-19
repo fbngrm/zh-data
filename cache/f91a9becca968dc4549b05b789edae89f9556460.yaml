@@ -1,0 +1,42 @@
+{
+  "chinese": "家里有一个（位）医生很好; 家里有一名医生很好",
+  "english": "There is a very good doctor at home",
+  "pinyin": "jiā lǐ yǒu yī gè wèi yī shēng hěn hǎo; jiā lǐ yǒu yī míng yī shēng hěn hǎo",
+  "words": [
+    {
+      "ch": "家里",
+      "en": "home",
+      "pi": "jiā lǐ"
+    },
+    {
+      "ch": "有",
+      "en": "have",
+      "pi": "yǒu"
+    },
+    {
+      "ch": "一个",
+      "en": "a",
+      "pi": "yī gè"
+    },
+    {
+      "ch": "（位）",
+      "en": "",
+      "pi": "wèi"
+    },
+    {
+      "ch": "医生",
+      "en": "doctor",
+      "pi": "yī shēng"
+    },
+    {
+      "ch": "很好",
+      "en": "very good",
+      "pi": "hěn hǎo"
+    },
+    {
+      "ch": "名",
+      "en": "",
+      "pi": "míng"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "sentences": [
+    {
+      "chinese": "我目前一边学习一边工作。",
+      "english": "I am currently studying and working at the same time.",
+      "pinyin": "wǒ mùqián yībiān xuéxí yībiān gōngzuò。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "目前", "en": "currently", "pi": "mùqián"},
+        {"ch": "一边", "en": "simultaneously", "pi": "yībiān"},
+        {"ch": "学习", "en": "study", "pi": "xuéxí"},
+        {"ch": "一边", "en": "simultaneously", "pi": "yībiān"},
+        {"ch": "工作", "en": "work", "pi": "gōngzuò"}
+      ]
+    },
+    {
+      "chinese": "我在幼儿园工作。",
+      "english": "I work at a kindergarten.",
+      "pinyin": "wǒ zài yòu'éryuán gōngzuò。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "在", "en": "at", "pi": "zài"},
+        {"ch": "幼儿园", "en": "kindergarten", "pi": "yòu'éryuán"},
+        {"ch": "工作", "en": "work", "pi": "gōngzuò"}
+      ]
+    }
+  ]
+}

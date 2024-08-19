@@ -1,0 +1,19 @@
+{
+  "chinese": "现在外面阴凉的地方很舒服 你可以出去走一走",
+  "english": "It's very comfortable in the cool place outside now. You can go out for a walk.",
+  "pinyin": "xiàn​zài wài​miàn yīn​liáng de dì​fang hěn shū​fu nǐ kě​yǐ chū qù zǒu yī zǒu",
+  "words": [
+    {"ch": "现在", "en": "now", "pi": "xiàn​zài"},
+    {"ch": "外面", "en": "outside", "pi": "wài​miàn"},
+    {"ch": "阴凉", "en": "cool", "pi": "yīn​liáng"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "地方", "en": "place", "pi": "dì​fang"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "舒服", "en": "comfortable", "pi": "shū​fu"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "可以", "en": "can", "pi": "kě​yǐ"},
+    {"ch": "出去", "en": "go out", "pi": "chū qù"},
+    {"ch": "走", "en": "walk", "pi": "zǒu"},
+    {"ch": "一", "en": "one", "pi": "yī"}
+  ]
+}

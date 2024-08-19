@@ -1,0 +1,18 @@
+{
+  "chinese": "当我是孩子时候，我也参加足球队。",
+  "english": "When I was a child, I also joined the soccer team.",
+  "pinyin": "dāng wǒ shì hái zi shí hou, wǒ yě cān jiā zú qiú duì。",
+  "words": [
+    {"ch": "当", "en": "when", "pi": "dāng"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "是", "en": "am", "pi": "shì"},
+    {"ch": "孩子", "en": "child", "pi": "hái zi"},
+    {"ch": "时候", "en": "time", "pi": "shí hou"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "也", "en": "also", "pi": "yě"},
+    {"ch": "参加", "en": "join", "pi": "cān jiā"},
+    {"ch": "足球队", "en": "soccer team", "pi": "zú qiú duì"},
+    {"ch": "。", "en": ".", "pi": ""}
+  ]
+}

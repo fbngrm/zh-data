@@ -1,0 +1,13 @@
+{
+  "chinese": "这个电影一点也不好看。",
+  "english": "This movie is not good at all.",
+  "pinyin": "Zhège diànyǐng yīdiǎn yě bù hǎokàn.",
+  "words": [
+    {"ch": "这个", "en": "this", "pi": "zhège"},
+    {"ch": "电影", "en": "movie", "pi": "diànyǐng"},
+    {"ch": "一点", "en": "a little", "pi": "yīdiǎn"},
+    {"ch": "也", "en": "also", "pi": "yě"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "好看", "en": "good-looking", "pi": "hǎokàn"}
+  ]
+}

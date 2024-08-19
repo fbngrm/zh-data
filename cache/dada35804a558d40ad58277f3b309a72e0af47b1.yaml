@@ -1,0 +1,52 @@
+{
+	"chinese": "即使她写错了汉字，我也不会生气。",
+	"english": "Even if she writes Chinese characters wrong, I won't get angry.",
+	"pinyin": "jí shǐ tā xiě cuò le hànzì, wǒ yě bù huì shēngqì。",
+	"words": [
+		{
+			"ch": "即使",
+			"en": "Even if",
+			"pi": "jí shǐ"
+		},
+		{
+			"ch": "她",
+			"en": "she",
+			"pi": "tā"
+		},
+		{
+			"ch": "写错",
+			"en": "writes wrong",
+			"pi": "xiě cuò"
+		},
+		{
+			"ch": "了",
+			"en": "particle indicating completed action",
+			"pi": "le"
+		},
+		{
+			"ch": "汉字",
+			"en": "Chinese characters",
+			"pi": "hànzì"
+		},
+		{
+			"ch": "我",
+			"en": "I",
+			"pi": "wǒ"
+		},
+		{
+			"ch": "也",
+			"en": "also",
+			"pi": "yě"
+		},
+		{
+			"ch": "不会",
+			"en": "not will",
+			"pi": "bù huì"
+		},
+		{
+			"ch": "生气",
+			"en": "get angry",
+			"pi": "shēngqì"
+		}
+	]
+}

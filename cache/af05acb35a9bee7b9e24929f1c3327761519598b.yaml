@@ -1,0 +1,13 @@
+{
+  "chinese": "汉语不难，我能学会",
+  "english": "Chinese is not difficult, I can learn",
+  "pinyin": "Hànyǔ bù nán, wǒ néng xuéhuì",
+  "words": [
+    {"ch": "汉语", "en": "Chinese", "pi": "Hàn​yǔ"},
+    {"ch": "不", "en": "not", "pi": "bù"},
+    {"ch": "难", "en": "difficult", "pi": "nán"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "能", "en": "can", "pi": "néng"},
+    {"ch": "学会", "en": "learn", "pi": "xuéhuì"}
+  ]
+}

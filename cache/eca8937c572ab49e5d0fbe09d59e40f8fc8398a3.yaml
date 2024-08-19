@@ -1,0 +1,25 @@
+{
+  "chinese": "今天的汉语课你听懂了吗？ 这个句子没听懂，您能再说一遍吗？",
+  "english": "Did you understand today's Chinese lesson? I didn't understand that sentence, could you say it again?",
+  "pinyin": "Jīn tiān de hànyǔ kè nǐ tīng dǒng le ma? Zhège jùzi méi tīng dǒng, nín néng zài shuō yī biàn ma?",
+  "words": [
+    {"ch": "今天", "en": "today", "pi": "jīn tiān"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "汉语", "en": "Chinese", "pi": "hàn yǔ"},
+    {"ch": "课", "en": "lesson", "pi": "kè"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "听", "en": "to listen", "pi": "tīng"},
+    {"ch": "懂", "en": "to understand", "pi": "dǒng"},
+    {"ch": "了", "en": "particle indicating completed action", "pi": "le"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"},
+    {"ch": "这个", "en": "this", "pi": "zhè ge"},
+    {"ch": "句子", "en": "sentence", "pi": "jù zi"},
+    {"ch": "没", "en": "not", "pi": "méi"},
+    {"ch": "您", "en": "you (polite)", "pi": "nín"},
+    {"ch": "能", "en": "can, to be able to", "pi": "néng"},
+    {"ch": "再", "en": "again", "pi": "zài"},
+    {"ch": "说", "en": "to say", "pi": "shuō"},
+    {"ch": "一", "en": "one", "pi": "yī"},
+    {"ch": "遍", "en": "time (measure word for actions)", "pi": "biàn"}
+  ]
+}

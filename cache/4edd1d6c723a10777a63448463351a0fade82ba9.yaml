@@ -1,0 +1,16 @@
+{
+  "chinese": "电影太好看了，我会再看一遍。",
+  "english": "The movie is so good, I will watch it again.",
+  "pinyin": "diàn yǐng tài hǎo kàn le，wǒ huì zài kàn yī biàn。",
+  "words": [
+    {"ch": "电影", "en": "movie", "pi": "diàn yǐng"},
+    {"ch": "太", "en": "so", "pi": "tài"},
+    {"ch": "好看", "en": "good", "pi": "hǎo kàn"},
+    {"ch": "了", "en": "(particle indicating change)", "pi": "le"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "再", "en": "again", "pi": "zài"},
+    {"ch": "看", "en": "to watch", "pi": "kàn"},
+    {"ch": "一遍", "en": "one more time", "pi": "yī biàn"}
+  ]
+}

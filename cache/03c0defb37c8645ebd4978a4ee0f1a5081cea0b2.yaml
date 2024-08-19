@@ -1,0 +1,27 @@
+{
+  "chinese": "衣服洗干净了。",
+  "english": "The clothes have been cleaned.",
+  "pinyin": "yīfú xǐ gānjìn le。",
+  "words": [
+    {
+      "ch": "衣服",
+      "en": "clothes",
+      "pi": "yīfú"
+    },
+    {
+      "ch": "洗",
+      "en": "to wash",
+      "pi": "xǐ"
+    },
+    {
+      "ch": "干净",
+      "en": "clean",
+      "pi": "gānjìn"
+    },
+    {
+      "ch": "了",
+      "en": "completed action marker",
+      "pi": "le"
+    }
+  ]
+}

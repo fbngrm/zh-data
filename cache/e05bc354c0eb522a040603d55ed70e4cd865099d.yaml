@@ -1,0 +1,19 @@
+{
+  "chinese": "你的汉语作业写完了吗？我的作业还没写完",
+  "english": "Have you finished your Chinese homework? I haven't finished mine yet.",
+  "pinyin": "Nǐ de hànyǔ zuòyè xiě wán le ma? Wǒ de zuòyè hái méi xiě wán",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "Nǐ"},
+    {"ch": "的", "en": "your", "pi": "de"},
+    {"ch": "汉语", "en": "Chinese", "pi": "hànyǔ"},
+    {"ch": "作业", "en": "homework", "pi": "zuòyè"},
+    {"ch": "写完", "en": "finished writing", "pi": "xiě wán"},
+    {"ch": "了", "en": "(indicating completion)", "pi": "le"},
+    {"ch": "吗", "en": "(question marker)", "pi": "ma"},
+    {"ch": "？", "en": "(question mark)", "pi": ""},
+    {"ch": "我的", "en": "my", "pi": "Wǒ de"},
+    {"ch": "还", "en": "still", "pi": "hái"},
+    {"ch": "没", "en": "not yet", "pi": "méi"},
+    {"ch": "写完", "en": "finished writing", "pi": "xiě wán"}
+  ]
+}

@@ -1,0 +1,17 @@
+{
+	"chinese": "如果明天不下雨，我会跟马克一起打篮球。",
+	"english": "If it doesn't rain tomorrow, I will play basketball with Mark.",
+	"pinyin": "Rúguǒ míngtiān bù xià yǔ, wǒ huì gēn Mǎkè yīqǐ dǎ lánqiú。",
+	"words": [
+		{"ch": "如果", "en": "if", "pi": "rúguǒ"},
+		{"ch": "明天", "en": "tomorrow", "pi": "míngtiān"},
+		{"ch": "不", "en": "not", "pi": "bù"},
+		{"ch": "下雨", "en": "rain", "pi": "xià yǔ"},
+		{"ch": "我", "en": "I", "pi": "wǒ"},
+		{"ch": "会", "en": "will", "pi": "huì"},
+		{"ch": "跟", "en": "with", "pi": "gēn"},
+		{"ch": "马克", "en": "Mark", "pi": "Mǎkè"},
+		{"ch": "一起", "en": "together", "pi": "yīqǐ"},
+		{"ch": "打篮球", "en": "play basketball", "pi": "dǎ lánqiú"}
+	]
+}

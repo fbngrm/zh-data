@@ -1,0 +1,20 @@
+{
+  "chinese": "因为我想练习中文，我继续用中文给你发信息",
+  "english": "Because I want to practice Chinese, I will continue to send you messages in Chinese.",
+  "pinyin": "Yīnwèi wǒ xiǎng liànxí zhōngwén, wǒ jìxù yòng zhōngwén gěi nǐ fā xìnxī",
+  "words": [
+    {"ch": "因为", "en": "Because", "pi": "yīnwèi"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "想", "en": "want", "pi": "xiǎng"},
+    {"ch": "练习", "en": "practice", "pi": "liànxí"},
+    {"ch": "中文", "en": "Chinese", "pi": "zhōngwén"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "继续", "en": "continue", "pi": "jìxù"},
+    {"ch": "用", "en": "to use", "pi": "yòng"},
+    {"ch": "中文", "en": "Chinese", "pi": "zhōngwén"},
+    {"ch": "给", "en": "to", "pi": "gěi"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "发", "en": "send", "pi": "fā"},
+    {"ch": "信息", "en": "message", "pi": "xìnxī"}
+  ]
+}

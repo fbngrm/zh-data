@@ -1,0 +1,15 @@
+{
+	"sentences": [
+		{
+			"chinese": "手术室，接待室，办公室，传达室，。。。",
+			"english": "Operating room, reception room, office, communication room, ...",
+			"pinyin": "shǒu shù shì，jiē dài shì，bàn gōng shì，chuán dá shì，。。。"
+		}
+	],
+	"words": [
+		{"ch": "手术室", "en": "operating room", "pi": "shǒu shù shì"},
+		{"ch": "接待室", "en": "reception room", "pi": "jiē dài shì"},
+		{"ch": "办公室", "en": "office", "pi": "bàn gōng shì"},
+		{"ch": "传达室", "en": "communication room", "pi": "chuán dá shì"}
+	]
+}

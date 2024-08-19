@@ -1,0 +1,15 @@
+{
+  "chinese": "如果明天上课，今天他不会参加聚会。",
+  "english": "If he has class tomorrow, he won't attend the party today.",
+  "pinyin": "Rúguǒ míngtiān shàngkè, jīntiān tā bù huì cānjiā jùhuì.",
+  "words": [
+    {"ch": "如果", "en": "if", "pi": "rúguǒ"},
+    {"ch": "明天", "en": "tomorrow", "pi": "míngtiān"},
+    {"ch": "上课", "en": "have class", "pi": "shàngkè"},
+    {"ch": "今天", "en": "today", "pi": "jīntiān"},
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "不会", "en": "won't", "pi": "bù huì"},
+    {"ch": "参加", "en": "attend", "pi": "cānjiā"},
+    {"ch": "聚会", "en": "party", "pi": "jùhuì"}
+  ]
+}

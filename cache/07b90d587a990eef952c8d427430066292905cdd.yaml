@@ -1,0 +1,14 @@
+{
+  "chinese": "下课以后，我会给你打电话。",
+  "english": "I will call you after class.",
+  "pinyin": "xià kè yǐhòu, wǒ huì gěi nǐ dǎ diànhuà。",
+  "words": [
+    {"ch": "下课", "en": "after class", "pi": "xià kè"},
+    {"ch": "以后", "en": "after", "pi": "yǐhòu"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "给", "en": "give", "pi": "gěi"},
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "打电话", "en": "call", "pi": "dǎ diànhuà"}
+  ]
+}

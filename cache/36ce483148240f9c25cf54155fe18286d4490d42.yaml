@@ -1,0 +1,61 @@
+{
+  "sentences": [
+    {
+      "chinese": "我的理想的工作是软件工程师。",
+      "english": "My ideal job is a software engineer.",
+      "pinyin": "wǒ de lǐxiǎng de gōngzuò shì ruǎnjiàn gōngchéngshī。",
+      "words": [
+        {"ch": "我的", "en": "my", "pi": "wǒ de"},
+        {"ch": "理想的", "en": "ideal", "pi": "lǐxiǎng de"},
+        {"ch": "工作", "en": "job", "pi": "gōngzuò"},
+        {"ch": "是", "en": "is", "pi": "shì"},
+        {"ch": "软件", "en": "software", "pi": "ruǎnjiàn"},
+        {"ch": "工程师", "en": "engineer", "pi": "gōngchéngshī"}
+      ]
+    },
+    {
+      "chinese": "我希望能有自由的工作时间，可以在公司工作，也可以在家工作。",
+      "english": "I hope to have flexible working hours, being able to work at the office and also at home.",
+      "pinyin": "wǒ xīwàng néng yǒu zìyóu de gōngzuò shíjiān, kěyǐ zài gōngsī gōngzuò, yě kěyǐ zài jiā gōngzuò。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "希望", "en": "hope", "pi": "xīwàng"},
+        {"ch": "能", "en": "to be able to", "pi": "néng"},
+        {"ch": "有", "en": "to have", "pi": "yǒu"},
+        {"ch": "自由的", "en": "flexible", "pi": "zìyóu de"},
+        {"ch": "工作", "en": "work", "pi": "gōngzuò"},
+        {"ch": "时间", "en": "time", "pi": "shíjiān"},
+        {"ch": "可以", "en": "can", "pi": "kěyǐ"},
+        {"ch": "在", "en": "at", "pi": "zài"},
+        {"ch": "公司", "en": "office", "pi": "gōngsī"},
+        {"ch": "也", "en": "also", "pi": "yě"},
+        {"ch": "可以", "en": "can", "pi": "kěyǐ"},
+        {"ch": "在", "en": "at", "pi": "zài"},
+        {"ch": "家", "en": "home", "pi": "jiā"},
+        {"ch": "工作", "en": "work", "pi": "gōngzuò"}
+      ]
+    },
+    {
+      "chinese": "我想设计有趣的软件，帮助人们更好地学习外语和其他有用的知识。",
+      "english": "I want to design interesting software to help people learn foreign languages and other useful knowledge better.",
+      "pinyin": "wǒ xiǎng shèjì yǒuqù de ruǎnjiàn, bāngzhù rénmen gèng hǎo de xuéxí wàiyǔ hé qítā yǒuyòng de zhīshì。",
+      "words": [
+        {"ch": "我", "en": "I", "pi": "wǒ"},
+        {"ch": "想", "en": "to want", "pi": "xiǎng"},
+        {"ch": "设计", "en": "to design", "pi": "shèjì"},
+        {"ch": "有趣的", "en": "interesting", "pi": "yǒuqù de"},
+        {"ch": "软件", "en": "software", "pi": "ruǎnjiàn"},
+        {"ch": "帮助", "en": "to help", "pi": "bāngzhù"},
+        {"ch": "人们", "en": "people", "pi": "rénmen"},
+        {"ch": "更好", "en": "better", "pi": "gèng hǎo"},
+        {"ch": "地", "en": "to", "pi": "de"},
+        {"ch": "学习", "en": "to learn", "pi": "xuéxí"},
+        {"ch": "外语", "en": "foreign language", "pi": "wàiyǔ"},
+        {"ch": "和", "en": "and", "pi": "hé"},
+        {"ch": "其他", "en": "other", "pi": "qítā"},
+        {"ch": "有用的", "en": "useful", "pi": "yǒuyòng de"},
+        {"ch": "知识", "en": "knowledge", "pi": "zhīshì"}
+      ]
+    }
+  ]
+}

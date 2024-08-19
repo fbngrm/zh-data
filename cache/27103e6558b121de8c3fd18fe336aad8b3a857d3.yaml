@@ -1,0 +1,41 @@
+{
+  "sentences": [
+    {
+      "chinese": "听说你已经找到第二份兼职了，真棒！",
+      "english": "I heard you have already found a second part-time job, fantastic!",
+      "pinyin": "tīng shuō nǐ yǐjīng zhǎodào dì èr fèn jiānzhí le, zhēn bàng！",
+      "words": [
+        { "ch": "听说", "en": "I heard", "pi": "tīng shuō" },
+        { "ch": "你", "en": "you", "pi": "nǐ" },
+        { "ch": "已经", "en": "have already", "pi": "yǐjīng" },
+        { "ch": "找到", "en": "found", "pi": "zhǎodào" },
+        { "ch": "第二", "en": "second", "pi": "dì èr" },
+        { "ch": "份", "en": "part", "pi": "fèn" },
+        { "ch": "兼职", "en": "part-time job", "pi": "jiānzhí" },
+        { "ch": "了", "en": "already", "pi": "le" },
+        { "ch": "真棒", "en": "fantastic", "pi": "zhēn bàng" }
+      ]
+    },
+    {
+      "chinese": "虽然也是教英语，但是这份工作对我来说不太容易。",
+      "english": "Although it also involves teaching English, this job is not that easy for me.",
+      "pinyin": "suīrán yě shì jiāo yīngyǔ，dànshì zhè fèn gōngzuò duì wǒ lái shuō bú tài róngyì。",
+      "words": [
+        { "ch": "虽然", "en": "although", "pi": "suīrán" },
+        { "ch": "也", "en": "also", "pi": "yě" },
+        { "ch": "是", "en": "is", "pi": "shì" },
+        { "ch": "教", "en": "teaching", "pi": "jiāo" },
+        { "ch": "英语", "en": "English", "pi": "yīngyǔ" },
+        { "ch": "但是", "en": "but", "pi": "dànshì" },
+        { "ch": "这", "en": "this", "pi": "zhè" },
+        { "ch": "份", "en": "job", "pi": "fèn" },
+        { "ch": "工作", "en": "work", "pi": "gōngzuò" },
+        { "ch": "对", "en": "to", "pi": "duì" },
+        { "ch": "我", "en": "me", "pi": "wǒ" },
+        { "ch": "来说", "en": "for", "pi": "lái shuō" },
+        { "ch": "不太", "en": "not that", "pi": "bú tài" },
+        { "ch": "容易", "en": "easy", "pi": "róngyì" }
+      ]
+    }
+  ]
+}

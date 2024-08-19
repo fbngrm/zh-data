@@ -1,0 +1,27 @@
+{
+  "chinese": "看起来，听起来，闻起来，。。。",
+  "english": "It looks, sounds, smells, ...",
+  "pinyin": "kàn​qǐ​lái, tīng​qǐ​lái, wén​qǐ​lái, ...",
+  "words": [
+    {
+      "ch": "看起来",
+      "en": "It looks",
+      "pi": "kàn​qǐ​lái"
+    },
+    {
+      "ch": "听起来",
+      "en": "sounds",
+      "pi": "tīng​qǐ​lái"
+    },
+    {
+      "ch": "闻起来",
+      "en": "smells",
+      "pi": "wén​qǐ​lái"
+    },
+    {
+      "ch": "。。。",
+      "en": "...",
+      "pi": "..."
+    }
+  ]
+}
