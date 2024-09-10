@@ -1,0 +1,16 @@
+{
+  "chinese": "对于这个问题，我有不同的看法",
+  "english": "I have a different opinion on this issue",
+  "pinyin": "duì yú zhè ge wèn tí，wǒ yǒu bù tóng de kàn fǎ",
+  "words": [
+    {"ch": "对于", "en": "on", "pi": "duì yú"},
+    {"ch": "这个", "en": "this", "pi": "zhè ge"},
+    {"ch": "问题", "en": "issue", "pi": "wèn tí"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "不同", "en": "different", "pi": "bù tóng"},
+    {"ch": "的", "en": "",
+	"pi": ""},
+    {"ch": "看法", "en": "opinion", "pi": "kàn fǎ"}
+  ]
+}

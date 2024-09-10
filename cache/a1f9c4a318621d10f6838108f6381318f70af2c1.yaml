@@ -1,0 +1,14 @@
+{
+  "chinese": "知者不言，言者不知",
+  "english": "Those who know do not speak, those who speak do not know.",
+  "pinyin": "zhī zhě bù yán, yán zhě bù zhī",
+  "words": [
+    {"ch": "知者", "en": "Those who know", "pi": "zhī zhě"},
+    {"ch": "不", "en": "do not", "pi": "bù"},
+    {"ch": "言", "en": "speak", "pi": "yán"},
+    {"ch": "，", "en": ",", "pi": ""},
+    {"ch": "言者", "en": "those who speak", "pi": "yán zhě"},
+    {"ch": "不", "en": "do not", "pi": "bù"},
+    {"ch": "知", "en": "know", "pi": "zhī"}
+  ]
+}

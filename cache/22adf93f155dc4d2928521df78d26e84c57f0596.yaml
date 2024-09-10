@@ -1,0 +1,15 @@
+{
+  "chinese": "我们休息了一会儿，接着继续学习",
+  "english": "We took a break for a while and then continued studying",
+  "pinyin": "wǒmen xiūxi le yīhuǐer, jiēzhe jìxù xuéxí",
+  "words": [
+    {"ch": "我们", "en": "We", "pi": "wǒmen"},
+    {"ch": "休息", "en": "rest", "pi": "xiūxi"},
+    {"ch": "了", "en": "completed action marker", "pi": "le"},
+    {"ch": "一会儿", "en": "for a while", "pi": "yīhuǐer"},
+    {"ch": "，", "en": "comma", "pi": "，"},
+    {"ch": "接着", "en": "then", "pi": "jiēzhe"},
+    {"ch": "继续", "en": "continue", "pi": "jìxù"},
+    {"ch": "学习", "en": "study", "pi": "xuéxí"}
+  ]
+}

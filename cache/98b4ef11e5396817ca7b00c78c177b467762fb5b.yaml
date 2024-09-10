@@ -1,0 +1,15 @@
+{
+  "chinese": "我每天都会关注她的动态",
+  "english": "I will pay attention to her updates every day",
+  "pinyin": "wǒ měi tiān dōu huì guān zhù tā de dòng tài",
+  "words": [
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "每天", "en": "every day", "pi": "měi tiān"},
+    {"ch": "都", "en": "always", "pi": "dōu"},
+    {"ch": "会", "en": "will", "pi": "huì"},
+    {"ch": "关注", "en": "pay attention to", "pi": "guān zhù"},
+    {"ch": "她", "en": "her", "pi": "tā"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "动态", "en": "updates", "pi": "dòng tài"}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "大家都很关注这个新闻",
+  "english": "Everyone is paying close attention to this news",
+  "pinyin": "dà jiā dōu hěn guān zhù zhè ge xīn wén",
+  "words": [
+    {"ch": "大家", "en": "everyone", "pi": "dà jiā"},
+    {"ch": "都", "en": "all", "pi": "dōu"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "关注", "en": "pay attention to", "pi": "guān zhù"},
+    {"ch": "这个", "en": "this", "pi": "zhè ge"},
+    {"ch": "新闻", "en": "news", "pi": "xīn wén"}
+  ]
+}

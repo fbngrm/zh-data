@@ -1,0 +1,13 @@
+{
+  "chinese": "这个地区的特色菜很好吃",
+  "english": "The local specialty dishes in this area are very delicious",
+  "pinyin": "zhè gè dì qū de tè sè cài hěn hǎo chī",
+  "words": [
+    {"ch": "这个", "en": "this", "pi": "zhè gè"},
+    {"ch": "地区", "en": "area", "pi": "dì qū"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "特色菜", "en": "specialty dishes", "pi": "tè sè cài"},
+    {"ch": "很", "en": "very", "pi": "hěn"},
+    {"ch": "好吃", "en": "delicious", "pi": "hǎo chī"}
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chinese": "她的性格有很多独特的特点",
+  "english": "She has many unique characteristics",
+  "pinyin": "tā de xìng gé yǒu hěn duō dú tè de tè diǎn",
+  "words": [
+    {"ch": "她", "en": "she", "pi": "tā"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "性格", "en": "personality", "pi": "xìng gé"},
+    {"ch": "有", "en": "has", "pi": "yǒu"},
+    {"ch": "很多", "en": "many", "pi": "hěn duō"},
+    {"ch": "独特", "en": "unique", "pi": "dú tè"},
+    {"ch": "的", "en": "of", "pi": "de"},
+    {"ch": "特点", "en": "characteristics", "pi": "tè diǎn"}
+  ]
+}

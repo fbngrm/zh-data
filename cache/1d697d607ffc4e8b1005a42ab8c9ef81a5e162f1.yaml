@@ -1,0 +1,15 @@
+{
+  "chinese": "他在Instagram上关注了很多明星",
+  "english": "He follows many celebrities on Instagram",
+  "pinyin": "tā zài Instagram shàng guānzhùle hěnduō míngxīng",
+  "words": [
+    {"ch": "他", "en": "he", "pi": "tā"},
+    {"ch": "在", "en": "at/in/on", "pi": "zài"},
+    {"ch": "Instagram", "en": "Instagram", "pi": "Instagram"},
+    {"ch": "上", "en": "on", "pi": "shàng"},
+    {"ch": "关注", "en": "follow", "pi": "guānzhù"},
+    {"ch": "了", "en": "particle indicating completed action", "pi": "le"},
+    {"ch": "很多", "en": "many", "pi": "hěnduō"},
+    {"ch": "明星", "en": "celebrities", "pi": "míngxīng"}
+  ]
+}

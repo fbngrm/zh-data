@@ -1,0 +1,15 @@
+{
+  "chinese": "我们应该找一个有空调的地方",
+  "english": "We should find a place with air conditioning",
+  "pinyin": "wǒmen yīnggāi zhǎo yīgè yǒu kōngtiáo de dìfāng",
+  "words": [
+    {"ch": "我们", "en": "we", "pi": "wǒmen"},
+    {"ch": "应该", "en": "should", "pi": "yīnggāi"},
+    {"ch": "找", "en": "find", "pi": "zhǎo"},
+    {"ch": "一个", "en": "a", "pi": "yīgè"},
+    {"ch": "有", "en": "have", "pi": "yǒu"},
+    {"ch": "空调", "en": "air conditioning", "pi": "kōngtiáo"},
+    {"ch": "的", "en": "possessive particle", "pi": "de"},
+    {"ch": "地方", "en": "place", "pi": "dìfāng"}
+  ]
+}

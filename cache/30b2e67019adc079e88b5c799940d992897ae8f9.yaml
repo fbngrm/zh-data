@@ -1,0 +1,17 @@
+{
+  "chinese": "看到这张照片，我就想到小时候的事情",
+  "english": "When I see this photo, I think of my childhood",
+  "pinyin": "kàn dào zhè zhāng zhào piàn ，wǒ jiù xiǎng dào xiǎo shí hòu de shì qíng",
+  "words": [
+    {"ch": "看到", "en": "see", "pi": "kàn dào"},
+    {"ch": "这", "en": "this", "pi": "zhè"},
+    {"ch": "张", "en": "measure word for flat objects", "pi": "zhāng"},
+    {"ch": "照片", "en": "photo", "pi": "zhào piàn"},
+    {"ch": "我", "en": "I", "pi": "wǒ"},
+    {"ch": "就", "en": "then", "pi": "jiù"},
+    {"ch": "想到", "en": "think of", "pi": "xiǎng dào"},
+    {"ch": "小时候", "en": "childhood", "pi": "xiǎo shí hòu"},
+    {"ch": "的", "en": "possessive particle", "pi": "de"},
+    {"ch": "事情", "en": "thing", "pi": "shì qíng"}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chinese": "你关注我的微博了吗",
+  "english": "Have you followed my Weibo?",
+  "pinyin": "nǐ guānzhù wǒde wēibó le ma",
+  "words": [
+    {"ch": "你", "en": "you", "pi": "nǐ"},
+    {"ch": "关注", "en": "follow", "pi": "guānzhù"},
+    {"ch": "我的", "en": "my", "pi": "wǒde"},
+    {"ch": "微博", "en": "Weibo", "pi": "wēibó"},
+    {"ch": "了", "en": "have", "pi": "le"},
+    {"ch": "吗", "en": "question particle", "pi": "ma"}
+  ]
+}

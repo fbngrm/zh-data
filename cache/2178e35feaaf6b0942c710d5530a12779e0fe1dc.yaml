@@ -1,0 +1,14 @@
+{
+  "chinese": "他们正在讨论今天晚上的活动",
+  "english": "They are discussing tonight's activities",
+  "pinyin": "tāmen zhèngzài tǎolùn jīntiān wǎnshàng de huódòng",
+  "words": [
+    {"ch": "他们", "en": "They", "pi": "tāmen"},
+    {"ch": "正在", "en": "are", "pi": "zhèngzài"},
+    {"ch": "讨论", "en": "discussing", "pi": "tǎolùn"},
+    {"ch": "今天", "en": "today", "pi": "jīntiān"},
+    {"ch": "晚上", "en": "evening", "pi": "wǎnshàng"},
+    {"ch": "的", "en": "", "pi": "de"},
+    {"ch": "活动", "en": "activities", "pi": "huódòng"}
+  ]
+}
